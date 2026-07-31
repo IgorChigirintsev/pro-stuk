@@ -1,0 +1,32 @@
+# Секреты — никогда не коммитить
+.env
+*.jks
+key.properties
+
+# Данные сервера
+data/
+
+# Зависимости и сборки
+node_modules/
+build/
+dist/
+.astro/
+
+# Flutter/Dart
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/android/.gradle/
+app/android/local.properties
+
+# Go
+backend/bin/
+
+# APK публикуется скриптом, но сам файл в репо не храним
+site/public/app/*.apk
+
+# Редакторы и ОС
+.idea/
+.vscode/
+*.swp
+.DS_Store
