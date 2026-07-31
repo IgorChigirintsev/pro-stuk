@@ -147,8 +147,40 @@ https. `API_BASE_URL` по умолчанию `https://api.example.kz` — за�
 
 `applicationId`: `kz.stuk.app`. Сменить: `android/app/build.gradle.kts`
 (`applicationId`) и при желании `namespace` + пакет `MainActivity.kt`.
-`*.jks` и `key.properties` не коммитить — уже в `.gitignore`.
-Подпись release и `scripts/publish-apk.sh` — фаза 4.
+
+### Подпись release
+
+Один раз создать ключ и файл с паролями (оба файла в `.gitignore`,
+в репозиторий не попадают; ключ обязательно сохранить в надёжном месте —
+без него не выпустить обновление под тем же именем):
+
+```sh
+cd app/android
+keytool -genkeypair -v -keystore upload-keystore.jks -alias stuk \
+  -keyalg RSA -keysize 2048 -validity 10000
+
+cat > key.properties <<EOF
+storePassword=<пароль-хранилища>
+keyPassword=<пароль-ключа>
+keyAlias=stuk
+storeFile=upload-keystore.jks
+EOF
+```
+
+`build.gradle.kts` подхватывает `key.properties` автоматически; без него
+release собирается с debug-подписью (для разработки).
+
+### Публикация APK на сайт
+
+```sh
+API_BASE_URL=https://api.<домен> SITE_URL=https://<домен> bash scripts/publish-apk.sh
+```
+
+Скрипт валидирует дерево, копирует `shared/tree.json` в ассеты, собирает
+подписанный release APK и кладёт `stuk.apk` + `version.json` в
+`site/public/app/`. Обновление приложения: поднять `version:` в
+`app/pubspec.yaml`, прогнать скрипт заново и обновить `LATEST_APP_VERSION`
+в `backend/.env` — кнопка «Проверить обновления» сравнивает именно её.
 
 ## Сайт
 
