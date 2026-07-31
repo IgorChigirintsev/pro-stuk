@@ -1,0 +1,180 @@
+// Пакет httpapi — HTTP-слой сервера: маршруты, валидация, коды ошибок.
+package httpapi
+
+import (
+	"context"
+	"encoding/json"
+	"errors"
+	"fmt"
+	"log/slog"
+	"net/http"
+	"time"
+
+	"github.com/go-chi/chi/v5"
+	"github.com/go-chi/chi/v5/middleware"
+
+	"stuk/backend/internal/config"
+	"stuk/backend/internal/dsp"
+	"stuk/backend/internal/report"
+	"stuk/backend/internal/state"
+	"stuk/backend/internal/wavio"
+)
+
+const (
+	maxBodyBytes   = 6 << 20 // 6 МБ
+	minDurationSec = 5.0
+	maxDurationSec = 35.0
+	reportTimeout  = 75 * time.Second
+	ipRateLimit    = 10 // запросов в минуту на IP
+)
+
+type Server struct {
+	cfg      config.Config
+	store    *state.Store
+	analyzer report.Analyzer
+	limiter  *ipLimiter
+}
+
+func New(cfg config.Config, store *state.Store, analyzer report.Analyzer) *Server {
+	return &Server{
+		cfg:      cfg,
+		store:    store,
+		analyzer: analyzer,
+		limiter:  newIPLimiter(ipRateLimit, time.Minute),
+	}
+}
+
+func (s *Server) Router() http.Handler {
+	r := chi.NewRouter()
+	r.Use(middleware.Recoverer)
+	r.Use(logRequests)
+
+	r.Get("/healthz", func(w http.ResponseWriter, _ *http.Request) {
+		w.WriteHeader(http.StatusOK)
+		w.Write([]byte("ok"))
+	})
+
+	r.Get("/api/v1/version", func(w http.ResponseWriter, _ *http.Request) {
+		writeJSON(w, http.StatusOK, map[string]string{
+			"latest_version": s.cfg.LatestVersion,
+			"apk_url":        s.cfg.PublicSiteURL + "/app/stuk.apk",
+		})
+	})
+
+	r.Post("/api/v1/report", s.handleReport)
+	return r
+}
+
+func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
+	ctx, cancel := context.WithTimeout(r.Context(), reportTimeout)
+	defer cancel()
+	r = r.WithContext(ctx)
+
+	if !s.limiter.allow(clientIP(r)) {
+		writeError(w, http.StatusTooManyRequests, "Слишком много запросов, подождите минуту.")
+		return
+	}
+
+	r.Body = http.MaxBytesReader(w, r.Body, maxBodyBytes)
+	if err := r.ParseMultipartForm(maxBodyBytes); err != nil {
+		var maxErr *http.MaxBytesError
+		if errors.As(err, &maxErr) {
+			writeError(w, http.StatusUnprocessableEntity, "Файл больше 6 МБ. Запишите звук заново: 15–30 секунд достаточно.")
+			return
+		}
+		writeError(w, http.StatusUnprocessableEntity, "Запрос повреждён: ожидается multipart с полями audio и meta.")
+		return
+	}
+
+	var meta report.Meta
+	metaRaw := r.FormValue("meta")
+	if metaRaw == "" || json.Unmarshal([]byte(metaRaw), &meta) != nil {
+		writeError(w, http.StatusUnprocessableEntity, "Поле meta отсутствует или содержит некорректный JSON.")
+		return
+	}
+	if meta.DeviceID == "" {
+		writeError(w, http.StatusUnprocessableEntity, "В meta не заполнен device_id.")
+		return
+	}
+
+	file, _, err := r.FormFile("audio")
+	if err != nil {
+		writeError(w, http.StatusUnprocessableEntity, "В запросе нет аудиофайла (поле audio).")
+		return
+	}
+	defer file.Close()
+	audio := make([]byte, 0, 1<<20)
+	buf := make([]byte, 64<<10)
+	for {
+		n, readErr := file.Read(buf)
+		audio = append(audio, buf[:n]...)
+		if readErr != nil {
+			break
+		}
+	}
+
+	samples, err := wavio.Decode(audio)
+	if err != nil {
+		writeError(w, http.StatusUnprocessableEntity, fmt.Sprintf("Не удалось обработать запись: %v. Запишите звук в приложении ещё раз.", err))
+		return
+	}
+	duration := float64(len(samples)) / wavio.RequiredSampleRate
+	if duration < minDurationSec {
+		writeError(w, http.StatusUnprocessableEntity, fmt.Sprintf("Запись слишком короткая (%.1f сек). Нужно от 5 секунд, лучше 15–30.", duration))
+		return
+	}
+	if duration > maxDurationSec {
+		writeError(w, http.StatusUnprocessableEntity, fmt.Sprintf("Запись слишком длинная (%.1f сек). Максимум 35 секунд.", duration))
+		return
+	}
+
+	// Дневной лимит: попытка списывается до анализа и возвращается,
+	// если отчёт не получился по вине сервера.
+	if !s.store.Allow(meta.DeviceID, s.cfg.DailyFreeLimit) {
+		writeError(w, http.StatusTooManyRequests, "Лимит на сегодня исчерпан, возвращайтесь завтра.")
+		return
+	}
+
+	features := dsp.Analyze(samples)
+
+	rep, err := s.analyzer.Analyze(ctx, meta, features, audio)
+	if err != nil {
+		s.store.Refund(meta.DeviceID)
+		slog.Error("анализ не удался", "err", err, "device_id", meta.DeviceID)
+		writeJSON(w, http.StatusBadGateway, map[string]any{
+			"error": "Не получилось проанализировать, попробуйте ещё раз.",
+			"retry": true,
+		})
+		return
+	}
+
+	writeJSON(w, http.StatusOK, struct {
+		report.Report
+		DspSummary dsp.Features `json:"dsp_summary"`
+	}{rep, features})
+}
+
+func writeJSON(w http.ResponseWriter, status int, v any) {
+	w.Header().Set("Content-Type", "application/json; charset=utf-8")
+	w.WriteHeader(status)
+	json.NewEncoder(w).Encode(v)
+}
+
+func writeError(w http.ResponseWriter, status int, msg string) {
+	writeJSON(w, status, map[string]string{"error": msg})
+}
+
+func logRequests(next http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		start := time.Now()
+		ww := middleware.NewWrapResponseWriter(w, r.ProtoMajor)
+		next.ServeHTTP(ww, r)
+		slog.Info("request",
+			"method", r.Method,
+			"path", r.URL.Path,
+			"status", ww.Status(),
+			"ms", time.Since(start).Milliseconds(),
+			"ip", clientIP(r),
+		)
+	})
+}

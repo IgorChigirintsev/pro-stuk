@@ -46,11 +46,44 @@ make site-build      # статическая сборка сайта          (
    пересобрать APK.
 5. Сайт подхватывает дерево при следующем `npm run build`.
 
-## Бэкенд: деплой на VPS
+## Бэкенд
 
-> Заполняется в фазах 1–2. Кратко: Ubuntu VPS → установить docker → `git clone` →
-> создать `.env` по образцу `backend/.env.example` → `docker compose up -d`.
-> API работает за Caddy с автоматическим TLS.
+Go 1.22+, chi, без БД: состояние (дневные лимиты) — in-memory со сбросом в
+`data/state.json`. Логи — slog (JSON). FFT — собственный radix-2 с тестами.
+
+Локальный запуск:
+
+```sh
+make backend-run          # порт 8080; настройки — env или backend/.env
+make backend-test         # go test ./... (DSP-тесты на синтетике)
+```
+
+Без `GEMINI_API_KEY` сервер работает в **мок-режиме** (фаза 1): `/report`
+возвращает тестовый отчёт по боевой схеме + реальный `dsp_summary`.
+
+Эндпоинты:
+- `GET /healthz` — 200.
+- `GET /api/v1/version` — версия приложения и ссылка на APK.
+- `POST /api/v1/report` — multipart: `audio` (WAV PCM16 mono 16 кГц, 5–35 сек,
+  до 6 МБ) + `meta` (JSON: device_id, car, answers, leaf_id).
+  Ошибки: 422 (формат/валидация, человекочитаемая причина), 429 (лимит
+  `DAILY_FREE_LIMIT`/сутки на device_id, текст «Лимит на сегодня исчерпан…»;
+  плюс 10 req/min на IP), 502 (ошибка анализа, можно повторить).
+
+Проверка одной командой (сервер должен быть запущен):
+
+```sh
+cd backend && go run ./cmd/genwav /tmp/stukwav && curl -s \
+  -F "audio=@/tmp/stukwav/knock.wav" \
+  -F 'meta={"device_id":"dev1","car":{"make":"Skoda","model":"Rapid","year":2014,"mileage_km":150000},"answers":[],"leaf_id":"leaf_engine_knock_deep"}' \
+  localhost:8080/api/v1/report
+```
+
+### Деплой на VPS
+
+> Дополняется в фазе 2 (Gemini + Docker + Caddy). Кратко: Ubuntu VPS →
+> установить docker → `git clone` → `.env` по образцу `backend/.env.example` →
+> `docker compose up -d`. API работает за Caddy с автоматическим TLS.
 
 Переменные окружения — см. `backend/.env.example`. Ключи только через env,
 в репозитории ключей нет. `GEMINI_MODEL` по умолчанию `gemini-2.5-flash` —
