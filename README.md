@@ -120,14 +120,35 @@ DNS-запись домена `DOMAIN_API` должна указывать на 
 сам получит TLS-сертификат. Счётчики лимитов живут в `backend/data/`
 (volume), сертификаты — в volume `caddy_data`.
 
-## Приложение: сборка и подпись APK
+## Приложение (Flutter, Android)
 
-> Заполняется в фазах 3–4. Кратко: `keytool` → создать ключ → `key.properties` →
-> `bash scripts/publish-apk.sh` (копирует дерево в ассеты, собирает release APK
-> с `--dart-define=API_BASE_URL=...`, кладёт APK и version.json в `site/public/app/`).
+Экраны: машина (первый запуск) → главный с историей → опросник по дереву →
+предварительный вердикт → запись WAV 16 кГц (пакет `record`, encoder
+pcm16bits + свой WAV-заголовок) → анализ через API → отчёт → шер-карточка
+(RepaintBoundary → PNG → share_plus). Состояние — `ChangeNotifier`, история —
+JSON-файлы в документах приложения. Все строки UI — в `app/lib/strings.dart`,
+дизайн-токены §4 — в `app/lib/theme.dart`.
 
-`applicationId`: `kz.stuk.app` (как сменить — будет описано здесь).
+Сборка и локальная проверка:
+
+```sh
+cd app
+flutter analyze && flutter test
+# debug-сборка на эмулятор (10.0.2.2 = localhost хоста):
+flutter build apk --debug --dart-define=API_BASE_URL=http://10.0.2.2:8080
+# debug-сборка на реальный телефон в той же Wi-Fi-сети:
+flutter build apk --debug --dart-define=API_BASE_URL=http://<IP-компьютера>:8080
+adb install build/app/outputs/flutter-apk/app-debug.apk
+```
+
+Debug-сборка разрешает http (cleartext) для локального API; release — только
+https. `API_BASE_URL` по умолчанию `https://api.example.kz` — задаётся через
+`--dart-define` (см. `scripts/publish-apk.sh` в фазе 4).
+
+`applicationId`: `kz.stuk.app`. Сменить: `android/app/build.gradle.kts`
+(`applicationId`) и при желании `namespace` + пакет `MainActivity.kt`.
 `*.jks` и `key.properties` не коммитить — уже в `.gitignore`.
+Подпись release и `scripts/publish-apk.sh` — фаза 4.
 
 ## Сайт
 

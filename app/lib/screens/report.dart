@@ -1,0 +1,246 @@
+import 'package:flutter/material.dart';
+
+import '../models.dart';
+import '../strings.dart';
+import '../theme.dart';
+import '../widgets.dart';
+import 'share_card.dart';
+
+/// Полный отчёт по звуку.
+class ReportScreen extends StatelessWidget {
+  final ReportData report;
+  final String carLabel;
+  final bool justCreated;
+  const ReportScreen({
+    super.key,
+    required this.report,
+    required this.carLabel,
+    this.justCreated = false,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text(S.repTitle),
+        leading: justCreated
+            ? IconButton(
+                icon: const Icon(Icons.close),
+                onPressed: () =>
+                    Navigator.of(context).popUntil((r) => r.isFirst),
+              )
+            : null,
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.ios_share),
+            tooltip: S.repShare,
+            onPressed: () => Navigator.of(context).push(MaterialPageRoute(
+              builder: (_) =>
+                  ShareCardScreen(report: report, carLabel: carLabel),
+            )),
+          ),
+        ],
+      ),
+      body: SafeArea(
+        child: ListView(
+          padding: const EdgeInsets.all(20),
+          children: [
+            TrafficLightPlaque(
+                urgency: report.urgency, reason: report.urgencyReason),
+            const SectionTitle(S.repCauses),
+            for (final c in report.causes)
+              Padding(
+                padding: const EdgeInsets.only(bottom: 12),
+                child: _CauseCard(cause: c),
+              ),
+            if (report.mechanicBrief.isNotEmpty) ...[
+              const SectionTitle(S.repBrief),
+              SurfaceCard(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    for (final (i, line) in report.mechanicBrief.indexed)
+                      Padding(
+                        padding: const EdgeInsets.symmetric(vertical: 6),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            SizedBox(
+                                width: 24,
+                                child: Text('${i + 1}.',
+                                    style: T.num_(T.fs16, color: T.accent))),
+                            Expanded(
+                                child: Text(line,
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .bodyMedium)),
+                          ],
+                        ),
+                      ),
+                  ],
+                ),
+              ),
+            ],
+            if (report.mechanicQuestions.isNotEmpty) ...[
+              const SectionTitle(S.repQuestions),
+              SurfaceCard(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    for (final q in report.mechanicQuestions)
+                      Padding(
+                        padding: const EdgeInsets.symmetric(vertical: 6),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Padding(
+                              padding: EdgeInsets.only(top: 7),
+                              child: Icon(Icons.circle,
+                                  size: 6, color: T.inkSoft),
+                            ),
+                            const SizedBox(width: 10),
+                            Expanded(
+                                child: Text(q,
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .bodyMedium)),
+                          ],
+                        ),
+                      ),
+                  ],
+                ),
+              ),
+            ],
+            if (report.redFlags.isNotEmpty) ...[
+              const SectionTitle(S.repRedFlags),
+              SurfaceCard(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    for (final f in report.redFlags)
+                      Padding(
+                        padding: const EdgeInsets.symmetric(vertical: 6),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Padding(
+                              padding: EdgeInsets.only(top: 6),
+                              child: Icon(Icons.circle,
+                                  size: 8, color: T.stop),
+                            ),
+                            const SizedBox(width: 10),
+                            Expanded(
+                                child: Text(f,
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .bodyMedium)),
+                          ],
+                        ),
+                      ),
+                  ],
+                ),
+              ),
+            ],
+            const SizedBox(height: 20),
+            Text(
+              report.disclaimer.isNotEmpty
+                  ? report.disclaimer
+                  : S.disclaimerShort,
+              style: Theme.of(context).textTheme.bodySmall,
+            ),
+            const SizedBox(height: 20),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+/// Причина: полоска процента, title, разворачиваемые «Почему» и «Проверить самому».
+class _CauseCard extends StatefulWidget {
+  final Cause cause;
+  const _CauseCard({required this.cause});
+
+  @override
+  State<_CauseCard> createState() => _CauseCardState();
+}
+
+class _CauseCardState extends State<_CauseCard> {
+  bool _open = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final c = widget.cause;
+    return Material(
+      color: T.surface,
+      borderRadius: BorderRadius.circular(T.rCard),
+      child: InkWell(
+        borderRadius: BorderRadius.circular(T.rCard),
+        onTap: () => setState(() => _open = !_open),
+        child: Container(
+          padding: const EdgeInsets.all(16),
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(T.rCard),
+            border: Border.all(color: T.border),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Expanded(
+                    child: Text(c.title,
+                        style: Theme.of(context).textTheme.titleMedium),
+                  ),
+                  const SizedBox(width: 12),
+                  Text('${c.probabilityPct}%', style: T.num_(T.fs18)),
+                ],
+              ),
+              const SizedBox(height: 10),
+              PctBar(pct: c.probabilityPct),
+              AnimatedCrossFade(
+                duration: const Duration(milliseconds: 200),
+                crossFadeState: _open
+                    ? CrossFadeState.showSecond
+                    : CrossFadeState.showFirst,
+                firstChild: const SizedBox(width: double.infinity),
+                secondChild: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const SizedBox(height: 14),
+                    Text(S.repWhy,
+                        style: Theme.of(context)
+                            .textTheme
+                            .bodySmall!
+                            .copyWith(fontWeight: FontWeight.w600)),
+                    const SizedBox(height: 4),
+                    Text(c.why,
+                        style: Theme.of(context).textTheme.bodyMedium),
+                    const SizedBox(height: 12),
+                    Text(S.repCheck,
+                        style: Theme.of(context)
+                            .textTheme
+                            .bodySmall!
+                            .copyWith(fontWeight: FontWeight.w600)),
+                    const SizedBox(height: 4),
+                    Text(c.checkYourself,
+                        style: Theme.of(context).textTheme.bodyMedium),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 4),
+              Center(
+                child: Icon(
+                  _open ? Icons.expand_less : Icons.expand_more,
+                  size: 20,
+                  color: T.inkSoft,
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}

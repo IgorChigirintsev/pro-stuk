@@ -1,0 +1,169 @@
+/// Модели данных: машина, ответы опросника, отчёт, запись истории.
+library;
+
+class Car {
+  final String make;
+  final String model;
+  final int year;
+  final int mileageKm;
+
+  const Car({
+    required this.make,
+    required this.model,
+    required this.year,
+    required this.mileageKm,
+  });
+
+  String get label => '$make $model, $year';
+
+  Map<String, dynamic> toJson() => {
+        'make': make,
+        'model': model,
+        'year': year,
+        'mileage_km': mileageKm,
+      };
+
+  factory Car.fromJson(Map<String, dynamic> j) => Car(
+        make: j['make'] as String? ?? '',
+        model: j['model'] as String? ?? '',
+        year: j['year'] as int? ?? 0,
+        mileageKm: j['mileage_km'] as int? ?? 0,
+      );
+}
+
+/// Ответ на один вопрос опросника: тексты дублируются для сервера.
+class AnswerLog {
+  final String questionId;
+  final String optionId;
+  final String questionText;
+  final String optionLabel;
+
+  const AnswerLog({
+    required this.questionId,
+    required this.optionId,
+    required this.questionText,
+    required this.optionLabel,
+  });
+
+  Map<String, dynamic> toJson() => {
+        'question_id': questionId,
+        'option_id': optionId,
+        'question_text': questionText,
+        'option_label': optionLabel,
+      };
+}
+
+class Cause {
+  final String title;
+  final int probabilityPct;
+  final String why;
+  final String checkYourself;
+
+  const Cause({
+    required this.title,
+    required this.probabilityPct,
+    required this.why,
+    required this.checkYourself,
+  });
+
+  factory Cause.fromJson(Map<String, dynamic> j) => Cause(
+        title: j['title'] as String? ?? '',
+        probabilityPct: (j['probability_pct'] as num?)?.toInt() ?? 0,
+        why: j['why'] as String? ?? '',
+        checkYourself: j['check_yourself'] as String? ?? '',
+      );
+
+  Map<String, dynamic> toJson() => {
+        'title': title,
+        'probability_pct': probabilityPct,
+        'why': why,
+        'check_yourself': checkYourself,
+      };
+}
+
+class ReportData {
+  final List<Cause> causes;
+  final String urgency;
+  final String urgencyReason;
+  final List<String> mechanicBrief;
+  final List<String> mechanicQuestions;
+  final List<String> redFlags;
+  final String disclaimer;
+
+  const ReportData({
+    required this.causes,
+    required this.urgency,
+    required this.urgencyReason,
+    required this.mechanicBrief,
+    required this.mechanicQuestions,
+    required this.redFlags,
+    required this.disclaimer,
+  });
+
+  factory ReportData.fromJson(Map<String, dynamic> j) => ReportData(
+        causes: (j['causes'] as List? ?? [])
+            .map((e) => Cause.fromJson(e as Map<String, dynamic>))
+            .toList(),
+        urgency: j['urgency'] as String? ?? 'warn',
+        urgencyReason: j['urgency_reason'] as String? ?? '',
+        mechanicBrief:
+            (j['mechanic_brief'] as List? ?? []).cast<String>(),
+        mechanicQuestions:
+            (j['mechanic_questions'] as List? ?? []).cast<String>(),
+        redFlags: (j['red_flags'] as List? ?? []).cast<String>(),
+        disclaimer: j['disclaimer'] as String? ?? '',
+      );
+
+  Map<String, dynamic> toJson() => {
+        'causes': causes.map((c) => c.toJson()).toList(),
+        'urgency': urgency,
+        'urgency_reason': urgencyReason,
+        'mechanic_brief': mechanicBrief,
+        'mechanic_questions': mechanicQuestions,
+        'red_flags': redFlags,
+        'disclaimer': disclaimer,
+      };
+}
+
+/// Запись истории: быстрый вердикт по анкете или полный отчёт по звуку.
+class HistoryEntry {
+  final String id; // имя файла
+  final DateTime date;
+  final String carLabel;
+  final String urgency;
+  final String topCause;
+  final bool isFull;
+  final ReportData? report;
+
+  const HistoryEntry({
+    required this.id,
+    required this.date,
+    required this.carLabel,
+    required this.urgency,
+    required this.topCause,
+    required this.isFull,
+    this.report,
+  });
+
+  Map<String, dynamic> toJson() => {
+        'id': id,
+        'date': date.toIso8601String(),
+        'car_label': carLabel,
+        'urgency': urgency,
+        'top_cause': topCause,
+        'is_full': isFull,
+        if (report != null) 'report': report!.toJson(),
+      };
+
+  factory HistoryEntry.fromJson(Map<String, dynamic> j) => HistoryEntry(
+        id: j['id'] as String? ?? '',
+        date: DateTime.tryParse(j['date'] as String? ?? '') ?? DateTime.now(),
+        carLabel: j['car_label'] as String? ?? '',
+        urgency: j['urgency'] as String? ?? 'warn',
+        topCause: j['top_cause'] as String? ?? '',
+        isFull: j['is_full'] as bool? ?? false,
+        report: j['report'] == null
+            ? null
+            : ReportData.fromJson(j['report'] as Map<String, dynamic>),
+      );
+}
