@@ -1,0 +1,4 @@
+# Домен берётся из переменной DOMAIN_API (.env). TLS-сертификат Caddy получает сам.
+{$DOMAIN_API} {
+	reverse_proxy api:8080
+}

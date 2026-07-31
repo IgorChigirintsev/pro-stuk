@@ -11,6 +11,7 @@ import (
 	"time"
 
 	"stuk/backend/internal/config"
+	"stuk/backend/internal/gemini"
 	"stuk/backend/internal/httpapi"
 	"stuk/backend/internal/report"
 	"stuk/backend/internal/state"
@@ -31,12 +32,11 @@ func main() {
 		os.Exit(1)
 	}
 
-	// Фаза 1: анализатор — мок. В фазе 2 при наличии GEMINI_API_KEY
-	// сюда встанет клиент Gemini, а пустой ключ станет фатальной ошибкой.
-	var analyzer report.Analyzer = report.Mock{}
 	if cfg.GeminiAPIKey == "" {
-		slog.Warn("GEMINI_API_KEY не задан: /report работает в мок-режиме (фаза 1)")
+		slog.Error("GEMINI_API_KEY не задан — сервер не стартует. Заполните .env по образцу backend/.env.example")
+		os.Exit(1)
 	}
+	var analyzer report.Analyzer = gemini.New(cfg.GeminiAPIKey, cfg.GeminiModel)
 
 	stop := make(chan struct{})
 	go store.RunAutosave(30*time.Second, stop)

@@ -27,7 +27,7 @@ func Load() (Config, error) {
 	cfg := Config{
 		Port:           getenv("PORT", "8080"),
 		GeminiAPIKey:   os.Getenv("GEMINI_API_KEY"),
-		GeminiModel:    getenv("GEMINI_MODEL", "gemini-2.5-flash"),
+		GeminiModel:    getenv("GEMINI_MODEL", "gemini-flash-latest"),
 		PublicSiteURL:  getenv("PUBLIC_SITE_URL", "https://example.kz"),
 		LatestVersion:  getenv("LATEST_APP_VERSION", "1.0.0"),
 		DataDir:        getenv("DATA_DIR", "data"),

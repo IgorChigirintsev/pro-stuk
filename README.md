@@ -58,8 +58,8 @@ make backend-run          # порт 8080; настройки — env или bac
 make backend-test         # go test ./... (DSP-тесты на синтетике)
 ```
 
-Без `GEMINI_API_KEY` сервер работает в **мок-режиме** (фаза 1): `/report`
-возвращает тестовый отчёт по боевой схеме + реальный `dsp_summary`.
+`GEMINI_API_KEY` обязателен — без него сервер не стартует. Ключ кладётся
+в `backend/.env` (файл в `.gitignore`, в репозиторий не попадает).
 
 Эндпоинты:
 - `GET /healthz` — 200.
@@ -79,15 +79,46 @@ cd backend && go run ./cmd/genwav /tmp/stukwav && curl -s \
   localhost:8080/api/v1/report
 ```
 
-### Деплой на VPS
+### Анализ (Gemini)
 
-> Дополняется в фазе 2 (Gemini + Docker + Caddy). Кратко: Ubuntu VPS →
-> установить docker → `git clone` → `.env` по образцу `backend/.env.example` →
-> `docker compose up -d`. API работает за Caddy с автоматическим TLS.
+`/report` отправляет в Gemini (`v1beta generateContent`) анкету, DSP-фичи
+с уровнями надёжности и само аудио (inline base64), температура 0.2,
+structured output по схеме отчёта. Ошибки Gemini → 502 «Не получилось
+проанализировать, попробуйте ещё раз» + `"retry": true`; попытка дневного
+лимита при этом возвращается.
 
-Переменные окружения — см. `backend/.env.example`. Ключи только через env,
-в репозитории ключей нет. `GEMINI_MODEL` по умолчанию `gemini-2.5-flash` —
-перед запуском проверить актуальное имя flash-модели.
+`GEMINI_MODEL` по умолчанию `gemini-flash-latest` — алиас актуальной
+flash-модели. Перед запуском проверить имя: конкретные версии со временем
+закрываются для новых ключей (например, `gemini-2.5-flash` для ключей
+2026 года уже недоступна). Список доступных моделей:
+
+```sh
+curl -s -H "x-goog-api-key: $GEMINI_API_KEY" \
+  "https://generativelanguage.googleapis.com/v1beta/models" | grep '"name"'
+```
+
+### Деплой на Ubuntu VPS с нуля
+
+```sh
+# 1. Docker (официальный скрипт)
+curl -fsSL https://get.docker.com | sh
+
+# 2. Код
+git clone <адрес-репозитория> stuk && cd stuk/backend
+
+# 3. Конфигурация: заполнить GEMINI_API_KEY, DOMAIN_API, PUBLIC_SITE_URL
+cp .env.example .env && nano .env
+
+# 4. Запуск (api + Caddy с автоматическим TLS на DOMAIN_API)
+docker compose up -d --build
+
+# 5. Проверка
+curl https://<DOMAIN_API>/healthz          # → ok
+```
+
+DNS-запись домена `DOMAIN_API` должна указывать на VPS до запуска — Caddy
+сам получит TLS-сертификат. Счётчики лимитов живут в `backend/data/`
+(volume), сертификаты — в volume `caddy_data`.
 
 ## Приложение: сборка и подпись APK
 
