@@ -33,8 +33,8 @@ const URGENCIES = ["ok", "warn", "stop"];
 const MIN_LEAVES = 16;
 const MIN_OPTIONS = 2;
 const MAX_OPTIONS = 4;
-const MIN_DEPTH = 3; // вопросов на пути от корня до листа
-const MAX_DEPTH = 6;
+const MIN_DEPTH = 2; // вопросов на пути от корня до листа (ветка запуска диагностируется за 2)
+const MAX_DEPTH = 8; // спека давала 3–6, но по решению владельца от 2026-07-31 допускаем глубже ради полноты покрытия
 
 const treePath =
   process.argv[2] ?? join(dirname(fileURLToPath(import.meta.url)), "tree.json");
