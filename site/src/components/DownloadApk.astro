@@ -1,0 +1,42 @@
+---
+/** Блок скачивания APK (§8.1). Версия и размер подтягиваются из version.json. */
+---
+
+<section id="skachat" class="rounded-card border border-line bg-surface p-6 sm:p-8">
+  <h2 class="text-xl font-bold">Приложение для Android</h2>
+  <p class="mt-2 text-ink-soft">
+    Опросник, запись звука и полный отчёт с вероятностями — в приложении «Стук».
+  </p>
+  <a
+    href="/app/stuk.apk"
+    download
+    class="mt-5 inline-block rounded-btn bg-accent px-7 py-4 font-semibold text-white no-underline hover:opacity-90"
+  >
+    Скачать для Android
+  </a>
+  <p class="mt-2 text-s text-ink-soft" data-apk-meta>&nbsp;</p>
+
+  <details class="mt-4 text-s text-ink-soft">
+    <summary class="cursor-pointer font-semibold text-ink">Как установить APK</summary>
+    <ol class="mt-2 list-decimal space-y-1 pl-5">
+      <li>Скачать файл по кнопке выше.</li>
+      <li>Открыть его из уведомления или из «Загрузок».</li>
+      <li>Разрешить установку из этого источника, когда телефон спросит.</li>
+      <li>Установить и открыть приложение.</li>
+    </ol>
+    <p class="mt-2">Когда приложение появится в Google Play, эта страница обновится.</p>
+  </details>
+</section>
+
+<script>
+  // Версия и размер APK — из version.json, который кладёт publish-apk.sh.
+  fetch('/app/version.json')
+    .then((r) => (r.ok ? r.json() : null))
+    .then((v) => {
+      if (!v) return;
+      for (const el of document.querySelectorAll('[data-apk-meta]')) {
+        el.textContent = `Версия ${v.version} · APK ${v.size_mb} МБ · обновлено ${v.updated}`;
+      }
+    })
+    .catch(() => {});
+</script>

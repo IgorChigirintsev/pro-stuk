@@ -1,0 +1,65 @@
+---
+import '../styles/global.css';
+import { SITE_URL, SITE_NAME } from '../../site.config.mjs';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Дополнительный JSON-LD (уже сериализованный объект). */
+  schema?: object;
+}
+
+const { title, description, schema } = Astro.props;
+const canonical = new URL(Astro.url.pathname, SITE_URL).href;
+---
+
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/png" href="/icon.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={new URL('/icon.png', SITE_URL).href} />
+    <meta property="og:locale" content="ru_RU" />
+    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+    <slot name="head" />
+  </head>
+  <body class="bg-bg text-ink text-base">
+    <header class="border-b border-line">
+      <nav class="mx-auto flex max-w-4xl items-center gap-6 px-5 py-4">
+        <a href="/" class="flex items-center gap-2 font-bold text-l text-ink no-underline">
+          <img src="/icon.png" alt="" width="28" height="28" class="rounded-lg" />
+          {SITE_NAME}
+        </a>
+        <div class="ml-auto flex gap-5 text-s">
+          <a href="/simptomy/" class="text-ink-soft hover:text-accent">Симптомы</a>
+          <a href="/kak-eto-rabotaet/" class="text-ink-soft hover:text-accent">Методика</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="mx-auto max-w-4xl px-5 py-10">
+      <slot />
+    </main>
+
+    <footer class="border-t border-line">
+      <div class="mx-auto max-w-4xl px-5 py-8 text-s text-ink-soft">
+        <p class="mb-3">
+          «{SITE_NAME}» даёт вероятностную оценку по симптомам и звуку, а не диагноз.
+          Итоговое решение о ремонте принимает механик после осмотра автомобиля.
+        </p>
+        <p class="flex flex-wrap gap-4">
+          <a href="/kak-eto-rabotaet/" class="hover:text-accent">Как это работает</a>
+          <a href="/politika/" class="hover:text-accent">Политика конфиденциальности</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

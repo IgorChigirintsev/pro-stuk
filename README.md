@@ -184,8 +184,30 @@ API_BASE_URL=https://api.<домен> SITE_URL=https://<домен> bash scripts
 
 ## Сайт
 
-> Заполняется в фазе 5. Кратко: `cd site && npm install && npm run build` → статика
-> в `site/dist/`, APK раздаётся из `site/public/app/`.
+Astro (статика) + Tailwind + React-остров дерева диагностики. Токены §4 —
+в `site/src/styles/global.css` (@theme), Manrope self-hosted через
+`@fontsource-variable/manrope`. Домен задаётся в одном месте —
+`site/site.config.mjs` (плейсхолдер `https://example.kz`, заменить при деплое;
+он же попадает в sitemap и canonical; в `site/public/robots.txt` домен
+поменять руками).
+
+Страницы: главная (hero, 3 шага с CSS-мокапами, блок APK, FAQ),
+`/simptomy/` (индекс по группам), 18 симптом-страниц с уникальными текстами
+500–800 слов и интерактивным деревом (импортирует `shared/tree.json` на этапе
+сборки, стартует с релевантной ветки), `/kak-eto-rabotaet/`, `/politika/`.
+SEO: canonical, OG, sitemap, Schema.org (SoftwareApplication на главной,
+FAQPage на симптом-страницах).
+
+```sh
+cd site && npm install
+npm run dev     # разработка
+npm run build   # статика в site/dist/ (22 страницы + sitemap)
+```
+
+APK раздаётся из `site/public/app/` — кладётся туда скриптом
+`scripts/publish-apk.sh`. Контент симптом-страниц — структурированные файлы
+`site/src/data/symptoms/*.ts`: правки текста делаются там, шаблон один —
+`site/src/pages/simptomy/[slug].astro`.
 
 ## Дисклеймер
 

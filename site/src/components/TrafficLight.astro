@@ -1,0 +1,13 @@
+---
+/** Мини-светофор для таблиц причин: точка + подпись. */
+interface Props {
+  urgency: 'ok' | 'warn' | 'stop';
+}
+const { urgency } = Astro.props;
+const label = { ok: 'можно ехать', warn: 'в сервис на неделе', stop: 'остановиться' }[urgency];
+const dot = { ok: 'bg-ok', warn: 'bg-warn', stop: 'bg-stop' }[urgency];
+---
+
+<span class="inline-flex items-center gap-2 whitespace-nowrap text-s">
+  <span class={`inline-block h-3 w-3 rounded-full ${dot}`}></span>{label}
+</span>
