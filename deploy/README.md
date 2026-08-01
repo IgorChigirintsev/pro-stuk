@@ -18,24 +18,24 @@ Caddy у «Стука» на этом сервере нет — `backend/docker-
 
 ### 1. Купить домен
 
-Например `stuk.kz` на [ps.kz](https://www.ps.kz) (KYC как ИП уже пройден
-для tugo.kz). Дальше в примерах — `stuk.kz`, замените на свой.
+Например `pro-stuk.com` на [ps.kz](https://www.ps.kz) (KYC как ИП уже пройден
+для tugo.kz). Дальше в примерах — `pro-stuk.com`, замените на свой.
 
 ### 2. Cloudflare: зона и DNS
 
-1. Cloudflare → **Add a site** → `stuk.kz` (Free-план).
+1. Cloudflare → **Add a site** → `pro-stuk.com` (Free-план).
 2. Cloudflare выдаст два **nameserver** — прописать их у регистратора
    (ps.kz → домен → NS). Подождать активацию зоны (минуты–часы).
 3. Cloudflare → **DNS → Records** (все **Proxied**, оранжевое облако):
-   - `A  stuk.kz     → <IP сервера>`
+   - `A  pro-stuk.com     → <IP сервера>`
    - `A  www         → <IP сервера>`
    - `A  api         → <IP сервера>`
 4. **SSL/TLS → Overview** → режим **Full (strict)**.
 
 ### 3. Origin-сертификат для нового домена
 
-Cloudflare (зона stuk.kz) → **SSL/TLS → Origin Server → Create Certificate**
-(15 лет, hostnames: `stuk.kz, *.stuk.kz`). Сохранить два блока **на сервере**:
+Cloudflare (зона pro-stuk.com) → **SSL/TLS → Origin Server → Create Certificate**
+(15 лет, hostnames: `pro-stuk.com, *.pro-stuk.com`). Сохранить два блока **на сервере**:
 
 ```sh
 # на сервере
@@ -51,21 +51,21 @@ nano /opt/tugo/deploy/certs/stuk-origin.key   # приватный ключ
 ## Деплой (и любое обновление)
 
 ```sh
-bash deploy/deploy-stuk.sh chigirintsevigor@<IP сервера> stuk.kz api.stuk.kz
+bash deploy/deploy-stuk.sh chigirintsevigor@<IP сервера> pro-stuk.com api.pro-stuk.com
 ```
 
 Скрипт: подставит домен в `site/site.config.mjs` → соберёт release APK
 (`SKIP_APK=1` — пропустить) → соберёт сайт → сгенерирует Caddy-блоки и
 серверный `.env` (из `backend/.env` + домены) → зальёт всё в `/opt/stuk`
 → обновит Caddyfile/compose tugo → запустит `stuk-api` и пересоздаст Caddy
-→ проверит `https://stuk.kz` и `/healthz`.
+→ проверит `https://pro-stuk.com` и `/healthz`.
 
 ## Проверка после деплоя
 
 ```sh
-curl -sI https://stuk.kz                     # 200
-curl -s  https://api.stuk.kz/healthz         # ok
-curl -s  https://stuk.kz/app/version.json    # версия APK
+curl -sI https://pro-stuk.com                     # 200
+curl -s  https://api.pro-stuk.com/healthz         # ok
+curl -s  https://pro-stuk.com/app/version.json    # версия APK
 ```
 
 И полный путь в приложении с телефона (APK теперь собран под боевой API).
