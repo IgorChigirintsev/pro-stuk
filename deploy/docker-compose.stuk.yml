@@ -1,0 +1,23 @@
+# Бэкенд «Стука» на том же сервере, что и tugo.
+# Кладётся в /opt/stuk/docker-compose.yml (это делает deploy-stuk.sh).
+# Своего Caddy нет: порты 80/443 держит Caddy стека tugo, который проксирует
+# api-домен на контейнер stuk-api через общую docker-сеть tugo_default.
+name: stuk
+
+services:
+  api:
+    build: ./backend
+    container_name: stuk-api
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATA_DIR: /app/data
+      TRUST_PROXY: "1" # за Caddy tugo — X-Forwarded-For доверяем
+    volumes:
+      - ./data:/app/data
+    networks:
+      - tugo_default
+
+networks:
+  tugo_default:
+    external: true
