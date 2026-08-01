@@ -14,13 +14,13 @@ import 'report.dart';
 /// При ошибке аудио не перезаписывается — «Повторить» шлёт тот же файл.
 class AnalyzeScreen extends StatefulWidget {
   final File wavFile;
-  final TreeNode leaf;
+  final TreeNode? leaf;
   final List<AnswerLog> answers;
   const AnalyzeScreen({
     super.key,
     required this.wavFile,
-    required this.leaf,
-    required this.answers,
+    this.leaf,
+    this.answers = const [],
   });
 
   @override
@@ -69,7 +69,7 @@ class _AnalyzeScreenState extends State<AnalyzeScreen> {
         deviceId: state.deviceId,
         car: state.car!,
         answers: widget.answers,
-        leafId: widget.leaf.id,
+        leafId: widget.leaf?.id ?? '',
       );
       _stageTimer?.cancel();
       final topCause =

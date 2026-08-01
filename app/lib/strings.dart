@@ -19,6 +19,8 @@ abstract final class S {
 
   // Главный экран
   static const diagnose = 'Диагностировать';
+  static const diagnoseBySound = 'Сразу записать звук';
+  static const diagnoseBySoundNote = 'Без опросника: только запись и анализ';
   static const howItWorksLink = 'Как это работает';
   static const historyTitle = 'История';
   static const historyEmpty =

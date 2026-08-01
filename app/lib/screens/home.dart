@@ -7,6 +7,7 @@ import '../theme.dart';
 import '../widgets.dart';
 import 'how_it_works.dart';
 import 'quiz.dart';
+import 'record.dart';
 import 'report.dart';
 import 'settings.dart';
 
@@ -44,6 +45,18 @@ class HomeScreen extends StatelessWidget {
                 onPressed: () => Navigator.of(context).push(
                     MaterialPageRoute(builder: (_) => const QuizScreen())),
               ),
+            ),
+            const SizedBox(height: 12),
+            OutlinedButton.icon(
+              icon: const Icon(Icons.mic_none),
+              label: const Text(S.diagnoseBySound),
+              onPressed: () => Navigator.of(context).push(
+                  MaterialPageRoute(builder: (_) => const RecordScreen())),
+            ),
+            const SizedBox(height: 4),
+            Center(
+              child: Text(S.diagnoseBySoundNote,
+                  style: Theme.of(context).textTheme.bodySmall),
             ),
             const SizedBox(height: 8),
             Center(

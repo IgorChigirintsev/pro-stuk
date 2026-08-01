@@ -24,9 +24,10 @@ const _minSeconds = 5;
 enum _Phase { intro, denied, recording, recorded }
 
 class RecordScreen extends StatefulWidget {
-  final TreeNode leaf;
+  /// null — путь «сразу по звуку», без опросника.
+  final TreeNode? leaf;
   final List<AnswerLog> answers;
-  const RecordScreen({super.key, required this.leaf, required this.answers});
+  const RecordScreen({super.key, this.leaf, this.answers = const []});
 
   @override
   State<RecordScreen> createState() => _RecordScreenState();
