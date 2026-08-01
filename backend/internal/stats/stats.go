@@ -19,6 +19,7 @@ const keepDays = 35 // хранить чуть больше 28 дней отчё
 type dayCounts struct {
 	Total int            `json:"total"`
 	Pages map[string]int `json:"pages"`
+	Bots  int            `json:"bots,omitempty"` // отфильтрованные заходы ботов
 }
 
 type Store struct {
@@ -68,6 +69,21 @@ func (s *Store) Hit(page string) {
 	s.dirty = true
 }
 
+// HitBot фиксирует отфильтрованный заход бота (без страницы — только счёт).
+func (s *Store) HitBot() {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	key := s.today()
+	d := s.days[key]
+	if d == nil {
+		d = &dayCounts{Pages: map[string]int{}}
+		s.days[key] = d
+		s.prune()
+	}
+	d.Bots++
+	s.dirty = true
+}
+
 // prune удаляет дни старше keepDays (вызывается под мьютексом).
 func (s *Store) prune() {
 	cutoff := time.Now().In(s.loc).AddDate(0, 0, -keepDays).Format("2006-01-02")
@@ -81,6 +97,7 @@ func (s *Store) prune() {
 type PeriodStats struct {
 	Total int            `json:"total"`
 	Pages map[string]int `json:"pages"`
+	Bots  int            `json:"bots"`
 }
 
 type Summary struct {
@@ -95,6 +112,7 @@ func (s *Store) rangeStats(from, to time.Time) PeriodStats {
 	for d := from; !d.After(to); d = d.AddDate(0, 0, 1) {
 		if dc := s.days[d.Format("2006-01-02")]; dc != nil {
 			out.Total += dc.Total
+			out.Bots += dc.Bots
 			for p, n := range dc.Pages {
 				out.Pages[p] += n
 			}

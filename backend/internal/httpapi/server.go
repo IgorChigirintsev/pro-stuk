@@ -190,8 +190,32 @@ func (s *Server) handleHit(w http.ResponseWriter, r *http.Request) {
 		w.WriteHeader(http.StatusBadRequest)
 		return
 	}
-	s.stats.Hit(page)
+	if isBotUA(r.Header.Get("User-Agent")) {
+		s.stats.HitBot()
+	} else {
+		s.stats.Hit(page)
+	}
 	w.WriteHeader(http.StatusNoContent)
+}
+
+// isBotUA — грубый, но честный фильтр: краулеры, headless-браузеры и
+// http-клиенты без браузерного User-Agent людьми не считаются.
+func isBotUA(ua string) bool {
+	if ua == "" {
+		return true
+	}
+	l := strings.ToLower(ua)
+	for _, m := range []string{
+		"bot", "crawler", "spider", "headless", "scrape", "lighthouse",
+		"python", "curl", "wget", "go-http-client", "java/", "libwww",
+		"httpclient", "okhttp", "phantom", "selenium", "playwright",
+		"puppeteer", "monitor", "uptime", "preview", "facebookexternalhit",
+	} {
+		if strings.Contains(l, m) {
+			return true
+		}
+	}
+	return false
 }
 
 // handleStats — сводка для страницы аналитики; доступ по токену.

@@ -77,7 +77,7 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
             a.setAttribute('data-analytics', '');
             nav.appendChild(a);
           }
-        } else if (!location.pathname.startsWith('/analitika')) {
+        } else if (!location.pathname.startsWith('/analitika') && !navigator.webdriver) {
           try {
             navigator.sendBeacon(apiUrl + '/api/v1/hit', location.pathname);
           } catch {}
