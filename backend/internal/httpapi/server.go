@@ -15,6 +15,7 @@ import (
 
 	"stuk/backend/internal/config"
 	"stuk/backend/internal/dsp"
+	"stuk/backend/internal/gemini"
 	"stuk/backend/internal/report"
 	"stuk/backend/internal/state"
 	"stuk/backend/internal/wavio"
@@ -140,6 +141,13 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 	rep, err := s.analyzer.Analyze(ctx, meta, features, audio)
 	if err != nil {
 		s.store.Refund(meta.DeviceID)
+		var notCar *gemini.ErrAudioNotCar
+		if errors.As(err, &notCar) {
+			slog.Info("запись не про автомобиль", "device_id", meta.DeviceID, "note", notCar.Note)
+			writeError(w, http.StatusUnprocessableEntity,
+				"Запись не похожа на звук автомобиля. Подойдите ближе к работающему двигателю или источнику звука и запишите ещё раз — попытка не потрачена.")
+			return
+		}
 		slog.Error("анализ не удался", "err", err, "device_id", meta.DeviceID)
 		writeJSON(w, http.StatusBadGateway, map[string]any{
 			"error": "Не получилось проанализировать, попробуйте ещё раз.",

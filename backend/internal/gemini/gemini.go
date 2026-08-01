@@ -19,6 +19,12 @@ import (
 
 const endpoint = "https://generativelanguage.googleapis.com/v1beta/models/%s:generateContent"
 
+// ErrAudioNotCar: модель уверена, что в записи нет автомобиля,
+// а анкеты, на которую можно опереться, нет.
+type ErrAudioNotCar struct{ Note string }
+
+func (e *ErrAudioNotCar) Error() string { return "запись не про автомобиль: " + e.Note }
+
 type Client struct {
 	apiKey string
 	model  string
@@ -57,6 +63,11 @@ const systemPrompt = `Ты — механик-диагност с 20-летни�
 - Если ответов анкеты нет (пользователь сразу записал звук, не проходя опросник) — опирайся на
   аудио, DSP-признаки и типовые болячки модели. Вероятности в этом случае делай заметно скромнее
   и в mechanic_brief предложи пройти опросник в приложении для уточнения.
+- Поле audio_is_car заполняй честно: true, если в записи слышен автомобиль (двигатель, ходовая,
+  тормоза — хотя бы фоном); false, если запись явно о другом (речь, музыка, помещение, улица без
+  машины, тишина). В audio_note одной фразой опиши, что реально слышно. Диагноз по записи, где
+  машины нет, не выдумывай: при отсутствии анкеты такой отчёт не будет показан пользователю,
+  а при наличии анкеты строй выводы только по ней и прямо скажи об этом.
 - Учитывай типовые болезни этой модели, её возраста и пробега, если уверен в них. Не выдумывай.
 - Никакого запугивания. Спокойный тон медицинского инструмента.
 - Язык простой, разговорный русский. Каждый технический термин расшифруй в скобках простыми словами.
@@ -74,6 +85,8 @@ const systemPrompt = `Ты — механик-диагност с 20-летни�
 var responseSchema = map[string]any{
 	"type": "object",
 	"properties": map[string]any{
+		"audio_is_car":  map[string]any{"type": "boolean"},
+		"audio_note":    map[string]any{"type": "string"},
 		"causes": map[string]any{
 			"type": "array",
 			"items": map[string]any{
@@ -94,7 +107,7 @@ var responseSchema = map[string]any{
 		"red_flags":          map[string]any{"type": "array", "items": map[string]any{"type": "string"}},
 		"disclaimer":         map[string]any{"type": "string"},
 	},
-	"required": []string{"causes", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
+	"required": []string{"audio_is_car", "audio_note", "causes", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
 }
 
 func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Features, audioWav []byte) (report.Report, error) {
@@ -162,10 +175,20 @@ func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Fea
 		return report.Report{}, fmt.Errorf("в ответе Gemini нет кандидатов: %s", truncate(string(respBody), 400))
 	}
 
-	var rep report.Report
+	var full struct {
+		report.Report
+		AudioIsCar *bool  `json:"audio_is_car"`
+		AudioNote  string `json:"audio_note"`
+	}
 	text := parsed.Candidates[0].Content.Parts[0].Text
-	if err := json.Unmarshal([]byte(text), &rep); err != nil {
+	if err := json.Unmarshal([]byte(text), &full); err != nil {
 		return report.Report{}, fmt.Errorf("отчёт не соответствует схеме: %w", err)
+	}
+	rep := full.Report
+	// Запись не про автомобиль и анкеты нет — честный отказ вместо
+	// выдуманного диагноза; хендлер вернёт 422 и попытку лимита.
+	if full.AudioIsCar != nil && !*full.AudioIsCar && len(meta.Answers) == 0 {
+		return report.Report{}, &ErrAudioNotCar{Note: full.AudioNote}
 	}
 	if err := validate(rep); err != nil {
 		return report.Report{}, err
