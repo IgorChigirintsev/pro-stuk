@@ -3,8 +3,8 @@
 *.jks
 key.properties
 
-# Данные сервера
-data/
+# Данные сервера (только backend; site/src/data — контент, он в git)
+backend/data/
 
 # Зависимости и сборки
 node_modules/
@@ -22,11 +22,12 @@ app/android/local.properties
 # Go
 backend/bin/
 
-# APK публикуется скриптом, но сам файл в репо не храним
-site/public/app/*.apk
+# APK и version.json кладёт scripts/publish-apk.sh — артефакты, в репо не храним
+site/public/app/
 
 # Редакторы и ОС
 .idea/
+*.iml
 .vscode/
 *.swp
 .DS_Store
