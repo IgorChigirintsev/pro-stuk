@@ -116,7 +116,3 @@ html {
   padding-left: 1rem;
   color: var(--color-ink-soft);
 }
-
-/* Иконка «Аналитика»: видна только владельцу (атрибут ставится до отрисовки) */
-.nav-analytics { display: none; }
-html[data-admin='1'] .nav-analytics { display: inline-flex; }

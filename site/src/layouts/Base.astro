@@ -31,15 +31,6 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
     <meta property="og:image" content={new URL('/icon.png', SITE_URL).href} />
     <meta property="og:locale" content="ru_RU" />
     {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
-    <script is:inline>
-      // До отрисовки: владелец аналитики помечается атрибутом на <html>,
-      // чтобы иконка «Аналитика» появлялась без сдвига шапки.
-      try {
-        if (localStorage.getItem('stuk_admin_token')) {
-          document.documentElement.dataset.admin = '1';
-        }
-      } catch (e) {}
-    </script>
     <slot name="head" />
   </head>
   <body class="bg-bg text-ink text-base">
@@ -66,14 +57,6 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
               stroke-linejoin="round" aria-hidden="true">
               <path d="M12 7v14"/>
               <path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/>
-            </svg>
-          </a>
-          <a href="/analitika/" class="nav-analytics p-1 text-accent hover:opacity-80" aria-label="Аналитика" title="Аналитика">
-            <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
-              fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round" aria-hidden="true">
-              <path d="M3 3v16a2 2 0 0 0 2 2h16"/>
-              <path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/>
             </svg>
           </a>
           <a href="/stati/" class="p-1 text-ink-soft hover:text-accent" aria-label="Статьи" title="Статьи">
@@ -110,7 +93,24 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
       // вместо этого ей показывается кнопка «Аналитика».
       (() => {
         const token = localStorage.getItem('stuk_admin_token');
-        if (!token && !location.pathname.startsWith('/analitika') && !navigator.webdriver) {
+        if (token) {
+          const nav = document.querySelector('[data-nav]');
+          if (nav && !nav.querySelector('[data-analytics]')) {
+            const a = document.createElement('a');
+            a.href = '/analitika/';
+            a.className = 'p-1 text-accent hover:opacity-80';
+            a.setAttribute('data-analytics', '');
+            a.setAttribute('aria-label', 'Аналитика');
+            a.setAttribute('title', 'Аналитика');
+            a.innerHTML =
+              '<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24" ' +
+              'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" ' +
+              'stroke-linejoin="round" aria-hidden="true">' +
+              '<path d="M3 3v16a2 2 0 0 0 2 2h16"/>' +
+              '<path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/></svg>';
+            nav.appendChild(a);
+          }
+        } else if (!location.pathname.startsWith('/analitika') && !navigator.webdriver) {
           try {
             navigator.sendBeacon(apiUrl + '/api/v1/hit', location.pathname);
           } catch {}
