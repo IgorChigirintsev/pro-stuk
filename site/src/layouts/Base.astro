@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { SITE_URL, SITE_NAME } from '../../site.config.mjs';
+import { SITE_URL, SITE_NAME, API_URL } from '../../site.config.mjs';
 
 interface Props {
   title: string;
@@ -38,7 +38,7 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
           <img src="/icon.png" alt="" width="28" height="28" class="rounded-lg" />
           {SITE_NAME}
         </a>
-        <div class="ml-auto flex gap-5 text-s">
+        <div class="ml-auto flex gap-5 text-s" data-nav>
           <a href="/simptomy/" class="text-ink-soft hover:text-accent">Симптомы</a>
           <a href="/kak-eto-rabotaet/" class="text-ink-soft hover:text-accent">Методика</a>
         </div>
@@ -61,5 +61,28 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
         </p>
       </div>
     </footer>
+    <script is:inline define:vars={{ apiUrl: API_URL }}>
+      // Обезличенный счётчик просмотров: без cookies и идентификаторов.
+      // Машина владельца (с сохранённым ключом аналитики) не учитывается,
+      // вместо этого ей показывается кнопка «Аналитика».
+      (() => {
+        const token = localStorage.getItem('stuk_admin_token');
+        if (token) {
+          const nav = document.querySelector('[data-nav]');
+          if (nav && !nav.querySelector('[data-analytics]')) {
+            const a = document.createElement('a');
+            a.href = '/analitika/';
+            a.textContent = 'Аналитика';
+            a.className = 'text-accent hover:underline';
+            a.setAttribute('data-analytics', '');
+            nav.appendChild(a);
+          }
+        } else if (!location.pathname.startsWith('/analitika')) {
+          try {
+            navigator.sendBeacon(apiUrl + '/api/v1/hit', location.pathname);
+          } catch {}
+        }
+      })();
+    </script>
   </body>
 </html>

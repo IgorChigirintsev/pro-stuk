@@ -3,11 +3,14 @@ package httpapi
 
 import (
 	"context"
+	"crypto/subtle"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"io"
 	"log/slog"
 	"net/http"
+	"strings"
 	"time"
 
 	"github.com/go-chi/chi/v5"
@@ -18,6 +21,7 @@ import (
 	"stuk/backend/internal/gemini"
 	"stuk/backend/internal/report"
 	"stuk/backend/internal/state"
+	"stuk/backend/internal/stats"
 	"stuk/backend/internal/wavio"
 )
 
@@ -30,18 +34,22 @@ const (
 )
 
 type Server struct {
-	cfg      config.Config
-	store    *state.Store
-	analyzer report.Analyzer
-	limiter  *ipLimiter
+	cfg        config.Config
+	store      *state.Store
+	analyzer   report.Analyzer
+	limiter    *ipLimiter
+	stats      *stats.Store
+	hitLimiter *ipLimiter
 }
 
-func New(cfg config.Config, store *state.Store, analyzer report.Analyzer) *Server {
+func New(cfg config.Config, store *state.Store, analyzer report.Analyzer, st *stats.Store) *Server {
 	return &Server{
-		cfg:      cfg,
-		store:    store,
-		analyzer: analyzer,
-		limiter:  newIPLimiter(ipRateLimit, time.Minute),
+		cfg:        cfg,
+		store:      store,
+		analyzer:   analyzer,
+		limiter:    newIPLimiter(ipRateLimit, time.Minute),
+		stats:      st,
+		hitLimiter: newIPLimiter(60, time.Minute),
 	}
 }
 
@@ -63,6 +71,8 @@ func (s *Server) Router() http.Handler {
 	})
 
 	r.Post("/api/v1/report", s.handleReport)
+	r.Post("/api/v1/hit", s.handleHit)
+	r.Get("/api/v1/stats", s.handleStats)
 	return r
 }
 
@@ -160,6 +170,40 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 		report.Report
 		DspSummary dsp.Features `json:"dsp_summary"`
 	}{rep, features})
+}
+
+// handleHit — обезличенный счётчик просмотров: тело запроса = путь страницы.
+// Отправляется сайтом через sendBeacon; ни cookies, ни идентификаторов нет.
+func (s *Server) handleHit(w http.ResponseWriter, r *http.Request) {
+	if !s.hitLimiter.allow(clientIP(r, s.cfg.TrustProxy)) {
+		w.WriteHeader(http.StatusTooManyRequests)
+		return
+	}
+	body, err := io.ReadAll(io.LimitReader(r.Body, 512))
+	if err != nil {
+		w.WriteHeader(http.StatusBadRequest)
+		return
+	}
+	page := strings.TrimSpace(string(body))
+	if !strings.HasPrefix(page, "/") || len(page) > 160 ||
+		strings.Contains(page, "..") || strings.HasPrefix(page, "/analitika") {
+		w.WriteHeader(http.StatusBadRequest)
+		return
+	}
+	s.stats.Hit(page)
+	w.WriteHeader(http.StatusNoContent)
+}
+
+// handleStats — сводка для страницы аналитики; доступ по токену.
+func (s *Server) handleStats(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Access-Control-Allow-Origin", s.cfg.PublicSiteURL)
+	token := r.URL.Query().Get("token")
+	if s.cfg.AnalyticsToken == "" || token == "" ||
+		subtle.ConstantTimeCompare([]byte(token), []byte(s.cfg.AnalyticsToken)) != 1 {
+		writeError(w, http.StatusForbidden, "Нет доступа.")
+		return
+	}
+	writeJSON(w, http.StatusOK, s.stats.Summary())
 }
 
 func writeJSON(w http.ResponseWriter, status int, v any) {

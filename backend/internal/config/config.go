@@ -20,6 +20,7 @@ type Config struct {
 	LatestVersion  string
 	DataDir        string
 	TrustProxy     bool
+	AnalyticsToken string
 }
 
 func Load() (Config, error) {
@@ -33,6 +34,7 @@ func Load() (Config, error) {
 		LatestVersion:  getenv("LATEST_APP_VERSION", "1.0.0"),
 		DataDir:        getenv("DATA_DIR", "data"),
 		TrustProxy:     os.Getenv("TRUST_PROXY") == "1",
+		AnalyticsToken: os.Getenv("ANALYTICS_TOKEN"),
 		DailyFreeLimit: 3,
 	}
 

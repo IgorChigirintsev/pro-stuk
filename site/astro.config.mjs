@@ -6,7 +6,7 @@ import { SITE_URL } from './site.config.mjs';
 
 export default defineConfig({
   site: SITE_URL,
-  integrations: [react(), sitemap()],
+  integrations: [react(), sitemap({ filter: (page) => !page.includes('/analitika') })],
   vite: {
     plugins: [tailwindcss()],
     // Дерево решений импортируется из ../shared за пределами корня сайта.

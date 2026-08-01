@@ -15,6 +15,7 @@ import (
 	"stuk/backend/internal/httpapi"
 	"stuk/backend/internal/report"
 	"stuk/backend/internal/state"
+	"stuk/backend/internal/stats"
 )
 
 func main() {
@@ -38,12 +39,19 @@ func main() {
 	}
 	var analyzer report.Analyzer = gemini.New(cfg.GeminiAPIKey, cfg.GeminiModel)
 
+	statsStore, err := stats.Open(cfg.DataDir, os.Getenv("ANALYTICS_TZ"))
+	if err != nil {
+		slog.Error("не удалось открыть счётчики аналитики", "err", err)
+		os.Exit(1)
+	}
+
 	stop := make(chan struct{})
 	go store.RunAutosave(30*time.Second, stop)
+	go statsStore.RunAutosave(30*time.Second, stop)
 
 	srv := &http.Server{
 		Addr:              ":" + cfg.Port,
-		Handler:           httpapi.New(cfg, store, analyzer).Router(),
+		Handler:           httpapi.New(cfg, store, analyzer, statsStore).Router(),
 		ReadHeaderTimeout: 10 * time.Second,
 		// Полный приём тела и ответ ограничены: медленный клиент (slow-loris)
 		// не держит горутину и память бесконечно. 120с покрывают загрузку
@@ -70,5 +78,6 @@ func main() {
 	srv.Shutdown(shutdownCtx)
 	close(stop)
 	store.Save()
+	statsStore.Save()
 	slog.Info("сервер остановлен")
 }
