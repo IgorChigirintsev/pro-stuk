@@ -40,16 +40,27 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
           <img src="/icon.png" alt="" width="28" height="28" class="rounded-lg" />
           {SITE_NAME}
         </a>
-        <div class="ml-auto flex items-center gap-5 text-s" data-nav>
-          <a href="/simptomy/" class="text-ink-soft hover:text-accent">Симптомы</a>
-          <a href="/kak-eto-rabotaet/" class="text-ink-soft hover:text-accent">Методика</a>
-          <a
-            href="/stati/"
-            class="text-ink-soft hover:text-accent"
-            aria-label="Статьи"
-            title="Статьи"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+        <!-- Иконки навигации: подписи в title и aria-label -->
+        <div class="ml-auto flex items-center gap-4" data-nav>
+          <a href="/simptomy/" class="p-1 text-ink-soft hover:text-accent" aria-label="Симптомы" title="Симптомы">
+            <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
+              fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round" aria-hidden="true">
+              <path d="M11 2v2"/><path d="M5 2v2"/>
+              <path d="M5 3H4a2 2 0 0 0-2 2v4a6 6 0 0 0 12 0V5a2 2 0 0 0-2-2h-1"/>
+              <path d="M8 15a6 6 0 0 0 12 0v-3"/><circle cx="20" cy="10" r="2"/>
+            </svg>
+          </a>
+          <a href="/kak-eto-rabotaet/" class="p-1 text-ink-soft hover:text-accent" aria-label="Как это работает" title="Как это работает">
+            <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
+              fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round" aria-hidden="true">
+              <path d="M12 7v14"/>
+              <path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/>
+            </svg>
+          </a>
+          <a href="/stati/" class="p-1 text-ink-soft hover:text-accent" aria-label="Статьи" title="Статьи">
+            <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
               stroke-linejoin="round" aria-hidden="true">
               <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/>
@@ -87,9 +98,16 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
           if (nav && !nav.querySelector('[data-analytics]')) {
             const a = document.createElement('a');
             a.href = '/analitika/';
-            a.textContent = 'Аналитика';
-            a.className = 'text-accent hover:underline';
+            a.className = 'p-1 text-accent hover:opacity-80';
             a.setAttribute('data-analytics', '');
+            a.setAttribute('aria-label', 'Аналитика');
+            a.setAttribute('title', 'Аналитика');
+            a.innerHTML =
+              '<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24" ' +
+              'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" ' +
+              'stroke-linejoin="round" aria-hidden="true">' +
+              '<path d="M3 3v16a2 2 0 0 0 2 2h16"/>' +
+              '<path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/></svg>';
             nav.appendChild(a);
           }
         } else if (!location.pathname.startsWith('/analitika') && !navigator.webdriver) {
