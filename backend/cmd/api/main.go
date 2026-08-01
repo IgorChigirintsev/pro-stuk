@@ -45,6 +45,12 @@ func main() {
 		Addr:              ":" + cfg.Port,
 		Handler:           httpapi.New(cfg, store, analyzer).Router(),
 		ReadHeaderTimeout: 10 * time.Second,
+		// Полный приём тела и ответ ограничены: медленный клиент (slow-loris)
+		// не держит горутину и память бесконечно. 120с покрывают загрузку
+		// 6 МБ на медленной сети + 75с анализа.
+		ReadTimeout:  120 * time.Second,
+		WriteTimeout: 120 * time.Second,
+		IdleTimeout:  60 * time.Second,
 	}
 
 	go func() {

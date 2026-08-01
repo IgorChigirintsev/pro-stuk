@@ -47,7 +47,7 @@ func New(cfg config.Config, store *state.Store, analyzer report.Analyzer) *Serve
 func (s *Server) Router() http.Handler {
 	r := chi.NewRouter()
 	r.Use(middleware.Recoverer)
-	r.Use(logRequests)
+	r.Use(s.logRequests)
 
 	r.Get("/healthz", func(w http.ResponseWriter, _ *http.Request) {
 		w.WriteHeader(http.StatusOK)
@@ -70,7 +70,7 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 	defer cancel()
 	r = r.WithContext(ctx)
 
-	if !s.limiter.allow(clientIP(r)) {
+	if !s.limiter.allow(clientIP(r, s.cfg.TrustProxy)) {
 		writeError(w, http.StatusTooManyRequests, "Слишком много запросов, подождите минуту.")
 		return
 	}
@@ -164,7 +164,7 @@ func writeError(w http.ResponseWriter, status int, msg string) {
 	writeJSON(w, status, map[string]string{"error": msg})
 }
 
-func logRequests(next http.Handler) http.Handler {
+func (s *Server) logRequests(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		start := time.Now()
 		ww := middleware.NewWrapResponseWriter(w, r.ProtoMajor)
@@ -174,7 +174,7 @@ func logRequests(next http.Handler) http.Handler {
 			"path", r.URL.Path,
 			"status", ww.Status(),
 			"ms", time.Since(start).Milliseconds(),
-			"ip", clientIP(r),
+			"ip", clientIP(r, s.cfg.TrustProxy),
 		)
 	})
 }

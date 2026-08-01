@@ -5,7 +5,21 @@ import TreeWidget from '../../components/TreeWidget.tsx';
 import DownloadApk from '../../components/DownloadApk.astro';
 import { SYMPTOMS } from '../../data/types';
 
+import treeData from '../../../../shared/tree.json';
+
 export function getStaticPaths() {
+  // Билд падает с внятной ошибкой, если startNode пропал из дерева
+  // (иначе виджет молча отрендерил бы пустой блок).
+  const nodes = (treeData as { nodes: Record<string, { type: string }> }).nodes;
+  for (const page of SYMPTOMS) {
+    const node = nodes[page.startNode];
+    if (!node) {
+      throw new Error(`Симптом «${page.slug}»: startNode «${page.startNode}» нет в shared/tree.json`);
+    }
+    if (node.type !== 'question') {
+      throw new Error(`Симптом «${page.slug}»: startNode «${page.startNode}» — лист, а не вопрос`);
+    }
+  }
   return SYMPTOMS.map((page) => ({ params: { slug: page.slug }, props: { page } }));
 }
 

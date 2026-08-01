@@ -18,8 +18,8 @@ echo "==> Копирование дерева в ассеты приложени
 cp "$ROOT/shared/tree.json" "$ROOT/app/assets/tree.json"
 
 if [ ! -f "$ROOT/app/android/key.properties" ]; then
-  echo "ОШИБКА: нет app/android/key.properties — release будет с debug-подписью." >&2
-  echo "Создайте ключ по инструкции в README (раздел «Подпись release»)." >&2
+  echo "ОШИБКА: нет app/android/key.properties — публикация отменена." >&2
+  echo "Без него release-APK был бы с debug-подписью. Создайте ключ по README (раздел «Подпись release»)." >&2
   exit 1
 fi
 

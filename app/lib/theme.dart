@@ -110,8 +110,14 @@ ThemeData buildTheme() {
     textButtonTheme: TextButtonThemeData(
       style: TextButton.styleFrom(
         foregroundColor: T.accent,
+        minimumSize: const Size(64, T.tap), // тап-цели минимум 56dp (§4)
         textStyle:
             GoogleFonts.manrope(fontSize: T.fs16, fontWeight: FontWeight.w600),
+      ),
+    ),
+    iconButtonTheme: IconButtonThemeData(
+      style: IconButton.styleFrom(
+        minimumSize: const Size(T.tap, T.tap),
       ),
     ),
     inputDecorationTheme: InputDecorationTheme(

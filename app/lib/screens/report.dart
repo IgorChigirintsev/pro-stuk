@@ -32,7 +32,7 @@ class ReportScreen extends StatelessWidget {
             : null,
         actions: [
           IconButton(
-            icon: const Icon(Icons.ios_share),
+            icon: const Icon(Icons.share),
             tooltip: S.repShare,
             onPressed: () => Navigator.of(context).push(MaterialPageRoute(
               builder: (_) =>

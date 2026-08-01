@@ -18,6 +18,7 @@ type Store struct {
 	date   string
 	counts map[string]int
 	dirty  bool
+	seq    uint64 // растёт при каждом изменении: Save не съест параллельный инкремент
 }
 
 type snapshot struct {
@@ -58,6 +59,7 @@ func (s *Store) Allow(deviceID string, limit int) bool {
 	}
 	s.counts[deviceID]++
 	s.dirty = true
+	s.seq++
 	return true
 }
 
@@ -69,6 +71,7 @@ func (s *Store) Refund(deviceID string) {
 	if s.counts[deviceID] > 0 {
 		s.counts[deviceID]--
 		s.dirty = true
+		s.seq++
 	}
 }
 
@@ -77,19 +80,23 @@ func (s *Store) rollover() {
 		s.date = d
 		s.counts = map[string]int{}
 		s.dirty = true
+		s.seq++
 	}
 }
 
 // Save сбрасывает состояние на диск, если были изменения.
+// dirty снимается только после успешной записи: при ошибке диска
+// следующий тик автосейва повторит попытку.
 func (s *Store) Save() {
 	s.mu.Lock()
 	if !s.dirty {
 		s.mu.Unlock()
 		return
 	}
+	// Marshal под мьютексом: counts — живая map, снаружи её меняют хендлеры.
 	snap := snapshot{Date: s.date, Counts: s.counts}
+	seq := s.seq
 	raw, err := json.Marshal(snap)
-	s.dirty = false
 	s.mu.Unlock()
 	if err != nil {
 		return
@@ -101,7 +108,13 @@ func (s *Store) Save() {
 	}
 	if err := os.Rename(tmp, s.path); err != nil {
 		slog.Error("не удалось сохранить состояние", "err", err)
+		return
 	}
+	s.mu.Lock()
+	if s.seq == seq {
+		s.dirty = false
+	}
+	s.mu.Unlock()
 }
 
 // RunAutosave периодически сохраняет состояние, пока не закроется stop.

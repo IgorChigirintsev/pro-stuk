@@ -18,6 +18,7 @@ class QuizScreen extends StatefulWidget {
 class _QuizScreenState extends State<QuizScreen> {
   final List<String> _path = [];
   final List<AnswerLog> _answers = [];
+  bool _navigating = false; // защита от двойного тапа по варианту
 
   String get _currentId => _path.isEmpty ? tree.rootId : _path.last;
 
@@ -29,6 +30,7 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   void _choose(String questionId, String optionId) {
+    if (_navigating) return;
     final node = tree.node(questionId);
     final option = node.options.firstWhere((o) => o.id == optionId);
     _answers.add(AnswerLog(
@@ -39,12 +41,14 @@ class _QuizScreenState extends State<QuizScreen> {
     ));
     final next = tree.node(option.next);
     if (next.isLeaf) {
+      _navigating = true;
       Navigator.of(context)
           .push(MaterialPageRoute(
               builder: (_) =>
                   VerdictScreen(leaf: next, answers: List.of(_answers))))
           .then((_) {
         // Возврат с вердикта — шаг назад, чтобы можно было поправить ответ.
+        _navigating = false;
         if (mounted) setState(() => _answers.removeLast());
       });
     } else {

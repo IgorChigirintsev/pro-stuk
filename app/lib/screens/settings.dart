@@ -37,6 +37,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
       _apkUrl = null;
     });
     try {
+      // Не сравнивать с пустой версией, если PackageInfo ещё не разрешился.
+      if (_version.isEmpty) {
+        _version = (await PackageInfo.fromPlatform()).version;
+      }
       final v = await ApiClient().getVersion();
       if (!mounted) return;
       setState(() {

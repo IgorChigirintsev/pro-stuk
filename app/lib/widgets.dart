@@ -39,12 +39,14 @@ class TrafficLightPlaque extends StatelessWidget {
           ),
           if (reason != null && reason!.isNotEmpty) ...[
             const SizedBox(height: 4),
+            // Полубелый текст на warn/ok не проходит по контрасту —
+            // только чистый белый и полужирный (крупный текст, WCAG 3:1).
             Text(
               reason!,
-              style: Theme.of(context)
-                  .textTheme
-                  .bodyMedium!
-                  .copyWith(color: Colors.white.withValues(alpha: 0.92)),
+              style: Theme.of(context).textTheme.titleMedium!.copyWith(
+                    color: Colors.white,
+                    fontWeight: FontWeight.w700,
+                  ),
             ),
           ],
         ],

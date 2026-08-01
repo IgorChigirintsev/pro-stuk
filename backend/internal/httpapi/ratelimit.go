@@ -63,9 +63,11 @@ func (l *ipLimiter) gc() {
 	}
 }
 
-// clientIP: за Caddy реальный адрес приходит в X-Forwarded-For.
-func clientIP(r *http.Request) string {
-	if xff := r.Header.Get("X-Forwarded-For"); xff != "" {
+// clientIP: X-Forwarded-For учитывается только когда api стоит за доверенным
+// прокси (TRUST_PROXY=1, в compose это Caddy) — иначе заголовок подделывается
+// клиентом и обходит rate limit.
+func clientIP(r *http.Request, trustProxy bool) string {
+	if xff := r.Header.Get("X-Forwarded-For"); trustProxy && xff != "" {
 		if first, _, ok := strings.Cut(xff, ","); ok {
 			return strings.TrimSpace(first)
 		}

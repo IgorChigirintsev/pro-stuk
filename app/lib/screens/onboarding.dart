@@ -17,36 +17,38 @@ class OnboardingCarScreen extends StatefulWidget {
 }
 
 class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
-  final _makeCtrl = TextEditingController();
   final _modelCtrl = TextEditingController();
   final _mileageCtrl = TextEditingController();
+  TextEditingController? _makeFieldCtrl; // внутренний контроллер Autocomplete
+  String _initialMake = '';
   int _year = 2015;
   String? _error;
+  bool _prefilled = false;
 
   @override
-  void initState() {
-    super.initState();
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      final car = AppScope.of(context).car;
-      if (car != null) {
-        _makeCtrl.text = car.make;
-        _modelCtrl.text = car.model;
-        _mileageCtrl.text = car.mileageKm.toString();
-        setState(() => _year = car.year);
-      }
-    });
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // Предзаполнение при редактировании: до первого build, один раз.
+    if (_prefilled) return;
+    _prefilled = true;
+    final car = AppScope.of(context).car;
+    if (car != null) {
+      _initialMake = car.make;
+      _modelCtrl.text = car.model;
+      _mileageCtrl.text = car.mileageKm.toString();
+      _year = car.year;
+    }
   }
 
   @override
   void dispose() {
-    _makeCtrl.dispose();
     _modelCtrl.dispose();
     _mileageCtrl.dispose();
     super.dispose();
   }
 
   Future<void> _save() async {
-    final make = _makeCtrl.text.trim();
+    final make = (_makeFieldCtrl?.text ?? _initialMake).trim();
     final model = _modelCtrl.text.trim();
     final mileage = int.tryParse(_mileageCtrl.text.trim());
     if (make.isEmpty || model.isEmpty || mileage == null) {
@@ -85,19 +87,15 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
             Text(S.carMake, style: Theme.of(context).textTheme.titleMedium),
             const SizedBox(height: 8),
             Autocomplete<String>(
+              initialValue: TextEditingValue(text: _initialMake),
               optionsBuilder: (v) {
                 final q = v.text.trim().toLowerCase();
                 if (q.isEmpty) return const Iterable<String>.empty();
                 return S.makes
                     .where((m) => m.toLowerCase().startsWith(q));
               },
-              onSelected: (v) => _makeCtrl.text = v,
               fieldViewBuilder: (context, ctrl, focus, onSubmit) {
-                // Синхронизация с внешним контроллером (редактирование).
-                if (ctrl.text.isEmpty && _makeCtrl.text.isNotEmpty) {
-                  ctrl.text = _makeCtrl.text;
-                }
-                ctrl.addListener(() => _makeCtrl.text = ctrl.text);
+                _makeFieldCtrl = ctrl; // значение читается при сохранении
                 return TextField(
                   controller: ctrl,
                   focusNode: focus,

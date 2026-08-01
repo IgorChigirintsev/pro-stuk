@@ -19,6 +19,7 @@ type Config struct {
 	PublicSiteURL  string
 	LatestVersion  string
 	DataDir        string
+	TrustProxy     bool
 }
 
 func Load() (Config, error) {
@@ -31,6 +32,7 @@ func Load() (Config, error) {
 		PublicSiteURL:  getenv("PUBLIC_SITE_URL", "https://example.kz"),
 		LatestVersion:  getenv("LATEST_APP_VERSION", "1.0.0"),
 		DataDir:        getenv("DATA_DIR", "data"),
+		TrustProxy:     os.Getenv("TRUST_PROXY") == "1",
 		DailyFreeLimit: 3,
 	}
 

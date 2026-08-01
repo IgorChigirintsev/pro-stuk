@@ -37,7 +37,11 @@ class _AnalyzeScreenState extends State<AnalyzeScreen> {
   @override
   void initState() {
     super.initState();
-    _run();
+    // AppScope (InheritedWidget) нельзя трогать из initState —
+    // старт после первого кадра.
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (mounted) _run();
+    });
   }
 
   @override

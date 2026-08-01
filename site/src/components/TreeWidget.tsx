@@ -36,7 +36,10 @@ export default function TreeWidget({ startNode }: { startNode: string }) {
   const back = () => setPath((p) => (p.length > 1 ? p.slice(0, -1) : p));
 
   return (
-    <div className="rounded-card border border-line bg-surface p-5 sm:p-6">
+    <div
+      className="rounded-card border border-line bg-surface p-5 sm:p-6"
+      aria-live="polite"
+    >
       {node.type === 'question' ? (
         <>
           <p className="text-l font-bold">{node.text}</p>
@@ -55,9 +58,11 @@ export default function TreeWidget({ startNode }: { startNode: string }) {
         </>
       ) : (
         <>
+          {/* Текст на цветной плашке — только чистый белый и полужирный:
+              на warn/ok обычный текст не проходит контраст WCAG. */}
           <div className={`rounded-card p-5 text-white ${URGENCY[node.urgency!].bg}`}>
             <p className="text-xl font-bold">{URGENCY[node.urgency!].verb}</p>
-            <p className="mt-1 opacity-95">{node.top_cause}</p>
+            <p className="mt-1 text-l font-bold">{node.top_cause}</p>
           </div>
           {node.explanation && <p className="mt-4 text-ink-soft">{node.explanation}</p>}
           <a

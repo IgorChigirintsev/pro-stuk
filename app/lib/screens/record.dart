@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:record/record.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 import '../models.dart';
 import '../strings.dart';
@@ -74,7 +75,11 @@ class _RecordScreenState extends State<RecordScreen>
   }
 
   Future<void> _askAndStart() async {
-    // Объясняющий экран — до системного диалога (§7 спеки).
+    // Объясняющий экран — до ПЕРВОГО системного диалога (§7 спеки).
+    // Если разрешение уже спрашивали, повторно не показываем (флаг в prefs).
+    final prefs = await SharedPreferences.getInstance();
+    _micExplained = _micExplained || (prefs.getBool('mic_explained') ?? false);
+    if (!mounted) return;
     if (!_micExplained) {
       final go = await showDialog<bool>(
         context: context,
@@ -93,10 +98,11 @@ class _RecordScreenState extends State<RecordScreen>
       );
       if (go != true) return;
       _micExplained = true;
+      await prefs.setBool('mic_explained', true);
     }
     final allowed = await _recorder.hasPermission(); // системный диалог
     if (!allowed) {
-      setState(() => _phase = _Phase.denied);
+      if (mounted) setState(() => _phase = _Phase.denied);
       return;
     }
     await _startRecording();
@@ -110,14 +116,26 @@ class _RecordScreenState extends State<RecordScreen>
     _elapsed = 0;
     _hint = null;
 
-    await _recorder.start(
-      const RecordConfig(
-        encoder: AudioEncoder.pcm16bits,
-        sampleRate: 16000,
-        numChannels: 1,
-      ),
-      path: pcmPath,
-    );
+    try {
+      await _recorder.start(
+        const RecordConfig(
+          encoder: AudioEncoder.pcm16bits,
+          sampleRate: 16000,
+          numChannels: 1,
+        ),
+        path: pcmPath,
+      );
+    } catch (_) {
+      // Микрофон занят (звонок, другое приложение) или недоступен.
+      if (mounted) {
+        setState(() {
+          _phase = _Phase.intro;
+          _hint = 'Не удалось включить микрофон. Закройте другие приложения, '
+              'использующие звук, и попробуйте ещё раз.';
+        });
+      }
+      return;
+    }
 
     _ampSub = _recorder
         .onAmplitudeChanged(const Duration(milliseconds: 120))

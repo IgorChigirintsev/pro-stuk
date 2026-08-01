@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 import 'screens/home.dart';
 import 'screens/onboarding.dart';
@@ -11,6 +12,8 @@ late DecisionTree tree;
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // Manrope забандлен в assets/google_fonts — работаем офлайн, без догрузки.
+  GoogleFonts.config.allowRuntimeFetching = false;
   final state = AppState();
   await state.init();
   tree = await DecisionTree.load();

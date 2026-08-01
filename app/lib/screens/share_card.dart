@@ -68,7 +68,7 @@ class _ShareCardScreenState extends State<ShareCardScreen> {
             Padding(
               padding: const EdgeInsets.fromLTRB(20, 0, 20, 20),
               child: ElevatedButton.icon(
-                icon: const Icon(Icons.ios_share),
+                icon: const Icon(Icons.share),
                 label: const Text(S.repShare),
                 onPressed: _sharing ? null : _share,
               ),

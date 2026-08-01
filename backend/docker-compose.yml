@@ -5,6 +5,7 @@ services:
     env_file: .env
     environment:
       DATA_DIR: /app/data
+      TRUST_PROXY: "1"  # api стоит за Caddy — X-Forwarded-For доверяем
     volumes:
       - ./data:/app/data
     expose:
@@ -15,7 +16,9 @@ services:
     restart: unless-stopped
     depends_on:
       - api
-    env_file: .env
+    # Caddy не получает секреты: из .env ему нужен только домен.
+    environment:
+      DOMAIN_API: ${DOMAIN_API}
     ports:
       - "80:80"
       - "443:443"
