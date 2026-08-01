@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const articles = (await getCollection('articles')).sort((a, b) =>
+  (b.data.updated ?? b.data.pubDate).localeCompare(a.data.updated ?? a.data.pubDate)
+);
+
+function fmtDate(iso: string) {
+  const months = [
+    'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
+    'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
+  ];
+  const [y, m, d] = iso.split('-').map(Number);
+  return `${d} ${months[(m ?? 1) - 1]} ${y}`;
+}
+---
+
+<Base
+  title="Статьи о звуках и неисправностях автомобиля | Стук"
+  description="Разборы автомобильных звуков и неисправностей: признаки износа узлов, можно ли ехать, как проверить самому. Практичные статьи без воды."
+>
+  <h1 class="text-2xl font-bold sm:text-3xl">Статьи</h1>
+  <p class="mt-4 max-w-2xl text-ink-soft">
+    Практичные разборы: как звучат неисправности, насколько это срочно
+    и что можно проверить самому до сервиса.
+  </p>
+
+  <ul class="mt-8 grid gap-4 sm:grid-cols-2">
+    {articles.map((a) => (
+      <li>
+        <a
+          href={`/stati/${a.id}/`}
+          class="block h-full rounded-card border border-line bg-surface p-5 no-underline hover:border-accent"
+        >
+          <p class="font-bold text-l text-ink">{a.data.title}</p>
+          <p class="mt-2 text-s text-ink-soft">{a.data.description}</p>
+          <p class="mt-3 text-s text-ink-soft">{fmtDate(a.data.updated ?? a.data.pubDate)}</p>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>

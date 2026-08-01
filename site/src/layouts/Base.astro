@@ -7,9 +7,11 @@ interface Props {
   description: string;
   /** Дополнительный JSON-LD (уже сериализованный объект). */
   schema?: object;
+  /** Широкий контейнер (статьи с боковыми карточками). */
+  wide?: boolean;
 }
 
-const { title, description, schema } = Astro.props;
+const { title, description, schema, wide = false } = Astro.props;
 const canonical = new URL(Astro.url.pathname, SITE_URL).href;
 ---
 
@@ -38,14 +40,27 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
           <img src="/icon.png" alt="" width="28" height="28" class="rounded-lg" />
           {SITE_NAME}
         </a>
-        <div class="ml-auto flex gap-5 text-s" data-nav>
+        <div class="ml-auto flex items-center gap-5 text-s" data-nav>
           <a href="/simptomy/" class="text-ink-soft hover:text-accent">Симптомы</a>
           <a href="/kak-eto-rabotaet/" class="text-ink-soft hover:text-accent">Методика</a>
+          <a
+            href="/stati/"
+            class="text-ink-soft hover:text-accent"
+            aria-label="Статьи"
+            title="Статьи"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+              fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round" aria-hidden="true">
+              <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/>
+              <path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/>
+            </svg>
+          </a>
         </div>
       </nav>
     </header>
 
-    <main class="mx-auto max-w-4xl px-5 py-10">
+    <main class={`mx-auto px-5 py-10 ${wide ? 'max-w-7xl' : 'max-w-4xl'}`}>
       <slot />
     </main>
 
