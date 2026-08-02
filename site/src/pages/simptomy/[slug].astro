@@ -4,6 +4,7 @@ import TrafficLight from '../../components/TrafficLight.astro';
 import TreeWidget from '../../components/TreeWidget.tsx';
 import DownloadApk from '../../components/DownloadApk.astro';
 import { SYMPTOMS } from '../../data/types';
+import { getCollection } from 'astro:content';
 
 import treeData from '../../../../shared/tree.json';
 
@@ -24,6 +25,13 @@ export function getStaticPaths() {
 }
 
 const { page } = Astro.props;
+
+// Статьи, ссылающиеся на этот симптом, — обратная перелинковка кластеров.
+const allArticles = await getCollection('articles');
+const articlesForSymptom = allArticles
+  .filter((a) => a.body?.includes(`/simptomy/${page.slug}/`))
+  .sort((a, b) => (b.data.updated ?? b.data.pubDate).localeCompare(a.data.updated ?? a.data.pubDate))
+  .slice(0, 6);
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -91,6 +99,24 @@ const faqSchema = {
         </details>
       ))}
     </div>
+
+    {articlesForSymptom.length > 0 && (
+      <>
+        <h2 class="mt-10 text-xl font-bold">Статьи по теме</h2>
+        <ul class="mt-4 grid gap-3 sm:grid-cols-2">
+          {articlesForSymptom.map((a) => (
+            <li>
+              <a
+                href={`/stati/${a.id}/`}
+                class="block h-full rounded-card border border-line bg-surface p-4 text-ink no-underline hover:border-accent"
+              >
+                {a.data.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
 
     <div class="mt-12">
       <DownloadApk />
