@@ -1,4 +1,5 @@
-import { readFileSync, readdirSync } from 'node:fs';
+import { execSync } from 'node:child_process';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
@@ -17,6 +18,34 @@ const artDates = Object.fromEntries(
     })
 );
 
+// Дата последнего изменения файла по git — честный lastmod
+// для страниц вне коллекции статей.
+function gitDate(file) {
+  if (!existsSync(file)) return undefined;
+  try {
+    const out = execSync(`git log -1 --format=%cI -- "${file}"`, {
+      encoding: 'utf8',
+      stdio: ['ignore', 'pipe', 'ignore'],
+    }).trim();
+    return out || undefined;
+  } catch {
+    return undefined;
+  }
+}
+
+const staticDates = {
+  '/': gitDate('src/pages/index.astro'),
+  '/stati/': gitDate('src/pages/stati/index.astro'),
+  '/simptomy/': gitDate('src/pages/simptomy/index.astro'),
+  '/kak-eto-rabotaet/': gitDate('src/pages/kak-eto-rabotaet.astro'),
+  '/politika/': gitDate('src/pages/politika.astro'),
+  ...Object.fromEntries(
+    readdirSync('./src/data/symptoms')
+      .filter((f) => f.endsWith('.ts'))
+      .map((f) => [`/simptomy/${f.replace('.ts', '')}/`, gitDate(`src/data/symptoms/${f}`)])
+  ),
+};
+
 export default defineConfig({
   site: SITE_URL,
   integrations: [
@@ -27,6 +56,7 @@ export default defineConfig({
         const path = new URL(item.url).pathname;
         const d = artDates[path];
         if (d) item.lastmod = new Date(`${d}T12:00:00Z`).toISOString();
+        else if (staticDates[path]) item.lastmod = new Date(staticDates[path]).toISOString();
         return item;
       },
     }),
