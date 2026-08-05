@@ -115,6 +115,17 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
             navigator.sendBeacon(apiUrl + '/api/v1/hit', location.pathname);
           } catch {}
         }
+
+        // Клик по кнопке скачивания APK — отдельное событие с источником.
+        if (!token && !navigator.webdriver) {
+          document.addEventListener('click', (e) => {
+            const a = e.target instanceof Element ? e.target.closest('a[href*="/app/stuk.apk"]') : null;
+            if (!a) return;
+            try {
+              navigator.sendBeacon(apiUrl + '/api/v1/hit', 'download:' + location.pathname);
+            } catch {}
+          });
+        }
       })();
     </script>
   </body>

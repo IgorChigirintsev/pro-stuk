@@ -185,6 +185,20 @@ func (s *Server) handleHit(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	page := strings.TrimSpace(string(body))
+
+	// Событие скачивания приложения: тело вида "download:/страница".
+	if after, ok := strings.CutPrefix(page, "download:"); ok {
+		if strings.HasPrefix(after, "/") && len(after) <= 160 && !strings.Contains(after, "..") {
+			if !isBotUA(r.Header.Get("User-Agent")) {
+				s.stats.HitDownload(after)
+			}
+			w.WriteHeader(http.StatusNoContent)
+			return
+		}
+		w.WriteHeader(http.StatusBadRequest)
+		return
+	}
+
 	if !strings.HasPrefix(page, "/") || len(page) > 160 ||
 		strings.Contains(page, "..") || strings.HasPrefix(page, "/analitika") {
 		w.WriteHeader(http.StatusBadRequest)

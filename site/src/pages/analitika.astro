@@ -86,10 +86,58 @@ import { API_URL } from '../../site.config.mjs';
       .map(([k, label]) => `${label.toLowerCase()}: ${data[k].bots || 0}`)
       .join(' · ');
 
+    // Скачивания приложения и конверсия «просмотр → скачивание»
+    const conv = (k) => {
+      const t = data[k].total || 0, d = data[k].downloads || 0;
+      return t ? ((d / t) * 100).toFixed(1) + '%' : '—';
+    };
+    const dlCards = periods
+      .map(
+        ([k, label]) => `
+        <div class="rounded-card border border-line bg-surface p-4 text-center">
+          <div class="text-2xl font-bold tnum">${data[k].downloads || 0}</div>
+          <div class="mt-1 text-s text-ink-soft">${label}</div>
+          <div class="mt-1 text-s text-accent tnum">${conv(k)}</div>
+        </div>`
+      )
+      .join('');
+
+    const dlPages = Object.keys(data.days28.download_pages || {}).sort(
+      (a, b) => data.days28.download_pages[b] - data.days28.download_pages[a]
+    );
+    const dlRows = dlPages
+      .map((p) => {
+        const cells = periods
+          .map(([k]) => `<td class="p-3 text-right tnum">${(data[k].download_pages || {})[p] || 0}</td>`)
+          .join('');
+        return `<tr class="border-t border-line"><td class="p-3 break-all">${esc(p)}</td>${cells}</tr>`;
+      })
+      .join('');
+
     root.innerHTML = `
       <div class="grid grid-cols-2 gap-3 sm:grid-cols-4">${cards}</div>
       <p class="mt-3 text-s text-ink-soft">Отфильтровано ботов — ${bots}</p>
-      <h2 class="mt-10 text-xl font-bold">По страницам</h2>
+      <h2 class="mt-10 text-xl font-bold">Скачивания приложения</h2>
+      <p class="mt-1 text-s text-ink-soft">Клики по кнопке скачивания APK. Мелким — конверсия от просмотров.</p>
+      <div class="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-4">${dlCards}</div>
+      ${
+        dlPages.length === 0
+          ? '<p class="mt-3 text-s text-ink-soft">Пока никто не скачивал.</p>'
+          : `<div class="mt-4 overflow-x-auto rounded-card border border-line">
+              <table class="w-full border-collapse text-left text-s">
+                <thead><tr class="bg-surface text-ink-soft">
+                  <th class="p-3 font-semibold">Откуда скачали</th>
+                  <th class="p-3 text-right font-semibold">Сегодня</th>
+                  <th class="p-3 text-right font-semibold">Вчера</th>
+                  <th class="p-3 text-right font-semibold">7 дней</th>
+                  <th class="p-3 text-right font-semibold">28 дней</th>
+                </tr></thead>
+                <tbody>${dlRows}</tbody>
+              </table>
+            </div>`
+      }
+
+      <h2 class="mt-10 text-xl font-bold">Просмотры по страницам</h2>
       ${
         pages.length === 0
           ? '<p class="mt-3 text-ink-soft">Пока пусто — просмотры появятся после первых посетителей.</p>'

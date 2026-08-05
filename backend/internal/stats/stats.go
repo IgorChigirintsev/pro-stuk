@@ -20,6 +20,9 @@ type dayCounts struct {
 	Total int            `json:"total"`
 	Pages map[string]int `json:"pages"`
 	Bots  int            `json:"bots,omitempty"` // отфильтрованные заходы ботов
+	// Скачивания приложения: сколько и с каких страниц нажали кнопку.
+	Downloads     int            `json:"downloads,omitempty"`
+	DownloadPages map[string]int `json:"download_pages,omitempty"`
 }
 
 type Store struct {
@@ -54,9 +57,8 @@ func Open(dataDir, tz string) (*Store, error) {
 func (s *Store) today() string { return time.Now().In(s.loc).Format("2006-01-02") }
 
 // Hit фиксирует один просмотр страницы.
-func (s *Store) Hit(page string) {
-	s.mu.Lock()
-	defer s.mu.Unlock()
+// day возвращает счётчики текущего дня (вызывается под мьютексом).
+func (s *Store) day() *dayCounts {
 	key := s.today()
 	d := s.days[key]
 	if d == nil {
@@ -64,8 +66,28 @@ func (s *Store) Hit(page string) {
 		s.days[key] = d
 		s.prune()
 	}
+	return d
+}
+
+func (s *Store) Hit(page string) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	d := s.day()
 	d.Total++
 	d.Pages[page]++
+	s.dirty = true
+}
+
+// HitDownload фиксирует клик по ссылке скачивания APK и страницу-источник.
+func (s *Store) HitDownload(page string) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	d := s.day()
+	if d.DownloadPages == nil {
+		d.DownloadPages = map[string]int{}
+	}
+	d.Downloads++
+	d.DownloadPages[page]++
 	s.dirty = true
 }
 
@@ -73,13 +95,7 @@ func (s *Store) Hit(page string) {
 func (s *Store) HitBot() {
 	s.mu.Lock()
 	defer s.mu.Unlock()
-	key := s.today()
-	d := s.days[key]
-	if d == nil {
-		d = &dayCounts{Pages: map[string]int{}}
-		s.days[key] = d
-		s.prune()
-	}
+	d := s.day()
 	d.Bots++
 	s.dirty = true
 }
@@ -95,9 +111,11 @@ func (s *Store) prune() {
 }
 
 type PeriodStats struct {
-	Total int            `json:"total"`
-	Pages map[string]int `json:"pages"`
-	Bots  int            `json:"bots"`
+	Total         int            `json:"total"`
+	Pages         map[string]int `json:"pages"`
+	Bots          int            `json:"bots"`
+	Downloads     int            `json:"downloads"`
+	DownloadPages map[string]int `json:"download_pages"`
 }
 
 type Summary struct {
@@ -108,13 +126,17 @@ type Summary struct {
 }
 
 func (s *Store) rangeStats(from, to time.Time) PeriodStats {
-	out := PeriodStats{Pages: map[string]int{}}
+	out := PeriodStats{Pages: map[string]int{}, DownloadPages: map[string]int{}}
 	for d := from; !d.After(to); d = d.AddDate(0, 0, 1) {
 		if dc := s.days[d.Format("2006-01-02")]; dc != nil {
 			out.Total += dc.Total
 			out.Bots += dc.Bots
+			out.Downloads += dc.Downloads
 			for p, n := range dc.Pages {
 				out.Pages[p] += n
+			}
+			for p, n := range dc.DownloadPages {
+				out.DownloadPages[p] += n
 			}
 		}
 	}
