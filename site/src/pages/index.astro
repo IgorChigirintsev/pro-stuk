@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import DownloadApk from '../components/DownloadApk.astro';
+import { HUBS } from '../data/hubs';
 import { SITE_URL, SITE_NAME } from '../../site.config.mjs';
 
 const schema = {
@@ -140,6 +141,24 @@ const faq = [
         </details>
       ))}
     </div>
+  </section>
+
+  <!-- Разделы по узлам -->
+  <section class="mt-14">
+    <h2 class="text-center text-xl font-bold">Разборы по узлам</h2>
+    <ul class="mx-auto mt-6 grid max-w-3xl gap-3 sm:grid-cols-2">
+      {HUBS.map((h) => (
+        <li>
+          <a
+            href={`/uzly/${h.slug}/`}
+            class="block h-full rounded-card border border-line bg-surface p-4 no-underline hover:border-accent"
+          >
+            <span class="font-semibold text-ink">{h.h1}</span>
+            <span class="mt-1 block text-s text-ink-soft">{h.description}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
   </section>
 
   <!-- Симптомы -->

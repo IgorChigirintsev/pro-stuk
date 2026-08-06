@@ -1,28 +1,16 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import { HUBS, hubForArticle } from '../../data/hubs';
 
 const articles = (await getCollection('articles')).sort((a, b) =>
   (b.data.updated ?? b.data.pubDate).localeCompare(a.data.updated ?? a.data.pubDate)
 );
 
-// Тематические разделы: помогают и людям, и краулерам понять структуру.
-const GROUPS_UI: { title: string; match: RegExp }[] = [
-  { title: 'Двигатель', match: /dvigatel|stuk-v-dvigatele|klapan|gidrokompensator|tsepi-grm|grm|detonatsi|forsunk|porshn|shatun|maslo|vvt|fazovrashchatel|tsokot|dizelenie|zvon|troit|zadirov|kompensator/ },
-  { title: 'Навесное и ГРМ', match: /remn|pomp|generator|mufty|rolik|natyazhitel|shelest-tsepi|svist|starter|vpusk|vyhlop|glushitel|katalizator|shipenie|bulkaet/ },
-  { title: 'Подвеска и кузов', match: /podvesk|amortizator|stabilizator|sajlentblok|sharov|pruzhin|otbojnik|opor|kochk|nerovnost|yam|lyazg|gremit|drebez|salon|sverchk|dver|panel|skrip-podveski|zvon-pod-mashinoj/ },
-  { title: 'Рулевое', match: /rul|rejk|nakonechnik|tyag|gur|eur|povorote-rulya|vizg-pri-povorote/ },
-  { title: 'Колёса, ступицы, тормоза', match: /podshipnik-stupitsy|stupichn|rezin|shinomontazh|koles|gul-|tormoz|kolodok|supporta|bienie|vibratsiya|skrezhet|tsokane|shelest-ot-kolesa/ },
-  { title: 'Трансмиссия', match: /korobk|peredach|stseplen|vyzhimn|akpp|shrus|kardan|reduktor|mahovik|hrust|tolchki|pylnik|zadnim-hodom|podvesnogo/ },
-];
-
-function groupOf(id: string) {
-  for (const g of GROUPS_UI) if (g.match.test(id)) return g.title;
-  return 'Разное';
-}
-const grouped = [...GROUPS_UI.map((g) => g.title), 'Разное']
-  .map((title) => ({ title, items: articles.filter((a) => groupOf(a.id) === title) }))
-  .filter((g) => g.items.length > 0);
+const grouped = HUBS.map((h) => ({
+  hub: h,
+  items: articles.filter((a) => hubForArticle(a.id).slug === h.slug),
+})).filter((g) => g.items.length > 0);
 
 function fmtDate(iso: string) {
   const months = [
@@ -46,15 +34,17 @@ function fmtDate(iso: string) {
 
   <nav class="mt-6 flex flex-wrap gap-3 text-s" aria-label="Разделы">
     {grouped.map((g) => (
-      <a href={`#${encodeURIComponent(g.title)}`} class="rounded-btn border border-line bg-surface px-3 py-2 text-accent no-underline hover:border-accent">
-        {g.title} <span class="tnum text-ink-soft">{g.items.length}</span>
+      <a href={`/uzly/${g.hub.slug}/`} class="rounded-btn border border-line bg-surface px-3 py-2 text-accent no-underline hover:border-accent">
+        {g.hub.short} <span class="tnum text-ink-soft">{g.items.length}</span>
       </a>
     ))}
   </nav>
 
   {grouped.map((g) => (
     <section class="mt-10">
-      <h2 id={g.title} class="text-xl font-bold" style="scroll-margin-top:1rem">{g.title}</h2>
+      <h2 class="text-xl font-bold">
+        <a href={`/uzly/${g.hub.slug}/`} class="text-ink no-underline hover:text-accent">{g.hub.short}</a>
+      </h2>
       <ul class="mt-4 grid gap-4 sm:grid-cols-2">
         {g.items.map((a) => (
           <li>
