@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import { HUBS, hubForArticle } from '../../data/hubs';
+import { SITE_URL } from '../../../site.config.mjs';
 
 const articles = (await getCollection('articles')).sort((a, b) =>
   (b.data.updated ?? b.data.pubDate).localeCompare(a.data.updated ?? a.data.pubDate)
@@ -11,6 +12,19 @@ const grouped = HUBS.map((h) => ({
   hub: h,
   items: articles.filter((a) => hubForArticle(a.id).slug === h.slug),
 })).filter((g) => g.items.length > 0);
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Статьи о звуках и неисправностях автомобиля',
+  url: `${SITE_URL}/stati/`,
+  inLanguage: 'ru',
+  hasPart: HUBS.map((h) => ({
+    '@type': 'CollectionPage',
+    name: h.h1,
+    url: `${SITE_URL}/uzly/${h.slug}/`,
+  })),
+};
 
 function fmtDate(iso: string) {
   const months = [
@@ -25,6 +39,7 @@ function fmtDate(iso: string) {
 <Base
   title="Статьи о звуках и неисправностях автомобиля | Стук"
   description="Разборы автомобильных звуков и неисправностей: признаки износа узлов, можно ли ехать, как проверить самому. Практичные статьи без воды."
+  schema={schema}
 >
   <h1 class="text-2xl font-bold sm:text-3xl">Статьи</h1>
   <p class="mt-4 max-w-2xl text-ink-soft">

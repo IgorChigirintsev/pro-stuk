@@ -1,6 +1,20 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { SYMPTOMS, GROUPS } from '../../data/types';
+import { SITE_URL } from '../../../site.config.mjs';
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Симптомы по звуку',
+  url: `${SITE_URL}/simptomy/`,
+  inLanguage: 'ru',
+  hasPart: SYMPTOMS.map((s) => ({
+    '@type': 'WebPage',
+    name: s.h1,
+    url: `${SITE_URL}/simptomy/${s.slug}/`,
+  })),
+};
 
 const order: (keyof typeof GROUPS)[] = ['dvigatel', 'dvizhenie', 'tormoza-rul', 'podveska'];
 ---
@@ -8,6 +22,7 @@ const order: (keyof typeof GROUPS)[] = ['dvigatel', 'dvizhenie', 'tormoza-rul', 
 <Base
   title="Звуки и симптомы неисправностей автомобиля — разборы | Стук"
   description="Стук, гул, визг, скрежет: что означает каждый звук автомобиля, насколько это опасно и что проверить самому. Разборы по симптомам с деревом диагностики."
+  schema={schema}
 >
   <h1 class="text-2xl font-bold sm:text-3xl">Симптомы по звуку</h1>
   <p class="mt-4 max-w-2xl text-ink-soft">

@@ -1,10 +1,21 @@
 ---
 import Base from '../layouts/Base.astro';
+import { SITE_URL } from '../../site.config.mjs';
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'Как работает диагностика по звуку',
+  url: `${SITE_URL}/kak-eto-rabotaet/`,
+  inLanguage: 'ru',
+  isPartOf: { '@type': 'WebSite', name: 'Стук', url: SITE_URL },
+};
 ---
 
 <Base
   title="Как работает диагностика по звуку | Стук"
   description="Честно о методике «Стука»: анкета как главный инструмент, спектральный анализ записи, языковая модель и типовые болезни моделей. Почему результат вероятностный."
+  schema={schema}
 >
   <article class="max-w-2xl">
     <h1 class="text-2xl font-bold sm:text-3xl">Как это работает</h1>
