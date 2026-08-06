@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import AppCtaCard from '../../components/AppCtaCard.astro';
 import { hubForArticle } from '../../data/hubs';
+import { schemaForArticle } from '../../data/schemas';
 import { SITE_URL } from '../../../site.config.mjs';
 
 export async function getStaticPaths() {
@@ -42,6 +43,11 @@ function fmtDate(iso: string) {
 }
 
 const hub = hubForArticle(article.id);
+const schemaHit = schemaForArticle(article.id);
+// Нет схемы узла — показываем схему раздела: лучше, чем пустое место.
+const schemaImg = schemaHit
+  ? { src: `/shemy/${schemaHit.file}.svg`, label: schemaHit.label }
+  : { src: `/uzly/${hub.slug}.svg`, label: hub.h1.toLowerCase() };
 const canonical = `${SITE_URL}/stati/${article.id}/`;
 const schema = [
   {
@@ -78,7 +84,7 @@ const schema = [
 ];
 ---
 
-<Base title={article.data.metaTitle} description={article.data.description} schema={schema} wide>
+<Base title={article.data.metaTitle} description={article.data.description} schema={schema} ogImage={`/og/stati/${article.id}.png`} wide>
   <div class="lg:grid lg:grid-cols-[16rem_minmax(0,42rem)_18rem] lg:justify-center lg:gap-8">
     <!-- Слева: похожие статьи (липкая, только desktop) -->
     <aside class="hidden lg:block">
@@ -132,6 +138,20 @@ const schema = [
           </ol>
         </nav>
       )}
+
+      <figure class="mt-8">
+          <img
+            src={schemaImg.src}
+            alt={`Схема: ${schemaImg.label}`}
+            width="400"
+            height="240"
+            loading="lazy"
+            class="w-full max-w-md rounded-card"
+          />
+        <figcaption class="mt-2 text-s text-ink-soft">
+          Схема: {schemaImg.label}
+        </figcaption>
+      </figure>
 
       <div class="article-body">
         <Content />

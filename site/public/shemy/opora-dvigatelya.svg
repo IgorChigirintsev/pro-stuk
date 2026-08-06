@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Схема опоры двигателя"><title>Схема опоры двигателя</title><rect width="400" height="240" rx="16" fill="#F5F7F9"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 70 46 h 160 v 40 h -160 Z" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 96 60 h 108" stroke="#DFE5EA" stroke-width="3"/>
+<path d="M 150 86 v 16" stroke="#5C6B78" stroke-width="6"/>
+<path d="M 106 102 h 88 q 16 0 16 16 v 28 q 0 16 -16 16 h -88 q -16 0 -16 -16 v -28 q 0 -16 16 -16 Z" stroke="#0E7C7B" stroke-width="4"/>
+<path d="M 106 114 h 88" stroke="#0E7C7B" stroke-width="2.5" opacity="0.55"/><path d="M 106 128 h 88" stroke="#0E7C7B" stroke-width="2.5" opacity="0.55"/><path d="M 106 142 h 88" stroke="#0E7C7B" stroke-width="2.5" opacity="0.55"/><path d="M 106 156 h 88" stroke="#0E7C7B" stroke-width="2.5" opacity="0.55"/>
+<path d="M 150 162 v 18" stroke="#5C6B78" stroke-width="6"/>
+<path d="M 84 180 h 132" stroke="#5C6B78" stroke-width="7"/>
+<path d="M 256 119 A 13 13 0 0 1 256 145" stroke="#0E7C7B" stroke-width="3" opacity="0.80"/><path d="M 256 104 A 28 28 0 0 1 256 160" stroke="#0E7C7B" stroke-width="3" opacity="0.60"/></g></svg>
