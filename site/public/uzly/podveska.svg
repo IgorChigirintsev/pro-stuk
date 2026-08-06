@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Схема подвески">
+<title>Схема подвески</title>
+<rect width="400" height="240" rx="16" fill="#F5F7F9"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 94 48 h 72" stroke="#5C6B78" stroke-width="4"/>
+<path d="M 130 48 V 62" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 102 66 h 56" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 130 66 L 106 70 L 154 81 L 106 92 L 154 103 L 106 114 L 154 125 L 130 126" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 102 126 h 56" stroke="#5C6B78" stroke-width="3"/>
+<rect x="115" y="126" width="30" height="62" rx="8" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 115 146 h 30" stroke="#E7ECF0" stroke-width="3"/>
+<path d="M 145 188 H 226" stroke="#5C6B78" stroke-width="4"/>
+<circle cx="145" cy="188" r="5" stroke="#5C6B78" stroke-width="3"/>
+<circle cx="246" cy="188" r="26" stroke="#5C6B78" stroke-width="3"/>
+<circle cx="246" cy="188" r="8" stroke="#E7ECF0" stroke-width="3"/>
+<path d="M 40 216 H 360" stroke="#E7ECF0" stroke-width="4"/>
+<path d="M 156 212 q 14 -12 28 0" stroke="#E7ECF0" stroke-width="3"/>
+<path d="M 312 82 A 14 14 0 0 1 312 110" stroke="#0E7C7B" stroke-width="3" opacity="0.85"/>
+<path d="M 312 66 A 30 30 0 0 1 312 126" stroke="#0E7C7B" stroke-width="3" opacity="0.63"/>
+<path d="M 312 50 A 46 46 0 0 1 312 142" stroke="#0E7C7B" stroke-width="3" opacity="0.41"/>
+</g></svg>

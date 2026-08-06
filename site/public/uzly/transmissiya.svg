@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Схема трансмиссии">
+<title>Схема трансмиссии</title>
+<rect width="400" height="240" rx="16" fill="#F5F7F9"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+<circle cx="120" cy="105" r="42" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 162 105 L 173 105" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 154 130 L 163 136" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 133 145 L 136 155" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 107 145 L 104 155" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 86 130 L 77 136" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 78 105 L 67 105" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 86 80 L 77 74" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 107 65 L 104 55" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 133 65 L 136 55" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 154 80 L 163 74" stroke="#0E7C7B" stroke-width="3"/>
+<circle cx="120" cy="105" r="12" stroke="#E7ECF0" stroke-width="3"/>
+<circle cx="196" cy="160" r="28" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 224 160 L 235 160" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 216 180 L 224 188" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 196 188 L 196 199" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 176 180 L 168 188" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 168 160 L 157 160" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 176 140 L 168 132" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 196 132 L 196 121" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 216 140 L 224 132" stroke="#5C6B78" stroke-width="3"/>
+<circle cx="196" cy="160" r="8" stroke="#E7ECF0" stroke-width="3"/>
+<path d="M 120 105 H 60" stroke="#5C6B78" stroke-width="4"/>
+<rect x="44" y="96" width="16" height="18" rx="4" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 258 106 A 14 14 0 0 1 258 134" stroke="#0E7C7B" stroke-width="3" opacity="0.85"/>
+<path d="M 258 90 A 30 30 0 0 1 258 150" stroke="#0E7C7B" stroke-width="3" opacity="0.63"/>
+<path d="M 258 74 A 46 46 0 0 1 258 166" stroke="#0E7C7B" stroke-width="3" opacity="0.41"/>
+</g></svg>

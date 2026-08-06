@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Схема выхлопной системы">
+<title>Схема выхлопной системы</title>
+<rect width="400" height="240" rx="16" fill="#F5F7F9"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M 46 66 v 24 M 68 66 v 24 M 90 66 v 24 M 112 66 v 24" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 40 90 h 78" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 79 90 v 22 q 0 14 14 14 h 34 q 14 0 14 14 v 12 q 0 14 14 14 h 17" stroke="#0E7C7B" stroke-width="4"/>
+<rect x="172" y="150" width="86" height="36" rx="18" stroke="#0E7C7B" stroke-width="4"/>
+<path d="M 258 168 h 34" stroke="#0E7C7B" stroke-width="4"/>
+<path d="M 292 158 v 20 q 0 6 8 6 h 10" stroke="#0E7C7B" stroke-width="4"/>
+<path d="M 330 160 A 14 14 0 0 1 330 188" stroke="#0E7C7B" stroke-width="3" opacity="0.85"/>
+<path d="M 330 146 A 28 28 0 0 1 330 202" stroke="#0E7C7B" stroke-width="3" opacity="0.63"/>
+<path d="M 330 132 A 42 42 0 0 1 330 216" stroke="#0E7C7B" stroke-width="3" opacity="0.41"/>
+</g></svg>

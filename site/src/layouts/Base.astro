@@ -9,9 +9,11 @@ interface Props {
   schema?: object;
   /** Широкий контейнер (статьи с боковыми карточками). */
   wide?: boolean;
+  /** Картинка для соцсетей (абсолютный путь от корня сайта). */
+  ogImage?: string;
 }
 
-const { title, description, schema, wide = false } = Astro.props;
+const { title, description, schema, wide = false, ogImage = '/og/default.png' } = Astro.props;
 const canonical = new URL(Astro.url.pathname, SITE_URL).href;
 ---
 
@@ -28,7 +30,10 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:image" content={new URL('/icon.png', SITE_URL).href} />
+    <meta property="og:image" content={new URL(ogImage, SITE_URL).href} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:locale" content="ru_RU" />
     {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
     <slot name="head" />

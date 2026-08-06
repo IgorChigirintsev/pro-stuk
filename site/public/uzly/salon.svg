@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Схема салона">
+<title>Схема салона</title>
+<rect width="400" height="240" rx="16" fill="#F5F7F9"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M 46 176 q 0 -66 74 -66 h 96 q 44 0 54 40" stroke="#5C6B78" stroke-width="3"/>
+<path d="M 46 176 H 250" stroke="#5C6B78" stroke-width="3"/>
+<circle cx="112" cy="146" r="32" stroke="#0E7C7B" stroke-width="4"/>
+<circle cx="112" cy="146" r="9" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 112 137 V 114 M 104 152 L 86 166 M 120 152 L 138 166" stroke="#0E7C7B" stroke-width="3"/>
+<rect x="170" y="126" width="56" height="32" rx="6" stroke="#E7ECF0" stroke-width="3"/>
+<path d="M 181 138 h 34 M 181 147 h 22" stroke="#E7ECF0" stroke-width="3"/>
+<path d="M 300 106 A 14 14 0 0 1 300 134" stroke="#0E7C7B" stroke-width="3" opacity="0.85"/>
+<path d="M 300 90 A 30 30 0 0 1 300 150" stroke="#0E7C7B" stroke-width="3" opacity="0.63"/>
+<path d="M 300 74 A 46 46 0 0 1 300 166" stroke="#0E7C7B" stroke-width="3" opacity="0.41"/>
+</g></svg>

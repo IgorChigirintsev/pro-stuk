@@ -51,7 +51,7 @@ const schema = [
 ];
 ---
 
-<Base title={hub.metaTitle} description={hub.description} schema={schema} wide>
+<Base title={hub.metaTitle} description={hub.description} schema={schema} ogImage={`/og/${hub.slug}.png`} wide>
   <div class="lg:grid lg:grid-cols-[minmax(0,50rem)_18rem] lg:justify-center lg:gap-8">
     <div>
       <nav class="text-s text-ink-soft" aria-label="Хлебные крошки">
@@ -59,7 +59,15 @@ const schema = [
         <a href="/stati/" class="no-underline hover:text-accent">Статьи</a>
       </nav>
 
-      <h1 class="mt-3 text-2xl font-bold sm:text-3xl">{hub.h1}</h1>
+      <img
+        src={`/uzly/${hub.slug}.svg`}
+        alt={`Схема: ${hub.h1.toLowerCase()}`}
+        width="400"
+        height="240"
+        class="mt-4 w-full max-w-md rounded-card"
+      />
+
+      <h1 class="mt-5 text-2xl font-bold sm:text-3xl">{hub.h1}</h1>
       <p class="mt-2 text-s text-ink-soft">
         {articles.length} разборов в разделе
       </p>
