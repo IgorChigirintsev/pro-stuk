@@ -5,7 +5,7 @@
 <path d="M 92.0 84.0 L 110.0 90.0 L 158.0 90.0 L 176.0 84.0" stroke="#5C6B78" stroke-width="3" fill="none"/>
 <path d="M 114.0 56.0 L 114.0 88.0" stroke="#0E7C7B" stroke-width="2"/><path d="M 125.0 56.0 L 125.0 88.0" stroke="#0E7C7B" stroke-width="2"/><path d="M 136.0 56.0 L 136.0 88.0" stroke="#0E7C7B" stroke-width="2"/><path d="M 147.0 56.0 L 147.0 88.0" stroke="#0E7C7B" stroke-width="2"/><path d="M 158.0 56.0 L 158.0 88.0" stroke="#0E7C7B" stroke-width="2"/>
 <path d="M 176.0 72.0 L 200.0 72.0 L 200.0 128.0 L 218.0 128.0" stroke="#5C6B78" stroke-width="6" fill="none"/>
-<rect x="218.0" y="110.0" width="56.0" height="36.0" rx="16" stroke="#5C6B78" stroke-width="3.5" fill="#F5F7F9"/>
+<rect x="218.0" y="110.0" width="56.0" height="36.0" rx="16" stroke="#5C6B78" stroke-width="3.5" fill="#EAEFF3"/>
 <path d="M 240.0 110.0 L 240.0 146.0" stroke="#C9D3DA" stroke-width="2.5"/>
 <path d="M 274.0 128.0 L 292.0 128.0 L 292.0 168.0 L 306.0 168.0" stroke="#5C6B78" stroke-width="6" fill="none"/>
 <rect x="306.0" y="146.0" width="68.0" height="44.0" rx="20" stroke="#0E7C7B" stroke-width="3.5" fill="none"/>

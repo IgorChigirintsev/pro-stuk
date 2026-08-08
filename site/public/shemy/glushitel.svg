@@ -10,5 +10,5 @@
 <path d="M 232.0 104.0 L 272.0 104.0" stroke="#C9D3DA" stroke-width="2.5"/>
 <path d="M 178.0 76.0 L 178.0 60.0 L 196.0 60.0" stroke="#C9D3DA" stroke-width="2.5" fill="none"/>
 <path d="M 280.0 120.0 L 316.0 120.0" stroke="#5C6B78" stroke-width="8"/>
-<path d="M 316.0 108.0 L 340.0 108.0 L 340.0 132.0 L 316.0 132.0 Z" stroke="#5C6B78" stroke-width="3.5" fill="#F5F7F9"/>
+<path d="M 316.0 108.0 L 340.0 108.0 L 340.0 132.0 L 316.0 132.0 Z" stroke="#5C6B78" stroke-width="3.5" fill="#EAEFF3"/>
 <path d="M 358 109 A 11 11 0 0 1 358 131" stroke="#0E7C7B" stroke-width="3" opacity="0.75"/><path d="M 358 97 A 23 23 0 0 1 358 143" stroke="#0E7C7B" stroke-width="3" opacity="0.55"/></g></svg>
