@@ -1,17 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Схема поршня и шатунного вкладыша"><title>Схема поршня и шатунного вкладыша</title><rect width="400" height="240" rx="16" fill="#F5F7F9"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
-<path d="M 106.0 26.0 L 106.0 150.0" stroke="#5C6B78" stroke-width="3.5"/>
-<path d="M 194.0 26.0 L 194.0 150.0" stroke="#5C6B78" stroke-width="3.5"/>
-<path d="M 106.0 26.0 L 194.0 26.0" stroke="#C9D3DA" stroke-width="3"/>
-<rect x="110.0" y="36.0" width="80.0" height="54.0" rx="5" stroke="#5C6B78" stroke-width="3" fill="#F5F7F9"/>
-<path d="M 110.0 44.0 L 190.0 44.0" stroke="#0E7C7B" stroke-width="3"/>
-<path d="M 110.0 52.0 L 190.0 52.0" stroke="#0E7C7B" stroke-width="3"/>
-<path d="M 110.0 60.0 L 190.0 60.0" stroke="#0E7C7B" stroke-width="3"/>
-<circle cx="150.0" cy="76.0" r="8.0" stroke="#5C6B78" stroke-width="3" fill="none"/>
-<path d="M 144.0 82.0 L 156.0 82.0 L 184.0 156.0 L 168.0 156.0 Z" stroke="#5C6B78" stroke-width="3.5" fill="#F5F7F9"/>
-<circle cx="176.0" cy="176.0" r="26.0" stroke="#0E7C7B" stroke-width="3.5" fill="none"/>
-<circle cx="176.0" cy="176.0" r="19.0" stroke="#0E7C7B" stroke-width="3" fill="none"/>
-<circle cx="176.0" cy="176.0" r="8.0" stroke="#5C6B78" stroke-width="2.5" fill="none"/>
-<circle cx="140.0" cy="190.0" r="52.0" stroke="#C9D3DA" stroke-width="3" fill="none"/>
-<path d="M 140.0 190.0 L 176.0 176.0" stroke="#C9D3DA" stroke-width="3"/>
-<circle cx="140.0" cy="190.0" r="7.0" stroke="#5C6B78" stroke-width="2.5" fill="none"/>
-<path d="M 258 137 A 13 13 0 0 1 258 163" stroke="#0E7C7B" stroke-width="3" opacity="0.75"/><path d="M 258 122 A 28 28 0 0 1 258 178" stroke="#0E7C7B" stroke-width="3" opacity="0.55"/></g></svg>
+<path d="M 122.0 24.0 L 122.0 134.0" stroke="#5C6B78" stroke-width="3.5"/><path d="M 226.0 24.0 L 226.0 134.0" stroke="#5C6B78" stroke-width="3.5"/>
+<path d="M 122.0 24.0 L 226.0 24.0" stroke="#C9D3DA" stroke-width="3"/>
+<path d="M 106.0 32.0 L 106.0 32.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 118.0 32.0 L 106.0 44.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 120.0 42.0 L 106.0 56.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 120.0 54.0 L 106.0 68.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 120.0 66.0 L 106.0 80.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 120.0 78.0 L 106.0 92.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 120.0 90.0 L 106.0 104.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 120.0 102.0 L 106.0 116.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 120.0 114.0 L 106.0 128.0" stroke="#C9D3DA" stroke-width="2"/>
+<path d="M 228.0 32.0 L 228.0 32.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 240.0 32.0 L 228.0 44.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 242.0 42.0 L 228.0 56.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 242.0 54.0 L 228.0 68.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 242.0 66.0 L 228.0 80.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 242.0 78.0 L 228.0 92.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 242.0 90.0 L 228.0 104.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 242.0 102.0 L 228.0 116.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 242.0 114.0 L 228.0 128.0" stroke="#C9D3DA" stroke-width="2"/>
+<rect x="128.0" y="38.0" width="92.0" height="56.0" rx="5" stroke="#5C6B78" stroke-width="3.5" fill="#F5F7F9"/>
+<path d="M 128.0 50.0 L 220.0 50.0" stroke="#0E7C7B" stroke-width="3"/><path d="M 128.0 60.0 L 220.0 60.0" stroke="#0E7C7B" stroke-width="3"/><path d="M 128.0 70.0 L 220.0 70.0" stroke="#0E7C7B" stroke-width="3"/>
+<circle cx="174.0" cy="82.0" r="9.0" stroke="#5C6B78" stroke-width="3" fill="none"/>
+<path d="M 166.0 90.0 L 182.0 90.0 L 207.0 144.0 L 185.0 144.0 Z" stroke="#5C6B78" stroke-width="3.5" fill="#F5F7F9"/>
+<circle cx="196.0" cy="168.0" r="27.0" stroke="#5C6B78" stroke-width="3.5" fill="none"/>
+<circle cx="196.0" cy="168.0" r="21.0" stroke="#0E7C7B" stroke-width="3.5" fill="none"/>
+<circle cx="196.0" cy="168.0" r="14.0" stroke="#5C6B78" stroke-width="2.5" fill="none"/>
+<path d="M 169.0 174.0 L 223.0 174.0" stroke="#5C6B78" stroke-width="2.5"/>
+<circle cx="176.0" cy="186.0" r="5.0" stroke="#5C6B78" stroke-width="2.5" fill="none"/><path d="M 173.0 186.0 L 179.0 186.0" stroke="#5C6B78" stroke-width="2"/><circle cx="216.0" cy="186.0" r="5.0" stroke="#5C6B78" stroke-width="2.5" fill="none"/><path d="M 213.0 186.0 L 219.0 186.0" stroke="#5C6B78" stroke-width="2"/>
+<circle cx="150.0" cy="194.0" r="48.0" stroke="#C9D3DA" stroke-width="3" fill="none"/>
+<path d="M 150.0 194.0 L 196.0 168.0" stroke="#C9D3DA" stroke-width="3"/>
+<circle cx="150.0" cy="194.0" r="8.0" stroke="#5C6B78" stroke-width="2.5" fill="none"/>
+<path d="M 292 137 A 13 13 0 0 1 292 163" stroke="#0E7C7B" stroke-width="3" opacity="0.75"/><path d="M 292 122 A 28 28 0 0 1 292 178" stroke="#0E7C7B" stroke-width="3" opacity="0.55"/></g></svg>
