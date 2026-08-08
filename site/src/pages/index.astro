@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import DownloadApk from '../components/DownloadApk.astro';
 import { HUBS } from '../data/hubs';
+import { v } from '../data/assetVersion';
 import { SITE_URL, SITE_NAME } from '../../site.config.mjs';
 
 const schema = {
@@ -153,7 +154,7 @@ const faq = [
             href={`/uzly/${h.slug}/`}
             class="flex h-full items-center gap-4 rounded-card border border-line bg-surface p-4 no-underline hover:border-accent"
           >
-            <img src={`/uzly/${h.slug}.svg`} alt="" width="96" height="58" class="hidden shrink-0 rounded-lg sm:block" />
+            <img src={v(`/uzly/${h.slug}.svg`)} alt="" width="96" height="58" class="hidden shrink-0 rounded-lg sm:block" />
             <span>
             <span class="font-semibold text-ink">{h.h1}</span>
             <span class="mt-1 block text-s text-ink-soft">{h.description}</span>

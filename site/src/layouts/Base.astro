@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { v } from '../data/assetVersion';
 import { SITE_URL, SITE_NAME, API_URL } from '../../site.config.mjs';
 
 interface Props {
@@ -13,7 +14,7 @@ interface Props {
   ogImage?: string;
 }
 
-const { title, description, schema, wide = false, ogImage = '/og/default.png' } = Astro.props;
+const { title, description, schema, wide = false, ogImage = v('/og/default.png') } = Astro.props;
 const canonical = new URL(Astro.url.pathname, SITE_URL).href;
 ---
 

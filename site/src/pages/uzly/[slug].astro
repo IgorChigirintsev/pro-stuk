@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import AppCtaCard from '../../components/AppCtaCard.astro';
 import { HUBS, hubForArticle } from '../../data/hubs';
 import { SYMPTOMS } from '../../data/types';
+import { v } from '../../data/assetVersion';
 import { SITE_URL } from '../../../site.config.mjs';
 
 export async function getStaticPaths() {
@@ -51,7 +52,7 @@ const schema = [
 ];
 ---
 
-<Base title={hub.metaTitle} description={hub.description} schema={schema} ogImage={`/og/${hub.slug}.png`} wide>
+<Base title={hub.metaTitle} description={hub.description} schema={schema} ogImage={v(`/og/${hub.slug}.png`)} wide>
   <div class="lg:grid lg:grid-cols-[minmax(0,50rem)_18rem] lg:justify-center lg:gap-8">
     <div>
       <nav class="text-s text-ink-soft" aria-label="Хлебные крошки">
@@ -60,7 +61,7 @@ const schema = [
       </nav>
 
       <img
-        src={`/uzly/${hub.slug}.svg`}
+        src={v(`/uzly/${hub.slug}.svg`)}
         alt={`Схема: ${hub.h1.toLowerCase()}`}
         width="400"
         height="240"
