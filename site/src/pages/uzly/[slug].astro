@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import AppCtaCard from '../../components/AppCtaCard.astro';
 import { HUBS, hubForArticle } from '../../data/hubs';
 import { SYMPTOMS } from '../../data/types';
+import KartaZvuka, { type Zone } from '../../components/KartaZvuka.astro';
 import { v } from '../../data/assetVersion';
 import { SITE_URL } from '../../../site.config.mjs';
 
@@ -24,6 +25,17 @@ const { hub, articles } = Astro.props;
 const symptomPages = hub.symptoms
   .map((s) => SYMPTOMS.find((x) => x.slug === s))
   .filter(Boolean);
+
+/** Зона источника звука для карты — по разделу. */
+const ZONE_BY_HUB: Record<string, { zone: Zone; caption: string }> = {
+  dvigatel: { zone: 'motor', caption: 'моторный отсек' },
+  podveska: { zone: 'koleso', caption: 'подвеска, зона колеса' },
+  tormoza: { zone: 'koleso', caption: 'тормозной механизм колеса' },
+  transmissiya: { zone: 'dnishche', caption: 'трансмиссия, под днищем' },
+  vyhlop: { zone: 'zad', caption: 'выхлопная система, вдоль днища к корме' },
+  salon: { zone: 'salon', caption: 'салон' },
+};
+const zoneHit = ZONE_BY_HUB[hub.slug] ?? ZONE_BY_HUB.dvigatel;
 
 const canonical = `${SITE_URL}/uzly/${hub.slug}/`;
 const schema = [
@@ -81,6 +93,8 @@ const schema = [
       </p>
 
       {hub.intro.map((p) => <p class="mt-4 text-ink-soft">{p}</p>)}
+
+      <KartaZvuka zone={zoneHit.zone} caption={zoneHit.caption} class="mt-8 max-w-2xl" />
 
       {symptomPages.length > 0 && (
         <>

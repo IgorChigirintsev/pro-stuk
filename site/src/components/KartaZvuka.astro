@@ -19,16 +19,26 @@ interface Props {
 
 const { zone, caption, urgency, class: cls = '' } = Astro.props;
 
-/** Центры зон в системе координат силуэта (0 0 400 230). */
-const SPOTS: Record<Zone, { x: number; y: number; r: number }> = {
-  motor: { x: 62, y: 152, r: 30 },
-  koleso: { x: 77, y: 196, r: 34 },
-  dnishche: { x: 164, y: 190, r: 32 },
-  zad: { x: 262, y: 190, r: 34 },
-  salon: { x: 172, y: 110, r: 32 },
+/**
+ * Зоны в системе координат силуэта (машина смотрит влево).
+ * Точечные узлы — круг, протяжённые тракты (выхлоп, трансмиссия) — капсула:
+ * круг на колесе противоречил бы подписи «вдоль днища к корме».
+ */
+type Spot =
+  | { kind: 'circle'; x: number; y: number; r: number }
+  | { kind: 'capsule'; x0: number; x1: number; y: number; h: number };
+
+const SPOTS: Record<Zone, Spot> = {
+  motor: { kind: 'circle', x: 62, y: 152, r: 30 },
+  koleso: { kind: 'circle', x: 77, y: 196, r: 34 },
+  salon: { kind: 'circle', x: 184, y: 116, r: 35 },
+  dnishche: { kind: 'capsule', x0: 106, x1: 232, y: 199, h: 20 },
+  zad: { kind: 'capsule', x0: 116, x1: 306, y: 201, h: 20 },
 };
 
 const spot = SPOTS[zone];
+/** Три контура с затуханием — «эхо» вокруг зоны, одинаково для круга и капсулы. */
+const echo = [0, 12, 24];
 /** Кадр подрезаем под зону: у салона подсветка уходит выше крыши. */
 const viewBox = zone === 'salon' ? '4 46 392 232' : '4 68 392 210';
 
@@ -64,9 +74,31 @@ const u = urgency ? URGENCY[urgency] : null;
     <circle cx="251" cy="196" r="27" fill="#EAEFF3" stroke="#5C6B78" stroke-width="3" />
     <circle cx="251" cy="196" r="11" fill="none" stroke="#C9D3DA" stroke-width="2.5" />
 
-    <circle cx={spot.x} cy={spot.y} r={spot.r} fill="rgba(14,124,123,0.16)" stroke="#0E7C7B" stroke-width="3" />
-    <circle cx={spot.x} cy={spot.y} r={spot.r + 12} fill="none" stroke="#0E7C7B" stroke-width="2" opacity="0.55" />
-    <circle cx={spot.x} cy={spot.y} r={spot.r + 24} fill="none" stroke="#0E7C7B" stroke-width="1.6" opacity="0.3" />
+    {spot.kind === 'circle'
+      ? echo.map((pad, i) => (
+          <circle
+            cx={spot.x}
+            cy={spot.y}
+            r={spot.r + pad}
+            fill={i === 0 ? 'rgba(14,124,123,0.16)' : 'none'}
+            stroke="#0E7C7B"
+            stroke-width={[3, 2, 1.6][i]}
+            opacity={[1, 0.55, 0.3][i]}
+          />
+        ))
+      : echo.map((pad, i) => (
+          <rect
+            x={spot.x0 - pad}
+            y={spot.y - spot.h / 2 - pad}
+            width={spot.x1 - spot.x0 + pad * 2}
+            height={spot.h + pad * 2}
+            rx={spot.h / 2 + pad}
+            fill={i === 0 ? 'rgba(14,124,123,0.16)' : 'none'}
+            stroke="#0E7C7B"
+            stroke-width={[3, 2, 1.6][i]}
+            opacity={[1, 0.55, 0.3][i]}
+          />
+        ))}
   </svg>
 
   {u && (
