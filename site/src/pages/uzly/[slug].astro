@@ -61,11 +61,18 @@ const schema = [
       </nav>
 
       <img
-        src={v(`/uzly/${hub.slug}.svg`)}
+        src={v(`/uzly/podpisi-m/${hub.slug}.svg`)}
         alt={`Схема: ${hub.h1.toLowerCase()}`}
         width="400"
-        height="240"
-        class="mt-4 w-full max-w-md rounded-card"
+        height="336"
+        class="mt-4 w-full rounded-card sm:hidden"
+      />
+      <img
+        src={v(`/uzly/podpisi/${hub.slug}.svg`)}
+        alt={`Схема: ${hub.h1.toLowerCase()}`}
+        width="560"
+        height="320"
+        class="mt-4 hidden w-full max-w-2xl rounded-card sm:block"
       />
 
       <h1 class="mt-5 text-2xl font-bold sm:text-3xl">{hub.h1}</h1>

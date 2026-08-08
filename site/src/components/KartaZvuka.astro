@@ -1,0 +1,85 @@
+---
+/**
+ * Карта звука: силуэт машины с подсвеченной зоной источника
+ * и (если известна) шкалой срочности.
+ *
+ * Срочность передаём только там, где она берётся из данных
+ * (симптом-страницы: максимум по causes). Для pSEO-статей её нет —
+ * карта показывает только зону, ничего не выдумывая.
+ */
+export type Zone = 'motor' | 'koleso' | 'dnishche' | 'zad' | 'salon';
+
+interface Props {
+  zone: Zone;
+  /** Где искать — короткая подпись под заголовком. */
+  caption: string;
+  urgency?: 'ok' | 'warn' | 'stop';
+  class?: string;
+}
+
+const { zone, caption, urgency, class: cls = '' } = Astro.props;
+
+/** Центры зон в системе координат силуэта (0 0 400 230). */
+const SPOTS: Record<Zone, { x: number; y: number; r: number }> = {
+  motor: { x: 62, y: 152, r: 30 },
+  koleso: { x: 77, y: 196, r: 34 },
+  dnishche: { x: 164, y: 190, r: 32 },
+  zad: { x: 262, y: 190, r: 34 },
+  salon: { x: 172, y: 110, r: 32 },
+};
+
+const spot = SPOTS[zone];
+/** Кадр подрезаем под зону: у салона подсветка уходит выше крыши. */
+const viewBox = zone === 'salon' ? '4 46 392 232' : '4 68 392 210';
+
+const CAR =
+  'M 44 196 L 58 196 C 62 176 92 176 96 196 L 232 196 C 236 176 266 176 270 196 ' +
+  'L 300 196 C 316 196 320 188 320 178 L 320 156 C 320 146 312 140 300 137 ' +
+  'L 252 126 L 214 92 C 208 86 200 84 190 84 L 128 84 C 118 84 110 88 104 96 ' +
+  'L 76 130 L 48 138 C 38 141 34 148 34 158 L 34 178 C 34 190 38 196 44 196 Z';
+
+const URGENCY: Record<string, { label: string; step: number; color: string }> = {
+  ok: { label: 'Можно спокойно доехать до сервиса', step: 0, color: '#15803D' },
+  warn: { label: 'Не тянуть: проверить в ближайшие дни', step: 1, color: '#B45309' },
+  stop: { label: 'Ехать в сервис, не откладывая', step: 2, color: '#C2410C' },
+};
+const u = urgency ? URGENCY[urgency] : null;
+---
+
+<figure class={`rounded-card border border-line bg-surface p-5 ${cls}`}>
+  <p class="font-bold">Откуда звук</p>
+  <p class="mt-1 text-s text-ink-soft">{caption}</p>
+
+  <svg
+    viewBox={viewBox}
+    role="img"
+    aria-label={`Силуэт автомобиля, подсвечена зона: ${caption}`}
+    class="mt-3 w-full"
+  >
+    <path d={CAR} fill="#EAEFF3" stroke="#5C6B78" stroke-width="3" stroke-linejoin="round" />
+    <path d="M 112 126 L 146 96 L 186 96 L 186 126 Z" fill="#F5F7F9" stroke="#5C6B78" stroke-width="2.2" />
+    <path d="M 196 96 L 208 96 L 240 126 L 196 126 Z" fill="#F5F7F9" stroke="#5C6B78" stroke-width="2.2" />
+    <circle cx="77" cy="196" r="27" fill="#EAEFF3" stroke="#5C6B78" stroke-width="3" />
+    <circle cx="77" cy="196" r="11" fill="none" stroke="#C9D3DA" stroke-width="2.5" />
+    <circle cx="251" cy="196" r="27" fill="#EAEFF3" stroke="#5C6B78" stroke-width="3" />
+    <circle cx="251" cy="196" r="11" fill="none" stroke="#C9D3DA" stroke-width="2.5" />
+
+    <circle cx={spot.x} cy={spot.y} r={spot.r} fill="rgba(14,124,123,0.16)" stroke="#0E7C7B" stroke-width="3" />
+    <circle cx={spot.x} cy={spot.y} r={spot.r + 12} fill="none" stroke="#0E7C7B" stroke-width="2" opacity="0.55" />
+    <circle cx={spot.x} cy={spot.y} r={spot.r + 24} fill="none" stroke="#0E7C7B" stroke-width="1.6" opacity="0.3" />
+  </svg>
+
+  {u && (
+    <div class="mt-4">
+      <div class="flex gap-1.5" aria-hidden="true">
+        {[0, 1, 2].map((i) => (
+          <span
+            class="h-2.5 flex-1 rounded-full"
+            style={`background:${i === u.step ? u.color : '#C9D3DA'}`}
+          />
+        ))}
+      </div>
+      <p class="mt-2 text-s font-bold" style={`color:${u.color}`}>{u.label}</p>
+    </div>
+  )}
+</figure>

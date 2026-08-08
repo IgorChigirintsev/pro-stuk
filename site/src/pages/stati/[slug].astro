@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import AppCtaCard from '../../components/AppCtaCard.astro';
 import { hubForArticle } from '../../data/hubs';
 import { schemaForArticle } from '../../data/schemas';
+import KartaZvuka, { type Zone } from '../../components/KartaZvuka.astro';
 import { v } from '../../data/assetVersion';
 import { SITE_URL } from '../../../site.config.mjs';
 
@@ -47,8 +48,31 @@ const hub = hubForArticle(article.id);
 const schemaHit = schemaForArticle(article.id);
 // Нет схемы узла — показываем схему раздела: лучше, чем пустое место.
 const schemaImg = schemaHit
-  ? { src: v(`/shemy/${schemaHit.file}.svg`), label: schemaHit.label }
-  : { src: v(`/uzly/${hub.slug}.svg`), label: hub.h1.toLowerCase() };
+  ? {
+      src: v(`/shemy/podpisi/${schemaHit.file}.svg`),
+      // На узком экране подписи сбоку нечитаемы — там вертикальная раскладка с легендой снизу.
+      srcMobile: v(`/shemy/podpisi-m/${schemaHit.file}.svg`),
+      label: schemaHit.label,
+    }
+  : {
+      src: v(`/uzly/podpisi/${hub.slug}.svg`),
+      srcMobile: v(`/uzly/podpisi-m/${hub.slug}.svg`),
+      label: hub.h1.toLowerCase(),
+    };
+
+/**
+ * Зона источника звука для карты. Берём из раздела статьи —
+ * это единственное, что известно достоверно, поэтому срочность здесь не показываем.
+ */
+const ZONE_BY_HUB: Record<string, { zone: Zone; caption: string }> = {
+  dvigatel: { zone: 'motor', caption: 'моторный отсек' },
+  podveska: { zone: 'koleso', caption: 'подвеска, зона колеса' },
+  tormoza: { zone: 'koleso', caption: 'тормозной механизм колеса' },
+  transmissiya: { zone: 'dnishche', caption: 'трансмиссия, под днищем' },
+  vyhlop: { zone: 'zad', caption: 'выхлопная система, вдоль днища к корме' },
+  salon: { zone: 'salon', caption: 'салон' },
+};
+const zoneHit = ZONE_BY_HUB[hub.slug] ?? ZONE_BY_HUB.dvigatel;
 const canonical = `${SITE_URL}/stati/${article.id}/`;
 const schema = [
   {
@@ -124,6 +148,8 @@ const schema = [
         Обновлено {fmtDate(article.data.updated ?? article.data.pubDate)}
       </p>
 
+      <KartaZvuka zone={zoneHit.zone} caption={zoneHit.caption} class="mt-6" />
+
       {toc.length > 1 && (
         <nav class="mt-6 rounded-card border border-line bg-surface p-5" aria-label="Содержание">
           <p class="font-bold">Содержание</p>
@@ -142,12 +168,20 @@ const schema = [
 
       <figure class="mt-8">
           <img
-            src={schemaImg.src}
+            src={schemaImg.srcMobile}
             alt={`Схема: ${schemaImg.label}`}
             width="400"
-            height="240"
+            height="336"
             loading="lazy"
-            class="w-full max-w-md rounded-card"
+            class="w-full rounded-card sm:hidden"
+          />
+          <img
+            src={schemaImg.src}
+            alt={`Схема: ${schemaImg.label}`}
+            width="560"
+            height="320"
+            loading="lazy"
+            class="hidden w-full max-w-2xl rounded-card sm:block"
           />
         <figcaption class="mt-2 text-s text-ink-soft">
           Схема: {schemaImg.label}
