@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import '../schema_pick.dart';
+import '../widgets/schema_view.dart';
 
 import '../models.dart';
 import '../state.dart';
@@ -44,6 +46,19 @@ class VerdictScreen extends StatelessWidget {
                     ),
                   ],
                   const SizedBox(height: 16),
+                  FutureBuilder<SchemaPick?>(
+                    future: SchemaPicker.forCauses(
+                        [leaf.topCause, ...leaf.altCauses]),
+                    builder: (context, snap) {
+                      final hit = snap.data;
+                      if (hit == null) return const SizedBox.shrink();
+                      return Padding(
+                        padding: const EdgeInsets.only(bottom: 16),
+                        child: SchemaView(
+                            schemaKey: hit.key, marks: hit.marks),
+                      );
+                    },
+                  ),
                 ],
               ),
             ),

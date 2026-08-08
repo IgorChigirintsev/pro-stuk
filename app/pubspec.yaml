@@ -63,6 +63,7 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
+    - assets/schemes/
     - assets/tree.json
     - assets/google_fonts/
 

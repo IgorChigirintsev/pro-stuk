@@ -27,6 +27,10 @@ type Report struct {
 	MechanicQuestions []string `json:"mechanic_questions"`
 	RedFlags          []string `json:"red_flags"`
 	Disclaimer        string   `json:"disclaimer"`
+	// Схема узла и номера деталей для подсветки в клиенте.
+	// Пустой ключ означает «схемы для такой причины нет» — это нормально.
+	SchemaKey   string `json:"schema_key,omitempty"`
+	SchemaMarks []int  `json:"schema_marks,omitempty"`
 }
 
 // Car — данные автомобиля из анкеты.

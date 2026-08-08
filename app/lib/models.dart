@@ -89,6 +89,9 @@ class ReportData {
   final List<String> mechanicQuestions;
   final List<String> redFlags;
   final String disclaimer;
+  /// Схема узла и номера деталей для подсветки. Пусто — схемы нет, это нормально.
+  final String schemaKey;
+  final List<int> schemaMarks;
 
   const ReportData({
     required this.causes,
@@ -98,6 +101,8 @@ class ReportData {
     required this.mechanicQuestions,
     required this.redFlags,
     required this.disclaimer,
+    this.schemaKey = '',
+    this.schemaMarks = const [],
   });
 
   factory ReportData.fromJson(Map<String, dynamic> j) => ReportData(
@@ -112,6 +117,10 @@ class ReportData {
             (j['mechanic_questions'] as List? ?? []).cast<String>(),
         redFlags: (j['red_flags'] as List? ?? []).cast<String>(),
         disclaimer: j['disclaimer'] as String? ?? '',
+        schemaKey: j['schema_key'] as String? ?? '',
+        schemaMarks: (j['schema_marks'] as List? ?? [])
+            .map((e) => (e as num).toInt())
+            .toList(),
       );
 
   Map<String, dynamic> toJson() => {
@@ -122,6 +131,8 @@ class ReportData {
         'mechanic_questions': mechanicQuestions,
         'red_flags': redFlags,
         'disclaimer': disclaimer,
+        'schema_key': schemaKey,
+        'schema_marks': schemaMarks,
       };
 }
 

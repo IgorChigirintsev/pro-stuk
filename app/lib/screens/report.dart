@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../widgets/schema_view.dart';
 
 import '../models.dart';
 import '../strings.dart';
@@ -53,6 +54,11 @@ class ReportScreen extends StatelessWidget {
                 padding: const EdgeInsets.only(bottom: 12),
                 child: _CauseCard(cause: c),
               ),
+            if (report.schemaKey.isNotEmpty) ...[
+              const SizedBox(height: 20),
+              SchemaView(
+                  schemaKey: report.schemaKey, marks: report.schemaMarks),
+            ],
             if (report.mechanicBrief.isNotEmpty) ...[
               const SectionTitle(S.repBrief),
               SurfaceCard(

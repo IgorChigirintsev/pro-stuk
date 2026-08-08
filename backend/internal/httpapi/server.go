@@ -20,6 +20,7 @@ import (
 	"stuk/backend/internal/dsp"
 	"stuk/backend/internal/gemini"
 	"stuk/backend/internal/report"
+	"stuk/backend/internal/schema"
 	"stuk/backend/internal/state"
 	"stuk/backend/internal/stats"
 	"stuk/backend/internal/wavio"
@@ -165,6 +166,14 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 		})
 		return
 	}
+
+
+	// Схема узла для подсветки в клиенте: берём по названиям причин отчёта.
+	causes := make([]string, 0, len(rep.Causes))
+	for _, c := range rep.Causes {
+		causes = append(causes, c.Title)
+	}
+	rep.SchemaKey, rep.SchemaMarks = schema.For(causes)
 
 	writeJSON(w, http.StatusOK, struct {
 		report.Report
