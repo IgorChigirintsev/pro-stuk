@@ -26,7 +26,11 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    <!-- /favicon.ico и /apple-touch-icon.png роботы запрашивают сами, даже если не объявлены:
+         без файлов это давало 404 в отчёте Search Console. -->
+    <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="icon" type="image/png" href="/icon.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
