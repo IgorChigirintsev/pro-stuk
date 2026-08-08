@@ -1,13 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Схема поршня и шатунного вкладыша"><title>Схема поршня и шатунного вкладыша</title><rect width="400" height="240" rx="16" fill="#F5F7F9"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
-<path d="M 104 28 v 96 M 200 28 v 96" stroke="#5C6B78" stroke-width="4"/>
-<path d="M 104 28 h 96" stroke="#DFE5EA" stroke-width="4"/>
-<rect x="110" y="42" width="84" height="50" rx="6" stroke="#5C6B78" stroke-width="3"/>
-<path d="M 110 56 h 84 M 110 68 h 84" stroke="#DFE5EA" stroke-width="3"/>
-<circle cx="152" cy="82" r="7" stroke="#5C6B78" stroke-width="3"/>
-<path d="M 152 82 L 172 148" stroke="#5C6B78" stroke-width="7"/>
-<circle cx="176" cy="166" r="24" stroke="#0E7C7B" stroke-width="4"/>
-<circle cx="176" cy="166" r="12" stroke="#0E7C7B" stroke-width="3"/>
-<circle cx="140" cy="182" r="44" stroke="#DFE5EA" stroke-width="4"/>
-<path d="M 140 182 L 176 166" stroke="#DFE5EA" stroke-width="4"/>
-<circle cx="140" cy="182" r="8" stroke="#5C6B78" stroke-width="3"/>
-<path d="M 262 137 A 13 13 0 0 1 262 163" stroke="#0E7C7B" stroke-width="3" opacity="0.80"/><path d="M 262 122 A 28 28 0 0 1 262 178" stroke="#0E7C7B" stroke-width="3" opacity="0.60"/></g></svg>
+<path d="M 106.0 26.0 L 106.0 150.0" stroke="#5C6B78" stroke-width="3.5"/>
+<path d="M 194.0 26.0 L 194.0 150.0" stroke="#5C6B78" stroke-width="3.5"/>
+<path d="M 106.0 26.0 L 194.0 26.0" stroke="#C9D3DA" stroke-width="3"/>
+<rect x="110.0" y="36.0" width="80.0" height="54.0" rx="5" stroke="#5C6B78" stroke-width="3" fill="#F5F7F9"/>
+<path d="M 110.0 44.0 L 190.0 44.0" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 110.0 52.0 L 190.0 52.0" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 110.0 60.0 L 190.0 60.0" stroke="#0E7C7B" stroke-width="3"/>
+<circle cx="150.0" cy="76.0" r="8.0" stroke="#5C6B78" stroke-width="3" fill="none"/>
+<path d="M 144.0 82.0 L 156.0 82.0 L 184.0 156.0 L 168.0 156.0 Z" stroke="#5C6B78" stroke-width="3.5" fill="#F5F7F9"/>
+<circle cx="176.0" cy="176.0" r="26.0" stroke="#0E7C7B" stroke-width="3.5" fill="none"/>
+<circle cx="176.0" cy="176.0" r="19.0" stroke="#0E7C7B" stroke-width="3" fill="none"/>
+<circle cx="176.0" cy="176.0" r="8.0" stroke="#5C6B78" stroke-width="2.5" fill="none"/>
+<circle cx="140.0" cy="190.0" r="52.0" stroke="#C9D3DA" stroke-width="3" fill="none"/>
+<path d="M 140.0 190.0 L 176.0 176.0" stroke="#C9D3DA" stroke-width="3"/>
+<circle cx="140.0" cy="190.0" r="7.0" stroke="#5C6B78" stroke-width="2.5" fill="none"/>
+<path d="M 258 137 A 13 13 0 0 1 258 163" stroke="#0E7C7B" stroke-width="3" opacity="0.75"/><path d="M 258 122 A 28 28 0 0 1 258 178" stroke="#0E7C7B" stroke-width="3" opacity="0.55"/></g></svg>

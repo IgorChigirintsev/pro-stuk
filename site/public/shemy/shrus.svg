@@ -1,10 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Схема ШРУСа с пыльником"><title>Схема ШРУСа с пыльником</title><rect width="400" height="240" rx="16" fill="#F5F7F9"/><g fill="none" stroke-linecap="round" stroke-linejoin="round">
-<path d="M 30 120 h 112" stroke="#5C6B78" stroke-width="11"/>
-<path d="M 142 104 h 10 v 32 h -10 Z" stroke="#5C6B78" stroke-width="3"/>
-<path d="M 152 108 L 246 86 M 152 132 L 246 154" stroke="#0E7C7B" stroke-width="4"/>
-<path d="M 156 110 v 20" stroke="#0E7C7B" stroke-width="3"/><path d="M 171 108 v 25" stroke="#0E7C7B" stroke-width="3"/><path d="M 186 105 v 30" stroke="#0E7C7B" stroke-width="3"/><path d="M 201 102 v 35" stroke="#0E7C7B" stroke-width="3"/><path d="M 216 100 v 40" stroke="#0E7C7B" stroke-width="3"/><path d="M 231 98 v 45" stroke="#0E7C7B" stroke-width="3"/>
-<circle cx="272" cy="120" r="36" stroke="#5C6B78" stroke-width="3"/>
-<circle cx="294.0" cy="120.0" r="6" stroke="#5C6B78" stroke-width="3"/><circle cx="283.0" cy="139.05255888325766" r="6" stroke="#5C6B78" stroke-width="3"/><circle cx="261.0" cy="139.05255888325766" r="6" stroke="#5C6B78" stroke-width="3"/><circle cx="250.0" cy="120.0" r="6" stroke="#5C6B78" stroke-width="3"/><circle cx="261.0" cy="100.94744111674235" r="6" stroke="#5C6B78" stroke-width="3"/><circle cx="283.0" cy="100.94744111674235" r="6" stroke="#5C6B78" stroke-width="3"/>
-<circle cx="272" cy="120" r="10" stroke="#DFE5EA" stroke-width="3"/>
-<path d="M 308 120 h 24" stroke="#5C6B78" stroke-width="9"/>
-<path d="M 348 107 A 13 13 0 0 1 348 133" stroke="#0E7C7B" stroke-width="3" opacity="0.80"/><path d="M 348 92 A 28 28 0 0 1 348 148" stroke="#0E7C7B" stroke-width="3" opacity="0.60"/></g></svg>
+<path d="M 28.0 120.0 L 150.0 120.0" stroke="#5C6B78" stroke-width="12"/>
+<rect x="144.0" y="104.0" width="10.0" height="32.0" rx="3" stroke="#5C6B78" stroke-width="3" fill="#F5F7F9"/>
+<path d="M 150.0 105.0 L 162.0 97.4 L 174.0 99.8 L 186.0 92.2 L 198.0 94.6 L 210.0 87.0 L 222.0 89.4 L 234.0 81.8 L 246.0 84.2" stroke="#0E7C7B" stroke-width="3" fill="none"/>
+<path d="M 150.0 135.0 L 162.0 142.6 L 174.0 140.2 L 186.0 147.8 L 198.0 145.4 L 210.0 153.0 L 222.0 150.6 L 234.0 158.2 L 246.0 155.8" stroke="#0E7C7B" stroke-width="3" fill="none"/>
+<path d="M 150.0 100.0 L 150.0 140.0" stroke="#0E7C7B" stroke-width="3"/>
+<path d="M 258.0 77.0 L 258.0 163.0" stroke="#0E7C7B" stroke-width="3"/>
+<circle cx="268.0" cy="120.0" r="42.0" stroke="#5C6B78" stroke-width="3.5" fill="none"/>
+<circle cx="268.0" cy="120.0" r="34.0" stroke="#C9D3DA" stroke-width="2.5" fill="none"/>
+<circle cx="294.0" cy="120.0" r="7.0" stroke="#5C6B78" stroke-width="2.5" fill="#F5F7F9"/><circle cx="281.0" cy="142.5" r="7.0" stroke="#5C6B78" stroke-width="2.5" fill="#F5F7F9"/><circle cx="255.0" cy="142.5" r="7.0" stroke="#5C6B78" stroke-width="2.5" fill="#F5F7F9"/><circle cx="242.0" cy="120.0" r="7.0" stroke="#5C6B78" stroke-width="2.5" fill="#F5F7F9"/><circle cx="255.0" cy="97.5" r="7.0" stroke="#5C6B78" stroke-width="2.5" fill="#F5F7F9"/><circle cx="281.0" cy="97.5" r="7.0" stroke="#5C6B78" stroke-width="2.5" fill="#F5F7F9"/>
+<circle cx="268.0" cy="120.0" r="13.0" stroke="#5C6B78" stroke-width="3" fill="none"/>
+<path d="M 281.0 120.0 L 287.0 120.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 279.3 126.5 L 284.5 129.5" stroke="#C9D3DA" stroke-width="2"/><path d="M 274.5 131.3 L 277.5 136.5" stroke="#C9D3DA" stroke-width="2"/><path d="M 268.0 133.0 L 268.0 139.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 261.5 131.3 L 258.5 136.5" stroke="#C9D3DA" stroke-width="2"/><path d="M 256.7 126.5 L 251.5 129.5" stroke="#C9D3DA" stroke-width="2"/><path d="M 255.0 120.0 L 249.0 120.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 256.7 113.5 L 251.5 110.5" stroke="#C9D3DA" stroke-width="2"/><path d="M 261.5 108.7 L 258.5 103.5" stroke="#C9D3DA" stroke-width="2"/><path d="M 268.0 107.0 L 268.0 101.0" stroke="#C9D3DA" stroke-width="2"/><path d="M 274.5 108.7 L 277.5 103.5" stroke="#C9D3DA" stroke-width="2"/><path d="M 279.3 113.5 L 284.5 110.5" stroke="#C9D3DA" stroke-width="2"/>
+<path d="M 346 107 A 13 13 0 0 1 346 133" stroke="#0E7C7B" stroke-width="3" opacity="0.75"/><path d="M 346 92 A 28 28 0 0 1 346 148" stroke="#0E7C7B" stroke-width="3" opacity="0.55"/></g></svg>
