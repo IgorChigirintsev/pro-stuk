@@ -24,7 +24,7 @@
 <rect x="128.0" y="51.0" width="92.0" height="6.0" rx="1" stroke="#0E7C7B" stroke-width="1.6" fill="#E3EFEF"/>
 <rect x="128.0" y="62.0" width="92.0" height="7.0" rx="1" stroke="#0E7C7B" stroke-width="1.6" fill="#E3EFEF"/>
 <circle cx="140.0" cy="65.5" r="1.6" stroke="#0E7C7B" stroke-width="1.1" fill="#0E7C7B"/><circle cx="157.0" cy="65.5" r="1.6" stroke="#0E7C7B" stroke-width="1.1" fill="#0E7C7B"/><circle cx="174.0" cy="65.5" r="1.6" stroke="#0E7C7B" stroke-width="1.1" fill="#0E7C7B"/><circle cx="191.0" cy="65.5" r="1.6" stroke="#0E7C7B" stroke-width="1.1" fill="#0E7C7B"/><circle cx="208.0" cy="65.5" r="1.6" stroke="#0E7C7B" stroke-width="1.1" fill="#0E7C7B"/>
-<circle cx="174.0" cy="78.0" r="10.0" stroke="#5C6B78" stroke-width="2.3" fill="#EAEFF3"/><path d="M 186.6 81.4 A 13 13 0 1 0 186.6 74.6" stroke="#5C6B78" stroke-width="1.6" fill="none"/><circle cx="186.6" cy="81.4" r="2.0" stroke="#5C6B78" stroke-width="1.1" fill="#EAEFF3"/><circle cx="186.6" cy="74.6" r="2.0" stroke="#5C6B78" stroke-width="1.1" fill="#EAEFF3"/>
+<circle cx="174.0" cy="78.0" r="10.0" stroke="#5C6B78" stroke-width="2.3" fill="#EAEFF3"/><path d="M 186.6 81.4 A 13 13 0 1 1 186.6 74.6" stroke="#5C6B78" stroke-width="1.6" fill="none"/><circle cx="186.6" cy="81.4" r="2.0" stroke="#5C6B78" stroke-width="1.1" fill="#EAEFF3"/><circle cx="186.6" cy="74.6" r="2.0" stroke="#5C6B78" stroke-width="1.1" fill="#EAEFF3"/>
 <path d="M 164.0 88.0 L 184.0 88.0 L 211.0 142.0 L 185.0 142.0 Z" stroke="#5C6B78" stroke-width="3.4" fill="#EAEFF3"/>
 <path d="M 170.0 92.0 L 191.0 140.0" stroke="#C9D3DA" stroke-width="1.1"/>
 <circle cx="198.0" cy="168.0" r="28.0" stroke="#5C6B78" stroke-width="3.4" fill="#EAEFF3"/>

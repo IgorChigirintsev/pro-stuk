@@ -29,11 +29,11 @@ type Spot =
   | { kind: 'capsule'; x0: number; x1: number; y: number; h: number };
 
 const SPOTS: Record<Zone, Spot> = {
-  motor: { kind: 'capsule', x0: 44, x1: 126, y: 142, h: 34 },
-  koleso: { kind: 'circle', x: 96, y: 168, r: 40 },
-  salon: { kind: 'circle', x: 214, y: 104, r: 40 },
-  dnishche: { kind: 'capsule', x0: 128, x1: 268, y: 180, h: 18 },
-  zad: { kind: 'capsule', x0: 136, x1: 356, y: 182, h: 18 },
+  motor: { kind: 'capsule', x0: 44, x1: 124, y: 140, h: 36 },
+  koleso: { kind: 'circle', x: 96, y: 169, r: 42 },
+  salon: { kind: 'circle', x: 212, y: 98, r: 42 },
+  dnishche: { kind: 'capsule', x0: 130, x1: 266, y: 182, h: 18 },
+  zad: { kind: 'capsule', x0: 138, x1: 352, y: 184, h: 18 },
 };
 
 const spot = SPOTS[zone];
@@ -42,12 +42,16 @@ const echo = [0, 12, 24];
 /** Кадр подрезаем под зону: у салона подсветка уходит выше крыши. */
 const viewBox = zone === 'salon' ? '8 32 384 204' : '8 58 384 178';
 
-/** Кузов седана: длинный капот слева, вертикальная корма справа, вырезы арок. */
+/** Кузов: колёсная база по третям, выраженная оконная линия, вырезы арок. */
 const BODY =
-  'M 24 152 C 24 138 30 131 44 127 L 74 121 L 132 110 L 172 72 L 258 70 ' +
-  'L 300 102 L 352 108 C 366 110 374 120 374 136 L 374 158 ' +
-  'C 374 165 370 168 364 168 L 330 168 A 34 34 0 0 0 262 168 ' +
-  'L 130 168 A 34 34 0 0 0 62 168 L 32 168 C 26 167 24 163 24 158 Z';
+  'M 26 150 C 26 136 32 128 46 123 L 74 117 L 128 110 L 170 64 L 258 62 ' +
+  'L 302 100 L 350 105 C 366 107 374 117 375 133 L 376 154 ' +
+  'C 376 164 371 169 362 169 L 332 169 A 36 36 0 0 0 260 169 ' +
+  'L 132 169 A 36 36 0 0 0 60 169 L 34 169 C 28 168 26 163 26 157 Z';
+
+/** Оконный проём с racками стоек: передняя дверь, задняя дверь. */
+const GLASS_F = 'M 138 104 L 174 70 L 206 70 L 206 104 Z';
+const GLASS_R = 'M 214 70 L 250 70 L 286 104 L 214 104 Z';
 
 const URGENCY: Record<string, { label: string; step: number; color: string }> = {
   ok: { label: 'Можно спокойно доехать до сервиса', step: 0, color: '#15803D' },
@@ -74,44 +78,53 @@ const GLASS = '#F5F7F9';
   >
     <path d={BODY} fill={SKIN} stroke={INK} stroke-width="3" stroke-linejoin="round" />
 
-    <!-- стёкла: переднее делится стойкой, заднее сужается к корме -->
-    <path d="M 142 106 L 176 78 L 210 78 L 210 106 Z" fill={GLASS} stroke={INK} stroke-width="2.2" />
-    <path d="M 218 78 L 250 78 L 284 106 L 218 106 Z" fill={GLASS} stroke={INK} stroke-width="2.2" />
+    <!-- стёкла и стойки -->
+    <path d={GLASS_F} fill={GLASS} stroke={INK} stroke-width="2.2" stroke-linejoin="round" />
+    <path d={GLASS_R} fill={GLASS} stroke={INK} stroke-width="2.2" stroke-linejoin="round" />
 
-    <!-- линия окон, дверной шов и ручки -->
-    <path d="M 136 108 L 292 108" stroke={LINE} stroke-width="2" />
-    <path d="M 214 108 L 214 166" stroke={LINE} stroke-width="2" />
-    <rect x="196" y="118" width="16" height="5" rx="2.5" fill={LINE} />
-    <rect x="228" y="118" width="16" height="5" rx="2.5" fill={LINE} />
-    <!-- зеркало -->
-    <path d="M 140 103 L 128 101 L 129 111 L 140 111 Z" fill={SKIN} stroke={INK} stroke-width="2.2" stroke-linejoin="round" />
+    <!-- оконная линия, швы дверей, ручки, зеркало -->
+    <path d="M 132 106 L 294 106" stroke={LINE} stroke-width="2" />
+    <path d="M 210 106 L 210 167" stroke={LINE} stroke-width="2" />
+    <path d="M 138 110 L 140 166" stroke={LINE} stroke-width="1.6" />
+    <path d="M 286 108 L 292 166" stroke={LINE} stroke-width="1.6" />
+    <rect x="190" y="118" width="17" height="5" rx="2.5" fill={LINE} />
+    <rect x="224" y="118" width="17" height="5" rx="2.5" fill={LINE} />
+    <path d="M 134 158 L 258 158" stroke={LINE} stroke-width="1.6" />
+    <path d="M 332 156 L 356 155" stroke={LINE} stroke-width="1.6" />
+    <path d="M 136 100 L 122 97 L 121 108 L 135 109 Z" fill={SKIN} stroke={INK}
+      stroke-width="2.2" stroke-linejoin="round" />
 
-    <!-- перёд: фара со скосом, решётка, бампер -->
-    <path d="M 34 134 L 58 128 L 61 140 L 37 145 Z" fill={GLASS} stroke={INK} stroke-width="2.4" stroke-linejoin="round" />
-    <path d="M 31 153 L 55 149" stroke={INK} stroke-width="2.4" />
-    <path d="M 32 160 L 51 157" stroke={LINE} stroke-width="2" />
+    <!-- перёд: фара с линзой, решётка, бампер -->
+    <path d="M 33 128 L 60 121 L 64 134 L 36 140 Z" fill={GLASS} stroke={INK}
+      stroke-width="2.4" stroke-linejoin="round" />
+    <path d="M 41 129 L 57 125" stroke={LINE} stroke-width="1.6" />
+    <path d="M 29 146 L 58 141" stroke={INK} stroke-width="2.4" />
+    <path d="M 30 153 L 52 149" stroke={LINE} stroke-width="1.8" />
+    <path d="M 27 160 L 46 157" stroke={LINE} stroke-width="1.8" />
 
-    <!-- корма: вертикальный фонарь и бампер -->
-    <rect x="356" y="116" width="14" height="24" rx="3" fill={GLASS} stroke={INK} stroke-width="2.4" />
-    <path d="M 348 152 L 372 152" stroke={INK} stroke-width="2.4" />
+    <!-- корма: фонарь с секцией и бампер -->
+    <rect x="356" y="112" width="16" height="26" rx="3" fill={GLASS} stroke={INK} stroke-width="2.4" />
+    <path d="M 356 126 L 372 126" stroke={LINE} stroke-width="1.6" />
+    <path d="M 344 152 L 374 151" stroke={INK} stroke-width="2.4" />
 
-    <!-- колёса со спицами -->
+    <!-- колёса: шина, диск со спицами, ступица -->
     {[96, 296].map((cx) => (
       <>
-        <circle cx={cx} cy="168" r="34" fill={SKIN} stroke={INK} stroke-width="3" />
-        <circle cx={cx} cy="168" r="21" fill={GLASS} stroke={INK} stroke-width="2.4" />
+        <circle cx={cx} cy="169" r="36" fill={SKIN} stroke={INK} stroke-width="3" />
+        <circle cx={cx} cy="169" r="29" fill="none" stroke={LINE} stroke-width="1.6" />
+        <circle cx={cx} cy="169" r="22" fill={GLASS} stroke={INK} stroke-width="2.4" />
         {[0, 72, 144, 216, 288].map((a) => (
           <path
-            d={`M ${cx + 7 * Math.cos((a * Math.PI) / 180)} ${168 + 7 * Math.sin((a * Math.PI) / 180)} L ${cx + 19 * Math.cos((a * Math.PI) / 180)} ${168 + 19 * Math.sin((a * Math.PI) / 180)}`}
+            d={`M ${cx + 7 * Math.cos((a * Math.PI) / 180)} ${169 + 7 * Math.sin((a * Math.PI) / 180)} L ${cx + 20 * Math.cos((a * Math.PI) / 180)} ${169 + 20 * Math.sin((a * Math.PI) / 180)}`}
             stroke={LINE}
             stroke-width="2.2"
           />
         ))}
-        <circle cx={cx} cy="168" r="6" fill={LINE} />
+        <circle cx={cx} cy="169" r="6" fill={LINE} />
       </>
     ))}
 
-    <path d="M 18 206 L 382 206" stroke={LINE} stroke-width="2.5" />
+    <path d="M 18 208 L 382 208" stroke={LINE} stroke-width="2.5" />
 
     {spot.kind === 'circle'
       ? echo.map((pad, i) => (
