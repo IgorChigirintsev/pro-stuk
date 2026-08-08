@@ -25,6 +25,9 @@ const URGENCY = {
  * Интерактивное дерево диагностики. startNode — узел, с которого стартует
  * страница (релевантная ветка симптома, не корень).
  */
+import SchemaHighlight from './SchemaHighlight';
+import { highlightFor } from '../data/schemaHighlight';
+
 export default function TreeWidget({ startNode }: { startNode: string }) {
   const [path, setPath] = useState<string[]>([startNode]);
   const nodeId = path[path.length - 1]!;
@@ -65,6 +68,12 @@ export default function TreeWidget({ startNode }: { startNode: string }) {
             <p className="mt-1 text-l font-bold">{node.top_cause}</p>
           </div>
           {node.explanation && <p className="mt-4 text-ink-soft">{node.explanation}</p>}
+          {(() => {
+            // Схему и подсветку берём из текста причин: подсвечиваем только то,
+            // что реально названо, иначе показываем схему узла без пометок.
+            const hl = highlightFor([node.top_cause ?? '', ...(node.alt_causes ?? [])]);
+            return hl ? <SchemaHighlight schemaKey={hl.key} marks={hl.marks} /> : null;
+          })()}
           <a
             href="#skachat"
             className="mt-5 inline-block rounded-btn bg-accent px-6 py-3.5 font-semibold text-white no-underline hover:opacity-90"
