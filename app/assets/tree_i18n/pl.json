@@ -1,0 +1,78 @@
+{
+ "q_when": {
+  "text": "Kiedy słychać ten dźwięk?",
+  "options": {
+   "o1": "Przy rozruchu albo przy próbie odpalenia",
+   "o2": "Na postoju, przy pracującym silniku",
+   "o3": "Tylko w jeździe",
+   "o4": "I na postoju, i w jeździe"
+  }
+ },
+ "q_start_char": {
+  "text": "Co słychać przy przekręceniu kluczyka albo wciśnięciu przycisku start?",
+  "options": {
+   "o1": "Kliknięcia, a silnik nie obraca się",
+   "o2": "Metaliczny zgrzyt, gdy rozrusznik kręci",
+   "o3": "Rozrusznik buczy, ale silnik nie łapie",
+   "o4": "Pisk albo gwizd zaraz po odpaleniu silnika"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Jakie dokładnie kliknięcia?",
+  "options": {
+   "o1": "Szybkie stukanie, a kontrolki na desce przygasają",
+   "o2": "Jedno wyraźne kliknięcie i cisza"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Dźwięk pojawia się tylko wtedy, gdy coś włączasz lub naciskasz (ogrzewanie, klimatyzacja, sprzęgło, kierownica, hamulec)?",
+  "options": {
+   "o1": "Tak, jest związany z konkretną czynnością",
+   "o2": "Nie, słychać go sam z siebie"
+  }
+ },
+ "q_action": {
+  "text": "Z jaką czynnością wiąże się dźwięk?",
+  "options": {
+   "o1": "Z ogrzewaniem albo dmuchawą",
+   "o2": "Z przyciskiem klimatyzacji",
+   "o3": "Z pedałem sprzęgła",
+   "o4": "Z kierownicą, pedałem hamulca albo wycieraczkami"
+  }
+ },
+ "q_hvac": {
+  "text": "Jaki dźwięk przy włączonej dmuchawie?",
+  "options": {
+   "o1": "Szelest albo trzaski, zmieniają się z prędkością dmuchawy",
+   "o2": "Pisk albo wycie spod deski rozdzielczej",
+   "o3": "Seria kliknięć za deską przy zmianie temperatury albo nawiewu",
+   "o4": "Bulgotanie za deską rozdzielczą"
+  }
+ },
+ "q_ac": {
+  "text": "Co słychać przy włączeniu klimatyzacji?",
+  "options": {
+   "o1": "Pisk w chwili załączenia",
+   "o2": "Zgrzyt albo łomot, dopóki klimatyzacja pracuje",
+   "o3": "Krótkie syknięcie przy włączeniu lub wyłączeniu, a chłodzi dobrze"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Jak dźwięk wiąże się z pedałem sprzęgła?",
+  "options": {
+   "o1": "Szelest albo buczenie przy puszczonym pedale; po wciśnięciu cichnie",
+   "o2": "Pojawia się albo nasila, gdy pedał jest wciśnięty",
+   "o3": "Grzechotanie na wolnych obrotach, które zmienia się po wciśnięciu pedału",
+   "o4": "Skrzypienie przy naciskaniu, słychać nawet przy zgaszonym silniku"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "Z czym dokładnie wiąże się dźwięk?",
+  "options": {
+   "o1": "Wycie albo buczenie przy kręceniu kierownicą",
+   "o2": "Chrupanie przy kręceniu kierownicą na postoju",
+   "o3": "Syczenie spod deski przy naciskaniu pedału hamulca",
+   "o4": "Stukanie albo skrzypienie w rytm wycieraczek"
+  }
+ }
+}
