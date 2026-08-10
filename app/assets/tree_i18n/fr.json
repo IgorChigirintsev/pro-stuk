@@ -141,5 +141,77 @@
    "o1": "Oui, plus rapide et plus fort",
    "o2": "Il ne change presque pas, ou il disparaît"
   }
+ },
+ "q_squeal": {
+  "text": "Quel genre de bruit est-ce ?",
+  "options": {
+   "o1": "Un sifflement aigu et strident",
+   "o2": "Un bourdonnement ou un bruissement régulier",
+   "o3": "Un chuintement régulier, comme l'air qui s'échappe d'un pneu"
+  }
+ },
+ "q_hum_source": {
+  "text": "D'où vient le bourdonnement ?",
+  "options": {
+   "o1": "De l'avant, sous le capot, et il change avec le régime moteur",
+   "o2": "Il se déclenche et s'arrête tout seul : par forte chaleur, dans les bouchons, avec la clim",
+   "o3": "De l'arrière, vers le réservoir ; on l'entend dès le contact, avant même de démarrer"
+  }
+ },
+ "q_pump_check": {
+  "text": "Y a-t-il sous le capot, près de la courroie, des coulures ou des traces de liquide ?",
+  "options": {
+   "o1": "Oui, c'est humide ou ça sent le liquide de refroidissement",
+   "o2": "Tout est sec",
+   "o3": "Je n'ai pas pu regarder"
+  }
+ },
+ "q_rattle": {
+  "text": "Quel bruit et d’où ?",
+  "options": {
+   "o1": "Un cliquetis métallique sous la voiture",
+   "o2": "Des pétarades ou des détonations à l'échappement",
+   "o3": "Un gargouillis derrière la planche de bord"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "En plus du cliquetis, la voiture a-t-elle perdu de la reprise ou l'échappement sent-il bizarre ?",
+  "options": {
+   "o1": "Oui, elle tire moins ou l'odeur a changé",
+   "o2": "Non, ça cliquette seulement à certains régimes"
+  }
+ },
+ "q_move_when": {
+  "text": "Quand le bruit se manifeste-t-il le plus en roulant ?",
+  "options": {
+   "o1": "Au freinage",
+   "o2": "En virage ou quand on tourne le volant",
+   "o3": "Sur les bosses et les nids-de-poule",
+   "o4": "À l'accélération, au passage des vitesses ou en permanence"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Le bruit n'apparaît-il qu'aux premiers freinages après un stationnement ou sous la pluie, puis disparaît ?",
+  "options": {
+   "o1": "Oui, il disparaît vite",
+   "o2": "Non, on l’entend à chaque freinage"
+  }
+ },
+ "q_brake_char": {
+  "text": "Quel bruit fait-elle au freinage ?",
+  "options": {
+   "o1": "Un sifflement ou un grincement",
+   "o2": "Un frottement métal contre métal",
+   "o3": "Un cognement ou des pulsations dans la pédale"
+  }
+ },
+ "q_turn_char": {
+  "text": "Qu’entend-on en virage ?",
+  "options": {
+   "o1": "Un bourdonnement à vitesse, plus fort d’un côté",
+   "o2": "Des claquements ou des craquements volant braqué à fond",
+   "o3": "Un cognement quand on tourne le volant",
+   "o4": "Un hurlement ou un bourdonnement quand on tourne le volant à l'arrêt ou en manœuvre"
+  }
  }
 }
