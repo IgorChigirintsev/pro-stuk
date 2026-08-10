@@ -213,5 +213,84 @@
    "o3": "Un colpo girando il volante",
    "o4": "Un ululato o ronzio girando il volante da fermo o in manovra"
   }
+ },
+ "q_bump_char": {
+  "text": "Che rumore fa sulle buche?",
+  "options": {
+   "o1": "Un colpo o un urto metallico",
+   "o2": "Un cigolio, come un vecchio letto",
+   "o3": "Un sferragliare o rimbombo",
+   "o4": "Un solo colpo secco alla prima partenza dopo una lunga sosta"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Che tipo di colpo esattamente?",
+  "options": {
+   "o1": "Un colpo sordo e ripetuto sulle irregolarità piccole",
+   "o2": "Colpi sordi isolati su buche e dossi",
+   "o3": "Il colpo arriva dritto al volante, si sente nelle mani",
+   "o4": "L’urto è comparso di colpo dopo una buca e un angolo dell’auto si è abbassato"
+  }
+ },
+ "q_bump_where": {
+  "text": "Il colpo arriva da davanti o da dietro?",
+  "options": {
+   "o1": "Da davanti",
+   "o2": "Da dietro",
+   "o3": "Difficile capirlo"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Da dove arriva il sferragliare?",
+  "options": {
+   "o1": "Da sotto la vettura",
+   "o2": "Dall’abitacolo: plancia, portiere, grilli",
+   "o3": "Dal bagagliaio, come se qualcosa rotolasse",
+   "o4": "Da davanti in alto, verso il cofano"
+  }
+ },
+ "q_move_manner": {
+  "text": "Che rapporto ha il rumore con la guida?",
+  "options": {
+   "o1": "Compare accelerando o rilasciando il gas",
+   "o2": "Nel momento del cambio marcia o della partenza",
+   "o3": "Si sente di continuo, finché l’auto è in movimento",
+   "o4": "È più una vibrazione o un tremolio che un rumore"
+  }
+ },
+ "q_accel_char": {
+  "text": "A che cosa assomiglia il rumore accelerando?",
+  "options": {
+   "o1": "Un tintinnio metallico, soprattutto in salita",
+   "o2": "Un colpo nel momento in cui si accelera o si rilascia il gas",
+   "o3": "Scoppi o un rombo forte allo scarico",
+   "o4": "Un ululato o fischio sotto sforzo"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Scoppi o rombo?",
+  "options": {
+   "o1": "Scoppi",
+   "o2": "Un rombo, più forte accelerando; l’auto tira come sempre",
+   "o3": "Il motore urla, i giri salgono ma l’auto non accelera; a volte c’è odore di bruciato"
+  }
+ },
+ "q_load_whine": {
+  "text": "Che tipo di ululato sotto sforzo?",
+  "options": {
+   "o1": "Un fischio acuto solo accelerando, che sparisce rilasciando il gas (motore turbo)",
+   "o2": "Un ronzio il cui tono cambia accelerando e rilasciando alla stessa velocità",
+   "o3": "Un ululato monotono in accelerazione; il cambio è un CVT o un automatico",
+   "o4": "L’ululato è più forte su una marcia e più debole su un’altra; cambio manuale"
+  }
+ },
+ "q_shift_char": {
+  "text": "Che cosa succede cambiando marcia o partendo?",
+  "options": {
+   "o1": "Uno strappo o un colpo passando l’automatico da D a R o durante i cambi marcia",
+   "o2": "Uno scricchiolio innestando la marcia sul cambio manuale",
+   "o3": "L’auto strattona in partenza, mentre si rilascia la frizione",
+   "o4": "Un colpo isolato sotto la vettura in partenza o al cambio di carico"
+  }
  }
 }
