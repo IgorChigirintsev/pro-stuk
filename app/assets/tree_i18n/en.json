@@ -963,5 +963,79 @@
   ],
   "explanation": "Metal grinding on metal when braking means the friction material is gone and the pad's steel backing is rubbing on the disc. Stopping distances grow, the disc is ruined a little more with every stop, and the mechanism can seize.",
   "advice": "Stop normal journeys and drive only as far as a garage, braking early and gently. Do not put the replacement off by even a day: besides the safety, every mile of grinding adds the price of brake discs to the bill."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Caliper guide pins or warped brake discs",
+  "alt_causes": [
+   "Play in the hub",
+   "A loose caliper mounting"
+  ],
+  "explanation": "A knock when braking, or pulsing through the pedal, usually comes from the brake itself: the caliper guide pins have worked loose, or a disc has warped and the pads are knocking against it. The brakes still work, but unevenly.",
+  "advice": "Have the brakes checked within days: this is a safety system and not one to let run. If the pedal now sinks further than usual, the car pulls to one side under braking, or the wheel kicks back, book a diagnosis straight away."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Something is touching the brake disc (shield or worn-out pads)",
+  "alt_causes": [
+   "Pads worn down to metal",
+   "A bent disc backing plate",
+   "A stone between the shield and the disc"
+  ],
+  "explanation": "Constant grinding or scraping from a wheel usually means something is touching the spinning brake disc: a bent backing plate, a trapped stone — or pads worn down to metal. The first two are harmless, the third is dangerous, and by ear they are easy to confuse.",
+  "advice": "Have it checked within a day or two, without putting it off: a look at the wheel shows the cause quickly. If the grinding gets worse when braking, or the pedal does not feel as it should, stop normal journeys and drive carefully to a garage."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Wheel hub bearing",
+  "alt_causes": [
+   "Tyre noise",
+   "A worn CV joint"
+  ],
+  "explanation": "A hum that changes as you corner is the classic sign of a worn hub bearing — the bearing the wheel turns on. In a corner the car's weight shifts onto the outer wheels: if the hum grows when turning left, the right side is loaded, so the right bearing is the likely culprit; turning right, the other way round. A failing bearing lets the wheel develop play and, in a bad case, can seize.",
+  "advice": "Note which way of turning makes the hum louder and tell the garage — that narrows the search immediately. Do not leave the check longer than a week, and postpone long trips until then. If vibration appears or the hum gets noticeably louder, go straight away."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Outer CV joint",
+  "alt_causes": [
+   "Inner CV joint",
+   "Anti-roll bar links",
+   "All-wheel-drive coupling on 4x4"
+  ],
+  "explanation": "Clicking or crunching while driving on full lock is the signature sound of a worn outer CV joint — the joint that drives the wheel while it steers. It usually starts with a torn boot, the rubber cover that keeps dirt out of the joint.",
+  "advice": "Look at the CV boots yourself, or ask a garage to: a split cover with grease flung around it confirms the diagnosis. Do not leave the replacement longer than a week or two — a worn joint can seize. Until then, avoid pulling away hard with the wheels turned."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Track rod ends or the steering rack",
+  "alt_causes": [
+   "Anti-roll bar links",
+   "Strut top mounts"
+  ],
+  "explanation": "A knock when you turn the wheel, especially while parked or at low speed, usually comes from play in the track rod ends, the steering arms or the rack itself. It does not interfere with control yet, but play in the steering only grows.",
+  "advice": "Have the steering checked within days: a diagnosis on a lift takes a few minutes. If the wheel has gone vague around centre, the car wanders in its lane, or the knock has suddenly got worse, do not delay — this is a safety system."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Power steering pump",
+  "alt_causes": [
+   "Low power steering fluid",
+   "Accessory belt"
+  ],
+  "explanation": "A howl or hum that appears when you turn the wheel while parked or at low speed usually comes from the power steering pump, which creates the fluid pressure that helps you steer. It howls loudest with the wheel at full lock. The most common cause is a drop in the fluid level.",
+  "advice": "Check the power steering fluid in the reservoir under the bonnet and top it up if it is below the MIN mark. Do not hold the wheel at full lock for more than a couple of seconds. If the howl remains after topping up, or the fluid disappears again, get to a garage within the week."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Anti-roll bar links",
+  "alt_causes": [
+   "Anti-roll bar bushes",
+   "Ball joints"
+  ],
+  "explanation": "Frequent dull knocking over small bumps — cobbles, expansion joints, washboard surfaces — most often comes from the anti-roll bar links: small rods with joints that are usually the first suspension parts to wear. They are not dangerous in themselves, but more serious parts can knock in a similar way.",
+  "advice": "Book a suspension check within a week or two: a mechanic rocks the joints on a lift and finds the play in minutes. Until then take large potholes slowly. If the car starts pulling to one side, bring the check forward."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Rear suspension: anti-roll bar links or beam bushes",
+  "alt_causes": [
+   "Shock absorbers",
+   "Exhaust mountings"
+  ],
+  "explanation": "Frequent knocking from the rear over small bumps usually comes from the small joints of the rear suspension: the rear anti-roll bar links, or worn bushes — the rubber sleeves through which the arms and beam attach to the body. A loose exhaust mounting can knock in a similar way.",
+  "advice": "Book a suspension check within a week or two: on a lift the source of a rear knock is found quickly. Until then take large potholes slowly. It helps to notice whether it knocks over small ripples or over single potholes — and to tell the mechanic."
  }
 }
