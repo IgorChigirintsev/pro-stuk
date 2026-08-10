@@ -167,5 +167,138 @@
     "label": "Klopfen oder Quietschen im Takt der Scheibenwischer"
    }
   ]
+ },
+ "q_ps_type": {
+  "text": "Gibt es unter der Motorhaube einen Behälter für Servolenkungsöl?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, den gibt es"
+   },
+   {
+    "id": "o2",
+    "label": "Nein oder ich weiß es nicht"
+   }
+  ]
+ },
+ "q_steer_click": {
+  "text": "Woher kommt das Knacken?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Von oben, aus dem Radhaus, auf Höhe der Motorhaube"
+   },
+   {
+    "id": "o2",
+    "label": "Aus dem Lenkrad selbst oder aus der Lenksäule, unten im Fußraum"
+   }
+  ]
+ },
+ "q_engine_cold": {
+  "text": "Ist das Geräusch nur bei kaltem Motor zu hören, direkt nach dem Start?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, nach dem Warmlaufen verschwindet es"
+   },
+   {
+    "id": "o2",
+    "label": "Nein, es ist auch bei warmem Motor da"
+   }
+  ]
+ },
+ "q_cold_char": {
+  "text": "Wie klingt das Geräusch bei kaltem Motor?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Schnelles Ticken oder Klackern"
+   },
+   {
+    "id": "o2",
+    "label": "Dumpfes Klopfen, nach dem Warmlaufen weg"
+   },
+   {
+    "id": "o3",
+    "label": "Rascheln oder Rasseln vorn am Motor"
+   },
+   {
+    "id": "o4",
+    "label": "Quietschen oder Pfeifen beim Start"
+   }
+  ]
+ },
+ "q_tick_cold": {
+  "text": "Ist das Klackern von außen lauter als im Innenraum, und riecht es unter der Haube nach Abgas?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, von außen lauter und es riecht"
+   },
+   {
+    "id": "o2",
+    "label": "Nein, es tickt oben am Motor, kein Geruch"
+   }
+  ]
+ },
+ "q_engine_char": {
+  "text": "Wie klingt das Geräusch?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Klopfen oder Ticken"
+   },
+   {
+    "id": "o2",
+    "label": "Quietschen, Pfeifen, Heulen oder Zischen"
+   },
+   {
+    "id": "o3",
+    "label": "Klingeln, Klappern, Knallen oder Blubbern"
+   },
+   {
+    "id": "o4",
+    "label": "Vibrationen, Zittern im Leerlauf"
+   }
+  ]
+ },
+ "q_engine_knock": {
+  "text": "Was für ein Klopfen genau?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Leichtes schnelles Ticken im oberen Bereich des Motors"
+   },
+   {
+    "id": "o2",
+    "label": "Dumpfes oder helles Klopfen aus dem Inneren des Motors"
+   }
+  ]
+ },
+ "q_tick_warm": {
+  "text": "Ist das Ticken mit der Zeit lauter geworden oder immer gleich geblieben?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Lauter geworden, bei warmem Motor deutlicher"
+   },
+   {
+    "id": "o2",
+    "label": "Immer gleich, von außen lauter als im Innenraum"
+   }
+  ]
+ },
+ "q_knock_load": {
+  "text": "Wenn Sie sanft Gas geben — wird das Klopfen schneller und lauter?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, schneller und lauter"
+   },
+   {
+    "id": "o2",
+    "label": "Kaum Veränderung oder es verschwindet"
+   }
+  ]
  }
 }
