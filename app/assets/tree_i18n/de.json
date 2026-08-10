@@ -846,5 +846,76 @@
   ],
   "explanation": "Gluckern oder Plätschern hinter dem Armaturenbrett ist eine Luftblase, die durch den Heizungswärmetauscher wandert. Luft kommt ins System, wenn der Kühlmittelstand gefallen ist: irgendwo ist eine Undichtigkeit, oder der Deckel des Ausgleichsbehälters hält nicht. Die Heizung bläst dann mal warm, mal kalt.",
   "advice": "Bei kaltem Motor den Stand im Ausgleichsbehälter prüfen und bis zur Markierung auffüllen, danach beobachten, ob wieder Flüssigkeit verschwindet. Fällt der Stand weiter oder bläst die Heizung bei warmem Motor kalt — diese Woche in die Werkstatt. Steigt die Temperaturanzeige oder tritt Dampf aus: anhalten und den Motor abstellen."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Die Magnetkupplung des Klimakompressors rutscht",
+  "alt_causes": [
+   "Lockerer Riemen",
+   "Verschlissene Andruckplatte der Kupplung"
+  ],
+  "explanation": "Quietschen genau im Moment des Einschaltens der Klimaanlage heißt: die Kupplung, die den Kompressor mit dem Riemen verbindet, rutscht unter Last durch. Ein einzelnes Klacken beim Einschalten ist normal — Quietschen dagegen spricht für eine verschlissene Kupplung oder einen zu lockeren Riemen.",
+  "advice": "Lassen Sie das in den nächsten zwei Wochen ansehen: fährt man die Kupplung weiter, wird aus dem Quietschen ein Dauergeräusch, und der Kompressor kann fressen und den Riemen zerreißen. Bis zur Reparatur können Sie die Klimaanlage nutzen — wird das Quietschen lauter, schalten Sie sie aus."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Klimakompressor (Lager oder Verschleiß)",
+  "alt_causes": [
+   "Lager der Riemenscheibe an der Kupplung",
+   "Zu wenig Öl im System"
+  ],
+  "explanation": "Schleifen oder Rumpeln, das nur bei laufender Klimaanlage zu hören ist, kommt von einem sterbenden Kompressor oder vom Lager seiner Riemenscheibe. Ein fressender Kompressor zerreißt den Riemen — und der treibt bei vielen Autos auch Lichtmaschine und Wasserpumpe an.",
+  "advice": "Die Klimaanlage vorerst nicht einschalten — so hält das Bauteil bis zur Reparatur durch. Innerhalb einer Woche einen Diagnosetermin machen: solange nur das Lager kaputtgeht, ist die Reparatur deutlich günstiger als ein neuer Kompressor samt Spülung der gesamten Anlage."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Normales Überströmen des Kältemittels",
+  "alt_causes": [
+   "Normale Arbeit des Expansionsventils"
+  ],
+  "explanation": "Kurzes Zischen oder Gluckern hinter dem Armaturenbrett in den ersten Sekunden nach dem Ein- oder Ausschalten der Klimaanlage ist das Kältemittel, das durch das Expansionsventil strömt. Wenn es im Innenraum kalt wird, ist das der normale Betrieb der Anlage und kein Leck.",
+  "advice": "Sie müssen nichts tun. Ein Grund zum Nachsehen wäre etwas anderes: wenn das Zischen dauerhaft wird und die Kühlung ausbleibt oder schwach ist — dann einen Termin zur Prüfung der Klimaanlage machen."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Lager der Getriebeeingangswelle",
+  "alt_causes": [
+   "Ausrücklager",
+   "Rollen des Nebenaggregateriemens"
+  ],
+  "explanation": "Rascheln oder Brummen im Leerlauf, das beim Treten der Kupplung leiser wird, kommt aus dem Getriebe: solange das Pedal oben ist, dreht sich die Eingangswelle mit dem Motor, und ihr verschlissenes Lager macht Geräusche. Beim Treten steht die Welle still — das Geräusch geht weg. Riemen und Rollen reagieren auf das Kupplungspedal überhaupt nicht.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin und erwähnen Sie unbedingt den Zusammenhang mit dem Pedal — das lenkt die Suche sofort in die richtige Richtung. Ölstand im Getriebe prüfen. Fahren können Sie, aber es über Monate hinauszuzögern lohnt sich nicht: ein zerstörtes Lager reißt Wellen und Zahnräder mit."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Ausrücklager der Kupplung",
+  "alt_causes": [
+   "Lager der Eingangswelle",
+   "Ausrückgabel"
+  ],
+  "explanation": "Rascheln oder Brummen, das auftritt oder lauter wird, wenn die Kupplung getreten ist, kommt vom Ausrücklager — dem Teil, das beim Treten auf die Druckplatte drückt. Ein verschlissenes Ausrücklager macht genau unter Last Geräusche, also mit getretenem Pedal.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Werkstatttermin. Halten Sie das Pedal weniger unnötig getreten — an der Ampel den Leerlauf einlegen und die Kupplung kommen lassen. Ein zerstörtes Ausrücklager kann Sie unterwegs ohne Kupplung stehen lassen, deshalb darf man das nicht monatelang schleifen lassen."
+ },
+ "leaf_dmf": {
+  "top_cause": "Zweimassenschwungrad",
+  "alt_causes": [
+   "Federn der Kupplungsscheibe",
+   "Ausrücklager"
+  ],
+  "explanation": "Metallisches Klappern oder Rasseln im Leerlauf von der Getriebeseite, das sich beim Treten der Kupplung ändert und besonders in den Sekunden beim Starten und Abstellen zu hören ist, ist die typische Handschrift eines verschlissenen Zweimassenschwungrads — des Dämpfers zwischen Motor und Getriebe, der die Lastwechsel abfängt.",
+  "advice": "Vereinbaren Sie in den nächsten zwei Wochen einen Diagnosetermin und beschreiben Sie den Zusammenhang mit dem Pedal und mit dem Starten und Abstellen. Der Tausch ist nicht billig, aber Hinauszögern macht die Kupplung mit kaputt und kann damit enden, dass das Schwungrad während der Fahrt auseinanderfällt. Bis zur Reparatur sanft anfahren und den Motor nicht bei niedrigen Drehzahlen quälen."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mechanik des Kupplungspedals (Lagerung, Gabel, Seilzug)",
+  "alt_causes": [
+   "Buchsen der Pedallagerung",
+   "Ausrückgabel"
+  ],
+  "explanation": "Knarzen beim Treten des Pedals, das auch bei abgestelltem Motor zu hören ist, ist trockene Mechanik der Kupplungsbetätigung: die Pedallagerung, der Seilzug oder die Gabel. Da das Geräusch ohne laufenden Motor da ist, haben Riemen, Ausrücklager und Getriebe nichts damit zu tun.",
+  "advice": "Lassen Sie bei der nächsten Gelegenheit in der Werkstatt die Pedallagerung und die Gabel schmieren — oft ist die Sache damit in Minuten erledigt. Gefährlich ist es nicht. Ist das Pedal zusammen mit dem Knarzen schwergängig geworden oder greift die Kupplung erst ganz unten, zeigen Sie das Auto früher."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Domlager des Federbeins",
+  "alt_causes": [
+   "Lenkgetriebe",
+   "Koppelstangen des Stabilisators"
+  ],
+  "explanation": "Knacken oder Klicken beim Lenken im Stand, das von oben aus dem Radhaus kommt, macht das Domlager — das Lager, auf dem sich das obere Ende des Federbeins mit dem Rad mitdreht. Ein weiteres Zeichen sind einzelne Schläge von oben auf Schlaglöchern.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: die Prüfung ist einfach, mit der Hand auf dem Federbeindom unter der Haube spürt man das Knacken sofort. Fahren können Sie, aber ein verschlissenes Domlager beschleunigt den Verschleiß des Federbeins und verschlechtert den Rücklauf der Lenkung."
  }
 }
