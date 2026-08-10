@@ -1028,5 +1028,77 @@
   ],
   "explanation": "Un colpo sordo e ripetuto sulle irregolarità piccole — pavé, giunti della strada, asfalto ondulato — arriva quasi sempre dalle bielline della barra stabilizzatrice: piccole astine con snodi, fra i primi pezzi a consumarsi nella sospensione. Da sole non sono pericolose, ma componenti più seri possono battere in modo simile.",
   "advice": "Fissa un controllo della sospensione entro una o due settimane: il meccanico scuote i componenti sul ponte e trova il gioco in pochi minuti. Fino ad allora passa piano sulle buche grandi. Se l’auto comincia a tirare da un lato, anticipa il controllo."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Retrotreno: bielline o silent block del ponte",
+  "alt_causes": [
+   "Ammortizzatori",
+   "Supporti dello scarico"
+  ],
+  "explanation": "Un colpo ripetuto da dietro sulle irregolarità piccole arriva di solito dagli snodi piccoli del retrotreno: le bielline della barra stabilizzatrice posteriore o silent block consumati — le boccole di gomma con cui bracci e ponte sono fissati alla scocca. A volte batte in modo simile anche un supporto dello scarico allentato.",
+  "advice": "Fissa un controllo della sospensione entro una o due settimane: sul ponte l’origine di un colpo posteriore si trova in fretta. Fino ad allora passa piano sulle buche grandi. Nota se batte su asfalto increspato o solo sulle buche isolate, e dillo al meccanico."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silent block dei bracci o ammortizzatori",
+  "alt_causes": [
+   "Cuscinetti dei supporti degli ammortizzatori",
+   "Giunti sferici della sospensione"
+  ],
+  "explanation": "Colpi sordi isolati su buche e dossi significano di solito silent block consumati — le boccole di gomma con cui i bracci della sospensione sono fissati alla scocca — oppure ammortizzatori stanchi. La sospensione non assorbe più il colpo e lo passa alla scocca.",
+  "advice": "Fai un controllo della sospensione entro due settimane. Una prova semplice degli ammortizzatori: premi verso il basso un angolo dell’auto; la scocca deve tornare senza continuare a oscillare. Fino alla riparazione passa le irregolarità con dolcezza: i colpi rovinano anche i componenti vicini."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Supporti dello scarico o riparo sotto motore",
+  "alt_causes": [
+   "Schermo termico",
+   "Tubo di scarico che pende"
+  ],
+  "explanation": "Un sferragliare metallico da sotto la vettura sulle buche è di solito un fissaggio allentato: i gommini dello scarico, i bulloni del riparo sotto motore o uno schermo termico. Dà fastidio, ma non incide né sul motore né sulla guida.",
+  "advice": "Alla prossima visita in officina chiedi di stringere i fissaggi: è veloce ed economico. Vale la pena assicurarsi che lo scarico non penda — un tubo che striscia sull’asfalto non si può più ignorare. Fino ad allora puoi guidare normalmente."
+ },
+ "leaf_detonation": {
+  "top_cause": "Detonazione (battito in testa sotto sforzo)",
+  "alt_causes": [
+   "Carburante con numero di ottano troppo basso",
+   "Depositi carboniosi o sensore di detonazione guasto"
+  ],
+  "explanation": "Un tintinnio metallico in accelerazione, soprattutto in salita o da bassi regimi, è detonazione: parte del carburante nel cilindro si accende da sola, in modo esplosivo, invece di bruciare in modo uniforme, e l’onda d’urto martella i pistoni. Cause frequenti: benzina con numero di ottano inferiore al necessario, depositi carboniosi nelle camere di combustione o un sensore di detonazione guasto. Una detonazione continua distrugge il motore poco a poco.",
+  "advice": "Fai il pieno con carburante di numero di ottano non inferiore a quello prescritto dal costruttore, meglio a un altro distributore: spesso il tintinnio sparisce dopo un pieno. Fino al controllo non sollecitare il motore: accelera con dolcezza e in salita scala. Se il tintinnio resta anche dopo aver cambiato carburante, in diagnosi."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Supporti motore o giunto omocinetico interno",
+  "alt_causes": [
+   "Gioco nella trasmissione",
+   "Supporto del cambio"
+  ],
+  "explanation": "Un colpo nel momento in cui si accelera o si rilascia il gas indica gioco nella catena che trasmette la coppia. Supporti consumati lasciano oscillare il motore al cambio di carico, e un giunto omocinetico interno consumato — il giunto del semiasse che va dal cambio alla ruota — batte accelerando e rilasciando. La cosa importante: il rumore arriva con il cambio di carico, non con le buche.",
+  "advice": "Fissa una diagnosi entro una o due settimane. Un indizio per l’officina: nota se il colpo è più vicino al motore o alle ruote e se si ripete cambiando marcia. Fino alla riparazione accelera e cambia marcia con più dolcezza."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Cuscinetto ruota",
+  "alt_causes": [
+   "Rumore degli pneumatici",
+   "Cuscinetto centrale o trasmissione"
+  ],
+  "explanation": "Un ronzio costante che aumenta con la velocità e non dipende dai giri del motore arriva quasi sempre da un cuscinetto ruota consumato: il cuscinetto su cui gira la ruota. Il ronzio ricorda un aereo al decollo e quasi non cambia con il manto stradale. Un cuscinetto trascurato troppo a lungo dà gioco alla ruota e, nel caso peggiore, può bloccarsi.",
+  "advice": "Fallo controllare in officina entro la settimana: il meccanico fa girare le ruote sul ponte e individua il mozzo rumoroso, il gruppo in cui questo cuscinetto è alloggiato. Rimanda i viaggi lunghi ad alta velocità fino alla diagnosi. Se il ronzio aumenta di colpo o compare una vibrazione, in officina subito."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Cuscinetto della ruota posteriore",
+  "alt_causes": [
+   "Rumore degli pneumatici",
+   "Differenziale o cuscinetto centrale (su trazione posteriore e integrale)"
+  ],
+  "explanation": "Un ronzio costante da dietro che aumenta con la velocità arriva quasi sempre da un cuscinetto della ruota posteriore: il cuscinetto su cui gira la ruota. Sulle auto a trazione posteriore o integrale i componenti della trasmissione ronzano in modo simile, quindi conviene confermare l’origine sul ponte.",
+  "advice": "Fallo controllare in officina entro la settimana: dietro, il ronzio di un cuscinetto si confonde facilmente con il differenziale, e un’ispezione sul ponte chiarisce subito. Rimanda fino ad allora i viaggi lunghi ad alta velocità. Se il ronzio aumenta di colpo o compare una vibrazione, in officina subito."
+ },
+ "leaf_tires": {
+  "top_cause": "Rumore degli pneumatici",
+  "alt_causes": [
+   "Usura irregolare del battistrada",
+   "Cuscinetto ruota"
+  ],
+  "explanation": "Se il ronzio dipende dal manto stradale — più basso su asfalto nuovo, più forte su asfalto ruvido —, quasi certamente sono gli pneumatici. Rumoreggiano soprattutto le gomme invernali, quelle da fuoristrada e quelle consumate in modo irregolare. È una questione di comfort, non un guasto.",
+  "advice": "Guarda il battistrada: un’usura a dente di sega (gradini sui bordi) o a chiazze aumenta il ronzio e fa pensare a un assetto sregolato o ad ammortizzatori stanchi. Controlla la pressione degli pneumatici. Se in realtà il ronzio non dipende dal manto stradale e aumenta con la velocità, torna all’ipotesi del cuscinetto ruota."
  }
 }
