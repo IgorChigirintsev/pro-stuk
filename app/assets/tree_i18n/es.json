@@ -213,5 +213,84 @@
    "o3": "Golpeteo al girar el volante",
    "o4": "Aullido o zumbido al girar el volante parado o aparcando"
   }
+ },
+ "q_bump_char": {
+  "text": "¿Qué ruido hace en los baches?",
+  "options": {
+   "o1": "Golpeteo o topetazos metálicos",
+   "o2": "Crujido, como una cama vieja",
+   "o3": "Cascabeleo o traqueteo",
+   "o4": "Un golpe seco al arrancar por primera vez tras estar mucho tiempo parado"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "¿Qué tipo de golpeteo exactamente?",
+  "options": {
+   "o1": "Golpeteo sordo y repetido en las irregularidades pequeñas",
+   "o2": "Golpes sordos sueltos en baches y badenes",
+   "o3": "El golpe llega directo al volante, se nota en las manos",
+   "o4": "El topetazo apareció de golpe tras pisar un bache y una esquina del coche ha bajado"
+  }
+ },
+ "q_bump_where": {
+  "text": "¿El golpeteo viene de delante o de detrás?",
+  "options": {
+   "o1": "De delante",
+   "o2": "De detrás",
+   "o3": "Difícil de saber"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "¿De dónde viene el cascabeleo?",
+  "options": {
+   "o1": "De los bajos",
+   "o2": "Del interior: salpicadero, puertas, grillos",
+   "o3": "Del maletero, como si algo rodara",
+   "o4": "De delante y arriba, por la zona del capó"
+  }
+ },
+ "q_move_manner": {
+  "text": "¿Cómo se relaciona el ruido con la conducción?",
+  "options": {
+   "o1": "Aparece al pisar o al soltar el acelerador",
+   "o2": "Justo al cambiar de marcha o al arrancar",
+   "o3": "Se oye continuamente mientras el coche rueda",
+   "o4": "Es más una vibración o un temblor que un ruido"
+  }
+ },
+ "q_accel_char": {
+  "text": "¿A qué se parece el ruido al acelerar?",
+  "options": {
+   "o1": "Tintineo metálico, sobre todo cuesta arriba",
+   "o2": "Un golpe justo al pisar o al soltar el acelerador",
+   "o3": "Petardeos o un rugido fuerte por el escape",
+   "o4": "Aullido o silbido bajo carga"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "¿Petardeos o rugido?",
+  "options": {
+   "o1": "Petardeos o explosiones",
+   "o2": "Rugido, más fuerte al acelerar; el coche tira como siempre",
+   "o3": "El motor ruge, suben las revoluciones y el coche no acelera; a veces huele a quemado"
+  }
+ },
+ "q_load_whine": {
+  "text": "¿Qué clase de aullido bajo carga?",
+  "options": {
+   "o1": "Un silbido agudo solo al pisar el acelerador, y al soltar desaparece (motor turbo)",
+   "o2": "Zumbido o aullido cuyo tono cambia al pisar y soltar el acelerador a la misma velocidad",
+   "o3": "Aullido monótono al acelerar; la caja es un CVT o un automático",
+   "o4": "El aullido suena más en una marcha y menos en otra; caja manual"
+  }
+ },
+ "q_shift_char": {
+  "text": "¿Qué pasa al cambiar de marcha o al arrancar?",
+  "options": {
+   "o1": "Un tirón o topetazo al pasar el automático de D a R o al cambiar de marcha",
+   "o2": "Un crujido al meter la marcha en una caja manual",
+   "o3": "El coche da tirones al arrancar, mientras sueltas el embrague",
+   "o4": "Un topetazo suelto bajo el coche al arrancar o al cambiar de acelerador"
+  }
  }
 }
