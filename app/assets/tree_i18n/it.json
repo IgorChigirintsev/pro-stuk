@@ -74,5 +74,72 @@
    "o3": "Un sibilo sotto la plancia premendo il pedale del freno",
    "o4": "Un colpo o cigolio a tempo con i tergicristalli"
   }
+ },
+ "q_ps_type": {
+  "text": "Sotto il cofano c’è una vaschetta del liquido del servosterzo?",
+  "options": {
+   "o1": "Sì, c’è",
+   "o2": "No, oppure non lo so"
+  }
+ },
+ "q_steer_click": {
+  "text": "Da dove arrivano gli scatti?",
+  "options": {
+   "o1": "Dall’alto, dal passaruota, all’altezza del cofano",
+   "o2": "Dal volante stesso o dal piantone, all’altezza dei piedi"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Il rumore si sente solo a motore freddo, subito dopo l’avviamento?",
+  "options": {
+   "o1": "Sì, quando il motore si scalda sparisce",
+   "o2": "No, si sente anche a motore caldo"
+  }
+ },
+ "q_cold_char": {
+  "text": "A che cosa assomiglia il rumore a freddo?",
+  "options": {
+   "o1": "Un ticchettio rapido",
+   "o2": "Un colpo sordo che sparisce quando il motore si scalda",
+   "o3": "Un fruscio o tintinnio nella parte anteriore del motore",
+   "o4": "Un fischio acuto all’avviamento"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Il ticchettio si sente più forte da fuori che dentro l’abitacolo, e sotto il cofano si sente odore di scarico?",
+  "options": {
+   "o1": "Sì, da fuori si sente di più e c’è odore",
+   "o2": "No, ticchetta nella parte alta del motore e non c’è odore"
+  }
+ },
+ "q_engine_char": {
+  "text": "A che cosa assomiglia il rumore?",
+  "options": {
+   "o1": "Un colpo o un ticchettio",
+   "o2": "Un fischio, un ronzio o un sibilo",
+   "o3": "Un tintinnio, un sferragliare, scoppi o gorgoglii",
+   "o4": "Vibrazioni o tremolio al minimo"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Che tipo di colpo esattamente?",
+  "options": {
+   "o1": "Un ticchettio leggero e rapido nella parte alta del motore",
+   "o2": "Un colpo sordo o metallico dal fondo del motore"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Il ticchettio è aumentato col tempo o è sempre uguale?",
+  "options": {
+   "o1": "È aumentato; a motore caldo si sente di più",
+   "o2": "Sempre uguale; da fuori si sente più che dentro"
+  }
+ },
+ "q_knock_load": {
+  "text": "Se acceleri dolcemente, il colpo diventa più rapido e più forte?",
+  "options": {
+   "o1": "Sì, più rapido e più forte",
+   "o2": "Quasi non cambia, oppure sparisce"
+  }
  }
 }
