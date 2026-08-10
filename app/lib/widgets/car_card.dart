@@ -20,7 +20,8 @@ class CarCard extends StatefulWidget {
 
 class _CarCardState extends State<CarCard> {
   final _ctrl = TextEditingController();
-  int _shownFor = -1;
+  String _shownCarId = '';
+  int _shownKm = -1;
 
   @override
   void dispose() {
@@ -35,8 +36,10 @@ class _CarCardState extends State<CarCard> {
     if (car == null) return const SizedBox.shrink();
 
     // Поле обновляем при смене машины или пробега извне, но не перебиваем ввод.
-    if (_shownFor != car.mileageKm) {
-      _shownFor = car.mileageKm;
+    // Сверяем и машину: у двух машин пробег может совпасть.
+    if (_shownCarId != car.id || _shownKm != car.mileageKm) {
+      _shownCarId = car.id;
+      _shownKm = car.mileageKm;
       _ctrl.text = car.mileageKm.toString();
     }
 

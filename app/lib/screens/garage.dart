@@ -22,14 +22,16 @@ class GarageScreen extends StatefulWidget {
 
 class _GarageScreenState extends State<GarageScreen> {
   final _mileageCtrl = TextEditingController();
+  /// Какую машину и какой пробег сейчас показывает поле: при переключении
+  /// машины в гараже значение должно смениться, а не остаться от прежней.
+  String _shownCarId = '';
+  int _shownKm = -1;
 
-  @override
-  void didChangeDependencies() {
-    super.didChangeDependencies();
-    final car = AppScope.of(context).car;
-    if (car != null && _mileageCtrl.text.isEmpty) {
-      _mileageCtrl.text = car.mileageKm.toString();
-    }
+  void _syncMileageField(Car car) {
+    if (_shownCarId == car.id && _shownKm == car.mileageKm) return;
+    _shownCarId = car.id;
+    _shownKm = car.mileageKm;
+    _mileageCtrl.text = car.mileageKm.toString();
   }
 
   @override
@@ -77,6 +79,7 @@ class _GarageScreenState extends State<GarageScreen> {
   Widget build(BuildContext context) {
     final st = AppScope.of(context);
     final car = st.car;
+    if (car != null) _syncMileageField(car);
 
     return Scaffold(
       appBar: AppBar(title: const Text(S.garageTitle)),
