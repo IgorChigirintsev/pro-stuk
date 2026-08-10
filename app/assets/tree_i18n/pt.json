@@ -141,5 +141,77 @@
    "o1": "Sim, mais rápida e mais forte",
    "o2": "Quase não muda, ou desaparece"
   }
+ },
+ "q_squeal": {
+  "text": "Que tipo de barulho é?",
+  "options": {
+   "o1": "Um guincho agudo ou assobio",
+   "o2": "Um zumbido ou roçar constante",
+   "o3": "Um sibilar constante, como ar a sair de um pneu"
+  }
+ },
+ "q_hum_source": {
+  "text": "De onde vem o zumbido?",
+  "options": {
+   "o1": "Da frente, do compartimento do motor, e muda com as rotações",
+   "o2": "Liga e desliga sozinho: com calor, no trânsito, com o ar condicionado",
+   "o3": "De trás, junto ao depósito; ouve-se ao ligar a ignição, antes de arrancar"
+  }
+ },
+ "q_pump_check": {
+  "text": "Debaixo do capô, junto à correia, há escorrimentos ou vestígios de líquido?",
+  "options": {
+   "o1": "Sim, está húmido ou cheira a líquido de refrigeração",
+   "o2": "Está tudo seco",
+   "o3": "Não consegui ver"
+  }
+ },
+ "q_rattle": {
+  "text": "Que barulho e de onde?",
+  "options": {
+   "o1": "Um chocalhar metálico debaixo do carro",
+   "o2": "Estouros no escape",
+   "o3": "Um borbulhar atrás do tablier"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Junto com o chocalhar, o carro perdeu força ou o escape passou a cheirar de forma estranha?",
+  "options": {
+   "o1": "Sim, puxa menos ou o cheiro mudou",
+   "o2": "Não, só chocalha a certas rotações"
+  }
+ },
+ "q_move_when": {
+  "text": "Quando é que o barulho se nota mais em andamento?",
+  "options": {
+   "o1": "Ao travar",
+   "o2": "Em curva ou ao rodar o volante",
+   "o3": "Em buracos e lombas",
+   "o4": "Ao acelerar, ao mudar de velocidade ou permanentemente"
+  }
+ },
+ "q_brake_transient": {
+  "text": "O barulho aparece só nas primeiras travagens depois de o carro estar parado ou com chuva, e depois desaparece?",
+  "options": {
+   "o1": "Sim, desaparece depressa",
+   "o2": "Não, ouve-se em todas as travagens"
+  }
+ },
+ "q_brake_char": {
+  "text": "Que barulho faz ao travar?",
+  "options": {
+   "o1": "Um guincho ou ranger",
+   "o2": "Um roçar de metal contra metal",
+   "o3": "Uma pancada ou pulsação no pedal"
+  }
+ },
+ "q_turn_char": {
+  "text": "O que se ouve em curva?",
+  "options": {
+   "o1": "Um zumbido a velocidade, mais forte para um dos lados",
+   "o2": "Estalidos com o volante todo virado",
+   "o3": "Uma pancada ao rodar o volante",
+   "o4": "Um uivo ou zumbido ao rodar o volante parado ou a estacionar"
+  }
  }
 }
