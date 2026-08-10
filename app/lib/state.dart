@@ -129,6 +129,8 @@ class AppState extends ChangeNotifier {
     required String topCause,
     required bool isFull,
     ReportData? report,
+    String leafId = '',
+    List<AnswerLog> answers = const [],
   }) async {
     final now = DateTime.now();
     final entry = HistoryEntry(
@@ -138,6 +140,8 @@ class AppState extends ChangeNotifier {
       urgency: urgency,
       topCause: topCause,
       isFull: isFull,
+      leafId: leafId,
+      answers: answers,
       report: report,
     );
     final file = File('${_reportsDir!.path}/${entry.id}.json');

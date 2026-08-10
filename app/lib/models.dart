@@ -87,6 +87,13 @@ class AnswerLog {
         'question_text': questionText,
         'option_label': optionLabel,
       };
+
+  factory AnswerLog.fromJson(Map<String, dynamic> j) => AnswerLog(
+        questionId: j['question_id'] as String? ?? '',
+        optionId: j['option_id'] as String? ?? '',
+        questionText: j['question_text'] as String? ?? '',
+        optionLabel: j['option_label'] as String? ?? '',
+      );
 }
 
 class Cause {
@@ -181,6 +188,9 @@ class HistoryEntry {
   final String topCause;
   final bool isFull;
   final ReportData? report;
+  /// Лист дерева и ответы: без них быстрый вердикт нельзя показать повторно.
+  final String leafId;
+  final List<AnswerLog> answers;
 
   const HistoryEntry({
     required this.id,
@@ -190,6 +200,8 @@ class HistoryEntry {
     required this.topCause,
     required this.isFull,
     this.report,
+    this.leafId = '',
+    this.answers = const [],
   });
 
   Map<String, dynamic> toJson() => {
@@ -200,6 +212,8 @@ class HistoryEntry {
         'top_cause': topCause,
         'is_full': isFull,
         if (report != null) 'report': report!.toJson(),
+        'leaf_id': leafId,
+        'answers': answers.map((a) => a.toJson()).toList(),
       };
 
   factory HistoryEntry.fromJson(Map<String, dynamic> j) => HistoryEntry(
@@ -212,5 +226,9 @@ class HistoryEntry {
         report: j['report'] == null
             ? null
             : ReportData.fromJson(j['report'] as Map<String, dynamic>),
+        leafId: j['leaf_id'] as String? ?? '',
+        answers: ((j['answers'] as List?) ?? const [])
+            .map((e) => AnswerLog.fromJson(e as Map<String, dynamic>))
+            .toList(),
       );
 }

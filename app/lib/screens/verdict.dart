@@ -87,6 +87,8 @@ class VerdictScreen extends StatelessWidget {
                         urgency: leaf.urgency,
                         topCause: leaf.topCause,
                         isFull: false,
+                        leafId: leaf.id,
+                        answers: answers,
                       );
                       nav.popUntil((r) => r.isFirst);
                     },

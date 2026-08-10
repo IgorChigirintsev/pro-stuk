@@ -7,6 +7,8 @@ import '../state.dart';
 import '../theme.dart';
 import 'onboarding.dart';
 import 'report.dart';
+import 'verdict.dart';
+import '../tree.dart';
 
 /// Профиль: гараж, история диагностик и сервисная книжка.
 class GarageScreen extends StatefulWidget {
@@ -220,16 +222,27 @@ class _HistoryCard extends StatelessWidget {
     return Card(
       margin: const EdgeInsets.only(bottom: 10),
       child: ListTile(
-        // Без отчёта открывать нечего: у быстрых вердиктов сохранён только итог.
-        onTap: rep == null
-            ? null
-            : () => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (_) =>
-                        ReportScreen(report: rep, carLabel: entry.carLabel),
-                  ),
-                ),
+        onTap: () async {
+          if (rep != null) {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (_) =>
+                    ReportScreen(report: rep, carLabel: entry.carLabel),
+              ),
+            );
+            return;
+          }
+          // Быстрый вердикт восстанавливаем по узлу дерева и сохранённым ответам.
+          if (entry.leafId.isEmpty) return;
+          final nav = Navigator.of(context);
+          final tree = await DecisionTree.load();
+          final leaf = tree.nodes[entry.leafId];
+          if (leaf == null) return;
+          nav.push(MaterialPageRoute(
+            builder: (_) => VerdictScreen(leaf: leaf, answers: entry.answers),
+          ));
+        },
         leading: Container(
           width: 12,
           height: 12,
@@ -246,9 +259,9 @@ class _HistoryCard extends StatelessWidget {
           '${entry.carLabel.isEmpty ? '' : ' · ${entry.carLabel}'}',
           style: const TextStyle(fontSize: 12, color: T.inkSoft),
         ),
-        trailing: rep == null
-            ? null
-            : const Icon(Icons.chevron_right, color: T.inkSoft),
+        trailing: (rep != null || entry.leafId.isNotEmpty)
+            ? const Icon(Icons.chevron_right, color: T.inkSoft)
+            : null,
       ),
     );
   }

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../widgets/schema_view.dart';
+import '../schema_pick.dart';
 
 import '../models.dart';
 import '../strings.dart';
@@ -54,10 +55,26 @@ class ReportScreen extends StatelessWidget {
                 padding: const EdgeInsets.only(bottom: 12),
                 child: _CauseCard(cause: c),
               ),
+            // Схема из ответа сервера, а для отчётов до этой версии —
+            // подбираем локально по названиям причин, чтобы история не была пустой.
             if (report.schemaKey.isNotEmpty) ...[
               const SizedBox(height: 20),
               SchemaView(
                   schemaKey: report.schemaKey, marks: report.schemaMarks),
+            ] else ...[
+              FutureBuilder<SchemaPick?>(
+                future: SchemaPicker.forCauses(
+                    report.causes.map((c) => c.title).toList()),
+                builder: (context, snap) {
+                  final hit = snap.data;
+                  if (hit == null) return const SizedBox.shrink();
+                  return Padding(
+                    padding: const EdgeInsets.only(top: 20),
+                    child:
+                        SchemaView(schemaKey: hit.key, marks: hit.marks),
+                  );
+                },
+              ),
             ],
             if (report.mechanicBrief.isNotEmpty) ...[
               const SectionTitle(S.repBrief),
