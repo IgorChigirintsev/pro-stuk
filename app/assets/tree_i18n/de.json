@@ -1352,5 +1352,89 @@
   ],
   "explanation": "Wenn im Leerlauf ein Zittern im Innenraum zu spüren ist und Lenkrad und Sitze fein vibrieren, sind oft die Motorlager schuld — die Gummielemente, die die Schwingungen des Motors dämpfen. Mit der Zeit wird der Gummi hart und reißt, und die Vibration geht in die Karosserie.",
   "advice": "Lassen Sie die Lager in den nächsten zwei Wochen in der Werkstatt prüfen: die Sichtprüfung ist einfach. Ein Hinweis für die Diagnose — Vibrationen von den Lagern werden meist stärker, wenn bei getretener Bremse ein Gang eingelegt ist. Ruckelt der Motor zusätzlich, sagen Sie das dem Mechaniker: dann können auch Zündaussetzer dahinterstecken."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Flugrost auf den Bremsscheiben",
+  "alt_causes": [
+   "Feuchtigkeit oder Staub auf den Belägen",
+   "Beginnender Verschleiß der Beläge"
+  ],
+  "explanation": "Über Nacht, nach Regen oder nach der Waschanlage bildet sich auf den Bremsscheiben ein dünner rostbrauner Film — das ist bei jedem Auto normal. Die ersten Bremsungen schleifen ihn ab, daher das Quietschen oder leichte Schaben, das schnell wieder weg ist.",
+  "advice": "Sie müssen nichts tun: ein paar sanfte Bremsungen zu Beginn der Fahrt reinigen die Scheiben. Verschwindet das Geräusch nicht mehr und tritt es bei jeder Bremsung auf — die Diagnose noch einmal durchlaufen oder das Auto in der Werkstatt zeigen."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Zustand oder Verschleiß der Bremsbeläge",
+  "alt_causes": [
+   "Verschleißanzeiger der Beläge",
+   "Verhärtete Beläge",
+   "Staub oder Korrosion auf den Scheiben"
+  ],
+  "explanation": "Quietschen bei jeder Bremsung ist das Signal, die Beläge zu prüfen. Viele Beläge haben einen metallischen Verschleißanzeiger: ist der nutzbare Belag — die Reibschicht, die an der Scheibe arbeitet — bis zur Grenze abgetragen, berührt ein Plättchen die Scheibe und quietscht absichtlich. Quietschen können auch die Beläge selbst: wegen eines Belags auf der Oberfläche, verhärtetem oder billigem Material.",
+  "advice": "Vereinbaren Sie diese Woche einen Termin zur Prüfung von Belägen und Scheiben. Ist es der Verschleißanzeiger, darf man nicht warten: die nächste Stufe ist Schaben und beschädigte Scheiben. Sind die Beläge in Ordnung, ist das Quietschen ungefährlich, und der Mechaniker sagt Ihnen, wie man es wegbekommt."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Beläge bis aufs Metall abgefahren",
+  "alt_causes": [
+   "Fremdkörper in der Bremse",
+   "Zerfallener Belag"
+  ],
+  "explanation": "Metall auf Metall beim Bremsen heißt: die Reibschicht des Belags ist aufgebraucht, und die Metallträgerplatte schleift an der Scheibe. Der Bremsweg wird länger, die Scheibe wird bei jeder Bremsung weiter zerstört, und die Bremse kann festgehen.",
+  "advice": "Stellen Sie normale Fahrten ein und fahren Sie nur noch bis zur Werkstatt, dabei früh und sanft bremsen. Den Wechsel keinen Tag aufschieben: neben der Sicherheit kommen mit jedem Kilometer die Kosten für neue Bremsscheiben zur Rechnung dazu."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Führungsbolzen des Bremssattels oder Schlag der Bremsscheiben",
+  "alt_causes": [
+   "Spiel in der Radnabe",
+   "Lockere Befestigung des Bremssattels"
+  ],
+  "explanation": "Klopfen beim Bremsen oder Pulsieren im Pedal kommt meist aus der Bremse selbst: die Führungsbolzen des Sattels — des Bauteils, das die Beläge auf die Scheibe drückt — haben Spiel, oder die Scheibe hat sich verzogen und die Beläge schlagen auf ihr. Die Bremse arbeitet dabei, aber ungleichmäßig.",
+  "advice": "Lassen Sie die Bremse in den nächsten Tagen in der Werkstatt prüfen: ein Bauteil, von dem die Sicherheit abhängt, sollte man nicht schleifen lassen. Geht das Pedal tiefer als sonst, zieht das Auto beim Bremsen zur Seite oder schlägt es ins Lenkrad — sofort zur Diagnose."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Etwas schleift an der Bremsscheibe (Ankerblech oder abgefahrene Beläge)",
+  "alt_causes": [
+   "Beläge bis aufs Metall abgefahren",
+   "Verbogenes Ankerblech der Scheibe",
+   "Steinchen zwischen Ankerblech und Scheibe"
+  ],
+  "explanation": "Dauerhaftes Schaben oder Schleifen an einem Rad heißt meist, dass etwas die drehende Bremsscheibe berührt: ein verbogenes Ankerblech, ein hineingeratenes Steinchen — oder bis aufs Metall abgefahrene Beläge. Die ersten beiden Fälle sind harmlos, der dritte ist gefährlich, und nach Gehör verwechselt man sie leicht.",
+  "advice": "Lassen Sie das in den nächsten ein bis zwei Tagen prüfen, ohne es aufzuschieben: ein Blick aufs Rad zeigt die Ursache schnell. Wird das Schaben beim Bremsen stärker oder verhält sich das Pedal anders als sonst — Fahrten einstellen und vorsichtig bis zur Werkstatt fahren."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Radlager",
+  "alt_causes": [
+   "Reifengeräusch",
+   "Verschlissenes Gleichlaufgelenk"
+  ],
+  "explanation": "Ein Brummen, das sich in Kurven während der Fahrt ändert, ist das klassische Zeichen eines verschlissenen Radlagers — des Lagers, auf dem sich das Rad dreht. In der Kurve verlagert sich das Gewicht auf die kurvenäußeren Räder: wird das Brummen in einer Linkskurve lauter, ist die rechte Seite belastet, also brummt wahrscheinlich das rechte Lager; in einer Rechtskurve umgekehrt. Ein zerfallendes Lager lässt das Rad Spiel bekommen und kann im späten Stadium festgehen.",
+  "advice": "Merken Sie sich, in welcher Kurvenrichtung das Brummen stärker ist, und sagen Sie es in der Werkstatt — das grenzt die Suche sofort ein. Die Prüfung nicht länger als eine Woche aufschieben, längere Fahrten bis zur Diagnose verschieben. Kommt eine Vibration dazu oder wird das Brummen deutlich lauter — sofort in die Werkstatt."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Äußeres Gleichlaufgelenk",
+  "alt_causes": [
+   "Inneres Gleichlaufgelenk",
+   "Koppelstangen des Stabilisators",
+   "Allradkupplung (bei 4x4)"
+  ],
+  "explanation": "Knacken oder Krachen bei Fahrt mit eingeschlagenem Lenkrad ist der Markenklang eines verschlissenen äußeren Gleichlaufgelenks: des Gelenks, über das sich das lenkende Rad dreht. Meist fängt alles mit einer gerissenen Manschette an — der Gummimanschette, die das Gelenk vor Schmutz schützt.",
+  "advice": "Sehen Sie sich die Manschetten der Gelenke an oder lassen Sie das in der Werkstatt machen: eine gerissene Manschette und Fett rundherum bestätigen die Diagnose. Mit dem Tausch nicht länger als ein bis zwei Wochen warten — ein verschlissenes Gelenk kann blockieren. Bis zur Reparatur nicht mit voll eingeschlagenen Rädern hart anfahren."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Spurstangenköpfe oder Lenkgetriebe",
+  "alt_causes": [
+   "Koppelstangen des Stabilisators",
+   "Domlager der Federbeine"
+  ],
+  "explanation": "Klopfen beim Lenken, besonders im Stand oder bei niedrigem Tempo, kommt meist von Spiel in den Spurstangenköpfen, den Spurstangen oder im Lenkgetriebe selbst. Beim Fahren stört es noch nicht, aber Spiel in der Lenkung wird mit der Zeit nur größer.",
+  "advice": "Lassen Sie die Lenkung in den nächsten Tagen in der Werkstatt prüfen: die Diagnose auf der Hebebühne dauert ein paar Minuten. Ist die Lenkung um die Mittellage leer geworden, wandert das Auto in der Spur oder ist das Klopfen plötzlich stärker geworden — nicht aufschieben, das ist ein sicherheitsrelevantes Bauteil."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Pumpe der Servolenkung",
+  "alt_causes": [
+   "Zu wenig Servoöl",
+   "Nebenaggregateriemen"
+  ],
+  "explanation": "Ein Heulen oder Brummen beim Lenken im Stand oder bei niedrigem Tempo kommt meist von der Servopumpe — sie erzeugt den Öldruck, der das Lenken leichter macht. Am lautesten heult sie bei voll eingeschlagenem Lenkrad. Die häufigste Ursache: der Ölstand im Behälter ist gefallen.",
+  "advice": "Prüfen Sie den Stand des Servoöls im Behälter unter der Haube und füllen Sie nach, wenn er unter der MIN-Marke liegt. Halten Sie das Lenkrad nicht länger als ein paar Sekunden voll eingeschlagen. Bleibt das Heulen nach dem Nachfüllen oder verschwindet das Öl wieder — innerhalb einer Woche in die Werkstatt."
  }
 }
