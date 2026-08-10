@@ -861,5 +861,88 @@
   ],
   "explanation": "Uma pancada surda vinda do fundo do motor, que fica mais rápida com as rotações e mais forte em esforço, é o mais preocupante de todos os barulhos do motor. É assim que batem chumaceiras gastas — os apoios onde a cambota roda — ou as bielas: apareceu folga nas ligações e as peças batem umas nas outras. Se continuar a andar, o motor pode gripar.",
   "advice": "Não ande pelo seu próprio pé mais do que o estritamente necessário: melhor chamar o reboque; se a oficina for mesmo ao lado, vá devagar e sem acelerar. Verifique já o nível do óleo e complete se estiver baixo. Coisas menos graves podem soar de forma parecida, mas quem tem de verificar é um mecânico — e depressa."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Acessórios do motor ou apoios do motor",
+  "alt_causes": [
+   "Embraiagem do compressor do ar condicionado",
+   "Tuchos hidráulicos"
+  ],
+  "explanation": "Uma pancada que não fica mais rápida quando se acelera vem normalmente não do motor em si, mas do que está montado nele: alternador, polias, suportes, apoios. A folga nessas peças produz pancadas surdas ao ralenti, sobretudo quando o motor treme um pouco.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: este tipo de barulho o mecânico localiza bem com o estetoscópio. É útil reparar e contar ao mecânico se o barulho muda quando o ar condicionado arranca ou quando mete uma mudança com o travão carregado."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Correia de acessórios gasta ou frouxa",
+  "alt_causes": [
+   "Rolete tensor",
+   "Polia do alternador"
+  ],
+  "explanation": "Um guincho agudo debaixo do capô significa que a correia está a patinar nas polias. Na maioria das vezes é a própria correia que está gasta ou o tensor que perdeu força. Se a correia partir, o alternador deixa de trabalhar — e em muitos carros também a bomba de água —, por isso não se pode deixar andar.",
+  "advice": "Leve o carro à oficina dentro desta semana: substituir a correia e o rolete é um trabalho barato. Se o guincho aumentar de repente, se acender a luz da bateria ou a temperatura do motor começar a subir: encoste e desligue o motor."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Bomba de água",
+  "alt_causes": [
+   "Roletes da correia",
+   "Rolamento do alternador"
+  ],
+  "explanation": "Um zumbido ou roçar do lado da correia, junto com vestígios de líquido de refrigeração, são os sinais típicos de uma bomba de água em fim de vida. O rolamento dela desgasta-se, aparece folga, e pelo vedante começa a escorrer líquido. Se a bomba gripar, o motor sobreaquece depressa.",
+  "advice": "Vá à oficina nos próximos dias e vigie pelo caminho a temperatura do motor e o nível do líquido. Se a temperatura subir ou sair vapor do capô: encoste e desligue o motor. O líquido de refrigeração só se completa com o motor frio."
+ },
+ "leaf_idler": {
+  "top_cause": "Rolete tensor ou rolete de desvio",
+  "alt_causes": [
+   "Bomba de água",
+   "Polia de roda livre do alternador",
+   "Corrente de distribuição ou o seu tensor"
+  ],
+  "explanation": "Um zumbido ou roçar constante que muda com as rotações do motor vem, na maioria das vezes, do rolamento de um dos roletes por onde passa a correia de acessórios. Um rolete gasto faz cada vez mais barulho, pode começar a prender e acabar por partir a correia.",
+  "advice": "Marque oficina dentro desta semana: o mecânico tira a correia e determina ali mesmo qual o rolete que faz barulho. A bomba de água, a polia de roda livre do alternador e até a corrente de distribuição podem soar de forma parecida — verificam-se de caminho. Se o barulho passou a chiar ou a guinchar, antecipe a visita."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Chapa de proteção térmica do escape",
+  "alt_causes": [
+   "Suportes do escape",
+   "Proteção do cárter"
+  ],
+  "explanation": "Um chocalhar metálico agudo a certas rotações vem quase sempre de uma chapa de proteção térmica solta: a chapa fina que fica por cima do silencioso ou do catalisador. Soa mal, mas não afeta o funcionamento do carro.",
+  "advice": "Peça na oficina para a apertarem ou a prenderem com uma abraçadeira quando puder: é um trabalho de poucos minutos. Vale a pena confirmar que o que chocalha é mesmo a chapa e não os suportes do escape — no elevador vê-se logo."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Falhas de ignição ou um furo no escape",
+  "alt_causes": [
+   "Velas e bobinas de ignição",
+   "Silencioso ou tubo furado",
+   "Afinação do sistema de GPL (se estoura a gás)"
+  ],
+  "explanation": "Estouros no escape significam que o combustível acaba de arder fora dos cilindros, já na linha de escape. As causas são falhas de ignição (velas, bobinas), mistura incorreta ou um furo no escape. Além do barulho, isto estraga o catalisador, e substituí-lo é caro.",
+  "advice": "Marque diagnóstico nos próximos dias, sobretudo se o carro puxa menos, trabalha irregular ou se acendeu a luz de avaria do motor. Não convém andar muito tempo com estouros: o combustível por queimar sobreaquece o catalisador. Se tiver GPL e os estouros aparecerem a gás, vá afinar a instalação: para ela os estouros são especialmente perigosos."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Silencioso ou tubo de escape furado",
+  "alt_causes": [
+   "Junta do escape",
+   "Tubo flexível do escape rachado"
+  ],
+  "explanation": "Um ronco forte que aumenta ao acelerar significa normalmente um furo na linha de escape: silencioso, tubo ou junta furados. O som fica desportivo, mas os gases saem antes do tempo — isso é barulho, cheiro e o risco de entrar monóxido de carbono no habitáculo.",
+  "advice": "Leve o carro à oficina esta semana: ver o escape no elevador leva poucos minutos. Se sentir cheiro a escape dentro do carro, ande com o vidro entreaberto e não aqueça o motor numa garagem fechada: o monóxido de carbono é perigoso."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Apoios do motor",
+  "alt_causes": [
+   "Falhas de ignição",
+   "Borboleta ou injetores sujos"
+  ],
+  "explanation": "Se ao ralenti se sente tremor dentro do carro e o volante e os bancos vibram ligeiramente, a culpa é muitas vezes dos apoios do motor: os blocos de borracha que absorvem as suas vibrações. Com o tempo a borracha endurece e rompe, e a vibração passa para a carroçaria.",
+  "advice": "Mande verificar os apoios na oficina dentro de duas semanas: a inspeção é simples. Uma pista para o diagnóstico: a vibração dos apoios costuma aumentar com uma mudança engatada e o travão carregado. Se além disso o motor der solavancos, diga-o ao mecânico: pode haver falhas de ignição."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Camada de ferrugem nos discos de travão",
+  "alt_causes": [
+   "Humidade ou pó nas pastilhas",
+   "Desgaste inicial das pastilhas"
+  ],
+  "explanation": "Durante a noite, depois de chuva ou de uma lavagem, forma-se nos discos uma fina camada alaranjada: é normal em qualquer carro. As primeiras travagens limpam-na, e daí o ranger ou o leve raspar que desaparece depressa.",
+  "advice": "Não é preciso fazer nada: algumas travagens suaves no início do trajeto limpam os discos. Se o barulho deixar de desaparecer e se ouvir em todas as travagens, refaça o diagnóstico ou leve o carro à oficina."
  }
 }
