@@ -1061,5 +1061,77 @@
   ],
   "explanation": "Ein leichtes gleichmäßiges Pfeifen des Turboladers unter Last ist bei einem Turbomotor normal. Aufmerksam werden sollten Sie bei einer Veränderung: das Pfeifen wird lauter oder klingt anders, ein Heulen kommt dazu, die Leistung lässt nach. Das ist entweder eine Undichtigkeit in den Ladeluftschläuchen oder Verschleiß am Lager der Turbinenwelle.",
   "advice": "Hat sich der Ton verändert oder die Leistung nachgelassen — in den nächsten Tagen zur Diagnose: eine undichte Schlauchverbindung ist billig repariert, ein verschleppter Turboschaden endet mit dem Austausch. Behalten Sie den Ölverbrauch im Auge. Bis zur Prüfung den Motor nicht in den Begrenzer drehen und den Turbolader nach zügiger Fahrt ein bis zwei Minuten im Leerlauf abkühlen lassen."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Tellerrad und Ritzel des Achsgetriebes",
+  "alt_causes": [
+   "Lager im Achsgetriebe",
+   "Zu wenig Öl im Achsgetriebe"
+  ],
+  "explanation": "Ein Heulen oder Brummen, das bei gleichem Tempo beim Gasgeben und Gaswegnehmen den Ton wechselt — unter Zug heult es, im Schub wird es leiser oder umgekehrt —, ist die Handschrift eines verschlissenen Tellerradsatzes: der Zahnräder im Achsgetriebe, die die Drehung auf die Räder bringen. Ein Radlager reagiert im Unterschied dazu überhaupt nicht auf das Gas.",
+  "advice": "Ölstand im Achsgetriebe prüfen und innerhalb einer Woche einen Diagnosetermin machen: bei frühem Verschleiß reichen oft Öl und eine Einstellung, bei spätem muss der Satz getauscht werden. Lange schnelle Fahrten bis zur Prüfung verschieben."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT oder Automatikgetriebe (Lager, Schubgliederband, Wandler)",
+  "alt_causes": [
+   "Zu wenig oder altes Getriebeöl",
+   "Lager der Wellen"
+  ],
+  "explanation": "Ein gleichförmiges metallisches Heulen beim Beschleunigen bei einem CVT oder einer Automatik, das vom Gaspedal abhängt und nicht vom Tempo, kommt meist von den Lagern der Kegelscheiben im CVT oder von der Pumpe der Automatik. Ein CVT ist besonders empfindlich gegenüber altem Öl.",
+  "advice": "Als Erstes Stand und Zustand des Getriebeöls prüfen, das ist die Hälfte dieser Fälle. Innerhalb einer Woche einen Diagnosetermin machen und bis dahin ruhig fahren, ohne heftige Beschleunigung und ohne Anhänger. Eine frühe CVT-Reparatur ist um ein Vielfaches günstiger als eine späte."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Lager oder Zahnräder im Schaltgetriebe",
+  "alt_causes": [
+   "Zu wenig Öl im Getriebe",
+   "Lager der Eingangswelle"
+  ],
+  "explanation": "Ein Heulen, dessen Lautstärke vom eingelegten Gang abhängt — in einem Gang heult es, im anderen leiser, im Leerlauf beim Rollen ist es weg —, kommt aus dem Schaltgetriebe: verschlissene Wellenlager oder ein bestimmtes Zahnradpaar. Ein Radlager brummt in jedem Gang gleich.",
+  "advice": "Ölstand im Getriebe prüfen — ein gefallener Stand ist eine häufige Ursache. In den nächsten ein bis zwei Wochen einen Diagnosetermin machen und sagen, in welchen Gängen es lauter heult: das grenzt die Suche ein. Fahren können Sie, aber ein zunehmendes Heulen sollte man nicht hinauszögern."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Unwucht der Räder",
+  "alt_causes": [
+   "Verlorenes Auswuchtgewicht",
+   "Schmutz oder Eis in der Felge"
+  ],
+  "explanation": "Ein feines Zittern des Lenkrads in einem schmalen Geschwindigkeitsbereich, meist bei 80–120 km/h, das darunter und darüber fast verschwindet, ist die klassische Unwucht: ein Gewicht ist abgefallen, oder innen in der Felge klebt Schmutz oder Eis. Zittert das Lenkrad, sind es die Vorderräder; zittert der Sitz, die hinteren.",
+  "advice": "Bei Gelegenheit auswuchten lassen — das geht schnell und kostet wenig. Im Winter zuerst die Felgen von innen ansehen und angebackenen Schnee und Eis abschlagen. Gefährlich ist es nicht, aber eine dauernde Vibration beschleunigt den Verschleiß von Radlagern und Spurstangenköpfen."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Verzogene Felge oder Beule im Reifen",
+  "alt_causes": [
+   "Verschobener Gürtel im Reifen",
+   "Unwucht der Räder"
+  ],
+  "explanation": "Ein Schlagen, das schon ab 40–60 km/h auffällt und mit dem Tempo zunimmt, ist meist eine Verformung: ein nach einem Schlagloch verbogenes Felgenhorn oder eine Beule in der Reifenflanke. Anders als eine Unwucht lebt dieses Schlagen nicht in einem schmalen Geschwindigkeitsbereich, sondern wird ständig stärker.",
+  "advice": "Reifen und Felgenkanten ansehen: eine Beule in der Flanke oder ein verbogenes Felgenhorn sieht man oft mit bloßem Auge. Eine Beule ist eine Schwachstelle, die bei Tempo platzen kann: das betroffene Rad gegen das Reserverad tauschen und den Besuch beim Reifendienst nicht aufschieben. Bis dahin nicht schnell fahren."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Kardanwelle: Mittellager oder Unwucht",
+  "alt_causes": [
+   "Kreuzgelenke der Kardanwelle",
+   "Hardyscheibe"
+  ],
+  "explanation": "Brummen und feine Vibrationen im Boden und in der Karosserie in einem bestimmten Geschwindigkeitsbereich bei Heck- oder Allradantrieb sind die Kardanwelle: ein verschlissenes Mittellager, ausgeschlagene Kreuzgelenke oder eine gestörte Auswuchtung. Von einer Radunwucht unterscheidet es sich dadurch, dass nicht das Lenkrad zittert, sondern der Boden.",
+  "advice": "Innerhalb einer Woche einen Diagnosetermin machen: Spiel in der Kardanwelle prüft man auf der Hebebühne in Minuten. Hinauszögern lohnt nicht — bricht ein Kreuzgelenk bei Tempo, ist das gefährlich. Bis zur Prüfung nicht lange in dem Tempo fahren, bei dem es vibriert."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Windgeräusch (Dichtungen, Zierleisten, Dachträger)",
+  "alt_causes": [
+   "Verschlissene Türdichtungen",
+   "Dachreling oder Dachbox"
+  ],
+  "explanation": "Ein Pfeifen oder Heulen, das erst oberhalb einer bestimmten Geschwindigkeit auftritt — meist ab 70–90 km/h —, mit ihr zunimmt und weder vom Belag noch von Kurven abhängt, ist Luft: eine verschlissene Dichtung, eine abgelöste Zierleiste, die Dachreling oder eine Dachbox.",
+  "advice": "Die Quelle findet man einfach: Dachbox oder Querträger abnehmen, falls vorhanden; das Fenster einen Spalt öffnen und hören, ob sich das Pfeifen ändert; eine verdächtige Fuge mit Malerkrepp abkleben und eine Runde fahren. Ein Defekt ist es nicht, behoben wird es durch eine neue Dichtung oder das Einstellen der Tür."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Der Verschleißanzeiger der Bremsbeläge schleift an der Scheibe",
+  "alt_causes": [
+   "Beläge fast am Ende",
+   "Steinchen zwischen Belag und Scheibe"
+  ],
+  "explanation": "Ein feines metallisches Piepen während der Fahrt ohne Bremsen, das beim leichten Antippen des Pedals verschwindet oder sich ändert, ist das Metallplättchen am Belag, das die Scheibe zu berühren beginnt. Das ist die vorgesehene Warnung: der nutzbare Belag ist fast aufgebraucht.",
+  "advice": "Vereinbaren Sie diese Woche einen Termin zum Wechsel der Beläge und lassen Sie die Scheiben mit ansehen. Die Bremse arbeitet noch voll, aber die nächste Stufe ist Schaben und beschädigte Scheiben. Kommt das Piepen von einem bestimmten Rad — sagen Sie das in der Werkstatt."
  }
 }
