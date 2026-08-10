@@ -1028,5 +1028,77 @@
   ],
   "explanation": "Un golpeteo sordo y repetido en las irregularidades pequeñas —adoquines, juntas de la calzada, firme ondulado— viene casi siempre de las bieletas de la barra estabilizadora: unas barritas con rótulas que son de lo primero que se desgasta en la suspensión. Por sí solas no son peligrosas, pero piezas más serias pueden sonar de forma parecida.",
   "advice": "Pide una revisión de la suspensión en una o dos semanas: el mecánico mueve las piezas en el elevador y localiza la holgura en unos minutos. Hasta la revisión, pasa despacio por los baches grandes. Si el coche empieza a irse hacia un lado, adelanta la comprobación."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Tren trasero: bieletas o silentblocks del eje",
+  "alt_causes": [
+   "Amortiguadores",
+   "Soportes del escape"
+  ],
+  "explanation": "Un golpeteo repetido por detrás en las irregularidades pequeñas suele venir de las articulaciones pequeñas del tren trasero: las bieletas de la barra estabilizadora trasera o los silentblocks gastados, los casquillos de goma con los que los brazos y el eje se sujetan a la carrocería. A veces suena parecido un soporte del escape que se ha aflojado.",
+  "advice": "Pide una revisión de la suspensión en una o dos semanas: en el elevador el origen de un golpeteo trasero se localiza rápido. Hasta entonces, pasa despacio por los baches grandes. Es útil fijarte si golpea sobre firme ondulado o solo en baches sueltos, y decírselo al mecánico."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silentblocks de los brazos o amortiguadores",
+  "alt_causes": [
+   "Cojinetes de los soportes de amortiguador",
+   "Rótulas de suspensión"
+  ],
+  "explanation": "Unos golpes sordos sueltos en baches y badenes suelen significar silentblocks gastados —los casquillos de goma con los que los brazos de la suspensión se sujetan a la carrocería— o amortiguadores cansados. La suspensión deja de absorber el impacto y se lo pasa a la carrocería.",
+  "advice": "Pasa por una revisión de suspensión en un par de semanas. Una prueba sencilla de los amortiguadores: empuja hacia abajo una esquina del coche; la carrocería debe volver sin rebotar. Hasta la reparación, pasa las irregularidades con suavidad: los golpes van machacando también las piezas de al lado."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Soportes del escape o cubrecárter",
+  "alt_causes": [
+   "Chapa antitérmica",
+   "Tubo de escape descolgado"
+  ],
+  "explanation": "Un cascabeleo metálico desde los bajos al pasar baches suele ser una sujeción floja: las gomas del escape, los tornillos del cubrecárter o una chapa antitérmica. Molesta, pero no afecta ni al motor ni a la conducción.",
+  "advice": "En la próxima visita al taller, pide que aprieten las sujeciones: es rápido y barato. Conviene asegurarse de que el escape no va descolgado: un tubo que arrastra por el suelo ya no se puede ignorar. Hasta entonces puedes conducir con normalidad."
+ },
+ "leaf_detonation": {
+  "top_cause": "Detonación (picado de biela bajo carga)",
+  "alt_causes": [
+   "Combustible de octanaje bajo",
+   "Carbonilla o sensor de detonación averiado"
+  ],
+  "explanation": "Un tintineo metálico al acelerar, sobre todo cuesta arriba o desde pocas revoluciones, es detonación: parte del combustible del cilindro se enciende por su cuenta, de forma explosiva, en lugar de quemarse de manera uniforme, y la onda de choque golpea los pistones. Las causas frecuentes son gasolina con menos octanaje del necesario, carbonilla en las cámaras de combustión o un sensor de detonación averiado. Una detonación continuada va destruyendo el motor.",
+  "advice": "Reposta con combustible del octanaje mínimo que indique el fabricante, y mejor en otra gasolinera: muchas veces el tintineo desaparece tras un depósito. Hasta la comprobación, no fuerces el motor: acelera con suavidad y reduce en las cuestas. Si el tintineo sigue después de cambiar de combustible, a diagnóstico."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Soportes de motor o junta homocinética interior",
+  "alt_causes": [
+   "Holgura en la transmisión",
+   "Soporte de la caja de cambios"
+  ],
+  "explanation": "Un golpe justo al pisar o al soltar el acelerador indica holgura en la cadena que transmite la fuerza. Unos soportes gastados dejan que el motor se mueva al cambiar la carga, y una junta homocinética interior gastada —la junta del palier que va de la caja a la rueda— golpea al pisar y al soltar. Lo importante es que el ruido llega con el cambio de carga, no con los baches.",
+  "advice": "Pide diagnóstico en una o dos semanas. Una pista para el taller: fíjate en si el golpe está más cerca del motor o de las ruedas y si se repite al cambiar de marcha. Hasta la reparación, acelera y cambia con más suavidad."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Rodamiento de rueda",
+  "alt_causes": [
+   "Ruido de los neumáticos",
+   "Rodamiento central o transmisión"
+  ],
+  "explanation": "Un zumbido constante que aumenta con la velocidad y no depende de las revoluciones del motor viene casi siempre de un rodamiento de rueda gastado: el rodamiento sobre el que gira la rueda. El zumbido recuerda al de un avión despegando y apenas cambia con el firme. Un rodamiento muy castigado deja holgura en la rueda y, en el peor caso, puede agarrotarse.",
+  "advice": "Que lo revisen en el taller dentro de esta semana: el mecánico gira las ruedas en el elevador y localiza el buje ruidoso, la pieza donde va alojado ese rodamiento. Aplaza los viajes largos a alta velocidad hasta el diagnóstico. Si el zumbido sube de golpe o aparece vibración, al taller de inmediato."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Rodamiento de rueda trasera",
+  "alt_causes": [
+   "Ruido de los neumáticos",
+   "Diferencial o rodamiento central (en tracción trasera y total)"
+  ],
+  "explanation": "Un zumbido constante por detrás que aumenta con la velocidad viene casi siempre de un rodamiento de rueda trasera: el rodamiento sobre el que gira la rueda. En coches con tracción trasera o total, las piezas de la transmisión zumban de forma parecida, así que conviene confirmar el origen en el elevador.",
+  "advice": "Que lo revisen en el taller dentro de esta semana: atrás, el zumbido de un rodamiento se confunde con facilidad con el diferencial, y una inspección en el elevador lo aclara enseguida. Aplaza los viajes largos a alta velocidad hasta entonces. Si el zumbido sube de golpe o aparece vibración, al taller de inmediato."
+ },
+ "leaf_tires": {
+  "top_cause": "Ruido de los neumáticos",
+  "alt_causes": [
+   "Desgaste irregular del dibujo",
+   "Rodamiento de rueda"
+  ],
+  "explanation": "Si el zumbido depende del firme —más bajo sobre asfalto nuevo, más alto sobre firme rugoso—, lo más probable es que sean los neumáticos. Zumban especialmente los de invierno, los de campo y los desgastados de forma irregular. Es una cuestión de comodidad, no una avería.",
+  "advice": "Mira el dibujo: un desgaste en sierra (escalones en los bordes) o a manchas aumenta el zumbido y apunta a una alineación descuadrada o a unos amortiguadores cansados. Comprueba la presión de los neumáticos. Si el zumbido en realidad no depende del firme y aumenta con la velocidad, vuelve a la explicación del rodamiento de rueda."
  }
 }
