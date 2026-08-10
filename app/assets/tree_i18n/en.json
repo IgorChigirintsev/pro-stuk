@@ -527,5 +527,77 @@
   ],
   "explanation": "A knock at the ends of the sweep is play in the wiper linkage joints — the mechanism that drives the arms — or loose arm nuts. An even squeak across the glass is hardened blade rubbers. The check is simple: switch the wipers off and the noise stops at once and completely.",
   "advice": "Squeaking rubbers you can replace yourself — blades are sold in any parts shop. For a knock at the ends of the sweep, have the arm nuts tightened or the linkage bushings replaced when convenient. The only safety issue here is a clear windscreen."
+ },
+ "leaf_eps": {
+  "top_cause": "Electric power steering: a faint hum is normal",
+  "alt_causes": [
+   "Worn electric steering unit",
+   "Steering rack"
+  ],
+  "explanation": "If there is no fluid reservoir under the bonnet, the steering is electric, and a steady quiet hum when turning is it working normally, not a fault. There is simply no hydraulic pump in such a car to howl from a low fluid level.",
+  "advice": "The warning signs of electric steering are different: the wheel becomes heavy or stiffens in steps, crunching appears, or the steering warning light comes on. If you have any of those, get to a garage within days; if not, drive on with confidence."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Exhaust manifold gasket or a crack",
+  "alt_causes": [
+   "Manifold studs",
+   "Hydraulic lifters"
+  ],
+  "explanation": "Rapid tapping on a cold engine that is louder outside and comes with a smell of exhaust under the bonnet is gases escaping through a burnt manifold gasket or a crack. As the metal warms it expands, the gap closes and the tapping stops.",
+  "advice": "Book a garage within a week or two: the gap grows over time, and exhaust fumes can be drawn into the cabin through the heater, which is harmful. Until it is fixed, air the cabin if you can smell exhaust."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Normal injector tick (direct injection or diesel)",
+  "alt_causes": [
+   "High-pressure fuel pump",
+   "Valve clearances"
+  ],
+  "explanation": "On direct-injection engines (TSI, GDI and the like) and on diesels, the injectors and the high-pressure pump always tick — that is how they work. The giveaways: the sound is the same cold and hot, louder outside than in the cabin, and it does not depend on how old the oil is.",
+  "advice": "Nothing needs doing. What should concern you is different: if the ticking has become noticeably louder than before, changed once warm, or arrived together with a loss of power — then book a diagnosis."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Air leak (vacuum hose or intake gasket)",
+  "alt_causes": [
+   "A cracked hose",
+   "Intake manifold gasket"
+  ],
+  "explanation": "A steady hiss under the bonnet, like air from a punctured tyre, is unmetered air being drawn in through a cracked hose or an intake gasket. The engine often runs unevenly because of it: the idle wanders and the check-engine light may come on.",
+  "advice": "Book a diagnosis within days, especially if the idle wanders: tracing an air leak is a standard job. You can look yourself at the thin rubber hoses under the bonnet for cracks, without removing anything."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Radiator cooling fan (bushings, or running constantly)",
+  "alt_causes": [
+   "Temperature sensor or thermostat",
+   "Viscous coupling (rear-wheel drive)"
+  ],
+  "explanation": "A hum or roar that switches itself on and off — in the heat, in traffic, with the A/C on — is the radiator cooling fan. A noisy fan means either worn motor bushings or that it runs constantly because of a sensor or the thermostat. Running on for a couple of minutes after switching off is normal.",
+  "advice": "If the fan roars constantly from start-up on a cold engine, book a diagnosis within days: the cooling system is not working properly. Watch the temperature gauge; if it climbs, pull over and switch the engine off."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Electric fuel pump",
+  "alt_causes": [
+   "Clogged fuel filter",
+   "Pump strainer"
+  ],
+  "explanation": "A steady buzz or whine from the rear, under the back seat or near the tank, is the fuel pump. Hearing it for a couple of seconds when you switch on the ignition is normal, but a loud whine you notice while driving points to a worn pump or a clogged filter making it strain.",
+  "advice": "Book a fuel pressure check within a week or two. Do not drive for long on the low-fuel light: at the bottom of the tank the pump cools less well and wears faster. If the car has started hesitating under load or is hard to start, go sooner."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Broken-up catalytic converter",
+  "alt_causes": [
+   "Heat shield",
+   "Exhaust mountings"
+  ],
+  "explanation": "A ringing rattle or shuffling from under the car nearer the engine, which grows when you blip the throttle and comes with a loss of power or a changed exhaust smell, is the ceramic inside the converter breaking apart. The fragments rattle in the casing, and the blocked honeycomb chokes the engine.",
+  "advice": "Book a diagnosis within days: fragments of ceramic can be drawn into the engine, and that is an expensive repair. A simple check at a garage is a light tap on the converter body once cold — you can hear the loose pieces inside. This is not one to put off."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Automatic gearbox: old fluid, wear, or play in the driveline",
+  "alt_causes": [
+   "Engine and gearbox mounts",
+   "Driveshaft universal joints (rear-wheel drive)"
+  ],
+  "explanation": "A jolt or clunk exactly as you move the selector between D and R, or during gear changes, points to wear or old fluid in the automatic: the gear engages with a shock, and play in the driveline amplifies it. Sagging mounts clunk in a similar way, so the diagnosis is worth confirming.",
+  "advice": "First check the level and condition of the gearbox fluid — dark, with a burnt smell, means it needs changing, and in many cases that is enough. Book a diagnosis within a week or two and say exactly which changes jolt. Until then, move the selector only at a full stop with the brake pressed."
  }
 }
