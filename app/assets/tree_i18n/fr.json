@@ -1,0 +1,78 @@
+{
+ "q_when": {
+  "text": "Quand entend-on le bruit ?",
+  "options": {
+   "o1": "Au démarrage ou en essayant de démarrer",
+   "o2": "À l'arrêt, moteur tournant",
+   "o3": "Uniquement en roulant",
+   "o4": "À l'arrêt comme en roulant"
+  }
+ },
+ "q_start_char": {
+  "text": "Quʼentendez-vous en tournant la clé ou en appuyant sur le bouton de démarrage ?",
+  "options": {
+   "o1": "Des claquements, le moteur ne tourne pas",
+   "o2": "Un crissement métallique pendant que le démarreur tourne",
+   "o3": "Le démarreur ronronne, mais le moteur ne part pas",
+   "o4": "Un sifflement aigu juste après le démarrage du moteur"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Quel genre de claquements ?",
+  "options": {
+   "o1": "Un cliquetis rapide et les voyants du tableau de bord faiblissent",
+   "o2": "Un seul claquement net, puis le silence"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Le bruit apparaît-il uniquement quand vous actionnez quelque chose (chauffage, climatisation, embrayage, direction, frein) ?",
+  "options": {
+   "o1": "Oui, il est lié à une action précise",
+   "o2": "Non, il se manifeste tout seul"
+  }
+ },
+ "q_action": {
+  "text": "À quelle action le bruit est-il lié ?",
+  "options": {
+   "o1": "Au chauffage ou au ventilateur",
+   "o2": "Au bouton de la climatisation",
+   "o3": "À la pédale d'embrayage",
+   "o4": "Au volant, à la pédale de frein ou aux essuie-glaces"
+  }
+ },
+ "q_hvac": {
+  "text": "Quel bruit fait le ventilateur en marche ?",
+  "options": {
+   "o1": "Un froissement ou un crépitement qui change avec la vitesse du ventilateur",
+   "o2": "Un sifflement ou un hurlement sous la planche de bord",
+   "o3": "Une série de claquements derrière la planche de bord quand on change la température ou la répartition dʼair",
+   "o4": "Un gargouillis derrière la planche de bord"
+  }
+ },
+ "q_ac": {
+  "text": "Qu'entend-on quand on met la climatisation ?",
+  "options": {
+   "o1": "Un sifflement au moment de lʼenclenchement",
+   "o2": "Un crissement ou un grondement pendant que la clim fonctionne",
+   "o3": "Un bref chuintement à l'enclenchement ou à l'arrêt, et ça refroidit bien"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Comment le bruit est-il lié à la pédale d'embrayage ?",
+  "options": {
+   "o1": "Un bruissement ou un bourdonnement pédale relâchée ; en débrayant, il sʼatténue",
+   "o2": "Il apparaît ou augmente quand la pédale est enfoncée",
+   "o3": "Un cliquetis au ralenti qui change quand on débraye",
+   "o4": "Un grincement à lʼappui, audible même moteur coupé"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "À quoi le bruit est-il lié exactement ?",
+  "options": {
+   "o1": "Un hurlement ou un bourdonnement quand on tourne le volant",
+   "o2": "Un craquement ou des claquements quand on tourne le volant à l'arrêt",
+   "o3": "Un chuintement sous la planche de bord quand on appuie sur la pédale de frein",
+   "o4": "Un cognement ou un grincement au rythme des essuie-glaces"
+  }
+ }
+}
