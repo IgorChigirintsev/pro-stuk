@@ -716,5 +716,77 @@
   ],
   "explanation": "Um apito metálico fino em andamento sem travar, que ao tocar levemente no pedal desaparece ou muda, é a lâmina indicadora da pastilha a começar a tocar no disco. É o aviso previsto de origem: o material da pastilha está quase no fim.",
   "advice": "Marque esta semana a substituição das pastilhas e peça para verem também os discos. Os travões ainda funcionam na totalidade, mas a fase seguinte é o roçar metálico e os discos estragados. Se o apito vier de uma roda concreta, diga-o na oficina."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Pinça de travão gripada",
+  "alt_causes": [
+   "Guias da pinça gripadas",
+   "Tubo flexível do travão inchado por dentro"
+  ],
+  "explanation": "Um roçar permanente do lado de uma roda, o disco muito quente no fim do trajeto, cheiro a queimado e o carro a puxar para o lado significam que a pinça — a peça que aperta as pastilhas contra o disco — gripou e a pastilha roça o tempo todo. Um travão sobreaquecido perde eficácia, e pastilha e disco gastam-se em algumas centenas de quilómetros.",
+  "advice": "Deixe de usar o carro normalmente e vá apenas até à oficina, pouca distância e devagar. Para saber que roda está quente, aproxime a mão do disco sem lhe tocar: queima. Arrastar isto acaba com a roda bloqueada em andamento."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Parafusos de roda mal apertados",
+  "alt_causes": [
+   "Furos da jante ovalizados",
+   "Folga no cubo"
+  ],
+  "explanation": "Uma pancada ou batimento ritmado ao ritmo da rotação da roda, que apareceu nos primeiros dias depois de montar ou trocar pneus, é o caso clássico de parafusos de roda mal apertados. Uma roda com os parafusos frouxos ovaliza os furos da jante e, no pior caso, solta-se em andamento.",
+  "advice": "Pare na primeira oportunidade e verifique com a chave o aperto dos parafusos de todas as rodas. Se estavam frouxos e os apertou, a pancada deve desaparecer; se continuar, vá com cuidado à oficina e mande verificar o cubo. Depois de qualquer montagem de rodas convém reapertar os parafusos ao fim de 50 a 100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Pedrinha ou parafuso espetado no piso do pneu",
+  "alt_causes": [
+   "Parafusos de roda mal apertados",
+   "Descolamento do piso"
+  ],
+  "explanation": "Um estalido regular ao ritmo da rotação da roda, sobretudo a baixa velocidade, vem quase sempre de uma pedrinha presa no piso — ou, o que é mais importante, de um parafuso espetado. O barulho dura enquanto o objeto estiver no pneu.",
+  "advice": "Veja o piso de todas as rodas, avançando devagar ou virando o volante até ao fim. A pedrinha, tire-a. Um parafuso ou um prego, não os arranque: com eles chega tranquilamente ao serviço de pneus; sem eles, o pneu esvazia-se pelo caminho. Se não houver nada espetado e o estalido continuar, verifique o aperto dos parafusos de roda."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Casquilhos da barra estabilizadora ou silentblocks (ranger)",
+  "alt_causes": [
+   "Rótulas da suspensão",
+   "Borrachas e dobradiças das portas secas"
+  ],
+  "explanation": "Um ranger de cama velha nos buracos, ao entrar no carro e ao abaná-lo, é borracha seca na suspensão: os casquilhos da barra estabilizadora ou os silentblocks (as articulações de borracha dos braços). Com frio e humidade soa mais. Reproduz-se abanando o carro parado com a mão, apoiado num guarda-lamas.",
+  "advice": "Mostre na oficina quando puder: muitas vezes resolve-se lubrificando os casquilhos ou trocando peças de cêntimos. Não há perigo; mas se ao ranger se juntar uma pancada ou o carro começar a puxar para o lado, aí já são as rótulas e a verificação não deve esperar."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Pastilhas coladas aos discos",
+  "alt_causes": [
+   "Pastilhas geladas (no inverno)",
+   "Maxilas do travão de mão"
+  ],
+  "explanation": "Uma pancada seca forte ou um estalo isolado ao arrancar pela primeira vez depois de o carro estar muito tempo parado, sobretudo com o travão de mão puxado, depois de uma lavagem, de chuva ou de gelo, são as pastilhas que estavam coladas ou geladas nos discos e se soltam. Se o resto do trajeto for silencioso, é inofensivo.",
+  "advice": "Não é preciso fazer nada; no inverno pode deixar o carro com uma mudança metida em vez do travão de mão — só em caixa manual — para as pastilhas de trás não colarem com o gelo. Se o estalo se repetir em todos os arranques, já não são as pastilhas: volte a fazer o diagnóstico."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Folga na caixa de direção",
+  "alt_causes": [
+   "Rótulas de direção",
+   "Cardã da coluna"
+  ],
+  "explanation": "Uma pancada em piso irregular e nas juntas do pavimento, que chega diretamente ao volante e se sente nas mãos, é folga na caixa de direção: o casquilho ou o engrenamento estão gastos. Sinal característico: a pancada acalma se mantiver o volante ligeiramente em tensão.",
+  "advice": "Mande verificar a direção na oficina nos próximos dias: é um órgão de segurança e o diagnóstico no elevador leva minutos. Nalguns carros a caixa de direção afina-se, o que sai barato. Se o volante ficou vago ao centro ou o carro anda a nadar dentro da via, não adie."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Mola da suspensão partida",
+  "alt_causes": [
+   "Amortecedor cedido",
+   "Prato da mola partido"
+  ],
+  "explanation": "Uma pancada metálica ou um raspar nos buracos e nas curvas, aparecido de repente depois de um buraco, mais um canto do carro mais baixo, é o quadro típico de uma espira da mola partida. O pedaço pode roçar e bater enquanto a suspensão trabalha.",
+  "advice": "Espreite por baixo, atrás da roda: uma espira partida vê-se muitas vezes a olho. À oficina dentro de poucos dias e, até lá, conduza com suavidade: o pedaço da mola pode deslocar-se e danificar o pneu. As molas mudam-se aos pares no mesmo eixo."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plásticos do interior: clipes e juntas dos painéis",
+  "alt_causes": [
+   "Objetos no porta-luvas e nos bolsos",
+   "Borrachas das portas secas"
+  ],
+  "explanation": "Um chocalhar de plástico próximo e grilos nas irregularidades pequenas são atrito e folga dos painéis do interior: tablier, painéis das portas, porta-luvas. Com frio soa mais. O teste certeiro: se em andamento carregar com a mão no painel suspeito e o barulho desaparecer, é o interior e não o trem rolante.",
+  "advice": "Não é uma avaria: o carro está bom. Tire as coisas soltas do porta-luvas e dos bolsos e meta um pedaço de fita de feltro na junta que encontrou. O ranger à volta das portas resolve-se tratando as borrachas com massa de silicone. Uma pancada do trem rolante, essa, é surda, vem de baixo e não muda quando se carrega nos painéis."
  }
 }
