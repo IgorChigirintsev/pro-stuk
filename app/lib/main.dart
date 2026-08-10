@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'l10n/l10n.dart';
 import 'l10n/locale_service.dart';
 
 import 'screens/home.dart';
@@ -35,6 +36,10 @@ class StukApp extends StatelessWidget {
       child: ValueListenableBuilder<String>(
         valueListenable: LocaleService.current,
         builder: (context, _, child) => MaterialApp(
+          builder: (context, home) => Directionality(
+            textDirection: L.isRtl ? TextDirection.rtl : TextDirection.ltr,
+            child: home ?? const SizedBox.shrink(),
+          ),
         title: S.appName,
         theme: buildTheme(),
         debugShowCheckedModeBanner: false,

@@ -1,3 +1,4 @@
+import 'ar.dart';
 import 'de.dart';
 import 'en.dart';
 import 'es.dart';
@@ -17,7 +18,12 @@ import 'locale_service.dart';
 /// Пока переведён не весь интерфейс, недостающие ключи честно падают
 /// на русский, а не показывают пустоту или сам ключ.
 class L {
-  static final Map<String, Map<String, String>> tables = {'ru': ru, 'en': en, 'de': de, 'es': es, 'fr': fr, 'pt': pt, 'it': it, 'pl': pl, 'tr': tr, 'nl': nl, 'zh': zh, 'ja': ja, 'ko': ko};
+  static final Map<String, Map<String, String>> tables = {'ru': ru, 'en': en, 'de': de, 'es': es, 'fr': fr, 'pt': pt, 'it': it, 'pl': pl, 'tr': tr, 'nl': nl, 'zh': zh, 'ja': ja, 'ko': ko, 'ar': ar};
+
+  /// Языки с письмом справа налево: интерфейс для них зеркалится целиком.
+  static const rtl = {'ar'};
+
+  static bool get isRtl => rtl.contains(LocaleService.current.value);
 
   static String t(String key) {
     final lang = LocaleService.current.value;

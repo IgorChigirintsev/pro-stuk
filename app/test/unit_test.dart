@@ -6,6 +6,7 @@ import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';
 
 import 'package:stuk/data/service.dart';
+import 'package:stuk/l10n/ar.dart';
 import 'package:stuk/l10n/en.dart';
 import 'package:stuk/l10n/l10n.dart';
 import 'package:stuk/l10n/ru.dart';
@@ -111,5 +112,11 @@ void main() {
     expect(ru['diagnose'], isNotEmpty);
     // ключ, которого нет ни в одной таблице, возвращается как есть — заметно на глаз
     expect(L.t('нет_такого_ключа'), 'нет_такого_ключа');
+  });
+
+  test('арабский полон и помечен как rtl', () {
+    expect(ar.keys.toSet(), ru.keys.toSet());
+    expect(L.rtl.contains('ar'), isTrue);
+    expect(L.rtl.contains('en'), isFalse);
   });
 }
