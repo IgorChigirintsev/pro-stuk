@@ -213,5 +213,84 @@
    "o3": "Uma pancada ao rodar o volante",
    "o4": "Um uivo ou zumbido ao rodar o volante parado ou a estacionar"
   }
+ },
+ "q_bump_char": {
+  "text": "Que barulho faz nos buracos?",
+  "options": {
+   "o1": "Uma pancada ou choque metálico",
+   "o2": "Um ranger, como uma cama velha",
+   "o3": "Um chocalhar ou estrondo",
+   "o4": "Uma pancada seca isolada ao arrancar pela primeira vez depois de o carro estar muito tempo parado"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Que tipo de pancada exatamente?",
+  "options": {
+   "o1": "Uma pancada surda e repetida nas irregularidades pequenas",
+   "o2": "Pancadas surdas isoladas em buracos e lombas",
+   "o3": "A pancada chega diretamente ao volante, sente-se nas mãos",
+   "o4": "O barulho apareceu de repente depois de um buraco e um canto do carro está mais baixo"
+  }
+ },
+ "q_bump_where": {
+  "text": "A pancada vem da frente ou de trás?",
+  "options": {
+   "o1": "Da frente",
+   "o2": "De trás",
+   "o3": "Difícil de perceber"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "De onde vem o chocalhar?",
+  "options": {
+   "o1": "De debaixo do carro",
+   "o2": "Do interior: tablier, portas, grilos",
+   "o3": "Da bagageira, como se algo rolasse",
+   "o4": "Da frente, em cima, junto ao capô"
+  }
+ },
+ "q_move_manner": {
+  "text": "Como se relaciona o barulho com a condução?",
+  "options": {
+   "o1": "Aparece ao carregar ou ao largar o acelerador",
+   "o2": "No momento da mudança de velocidade ou do arranque",
+   "o3": "Ouve-se sempre, enquanto o carro anda",
+   "o4": "É mais uma vibração ou tremor do que um barulho"
+  }
+ },
+ "q_accel_char": {
+  "text": "A que se parece o barulho ao acelerar?",
+  "options": {
+   "o1": "Um tinir metálico, sobretudo a subir",
+   "o2": "Uma pancada no momento em que carrega ou larga o acelerador",
+   "o3": "Estouros ou um ronco forte no escape",
+   "o4": "Um uivo ou assobio em esforço"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Estouros ou ronco?",
+  "options": {
+   "o1": "Estouros",
+   "o2": "Um ronco, mais forte ao acelerar; o carro puxa como sempre",
+   "o3": "O motor ruge, as rotações sobem mas o carro não acelera; às vezes cheira a queimado"
+  }
+ },
+ "q_load_whine": {
+  "text": "Que tipo de uivo em esforço?",
+  "options": {
+   "o1": "Um assobio agudo só ao acelerar, que desaparece ao largar o pé (motor turbo)",
+   "o2": "Um zumbido cujo tom muda ao carregar e largar o acelerador à mesma velocidade",
+   "o3": "Um uivo monótono a acelerar; a caixa é CVT ou automática",
+   "o4": "O uivo é mais forte numa mudança e mais fraco noutra; caixa manual"
+  }
+ },
+ "q_shift_char": {
+  "text": "O que acontece ao mudar de velocidade ou ao arrancar?",
+  "options": {
+   "o1": "Um solavanco ou pancada ao passar a automática de D para R ou nas mudanças",
+   "o2": "Um ranger ao meter a mudança numa caixa manual",
+   "o3": "O carro treme ao arrancar, enquanto larga a embraiagem",
+   "o4": "Uma pancada isolada debaixo do carro ao arrancar ou ao mudar de acelerador"
+  }
  }
 }
