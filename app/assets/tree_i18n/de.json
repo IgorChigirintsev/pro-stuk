@@ -1,0 +1,171 @@
+{
+ "q_when": {
+  "text": "Wann ist das Geräusch zu hören?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Beim Starten oder beim Startversuch"
+   },
+   {
+    "id": "o2",
+    "label": "Im Stand, bei laufendem Motor"
+   },
+   {
+    "id": "o3",
+    "label": "Nur während der Fahrt"
+   },
+   {
+    "id": "o4",
+    "label": "Im Stand und während der Fahrt"
+   }
+  ]
+ },
+ "q_start_char": {
+  "text": "Was hören Sie, wenn Sie den Zündschlüssel drehen oder den Startknopf drücken?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Klacken, der Motor dreht nicht"
+   },
+   {
+    "id": "o2",
+    "label": "Metallisches Kreischen, während der Anlasser dreht"
+   },
+   {
+    "id": "o3",
+    "label": "Der Anlasser surrt, aber der Motor springt nicht an"
+   },
+   {
+    "id": "o4",
+    "label": "Quietschen oder Pfeifen direkt nachdem der Motor angesprungen ist"
+   }
+  ]
+ },
+ "q_start_clicks": {
+  "text": "Was für ein Klacken genau?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Schnelles Klackern, die Kontrollleuchten werden dunkler"
+   },
+   {
+    "id": "o2",
+    "label": "Ein einzelnes deutliches Klacken, dann Stille"
+   }
+  ]
+ },
+ "q_stationary_gate": {
+  "text": "Tritt das Geräusch nur auf, wenn Sie etwas einschalten oder betätigen (Heizung, Klimaanlage, Kupplung, Lenkung, Bremse)?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, es hängt an einer bestimmten Bedienung"
+   },
+   {
+    "id": "o2",
+    "label": "Nein, es ist von selbst da"
+   }
+  ]
+ },
+ "q_action": {
+  "text": "Mit welcher Bedienung hängt das Geräusch zusammen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Mit der Heizung oder dem Gebläse"
+   },
+   {
+    "id": "o2",
+    "label": "Mit der Klimaanlagentaste"
+   },
+   {
+    "id": "o3",
+    "label": "Mit dem Kupplungspedal"
+   },
+   {
+    "id": "o4",
+    "label": "Mit der Lenkung, dem Bremspedal oder den Scheibenwischern"
+   }
+  ]
+ },
+ "q_hvac": {
+  "text": "Welches Geräusch macht das eingeschaltete Gebläse?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Rascheln oder Knistern, ändert sich mit der Gebläsestufe"
+   },
+   {
+    "id": "o2",
+    "label": "Quietschen oder Heulen unter dem Armaturenbrett"
+   },
+   {
+    "id": "o3",
+    "label": "Eine Reihe von Klacken hinter dem Armaturenbrett beim Ändern von Temperatur oder Luftverteilung"
+   },
+   {
+    "id": "o4",
+    "label": "Gluckern oder Plätschern hinter dem Armaturenbrett"
+   }
+  ]
+ },
+ "q_ac": {
+  "text": "Was hören Sie beim Einschalten der Klimaanlage?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Quietschen im Moment des Einschaltens"
+   },
+   {
+    "id": "o2",
+    "label": "Schleifen oder Rumpeln, solange die Klimaanlage läuft"
+   },
+   {
+    "id": "o3",
+    "label": "Kurzes Zischen beim Ein- oder Ausschalten, die Kühlung funktioniert"
+   }
+  ]
+ },
+ "q_clutch_idle": {
+  "text": "Wie hängt das Geräusch mit dem Kupplungspedal zusammen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Rascheln oder Brummen bei losgelassenem Pedal; beim Treten wird es leiser"
+   },
+   {
+    "id": "o2",
+    "label": "Es tritt auf oder wird lauter, wenn das Pedal getreten ist"
+   },
+   {
+    "id": "o3",
+    "label": "Klappern oder Rasseln im Leerlauf, beim Treten ändert es sich"
+   },
+   {
+    "id": "o4",
+    "label": "Knarzen beim Treten, auch bei abgestelltem Motor hörbar"
+   }
+  ]
+ },
+ "q_wheel_pedal": {
+  "text": "Womit genau hängt das Geräusch zusammen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Heulen oder Brummen beim Lenken"
+   },
+   {
+    "id": "o2",
+    "label": "Knacken oder Klicken beim Lenken im Stand"
+   },
+   {
+    "id": "o3",
+    "label": "Zischen unter dem Armaturenbrett beim Treten des Bremspedals"
+   },
+   {
+    "id": "o4",
+    "label": "Klopfen oder Quietschen im Takt der Scheibenwischer"
+   }
+  ]
+ }
+}
