@@ -1037,5 +1037,68 @@
   ],
   "explanation": "Frequent knocking from the rear over small bumps usually comes from the small joints of the rear suspension: the rear anti-roll bar links, or worn bushes — the rubber sleeves through which the arms and beam attach to the body. A loose exhaust mounting can knock in a similar way.",
   "advice": "Book a suspension check within a week or two: on a lift the source of a rear knock is found quickly. Until then take large potholes slowly. It helps to notice whether it knocks over small ripples or over single potholes — and to tell the mechanic."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Suspension arm bushes or shock absorbers",
+  "alt_causes": [
+   "Strut top mounts",
+   "Ball joints"
+  ],
+  "explanation": "Single dull thuds over potholes and speed bumps usually mean worn bushes — the rubber sleeves through which the suspension arms attach to the body — or tired shock absorbers. The suspension stops absorbing the impact and passes it to the body.",
+  "advice": "Book a suspension check within a couple of weeks. A simple shock absorber test: push a corner of the car down — the body should come back without bouncing. Take bumps gently until it is fixed: the impacts wear out the neighbouring parts too."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Exhaust mountings or the undertray",
+  "alt_causes": [
+   "Heat shield",
+   "A sagging exhaust pipe"
+  ],
+  "explanation": "A metallic rattle from under the car over bumps is usually a loose fixing: exhaust rubbers, undertray bolts, or a heat shield. It is annoying but does not affect the engine or how the car drives.",
+  "advice": "Ask a garage to tighten the fixings at your next visit: it is quick and cheap. Do make sure the exhaust is not sagging — a pipe dragging on the road can no longer be ignored. Until then you can drive as normal."
+ },
+ "leaf_detonation": {
+  "top_cause": "Detonation (pinking under load)",
+  "alt_causes": [
+   "Low-octane fuel",
+   "Carbon deposits or a faulty knock sensor"
+  ],
+  "explanation": "A metallic pinging under acceleration, especially uphill or from low revs, is detonation: part of the fuel in the cylinders ignites on its own, explosively, instead of burning evenly, and the shock wave hammers the pistons. Common causes are fuel with a lower octane rating than required, carbon deposits in the combustion chambers, or a faulty knock sensor. Constant detonation gradually destroys the engine.",
+  "advice": "Fill up with fuel of at least the octane rating the manufacturer specifies, preferably at a different station — the pinging often goes after one tank. Until it is checked, do not load the engine: accelerate gently and change down for hills. If the pinging remains after changing fuel, book a diagnosis."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Engine mounts or the inner CV joint",
+  "alt_causes": [
+   "Play in the driveline",
+   "Gearbox mount"
+  ],
+  "explanation": "A knock as you press or lift off the throttle points to play in the chain that transmits drive. Worn mounts let the engine lurch as the load changes, and a worn inner CV joint — the joint on the shaft from the gearbox to the wheel — knocks on and off the throttle. What matters is that the noise comes with the change of load, not with bumps.",
+  "advice": "Book a diagnosis within a week or two. A hint for the garage: note whether the knock is closer to the engine or to the wheels, and whether it repeats during gear changes. Until then use the throttle and the gears more gently."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Wheel hub bearing",
+  "alt_causes": [
+   "Tyre noise",
+   "Centre bearing or driveline"
+  ],
+  "explanation": "A steady hum that grows with speed and does not follow engine revs most often comes from a worn hub bearing — the bearing the wheel turns on. The hum sounds like an aircraft taking off and barely changes with the road surface. Left too long, the bearing lets the wheel develop play and can seize.",
+  "advice": "Have it checked within the week: a mechanic spins the wheels on a lift and finds the noisy hub — the housing this bearing sits in. Postpone long motorway trips until then. If the hum suddenly gets louder or vibration appears, go straight away."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Rear wheel hub bearing",
+  "alt_causes": [
+   "Tyre noise",
+   "Differential or centre bearing on rear- and all-wheel drive"
+  ],
+  "explanation": "A steady hum from the rear that grows with speed most often comes from a rear hub bearing — the bearing the wheel turns on. On rear- and all-wheel-drive cars the driveline hums in a similar way, so the source is worth confirming on a lift.",
+  "advice": "Have it checked within the week: at the rear a bearing hum is easy to confuse with the differential, and an inspection on a lift settles it at once. Postpone long motorway trips until then. If the hum suddenly gets louder or vibration appears, go straight away."
+ },
+ "leaf_tires": {
+  "top_cause": "Tyre noise",
+  "alt_causes": [
+   "Uneven tread wear",
+   "Wheel hub bearing"
+  ],
+  "explanation": "If the hum depends on the surface — quieter on fresh asphalt, louder on coarse — it is most likely the tyres. Winter, off-road and unevenly worn tyres are especially loud. This is a comfort question, not a fault.",
+  "advice": "Look over the tread: sawtooth wear (steps along the edges) or patchy wear makes the hum worse and hints at wheel alignment being out, or tired shock absorbers. Check the tyre pressures. If the hum in fact does not depend on the surface and grows with speed, go back to the wheel bearing explanation."
  }
 }
