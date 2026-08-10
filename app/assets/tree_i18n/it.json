@@ -141,5 +141,77 @@
    "o1": "Sì, più rapido e più forte",
    "o2": "Quasi non cambia, oppure sparisce"
   }
+ },
+ "q_squeal": {
+  "text": "Che tipo di rumore è?",
+  "options": {
+   "o1": "Un fischio acuto e penetrante",
+   "o2": "Un ronzio o fruscio costante",
+   "o3": "Un sibilo costante, come aria che esce da uno pneumatico"
+  }
+ },
+ "q_hum_source": {
+  "text": "Da dove arriva il ronzio?",
+  "options": {
+   "o1": "Da davanti, dal vano motore, e cambia con i giri",
+   "o2": "Si accende e si spegne da solo: con il caldo, nel traffico, con il climatizzatore",
+   "o3": "Da dietro, vicino al serbatoio; si sente girando la chiave, prima ancora di avviare"
+  }
+ },
+ "q_pump_check": {
+  "text": "Sotto il cofano, vicino alla cinghia, ci sono colature o tracce di liquido?",
+  "options": {
+   "o1": "Sì, è bagnato o si sente odore di liquido refrigerante",
+   "o2": "È tutto asciutto",
+   "o3": "Non sono riuscito a guardare"
+  }
+ },
+ "q_rattle": {
+  "text": "Che rumore e da dove?",
+  "options": {
+   "o1": "Un sferragliare metallico da sotto la vettura",
+   "o2": "Scoppi allo scarico",
+   "o3": "Un gorgoglio dietro la plancia"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Insieme al sferragliare, l’auto ha perso ripresa o lo scarico ha un odore strano?",
+  "options": {
+   "o1": "Sì, tira meno o l’odore è cambiato",
+   "o2": "No, sferraglia soltanto a certi regimi"
+  }
+ },
+ "q_move_when": {
+  "text": "Quando si manifesta di più il rumore in marcia?",
+  "options": {
+   "o1": "In frenata",
+   "o2": "In curva o girando il volante",
+   "o3": "Su buche e dossi",
+   "o4": "In accelerazione, cambiando marcia o di continuo"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Il rumore compare solo alle prime frenate dopo una sosta o con la pioggia, e poi sparisce?",
+  "options": {
+   "o1": "Sì, sparisce subito",
+   "o2": "No, si sente a ogni frenata"
+  }
+ },
+ "q_brake_char": {
+  "text": "Che rumore fa in frenata?",
+  "options": {
+   "o1": "Un fischio o cigolio",
+   "o2": "Uno sfregamento metallo contro metallo",
+   "o3": "Un colpo o pulsazioni nel pedale"
+  }
+ },
+ "q_turn_char": {
+  "text": "Che cosa si sente in curva?",
+  "options": {
+   "o1": "Un ronzio a velocità, più forte da un lato",
+   "o2": "Scatti o scricchiolii con il volante tutto girato",
+   "o3": "Un colpo girando il volante",
+   "o4": "Un ululato o ronzio girando il volante da fermo o in manovra"
+  }
  }
 }
