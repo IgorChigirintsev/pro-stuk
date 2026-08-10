@@ -74,5 +74,72 @@
    "o3": "Um sibilar debaixo do tablier ao carregar no pedal do travão",
    "o4": "Uma pancada ou ranger ao ritmo dos limpa-para-brisas"
   }
+ },
+ "q_ps_type": {
+  "text": "Existe debaixo do capô um depósito de líquido da direção assistida?",
+  "options": {
+   "o1": "Sim, existe",
+   "o2": "Não, ou não sei"
+  }
+ },
+ "q_steer_click": {
+  "text": "De onde vêm os estalidos?",
+  "options": {
+   "o1": "De cima, da cava da roda, à altura do capô",
+   "o2": "Do próprio volante ou da coluna, ao nível dos pés"
+  }
+ },
+ "q_engine_cold": {
+  "text": "O barulho ouve-se só com o motor frio, logo depois de arrancar?",
+  "options": {
+   "o1": "Sim, com o motor quente desaparece",
+   "o2": "Não, também se ouve com o motor quente"
+  }
+ },
+ "q_cold_char": {
+  "text": "A que se parece o barulho a frio?",
+  "options": {
+   "o1": "Um tiquetaque rápido",
+   "o2": "Uma pancada surda que desaparece quando o motor aquece",
+   "o3": "Um roçar ou chocalhar à frente do motor",
+   "o4": "Um guincho ou assobio ao arrancar"
+  }
+ },
+ "q_tick_cold": {
+  "text": "O tiquetaque soa mais forte cá fora do que dentro do carro, e debaixo do capô cheira a escape?",
+  "options": {
+   "o1": "Sim, cá fora soa mais e há cheiro",
+   "o2": "Não, faz tiquetaque em cima do motor e não há cheiro"
+  }
+ },
+ "q_engine_char": {
+  "text": "A que se parece o barulho?",
+  "options": {
+   "o1": "Uma pancada ou um tiquetaque",
+   "o2": "Um guincho, assobio, zumbido ou sibilar",
+   "o3": "Um tinir, chocalhar, estouros ou borbulhar",
+   "o4": "Vibração ou tremor ao ralenti"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Que tipo de pancada exatamente?",
+  "options": {
+   "o1": "Um tiquetaque leve e rápido na parte de cima do motor",
+   "o2": "Uma pancada surda ou metálica vinda do fundo do motor"
+  }
+ },
+ "q_tick_warm": {
+  "text": "O tiquetaque aumentou com o tempo ou é sempre igual?",
+  "options": {
+   "o1": "Aumentou; com o motor quente ouve-se melhor",
+   "o2": "Sempre igual; cá fora soa mais do que dentro"
+  }
+ },
+ "q_knock_load": {
+  "text": "Se acelerar suavemente, a pancada fica mais rápida e mais forte?",
+  "options": {
+   "o1": "Sim, mais rápida e mais forte",
+   "o2": "Quase não muda, ou desaparece"
+  }
  }
 }
