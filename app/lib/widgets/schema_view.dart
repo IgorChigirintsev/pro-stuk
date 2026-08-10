@@ -5,11 +5,11 @@ import 'package:flutter/services.dart' show rootBundle;
 
 import '../theme.dart';
 
-/// Схема узла с подсветкой деталей, на которые указывает диагноз.
+/// Схема узла с номерами деталей, легендой и подсветкой проблемных мест.
 ///
-/// Картинка — заранее отрисованная схема с выносками, подсветка — накладка
-/// поверх неё: координаты деталей лежат в assets/schemes/parts.json в системе
-/// исходного SVG (400×438), поэтому масштабируются вместе с картинкой.
+/// Картинка идёт без подписей, а номера и легенда рисуются кодом. Так перевод
+/// схемы — это словарь, а не перерисовка 32 картинок на каждый язык:
+/// иначе к сборке пришлось бы добавить сотни файлов.
 class SchemaView extends StatefulWidget {
   final String schemaKey; // например shemy/tsep-grm
   final List<int> marks;
@@ -21,7 +21,8 @@ class SchemaView extends StatefulWidget {
 }
 
 class _SchemaViewState extends State<SchemaView> {
-  static const double _vbW = 400, _vbH = 438;
+  /// Система координат исходного рисунка.
+  static const double _vbW = 400, _vbH = 240;
   static Map<String, dynamic>? _cache;
 
   List<_Part> _parts = const [];
@@ -48,6 +49,7 @@ class _SchemaViewState extends State<SchemaView> {
       final list = (entry['parts'] as List)
           .map((e) => _Part(
                 (e['n'] as num).toInt(),
+                e['label'] as String? ?? '',
                 (e['x'] as num).toDouble(),
                 (e['y'] as num).toDouble(),
                 (e['r'] as num).toDouble(),
@@ -62,7 +64,7 @@ class _SchemaViewState extends State<SchemaView> {
   @override
   Widget build(BuildContext context) {
     if (_missing) return const SizedBox.shrink();
-    final show = _parts.where((p) => widget.marks.contains(p.n)).toList();
+    final marked = widget.marks.toSet();
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -75,18 +77,56 @@ class _SchemaViewState extends State<SchemaView> {
               fit: StackFit.expand,
               children: [
                 Image.asset('assets/schemes/$_asset.png', fit: BoxFit.contain),
-                if (show.isNotEmpty)
-                  CustomPaint(painter: _MarksPainter(show, _vbW, _vbH)),
+                if (_parts.isNotEmpty)
+                  CustomPaint(painter: _Overlay(_parts, marked, _vbW, _vbH)),
               ],
             ),
           ),
         ),
-        const SizedBox(height: 8),
-        Text(
-          show.isNotEmpty
-              ? 'Обведено то, на что указывает разбор, — это версия, а не диагноз.'
-              : 'Схема узла целиком.',
-          style: const TextStyle(fontSize: 13, color: T.inkSoft),
+        const SizedBox(height: 10),
+        // Легенда: номер и подпись. Текст берётся из словаря, а не из картинки.
+        Wrap(
+          spacing: 14,
+          runSpacing: 6,
+          children: [
+            for (final p in _parts)
+              SizedBox(
+                width: 150,
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Container(
+                      width: 18,
+                      height: 18,
+                      alignment: Alignment.center,
+                      decoration: BoxDecoration(
+                        shape: BoxShape.circle,
+                        color: marked.contains(p.n)
+                            ? const Color(0xFFC2410C)
+                            : T.accent,
+                      ),
+                      child: Text('${p.n}',
+                          style: const TextStyle(
+                              fontSize: 11,
+                              fontWeight: FontWeight.w700,
+                              color: Colors.white)),
+                    ),
+                    const SizedBox(width: 6),
+                    Expanded(
+                      child: Text(p.label,
+                          style: TextStyle(
+                              fontSize: 12,
+                              color: marked.contains(p.n)
+                                  ? const Color(0xFFC2410C)
+                                  : T.inkSoft,
+                              fontWeight: marked.contains(p.n)
+                                  ? FontWeight.w700
+                                  : FontWeight.w400)),
+                    ),
+                  ],
+                ),
+              ),
+          ],
         ),
       ],
     );
@@ -95,15 +135,17 @@ class _SchemaViewState extends State<SchemaView> {
 
 class _Part {
   final int n;
+  final String label;
   final double x, y, r;
-  const _Part(this.n, this.x, this.y, this.r);
+  const _Part(this.n, this.label, this.x, this.y, this.r);
 }
 
-class _MarksPainter extends CustomPainter {
+class _Overlay extends CustomPainter {
   final List<_Part> parts;
+  final Set<int> marked;
   final double vbW, vbH;
 
-  _MarksPainter(this.parts, this.vbW, this.vbH);
+  _Overlay(this.parts, this.marked, this.vbW, this.vbH);
 
   @override
   void paint(Canvas canvas, Size size) {
@@ -116,19 +158,43 @@ class _MarksPainter extends CustomPainter {
 
     final halo = Paint()..color = const Color(0x17C2410C);
     final fill = Paint()..color = const Color(0x26C2410C);
-    final stroke = Paint()
+    final ring = Paint()
       ..color = const Color(0xFFC2410C)
       ..style = PaintingStyle.stroke
-      ..strokeWidth = 2.6 * k;
+      ..strokeWidth = 2.4 * k;
 
     for (final p in parts) {
       final c = Offset(dx + p.x * k, dy + p.y * k);
-      canvas.drawCircle(c, (p.r + 9) * k, halo);
-      canvas.drawCircle(c, p.r * k, fill);
-      canvas.drawCircle(c, p.r * k, stroke);
+
+      if (marked.contains(p.n)) {
+        canvas.drawCircle(c, (p.r + 8) * k, halo);
+        canvas.drawCircle(c, p.r * k, fill);
+        canvas.drawCircle(c, p.r * k, ring);
+      }
+
+      // Номер сидит на самой детали: подписи в кадре нет, вести линию некуда.
+      final badge = marked.contains(p.n)
+          ? const Color(0xFFC2410C)
+          : const Color(0xFF0E7C7B);
+      canvas.drawCircle(c, 9 * k, Paint()..color = Colors.white);
+      canvas.drawCircle(c, 9 * k, Paint()..color = badge);
+
+      final tp = TextPainter(
+        text: TextSpan(
+          text: '${p.n}',
+          style: TextStyle(
+            fontSize: 11 * k,
+            fontWeight: FontWeight.w700,
+            color: Colors.white,
+          ),
+        ),
+        textDirection: TextDirection.ltr,
+      )..layout();
+      tp.paint(canvas, c - Offset(tp.width / 2, tp.height / 2));
     }
   }
 
   @override
-  bool shouldRepaint(covariant _MarksPainter old) => old.parts != parts;
+  bool shouldRepaint(covariant _Overlay old) =>
+      old.parts != parts || old.marked != marked;
 }
