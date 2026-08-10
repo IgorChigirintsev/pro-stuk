@@ -357,5 +357,77 @@
    "o2": "De trás",
    "o3": "Difícil de perceber"
   }
+ },
+ "leaf_battery": {
+  "top_cause": "Bateria descarregada ou bornes oxidados",
+  "alt_causes": [
+   "Mau contacto de massa",
+   "Motor de arranque no fim de vida"
+  ],
+  "explanation": "Um matraquear rápido ao tentar arrancar significa que falta corrente ao relé do motor de arranque: ele estala, mas não consegue rodar o motor. A culpa é quase sempre de uma bateria descarregada ou de bornes oxidados e mal apertados. As luzes do painel a esmorecer durante a tentativa confirmam-no.",
+  "advice": "Veja os bornes da bateria: raspe o depósito branco ou esverdeado e aperte as pinças. Se não chegar, carregue a bateria ou faça um arranque com cabos e vá à oficina ou à loja substituí-la. Uma bateria com mais de quatro ou cinco anos é quase sempre a responsável."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Relé ou contactos de potência do motor de arranque",
+  "alt_causes": [
+   "Bornes oxidados",
+   "Cablagem até ao motor de arranque"
+  ],
+  "explanation": "Um estalido seco com as luzes do painel normais significa que o relé atua, mas o próprio motor de arranque não roda: contactos de potência queimados, escovas gastas ou o relé colado. Às vezes o carro acaba por pegar à segunda ou terceira tentativa — o diagnóstico é o mesmo.",
+  "advice": "Tente arrancar mais algumas vezes; se só pega uma vez em cada duas, vá à oficina nos próximos dias, antes de ficar retido nalgum parque. Verifique e aperte os bornes da bateria. Dar uma pancada no motor de arranque serve para chegar a casa uma vez, não é uma solução."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Pinhão do motor de arranque ou cremalheira do volante do motor",
+  "alt_causes": [
+   "Dentes da cremalheira gastos",
+   "Motor de arranque mal assente"
+  ],
+  "explanation": "Um chiar metálico ao arrancar significa que o pinhão do motor de arranque engrena mal na cremalheira do volante do motor: os dentes estão gastos ou o mecanismo prende. Cada arranque assim come mais os dentes do pinhão e da cremalheira.",
+  "advice": "Marque oficina dentro desta semana: substituir o pinhão ou o motor de arranque é bastante mais barato do que a cremalheira, para a qual é preciso tirar a caixa de velocidades. Até à reparação, não mantenha a chave na posição de arranque mais tempo do que o necessário e não volte a tentar logo a seguir a um chiar."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "O pinhão não engrena ou a cremalheira tem dentes partidos",
+  "alt_causes": [
+   "Roda livre do pinhão",
+   "Cremalheira do volante do motor"
+  ],
+  "explanation": "Se o motor de arranque zumbe animado mas o motor nem sequer tenta rodar, o pinhão está a girar em vazio: a roda livre do pinhão está gasta, ou faltam dentes à cremalheira naquele ponto.",
+  "advice": "Às vezes resulta à segunda tentativa, porque o volante do motor para noutra posição. Mesmo assim, vá à oficina nos próximos dias: cada tentativa aumenta o estrago. Se a caixa for manual, em último recurso pode arrancar a empurrar; com uma automática isso está fora de questão."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Folhas ou sujidade no ventilador do aquecimento",
+  "alt_causes": [
+   "Filtro do habitáculo entupido",
+   "Objeto estranho na conduta de ar"
+  ],
+  "explanation": "Um roçar e crepitar que muda com a velocidade da ventilação são quase sempre folhas ou sujidade que entraram pela tomada de ar até ao ventilador do aquecimento. No outono é um clássico, sobretudo se o filtro do habitáculo estiver entupido ou nem sequer existir.",
+  "advice": "Substitua o filtro do habitáculo (muitas vezes a sujidade está mesmo em cima dele) — em muitos carros faz-se em dez minutos e as instruções para o modelo encontram-se com facilidade. Se o barulho continuar, peça na oficina para soprarem e limparem o ventilador."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Rolamento ou casquilhos do motor da ventilação",
+  "alt_causes": [
+   "Sujidade no ventilador",
+   "A turbina roça na caixa"
+  ],
+  "explanation": "Um guincho ou uivo debaixo do tablier que só aparece com a ventilação ligada vem do motor da ventilação gasto. O teste é simples: desligue a ventilação e o guincho desaparece de imediato, mesmo com o motor a trabalhar.",
+  "advice": "Não afeta a segurança, mas com o tempo o motorzinho começa a prender e deixa-o sem aquecimento — melhor substituí-lo antes do frio. Até lá, use as velocidades de ventilação em que o barulho é menor."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomotor de uma comporta do aquecimento",
+  "alt_causes": [
+   "Calibração normal das comportas",
+   "Dentes partidos na engrenagem do servomotor"
+  ],
+  "explanation": "Uma série de estalidos rápidos ou um matraquear atrás do tablier ao ligar a ignição ou ao mudar a temperatura vem do servomotor que move as comportas do aquecimento. Se a série for curta e sempre igual, é muitas vezes apenas a calibração. Um matraquear sem fim significa que os dentes da engrenagem de plástico estão comidos.",
+  "advice": "Se os estalidos forem curtos e o aquecimento se regular normalmente, não é preciso fazer nada. Se o matraquear for longo ou o ar não sair por onde escolheu, marque oficina quando puder: ao carro não faz mal, mas o conforto perde-se."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Ar no circuito de refrigeração (nível de líquido baixo)",
+  "alt_causes": [
+   "Tampa do vaso de expansão avariada",
+   "Fuga de líquido de refrigeração"
+  ],
+  "explanation": "Um borbulhar atrás do tablier é uma bolha de ar a passar pelo radiador do aquecimento. O ar entra no circuito quando o nível de líquido de refrigeração desce: há uma fuga algures ou a tampa do vaso de expansão não aguenta a pressão. O aquecimento pode então soprar ora quente, ora frio.",
+  "advice": "Com o motor frio, verifique o nível no vaso de expansão e complete até à marca; depois vigie se volta a descer. Se o nível continuar a cair ou o aquecimento soprar frio com o motor quente, vá à oficina esta semana. Se o ponteiro da temperatura subir ou sair vapor: encoste e desligue o motor."
  }
 }
