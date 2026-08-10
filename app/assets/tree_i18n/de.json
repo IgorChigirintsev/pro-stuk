@@ -774,5 +774,77 @@
     "label": "Schwer zu sagen"
    }
   ]
+ },
+ "leaf_battery": {
+  "top_cause": "Leere Batterie oder korrodierte Batteriepole",
+  "alt_causes": [
+   "Schlechter Massekontakt",
+   "Anlasser am Ende"
+  ],
+  "explanation": "Schnelles Klackern beim Startversuch heißt: dem Magnetschalter des Anlassers fehlt der Strom — er klackt, kann den Motor aber nicht durchdrehen. Schuld ist meist eine entladene Batterie oder korrodierte, lose Batterieklemmen. Dass die Kontrollleuchten beim Startversuch dunkler werden, bestätigt das.",
+  "advice": "Sehen Sie sich die Batteriepole an: weißen oder grünlichen Belag abkratzen, die Klemmen nachziehen. Hilft das nicht — Batterie laden oder mit Starthilfekabel überbrücken und bis zur Werkstatt fahren, um sie zu ersetzen. Ist die Batterie älter als vier bis fünf Jahre, ist das fast schon das Urteil."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Magnetschalter oder Kontakte des Anlassers",
+  "alt_causes": [
+   "Korrodierte Batterieklemmen",
+   "Kabel zum Anlasser"
+  ],
+  "explanation": "Ein einzelnes deutliches Klacken bei normal hellen Kontrollleuchten heißt: der Magnetschalter zieht an, aber der Anlassermotor selbst läuft nicht — die Kontakte sind verbrannt, die Kohlen verschlissen oder der Magnetschalter klemmt. Manchmal springt das Auto beim zweiten oder dritten Versuch doch an — das ist dieselbe Diagnose.",
+  "advice": "Versuchen Sie es noch ein paar Mal; springt der Wagen nur jedes zweite Mal an, fahren Sie in den nächsten Tagen in die Werkstatt, bevor Sie irgendwo auf einem Parkplatz stehen bleiben. Batterieklemmen prüfen und nachziehen. Mit dem Hammer an den Anlasser zu klopfen bringt Sie einmal nach Hause, ist aber keine Lösung."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Ritzel des Anlassers oder Zahnkranz des Schwungrads",
+  "alt_causes": [
+   "Verschlissene Zähne am Zahnkranz",
+   "Der Anlasser sitzt schief"
+  ],
+  "explanation": "Metallisches Kreischen beim Start heißt: das Ritzel des Anlassers greift schlecht in den Zahnkranz des Schwungrads — die Zähne sind verschlissen oder der Mechanismus klemmt. Jeder solche Start frisst die Zähne von Anlasser und Schwungrad weiter auf.",
+  "advice": "Vereinbaren Sie innerhalb einer Woche einen Werkstatttermin: Ritzel oder Anlasser zu tauschen ist deutlich günstiger als der Zahnkranz, für den das Getriebe heraus muss. Bis zur Reparatur den Schlüssel nicht länger als nötig in Startstellung halten und nach einem Kreischen nicht sofort wieder starten."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Das Anlasserritzel greift nicht oder Zähne am Zahnkranz sind ausgebrochen",
+  "alt_causes": [
+   "Freilauf des Anlasserritzels",
+   "Zahnkranz des Schwungrads"
+  ],
+  "explanation": "Wenn der Anlasser munter surrt, der Motor sich aber nicht einmal zu drehen versucht, dreht das Ritzel leer: der Freilauf im Ritzel ist verschlissen, oder am Zahnkranz sind an dieser Stelle die Zähne weg.",
+  "advice": "Manchmal klappt der zweite Versuch — das Schwungrad bleibt dann in einer anderen Stellung stehen. In die Werkstatt sollten Sie trotzdem in den nächsten Tagen: mit jedem Versuch wird der Schaden größer. Bei einem Schaltgetriebe können Sie im Notfall anschieben — bei einer Automatik ist das ausgeschlossen."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Laub oder Schmutz im Gebläse",
+  "alt_causes": [
+   "Verstopfter Innenraumfilter",
+   "Fremdkörper im Luftkanal"
+  ],
+  "explanation": "Rascheln und Knistern, das sich mit der Gebläsestufe ändert, sind fast immer Laub oder Schmutz, die über den Lufteinlass ins Gebläse geraten sind. Im Herbst ist das ein Massenphänomen, vor allem wenn der Innenraumfilter zu ist oder ganz fehlt.",
+  "advice": "Innenraumfilter wechseln (oft liegt der Schmutz direkt darauf) — bei vielen Autos schaffen Sie das in zehn Minuten selbst, Anleitungen für das konkrete Modell findet man leicht. Bleibt das Rascheln, lassen Sie das Gebläse in der Werkstatt ausblasen und reinigen."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Lager oder Buchsen des Gebläsemotors",
+  "alt_causes": [
+   "Schmutz im Gebläse",
+   "Das Lüfterrad schleift am Gehäuse"
+  ],
+  "explanation": "Quietschen oder Heulen unter dem Armaturenbrett, das nur bei eingeschaltetem Gebläse auftritt, kommt vom verschlissenen Gebläsemotor. Die Probe ist einfach: Gebläse ausschalten — das Quietschen ist sofort weg, auch bei laufendem Motor.",
+  "advice": "Für die Sicherheit ist das ohne Bedeutung, aber mit der Zeit fängt der Motor an zu klemmen und Sie stehen ohne Heizung da — besser vor dem Winter tauschen. Bis dahin können Sie die Gebläsestufen nutzen, bei denen es leiser ist."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Stellmotor einer Heizungsklappe",
+  "alt_causes": [
+   "Normale Kalibrierung der Klappen",
+   "Ausgebrochene Zähne am Zahnrad des Stellmotors"
+  ],
+  "explanation": "Eine Reihe schneller Klackgeräusche oder ein Rattern hinter dem Armaturenbrett beim Einschalten der Zündung oder beim Ändern der Temperatur kommt vom Stellmotor, der die Klappen der Heizung bewegt. Ist die Reihe kurz und immer gleich, ist es oft nur die Kalibrierung. Endloses Rattern heißt: die Zähne des Kunststoffzahnrads sind abgenutzt.",
+  "advice": "Sind die Klackgeräusche kurz und lässt sich die Heizung normal regeln, müssen Sie nichts tun. Rattert es lange oder kommt die Luft nicht dort heraus, wo Sie es eingestellt haben, vereinbaren Sie bei Gelegenheit einen Werkstatttermin: dem Auto schadet es nicht, aber der Komfort leidet."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Luft im Kühlsystem (zu wenig Kühlmittel)",
+  "alt_causes": [
+   "Defekter Deckel des Ausgleichsbehälters",
+   "Kühlmittelverlust"
+  ],
+  "explanation": "Gluckern oder Plätschern hinter dem Armaturenbrett ist eine Luftblase, die durch den Heizungswärmetauscher wandert. Luft kommt ins System, wenn der Kühlmittelstand gefallen ist: irgendwo ist eine Undichtigkeit, oder der Deckel des Ausgleichsbehälters hält nicht. Die Heizung bläst dann mal warm, mal kalt.",
+  "advice": "Bei kaltem Motor den Stand im Ausgleichsbehälter prüfen und bis zur Markierung auffüllen, danach beobachten, ob wieder Flüssigkeit verschwindet. Fällt der Stand weiter oder bläst die Heizung bei warmem Motor kalt — diese Woche in die Werkstatt. Steigt die Temperaturanzeige oder tritt Dampf aus: anhalten und den Motor abstellen."
  }
 }
