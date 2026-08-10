@@ -944,5 +944,89 @@
   ],
   "explanation": "Après une nuit, sous la pluie ou après un lavage, un fin voile orangé se forme sur les disques : c'est normal sur n'importe quelle voiture. Les premiers freinages l'enlèvent, d'où un grincement ou un léger raclement qui disparaît vite.",
   "advice": "Vous n'avez rien à faire : quelques freinages doux en début de trajet nettoient les disques. Si le bruit ne disparaît plus et se fait entendre à chaque freinage, refaites le diagnostic ou montrez la voiture au garage."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "État ou usure des plaquettes de frein",
+  "alt_causes": [
+   "Témoin d’usure des plaquettes",
+   "Plaquettes vitrifiées",
+   "Poussière ou corrosion sur les disques"
+  ],
+  "explanation": "Un sifflement à chaque freinage, c'est le signal de faire contrôler les plaquettes. Beaucoup de plaquettes ont un témoin d'usure métallique : quand la garniture — la matière qui frotte sur le disque — est usée jusqu'à la limite, une languette touche le disque et siffle volontairement. Les plaquettes elles-mêmes peuvent aussi siffler, à cause d'un dépôt, d'une surface vitrifiée ou d'un matériau bas de gamme.",
+  "advice": "Prenez rendez-vous cette semaine pour un contrôle des plaquettes et des disques. Si c'est le témoin d'usure, il ne faut pas attendre : l'étape suivante, c'est le frottement métallique et des disques abîmés. Si les plaquettes sont en bon état, le sifflement n'est pas dangereux et le mécanicien vous dira comment le faire cesser."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Plaquettes usées jusqu'au métal",
+  "alt_causes": [
+   "Corps étranger dans le frein",
+   "Plaquette désagrégée"
+  ],
+  "explanation": "Un frottement métal contre métal au freinage signifie que la garniture est épuisée et que le support métallique de la plaquette frotte sur le disque. La distance de freinage augmente, le disque s'abîme à chaque arrêt, et le mécanisme peut se bloquer.",
+  "advice": "Arrêtez les trajets normaux et n'allez plus que jusqu'au garage, en freinant tôt et en douceur. Ne repoussez pas le remplacement d'un seul jour : au-delà de la sécurité, chaque kilomètre dans cet état ajoute le prix des disques à la facture."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Colonnettes d’étrier ou disques voilés",
+  "alt_causes": [
+   "Jeu dans le moyeu",
+   "Fixation d’étrier desserrée"
+  ],
+  "explanation": "Un cognement au freinage ou des pulsations dans la pédale viennent en général du frein lui-même : les colonnettes de l'étrier — l'organe qui plaque les plaquettes sur le disque — ont du jeu, ou le disque est voilé et les plaquettes tapent dessus. Le freinage fonctionne, mais de façon irrégulière.",
+  "advice": "Faites contrôler les freins au garage dans les jours qui viennent : un organe dont dépend la sécurité ne doit pas être négligé. Si la pédale s'enfonce plus que d'habitude, si la voiture tire d'un côté au freinage ou si ça tape dans le volant, diagnostic immédiat."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Quelque chose frotte sur le disque (tôle de protection ou plaquettes usées)",
+  "alt_causes": [
+   "Plaquettes usées jusqu'au métal",
+   "Tôle de protection de disque tordue",
+   "Gravillon entre la tôle et le disque"
+  ],
+  "explanation": "Un frottement permanent du côté d'une roue signifie en général que quelque chose touche le disque en rotation : une tôle de protection tordue, un gravillon coincé — ou des plaquettes usées jusqu'au métal. Les deux premiers cas sont sans gravité, le troisième est dangereux, et à l'oreille on les confond facilement.",
+  "advice": "Faites contrôler ça dans un jour ou deux, sans repousser : un coup d'œil à la roue montre vite la cause. Si le frottement s'accentue au freinage ou si la pédale se comporte autrement que d'habitude, arrêtez les trajets et rejoignez prudemment le garage."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Roulement de roue",
+  "alt_causes": [
+   "Bruit des pneus",
+   "Joint homocinétique usé"
+  ],
+  "explanation": "Un bourdonnement qui change dans les virages en roulant est le signe classique d'un roulement de roue usé : le roulement sur lequel tourne la roue. En virage, le poids se reporte sur les roues extérieures : si le bourdonnement augmente en tournant à gauche, c'est le côté droit qui est chargé, donc probablement le roulement droit ; en tournant à droite, l'inverse. Un roulement qui se désagrège laisse du jeu dans la roue et, à un stade avancé, peut se bloquer.",
+  "advice": "Retenez de quel côté de virage le bourdonnement est le plus fort et dites-le au garage : ça réduit tout de suite le champ de recherche. Ne repoussez pas le contrôle de plus d'une semaine et reportez les longs trajets jusqu'au diagnostic. Si une vibration apparaît ou si le bourdonnement s'intensifie nettement, allez au garage immédiatement."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Joint homocinétique extérieur",
+  "alt_causes": [
+   "Joint homocinétique intérieur",
+   "Biellettes de barre stabilisatrice",
+   "Coupleur de transmission intégrale (sur 4x4)"
+  ],
+  "explanation": "Des claquements ou des craquements en roulant volant braqué sont le son caractéristique d'un joint homocinétique extérieur usé : l'articulation par laquelle tourne la roue directrice. Tout commence en général par un soufflet déchiré — la protection en caoutchouc qui protège le joint de la saleté.",
+  "advice": "Inspectez les soufflets de transmission ou faites-le faire au garage : un soufflet déchiré et de la graisse autour confirment le diagnostic. Ne repoussez pas le remplacement au-delà d'une à deux semaines : un joint usé peut se bloquer. En attendant, ne démarrez pas brutalement roues braquées."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Rotules de direction ou crémaillère",
+  "alt_causes": [
+   "Biellettes de barre stabilisatrice",
+   "Butées de suspension"
+  ],
+  "explanation": "Un cognement quand on tourne le volant, surtout à l'arrêt ou à faible vitesse, vient en général du jeu dans les rotules de direction, dans les biellettes ou dans la crémaillère elle-même. Cela ne gêne pas encore la conduite, mais le jeu dans la direction ne fait qu'augmenter avec le temps.",
+  "advice": "Faites contrôler la direction au garage dans les jours qui viennent : le diagnostic sur le pont prend quelques minutes. Si le volant est devenu flou au point milieu, si la voiture flotte dans sa file ou si le cognement s'est brutalement accentué, n'attendez pas : c'est un organe de sécurité."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Pompe de direction assistée",
+  "alt_causes": [
+   "Niveau de liquide de direction insuffisant",
+   "Courroie d’accessoires"
+  ],
+  "explanation": "Un hurlement ou un bourdonnement qui apparaît quand on tourne le volant à l'arrêt ou à faible vitesse vient le plus souvent de la pompe de direction assistée : c'est elle qui met sous pression le liquide qui aide à tourner. Elle hurle le plus fort volant braqué à fond. La cause la plus fréquente : le niveau de liquide dans le bocal a baissé.",
+  "advice": "Vérifiez le niveau de liquide de direction dans le bocal sous le capot et complétez s'il est sous le repère MIN. Ne gardez pas le volant braqué à fond plus de deux ou trois secondes. Si le hurlement persiste après l'appoint ou si le liquide rebaisse, au garage dans la semaine."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Biellettes de barre stabilisatrice",
+  "alt_causes": [
+   "Silentblocs de barre stabilisatrice",
+   "Rotules de suspension"
+  ],
+  "explanation": "Un cognement sourd et répété sur les petites irrégularités — pavés, joints de chaussée, tôle ondulée — vient le plus souvent des biellettes de barre stabilisatrice : de petites tringles à rotules qui sont les premières à s'user dans la suspension. En elles-mêmes elles ne sont pas dangereuses, mais des pièces plus sérieuses peuvent cogner de la même façon.",
+  "advice": "Prenez rendez-vous pour un contrôle de la suspension dans une à deux semaines : le mécanicien secoue les pièces sur le pont et trouve le jeu en quelques minutes. En attendant, passez lentement sur les gros nids-de-poule. Si la voiture se met à tirer d'un côté, avancez le contrôle."
  }
 }
