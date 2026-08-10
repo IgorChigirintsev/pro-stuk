@@ -204,7 +204,27 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
               decoration: const InputDecoration(hintText: S.carMileageHint),
               keyboardType: TextInputType.number,
               inputFormatters: [FilteringTextInputFormatter.digitsOnly],
+              onChanged: (_) => setState(() {}),
             ),
+            Builder(builder: (context) {
+              // Пробег ведётся в профиле; здесь даём подставить его одним касанием,
+              // чтобы не набирать шестизначное число заново.
+              final saved = AppScope.of(context).car?.mileageKm ?? 0;
+              if (saved <= 0 || _mileageCtrl.text.trim() == saved.toString()) {
+                return const SizedBox.shrink();
+              }
+              return Padding(
+                padding: const EdgeInsets.only(top: 8),
+                child: GestureDetector(
+                  onTap: () => setState(
+                      () => _mileageCtrl.text = saved.toString()),
+                  child: Text(
+                    'Текущий пробег из профиля: $saved км — подставить',
+                    style: const TextStyle(fontSize: 13, color: T.accent),
+                  ),
+                ),
+              );
+            }),
             if (_error != null) ...[
               const SizedBox(height: 12),
               Text(_error!, style: Theme.of(context).textTheme.bodySmall),
