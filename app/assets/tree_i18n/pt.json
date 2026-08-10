@@ -944,5 +944,89 @@
   ],
   "explanation": "Durante a noite, depois de chuva ou de uma lavagem, forma-se nos discos uma fina camada alaranjada: é normal em qualquer carro. As primeiras travagens limpam-na, e daí o ranger ou o leve raspar que desaparece depressa.",
   "advice": "Não é preciso fazer nada: algumas travagens suaves no início do trajeto limpam os discos. Se o barulho deixar de desaparecer e se ouvir em todas as travagens, refaça o diagnóstico ou leve o carro à oficina."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Estado ou desgaste das pastilhas de travão",
+  "alt_causes": [
+   "Indicador de desgaste das pastilhas",
+   "Pastilhas vitrificadas",
+   "Pó ou corrosão nos discos"
+  ],
+  "explanation": "Um guincho em todas as travagens é o sinal para mandar ver as pastilhas. Muitas pastilhas têm um indicador de desgaste metálico: quando o material de atrito que roça no disco se gasta até ao limite, uma lâmina toca no disco e guincha de propósito. As próprias pastilhas também podem guinchar, por causa de um depósito na superfície, de vitrificação ou de material barato.",
+  "advice": "Marque esta semana a inspeção das pastilhas e dos discos. Se for o indicador de desgaste, não se pode esperar: a fase seguinte é o roçar metálico e os discos estragados. Se as pastilhas estiverem boas, o guincho não é perigoso e o mecânico dir-lhe-á como o eliminar."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Pastilhas gastas até ao metal",
+  "alt_causes": [
+   "Objeto estranho no travão",
+   "Pastilha desfeita"
+  ],
+  "explanation": "Um roçar de metal contra metal ao travar significa que o material de atrito da pastilha acabou e a base metálica está a roçar no disco. A distância de travagem aumenta, o disco estraga-se a cada paragem e o mecanismo pode gripar.",
+  "advice": "Deixe de usar o carro normalmente e vá apenas até à oficina, travando com antecedência e suavidade. Não adie a substituição nem um dia: além da segurança, cada quilómetro assim acrescenta à conta o preço de discos novos."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Guias da pinça ou discos empenados",
+  "alt_causes": [
+   "Folga no cubo",
+   "Fixação da pinça solta"
+  ],
+  "explanation": "Uma pancada ao travar ou pulsações no pedal vêm normalmente do próprio travão: as guias da pinça — a peça que aperta as pastilhas contra o disco — têm folga, ou o disco empenou e as pastilhas batem nele. Os travões funcionam, mas de forma irregular.",
+  "advice": "Mande verificar os travões na oficina nos próximos dias: um órgão de que depende a segurança não deve ser descuidado. Se o pedal passar a afundar mais do que o habitual, se o carro puxar para o lado ao travar ou se bater no volante, a diagnóstico de imediato."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Algo roça no disco de travão (chapa de proteção ou pastilhas gastas)",
+  "alt_causes": [
+   "Pastilhas gastas até ao metal",
+   "Chapa de proteção do disco torta",
+   "Pedrinha entre a chapa e o disco"
+  ],
+  "explanation": "Um roçar permanente do lado de uma roda significa normalmente que algo está a tocar no disco em rotação: uma chapa de proteção torta, uma pedrinha que se meteu ali — ou pastilhas gastas até ao metal. Os dois primeiros casos são inofensivos, o terceiro é perigoso, e de ouvido confundem-se com facilidade.",
+  "advice": "Mande verificar dentro de um ou dois dias, sem adiar: olhar para a roda mostra depressa a causa. Se ao travar o roçar aumentar ou o pedal se comportar de forma diferente do habitual, deixe de usar o carro e vá com cuidado até à oficina."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Rolamento de roda",
+  "alt_causes": [
+   "Ruído dos pneus",
+   "Junta homocinética gasta"
+  ],
+  "explanation": "Um zumbido que muda nas curvas em andamento é o sinal clássico de um rolamento de roda gasto: o rolamento sobre o qual a roda gira. Em curva o peso do carro passa para as rodas de fora: se ao virar à esquerda o zumbido aumenta, o lado carregado é o direito, portanto o mais provável é ser o rolamento direito; a virar à direita, o contrário. Um rolamento que se desfaz dá folga à roda e, num caso avançado, pode gripar.",
+  "advice": "Repare para que lado da curva o zumbido é mais forte e diga-o na oficina: isso reduz logo a busca. Não adie a verificação mais do que uma semana e deixe as viagens longas para depois do diagnóstico. Se aparecer vibração ou o zumbido subir muito, à oficina de imediato."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Junta homocinética exterior",
+  "alt_causes": [
+   "Junta homocinética interior",
+   "Bieletas da barra estabilizadora",
+   "Embraiagem da tração integral (em 4x4)"
+  ],
+  "explanation": "Estalidos ao andar com o volante virado são o som característico de uma junta homocinética exterior gasta: a junta através da qual roda a roda direcional. Normalmente tudo começa com um fole rasgado — a proteção de borracha que protege a junta da sujidade.",
+  "advice": "Veja os foles das juntas ou peça que o façam na oficina: um fole rasgado e massa lubrificante à volta confirmam o diagnóstico. Não adie a substituição mais do que uma ou duas semanas: uma junta gasta pode bloquear. Até à reparação, não arranque com força com as rodas todas viradas."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Rótulas de direção ou caixa de direção",
+  "alt_causes": [
+   "Bieletas da barra estabilizadora",
+   "Rolamentos dos apoios dos amortecedores"
+  ],
+  "explanation": "Uma pancada ao rodar o volante, sobretudo com o carro parado ou a baixa velocidade, vem normalmente de folga nas rótulas de direção, nas barras ou na própria caixa de direção. Por agora não atrapalha a condução, mas a folga na direção só cresce com o tempo.",
+  "advice": "Mande verificar a direção na oficina nos próximos dias: o diagnóstico no elevador leva poucos minutos. Se o volante ficou vago ao centro, se o carro anda a nadar dentro da via ou se a pancada aumentou de repente, não adie: é um órgão de segurança."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Bomba da direção assistida",
+  "alt_causes": [
+   "Nível baixo do líquido da direção",
+   "Correia de acessórios"
+  ],
+  "explanation": "Um uivo ou zumbido que aparece ao rodar o volante com o carro parado ou a baixa velocidade vem quase sempre da bomba da direção assistida: é ela que dá pressão ao líquido que ajuda a virar. Uiva mais alto com o volante todo virado. A causa mais frequente é o nível de líquido no depósito ter descido.",
+  "advice": "Verifique o nível do líquido da direção no depósito debaixo do capô e complete se estiver abaixo da marca MIN. Não mantenha o volante todo virado mais do que dois ou três segundos. Se depois de completar o uivo continuar ou o líquido voltar a descer, à oficina dentro desta semana."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Bieletas da barra estabilizadora",
+  "alt_causes": [
+   "Casquilhos da barra estabilizadora",
+   "Rótulas da suspensão"
+  ],
+  "explanation": "Uma pancada surda e repetida nas irregularidades pequenas — calçada, juntas do pavimento, piso ondulado — vem quase sempre das bieletas da barra estabilizadora: umas barras pequenas com rótulas que são das primeiras peças a gastar-se na suspensão. Por si só não são perigosas, mas peças mais sérias podem bater de forma parecida.",
+  "advice": "Marque uma verificação da suspensão dentro de uma a duas semanas: o mecânico abana as peças no elevador e encontra a folga em poucos minutos. Até lá, passe devagar nos buracos maiores. Se o carro começar a puxar para o lado, antecipe a verificação."
  }
 }
