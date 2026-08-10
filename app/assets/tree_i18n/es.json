@@ -944,5 +944,89 @@
   ],
   "explanation": "Durante la noche, después de la lluvia o del lavadero, sobre los discos aparece una fina capa anaranjada: es normal en cualquier coche. Las primeras frenadas la limpian, y de ahí el chirrido o el ligero roce que desaparece enseguida.",
   "advice": "No hace falta hacer nada: unas cuantas frenadas suaves al principio del trayecto limpian los discos. Si el ruido ya no desaparece y se oye en cada frenada, repite el diagnóstico o lleva el coche al taller."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Estado o desgaste de las pastillas de freno",
+  "alt_causes": [
+   "Testigo de desgaste de las pastillas",
+   "Pastillas cristalizadas",
+   "Polvo o corrosión en los discos"
+  ],
+  "explanation": "Un chillido en cada frenada es la señal de revisar las pastillas. Muchas pastillas llevan un testigo metálico de desgaste: cuando el material de fricción que roza contra el disco se ha gastado hasta el límite, una chapita toca el disco y chilla a propósito. También pueden chillar las propias pastillas por una capa de suciedad, una superficie cristalizada o un material barato.",
+  "advice": "Pide cita esta semana para revisar pastillas y discos. Si es el testigo de desgaste, no se puede esperar: la siguiente fase es el roce metálico y los discos estropeados. Si las pastillas están bien, el chillido no es peligroso y el mecánico te dirá cómo quitarlo."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Pastillas gastadas hasta el metal",
+  "alt_causes": [
+   "Objeto extraño en el freno",
+   "Pastilla deshecha"
+  ],
+  "explanation": "Un roce de metal contra metal al frenar significa que el material de fricción de la pastilla se ha acabado y la base metálica está rozando el disco. La distancia de frenada aumenta, el disco se estropea en cada parada y el mecanismo puede agarrotarse.",
+  "advice": "Deja de usar el coche con normalidad y ve solo hasta el taller, frenando con antelación y suavidad. No aplaces el cambio ni un día: además de la seguridad, cada kilómetro con ese roce añade a la factura el precio de unos discos nuevos."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Guías de la pinza o discos alabeados",
+  "alt_causes": [
+   "Holgura en el buje",
+   "Anclaje de la pinza flojo"
+  ],
+  "explanation": "Un golpeteo al frenar o pulsaciones en el pedal suelen venir del propio freno: las guías de la pinza —la pieza que aprieta las pastillas contra el disco— tienen holgura, o el disco se ha alabeado y las pastillas golpean contra él. Los frenos funcionan, pero de forma irregular.",
+  "advice": "Que revisen los frenos en el taller en los próximos días: no conviene descuidar un elemento del que depende la seguridad. Si el pedal se hunde más de lo normal, el coche se va hacia un lado al frenar o da tirones en el volante, a diagnóstico de inmediato."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Algo roza el disco de freno (chapa protectora o pastillas gastadas)",
+  "alt_causes": [
+   "Pastillas gastadas hasta el metal",
+   "Chapa protectora del disco doblada",
+   "Piedrecilla entre la chapa y el disco"
+  ],
+  "explanation": "Un roce continuo por el lado de una rueda suele significar que algo está tocando el disco de freno mientras gira: una chapa protectora doblada, una piedrecilla metida ahí, o unas pastillas gastadas hasta el metal. Los dos primeros casos son inofensivos, el tercero es peligroso, y de oído se confunden con facilidad.",
+  "advice": "Que lo revisen en el taller en uno o dos días, sin aplazarlo: mirar la rueda enseña la causa enseguida. Si al frenar el roce aumenta o el pedal se comporta de forma distinta a lo habitual, deja de usar el coche y ve al taller con cuidado."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Rodamiento de rueda",
+  "alt_causes": [
+   "Ruido de los neumáticos",
+   "Junta homocinética gastada"
+  ],
+  "explanation": "Un zumbido que cambia en las curvas mientras conduces es la señal clásica de un rodamiento de rueda gastado: el rodamiento sobre el que gira la rueda. En curva el peso del coche se traslada a las ruedas exteriores: si al girar a la izquierda el zumbido aumenta, el lado cargado es el derecho, así que lo más probable es que zumbe el rodamiento derecho; girando a la derecha, al revés. Un rodamiento que se deshace deja holgura en la rueda y, en un caso avanzado, puede agarrotarse.",
+  "advice": "Fíjate hacia qué lado de curva suena más y dilo en el taller: eso acota la búsqueda desde el principio. No aplaces la revisión más de una semana y deja los viajes largos para después del diagnóstico. Si aparece vibración o el zumbido sube de golpe, al taller de inmediato."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Junta homocinética exterior",
+  "alt_causes": [
+   "Junta homocinética interior",
+   "Bieletas de la barra estabilizadora",
+   "Embrague de la tracción total (en 4x4)"
+  ],
+  "explanation": "Chasquidos o crujidos al circular con el volante girado son el sonido característico de una junta homocinética exterior gastada: la junta a través de la cual gira la rueda directriz. Normalmente todo empieza con un fuelle roto, la funda de goma que protege la junta de la suciedad.",
+  "advice": "Mira los fuelles de las juntas o pide que lo hagan en el taller: un fuelle roto y grasa alrededor confirman el diagnóstico. No alargues el cambio más de una o dos semanas: una junta gastada puede bloquearse. Hasta la reparación, no arranques con fuerza con las ruedas giradas a tope."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Rótulas de dirección o cremallera",
+  "alt_causes": [
+   "Bieletas de la barra estabilizadora",
+   "Cojinetes de los soportes de amortiguador"
+  ],
+  "explanation": "Un golpeteo al girar el volante, sobre todo parado o a poca velocidad, suele venir de la holgura en las rótulas de dirección, en las barras o en la propia cremallera. De momento no estorba a la conducción, pero la holgura en la dirección solo crece con el tiempo.",
+  "advice": "Que revisen la dirección en el taller en los próximos días: el diagnóstico en el elevador lleva unos minutos. Si el volante se ha quedado vacío en el centro, el coche baila dentro del carril o el golpeteo ha subido de golpe, no lo aplaces: es un elemento de seguridad."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Bomba de la dirección asistida",
+  "alt_causes": [
+   "Nivel bajo del líquido de dirección",
+   "Correa de accesorios"
+  ],
+  "explanation": "Un aullido o zumbido que aparece al girar el volante parado o a poca velocidad lo produce casi siempre la bomba de la dirección asistida: la que genera la presión del líquido que ayuda a girar el volante. Aúlla más fuerte con el volante girado a tope. La causa más frecuente es que haya bajado el nivel de líquido del depósito.",
+  "advice": "Comprueba el nivel del líquido de dirección en el depósito bajo el capó y rellena si está por debajo de la marca MIN. No mantengas el volante girado a tope más de un par de segundos. Si tras rellenar el aullido sigue o el líquido vuelve a bajar, al taller dentro de esta semana."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Bieletas de la barra estabilizadora",
+  "alt_causes": [
+   "Casquillos de la barra estabilizadora",
+   "Rótulas de suspensión"
+  ],
+  "explanation": "Un golpeteo sordo y repetido en las irregularidades pequeñas —adoquines, juntas de la calzada, firme ondulado— viene casi siempre de las bieletas de la barra estabilizadora: unas barritas con rótulas que son de lo primero que se desgasta en la suspensión. Por sí solas no son peligrosas, pero piezas más serias pueden sonar de forma parecida.",
+  "advice": "Pide una revisión de la suspensión en una o dos semanas: el mecánico mueve las piezas en el elevador y localiza la holgura en unos minutos. Hasta la revisión, pasa despacio por los baches grandes. Si el coche empieza a irse hacia un lado, adelanta la comprobación."
  }
 }
