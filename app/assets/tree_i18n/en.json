@@ -815,5 +815,78 @@
   ],
   "explanation": "Hydraulic lifters are small parts that use oil pressure to take up the slack in the valvetrain. While the engine is cold the oil is thick and takes time to reach them, so you hear rapid ticking for the first minutes. If the sound goes completely once warm, this is typical and not dangerous.",
   "advice": "Check the oil level and when it was last changed: old or unsuitable oil makes the noise worse. If the ticking now lasts longer than a couple of minutes or stays with the engine warm, book a garage. Do not pour in additives that promise to stop the noise."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Piston and bore wear (cold knock)",
+  "alt_causes": [
+   "Hydraulic lifters",
+   "Timing chain"
+  ],
+  "explanation": "A dull knock for the first minutes after a cold start that fades as the engine warms is often piston and bore wear on a high-mileage car: while the piston is cold it has slightly more room in its bore and taps. Once warm, the parts expand and the knock goes. This is usually something to watch rather than an urgent repair.",
+  "advice": "Mention it at your next garage visit and note how many minutes the knock lasts — that is useful information for a mechanic. Keep an eye on the oil level and consumption. If the knock stops going away once warm, or becomes audible under load, book a diagnosis without delay."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Timing chain or its tensioner",
+  "alt_causes": [
+   "Hydraulic lifters",
+   "Accessory belt pulleys"
+  ],
+  "explanation": "The timing chain is the chain inside the engine that ties its shafts together and makes the valves open at the right moment. When it stretches, or its tensioner weakens, a cold start brings a rustle or clatter from the front of the engine that fades once warm and oil pressure comes up. Over time the noise appears more and more often.",
+  "advice": "Book a diagnosis within a week or two: a chain that jumps a tooth means expensive engine repairs. Until then avoid hard starts from cold and let the engine warm before loading it. Do check the oil level."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "Accessory belt slipping",
+  "alt_causes": [
+   "Worn tensioner pulley",
+   "Slack belt tension"
+  ],
+  "explanation": "A squeal in the first seconds after starting almost always comes from the belt that drives the alternator, water pump and air conditioning. When cold or damp it slips on the pulleys and squeals, then warms up and goes quiet. It is not dangerous right now, but it does point to a worn belt or slack tension.",
+  "advice": "Have the belt looked at when convenient: the inspection takes a couple of minutes. If the squeal starts appearing on a warm engine too, or when the A/C comes on, do not put it off. Do not spray the belt with WD-40 or try other home remedies."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Excessive valve clearances",
+  "alt_causes": [
+   "Hydraulic lifters",
+   "Timing chain"
+  ],
+  "explanation": "Even, rapid ticking from the top of the engine is the classic sound of the valvetrain. Over time the clearances between its parts grow and the valves start to tap, which is easiest to hear at idle. The engine will not break because of it straight away, but the valves are now working with an impact and wear faster.",
+  "advice": "Book a valve adjustment, or a check of the hydraulic lifters, within the next couple of weeks. Watch the oil level: the ticking gets worse when it is low. You can drive normally, but do not leave it for months."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Knock from the bottom end (bearings, connecting rods)",
+  "alt_causes": [
+   "Detonation",
+   "Piston and bore wear",
+   "Crankshaft pulley damper"
+  ],
+  "explanation": "A dull knock from deep inside the engine that speeds up with the revs and grows under load is the most worrying of engine noises. It is how worn big-end bearings — the shells the crankshaft turns on — or the connecting rods sound: a gap has opened up in the joints and the parts are hammering each other. Keep driving and the engine can seize.",
+  "advice": "Do not drive further than you must under its own power: a tow truck is the better choice; if the garage is very close, drive slowly and stay off the throttle. Check the oil level straight away and top it up if it is low. Less frightening things can knock in a similar way, but a mechanic needs to check — and soon."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Engine ancillaries or engine mounts",
+  "alt_causes": [
+   "A/C compressor clutch",
+   "Hydraulic lifters"
+  ],
+  "explanation": "A knock that does not speed up when you blip the throttle usually comes not from inside the engine but from what is bolted to it: the alternator, pulleys, brackets, mounts. Play in these gives dull thuds at idle, especially when the engine rocks.",
+  "advice": "Book a diagnosis within a week or two: a mechanic finds these knocks well with a stethoscope. It helps to notice, and tell them, whether the sound changes when the A/C comes on, or with a gear engaged and the brake pressed."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Worn or slack accessory belt",
+  "alt_causes": [
+   "Tensioner pulley",
+   "Alternator pulley"
+  ],
+  "explanation": "A piercing squeal under the bonnet means the belt is slipping on its pulleys. Most often the belt itself is worn or the tensioner has gone slack. If the belt snaps, the alternator stops and on many cars the water pump with it, so this is not one to let run.",
+  "advice": "Have the car looked at within the week: replacing a belt and pulley is inexpensive work. If the squeal suddenly gets much worse, the battery light comes on, or the engine temperature starts to climb, pull over and switch the engine off."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Water pump",
+  "alt_causes": [
+   "Belt pulleys",
+   "Alternator bearing"
+  ],
+  "explanation": "A hum or rustle from the belt side together with traces of coolant is the classic sign of a dying water pump. Its bearing wears, play develops, and coolant begins to seep through the seal. If the pump seizes, the engine overheats quickly.",
+  "advice": "Drive to a garage within days, watching the engine temperature and the coolant level on the way. If the temperature climbs or steam appears from under the bonnet, pull over and switch the engine off. Only top up coolant once the engine has cooled."
  }
 }
