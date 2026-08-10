@@ -163,4 +163,16 @@ void main() {
     // На русском подпись и есть перевод — проверяем на английском.
     expect(missing, isEmpty, reason: 'нет перевода: ${missing.take(5)}');
   });
+
+  test('без файла перевода дерево остаётся русским', () async {
+    LocaleService.current.value = 'ru';
+    final ru = await DecisionTree.load();
+    final ruText = ru.node(ru.rootId).text;
+
+    // язык без файла перевода — дерево целиком остаётся русским
+    LocaleService.current.value = 'ko';
+    final ko = await DecisionTree.load();
+    expect(ko.node(ko.rootId).text, ruText);
+    LocaleService.current.value = 'ru';
+  });
 }

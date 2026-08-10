@@ -66,6 +66,7 @@ flutter:
     - assets/schemes/
     - assets/cars/
     - assets/tree.json
+    - assets/tree_i18n/
     - assets/google_fonts/
 
   # The following line ensures that the Material Icons font is

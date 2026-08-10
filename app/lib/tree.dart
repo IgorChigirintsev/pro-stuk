@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'l10n/locale_service.dart';
 
 import 'package:flutter/services.dart' show rootBundle;
 
@@ -56,9 +57,28 @@ class DecisionTree {
     final raw = await rootBundle.loadString('assets/tree.json');
     final json = jsonDecode(raw) as Map<String, dynamic>;
     final nodesJson = json['nodes'] as Map<String, dynamic>;
+    // Переводы лежат отдельным файлом на язык: структура дерева не дублируется,
+    // а недостающий узел молча остаётся на русском, не ломая экран.
+    final tr = await _translations(LocaleService.current.value);
     final nodes = <String, TreeNode>{};
     nodesJson.forEach((id, v) {
-      final n = v as Map<String, dynamic>;
+      final n = Map<String, dynamic>.from(v as Map<String, dynamic>);
+      final t = tr[id] as Map<String, dynamic>?;
+      if (t != null) {
+        for (final k in ['text', 'top_cause', 'explanation', 'advice']) {
+          if (t[k] != null) n[k] = t[k];
+        }
+        if (t['alt_causes'] != null) n['alt_causes'] = t['alt_causes'];
+        if (t['options'] != null && n['options'] != null) {
+          final labels = (t['options'] as Map).cast<String, dynamic>();
+          n['options'] = (n['options'] as List).map((o) {
+            final m = Map<String, dynamic>.from(o as Map);
+            final lab = labels[m['id']];
+            if (lab != null) m['label'] = lab;
+            return m;
+          }).toList();
+        }
+      }
       if (n['type'] == 'leaf') {
         nodes[id] = TreeNode.leaf(
           id,
@@ -83,6 +103,17 @@ class DecisionTree {
       }
     });
     return DecisionTree._(json['root'] as String, nodes);
+  }
+
+  /// Пустая карта, если языка ещё нет: тогда всё дерево остаётся русским.
+  static Future<Map<String, dynamic>> _translations(String lang) async {
+    if (lang == 'ru') return const {};
+    try {
+      return jsonDecode(await rootBundle.loadString('assets/tree_i18n/$lang.json'))
+          as Map<String, dynamic>;
+    } catch (_) {
+      return const {};
+    }
   }
 
   TreeNode node(String id) => nodes[id]!;
