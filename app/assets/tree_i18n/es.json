@@ -357,5 +357,77 @@
    "o2": "De detrás",
    "o3": "Difícil de saber"
   }
+ },
+ "leaf_battery": {
+  "top_cause": "Batería descargada o bornes sulfatados",
+  "alt_causes": [
+   "Mala toma de masa",
+   "Motor de arranque al final de su vida"
+  ],
+  "explanation": "Un traqueteo rápido al intentar arrancar significa que al relé del motor de arranque le falta corriente: chasquea, pero no consigue mover el motor. La culpa suele ser de una batería descargada o de unos bornes sulfatados y mal apretados. Que las luces del cuadro se atenúen al intentar arrancar lo confirma.",
+  "advice": "Mira los bornes de la batería: limpia el polvillo blanco o verdoso y aprieta las grapas. Si no basta, carga la batería o haz un puente con otro coche y ve al taller o a la tienda a cambiarla. Si la batería tiene más de cuatro o cinco años, casi seguro que es ella."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Relé o contactos de potencia del motor de arranque",
+  "alt_causes": [
+   "Bornes sulfatados",
+   "Cableado hasta el motor de arranque"
+  ],
+  "explanation": "Un chasquido seco con las luces del cuadro normales significa que el relé actúa, pero el motor de arranque en sí no gira: los contactos de potencia están quemados, las escobillas gastadas o el relé se ha pegado. A veces arranca al segundo o tercer intento, y el diagnóstico es el mismo.",
+  "advice": "Prueba a arrancar unas cuantas veces más; si arranca una de cada dos, ve al taller en los próximos días, antes de quedarte tirado en cualquier aparcamiento. Revisa y aprieta los bornes de la batería. Dar un golpe al motor de arranque es un truco para llegar una vez, no una solución."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Piñón del motor de arranque o corona del volante motor",
+  "alt_causes": [
+   "Dientes de la corona desgastados",
+   "El motor de arranque está mal asentado"
+  ],
+  "explanation": "Un chirrido metálico al arrancar significa que el piñón del motor de arranque engrana mal con la corona dentada del volante motor: los dientes están gastados o el mecanismo se atasca. Cada arranque así se come los dientes del piñón y de la corona.",
+  "advice": "Pide cita en el taller dentro de esta semana: cambiar el piñón o el motor de arranque sale mucho más barato que la corona, para la que hay que desmontar la caja de cambios. Hasta la reparación, no mantengas la llave en posición de arranque más de lo necesario y no vuelvas a intentarlo justo después de un chirrido."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "El piñón no engrana o la corona tiene dientes rotos",
+  "alt_causes": [
+   "Rueda libre del piñón",
+   "Corona del volante motor"
+  ],
+  "explanation": "Si el motor de arranque zumba con ganas pero el motor ni siquiera intenta girar, el piñón está girando en vacío: la rueda libre del piñón está gastada o a la corona le faltan dientes justo en ese punto.",
+  "advice": "A veces arranca al segundo intento, porque el volante motor se para en otra posición. Aun así, ve al taller en los próximos días: con cada intento el daño crece. Si el coche es manual, en caso extremo puedes arrancarlo empujando; con un automático eso no se puede hacer."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Hojas o suciedad en el ventilador de la calefacción",
+  "alt_causes": [
+   "Filtro de habitáculo saturado",
+   "Objeto extraño en el conducto de aire"
+  ],
+  "explanation": "Un roce o crepitar que cambia con la velocidad del ventilador son casi siempre hojas o suciedad que han entrado por la toma de aire hasta el ventilador de la calefacción. En otoño es de lo más común, sobre todo si el filtro de habitáculo está saturado o directamente no está.",
+  "advice": "Cambia el filtro de habitáculo (a menudo la suciedad está justo encima) — en muchos coches se hace en diez minutos y las instrucciones del modelo se encuentran fácilmente. Si el roce sigue, pide en el taller que soplen y limpien el ventilador."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Cojinete o casquillos del motor del ventilador",
+  "alt_causes": [
+   "Suciedad en el ventilador",
+   "La turbina roza la carcasa"
+  ],
+  "explanation": "Un chillido o aullido bajo el salpicadero que solo aparece con el ventilador encendido lo produce el motor del ventilador desgastado. La prueba es sencilla: apaga el ventilador y el chillido desaparece al instante, aunque el motor del coche siga en marcha.",
+  "advice": "No afecta a la seguridad, pero con el tiempo el motorcito empieza a agarrotarse y te deja sin calefacción: mejor cambiarlo antes del frío. Hasta entonces puedes usar las velocidades de ventilador en las que suena menos."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomotor de una trampilla de la calefacción",
+  "alt_causes": [
+   "Calibración normal de las trampillas",
+   "Dientes rotos en el engranaje del servomotor"
+  ],
+  "explanation": "Una serie de chasquidos rápidos o un traqueteo detrás del salpicadero al dar el contacto o al cambiar la temperatura viene del servomotor que mueve las trampillas de la calefacción. Si la serie es corta y siempre igual, suele ser solo la calibración. Un traqueteo interminable significa que los dientes del engranaje de plástico están comidos.",
+  "advice": "Si los chasquidos son cortos y la calefacción se regula con normalidad, no hace falta hacer nada. Si el traqueteo es largo o el aire no sale por donde lo has puesto, pide cita en el taller cuando puedas: al coche no le hace daño, pero se pierde comodidad."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Aire en el circuito de refrigeración (nivel bajo de refrigerante)",
+  "alt_causes": [
+   "Tapón del vaso de expansión defectuoso",
+   "Fuga de refrigerante"
+  ],
+  "explanation": "Un borboteo o gorgoteo detrás del salpicadero es una burbuja de aire pasando por el radiador de la calefacción. El aire entra en el circuito cuando el nivel de refrigerante ha bajado: hay una fuga en algún punto o el tapón del vaso de expansión no aguanta la presión. La calefacción puede soplar unas veces caliente y otras fría.",
+  "advice": "Con el motor frío, comprueba el nivel del vaso de expansión y rellénalo hasta la marca; luego vigila si vuelve a bajar. Si el nivel sigue cayendo o la calefacción sopla frío con el motor caliente, al taller esta semana. Si la aguja de temperatura sube o sale vapor: para y apaga el motor."
  }
 }
