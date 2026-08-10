@@ -213,5 +213,84 @@
    "o3": "Pukanie przy kręceniu kierownicą",
    "o4": "Wycie albo buczenie przy kręceniu kierownicą na postoju lub przy parkowaniu"
   }
+ },
+ "q_bump_char": {
+  "text": "Jaki dźwięk na nierównościach?",
+  "options": {
+   "o1": "Pukanie albo metaliczne łomotanie",
+   "o2": "Skrzypienie, jak stare łóżko",
+   "o3": "Grzechotanie albo łoskot",
+   "o4": "Pojedynczy głuchy huk przy pierwszym ruszeniu po dłuższym postoju"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Jakie dokładnie pukanie?",
+  "options": {
+   "o1": "Częste głuche pukanie na drobnych nierównościach",
+   "o2": "Pojedyncze głuche uderzenia na dziurach i progach zwalniających",
+   "o3": "Uderzenie idzie prosto w kierownicę, czuć je w dłoniach",
+   "o4": "Łomot pojawił się nagle po wpadnięciu w dziurę, a jeden róg auta osiadł"
+  }
+ },
+ "q_bump_where": {
+  "text": "Pukanie słychać z przodu czy z tyłu?",
+  "options": {
+   "o1": "Z przodu",
+   "o2": "Z tyłu",
+   "o3": "Trudno stwierdzić"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Skąd dochodzi grzechotanie?",
+  "options": {
+   "o1": "Spod podwozia",
+   "o2": "Z wnętrza: deska rozdzielcza, drzwi, świerszcze",
+   "o3": "Z bagażnika, jakby coś się przetaczało",
+   "o4": "Z przodu u góry, przy masce"
+  }
+ },
+ "q_move_manner": {
+  "text": "Jak dźwięk wiąże się z jazdą?",
+  "options": {
+   "o1": "Pojawia się przy dodaniu albo puszczeniu gazu",
+   "o2": "W chwili zmiany biegu albo ruszania",
+   "o3": "Słychać go cały czas, dopóki samochód jedzie",
+   "o4": "To raczej wibracja albo drżenie niż dźwięk"
+  }
+ },
+ "q_accel_char": {
+  "text": "Do czego podobny jest dźwięk przy dodawaniu gazu?",
+  "options": {
+   "o1": "Metaliczne dzwonienie, zwłaszcza pod górę",
+   "o2": "Pukanie w chwili dodania albo puszczenia gazu",
+   "o3": "Strzały albo głośny ryk z wydechu",
+   "o4": "Wycie albo gwizd pod obciążeniem"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Strzały czy ryk?",
+  "options": {
+   "o1": "Strzały",
+   "o2": "Ryk, głośniejszy przy gazie; auto ciągnie jak zwykle",
+   "o3": "Silnik ryczy, obroty rosną, a auto nie przyspiesza; czasem czuć spalenizną"
+  }
+ },
+ "q_load_whine": {
+  "text": "Jakie wycie pod obciążeniem?",
+  "options": {
+   "o1": "Wysoki gwizd tylko przy dodawaniu gazu, po puszczeniu znika (silnik turbo)",
+   "o2": "Buczenie, którego ton zmienia się przy dodawaniu i puszczaniu gazu na tej samej prędkości",
+   "o3": "Monotonne wycie przy przyspieszaniu; skrzynia to CVT albo automat",
+   "o4": "Wycie głośniejsze na jednym biegu, cichsze na innym; skrzynia manualna"
+  }
+ },
+ "q_shift_char": {
+  "text": "Co dzieje się przy zmianie biegu albo ruszaniu?",
+  "options": {
+   "o1": "Szarpnięcie albo łomot przy przełączaniu automatu z D na R albo przy zmianach biegów",
+   "o2": "Chrupnięcie przy wrzucaniu biegu w skrzyni manualnej",
+   "o3": "Auto szarpie przy ruszaniu, gdy puszczasz sprzęgło",
+   "o4": "Pojedynczy łomot pod podwoziem przy ruszaniu albo zmianie obciążenia"
+  }
  }
 }
