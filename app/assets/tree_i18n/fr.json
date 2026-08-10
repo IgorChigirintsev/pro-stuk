@@ -572,5 +572,77 @@
   ],
   "explanation": "Un bourdonnement ou un rugissement qui se déclenche et s'arrête tout seul — par forte chaleur, dans les bouchons, avec la climatisation — c'est le ventilateur du radiateur. Un ventilateur bruyant, c'est soit les bagues de son moteur usées, soit qu'il tourne en permanence à cause d'une sonde ou du thermostat. Parfois il continue une ou deux minutes après l'arrêt du moteur : c'est normal.",
   "advice": "Si le ventilateur rugit en permanence dès le démarrage moteur froid, direction le diagnostic dans les jours qui viennent : le circuit de refroidissement ne fonctionne pas correctement. Surveillez l'aiguille de température ; si elle monte, arrêtez-vous et coupez le moteur."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Pompe à carburant électrique",
+  "alt_causes": [
+   "Filtre à carburant colmaté",
+   "Crépine de la pompe"
+  ],
+  "explanation": "Un bourdonnement ou un hurlement régulier à l'arrière, sous la banquette ou du côté du réservoir, c'est la pompe à carburant. L'entendre une ou deux secondes au moment du contact est normal ; un hurlement fort, perceptible même en roulant, indique une pompe usée ou un filtre colmaté qui la fait forcer.",
+  "advice": "Faites contrôler la pression de carburant dans une à deux semaines. Ne roulez pas longtemps sur la réserve : au fond du réservoir, la pompe est moins bien refroidie et s'use plus vite. Si la voiture se met à broncher en charge ou démarre mal, avancez le rendez-vous."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Catalyseur détruit",
+  "alt_causes": [
+   "Écran thermique",
+   "Fixations de l’échappement"
+  ],
+  "explanation": "Un cliquetis clair ou un bruit de gravier sous la voiture, plutôt vers le moteur, qui s'accentue en donnant un coup d'accélérateur et s'accompagne d'une perte de reprise ou d'une odeur d'échappement différente, c'est la céramique du catalyseur qui s'est désagrégée. Les morceaux s'entrechoquent dans le corps, et le nid d'abeilles bouché étouffe le moteur.",
+  "advice": "Diagnostic dans les jours qui viennent : des éclats de céramique peuvent être aspirés dans le moteur, et là, la facture grimpe. Un contrôle simple au garage : tapoter le corps du catalyseur voiture froide, on entend les morceaux à l'intérieur. Il ne faut pas laisser traîner."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Boîte automatique : huile ancienne, usure ou jeu dans la transmission",
+  "alt_causes": [
+   "Supports moteur et boîte",
+   "Croisillons de transmission (sur propulsion)"
+  ],
+  "explanation": "Un à-coup ou un choc pile au moment où l'on passe le sélecteur de D à R, ou lors des changements de rapport, indique de l'usure ou une huile ancienne dans la boîte automatique : le rapport s'enclenche brutalement, et les jeux de la transmission amplifient le choc. Des supports affaissés cognent de façon similaire, d'où l'intérêt d'affiner le diagnostic.",
+  "advice": "Commencez par vérifier le niveau et l'état de l'huile de boîte : si elle est sombre et sent le brûlé, il faut la changer, et dans bien des cas cela suffit. Prenez rendez-vous pour un diagnostic dans une à deux semaines et précisez sur quels passages exactement ça cogne. En attendant, ne manipulez le sélecteur qu'à l'arrêt complet, pied sur le frein."
+ },
+ "leaf_synchro": {
+  "top_cause": "Synchros de boîte ou embrayage qui ne débraye pas complètement",
+  "alt_causes": [
+   "Garde de la pédale d’embrayage",
+   "Usure de l’embrayage"
+  ],
+  "explanation": "Un craquement au moment d'enclencher une vitesse sur une boîte manuelle signifie que les pignons se rencontrent à des vitesses différentes. Si une ou deux vitesses précises craquent (souvent la deuxième ou la troisième), ce sont leurs synchros qui sont usés ; si toutes craquent, l'embrayage ne débraye pas complètement et la boîte ne se libère pas.",
+  "advice": "Vérifiez la garde de la pédale d'embrayage et le niveau d'huile de boîte : le garage commencera par là aussi. Prenez rendez-vous pour un diagnostic dans les deux semaines. En attendant, passez les vitesses plus lentement, avec une pause au point mort : ça craque moins et ça use moins."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Embrayage : disque usé ou souillé d'huile",
+  "alt_causes": [
+   "Supports moteur",
+   "Volant moteur bimasse"
+  ],
+  "explanation": "Un broutement pile au moment du démarrage, pendant qu'on relâche la pédale d'embrayage, alors que la voiture roule ensuite normalement une fois l'embrayage complètement engagé, signifie que l'embrayage mord par à-coups : disque usé, souillé d'huile, ou mécanisme voilé. Les supports moteur, eux, font aussi trembler la voiture au ralenti ; ici, le tremblement ne vit que dans la phase de démarrage.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : un broutement au démarrage ne part pas tout seul et s'aggrave en général. En attendant, démarrez en douceur, avec un peu plus de régime, sans faire patiner. Si une odeur de brûlé apparaît, l'embrayage est en train de griller : n'attendez pas."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Croisillons de transmission ou jeu dans la chaîne cinématique",
+  "alt_causes": [
+   "Silentblocs et boulons du berceau",
+   "Couple conique du pont"
+  ],
+  "explanation": "Un choc ou un claquement isolé venant du centre ou de l'arrière du plancher au moment de démarrer et lors des transitions accélération–lever de pied, c'est du jeu dans la transmission du couple : le plus souvent des croisissons d'arbre de transmission usés (propulsion et intégrale) ou des fixations de berceau desserrées.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : sur le pont élévateur, le jeu de l'arbre se trouve à la main en une minute. Ne laissez pas traîner : un croisillon très usé peut casser à vitesse. En attendant, démarrez et levez le pied plus doucement."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "L'embrayage patine",
+  "alt_causes": [
+   "Disque souillé d'huile",
+   "Patinage de la boîte automatique ou de la CVT"
+  ],
+  "explanation": "Si en appuyant sur l'accélérateur le régime monte, le moteur hurle, mais que la voiture accélère à peine, l'embrayage patine et ne transmet plus le couple : le disque est usé ou souillé d'huile. C'est le plus flagrant en côte et sur le rapport le plus long ; souvent s'y ajoute une odeur âcre de brûlé. Sur une automatique, une boîte usée patine de la même façon.",
+  "advice": "Au garage cette semaine : un embrayage qui patine finit par patiner jusqu'à la perte totale de motricité, en général au pire moment. En attendant, roulez tranquillement, sans dépassements ni remorque, et rétrogradez à l'avance en côte. Si l'odeur de brûlé s'accentue, n'attendez pas un jour de plus."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo ou fuite de pression de suralimentation",
+  "alt_causes": [
+   "Durite d’intercooler",
+   "Palier de l’arbre de turbine"
+  ],
+  "explanation": "Un léger sifflement régulier du turbo en charge est normal sur un moteur turbocompressé. Ce qui doit alerter, c'est le changement : le sifflement devient plus fort ou change de tonalité, un hurlement apparaît, la reprise s'effondre. C'est soit une fuite d'air dans les durites de suralimentation, soit l'usure du palier de l'arbre de turbine.",
+  "advice": "Si la tonalité a changé ou si la voiture tire moins, diagnostic dans les jours qui viennent : une durite qui fuit se répare pour pas cher, alors qu'une usure de turbo négligée se termine par son remplacement. Surveillez la consommation d'huile. En attendant, n'emmenez pas le moteur dans le rupteur et laissez le turbo refroidir une à deux minutes au ralenti après une conduite soutenue."
  }
 }
