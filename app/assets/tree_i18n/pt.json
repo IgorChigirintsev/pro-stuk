@@ -1,0 +1,78 @@
+{
+ "q_when": {
+  "text": "Quando é que se ouve o barulho?",
+  "options": {
+   "o1": "Ao arrancar ou ao tentar arrancar",
+   "o2": "Parado, com o motor a trabalhar",
+   "o3": "Só em andamento",
+   "o4": "Tanto parado como em andamento"
+  }
+ },
+ "q_start_char": {
+  "text": "O que se ouve ao rodar a chave ou premir o botão de arranque?",
+  "options": {
+   "o1": "Estalidos e o motor não roda",
+   "o2": "Um chiar metálico enquanto o motor de arranque roda",
+   "o3": "O motor de arranque zumbe, mas o motor não pega",
+   "o4": "Um guincho ou assobio logo depois de o motor pegar"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Que tipo de estalidos?",
+  "options": {
+   "o1": "Um matraquear rápido e as luzes do painel a esmorecer",
+   "o2": "Um estalido seco e depois silêncio"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "O barulho só aparece quando liga ou aciona alguma coisa (aquecimento, ar condicionado, embraiagem, direção, travão)?",
+  "options": {
+   "o1": "Sim, está ligado a uma ação concreta",
+   "o2": "Não, ouve-se por si só"
+  }
+ },
+ "q_action": {
+  "text": "A que ação está ligado o barulho?",
+  "options": {
+   "o1": "Ao aquecimento ou à ventilação",
+   "o2": "Ao botão do ar condicionado",
+   "o3": "Ao pedal da embraiagem",
+   "o4": "Ao volante, ao pedal do travão ou aos limpa-para-brisas"
+  }
+ },
+ "q_hvac": {
+  "text": "Que barulho faz a ventilação ligada?",
+  "options": {
+   "o1": "Um roçar ou crepitar que muda com a velocidade da ventilação",
+   "o2": "Um guincho ou uivo debaixo do tablier",
+   "o3": "Uma série de estalidos atrás do tablier ao mudar a temperatura ou a saída de ar",
+   "o4": "Um borbulhar atrás do tablier"
+  }
+ },
+ "q_ac": {
+  "text": "O que se ouve ao ligar o ar condicionado?",
+  "options": {
+   "o1": "Um guincho no momento em que engata",
+   "o2": "Um chiar ou estrondo enquanto o ar condicionado trabalha",
+   "o3": "Um breve sibilar ao ligar ou desligar, e arrefece bem"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Como se relaciona o barulho com o pedal da embraiagem?",
+  "options": {
+   "o1": "Um sussurro ou zumbido com o pedal solto; ao carregar, acalma",
+   "o2": "Aparece ou aumenta quando o pedal está carregado",
+   "o3": "Um chocalhar ao ralenti que muda quando se carrega no pedal",
+   "o4": "Um ranger ao carregar, audível mesmo com o motor desligado"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "A que é que o barulho está ligado exatamente?",
+  "options": {
+   "o1": "Um uivo ou zumbido ao rodar o volante",
+   "o2": "Um estalar ao rodar o volante com o carro parado",
+   "o3": "Um sibilar debaixo do tablier ao carregar no pedal do travão",
+   "o4": "Uma pancada ou ranger ao ritmo dos limpa-para-brisas"
+  }
+ }
+}
