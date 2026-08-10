@@ -716,5 +716,77 @@
   ],
   "explanation": "Un fischio metallico sottile in marcia senza frenare, che sfiorando il pedale sparisce o cambia, è la linguetta metallica della pastiglia che ha iniziato a toccare il disco. È l’avviso previsto di fabbrica: il materiale d’attrito è quasi finito.",
   "advice": "Fissa questa settimana la sostituzione delle pastiglie e fai controllare anche i dischi. I freni funzionano ancora del tutto, ma la fase successiva è lo sfregamento metallico e i dischi rovinati. Se il fischio arriva da una ruota precisa, dillo in officina."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Pinza del freno grippata",
+  "alt_causes": [
+   "Perni guida della pinza grippati",
+   "Tubo del freno rigonfio all’interno"
+  ],
+  "explanation": "Uno sfregamento continuo dal lato di una ruota, il disco bollente a fine percorso, odore di bruciato e l’auto che tira da un lato significano che la pinza — il componente che preme le pastiglie contro il disco — si è grippata e la pastiglia sfrega di continuo. Un freno surriscaldato perde efficacia, e pastiglia e disco si consumano in qualche centinaio di chilometri.",
+  "advice": "Smetti di usare l’auto normalmente e va’ soltanto fino all’officina, per pochi chilometri e piano. Per capire quale ruota è calda avvicina la mano al disco senza toccarlo: scotta. Tirarla per le lunghe finisce con una ruota che si blocca in marcia."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Bulloni della ruota non serrati",
+  "alt_causes": [
+   "Fori del cerchio ovalizzati",
+   "Gioco nel mozzo"
+  ],
+  "explanation": "Un urto o battito ritmato al ritmo della rotazione della ruota, comparso nei primi giorni dopo un cambio gomme, è il classico caso di bulloni della ruota non serrati. Una ruota con i bulloni allentati ovalizza i fori del cerchio e, nel peggiore dei casi, si stacca in marcia.",
+  "advice": "Fermati alla prima occasione e controlla con la chiave il serraggio dei bulloni di tutte le ruote. Se erano allentati e li hai stretti, il battito deve sparire; se resta, raggiungi con prudenza l’officina e fai controllare il mozzo. Dopo ogni cambio ruote conviene ripassare i bulloni dopo 50–100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Sassolino o vite nel battistrada",
+  "alt_causes": [
+   "Bulloni della ruota non serrati",
+   "Distacco del battistrada"
+  ],
+  "explanation": "Uno scatto regolare al ritmo della rotazione della ruota, soprattutto a bassa velocità, arriva quasi sempre da un sassolino incastrato nel battistrada — oppure, cosa più importante, da una vite piantata. Il rumore dura finché l’oggetto resta nel pneumatico.",
+  "advice": "Guarda il battistrada di tutte le ruote, facendo avanzare l’auto lentamente o girando il volante a fondo. Il sassolino toglilo. Una vite o un chiodo non estrarli: con quelli arrivi tranquillamente dal gommista, senza il pneumatico si sgonfia per strada. Se non c’è nulla di piantato e lo scatto resta, controlla il serraggio dei bulloni."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Boccole della barra stabilizzatrice o silent block (cigolio)",
+  "alt_causes": [
+   "Giunti sferici della sospensione",
+   "Guarnizioni e cerniere delle portiere secche"
+  ],
+  "explanation": "Un cigolio da vecchio letto sulle buche, salendo in auto e facendola dondolare, è gomma secca nella sospensione: le boccole della barra stabilizzatrice o i silent block dei bracci. Con freddo e umidità si sente di più. Si riproduce spingendo con la mano sul parafango a vettura ferma.",
+  "advice": "Fallo vedere in officina quando puoi: spesso si risolve ingrassando le boccole o cambiando pezzi da pochi euro. Non è pericoloso; ma se al cigolio si aggiunge un colpo o l’auto comincia a tirare da un lato, si parla di giunti sferici e il controllo non deve aspettare."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Pastiglie incollate ai dischi",
+  "alt_causes": [
+   "Pastiglie ghiacciate (in inverno)",
+   "Ganasce del freno a mano"
+  ],
+  "explanation": "Un colpo secco forte o uno scricchiolio isolato alla prima partenza dopo una lunga sosta, soprattutto con il freno a mano tirato, dopo un lavaggio, la pioggia o il gelo, sono le pastiglie che si erano incollate o ghiacciate ai dischi e si staccano. Se il resto del percorso è silenzioso, è innocuo.",
+  "advice": "Non serve fare nulla; d’inverno puoi lasciare l’auto con una marcia inserita invece del freno a mano — solo con il cambio manuale — così le pastiglie posteriori non si ghiacciano. Se lo scricchiolio si ripete a ogni partenza, non sono più le pastiglie: rifai la diagnosi."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Gioco nella scatola dello sterzo",
+  "alt_causes": [
+   "Testine dello sterzo",
+   "Giunto cardanico del piantone"
+  ],
+  "explanation": "Un colpo su asfalto increspato e sui giunti della strada, che arriva dritto al volante e si sente nelle mani, è gioco nella scatola dello sterzo: la boccola o l’ingranamento sono consumati. Segno caratteristico: il colpo si attenua se tieni il volante leggermente in tensione.",
+  "advice": "Fai controllare lo sterzo in officina nei prossimi giorni: è un organo di sicurezza e la diagnosi sul ponte richiede pochi minuti. Su alcune auto la scatola dello sterzo si registra, e costa poco. Se il volante è diventato vago attorno al centro o l’auto naviga nella corsia, non rimandare."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Molla della sospensione rotta",
+  "alt_causes": [
+   "Ammortizzatore ceduto",
+   "Piattello della molla rotto"
+  ],
+  "explanation": "Un urto metallico o uno sfregamento sulle buche e in curva, comparso di colpo dopo una buca, più un angolo dell’auto abbassato, è il quadro tipico di una spira di molla rotta. Il pezzo rotto può sfregare e battere mentre la sospensione lavora.",
+  "advice": "Guarda da sotto, dietro la ruota: una spira rotta spesso si vede a occhio nudo. In officina entro pochi giorni e fino ad allora guida con dolcezza: il pezzo di molla può spostarsi e danneggiare il pneumatico. Le molle si cambiano a coppie sullo stesso asse."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plastiche dell’abitacolo: clip e giunzioni dei pannelli",
+  "alt_causes": [
+   "Oggetti nel cassetto e nei vani",
+   "Guarnizioni delle portiere secche"
+  ],
+  "explanation": "Un sferragliare di plastica vicino e grilli sulle irregolarità piccole sono attrito e gioco dei pannelli dell’abitacolo: plancia, pannelli porta, cassetto portaoggetti. Con il freddo si sente di più. La prova sicura: se in marcia premi con la mano sul pannello sospetto e il rumore sparisce, è l’abitacolo e non il rotabile.",
+  "advice": "Non è un guasto: l’auto sta bene. Togli gli oggetti sciolti dal cassetto e dai vani e infila un pezzo di feltro nella giunzione che hai individuato. Il cigolio attorno alle portiere si risolve trattando le guarnizioni con grasso al silicone. Un colpo del rotabile, invece, è sordo, arriva da sotto e non cambia premendo sui pannelli."
  }
 }
