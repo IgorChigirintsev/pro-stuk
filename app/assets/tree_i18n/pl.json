@@ -292,5 +292,70 @@
    "o3": "Auto szarpie przy ruszaniu, gdy puszczasz sprzęgło",
    "o4": "Pojedynczy łomot pod podwoziem przy ruszaniu albo zmianie obciążenia"
   }
+ },
+ "q_vibration": {
+  "text": "Kiedy drgania są najsilniejsze?",
+  "options": {
+   "o1": "Przy 80–120 km/h kierownica drobno drga; poniżej i powyżej znacznie mniej",
+   "o2": "Już od 40–60 km/h, a z prędkością coraz mocniej",
+   "o3": "W wąskim zakresie prędkości, drgania idą przez podłogę i nadwozie; napęd na tył albo na cztery koła",
+   "o4": "Tylko przy hamowaniu, kierownica bije"
+  }
+ },
+ "q_const_char": {
+  "text": "Do czego podobny jest ten stały dźwięk?",
+  "options": {
+   "o1": "Równomierne buczenie albo wycie",
+   "o2": "Zgrzyt, tarcie albo pisk od strony koła",
+   "o3": "Głośny ryk albo terkotanie",
+   "o4": "Gwizd albo wycie tylko przy dużej prędkości"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Co to za dźwięk od strony koła?",
+  "options": {
+   "o1": "Cienki pisk; przy lekkim dotknięciu hamulca znika albo się zmienia",
+   "o2": "Tarcie; po jeździe koło jest gorące, a auto ciągnie w bok",
+   "o3": "Stały zgrzyt albo tarcie, ale koło się nie nagrzewa",
+   "o4": "Rytmiczne pukanie albo kliknięcia w rytm obrotu koła"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Czy koła były niedawno wymieniane, przekładane albo zdejmowane?",
+  "options": {
+   "o1": "Tak, w ostatnich dniach",
+   "o2": "Nie, dawno ich nie ruszano"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Sprawdzian: rozpędź się do prędkości, przy której słychać dźwięk, wrzuć luz i toczyć się. Buczenie zostaje?",
+  "options": {
+   "o1": "Zostaje",
+   "o2": "Znika razem z obrotami silnika",
+   "o3": "Nie udało mi się sprawdzić"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Czy głośność wycia zmienia się przy zmianie biegów?",
+  "options": {
+   "o1": "Tak, na różnych biegach brzmi inaczej",
+   "o2": "Nie, zależy tylko od obrotów silnika"
+  }
+ },
+ "q_hum_road": {
+  "text": "Czy buczenie zmienia się na łagodnych zakrętach?",
+  "options": {
+   "o1": "Tak, w jedną stronę ciszej albo głośniej",
+   "o2": "Nie, jest równe przy każdej prędkości powyżej 40–60 km/h",
+   "o3": "Zależy od nawierzchni drogi"
+  }
+ },
+ "q_hum_where": {
+  "text": "Buczenie słychać z przodu czy z tyłu?",
+  "options": {
+   "o1": "Z przodu",
+   "o2": "Z tyłu",
+   "o3": "Trudno stwierdzić"
+  }
  }
 }
