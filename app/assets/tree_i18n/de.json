@@ -300,5 +300,158 @@
     "label": "Kaum Veränderung oder es verschwindet"
    }
   ]
+ },
+ "q_squeal": {
+  "text": "Was für ein Geräusch ist das?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Schrilles Quietschen oder Pfeifen"
+   },
+   {
+    "id": "o2",
+    "label": "Gleichmäßiges Brummen oder Rauschen"
+   },
+   {
+    "id": "o3",
+    "label": "Gleichmäßiges Zischen, wie Luft aus einem Reifen"
+   }
+  ]
+ },
+ "q_hum_source": {
+  "text": "Woher kommt das Brummen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Von vorn, unter der Motorhaube, ändert sich mit der Drehzahl"
+   },
+   {
+    "id": "o2",
+    "label": "Es geht von selbst an und aus: bei Hitze, im Stau, mit der Klimaanlage"
+   },
+   {
+    "id": "o3",
+    "label": "Von hinten, am Tank; schon beim Einschalten der Zündung vor dem Start zu hören"
+   }
+  ]
+ },
+ "q_pump_check": {
+  "text": "Sind unter der Haube am Riemen Spuren von auslaufender Flüssigkeit zu sehen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, es ist feucht oder riecht nach Kühlmittel"
+   },
+   {
+    "id": "o2",
+    "label": "Alles trocken"
+   },
+   {
+    "id": "o3",
+    "label": "Konnte ich nicht nachsehen"
+   }
+  ]
+ },
+ "q_rattle": {
+  "text": "Welches Geräusch und woher?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Metallisches Klappern von unter dem Fahrzeugboden"
+   },
+   {
+    "id": "o2",
+    "label": "Knallen oder Fehlzündungen aus dem Auspuff"
+   },
+   {
+    "id": "o3",
+    "label": "Gluckern oder Plätschern hinter dem Armaturenbrett"
+   }
+  ]
+ },
+ "q_underbody_rattle": {
+  "text": "Hat das Auto zusammen mit dem Klappern an Leistung verloren, oder riecht der Auspuff ungewöhnlich?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, die Leistung ist schlechter oder der Geruch hat sich verändert"
+   },
+   {
+    "id": "o2",
+    "label": "Nein, es klappert nur bei bestimmten Drehzahlen"
+   }
+  ]
+ },
+ "q_move_when": {
+  "text": "Wann tritt das Geräusch während der Fahrt am stärksten auf?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Beim Bremsen"
+   },
+   {
+    "id": "o2",
+    "label": "In Kurven oder beim Lenken"
+   },
+   {
+    "id": "o3",
+    "label": "Auf Unebenheiten und Bodenwellen"
+   },
+   {
+    "id": "o4",
+    "label": "Beim Gasgeben, beim Schalten oder ständig"
+   }
+  ]
+ },
+ "q_brake_transient": {
+  "text": "Tritt das Geräusch nur bei den ersten Bremsungen nach dem Stehen oder bei Regen auf und verschwindet dann?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, es verschwindet schnell"
+   },
+   {
+    "id": "o2",
+    "label": "Nein, es ist bei jeder Bremsung da"
+   }
+  ]
+ },
+ "q_brake_char": {
+  "text": "Wie klingt es beim Bremsen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Quietschen oder Kreischen"
+   },
+   {
+    "id": "o2",
+    "label": "Schabendes Metall auf Metall"
+   },
+   {
+    "id": "o3",
+    "label": "Klopfen oder Pulsieren im Pedal"
+   }
+  ]
+ },
+ "q_turn_char": {
+  "text": "Was hören Sie in der Kurve?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Brummen bei Tempo, in eine Richtung stärker"
+   },
+   {
+    "id": "o2",
+    "label": "Knacken oder Krachen bei voll eingeschlagenem Lenkrad"
+   },
+   {
+    "id": "o3",
+    "label": "Klopfen beim Lenken"
+   },
+   {
+    "id": "o4",
+    "label": "Heulen oder Brummen beim Lenken im Stand oder beim Einparken"
+   }
+  ]
  }
 }
