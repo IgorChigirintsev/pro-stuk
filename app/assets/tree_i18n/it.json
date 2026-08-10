@@ -500,5 +500,77 @@
   ],
   "explanation": "Uno scricchiolio girando il volante da fermo, che arriva dall’alto, dal passaruota, è prodotto dal cuscinetto del supporto superiore: il pezzo su cui la parte alta del montante ruota insieme alla ruota. Un altro indizio sono colpi isolati dall’alto sulle buche.",
   "advice": "Fissa una diagnosi entro una o due settimane: il controllo è semplice, con la mano sulla torretta dell’ammortizzatore sotto il cofano gli scatti si sentono subito. Puoi guidare, ma un supporto consumato accelera l’usura dell’ammortizzatore e peggiora il ritorno dello sterzo."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Giunto cardanico del piantone (crociera)",
+  "alt_causes": [
+   "Gioco nelle scanalature dell’albero",
+   "Scatola dello sterzo"
+  ],
+  "explanation": "Uno scatto o colpo che si sente e si avverte direttamente nel volante, all’altezza dei piedi, arriva di solito dalla crociera dell’albero intermedio del piantone: il piccolo giunto fra volante e scatola dello sterzo. A motore spento, muovendo leggermente il volante a destra e a sinistra, lo scatto si sente chiaramente.",
+  "advice": "Fallo controllare in officina nei prossimi giorni: lo sterzo è un organo di sicurezza e la diagnosi richiede pochi minuti. Il gioco nel piantone con il tempo aumenta e rende il volante vago attorno al centro."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Servofreno o il suo tubo del vuoto",
+  "alt_causes": [
+   "Valvola di ritegno del servofreno",
+   "Crepa nel tubo del vuoto"
+  ],
+  "explanation": "Un sibilo sotto la plancia che compare e cambia esattamente premendo e rilasciando il pedale del freno è aria che entra nel servofreno: il componente che riduce lo sforzo sul pedale. Il pedale diventa spesso molto più duro e il minimo oscilla.",
+  "advice": "Fissa un appuntamento in officina questa settimana: i freni funzionano anche senza servofreno, ma bisogna premere molto più forte, e in una frenata d’emergenza questo è pericoloso. Controlla il pedale prima di partire: se è duro come una tavola, guida con prudenza e per pochi chilometri."
+ },
+ "leaf_wipers": {
+  "top_cause": "Leverismo dei tergicristalli o gomme delle spazzole",
+  "alt_causes": [
+   "Dadi dei bracci allentati",
+   "Boccole del motorino tergicristalli consumate"
+  ],
+  "explanation": "Un colpo nei punti di inversione è gioco nei snodi del leverismo — il meccanismo che muove i tergicristalli — oppure sono i dadi dei bracci allentati. Un cigolio uniforme sul vetro sono le gomme indurite. La prova è semplice: spegni i tergicristalli e il rumore sparisce subito e del tutto.",
+  "advice": "Le gomme che cigolano puoi cambiarle da solo: le spazzole si trovano in qualsiasi negozio di ricambi. Per il colpo di fine corsa, stringi i dadi dei bracci o fai sostituire le boccole del leverismo quando vai in officina. Per la sicurezza qui conta solo che il vetro resti pulito."
+ },
+ "leaf_eps": {
+  "top_cause": "Servosterzo elettrico: un leggero ronzio è normale",
+  "alt_causes": [
+   "Usura del servosterzo elettrico",
+   "Scatola dello sterzo"
+  ],
+  "explanation": "Se sotto il cofano non c’è una vaschetta del liquido, il servosterzo è elettrico, e un ronzio basso e costante girando il volante è il suo normale funzionamento, non un guasto. La pompa idraulica che ulula quando manca liquido su un’auto così semplicemente non esiste.",
+  "advice": "I veri segnali d’allarme di un servosterzo elettrico sono altri: il volante diventa duro o si indurisce a strappi, compare uno scricchiolio, oppure si accende la spia dello sterzo. Se succede una di queste cose, in officina nei prossimi giorni; altrimenti puoi guidare tranquillo."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Guarnizione o crepa del collettore di scarico",
+  "alt_causes": [
+   "Prigionieri del collettore",
+   "Punterie idrauliche"
+  ],
+  "explanation": "Un ticchettio rapido a freddo, più forte da fuori e accompagnato da odore di scarico sotto il cofano, sono gas che escono da una guarnizione bruciata o da una crepa del collettore di scarico. Man mano che il metallo si scalda si dilata, la fessura si chiude e il ticchettio sparisce.",
+  "advice": "Fissa un appuntamento in officina entro una o due settimane: la fessura con il tempo cresce, e l’odore di scarico può entrare in abitacolo attraverso la ventilazione, il che è nocivo. Fino alla riparazione arieggia l’abitacolo quando senti l’odore."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Ticchettio normale degli iniettori (iniezione diretta o diesel)",
+  "alt_causes": [
+   "Pompa ad alta pressione",
+   "Gioco valvole"
+  ],
+  "explanation": "Sui motori a iniezione diretta (TSI, GDI e simili) e sui diesel, iniettori e pompa ad alta pressione ticchettano sempre: è il loro normale funzionamento. I segni che lo distinguono: il rumore è uguale a freddo e a caldo, si sente più da fuori che in abitacolo, e non dipende dall’età dell’olio.",
+  "advice": "Non serve fare nulla. A destare attenzione dev’essere altro: se il ticchettio è diventato molto più forte di prima, se cambia dopo che il motore si è scaldato o se arriva insieme a una perdita di ripresa, allora sì, in diagnosi."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Aria falsa (tubo del vuoto, guarnizione dell’aspirazione)",
+  "alt_causes": [
+   "Manicotto crepato",
+   "Guarnizione del collettore di aspirazione"
+  ],
+  "explanation": "Un sibilo costante sotto il cofano, come aria che esce da uno pneumatico forato, è aria non misurata che entra da un tubo crepato o dalla guarnizione dell’aspirazione. Il motore spesso gira irregolare: il minimo oscilla e a volte si accende la spia del motore.",
+  "advice": "Fissa una diagnosi nei prossimi giorni, soprattutto se il minimo oscilla: cercare le prese d’aria è una procedura di routine. Da solo puoi guardare se i tubicini di gomma sotto il cofano hanno crepe, senza smontare nulla."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Ventola di raffreddamento (boccole o funzionamento continuo)",
+  "alt_causes": [
+   "Sensore di temperatura o termostato",
+   "Giunto viscoso (sulla trazione posteriore)"
+  ],
+  "explanation": "Un ronzio o rombo che si accende e si spegne da solo — con il caldo, nel traffico, con il climatizzatore — è la ventola del radiatore. Una ventola rumorosa significa o boccole consumate nel suo motorino, oppure che gira in continuazione per colpa di un sensore o del termostato. A volte continua per un paio di minuti dopo aver spento l’auto: è normale.",
+  "advice": "Se la ventola rimbomba di continuo fin dall’avviamento a motore freddo, in diagnosi nei prossimi giorni: il circuito di raffreddamento non sta lavorando come deve. Tieni d’occhio la lancetta della temperatura; se sale, accosta e spegni il motore."
  }
 }
