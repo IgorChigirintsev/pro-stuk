@@ -671,5 +671,77 @@
   ],
   "explanation": "A whine whose loudness depends on the gear you are in — loud in one, quieter in another, gone in neutral while coasting — comes from the manual gearbox: worn shaft bearings or one particular pair of gears. A wheel bearing hums the same in every gear.",
   "advice": "Check the gearbox oil level — a drop is a common cause in itself. Book a diagnosis within a week or two and say in which gears it is loudest: that narrows the search. You can drive, but do not let a growing whine run on."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Wheels out of balance",
+  "alt_causes": [
+   "A balance weight has come off",
+   "Dirt or ice inside the rim"
+  ],
+  "explanation": "Fine shaking through the wheel in a narrow band of speed, usually 50–75 mph, that almost disappears above and below it, is classic wheel imbalance: a weight has come off, or dirt or ice has built up inside the rim. If the steering wheel shakes, it is the front wheels; if the seat shakes, the rear.",
+  "advice": "Have the wheels balanced when convenient — it is quick and cheap. In winter, first look inside the rims and knock off any packed snow and ice. There is no danger, but constant vibration wears bearings and track rod ends faster."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "A bent rim or a bulge in a tyre",
+  "alt_causes": [
+   "Tread has shifted",
+   "Wheel imbalance"
+  ],
+  "explanation": "Shaking that is already noticeable from 25–40 mph and grows with speed is usually deformation: a rim dented after a pothole, or a bulge in a tyre sidewall. Unlike imbalance, this does not live in a narrow speed band — it just gets steadily worse.",
+  "advice": "Look over the tyres and rim edges: a sidewall bulge or a dented rim is often visible to the eye. A bulge is a weak spot that can burst at speed — fit the spare and do not put off the tyre shop. Keep your speed down until it is sorted."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Propshaft: centre bearing or imbalance",
+  "alt_causes": [
+   "Universal joints",
+   "Flexible coupling"
+  ],
+  "explanation": "A hum and fine vibration through the floor and body in a certain speed band on a rear- or all-wheel-drive car is the propshaft: a worn centre bearing, worn universal joints, or lost balance. It differs from wheel imbalance in that the floor shakes rather than the steering wheel.",
+  "advice": "Book a diagnosis within the week: on a lift, play in the propshaft is checked in minutes. Do not put it off — a universal joint breaking up at speed is dangerous. Until it is checked, avoid driving for long at the speed where it vibrates."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Wind noise (seals, trim, roof bars)",
+  "alt_causes": [
+   "Worn door seals",
+   "Roof bars or a roof box"
+  ],
+  "explanation": "A whistle or moan that only appears above a certain speed, usually 45–55 mph, grows with it, and does not depend on the road surface or cornering, is air: a worn seal, a lifted trim strip, roof bars or a roof box.",
+  "advice": "The source is easy to find: take off the box or bars if fitted; open a window slightly and see whether the whistle changes; tape over a suspect joint with masking tape and drive. It is not a fault, and it is fixed by replacing a seal or adjusting a door."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Brake pad wear indicator touching the disc",
+  "alt_causes": [
+   "Pads near the end of their life",
+   "A stone between pad and disc"
+  ],
+  "explanation": "A thin metallic squeak while driving without touching the brake, which stops or changes when you brush the pedal, is the metal wear tab on the pad starting to touch the disc. This is the designed warning: the friction material is nearly used up.",
+  "advice": "Book a pad replacement this week and ask for the discs to be inspected. The brakes still work fully for now, but the next stage is grinding and ruined discs. If the squeak comes from one wheel, mention that at the garage."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "A sticking brake caliper",
+  "alt_causes": [
+   "Seized caliper guide pins",
+   "A swollen brake hose"
+  ],
+  "explanation": "Constant scraping from one wheel, a disc that is hot after driving, a burning smell and the car pulling to one side mean the caliper — the unit that presses the pads onto the disc — is sticking, so the pad rubs all the time. An overheated brake loses effectiveness, and the pad and disc burn through in a few hundred miles.",
+  "advice": "Stop normal journeys and drive only to a garage, a short distance and slowly. You can tell which wheel is hot with a hand held near the disc — do not touch the disc itself, it will burn you. Left alone, this ends with the wheel locking up while driving."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Loose wheel bolts",
+  "alt_causes": [
+   "Damaged bolt holes in the rim",
+   "Play in the hub"
+  ],
+  "explanation": "A rhythmic clunk or tapping in time with wheel rotation that started in the first days after a tyre change or a wheel swap is the classic sign of under-tightened wheel bolts. On loose bolts the wheel wallows out its own bolt holes and, at worst, comes off while driving.",
+  "advice": "Stop at the first opportunity and check the tightness of the bolts on every wheel with the wheel brace. If they tightened up, the tapping should go; if it remains, drive carefully to a garage and have the hub checked. After any tyre work it is worth re-checking the bolts after 30–60 miles."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "A stone or a screw in the tread",
+  "alt_causes": [
+   "Loose wheel bolts",
+   "Tread separation"
+  ],
+  "explanation": "An even click or tick in time with wheel rotation, most noticeable at low speed, is usually a stone caught in the tread — or, more importantly, a screw driven into it. The noise lasts as long as the object stays in the tyre.",
+  "advice": "Look over the tread on every wheel, rolling the car slowly or turning the wheel to full lock. Pick the stone out. Do not pull out a screw or nail — with it in place you can drive calmly to a tyre shop; without it the tyre will deflate on the way. If the tread is clear and the clicking remains, check the wheel bolt tightness."
  }
 }
