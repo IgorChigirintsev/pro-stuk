@@ -74,5 +74,72 @@
    "o3": "Syczenie spod deski przy naciskaniu pedału hamulca",
    "o4": "Stukanie albo skrzypienie w rytm wycieraczek"
   }
+ },
+ "q_ps_type": {
+  "text": "Czy pod maską jest zbiorniczek płynu wspomagania kierownicy?",
+  "options": {
+   "o1": "Tak, jest",
+   "o2": "Nie ma albo nie wiem"
+  }
+ },
+ "q_steer_click": {
+  "text": "Skąd dochodzą kliknięcia?",
+  "options": {
+   "o1": "Z góry, z nadkola, na wysokości maski",
+   "o2": "Z samej kierownicy albo z kolumny, przy nogach"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Czy dźwięk słychać tylko na zimnym silniku, zaraz po odpaleniu?",
+  "options": {
+   "o1": "Tak, po nagrzaniu znika",
+   "o2": "Nie, słychać go też na ciepłym"
+  }
+ },
+ "q_cold_char": {
+  "text": "Do czego podobny jest dźwięk na zimno?",
+  "options": {
+   "o1": "Szybkie tykanie albo stukot",
+   "o2": "Głuche pukanie, które po nagrzaniu znika",
+   "o3": "Szelest albo grzechotanie z przodu silnika",
+   "o4": "Pisk albo gwizd przy rozruchu"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Czy stukot jest głośniejszy na zewnątrz niż w środku i spod maski czuć spalinami?",
+  "options": {
+   "o1": "Tak, na zewnątrz głośniej i czuć zapach",
+   "o2": "Nie, tyka u góry silnika i nie ma zapachu"
+  }
+ },
+ "q_engine_char": {
+  "text": "Do czego podobny jest dźwięk?",
+  "options": {
+   "o1": "Pukanie albo tykanie",
+   "o2": "Pisk, gwizd, buczenie albo syczenie",
+   "o3": "Dzwonienie, grzechotanie, strzały albo bulgotanie",
+   "o4": "Wibracje, drżenie na wolnych obrotach"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Jakie dokładnie pukanie?",
+  "options": {
+   "o1": "Lekkie, szybkie tykanie w górnej części silnika",
+   "o2": "Głuche albo dźwięczne pukanie z głębi silnika"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Czy tykanie z czasem się nasiliło, czy jest zawsze takie samo?",
+  "options": {
+   "o1": "Nasiliło się; na ciepłym silniku słychać je lepiej",
+   "o2": "Zawsze takie samo; na zewnątrz głośniej niż w środku"
+  }
+ },
+ "q_knock_load": {
+  "text": "Jeśli delikatnie dodasz gazu, czy pukanie przyspiesza i staje się głośniejsze?",
+  "options": {
+   "o1": "Tak, szybsze i głośniejsze",
+   "o2": "Prawie się nie zmienia albo znika"
+  }
  }
 }
