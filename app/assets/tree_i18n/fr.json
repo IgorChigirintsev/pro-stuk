@@ -74,5 +74,72 @@
    "o3": "Un chuintement sous la planche de bord quand on appuie sur la pédale de frein",
    "o4": "Un cognement ou un grincement au rythme des essuie-glaces"
   }
+ },
+ "q_ps_type": {
+  "text": "Y a-t-il sous le capot un bocal de liquide de direction assistée ?",
+  "options": {
+   "o1": "Oui, il y en a un",
+   "o2": "Non, ou je ne sais pas"
+  }
+ },
+ "q_steer_click": {
+  "text": "D’où viennent les claquements ?",
+  "options": {
+   "o1": "Du haut, du passage de roue, à hauteur du capot",
+   "o2": "Du volant lui-même ou de la colonne, au niveau des pieds"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Le bruit s'entend-il uniquement moteur froid, juste après le démarrage ?",
+  "options": {
+   "o1": "Oui, il disparaît une fois le moteur chaud",
+   "o2": "Non, on l'entend aussi moteur chaud"
+  }
+ },
+ "q_cold_char": {
+  "text": "À quoi ressemble le bruit à froid ?",
+  "options": {
+   "o1": "Un cliquetis rapide",
+   "o2": "Un cognement sourd qui disparaît une fois le moteur chaud",
+   "o3": "Un bruissement ou un cliquetis à l'avant du moteur",
+   "o4": "Un sifflement aigu au démarrage"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Le cliquetis est-il plus fort dehors que dans l'habitacle, et ça sent l'échappement sous le capot ?",
+  "options": {
+   "o1": "Oui, plus fort dehors et il y a une odeur",
+   "o2": "Non, ça claque en haut du moteur et il n'y a pas d'odeur"
+  }
+ },
+ "q_engine_char": {
+  "text": "À quoi ressemble le bruit ?",
+  "options": {
+   "o1": "Un cognement ou un cliquetis",
+   "o2": "Un sifflement, un bourdonnement ou un chuintement",
+   "o3": "Un tintement, un cliquetis de tôle, des pétarades ou un gargouillis",
+   "o4": "Des vibrations, un tremblement au ralenti"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Quel genre de cognement exactement ?",
+  "options": {
+   "o1": "Un cliquetis léger et rapide dans le haut du moteur",
+   "o2": "Un cognement sourd ou métallique venant du fond du moteur"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Le cliquetis a-t-il augmenté avec le temps ou est-il toujours identique ?",
+  "options": {
+   "o1": "Il a augmenté ; moteur chaud, on l’entend mieux",
+   "o2": "Toujours pareil ; plus fort dehors que dans l'habitacle"
+  }
+ },
+ "q_knock_load": {
+  "text": "Si vous accélérez doucement, le cognement s’accélère-t-il et devient-il plus fort ?",
+  "options": {
+   "o1": "Oui, plus rapide et plus fort",
+   "o2": "Il ne change presque pas, ou il disparaît"
+  }
  }
 }
