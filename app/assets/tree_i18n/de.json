@@ -1133,5 +1133,77 @@
   ],
   "explanation": "Ein feines metallisches Piepen während der Fahrt ohne Bremsen, das beim leichten Antippen des Pedals verschwindet oder sich ändert, ist das Metallplättchen am Belag, das die Scheibe zu berühren beginnt. Das ist die vorgesehene Warnung: der nutzbare Belag ist fast aufgebraucht.",
   "advice": "Vereinbaren Sie diese Woche einen Termin zum Wechsel der Beläge und lassen Sie die Scheiben mit ansehen. Die Bremse arbeitet noch voll, aber die nächste Stufe ist Schaben und beschädigte Scheiben. Kommt das Piepen von einem bestimmten Rad — sagen Sie das in der Werkstatt."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Festsitzender Bremssattel",
+  "alt_causes": [
+   "Festgegangene Führungsbolzen des Sattels",
+   "Aufgequollener Bremsschlauch"
+  ],
+  "explanation": "Dauerhaftes Schaben an einem Rad, eine nach der Fahrt heiße Bremsscheibe, Brandgeruch und ein Ziehen zur Seite heißen: der Bremssattel — das Bauteil, das die Beläge auf die Scheibe drückt — sitzt fest, und der Belag schleift ständig. Eine überhitzte Bremse verliert an Wirkung, und Belag und Scheibe brennen in ein paar hundert Kilometern durch.",
+  "advice": "Normale Fahrten einstellen und nur noch bis zur Werkstatt fahren, kurze Strecke und langsam. Welches Rad heiß ist, spüren Sie mit der Hand in der Nähe der Scheibe — die Scheibe selbst nicht berühren, daran verbrennt man sich. Wer das hinauszögert, riskiert ein blockierendes Rad während der Fahrt."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Zu locker angezogene Radschrauben",
+  "alt_causes": [
+   "Ausgeschlagene Bohrungen in der Felge",
+   "Spiel in der Radnabe"
+  ],
+  "explanation": "Ein rhythmisches Scheppern oder Klopfen im Takt der Radumdrehung, das in den ersten Tagen nach einem Reifenwechsel aufgetreten ist, ist der Klassiker: zu locker angezogene Radschrauben. Ein Rad auf lockeren Schrauben schlägt die Bohrungen in der Felge aus und löst sich im schlimmsten Fall während der Fahrt.",
+  "advice": "Halten Sie bei der nächsten Gelegenheit an und prüfen Sie mit dem Radkreuz den Sitz der Schrauben an allen Rädern. Ließen sie sich nachziehen, sollte das Klopfen weg sein; bleibt es, fahren Sie vorsichtig in die Werkstatt und lassen Sie die Radnabe prüfen. Nach jedem Radwechsel ist es sinnvoll, die Schrauben nach 50–100 km noch einmal nachzuziehen."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Steinchen oder Schraube im Reifenprofil",
+  "alt_causes": [
+   "Zu locker angezogene Radschrauben",
+   "Sich lösendes Profil"
+  ],
+  "explanation": "Ein gleichmäßiges Klicken oder Klacken im Takt der Radumdrehung, besonders bei niedrigem Tempo, kommt meist von einem Steinchen im Profil — oder, was wichtiger ist, von einer eingedrehten Schraube. Das Geräusch bleibt, solange der Gegenstand im Reifen steckt.",
+  "advice": "Sehen Sie sich das Profil aller Räder an, indem Sie das Auto langsam vorrollen oder das Lenkrad voll einschlagen. Ein Steinchen herauspulen. Eine Schraube oder einen Nagel nicht herausziehen — damit kommen Sie in Ruhe bis zum Reifendienst, ohne verliert der Reifen unterwegs die Luft. Ist im Profil nichts zu finden und das Klicken bleibt — den Sitz der Radschrauben prüfen."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Stabilisatorlager oder Gummilager der Querlenker (Knarzen)",
+  "alt_causes": [
+   "Traggelenke",
+   "Trockene Türdichtungen und Scharniere"
+  ],
+  "explanation": "Ein Knarzen wie ein altes Bett auf Unebenheiten, beim Einsteigen und beim Wippen des Autos ist trockener Gummi im Fahrwerk: die Lager des Stabilisators oder die Gummilager der Querlenker. Bei Frost und Nässe lauter. Sie können es nachstellen, indem Sie das stehende Auto am Kotflügel mit der Hand wippen lassen.",
+  "advice": "Bei Gelegenheit in der Werkstatt zeigen: oft hilft schon das Schmieren der Lager oder der Tausch von Cent-Teilen. Gefährlich ist es nicht — kommt zum Knarzen aber ein Klopfen dazu oder zieht das Auto zur Seite, geht es um die Traggelenke, und die Prüfung sollte nicht warten."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Festgebackene Bremsbeläge",
+  "alt_causes": [
+   "Festgefrorene Beläge (im Winter)",
+   "Beläge der Handbremse"
+  ],
+  "explanation": "Ein einzelner lauter Schlag oder ein Krachen beim ersten Anfahren nach langem Stehen, besonders mit angezogener Handbremse, nach der Waschanlage, nach Regen oder Frost, sind Beläge, die an den Scheiben festgeklebt oder festgefroren waren und sich lösen. Ist die restliche Fahrt still, ist das harmlos.",
+  "advice": "Sie müssen nichts tun; im Winter können Sie das Auto statt mit der Handbremse im Gang abstellen — nur beim Schaltgetriebe —, damit die hinteren Beläge nicht festfrieren. Wiederholt sich das Krachen bei jedem Anfahren, geht es nicht um die Beläge: dann die Diagnose noch einmal durchlaufen."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Spiel im Lenkgetriebe",
+  "alt_causes": [
+   "Spurstangenköpfe",
+   "Kreuzgelenk der Lenkwelle"
+  ],
+  "explanation": "Ein Klopfen auf feinen Wellen und Fahrbahnfugen, das direkt ins Lenkrad geht und in den Händen zu spüren ist, ist Spiel im Lenkgetriebe: die Buchse oder die Verzahnung ist verschlissen. Ein typisches Zeichen: das Klopfen wird leiser, wenn Sie das Lenkrad leicht unter Spannung halten.",
+  "advice": "Lassen Sie die Lenkung in den nächsten Tagen in der Werkstatt prüfen: das ist ein sicherheitsrelevantes Bauteil, und die Prüfung auf der Hebebühne dauert Minuten. Bei manchen Autos lässt sich das Lenkgetriebe nachstellen — das ist günstig. Ist die Lenkung um die Mittellage leer geworden oder wandert das Auto in der Spur, nicht aufschieben."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Gebrochene Fahrwerksfeder",
+  "alt_causes": [
+   "Ausgeschlagener Stoßdämpfer",
+   "Gebrochener Federteller"
+  ],
+  "explanation": "Scheppern oder metallisches Schaben auf Unebenheiten und in Kurven, das plötzlich nach einem Schlagloch aufgetreten ist, dazu eine tiefer hängende Ecke des Autos, ist das typische Bild einer abgebrochenen Federwindung. Das Bruchstück kann bei der Arbeit des Fahrwerks schleifen und scheppern.",
+  "advice": "Schauen Sie von unten hinter das Rad: eine gebrochene Windung sieht man oft mit bloßem Auge. Innerhalb weniger Tage in die Werkstatt und bis zur Reparatur ruhig fahren: das Bruchstück kann verrutschen und den Reifen beschädigen. Federn werden achsweise paarweise getauscht."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Innenraumkunststoff: Clips und Fugen der Verkleidungen",
+  "alt_causes": [
+   "Gegenstände im Handschuhfach und in den Ablagen",
+   "Trockene Türdichtungen"
+  ],
+  "explanation": "Ein nahes Kunststoffklappern und Knarzen auf kleinen Unebenheiten ist Reibung und Spiel der Verkleidungen: Armaturenbrett, Türverkleidungen, Handschuhfach. Bei Frost lauter. Eine sichere Probe: drücken Sie während der Fahrt die verdächtige Verkleidung mit der Hand an — ist das Geräusch weg, ist es der Innenraum und nicht das Fahrwerk.",
+  "advice": "Kein Defekt: das Auto ist in Ordnung. Kleinkram aus Handschuhfach und Ablagen räumen, in die gefundene Fuge ein Stück Dichtband legen. Knarzen rund um die Türen behebt man, indem man die Dichtungen mit Silikonfett pflegt. Ein Fahrwerksklopfen ist dagegen dumpf, kommt von unten und ändert sich nicht, wenn man auf die Verkleidungen drückt."
  }
 }
