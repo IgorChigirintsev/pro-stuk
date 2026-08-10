@@ -599,5 +599,77 @@
   ],
   "explanation": "A jolt or clunk exactly as you move the selector between D and R, or during gear changes, points to wear or old fluid in the automatic: the gear engages with a shock, and play in the driveline amplifies it. Sagging mounts clunk in a similar way, so the diagnosis is worth confirming.",
   "advice": "First check the level and condition of the gearbox fluid — dark, with a burnt smell, means it needs changing, and in many cases that is enough. Book a diagnosis within a week or two and say exactly which changes jolt. Until then, move the selector only at a full stop with the brake pressed."
+ },
+ "leaf_synchro": {
+  "top_cause": "Gearbox synchronisers, or the clutch not fully disengaging",
+  "alt_causes": [
+   "Clutch pedal free play",
+   "Worn clutch"
+  ],
+  "explanation": "A crunch as you engage a gear on a manual means the gears meet at different speeds. If only one or two gears crunch — usually second or third — their synchronisers are worn; if every gear crunches, the clutch is not fully disengaging and the gearbox never lets go.",
+  "advice": "Check the clutch pedal free play and the gearbox oil level — a garage will start there too. Book a diagnosis within a couple of weeks. Until then shift more slowly, with a pause in neutral: it crunches less and wears less."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Clutch: worn or oil-contaminated disc",
+  "alt_causes": [
+   "Engine mounts",
+   "Dual-mass flywheel"
+  ],
+  "explanation": "Shuddering strictly while you release the clutch pulling away, with the car driving smoothly once fully engaged, means the clutch is grabbing in steps: the disc is worn, contaminated with oil, or the pressure plate is distorted. Engine mounts shake at idle as well, whereas this lives only in the pull-away phase.",
+  "advice": "Book a diagnosis within a week or two: judder does not go away on its own and usually gets worse. Until then pull away gently, with slightly more revs, and do not slip the clutch. If you smell burning, the clutch is on its way out — do not delay the visit."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Driveshaft universal joints or play in the driveline",
+  "alt_causes": [
+   "Subframe bushes and bolts",
+   "Final drive gears"
+  ],
+  "explanation": "A single clunk or click from under the middle or rear of the car as you pull away and on and off the throttle is slack in the drive path: most often worn universal joints on the propshaft (rear- and all-wheel drive) or loose subframe mountings.",
+  "advice": "Book a diagnosis within a week or two: on a lift, play in the propshaft is found by hand in a minute. Do not put it off — a worn universal joint can break up at speed. Until then pull away and lift off more gently."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Clutch slipping",
+  "alt_causes": [
+   "Oil-contaminated disc",
+   "Automatic or CVT slipping"
+  ],
+  "explanation": "If the revs rise and the engine roars on the throttle while the car barely accelerates, the clutch is slipping and not transmitting drive: the disc is worn or contaminated with oil. It shows most uphill and in the higher gears, often with an acrid burning smell. A worn automatic slips in the same way.",
+  "advice": "Get to a garage this week: a slipping clutch slips until there is no drive at all, usually at the least convenient moment. Until then drive gently, no overtaking and no towing, and change down before a hill. If the burning smell gets stronger, do not delay another day."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbocharger or a boost leak",
+  "alt_causes": [
+   "Intercooler hose",
+   "Turbo shaft bearing"
+  ],
+  "explanation": "A light, even turbo whistle under load is normal on a turbo engine. What should concern you is change: the whistle grew louder or changed pitch, a howl appeared, or the car lost power. That is either air escaping from the boost pipework or wear in the turbo shaft bearing.",
+  "advice": "If the pitch has changed or power has dropped, book a diagnosis within days: a leaking hose is a cheap fix, while neglected turbo wear ends in replacement. Keep an eye on oil consumption. Until it is checked, avoid running the engine to the limiter and let the turbo cool for a minute or two at idle after hard driving."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Final drive gears",
+  "alt_causes": [
+   "Differential bearings",
+   "Low oil level in the differential"
+  ],
+  "explanation": "A whine or hum that changes pitch on and off the throttle at the same road speed — louder under power, quieter coasting, or the other way round — is the signature of worn final drive gears, the pair that sends drive to the wheels. A wheel bearing, by contrast, does not react to the throttle at all.",
+  "advice": "Check the oil level in the differential and book a diagnosis within the week: caught early, fresh oil and an adjustment are often enough; left late, the gear set needs replacing. Postpone long motorway trips until it is checked."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT or automatic gearbox (bearings, belt, torque converter)",
+  "alt_causes": [
+   "Low or old gearbox fluid",
+   "Shaft bearings"
+  ],
+  "explanation": "A monotone metallic whine under acceleration on a car with a CVT or automatic, which follows the throttle rather than road speed, is usually the pulley bearings in a CVT or the pump in an automatic. A CVT is especially sensitive to the age of its fluid.",
+  "advice": "Start with the level and condition of the gearbox fluid — that is half of these cases. Book a diagnosis within the week and drive gently until then, with no hard acceleration and no towing. Repairing a CVT early costs many times less than repairing it late."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Manual gearbox bearings or gears",
+  "alt_causes": [
+   "Low gearbox oil level",
+   "Input shaft bearing"
+  ],
+  "explanation": "A whine whose loudness depends on the gear you are in — loud in one, quieter in another, gone in neutral while coasting — comes from the manual gearbox: worn shaft bearings or one particular pair of gears. A wheel bearing hums the same in every gear.",
+  "advice": "Check the gearbox oil level — a drop is a common cause in itself. Book a diagnosis within a week or two and say in which gears it is loudest: that narrows the search. You can drive, but do not let a growing whine run on."
  }
 }
