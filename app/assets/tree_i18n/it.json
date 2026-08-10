@@ -572,5 +572,77 @@
   ],
   "explanation": "Un ronzio o rombo che si accende e si spegne da solo — con il caldo, nel traffico, con il climatizzatore — è la ventola del radiatore. Una ventola rumorosa significa o boccole consumate nel suo motorino, oppure che gira in continuazione per colpa di un sensore o del termostato. A volte continua per un paio di minuti dopo aver spento l’auto: è normale.",
   "advice": "Se la ventola rimbomba di continuo fin dall’avviamento a motore freddo, in diagnosi nei prossimi giorni: il circuito di raffreddamento non sta lavorando come deve. Tieni d’occhio la lancetta della temperatura; se sale, accosta e spegni il motore."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Pompa del carburante elettrica",
+  "alt_causes": [
+   "Filtro del carburante intasato",
+   "Filtro a rete della pompa"
+  ],
+  "explanation": "Un ronzio o ululato costante da dietro, sotto il divano posteriore o dalla zona del serbatoio, è la pompa del carburante. Sentirla per un paio di secondi girando la chiave è normale; un ululato forte, percepibile anche in marcia, indica una pompa consumata o un filtro intasato contro cui deve forzare.",
+  "advice": "Fissa un controllo della pressione del carburante entro una o due settimane. Non girare a lungo con la spia della riserva accesa: sul fondo del serbatoio la pompa si raffredda peggio e si consuma prima. Se l’auto inizia a strattonare sotto sforzo o fatica ad avviarsi, anticipa la visita."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Catalizzatore disintegrato",
+  "alt_causes": [
+   "Schermo termico",
+   "Supporti dello scarico"
+  ],
+  "explanation": "Un tintinnio metallico o un rumore di ghiaia da sotto la vettura, più vicino al motore, che aumenta dando un colpo di gas e arriva insieme a una perdita di ripresa o a un odore di scarico diverso, è la ceramica del catalizzatore che si è sbriciolata. I frammenti sferragliano nel corpo e il nido d’ape intasato soffoca il motore.",
+  "advice": "In diagnosi nei prossimi giorni: i frammenti di ceramica possono essere aspirati nel motore, e a quel punto la riparazione diventa costosa. Un controllo semplice in officina è battere leggermente sul corpo del catalizzatore a vettura fredda: dentro si sentono i pezzi sciolti. Con questo non conviene aspettare."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Cambio automatico: olio vecchio, usura o gioco nella trasmissione",
+  "alt_causes": [
+   "Supporti motore e cambio",
+   "Crociere dell’albero di trasmissione (sulla trazione posteriore)"
+  ],
+  "explanation": "Uno strappo o un colpo proprio passando il selettore da D a R, o durante i cambi marcia, indica usura o olio vecchio nel cambio automatico: la marcia entra di colpo e i giochi della trasmissione amplificano il colpo. Anche i supporti ceduti battono in modo simile, quindi vale la pena precisare la diagnosi.",
+  "advice": "Per prima cosa controlla livello e stato dell’olio del cambio: se è scuro e sa di bruciato va sostituito, e in molti casi basta questo. Fissa una diagnosi entro una o due settimane e di’ su quali cambi marcia esattamente strappa. Fino alla riparazione muovi il selettore solo a veicolo fermo e con il freno premuto."
+ },
+ "leaf_synchro": {
+  "top_cause": "Sincronizzatori del cambio o frizione che non stacca del tutto",
+  "alt_causes": [
+   "Gioco del pedale della frizione",
+   "Usura della frizione"
+  ],
+  "explanation": "Uno scricchiolio innestando la marcia sul cambio manuale significa che gli ingranaggi si incontrano a velocità diverse. Se scricchiola una o due marce precise (spesso la seconda o la terza), sono consumati i loro sincronizzatori; se scricchiolano tutte, la frizione non stacca del tutto e il cambio non si libera.",
+  "advice": "Controlla il gioco del pedale della frizione e il livello dell’olio del cambio: anche l’officina parte da lì. Fissa una diagnosi entro due settimane. Fino alla riparazione cambia più lentamente, con una pausa in folle: scricchiola meno e si consuma meno."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Frizione: disco consumato o sporco d’olio",
+  "alt_causes": [
+   "Supporti motore",
+   "Volano bimassa"
+  ],
+  "explanation": "Un tremolio proprio nel momento della partenza, mentre si rilascia il pedale della frizione, con l’auto che poi va liscia una volta innestata del tutto, significa che la frizione attacca a strappi: disco consumato, sporco d’olio, o spingidisco deformato. I supporti motore fanno tremare l’auto anche al minimo; qui il tremolio vive solo nella fase di partenza.",
+  "advice": "Fissa una diagnosi entro una o due settimane: lo strappo in partenza non passa da solo e di solito peggiora. Fino alla riparazione parti dolcemente e con qualche giro in più, senza far slittare la frizione. Se compare odore di bruciato, la frizione si sta bruciando: non rimandare la visita."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Crociere dell’albero di trasmissione o gioco nella trasmissione",
+  "alt_causes": [
+   "Silent block e bulloni del telaietto",
+   "Coppia conica del differenziale"
+  ],
+  "explanation": "Un colpo o scatto isolato dalla zona centrale o posteriore del pianale in partenza e nel passaggio fra accelerazione e rilascio è gioco nella catena che trasmette la coppia: quasi sempre crociere consumate dell’albero di trasmissione (trazione posteriore e integrale) o fissaggi del telaietto allentati.",
+  "advice": "Fissa una diagnosi entro una o due settimane: sul ponte il gioco dell’albero si trova in un minuto muovendolo con la mano. Non conviene tirarla: una crociera molto consumata può rompersi a velocità. Fino ad allora parti e rilascia il gas con più dolcezza."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "La frizione slitta",
+  "alt_causes": [
+   "Disco sporco d’olio",
+   "Slittamento del cambio automatico o del CVT"
+  ],
+  "explanation": "Se accelerando i giri salgono e il motore urla ma l’auto quasi non accelera, la frizione sta slittando e non trasmette la coppia: il disco è consumato o sporco d’olio. Si nota soprattutto in salita e sulla marcia più alta; spesso si aggiunge un odore acre di bruciato. Su un automatico, un cambio consumato slitta allo stesso modo.",
+  "advice": "In officina questa settimana: una frizione che slitta continua a slittare fino a perdere del tutto la trazione, e di solito nel momento peggiore. Fino alla riparazione guida con calma, senza sorpassi né rimorchio, e in salita scala per tempo. Se l’odore di bruciato aumenta, non aspettare neppure un giorno."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbina o perdita nella sovralimentazione",
+  "alt_causes": [
+   "Manicotto dell’intercooler",
+   "Cuscinetto dell’albero della turbina"
+  ],
+  "explanation": "Un fischio leggero e costante del turbo sotto sforzo è normale su un motore turbo. A destare attenzione dev’essere il cambiamento: il fischio diventa più forte o cambia tono, compare un ululato, l’auto perde ripresa. È una perdita d’aria nei manicotti della sovralimentazione oppure l’usura del cuscinetto dell’albero della turbina.",
+  "advice": "Se il tono è cambiato o l’auto tira meno, in diagnosi nei prossimi giorni: un manicotto che perde si ripara con poco, mentre un turbo consumato e trascurato finisce con la sostituzione. Tieni d’occhio il consumo d’olio. Fino al controllo non portare il motore al limitatore e lascia raffreddare il turbo un paio di minuti al minimo dopo una guida vivace."
  }
 }
