@@ -6,6 +6,7 @@ import '../models.dart';
 import '../state.dart';
 import '../theme.dart';
 import 'onboarding.dart';
+import 'report.dart';
 
 /// Профиль: гараж, история диагностик и сервисная книжка.
 class GarageScreen extends StatefulWidget {
@@ -132,29 +133,39 @@ class _GarageScreenState extends State<GarageScreen> {
                   style: TextStyle(fontSize: 13, color: T.inkSoft),
                 ),
 
-                const SizedBox(height: 28),
-                Text('Сервисная книжка',
-                    style: Theme.of(context).textTheme.titleMedium),
-                const SizedBox(height: 4),
-                const Text(
-                  'Интервалы — распространённый ориентир для наших условий. '
-                  'Регламент производителя для вашей машины всегда главнее.',
-                  style: TextStyle(fontSize: 13, color: T.inkSoft),
-                ),
-                const SizedBox(height: 12),
-                for (final c in consumables)
-                  _ServiceTile(
-                    status: statusFor(
-                      c,
-                      car.service[c.key] == null
-                          ? null
-                          : car.mileageKm - car.service[c.key]!,
-                    ),
-                    onTap: () => _askAgo(context, c),
-                    onClear: car.service.containsKey(c.key)
-                        ? () => st.clearService(c.key)
-                        : null,
+                const SizedBox(height: 20),
+                Card(
+                  clipBehavior: Clip.antiAlias,
+                  child: ExpansionTile(
+                    title: const Text('Сервисная книжка'),
+                    subtitle: Text(_bookSummary(car),
+                        style: const TextStyle(fontSize: 13, color: T.inkSoft)),
+                    childrenPadding: const EdgeInsets.fromLTRB(12, 0, 12, 12),
+                    children: [
+                      const Padding(
+                        padding: EdgeInsets.only(bottom: 10),
+                        child: Text(
+                          'Интервалы даны диапазоном: разброс зависит от типа детали '
+                          'и условий. Регламент производителя для вашей машины главнее.',
+                          style: TextStyle(fontSize: 13, color: T.inkSoft),
+                        ),
+                      ),
+                      for (final c in consumables)
+                        _ServiceTile(
+                          status: statusFor(
+                            c,
+                            car.service[c.key] == null
+                                ? null
+                                : car.mileageKm - car.service[c.key]!,
+                          ),
+                          onTap: () => _askAgo(context, c),
+                          onClear: car.service.containsKey(c.key)
+                              ? () => st.clearService(c.key)
+                              : null,
+                        ),
+                    ],
                   ),
+                ),
 
                 const SizedBox(height: 28),
                 Text('История диагностик',
@@ -164,24 +175,81 @@ class _GarageScreenState extends State<GarageScreen> {
                   const Text('Пока пусто — первый разбор появится здесь.',
                       style: TextStyle(color: T.inkSoft))
                 else
-                  for (final h in st.history.take(20))
-                    Padding(
-                      padding: const EdgeInsets.only(bottom: 10),
-                      child: Row(children: [
-                        Container(
-                          width: 10,
-                          height: 10,
-                          decoration: BoxDecoration(
-                            color: T.urgencyColor(h.urgency),
-                            shape: BoxShape.circle,
-                          ),
-                        ),
-                        const SizedBox(width: 10),
-                        Expanded(child: Text(h.topCause)),
-                      ]),
-                    ),
+                  for (final h in st.history) _HistoryCard(entry: h),
               ],
             ),
+    );
+  }
+}
+
+/// Что показать в свёрнутом виде: сначала то, что просрочено.
+String _bookSummary(Car car) {
+  var overdue = 0, due = 0, filled = 0;
+  for (final c in consumables) {
+    final since = car.service[c.key] == null
+        ? null
+        : car.mileageKm - car.service[c.key]!;
+    if (since == null) continue;
+    filled++;
+    final s = statusFor(c, since);
+    if (s.overdue) {
+      overdue++;
+    } else if (s.due) {
+      due++;
+    }
+  }
+  if (filled == 0) return 'Отметьте, что и когда меняли';
+  if (overdue > 0) return 'Пора менять: $overdue';
+  if (due > 0) return 'Скоро: $due';
+  return 'Всё в пределах интервала';
+}
+
+class _HistoryCard extends StatelessWidget {
+  final HistoryEntry entry;
+  const _HistoryCard({required this.entry});
+
+  static const _months = [
+    'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
+    'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    final d = entry.date;
+    final rep = entry.report;
+    return Card(
+      margin: const EdgeInsets.only(bottom: 10),
+      child: ListTile(
+        // Без отчёта открывать нечего: у быстрых вердиктов сохранён только итог.
+        onTap: rep == null
+            ? null
+            : () => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (_) =>
+                        ReportScreen(report: rep, carLabel: entry.carLabel),
+                  ),
+                ),
+        leading: Container(
+          width: 12,
+          height: 12,
+          margin: const EdgeInsets.only(top: 6),
+          decoration: BoxDecoration(
+            color: T.urgencyColor(entry.urgency),
+            shape: BoxShape.circle,
+          ),
+        ),
+        title: Text(entry.topCause),
+        subtitle: Text(
+          '${d.day} ${_months[d.month - 1]} ${d.year} · '
+          '${entry.isFull ? 'разбор звука' : 'быстрый вердикт'}'
+          '${entry.carLabel.isEmpty ? '' : ' · ${entry.carLabel}'}',
+          style: const TextStyle(fontSize: 12, color: T.inkSoft),
+        ),
+        trailing: rep == null
+            ? null
+            : const Icon(Icons.chevron_right, color: T.inkSoft),
+      ),
     );
   }
 }
@@ -240,48 +308,47 @@ class _ServiceTile extends StatelessWidget {
         ? T.inkSoft
         : s.overdue
             ? const Color(0xFFC2410C)
-            : s.soon
+            : s.due
                 ? const Color(0xFFB45309)
                 : const Color(0xFF15803D);
 
-    return Card(
-      margin: const EdgeInsets.only(bottom: 8),
-      child: ListTile(
-        onTap: onTap,
-        title: Text(s.item.title),
-        subtitle: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              s.item.km != null
-                  ? 'Интервал ${s.item.km} км'
-                      '${s.item.months != null ? ' или ${s.item.months! ~/ 12} г.' : ''}'
-                  : 'Каждые ${s.item.months! ~/ 12} года по сроку',
-              style: const TextStyle(fontSize: 12, color: T.inkSoft),
+    return ListTile(
+      contentPadding: EdgeInsets.zero,
+      onTap: onTap,
+      title: Text(s.item.title, style: const TextStyle(fontSize: 15)),
+      subtitle: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            intervalText(s.item) +
+                (s.item.byCondition ? ' · смотреть по состоянию' : ''),
+            style: const TextStyle(fontSize: 12, color: T.inkSoft),
+          ),
+          if (s.detail.isNotEmpty)
+            Text(s.detail,
+                style: const TextStyle(fontSize: 12, color: T.inkSoft)),
+          if (s.item.note.isNotEmpty)
+            Padding(
+              padding: const EdgeInsets.only(top: 2),
+              child: Text(s.item.note,
+                  style: const TextStyle(fontSize: 12, color: T.inkSoft)),
             ),
-            if (s.item.note.isNotEmpty)
-              Padding(
-                padding: const EdgeInsets.only(top: 2),
-                child: Text(s.item.note,
-                    style: const TextStyle(fontSize: 12, color: T.inkSoft)),
-              ),
-          ],
-        ),
-        trailing: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.end,
-          children: [
-            Text(s.label,
-                style: TextStyle(
-                    fontSize: 13, fontWeight: FontWeight.w700, color: color)),
-            if (onClear != null)
-              GestureDetector(
-                onTap: onClear,
-                child: const Text('сбросить',
-                    style: TextStyle(fontSize: 11, color: T.inkSoft)),
-              ),
-          ],
-        ),
+        ],
+      ),
+      trailing: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.end,
+        children: [
+          Text(s.label,
+              style: TextStyle(
+                  fontSize: 13, fontWeight: FontWeight.w700, color: color)),
+          if (onClear != null)
+            GestureDetector(
+              onTap: onClear,
+              child: const Text('сбросить',
+                  style: TextStyle(fontSize: 11, color: T.inkSoft)),
+            ),
+        ],
       ),
     );
   }
