@@ -176,25 +176,28 @@ void main() {
     LocaleService.current.value = 'ru';
   });
 
-  test('английское дерево переведено полностью: вопросы и вердикты', () async {
-    LocaleService.current.value = 'en';
-    final t = await DecisionTree.load();
-    final cyrillic = RegExp(r'[А-Яа-яЁё]');
-    final left = <String>[];
-    for (final n in t.nodes.values) {
-
-      if (cyrillic.hasMatch(n.text)) left.add(n.id);
-      if (cyrillic.hasMatch(n.topCause)) left.add('${n.id}/cause');
-      if (cyrillic.hasMatch(n.explanation)) left.add('${n.id}/why');
-      if (cyrillic.hasMatch(n.advice)) left.add('${n.id}/advice');
-      for (final a in n.altCauses) {
-        if (cyrillic.hasMatch(a)) left.add('${n.id}/alt');
+  // Языки, дерево которых объявлено готовым. Тест держит обещание:
+  // ни одного русского поля не осталось ни в вопросах, ни в вердиктах.
+  for (final lang in ['en', 'de']) {
+    test('дерево на $lang переведено полностью: вопросы и вердикты', () async {
+      LocaleService.current.value = lang;
+      final t = await DecisionTree.load();
+      final cyrillic = RegExp(r'[А-Яа-яЁё]');
+      final left = <String>[];
+      for (final n in t.nodes.values) {
+        if (cyrillic.hasMatch(n.text)) left.add(n.id);
+        if (cyrillic.hasMatch(n.topCause)) left.add('${n.id}/cause');
+        if (cyrillic.hasMatch(n.explanation)) left.add('${n.id}/why');
+        if (cyrillic.hasMatch(n.advice)) left.add('${n.id}/advice');
+        for (final a in n.altCauses) {
+          if (cyrillic.hasMatch(a)) left.add('${n.id}/alt');
+        }
+        for (final o in n.options) {
+          if (cyrillic.hasMatch(o.label)) left.add('${n.id}/${o.id}');
+        }
       }
-      for (final o in n.options) {
-        if (cyrillic.hasMatch(o.label)) left.add('${n.id}/${o.id}');
-      }
-    }
-    LocaleService.current.value = 'ru';
-    expect(left, isEmpty, reason: 'остались русскими: ${left.take(5)}');
-  });
+      LocaleService.current.value = 'ru';
+      expect(left, isEmpty, reason: 'остались русскими: ${left.take(5)}');
+    });
+  }
 }

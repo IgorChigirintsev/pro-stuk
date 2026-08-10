@@ -1,779 +1,362 @@
 {
  "q_when": {
   "text": "Wann ist das Geräusch zu hören?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Beim Starten oder beim Startversuch"
-   },
-   {
-    "id": "o2",
-    "label": "Im Stand, bei laufendem Motor"
-   },
-   {
-    "id": "o3",
-    "label": "Nur während der Fahrt"
-   },
-   {
-    "id": "o4",
-    "label": "Im Stand und während der Fahrt"
-   }
-  ]
+  "options": {
+   "o1": "Beim Starten oder beim Startversuch",
+   "o2": "Im Stand, bei laufendem Motor",
+   "o3": "Nur während der Fahrt",
+   "o4": "Im Stand und während der Fahrt"
+  }
  },
  "q_start_char": {
   "text": "Was hören Sie, wenn Sie den Zündschlüssel drehen oder den Startknopf drücken?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Klacken, der Motor dreht nicht"
-   },
-   {
-    "id": "o2",
-    "label": "Metallisches Kreischen, während der Anlasser dreht"
-   },
-   {
-    "id": "o3",
-    "label": "Der Anlasser surrt, aber der Motor springt nicht an"
-   },
-   {
-    "id": "o4",
-    "label": "Quietschen oder Pfeifen direkt nachdem der Motor angesprungen ist"
-   }
-  ]
+  "options": {
+   "o1": "Klacken, der Motor dreht nicht",
+   "o2": "Metallisches Kreischen, während der Anlasser dreht",
+   "o3": "Der Anlasser surrt, aber der Motor springt nicht an",
+   "o4": "Quietschen oder Pfeifen direkt nachdem der Motor angesprungen ist"
+  }
  },
  "q_start_clicks": {
   "text": "Was für ein Klacken genau?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Schnelles Klackern, die Kontrollleuchten werden dunkler"
-   },
-   {
-    "id": "o2",
-    "label": "Ein einzelnes deutliches Klacken, dann Stille"
-   }
-  ]
+  "options": {
+   "o1": "Schnelles Klackern, die Kontrollleuchten werden dunkler",
+   "o2": "Ein einzelnes deutliches Klacken, dann Stille"
+  }
  },
  "q_stationary_gate": {
   "text": "Tritt das Geräusch nur auf, wenn Sie etwas einschalten oder betätigen (Heizung, Klimaanlage, Kupplung, Lenkung, Bremse)?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, es hängt an einer bestimmten Bedienung"
-   },
-   {
-    "id": "o2",
-    "label": "Nein, es ist von selbst da"
-   }
-  ]
+  "options": {
+   "o1": "Ja, es hängt an einer bestimmten Bedienung",
+   "o2": "Nein, es ist von selbst da"
+  }
  },
  "q_action": {
   "text": "Mit welcher Bedienung hängt das Geräusch zusammen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Mit der Heizung oder dem Gebläse"
-   },
-   {
-    "id": "o2",
-    "label": "Mit der Klimaanlagentaste"
-   },
-   {
-    "id": "o3",
-    "label": "Mit dem Kupplungspedal"
-   },
-   {
-    "id": "o4",
-    "label": "Mit der Lenkung, dem Bremspedal oder den Scheibenwischern"
-   }
-  ]
+  "options": {
+   "o1": "Mit der Heizung oder dem Gebläse",
+   "o2": "Mit der Klimaanlagentaste",
+   "o3": "Mit dem Kupplungspedal",
+   "o4": "Mit der Lenkung, dem Bremspedal oder den Scheibenwischern"
+  }
  },
  "q_hvac": {
   "text": "Welches Geräusch macht das eingeschaltete Gebläse?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Rascheln oder Knistern, ändert sich mit der Gebläsestufe"
-   },
-   {
-    "id": "o2",
-    "label": "Quietschen oder Heulen unter dem Armaturenbrett"
-   },
-   {
-    "id": "o3",
-    "label": "Eine Reihe von Klacken hinter dem Armaturenbrett beim Ändern von Temperatur oder Luftverteilung"
-   },
-   {
-    "id": "o4",
-    "label": "Gluckern oder Plätschern hinter dem Armaturenbrett"
-   }
-  ]
+  "options": {
+   "o1": "Rascheln oder Knistern, ändert sich mit der Gebläsestufe",
+   "o2": "Quietschen oder Heulen unter dem Armaturenbrett",
+   "o3": "Eine Reihe von Klacken hinter dem Armaturenbrett beim Ändern von Temperatur oder Luftverteilung",
+   "o4": "Gluckern oder Plätschern hinter dem Armaturenbrett"
+  }
  },
  "q_ac": {
   "text": "Was hören Sie beim Einschalten der Klimaanlage?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Quietschen im Moment des Einschaltens"
-   },
-   {
-    "id": "o2",
-    "label": "Schleifen oder Rumpeln, solange die Klimaanlage läuft"
-   },
-   {
-    "id": "o3",
-    "label": "Kurzes Zischen beim Ein- oder Ausschalten, die Kühlung funktioniert"
-   }
-  ]
+  "options": {
+   "o1": "Quietschen im Moment des Einschaltens",
+   "o2": "Schleifen oder Rumpeln, solange die Klimaanlage läuft",
+   "o3": "Kurzes Zischen beim Ein- oder Ausschalten, die Kühlung funktioniert"
+  }
  },
  "q_clutch_idle": {
   "text": "Wie hängt das Geräusch mit dem Kupplungspedal zusammen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Rascheln oder Brummen bei losgelassenem Pedal; beim Treten wird es leiser"
-   },
-   {
-    "id": "o2",
-    "label": "Es tritt auf oder wird lauter, wenn das Pedal getreten ist"
-   },
-   {
-    "id": "o3",
-    "label": "Klappern oder Rasseln im Leerlauf, beim Treten ändert es sich"
-   },
-   {
-    "id": "o4",
-    "label": "Knarzen beim Treten, auch bei abgestelltem Motor hörbar"
-   }
-  ]
+  "options": {
+   "o1": "Rascheln oder Brummen bei losgelassenem Pedal; beim Treten wird es leiser",
+   "o2": "Es tritt auf oder wird lauter, wenn das Pedal getreten ist",
+   "o3": "Klappern oder Rasseln im Leerlauf, beim Treten ändert es sich",
+   "o4": "Knarzen beim Treten, auch bei abgestelltem Motor hörbar"
+  }
  },
  "q_wheel_pedal": {
   "text": "Womit genau hängt das Geräusch zusammen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Heulen oder Brummen beim Lenken"
-   },
-   {
-    "id": "o2",
-    "label": "Knacken oder Klicken beim Lenken im Stand"
-   },
-   {
-    "id": "o3",
-    "label": "Zischen unter dem Armaturenbrett beim Treten des Bremspedals"
-   },
-   {
-    "id": "o4",
-    "label": "Klopfen oder Quietschen im Takt der Scheibenwischer"
-   }
-  ]
+  "options": {
+   "o1": "Heulen oder Brummen beim Lenken",
+   "o2": "Knacken oder Klicken beim Lenken im Stand",
+   "o3": "Zischen unter dem Armaturenbrett beim Treten des Bremspedals",
+   "o4": "Klopfen oder Quietschen im Takt der Scheibenwischer"
+  }
  },
  "q_ps_type": {
   "text": "Gibt es unter der Motorhaube einen Behälter für Servolenkungsöl?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, den gibt es"
-   },
-   {
-    "id": "o2",
-    "label": "Nein oder ich weiß es nicht"
-   }
-  ]
+  "options": {
+   "o1": "Ja, den gibt es",
+   "o2": "Nein oder ich weiß es nicht"
+  }
  },
  "q_steer_click": {
   "text": "Woher kommt das Knacken?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Von oben, aus dem Radhaus, auf Höhe der Motorhaube"
-   },
-   {
-    "id": "o2",
-    "label": "Aus dem Lenkrad selbst oder aus der Lenksäule, unten im Fußraum"
-   }
-  ]
+  "options": {
+   "o1": "Von oben, aus dem Radhaus, auf Höhe der Motorhaube",
+   "o2": "Aus dem Lenkrad selbst oder aus der Lenksäule, unten im Fußraum"
+  }
  },
  "q_engine_cold": {
   "text": "Ist das Geräusch nur bei kaltem Motor zu hören, direkt nach dem Start?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, nach dem Warmlaufen verschwindet es"
-   },
-   {
-    "id": "o2",
-    "label": "Nein, es ist auch bei warmem Motor da"
-   }
-  ]
+  "options": {
+   "o1": "Ja, nach dem Warmlaufen verschwindet es",
+   "o2": "Nein, es ist auch bei warmem Motor da"
+  }
  },
  "q_cold_char": {
   "text": "Wie klingt das Geräusch bei kaltem Motor?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Schnelles Ticken oder Klackern"
-   },
-   {
-    "id": "o2",
-    "label": "Dumpfes Klopfen, nach dem Warmlaufen weg"
-   },
-   {
-    "id": "o3",
-    "label": "Rascheln oder Rasseln vorn am Motor"
-   },
-   {
-    "id": "o4",
-    "label": "Quietschen oder Pfeifen beim Start"
-   }
-  ]
+  "options": {
+   "o1": "Schnelles Ticken oder Klackern",
+   "o2": "Dumpfes Klopfen, nach dem Warmlaufen weg",
+   "o3": "Rascheln oder Rasseln vorn am Motor",
+   "o4": "Quietschen oder Pfeifen beim Start"
+  }
  },
  "q_tick_cold": {
   "text": "Ist das Klackern von außen lauter als im Innenraum, und riecht es unter der Haube nach Abgas?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, von außen lauter und es riecht"
-   },
-   {
-    "id": "o2",
-    "label": "Nein, es tickt oben am Motor, kein Geruch"
-   }
-  ]
+  "options": {
+   "o1": "Ja, von außen lauter und es riecht",
+   "o2": "Nein, es tickt oben am Motor, kein Geruch"
+  }
  },
  "q_engine_char": {
   "text": "Wie klingt das Geräusch?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Klopfen oder Ticken"
-   },
-   {
-    "id": "o2",
-    "label": "Quietschen, Pfeifen, Heulen oder Zischen"
-   },
-   {
-    "id": "o3",
-    "label": "Klingeln, Klappern, Knallen oder Blubbern"
-   },
-   {
-    "id": "o4",
-    "label": "Vibrationen, Zittern im Leerlauf"
-   }
-  ]
+  "options": {
+   "o1": "Klopfen oder Ticken",
+   "o2": "Quietschen, Pfeifen, Heulen oder Zischen",
+   "o3": "Klingeln, Klappern, Knallen oder Blubbern",
+   "o4": "Vibrationen, Zittern im Leerlauf"
+  }
  },
  "q_engine_knock": {
   "text": "Was für ein Klopfen genau?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Leichtes schnelles Ticken im oberen Bereich des Motors"
-   },
-   {
-    "id": "o2",
-    "label": "Dumpfes oder helles Klopfen aus dem Inneren des Motors"
-   }
-  ]
+  "options": {
+   "o1": "Leichtes schnelles Ticken im oberen Bereich des Motors",
+   "o2": "Dumpfes oder helles Klopfen aus dem Inneren des Motors"
+  }
  },
  "q_tick_warm": {
   "text": "Ist das Ticken mit der Zeit lauter geworden oder immer gleich geblieben?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Lauter geworden, bei warmem Motor deutlicher"
-   },
-   {
-    "id": "o2",
-    "label": "Immer gleich, von außen lauter als im Innenraum"
-   }
-  ]
+  "options": {
+   "o1": "Lauter geworden, bei warmem Motor deutlicher",
+   "o2": "Immer gleich, von außen lauter als im Innenraum"
+  }
  },
  "q_knock_load": {
   "text": "Wenn Sie sanft Gas geben — wird das Klopfen schneller und lauter?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, schneller und lauter"
-   },
-   {
-    "id": "o2",
-    "label": "Kaum Veränderung oder es verschwindet"
-   }
-  ]
+  "options": {
+   "o1": "Ja, schneller und lauter",
+   "o2": "Kaum Veränderung oder es verschwindet"
+  }
  },
  "q_squeal": {
   "text": "Was für ein Geräusch ist das?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Schrilles Quietschen oder Pfeifen"
-   },
-   {
-    "id": "o2",
-    "label": "Gleichmäßiges Brummen oder Rauschen"
-   },
-   {
-    "id": "o3",
-    "label": "Gleichmäßiges Zischen, wie Luft aus einem Reifen"
-   }
-  ]
+  "options": {
+   "o1": "Schrilles Quietschen oder Pfeifen",
+   "o2": "Gleichmäßiges Brummen oder Rauschen",
+   "o3": "Gleichmäßiges Zischen, wie Luft aus einem Reifen"
+  }
  },
  "q_hum_source": {
   "text": "Woher kommt das Brummen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Von vorn, unter der Motorhaube, ändert sich mit der Drehzahl"
-   },
-   {
-    "id": "o2",
-    "label": "Es geht von selbst an und aus: bei Hitze, im Stau, mit der Klimaanlage"
-   },
-   {
-    "id": "o3",
-    "label": "Von hinten, am Tank; schon beim Einschalten der Zündung vor dem Start zu hören"
-   }
-  ]
+  "options": {
+   "o1": "Von vorn, unter der Motorhaube, ändert sich mit der Drehzahl",
+   "o2": "Es geht von selbst an und aus: bei Hitze, im Stau, mit der Klimaanlage",
+   "o3": "Von hinten, am Tank; schon beim Einschalten der Zündung vor dem Start zu hören"
+  }
  },
  "q_pump_check": {
   "text": "Sind unter der Haube am Riemen Spuren von auslaufender Flüssigkeit zu sehen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, es ist feucht oder riecht nach Kühlmittel"
-   },
-   {
-    "id": "o2",
-    "label": "Alles trocken"
-   },
-   {
-    "id": "o3",
-    "label": "Konnte ich nicht nachsehen"
-   }
-  ]
+  "options": {
+   "o1": "Ja, es ist feucht oder riecht nach Kühlmittel",
+   "o2": "Alles trocken",
+   "o3": "Konnte ich nicht nachsehen"
+  }
  },
  "q_rattle": {
   "text": "Welches Geräusch und woher?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Metallisches Klappern von unter dem Fahrzeugboden"
-   },
-   {
-    "id": "o2",
-    "label": "Knallen oder Fehlzündungen aus dem Auspuff"
-   },
-   {
-    "id": "o3",
-    "label": "Gluckern oder Plätschern hinter dem Armaturenbrett"
-   }
-  ]
+  "options": {
+   "o1": "Metallisches Klappern von unter dem Fahrzeugboden",
+   "o2": "Knallen oder Fehlzündungen aus dem Auspuff",
+   "o3": "Gluckern oder Plätschern hinter dem Armaturenbrett"
+  }
  },
  "q_underbody_rattle": {
   "text": "Hat das Auto zusammen mit dem Klappern an Leistung verloren, oder riecht der Auspuff ungewöhnlich?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, die Leistung ist schlechter oder der Geruch hat sich verändert"
-   },
-   {
-    "id": "o2",
-    "label": "Nein, es klappert nur bei bestimmten Drehzahlen"
-   }
-  ]
+  "options": {
+   "o1": "Ja, die Leistung ist schlechter oder der Geruch hat sich verändert",
+   "o2": "Nein, es klappert nur bei bestimmten Drehzahlen"
+  }
  },
  "q_move_when": {
   "text": "Wann tritt das Geräusch während der Fahrt am stärksten auf?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Beim Bremsen"
-   },
-   {
-    "id": "o2",
-    "label": "In Kurven oder beim Lenken"
-   },
-   {
-    "id": "o3",
-    "label": "Auf Unebenheiten und Bodenwellen"
-   },
-   {
-    "id": "o4",
-    "label": "Beim Gasgeben, beim Schalten oder ständig"
-   }
-  ]
+  "options": {
+   "o1": "Beim Bremsen",
+   "o2": "In Kurven oder beim Lenken",
+   "o3": "Auf Unebenheiten und Bodenwellen",
+   "o4": "Beim Gasgeben, beim Schalten oder ständig"
+  }
  },
  "q_brake_transient": {
   "text": "Tritt das Geräusch nur bei den ersten Bremsungen nach dem Stehen oder bei Regen auf und verschwindet dann?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, es verschwindet schnell"
-   },
-   {
-    "id": "o2",
-    "label": "Nein, es ist bei jeder Bremsung da"
-   }
-  ]
+  "options": {
+   "o1": "Ja, es verschwindet schnell",
+   "o2": "Nein, es ist bei jeder Bremsung da"
+  }
  },
  "q_brake_char": {
   "text": "Wie klingt es beim Bremsen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Quietschen oder Kreischen"
-   },
-   {
-    "id": "o2",
-    "label": "Schabendes Metall auf Metall"
-   },
-   {
-    "id": "o3",
-    "label": "Klopfen oder Pulsieren im Pedal"
-   }
-  ]
+  "options": {
+   "o1": "Quietschen oder Kreischen",
+   "o2": "Schabendes Metall auf Metall",
+   "o3": "Klopfen oder Pulsieren im Pedal"
+  }
  },
  "q_turn_char": {
   "text": "Was hören Sie in der Kurve?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Brummen bei Tempo, in eine Richtung stärker"
-   },
-   {
-    "id": "o2",
-    "label": "Knacken oder Krachen bei voll eingeschlagenem Lenkrad"
-   },
-   {
-    "id": "o3",
-    "label": "Klopfen beim Lenken"
-   },
-   {
-    "id": "o4",
-    "label": "Heulen oder Brummen beim Lenken im Stand oder beim Einparken"
-   }
-  ]
+  "options": {
+   "o1": "Brummen bei Tempo, in eine Richtung stärker",
+   "o2": "Knacken oder Krachen bei voll eingeschlagenem Lenkrad",
+   "o3": "Klopfen beim Lenken",
+   "o4": "Heulen oder Brummen beim Lenken im Stand oder beim Einparken"
+  }
  },
  "q_bump_char": {
   "text": "Wie klingt es auf Unebenheiten?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Klopfen oder Scheppern"
-   },
-   {
-    "id": "o2",
-    "label": "Knarzen wie ein altes Bett"
-   },
-   {
-    "id": "o3",
-    "label": "Klappern oder Rasseln"
-   },
-   {
-    "id": "o4",
-    "label": "Ein einzelner dumpfer Schlag beim ersten Anfahren nach langem Stehen"
-   }
-  ]
+  "options": {
+   "o1": "Klopfen oder Scheppern",
+   "o2": "Knarzen wie ein altes Bett",
+   "o3": "Klappern oder Rasseln",
+   "o4": "Ein einzelner dumpfer Schlag beim ersten Anfahren nach langem Stehen"
+  }
  },
  "q_bump_knock_type": {
   "text": "Was für ein Klopfen genau?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Schnelles dumpfes Poltern auf kleinen Unebenheiten"
-   },
-   {
-    "id": "o2",
-    "label": "Einzelne dumpfe Schläge in Schlaglöchern und über Bodenschwellen"
-   },
-   {
-    "id": "o3",
-    "label": "Das Klopfen geht direkt ins Lenkrad, man spürt es in den Händen"
-   },
-   {
-    "id": "o4",
-    "label": "Das Scheppern kam plötzlich nach einem Schlagloch, eine Ecke des Autos hängt tiefer"
-   }
-  ]
+  "options": {
+   "o1": "Schnelles dumpfes Poltern auf kleinen Unebenheiten",
+   "o2": "Einzelne dumpfe Schläge in Schlaglöchern und über Bodenschwellen",
+   "o3": "Das Klopfen geht direkt ins Lenkrad, man spürt es in den Händen",
+   "o4": "Das Scheppern kam plötzlich nach einem Schlagloch, eine Ecke des Autos hängt tiefer"
+  }
  },
  "q_bump_where": {
   "text": "Kommt das Klopfen von vorn oder von hinten?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Von vorn"
-   },
-   {
-    "id": "o2",
-    "label": "Von hinten"
-   },
-   {
-    "id": "o3",
-    "label": "Schwer zu sagen"
-   }
-  ]
+  "options": {
+   "o1": "Von vorn",
+   "o2": "Von hinten",
+   "o3": "Schwer zu sagen"
+  }
  },
  "q_bump_rattle_where": {
   "text": "Woher kommt das Klappern?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Von unter dem Fahrzeugboden"
-   },
-   {
-    "id": "o2",
-    "label": "Aus dem Innenraum: Armaturenbrett, Türen, Knarzgeräusche"
-   },
-   {
-    "id": "o3",
-    "label": "Aus dem Kofferraum, als würde etwas hin- und herrollen"
-   },
-   {
-    "id": "o4",
-    "label": "Vorn oben, im Bereich der Motorhaube"
-   }
-  ]
+  "options": {
+   "o1": "Von unter dem Fahrzeugboden",
+   "o2": "Aus dem Innenraum: Armaturenbrett, Türen, Knarzgeräusche",
+   "o3": "Aus dem Kofferraum, als würde etwas hin- und herrollen",
+   "o4": "Vorn oben, im Bereich der Motorhaube"
+  }
  },
  "q_move_manner": {
   "text": "Wie hängt das Geräusch mit dem Fahren zusammen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Es tritt beim Gasgeben oder beim Gaswegnehmen auf"
-   },
-   {
-    "id": "o2",
-    "label": "Im Moment des Schaltens oder beim Anfahren"
-   },
-   {
-    "id": "o3",
-    "label": "Es ist ständig da, solange das Auto fährt"
-   },
-   {
-    "id": "o4",
-    "label": "Es ist eher eine Vibration oder ein Zittern als ein Geräusch"
-   }
-  ]
+  "options": {
+   "o1": "Es tritt beim Gasgeben oder beim Gaswegnehmen auf",
+   "o2": "Im Moment des Schaltens oder beim Anfahren",
+   "o3": "Es ist ständig da, solange das Auto fährt",
+   "o4": "Es ist eher eine Vibration oder ein Zittern als ein Geräusch"
+  }
  },
  "q_accel_char": {
   "text": "Wie klingt das Geräusch beim Gasgeben?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Metallisches Klingeln, besonders bergauf"
-   },
-   {
-    "id": "o2",
-    "label": "Klopfen im Moment des Gasgebens oder Gaswegnehmens"
-   },
-   {
-    "id": "o3",
-    "label": "Knallen oder lautes Röhren aus dem Auspuff"
-   },
-   {
-    "id": "o4",
-    "label": "Heulen oder Pfeifen unter Last"
-   }
-  ]
+  "options": {
+   "o1": "Metallisches Klingeln, besonders bergauf",
+   "o2": "Klopfen im Moment des Gasgebens oder Gaswegnehmens",
+   "o3": "Knallen oder lautes Röhren aus dem Auspuff",
+   "o4": "Heulen oder Pfeifen unter Last"
+  }
  },
  "q_exhaust_char": {
   "text": "Knallen oder Röhren?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Knallen oder Fehlzündungen"
-   },
-   {
-    "id": "o2",
-    "label": "Röhren, lauter beim Gasgeben; das Auto zieht wie gewohnt"
-   },
-   {
-    "id": "o3",
-    "label": "Der Motor heult auf, die Drehzahl steigt, aber es geht nicht vorwärts; manchmal riecht es verbrannt"
-   }
-  ]
+  "options": {
+   "o1": "Knallen oder Fehlzündungen",
+   "o2": "Röhren, lauter beim Gasgeben; das Auto zieht wie gewohnt",
+   "o3": "Der Motor heult auf, die Drehzahl steigt, aber es geht nicht vorwärts; manchmal riecht es verbrannt"
+  }
  },
  "q_load_whine": {
   "text": "Was für ein Heulen unter Last?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Hohes Pfeifen nur beim Gasgeben, beim Gaswegnehmen weg (Turbomotor)"
-   },
-   {
-    "id": "o2",
-    "label": "Brummen oder Heulen, der Ton ändert sich bei gleichem Tempo beim Gasgeben und Gaswegnehmen"
-   },
-   {
-    "id": "o3",
-    "label": "Gleichförmiges Heulen beim Beschleunigen; Getriebe ist ein CVT oder eine Automatik"
-   },
-   {
-    "id": "o4",
-    "label": "Heulen in einem Gang lauter, in einem anderen leiser; Schaltgetriebe"
-   }
-  ]
+  "options": {
+   "o1": "Hohes Pfeifen nur beim Gasgeben, beim Gaswegnehmen weg (Turbomotor)",
+   "o2": "Brummen oder Heulen, der Ton ändert sich bei gleichem Tempo beim Gasgeben und Gaswegnehmen",
+   "o3": "Gleichförmiges Heulen beim Beschleunigen; Getriebe ist ein CVT oder eine Automatik",
+   "o4": "Heulen in einem Gang lauter, in einem anderen leiser; Schaltgetriebe"
+  }
  },
  "q_shift_char": {
   "text": "Was passiert beim Schalten oder Anfahren?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ruck oder Schlag beim Wechsel der Automatik zwischen D und R oder beim Schalten"
-   },
-   {
-    "id": "o2",
-    "label": "Kratzen beim Einlegen eines Gangs am Schaltgetriebe"
-   },
-   {
-    "id": "o3",
-    "label": "Das Auto ruckelt beim Anfahren, während Sie die Kupplung kommen lassen"
-   },
-   {
-    "id": "o4",
-    "label": "Ein einzelner Schlag unter dem Wagenboden beim Anfahren oder beim Lastwechsel"
-   }
-  ]
+  "options": {
+   "o1": "Ruck oder Schlag beim Wechsel der Automatik zwischen D und R oder beim Schalten",
+   "o2": "Kratzen beim Einlegen eines Gangs am Schaltgetriebe",
+   "o3": "Das Auto ruckelt beim Anfahren, während Sie die Kupplung kommen lassen",
+   "o4": "Ein einzelner Schlag unter dem Wagenboden beim Anfahren oder beim Lastwechsel"
+  }
  },
  "q_vibration": {
   "text": "Wann ist das Zittern am stärksten?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Bei 80–120 km/h zittert das Lenkrad fein; darunter und darüber weniger"
-   },
-   {
-    "id": "o2",
-    "label": "Schon ab 40–60 km/h, mit steigendem Tempo stärker"
-   },
-   {
-    "id": "o3",
-    "label": "In einem schmalen Geschwindigkeitsbereich, das Zittern geht durch Boden und Karosserie; Heck- oder Allradantrieb"
-   },
-   {
-    "id": "o4",
-    "label": "Nur beim Bremsen, das Lenkrad schlägt"
-   }
-  ]
+  "options": {
+   "o1": "Bei 80–120 km/h zittert das Lenkrad fein; darunter und darüber weniger",
+   "o2": "Schon ab 40–60 km/h, mit steigendem Tempo stärker",
+   "o3": "In einem schmalen Geschwindigkeitsbereich, das Zittern geht durch Boden und Karosserie; Heck- oder Allradantrieb",
+   "o4": "Nur beim Bremsen, das Lenkrad schlägt"
+  }
  },
  "q_const_char": {
   "text": "Wie klingt das dauerhafte Geräusch?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Gleichmäßiges Brummen oder Heulen"
-   },
-   {
-    "id": "o2",
-    "label": "Schleifen, Schaben oder Piepen von einem Rad"
-   },
-   {
-    "id": "o3",
-    "label": "Lautes Röhren oder Knattern"
-   },
-   {
-    "id": "o4",
-    "label": "Pfeifen oder Heulen nur bei hohem Tempo"
-   }
-  ]
+  "options": {
+   "o1": "Gleichmäßiges Brummen oder Heulen",
+   "o2": "Schleifen, Schaben oder Piepen von einem Rad",
+   "o3": "Lautes Röhren oder Knattern",
+   "o4": "Pfeifen oder Heulen nur bei hohem Tempo"
+  }
  },
  "q_wheel_noise": {
   "text": "Was für ein Geräusch kommt vom Rad?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Feines Piepen; beim leichten Antippen der Bremse verschwindet es oder ändert sich"
-   },
-   {
-    "id": "o2",
-    "label": "Schaben; nach der Fahrt ist das Rad heiß, das Auto zieht zur Seite"
-   },
-   {
-    "id": "o3",
-    "label": "Dauerhaftes Schleifen oder Schaben, das Rad wird nicht heiß"
-   },
-   {
-    "id": "o4",
-    "label": "Rhythmisches Klopfen oder Klicken im Takt der Radumdrehung"
-   }
-  ]
+  "options": {
+   "o1": "Feines Piepen; beim leichten Antippen der Bremse verschwindet es oder ändert sich",
+   "o2": "Schaben; nach der Fahrt ist das Rad heiß, das Auto zieht zur Seite",
+   "o3": "Dauerhaftes Schleifen oder Schaben, das Rad wird nicht heiß",
+   "o4": "Rhythmisches Klopfen oder Klicken im Takt der Radumdrehung"
+  }
  },
  "q_wheel_click": {
   "text": "Wurden die Räder kürzlich gewechselt, getauscht oder abgenommen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, in den letzten Tagen"
-   },
-   {
-    "id": "o2",
-    "label": "Nein, schon lange nicht mehr"
-   }
-  ]
+  "options": {
+   "o1": "Ja, in den letzten Tagen",
+   "o2": "Nein, schon lange nicht mehr"
+  }
  },
  "q_neutral_test": {
   "text": "Ein Test: auf die Geschwindigkeit beschleunigen, bei der das Geräusch auftritt, in den Leerlauf schalten und rollen lassen. Bleibt das Brummen?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Es bleibt"
-   },
-   {
-    "id": "o2",
-    "label": "Es verschwindet zusammen mit der Motordrehzahl"
-   },
-   {
-    "id": "o3",
-    "label": "Konnte ich nicht testen"
-   }
-  ]
+  "options": {
+   "o1": "Es bleibt",
+   "o2": "Es verschwindet zusammen mit der Motordrehzahl",
+   "o3": "Konnte ich nicht testen"
+  }
  },
  "q_rpm_hum": {
   "text": "Ändert sich die Lautstärke des Heulens beim Schalten?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, in verschiedenen Gängen klingt es unterschiedlich"
-   },
-   {
-    "id": "o2",
-    "label": "Nein, es hängt nur von der Motordrehzahl ab"
-   }
-  ]
+  "options": {
+   "o1": "Ja, in verschiedenen Gängen klingt es unterschiedlich",
+   "o2": "Nein, es hängt nur von der Motordrehzahl ab"
+  }
  },
  "q_hum_road": {
   "text": "Ändert sich das Brummen in langgezogenen Kurven?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Ja, in eine Richtung leiser oder lauter"
-   },
-   {
-    "id": "o2",
-    "label": "Nein, gleichmäßig bei jedem Tempo über 40–60 km/h"
-   },
-   {
-    "id": "o3",
-    "label": "Es hängt vom Straßenbelag ab"
-   }
-  ]
+  "options": {
+   "o1": "Ja, in eine Richtung leiser oder lauter",
+   "o2": "Nein, gleichmäßig bei jedem Tempo über 40–60 km/h",
+   "o3": "Es hängt vom Straßenbelag ab"
+  }
  },
  "q_hum_where": {
   "text": "Kommt das Brummen von vorn oder von hinten?",
-  "options": [
-   {
-    "id": "o1",
-    "label": "Von vorn"
-   },
-   {
-    "id": "o2",
-    "label": "Von hinten"
-   },
-   {
-    "id": "o3",
-    "label": "Schwer zu sagen"
-   }
-  ]
+  "options": {
+   "o1": "Von vorn",
+   "o2": "Von hinten",
+   "o3": "Schwer zu sagen"
+  }
  },
  "leaf_battery": {
   "top_cause": "Leere Batterie oder korrodierte Batteriepole",
@@ -1436,5 +1019,86 @@
   ],
   "explanation": "Ein Heulen oder Brummen beim Lenken im Stand oder bei niedrigem Tempo kommt meist von der Servopumpe — sie erzeugt den Öldruck, der das Lenken leichter macht. Am lautesten heult sie bei voll eingeschlagenem Lenkrad. Die häufigste Ursache: der Ölstand im Behälter ist gefallen.",
   "advice": "Prüfen Sie den Stand des Servoöls im Behälter unter der Haube und füllen Sie nach, wenn er unter der MIN-Marke liegt. Halten Sie das Lenkrad nicht länger als ein paar Sekunden voll eingeschlagen. Bleibt das Heulen nach dem Nachfüllen oder verschwindet das Öl wieder — innerhalb einer Woche in die Werkstatt."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Koppelstangen des Stabilisators",
+  "alt_causes": [
+   "Stabilisatorlager",
+   "Traggelenke"
+  ],
+  "explanation": "Ein häufiges dumpfes Klopfen auf kleinen Unebenheiten — Kopfsteinpflaster, Fahrbahnfugen, Querrillen — kommt meist von den Koppelstangen des Stabilisators: kleinen Stangen mit Gelenken, die im Fahrwerk als Erstes verschleißen. Für sich genommen sind sie nicht gefährlich, aber ähnlich können auch ernstere Teile klopfen.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Termin zur Fahrwerksprüfung: der Mechaniker bewegt die Teile auf der Hebebühne und findet das Spiel in wenigen Minuten. Bis dahin große Schlaglöcher langsam nehmen. Fängt das Auto an, zur Seite zu ziehen — die Prüfung vorziehen."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Hinterachse: Koppelstangen oder Gummilager der Achse",
+  "alt_causes": [
+   "Stoßdämpfer",
+   "Befestigungen des Auspuffs"
+  ],
+  "explanation": "Häufiges Klopfen hinten auf kleinen Unebenheiten kommt meist von den kleinen Gelenken der Hinterachse: den Koppelstangen des hinteren Stabilisators oder verschlissenen Gummilagern — den Buchsen, über die Lenker und Achse mit der Karosserie verbunden sind. Manchmal klopft ähnlich auch eine locker gewordene Auspuffbefestigung.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Termin zur Fahrwerksprüfung: auf der Hebebühne ist die Quelle eines Klopfens hinten schnell gefunden. Bis dahin große Schlaglöcher langsam nehmen. Nützlich ist, sich zu merken, ob es auf feinen Wellen oder auf einzelnen Löchern klopft — und das dem Mechaniker zu sagen."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Gummilager der Querlenker oder Stoßdämpfer",
+  "alt_causes": [
+   "Domlager der Federbeine",
+   "Traggelenke"
+  ],
+  "explanation": "Einzelne dumpfe Schläge in Schlaglöchern und über Bodenschwellen bedeuten meist verschlissene Gummilager — die Buchsen, über die die Lenker mit der Karosserie verbunden sind — oder müde Stoßdämpfer. Das Fahrwerk fängt den Schlag nicht mehr ab und gibt ihn an die Karosserie weiter.",
+  "advice": "Lassen Sie das Fahrwerk in den nächsten zwei Wochen prüfen. Ein einfacher Test der Stoßdämpfer: drücken Sie eine Ecke des Autos nach unten — die Karosserie soll zurückkommen, ohne nachzuwippen. Unebenheiten bis zur Reparatur sanft nehmen: die Schläge machen auch die Nachbarteile kaputt."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Befestigungen des Auspuffs oder Motorschutz",
+  "alt_causes": [
+   "Hitzeschutzblech",
+   "Durchhängendes Auspuffrohr"
+  ],
+  "explanation": "Metallisches Klappern von unter dem Fahrzeugboden auf Unebenheiten ist meist eine lockere Befestigung: die Gummis des Auspuffs, Schrauben des Motorschutzes oder ein Hitzeschutzblech. Es nervt, hat aber keinen Einfluss auf Motor und Fahrverhalten.",
+  "advice": "Bitten Sie beim nächsten Werkstattbesuch darum, die Befestigungen nachzuziehen: das geht schnell und kostet wenig. Vergewissern Sie sich, dass der Auspuff nicht durchhängt — ein Rohr, das auf der Straße schleift, kann man nicht mehr ignorieren. Bis dahin können Sie normal fahren."
+ },
+ "leaf_detonation": {
+  "top_cause": "Klopfende Verbrennung",
+  "alt_causes": [
+   "Kraftstoff mit zu niedriger Oktanzahl",
+   "Ablagerungen oder defekter Klopfsensor"
+  ],
+  "explanation": "Metallisches Klingeln beim Beschleunigen, besonders bergauf oder aus niedrigen Drehzahlen, ist klopfende Verbrennung: ein Teil des Kraftstoffs im Zylinder entzündet sich von selbst, explosionsartig, statt gleichmäßig zu verbrennen, und die Druckwelle hämmert auf die Kolben. Häufige Ursachen sind Benzin mit niedrigerer Oktanzahl als vorgeschrieben, Ablagerungen im Brennraum oder ein defekter Klopfsensor. Dauerhaftes Klopfen zerstört den Motor nach und nach.",
+  "advice": "Tanken Sie Kraftstoff mit mindestens der vom Hersteller vorgeschriebenen Oktanzahl, am besten an einer anderen Tankstelle — oft ist das Klingeln nach einer Tankfüllung weg. Bis zur Prüfung den Motor nicht belasten: sanft beschleunigen und am Berg zurückschalten. Bleibt das Klingeln auch nach dem Wechsel des Kraftstoffs — zur Diagnose."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Motorlager oder inneres Gleichlaufgelenk",
+  "alt_causes": [
+   "Spiel im Antriebsstrang",
+   "Getriebelager"
+  ],
+  "explanation": "Ein Klopfen im Moment des Gasgebens oder Gaswegnehmens deutet auf Spiel in der Kette hin, die die Kraft überträgt. Verschlissene Lager lassen den Motor beim Lastwechsel kippen, und ein verschlissenes inneres Gleichlaufgelenk — das Gelenk an der Welle vom Getriebe zum Rad — klopft beim Gasgeben und Gaswegnehmen. Wichtig ist: das Geräusch kommt mit dem Lastwechsel, nicht mit Unebenheiten.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin. Ein Hinweis für die Werkstatt: merken Sie sich, ob das Klopfen näher am Motor oder an den Rädern ist und ob es sich beim Schalten wiederholt. Bis dahin Gas und Gänge sanfter benutzen."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Radlager",
+  "alt_causes": [
+   "Reifengeräusch",
+   "Mittellager oder Antriebsstrang"
+  ],
+  "explanation": "Ein gleichmäßiges Brummen, das mit dem Tempo zunimmt und nicht von der Motordrehzahl abhängt, kommt meist von einem verschlissenen Radlager — dem Lager, auf dem sich das Rad dreht. Das Brummen klingt wie ein startendes Flugzeug und ändert sich mit dem Straßenbelag kaum. Ein zu lange gefahrenes Lager lässt das Rad Spiel bekommen und kann im Extremfall festgehen.",
+  "advice": "Lassen Sie es innerhalb einer Woche prüfen: der Mechaniker dreht die Räder auf der Hebebühne und findet die laute Radnabe — das Gehäuse, in dem dieses Lager sitzt. Lange Autobahnfahrten bis dahin verschieben. Wird das Brummen plötzlich lauter oder kommt eine Vibration dazu — sofort hin."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Hinteres Radlager",
+  "alt_causes": [
+   "Reifengeräusch",
+   "Differenzial oder Mittellager (bei Heck- und Allradantrieb)"
+  ],
+  "explanation": "Ein gleichmäßiges Brummen von hinten, das mit dem Tempo zunimmt, kommt meist von einem hinteren Radlager — dem Lager, auf dem sich das Rad dreht. Bei Heck- und Allradantrieb brummt der Antriebsstrang ähnlich, deshalb lohnt es sich, die Quelle auf der Hebebühne zu bestätigen.",
+  "advice": "Lassen Sie es innerhalb einer Woche prüfen: hinten verwechselt man ein Lagerbrummen leicht mit dem Differenzial, und eine Kontrolle auf der Hebebühne klärt das sofort. Lange Autobahnfahrten bis dahin verschieben. Wird das Brummen plötzlich lauter oder kommt eine Vibration dazu — sofort hin."
+ },
+ "leaf_tires": {
+  "top_cause": "Reifengeräusch",
+  "alt_causes": [
+   "Ungleichmäßig abgefahrenes Profil",
+   "Radlager"
+  ],
+  "explanation": "Wenn das Brummen vom Belag abhängt — auf frischem Asphalt leiser, auf grobem lauter —, sind es höchstwahrscheinlich die Reifen. Besonders laut sind Winter-, Geländereifen und ungleichmäßig abgefahrene Reifen. Das ist eine Frage des Komforts und kein Defekt.",
+  "advice": "Sehen Sie sich das Profil an: sägezahnartiger Verschleiß mit Stufen an den Kanten oder fleckiger Verschleiß macht das Brummen lauter und deutet auf eine verstellte Achsvermessung oder müde Stoßdämpfer hin. Prüfen Sie den Reifendruck. Hängt das Brummen in Wirklichkeit nicht vom Belag ab und nimmt mit dem Tempo zu — dann zurück zur Erklärung mit dem Radlager."
  }
 }
