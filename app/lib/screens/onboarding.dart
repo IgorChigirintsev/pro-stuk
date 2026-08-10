@@ -10,8 +10,10 @@ import 'home.dart';
 
 /// Первый запуск: данные машины. Тот же экран открывается из настроек.
 class OnboardingCarScreen extends StatefulWidget {
+  /// Добавляем новую машину: поля не заполняем данными активной.
+  final bool addNew;
   final bool firstRun;
-  const OnboardingCarScreen({super.key, this.firstRun = false});
+  const OnboardingCarScreen({super.key, this.firstRun = false, this.addNew = false});
 
   @override
   State<OnboardingCarScreen> createState() => _OnboardingCarScreenState();
@@ -34,7 +36,8 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
     // Предзаполнение при редактировании: до первого build, один раз.
     if (_prefilled) return;
     _prefilled = true;
-    final car = AppScope.of(context).car;
+    // Добавляем машину — форма должна быть чистой, а не с чужими данными.
+    final car = widget.addNew ? null : AppScope.of(context).car;
     if (car != null) {
       _initialMake = car.make;
       _modelCtrl.text = car.model;
@@ -70,6 +73,9 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
     }
     await AppScope.of(context)
         .saveCar(Car(
+          // Редактируем существующую — сохраняем её идентификатор,
+          // иначе в гараже появился бы дубль вместо изменения.
+          id: widget.addNew ? '' : (AppScope.of(context).car?.id ?? ''),
           make: make,
           model: model,
           year: _year,

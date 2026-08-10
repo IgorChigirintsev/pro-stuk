@@ -7,6 +7,7 @@ import '../state.dart';
 import '../theme.dart';
 import 'onboarding.dart';
 import 'report.dart';
+import 'settings.dart';
 import 'verdict.dart';
 import '../tree.dart';
 
@@ -102,7 +103,7 @@ class _GarageScreenState extends State<GarageScreen> {
                   onPressed: () => Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (_) => const OnboardingCarScreen()),
+                        builder: (_) => const OnboardingCarScreen(addNew: true)),
                   ),
                   child: const Text('Добавить машину'),
                 ),
@@ -178,6 +179,14 @@ class _GarageScreenState extends State<GarageScreen> {
                       style: TextStyle(color: T.inkSoft))
                 else
                   for (final h in st.historyForCar) _HistoryCard(entry: h),
+
+                const SizedBox(height: 24),
+                OutlinedButton.icon(
+                  icon: const Icon(Icons.settings_outlined, size: 18),
+                  label: const Text('Настройки и обновление'),
+                  onPressed: () => Navigator.push(context,
+                      MaterialPageRoute(builder: (_) => const SettingsScreen())),
+                ),
               ],
             ),
     );

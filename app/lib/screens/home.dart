@@ -11,7 +11,6 @@ import 'how_it_works.dart';
 import 'quiz.dart';
 import 'record.dart';
 import 'report.dart';
-import 'settings.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -28,12 +27,6 @@ class HomeScreen extends StatelessWidget {
             icon: const Icon(Icons.directions_car_outlined),
             onPressed: () => Navigator.push(context,
                 MaterialPageRoute(builder: (_) => const GarageScreen())),
-          ),
-          IconButton(
-            icon: const Icon(Icons.settings_outlined),
-            tooltip: S.setTitle,
-            onPressed: () => Navigator.of(context).push(
-                MaterialPageRoute(builder: (_) => const SettingsScreen())),
           ),
         ],
       ),
