@@ -788,5 +788,78 @@
   ],
   "explanation": "Un cascabeleo de plástico cercano y grillos en las irregularidades pequeñas son roce y holgura de los paneles del interior: salpicadero, paneles de puerta, guantera. Con frío suena más. La prueba definitiva: si en marcha aprietas con la mano el panel sospechoso y el ruido desaparece, es el interior y no el tren rodante.",
   "advice": "No es una avería: el coche está bien. Saca los objetos sueltos de la guantera y los huecos y mete un trozo de cinta de fieltro en la junta que hayas localizado. El crujido alrededor de las puertas se cura tratando las gomas con grasa de silicona. Un golpe del tren rodante, en cambio, es sordo, viene de abajo y no cambia al apretar los paneles."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Carga suelta o rueda de repuesto mal sujeta en el maletero",
+  "alt_causes": [
+   "Gato y herramientas",
+   "Bandeja del maletero"
+  ],
+  "explanation": "Un golpe sordo o traqueteo por detrás en los baches, como si algo saltara y rodara, suele ser exactamente eso: el gato, la llave de ruedas, una rueda de repuesto mal sujeta o la bandeja del maletero suelta. Con el maletero cargado, el ruido normalmente cambia o desaparece.",
+  "advice": "Vacía el maletero, comprueba la sujeción de la rueda de repuesto y del gato, aprieta la bandeja y vuelve a pasar por el mismo tramo. Si el ruido ha desaparecido, la suspensión no tiene nada que ver y no hay que hacer nada más. Si sigue, repite el diagnóstico por la rama de los golpes en baches."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Cierre o topes del capó",
+  "alt_causes": [
+   "Bisagras del capó",
+   "Retén de la puerta"
+  ],
+  "explanation": "Un golpeteo metálico delante y arriba, por el borde del capó, en las irregularidades pequeñas es holgura en el cierre del capó o unos topes de goma vencidos sobre los que apoya. Dentro del coche el ruido se oye cerca, como delante de la cara, y no desde abajo como un golpe de suspensión.",
+  "advice": "Comprobación en parado: empuja el capó cerrado; si se mueve y golpea, el diagnóstico queda confirmado. Desenrosca media vuelta hacia arriba los topes de goma de las esquinas para que el capó apoye más firme: en la mayoría de los casos basta con eso. No hay peligro."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Taqués hidráulicos (en frío)",
+  "alt_causes": [
+   "Holgura de válvulas",
+   "Aceite demasiado espeso"
+  ],
+  "explanation": "Los taqués hidráulicos son piezas pequeñas que, con la presión del aceite, eliminan la holgura sobrante de las válvulas. Mientras el motor está frío el aceite es espeso y no les llega enseguida, por eso los primeros minutos se oye un tableteo rápido. Si al calentarse el ruido desaparece del todo, es la situación típica y no es peligrosa.",
+  "advice": "Comprueba el nivel de aceite y cuándo toca cambiarlo: un aceite viejo o inadecuado aumenta el ruido. Si el tableteo dura más de un par de minutos o se mantiene con el motor caliente, pide cita en el taller. No conviene echar aditivos que prometen quitar ruidos."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Desgaste del conjunto pistón-cilindro (golpeteo en frío)",
+  "alt_causes": [
+   "Taqués hidráulicos",
+   "Cadena de distribución"
+  ],
+  "explanation": "Un golpeteo sordo durante los primeros minutos tras un arranque en frío, que se va al calentarse el motor, en coches con kilómetros suele venir del desgaste del conjunto pistón-cilindro: mientras el pistón está frío tiene algo más de holgura en el cilindro y golpetea. Al calentarse, las piezas se dilatan y el golpeteo desaparece. Normalmente es cosa de vigilar, no de reparar con urgencia.",
+  "advice": "Coméntalo en el taller en la próxima visita y fíjate cuántos minutos dura el golpeteo: es información útil para el mecánico. Vigila el nivel y el consumo de aceite. Si el golpeteo ya no desaparece al calentarse o se oye bajo carga, a diagnóstico sin demora."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Cadena de distribución o su tensor",
+  "alt_causes": [
+   "Taqués hidráulicos",
+   "Rodillos de la correa de accesorios"
+  ],
+  "explanation": "La cadena de distribución es la cadena que hay dentro del motor y que une sus árboles para que las válvulas abran en el momento justo. Cuando se estira o su tensor pierde fuerza, al arrancar en frío se oye un roce o traqueteo en la parte delantera del motor que se calma al calentarse, cuando sube la presión de aceite. Con el tiempo el ruido aparecerá cada vez más a menudo.",
+  "advice": "Pide diagnóstico en una o dos semanas: una cadena que salta de diente es una reparación de motor cara. Hasta entonces, evita arrancar y acelerar en frío y deja que el motor se caliente antes de exigirle. Comprueba sin falta el nivel de aceite."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "La correa de accesorios patina",
+  "alt_causes": [
+   "Rodillo tensor gastado",
+   "Tensión de la correa insuficiente"
+  ],
+  "explanation": "Un chillido en los primeros segundos tras arrancar viene casi siempre de la correa que mueve el alternador, la bomba de agua y el compresor del aire. En frío o con humedad patina sobre las poleas y silba; luego se calienta y se calla. Ahora mismo no es peligroso, pero indica una correa gastada o una tensión floja.",
+  "advice": "Enseña la correa en el taller cuando puedas: mirarla lleva un par de minutos. Si el silbido empieza a aparecer también con el motor caliente o al conectar el aire acondicionado, no lo aplaces. No rocíes WD-40 sobre la correa ni pruebes otros remedios caseros."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Holgura de válvulas excesiva",
+  "alt_causes": [
+   "Taqués hidráulicos",
+   "Cadena de distribución"
+  ],
+  "explanation": "Un tableteo rápido y regular en la parte alta del motor es el sonido típico del tren de válvulas. Con el tiempo las holguras entre sus piezas crecen y las válvulas empiezan a repiquetear; al ralentí es cuando mejor se oye. El motor no se va a romper por esto de inmediato, pero las válvulas trabajan a golpes y se desgastan antes.",
+  "advice": "Pide cita para el reglaje de válvulas o la revisión de los taqués hidráulicos en un par de semanas. Vigila el nivel de aceite: con el nivel bajo el tableteo aumenta. Puedes conducir con tranquilidad, pero no lo dejes para dentro de meses."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Golpeteo en la parte baja del motor (casquillos, bielas)",
+  "alt_causes": [
+   "Detonación",
+   "Desgaste del conjunto pistón-cilindro",
+   "Polea del cigüeñal (amortiguador de vibraciones)"
+  ],
+  "explanation": "Un golpeteo sordo desde el fondo del motor, que se acelera con las revoluciones y aumenta bajo carga, es el más preocupante de todos los ruidos del motor. Así golpean unos casquillos gastados —los cojinetes sobre los que gira el cigüeñal— o las bielas: ha aparecido holgura en las uniones y las piezas se golpean entre sí. Si sigues conduciendo, el motor puede griparse.",
+  "advice": "No sigas conduciendo por tu cuenta más de lo imprescindible: mejor grúa; si el taller está muy cerca, ve despacio y sin acelerar. Comprueba de inmediato el nivel de aceite y rellena si está bajo. Cosas menos graves pueden sonar parecido, pero tiene que comprobarlo un mecánico, y rápido."
  }
 }
