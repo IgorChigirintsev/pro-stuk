@@ -453,5 +453,186 @@
     "label": "Heulen oder Brummen beim Lenken im Stand oder beim Einparken"
    }
   ]
+ },
+ "q_bump_char": {
+  "text": "Wie klingt es auf Unebenheiten?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Klopfen oder Scheppern"
+   },
+   {
+    "id": "o2",
+    "label": "Knarzen wie ein altes Bett"
+   },
+   {
+    "id": "o3",
+    "label": "Klappern oder Rasseln"
+   },
+   {
+    "id": "o4",
+    "label": "Ein einzelner dumpfer Schlag beim ersten Anfahren nach langem Stehen"
+   }
+  ]
+ },
+ "q_bump_knock_type": {
+  "text": "Was für ein Klopfen genau?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Schnelles dumpfes Poltern auf kleinen Unebenheiten"
+   },
+   {
+    "id": "o2",
+    "label": "Einzelne dumpfe Schläge in Schlaglöchern und über Bodenschwellen"
+   },
+   {
+    "id": "o3",
+    "label": "Das Klopfen geht direkt ins Lenkrad, man spürt es in den Händen"
+   },
+   {
+    "id": "o4",
+    "label": "Das Scheppern kam plötzlich nach einem Schlagloch, eine Ecke des Autos hängt tiefer"
+   }
+  ]
+ },
+ "q_bump_where": {
+  "text": "Kommt das Klopfen von vorn oder von hinten?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Von vorn"
+   },
+   {
+    "id": "o2",
+    "label": "Von hinten"
+   },
+   {
+    "id": "o3",
+    "label": "Schwer zu sagen"
+   }
+  ]
+ },
+ "q_bump_rattle_where": {
+  "text": "Woher kommt das Klappern?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Von unter dem Fahrzeugboden"
+   },
+   {
+    "id": "o2",
+    "label": "Aus dem Innenraum: Armaturenbrett, Türen, Knarzgeräusche"
+   },
+   {
+    "id": "o3",
+    "label": "Aus dem Kofferraum, als würde etwas hin- und herrollen"
+   },
+   {
+    "id": "o4",
+    "label": "Vorn oben, im Bereich der Motorhaube"
+   }
+  ]
+ },
+ "q_move_manner": {
+  "text": "Wie hängt das Geräusch mit dem Fahren zusammen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Es tritt beim Gasgeben oder beim Gaswegnehmen auf"
+   },
+   {
+    "id": "o2",
+    "label": "Im Moment des Schaltens oder beim Anfahren"
+   },
+   {
+    "id": "o3",
+    "label": "Es ist ständig da, solange das Auto fährt"
+   },
+   {
+    "id": "o4",
+    "label": "Es ist eher eine Vibration oder ein Zittern als ein Geräusch"
+   }
+  ]
+ },
+ "q_accel_char": {
+  "text": "Wie klingt das Geräusch beim Gasgeben?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Metallisches Klingeln, besonders bergauf"
+   },
+   {
+    "id": "o2",
+    "label": "Klopfen im Moment des Gasgebens oder Gaswegnehmens"
+   },
+   {
+    "id": "o3",
+    "label": "Knallen oder lautes Röhren aus dem Auspuff"
+   },
+   {
+    "id": "o4",
+    "label": "Heulen oder Pfeifen unter Last"
+   }
+  ]
+ },
+ "q_exhaust_char": {
+  "text": "Knallen oder Röhren?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Knallen oder Fehlzündungen"
+   },
+   {
+    "id": "o2",
+    "label": "Röhren, lauter beim Gasgeben; das Auto zieht wie gewohnt"
+   },
+   {
+    "id": "o3",
+    "label": "Der Motor heult auf, die Drehzahl steigt, aber es geht nicht vorwärts; manchmal riecht es verbrannt"
+   }
+  ]
+ },
+ "q_load_whine": {
+  "text": "Was für ein Heulen unter Last?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Hohes Pfeifen nur beim Gasgeben, beim Gaswegnehmen weg (Turbomotor)"
+   },
+   {
+    "id": "o2",
+    "label": "Brummen oder Heulen, der Ton ändert sich bei gleichem Tempo beim Gasgeben und Gaswegnehmen"
+   },
+   {
+    "id": "o3",
+    "label": "Gleichförmiges Heulen beim Beschleunigen; Getriebe ist ein CVT oder eine Automatik"
+   },
+   {
+    "id": "o4",
+    "label": "Heulen in einem Gang lauter, in einem anderen leiser; Schaltgetriebe"
+   }
+  ]
+ },
+ "q_shift_char": {
+  "text": "Was passiert beim Schalten oder Anfahren?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ruck oder Schlag beim Wechsel der Automatik zwischen D und R oder beim Schalten"
+   },
+   {
+    "id": "o2",
+    "label": "Kratzen beim Einlegen eines Gangs am Schaltgetriebe"
+   },
+   {
+    "id": "o3",
+    "label": "Das Auto ruckelt beim Anfahren, während Sie die Kupplung kommen lassen"
+   },
+   {
+    "id": "o4",
+    "label": "Ein einzelner Schlag unter dem Wagenboden beim Anfahren oder beim Lastwechsel"
+   }
+  ]
  }
 }
