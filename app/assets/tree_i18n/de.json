@@ -634,5 +634,145 @@
     "label": "Ein einzelner Schlag unter dem Wagenboden beim Anfahren oder beim Lastwechsel"
    }
   ]
+ },
+ "q_vibration": {
+  "text": "Wann ist das Zittern am stärksten?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Bei 80–120 km/h zittert das Lenkrad fein; darunter und darüber weniger"
+   },
+   {
+    "id": "o2",
+    "label": "Schon ab 40–60 km/h, mit steigendem Tempo stärker"
+   },
+   {
+    "id": "o3",
+    "label": "In einem schmalen Geschwindigkeitsbereich, das Zittern geht durch Boden und Karosserie; Heck- oder Allradantrieb"
+   },
+   {
+    "id": "o4",
+    "label": "Nur beim Bremsen, das Lenkrad schlägt"
+   }
+  ]
+ },
+ "q_const_char": {
+  "text": "Wie klingt das dauerhafte Geräusch?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Gleichmäßiges Brummen oder Heulen"
+   },
+   {
+    "id": "o2",
+    "label": "Schleifen, Schaben oder Piepen von einem Rad"
+   },
+   {
+    "id": "o3",
+    "label": "Lautes Röhren oder Knattern"
+   },
+   {
+    "id": "o4",
+    "label": "Pfeifen oder Heulen nur bei hohem Tempo"
+   }
+  ]
+ },
+ "q_wheel_noise": {
+  "text": "Was für ein Geräusch kommt vom Rad?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Feines Piepen; beim leichten Antippen der Bremse verschwindet es oder ändert sich"
+   },
+   {
+    "id": "o2",
+    "label": "Schaben; nach der Fahrt ist das Rad heiß, das Auto zieht zur Seite"
+   },
+   {
+    "id": "o3",
+    "label": "Dauerhaftes Schleifen oder Schaben, das Rad wird nicht heiß"
+   },
+   {
+    "id": "o4",
+    "label": "Rhythmisches Klopfen oder Klicken im Takt der Radumdrehung"
+   }
+  ]
+ },
+ "q_wheel_click": {
+  "text": "Wurden die Räder kürzlich gewechselt, getauscht oder abgenommen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, in den letzten Tagen"
+   },
+   {
+    "id": "o2",
+    "label": "Nein, schon lange nicht mehr"
+   }
+  ]
+ },
+ "q_neutral_test": {
+  "text": "Ein Test: auf die Geschwindigkeit beschleunigen, bei der das Geräusch auftritt, in den Leerlauf schalten und rollen lassen. Bleibt das Brummen?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Es bleibt"
+   },
+   {
+    "id": "o2",
+    "label": "Es verschwindet zusammen mit der Motordrehzahl"
+   },
+   {
+    "id": "o3",
+    "label": "Konnte ich nicht testen"
+   }
+  ]
+ },
+ "q_rpm_hum": {
+  "text": "Ändert sich die Lautstärke des Heulens beim Schalten?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, in verschiedenen Gängen klingt es unterschiedlich"
+   },
+   {
+    "id": "o2",
+    "label": "Nein, es hängt nur von der Motordrehzahl ab"
+   }
+  ]
+ },
+ "q_hum_road": {
+  "text": "Ändert sich das Brummen in langgezogenen Kurven?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Ja, in eine Richtung leiser oder lauter"
+   },
+   {
+    "id": "o2",
+    "label": "Nein, gleichmäßig bei jedem Tempo über 40–60 km/h"
+   },
+   {
+    "id": "o3",
+    "label": "Es hängt vom Straßenbelag ab"
+   }
+  ]
+ },
+ "q_hum_where": {
+  "text": "Kommt das Brummen von vorn oder von hinten?",
+  "options": [
+   {
+    "id": "o1",
+    "label": "Von vorn"
+   },
+   {
+    "id": "o2",
+    "label": "Von hinten"
+   },
+   {
+    "id": "o3",
+    "label": "Schwer zu sagen"
+   }
+  ]
  }
 }
