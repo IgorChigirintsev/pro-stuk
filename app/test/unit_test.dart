@@ -68,6 +68,7 @@ void main() {
 
 
   test('статус расходника считается по диапазону', () {
+    Units.miles.value = false; // тест про сам расчёт, а не про единицы
     final oil = consumables.firstWhere((c) => c.key == 'oil'); // 7000–10000
     expect(statusFor(oil, null).unknown, isTrue);
     expect(statusFor(oil, 3000).due, isFalse);
