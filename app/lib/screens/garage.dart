@@ -173,11 +173,11 @@ class _GarageScreenState extends State<GarageScreen> {
                 Text('История диагностик',
                     style: Theme.of(context).textTheme.titleMedium),
                 const SizedBox(height: 8),
-                if (st.history.isEmpty)
+                if (st.historyForCar.isEmpty)
                   const Text('Пока пусто — первый разбор появится здесь.',
                       style: TextStyle(color: T.inkSoft))
                 else
-                  for (final h in st.history) _HistoryCard(entry: h),
+                  for (final h in st.historyForCar) _HistoryCard(entry: h),
               ],
             ),
     );

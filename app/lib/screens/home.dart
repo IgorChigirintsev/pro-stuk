@@ -6,6 +6,7 @@ import '../state.dart';
 import '../strings.dart';
 import '../theme.dart';
 import '../widgets.dart';
+import '../widgets/car_card.dart';
 import 'how_it_works.dart';
 import 'quiz.dart';
 import 'record.dart';
@@ -40,10 +41,13 @@ class HomeScreen extends StatelessWidget {
         child: ListView(
           padding: const EdgeInsets.all(20),
           children: [
-            if (state.car != null)
-              Text(state.car!.label,
-                  style: Theme.of(context).textTheme.bodySmall),
-            const SizedBox(height: 12),
+            if (state.car != null) ...[
+              CarCard(
+                onOpenProfile: () => Navigator.push(context,
+                    MaterialPageRoute(builder: (_) => const GarageScreen())),
+              ),
+              const SizedBox(height: 16),
+            ],
             SizedBox(
               height: 64,
               child: ElevatedButton.icon(

@@ -184,6 +184,8 @@ class HistoryEntry {
   final String id; // имя файла
   final DateTime date;
   final String carLabel;
+  /// Идентификатор машины: по нему история фильтруется в профиле.
+  final String carId;
   final String urgency;
   final String topCause;
   final bool isFull;
@@ -196,6 +198,7 @@ class HistoryEntry {
     required this.id,
     required this.date,
     required this.carLabel,
+    this.carId = '',
     required this.urgency,
     required this.topCause,
     required this.isFull,
@@ -208,6 +211,7 @@ class HistoryEntry {
         'id': id,
         'date': date.toIso8601String(),
         'car_label': carLabel,
+        'car_id': carId,
         'urgency': urgency,
         'top_cause': topCause,
         'is_full': isFull,
@@ -220,6 +224,7 @@ class HistoryEntry {
         id: j['id'] as String? ?? '',
         date: DateTime.tryParse(j['date'] as String? ?? '') ?? DateTime.now(),
         carLabel: j['car_label'] as String? ?? '',
+        carId: j['car_id'] as String? ?? '',
         urgency: j['urgency'] as String? ?? 'warn',
         topCause: j['top_cause'] as String? ?? '',
         isFull: j['is_full'] as bool? ?? false,

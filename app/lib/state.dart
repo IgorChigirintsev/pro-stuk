@@ -6,6 +6,7 @@ import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:uuid/uuid.dart';
 
+import 'data/service.dart';
 import 'models.dart';
 
 /// Состояние приложения: машина, device_id, история отчётов.
@@ -109,6 +110,31 @@ class AppState extends ChangeNotifier {
     await saveCar(car!.copyWith(service: s));
   }
 
+  /// История активной машины. У записей до этой версии carId пустой —
+  /// для них сверяем по названию, иначе старые разборы пропали бы из профиля.
+  List<HistoryEntry> get historyForCar {
+    final c = car;
+    if (c == null) return history;
+    return history
+        .where((h) => h.carId.isNotEmpty ? h.carId == c.id : h.carLabel == c.label)
+        .toList();
+  }
+
+  /// Ближайшие замены: сначала просроченные, потом самые близкие по остатку.
+  List<ServiceStatus> upcomingService({int limit = 3}) {
+    final c = car;
+    if (c == null) return const [];
+    final list = <ServiceStatus>[];
+    for (final item in consumables) {
+      final odo = c.service[item.key];
+      if (odo == null || item.kmMin == null) continue;
+      list.add(statusFor(item, c.mileageKm - odo));
+    }
+    list.sort((a, b) =>
+        (a.item.kmMin! - a.sinceKm!).compareTo(b.item.kmMin! - b.sinceKm!));
+    return list.take(limit).toList();
+  }
+
   Future<void> _loadHistory() async {
     final entries = <HistoryEntry>[];
     await for (final f in _reportsDir!.list()) {
@@ -137,6 +163,7 @@ class AppState extends ChangeNotifier {
       id: now.millisecondsSinceEpoch.toString(),
       date: now,
       carLabel: car?.label ?? '',
+      carId: car?.id ?? '',
       urgency: urgency,
       topCause: topCause,
       isFull: isFull,
