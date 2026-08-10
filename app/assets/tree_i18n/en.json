@@ -888,5 +888,80 @@
   ],
   "explanation": "A hum or rustle from the belt side together with traces of coolant is the classic sign of a dying water pump. Its bearing wears, play develops, and coolant begins to seep through the seal. If the pump seizes, the engine overheats quickly.",
   "advice": "Drive to a garage within days, watching the engine temperature and the coolant level on the way. If the temperature climbs or steam appears from under the bonnet, pull over and switch the engine off. Only top up coolant once the engine has cooled."
+ },
+ "leaf_idler": {
+  "top_cause": "Tensioner or idler pulley",
+  "alt_causes": [
+   "Water pump",
+   "Alternator freewheel clutch",
+   "Timing chain or its tensioner"
+  ],
+  "explanation": "A steady hum or rustle that follows engine speed most often comes from the bearing in one of the pulleys the accessory belt runs over. A worn pulley gets louder, can start to bind, and eventually snaps the belt.",
+  "advice": "Book a garage within the week: a mechanic takes the belt off and identifies the noisy pulley on the spot. The water pump, the alternator freewheel clutch and even the timing chain can sound similar — those get checked at the same time. If the noise has turned into grinding or squealing, go sooner."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Exhaust heat shield",
+  "alt_causes": [
+   "Exhaust mountings",
+   "Undertray"
+  ],
+  "explanation": "A ringing metallic rattle at certain engine speeds almost always comes from a loose heat shield — the thin metal cover over the silencer or the converter. It sounds unpleasant but has no effect on how the car runs.",
+  "advice": "Ask a garage to tighten it or secure it with a clamp when convenient: it is a few minutes' work. It is worth confirming that it really is the shield rattling and not the exhaust mountings — on a lift that is obvious straight away."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Misfires or a hole in the exhaust",
+  "alt_causes": [
+   "Spark plugs and coils",
+   "A burnt-through silencer or pipe",
+   "LPG settings, if it pops on gas"
+  ],
+  "explanation": "Popping from the exhaust means fuel is finishing burning in the exhaust system rather than in the cylinders. The causes are misfires (plugs, coils), an incorrect mixture, or a hole in the exhaust. Besides the noise, this damages the catalytic converter, and replacing one is expensive.",
+  "advice": "Book a diagnosis within days, especially if the car pulls worse, runs unevenly, or the check-engine light has come on. Do not drive for long with popping: unburnt fuel overheats the converter. If the car runs on LPG and it pops on gas, have the system re-tuned: popping is especially dangerous for it."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Burnt-through silencer or pipe",
+  "alt_causes": [
+   "Exhaust gasket",
+   "A cracked flexible section"
+  ],
+  "explanation": "A loud roar that grows on the throttle usually means a hole in the exhaust: the silencer, a pipe or a gasket has burnt through. The car sounds sporty, but the gases escape early — that means noise, smell, and a risk of carbon monoxide reaching the cabin.",
+  "advice": "Have the car looked at this week: inspecting the exhaust on a lift takes a few minutes. If you can smell exhaust in the cabin, drive with a window ajar and do not warm the car up in a closed garage: carbon monoxide is dangerous."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Engine mounts",
+  "alt_causes": [
+   "Misfires",
+   "A dirty throttle body or injectors"
+  ],
+  "explanation": "If you feel shaking in the cabin at idle, with fine vibration through the wheel and seats, the engine mounts are often to blame — the rubber blocks that absorb the engine's movement. Over time the rubber hardens and tears, and the vibration reaches the body.",
+  "advice": "Have the mounts checked within a couple of weeks: the inspection is simple. A diagnostic hint — vibration from the mounts usually gets worse with a gear engaged and the brake pressed. If the engine also shudders unevenly, tell the mechanic: there may be misfires."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "A film of rust on the brake discs",
+  "alt_causes": [
+   "Damp or dust on the pads",
+   "Pads starting to wear"
+  ],
+  "explanation": "Overnight, after rain or a wash, a thin orange film forms on the brake discs — this is normal on any car. The first few stops scrub it off, which is where the squeak or light scraping comes from, and it clears quickly.",
+  "advice": "Nothing needs doing: a few gentle stops at the start of a journey clean the discs. If the noise has stopped clearing and is there on every stop, run the diagnosis again or have the car looked at."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Brake pad wear or condition",
+  "alt_causes": [
+   "Pad wear indicator",
+   "Glazed pads",
+   "Dust or corrosion on the discs"
+  ],
+  "explanation": "A squeal on every stop is a signal to check the pads. Many pads have a metal wear indicator: once the friction material that rubs against the disc has worn to its limit, the tab touches the disc and squeals on purpose. Pads can also squeal on their own — from a surface film, glazing, or cheap material.",
+  "advice": "Book an inspection of the pads and discs this week. If it is the wear indicator, do not delay: the next stage is grinding and ruined discs. If the pads are fine, the squeal is harmless and the mechanic will suggest how to get rid of it."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Pads worn down to metal",
+  "alt_causes": [
+   "A foreign object in the brake",
+   "A pad breaking apart"
+  ],
+  "explanation": "Metal grinding on metal when braking means the friction material is gone and the pad's steel backing is rubbing on the disc. Stopping distances grow, the disc is ruined a little more with every stop, and the mechanism can seize.",
+  "advice": "Stop normal journeys and drive only as far as a garage, braking early and gently. Do not put the replacement off by even a day: besides the safety, every mile of grinding adds the price of brake discs to the bill."
  }
 }
