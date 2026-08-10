@@ -716,5 +716,77 @@
   ],
   "explanation": "Un pitido metálico fino en marcha sin pisar el freno, que al rozar apenas el pedal desaparece o cambia, es la chapita indicadora de la pastilla que ha empezado a tocar el disco. Es un aviso previsto de fábrica: al material de la pastilla casi no le queda vida.",
   "advice": "Pide cita esta semana para cambiar las pastillas y que revisen también los discos. De momento los frenos funcionan del todo, pero la siguiente fase es el roce metálico y los discos estropeados. Si el pitido viene de una rueda concreta, dilo en el taller."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Pinza de freno agarrotada",
+  "alt_causes": [
+   "Guías de la pinza agarrotadas",
+   "Latiguillo de freno hinchado por dentro"
+  ],
+  "explanation": "Un roce continuo por el lado de una rueda, el disco caliente al terminar el trayecto, olor a quemado y el coche que se va hacia un lado significan que la pinza —la pieza que aprieta las pastillas contra el disco— se ha agarrotado y la pastilla roza todo el rato. Un freno recalentado pierde eficacia, y pastilla y disco se destrozan en unos cientos de kilómetros.",
+  "advice": "Deja de usar el coche con normalidad y ve solo hasta el taller, poca distancia y despacio. Para saber qué rueda está caliente, acerca la mano cerca del disco sin llegar a tocarlo: quema. Si lo alargas, puedes acabar con la rueda bloqueada en marcha."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Tornillos de rueda mal apretados",
+  "alt_causes": [
+   "Agujeros de la llanta ovalados",
+   "Holgura en el buje"
+  ],
+  "explanation": "Un topetazo o golpeteo rítmico al compás del giro de la rueda, aparecido en los primeros días tras montar o cambiar neumáticos, es el clásico caso de tornillos de rueda mal apretados. Una rueda con los tornillos flojos ovala los agujeros de la llanta y, en el peor caso, se suelta en marcha.",
+  "advice": "Para en cuanto puedas y comprueba con la llave el apriete de los tornillos de todas las ruedas. Si estaban flojos y los aprietas, el golpeteo debería desaparecer; si sigue, ve con cuidado al taller y que revisen el buje. Después de cualquier montaje de ruedas conviene reapretar los tornillos a los 50–100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Piedrecilla o tornillo clavado en el dibujo",
+  "alt_causes": [
+   "Tornillos de rueda mal apretados",
+   "Despegue de la banda de rodadura"
+  ],
+  "explanation": "Un chasquido o taconeo regular al compás del giro de la rueda, sobre todo a poca velocidad, lo produce casi siempre una piedrecilla atrapada en el dibujo o, lo que es más importante, un tornillo clavado. El ruido dura mientras el objeto siga en el neumático.",
+  "advice": "Revisa el dibujo de todas las ruedas moviendo el coche despacio o girando el volante a tope. La piedrecilla, sácala. Un tornillo o un clavo, no lo saques: con él puedes llegar tranquilamente al taller de neumáticos, y sin él la rueda se desinflará por el camino. Si no hay nada en el dibujo y el chasquido sigue, comprueba el apriete de los tornillos de rueda."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Casquillos de la barra estabilizadora o silentblocks (crujido)",
+  "alt_causes": [
+   "Rótulas de suspensión",
+   "Gomas y bisagras de las puertas resecas"
+  ],
+  "explanation": "Un crujido de cama vieja en los baches, al subir al coche y al balancearlo, es goma seca en la suspensión: los casquillos de la barra estabilizadora o los silentblocks (las articulaciones de goma de los brazos). Con frío y humedad suena más. Se reproduce empujando con la mano el coche parado por una aleta.",
+  "advice": "Enséñalo en el taller cuando puedas: muchas veces se soluciona engrasando los casquillos o cambiando piezas de céntimos. No hay peligro; pero si junto al crujido aparece un golpeteo o el coche empieza a irse hacia un lado, ya hablamos de rótulas y la revisión no debe esperar."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Pastillas pegadas al disco",
+  "alt_causes": [
+   "Pastillas congeladas (en invierno)",
+   "Zapatas del freno de mano"
+  ],
+  "explanation": "Un golpe seco fuerte o un crujido al arrancar por primera vez tras estar mucho tiempo parado, sobre todo con el freno de mano puesto, después del lavadero, de lluvia o de una helada, son las pastillas que se habían pegado o congelado a los discos y se sueltan. Si el resto del trayecto va en silencio, es inofensivo.",
+  "advice": "No hace falta hacer nada; en invierno puedes dejar el coche con una marcha metida en lugar del freno de mano —solo en cambio manual— para que las pastillas traseras no se congelen. Si el crujido se repite en cada arranque, ya no son las pastillas: vuelve a pasar el diagnóstico."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Holgura en la cremallera de dirección",
+  "alt_causes": [
+   "Rótulas de dirección",
+   "Cardan de la columna"
+  ],
+  "explanation": "Un golpeteo sobre firme rugoso y juntas de la calzada que llega directo al volante y se nota en las manos es holgura en la cremallera de dirección: el casquillo o el engrane están gastados. Una señal característica: el golpeteo se calma si mantienes el volante ligeramente en tensión.",
+  "advice": "Que revisen la dirección en el taller en los próximos días: es un elemento de seguridad y la comprobación en el elevador son minutos. En algunos coches la cremallera se ajusta con un reglaje, y sale barato. Si el volante se ha quedado vacío en el centro o el coche baila dentro del carril, no lo aplaces."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Muelle de suspensión roto",
+  "alt_causes": [
+   "Amortiguador vencido",
+   "Copela del muelle rota"
+  ],
+  "explanation": "Un topetazo o roce metálico en los baches y en las curvas, aparecido de golpe tras pisar un bache, junto con una esquina del coche más baja, es el cuadro típico de una espira de muelle partida. El trozo roto puede rozar y golpear cuando trabaja la suspensión.",
+  "advice": "Mira por debajo, detrás de la rueda: una espira partida se suele ver a simple vista. Al taller en unos días, y hasta la reparación conduce con suavidad: el trozo de muelle puede desplazarse y dañar el neumático. Los muelles se cambian por parejas en el mismo eje."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plásticos del interior: clips y juntas de los paneles",
+  "alt_causes": [
+   "Objetos en la guantera y los huecos",
+   "Gomas de las puertas resecas"
+  ],
+  "explanation": "Un cascabeleo de plástico cercano y grillos en las irregularidades pequeñas son roce y holgura de los paneles del interior: salpicadero, paneles de puerta, guantera. Con frío suena más. La prueba definitiva: si en marcha aprietas con la mano el panel sospechoso y el ruido desaparece, es el interior y no el tren rodante.",
+  "advice": "No es una avería: el coche está bien. Saca los objetos sueltos de la guantera y los huecos y mete un trozo de cinta de fieltro en la junta que hayas localizado. El crujido alrededor de las puertas se cura tratando las gomas con grasa de silicona. Un golpe del tren rodante, en cambio, es sordo, viene de abajo y no cambia al apretar los paneles."
  }
 }
