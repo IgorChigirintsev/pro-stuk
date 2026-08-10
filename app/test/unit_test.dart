@@ -137,8 +137,8 @@ void main() {
     Units.miles.value = false;
   });
 
-  test('английский словарь схем покрывает все подписи', () {
-    LocaleService.current.value = 'en';
+  test('словари схем покрывают все подписи во всех языках', () {
+    const langs = ['en','de','es','fr','pt','it','pl','tr','nl','zh','ja','ko','ar'];
     final raw = io.File('assets/schemes/parts.json').readAsStringSync();
     final data = jsonDecode(raw) as Map<String, dynamic>;
     final labels = <String>{};
@@ -150,12 +150,16 @@ void main() {
       }
     }
     final missing = <String>[];
-    for (final l in labels) {
-      if (partLabel(l) == l) missing.add(l);
+    for (final lang in langs) {
+      LocaleService.current.value = lang;
+      for (final l in labels) {
+        if (partLabel(l) == l) missing.add('$lang: $l');
+      }
+      for (final t in titles) {
+        if (schemaTitle(t) == t) missing.add('$lang: $t');
+      }
     }
-    for (final t in titles) {
-      if (schemaTitle(t) == t) missing.add(t);
-    }
+    LocaleService.current.value = 'ru';
     // На русском подпись и есть перевод — проверяем на английском.
     expect(missing, isEmpty, reason: 'нет перевода: ${missing.take(5)}');
   });
