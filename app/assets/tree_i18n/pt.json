@@ -644,5 +644,77 @@
   ],
   "explanation": "Um assobio leve e constante do turbo em esforço é normal num motor turbo. O que deve dar que pensar é a mudança: o assobio ficar mais forte ou com outro tom, aparecer um uivo, ou o carro perder força. Isso é uma fuga de ar nos tubos de sobrealimentação, ou desgaste da chumaceira do eixo do turbo.",
   "advice": "Se o tom mudou ou o carro puxa menos, a diagnóstico nos próximos dias: um tubo com fuga repara-se barato, enquanto um turbo gasto e adiado acaba em substituição. Vigie o consumo de óleo. Até à verificação, não leve o motor ao corte e deixe o turbo arrefecer um ou dois minutos ao ralenti depois de uma condução animada."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Grupo cónico do diferencial",
+  "alt_causes": [
+   "Rolamentos do diferencial",
+   "Pouco óleo no diferencial"
+  ],
+  "explanation": "Um uivo ou zumbido que, à mesma velocidade, muda de tom conforme se carrega ou se larga o acelerador — uiva em esforço e acalma em roda livre, ou o contrário — é a assinatura de um grupo cónico gasto: as engrenagens do diferencial que levam o movimento às rodas. Um rolamento de roda, ao contrário, não reage de todo ao acelerador.",
+  "advice": "Verifique o nível de óleo do diferencial e marque diagnóstico dentro desta semana: num desgaste inicial bastam muitas vezes óleo e uma afinação; num desgaste avançado é preciso substituir o grupo. Adie as viagens longas a alta velocidade até à verificação."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT ou caixa automática (rolamentos, correia, conversor)",
+  "alt_causes": [
+   "Óleo da caixa em falta ou velho",
+   "Rolamentos dos veios"
+  ],
+  "explanation": "Um uivo metálico monótono ao acelerar num carro com CVT ou caixa automática, que depende do acelerador e não da velocidade, vem normalmente dos rolamentos das polias do CVT ou da bomba da caixa automática. O CVT é especialmente sensível à idade do óleo.",
+  "advice": "Primeiro, verificar o nível e o estado do óleo da caixa: é metade destes casos. Marque diagnóstico dentro desta semana e, até lá, conduza com calma, sem acelerações bruscas nem reboque. Reparar um CVT a tempo custa várias vezes menos do que fazê-lo tarde."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Rolamentos ou engrenagens da caixa manual",
+  "alt_causes": [
+   "Pouco óleo na caixa",
+   "Rolamento do veio primário"
+  ],
+  "explanation": "Um uivo cujo volume depende da mudança engatada — forte numa, mais fraco noutra, ausente em ponto morto a rolar — vem da caixa manual: rolamentos dos veios gastos ou um par de engrenagens concreto. Um rolamento de roda zumbe igual em qualquer mudança.",
+  "advice": "Verifique o nível de óleo da caixa: a descida do nível é uma causa frequente. Marque diagnóstico dentro de uma a duas semanas e diga em que mudanças uiva mais: isso reduz a busca. Pode andar, mas um uivo que aumenta não deve arrastar-se."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Desequilíbrio das rodas",
+  "alt_causes": [
+   "Contrapeso de equilibragem perdido",
+   "Lama ou gelo dentro da jante"
+  ],
+  "explanation": "Uma vibração fina no volante numa faixa estreita de velocidade, normalmente entre 80 e 120 km/h, que quase desaparece abaixo e acima disso, é o clássico desequilíbrio: caiu um contrapeso, ou colou-se lama ou gelo no interior da jante. Se vibra o volante, são as rodas da frente; se vibra o banco, as de trás.",
+  "advice": "Passe pela equilibragem quando puder: é rápido e barato. No inverno, veja primeiro o interior das jantes e retire a neve e o gelo agarrados. Não é perigoso, mas uma vibração permanente acelera o desgaste dos rolamentos e das rótulas de direção."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Jante empenada ou hérnia no pneu",
+  "alt_causes": [
+   "Lona do pneu deslocada",
+   "Desequilíbrio das rodas"
+  ],
+  "explanation": "Um bater que já se nota a partir dos 40–60 km/h e aumenta com a velocidade é normalmente uma deformação: uma jante empenada depois de um buraco ou uma hérnia (um alto) no flanco do pneu. Ao contrário do desequilíbrio, este bater não vive numa faixa estreita de velocidade: agrava-se continuamente.",
+  "advice": "Veja os pneus e os bordos das jantes: um alto no flanco ou uma jante empenada notam-se muitas vezes a olho. Uma hérnia é um ponto fraco que pode rebentar em velocidade: monte o pneu suplente nessa roda e não adie a ida ao serviço de pneus. Até lá, não ande depressa."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Veio de transmissão: rolamento intermédio ou desequilíbrio",
+  "alt_causes": [
+   "Cruzetas do veio",
+   "Disco flexível de transmissão"
+  ],
+  "explanation": "Um zumbido e uma vibração fina pelo piso e pela carroçaria numa faixa concreta de velocidade, num carro de tração traseira ou integral, é o veio de transmissão: rolamento intermédio gasto, cruzetas batidas ou equilibragem perdida. Distingue-se do desequilíbrio das rodas porque não vibra o volante, mas o piso.",
+  "advice": "Marque diagnóstico dentro desta semana: as folgas do veio verificam-se no elevador em minutos. Não convém arrastar: a rutura de uma cruzeta em velocidade é perigosa. Até à verificação, não ande muito tempo à velocidade em que vibra."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Ruído aerodinâmico (borrachas, frisos, barras de tejadilho)",
+  "alt_causes": [
+   "Borrachas das portas gastas",
+   "Barras ou mala de tejadilho"
+  ],
+  "explanation": "Um assobio ou uivo que só aparece acima de certa velocidade (normalmente 70–90 km/h), aumenta com ela e não depende do piso nem das curvas, é ar: uma borracha gasta, um friso descolado, as barras de tejadilho ou uma mala de tejadilho.",
+  "advice": "A origem encontra-se com facilidade: tire a mala ou as barras, se as tiver; abra ligeiramente o vidro e veja se o assobio muda; tape a junta suspeita com fita de pintor e dê uma volta. Não é uma avaria: resolve-se com uma borracha nova ou afinando a porta."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "O indicador de desgaste das pastilhas roça no disco",
+  "alt_causes": [
+   "Pastilhas no fim",
+   "Pedrinha entre a pastilha e o disco"
+  ],
+  "explanation": "Um apito metálico fino em andamento sem travar, que ao tocar levemente no pedal desaparece ou muda, é a lâmina indicadora da pastilha a começar a tocar no disco. É o aviso previsto de origem: a material da pastilha está quase no fim.",
+  "advice": "Marque esta semana a substituição das pastilhas e peça para verem também os discos. Os travões ainda funcionam na totalidade, mas a fase seguinte é o roçar metálico e os discos estragados. Se o apito vier de uma roda concreta, diga-o na oficina."
  }
 }
