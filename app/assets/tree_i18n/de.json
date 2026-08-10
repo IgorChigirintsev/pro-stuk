@@ -917,5 +917,77 @@
   ],
   "explanation": "Knacken oder Klicken beim Lenken im Stand, das von oben aus dem Radhaus kommt, macht das Domlager — das Lager, auf dem sich das obere Ende des Federbeins mit dem Rad mitdreht. Ein weiteres Zeichen sind einzelne Schläge von oben auf Schlaglöchern.",
   "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: die Prüfung ist einfach, mit der Hand auf dem Federbeindom unter der Haube spürt man das Knacken sofort. Fahren können Sie, aber ein verschlissenes Domlager beschleunigt den Verschleiß des Federbeins und verschlechtert den Rücklauf der Lenkung."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Kreuzgelenk der Lenkzwischenwelle",
+  "alt_causes": [
+   "Spiel in der Steckverzahnung der Welle",
+   "Lenkgetriebe"
+  ],
+  "explanation": "Ein Klacken oder Klopfen, das man direkt im Lenkrad und unten im Fußraum hört und spürt, kommt meist vom Kreuzgelenk der Lenkzwischenwelle — dem kleinen Gelenk zwischen Lenkrad und Lenkgetriebe. Bei abgestelltem Motor und leichtem Hin- und Herbewegen des Lenkrads ist das Klacken deutlich zu hören.",
+  "advice": "Lassen Sie das in den nächsten Tagen in der Werkstatt prüfen: die Lenkung ist ein sicherheitsrelevantes Bauteil, und die Prüfung dauert nur Minuten. Spiel in der Lenksäule wird mit der Zeit größer und macht die Lenkung um die Mittellage herum unpräzise."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Bremskraftverstärker oder sein Unterdruckschlauch",
+  "alt_causes": [
+   "Rückschlagventil des Bremskraftverstärkers",
+   "Riss im Unterdruckschlauch"
+  ],
+  "explanation": "Zischen unter dem Armaturenbrett, das genau beim Treten und Loslassen des Bremspedals auftritt und sich damit ändert, ist Falschluft im Bremskraftverstärker — dem Bauteil, das die Pedalkraft verringert. Das Pedal wird dabei oft spürbar härter, und die Leerlaufdrehzahl schwankt.",
+  "advice": "Machen Sie diese Woche einen Werkstatttermin: die Bremse funktioniert auch ohne Verstärker, aber Sie müssen dann viel kräftiger treten — in einer Notbremsung ist das gefährlich. Prüfen Sie das Pedal vor der Fahrt: ist es hart wie ein Brett, fahren Sie nur vorsichtig und nicht weit."
+ },
+ "leaf_wipers": {
+  "top_cause": "Wischergestänge oder Wischergummis",
+  "alt_causes": [
+   "Lockere Muttern der Wischerarme",
+   "Verschlissene Buchsen des Wischermotors"
+  ],
+  "explanation": "Klopfen an den Umkehrpunkten ist Spiel in den Gelenken des Wischergestänges — der Mechanik, die die Wischer bewegt — oder es sind lockere Muttern der Wischerarme. Gleichmäßiges Quietschen über die Scheibe kommt von hart gewordenen Wischergummis. Die Probe ist einfach: Wischer ausschalten — das Geräusch ist sofort und vollständig weg.",
+  "advice": "Quietschende Gummis können Sie selbst tauschen — Wischerblätter gibt es in jedem Zubehörhandel. Beim Klopfen an den Umkehrpunkten die Muttern der Wischerarme nachziehen oder bei Gelegenheit die Buchsen des Gestänges in der Werkstatt ersetzen lassen. Für die Sicherheit zählt hier nur die klare Scheibe."
+ },
+ "leaf_eps": {
+  "top_cause": "Elektrische Servolenkung: leises Surren ist normal",
+  "alt_causes": [
+   "Verschleiß der elektrischen Servolenkung",
+   "Lenkgetriebe"
+  ],
+  "explanation": "Wenn es unter der Haube keinen Behälter für Servoöl gibt, ist die Lenkung elektrisch unterstützt, und ein gleichmäßiges leises Surren beim Lenken ist ihr normaler Betrieb und kein Defekt. Eine Hydraulikpumpe, die bei zu wenig Öl heult, gibt es in so einem Auto schlicht nicht.",
+  "advice": "Die Warnzeichen einer elektrischen Servolenkung sind andere: die Lenkung wird schwer oder ruckartig schwer, es knirscht, oder im Display leuchtet die Lenkungslampe. Trifft eines davon zu — in den nächsten Tagen in die Werkstatt; sonst können Sie beruhigt weiterfahren."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Dichtung oder Riss am Abgaskrümmer",
+  "alt_causes": [
+   "Stehbolzen des Krümmers",
+   "Hydrostößel"
+  ],
+  "explanation": "Schnelles Klackern bei kaltem Motor, das von außen lauter ist und unter der Haube nach Abgas riecht, sind Abgase, die durch eine durchgebrannte Dichtung oder einen Riss im Abgaskrümmer entweichen. Mit dem Warmwerden dehnt sich das Metall, der Spalt schließt sich, und das Klackern verschwindet.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Werkstatttermin: der Spalt wird mit der Zeit größer, und Abgasgeruch kann über die Heizung in den Innenraum ziehen — das ist gesundheitsschädlich. Bis zur Reparatur den Innenraum lüften, wenn Sie den Geruch bemerken."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Normales Klackern der Einspritzdüsen (Direkteinspritzer oder Diesel)",
+  "alt_causes": [
+   "Hochdruckpumpe",
+   "Ventilspiel"
+  ],
+  "explanation": "Bei Motoren mit Direkteinspritzung (TSI, GDI und ähnlichen) und bei Dieseln klackern Einspritzdüsen und Hochdruckpumpe immer — das ist ihr normaler Betrieb. Die Erkennungsmerkmale: das Geräusch ist kalt wie warm gleich, von außen lauter als im Innenraum, und hängt nicht vom Alter des Öls ab.",
+  "advice": "Sie müssen nichts tun. Aufmerksam werden sollten Sie bei etwas anderem: wenn das Ticken deutlich lauter geworden ist als früher, sich nach dem Warmlaufen ändert oder zusammen mit Leistungsverlust auftritt — dann zur Diagnose."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Falschluft (Unterdruckschlauch, Dichtung am Ansaugkrümmer)",
+  "alt_causes": [
+   "Gerissener Schlauch",
+   "Dichtung des Ansaugkrümmers"
+  ],
+  "explanation": "Gleichmäßiges Zischen unter der Haube, wie Luft aus einem angestochenen Reifen, ist ungemessene Luft, die durch einen gerissenen Schlauch oder eine undichte Ansaugdichtung gezogen wird. Der Motor läuft davon oft unrund: die Leerlaufdrehzahl schwankt, manchmal leuchtet die Motorkontrollleuchte.",
+  "advice": "Machen Sie in den nächsten Tagen einen Diagnosetermin, besonders wenn die Drehzahl schwankt: die Suche nach Falschluft ist Standard. Selbst können Sie die dünnen Gummischläuche unter der Haube auf Risse ansehen, ohne etwas abzubauen."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Kühlerlüfter (Buchsen oder Dauerlauf)",
+  "alt_causes": [
+   "Temperaturfühler oder Thermostat",
+   "Visco-Kupplung (bei Heckantrieb)"
+  ],
+  "explanation": "Brummen oder Röhren, das von selbst an- und ausgeht — bei Hitze, im Stau, mit der Klimaanlage —, ist der Lüfter des Kühlers. Ein lauter Lüfter heißt entweder verschlissene Buchsen seines Motors, oder er läuft ständig wegen eines Fühlers oder des Thermostats. Manchmal läuft er nach dem Abstellen noch ein paar Minuten nach — das ist normal.",
+  "advice": "Röhrt der Lüfter ständig, schon ab dem Start bei kaltem Motor — in den nächsten Tagen zur Diagnose: dann arbeitet das Kühlsystem nicht richtig. Behalten Sie die Temperaturanzeige im Auge; steigt sie an: anhalten und den Motor abstellen."
  }
 }
