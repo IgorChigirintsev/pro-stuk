@@ -292,5 +292,70 @@
    "o3": "La voiture broute au démarrage, pendant qu'on relâche l'embrayage",
    "o4": "Un choc isolé sous la voiture au démarrage ou lors d'un changement de charge"
   }
+ },
+ "q_vibration": {
+  "text": "Quand le tremblement est-il le plus fort ?",
+  "options": {
+   "o1": "Entre 80 et 120 km/h le volant vibre finement ; en dessous et au-dessus, beaucoup moins",
+   "o2": "Dès 40–60 km/h, et ça empire avec la vitesse",
+   "o3": "Sur une plage de vitesse étroite, le tremblement passe par le plancher et la caisse ; propulsion ou transmission intégrale",
+   "o4": "Uniquement au freinage, le volant tape"
+  }
+ },
+ "q_const_char": {
+  "text": "À quoi ressemble le bruit permanent ?",
+  "options": {
+   "o1": "Un bourdonnement ou un hurlement régulier",
+   "o2": "Un frottement, un raclement ou un sifflement du côté d'une roue",
+   "o3": "Un rugissement fort ou un pétaradement",
+   "o4": "Un sifflement ou un hurlement uniquement à haute vitesse"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Quel bruit vient du côté de la roue ?",
+  "options": {
+   "o1": "Un sifflement fin ; en effleurant le frein, il disparaît ou change",
+   "o2": "Un raclement ; après avoir roulé, la roue est brûlante et la voiture tire d'un côté",
+   "o3": "Un frottement ou un raclement permanent, sans que la roue chauffe",
+   "o4": "Un cognement ou un claquement rythmé au rythme de la rotation de la roue"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Les roues ont-elles été changées, permutées ou démontées récemment ?",
+  "options": {
+   "o1": "Oui, ces derniers jours",
+   "o2": "Non, on n'y a pas touché depuis longtemps"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Un test : prenez la vitesse à laquelle le bruit s'entend, passez au point mort et laissez rouler. Le bourdonnement persiste-t-il ?",
+  "options": {
+   "o1": "Il persiste",
+   "o2": "Il disparaît en même temps que le régime moteur",
+   "o3": "Je n'ai pas pu faire le test"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Le volume du hurlement change-t-il quand on change de rapport ?",
+  "options": {
+   "o1": "Oui, il sonne différemment selon le rapport",
+   "o2": "Non, il ne dépend que du régime moteur"
+  }
+ },
+ "q_hum_road": {
+  "text": "Le bourdonnement change-t-il dans les longues courbes ?",
+  "options": {
+   "o1": "Oui, il baisse ou augmente d’un côté",
+   "o2": "Non, il est constant à toute vitesse au-dessus de 40–60 km/h",
+   "o3": "Ça dépend du revêtement de la route"
+  }
+ },
+ "q_hum_where": {
+  "text": "Le bourdonnement vient-il de l'avant ou de l'arrière ?",
+  "options": {
+   "o1": "De l'avant",
+   "o2": "De l'arrière",
+   "o3": "Difficile à dire"
+  }
  }
 }
