@@ -95,7 +95,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
   Widget build(BuildContext context) {
     final years = [for (var y = 2026; y >= 1990; y--) y];
     return Scaffold(
-      appBar: widget.firstRun ? null : AppBar(title: const Text(S.carFormTitle)),
+      appBar: widget.firstRun ? null : AppBar(title: Text(S.carFormTitle)),
       body: SafeArea(
         child: ListView(
           padding: const EdgeInsets.all(20),
@@ -123,7 +123,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
                 return TextField(
                   controller: ctrl,
                   focusNode: focus,
-                  decoration: const InputDecoration(hintText: S.carMakeHint),
+                  decoration: InputDecoration(hintText: S.carMakeHint),
                   textCapitalization: TextCapitalization.words,
                 );
               },
@@ -148,7 +148,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
                   controller: ctrl,
                   focusNode: focus,
                   onChanged: (v) => _modelCtrl.text = v,
-                  decoration: const InputDecoration(hintText: S.carModelHint),
+                  decoration: InputDecoration(hintText: S.carModelHint),
                   textCapitalization: TextCapitalization.words,
                 );
               },
@@ -207,7 +207,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
             const SizedBox(height: 8),
             TextField(
               controller: _mileageCtrl,
-              decoration: const InputDecoration(hintText: S.carMileageHint),
+              decoration: InputDecoration(hintText: S.carMileageHint),
               keyboardType: TextInputType.number,
               inputFormatters: [FilteringTextInputFormatter.digitsOnly],
               onChanged: (_) => setState(() {}),
@@ -236,7 +236,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
               Text(_error!, style: Theme.of(context).textTheme.bodySmall),
             ],
             const SizedBox(height: 28),
-            ElevatedButton(onPressed: _save, child: const Text(S.carSave)),
+            ElevatedButton(onPressed: _save, child: Text(S.carSave)),
             const SizedBox(height: 20),
           ],
         ),

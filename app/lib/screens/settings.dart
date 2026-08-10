@@ -3,6 +3,8 @@ import 'package:package_info_plus/package_info_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../api.dart';
+import '../l10n/device_locale.dart';
+import '../l10n/locale_service.dart';
 import '../strings.dart';
 import '../widgets.dart';
 
@@ -62,12 +64,34 @@ class _SettingsScreenState extends State<SettingsScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text(S.setTitle)),
+      appBar: AppBar(title: Text(S.setTitle)),
       body: SafeArea(
         child: ListView(
           padding: const EdgeInsets.all(20),
           children: [
-            const SectionTitle(S.setVersion),
+            SectionTitle(S.langTitle),
+            SurfaceCard(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  DropdownButton<String>(
+                    value: LocaleService.current.value,
+                    isExpanded: true,
+                    underline: const SizedBox.shrink(),
+                    items: [
+                      for (final code in DeviceLocale.supported)
+                        DropdownMenuItem(
+                            value: code,
+                            child: Text(LocaleService.names[code] ?? code)),
+                    ],
+                    onChanged: (v) => LocaleService.set(v),
+                  ),
+                  Text(S.langHint,
+                      style: Theme.of(context).textTheme.bodySmall),
+                ],
+              ),
+            ),
+            SectionTitle(S.setVersion),
             SurfaceCard(
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -88,7 +112,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     const SizedBox(height: 12),
                     ElevatedButton(
                       onPressed: () => _open(_apkUrl!),
-                      child: const Text(S.setDownload),
+                      child: Text(S.setDownload),
                     ),
                   ],
                 ],
@@ -97,12 +121,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
             const SizedBox(height: 24),
             OutlinedButton(
               onPressed: () => _open(siteUrl),
-              child: const Text(S.setSite),
+              child: Text(S.setSite),
             ),
             const SizedBox(height: 12),
             OutlinedButton(
               onPressed: () => _open('$siteUrl/politika/'),
-              child: const Text(S.setPolicy),
+              child: Text(S.setPolicy),
             ),
             const SizedBox(height: 24),
             Text(S.disclaimerShort,

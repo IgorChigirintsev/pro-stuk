@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
     final state = AppScope.of(context);
     return Scaffold(
       appBar: AppBar(
-        title: const Text(S.appName),
+        title: Text(S.appName),
         actions: [
           IconButton(
             tooltip: S.garageTitle,
@@ -45,7 +45,7 @@ class HomeScreen extends StatelessWidget {
               height: 64,
               child: ElevatedButton.icon(
                 icon: const Icon(Icons.graphic_eq),
-                label: const Text(S.diagnose),
+                label: Text(S.diagnose),
                 onPressed: () => Navigator.of(context).push(
                     MaterialPageRoute(builder: (_) => const QuizScreen())),
               ),
@@ -53,7 +53,7 @@ class HomeScreen extends StatelessWidget {
             const SizedBox(height: 12),
             OutlinedButton.icon(
               icon: const Icon(Icons.mic_none),
-              label: const Text(S.diagnoseBySound),
+              label: Text(S.diagnoseBySound),
               onPressed: () => Navigator.of(context).push(
                   MaterialPageRoute(builder: (_) => const RecordScreen())),
             ),
@@ -67,10 +67,10 @@ class HomeScreen extends StatelessWidget {
               child: TextButton(
                 onPressed: () => Navigator.of(context).push(MaterialPageRoute(
                     builder: (_) => const HowItWorksScreen())),
-                child: const Text(S.howItWorksLink),
+                child: Text(S.howItWorksLink),
               ),
             ),
-            const SectionTitle(S.historyTitle),
+            SectionTitle(S.historyTitle),
             if (state.historyForCar.isEmpty)
               SurfaceCard(
                 child: Text(S.historyEmpty,

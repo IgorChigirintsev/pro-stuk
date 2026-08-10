@@ -9,7 +9,7 @@ class HowItWorksScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text(S.hiwTitle)),
+      appBar: AppBar(title: Text(S.hiwTitle)),
       body: SafeArea(
         child: ListView(
           padding: const EdgeInsets.all(20),

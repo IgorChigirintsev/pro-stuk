@@ -18,7 +18,7 @@ class VerdictScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text(S.verdictTitle)),
+      appBar: AppBar(title: Text(S.verdictTitle)),
       body: SafeArea(
         child: Column(
           children: [
@@ -28,12 +28,12 @@ class VerdictScreen extends StatelessWidget {
                 children: [
                   TrafficLightPlaque(
                       urgency: leaf.urgency, reason: leaf.topCause),
-                  const SectionTitle(S.verdictWhat),
+                  SectionTitle(S.verdictWhat),
                   SurfaceCard(
                     child: Text(leaf.explanation,
                         style: Theme.of(context).textTheme.bodyMedium),
                   ),
-                  const SectionTitle(S.verdictAdvice),
+                  SectionTitle(S.verdictAdvice),
                   SurfaceCard(
                     child: Text(leaf.advice,
                         style: Theme.of(context).textTheme.bodyMedium),
@@ -73,7 +73,7 @@ class VerdictScreen extends StatelessWidget {
                             RecordScreen(leaf: leaf, answers: answers),
                       ),
                     ),
-                    child: const Text(S.verdictRefine),
+                    child: Text(S.verdictRefine),
                   ),
                   const SizedBox(height: 6),
                   Text(S.verdictRefineNote,
@@ -92,7 +92,7 @@ class VerdictScreen extends StatelessWidget {
                       );
                       nav.popUntil((r) => r.isFirst);
                     },
-                    child: const Text(S.verdictEnough),
+                    child: Text(S.verdictEnough),
                   ),
                 ],
               ),

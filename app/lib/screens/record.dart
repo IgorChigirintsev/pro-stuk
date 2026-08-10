@@ -88,12 +88,12 @@ class _RecordScreenState extends State<RecordScreen>
           backgroundColor: T.bg,
           shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(T.rCard)),
-          title: const Text(S.recMicTitle),
-          content: const Text(S.recMicExplain),
+          title: Text(S.recMicTitle),
+          content: Text(S.recMicExplain),
           actions: [
             TextButton(
                 onPressed: () => Navigator.of(ctx).pop(true),
-                child: const Text(S.recMicContinue)),
+                child: Text(S.recMicContinue)),
           ],
         ),
       );
@@ -206,7 +206,7 @@ class _RecordScreenState extends State<RecordScreen>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text(S.recTitle)),
+      appBar: AppBar(title: Text(S.recTitle)),
       body: SafeArea(
         child: switch (_phase) {
           _Phase.intro => _buildIntro(),
@@ -279,12 +279,12 @@ class _RecordScreenState extends State<RecordScreen>
           const SizedBox(height: 24),
           ElevatedButton(
             onPressed: () => _channel.invokeMethod('openAppSettings'),
-            child: const Text(S.recOpenSettings),
+            child: Text(S.recOpenSettings),
           ),
           const SizedBox(height: 12),
           OutlinedButton(
             onPressed: () => setState(() => _phase = _Phase.intro),
-            child: const Text(S.anBack),
+            child: Text(S.anBack),
           ),
         ],
       ),
@@ -340,7 +340,7 @@ class _RecordScreenState extends State<RecordScreen>
           const SizedBox(height: 12),
           OutlinedButton.icon(
             icon: const Icon(Icons.refresh),
-            label: const Text(S.recAgain),
+            label: Text(S.recAgain),
             onPressed: () async {
               await _player.stop();
               _playing = false;
@@ -350,7 +350,7 @@ class _RecordScreenState extends State<RecordScreen>
           const SizedBox(height: 12),
           ElevatedButton.icon(
             icon: const Icon(Icons.arrow_forward),
-            label: const Text(S.recSend),
+            label: Text(S.recSend),
             onPressed: _send,
           ),
           const SizedBox(height: 8),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'l10n/locale_service.dart';
 
 import 'screens/home.dart';
 import 'screens/onboarding.dart';
@@ -15,6 +16,7 @@ Future<void> main() async {
   // Manrope забандлен в assets/google_fonts — работаем офлайн, без догрузки.
   GoogleFonts.config.allowRuntimeFetching = false;
   final state = AppState();
+  await LocaleService.init();
   await state.init();
   tree = await DecisionTree.load();
   runApp(StukApp(state: state));
@@ -28,14 +30,18 @@ class StukApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return AppScope(
       state: state,
-      child: MaterialApp(
+      // Перерисовываем всё приложение при смене языка: тексты теперь читаются
+      // из таблицы, а не зашиты в дерево виджетов.
+      child: ValueListenableBuilder<String>(
+        valueListenable: LocaleService.current,
+        builder: (context, _, child) => MaterialApp(
         title: S.appName,
         theme: buildTheme(),
         debugShowCheckedModeBanner: false,
         home: state.car == null
             ? const OnboardingCarScreen(firstRun: true)
             : const HomeScreen(),
-      ),
+      )),
     );
   }
 }

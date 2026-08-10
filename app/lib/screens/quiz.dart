@@ -75,7 +75,7 @@ class _QuizScreenState extends State<QuizScreen> {
       },
       child: Scaffold(
         appBar: AppBar(
-          title: const Text(S.quizTitle),
+          title: Text(S.quizTitle),
           leading: BackButton(onPressed: () {
             if (_goBack()) Navigator.of(context).pop();
           }),

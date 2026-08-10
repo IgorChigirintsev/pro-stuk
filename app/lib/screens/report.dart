@@ -24,7 +24,7 @@ class ReportScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(S.repTitle),
+        title: Text(S.repTitle),
         leading: justCreated
             ? IconButton(
                 icon: const Icon(Icons.close),
@@ -49,7 +49,7 @@ class ReportScreen extends StatelessWidget {
           children: [
             TrafficLightPlaque(
                 urgency: report.urgency, reason: report.urgencyReason),
-            const SectionTitle(S.repCauses),
+            SectionTitle(S.repCauses),
             for (final c in report.causes)
               Padding(
                 padding: const EdgeInsets.only(bottom: 12),
@@ -77,7 +77,7 @@ class ReportScreen extends StatelessWidget {
               ),
             ],
             if (report.mechanicBrief.isNotEmpty) ...[
-              const SectionTitle(S.repBrief),
+              SectionTitle(S.repBrief),
               SurfaceCard(
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
@@ -105,7 +105,7 @@ class ReportScreen extends StatelessWidget {
               ),
             ],
             if (report.mechanicQuestions.isNotEmpty) ...[
-              const SectionTitle(S.repQuestions),
+              SectionTitle(S.repQuestions),
               SurfaceCard(
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
@@ -135,7 +135,7 @@ class ReportScreen extends StatelessWidget {
               ),
             ],
             if (report.redFlags.isNotEmpty) ...[
-              const SectionTitle(S.repRedFlags),
+              SectionTitle(S.repRedFlags),
               SurfaceCard(
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,

@@ -108,7 +108,7 @@ class _AnalyzeScreenState extends State<AnalyzeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text(S.anTitle), automaticallyImplyLeading: _error != null),
+      appBar: AppBar(title: Text(S.anTitle), automaticallyImplyLeading: _error != null),
       body: SafeArea(
         child: Padding(
           padding: const EdgeInsets.all(20),
@@ -158,11 +158,11 @@ class _AnalyzeScreenState extends State<AnalyzeScreen> {
             style: Theme.of(context).textTheme.titleMedium),
         const SizedBox(height: 24),
         if (_retryable)
-          ElevatedButton(onPressed: _run, child: const Text(S.anRetry)),
+          ElevatedButton(onPressed: _run, child: Text(S.anRetry)),
         const SizedBox(height: 12),
         OutlinedButton(
           onPressed: () => Navigator.of(context).pop(),
-          child: const Text(S.anBack),
+          child: Text(S.anBack),
         ),
       ],
     );

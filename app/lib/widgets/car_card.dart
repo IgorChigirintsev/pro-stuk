@@ -65,7 +65,7 @@ class _CarCardState extends State<CarCard> {
               ),
               GestureDetector(
                 onTap: widget.onOpenProfile,
-                child: const Text(S.garageLink,
+                child: Text(S.garageLink,
                     style: TextStyle(fontSize: 13, color: T.accent)),
               ),
             ],
@@ -83,7 +83,7 @@ class _CarCardState extends State<CarCard> {
                 controller: _ctrl,
                 keyboardType: TextInputType.number,
                 inputFormatters: [FilteringTextInputFormatter.digitsOnly],
-                decoration: const InputDecoration(
+                decoration: InputDecoration(
                   isDense: true,
                   labelText: S.mileageNow,
                   suffixText: 'км',
@@ -97,12 +97,12 @@ class _CarCardState extends State<CarCard> {
                 if (v != null) st.setMileage(v);
                 FocusScope.of(context).unfocus();
               },
-              child: const Text(S.mileageOk),
+              child: Text(S.mileageOk),
             ),
           ]),
           if (upcoming.isNotEmpty) ...[
             const SizedBox(height: 14),
-            const Text(S.upcomingTitle,
+            Text(S.upcomingTitle,
                 style: TextStyle(fontSize: 13, color: T.inkSoft)),
             const SizedBox(height: 6),
             for (final s in upcoming)
@@ -135,7 +135,7 @@ class _CarCardState extends State<CarCard> {
             const SizedBox(height: 10),
             GestureDetector(
               onTap: widget.onOpenProfile,
-              child: const Text(
+              child: Text(
                 S.upcomingEmpty,
                 style: TextStyle(fontSize: 13, color: T.accent),
               ),

@@ -1,54 +1,115 @@
-/// Все строки интерфейса — в одном файле (§10 спеки). Язык — только русский.
-abstract final class S {
-  static const appName = 'Стук';
-  static const appTagline = 'диагностика по звуку';
+import 'l10n/l10n.dart';
 
-  // Онбординг — машина
-  static const carTitle = 'Какая у вас машина?';
-  static const carSubtitle =
-      'Марка, возраст и пробег помогают точнее оценить причину звука.';
-  static const carMake = 'Марка';
-  static const carMakeHint = 'Например, Toyota';
-  static const carModel = 'Модель';
-  static const carModelHint = 'Например, Camry';
-  static const carYear = 'Год выпуска';
-  static const carMileage = 'Пробег, км';
-  static const carMileageHint = 'Например, 150000';
-  static const carSave = 'Сохранить';
-  static const carFillAll = 'Заполните все поля — это займёт полминуты.';
+/// Тексты интерфейса. Значения берутся из таблицы текущего языка,
+/// поэтому это геттеры, а не константы: язык меняется на лету.
+class S {
+  static String get hiwBody => L.t('hiwBody');
+  static String get appName => L.t('appName');
+  static String get appTagline => L.t('appTagline');
+  static String get carTitle => L.t('carTitle');
+  static String get carSubtitle => L.t('carSubtitle');
+  static String get carMake => L.t('carMake');
+  static String get carMakeHint => L.t('carMakeHint');
+  static String get carModel => L.t('carModel');
+  static String get carModelHint => L.t('carModelHint');
+  static String get carYear => L.t('carYear');
+  static String get carMileage => L.t('carMileage');
+  static String get carMileageHint => L.t('carMileageHint');
+  static String get carSave => L.t('carSave');
+  static String get carFillAll => L.t('carFillAll');
+  static String get diagnose => L.t('diagnose');
+  static String get diagnoseBySound => L.t('diagnoseBySound');
+  static String get diagnoseBySoundNote => L.t('diagnoseBySoundNote');
+  static String get howItWorksLink => L.t('howItWorksLink');
+  static String get historyTitle => L.t('historyTitle');
+  static String get historyEmpty => L.t('historyEmpty');
+  static String get quickReport => L.t('quickReport');
+  static String get fullReport => L.t('fullReport');
+  static String get quizTitle => L.t('quizTitle');
+  static String get verdictTitle => L.t('verdictTitle');
+  static String get verdictLikely => L.t('verdictLikely');
+  static String get verdictAlt => L.t('verdictAlt');
+  static String get verdictWhat => L.t('verdictWhat');
+  static String get verdictAdvice => L.t('verdictAdvice');
+  static String get verdictRefine => L.t('verdictRefine');
+  static String get verdictRefineNote => L.t('verdictRefineNote');
+  static String get verdictEnough => L.t('verdictEnough');
+  static String get urgOk => L.t('urgOk');
+  static String get urgWarn => L.t('urgWarn');
+  static String get urgStop => L.t('urgStop');
+  static String get recTitle => L.t('recTitle');
+  static String get recInstructionTitle => L.t('recInstructionTitle');
+  static String get recStart => L.t('recStart');
+  static String get recStop => L.t('recStop');
+  static String get recListen => L.t('recListen');
+  static String get recStopListen => L.t('recStopListen');
+  static String get recAgain => L.t('recAgain');
+  static String get recSend => L.t('recSend');
+  static String get recTooShort => L.t('recTooShort');
+  static String get recMicTitle => L.t('recMicTitle');
+  static String get recMicExplain => L.t('recMicExplain');
+  static String get recMicContinue => L.t('recMicContinue');
+  static String get recMicDeniedTitle => L.t('recMicDeniedTitle');
+  static String get recMicDenied => L.t('recMicDenied');
+  static String get recOpenSettings => L.t('recOpenSettings');
+  static String get anTitle => L.t('anTitle');
+  static String get anWait => L.t('anWait');
+  static String get anRetry => L.t('anRetry');
+  static String get anBack => L.t('anBack');
+  static String get anErrNetwork => L.t('anErrNetwork');
+  static String get anErrServer => L.t('anErrServer');
+  static String get repTitle => L.t('repTitle');
+  static String get repCauses => L.t('repCauses');
+  static String get repWhy => L.t('repWhy');
+  static String get repCheck => L.t('repCheck');
+  static String get repBrief => L.t('repBrief');
+  static String get repQuestions => L.t('repQuestions');
+  static String get repRedFlags => L.t('repRedFlags');
+  static String get repShare => L.t('repShare');
+  static String get setTitle => L.t('setTitle');
+  static String get carFormTitle => L.t('carFormTitle');
+  static String get setVersion => L.t('setVersion');
+  static String get setCheckUpdate => L.t('setCheckUpdate');
+  static String get setUpToDate => L.t('setUpToDate');
+  static String get setUpdateAvailable => L.t('setUpdateAvailable');
+  static String get setDownload => L.t('setDownload');
+  static String get setCheckFailed => L.t('setCheckFailed');
+  static String get setSite => L.t('setSite');
+  static String get setPolicy => L.t('setPolicy');
+  static String get hiwTitle => L.t('hiwTitle');
+  static String get disclaimerShort => L.t('disclaimerShort');
+  static String get garageTitle => L.t('garageTitle');
+  static String get garageLink => L.t('garageLink');
+  static String get garageCars => L.t('garageCars');
+  static String get garageAddCar => L.t('garageAddCar');
+  static String get garageEmpty => L.t('garageEmpty');
+  static String get garageSettings => L.t('garageSettings');
+  static String get mileageNow => L.t('mileageNow');
+  static String get mileageUpdate => L.t('mileageUpdate');
+  static String get mileageOk => L.t('mileageOk');
+  static String get mileageHint => L.t('mileageHint');
+  static String get bookTitle => L.t('bookTitle');
+  static String get bookNote => L.t('bookNote');
+  static String get bookEmptyHint => L.t('bookEmptyHint');
+  static String get bookAllGood => L.t('bookAllGood');
+  static String get bookOverdue => L.t('bookOverdue');
+  static String get bookSoon => L.t('bookSoon');
+  static String get bookAskAgo => L.t('bookAskAgo');
+  static String get bookAskHint => L.t('bookAskHint');
+  static String get bookCancel => L.t('bookCancel');
+  static String get bookSave => L.t('bookSave');
+  static String get bookReset => L.t('bookReset');
+  static String get bookByCondition => L.t('bookByCondition');
+  static String get upcomingTitle => L.t('upcomingTitle');
+  static String get upcomingEmpty => L.t('upcomingEmpty');
+  static String get histEmpty => L.t('histEmpty');
+  static String get histFull => L.t('histFull');
+  static String get histQuick => L.t('histQuick');
+  static String get shareText => L.t('shareText');
 
-  // Главный экран
-  static const diagnose = 'Диагностировать';
-  static const diagnoseBySound = 'Сразу записать звук';
-  static const diagnoseBySoundNote = 'Без опросника: только запись и анализ';
-  static const howItWorksLink = 'Как это работает';
-  static const historyTitle = 'История';
-  static const historyEmpty =
-      'Здесь появятся отчёты. Нажмите «Диагностировать», чтобы разобраться с первым звуком.';
-  static const quickReport = 'Быстрый вердикт';
-  static const fullReport = 'Отчёт по звуку';
+  static String get langTitle => L.t('langTitle');
+  static String get langHint => L.t('langHint');
 
-  // Опросник
-  static const quizTitle = 'Опросник';
-
-  // Вердикт
-  static const verdictTitle = 'Предварительный вердикт';
-  static const verdictLikely = 'Вероятная причина';
-  static const verdictAlt = 'Похожие причины: ';
-  static const verdictWhat = 'Что это значит';
-  static const verdictAdvice = 'Что делать';
-  static const verdictRefine = 'Уточнить по звуку — точный отчёт';
-  static const verdictRefineNote = 'Пока бесплатно, до 3 отчётов в день';
-  static const verdictEnough = 'Достаточно';
-
-  // Светофор
-  static const urgOk = 'Можно ехать';
-  static const urgWarn = 'В сервис на неделе';
-  static const urgStop = 'Остановиться';
-
-  // Запись
-  static const recTitle = 'Запись звука';
-  static const recInstructionTitle = 'Как записать';
   static const recInstructions = [
     'Двигатель заведён.',
     'Телефон ближе к источнику звука.',
@@ -56,76 +117,13 @@ abstract final class S {
     'Если звук зависит от газа — плавно перегазовать во время записи.',
     'Не разговаривать рядом с телефоном.',
   ];
-  static const recStart = 'Записать звук';
-  static const recStop = 'Остановить';
-  static const recListen = 'Прослушать';
-  static const recStopListen = 'Пауза';
-  static const recAgain = 'Перезаписать';
-  static const recSend = 'Отправить на анализ';
-  static const recTooShort =
-      'Запись короче 5 секунд. Запишите ещё раз — 15–30 секунд достаточно.';
-  static const recMicTitle = 'Нужен доступ к микрофону';
-  static const recMicExplain =
-      'Диагностика строится на записи звука двигателя или подвески. Микрофон используется только в момент записи; аудио анализируется на сервере и не хранится после анализа.';
-  static const recMicContinue = 'Продолжить';
-  static const recMicDeniedTitle = 'Доступ к микрофону запрещён';
-  static const recMicDenied =
-      'Без микрофона записать звук не получится. Разрешение можно включить в настройках приложения.';
-  static const recOpenSettings = 'Открыть настройки';
 
-  // Анализ
-  static const anTitle = 'Анализ';
   static const anStages = [
     'Слушаю запись…',
     'Считаю спектр…',
     'Сопоставляю с симптомами…',
   ];
-  static const anWait = 'Обычно это занимает до минуты.';
-  static const anRetry = 'Повторить';
-  static const anBack = 'Вернуться';
-  static const anErrNetwork =
-      'Нет связи с сервером. Проверьте интернет и попробуйте ещё раз — запись сохранена.';
-  static const anErrServer =
-      'Не получилось проанализировать, попробуйте ещё раз.';
 
-  // Отчёт
-  static const repTitle = 'Отчёт';
-  static const repCauses = 'Вероятные причины';
-  static const repWhy = 'Почему';
-  static const repCheck = 'Проверить самому';
-  static const repBrief = 'Скажите в сервисе';
-  static const repQuestions = 'Вопросы механика';
-  static const repRedFlags = 'Когда остановиться немедленно';
-  static const repShare = 'Поделиться';
-
-  // Настройки
-  static const setTitle = 'Настройки';
-  static const carFormTitle = 'Машина';
-  static const setVersion = 'Версия приложения';
-  static const setCheckUpdate = 'Проверить обновления';
-  static const setUpToDate = 'У вас последняя версия.';
-  static const setUpdateAvailable = 'Доступна новая версия';
-  static const setDownload = 'Скачать обновление';
-  static const setCheckFailed =
-      'Не удалось проверить обновления. Попробуйте позже.';
-  static const setSite = 'Сайт';
-  static const setPolicy = 'Политика конфиденциальности';
-
-  // Как это работает
-  static const hiwTitle = 'Как это работает';
-  static const hiwBody = '''
-1. Вопросы. Короткий опросник сужает круг причин: когда слышен звук, на что похож, от чего зависит. Это главный источник диагноза — так же начинает и механик.
-
-2. Звук. Запись 15–30 секунд уходит на сервер. Алгоритмы считают спектр, ритм ударов и обороты, а языковая модель сопоставляет всё с ответами опросника и типовыми болезнями конкретной модели.
-
-3. Отчёт. Вероятные причины с процентами, светофор срочности и подсказки: что сказать в сервисе и что проверить самому.
-
-Результат — вероятностная оценка, а не диагноз. Точность зависит от качества записи и честности ответов. Итоговое решение о ремонте принимает механик после осмотра.''';
-
-  static const disclaimerShort =
-      'Это вероятностная оценка, а не диагноз. Решение о ремонте принимает механик после осмотра.';
-
-  // Популярные марки для подсказок
   static const makes = [
     'Toyota', 'Volkswagen', 'Skoda', 'Kia', 'Hyundai', 'Lada', 'Chevrolet',
     'Nissan', 'Mazda', 'Honda', 'Mitsubishi', 'BMW', 'Mercedes-Benz', 'Audi',
@@ -133,47 +131,9 @@ abstract final class S {
     'Geely', 'Chery', 'Haval', 'УАЗ', 'ГАЗ',
   ];
 
-  // ── Гараж, сервисная книжка, история
-  static const garageTitle = 'Гараж';
-  static const garageLink = 'гараж';
-  static const garageCars = 'Мои машины';
-  static const garageAddCar = 'Добавить машину';
-  static const garageEmpty =
-      'Пока нет ни одной машины. Добавьте — появятся история разборов и сервисная книжка.';
-  static const garageSettings = 'Настройки и обновление';
-
-  static const mileageNow = 'Текущий пробег';
-  static const mileageUpdate = 'Обновить';
-  static const mileageOk = 'ОК';
-  static const mileageHint =
-      'От него считаются остатки по расходникам — и он же подставляется в анкету.';
-
-  static const bookTitle = 'Сервисная книжка';
-  static const bookNote =
-      'Интервалы даны диапазоном: разброс зависит от типа детали и условий. '
-      'Регламент производителя для вашей машины главнее.';
-  static const bookEmptyHint = 'Отметьте, что и когда меняли';
-  static const bookAllGood = 'Всё в пределах интервала';
-  static const bookOverdue = 'Пора менять';
-  static const bookSoon = 'Скоро';
-  static const bookAskAgo = 'Сколько километров назад меняли?';
-  static const bookAskHint = 'например, 3000';
-  static const bookCancel = 'Отмена';
-  static const bookSave = 'Сохранить';
-  static const bookReset = 'сбросить';
-  static const bookByCondition = 'смотреть по состоянию';
-
-  static const upcomingTitle = 'Ближайшие замены';
-  static const upcomingEmpty =
-      'Отметьте замены в гараже — покажу, что и когда пора делать';
-
-  static const histEmpty = 'Пока пусто — первый разбор появится здесь.';
-  static const histFull = 'разбор звука';
-  static const histQuick = 'быстрый вердикт';
-
   static const months = [
     'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
     'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
   ];
-  static const shareText = 'Разбор звука — приложение «Стук», pro-stuk.com';
+
 }

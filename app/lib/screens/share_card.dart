@@ -71,7 +71,7 @@ class _ShareCardScreenState extends State<ShareCardScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text(S.repShare)),
+      appBar: AppBar(title: Text(S.repShare)),
       body: SafeArea(
         child: Column(
           children: [
@@ -91,7 +91,7 @@ class _ShareCardScreenState extends State<ShareCardScreen> {
               padding: const EdgeInsets.fromLTRB(20, 0, 20, 20),
               child: ElevatedButton.icon(
                 icon: const Icon(Icons.share),
-                label: const Text(S.repShare),
+                label: Text(S.repShare),
                 onPressed: _sharing ? null : _share,
               ),
             ),

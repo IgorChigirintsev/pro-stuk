@@ -51,23 +51,23 @@ class _GarageScreenState extends State<GarageScreen> {
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text(S.bookAskAgo),
+            Text(S.bookAskAgo),
             const SizedBox(height: 12),
             TextField(
               controller: ctrl,
               autofocus: true,
               keyboardType: TextInputType.number,
               inputFormatters: [FilteringTextInputFormatter.digitsOnly],
-              decoration: const InputDecoration(hintText: S.bookAskHint),
+              decoration: InputDecoration(hintText: S.bookAskHint),
             ),
           ],
         ),
         actions: [
           TextButton(
-              onPressed: () => Navigator.pop(ctx), child: const Text(S.bookCancel)),
+              onPressed: () => Navigator.pop(ctx), child: Text(S.bookCancel)),
           TextButton(
             onPressed: () => Navigator.pop(ctx, int.tryParse(ctrl.text.trim())),
-            child: const Text(S.bookSave),
+            child: Text(S.bookSave),
           ),
         ],
       ),
@@ -82,7 +82,7 @@ class _GarageScreenState extends State<GarageScreen> {
     if (car != null) _syncMileageField(car);
 
     return Scaffold(
-      appBar: AppBar(title: const Text(S.garageTitle)),
+      appBar: AppBar(title: Text(S.garageTitle)),
       body: car == null
           ? Center(
               child: Padding(
@@ -90,7 +90,7 @@ class _GarageScreenState extends State<GarageScreen> {
                 child: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    const Text(
+                    Text(
                       S.garageEmpty,
                       textAlign: TextAlign.center,
                     ),
@@ -102,7 +102,7 @@ class _GarageScreenState extends State<GarageScreen> {
                             builder: (_) =>
                                 const OnboardingCarScreen(addNew: true)),
                       ),
-                      child: const Text(S.garageAddCar),
+                      child: Text(S.garageAddCar),
                     ),
                   ],
                 ),
@@ -130,7 +130,7 @@ class _GarageScreenState extends State<GarageScreen> {
                     MaterialPageRoute(
                         builder: (_) => const OnboardingCarScreen(addNew: true)),
                   ),
-                  child: const Text(S.garageAddCar),
+                  child: Text(S.garageAddCar),
                 ),
 
                 const SizedBox(height: 28),
@@ -152,11 +152,11 @@ class _GarageScreenState extends State<GarageScreen> {
                       final v = int.tryParse(_mileageCtrl.text.trim());
                       if (v != null) st.setMileage(v);
                     },
-                    child: const Text(S.mileageUpdate),
+                    child: Text(S.mileageUpdate),
                   ),
                 ]),
                 const SizedBox(height: 6),
-                const Text(
+                Text(
                   S.mileageHint,
                   style: TextStyle(fontSize: 13, color: T.inkSoft),
                 ),
@@ -165,13 +165,13 @@ class _GarageScreenState extends State<GarageScreen> {
                 Card(
                   clipBehavior: Clip.antiAlias,
                   child: ExpansionTile(
-                    title: const Text(S.bookTitle),
+                    title: Text(S.bookTitle),
                     subtitle: Text(_bookSummary(car),
                         style: const TextStyle(fontSize: 13, color: T.inkSoft)),
                     childrenPadding: const EdgeInsets.fromLTRB(12, 0, 12, 12),
                     children: [
-                      const Padding(
-                        padding: EdgeInsets.only(bottom: 10),
+                      Padding(
+                        padding: const EdgeInsets.only(bottom: 10),
                         child: Text(
                           S.bookNote,
                           style: TextStyle(fontSize: 13, color: T.inkSoft),
@@ -199,7 +199,7 @@ class _GarageScreenState extends State<GarageScreen> {
                     style: Theme.of(context).textTheme.titleMedium),
                 const SizedBox(height: 8),
                 if (st.historyForCar.isEmpty)
-                  const Text(S.histEmpty,
+                  Text(S.histEmpty,
                       style: TextStyle(color: T.inkSoft))
                 else
                   for (final h in st.historyForCar) _HistoryCard(entry: h),
@@ -207,7 +207,7 @@ class _GarageScreenState extends State<GarageScreen> {
                 const SizedBox(height: 24),
                 OutlinedButton.icon(
                   icon: const Icon(Icons.settings_outlined, size: 18),
-                  label: const Text(S.garageSettings),
+                  label: Text(S.garageSettings),
                   onPressed: () => Navigator.push(context,
                       MaterialPageRoute(builder: (_) => const SettingsScreen())),
                 ),
@@ -386,7 +386,7 @@ class _ServiceTile extends StatelessWidget {
           if (onClear != null)
             GestureDetector(
               onTap: onClear,
-              child: const Text(S.bookReset,
+              child: Text(S.bookReset,
                   style: TextStyle(fontSize: 11, color: T.inkSoft)),
             ),
         ],
