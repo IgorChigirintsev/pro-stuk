@@ -788,5 +788,78 @@
   ],
   "explanation": "Um chocalhar de plástico próximo e grilos nas irregularidades pequenas são atrito e folga dos painéis do interior: tablier, painéis das portas, porta-luvas. Com frio soa mais. O teste certeiro: se em andamento carregar com a mão no painel suspeito e o barulho desaparecer, é o interior e não o trem rolante.",
   "advice": "Não é uma avaria: o carro está bom. Tire as coisas soltas do porta-luvas e dos bolsos e meta um pedaço de fita de feltro na junta que encontrou. O ranger à volta das portas resolve-se tratando as borrachas com massa de silicone. Uma pancada do trem rolante, essa, é surda, vem de baixo e não muda quando se carrega nos painéis."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Carga solta ou pneu suplente mal preso na bagageira",
+  "alt_causes": [
+   "Macaco e ferramentas",
+   "Tampão da bagageira"
+  ],
+  "explanation": "Uma pancada surda ou estrondo atrás nos buracos, como se algo saltasse e rolasse, é quase sempre exatamente isso: o macaco, a chave de rodas, um pneu suplente mal apertado ou o tampão da bagageira solto. Com a bagageira carregada, o barulho normalmente muda ou desaparece.",
+  "advice": "Esvazie a bagageira, verifique a fixação do pneu suplente e do macaco, encaixe bem o tampão — e volte a passar no mesmo troço. Se o barulho desapareceu, a suspensão não tem nada a ver e não é preciso fazer mais nada. Se continuar, refaça o diagnóstico pelo ramo das pancadas em piso irregular."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Fecho ou batentes do capô",
+  "alt_causes": [
+   "Dobradiças do capô",
+   "Retentor da porta"
+  ],
+  "explanation": "Um bater metálico à frente e em cima, junto ao bordo do capô, nas irregularidades pequenas, é folga no fecho do capô ou batentes de borracha cedidos onde ele assenta. Dentro do carro o barulho ouve-se perto, como à frente do rosto, e não vindo de baixo como uma pancada da suspensão.",
+  "advice": "Teste com o carro parado: carregue no capô fechado; se ele joga e bate, o diagnóstico fica confirmado. Desenrosque meia volta para cima os batentes de borracha dos cantos, para o capô assentar com mais firmeza: na maioria dos casos chega. Não há perigo."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Tuchos hidráulicos (a frio)",
+  "alt_causes": [
+   "Folga das válvulas",
+   "Óleo demasiado espesso"
+  ],
+  "explanation": "Os tuchos hidráulicos são peças pequenas que, com a pressão do óleo, eliminam a folga a mais nas válvulas. Enquanto o motor está frio, o óleo está espesso e não lhes chega logo — daí o tiquetaque rápido nos primeiros minutos. Se o barulho desaparecer por completo depois de o motor aquecer, é a situação típica e não é perigosa.",
+  "advice": "Verifique o nível do óleo e há quanto tempo não é mudado: óleo velho ou inadequado aumenta o barulho. Se o tiquetaque durar mais do que dois ou três minutos ou se mantiver com o motor quente, marque oficina. Não deite aditivos que prometem calar o motor."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Desgaste do conjunto pistão-cilindro (pancada a frio)",
+  "alt_causes": [
+   "Tuchos hidráulicos",
+   "Corrente de distribuição"
+  ],
+  "explanation": "Uma pancada surda nos primeiros minutos depois de um arranque a frio, que desaparece à medida que o motor aquece, vem muitas vezes, em carros com quilómetros, do desgaste do conjunto pistão-cilindro: enquanto o pistão está frio tem um pouco mais de folga no cilindro e bate. Depois de aquecer, as peças dilatam e a pancada desaparece. Normalmente é caso para vigiar, não para reparar com urgência.",
+  "advice": "Conte na oficina na próxima visita e repare quantos minutos dura a pancada: é informação útil para o mecânico. Vigie o nível e o consumo de óleo. Se a pancada deixar de desaparecer com o motor quente ou passar a ouvir-se em esforço, a diagnóstico sem adiar."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Corrente de distribuição ou o seu tensor",
+  "alt_causes": [
+   "Tuchos hidráulicos",
+   "Roletes da correia de acessórios"
+  ],
+  "explanation": "A corrente de distribuição é a corrente dentro do motor que liga os seus veios e faz as válvulas abrir no momento certo. Quando se alonga ou o tensor perde força, no arranque a frio ouve-se um roçar ou chocalhar à frente do motor, que acalma depois de aquecer, quando a pressão do óleo sobe. Com o tempo o barulho aparece cada vez mais vezes.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: uma corrente que salta um dente é uma reparação de motor cara. Até lá, evite arranques bruscos a frio e deixe o motor aquecer antes de o exigir. Verifique sem falta o nível do óleo."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "A correia de acessórios patina",
+  "alt_causes": [
+   "Rolete tensor gasto",
+   "Tensão da correia insuficiente"
+  ],
+  "explanation": "Um guincho nos primeiros segundos depois do arranque vem quase sempre da correia que move o alternador, a bomba de água e o compressor do ar condicionado. A frio ou com tempo húmido ela patina nas polias e assobia; depois aquece e cala-se. Neste momento não é perigoso, mas indica correia gasta ou tensão frouxa.",
+  "advice": "Mande ver a correia na oficina quando puder: a inspeção visual leva dois minutos. Se o assobio passar a aparecer também com o motor quente ou ao ligar o ar condicionado, não adie. Não pulverize WD-40 na correia nem tente outros truques caseiros."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Folga das válvulas excessiva",
+  "alt_causes": [
+   "Tuchos hidráulicos",
+   "Corrente de distribuição"
+  ],
+  "explanation": "Um tiquetaque rápido e regular na parte de cima do motor é o som típico da distribuição. Com o tempo as folgas entre as suas peças aumentam e as válvulas começam a bater; ao ralenti é quando melhor se ouve. O motor não se estraga já por causa disso, mas as válvulas trabalham com pancada e desgastam-se mais depressa.",
+  "advice": "Marque a afinação das válvulas ou a verificação dos tuchos hidráulicos dentro de duas semanas. Vigie o nível do óleo: com o nível baixo o tiquetaque aumenta. Pode conduzir com tranquilidade, mas não deixe isto para daqui a meses."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Pancada na parte de baixo do motor (chumaceiras, bielas)",
+  "alt_causes": [
+   "Detonação",
+   "Desgaste do conjunto pistão-cilindro",
+   "Polia do cambota (amortecedor de vibrações)"
+  ],
+  "explanation": "Uma pancada surda vinda do fundo do motor, que fica mais rápida com as rotações e mais forte em esforço, é o mais preocupante de todos os barulhos do motor. É assim que batem chumaceiras gastas — os apoios onde a cambota roda — ou as bielas: apareceu folga nas ligações e as peças batem umas nas outras. Se continuar a andar, o motor pode gripar.",
+  "advice": "Não ande pelo seu próprio pé mais do que o estritamente necessário: melhor chamar o reboque; se a oficina for mesmo ao lado, vá devagar e sem acelerar. Verifique já o nível do óleo e complete se estiver baixo. Coisas menos graves podem soar de forma parecida, mas quem tem de verificar é um mecânico — e depressa."
  }
 }
