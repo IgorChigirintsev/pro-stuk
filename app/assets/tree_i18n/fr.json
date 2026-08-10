@@ -429,5 +429,76 @@
   ],
   "explanation": "Un gargouillis derrière la planche de bord, c'est une bulle d'air qui traverse le radiateur de chauffage. L'air entre dans le circuit quand le niveau de liquide de refroidissement a baissé : il y a une fuite quelque part, ou le bouchon du vase d'expansion ne tient plus la pression. Le chauffage peut alors souffler tantôt chaud, tantôt froid.",
   "advice": "Moteur froid, vérifiez le niveau dans le vase d'expansion et complétez jusqu'au repère, puis surveillez s'il rebaisse. Si le niveau continue de descendre ou si le chauffage souffle froid moteur chaud, au garage cette semaine. Si l'aiguille de température monte ou si de la vapeur sort du capot : arrêtez-vous et coupez le moteur."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "L'embrayage du compresseur de clim patine",
+  "alt_causes": [
+   "Courroie détendue",
+   "Plateau de pression de l’embrayage usé"
+  ],
+  "explanation": "Un sifflement pile au moment où l'on enclenche la climatisation : l'embrayage qui relie le compresseur à la courroie patine sous la charge. Un simple claquement à l'enclenchement est normal ; le sifflement, lui, signale un embrayage usé ou une courroie trop détendue.",
+  "advice": "Faites voir ça au garage dans les deux semaines : si on laisse traîner, le sifflement devient permanent et le compresseur peut se bloquer et casser la courroie. En attendant, vous pouvez utiliser la clim, mais coupez-la si le sifflement s'accentue."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Compresseur de climatisation (roulement ou usure)",
+  "alt_causes": [
+   "Roulement de la poulie d’embrayage",
+   "Niveau d’huile insuffisant dans le circuit"
+  ],
+  "explanation": "Un frottement ou un grondement qui ne s'entend qu'avec la climatisation en marche vient d'un compresseur en fin de vie ou du roulement de sa poulie. Un compresseur qui se bloque casse la courroie — et sur beaucoup de voitures, cette courroie entraîne aussi l'alternateur et la pompe à eau.",
+  "advice": "N'utilisez plus la climatisation pour l'instant : l'ensemble tiendra jusqu'à la réparation. Prenez rendez-vous pour un diagnostic dans la semaine : tant que seul le roulement s'abîme, la réparation coûte nettement moins cher qu'un compresseur neuf avec rinçage complet du circuit."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Circulation normale du fluide frigorigène",
+  "alt_causes": [
+   "Fonctionnement normal du détendeur"
+  ],
+  "explanation": "Un bref chuintement ou gargouillis derrière la planche de bord dans les premières secondes après l'enclenchement ou l'arrêt de la climatisation, c'est le fluide frigorigène qui passe par le détendeur. Si l'habitacle refroidit, c'est le fonctionnement normal du système, pas une fuite.",
+  "advice": "Vous n'avez rien à faire. Ce qui justifierait une vérification, c'est autre chose : si le chuintement devient permanent et que le froid disparaît ou faiblit, prenez rendez-vous pour un contrôle de la climatisation."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Roulement d’arbre primaire de boîte",
+  "alt_causes": [
+   "Butée d’embrayage",
+   "Galets de la courroie d’accessoires"
+  ],
+  "explanation": "Un bruissement ou un bourdonnement au ralenti qui s'atténue quand on débraye vient de la boîte : tant que la pédale est relâchée, l'arbre primaire tourne avec le moteur et son roulement usé fait du bruit. En débrayant, l'arbre s'arrête et le bruit disparaît. La courroie et ses galets, eux, ne réagissent pas du tout à la pédale d'embrayage.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines et signalez impérativement le lien avec la pédale : ça oriente la recherche tout de suite. Vérifiez le niveau d'huile de boîte. Vous pouvez rouler, mais ne laissez pas traîner des mois : un roulement détruit emporte avec lui les arbres et les pignons."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Butée d’embrayage",
+  "alt_causes": [
+   "Roulement d’arbre primaire",
+   "Fourchette d’embrayage"
+  ],
+  "explanation": "Un bruissement ou un bourdonnement qui apparaît ou augmente pédale d'embrayage enfoncée vient de la butée : la pièce qui appuie sur le mécanisme d'embrayage au moment du débrayage. Une butée usée fait du bruit précisément en charge, c'est-à-dire pédale enfoncée.",
+  "advice": "Prenez rendez-vous au garage dans une à deux semaines. Gardez moins souvent la pédale enfoncée sans nécessité : au feu rouge, point mort et relâchez l'embrayage. Une butée qui casse peut vous laisser sans embrayage en route, il ne faut donc pas laisser traîner des mois."
+ },
+ "leaf_dmf": {
+  "top_cause": "Volant moteur bimasse",
+  "alt_causes": [
+   "Ressorts du disque d’embrayage",
+   "Butée d’embrayage"
+  ],
+  "explanation": "Un cliquetis métallique au ralenti du côté de la boîte, qui change quand on débraye et s'entend surtout dans les secondes du démarrage et de l'arrêt du moteur, c'est la signature typique d'un volant bimasse usé : l'amortisseur placé entre le moteur et la boîte pour absorber les à-coups.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans les deux semaines et décrivez le lien avec la pédale et avec le démarrage et l'arrêt du moteur. Le remplacement n'est pas donné, mais laisser traîner abîme aussi l'embrayage et peut finir par la destruction du volant en roulant. En attendant, démarrez en douceur et ne faites pas peiner le moteur à bas régime."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mécanisme de la pédale d'embrayage (axe, fourchette, câble)",
+  "alt_causes": [
+   "Bagues de l’axe de pédale",
+   "Fourchette de butée"
+  ],
+  "explanation": "Un grincement à l'appui sur la pédale, audible même moteur coupé, c'est de la mécanique sèche dans la commande d'embrayage : l'axe de pédale, le câble ou la fourchette. Puisque le bruit existe sans moteur tournant, la courroie, la butée et la boîte n'y sont pour rien.",
+  "advice": "Demandez au garage de graisser l'axe de pédale et la fourchette lors du prochain passage : ça se règle souvent en quelques minutes. Il n'y a pas de danger. Si, en plus du grincement, la pédale est devenue dure ou que l'embrayage ne mord qu'en toute fin de course, montrez la voiture plus tôt."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Butée de suspension (coupelle d’amortisseur)",
+  "alt_causes": [
+   "Crémaillère de direction",
+   "Biellettes de barre stabilisatrice"
+  ],
+  "explanation": "Un craquement ou des claquements quand on tourne le volant à l'arrêt, venant du haut, du passage de roue, sont produits par la butée de suspension : le roulement sur lequel le haut de la jambe de force pivote avec la roue. Autre indice : des chocs isolés venant du haut sur les nids-de-poule.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : le contrôle est simple, la main posée sur la coupelle sous le capot sent immédiatement les craquements. Vous pouvez rouler, mais une butée usée accélère l'usure de l'amortisseur et dégrade le rappel du volant."
  }
 }
