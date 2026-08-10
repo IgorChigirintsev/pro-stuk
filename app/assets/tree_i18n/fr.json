@@ -213,5 +213,84 @@
    "o3": "Un cognement quand on tourne le volant",
    "o4": "Un hurlement ou un bourdonnement quand on tourne le volant à l'arrêt ou en manœuvre"
   }
+ },
+ "q_bump_char": {
+  "text": "Quel bruit sur les bosses ?",
+  "options": {
+   "o1": "Un cognement ou un choc métallique",
+   "o2": "Un grincement, comme un vieux lit",
+   "o3": "Un cliquetis ou un vacarme de tôle",
+   "o4": "Un « boum » unique au premier démarrage après un long stationnement"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Quel genre de cognement exactement ?",
+  "options": {
+   "o1": "Un cognement sourd et répété sur les petites irrégularités",
+   "o2": "Des chocs sourds isolés dans les nids-de-poule et sur les ralentisseurs",
+   "o3": "Le choc remonte directement dans le volant, on le sent dans les mains",
+   "o4": "Le bruit est apparu d'un coup après un nid-de-poule et un coin de la voiture s'est affaissé"
+  }
+ },
+ "q_bump_where": {
+  "text": "Le cognement vient-il de l'avant ou de l'arrière ?",
+  "options": {
+   "o1": "De l'avant",
+   "o2": "De l'arrière",
+   "o3": "Difficile à dire"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "D'où vient le cliquetis ?",
+  "options": {
+   "o1": "De sous la voiture",
+   "o2": "De l'habitacle : planche de bord, portes, grillons",
+   "o3": "Du coffre, comme si quelque chose roulait",
+   "o4": "De l'avant en haut, vers le capot"
+  }
+ },
+ "q_move_manner": {
+  "text": "Quel est le lien entre le bruit et la conduite ?",
+  "options": {
+   "o1": "Il apparaît quand on appuie ou qu'on relâche l'accélérateur",
+   "o2": "Au moment du passage de vitesse ou du démarrage",
+   "o3": "On l’entend en permanence tant que la voiture roule",
+   "o4": "C'est plutôt une vibration ou un tremblement qu'un bruit"
+  }
+ },
+ "q_accel_char": {
+  "text": "À quoi ressemble le bruit à l'accélération ?",
+  "options": {
+   "o1": "Un tintement métallique, surtout en côte",
+   "o2": "Un cognement au moment où l'on appuie ou relâche l'accélérateur",
+   "o3": "Des pétarades ou un rugissement fort à l'échappement",
+   "o4": "Un hurlement ou un sifflement en charge"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Pétarades ou rugissement ?",
+  "options": {
+   "o1": "Des pétarades ou des détonations",
+   "o2": "Un rugissement, plus fort à l'accélération ; la voiture tire comme d'habitude",
+   "o3": "Le moteur hurle, le régime monte mais la voiture n'accélère pas ; parfois une odeur de brûlé"
+  }
+ },
+ "q_load_whine": {
+  "text": "Quel genre de hurlement en charge ?",
+  "options": {
+   "o1": "Un sifflement aigu uniquement à l'accélération, qui disparaît quand on relâche (moteur turbo)",
+   "o2": "Un bourdonnement dont le ton change quand on appuie et relâche l'accélérateur à vitesse constante",
+   "o3": "Un hurlement monotone à l'accélération ; la boîte est une CVT ou une automatique",
+   "o4": "Le hurlement est plus fort sur un rapport et plus faible sur un autre ; boîte manuelle"
+  }
+ },
+ "q_shift_char": {
+  "text": "Que se passe-t-il au passage des vitesses ou au démarrage ?",
+  "options": {
+   "o1": "Un à-coup ou un choc au passage de D à R sur une automatique, ou lors des changements de rapport",
+   "o2": "Un craquement en enclenchant une vitesse sur une boîte manuelle",
+   "o3": "La voiture broute au démarrage, pendant qu'on relâche l'embrayage",
+   "o4": "Un choc isolé sous la voiture au démarrage ou lors d'un changement de charge"
+  }
  }
 }
