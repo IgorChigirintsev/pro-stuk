@@ -30,16 +30,38 @@ class _ShareCardScreenState extends State<ShareCardScreen> {
 
   Future<void> _share() async {
     setState(() => _sharing = true);
+    final messenger = ScaffoldMessenger.of(context);
+    final ratio = MediaQuery.of(context).devicePixelRatio.clamp(1.0, 2.0);
+    final anchorBox = context.findRenderObject() as RenderBox?;
+    final anchor = anchorBox == null
+        ? null
+        : anchorBox.localToGlobal(Offset.zero) & anchorBox.size;
     try {
       final boundary = _boundaryKey.currentContext!.findRenderObject()
           as RenderRepaintBoundary;
-      final image = await boundary.toImage(pixelRatio: 3);
+      // pixelRatio 3 на длинной карточке даёт картинку в десятки мегапикселей:
+      // на слабых устройствах toImage падает по памяти, и шторка не открывается.
+      final image = await boundary.toImage(pixelRatio: ratio);
       final bytes = await image.toByteData(format: ui.ImageByteFormat.png);
+      image.dispose();
+      if (bytes == null) throw StateError('не удалось получить изображение');
+
       final dir = await getTemporaryDirectory();
       final file = File('${dir.path}/stuk_report.png');
-      await file.writeAsBytes(bytes!.buffer.asUint8List());
+      await file.writeAsBytes(bytes.buffer.asUint8List(), flush: true);
+
       await SharePlus.instance.share(
-        ShareParams(files: [XFile(file.path)], text: ''),
+        ShareParams(
+          files: [XFile(file.path, mimeType: 'image/png')],
+          text: S.shareText,
+          // Нужно для планшетов: без якоря шторка не знает, откуда выезжать.
+          sharePositionOrigin: anchor,
+        ),
+      );
+    } catch (e) {
+      // Раньше ошибка уходила в пустоту и выглядела как «кнопка не работает».
+      messenger.showSnackBar(
+        SnackBar(content: Text('Не удалось поделиться: $e')),
       );
     } finally {
       if (mounted) setState(() => _sharing = false);
