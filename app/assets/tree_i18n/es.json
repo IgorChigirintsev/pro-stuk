@@ -429,5 +429,76 @@
   ],
   "explanation": "Un borboteo o gorgoteo detrás del salpicadero es una burbuja de aire pasando por el radiador de la calefacción. El aire entra en el circuito cuando el nivel de refrigerante ha bajado: hay una fuga en algún punto o el tapón del vaso de expansión no aguanta la presión. La calefacción puede soplar unas veces caliente y otras fría.",
   "advice": "Con el motor frío, comprueba el nivel del vaso de expansión y rellénalo hasta la marca; luego vigila si vuelve a bajar. Si el nivel sigue cayendo o la calefacción sopla frío con el motor caliente, al taller esta semana. Si la aguja de temperatura sube o sale vapor: para y apaga el motor."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "El embrague del compresor del aire acondicionado patina",
+  "alt_causes": [
+   "Correa floja",
+   "Placa de presión del embrague desgastada"
+  ],
+  "explanation": "Un chillido justo en el momento de conectar el aire acondicionado significa que el embrague que une el compresor a la correa patina bajo carga. Un chasquido suelto al conectar es normal; el chillido, en cambio, indica un embrague desgastado o una correa floja.",
+  "advice": "Llévalo al taller en un par de semanas: si se deja pasar, el chillido se vuelve continuo y el compresor puede agarrotarse y romper la correa. Hasta la reparación puedes usar el aire, pero si el chillido va a más, apágalo."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Compresor del aire acondicionado (cojinete o desgaste)",
+  "alt_causes": [
+   "Cojinete de la polea del embrague",
+   "Nivel bajo de aceite en el circuito"
+  ],
+  "explanation": "Un roce o traqueteo que solo se oye con el aire acondicionado en marcha viene de un compresor que se está muriendo o del cojinete de su polea. Un compresor agarrotado rompe la correa, y en muchos coches esa correa mueve también el alternador y la bomba de agua.",
+  "advice": "De momento no conectes el aire: así el conjunto aguanta hasta la reparación. Pide diagnóstico dentro de esta semana: mientras solo se rompa el cojinete, la reparación sale mucho más barata que cambiar el compresor y limpiar todo el circuito."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Paso normal del refrigerante",
+  "alt_causes": [
+   "Funcionamiento normal de la válvula de expansión"
+  ],
+  "explanation": "Un siseo o borboteo corto detrás del salpicadero en los primeros segundos tras conectar o desconectar el aire acondicionado es el refrigerante pasando por la válvula de expansión. Si el habitáculo enfría, es el funcionamiento normal del sistema y no una fuga.",
+  "advice": "No hace falta hacer nada. El motivo para revisarlo sería otro: si el siseo se vuelve constante y no enfría o enfría poco, pide una revisión del aire acondicionado."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Rodamiento del eje primario de la caja de cambios",
+  "alt_causes": [
+   "Cojinete de empuje del embrague",
+   "Rodillos de la correa de accesorios"
+  ],
+  "explanation": "Un roce o zumbido al ralentí que se calma al pisar el embrague viene de la caja: con el pedal suelto, el eje primario gira con el motor y su rodamiento gastado hace ruido. Al pisar, el eje se para y el ruido desaparece. La correa y sus rodillos no reaccionan en absoluto al pedal del embrague.",
+  "advice": "Pide diagnóstico en una o dos semanas y cuenta sin falta la relación del ruido con el pedal: eso orienta la búsqueda desde el principio. Comprueba el nivel de aceite de la caja. Puedes seguir rodando, pero no lo alargues meses: un rodamiento roto se lleva por delante ejes y engranajes."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Cojinete de empuje del embrague",
+  "alt_causes": [
+   "Rodamiento del eje primario",
+   "Horquilla del embrague"
+  ],
+  "explanation": "Un roce o zumbido que aparece o aumenta con el pedal del embrague pisado lo produce el cojinete de empuje, la pieza que aprieta el plato de presión al pisar. Un cojinete gastado hace ruido precisamente bajo carga, es decir, con el pedal pisado.",
+  "advice": "Pide cita en el taller en una o dos semanas. Mantén el pedal pisado lo menos posible: en el semáforo, punto muerto y suelta el embrague. Un cojinete que se rompe puede dejarte sin embrague en marcha, así que no se puede alargar durante meses."
+ },
+ "leaf_dmf": {
+  "top_cause": "Volante motor bimasa",
+  "alt_causes": [
+   "Muelles del disco de embrague",
+   "Cojinete de empuje"
+  ],
+  "explanation": "Un cascabeleo metálico al ralentí por el lado de la caja, que cambia al pisar el embrague y se oye sobre todo en los segundos del arranque y del apagado, es la firma típica de un volante bimasa desgastado: el amortiguador entre motor y caja que absorbe los tirones.",
+  "advice": "Pide diagnóstico en un par de semanas y describe la relación del ruido con el pedal y con el arranque y el apagado. El cambio no es barato, pero alargarlo se lleva también el embrague y puede acabar con el volante roto en marcha. Hasta la reparación, arranca con suavidad y no fuerces el motor a pocas revoluciones."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mecanismo del pedal de embrague (eje, horquilla, cable)",
+  "alt_causes": [
+   "Casquillos del eje del pedal",
+   "Horquilla del cojinete de empuje"
+  ],
+  "explanation": "Un crujido al pisar el pedal que se oye incluso con el motor apagado es mecánica seca del mando del embrague: el eje del pedal, el cable o la horquilla. Como el ruido existe sin el motor en marcha, la correa, el cojinete de empuje y la caja no tienen nada que ver.",
+  "advice": "Pide en el taller que engrasen el eje del pedal y la horquilla en la próxima visita: muchas veces se resuelve en minutos. No hay peligro. Si junto al crujido el pedal se ha vuelto duro o el embrague agarra justo al final del recorrido, llévalo antes."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Cojinete del soporte superior del amortiguador",
+  "alt_causes": [
+   "Cremallera de dirección",
+   "Bieletas de la barra estabilizadora"
+  ],
+  "explanation": "Un crujido o chasquidos al girar el volante estando parado, que vienen de arriba, del paso de rueda, los produce el cojinete del soporte superior: la pieza sobre la que la parte alta del amortiguador gira junto con la rueda. Otra señal son golpes secos sueltos desde arriba al pasar baches.",
+  "advice": "Pide diagnóstico en una o dos semanas: la comprobación es sencilla, con la mano sobre la copela bajo el capó los chasquidos se notan enseguida. Puedes seguir rodando, pero un soporte gastado acelera el desgaste del amortiguador y empeora el retorno del volante."
  }
 }
