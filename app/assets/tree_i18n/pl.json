@@ -429,5 +429,76 @@
   ],
   "explanation": "Bulgotanie za deską rozdzielczą to pęcherz powietrza przechodzący przez nagrzewnicę. Powietrze trafia do układu, gdy poziom płynu chłodniczego spadł: gdzieś jest wyciek albo korek zbiorniczka nie trzyma ciśnienia. Ogrzewanie potrafi wtedy dmuchać raz ciepłym, raz zimnym.",
   "advice": "Na zimnym silniku sprawdź poziom w zbiorniczku wyrównawczym i uzupełnij do kreski, a potem obserwuj, czy znowu nie spada. Jeśli poziom dalej opada albo ogrzewanie dmucha zimnym przy ciepłym silniku, do warsztatu w tym tygodniu. Jeśli wskazówka temperatury idzie w górę albo spod maski leci para: zatrzymaj się i zgaś silnik."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Sprzęgło kompresora klimatyzacji ślizga się",
+  "alt_causes": [
+   "Poluzowany pasek",
+   "Zużyta tarcza dociskowa sprzęgła"
+  ],
+  "explanation": "Pisk dokładnie w chwili załączenia klimatyzacji oznacza, że sprzęgło łączące kompresor z paskiem ślizga się pod obciążeniem. Pojedyncze kliknięcie przy załączeniu jest normalne; pisk natomiast wskazuje na zużyte sprzęgło albo zbyt luźny pasek.",
+  "advice": "Pokaż to w warsztacie w ciągu dwóch tygodni: jeśli się to zaniedba, pisk zrobi się stały, a kompresor może się zatrzeć i zerwać pasek. Do naprawy możesz korzystać z klimatyzacji, ale gdy pisk się nasili — wyłącz ją."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Kompresor klimatyzacji (łożysko albo zużycie)",
+  "alt_causes": [
+   "Łożysko koła pasowego sprzęgła",
+   "Za mało oleju w układzie"
+  ],
+  "explanation": "Zgrzyt albo łomot słyszalny tylko przy pracującej klimatyzacji pochodzi od dogorywającego kompresora albo od łożyska jego koła pasowego. Zatarty kompresor zrywa pasek, a ten w wielu autach napędza też alternator i pompę wody.",
+  "advice": "Na razie nie włączaj klimatyzacji — dzięki temu podzespół dotrwa do naprawy. Umów diagnostykę w ciągu tygodnia: dopóki niszczy się tylko łożysko, naprawa jest wyraźnie tańsza niż nowy kompresor z płukaniem całego układu."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Normalny przepływ czynnika chłodniczego",
+  "alt_causes": [
+   "Normalna praca zaworu rozprężnego"
+  ],
+  "explanation": "Krótkie syknięcie albo bulgot za deską rozdzielczą w pierwszych sekundach po włączeniu lub wyłączeniu klimatyzacji to czynnik chłodniczy przepływający przez zawór rozprężny. Jeśli w kabinie robi się zimno, to normalna praca układu, a nie wyciek.",
+  "advice": "Nie trzeba nic robić. Powód do sprawdzenia byłby inny: jeśli syczenie stanie się ciągłe, a chłodu nie ma albo jest słaby — umów kontrolę układu klimatyzacji."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Łożysko wałka sprzęgłowego skrzyni biegów",
+  "alt_causes": [
+   "Łożysko oporowe sprzęgła",
+   "Rolki paska osprzętu"
+  ],
+  "explanation": "Szelest albo buczenie na wolnych obrotach, które cichnie po wciśnięciu sprzęgła, dochodzi ze skrzyni: przy puszczonym pedale wałek sprzęgłowy kręci się razem z silnikiem i hałasuje jego zużyte łożysko. Po wciśnięciu pedału wałek się zatrzymuje i dźwięk znika. Pasek i rolki na pedał sprzęgła nie reagują w ogóle.",
+  "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch i koniecznie opowiedz o związku dźwięku z pedałem — to od razu ukierunkuje poszukiwania. Sprawdź poziom oleju w skrzyni. Jeździć można, ale nie ciągnij tego miesiącami: rozsypane łożysko pociąga za sobą wałki i koła zębate."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Łożysko oporowe sprzęgła",
+  "alt_causes": [
+   "Łożysko wałka sprzęgłowego",
+   "Widelec sprzęgła"
+  ],
+  "explanation": "Szelest albo buczenie, które pojawia się lub nasila przy wciśniętym pedale sprzęgła, wydaje łożysko oporowe — element naciskający na docisk w chwili wysprzęglania. Zużyte łożysko oporowe hałasuje właśnie pod obciążeniem, czyli przy wciśniętym pedale.",
+  "advice": "Umów się do warsztatu w ciągu tygodnia albo dwóch. Trzymaj pedał wciśnięty tylko wtedy, gdy trzeba: na światłach wrzuć luz i puść sprzęgło. Rozsypane łożysko oporowe może zostawić cię bez sprzęgła w trasie, więc nie da się tego ciągnąć miesiącami."
+ },
+ "leaf_dmf": {
+  "top_cause": "Koło dwumasowe",
+  "alt_causes": [
+   "Sprężyny tarczy sprzęgła",
+   "Łożysko oporowe"
+  ],
+  "explanation": "Metaliczne grzechotanie na wolnych obrotach od strony skrzyni, które zmienia się po wciśnięciu sprzęgła i najlepiej słychać je w sekundach rozruchu i gaszenia silnika, to typowy podpis zużytego koła dwumasowego: tłumika między silnikiem a skrzynią, który wygasza szarpnięcia.",
+  "advice": "Umów diagnostykę w ciągu dwóch tygodni i opisz związek dźwięku z pedałem oraz z rozruchem i gaszeniem. Wymiana nie jest tania, ale zwlekanie wykańcza też sprzęgło i może skończyć się rozsypaniem koła w trasie. Do naprawy ruszaj łagodnie i nie męcz silnika na niskich obrotach."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mechanizm pedału sprzęgła (oś, widelec, linka)",
+  "alt_causes": [
+   "Tulejki osi pedału",
+   "Widelec łożyska oporowego"
+  ],
+  "explanation": "Skrzypienie przy naciskaniu pedału, słyszalne nawet przy zgaszonym silniku, to sucha mechanika napędu sprzęgła: oś pedału, linka albo widelec. Skoro dźwięk istnieje bez pracującego silnika, pasek, łożysko oporowe i skrzynia nie mają z tym nic wspólnego.",
+  "advice": "Poproś w warsztacie o przesmarowanie osi pedału i widelca przy najbliższej wizycie — często załatwia to sprawę w kilka minut. Nie ma zagrożenia. Jeśli razem ze skrzypieniem pedał zrobił się twardy albo sprzęgło łapie dopiero przy samej podłodze, pokaż auto wcześniej."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Łożysko górnego mocowania amortyzatora",
+  "alt_causes": [
+   "Przekładnia kierownicza",
+   "Łączniki stabilizatora"
+  ],
+  "explanation": "Chrupanie albo kliknięcia przy kręceniu kierownicą na postoju, dochodzące z góry, z nadkola, wydaje łożysko górnego mocowania: element, na którym góra kolumny obraca się razem z kołem. Dodatkowy objaw to pojedyncze stuknięcia z góry na dziurach.",
+  "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch: sprawdzenie jest proste, z ręką na miseczce amortyzatora pod maską kliknięcia czuć od razu. Jeździć można, ale zużyte mocowanie przyspiesza zużycie amortyzatora i pogarsza powrót kierownicy."
  }
 }
