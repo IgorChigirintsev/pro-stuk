@@ -357,5 +357,77 @@
    "o2": "Da dietro",
    "o3": "Difficile capirlo"
   }
+ },
+ "leaf_battery": {
+  "top_cause": "Batteria scarica o morsetti ossidati",
+  "alt_causes": [
+   "Massa che fa cattivo contatto",
+   "Motorino d’avviamento a fine vita"
+  ],
+  "explanation": "Un ticchettio rapido quando si prova ad avviare significa che al teleruttore del motorino d’avviamento manca corrente: scatta, ma non riesce a far girare il motore. Di solito la colpa è di una batteria scarica o di morsetti ossidati e mal serrati. Le spie del cruscotto che si affievoliscono durante il tentativo lo confermano.",
+  "advice": "Guarda i morsetti della batteria: raschia la patina bianca o verdastra e stringi i morsetti. Se non basta, ricarica la batteria oppure fai un avviamento con i cavi e vai a sostituirla in officina o in negozio. Se la batteria ha più di quattro o cinque anni, è quasi sempre lei."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Teleruttore o contatti di potenza del motorino d’avviamento",
+  "alt_causes": [
+   "Morsetti ossidati",
+   "Cablaggio verso il motorino d’avviamento"
+  ],
+  "explanation": "Un solo scatto netto con le spie che restano ben accese significa che il teleruttore lavora, ma il motorino d’avviamento non gira: contatti di potenza bruciati, spazzole consumate o teleruttore incollato. A volte l’auto parte comunque al secondo o terzo tentativo — la diagnosi è la stessa.",
+  "advice": "Prova ad avviare ancora qualche volta; se parte una volta su due, vai in officina nei prossimi giorni, prima di restare fermo in qualche parcheggio. Controlla e stringi i morsetti della batteria. Dare un colpo al motorino d’avviamento serve a tornare a casa una volta, non è una riparazione."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Pignone del motorino d’avviamento o corona del volano",
+  "alt_causes": [
+   "Denti della corona consumati",
+   "Motorino d’avviamento disallineato"
+  ],
+  "explanation": "Uno stridio metallico all’avviamento significa che il pignone del motorino ingrana male con la corona dentata del volano: i denti sono consumati o il meccanismo si inceppa. Ogni avviamento del genere mangia i denti del pignone e della corona.",
+  "advice": "Fissa un appuntamento in officina entro la settimana: sostituire il pignone o il motorino costa molto meno della corona, per la quale bisogna smontare il cambio. Fino alla riparazione, non tenere la chiave in posizione di avviamento più del necessario e non riprovare subito dopo uno stridio."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Il pignone non ingrana o la corona ha denti rotti",
+  "alt_causes": [
+   "Ruota libera del pignone",
+   "Corona del volano"
+  ],
+  "explanation": "Se il motorino d’avviamento ronza allegro ma il motore non prova neppure a girare, il pignone gira a vuoto: la ruota libera del pignone è consumata, oppure alla corona mancano i denti proprio in quel punto.",
+  "advice": "A volte funziona al secondo tentativo, perché il volano si ferma in un’altra posizione. In officina però va comunque nei prossimi giorni: a ogni tentativo il danno aumenta. Con il cambio manuale, in caso estremo puoi avviare a spinta; con un automatico questo non si può fare."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Foglie o sporcizia nella ventola del riscaldamento",
+  "alt_causes": [
+   "Filtro abitacolo intasato",
+   "Corpo estraneo nel condotto dell’aria"
+  ],
+  "explanation": "Un fruscio e un crepitio che cambiano con la velocità della ventola sono quasi sempre foglie o sporcizia entrate dalla presa d’aria fino alla ventola del riscaldamento. In autunno è un classico, soprattutto se il filtro abitacolo è intasato o manca del tutto.",
+  "advice": "Sostituisci il filtro abitacolo (spesso la sporcizia sta proprio sopra) — su molte auto si fa da soli in dieci minuti e le istruzioni per il modello si trovano facilmente. Se il fruscio resta, chiedi in officina di soffiare e pulire la ventola."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Cuscinetto o boccole del motorino della ventola",
+  "alt_causes": [
+   "Sporcizia nella ventola",
+   "La girante sfrega contro la scatola"
+  ],
+  "explanation": "Un fischio o ululato sotto la plancia che compare solo con la ventola accesa arriva dal motorino della ventola consumato. La prova è semplice: spegni la ventola e il fischio sparisce all’istante, anche con il motore acceso.",
+  "advice": "Per la sicurezza non conta, ma col tempo il motorino comincia a incepparsi e ti lascia senza riscaldamento: meglio sostituirlo prima dell’inverno. Fino ad allora puoi usare le velocità della ventola su cui il rumore è più basso."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomotore di una serranda del riscaldamento",
+  "alt_causes": [
+   "Calibrazione normale delle serrande",
+   "Denti rotti sull’ingranaggio del servomotore"
+  ],
+  "explanation": "Una serie di scatti rapidi o un ticchettio dietro la plancia girando la chiave o cambiando temperatura arriva dal servomotore che muove le serrande del riscaldamento. Se la serie è breve e sempre uguale, spesso è solo la calibrazione. Un ticchettio infinito, invece, significa che i denti dell’ingranaggio di plastica sono consumati.",
+  "advice": "Se gli scatti sono brevi e il riscaldamento si regola normalmente, non serve fare nulla. Se il ticchettio dura a lungo o l’aria non esce da dove l’hai impostata, fissa un appuntamento quando puoi: all’auto non fa male, ma il comfort ne risente."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Aria nel circuito di raffreddamento (livello del liquido basso)",
+  "alt_causes": [
+   "Tappo del vaso di espansione difettoso",
+   "Perdita di liquido refrigerante"
+  ],
+  "explanation": "Un gorgoglio dietro la plancia è una bolla d’aria che passa nel radiatore del riscaldamento. L’aria entra nel circuito quando il livello del liquido refrigerante è sceso: c’è una perdita da qualche parte, oppure il tappo del vaso di espansione non tiene la pressione. Il riscaldamento può soffiare ora caldo, ora freddo.",
+  "advice": "A motore freddo controlla il livello nel vaso di espansione e rabbocca fino alla tacca, poi tieni d’occhio se scende di nuovo. Se il livello continua a calare o il riscaldamento soffia freddo a motore caldo, in officina questa settimana. Se la lancetta della temperatura sale o esce vapore: accosta e spegni il motore."
  }
 }
