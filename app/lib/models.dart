@@ -55,6 +55,17 @@ class Car {
         'service': service,
       };
 
+  /// Что уходит на сервер: марка, модель, год, пробег и поколение.
+  /// Сервисный журнал и внутренний идентификатор остаются на телефоне —
+  /// для диагноза они не нужны, а это личные данные.
+  Map<String, dynamic> toApiJson() => {
+        'make': make,
+        'model': model,
+        'year': year,
+        'mileage_km': mileageKm,
+        if (generation.isNotEmpty) 'generation': generation,
+      };
+
   factory Car.fromJson(Map<String, dynamic> j) => Car(
         make: j['make'] as String? ?? '',
         model: j['model'] as String? ?? '',

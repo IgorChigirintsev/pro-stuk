@@ -46,7 +46,7 @@ class ApiClient {
     final req = http.MultipartRequest('POST', uri)
       ..fields['meta'] = jsonEncode({
         'device_id': deviceId,
-        'car': car.toJson(),
+        'car': car.toApiJson(),
         'answers': answers.map((a) => a.toJson()).toList(),
         'leaf_id': leafId,
       })

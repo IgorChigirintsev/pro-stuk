@@ -80,9 +80,31 @@ class _GarageScreenState extends State<GarageScreen> {
     return Scaffold(
       appBar: AppBar(title: const Text('Профиль')),
       body: car == null
-          ? const Center(child: Padding(
-              padding: EdgeInsets.all(24),
-              child: Text('Добавьте машину, чтобы вести сервисную книжку.')))
+          ? Center(
+              child: Padding(
+                padding: const EdgeInsets.all(24),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    const Text(
+                      'Пока нет ни одной машины. Добавьте — появятся история '
+                      'разборов и сервисная книжка.',
+                      textAlign: TextAlign.center,
+                    ),
+                    const SizedBox(height: 16),
+                    FilledButton(
+                      onPressed: () => Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (_) =>
+                                const OnboardingCarScreen(addNew: true)),
+                      ),
+                      child: const Text('Добавить машину'),
+                    ),
+                  ],
+                ),
+              ),
+            )
           : ListView(
               padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
               children: [

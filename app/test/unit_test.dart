@@ -5,6 +5,10 @@ import 'package:stuk/api.dart';
 import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';
 
+import 'package:stuk/data/service.dart';
+
+import 'package:stuk/models.dart';
+
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
@@ -55,5 +59,40 @@ void main() {
     expect(isNewerVersion('2.0.0', '1.9.9'), isTrue);
     expect(isNewerVersion('1.0.0', '1.0.0'), isFalse);
     expect(isNewerVersion('1.0.0', '1.2.0'), isFalse);
+  });
+
+
+  test('статус расходника считается по диапазону', () {
+    final oil = consumables.firstWhere((c) => c.key == 'oil'); // 7000–10000
+    expect(statusFor(oil, null).unknown, isTrue);
+    expect(statusFor(oil, 3000).due, isFalse);
+    expect(statusFor(oil, 3000).label, 'ещё 4000 км');
+    expect(statusFor(oil, 8000).due, isTrue); // вошли в интервал
+    expect(statusFor(oil, 8000).overdue, isFalse);
+    expect(statusFor(oil, 12000).overdue, isTrue); // прошли верхнюю границу
+  });
+
+  test('позиции без пробега не обещают остаток', () {
+    final fluid = consumables.firstWhere((c) => c.key == 'brake_fluid');
+    expect(fluid.kmMin, isNull); // только срок
+    expect(statusFor(fluid, 50000).unknown, isTrue);
+  });
+
+  test('на сервер не уходят сервисный журнал и идентификатор', () {
+    const car = Car(
+      id: 'local-id',
+      make: 'Hyundai',
+      model: 'Sonata',
+      year: 2015,
+      mileageKm: 120000,
+      generation: 'VII (LF)',
+      service: {'oil': 110000},
+    );
+    final api = car.toApiJson();
+    expect(api.containsKey('service'), isFalse);
+    expect(api.containsKey('id'), isFalse);
+    expect(api['generation'], 'VII (LF)');
+    // а в хранилище телефона — сохраняется всё
+    expect(car.toJson()['service'], {'oil': 110000});
   });
 }

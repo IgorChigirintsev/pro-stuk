@@ -71,13 +71,13 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             const SectionTitle(S.historyTitle),
-            if (state.history.isEmpty)
+            if (state.historyForCar.isEmpty)
               SurfaceCard(
                 child: Text(S.historyEmpty,
                     style: Theme.of(context).textTheme.bodySmall),
               )
             else
-              for (final e in state.history) _HistoryCard(entry: e),
+              for (final e in state.historyForCar) _HistoryCard(entry: e),
           ],
         ),
       ),
