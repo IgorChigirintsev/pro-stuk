@@ -292,5 +292,70 @@
    "o3": "O carro treme ao arrancar, enquanto larga a embraiagem",
    "o4": "Uma pancada isolada debaixo do carro ao arrancar ou ao mudar de acelerador"
   }
+ },
+ "q_vibration": {
+  "text": "Quando é que o tremor é mais forte?",
+  "options": {
+   "o1": "Entre 80 e 120 km/h o volante vibra ligeiramente; abaixo e acima disso, muito menos",
+   "o2": "Já a partir dos 40–60 km/h, e piora com a velocidade",
+   "o3": "Numa faixa estreita de velocidade, o tremor passa pelo piso e pela carroçaria; tração traseira ou integral",
+   "o4": "Só ao travar, o volante bate"
+  }
+ },
+ "q_const_char": {
+  "text": "A que se parece o barulho permanente?",
+  "options": {
+   "o1": "Um zumbido ou uivo constante",
+   "o2": "Um roçar, arrastar ou apitar do lado de uma roda",
+   "o3": "Um ronco forte ou matraquear",
+   "o4": "Um assobio ou uivo só a alta velocidade"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Que barulho vem do lado da roda?",
+  "options": {
+   "o1": "Um apito fino; ao tocar levemente no travão desaparece ou muda",
+   "o2": "Um arrastar; depois de andar, a roda está quente e o carro puxa para o lado",
+   "o3": "Um roçar ou arrastar permanente, sem que a roda aqueça",
+   "o4": "Uma pancada ou estalido ritmado ao ritmo da rotação da roda"
+  }
+ },
+ "q_wheel_click": {
+  "text": "As rodas foram mudadas, trocadas de posição ou desmontadas há pouco tempo?",
+  "options": {
+   "o1": "Sim, nos últimos dias",
+   "o2": "Não, já há muito que não se mexe nelas"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Um teste: acelere até à velocidade a que se ouve o barulho, meta em ponto morto e deixe rolar. O zumbido continua?",
+  "options": {
+   "o1": "Continua igual",
+   "o2": "Desaparece junto com as rotações do motor",
+   "o3": "Não consegui testar"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "O volume do uivo muda ao trocar de mudança?",
+  "options": {
+   "o1": "Sim, em cada mudança soa de forma diferente",
+   "o2": "Não, depende apenas das rotações do motor"
+  }
+ },
+ "q_hum_road": {
+  "text": "O zumbido muda nas curvas longas?",
+  "options": {
+   "o1": "Sim, para um dos lados fica mais forte ou mais fraco",
+   "o2": "Não, é constante a qualquer velocidade acima dos 40–60 km/h",
+   "o3": "Depende do piso da estrada"
+  }
+ },
+ "q_hum_where": {
+  "text": "O zumbido vem da frente ou de trás?",
+  "options": {
+   "o1": "Da frente",
+   "o2": "De trás",
+   "o3": "Difícil de perceber"
+  }
  }
 }
