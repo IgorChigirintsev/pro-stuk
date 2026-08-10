@@ -1,0 +1,78 @@
+{
+ "q_when": {
+  "text": "¿Cuándo se oye el ruido?",
+  "options": {
+   "o1": "Al arrancar o al intentar arrancar",
+   "o2": "Parado, con el motor en marcha",
+   "o3": "Solo en marcha",
+   "o4": "Tanto parado como en marcha"
+  }
+ },
+ "q_start_char": {
+  "text": "¿Qué se oye al girar la llave o pulsar el botón de arranque?",
+  "options": {
+   "o1": "Chasquidos y el motor no gira",
+   "o2": "Chirrido metálico mientras el motor de arranque gira",
+   "o3": "El motor de arranque zumba, pero el motor no llega a arrancar",
+   "o4": "Chillido o silbido justo después de que el motor arranca"
+  }
+ },
+ "q_start_clicks": {
+  "text": "¿Qué tipo de chasquidos?",
+  "options": {
+   "o1": "Traqueteo rápido y las luces del cuadro se atenúan",
+   "o2": "Un chasquido seco y luego silencio"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "¿El ruido aparece solo cuando accionas algo (calefacción, aire acondicionado, embrague, dirección, freno)?",
+  "options": {
+   "o1": "Sí, va ligado a una acción concreta",
+   "o2": "No, se oye por sí solo"
+  }
+ },
+ "q_action": {
+  "text": "¿Con qué acción se relaciona el ruido?",
+  "options": {
+   "o1": "Con la calefacción o el ventilador",
+   "o2": "Con el botón del aire acondicionado",
+   "o3": "Con el pedal del embrague",
+   "o4": "Con el volante, el pedal de freno o los limpiaparabrisas"
+  }
+ },
+ "q_hvac": {
+  "text": "¿Qué ruido hace con el ventilador encendido?",
+  "options": {
+   "o1": "Roce o crepitar que cambia con la velocidad del ventilador",
+   "o2": "Chillido o aullido bajo el salpicadero",
+   "o3": "Una serie de chasquidos detrás del salpicadero al cambiar la temperatura o la salida de aire",
+   "o4": "Borboteo o gorgoteo detrás del salpicadero"
+  }
+ },
+ "q_ac": {
+  "text": "¿Qué se oye al encender el aire acondicionado?",
+  "options": {
+   "o1": "Chillido justo al conectarlo",
+   "o2": "Chirrido o traqueteo mientras el aire funciona",
+   "o3": "Un siseo corto al conectar o desconectar, y enfría bien"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "¿Cómo se relaciona el ruido con el pedal del embrague?",
+  "options": {
+   "o1": "Un susurro o zumbido con el pedal suelto; al pisarlo se calma",
+   "o2": "Aparece o aumenta cuando el pedal está pisado",
+   "o3": "Cascabeleo o traqueteo al ralentí que cambia al pisar el pedal",
+   "o4": "Chirrido al pisar, se oye incluso con el motor apagado"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "¿Con qué se relaciona exactamente el ruido?",
+  "options": {
+   "o1": "Aullido o zumbido al girar el volante",
+   "o2": "Crujido o chasquidos al girar el volante estando parado",
+   "o3": "Siseo bajo el salpicadero al pisar el pedal de freno",
+   "o4": "Golpeteo o chirrido al ritmo del limpiaparabrisas"
+  }
+ }
+}
