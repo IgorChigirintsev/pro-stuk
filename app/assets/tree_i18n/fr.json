@@ -500,5 +500,77 @@
   ],
   "explanation": "Un craquement ou des claquements quand on tourne le volant à l'arrêt, venant du haut, du passage de roue, sont produits par la butée de suspension : le roulement sur lequel le haut de la jambe de force pivote avec la roue. Autre indice : des chocs isolés venant du haut sur les nids-de-poule.",
   "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : le contrôle est simple, la main posée sur la coupelle sous le capot sent immédiatement les craquements. Vous pouvez rouler, mais une butée usée accélère l'usure de l'amortisseur et dégrade le rappel du volant."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Cardan de colonne de direction (croisillon)",
+  "alt_causes": [
+   "Jeu dans les cannelures de l’arbre",
+   "Crémaillère de direction"
+  ],
+  "explanation": "Un claquement ou un cognement qu'on entend et qu'on sent directement dans le volant, au niveau des pieds, vient en général du croisillon de l'arbre intermédiaire de colonne : la petite articulation entre le volant et la crémaillère. Moteur coupé, en secouant légèrement le volant de gauche à droite, le claquement s'entend nettement.",
+  "advice": "Faites contrôler ça au garage dans les jours qui viennent : la direction est un organe de sécurité et le diagnostic prend quelques minutes. Le jeu dans la colonne ne fait qu'augmenter avec le temps et rend le volant flou au point milieu."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Servofrein ou son tuyau de dépression",
+  "alt_causes": [
+   "Clapet anti-retour du servofrein",
+   "Fissure du tuyau de dépression"
+  ],
+  "explanation": "Un chuintement sous la planche de bord qui apparaît et varie pile au moment où l'on appuie et relâche la pédale de frein, c'est une prise d'air dans le servofrein : l'organe qui réduit l'effort à la pédale. La pédale devient souvent nettement plus dure et le ralenti se met à trembler.",
+  "advice": "Prenez rendez-vous au garage cette semaine : les freins fonctionnent aussi sans assistance, mais il faut appuyer beaucoup plus fort, et en freinage d'urgence c'est dangereux. Vérifiez la pédale avant de partir : si elle est dure comme une planche, roulez prudemment et pas loin."
+ },
+ "leaf_wipers": {
+  "top_cause": "Tringlerie ou balais d’essuie-glace",
+  "alt_causes": [
+   "Écrous de bras desserrés",
+   "Bagues du moteur d’essuie-glace usées"
+  ],
+  "explanation": "Un cognement aux points de renversement, c'est du jeu dans les articulations de la tringlerie — le mécanisme qui entraîne les essuie-glaces — ou des écrous de bras desserrés. Un grincement régulier sur le pare-brise, ce sont des caoutchoucs durcis. Le test est simple : coupez les essuie-glaces, le bruit disparaît instantanément et totalement.",
+  "advice": "Les caoutchoucs qui grincent, vous pouvez les changer vous-même : les balais se trouvent dans n'importe quel magasin auto. Pour le cognement en fin de course, resserrez les écrous de bras ou faites remplacer les bagues de la tringlerie à l'occasion. Côté sécurité, seule compte la propreté du pare-brise."
+ },
+ "leaf_eps": {
+  "top_cause": "Direction assistée électrique : un léger bourdonnement est normal",
+  "alt_causes": [
+   "Usure de la direction assistée électrique",
+   "Crémaillère de direction"
+  ],
+  "explanation": "S'il n'y a pas de bocal de liquide sous le capot, la direction est assistée électriquement, et un bourdonnement discret et régulier quand on tourne est son fonctionnement normal, pas une panne. La pompe hydraulique qui hurle par manque de liquide n'existe tout simplement pas sur ce genre de voiture.",
+  "advice": "Les vrais signaux d'alerte d'une direction électrique sont ailleurs : le volant devient dur ou durcit par à-coups, un craquement apparaît, ou le témoin de direction s'allume. Si c'est le cas, au garage dans les jours qui viennent ; sinon, vous pouvez rouler tranquillement."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Joint ou fissure du collecteur d'échappement",
+  "alt_causes": [
+   "Goujons du collecteur",
+   "Poussoirs hydrauliques"
+  ],
+  "explanation": "Un cliquetis rapide à froid, plus fort dehors et accompagné d'une odeur d'échappement sous le capot, ce sont des gaz qui s'échappent par un joint brûlé ou une fissure du collecteur d'échappement. À mesure que le métal chauffe, il se dilate, la fente se referme et le cliquetis disparaît.",
+  "advice": "Prenez rendez-vous au garage dans une à deux semaines : la fente s'agrandit avec le temps, et l'odeur d'échappement peut être aspirée dans l'habitacle par le chauffage, ce qui est nocif. En attendant, aérez l'habitacle dès que vous sentez l'odeur."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Cliquetis normal des injecteurs (injection directe ou diesel)",
+  "alt_causes": [
+   "Pompe haute pression",
+   "Jeu aux soupapes"
+  ],
+  "explanation": "Sur les moteurs à injection directe (TSI, GDI et similaires) et sur les diesels, les injecteurs et la pompe haute pression cliquettent toujours : c'est leur fonctionnement normal. Les signes distinctifs : le bruit est identique à froid et à chaud, plus fort dehors que dans l'habitacle, et ne dépend pas de l'âge de l'huile.",
+  "advice": "Vous n'avez rien à faire. Ce qui doit alerter, c'est autre chose : si le cliquetis est devenu nettement plus fort qu'avant, s'il change une fois le moteur chaud ou s'il s'accompagne d'une perte de reprise, alors direction le diagnostic."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Prise d'air (durite de dépression, joint d'admission)",
+  "alt_causes": [
+   "Durite fissurée",
+   "Joint de collecteur d’admission"
+  ],
+  "explanation": "Un chuintement régulier sous le capot, comme l'air qui s'échappe d'un pneu crevé, c'est de l'air non mesuré aspiré par une durite fissurée ou un joint d'admission. Le moteur tourne souvent irrégulièrement : le ralenti oscille, et le voyant moteur peut s'allumer.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans les jours qui viennent, surtout si le ralenti oscille : la recherche de prise d'air est une procédure courante. Vous pouvez déjà inspecter vous-même les petites durites en caoutchouc sous le capot à la recherche de fissures, sans rien démonter."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Ventilateur de refroidissement (bagues ou fonctionnement permanent)",
+  "alt_causes": [
+   "Sonde de température ou thermostat",
+   "Viscocoupleur (sur propulsion)"
+  ],
+  "explanation": "Un bourdonnement ou un rugissement qui se déclenche et s'arrête tout seul — par forte chaleur, dans les bouchons, avec la climatisation — c'est le ventilateur du radiateur. Un ventilateur bruyant, c'est soit les bagues de son moteur usées, soit qu'il tourne en permanence à cause d'une sonde ou du thermostat. Parfois il continue une ou deux minutes après l'arrêt du moteur : c'est normal.",
+  "advice": "Si le ventilateur rugit en permanence dès le démarrage moteur froid, direction le diagnostic dans les jours qui viennent : le circuit de refroidissement ne fonctionne pas correctement. Surveillez l'aiguille de température ; si elle monte, arrêtez-vous et coupez le moteur."
  }
 }
