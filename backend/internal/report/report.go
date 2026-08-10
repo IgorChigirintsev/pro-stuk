@@ -55,6 +55,8 @@ type Meta struct {
 	Car      Car      `json:"car"`
 	Answers  []Answer `json:"answers"`
 	LeafID   string   `json:"leaf_id"`
+	// Язык интерфейса пользователя: на нём модель пишет отчёт.
+	Lang string `json:"lang"`
 }
 
 const Disclaimer = "Это вероятностная оценка по звуку и симптомам, а не диагноз. " +

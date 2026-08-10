@@ -39,6 +39,27 @@ func New(apiKey, model string) *Client {
 	}
 }
 
+// Язык ответа: модель пишет отчёт на языке пользователя, а не на языке промта.
+// Так переводить отчёты таблицей не нужно — они и так порождаются на нужном языке.
+var langNames = map[string]string{
+	"ru": "русском", "en": "English", "de": "German", "es": "Spanish",
+	"fr": "French", "pt": "Portuguese", "it": "Italian", "pl": "Polish",
+	"tr": "Turkish", "nl": "Dutch", "zh": "Chinese (Simplified)",
+	"ja": "Japanese", "ko": "Korean", "ar": "Arabic",
+}
+
+func langInstruction(lang string) string {
+	if lang == "" || lang == "ru" {
+		return ""
+	}
+	name, ok := langNames[lang]
+	if !ok {
+		return ""
+	}
+	return "\n\nВЕСЬ текст отчёта (названия причин, объяснения, советы, вопросы механику) " +
+		"пиши на языке: " + name + ". Термины поясняй так же просто, как в русском варианте."
+}
+
 // Системный промт — константа в коде, на русском (§6.2 спеки).
 const systemPrompt = `Ты — механик-диагност с 20-летним опытом работы с легковыми автомобилями,
 включая типовые болячки конкретных моделей и моторов. Твоя задача — по данным ниже составить
@@ -118,7 +139,7 @@ func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Fea
 
 	body := map[string]any{
 		"system_instruction": map[string]any{
-			"parts": []any{map[string]any{"text": systemPrompt}},
+			"parts": []any{map[string]any{"text": systemPrompt + langInstruction(meta.Lang)}},
 		},
 		"contents": []any{map[string]any{
 			"role": "user",
