@@ -989,5 +989,77 @@
   ],
   "explanation": "Brummen oder Röhren, das von selbst an- und ausgeht — bei Hitze, im Stau, mit der Klimaanlage —, ist der Lüfter des Kühlers. Ein lauter Lüfter heißt entweder verschlissene Buchsen seines Motors, oder er läuft ständig wegen eines Fühlers oder des Thermostats. Manchmal läuft er nach dem Abstellen noch ein paar Minuten nach — das ist normal.",
   "advice": "Röhrt der Lüfter ständig, schon ab dem Start bei kaltem Motor — in den nächsten Tagen zur Diagnose: dann arbeitet das Kühlsystem nicht richtig. Behalten Sie die Temperaturanzeige im Auge; steigt sie an: anhalten und den Motor abstellen."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Elektrische Kraftstoffpumpe",
+  "alt_causes": [
+   "Verstopfter Kraftstofffilter",
+   "Siebfilter der Pumpe"
+  ],
+  "explanation": "Ein gleichmäßiges Surren oder Heulen von hinten, unter der Rückbank oder aus der Gegend des Tanks, ist die Kraftstoffpumpe. Sie beim Einschalten der Zündung ein paar Sekunden zu hören, ist normal — ein lautes Heulen, das auch während der Fahrt auffällt, spricht für eine verschlissene Pumpe oder einen verstopften Filter, gegen den sie sich abmüht.",
+  "advice": "Lassen Sie in den nächsten ein bis zwei Wochen den Kraftstoffdruck prüfen. Fahren Sie nicht ständig mit fast leerem Tank: unten im Tank wird die Pumpe schlechter gekühlt und verschleißt schneller. Fängt das Auto an, unter Last zu ruckeln, oder springt es schlecht an — den Termin vorziehen."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Zerfallener Katalysator",
+  "alt_causes": [
+   "Hitzeschutzblech",
+   "Befestigungen der Auspuffanlage"
+  ],
+  "explanation": "Ein helles Klappern oder Rieseln von unter dem Fahrzeugboden, näher am Motor, das beim Gasstoß lauter wird und zusammen mit Leistungsverlust oder verändertem Abgasgeruch auftritt, ist zerfallene Keramik im Katalysator. Die Bruchstücke klappern im Gehäuse, und die verstopften Waben würgen den Motor ab.",
+  "advice": "In den nächsten Tagen zur Diagnose: Keramikbruchstücke können in den Motor gesaugt werden, und das ist dann eine teure Reparatur. Eine einfache Prüfung in der Werkstatt: am abgekühlten Auto leicht an den Katalysator klopfen — innen rasseln die Bruchstücke. Damit sollte man nicht warten."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Automatikgetriebe: altes Öl, Verschleiß oder Spiel im Antriebsstrang",
+  "alt_causes": [
+   "Motor- und Getriebelager",
+   "Kreuzgelenke der Kardanwelle (bei Heckantrieb)"
+  ],
+  "explanation": "Ein Ruck oder Schlag genau beim Wechsel des Wählhebels zwischen D und R oder beim Schalten ist ein Zeichen für Verschleiß oder altes Öl im Automatikgetriebe: der Gang legt sich mit einem Schlag ein, und Spiel im Antriebsstrang verstärkt ihn. Ausgeschlagene Lager schlagen ähnlich, deshalb lohnt sich eine genaue Diagnose.",
+  "advice": "Prüfen Sie zuerst Stand und Zustand des Getriebeöls — ist es dunkel und riecht verbrannt, muss es gewechselt werden; oft reicht das schon. Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin und sagen Sie, bei welchen Schaltvorgängen es genau schlägt. Bis zur Reparatur den Wählhebel nur im Stillstand und mit getretener Bremse umlegen."
+ },
+ "leaf_synchro": {
+  "top_cause": "Synchronringe im Getriebe oder die Kupplung trennt nicht vollständig",
+  "alt_causes": [
+   "Pedalspiel der Kupplung",
+   "Verschleiß der Kupplung"
+  ],
+  "explanation": "Kratzen beim Einlegen eines Gangs am Schaltgetriebe heißt: die Zahnräder treffen mit unterschiedlicher Drehzahl aufeinander. Kratzt nur ein bestimmter Gang oder zwei — meist der zweite oder dritte —, sind deren Synchronringe verschlissen; kratzen alle, trennt die Kupplung nicht vollständig und das Getriebe kommt nicht frei.",
+  "advice": "Prüfen Sie das Pedalspiel der Kupplung und den Ölstand im Getriebe — damit fängt auch die Werkstatt an. Vereinbaren Sie in den nächsten zwei Wochen einen Diagnosetermin. Bis zur Reparatur langsamer schalten, mit einer kurzen Pause im Leerlauf: dann kratzt es weniger und der Verschleiß ist geringer."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Kupplung: verschlissene oder verölte Kupplungsscheibe",
+  "alt_causes": [
+   "Motorlager",
+   "Zweimassenschwungrad"
+  ],
+  "explanation": "Ein Zittern genau im Moment des Anfahrens, solange das Kupplungspedal kommt, während das Auto nach dem vollständigen Einkuppeln ruhig fährt, heißt: die Kupplung greift ruckartig — die Scheibe ist verschlissen, verölt oder die Druckplatte hat sich verzogen. Motorlager lassen das Auto auch im Leerlauf zittern, hier aber lebt das Zittern nur in der Anfahrphase.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: ein Rupfen beim Anfahren geht nicht von selbst weg und wird meist stärker. Bis zur Reparatur sanft und mit etwas mehr Drehzahl anfahren, die Kupplung nicht schleifen lassen. Riecht es verbrannt, brennt die Kupplung durch — dann nicht mit dem Termin warten."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Kreuzgelenke der Kardanwelle oder Spiel im Antriebsstrang",
+  "alt_causes": [
+   "Gummilager und Schrauben des Hilfsrahmens",
+   "Tellerrad des Differenzials"
+  ],
+  "explanation": "Ein einzelner Schlag oder ein Klacken von unter der Mitte oder dem Heck des Wagens beim Anfahren und beim Wechsel zwischen Gasgeben und Gaswegnehmen ist Spiel in der Kraftübertragung: meist verschlissene Kreuzgelenke der Kardanwelle bei Heck- und Allradantrieb oder lockere Befestigungen des Hilfsrahmens.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: auf der Hebebühne findet man Spiel in der Kardanwelle in einer Minute, indem man sie mit der Hand hin- und herbewegt. Hinauszögern lohnt sich nicht — ein ausgeschlagenes Kreuzgelenk kann bei Tempo auseinanderfallen. Bis dahin sanfter anfahren und das Gas sanfter wegnehmen."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Die Kupplung rutscht durch",
+  "alt_causes": [
+   "Verölte Kupplungsscheibe",
+   "Durchrutschen der Automatik oder des CVT"
+  ],
+  "explanation": "Wenn beim Gasgeben die Drehzahl steigt, der Motor aufheult, das Auto aber kaum beschleunigt, rutscht die Kupplung durch und überträgt keine Kraft: die Scheibe ist verschlissen oder verölt. Am deutlichsten bergauf und im höchsten Gang; oft kommt ein beißender Brandgeruch dazu. Bei einer Automatik rutscht ein verschlissenes Getriebe genauso.",
+  "advice": "Diese Woche in die Werkstatt: eine rutschende Kupplung rutscht bis zum vollständigen Kraftverlust weiter, und zwar meist im unpassendsten Moment. Bis zur Reparatur ruhig fahren, ohne Überholmanöver und ohne Anhänger, bergauf rechtzeitig zurückschalten. Wird der Brandgeruch stärker — keinen Tag mehr warten."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbolader oder undichte Ladeluftführung",
+  "alt_causes": [
+   "Ladeluftschlauch",
+   "Lager der Turbinenwelle"
+  ],
+  "explanation": "Ein leichtes gleichmäßiges Pfeifen des Turboladers unter Last ist bei einem Turbomotor normal. Aufmerksam werden sollten Sie bei einer Veränderung: das Pfeifen wird lauter oder klingt anders, ein Heulen kommt dazu, die Leistung lässt nach. Das ist entweder eine Undichtigkeit in den Ladeluftschläuchen oder Verschleiß am Lager der Turbinenwelle.",
+  "advice": "Hat sich der Ton verändert oder die Leistung nachgelassen — in den nächsten Tagen zur Diagnose: eine undichte Schlauchverbindung ist billig repariert, ein verschleppter Turboschaden endet mit dem Austausch. Behalten Sie den Ölverbrauch im Auge. Bis zur Prüfung den Motor nicht in den Begrenzer drehen und den Turbolader nach zügiger Fahrt ein bis zwei Minuten im Leerlauf abkühlen lassen."
  }
 }
