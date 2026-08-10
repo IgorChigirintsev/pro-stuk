@@ -572,5 +572,77 @@
   ],
   "explanation": "Un zumbido o rugido que se conecta y se para solo —con calor, en atascos, con el aire acondicionado— es el ventilador del radiador. Un ventilador ruidoso significa o bien casquillos gastados en su motor, o bien que gira sin parar por culpa de un sensor o del termostato. A veces sigue funcionando un par de minutos después de apagar el coche: eso es normal.",
   "advice": "Si el ventilador ruge sin parar desde el arranque con el motor frío, a diagnóstico en los próximos días: el circuito de refrigeración no está trabajando bien. Vigila la aguja de temperatura; si sube, para y apaga el motor."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Bomba de gasolina eléctrica",
+  "alt_causes": [
+   "Filtro de combustible saturado",
+   "Filtro de malla de la bomba"
+  ],
+  "explanation": "Un zumbido o aullido constante por detrás, bajo el asiento trasero o por la zona del depósito, es la bomba de gasolina. Oírla un par de segundos al dar el contacto es normal, pero un aullido fuerte que se nota también en marcha indica una bomba desgastada o un filtro saturado que la obliga a trabajar forzada.",
+  "advice": "Pide una comprobación de la presión de combustible en una o dos semanas. No circules mucho tiempo con la reserva encendida: en el fondo del depósito la bomba se refrigera peor y se desgasta antes. Si el coche empieza a dar tirones bajo carga o le cuesta arrancar, adelanta la visita."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Catalizador deshecho",
+  "alt_causes": [
+   "Chapa antitérmica",
+   "Soportes del escape"
+  ],
+  "explanation": "Un cascabeleo metálico o un ruido de arenilla desde los bajos, más cerca del motor, que aumenta al dar un acelerón y viene acompañado de pérdida de fuerza o de un olor distinto en el escape, es la cerámica del catalizador que se ha roto. Los trozos suenan dentro de la carcasa y el panal obstruido ahoga el motor.",
+  "advice": "A diagnóstico en los próximos días: los trozos de cerámica pueden acabar succionados hacia el motor, y eso ya es una reparación cara. Una comprobación sencilla en el taller es golpear suavemente el cuerpo del catalizador con el coche frío: dentro suenan los trozos sueltos. Con esto no conviene esperar."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Caja automática: aceite viejo, desgaste u holgura en la transmisión",
+  "alt_causes": [
+   "Soportes de motor y caja",
+   "Crucetas del árbol de transmisión (en tracción trasera)"
+  ],
+  "explanation": "Un tirón o topetazo justo al pasar el selector de D a R o al cambiar de marcha indica desgaste o aceite viejo en la caja automática: la marcha entra con golpe y las holguras de la transmisión lo amplifican. Unos soportes vencidos golpean de forma parecida, así que conviene confirmar el diagnóstico.",
+  "advice": "Lo primero, comprueba el nivel y el estado del aceite de la caja: si está oscuro y huele a quemado, hay que cambiarlo, y en muchos casos con eso basta. Pide diagnóstico en una o dos semanas y di en qué cambios concretos da el tirón. Hasta la reparación, mueve el selector solo con el coche totalmente parado y el freno pisado."
+ },
+ "leaf_synchro": {
+  "top_cause": "Sincronizadores de la caja o embrague que no desembraga del todo",
+  "alt_causes": [
+   "Recorrido libre del pedal de embrague",
+   "Desgaste del embrague"
+  ],
+  "explanation": "Un crujido al meter la marcha en una caja manual significa que los engranajes se encuentran girando a distinta velocidad. Si cruje una o dos marchas concretas (a menudo la segunda o la tercera), sus sincronizadores están gastados; si crujen todas, el embrague no desembraga del todo y la caja no queda libre.",
+  "advice": "Comprueba el recorrido libre del pedal de embrague y el nivel de aceite de la caja: por ahí empezará también el taller. Pide diagnóstico en un par de semanas. Hasta la reparación, cambia más despacio y con una pausa en punto muerto: cruje menos y se desgasta menos."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Embrague: disco desgastado o manchado de aceite",
+  "alt_causes": [
+   "Soportes de motor",
+   "Volante motor bimasa"
+  ],
+  "explanation": "Un temblor justo en el momento de arrancar, mientras sueltas el pedal del embrague, y una marcha suave una vez que el embrague ha acoplado del todo, significa que el embrague agarra a tirones: el disco está gastado, manchado de aceite o el plato de presión se ha deformado. Los soportes de motor también hacen temblar el coche al ralentí; aquí el temblor solo vive en la fase de arranque.",
+  "advice": "Pide diagnóstico en una o dos semanas: el temblor al arrancar no se va solo y suele ir a más. Hasta la reparación, arranca con suavidad y algo más de revoluciones, sin patinar el embrague. Si aparece olor a quemado, el embrague se está quemando: no esperes con la visita."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Crucetas del árbol de transmisión u holgura en la transmisión",
+  "alt_causes": [
+   "Silentblocks y tornillos del subchasis",
+   "Grupo cónico del diferencial"
+  ],
+  "explanation": "Un topetazo o chasquido suelto desde la zona central o trasera de los bajos al arrancar y al pasar de acelerar a levantar el pie es holgura en la cadena que transmite la fuerza: lo más habitual son crucetas gastadas del árbol de transmisión (tracción trasera y total) o soportes del subchasis flojos.",
+  "advice": "Pide diagnóstico en una o dos semanas: en el elevador la holgura del árbol se encuentra en un minuto moviéndolo con la mano. No conviene alargarlo: una cruceta muy castigada puede romperse en marcha. Hasta la reparación, arranca y levanta el pie del acelerador con más suavidad."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "El embrague patina",
+  "alt_causes": [
+   "Disco manchado de aceite",
+   "Patinamiento de la caja automática o del CVT"
+  ],
+  "explanation": "Si al pisar el acelerador suben las revoluciones y el motor ruge pero el coche apenas acelera, el embrague está patinando y no transmite la fuerza: el disco está gastado o manchado de aceite. Se nota sobre todo cuesta arriba y en la marcha más larga, y a menudo se suma un olor acre a quemado. En un automático, una caja desgastada patina igual.",
+  "advice": "Al taller esta semana: un embrague que patina acaba patinando hasta perder la tracción del todo, y normalmente en el momento más inoportuno. Hasta la reparación, conduce tranquilo, sin adelantamientos ni remolque, y cuesta arriba reduce con antelación. Si el olor a quemado va a más, no esperes ni un día."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo o fuga de presión de sobrealimentación",
+  "alt_causes": [
+   "Manguito del intercooler",
+   "Cojinete del eje del turbo"
+  ],
+  "explanation": "Un silbido ligero y constante del turbo bajo carga es normal en un motor turboalimentado. Lo que debe llamar la atención es el cambio: que el silbido suene más fuerte o con otro tono, que aparezca un aullido o que el coche pierda fuerza. Eso es o bien una fuga de aire en los manguitos de sobrealimentación, o bien desgaste del cojinete del eje del turbo.",
+  "advice": "Si el tono ha cambiado o el coche tira menos, a diagnóstico en los próximos días: una fuga en un manguito se arregla barato, mientras que un turbo desgastado y desatendido acaba en sustitución. Vigila el consumo de aceite. Hasta la revisión, no lleves el motor al corte y deja el turbo enfriarse uno o dos minutos al ralentí después de una conducción alegre."
  }
 }
