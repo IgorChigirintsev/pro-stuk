@@ -357,5 +357,95 @@
    "o2": "The rear",
    "o3": "Hard to tell"
   }
+ },
+ "leaf_battery": {
+  "top_cause": "Flat battery or corroded terminals",
+  "alt_causes": [
+   "Poor earth connection",
+   "A dying starter"
+  ],
+  "explanation": "Rapid chattering when you try to start means the starter solenoid is not getting enough current: it clicks but cannot turn the engine over. Usually the battery is flat, or the terminals are corroded and loose. Dashboard lights dimming as you try confirms it.",
+  "advice": "Check the battery terminals: clean off any white or greenish deposit and tighten them. If that does not help, charge the battery or jump-start from another car and drive to a shop for a replacement. A battery older than four or five years is almost certainly done."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Starter solenoid or its main contacts",
+  "alt_causes": [
+   "Corroded terminals",
+   "Wiring to the starter"
+  ],
+  "explanation": "One clear click with the lights staying bright means the solenoid engages but the starter motor itself does not run: burnt main contacts, worn brushes, or a stuck solenoid. Sometimes it starts on the second or third try — that is the same diagnosis.",
+  "advice": "Try starting a few more times; if it only starts every other time, get to a garage within days, before you are stranded in a car park. Check and tighten the battery terminals. Tapping the starter is a way to get home once, not a fix."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Starter drive gear or flywheel ring gear",
+  "alt_causes": [
+   "Worn ring-gear teeth",
+   "Misaligned starter"
+  ],
+  "explanation": "Metallic grinding on starting means the starter pinion is not meshing properly with the flywheel ring gear: the teeth are worn or the mechanism is sticking. Every start like this eats away at both the starter and the flywheel.",
+  "advice": "Book a garage within the week: replacing the pinion or the starter is far cheaper than the ring gear, which means dropping the gearbox. Until then, do not hold the key in the start position longer than needed, and do not retry immediately after a grind."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "The starter pinion is not engaging, or ring-gear teeth are stripped",
+  "alt_causes": [
+   "Starter one-way clutch",
+   "Flywheel ring gear"
+  ],
+  "explanation": "If the starter spins briskly but the engine does not even try to turn, the pinion is spinning free: the one-way clutch in the starter drive is worn, or the ring-gear teeth are stripped at that spot.",
+  "advice": "A second attempt sometimes works, because the flywheel stops in a different position. Still, get to a garage within days: every attempt makes the damage worse. On a manual you can bump-start in an emergency — never do this with an automatic."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Leaves or debris in the heater fan",
+  "alt_causes": [
+   "Clogged cabin filter",
+   "A foreign object in the ducting"
+  ],
+  "explanation": "Rustling and crackling that changes with fan speed is almost always leaves or debris drawn through the air intake into the heater fan. It is a classic autumn problem, especially if the cabin filter is clogged or missing.",
+  "advice": "Replace the cabin filter — the debris often sits right on it, and on many cars this is a ten-minute job you can do yourself; instructions for your model are easy to find. If the rustling remains, ask a garage to blow out and clean the fan."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Heater fan motor bearing or bushings",
+  "alt_causes": [
+   "Debris in the fan",
+   "The fan wheel is touching its housing"
+  ],
+  "explanation": "A squeal or howl from behind the dashboard that only appears with the blower on comes from a worn heater fan motor. The check is simple: switch the blower off and the squeal stops instantly, even with the engine running.",
+  "advice": "It does not affect safety, but in time the motor will seize and leave you without heating — better to replace it before the cold sets in. Until then you can use the fan speeds at which the squeal is quieter."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Heater flap actuator",
+  "alt_causes": [
+   "Normal flap calibration",
+   "Stripped teeth in the actuator gear"
+  ],
+  "explanation": "A burst of rapid clicking or chattering behind the dash when you switch on the ignition or change the temperature is the small servo that moves the heater flaps. A short, identical burst is often just calibration. Endless chattering means the plastic gear teeth are stripped.",
+  "advice": "If the clicks are brief and the heating works as set, you can leave it. If the chattering drags on, or air blows somewhere other than where you set it, book a garage when convenient: it does the car no harm, but comfort suffers."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Air in the cooling system (low coolant level)",
+  "alt_causes": [
+   "Faulty expansion tank cap",
+   "A coolant leak"
+  ],
+  "explanation": "Gurgling or trickling behind the dash is an air pocket passing through the heater matrix. Air gets into the system when the coolant level has dropped: either there is a leak somewhere or the tank cap is not holding pressure. The heater may blow warm, then cold.",
+  "advice": "With the engine cold, check the level in the expansion tank and top it up, then watch whether it drops again. If the level keeps falling, or the heater blows cold on a hot engine, get to a garage this week. If the temperature gauge climbs or you see steam, pull over and switch the engine off."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Slipping air-conditioning compressor clutch",
+  "alt_causes": [
+   "A loose belt",
+   "Worn clutch friction plate"
+  ],
+  "explanation": "A squeal exactly at the moment the A/C engages means the clutch that connects the compressor to the belt is slipping under load. A single click on engagement is normal; a squeal points to a worn clutch or a slack belt.",
+  "advice": "Have it looked at within a couple of weeks: left alone, the squeal becomes constant and the compressor can seize and snap the belt. You can still use the A/C until then, but switch it off if the squeal gets worse."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Air-conditioning compressor (bearing or wear)",
+  "alt_causes": [
+   "Clutch pulley bearing",
+   "Low oil level in the system"
+  ],
+  "explanation": "Grinding or rumbling heard only while the A/C is running is a dying compressor or its pulley bearing. A seized compressor snaps the belt, and on many cars that belt also drives the alternator and the water pump.",
+  "advice": "Leave the A/C switched off for now — that will get the unit to the repair intact. Book a diagnosis within the week: while only the bearing is failing, the repair is far cheaper than replacing the compressor and flushing the whole system."
  }
 }
