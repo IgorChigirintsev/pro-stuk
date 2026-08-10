@@ -141,5 +141,77 @@
    "o1": "Tak, szybsze i głośniejsze",
    "o2": "Prawie się nie zmienia albo znika"
   }
+ },
+ "q_squeal": {
+  "text": "Co to za dźwięk?",
+  "options": {
+   "o1": "Przenikliwy pisk albo gwizd",
+   "o2": "Równomierne buczenie albo szelest",
+   "o3": "Równomierne syczenie, jak powietrze uchodzące z opony"
+  }
+ },
+ "q_hum_source": {
+  "text": "Skąd dochodzi buczenie?",
+  "options": {
+   "o1": "Z przodu, spod maski, i zmienia się z obrotami",
+   "o2": "Włącza się i wyłącza samo: przy upale, w korku, z klimatyzacją",
+   "o3": "Z tyłu, od strony baku; słychać po przekręceniu kluczyka, jeszcze przed odpaleniem"
+  }
+ },
+ "q_pump_check": {
+  "text": "Czy pod maską, przy pasku, widać zacieki albo ślady płynu?",
+  "options": {
+   "o1": "Tak, jest wilgotno albo czuć płyn chłodniczy",
+   "o2": "Sucho",
+   "o3": "Nie udało mi się zajrzeć"
+  }
+ },
+ "q_rattle": {
+  "text": "Jaki dźwięk i skąd?",
+  "options": {
+   "o1": "Metaliczne grzechotanie spod podwozia",
+   "o2": "Strzały z układu wydechowego",
+   "o3": "Bulgotanie za deską rozdzielczą"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Czy razem z grzechotaniem samochód stracił moc albo spaliny dziwnie pachną?",
+  "options": {
+   "o1": "Tak, ciągnie gorzej albo zmienił się zapach",
+   "o2": "Nie, po prostu grzechocze przy pewnych obrotach"
+  }
+ },
+ "q_move_when": {
+  "text": "Kiedy w jeździe dźwięk słychać najmocniej?",
+  "options": {
+   "o1": "Przy hamowaniu",
+   "o2": "Na zakrętach albo przy kręceniu kierownicą",
+   "o3": "Na nierównościach i progach zwalniających",
+   "o4": "Przy dodawaniu gazu, przy zmianie biegów albo cały czas"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Czy dźwięk pojawia się tylko przy pierwszych hamowaniach po postoju albo w deszczu, a potem znika?",
+  "options": {
+   "o1": "Tak, szybko znika",
+   "o2": "Nie, słychać go przy każdym hamowaniu"
+  }
+ },
+ "q_brake_char": {
+  "text": "Jaki dźwięk przy hamowaniu?",
+  "options": {
+   "o1": "Pisk albo skrzypienie",
+   "o2": "Zgrzyt metalu o metal",
+   "o3": "Pukanie albo pulsowanie w pedale"
+  }
+ },
+ "q_turn_char": {
+  "text": "Co słychać na zakręcie?",
+  "options": {
+   "o1": "Buczenie przy prędkości, w jedną stronę mocniejsze",
+   "o2": "Kliknięcia albo trzaski przy kierownicy skręconej do oporu",
+   "o3": "Pukanie przy kręceniu kierownicą",
+   "o4": "Wycie albo buczenie przy kręceniu kierownicą na postoju lub przy parkowaniu"
+  }
  }
 }
