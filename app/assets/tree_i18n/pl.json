@@ -357,5 +357,77 @@
    "o2": "Z tyłu",
    "o3": "Trudno stwierdzić"
   }
+ },
+ "leaf_battery": {
+  "top_cause": "Rozładowany akumulator albo utlenione klemy",
+  "alt_causes": [
+   "Zły styk masy",
+   "Rozrusznik na wykończeniu"
+  ],
+  "explanation": "Szybkie stukanie przy próbie odpalenia oznacza, że automatowi rozrusznika brakuje prądu: przeskakuje, ale nie jest w stanie obrócić silnika. Winny jest zwykle rozładowany akumulator albo utlenione, źle dokręcone klemy. Przygasające przy próbie kontrolki na desce to potwierdzają.",
+  "advice": "Obejrzyj klemy akumulatora: zeskrob biały albo zielonkawy nalot i dokręć klemy. Jeśli to nie pomoże, naładuj akumulator albo odpal z kabli i dojedź do warsztatu lub sklepu po nowy. Akumulator starszy niż cztery, pięć lat to prawie zawsze on."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Automat rozrusznika albo styki mocy",
+  "alt_causes": [
+   "Utlenione klemy",
+   "Przewody do rozrusznika"
+  ],
+  "explanation": "Jedno wyraźne kliknięcie przy normalnie świecących kontrolkach oznacza, że automat rozrusznika zadziałał, ale sam silnik rozrusznika nie ruszył: przepalone styki mocy, zużyte szczotki albo zablokowany automat. Czasem auto odpala jednak za drugim lub trzecim razem — to ta sama diagnoza.",
+  "advice": "Spróbuj odpalić jeszcze kilka razy; jeśli odpala co drugi raz, jedź do warsztatu w najbliższych dniach, zanim zostaniesz na jakimś parkingu. Sprawdź i dokręć klemy akumulatora. Stuknięcie w rozrusznik pozwala dojechać raz, ale nie jest naprawą."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Bendiks rozrusznika albo wieniec koła zamachowego",
+  "alt_causes": [
+   "Zużyte zęby wieńca",
+   "Rozrusznik osadzony krzywo"
+  ],
+  "explanation": "Metaliczny zgrzyt przy rozruchu oznacza, że zębatka rozrusznika źle wchodzi w wieniec koła zamachowego: zęby są zużyte albo mechanizm się zacina. Każdy taki rozruch zjada zęby zarówno bendiksa, jak i wieńca.",
+  "advice": "Umów się do warsztatu w ciągu tygodnia: wymiana bendiksa albo rozrusznika jest wyraźnie tańsza niż wieniec, do którego trzeba zdejmować skrzynię biegów. Do naprawy nie trzymaj kluczyka w pozycji rozruchu dłużej niż to konieczne i nie ponawiaj próby zaraz po zgrzycie."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Bendiks nie wchodzi w zazębienie albo wieniec ma wyłamane zęby",
+  "alt_causes": [
+   "Sprzęgło jednokierunkowe bendiksa",
+   "Wieniec koła zamachowego"
+  ],
+  "explanation": "Jeśli rozrusznik żwawo buczy, a silnik nawet nie próbuje się obrócić, zębatka kręci się na jałowo: zużyte jest sprzęgło jednokierunkowe bendiksa albo w wieńcu w tym miejscu brakuje zębów.",
+  "advice": "Czasem udaje się odpalić za drugim razem, bo koło zamachowe zatrzyma się w innym położeniu. Do warsztatu jedź jednak w najbliższych dniach: z każdą próbą uszkodzenie rośnie. Przy skrzyni manualnej w ostateczności możesz odpalić z pchania; przy automacie tak się nie da."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Liście albo śmieci w dmuchawie ogrzewania",
+  "alt_causes": [
+   "Zapchany filtr kabinowy",
+   "Ciało obce w kanale powietrza"
+  ],
+  "explanation": "Szelest i trzaski zmieniające się z prędkością dmuchawy to prawie zawsze liście albo śmieci, które wpadły przez wlot powietrza do dmuchawy ogrzewania. Jesienią to bardzo częsta historia, zwłaszcza gdy filtr kabinowy jest zapchany albo w ogóle go nie ma.",
+  "advice": "Wymień filtr kabinowy (śmieci często leżą wprost na nim) — w wielu autach zrobisz to sam w dziesięć minut, a instrukcje do konkretnego modelu łatwo znaleźć. Jeśli szelest zostanie, poproś w warsztacie o przedmuchanie i wyczyszczenie dmuchawy."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Łożysko albo tulejki silniczka dmuchawy",
+  "alt_causes": [
+   "Śmieci w dmuchawie",
+   "Wirnik ociera o obudowę"
+  ],
+  "explanation": "Pisk albo wycie spod deski rozdzielczej, które pojawia się tylko przy włączonej dmuchawie, wydaje zużyty silniczek dmuchawy. Sprawdzenie jest proste: wyłącz dmuchawę i pisk znika natychmiast, nawet przy pracującym silniku.",
+  "advice": "Na bezpieczeństwo to nie wpływa, ale z czasem silniczek zacznie się zacinać i zostaniesz bez ogrzewania — lepiej wymienić go przed zimą. Do naprawy możesz korzystać z tych biegów dmuchawy, na których jest ciszej."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Siłownik klapy nagrzewnicy",
+  "alt_causes": [
+   "Normalna kalibracja klap",
+   "Wyłamane zęby zębatki siłownika"
+  ],
+  "explanation": "Seria szybkich kliknięć albo terkotanie za deską rozdzielczą przy włączaniu zapłonu lub zmianie temperatury pochodzi od siłownika, który przestawia klapy nagrzewnicy. Jeśli seria jest krótka i zawsze taka sama, to najczęściej po prostu kalibracja. Terkotanie bez końca oznacza starte zęby plastikowej zębatki.",
+  "advice": "Jeśli kliknięcia są krótkie, a ogrzewanie normalnie się reguluje, nie trzeba nic robić. Jeśli terkotanie trwa długo albo powietrze leci nie tam, gdzie ustawione, umów się do warsztatu przy okazji: autu to nie szkodzi, ale komfort cierpi."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Powietrze w układzie chłodzenia (niski poziom płynu)",
+  "alt_causes": [
+   "Uszkodzony korek zbiorniczka wyrównawczego",
+   "Wyciek płynu chłodniczego"
+  ],
+  "explanation": "Bulgotanie za deską rozdzielczą to pęcherz powietrza przechodzący przez nagrzewnicę. Powietrze trafia do układu, gdy poziom płynu chłodniczego spadł: gdzieś jest wyciek albo korek zbiorniczka nie trzyma ciśnienia. Ogrzewanie potrafi wtedy dmuchać raz ciepłym, raz zimnym.",
+  "advice": "Na zimnym silniku sprawdź poziom w zbiorniczku wyrównawczym i uzupełnij do kreski, a potem obserwuj, czy znowu nie spada. Jeśli poziom dalej opada albo ogrzewanie dmucha zimnym przy ciepłym silniku, do warsztatu w tym tygodniu. Jeśli wskazówka temperatury idzie w górę albo spod maski leci para: zatrzymaj się i zgaś silnik."
  }
 }
