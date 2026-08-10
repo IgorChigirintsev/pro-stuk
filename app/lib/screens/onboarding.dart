@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../models.dart';
+import '../data/cars.dart';
 import '../state.dart';
 import '../strings.dart';
 import '../theme.dart';
@@ -20,6 +21,8 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
   final _modelCtrl = TextEditingController();
   final _mileageCtrl = TextEditingController();
   TextEditingController? _makeFieldCtrl; // внутренний контроллер Autocomplete
+  TextEditingController? _modelFieldCtrl;
+  String _generation = '';
   String _initialMake = '';
   int _year = 2015;
   String? _error;
@@ -37,7 +40,17 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
       _modelCtrl.text = car.model;
       _mileageCtrl.text = car.mileageKm.toString();
       _year = car.year;
+      _generation = car.generation;
     }
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    // Справочник грузим один раз: до этого подсказки просто пустые.
+    CarsCatalog.ensureLoaded().then((_) {
+      if (mounted) setState(() {});
+    });
   }
 
   @override
@@ -49,14 +62,20 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
 
   Future<void> _save() async {
     final make = (_makeFieldCtrl?.text ?? _initialMake).trim();
-    final model = _modelCtrl.text.trim();
+    final model = (_modelFieldCtrl?.text ?? _modelCtrl.text).trim();
     final mileage = int.tryParse(_mileageCtrl.text.trim());
     if (make.isEmpty || model.isEmpty || mileage == null) {
       setState(() => _error = S.carFillAll);
       return;
     }
     await AppScope.of(context)
-        .saveCar(Car(make: make, model: model, year: _year, mileageKm: mileage));
+        .saveCar(Car(
+          make: make,
+          model: model,
+          year: _year,
+          mileageKm: mileage,
+          generation: _generation,
+        ));
     if (!mounted) return;
     if (widget.firstRun) {
       Navigator.of(context).pushReplacement(
@@ -89,10 +108,9 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
             Autocomplete<String>(
               initialValue: TextEditingValue(text: _initialMake),
               optionsBuilder: (v) {
-                final q = v.text.trim().toLowerCase();
+                final q = v.text.trim();
                 if (q.isEmpty) return const Iterable<String>.empty();
-                return S.makes
-                    .where((m) => m.toLowerCase().startsWith(q));
+                return CarsCatalog.searchMakes(q);
               },
               fieldViewBuilder: (context, ctrl, focus, onSubmit) {
                 _makeFieldCtrl = ctrl; // значение читается при сохранении
@@ -107,11 +125,55 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
             const SizedBox(height: 16),
             Text(S.carModel, style: Theme.of(context).textTheme.titleMedium),
             const SizedBox(height: 8),
-            TextField(
-              controller: _modelCtrl,
-              decoration: const InputDecoration(hintText: S.carModelHint),
-              textCapitalization: TextCapitalization.words,
+            Autocomplete<String>(
+              initialValue: TextEditingValue(text: _modelCtrl.text),
+              optionsBuilder: (v) {
+                final make = (_makeFieldCtrl?.text ?? _initialMake).trim();
+                if (make.isEmpty) return const Iterable<String>.empty();
+                return CarsCatalog.modelsFor(make, v.text);
+              },
+              onSelected: (v) => setState(() {
+                _modelCtrl.text = v;
+                _generation = '';
+              }),
+              fieldViewBuilder: (context, ctrl, focus, onSubmit) {
+                _modelFieldCtrl = ctrl;
+                return TextField(
+                  controller: ctrl,
+                  focusNode: focus,
+                  onChanged: (v) => _modelCtrl.text = v,
+                  decoration: const InputDecoration(hintText: S.carModelHint),
+                  textCapitalization: TextCapitalization.words,
+                );
+              },
             ),
+            Builder(builder: (context) {
+              final make = (_makeFieldCtrl?.text ?? _initialMake).trim();
+              final model = (_modelFieldCtrl?.text ?? _modelCtrl.text).trim();
+              final gens = CarsCatalog.generationsFor(make, model);
+              if (gens.isEmpty) return const SizedBox.shrink();
+              return Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const SizedBox(height: 16),
+                  Text('Поколение',
+                      style: Theme.of(context).textTheme.titleMedium),
+                  const SizedBox(height: 8),
+                  DropdownButtonFormField<String>(
+                    initialValue: gens.any((g) => g.label == _generation)
+                        ? _generation
+                        : null,
+                    isExpanded: true,
+                    hint: const Text('Выберите поколение'),
+                    items: [
+                      for (final g in gens)
+                        DropdownMenuItem(value: g.label, child: Text(g.label)),
+                    ],
+                    onChanged: (v) => setState(() => _generation = v ?? ''),
+                  ),
+                ],
+              );
+            }),
             const SizedBox(height: 16),
             Text(S.carYear, style: Theme.of(context).textTheme.titleMedium),
             const SizedBox(height: 8),

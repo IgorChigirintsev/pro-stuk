@@ -1,0 +1,288 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+
+import '../data/service.dart';
+import '../models.dart';
+import '../state.dart';
+import '../theme.dart';
+import 'onboarding.dart';
+
+/// Профиль: гараж, история диагностик и сервисная книжка.
+class GarageScreen extends StatefulWidget {
+  const GarageScreen({super.key});
+
+  @override
+  State<GarageScreen> createState() => _GarageScreenState();
+}
+
+class _GarageScreenState extends State<GarageScreen> {
+  final _mileageCtrl = TextEditingController();
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    final car = AppScope.of(context).car;
+    if (car != null && _mileageCtrl.text.isEmpty) {
+      _mileageCtrl.text = car.mileageKm.toString();
+    }
+  }
+
+  @override
+  void dispose() {
+    _mileageCtrl.dispose();
+    super.dispose();
+  }
+
+  Future<void> _askAgo(BuildContext context, Consumable c) async {
+    final st = AppScope.of(context); // берём до await: контекст после диалога уже не наш
+    final ctrl = TextEditingController();
+    final km = await showDialog<int>(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        title: Text(c.title),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text('Сколько километров назад меняли?'),
+            const SizedBox(height: 12),
+            TextField(
+              controller: ctrl,
+              autofocus: true,
+              keyboardType: TextInputType.number,
+              inputFormatters: [FilteringTextInputFormatter.digitsOnly],
+              decoration: const InputDecoration(hintText: 'например, 3000'),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+              onPressed: () => Navigator.pop(ctx), child: const Text('Отмена')),
+          TextButton(
+            onPressed: () => Navigator.pop(ctx, int.tryParse(ctrl.text.trim())),
+            child: const Text('Сохранить'),
+          ),
+        ],
+      ),
+    );
+    if (km != null) await st.setServiceAgo(c.key, km);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final st = AppScope.of(context);
+    final car = st.car;
+
+    return Scaffold(
+      appBar: AppBar(title: const Text('Профиль')),
+      body: car == null
+          ? const Center(child: Padding(
+              padding: EdgeInsets.all(24),
+              child: Text('Добавьте машину, чтобы вести сервисную книжку.')))
+          : ListView(
+              padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
+              children: [
+                Text('Мои машины',
+                    style: Theme.of(context).textTheme.titleMedium),
+                const SizedBox(height: 8),
+                for (final c in st.cars)
+                  _CarTile(
+                    car: c,
+                    active: c.id == car.id,
+                    onTap: () => st.selectCar(c.id),
+                    onDelete: st.cars.length > 1
+                        ? () => st.removeCar(c.id)
+                        : null,
+                  ),
+                const SizedBox(height: 8),
+                OutlinedButton(
+                  onPressed: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (_) => const OnboardingCarScreen()),
+                  ),
+                  child: const Text('Добавить машину'),
+                ),
+
+                const SizedBox(height: 28),
+                Text('Текущий пробег',
+                    style: Theme.of(context).textTheme.titleMedium),
+                const SizedBox(height: 8),
+                Row(children: [
+                  Expanded(
+                    child: TextField(
+                      controller: _mileageCtrl,
+                      keyboardType: TextInputType.number,
+                      inputFormatters: [FilteringTextInputFormatter.digitsOnly],
+                      decoration: const InputDecoration(suffixText: 'км'),
+                    ),
+                  ),
+                  const SizedBox(width: 12),
+                  FilledButton(
+                    onPressed: () {
+                      final v = int.tryParse(_mileageCtrl.text.trim());
+                      if (v != null) st.setMileage(v);
+                    },
+                    child: const Text('Обновить'),
+                  ),
+                ]),
+                const SizedBox(height: 6),
+                const Text(
+                  'От него считаются остатки по расходникам — и он же подставляется в анкету.',
+                  style: TextStyle(fontSize: 13, color: T.inkSoft),
+                ),
+
+                const SizedBox(height: 28),
+                Text('Сервисная книжка',
+                    style: Theme.of(context).textTheme.titleMedium),
+                const SizedBox(height: 4),
+                const Text(
+                  'Интервалы — распространённый ориентир для наших условий. '
+                  'Регламент производителя для вашей машины всегда главнее.',
+                  style: TextStyle(fontSize: 13, color: T.inkSoft),
+                ),
+                const SizedBox(height: 12),
+                for (final c in consumables)
+                  _ServiceTile(
+                    status: statusFor(
+                      c,
+                      car.service[c.key] == null
+                          ? null
+                          : car.mileageKm - car.service[c.key]!,
+                    ),
+                    onTap: () => _askAgo(context, c),
+                    onClear: car.service.containsKey(c.key)
+                        ? () => st.clearService(c.key)
+                        : null,
+                  ),
+
+                const SizedBox(height: 28),
+                Text('История диагностик',
+                    style: Theme.of(context).textTheme.titleMedium),
+                const SizedBox(height: 8),
+                if (st.history.isEmpty)
+                  const Text('Пока пусто — первый разбор появится здесь.',
+                      style: TextStyle(color: T.inkSoft))
+                else
+                  for (final h in st.history.take(20))
+                    Padding(
+                      padding: const EdgeInsets.only(bottom: 10),
+                      child: Row(children: [
+                        Container(
+                          width: 10,
+                          height: 10,
+                          decoration: BoxDecoration(
+                            color: T.urgencyColor(h.urgency),
+                            shape: BoxShape.circle,
+                          ),
+                        ),
+                        const SizedBox(width: 10),
+                        Expanded(child: Text(h.topCause)),
+                      ]),
+                    ),
+              ],
+            ),
+    );
+  }
+}
+
+class _CarTile extends StatelessWidget {
+  final Car car;
+  final bool active;
+  final VoidCallback onTap;
+  final VoidCallback? onDelete;
+
+  const _CarTile(
+      {required this.car,
+      required this.active,
+      required this.onTap,
+      this.onDelete});
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+      margin: const EdgeInsets.only(bottom: 8),
+      child: ListTile(
+        onTap: onTap,
+        leading: Icon(active ? Icons.check_circle : Icons.circle_outlined,
+            color: active ? T.accent : T.border),
+        title: Text(car.label),
+        subtitle: Text(
+          [
+            if (car.generation.isNotEmpty) car.generation,
+            '${car.mileageKm} км',
+          ].join(' · '),
+          style: const TextStyle(fontSize: 13),
+        ),
+        trailing: onDelete == null
+            ? null
+            : IconButton(
+                icon: const Icon(Icons.delete_outline),
+                onPressed: onDelete,
+              ),
+      ),
+    );
+  }
+}
+
+class _ServiceTile extends StatelessWidget {
+  final ServiceStatus status;
+  final VoidCallback onTap;
+  final VoidCallback? onClear;
+
+  const _ServiceTile(
+      {required this.status, required this.onTap, this.onClear});
+
+  @override
+  Widget build(BuildContext context) {
+    final s = status;
+    final color = s.unknown
+        ? T.inkSoft
+        : s.overdue
+            ? const Color(0xFFC2410C)
+            : s.soon
+                ? const Color(0xFFB45309)
+                : const Color(0xFF15803D);
+
+    return Card(
+      margin: const EdgeInsets.only(bottom: 8),
+      child: ListTile(
+        onTap: onTap,
+        title: Text(s.item.title),
+        subtitle: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              s.item.km != null
+                  ? 'Интервал ${s.item.km} км'
+                      '${s.item.months != null ? ' или ${s.item.months! ~/ 12} г.' : ''}'
+                  : 'Каждые ${s.item.months! ~/ 12} года по сроку',
+              style: const TextStyle(fontSize: 12, color: T.inkSoft),
+            ),
+            if (s.item.note.isNotEmpty)
+              Padding(
+                padding: const EdgeInsets.only(top: 2),
+                child: Text(s.item.note,
+                    style: const TextStyle(fontSize: 12, color: T.inkSoft)),
+              ),
+          ],
+        ),
+        trailing: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.end,
+          children: [
+            Text(s.label,
+                style: TextStyle(
+                    fontSize: 13, fontWeight: FontWeight.w700, color: color)),
+            if (onClear != null)
+              GestureDetector(
+                onTap: onClear,
+                child: const Text('сбросить',
+                    style: TextStyle(fontSize: 11, color: T.inkSoft)),
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+}

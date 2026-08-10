@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'garage.dart';
 
 import '../models.dart';
 import '../state.dart';
@@ -21,6 +22,12 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text(S.appName),
         actions: [
+          IconButton(
+            tooltip: 'Профиль',
+            icon: const Icon(Icons.directions_car_outlined),
+            onPressed: () => Navigator.push(context,
+                MaterialPageRoute(builder: (_) => const GarageScreen())),
+          ),
           IconButton(
             icon: const Icon(Icons.settings_outlined),
             tooltip: S.setTitle,

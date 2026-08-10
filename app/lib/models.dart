@@ -2,25 +2,57 @@
 library;
 
 class Car {
+  final String id;
   final String make;
   final String model;
   final int year;
   final int mileageKm;
+  /// Поколение из справочника: пустая строка, если не выбрано.
+  final String generation;
+  /// Расходник → пробег на момент замены. Храним одометр, а не «сколько назад»:
+  /// иначе при обновлении текущего пробега остаток пришлось бы пересчитывать руками.
+  final Map<String, int> service;
 
   const Car({
     required this.make,
     required this.model,
     required this.year,
     required this.mileageKm,
+    this.id = '',
+    this.generation = '',
+    this.service = const {},
   });
 
   String get label => '$make $model, $year';
+
+  Car copyWithId(String newId) => Car(
+        id: newId,
+        make: make,
+        model: model,
+        year: year,
+        mileageKm: mileageKm,
+        generation: generation,
+        service: service,
+      );
+
+  Car copyWith({int? mileageKm, String? generation, Map<String, int>? service}) => Car(
+        id: id,
+        make: make,
+        model: model,
+        year: year,
+        mileageKm: mileageKm ?? this.mileageKm,
+        generation: generation ?? this.generation,
+        service: service ?? this.service,
+      );
 
   Map<String, dynamic> toJson() => {
         'make': make,
         'model': model,
         'year': year,
         'mileage_km': mileageKm,
+        'id': id,
+        'generation': generation,
+        'service': service,
       };
 
   factory Car.fromJson(Map<String, dynamic> j) => Car(
@@ -28,6 +60,10 @@ class Car {
         model: j['model'] as String? ?? '',
         year: j['year'] as int? ?? 0,
         mileageKm: j['mileage_km'] as int? ?? 0,
+        id: j['id'] as String? ?? '',
+        generation: j['generation'] as String? ?? '',
+        service: ((j['service'] as Map?) ?? const {})
+            .map((k, v) => MapEntry(k as String, (v as num).toInt())),
       );
 }
 

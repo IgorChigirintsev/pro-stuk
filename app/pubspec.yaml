@@ -64,6 +64,7 @@ dev_dependencies:
 flutter:
   assets:
     - assets/schemes/
+    - assets/cars/
     - assets/tree.json
     - assets/google_fonts/
 
