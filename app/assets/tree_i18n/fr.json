@@ -788,5 +788,78 @@
   ],
   "explanation": "Un cliquetis de plastique tout proche et des grillons sur les petites irrégularités, ce sont des frottements et du jeu entre les panneaux d'habitacle : planche de bord, panneaux de portes, boîte à gants. Par temps froid, c'est plus fort. Le test qui ne trompe pas : si, en roulant, vous appuyez de la main sur le panneau suspect et que le bruit disparaît, c'est l'habitacle et non le train roulant.",
   "advice": "Ce n'est pas une panne : la voiture va bien. Sortez les petits objets de la boîte à gants et des vide-poches, glissez un bout de feutrine dans la jonction identifiée. Le grincement autour des portes se traite en graissant les joints à la graisse silicone. Un cognement de train roulant, lui, est sourd, vient d'en dessous, et ne change pas quand on appuie sur les panneaux."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Chargement ou roue de secours mal arrimés dans le coffre",
+  "alt_causes": [
+   "Cric et outillage de bord",
+   "Tablette arrière"
+  ],
+  "explanation": "Un cognement sourd ou un vacarme à l'arrière sur les bosses, comme si quelque chose sautait et roulait, c'est le plus souvent exactement ça : le cric, la clé de roue, une roue de secours mal serrée ou une tablette qui vibre. Coffre chargé, le bruit change en général ou disparaît.",
+  "advice": "Videz le coffre, vérifiez la fixation de la roue de secours et du cric, plaquez la tablette — puis refaites le même trajet. Si le bruit a disparu, la suspension n'y est pour rien et il n'y a rien d'autre à faire. S'il persiste, refaites le diagnostic par la branche des cognements sur les bosses."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Serrure ou butées de capot",
+  "alt_causes": [
+   "Charnières de capot",
+   "Arrêt de porte"
+  ],
+  "explanation": "Un cognement métallique à l'avant en haut, vers le bord du capot, sur les petites irrégularités, c'est du jeu dans la serrure de capot ou des butées en caoutchouc tassées sur lesquelles il repose. Dans l'habitacle, le bruit s'entend tout près, « devant le visage », et non d'en dessous comme un cognement de suspension.",
+  "advice": "Test à l'arrêt : appuyez sur le capot fermé ; s'il joue et cogne, le diagnostic est confirmé. Dévissez d'un demi-tour vers le haut les butées en caoutchouc dans les coins pour que le capot repose plus fermement : dans la plupart des cas, cela suffit. Il n'y a pas de danger."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Poussoirs hydrauliques (à froid)",
+  "alt_causes": [
+   "Jeu aux soupapes",
+   "Huile trop épaisse"
+  ],
+  "explanation": "Les poussoirs hydrauliques sont de petites pièces qui rattrapent le jeu des soupapes grâce à la pression d'huile. Tant que le moteur est froid, l'huile est épaisse et met du temps à leur parvenir : d'où un cliquetis rapide pendant les premières minutes. Si le bruit disparaît complètement une fois le moteur chaud, c'est la situation typique et sans danger.",
+  "advice": "Vérifiez le niveau d'huile et l'échéance de la vidange : une huile ancienne ou inadaptée accentue le bruit. Si le cliquetis dure plus de deux ou trois minutes ou persiste moteur chaud, prenez rendez-vous au garage. Ne versez pas d'additifs censés faire taire le moteur."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Usure de l’attelage mobile (cognement à froid)",
+  "alt_causes": [
+   "Poussoirs hydrauliques",
+   "Chaîne de distribution"
+  ],
+  "explanation": "Un cognement sourd pendant les premières minutes après un démarrage à froid, qui s'estompe à mesure que le moteur chauffe, vient souvent, sur une voiture qui a du kilométrage, de l'usure de l'attelage mobile : tant que le piston est froid, il a un peu plus de jeu dans le cylindre et il cogne. Une fois chaud, les pièces se dilatent et le bruit disparaît. C'est en général une affaire de surveillance, pas de réparation urgente.",
+  "advice": "Signalez-le au garage lors du prochain passage et notez combien de minutes le cognement dure : c'est une information utile au mécanicien. Surveillez le niveau et la consommation d'huile. Si le cognement ne disparaît plus une fois le moteur chaud ou s'entend en charge, direction le diagnostic sans attendre."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Chaîne de distribution ou son tendeur",
+  "alt_causes": [
+   "Poussoirs hydrauliques",
+   "Galets de la courroie d’accessoires"
+  ],
+  "explanation": "La chaîne de distribution est la chaîne située dans le moteur qui relie ses arbres et fait ouvrir les soupapes au bon moment. Quand elle s'allonge ou que son tendeur faiblit, on entend au démarrage à froid un bruissement ou un cliquetis à l'avant du moteur, qui s'apaise une fois chaud, quand la pression d'huile monte. Avec le temps, le bruit reviendra de plus en plus souvent.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : une chaîne qui saute de dent, c'est une réparation moteur coûteuse. En attendant, évitez les démarrages secs à froid et laissez le moteur monter en température avant de le solliciter. Vérifiez impérativement le niveau d'huile."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "La courroie d’accessoires patine",
+  "alt_causes": [
+   "Galet tendeur usé",
+   "Tension de courroie insuffisante"
+  ],
+  "explanation": "Un sifflement dans les premières secondes après le démarrage vient presque toujours de la courroie qui entraîne l'alternateur, la pompe à eau et le compresseur de clim. À froid ou par temps humide, elle patine sur les poulies et siffle, puis se réchauffe et se tait. Ce n'est pas dangereux dans l'immédiat, mais cela indique une courroie usée ou une tension insuffisante.",
+  "advice": "Faites regarder la courroie au garage à l'occasion : le contrôle visuel prend deux minutes. Si le sifflement apparaît aussi moteur chaud ou à l'enclenchement de la climatisation, n'attendez pas. Ne vaporisez pas de WD-40 sur la courroie et n'essayez pas d'autres remèdes de grand-mère."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Jeu aux soupapes trop important",
+  "alt_causes": [
+   "Poussoirs hydrauliques",
+   "Chaîne de distribution"
+  ],
+  "explanation": "Un cliquetis régulier et rapide dans le haut du moteur est le son typique de la distribution. Avec le temps, les jeux entre ses pièces augmentent et les soupapes se mettent à claquer ; c'est au ralenti qu'on l'entend le mieux. Le moteur ne va pas casser pour autant dans l'immédiat, mais les soupapes travaillent en tapant et s'usent plus vite.",
+  "advice": "Prenez rendez-vous pour un réglage des soupapes ou un contrôle des poussoirs hydrauliques dans les deux semaines. Surveillez le niveau d'huile : quand il est bas, le cliquetis s'accentue. Vous pouvez rouler tranquillement, mais ne repoussez pas ça de plusieurs mois."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Cognement dans le bas moteur (coussinets, bielles)",
+  "alt_causes": [
+   "Cliquetis de combustion",
+   "Usure de l’attelage mobile",
+   "Poulie damper de vilebrequin"
+  ],
+  "explanation": "Un cognement sourd venant du fond du moteur, qui s'accélère avec le régime et s'amplifie en charge, est le plus inquiétant de tous les bruits moteur. C'est ainsi que cognent des coussinets usés — les paliers sur lesquels tourne le vilebrequin — ou les bielles : du jeu est apparu dans les assemblages et les pièces se percutent. Si vous continuez à rouler, le moteur peut serrer.",
+  "advice": "Ne roulez pas par vos propres moyens plus loin que strictement nécessaire : mieux vaut le dépanneur ; si le garage est tout près, allez-y doucement et sans accélérer. Vérifiez immédiatement le niveau d'huile et complétez s'il est bas. Des choses moins graves peuvent cogner de façon similaire, mais c'est à un mécanicien de vérifier — et vite."
  }
 }
