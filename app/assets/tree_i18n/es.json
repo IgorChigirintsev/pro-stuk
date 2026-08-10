@@ -861,5 +861,88 @@
   ],
   "explanation": "Un golpeteo sordo desde el fondo del motor, que se acelera con las revoluciones y aumenta bajo carga, es el más preocupante de todos los ruidos del motor. Así golpean unos casquillos gastados —los cojinetes sobre los que gira el cigüeñal— o las bielas: ha aparecido holgura en las uniones y las piezas se golpean entre sí. Si sigues conduciendo, el motor puede griparse.",
   "advice": "No sigas conduciendo por tu cuenta más de lo imprescindible: mejor grúa; si el taller está muy cerca, ve despacio y sin acelerar. Comprueba de inmediato el nivel de aceite y rellena si está bajo. Cosas menos graves pueden sonar parecido, pero tiene que comprobarlo un mecánico, y rápido."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Accesorios del motor o soportes de motor",
+  "alt_causes": [
+   "Embrague del compresor del aire acondicionado",
+   "Taqués hidráulicos"
+  ],
+  "explanation": "Un golpeteo que no se acelera al dar gas no suele venir del motor en sí, sino de lo que va montado sobre él: alternador, poleas, soportes y silentblocks. La holgura en esas piezas produce golpes sordos al ralentí, sobre todo cuando el motor tiembla un poco.",
+  "advice": "Pide diagnóstico en una o dos semanas: este tipo de ruidos el mecánico los localiza bien con el estetoscopio. Es útil que te fijes y le cuentes si el ruido cambia cuando arranca el aire acondicionado o cuando metes una marcha con el freno pisado."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Correa de accesorios gastada o floja",
+  "alt_causes": [
+   "Rodillo tensor",
+   "Polea del alternador"
+  ],
+  "explanation": "Un chillido agudo bajo el capó significa que la correa patina sobre las poleas. Lo más habitual es que la correa esté gastada o que el tensor haya perdido fuerza. Si la correa se rompe, se queda sin funcionar el alternador y, en muchos coches, también la bomba de agua que refrigera el motor, así que no se puede dejar pasar.",
+  "advice": "Lleva el coche al taller dentro de esta semana: cambiar correa y rodillo es un trabajo barato. Si el chillido sube de golpe, se enciende el testigo de la batería o la temperatura del motor empieza a subir: para y apaga el motor."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Bomba de agua",
+  "alt_causes": [
+   "Rodillos de la correa",
+   "Rodamiento del alternador"
+  ],
+  "explanation": "Un zumbido o roce por el lado de la correa junto con restos de refrigerante son las señales típicas de una bomba de agua que se está muriendo. Su rodamiento se desgasta, aparece holgura y por el retén empieza a rezumar refrigerante. Si la bomba se agarrota, el motor se recalienta rápido.",
+  "advice": "Ve al taller en los próximos días y vigila por el camino la temperatura del motor y el nivel de refrigerante. Si la temperatura sube o sale vapor por el capó: para y apaga el motor. El refrigerante se rellena solo con el motor frío."
+ },
+ "leaf_idler": {
+  "top_cause": "Rodillo tensor o rodillo guía",
+  "alt_causes": [
+   "Bomba de agua",
+   "Polea de rueda libre del alternador",
+   "Cadena de distribución o su tensor"
+  ],
+  "explanation": "Un zumbido o roce constante que cambia con las revoluciones del motor viene casi siempre del rodamiento de alguno de los rodillos por los que pasa la correa de accesorios. Un rodillo gastado suena cada vez más, puede empezar a agarrotarse y acabar rompiendo la correa.",
+  "advice": "Pide cita en el taller dentro de esta semana: el mecánico quita la correa y determina allí mismo qué rodillo suena. La bomba de agua, la polea de rueda libre del alternador e incluso la cadena de distribución pueden sonar parecido, y se comprueban de paso. Si el ruido se ha convertido en un roce metálico o un chillido, adelanta la visita."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Chapa antitérmica del escape",
+  "alt_causes": [
+   "Soportes del escape",
+   "Cubrecárter"
+  ],
+  "explanation": "Un cascabeleo metálico agudo a determinadas revoluciones lo produce casi siempre una chapa antitérmica suelta: la lámina fina que va sobre el silenciador o el catalizador. Suena desagradable, pero no afecta al funcionamiento del coche.",
+  "advice": "Pide en el taller que la aprieten o la sujeten con una abrazadera cuando puedas: es un trabajo de unos minutos. Conviene asegurarse de que lo que suena es la chapa y no los soportes del escape: en el elevador se ve enseguida."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Fallos de encendido o un agujero en el escape",
+  "alt_causes": [
+   "Bujías y bobinas de encendido",
+   "Silenciador o tubo perforado",
+   "Ajuste del equipo de gas (si petardea con gas)"
+  ],
+  "explanation": "Los petardeos por el escape significan que el combustible termina de quemarse fuera de los cilindros, ya en la línea de escape. Las causas son fallos de encendido (bujías, bobinas), una mezcla incorrecta o un agujero en el escape. Además del ruido, esto daña el catalizador, y cambiarlo sale caro.",
+  "advice": "Pide diagnóstico en los próximos días, sobre todo si el coche tira menos, funciona a tirones o se ha encendido el testigo del motor. No conviene rodar mucho tiempo con petardeos: el combustible sin quemar recalienta el catalizador. Si llevas equipo de gas y los petardeos aparecen con gas, a ajustar la instalación: para ella los petardeos son especialmente peligrosos."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Silenciador o tubo de escape perforado",
+  "alt_causes": [
+   "Junta del escape",
+   "Tubo flexible del escape agrietado"
+  ],
+  "explanation": "Un rugido fuerte que aumenta al pisar el acelerador suele significar un agujero en la línea de escape: silenciador, tubo o junta pasados. El sonido se vuelve deportivo, pero los gases salen antes de tiempo: eso es ruido, olor y riesgo de que entre monóxido de carbono al habitáculo.",
+  "advice": "Lleva el coche al taller esta semana: revisar el escape en el elevador lleva unos minutos. Si dentro se nota olor a escape, conduce con la ventanilla algo abierta y no calientes el motor en un garaje cerrado: el monóxido de carbono es peligroso."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Soportes de motor",
+  "alt_causes": [
+   "Fallos de encendido",
+   "Mariposa o inyectores sucios"
+  ],
+  "explanation": "Si al ralentí se nota temblor dentro del coche y el volante y los asientos vibran finamente, la culpa suele ser de los soportes de motor: los tacos de goma que absorben sus vibraciones. Con el tiempo la goma se endurece y se rompe, y la vibración pasa a la carrocería.",
+  "advice": "Que revisen los soportes en el taller en un par de semanas: la comprobación es sencilla. Una pista para el diagnóstico: la vibración de los soportes suele aumentar con una marcha metida y el freno pisado. Si además el motor da tirones, díselo al mecánico: puede haber fallos de encendido."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Óxido superficial en los discos de freno",
+  "alt_causes": [
+   "Humedad o polvo en las pastillas",
+   "Desgaste incipiente de las pastillas"
+  ],
+  "explanation": "Durante la noche, después de la lluvia o del lavadero, sobre los discos aparece una fina capa anaranjada: es normal en cualquier coche. Las primeras frenadas la limpian, y de ahí el chirrido o el ligero roce que desaparece enseguida.",
+  "advice": "No hace falta hacer nada: unas cuantas frenadas suaves al principio del trayecto limpian los discos. Si el ruido ya no desaparece y se oye en cada frenada, repite el diagnóstico o lleva el coche al taller."
  }
 }
