@@ -6,7 +6,11 @@ import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';
 
 import 'package:stuk/data/service.dart';
+import 'package:stuk/l10n/parts_i18n.dart';
+import 'package:stuk/l10n/locale_service.dart';
 import 'package:stuk/data/units.dart';
+import 'dart:convert';
+import 'dart:io' as io;
 import 'package:stuk/l10n/ar.dart';
 import 'package:stuk/l10n/en.dart';
 import 'package:stuk/l10n/l10n.dart';
@@ -131,5 +135,28 @@ void main() {
     expect(Units.display(160934), 100000); // 160934 км ≈ 100000 миль
     expect(Units.store(100000), 160934);   // и обратно, без накопления ошибки
     Units.miles.value = false;
+  });
+
+  test('английский словарь схем покрывает все подписи', () {
+    LocaleService.current.value = 'en';
+    final raw = io.File('assets/schemes/parts.json').readAsStringSync();
+    final data = jsonDecode(raw) as Map<String, dynamic>;
+    final labels = <String>{};
+    final titles = <String>{};
+    for (final v in data.values) {
+      titles.add((v as Map)['title'] as String);
+      for (final p in (v['parts'] as List)) {
+        labels.add((p as Map)['label'] as String);
+      }
+    }
+    final missing = <String>[];
+    for (final l in labels) {
+      if (partLabel(l) == l) missing.add(l);
+    }
+    for (final t in titles) {
+      if (schemaTitle(t) == t) missing.add(t);
+    }
+    // На русском подпись и есть перевод — проверяем на английском.
+    expect(missing, isEmpty, reason: 'нет перевода: ${missing.take(5)}');
   });
 }

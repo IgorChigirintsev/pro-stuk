@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 
+import '../l10n/parts_i18n.dart';
 import '../theme.dart';
 
 /// Схема узла с номерами деталей, легендой и подсветкой проблемных мест.
@@ -49,7 +50,7 @@ class _SchemaViewState extends State<SchemaView> {
       final list = (entry['parts'] as List)
           .map((e) => _Part(
                 (e['n'] as num).toInt(),
-                e['label'] as String? ?? '',
+                partLabel(e['label'] as String? ?? ''),
                 (e['x'] as num).toDouble(),
                 (e['y'] as num).toDouble(),
                 (e['r'] as num).toDouble(),
