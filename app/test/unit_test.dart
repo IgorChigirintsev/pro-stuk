@@ -6,6 +6,9 @@ import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';
 
 import 'package:stuk/data/service.dart';
+import 'package:stuk/l10n/en.dart';
+import 'package:stuk/l10n/l10n.dart';
+import 'package:stuk/l10n/ru.dart';
 
 import 'package:stuk/models.dart';
 
@@ -94,5 +97,19 @@ void main() {
     expect(api['generation'], 'VII (LF)');
     // а в хранилище телефона — сохраняется всё
     expect(car.toJson()['service'], {'oil': 110000});
+  });
+
+  test('таблицы языков не разъезжаются по ключам', () {
+    for (final entry in L.tables.entries) {
+      expect(entry.value.keys.toSet(), ru.keys.toSet(),
+          reason: 'язык ${entry.key}: набор ключей отличается от русского');
+    }
+  });
+
+  test('поиск строки падает на английский, а не на ключ', () {
+    expect(en.containsKey('diagnose'), isTrue);
+    expect(ru['diagnose'], isNotEmpty);
+    // ключ, которого нет ни в одной таблице, возвращается как есть — заметно на глаз
+    expect(L.t('нет_такого_ключа'), 'нет_такого_ключа');
   });
 }
