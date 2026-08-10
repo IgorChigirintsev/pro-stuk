@@ -1,0 +1,78 @@
+{
+ "q_when": {
+  "text": "Quando si sente il rumore?",
+  "options": {
+   "o1": "All'avviamento o nel tentativo di avviare",
+   "o2": "Da fermo, con il motore acceso",
+   "o3": "Solo in marcia",
+   "o4": "Sia da fermo sia in marcia"
+  }
+ },
+ "q_start_char": {
+  "text": "Che cosa si sente girando la chiave o premendo il pulsante di avviamento?",
+  "options": {
+   "o1": "Scatti e il motore non gira",
+   "o2": "Uno stridio metallico mentre il motorino d'avviamento gira",
+   "o3": "Il motorino d'avviamento ronza, ma il motore non parte",
+   "o4": "Un fischio acuto subito dopo che il motore si è acceso"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Che tipo di scatti?",
+  "options": {
+   "o1": "Un ticchettio rapido e le spie del cruscotto che si affievoliscono",
+   "o2": "Un solo scatto netto e poi silenzio"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Il rumore compare solo quando accendi o azioni qualcosa (riscaldamento, climatizzatore, frizione, sterzo, freno)?",
+  "options": {
+   "o1": "Sì, è legato a un comando preciso",
+   "o2": "No, si sente da solo"
+  }
+ },
+ "q_action": {
+  "text": "A quale comando è legato il rumore?",
+  "options": {
+   "o1": "Al riscaldamento o alla ventola",
+   "o2": "Al pulsante del climatizzatore",
+   "o3": "Al pedale della frizione",
+   "o4": "Al volante, al pedale del freno o ai tergicristalli"
+  }
+ },
+ "q_hvac": {
+  "text": "Che rumore fa la ventola accesa?",
+  "options": {
+   "o1": "Un fruscio o crepitio che cambia con la velocità della ventola",
+   "o2": "Un fischio o ululato sotto la plancia",
+   "o3": "Una serie di scatti dietro la plancia quando si cambia la temperatura o la distribuzione dell’aria",
+   "o4": "Un gorgoglio dietro la plancia"
+  }
+ },
+ "q_ac": {
+  "text": "Che cosa si sente accendendo il climatizzatore?",
+  "options": {
+   "o1": "Un fischio nel momento in cui si innesta",
+   "o2": "Uno stridio o rimbombo mentre il climatizzatore lavora",
+   "o3": "Un breve sibilo all’accensione o allo spegnimento, e raffredda bene"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Che rapporto ha il rumore con il pedale della frizione?",
+  "options": {
+   "o1": "Un fruscio o ronzio a pedale rilasciato; premendolo si attenua",
+   "o2": "Compare o aumenta quando il pedale è premuto",
+   "o3": "Un tintinnio al minimo che cambia premendo il pedale",
+   "o4": "Un cigolio premendo il pedale, udibile anche a motore spento"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "A che cosa è legato esattamente il rumore?",
+  "options": {
+   "o1": "Un ululato o ronzio girando il volante",
+   "o2": "Uno scricchiolio girando il volante da fermo",
+   "o3": "Un sibilo sotto la plancia premendo il pedale del freno",
+   "o4": "Un colpo o cigolio a tempo con i tergicristalli"
+  }
+ }
+}
