@@ -1028,5 +1028,77 @@
   ],
   "explanation": "Uma pancada surda e repetida nas irregularidades pequenas — calçada, juntas do pavimento, piso ondulado — vem quase sempre das bieletas da barra estabilizadora: umas barras pequenas com rótulas que são das primeiras peças a gastar-se na suspensão. Por si só não são perigosas, mas peças mais sérias podem bater de forma parecida.",
   "advice": "Marque uma verificação da suspensão dentro de uma a duas semanas: o mecânico abana as peças no elevador e encontra a folga em poucos minutos. Até lá, passe devagar nos buracos maiores. Se o carro começar a puxar para o lado, antecipe a verificação."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Trem traseiro: bieletas ou silentblocks do eixo",
+  "alt_causes": [
+   "Amortecedores",
+   "Suportes do escape"
+  ],
+  "explanation": "Uma pancada repetida atrás nas irregularidades pequenas vem normalmente das articulações pequenas do trem traseiro: as bieletas da barra estabilizadora traseira ou silentblocks gastos — os casquilhos de borracha através dos quais os braços e o eixo se fixam à carroçaria. Às vezes um suporte do escape solto bate de forma parecida.",
+  "advice": "Marque uma verificação da suspensão dentro de uma a duas semanas: no elevador a origem de uma pancada atrás encontra-se depressa. Até lá, passe devagar nos buracos maiores. Repare se bate em piso ondulado ou só em buracos isolados, e diga-o ao mecânico."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silentblocks dos braços ou amortecedores",
+  "alt_causes": [
+   "Rolamentos dos apoios dos amortecedores",
+   "Rótulas da suspensão"
+  ],
+  "explanation": "Pancadas surdas isoladas em buracos e lombas significam normalmente silentblocks gastos — os casquilhos de borracha através dos quais os braços da suspensão se fixam à carroçaria — ou amortecedores cansados. A suspensão deixa de absorver o impacto e passa-o à carroçaria.",
+  "advice": "Faça uma verificação da suspensão dentro de duas semanas. Um teste simples aos amortecedores: carregue num canto do carro para baixo; a carroçaria deve voltar sem ficar a oscilar. Até à reparação, passe as irregularidades com suavidade: as pancadas acabam também com as peças vizinhas."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Suportes do escape ou proteção do cárter",
+  "alt_causes": [
+   "Chapa de proteção térmica",
+   "Tubo de escape pendurado"
+  ],
+  "explanation": "Um chocalhar metálico debaixo do carro nos buracos é normalmente uma fixação solta: as borrachas do escape, os parafusos da proteção do cárter ou uma chapa de proteção térmica. É incomodativo, mas não afeta o motor nem a condução.",
+  "advice": "Na próxima ida à oficina, peça para apertarem as fixações: é rápido e barato. Vale a pena confirmar que o escape não está pendurado — um tubo a arrastar no chão já não se pode ignorar. Até lá, pode conduzir normalmente."
+ },
+ "leaf_detonation": {
+  "top_cause": "Detonação (bater de bielas em esforço)",
+  "alt_causes": [
+   "Combustível com octanagem baixa",
+   "Carbono ou sensor de detonação avariado"
+  ],
+  "explanation": "Um tinir metálico ao acelerar, sobretudo a subir ou a partir de rotações baixas, é detonação: parte do combustível no cilindro inflama-se sozinha, de forma explosiva, em vez de arder de maneira uniforme, e a onda de choque martela os pistões. Causas frequentes: gasolina com octanagem inferior à necessária, depósitos de carbono nas câmaras de combustão ou um sensor de detonação avariado. Uma detonação permanente vai destruindo o motor.",
+  "advice": "Abasteça com combustível de octanagem não inferior à recomendada pelo fabricante, de preferência noutra estação: muitas vezes o tinir desaparece ao fim de um depósito. Até à verificação, não exija do motor: acelere com suavidade e reduza nas subidas. Se o tinir continuar depois de mudar de combustível, a diagnóstico."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Apoios do motor ou junta homocinética interior",
+  "alt_causes": [
+   "Folga na transmissão",
+   "Apoio da caixa de velocidades"
+  ],
+  "explanation": "Uma pancada no momento em que carrega ou larga o acelerador indica folga na cadeia que transmite a força. Apoios gastos deixam o motor balançar na mudança de carga, e uma junta homocinética interior gasta — a junta do semieixo que vai da caixa à roda — bate ao acelerar e ao largar o pé. O que importa: o barulho vem com a mudança de carga, não com os buracos.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas. Uma pista para a oficina: repare se a pancada está mais perto do motor ou das rodas e se se repete ao trocar de mudança. Até à reparação, acelere e mude de velocidade com mais suavidade."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Rolamento de roda",
+  "alt_causes": [
+   "Ruído dos pneus",
+   "Rolamento intermédio ou transmissão"
+  ],
+  "explanation": "Um zumbido constante que aumenta com a velocidade e não depende das rotações do motor vem quase sempre de um rolamento de roda gasto: o rolamento sobre o qual a roda gira. O zumbido lembra um avião a levantar voo e quase não muda com o piso. Um rolamento deixado andar demasiado tempo dá folga à roda e, no pior caso, pode gripar.",
+  "advice": "Mande verificar na oficina dentro desta semana: o mecânico roda as rodas no elevador e encontra o cubo barulhento — a peça onde este rolamento está alojado. Adie as viagens longas a alta velocidade até ao diagnóstico. Se o zumbido subir de repente ou aparecer vibração, à oficina de imediato."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Rolamento da roda traseira",
+  "alt_causes": [
+   "Ruído dos pneus",
+   "Diferencial ou rolamento intermédio (na tração traseira e integral)"
+  ],
+  "explanation": "Um zumbido constante atrás que aumenta com a velocidade vem quase sempre de um rolamento da roda traseira: o rolamento sobre o qual a roda gira. Em carros de tração traseira ou integral, as peças da transmissão zumbem de forma parecida, por isso vale a pena confirmar a origem no elevador.",
+  "advice": "Mande verificar na oficina dentro desta semana: atrás, o zumbido de um rolamento confunde-se facilmente com o diferencial, e uma inspeção no elevador esclarece logo. Adie as viagens longas a alta velocidade até lá. Se o zumbido subir de repente ou aparecer vibração, à oficina de imediato."
+ },
+ "leaf_tires": {
+  "top_cause": "Ruído dos pneus",
+  "alt_causes": [
+   "Desgaste irregular do piso",
+   "Rolamento de roda"
+  ],
+  "explanation": "Se o zumbido depende do piso — mais baixo em asfalto novo, mais alto em piso rugoso —, o mais provável é serem os pneus. Zumbem sobretudo os pneus de inverno, os de todo-o-terreno e os gastos de forma irregular. É uma questão de conforto, não uma avaria.",
+  "advice": "Veja o piso dos pneus: um desgaste em serra (degraus nos bordos) ou às manchas aumenta o zumbido e sugere alinhamento desafinado ou amortecedores cansados. Verifique a pressão dos pneus. Se afinal o zumbido não depender do piso e aumentar com a velocidade, volte à hipótese do rolamento de roda."
  }
 }
