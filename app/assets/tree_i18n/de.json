@@ -1278,5 +1278,79 @@
   ],
   "explanation": "Ein dumpfes Klopfen aus der Tiefe des Motors, das mit der Drehzahl schneller und unter Last lauter wird, ist das alarmierendste aller Motorgeräusche. So klopfen verschlissene Lagerschalen — die Lager, auf denen sich die Kurbelwelle dreht — oder die Pleuel: in den Verbindungen ist Spiel entstanden, und die Teile schlagen aufeinander. Fährt man weiter, kann der Motor festgehen.",
   "advice": "Fahren Sie nicht weiter als unbedingt nötig aus eigener Kraft: besser den Abschleppwagen rufen; ist die Werkstatt ganz in der Nähe, langsam hinfahren und kein Gas geben. Prüfen Sie sofort den Ölstand und füllen Sie auf, wenn er niedrig ist. Ähnlich können auch weniger schlimme Dinge klopfen, aber das muss ein Mechaniker prüfen — und zwar schnell."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Nebenaggregate oder Motorlager",
+  "alt_causes": [
+   "Magnetkupplung des Klimakompressors",
+   "Hydrostößel"
+  ],
+  "explanation": "Ein Klopfen, das beim Gasgeben nicht schneller wird, kommt meist nicht aus dem Motor selbst, sondern von dem, was an ihm hängt: Lichtmaschine, Riemenscheiben, Halter, Lager. Spiel in diesen Teilen erzeugt dumpfe Schläge im Leerlauf, besonders wenn der Motor leicht zittert.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: solche Geräusche findet ein Mechaniker gut mit dem Stethoskop. Nützlich ist, wenn Sie sich merken und dem Mechaniker sagen, ob sich das Geräusch ändert, wenn die Klimaanlage anspringt oder wenn bei getretener Bremse ein Gang eingelegt ist."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Verschlissener oder zu locker gespannter Nebenaggregateriemen",
+  "alt_causes": [
+   "Spannrolle",
+   "Riemenscheibe der Lichtmaschine"
+  ],
+  "explanation": "Ein schrilles Quietschen unter der Haube heißt: der Riemen rutscht über die Scheiben. Meist ist der Riemen selbst verschlissen oder der Spanner hat nachgelassen. Reißt der Riemen, fällt die Lichtmaschine aus — und bei vielen Autos auch die Wasserpumpe, die das Kühlmittel umwälzt —, deshalb darf man das nicht schleifen lassen.",
+  "advice": "Zeigen Sie das Auto innerhalb einer Woche in der Werkstatt: Riemen und Rolle zu tauschen ist eine günstige Arbeit. Wird das Quietschen plötzlich viel lauter, leuchtet die Batterielampe oder steigt die Motortemperatur — anhalten und den Motor abstellen."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Wasserpumpe",
+  "alt_causes": [
+   "Riemenrollen",
+   "Lager der Lichtmaschine"
+  ],
+  "explanation": "Brummen oder Rascheln von der Riemenseite zusammen mit Spuren von Kühlmittel sind die typischen Zeichen einer sterbenden Wasserpumpe. Ihr Lager verschleißt, es entsteht Spiel, und durch die Dichtung tritt Kühlmittel aus. Geht die Pumpe fest, überhitzt der Motor schnell.",
+  "advice": "Fahren Sie in den nächsten Tagen in die Werkstatt und behalten Sie unterwegs Motortemperatur und Kühlmittelstand im Auge. Steigt die Temperatur oder tritt unter der Haube Dampf aus — anhalten und den Motor abstellen. Kühlmittel nur bei kaltem Motor nachfüllen."
+ },
+ "leaf_idler": {
+  "top_cause": "Spannrolle oder Umlenkrolle",
+  "alt_causes": [
+   "Wasserpumpe",
+   "Freilauf der Lichtmaschine",
+   "Steuerkette oder ihr Spanner"
+  ],
+  "explanation": "Ein gleichmäßiges Brummen oder Rascheln, das sich mit der Motordrehzahl ändert, kommt meist vom Lager einer der Rollen, über die der Nebenaggregateriemen läuft. Eine verschlissene Rolle wird immer lauter, kann anfangen zu klemmen und am Ende den Riemen zerreißen.",
+  "advice": "Vereinbaren Sie innerhalb einer Woche einen Werkstatttermin: der Mechaniker nimmt den Riemen ab und stellt vor Ort fest, welche Rolle lärmt. Ähnlich können auch die Wasserpumpe, der Freilauf der Lichtmaschine und sogar die Steuerkette klingen — das wird gleich mitgeprüft. Ist aus dem Geräusch ein Schaben oder Kreischen geworden, den Termin vorziehen."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Hitzeschutzblech der Abgasanlage",
+  "alt_causes": [
+   "Befestigungen des Auspuffs",
+   "Motorschutz unter dem Fahrzeug"
+  ],
+  "explanation": "Ein helles metallisches Klappern bei bestimmten Drehzahlen kommt fast immer von einem locker gewordenen Hitzeschutzblech — dem dünnen Blech über Auspufftopf oder Katalysator. Es klingt unangenehm, hat aber keinen Einfluss darauf, wie das Auto läuft.",
+  "advice": "Lassen Sie das Blech bei Gelegenheit in der Werkstatt nachziehen oder mit einer Schelle befestigen: eine Arbeit von wenigen Minuten. Es lohnt sich sicherzustellen, dass wirklich das Blech klappert und nicht die Befestigungen des Auspuffs — auf der Hebebühne sieht man das sofort."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Zündaussetzer oder ein Loch in der Abgasanlage",
+  "alt_causes": [
+   "Zündkerzen und Zündspulen",
+   "Durchgerosteter Auspufftopf oder durchgerostetes Rohr",
+   "Einstellung der Gasanlage (wenn es im Gasbetrieb knallt)"
+  ],
+  "explanation": "Knallen aus dem Auspuff heißt, dass Kraftstoff nicht in den Zylindern zu Ende verbrennt, sondern in der Abgasanlage. Ursachen sind Zündaussetzer durch Kerzen oder Spulen, ein falsches Gemisch oder ein Loch im Abgasstrang. Außer dem Lärm schadet das dem Katalysator, und der ist teuer im Austausch.",
+  "advice": "Machen Sie in den nächsten Tagen einen Diagnosetermin, besonders wenn das Auto schlechter zieht, unrund läuft oder die Motorkontrollleuchte an ist. Lange mit Knallen zu fahren lohnt nicht: unverbrannter Kraftstoff überhitzt den Katalysator. Ist eine Gasanlage verbaut und knallt es im Gasbetrieb — zur Einstellung der Anlage: für sie sind Knaller besonders gefährlich."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Durchgerosteter Auspufftopf oder durchgerostetes Rohr",
+  "alt_causes": [
+   "Dichtung der Abgasanlage",
+   "Gerissenes Flexrohr"
+  ],
+  "explanation": "Ein lautes Röhren, das beim Gasgeben stärker wird, bedeutet meist ein Loch in der Abgasanlage: Auspufftopf, Rohr oder Dichtung sind durch. Der Klang wird sportlich, aber die Abgase treten zu früh aus — das heißt Lärm, Geruch und das Risiko, dass Kohlenmonoxid in den Innenraum gelangt.",
+  "advice": "Zeigen Sie das Auto diese Woche in der Werkstatt: die Abgasanlage auf der Hebebühne anzusehen dauert ein paar Minuten. Riecht es im Innenraum nach Abgas — mit einem Spalt offenem Fenster fahren und den Motor nicht in einer geschlossenen Garage warmlaufen lassen: Kohlenmonoxid ist gefährlich."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Motorlager",
+  "alt_causes": [
+   "Zündaussetzer",
+   "Verschmutzte Drosselklappe oder Einspritzdüsen"
+  ],
+  "explanation": "Wenn im Leerlauf ein Zittern im Innenraum zu spüren ist und Lenkrad und Sitze fein vibrieren, sind oft die Motorlager schuld — die Gummielemente, die die Schwingungen des Motors dämpfen. Mit der Zeit wird der Gummi hart und reißt, und die Vibration geht in die Karosserie.",
+  "advice": "Lassen Sie die Lager in den nächsten zwei Wochen in der Werkstatt prüfen: die Sichtprüfung ist einfach. Ein Hinweis für die Diagnose — Vibrationen von den Lagern werden meist stärker, wenn bei getretener Bremse ein Gang eingelegt ist. Ruckelt der Motor zusätzlich, sagen Sie das dem Mechaniker: dann können auch Zündaussetzer dahinterstecken."
  }
 }
