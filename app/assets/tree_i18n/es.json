@@ -74,5 +74,72 @@
    "o3": "Siseo bajo el salpicadero al pisar el pedal de freno",
    "o4": "Golpeteo o chirrido al ritmo del limpiaparabrisas"
   }
+ },
+ "q_ps_type": {
+  "text": "¿Hay bajo el capó un depósito de líquido de la dirección asistida?",
+  "options": {
+   "o1": "Sí, lo hay",
+   "o2": "No, o no lo sé"
+  }
+ },
+ "q_steer_click": {
+  "text": "¿De dónde vienen los chasquidos?",
+  "options": {
+   "o1": "De arriba, del paso de rueda, a la altura del capó",
+   "o2": "Del propio volante o de la columna, a la altura de los pies"
+  }
+ },
+ "q_engine_cold": {
+  "text": "¿El ruido se oye solo con el motor frío, justo después de arrancar?",
+  "options": {
+   "o1": "Sí, al calentarse desaparece",
+   "o2": "No, también con el motor caliente"
+  }
+ },
+ "q_cold_char": {
+  "text": "¿A qué se parece el ruido en frío?",
+  "options": {
+   "o1": "Un tableteo o repiqueteo rápido",
+   "o2": "Un golpeteo sordo que desaparece al calentarse",
+   "o3": "Un roce o traqueteo en la parte delantera del motor",
+   "o4": "Un chillido o silbido al arrancar"
+  }
+ },
+ "q_tick_cold": {
+  "text": "¿El repiqueteo suena más fuerte desde fuera que dentro del coche, y bajo el capó huele a escape?",
+  "options": {
+   "o1": "Sí, desde fuera suena más y se nota el olor",
+   "o2": "No, tabletea en la parte alta del motor y no hay olor"
+  }
+ },
+ "q_engine_char": {
+  "text": "¿A qué se parece el ruido?",
+  "options": {
+   "o1": "Golpeteo o tableteo",
+   "o2": "Chillido, silbido, zumbido o siseo",
+   "o3": "Tintineo, cascabeleo, petardeos o borboteo",
+   "o4": "Vibración o temblor al ralentí"
+  }
+ },
+ "q_engine_knock": {
+  "text": "¿Qué tipo de golpeteo exactamente?",
+  "options": {
+   "o1": "Un tableteo ligero y rápido en la parte alta del motor",
+   "o2": "Un golpe sordo o metálico desde el fondo del motor"
+  }
+ },
+ "q_tick_warm": {
+  "text": "¿El tableteo ha ido a más con el tiempo o siempre suena igual?",
+  "options": {
+   "o1": "Ha ido a más; con el motor caliente se oye mejor",
+   "o2": "Siempre igual; desde fuera suena más que dentro"
+  }
+ },
+ "q_knock_load": {
+  "text": "Si aceleras suavemente, ¿el golpeteo se acelera y suena más fuerte?",
+  "options": {
+   "o1": "Sí, va más rápido y más fuerte",
+   "o2": "Casi no cambia o desaparece"
+  }
  }
 }
