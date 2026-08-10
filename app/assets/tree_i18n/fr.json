@@ -644,5 +644,77 @@
   ],
   "explanation": "Un léger sifflement régulier du turbo en charge est normal sur un moteur turbocompressé. Ce qui doit alerter, c'est le changement : le sifflement devient plus fort ou change de tonalité, un hurlement apparaît, la reprise s'effondre. C'est soit une fuite d'air dans les durites de suralimentation, soit l'usure du palier de l'arbre de turbine.",
   "advice": "Si la tonalité a changé ou si la voiture tire moins, diagnostic dans les jours qui viennent : une durite qui fuit se répare pour pas cher, alors qu'une usure de turbo négligée se termine par son remplacement. Surveillez la consommation d'huile. En attendant, n'emmenez pas le moteur dans le rupteur et laissez le turbo refroidir une à deux minutes au ralenti après une conduite soutenue."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Couple conique du pont",
+  "alt_causes": [
+   "Roulements du pont",
+   "Niveau d’huile de pont insuffisant"
+  ],
+  "explanation": "Un hurlement ou un bourdonnement qui, à vitesse constante, change de tonalité selon qu'on appuie ou qu'on relâche l'accélérateur — il hurle en charge et s'apaise en roue libre, ou l'inverse — est la signature d'un couple conique usé : les pignons du pont qui transmettent le mouvement aux roues. Un roulement de roue, lui, ne réagit pas du tout à l'accélérateur.",
+  "advice": "Vérifiez le niveau d'huile de pont et prenez rendez-vous pour un diagnostic dans la semaine : à un stade précoce, de l'huile et un réglage suffisent souvent ; plus tard, il faut remplacer le couple. Reportez les longs trajets rapides jusqu'au contrôle."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT ou boîte automatique (roulements, courroie, convertisseur)",
+  "alt_causes": [
+   "Huile de boîte insuffisante ou ancienne",
+   "Roulements d’arbres"
+  ],
+  "explanation": "Un hurlement métallique monotone à l'accélération sur une voiture à CVT ou boîte automatique, qui dépend de l'accélérateur et non de la vitesse, vient en général des roulements des poulies de la CVT ou de la pompe de la boîte automatique. La CVT est particulièrement sensible à l'âge de l'huile.",
+  "advice": "D'abord le contrôle du niveau et de l'état de l'huile de boîte : c'est la moitié de ces cas. Prenez rendez-vous pour un diagnostic dans la semaine et, en attendant, roulez tranquillement, sans accélérations brutales ni remorque. Une CVT réparée tôt coûte plusieurs fois moins cher qu'une CVT réparée tard."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Roulements ou pignons de boîte manuelle",
+  "alt_causes": [
+   "Niveau d’huile de boîte insuffisant",
+   "Roulement d’arbre primaire"
+  ],
+  "explanation": "Un hurlement dont le volume dépend du rapport engagé — fort sur l'un, plus discret sur l'autre, absent en roue libre au point mort — vient de la boîte manuelle : roulements d'arbres usés ou un couple de pignons précis. Un roulement de roue, lui, bourdonne pareil sur tous les rapports.",
+  "advice": "Vérifiez le niveau d'huile de boîte : sa baisse est une cause fréquente. Prenez rendez-vous pour un diagnostic dans une à deux semaines et précisez sur quels rapports le hurlement est le plus fort : ça réduit le champ de recherche. Vous pouvez rouler, mais un hurlement qui s'amplifie ne doit pas traîner."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Balourd des roues",
+  "alt_causes": [
+   "Masselotte d’équilibrage perdue",
+   "Boue ou glace à l’intérieur de la jante"
+  ],
+  "explanation": "Une vibration fine du volant sur une plage de vitesse étroite, en général entre 80 et 120 km/h, qui disparaît presque en dessous et au-dessus, c'est le balourd classique : une masselotte est tombée, ou de la boue ou de la glace s'est collée à l'intérieur de la jante. Si c'est le volant qui vibre, ce sont les roues avant ; si c'est le siège, les roues arrière.",
+  "advice": "Passez à l'équilibrage à l'occasion : c'est rapide et peu coûteux. En hiver, regardez d'abord l'intérieur des jantes et décollez la neige et la glace. Ce n'est pas dangereux, mais une vibration permanente accélère l'usure des roulements et des rotules de direction."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Jante voilée ou hernie sur un pneu",
+  "alt_causes": [
+   "Nappe du pneu déplacée",
+   "Balourd des roues"
+  ],
+  "explanation": "Un battement perceptible dès 40–60 km/h et qui augmente avec la vitesse vient en général d'une déformation : une jante voilée après un nid-de-poule ou une hernie (une bosse) sur le flanc du pneu. Contrairement au balourd, ce battement ne vit pas dans une plage de vitesse étroite : il s'amplifie en continu.",
+  "advice": "Inspectez les pneus et les bords de jantes : une bosse sur le flanc ou une jante voilée se voient souvent à l'œil nu. Une hernie est un point faible qui peut éclater à vitesse : montez la roue de secours à la place et n'attendez pas pour aller chez le spécialiste du pneu. En attendant, ne roulez pas vite."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Arbre de transmission : palier intermédiaire ou balourd",
+  "alt_causes": [
+   "Croisillons de transmission",
+   "Flector (accouplement souple)"
+  ],
+  "explanation": "Un bourdonnement et une vibration fine par le plancher et la caisse dans une plage de vitesse précise, sur une voiture à propulsion ou à transmission intégrale, c'est l'arbre de transmission : palier intermédiaire usé, croisillons matés ou équilibrage perdu. Ça se distingue d'un balourd de roue parce que ce n'est pas le volant qui vibre, mais le plancher.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans la semaine : les jeux de l'arbre se contrôlent sur le pont en quelques minutes. Ne laissez pas traîner : la rupture d'un croisillon à vitesse est dangereuse. En attendant, ne roulez pas longtemps à la vitesse où ça vibre."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Bruit aérodynamique (joints, baguettes, barres de toit)",
+  "alt_causes": [
+   "Joints de portes usés",
+   "Barres ou coffre de toit"
+  ],
+  "explanation": "Un sifflement ou un hurlement qui n'apparaît qu'au-delà d'une certaine vitesse (en général 70–90 km/h), augmente avec elle et ne dépend ni du revêtement ni des virages, c'est de l'air : un joint usé, une baguette décollée, des barres de toit ou un coffre.",
+  "advice": "La source se trouve facilement : enlevez le coffre ou les barres si vous en avez ; entrouvrez la vitre et voyez si le sifflement change ; scotchez l'interstice suspect avec du ruban de masquage et faites un tour. Ce n'est pas une panne : ça se règle avec un joint neuf ou un réglage de porte."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Le témoin d’usure des plaquettes frotte sur le disque",
+  "alt_causes": [
+   "Plaquettes en fin de vie",
+   "Gravillon entre la plaquette et le disque"
+  ],
+  "explanation": "Un sifflement métallique fin en roulant sans freiner, qui disparaît ou change dès qu'on effleure la pédale, c'est la languette métallique de la plaquette qui commence à toucher le disque. C'est l'avertissement prévu d'origine : la garniture est presque au bout.",
+  "advice": "Prenez rendez-vous cette semaine pour changer les plaquettes et faites contrôler les disques au passage. Le freinage est encore pleinement efficace, mais l'étape suivante, c'est le frottement métallique et des disques abîmés. Si le sifflement vient d'une roue précise, signalez-le au garage."
  }
 }
