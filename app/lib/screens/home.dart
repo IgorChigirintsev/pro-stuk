@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
         title: const Text(S.appName),
         actions: [
           IconButton(
-            tooltip: 'Профиль',
+            tooltip: S.garageTitle,
             icon: const Icon(Icons.directions_car_outlined),
             onPressed: () => Navigator.push(context,
                 MaterialPageRoute(builder: (_) => const GarageScreen())),

@@ -100,7 +100,7 @@ abstract final class S {
 
   // Настройки
   static const setTitle = 'Настройки';
-  static const setCar = 'Машина';
+  static const carFormTitle = 'Машина';
   static const setVersion = 'Версия приложения';
   static const setCheckUpdate = 'Проверить обновления';
   static const setUpToDate = 'У вас последняя версия.';
@@ -131,5 +131,48 @@ abstract final class S {
     'Nissan', 'Mazda', 'Honda', 'Mitsubishi', 'BMW', 'Mercedes-Benz', 'Audi',
     'Ford', 'Renault', 'Lexus', 'Subaru', 'Daewoo', 'Opel', 'Peugeot',
     'Geely', 'Chery', 'Haval', 'УАЗ', 'ГАЗ',
+  ];
+
+  // ── Гараж, сервисная книжка, история
+  static const garageTitle = 'Гараж';
+  static const garageLink = 'гараж';
+  static const garageCars = 'Мои машины';
+  static const garageAddCar = 'Добавить машину';
+  static const garageEmpty =
+      'Пока нет ни одной машины. Добавьте — появятся история разборов и сервисная книжка.';
+  static const garageSettings = 'Настройки и обновление';
+
+  static const mileageNow = 'Текущий пробег';
+  static const mileageUpdate = 'Обновить';
+  static const mileageOk = 'ОК';
+  static const mileageHint =
+      'От него считаются остатки по расходникам — и он же подставляется в анкету.';
+
+  static const bookTitle = 'Сервисная книжка';
+  static const bookNote =
+      'Интервалы даны диапазоном: разброс зависит от типа детали и условий. '
+      'Регламент производителя для вашей машины главнее.';
+  static const bookEmptyHint = 'Отметьте, что и когда меняли';
+  static const bookAllGood = 'Всё в пределах интервала';
+  static const bookOverdue = 'Пора менять';
+  static const bookSoon = 'Скоро';
+  static const bookAskAgo = 'Сколько километров назад меняли?';
+  static const bookAskHint = 'например, 3000';
+  static const bookCancel = 'Отмена';
+  static const bookSave = 'Сохранить';
+  static const bookReset = 'сбросить';
+  static const bookByCondition = 'смотреть по состоянию';
+
+  static const upcomingTitle = 'Ближайшие замены';
+  static const upcomingEmpty =
+      'Отметьте замены в гараже — покажу, что и когда пора делать';
+
+  static const histEmpty = 'Пока пусто — первый разбор появится здесь.';
+  static const histFull = 'разбор звука';
+  static const histQuick = 'быстрый вердикт';
+
+  static const months = [
+    'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
+    'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
   ];
 }

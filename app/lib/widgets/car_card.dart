@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../state.dart';
+import '../strings.dart';
 import '../theme.dart';
 
 /// Карточка активной машины на главной: пробег и ближайшие замены.
@@ -61,7 +62,7 @@ class _CarCardState extends State<CarCard> {
               ),
               GestureDetector(
                 onTap: widget.onOpenProfile,
-                child: const Text('профиль',
+                child: const Text(S.garageLink,
                     style: TextStyle(fontSize: 13, color: T.accent)),
               ),
             ],
@@ -81,7 +82,7 @@ class _CarCardState extends State<CarCard> {
                 inputFormatters: [FilteringTextInputFormatter.digitsOnly],
                 decoration: const InputDecoration(
                   isDense: true,
-                  labelText: 'Текущий пробег',
+                  labelText: S.mileageNow,
                   suffixText: 'км',
                 ),
               ),
@@ -93,12 +94,12 @@ class _CarCardState extends State<CarCard> {
                 if (v != null) st.setMileage(v);
                 FocusScope.of(context).unfocus();
               },
-              child: const Text('ОК'),
+              child: const Text(S.mileageOk),
             ),
           ]),
           if (upcoming.isNotEmpty) ...[
             const SizedBox(height: 14),
-            const Text('Ближайшие замены',
+            const Text(S.upcomingTitle,
                 style: TextStyle(fontSize: 13, color: T.inkSoft)),
             const SizedBox(height: 6),
             for (final s in upcoming)
@@ -132,7 +133,7 @@ class _CarCardState extends State<CarCard> {
             GestureDetector(
               onTap: widget.onOpenProfile,
               child: const Text(
-                'Отметьте замены в профиле — покажу, что и когда пора делать',
+                S.upcomingEmpty,
                 style: TextStyle(fontSize: 13, color: T.accent),
               ),
             ),

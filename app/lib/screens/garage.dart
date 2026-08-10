@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import '../data/service.dart';
 import '../models.dart';
 import '../state.dart';
+import '../strings.dart';
 import '../theme.dart';
 import 'onboarding.dart';
 import 'report.dart';
@@ -11,7 +12,7 @@ import 'settings.dart';
 import 'verdict.dart';
 import '../tree.dart';
 
-/// Профиль: гараж, история диагностик и сервисная книжка.
+/// Гараж: машины, история диагностик и сервисная книжка.
 class GarageScreen extends StatefulWidget {
   const GarageScreen({super.key});
 
@@ -48,23 +49,23 @@ class _GarageScreenState extends State<GarageScreen> {
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Text('Сколько километров назад меняли?'),
+            const Text(S.bookAskAgo),
             const SizedBox(height: 12),
             TextField(
               controller: ctrl,
               autofocus: true,
               keyboardType: TextInputType.number,
               inputFormatters: [FilteringTextInputFormatter.digitsOnly],
-              decoration: const InputDecoration(hintText: 'например, 3000'),
+              decoration: const InputDecoration(hintText: S.bookAskHint),
             ),
           ],
         ),
         actions: [
           TextButton(
-              onPressed: () => Navigator.pop(ctx), child: const Text('Отмена')),
+              onPressed: () => Navigator.pop(ctx), child: const Text(S.bookCancel)),
           TextButton(
             onPressed: () => Navigator.pop(ctx, int.tryParse(ctrl.text.trim())),
-            child: const Text('Сохранить'),
+            child: const Text(S.bookSave),
           ),
         ],
       ),
@@ -78,7 +79,7 @@ class _GarageScreenState extends State<GarageScreen> {
     final car = st.car;
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Профиль')),
+      appBar: AppBar(title: const Text(S.garageTitle)),
       body: car == null
           ? Center(
               child: Padding(
@@ -87,8 +88,7 @@ class _GarageScreenState extends State<GarageScreen> {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     const Text(
-                      'Пока нет ни одной машины. Добавьте — появятся история '
-                      'разборов и сервисная книжка.',
+                      S.garageEmpty,
                       textAlign: TextAlign.center,
                     ),
                     const SizedBox(height: 16),
@@ -99,7 +99,7 @@ class _GarageScreenState extends State<GarageScreen> {
                             builder: (_) =>
                                 const OnboardingCarScreen(addNew: true)),
                       ),
-                      child: const Text('Добавить машину'),
+                      child: const Text(S.garageAddCar),
                     ),
                   ],
                 ),
@@ -108,7 +108,7 @@ class _GarageScreenState extends State<GarageScreen> {
           : ListView(
               padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
               children: [
-                Text('Мои машины',
+                Text(S.garageCars,
                     style: Theme.of(context).textTheme.titleMedium),
                 const SizedBox(height: 8),
                 for (final c in st.cars)
@@ -127,11 +127,11 @@ class _GarageScreenState extends State<GarageScreen> {
                     MaterialPageRoute(
                         builder: (_) => const OnboardingCarScreen(addNew: true)),
                   ),
-                  child: const Text('Добавить машину'),
+                  child: const Text(S.garageAddCar),
                 ),
 
                 const SizedBox(height: 28),
-                Text('Текущий пробег',
+                Text(S.mileageNow,
                     style: Theme.of(context).textTheme.titleMedium),
                 const SizedBox(height: 8),
                 Row(children: [
@@ -149,12 +149,12 @@ class _GarageScreenState extends State<GarageScreen> {
                       final v = int.tryParse(_mileageCtrl.text.trim());
                       if (v != null) st.setMileage(v);
                     },
-                    child: const Text('Обновить'),
+                    child: const Text(S.mileageUpdate),
                   ),
                 ]),
                 const SizedBox(height: 6),
                 const Text(
-                  'От него считаются остатки по расходникам — и он же подставляется в анкету.',
+                  S.mileageHint,
                   style: TextStyle(fontSize: 13, color: T.inkSoft),
                 ),
 
@@ -162,7 +162,7 @@ class _GarageScreenState extends State<GarageScreen> {
                 Card(
                   clipBehavior: Clip.antiAlias,
                   child: ExpansionTile(
-                    title: const Text('Сервисная книжка'),
+                    title: const Text(S.bookTitle),
                     subtitle: Text(_bookSummary(car),
                         style: const TextStyle(fontSize: 13, color: T.inkSoft)),
                     childrenPadding: const EdgeInsets.fromLTRB(12, 0, 12, 12),
@@ -170,8 +170,7 @@ class _GarageScreenState extends State<GarageScreen> {
                       const Padding(
                         padding: EdgeInsets.only(bottom: 10),
                         child: Text(
-                          'Интервалы даны диапазоном: разброс зависит от типа детали '
-                          'и условий. Регламент производителя для вашей машины главнее.',
+                          S.bookNote,
                           style: TextStyle(fontSize: 13, color: T.inkSoft),
                         ),
                       ),
@@ -193,11 +192,11 @@ class _GarageScreenState extends State<GarageScreen> {
                 ),
 
                 const SizedBox(height: 28),
-                Text('История диагностик',
+                Text(S.historyTitle,
                     style: Theme.of(context).textTheme.titleMedium),
                 const SizedBox(height: 8),
                 if (st.historyForCar.isEmpty)
-                  const Text('Пока пусто — первый разбор появится здесь.',
+                  const Text(S.histEmpty,
                       style: TextStyle(color: T.inkSoft))
                 else
                   for (final h in st.historyForCar) _HistoryCard(entry: h),
@@ -205,7 +204,7 @@ class _GarageScreenState extends State<GarageScreen> {
                 const SizedBox(height: 24),
                 OutlinedButton.icon(
                   icon: const Icon(Icons.settings_outlined, size: 18),
-                  label: const Text('Настройки и обновление'),
+                  label: const Text(S.garageSettings),
                   onPressed: () => Navigator.push(context,
                       MaterialPageRoute(builder: (_) => const SettingsScreen())),
                 ),
@@ -231,20 +230,15 @@ String _bookSummary(Car car) {
       due++;
     }
   }
-  if (filled == 0) return 'Отметьте, что и когда меняли';
-  if (overdue > 0) return 'Пора менять: $overdue';
-  if (due > 0) return 'Скоро: $due';
-  return 'Всё в пределах интервала';
+  if (filled == 0) return S.bookEmptyHint;
+  if (overdue > 0) return '${S.bookOverdue}: $overdue';
+  if (due > 0) return '${S.bookSoon}: $due';
+  return S.bookAllGood;
 }
 
 class _HistoryCard extends StatelessWidget {
   final HistoryEntry entry;
   const _HistoryCard({required this.entry});
-
-  static const _months = [
-    'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
-    'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
-  ];
 
   @override
   Widget build(BuildContext context) {
@@ -285,8 +279,8 @@ class _HistoryCard extends StatelessWidget {
         ),
         title: Text(entry.topCause),
         subtitle: Text(
-          '${d.day} ${_months[d.month - 1]} ${d.year} · '
-          '${entry.isFull ? 'разбор звука' : 'быстрый вердикт'}'
+          '${d.day} ${S.months[d.month - 1]} ${d.year} · '
+          '${entry.isFull ? S.histFull : S.histQuick}'
           '${entry.carLabel.isEmpty ? '' : ' · ${entry.carLabel}'}',
           style: const TextStyle(fontSize: 12, color: T.inkSoft),
         ),
@@ -365,7 +359,7 @@ class _ServiceTile extends StatelessWidget {
         children: [
           Text(
             intervalText(s.item) +
-                (s.item.byCondition ? ' · смотреть по состоянию' : ''),
+                (s.item.byCondition ? ' · ${S.bookByCondition}' : ''),
             style: const TextStyle(fontSize: 12, color: T.inkSoft),
           ),
           if (s.detail.isNotEmpty)
@@ -389,7 +383,7 @@ class _ServiceTile extends StatelessWidget {
           if (onClear != null)
             GestureDetector(
               onTap: onClear,
-              child: const Text('сбросить',
+              child: const Text(S.bookReset,
                   style: TextStyle(fontSize: 11, color: T.inkSoft)),
             ),
         ],

@@ -95,7 +95,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
   Widget build(BuildContext context) {
     final years = [for (var y = 2026; y >= 1990; y--) y];
     return Scaffold(
-      appBar: widget.firstRun ? null : AppBar(title: const Text(S.setCar)),
+      appBar: widget.firstRun ? null : AppBar(title: const Text(S.carFormTitle)),
       body: SafeArea(
         child: ListView(
           padding: const EdgeInsets.all(20),
