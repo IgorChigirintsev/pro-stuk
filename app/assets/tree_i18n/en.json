@@ -743,5 +743,77 @@
   ],
   "explanation": "An even click or tick in time with wheel rotation, most noticeable at low speed, is usually a stone caught in the tread — or, more importantly, a screw driven into it. The noise lasts as long as the object stays in the tyre.",
   "advice": "Look over the tread on every wheel, rolling the car slowly or turning the wheel to full lock. Pick the stone out. Do not pull out a screw or nail — with it in place you can drive calmly to a tyre shop; without it the tyre will deflate on the way. If the tread is clear and the clicking remains, check the wheel bolt tightness."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Anti-roll bar bushes or suspension bushes (creaking)",
+  "alt_causes": [
+   "Ball joints",
+   "Dry door seals and hinges"
+  ],
+  "explanation": "A creak like an old bed over bumps, when getting in, or when you rock the car is dry rubber in the suspension: anti-roll bar bushes or the bushes in the arms. It is louder in cold and damp weather. You can reproduce it by rocking the parked car with a hand on the wing.",
+  "advice": "Show it to a garage when convenient: often it is cured by greasing the bushes or replacing inexpensive parts. There is no danger, but if a knock has appeared alongside the creak, or the car pulls to one side, that points to the ball joints — do not postpone the check."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Brake pads stuck to the discs",
+  "alt_causes": [
+   "Frozen pads in winter",
+   "Handbrake shoes"
+  ],
+  "explanation": "A single loud thud or crack on the first move after standing a long time, especially with the handbrake on, after a wash, rain or frost, is the pads sticking or freezing to the discs and breaking free. If the rest of the journey is quiet, it is harmless.",
+  "advice": "Nothing needs doing; in winter you can leave the car in gear instead of on the handbrake (manual only) so the rear pads do not freeze on. If the crunch repeats every time you pull away, it is no longer about the pads — run through the diagnosis again."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Play in the steering rack",
+  "alt_causes": [
+   "Track rod ends",
+   "Steering column joint"
+  ],
+  "explanation": "A knock over small ripples and expansion joints that comes through the steering wheel and is felt in your hands is play in the steering rack: a worn bush or worn engagement. A telling sign is that the knock quietens if you hold the wheel under slight tension.",
+  "advice": "Have the steering checked within days: it is a safety system, and a check on a lift takes minutes. On some cars the rack can be adjusted, which is cheap. If the steering has gone vague around centre or the car wanders in its lane, do not delay."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "A broken suspension spring",
+  "alt_causes": [
+   "A collapsed shock absorber",
+   "A broken spring seat"
+  ],
+  "explanation": "A clunk or metallic grinding over bumps and in corners that appeared suddenly after hitting a pothole, together with one corner sitting lower, is the classic picture of a snapped coil. The broken end can rub and clatter as the suspension works.",
+  "advice": "Look in behind the wheel from below: a snapped coil is often visible to the eye. Get to a garage within a few days, and drive gently until then — a broken end can shift and damage the tyre. Springs are replaced in pairs on an axle."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Interior plastics: clips and panel joints",
+  "alt_causes": [
+   "Objects in the glovebox and door pockets",
+   "Dry door seals"
+  ],
+  "explanation": "A close, plasticky rattle and squeaks over small bumps is friction and play between interior panels: the dashboard, door cards, glovebox. It is louder in the cold. A reliable check: press the suspect panel with your hand while driving — if the noise stops, it is the interior, not the suspension.",
+  "advice": "This is not a fault: the car is fine. Take the loose items out of the glovebox and pockets, and slip a piece of felt or foam tape into the joint you find. Squeaks around the doors are cured by treating the seals with silicone grease. A suspension knock, by contrast, is dull, comes from below, and does not change when you press on the panels."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Loose cargo or spare wheel in the boot",
+  "alt_causes": [
+   "Jack and tools",
+   "Parcel shelf"
+  ],
+  "explanation": "A dull knock or clatter from the rear over bumps, as if something is jumping and rolling around, is most often exactly that: the jack, the wheel brace, a poorly secured spare, or a rattling parcel shelf. With a loaded boot the noise usually changes or disappears.",
+  "advice": "Take everything out of the boot, check that the spare and the jack are strapped down, press on the shelf — then drive the same stretch of road. If the knock has gone, the suspension has nothing to do with it and nothing more is needed. If it remains, run the diagnosis again through the bumps branch."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Bonnet catch or rubber stops",
+  "alt_causes": [
+   "Bonnet hinges",
+   "Door check strap"
+  ],
+  "explanation": "Metallic tapping from up front at the edge of the bonnet over small bumps is play in the bonnet catch, or sagging rubber stops it rests on. In the cabin the sound is close, in front of your face, rather than from below like a suspension knock.",
+  "advice": "You can check it on the spot: press on the closed bonnet — if it moves and taps, the diagnosis is confirmed. Wind the rubber stops in the corners up half a turn so the bonnet sits tighter; that fixes most cases. There is no danger."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hydraulic lifters (when cold)",
+  "alt_causes": [
+   "Valve clearances",
+   "Thickened oil"
+  ],
+  "explanation": "Hydraulic lifters are small parts that use oil pressure to take up the slack in the valvetrain. While the engine is cold the oil is thick and takes time to reach them, so you hear rapid ticking for the first minutes. If the sound goes completely once warm, this is typical and not dangerous.",
+  "advice": "Check the oil level and when it was last changed: old or unsuitable oil makes the noise worse. If the ticking now lasts longer than a couple of minutes or stays with the engine warm, book a garage. Do not pour in additives that promise to stop the noise."
  }
 }
