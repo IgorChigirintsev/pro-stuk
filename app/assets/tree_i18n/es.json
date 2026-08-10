@@ -292,5 +292,70 @@
    "o3": "El coche da tirones al arrancar, mientras sueltas el embrague",
    "o4": "Un topetazo suelto bajo el coche al arrancar o al cambiar de acelerador"
   }
+ },
+ "q_vibration": {
+  "text": "¿Cuándo es más fuerte el temblor?",
+  "options": {
+   "o1": "Entre 80 y 120 km/h el volante vibra finamente; por debajo y por encima, menos",
+   "o2": "Ya desde 40–60 km/h y va a más con la velocidad",
+   "o3": "En una franja estrecha de velocidad, el temblor va por el suelo y la carrocería; tracción trasera o total",
+   "o4": "Solo al frenar, el volante da tirones"
+  }
+ },
+ "q_const_char": {
+  "text": "¿A qué se parece el ruido continuo?",
+  "options": {
+   "o1": "Un zumbido o aullido constante",
+   "o2": "Roce, arrastre o pitido por el lado de una rueda",
+   "o3": "Un rugido fuerte o traqueteo",
+   "o4": "Silbido o aullido solo a alta velocidad"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "¿Qué ruido viene del lado de la rueda?",
+  "options": {
+   "o1": "Un pitido fino; al rozar apenas el freno desaparece o cambia",
+   "o2": "Arrastre; después de rodar la rueda está caliente y el coche se va hacia un lado",
+   "o3": "Roce o arrastre constante, y la rueda no se calienta",
+   "o4": "Golpeteo o chasquido rítmico al ritmo del giro de la rueda"
+  }
+ },
+ "q_wheel_click": {
+  "text": "¿Has cambiado, rotado o desmontado las ruedas hace poco?",
+  "options": {
+   "o1": "Sí, en los últimos días",
+   "o2": "No, hace mucho que no se tocan"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Una prueba: coge la velocidad a la que se oye el ruido, pon punto muerto y déjate rodar. ¿Sigue el zumbido?",
+  "options": {
+   "o1": "Sigue igual",
+   "o2": "Desaparece junto con las revoluciones del motor",
+   "o3": "No he podido probarlo"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "¿Cambia el volumen del aullido al cambiar de marcha?",
+  "options": {
+   "o1": "Sí, en cada marcha suena distinto",
+   "o2": "No, depende solo de las revoluciones del motor"
+  }
+ },
+ "q_hum_road": {
+  "text": "¿Cambia el zumbido en las curvas largas?",
+  "options": {
+   "o1": "Sí, hacia un lado suena más o menos",
+   "o2": "No, es constante a cualquier velocidad por encima de 40–60 km/h",
+   "o3": "Depende del firme de la carretera"
+  }
+ },
+ "q_hum_where": {
+  "text": "¿El zumbido viene de delante o de detrás?",
+  "options": {
+   "o1": "De delante",
+   "o2": "De detrás",
+   "o3": "Difícil de saber"
+  }
  }
 }
