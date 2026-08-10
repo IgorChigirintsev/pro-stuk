@@ -109,4 +109,10 @@ const Map<String, String> ko = {
   'langHint': '기본값은 기기 언어입니다. 아직 번역되지 않은 부분은 러시아어로 표시됩니다.',
   'unitKm': 'km',
   'unitMi': '마일',
+  'statusNoData': '데이터 없음',
+  'statusLeft': '남음',
+  'statusDriven': '주행',
+  'statusLimit': '한계',
+  'intervalYear': '1년에 한 번',
+  'intervalYears': '마다(년):',
 };

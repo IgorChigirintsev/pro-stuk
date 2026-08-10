@@ -109,4 +109,10 @@ const Map<String, String> ja = {
   'langHint': '既定では端末の言語です。未翻訳の部分はロシア語で表示されます。',
   'unitKm': 'km',
   'unitMi': 'マイル',
+  'statusNoData': 'データなし',
+  'statusLeft': 'あと',
+  'statusDriven': '走行',
+  'statusLimit': '上限',
+  'intervalYear': '年に1回',
+  'intervalYears': 'ごと（年）:',
 };

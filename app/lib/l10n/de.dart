@@ -121,4 +121,10 @@ const Map<String, String> de = {
       'Standard ist die Sprache des Geräts. Noch nicht Übersetztes wird auf Russisch angezeigt.',
   'unitKm': 'km',
   'unitMi': 'mi',
+  'statusNoData': 'keine Daten',
+  'statusLeft': 'noch',
+  'statusDriven': 'gefahren',
+  'statusLimit': 'Grenze',
+  'intervalYear': 'einmal jährlich',
+  'intervalYears': 'alle, Jahre:',
 };

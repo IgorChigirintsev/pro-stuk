@@ -121,4 +121,10 @@ const Map<String, String> nl = {
       'Standaard de taal van je toestel. Wat nog niet vertaald is, tonen we in het Russisch.',
   'unitKm': 'km',
   'unitMi': 'mijl',
+  'statusNoData': 'geen gegevens',
+  'statusLeft': 'nog',
+  'statusDriven': 'gereden',
+  'statusLimit': 'limiet',
+  'intervalYear': 'eens per jaar',
+  'intervalYears': 'elke, jaar:',
 };

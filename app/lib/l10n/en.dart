@@ -120,4 +120,10 @@ const Map<String, String> en = {
       'Defaults to your device language. Anything not translated yet is shown in Russian.',
   'unitKm': 'km',
   'unitMi': 'mi',
+  'statusNoData': 'no data',
+  'statusLeft': 'left',
+  'statusDriven': 'driven',
+  'statusLimit': 'limit',
+  'intervalYear': 'once a year',
+  'intervalYears': 'every, years:',
 };

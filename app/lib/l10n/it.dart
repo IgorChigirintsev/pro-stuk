@@ -121,4 +121,10 @@ const Map<String, String> it = {
       'Per impostazione predefinita, la lingua del dispositivo. Ciò che non è ancora tradotto viene mostrato in russo.',
   'unitKm': 'km',
   'unitMi': 'mi',
+  'statusNoData': 'nessun dato',
+  'statusLeft': 'mancano',
+  'statusDriven': 'percorsi',
+  'statusLimit': 'limite',
+  'intervalYear': 'una volta l’anno',
+  'intervalYears': 'ogni, anni:',
 };

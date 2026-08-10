@@ -107,4 +107,10 @@ const Map<String, String> ru = {
   'langHint': 'По умолчанию — язык устройства. Непереведённое показывается по-русски.',
   'unitKm': 'км',
   'unitMi': 'мили',
+  'statusNoData': 'нет данных',
+  'statusLeft': 'ещё',
+  'statusDriven': 'проехали',
+  'statusLimit': 'крайний срок',
+  'intervalYear': 'раз в год',
+  'intervalYears': 'раз в, лет:',
 };

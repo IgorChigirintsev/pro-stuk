@@ -110,4 +110,10 @@ const Map<String, String> ar = {
   'langHint': 'الافتراضي هو لغة الجهاز. ما لم يُترجم بعد يظهر بالروسية.',
   'unitKm': 'كم',
   'unitMi': 'ميل',
+  'statusNoData': 'لا توجد بيانات',
+  'statusLeft': 'متبقٍ',
+  'statusDriven': 'مقطوعة',
+  'statusLimit': 'الحد',
+  'intervalYear': 'مرة في السنة',
+  'intervalYears': 'كل (سنوات):',
 };

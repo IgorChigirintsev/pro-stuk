@@ -113,6 +113,18 @@ class S {
   static String get unitKm => L.t('unitKm');
   static String get unitMi => L.t('unitMi');
 
+  static String get statusNoData => L.t('statusNoData');
+
+  static String get statusLeft => L.t('statusLeft');
+
+  static String get statusDriven => L.t('statusDriven');
+
+  static String get statusLimit => L.t('statusLimit');
+
+  static String get intervalYear => L.t('intervalYear');
+
+  static String get intervalYears => L.t('intervalYears');
+
   static const recInstructions = [
     'Двигатель заведён.',
     'Телефон ближе к источнику звука.',

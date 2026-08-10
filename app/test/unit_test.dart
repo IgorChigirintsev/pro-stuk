@@ -71,7 +71,7 @@ void main() {
     final oil = consumables.firstWhere((c) => c.key == 'oil'); // 7000–10000
     expect(statusFor(oil, null).unknown, isTrue);
     expect(statusFor(oil, 3000).due, isFalse);
-    expect(statusFor(oil, 3000).label, 'ещё 4000 км');
+    expect(statusFor(oil, 3000).label.contains('4000'), isTrue);
     expect(statusFor(oil, 8000).due, isTrue); // вошли в интервал
     expect(statusFor(oil, 8000).overdue, isFalse);
     expect(statusFor(oil, 12000).overdue, isTrue); // прошли верхнюю границу

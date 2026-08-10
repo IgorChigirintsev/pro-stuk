@@ -109,4 +109,10 @@ const Map<String, String> zh = {
   'langHint': '默认使用设备语言。尚未翻译的内容以俄语显示。',
   'unitKm': '公里',
   'unitMi': '英里',
+  'statusNoData': '无数据',
+  'statusLeft': '还剩',
+  'statusDriven': '已行驶',
+  'statusLimit': '上限',
+  'intervalYear': '每年一次',
+  'intervalYears': '每（年）:',
 };
