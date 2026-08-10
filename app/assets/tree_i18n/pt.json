@@ -572,5 +572,77 @@
   ],
   "explanation": "Um zumbido ou ronco que liga e desliga sozinho — com calor, no trânsito, com o ar condicionado — é a ventoinha do radiador. Uma ventoinha barulhenta significa ou casquilhos gastos no seu motor, ou que ela roda sem parar por causa de um sensor ou do termóstato. Às vezes continua a trabalhar um ou dois minutos depois de desligar o carro: isso é normal.",
   "advice": "Se a ventoinha ronca sem parar logo desde o arranque com o motor frio, a diagnóstico nos próximos dias: o circuito de refrigeração não está a funcionar corretamente. Vigie o ponteiro da temperatura; se subir, encoste e desligue o motor."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Bomba de combustível elétrica",
+  "alt_causes": [
+   "Filtro de combustível entupido",
+   "Rede filtrante da bomba"
+  ],
+  "explanation": "Um zumbido ou uivo constante atrás, debaixo do banco traseiro ou na zona do depósito, é a bomba de combustível. Ouvi-la um ou dois segundos ao ligar a ignição é normal; um uivo forte, percetível também em andamento, indica bomba gasta ou filtro entupido que a obriga a forçar.",
+  "advice": "Marque uma verificação da pressão de combustível dentro de uma a duas semanas. Não ande muito tempo com a reserva acesa: no fundo do depósito a bomba arrefece pior e desgasta-se mais depressa. Se o carro começar a dar solavancos em esforço ou a pegar com dificuldade, antecipe a visita."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Catalisador desfeito",
+  "alt_causes": [
+   "Chapa de proteção térmica",
+   "Suportes do escape"
+  ],
+  "explanation": "Um chocalhar metálico ou um som de gravilha debaixo do carro, mais perto do motor, que aumenta ao dar um acelerão e vem acompanhado de perda de força ou de um cheiro diferente no escape, é a cerâmica do catalisador que se desfez. Os pedaços chocalham dentro da caixa e o favo entupido sufoca o motor.",
+  "advice": "A diagnóstico nos próximos dias: os pedaços de cerâmica podem ser aspirados para o motor, e aí a conta sobe muito. Uma verificação simples na oficina é bater levemente no corpo do catalisador com o carro frio: ouvem-se os pedaços soltos lá dentro. Com isto não convém esperar."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Caixa automática: óleo velho, desgaste ou folga na transmissão",
+  "alt_causes": [
+   "Apoios do motor e da caixa",
+   "Cruzetas do veio de transmissão (na tração traseira)"
+  ],
+  "explanation": "Um solavanco ou pancada exatamente ao passar o seletor de D para R, ou nas mudanças, indica desgaste ou óleo velho na caixa automática: a mudança entra com pancada, e as folgas da transmissão amplificam-na. Apoios cedidos batem de forma parecida, por isso vale a pena confirmar o diagnóstico.",
+  "advice": "Primeiro verifique o nível e o estado do óleo da caixa: se estiver escuro e a cheirar a queimado, tem de ser mudado, e em muitos casos isso resolve. Marque diagnóstico dentro de uma a duas semanas e diga em que mudanças exatamente dá o solavanco. Até à reparação, mova o seletor só com o carro totalmente parado e o travão carregado."
+ },
+ "leaf_synchro": {
+  "top_cause": "Sincronizadores da caixa ou embraiagem que não desengata por completo",
+  "alt_causes": [
+   "Folga do pedal da embraiagem",
+   "Desgaste da embraiagem"
+  ],
+  "explanation": "Um ranger ao meter a mudança numa caixa manual significa que as engrenagens se encontram a velocidades diferentes. Se ranger só uma ou duas mudanças concretas — muitas vezes a segunda ou a terceira —, são os sincronizadores dessas mudanças que estão gastos; se rangerem todas, a embraiagem não desengata por completo e a caixa não fica livre.",
+  "advice": "Verifique a folga do pedal da embraiagem e o nível de óleo da caixa: é também por aí que a oficina começa. Marque diagnóstico dentro de duas semanas. Até à reparação, mude mais devagar, com uma pausa em ponto morto: range menos e desgasta menos."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Embraiagem: disco gasto ou sujo de óleo",
+  "alt_causes": [
+   "Apoios do motor",
+   "Volante bimassa"
+  ],
+  "explanation": "Um tremor exatamente no momento do arranque, enquanto larga o pedal da embraiagem, com o carro a andar normalmente depois de a embraiagem engatar por completo, significa que a embraiagem pega aos solavancos: disco gasto, sujo de óleo, ou prato de pressão empenado. Os apoios do motor também fazem tremer o carro ao ralenti; aqui o tremor vive só na fase do arranque.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: o tremor no arranque não passa sozinho e costuma agravar-se. Até à reparação, arranque com suavidade e um pouco mais de rotação, sem deixar a embraiagem patinar. Se aparecer cheiro a queimado, a embraiagem está a queimar-se: não espere com a visita."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Cruzetas do veio de transmissão ou folga na transmissão",
+  "alt_causes": [
+   "Silentblocks e parafusos do berço",
+   "Grupo cónico do diferencial"
+  ],
+  "explanation": "Uma pancada ou estalido isolado vindo da zona central ou traseira do piso ao arrancar e ao passar de acelerar para largar o pé é folga na cadeia que transmite a força: na maioria das vezes cruzetas gastas do veio de transmissão (tração traseira e integral) ou fixações do berço soltas.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: no elevador a folga do veio encontra-se num minuto, abanando-o com a mão. Não convém arrastar: uma cruzeta muito castigada pode partir-se em andamento. Até lá, arranque e largue o acelerador com mais suavidade."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "A embraiagem patina",
+  "alt_causes": [
+   "Disco sujo de óleo",
+   "Patinagem da caixa automática ou do CVT"
+  ],
+  "explanation": "Se ao carregar no acelerador as rotações sobem e o motor ruge mas o carro quase não acelera, a embraiagem está a patinar e não transmite força: o disco está gasto ou sujo de óleo. Nota-se sobretudo a subir e na mudança mais alta; muitas vezes junta-se um cheiro acre a queimado. Numa automática, uma caixa gasta patina da mesma forma.",
+  "advice": "À oficina esta semana: uma embraiagem que patina acaba por patinar até perder a tração por completo, e normalmente no pior momento. Até à reparação, conduza com calma, sem ultrapassagens nem reboque, e a subir reduza com antecedência. Se o cheiro a queimado aumentar, não espere nem mais um dia."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo ou fuga na pressão de sobrealimentação",
+  "alt_causes": [
+   "Tubo do intercooler",
+   "Chumaceira do eixo do turbo"
+  ],
+  "explanation": "Um assobio leve e constante do turbo em esforço é normal num motor turbo. O que deve dar que pensar é a mudança: o assobio ficar mais forte ou com outro tom, aparecer um uivo, ou o carro perder força. Isso é uma fuga de ar nos tubos de sobrealimentação, ou desgaste da chumaceira do eixo do turbo.",
+  "advice": "Se o tom mudou ou o carro puxa menos, a diagnóstico nos próximos dias: um tubo com fuga repara-se barato, enquanto um turbo gasto e adiado acaba em substituição. Vigie o consumo de óleo. Até à verificação, não leve o motor ao corte e deixe o turbo arrefecer um ou dois minutos ao ralenti depois de uma condução animada."
  }
 }
