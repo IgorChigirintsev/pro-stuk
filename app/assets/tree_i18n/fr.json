@@ -716,5 +716,77 @@
   ],
   "explanation": "Un sifflement métallique fin en roulant sans freiner, qui disparaît ou change dès qu'on effleure la pédale, c'est la languette métallique de la plaquette qui commence à toucher le disque. C'est l'avertissement prévu d'origine : la garniture est presque au bout.",
   "advice": "Prenez rendez-vous cette semaine pour changer les plaquettes et faites contrôler les disques au passage. Le freinage est encore pleinement efficace, mais l'étape suivante, c'est le frottement métallique et des disques abîmés. Si le sifflement vient d'une roue précise, signalez-le au garage."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Étrier de frein grippé",
+  "alt_causes": [
+   "Colonnettes d’étrier grippées",
+   "Flexible de frein gonflé de l’intérieur"
+  ],
+  "explanation": "Un frottement permanent du côté d'une roue, un disque brûlant après le trajet, une odeur de brûlé et la voiture qui tire d'un côté : l'étrier — l'organe qui plaque les plaquettes contre le disque — est grippé, et la plaquette frotte en permanence. Un frein surchauffé perd son efficacité, et plaquette et disque partent en quelques centaines de kilomètres.",
+  "advice": "Arrêtez les trajets normaux et n'allez plus que jusqu'au garage, sur une courte distance et à faible allure. Pour savoir quelle roue chauffe, approchez la main près du disque sans le toucher : il brûle. Laisser traîner finit par un blocage de roue en roulant."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Boulons de roue mal serrés",
+  "alt_causes": [
+   "Trous de jante ovalisés",
+   "Jeu dans le moyeu"
+  ],
+  "explanation": "Un choc ou un cognement rythmé au rythme de la rotation de la roue, apparu dans les premiers jours après un montage ou un changement de pneus, c'est le grand classique des boulons de roue mal serrés. Une roue sur des boulons desserrés ovalise les trous de la jante et, au pire, se détache en roulant.",
+  "advice": "Arrêtez-vous dès que possible et vérifiez le serrage des boulons de toutes les roues avec la croix. S'ils étaient desserrés et que vous les avez resserrés, le cognement doit disparaître ; s'il persiste, rejoignez prudemment le garage et faites contrôler le moyeu. Après tout montage de roues, il est utile de resserrer les boulons au bout de 50 à 100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Gravillon ou vis planté dans la bande de roulement",
+  "alt_causes": [
+   "Boulons de roue mal serrés",
+   "Décollement de la bande de roulement"
+  ],
+  "explanation": "Un claquement ou un cliquetis régulier au rythme de la rotation de la roue, surtout perceptible à faible vitesse, vient le plus souvent d'un gravillon coincé dans les sculptures — ou, plus grave, d'une vis plantée. Le bruit dure tant que l'objet reste dans le pneu.",
+  "advice": "Inspectez la bande de roulement de toutes les roues en avançant doucement ou en braquant à fond. Le gravillon, retirez-le. Une vis ou un clou, ne les arrachez pas : avec, vous rejoindrez tranquillement le spécialiste du pneu ; sans, le pneu se dégonflera en route. Si rien n'est planté et que le claquement persiste, vérifiez le serrage des boulons de roue."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Silentblocs de barre stabilisatrice ou de bras (grincement)",
+  "alt_causes": [
+   "Rotules de suspension",
+   "Joints et charnières de portes secs"
+  ],
+  "explanation": "Un grincement de vieux lit sur les bosses, en montant dans la voiture et en la faisant balancer, c'est du caoutchouc sec dans la suspension : les silentblocs de barre stabilisatrice ou ceux des bras. Par temps froid et humide, c'est plus fort. On le reproduit en appuyant à la main sur une aile, voiture à l'arrêt.",
+  "advice": "Faites voir ça au garage à l'occasion : souvent, un graissage des silentblocs ou le remplacement de pièces à quelques euros suffit. Il n'y a pas de danger ; mais si un cognement s'ajoute au grincement ou si la voiture se met à tirer d'un côté, on parle alors de rotules et le contrôle ne doit pas attendre."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Plaquettes collées aux disques",
+  "alt_causes": [
+   "Plaquettes gelées (en hiver)",
+   "Mâchoires du frein à main"
+  ],
+  "explanation": "Un « boum » sonore ou un craquement unique au premier démarrage après un long stationnement, surtout frein à main serré, après un lavage, de la pluie ou du gel : les plaquettes s'étaient collées ou gelées aux disques et se décollent. Si le reste du trajet est silencieux, c'est sans gravité.",
+  "advice": "Vous n'avez rien à faire ; en hiver, vous pouvez laisser la voiture en prise plutôt qu'au frein à main — uniquement sur boîte manuelle — pour que les plaquettes arrière ne gèlent pas. Si le craquement se répète à chaque démarrage, ce ne sont plus les plaquettes : refaites le diagnostic."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Jeu dans la crémaillère de direction",
+  "alt_causes": [
+   "Rotules de direction",
+   "Cardan de colonne"
+  ],
+  "explanation": "Un cognement sur les petites irrégularités et les joints de chaussée, qui remonte directement dans le volant et se sent dans les mains, c'est du jeu dans la crémaillère de direction : la bague ou l'engrènement sont usés. Signe caractéristique : le cognement s'atténue si l'on maintient le volant légèrement en tension.",
+  "advice": "Faites contrôler la direction au garage dans les jours qui viennent : c'est un organe de sécurité et le diagnostic sur le pont prend quelques minutes. Sur certaines voitures, la crémaillère se rattrape par un simple réglage, ce qui coûte peu. Si le volant est devenu flou au point milieu ou si la voiture flotte dans sa file, n'attendez pas."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Ressort de suspension cassé",
+  "alt_causes": [
+   "Amortisseur affaissé",
+   "Coupelle de ressort cassée"
+  ],
+  "explanation": "Un choc métallique ou un raclement sur les bosses et en virage, apparu d'un coup après un nid-de-poule, avec en plus un coin de la voiture affaissé : c'est le tableau typique d'une spire de ressort cassée. Le morceau peut frotter et cogner au travail de la suspension.",
+  "advice": "Regardez par-dessous, derrière la roue : une spire cassée se voit souvent à l'œil nu. Au garage sous quelques jours, et d'ici là roulez souplement : le morceau de ressort peut se déplacer et abîmer le pneu. Les ressorts se remplacent par paire sur un même essieu."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plastiques d’habitacle : agrafes et jonctions de panneaux",
+  "alt_causes": [
+   "Objets dans la boîte à gants et les vide-poches",
+   "Joints de portes secs"
+  ],
+  "explanation": "Un cliquetis de plastique tout proche et des grillons sur les petites irrégularités, ce sont des frottements et du jeu entre les panneaux d'habitacle : planche de bord, panneaux de portes, boîte à gants. Par temps froid, c'est plus fort. Le test qui ne trompe pas : si, en roulant, vous appuyez de la main sur le panneau suspect et que le bruit disparaît, c'est l'habitacle et non le train roulant.",
+  "advice": "Ce n'est pas une panne : la voiture va bien. Sortez les petits objets de la boîte à gants et des vide-poches, glissez un bout de feutrine dans la jonction identifiée. Le grincement autour des portes se traite en graissant les joints à la graisse silicone. Un cognement de train roulant, lui, est sourd, vient d'en dessous, et ne change pas quand on appuie sur les panneaux."
  }
 }
