@@ -861,5 +861,88 @@
   ],
   "explanation": "Un cognement sourd venant du fond du moteur, qui s'accélère avec le régime et s'amplifie en charge, est le plus inquiétant de tous les bruits moteur. C'est ainsi que cognent des coussinets usés — les paliers sur lesquels tourne le vilebrequin — ou les bielles : du jeu est apparu dans les assemblages et les pièces se percutent. Si vous continuez à rouler, le moteur peut serrer.",
   "advice": "Ne roulez pas par vos propres moyens plus loin que strictement nécessaire : mieux vaut le dépanneur ; si le garage est tout près, allez-y doucement et sans accélérer. Vérifiez immédiatement le niveau d'huile et complétez s'il est bas. Des choses moins graves peuvent cogner de façon similaire, mais c'est à un mécanicien de vérifier — et vite."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Accessoires ou supports moteur",
+  "alt_causes": [
+   "Embrayage du compresseur de clim",
+   "Poussoirs hydrauliques"
+  ],
+  "explanation": "Un cognement qui ne s'accélère pas quand on donne des gaz vient en général non pas du moteur lui-même, mais de ce qui est fixé dessus : alternateur, poulies, pattes de fixation, supports. Le jeu dans ces pièces produit des chocs sourds au ralenti, surtout quand le moteur tremblote.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : ce genre de bruit, le mécanicien le localise bien au stéthoscope. Notez et signalez-lui si le bruit change quand la climatisation s'enclenche ou quand un rapport est engagé pied sur le frein."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Courroie d'accessoires usée ou détendue",
+  "alt_causes": [
+   "Galet tendeur",
+   "Poulie d’alternateur"
+  ],
+  "explanation": "Un sifflement strident sous le capot signifie que la courroie patine sur les poulies. Le plus souvent, c'est la courroie elle-même qui est usée ou le tendeur qui a faibli. Si la courroie casse, l'alternateur s'arrête — et sur beaucoup de voitures la pompe à eau aussi —, il ne faut donc pas laisser traîner.",
+  "advice": "Montrez la voiture au garage dans la semaine : remplacer la courroie et le galet est une intervention peu coûteuse. Si le sifflement s'intensifie brutalement, si le témoin de batterie s'allume ou si la température moteur grimpe, arrêtez-vous et coupez le moteur."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Pompe à eau",
+  "alt_causes": [
+   "Galets de courroie",
+   "Roulement d’alternateur"
+  ],
+  "explanation": "Un bourdonnement ou un bruissement du côté de la courroie, associé à des traces de liquide de refroidissement, ce sont les signes typiques d'une pompe à eau en fin de vie. Son roulement s'use, du jeu apparaît, et le liquide commence à suinter par le joint. Si la pompe se bloque, le moteur surchauffe très vite.",
+  "advice": "Allez au garage dans les jours qui viennent et surveillez en chemin la température moteur et le niveau de liquide. Si la température monte ou si de la vapeur sort du capot, arrêtez-vous et coupez le moteur. Ne complétez le liquide de refroidissement que moteur froid."
+ },
+ "leaf_idler": {
+  "top_cause": "Galet tendeur ou galet enrouleur",
+  "alt_causes": [
+   "Pompe à eau",
+   "Poulie débrayable d’alternateur",
+   "Chaîne de distribution ou son tendeur"
+  ],
+  "explanation": "Un bourdonnement ou un bruissement régulier qui varie avec le régime moteur vient le plus souvent du roulement d'un des galets sur lesquels court la courroie d'accessoires. Un galet usé fait de plus en plus de bruit, peut commencer à coincer et finir par casser la courroie.",
+  "advice": "Prenez rendez-vous au garage dans la semaine : le mécanicien dépose la courroie et détermine sur place quel galet fait du bruit. La pompe à eau, la poulie débrayable d'alternateur et même la chaîne de distribution peuvent sonner de façon similaire ; c'est vérifié dans la foulée. Si le bruit est devenu un frottement ou un sifflement, avancez le rendez-vous."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Écran thermique de la ligne d’échappement",
+  "alt_causes": [
+   "Fixations de l’échappement",
+   "Protection sous moteur"
+  ],
+  "explanation": "Un cliquetis métallique clair à certains régimes vient presque toujours d'un écran thermique desserré : la fine tôle placée au-dessus du silencieux ou du catalyseur. C'est désagréable à entendre, mais sans effet sur le fonctionnement de la voiture.",
+  "advice": "Demandez au garage de le resserrer ou de le maintenir avec un collier à l'occasion : c'est l'affaire de quelques minutes. Assurez-vous qu'il s'agit bien de l'écran et non des fixations de l'échappement : sur le pont, ça se voit tout de suite."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Ratés d'allumage ou trou dans l'échappement",
+  "alt_causes": [
+   "Bougies et bobines d’allumage",
+   "Silencieux ou tube percé",
+   "Réglage de l’installation GPL (si ça pétarade au gaz)"
+  ],
+  "explanation": "Des pétarades à l'échappement signifient que le carburant finit de brûler non pas dans les cylindres, mais dans la ligne d'échappement. Les causes : des ratés d'allumage (bougies, bobines), un mélange incorrect ou un trou dans la ligne. Au-delà du bruit, cela abîme le catalyseur, dont le remplacement coûte cher.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans les jours qui viennent, surtout si la voiture tire moins, tourne irrégulièrement ou si le voyant moteur s'est allumé. Ne roulez pas longtemps avec des pétarades : le carburant imbrûlé surchauffe le catalyseur. Si vous avez une installation GPL et que ça pétarade au gaz, direction le réglage de l'installation : pour elle, les pétarades sont particulièrement dangereuses."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Silencieux ou tube d’échappement percé",
+  "alt_causes": [
+   "Joint d’échappement",
+   "Flexible d’échappement fissuré"
+  ],
+  "explanation": "Un rugissement fort qui s'amplifie à l'accélération signale en général un trou dans la ligne d'échappement : silencieux, tube ou joint percés. Le son devient « sportif », mais les gaz sortent trop tôt : c'est du bruit, de l'odeur et un risque d'entrée de monoxyde de carbone dans l'habitacle.",
+  "advice": "Montrez la voiture au garage cette semaine : l'inspection de la ligne sur le pont prend quelques minutes. Si vous sentez l'odeur d'échappement dans l'habitacle, roulez vitre entrouverte et ne faites pas chauffer le moteur dans un garage fermé : le monoxyde de carbone est dangereux."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Supports moteur",
+  "alt_causes": [
+   "Ratés d’allumage",
+   "Papillon ou injecteurs encrassés"
+  ],
+  "explanation": "Si au ralenti on sent des vibrations dans l'habitacle et que le volant et les sièges vibrent finement, ce sont souvent les supports moteur : les blocs en caoutchouc qui absorbent ses oscillations. Avec le temps, le caoutchouc durcit et se déchire, et la vibration passe dans la caisse.",
+  "advice": "Faites contrôler les supports au garage dans les deux semaines : l'examen est simple. Un indice pour le diagnostic : les vibrations dues aux supports augmentent en général avec un rapport engagé, pied sur le frein. Si en plus le moteur a des à-coups, dites-le au mécanicien : il peut y avoir des ratés d'allumage."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Voile de rouille sur les disques de frein",
+  "alt_causes": [
+   "Humidité ou poussière sur les plaquettes",
+   "Début d’usure des plaquettes"
+  ],
+  "explanation": "Après une nuit, sous la pluie ou après un lavage, un fin voile orangé se forme sur les disques : c'est normal sur n'importe quelle voiture. Les premiers freinages l'enlèvent, d'où un grincement ou un léger raclement qui disparaît vite.",
+  "advice": "Vous n'avez rien à faire : quelques freinages doux en début de trajet nettoient les disques. Si le bruit ne disparaît plus et se fait entendre à chaque freinage, refaites le diagnostic ou montrez la voiture au garage."
  }
 }
