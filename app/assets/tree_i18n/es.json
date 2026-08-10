@@ -500,5 +500,77 @@
   ],
   "explanation": "Un crujido o chasquidos al girar el volante estando parado, que vienen de arriba, del paso de rueda, los produce el cojinete del soporte superior: la pieza sobre la que la parte alta del amortiguador gira junto con la rueda. Otra señal son golpes secos sueltos desde arriba al pasar baches.",
   "advice": "Pide diagnóstico en una o dos semanas: la comprobación es sencilla, con la mano sobre la copela bajo el capó los chasquidos se notan enseguida. Puedes seguir rodando, pero un soporte gastado acelera el desgaste del amortiguador y empeora el retorno del volante."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Cardan de la columna de dirección (cruceta)",
+  "alt_causes": [
+   "Holgura en el estriado del eje",
+   "Cremallera de dirección"
+  ],
+  "explanation": "Un chasquido o golpe que se oye y se nota directamente en el volante, a la altura de los pies, suele venir de la cruceta del eje intermedio de la columna: la pequeña junta entre el volante y la cremallera. Con el motor apagado, moviendo el volante a un lado y a otro, el chasquido se oye con claridad.",
+  "advice": "Llévalo al taller en los próximos días: la dirección es un elemento de seguridad y la comprobación son minutos. La holgura en la columna solo crece con el tiempo y hace que el volante se note vacío."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Servofreno o su tubo de vacío",
+  "alt_causes": [
+   "Válvula antirretorno del servofreno",
+   "Grieta en el tubo de vacío"
+  ],
+  "explanation": "Un siseo bajo el salpicadero que aparece y cambia justo al pisar y soltar el pedal de freno es entrada de aire en el servofreno: la pieza que reduce el esfuerzo del pedal. El pedal suele volverse claramente más duro y el ralentí tiembla.",
+  "advice": "Pide cita en el taller esta semana: los frenos funcionan también sin servofreno, pero hay que pisar mucho más fuerte, y en una frenada de emergencia eso es peligroso. Comprueba el pedal antes de salir: si está duro como una tabla, conduce con cuidado y poca distancia."
+ },
+ "leaf_wipers": {
+  "top_cause": "Varillaje del limpiaparabrisas o gomas de las escobillas",
+  "alt_causes": [
+   "Tuercas de los brazos flojas",
+   "Casquillos del motor del limpiaparabrisas gastados"
+  ],
+  "explanation": "Un golpeteo en los extremos del barrido es holgura en las articulaciones del varillaje —el mecanismo que mueve las escobillas— o tuercas de los brazos flojas. Un chirrido uniforme sobre el cristal son gomas endurecidas. La prueba es sencilla: apaga el limpiaparabrisas y el ruido desaparece del todo al instante.",
+  "advice": "Las gomas que chirrían puedes cambiarlas tú: las escobillas se venden en cualquier tienda de recambios. Para el golpeteo en los extremos, aprieta las tuercas de los brazos o pide que cambien los casquillos del varillaje cuando vayas al taller. A la seguridad solo le afecta que el cristal quede limpio."
+ },
+ "leaf_eps": {
+  "top_cause": "Dirección asistida eléctrica: un zumbido suave es normal",
+  "alt_causes": [
+   "Desgaste de la dirección asistida eléctrica",
+   "Cremallera de dirección"
+  ],
+  "explanation": "Si bajo el capó no hay depósito de líquido, la dirección asistida es eléctrica, y un zumbido suave y constante al girar es su funcionamiento normal, no una avería. En un coche así sencillamente no existe la bomba hidráulica que aúlla cuando falta líquido.",
+  "advice": "Las señales de alarma de una dirección eléctrica son otras: el volante se pone duro o se endurece a tirones, aparece un crujido, o se enciende el testigo de la dirección. Si ocurre algo de esto, al taller en los próximos días; si no, puedes seguir conduciendo con tranquilidad."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Junta o grieta del colector de escape",
+  "alt_causes": [
+   "Espárragos del colector",
+   "Taqués hidráulicos"
+  ],
+  "explanation": "Un repiqueteo rápido en frío, más fuerte desde fuera y acompañado de olor a escape bajo el capó, son gases que se escapan por una junta quemada o una grieta del colector de escape. Al calentarse, el metal se dilata, la rendija se cierra y el repiqueteo desaparece.",
+  "advice": "Pide cita en el taller en una o dos semanas: con el tiempo la rendija crece, y el olor a escape puede entrar al habitáculo por la calefacción, lo cual es nocivo. Hasta la reparación, ventila el interior si notas el olor."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Repiqueteo normal de los inyectores (inyección directa o diésel)",
+  "alt_causes": [
+   "Bomba de alta presión",
+   "Holgura de válvulas"
+  ],
+  "explanation": "En motores de inyección directa (TSI, GDI y similares) y en los diésel, los inyectores y la bomba de alta presión repiquetean siempre: es su funcionamiento normal. Las señales que lo distinguen: el ruido suena igual en frío y en caliente, se oye más desde fuera que dentro, y no depende de lo viejo que esté el aceite.",
+  "advice": "No hace falta hacer nada. Lo que sí debe llamar la atención es otra cosa: si el tableteo se ha vuelto claramente más fuerte que antes, cambia al calentarse el motor o aparece junto con pérdida de fuerza, entonces sí, a diagnóstico."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Entrada de aire falso (tubo de vacío, junta de admisión)",
+  "alt_causes": [
+   "Manguito agrietado",
+   "Junta del colector de admisión"
+  ],
+  "explanation": "Un siseo constante bajo el capó, como el aire que sale de un neumático pinchado, es aire sin medir que entra por un tubo agrietado o por la junta de admisión. El motor suele funcionar irregular: el ralentí baila y a veces se enciende el testigo de avería del motor.",
+  "advice": "Pide diagnóstico en los próximos días, sobre todo si el ralentí baila: buscar entradas de aire es un procedimiento habitual. Por tu cuenta puedes mirar si los tubos finos de goma bajo el capó tienen grietas, sin desmontar nada."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Ventilador de refrigeración (casquillos o funcionamiento continuo)",
+  "alt_causes": [
+   "Sensor de temperatura o termostato",
+   "Embrague viscoso (en tracción trasera)"
+  ],
+  "explanation": "Un zumbido o rugido que se conecta y se para solo —con calor, en atascos, con el aire acondicionado— es el ventilador del radiador. Un ventilador ruidoso significa o bien casquillos gastados en su motor, o bien que gira sin parar por culpa de un sensor o del termostato. A veces sigue funcionando un par de minutos después de apagar el coche: eso es normal.",
+  "advice": "Si el ventilador ruge sin parar desde el arranque con el motor frío, a diagnóstico en los próximos días: el circuito de refrigeración no está trabajando bien. Vigila la aguja de temperatura; si sube, para y apaga el motor."
  }
 }
