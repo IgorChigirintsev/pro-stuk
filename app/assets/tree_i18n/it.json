@@ -861,5 +861,88 @@
   ],
   "explanation": "Un colpo sordo dal fondo del motore, che diventa più rapido con i giri e più forte sotto sforzo, è il più preoccupante di tutti i rumori del motore. Così battono bronzine consumate — i supporti su cui gira l’albero motore — oppure le bielle: nei collegamenti è comparso gioco e i pezzi si urtano. Se continui a guidare, il motore può grippare.",
   "advice": "Non proseguire con le tue forze più del minimo indispensabile: meglio il carro attrezzi; se l’officina è proprio vicina, vai piano e senza accelerare. Controlla subito il livello dell’olio e rabbocca se è basso. Cose meno gravi possono suonare in modo simile, ma a controllare dev’essere un meccanico — e in fretta."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Accessori del motore o supporti motore",
+  "alt_causes": [
+   "Frizione del compressore del climatizzatore",
+   "Punterie idrauliche"
+  ],
+  "explanation": "Un colpo che non diventa più rapido quando si accelera di solito non arriva dal motore in sé, ma da ciò che è montato su di esso: alternatore, pulegge, staffe, supporti. Il gioco in questi componenti produce colpi sordi al minimo, soprattutto quando il motore vibra un po’.",
+  "advice": "Fissa una diagnosi entro una o due settimane: rumori del genere il meccanico li individua bene con lo stetoscopio. È utile notare e riferire se il rumore cambia quando parte il climatizzatore o quando inserisci una marcia con il freno premuto."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Cinghia dei servizi consumata o allentata",
+  "alt_causes": [
+   "Rullo tenditore",
+   "Puleggia dell’alternatore"
+  ],
+  "explanation": "Un fischio acuto sotto il cofano significa che la cinghia slitta sulle pulegge. Nella maggior parte dei casi è la cinghia stessa a essere consumata o il tenditore ad aver perso forza. Se la cinghia si rompe, si ferma l’alternatore — e su molte auto anche la pompa dell’acqua —, quindi non si può lasciar correre.",
+  "advice": "Porta l’auto in officina entro la settimana: sostituire cinghia e rullo è un lavoro economico. Se il fischio aumenta di colpo, si accende la spia della batteria o la temperatura del motore sale: accosta e spegni il motore."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Pompa dell’acqua",
+  "alt_causes": [
+   "Rulli della cinghia",
+   "Cuscinetto dell’alternatore"
+  ],
+  "explanation": "Un ronzio o fruscio dal lato della cinghia insieme a tracce di liquido refrigerante sono i segni tipici di una pompa dell’acqua a fine vita. Il suo cuscinetto si consuma, compare gioco e dal paraolio inizia a trasudare liquido. Se la pompa si blocca, il motore surriscalda in fretta.",
+  "advice": "Vai in officina nei prossimi giorni e tieni d’occhio lungo la strada temperatura del motore e livello del liquido. Se la temperatura sale o esce vapore dal cofano: accosta e spegni il motore. Il liquido refrigerante si rabbocca solo a motore freddo."
+ },
+ "leaf_idler": {
+  "top_cause": "Rullo tenditore o rullo di rinvio",
+  "alt_causes": [
+   "Pompa dell’acqua",
+   "Puleggia a ruota libera dell’alternatore",
+   "Catena di distribuzione o il suo tenditore"
+  ],
+  "explanation": "Un ronzio o fruscio costante che cambia con i giri del motore arriva quasi sempre dal cuscinetto di uno dei rulli su cui scorre la cinghia dei servizi. Un rullo consumato fa sempre più rumore, può iniziare a bloccarsi e finire per rompere la cinghia.",
+  "advice": "Fissa un appuntamento in officina entro la settimana: il meccanico toglie la cinghia e capisce sul posto quale rullo fa rumore. Anche la pompa dell’acqua, la puleggia a ruota libera dell’alternatore e persino la catena di distribuzione possono suonare in modo simile: si controllano nella stessa occasione. Se il rumore è diventato uno sfregamento o un fischio, anticipa la visita."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Schermo termico dell’impianto di scarico",
+  "alt_causes": [
+   "Supporti dello scarico",
+   "Riparo sotto motore"
+  ],
+  "explanation": "Un tintinnio metallico acuto a certi regimi arriva quasi sempre da uno schermo termico allentato: la lamiera sottile sopra il silenziatore o il catalizzatore. Suona male, ma non incide su come va l’auto.",
+  "advice": "Chiedi in officina di stringerlo o fissarlo con una fascetta quando puoi: è un lavoro di pochi minuti. Vale la pena assicurarsi che a tintinnare sia lo schermo e non i supporti dello scarico: sul ponte si vede subito."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Mancate accensioni o un foro nello scarico",
+  "alt_causes": [
+   "Candele e bobine di accensione",
+   "Silenziatore o tubo forato",
+   "Taratura dell’impianto GPL (se scoppietta a gas)"
+  ],
+  "explanation": "Gli scoppi allo scarico significano che il carburante finisce di bruciare non nei cilindri, ma nella linea di scarico. Le cause sono mancate accensioni (candele, bobine), una miscela sbagliata o un foro nello scarico. Oltre al rumore, questo rovina il catalizzatore, e sostituirlo costa caro.",
+  "advice": "Fissa una diagnosi nei prossimi giorni, soprattutto se l’auto tira meno, gira irregolare o si è accesa la spia del motore. Non conviene girare a lungo con gli scoppi: il carburante incombusto surriscalda il catalizzatore. Se hai un impianto GPL e gli scoppi arrivano a gas, vai a far tarare l’impianto: per lui gli scoppi sono particolarmente pericolosi."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Silenziatore o tubo di scarico forato",
+  "alt_causes": [
+   "Guarnizione dello scarico",
+   "Flessibile dello scarico crepato"
+  ],
+  "explanation": "Un rombo forte che aumenta accelerando di solito significa un foro nella linea di scarico: silenziatore, tubo o guarnizione andati. Il suono diventa sportivo, ma i gas escono prima del dovuto: significa rumore, odore e il rischio che il monossido di carbonio entri in abitacolo.",
+  "advice": "Porta l’auto in officina questa settimana: guardare lo scarico sul ponte richiede pochi minuti. Se in abitacolo senti odore di scarico, guida con il finestrino socchiuso e non scaldare il motore in un garage chiuso: il monossido di carbonio è pericoloso."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Supporti motore",
+  "alt_causes": [
+   "Mancate accensioni",
+   "Farfalla o iniettori sporchi"
+  ],
+  "explanation": "Se al minimo si sente un tremolio in abitacolo e volante e sedili vibrano leggermente, la colpa è spesso dei supporti motore: i tasselli di gomma che smorzano le sue oscillazioni. Con il tempo la gomma si indurisce e si lacera, e la vibrazione passa alla carrozzeria.",
+  "advice": "Fai controllare i supporti in officina entro un paio di settimane: l’ispezione è semplice. Un indizio per la diagnosi: la vibrazione dei supporti di solito aumenta con una marcia inserita e il freno premuto. Se in più il motore dà strappi, dillo al meccanico: potrebbero esserci mancate accensioni."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Velo di ruggine sui dischi dei freni",
+  "alt_causes": [
+   "Umidità o polvere sulle pastiglie",
+   "Usura iniziale delle pastiglie"
+  ],
+  "explanation": "Durante la notte, dopo la pioggia o un lavaggio, sui dischi si forma un velo sottile arancione: è normale su qualsiasi auto. Le prime frenate lo portano via, da qui il cigolio o il leggero raschiare che sparisce in fretta.",
+  "advice": "Non serve fare nulla: qualche frenata dolce a inizio percorso pulisce i dischi. Se il rumore non sparisce più e si sente a ogni frenata, rifai la diagnosi o porta l’auto in officina."
  }
 }
