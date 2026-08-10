@@ -175,4 +175,20 @@ void main() {
     expect(ko.node(ko.rootId).text, ruText);
     LocaleService.current.value = 'ru';
   });
+
+  test('английские вопросы дерева переведены полностью', () async {
+    LocaleService.current.value = 'en';
+    final t = await DecisionTree.load();
+    final cyrillic = RegExp(r'[А-Яа-яЁё]');
+    final left = <String>[];
+    for (final n in t.nodes.values) {
+      if (n.isLeaf) continue; // вердикты переводим следующим заходом
+      if (cyrillic.hasMatch(n.text)) left.add(n.id);
+      for (final o in n.options) {
+        if (cyrillic.hasMatch(o.label)) left.add('${n.id}/${o.id}');
+      }
+    }
+    LocaleService.current.value = 'ru';
+    expect(left, isEmpty, reason: 'остались русскими: ${left.take(5)}');
+  });
 }

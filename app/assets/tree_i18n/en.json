@@ -1,1 +1,361 @@
-{}
+{
+ "q_when": {
+  "text": "When do you hear the noise?",
+  "options": {
+   "o1": "On starting, or when trying to start",
+   "o2": "Standing still, with the engine running",
+   "o3": "Only while driving",
+   "o4": "Both standing still and driving"
+  }
+ },
+ "q_start_char": {
+  "text": "What do you hear when you turn the key or press start?",
+  "options": {
+   "o1": "Clicking, the engine does not turn over",
+   "o2": "A metallic grinding while the starter turns",
+   "o3": "The starter spins but the engine does not catch",
+   "o4": "A squeal or whistle right after the engine starts"
+  }
+ },
+ "q_start_clicks": {
+  "text": "What kind of clicking?",
+  "options": {
+   "o1": "Rapid chattering, dashboard lights dim",
+   "o2": "One clear click, then silence"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Does the noise appear only when you switch something on or press something — heater, A/C, clutch, steering, brake?",
+  "options": {
+   "o1": "Yes, it is tied to a specific action",
+   "o2": "No, it is there on its own"
+  }
+ },
+ "q_action": {
+  "text": "Which action is the noise tied to?",
+  "options": {
+   "o1": "The heater or blower fan",
+   "o2": "The air-conditioning button",
+   "o3": "The clutch pedal",
+   "o4": "The steering, brake pedal or wipers"
+  }
+ },
+ "q_hvac": {
+  "text": "What does it sound like with the blower on?",
+  "options": {
+   "o1": "Rustling or crackling that changes with fan speed",
+   "o2": "A squeal or howl from behind the dashboard",
+   "o3": "A series of clicks behind the dash when changing temperature or airflow",
+   "o4": "Gurgling or trickling behind the dash"
+  }
+ },
+ "q_ac": {
+  "text": "What do you hear when the A/C comes on?",
+  "options": {
+   "o1": "A squeal at the moment it engages",
+   "o2": "Grinding or rumbling while the A/C runs",
+   "o3": "A short hiss when switching on or off, and it still cools"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "How is the noise related to the clutch pedal?",
+  "options": {
+   "o1": "Rustling or humming with the pedal up; it fades when you press it",
+   "o2": "It appears or gets louder when the pedal is pressed",
+   "o3": "Rattling or clatter at idle that changes when you press the pedal",
+   "o4": "A creak when pressing, audible even with the engine off"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "What exactly is the noise tied to?",
+  "options": {
+   "o1": "A howl or hum when you turn the steering wheel",
+   "o2": "Crunching or clicking when turning the wheel while parked",
+   "o3": "A hiss from behind the dash when you press the brake pedal",
+   "o4": "A knock or squeak in time with the wipers"
+  }
+ },
+ "q_ps_type": {
+  "text": "Is there a power-steering fluid reservoir under the bonnet?",
+  "options": {
+   "o1": "Yes, there is",
+   "o2": "No, or I am not sure"
+  }
+ },
+ "q_steer_click": {
+  "text": "Where do the clicks come from?",
+  "options": {
+   "o1": "From above, behind the wheel arch, near the bonnet",
+   "o2": "From the steering wheel or column, down by your feet"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Is the noise there only on a cold engine, right after starting?",
+  "options": {
+   "o1": "Yes, it goes away once warm",
+   "o2": "No, it is there when warm too"
+  }
+ },
+ "q_cold_char": {
+  "text": "What does the cold-engine noise sound like?",
+  "options": {
+   "o1": "Rapid ticking or tapping",
+   "o2": "A dull knock that disappears once warm",
+   "o3": "Rustling or clatter from the front of the engine",
+   "o4": "A squeal or whistle on starting"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Is the tapping louder outside than in the cabin, and does it smell of exhaust under the bonnet?",
+  "options": {
+   "o1": "Yes, louder outside and there is a smell",
+   "o2": "No, it taps from the top of the engine, no smell"
+  }
+ },
+ "q_engine_char": {
+  "text": "What does the noise sound like?",
+  "options": {
+   "o1": "A knock or ticking",
+   "o2": "A squeal, whistle, hum or hiss",
+   "o3": "Ringing, rattling, popping or gurgling",
+   "o4": "Vibration or shaking at idle"
+  }
+ },
+ "q_engine_knock": {
+  "text": "What kind of knock exactly?",
+  "options": {
+   "o1": "Light, rapid ticking from the top of the engine",
+   "o2": "A dull or sharp knock from deep inside the engine"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Has the ticking got louder over time, or is it always the same?",
+  "options": {
+   "o1": "It has got louder, and is clearer when warm",
+   "o2": "Always the same, and louder outside than in the cabin"
+  }
+ },
+ "q_knock_load": {
+  "text": "If you blip the throttle gently, does the knock get faster and louder?",
+  "options": {
+   "o1": "Yes, faster and louder",
+   "o2": "Barely changes, or it disappears"
+  }
+ },
+ "q_squeal": {
+  "text": "What kind of noise is it?",
+  "options": {
+   "o1": "A piercing squeal or whistle",
+   "o2": "A steady hum or rustle",
+   "o3": "A steady hiss, like air escaping a tyre"
+  }
+ },
+ "q_hum_source": {
+  "text": "Where does the hum come from?",
+  "options": {
+   "o1": "From the front, under the bonnet, changing with engine speed",
+   "o2": "It comes and goes by itself: in heat, in traffic, with the A/C on",
+   "o3": "From the rear, near the tank; audible with the ignition on before starting"
+  }
+ },
+ "q_pump_check": {
+  "text": "Are there drips or fluid traces near the belt under the bonnet?",
+  "options": {
+   "o1": "Yes, drips or a smell of coolant",
+   "o2": "It is dry",
+   "o3": "I could not check"
+  }
+ },
+ "q_rattle": {
+  "text": "What is the noise and where from?",
+  "options": {
+   "o1": "A metallic rattle from under the car",
+   "o2": "Popping or banging from the exhaust",
+   "o3": "Gurgling or trickling behind the dashboard"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Along with the rattle, has the car lost power or does the exhaust smell odd?",
+  "options": {
+   "o1": "Yes, less power or a changed smell",
+   "o2": "No, it just rattles at certain engine speeds"
+  }
+ },
+ "q_move_when": {
+  "text": "When driving, when is the noise strongest?",
+  "options": {
+   "o1": "When braking",
+   "o2": "In corners, or when turning the wheel",
+   "o3": "Over bumps and potholes",
+   "o4": "On the throttle, when shifting, or all the time"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Is it only the first few stops after parking or in the rain, and then it goes?",
+  "options": {
+   "o1": "Yes, it clears quickly",
+   "o2": "No, it is there on every stop"
+  }
+ },
+ "q_brake_char": {
+  "text": "What does it sound like when braking?",
+  "options": {
+   "o1": "A squeal or squeak",
+   "o2": "Metal grinding on metal",
+   "o3": "A knock or pulsing through the pedal"
+  }
+ },
+ "q_turn_char": {
+  "text": "What do you hear in a corner?",
+  "options": {
+   "o1": "A hum at speed, louder to one side",
+   "o2": "Clicking or crunching with the wheel on full lock",
+   "o3": "A knock when you turn the wheel",
+   "o4": "A howl or hum when turning while parked or manoeuvring"
+  }
+ },
+ "q_bump_char": {
+  "text": "What kind of noise over bumps?",
+  "options": {
+   "o1": "A knock or clunk",
+   "o2": "A creak, like an old bed",
+   "o3": "Rattling or clatter",
+   "o4": "A single thud on the first move after standing a long time"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "What kind of knock exactly?",
+  "options": {
+   "o1": "Frequent dull knocking over small bumps",
+   "o2": "Single dull thuds over potholes and speed bumps",
+   "o3": "The knock comes through the steering wheel, you feel it in your hands",
+   "o4": "The clunk appeared suddenly after hitting a pothole, and one corner sits lower"
+  }
+ },
+ "q_bump_where": {
+  "text": "Is the knock from the front or the rear?",
+  "options": {
+   "o1": "The front",
+   "o2": "The rear",
+   "o3": "Hard to tell"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Where is the rattle from?",
+  "options": {
+   "o1": "From under the car",
+   "o2": "From the cabin: dashboard, doors, trim squeaks",
+   "o3": "From the boot, as if something is rolling around",
+   "o4": "From the front, up near the bonnet"
+  }
+ },
+ "q_move_manner": {
+  "text": "How is the noise related to how you drive?",
+  "options": {
+   "o1": "It appears on or off the throttle",
+   "o2": "At the moment of a gear change or pulling away",
+   "o3": "It is there constantly while the car moves",
+   "o4": "It is more of a vibration or shudder than a noise"
+  }
+ },
+ "q_accel_char": {
+  "text": "What does it sound like under acceleration?",
+  "options": {
+   "o1": "Metallic pinging, especially uphill",
+   "o2": "A knock as you press or lift off the throttle",
+   "o3": "Popping or a loud roar from the exhaust",
+   "o4": "A howl or whistle under load"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Popping or roaring?",
+  "options": {
+   "o1": "Popping or backfiring",
+   "o2": "A roar, louder on the throttle; the car pulls as usual",
+   "o3": "The engine revs but the car does not accelerate; sometimes a burning smell"
+  }
+ },
+ "q_load_whine": {
+  "text": "What kind of whine under load?",
+  "options": {
+   "o1": "A high whistle only on the throttle, gone when you lift off (turbo engine)",
+   "o2": "A hum or whine whose pitch changes on and off the throttle at the same speed",
+   "o3": "A monotone whine under acceleration; the gearbox is a CVT or automatic",
+   "o4": "Louder in one gear and quieter in another; manual gearbox"
+  }
+ },
+ "q_shift_char": {
+  "text": "What happens when shifting or pulling away?",
+  "options": {
+   "o1": "A jolt or clunk shifting an automatic between D and R, or during changes",
+   "o2": "A crunch when engaging a gear on a manual",
+   "o3": "The car shudders as you pull away while releasing the clutch",
+   "o4": "A single clunk underneath as you pull away or change throttle"
+  }
+ },
+ "q_vibration": {
+  "text": "When is the shaking strongest?",
+  "options": {
+   "o1": "At 50–75 mph the wheel shakes finely; less above and below",
+   "o2": "From 25–40 mph onwards, worse as speed rises",
+   "o3": "In a narrow speed band, felt through the floor and body; rear- or all-wheel drive",
+   "o4": "Only when braking, the wheel kicks back"
+  }
+ },
+ "q_const_char": {
+  "text": "What does the constant noise sound like?",
+  "options": {
+   "o1": "A steady hum or whine",
+   "o2": "Grinding, scraping or a squeak from a wheel",
+   "o3": "A loud roar or droning",
+   "o4": "A whistle or moan only at high speed"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "What is the noise from the wheel?",
+  "options": {
+   "o1": "A thin squeak; it stops or changes when you touch the brake",
+   "o2": "Scraping; after driving the wheel is hot and the car pulls to one side",
+   "o3": "Constant grinding or scraping, and the wheel does not get hot",
+   "o4": "A rhythmic knock or click in time with wheel rotation"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Have the wheels been changed, rotated or removed recently?",
+  "options": {
+   "o1": "Yes, in the last few days",
+   "o2": "No, not for a long time"
+  }
+ },
+ "q_neutral_test": {
+  "text": "A check: get up to the speed where you hear it, shift to neutral and coast. Does the hum stay?",
+  "options": {
+   "o1": "It stays",
+   "o2": "It fades along with the engine speed",
+   "o3": "I could not check"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Does the whine change with the gear you are in?",
+  "options": {
+   "o1": "Yes, it sounds different in different gears",
+   "o2": "No, it depends only on engine speed"
+  }
+ },
+ "q_hum_road": {
+  "text": "Does the hum change in gentle curves?",
+  "options": {
+   "o1": "Yes, quieter or louder to one side",
+   "o2": "No, it is steady at any speed above 25–40 mph",
+   "o3": "It depends on the road surface"
+  }
+ },
+ "q_hum_where": {
+  "text": "Is the hum from the front or the rear?",
+  "options": {
+   "o1": "The front",
+   "o2": "The rear",
+   "o3": "Hard to tell"
+  }
+ }
+}
