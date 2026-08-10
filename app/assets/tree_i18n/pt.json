@@ -429,5 +429,76 @@
   ],
   "explanation": "Um borbulhar atrás do tablier é uma bolha de ar a passar pelo radiador do aquecimento. O ar entra no circuito quando o nível de líquido de refrigeração desce: há uma fuga algures ou a tampa do vaso de expansão não aguenta a pressão. O aquecimento pode então soprar ora quente, ora frio.",
   "advice": "Com o motor frio, verifique o nível no vaso de expansão e complete até à marca; depois vigie se volta a descer. Se o nível continuar a cair ou o aquecimento soprar frio com o motor quente, vá à oficina esta semana. Se o ponteiro da temperatura subir ou sair vapor: encoste e desligue o motor."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "A embraiagem do compressor do ar condicionado patina",
+  "alt_causes": [
+   "Correia frouxa",
+   "Prato de pressão da embraiagem gasto"
+  ],
+  "explanation": "Um guincho exatamente no momento em que liga o ar condicionado significa que a embraiagem que liga o compressor à correia está a patinar sob carga. Um estalido isolado ao engatar é normal; o guincho, esse, indica embraiagem gasta ou correia frouxa.",
+  "advice": "Mostre na oficina nas próximas duas semanas: se deixar andar, o guincho passa a permanente e o compressor pode gripar e partir a correia. Até à reparação pode usar o ar condicionado, mas se o guincho aumentar, desligue-o."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Compressor do ar condicionado (rolamento ou desgaste)",
+  "alt_causes": [
+   "Rolamento da polia da embraiagem",
+   "Pouco óleo no circuito"
+  ],
+  "explanation": "Um chiar ou estrondo que só se ouve com o ar condicionado a trabalhar vem de um compressor em fim de vida ou do rolamento da sua polia. Um compressor gripado parte a correia — e em muitos carros essa correia move também o alternador e a bomba de água.",
+  "advice": "Por agora não ligue o ar condicionado: assim o conjunto aguenta até à reparação. Marque diagnóstico dentro desta semana: enquanto se estraga só o rolamento, a reparação sai bastante mais barata do que um compressor novo com lavagem de todo o circuito."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Passagem normal do gás refrigerante",
+  "alt_causes": [
+   "Funcionamento normal da válvula de expansão"
+  ],
+  "explanation": "Um breve sibilar ou borbulhar atrás do tablier nos primeiros segundos depois de ligar ou desligar o ar condicionado é o gás refrigerante a passar pela válvula de expansão. Se o habitáculo arrefece, é o funcionamento normal do sistema e não uma fuga.",
+  "advice": "Não é preciso fazer nada. O motivo para verificar seria outro: se o sibilar se tornar permanente e deixar de arrefecer ou arrefecer pouco, marque uma revisão do ar condicionado."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Rolamento do veio primário da caixa",
+  "alt_causes": [
+   "Rolamento de encosto da embraiagem",
+   "Roletes da correia de acessórios"
+  ],
+  "explanation": "Um roçar ou zumbido ao ralenti que acalma quando se carrega na embraiagem vem da caixa: com o pedal solto, o veio primário roda com o motor e o seu rolamento gasto faz barulho. Ao carregar, o veio para e o barulho desaparece. A correia e os roletes não reagem de todo ao pedal da embraiagem.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas e conte sem falta a relação do barulho com o pedal: isso orienta logo a busca. Verifique o nível de óleo da caixa. Pode andar, mas não arraste durante meses: um rolamento destruído leva atrás veios e engrenagens."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Rolamento de encosto da embraiagem",
+  "alt_causes": [
+   "Rolamento do veio primário",
+   "Garfo da embraiagem"
+  ],
+  "explanation": "Um roçar ou zumbido que aparece ou aumenta com o pedal da embraiagem carregado vem do rolamento de encosto — a peça que empurra o prato de pressão no momento em que se desembraia. Um rolamento gasto faz barulho precisamente sob carga, ou seja, com o pedal carregado.",
+  "advice": "Marque oficina dentro de uma a duas semanas. Mantenha o pedal carregado o menos possível: no semáforo, ponto morto e largar a embraiagem. Um rolamento de encosto que se parte pode deixá-lo sem embraiagem na estrada, por isso não se pode arrastar durante meses."
+ },
+ "leaf_dmf": {
+  "top_cause": "Volante bimassa",
+  "alt_causes": [
+   "Molas do disco de embraiagem",
+   "Rolamento de encosto"
+  ],
+  "explanation": "Um chocalhar metálico ao ralenti do lado da caixa, que muda quando se carrega na embraiagem e se ouve sobretudo nos segundos do arranque e do desligar do motor, é a assinatura típica de um volante bimassa gasto: o amortecedor entre motor e caixa que absorve os solavancos.",
+  "advice": "Marque diagnóstico dentro de duas semanas e descreva a relação do barulho com o pedal e com o arranque e o desligar. A substituição não é barata, mas arrastar estraga também a embraiagem e pode acabar com o volante desfeito em andamento. Até à reparação, arranque com suavidade e não force o motor a baixas rotações."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mecanismo do pedal da embraiagem (eixo, garfo, cabo)",
+  "alt_causes": [
+   "Casquilhos do eixo do pedal",
+   "Garfo do rolamento de encosto"
+  ],
+  "explanation": "Um ranger ao carregar no pedal, audível mesmo com o motor desligado, é mecânica seca do comando da embraiagem: o eixo do pedal, o cabo ou o garfo. Como o barulho existe sem o motor a trabalhar, a correia, o rolamento de encosto e a caixa não têm nada a ver com isso.",
+  "advice": "Peça na oficina para lubrificarem o eixo do pedal e o garfo na próxima visita: muitas vezes resolve-se em minutos. Não há perigo. Se, além do ranger, o pedal ficou duro ou a embraiagem só pega já no fim do curso, mostre o carro mais cedo."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Rolamento do apoio superior do amortecedor",
+  "alt_causes": [
+   "Caixa de direção",
+   "Bieletas da barra estabilizadora"
+  ],
+  "explanation": "Um estalar ao rodar o volante com o carro parado, vindo de cima, da cava da roda, é produzido pelo rolamento do apoio superior: a peça sobre a qual o topo do amortecedor roda junto com a roda. Outro sinal são pancadas isoladas vindas de cima ao passar buracos.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: a verificação é simples, com a mão na torre do amortecedor debaixo do capô sentem-se logo os estalidos. Pode andar, mas um apoio gasto acelera o desgaste do amortecedor e piora o retorno do volante."
  }
 }
