@@ -429,5 +429,76 @@
   ],
   "explanation": "Un gorgoglio dietro la plancia è una bolla d’aria che passa nel radiatore del riscaldamento. L’aria entra nel circuito quando il livello del liquido refrigerante è sceso: c’è una perdita da qualche parte, oppure il tappo del vaso di espansione non tiene la pressione. Il riscaldamento può soffiare ora caldo, ora freddo.",
   "advice": "A motore freddo controlla il livello nel vaso di espansione e rabbocca fino alla tacca, poi tieni d’occhio se scende di nuovo. Se il livello continua a calare o il riscaldamento soffia freddo a motore caldo, in officina questa settimana. Se la lancetta della temperatura sale o esce vapore: accosta e spegni il motore."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "La frizione del compressore del climatizzatore slitta",
+  "alt_causes": [
+   "Cinghia allentata",
+   "Piatto di spinta della frizione consumato"
+  ],
+  "explanation": "Un fischio proprio nel momento in cui si accende il climatizzatore significa che la frizione che collega il compressore alla cinghia slitta sotto carico. Un singolo scatto all’innesto è normale; il fischio, invece, indica una frizione consumata o una cinghia troppo lenta.",
+  "advice": "Fallo vedere in officina nel giro di due settimane: se si lascia andare, il fischio diventa continuo e il compressore può grippare e rompere la cinghia. Fino alla riparazione puoi usare il climatizzatore, ma se il fischio aumenta, spegnilo."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Compressore del climatizzatore (cuscinetto o usura)",
+  "alt_causes": [
+   "Cuscinetto della puleggia della frizione",
+   "Poco olio nel circuito"
+  ],
+  "explanation": "Uno stridio o rimbombo che si sente solo con il climatizzatore acceso arriva da un compressore a fine vita o dal cuscinetto della sua puleggia. Un compressore che grippa rompe la cinghia — e su molte auto quella cinghia muove anche alternatore e pompa dell’acqua.",
+  "advice": "Per ora non accendere il climatizzatore: così il gruppo regge fino alla riparazione. Fissa una diagnosi entro la settimana: finché si rovina solo il cuscinetto, la riparazione costa molto meno di un compressore nuovo con il lavaggio di tutto il circuito."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Passaggio normale del gas refrigerante",
+  "alt_causes": [
+   "Funzionamento normale della valvola di espansione"
+  ],
+  "explanation": "Un breve sibilo o gorgoglio dietro la plancia nei primi secondi dopo aver acceso o spento il climatizzatore è il gas refrigerante che passa attraverso la valvola di espansione. Se in abitacolo arriva il fresco, è il normale funzionamento dell’impianto e non una perdita.",
+  "advice": "Non serve fare nulla. Il motivo per controllare sarebbe un altro: se il sibilo diventa continuo e il fresco manca o è debole, fissa un controllo dell’impianto di climatizzazione."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Cuscinetto dell’albero primario del cambio",
+  "alt_causes": [
+   "Cuscinetto reggispinta della frizione",
+   "Rulli della cinghia dei servizi"
+  ],
+  "explanation": "Un fruscio o ronzio al minimo che si attenua premendo la frizione arriva dal cambio: con il pedale rilasciato l’albero primario gira insieme al motore e il suo cuscinetto consumato fa rumore. Premendo il pedale l’albero si ferma e il rumore sparisce. La cinghia e i rulli, invece, al pedale della frizione non reagiscono affatto.",
+  "advice": "Fissa una diagnosi entro una o due settimane e racconta assolutamente il legame del rumore con il pedale: indirizza subito la ricerca. Controlla il livello dell’olio del cambio. Puoi guidare, ma non tirarla per mesi: un cuscinetto distrutto si porta dietro alberi e ingranaggi."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Cuscinetto reggispinta della frizione",
+  "alt_causes": [
+   "Cuscinetto dell’albero primario",
+   "Forcella della frizione"
+  ],
+  "explanation": "Un fruscio o ronzio che compare o aumenta con il pedale della frizione premuto arriva dal cuscinetto reggispinta: il pezzo che spinge sullo spingidisco quando si disinnesta. Un reggispinta consumato fa rumore proprio sotto carico, cioè a pedale premuto.",
+  "advice": "Fissa un appuntamento in officina entro una o due settimane. Tieni il pedale premuto il meno possibile: al semaforo metti in folle e rilascia la frizione. Un reggispinta che si rompe può lasciarti senza frizione per strada, quindi non si può tirare per mesi."
+ },
+ "leaf_dmf": {
+  "top_cause": "Volano bimassa",
+  "alt_causes": [
+   "Molle del disco frizione",
+   "Cuscinetto reggispinta"
+  ],
+  "explanation": "Un sferragliare metallico al minimo dal lato del cambio, che cambia premendo la frizione e si sente soprattutto nei secondi dell’avviamento e dello spegnimento, è la firma tipica di un volano bimassa consumato: lo smorzatore fra motore e cambio che assorbe gli strappi.",
+  "advice": "Fissa una diagnosi entro due settimane e descrivi il legame del rumore con il pedale e con l’avviamento e lo spegnimento. La sostituzione non è economica, ma tirarla avanti rovina anche la frizione e può finire con il volano che si disfa in marcia. Fino alla riparazione parti dolcemente e non far faticare il motore a bassi giri."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Meccanismo del pedale della frizione (perno, forcella, cavo)",
+  "alt_causes": [
+   "Boccole del perno del pedale",
+   "Forcella del reggispinta"
+  ],
+  "explanation": "Un cigolio premendo il pedale, udibile anche a motore spento, è meccanica secca del comando frizione: il perno del pedale, il cavo o la forcella. Dato che il rumore c’è anche senza motore acceso, cinghia, reggispinta e cambio non c’entrano nulla.",
+  "advice": "Chiedi in officina di ingrassare il perno del pedale e la forcella alla prossima occasione: spesso si risolve in pochi minuti. Non è pericoloso. Se insieme al cigolio il pedale è diventato duro o la frizione stacca solo a fine corsa, porta l’auto prima."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Cuscinetto del supporto superiore dell’ammortizzatore",
+  "alt_causes": [
+   "Scatola dello sterzo",
+   "Bielline della barra stabilizzatrice"
+  ],
+  "explanation": "Uno scricchiolio girando il volante da fermo, che arriva dall’alto, dal passaruota, è prodotto dal cuscinetto del supporto superiore: il pezzo su cui la parte alta del montante ruota insieme alla ruota. Un altro indizio sono colpi isolati dall’alto sulle buche.",
+  "advice": "Fissa una diagnosi entro una o due settimane: il controllo è semplice, con la mano sulla torretta dell’ammortizzatore sotto il cofano gli scatti si sentono subito. Puoi guidare, ma un supporto consumato accelera l’usura dell’ammortizzatore e peggiora il ritorno dello sterzo."
  }
 }
