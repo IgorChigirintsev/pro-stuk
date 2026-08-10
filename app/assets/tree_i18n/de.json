@@ -1205,5 +1205,78 @@
   ],
   "explanation": "Ein nahes Kunststoffklappern und Knarzen auf kleinen Unebenheiten ist Reibung und Spiel der Verkleidungen: Armaturenbrett, Türverkleidungen, Handschuhfach. Bei Frost lauter. Eine sichere Probe: drücken Sie während der Fahrt die verdächtige Verkleidung mit der Hand an — ist das Geräusch weg, ist es der Innenraum und nicht das Fahrwerk.",
   "advice": "Kein Defekt: das Auto ist in Ordnung. Kleinkram aus Handschuhfach und Ablagen räumen, in die gefundene Fuge ein Stück Dichtband legen. Knarzen rund um die Türen behebt man, indem man die Dichtungen mit Silikonfett pflegt. Ein Fahrwerksklopfen ist dagegen dumpf, kommt von unten und ändert sich nicht, wenn man auf die Verkleidungen drückt."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Ungesicherte Ladung oder Reserverad im Kofferraum",
+  "alt_causes": [
+   "Wagenheber und Bordwerkzeug",
+   "Hutablage"
+  ],
+  "explanation": "Ein dumpfes Klopfen oder Poltern von hinten auf Unebenheiten, als würde etwas springen und hin- und herrollen, ist meistens auch genau das: der Wagenheber, das Radkreuz, ein schlecht festgezurrtes Reserverad oder eine klappernde Hutablage. Mit beladenem Kofferraum ändert sich das Geräusch meist oder verschwindet.",
+  "advice": "Räumen Sie den Kofferraum leer, prüfen Sie die Befestigung von Reserverad und Wagenheber, drücken Sie die Hutablage fest — und fahren Sie dieselbe Strecke noch einmal. Ist das Klopfen weg, hat das Fahrwerk nichts damit zu tun und Sie müssen nichts weiter unternehmen. Bleibt es, gehen Sie die Diagnose noch einmal über den Zweig zum Klopfen auf Unebenheiten durch."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Schloss oder Gummipuffer der Motorhaube",
+  "alt_causes": [
+   "Scharniere der Motorhaube",
+   "Türfeststeller"
+  ],
+  "explanation": "Ein metallisches Klopfen vorn oben, an der Kante der Motorhaube, auf kleinen Unebenheiten ist Spiel im Haubenschloss oder sind zusammengedrückte Gummipuffer, auf denen die Haube aufliegt. Im Innenraum hört man das Geräusch nah, wie vor dem Gesicht, und nicht von unten wie ein Fahrwerksklopfen.",
+  "advice": "Prüfung im Stand: auf die geschlossene Haube drücken — bewegt sie sich und klopft, ist die Diagnose bestätigt. Die Gummipuffer in den Ecken eine halbe Umdrehung herausdrehen, damit die Haube fester aufliegt; das hilft in den meisten Fällen. Gefährlich ist es nicht."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hydrostößel (bei kaltem Motor)",
+  "alt_causes": [
+   "Ventilspiel",
+   "Zähflüssiges Öl"
+  ],
+  "explanation": "Hydrostößel sind kleine Bauteile, die über den Öldruck das überschüssige Spiel an den Ventilen ausgleichen. Solange der Motor kalt ist, ist das Öl zäh und kommt nicht sofort bei ihnen an — deshalb hört man in den ersten Minuten ein schnelles Ticken. Verschwindet das Geräusch nach dem Warmlaufen vollständig, ist das die typische Situation und ungefährlich.",
+  "advice": "Ölstand und Wechselintervall prüfen: altes oder ungeeignetes Öl verstärkt das Klopfen. Hält das Ticken länger als ein paar Minuten an oder bleibt es bei warmem Motor — einen Werkstatttermin machen. Additive gegen Motorklopfen sollte man nicht einfüllen."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Verschleiß der Kolbengruppe (Klopfen bei kaltem Motor)",
+  "alt_causes": [
+   "Hydrostößel",
+   "Steuerkette"
+  ],
+  "explanation": "Ein dumpfes Klopfen in den ersten Minuten nach einem Kaltstart, das mit dem Warmwerden verschwindet, kommt bei Autos mit Laufleistung oft vom Verschleiß der Kolbengruppe: solange der Kolben kalt ist, hat er im Zylinder etwas mehr Spiel und klopft. Nach dem Warmlaufen dehnen sich die Teile aus und das Klopfen ist weg. Das ist in der Regel eine Sache zum Beobachten und keine für eine sofortige Reparatur.",
+  "advice": "Erzählen Sie es bei Ihrem nächsten Werkstattbesuch und merken Sie sich, wie viele Minuten das Klopfen anhält — das ist eine nützliche Information für den Mechaniker. Behalten Sie Ölstand und Ölverbrauch im Auge. Verschwindet das Klopfen nach dem Warmlaufen nicht mehr oder ist es unter Last zu hören — ohne Aufschub zur Diagnose."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Steuerkette oder ihr Spanner",
+  "alt_causes": [
+   "Hydrostößel",
+   "Rollen des Nebenaggregateriemens"
+  ],
+  "explanation": "Die Steuerkette ist die Kette im Motor, die seine Wellen verbindet und dafür sorgt, dass die Ventile zum richtigen Zeitpunkt öffnen. Wenn sie sich längt oder ihr Spanner nachlässt, hört man beim Kaltstart ein Rascheln oder Rasseln vorn am Motor, das nach dem Warmlaufen verschwindet, sobald der Öldruck steigt. Mit der Zeit tritt das Geräusch immer häufiger auf.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: eine übergesprungene Kette ist eine teure Motorreparatur. Bis dahin keine harten Kaltstarts mit sofortigem Gas, und den Motor vor Belastung warm werden lassen. Unbedingt den Ölstand prüfen."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "Der Nebenaggregateriemen rutscht durch",
+  "alt_causes": [
+   "Verschlissene Spannrolle",
+   "Zu geringe Riemenspannung"
+  ],
+  "explanation": "Quietschen in den ersten Sekunden nach dem Start kommt fast immer vom Riemen, der Lichtmaschine, Wasserpumpe und Klimakompressor antreibt. Kalt oder bei feuchtem Wetter rutscht er über die Scheiben und pfeift, dann wird er warm und ist still. Gefährlich ist das im Moment nicht, es zeigt aber einen verschlissenen Riemen oder eine zu geringe Spannung an.",
+  "advice": "Lassen Sie den Riemen bei Gelegenheit in der Werkstatt ansehen: die Sichtprüfung dauert ein paar Minuten. Tritt das Quietschen auch bei warmem Motor oder beim Einschalten der Klimaanlage auf — nicht aufschieben. Sprühen Sie kein WD-40 auf den Riemen und probieren Sie auch keine anderen Hausmittel."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Zu großes Ventilspiel",
+  "alt_causes": [
+   "Hydrostößel",
+   "Steuerkette"
+  ],
+  "explanation": "Ein gleichmäßiges schnelles Ticken oben am Motor ist der typische Klang des Ventiltriebs. Mit der Zeit werden die Spiele zwischen seinen Teilen größer, und die Ventile fangen an zu klackern — im Leerlauf hört man das am besten. Der Motor geht davon nicht sofort kaputt, aber die Ventile arbeiten mit Schlag und verschleißen schneller.",
+  "advice": "Vereinbaren Sie in den nächsten zwei Wochen einen Termin zum Einstellen der Ventile oder zur Prüfung der Hydrostößel. Behalten Sie den Ölstand im Auge: bei niedrigem Stand wird das Ticken lauter. Fahren können Sie in Ruhe, aber es über Monate zu verschieben lohnt sich nicht."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Klopfen aus dem unteren Teil des Motors (Lagerschalen, Pleuel)",
+  "alt_causes": [
+   "Klopfende Verbrennung",
+   "Verschleiß der Kolbengruppe",
+   "Riemenscheibe der Kurbelwelle (Schwingungsdämpfer)"
+  ],
+  "explanation": "Ein dumpfes Klopfen aus der Tiefe des Motors, das mit der Drehzahl schneller und unter Last lauter wird, ist das alarmierendste aller Motorgeräusche. So klopfen verschlissene Lagerschalen — die Lager, auf denen sich die Kurbelwelle dreht — oder die Pleuel: in den Verbindungen ist Spiel entstanden, und die Teile schlagen aufeinander. Fährt man weiter, kann der Motor festgehen.",
+  "advice": "Fahren Sie nicht weiter als unbedingt nötig aus eigener Kraft: besser den Abschleppwagen rufen; ist die Werkstatt ganz in der Nähe, langsam hinfahren und kein Gas geben. Prüfen Sie sofort den Ölstand und füllen Sie auf, wenn er niedrig ist. Ähnlich können auch weniger schlimme Dinge klopfen, aber das muss ein Mechaniker prüfen — und zwar schnell."
  }
 }
