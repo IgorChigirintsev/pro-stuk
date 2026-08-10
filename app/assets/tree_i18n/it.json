@@ -788,5 +788,78 @@
   ],
   "explanation": "Un sferragliare di plastica vicino e grilli sulle irregolarità piccole sono attrito e gioco dei pannelli dell’abitacolo: plancia, pannelli porta, cassetto portaoggetti. Con il freddo si sente di più. La prova sicura: se in marcia premi con la mano sul pannello sospetto e il rumore sparisce, è l’abitacolo e non il rotabile.",
   "advice": "Non è un guasto: l’auto sta bene. Togli gli oggetti sciolti dal cassetto e dai vani e infila un pezzo di feltro nella giunzione che hai individuato. Il cigolio attorno alle portiere si risolve trattando le guarnizioni con grasso al silicone. Un colpo del rotabile, invece, è sordo, arriva da sotto e non cambia premendo sui pannelli."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Carico o ruota di scorta non fissati nel bagagliaio",
+  "alt_causes": [
+   "Cric e attrezzi di bordo",
+   "Cappelliera"
+  ],
+  "explanation": "Un colpo sordo o un rimbombo da dietro sulle buche, come se qualcosa saltasse e rotolasse, è quasi sempre proprio questo: il cric, la chiave delle ruote, una ruota di scorta mal fissata o la cappelliera che vibra. Con il bagagliaio carico il rumore di solito cambia o sparisce.",
+  "advice": "Svuota il bagagliaio, controlla il fissaggio della ruota di scorta e del cric, premi bene la cappelliera — e rifai lo stesso tratto di strada. Se il rumore è sparito, la sospensione non c’entra e non serve fare altro. Se resta, rifai la diagnosi seguendo il ramo dei colpi sulle buche."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Serratura o tamponi del cofano",
+  "alt_causes": [
+   "Cerniere del cofano",
+   "Fermaporta"
+  ],
+  "explanation": "Un battito metallico davanti in alto, verso il bordo del cofano, sulle irregolarità piccole è gioco nella serratura del cofano oppure sono i tamponi di gomma schiacciati su cui appoggia. In abitacolo il rumore si sente vicino, quasi davanti al viso, e non da sotto come un colpo della sospensione.",
+  "advice": "Prova a veicolo fermo: premi sul cofano chiuso; se si muove e batte, la diagnosi è confermata. Svita di mezzo giro verso l’alto i tamponi di gomma negli angoli, così il cofano appoggia più saldo: nella maggior parte dei casi basta. Non è pericoloso."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Punterie idrauliche (a freddo)",
+  "alt_causes": [
+   "Gioco valvole",
+   "Olio troppo denso"
+  ],
+  "explanation": "Le punterie idrauliche sono piccoli componenti che, grazie alla pressione dell’olio, recuperano il gioco in eccesso delle valvole. Finché il motore è freddo l’olio è denso e non arriva subito, per questo nei primi minuti si sente un ticchettio rapido. Se dopo il riscaldamento il rumore sparisce del tutto, è la situazione tipica e non è pericolosa.",
+  "advice": "Controlla il livello dell’olio e quando è stato cambiato: olio vecchio o non adatto aumenta il rumore. Se il ticchettio dura più di un paio di minuti o resta a motore caldo, fissa un appuntamento in officina. Non versare additivi che promettono di zittire il motore."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Usura del gruppo pistone-cilindro (colpo a freddo)",
+  "alt_causes": [
+   "Punterie idrauliche",
+   "Catena di distribuzione"
+  ],
+  "explanation": "Un colpo sordo nei primi minuti dopo un avviamento a freddo, che sparisce man mano che il motore si scalda, su auto con chilometri arriva spesso dall’usura del gruppo pistone-cilindro: finché il pistone è freddo ha un po’ più di gioco nel cilindro e batte. Scaldandosi i pezzi si dilatano e il colpo sparisce. Di solito è una cosa da tenere d’occhio, non da riparare d’urgenza.",
+  "advice": "Raccontalo in officina alla prossima visita e nota quanti minuti dura il colpo: è un’informazione utile per il meccanico. Tieni d’occhio livello e consumo d’olio. Se il colpo non sparisce più a motore caldo o si sente sotto sforzo, in diagnosi senza rimandare."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Catena di distribuzione o il suo tenditore",
+  "alt_causes": [
+   "Punterie idrauliche",
+   "Rulli della cinghia dei servizi"
+  ],
+  "explanation": "La catena di distribuzione è la catena dentro il motore che collega i suoi alberi e fa aprire le valvole al momento giusto. Quando si allunga o il tenditore perde forza, all’avviamento a freddo si sente un fruscio o tintinnio nella parte anteriore del motore, che si attenua quando il motore si scalda e la pressione dell’olio sale. Con il tempo il rumore comparirà sempre più spesso.",
+  "advice": "Fissa una diagnosi entro una o due settimane: una catena che salta un dente è una riparazione costosa del motore. Fino ad allora evita partenze brusche a freddo e lascia scaldare il motore prima di sollecitarlo. Controlla assolutamente il livello dell’olio."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "La cinghia dei servizi slitta",
+  "alt_causes": [
+   "Rullo tenditore consumato",
+   "Tensione della cinghia insufficiente"
+  ],
+  "explanation": "Un fischio nei primi secondi dopo l’avviamento arriva quasi sempre dalla cinghia che muove alternatore, pompa dell’acqua e compressore del clima. A freddo o con tempo umido slitta sulle pulegge e fischia, poi si scalda e tace. Al momento non è pericoloso, ma indica una cinghia consumata o una tensione allentata.",
+  "advice": "Fai guardare la cinghia in officina quando puoi: il controllo visivo richiede un paio di minuti. Se il fischio compare anche a motore caldo o accendendo il climatizzatore, non rimandare. Non spruzzare WD-40 sulla cinghia e non provare altri rimedi casalinghi."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Gioco valvole eccessivo",
+  "alt_causes": [
+   "Punterie idrauliche",
+   "Catena di distribuzione"
+  ],
+  "explanation": "Un ticchettio rapido e regolare nella parte alta del motore è il suono tipico della distribuzione. Con il tempo i giochi fra i suoi componenti aumentano e le valvole iniziano a battere; al minimo è quando si sente meglio. Il motore non si rompe subito per questo, ma le valvole lavorano con un colpo e si consumano prima.",
+  "advice": "Fissa entro un paio di settimane la registrazione delle valvole o il controllo delle punterie idrauliche. Tieni d’occhio il livello dell’olio: con il livello basso il ticchettio aumenta. Puoi guidare tranquillo, ma non rimandare di mesi."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Colpo nella parte bassa del motore (bronzine, bielle)",
+  "alt_causes": [
+   "Detonazione",
+   "Usura del gruppo pistone-cilindro",
+   "Puleggia dell’albero motore (smorzatore)"
+  ],
+  "explanation": "Un colpo sordo dal fondo del motore, che diventa più rapido con i giri e più forte sotto sforzo, è il più preoccupante di tutti i rumori del motore. Così battono bronzine consumate — i supporti su cui gira l’albero motore — oppure le bielle: nei collegamenti è comparso gioco e i pezzi si urtano. Se continui a guidare, il motore può grippare.",
+  "advice": "Non proseguire con le tue forze più del minimo indispensabile: meglio il carro attrezzi; se l’officina è proprio vicina, vai piano e senza accelerare. Controlla subito il livello dell’olio e rabbocca se è basso. Cose meno gravi possono suonare in modo simile, ma a controllare dev’essere un meccanico — e in fretta."
  }
 }
