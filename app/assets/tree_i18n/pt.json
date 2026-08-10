@@ -500,5 +500,77 @@
   ],
   "explanation": "Um estalar ao rodar o volante com o carro parado, vindo de cima, da cava da roda, é produzido pelo rolamento do apoio superior: a peça sobre a qual o topo do amortecedor roda junto com a roda. Outro sinal são pancadas isoladas vindas de cima ao passar buracos.",
   "advice": "Marque diagnóstico dentro de uma a duas semanas: a verificação é simples, com a mão na torre do amortecedor debaixo do capô sentem-se logo os estalidos. Pode andar, mas um apoio gasto acelera o desgaste do amortecedor e piora o retorno do volante."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Cardã da coluna de direção (cruzeta)",
+  "alt_causes": [
+   "Folga nas estrias do veio",
+   "Caixa de direção"
+  ],
+  "explanation": "Um estalido ou pancada que se ouve e se sente diretamente no volante, ao nível dos pés, vem normalmente da cruzeta do veio intermédio da coluna: a pequena junta entre o volante e a caixa de direção. Com o motor desligado, abanando levemente o volante para um lado e para o outro, o estalido ouve-se com nitidez.",
+  "advice": "Mande verificar na oficina nos próximos dias: a direção é um órgão de segurança e o diagnóstico leva minutos. A folga na coluna só cresce com o tempo e deixa o volante vago ao centro."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Servofreio ou o seu tubo de vácuo",
+  "alt_causes": [
+   "Válvula de retenção do servofreio",
+   "Fissura no tubo de vácuo"
+  ],
+  "explanation": "Um sibilar debaixo do tablier que aparece e muda exatamente no momento em que carrega e larga o pedal do travão é entrada de ar no servofreio: a peça que reduz o esforço no pedal. O pedal fica muitas vezes bastante mais duro e o ralenti oscila.",
+  "advice": "Marque oficina esta semana: os travões funcionam mesmo sem servofreio, mas é preciso carregar muito mais — numa travagem de emergência isso é perigoso. Verifique o pedal antes de sair: se estiver duro como uma tábua, conduza com cuidado e não vá longe."
+ },
+ "leaf_wipers": {
+  "top_cause": "Articulação dos limpa-para-brisas ou borrachas das escovas",
+  "alt_causes": [
+   "Porcas dos braços soltas",
+   "Casquilhos do motor dos limpa-para-brisas gastos"
+  ],
+  "explanation": "Uma pancada nos pontos extremos do varrimento é folga nas articulações do mecanismo que move as escovas, ou são porcas dos braços soltas. Um ranger uniforme sobre o vidro são borrachas endurecidas. O teste é simples: desligue os limpa-para-brisas e o barulho desaparece de imediato e por completo.",
+  "advice": "As borrachas que rangem pode trocá-las você mesmo: as escovas vendem-se em qualquer loja de peças. Para a pancada nos extremos, aperte as porcas dos braços ou mande substituir os casquilhos da articulação quando for à oficina. Para a segurança, o que conta aqui é o vidro ficar limpo."
+ },
+ "leaf_eps": {
+  "top_cause": "Direção assistida elétrica: um zumbido leve é normal",
+  "alt_causes": [
+   "Desgaste da direção assistida elétrica",
+   "Caixa de direção"
+  ],
+  "explanation": "Se debaixo do capô não há depósito de líquido, a direção assistida é elétrica, e um zumbido baixo e constante ao rodar o volante é o seu funcionamento normal, não uma avaria. A bomba hidráulica que uiva por falta de líquido simplesmente não existe num carro destes.",
+  "advice": "Os sinais de alarme de uma direção elétrica são outros: o volante fica pesado ou pesa aos solavancos, aparece um estalar, ou acende-se a luz da direção no painel. Se acontecer algum destes, à oficina nos próximos dias; caso contrário, pode andar descansado."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Junta ou fissura do coletor de escape",
+  "alt_causes": [
+   "Espigões do coletor",
+   "Tuchos hidráulicos"
+  ],
+  "explanation": "Um tiquetaque rápido a frio, mais forte cá fora e acompanhado de cheiro a escape debaixo do capô, são gases a escapar por uma junta queimada ou uma fissura no coletor de escape. À medida que o metal aquece, dilata, a fenda fecha e o tiquetaque desaparece.",
+  "advice": "Marque oficina dentro de uma a duas semanas: a fenda cresce com o tempo, e o cheiro a escape pode entrar no habitáculo pela ventilação, o que é nocivo. Até à reparação, areje o interior sempre que sentir o cheiro."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Tiquetaque normal dos injetores (injeção direta ou diesel)",
+  "alt_causes": [
+   "Bomba de alta pressão",
+   "Folga das válvulas"
+  ],
+  "explanation": "Em motores de injeção direta (TSI, GDI e semelhantes) e nos diesel, os injetores e a bomba de alta pressão fazem sempre tiquetaque: é o seu funcionamento normal. Os sinais que o distinguem: o barulho é igual a frio e a quente, ouve-se mais cá fora do que dentro, e não depende da idade do óleo.",
+  "advice": "Não é preciso fazer nada. O que deve dar que pensar é outra coisa: se o tiquetaque ficou claramente mais forte do que antes, se muda depois de o motor aquecer ou se surge junto com perda de força, então sim, a diagnóstico."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Entrada de ar falso (tubo de vácuo, junta da admissão)",
+  "alt_causes": [
+   "Tubo rachado",
+   "Junta do coletor de admissão"
+  ],
+  "explanation": "Um sibilar constante debaixo do capô, como ar a sair de um pneu furado, é ar não medido a entrar por um tubo rachado ou pela junta da admissão. O motor costuma trabalhar irregular: o ralenti oscila e por vezes acende-se a luz de avaria do motor.",
+  "advice": "Marque diagnóstico nos próximos dias, sobretudo se o ralenti oscila: procurar entradas de ar é um procedimento de rotina. Por sua conta pode ver se os tubos finos de borracha debaixo do capô têm fissuras, sem desmontar nada."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Ventoinha de refrigeração (casquilhos ou funcionamento contínuo)",
+  "alt_causes": [
+   "Sensor de temperatura ou termóstato",
+   "Embraiagem viscosa (na tração traseira)"
+  ],
+  "explanation": "Um zumbido ou ronco que liga e desliga sozinho — com calor, no trânsito, com o ar condicionado — é a ventoinha do radiador. Uma ventoinha barulhenta significa ou casquilhos gastos no seu motor, ou que ela roda sem parar por causa de um sensor ou do termóstato. Às vezes continua a trabalhar um ou dois minutos depois de desligar o carro: isso é normal.",
+  "advice": "Se a ventoinha ronca sem parar logo desde o arranque com o motor frio, a diagnóstico nos próximos dias: o circuito de refrigeração não está a funcionar corretamente. Vigie o ponteiro da temperatura; se subir, encoste e desligue o motor."
  }
 }
