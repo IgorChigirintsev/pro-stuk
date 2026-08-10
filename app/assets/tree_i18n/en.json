@@ -447,5 +447,85 @@
   ],
   "explanation": "Grinding or rumbling heard only while the A/C is running is a dying compressor or its pulley bearing. A seized compressor snaps the belt, and on many cars that belt also drives the alternator and the water pump.",
   "advice": "Leave the A/C switched off for now — that will get the unit to the repair intact. Book a diagnosis within the week: while only the bearing is failing, the repair is far cheaper than replacing the compressor and flushing the whole system."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Normal refrigerant flow",
+  "alt_causes": [
+   "Normal operation of the expansion valve"
+  ],
+  "explanation": "A brief hiss or gurgle behind the dash in the first seconds after switching the A/C on or off is refrigerant moving through the expansion valve. If the cabin still gets cold, this is the system working as intended, not a leak.",
+  "advice": "Nothing needs doing. The reason to check is different: if the hiss becomes constant and the cooling is weak or gone, book a diagnosis of the air-conditioning system."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Gearbox input shaft bearing",
+  "alt_causes": [
+   "Clutch release bearing",
+   "Accessory belt pulleys"
+  ],
+  "explanation": "A rustle or hum at idle that fades when you press the clutch comes from the gearbox: with the pedal up, the input shaft turns with the engine and its worn bearing makes the noise. Press the pedal, the shaft stops and the noise goes. The belt and its pulleys do not react to the clutch pedal at all.",
+  "advice": "Book a diagnosis within a week or two, and be sure to mention that the noise depends on the pedal — that alone points the search in the right direction. Check the gearbox oil level. You can drive, but do not leave it for months: a failed bearing takes the shafts and gears with it."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Clutch release bearing",
+  "alt_causes": [
+   "Input shaft bearing",
+   "Clutch fork"
+  ],
+  "explanation": "A rustle or hum that appears or grows when the clutch pedal is pressed comes from the release bearing — the part that pushes on the pressure plate as you press. A worn release bearing is noisy precisely under load, that is, with the pedal down.",
+  "advice": "Book a garage within a week or two. Keep the pedal down only when you need to — at traffic lights, use neutral and let the clutch up. A release bearing that breaks up can leave you without a clutch on the road, so do not drag this out for months."
+ },
+ "leaf_dmf": {
+  "top_cause": "Dual-mass flywheel",
+  "alt_causes": [
+   "Clutch disc damper springs",
+   "Release bearing"
+  ],
+  "explanation": "A metallic rattle or clatter at idle from the gearbox side that changes when you press the clutch, and is loudest in the seconds while starting and switching off, is the classic signature of a worn dual-mass flywheel — the damper between engine and gearbox that absorbs shocks.",
+  "advice": "Book a diagnosis within a couple of weeks and describe how the noise relates to the pedal and to starting and stopping. Replacement is not cheap, but delay ruins the clutch too and can end with the flywheel breaking up while driving. Until then, pull away gently and avoid labouring the engine at low revs."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Clutch pedal linkage (pivot, fork or cable)",
+  "alt_causes": [
+   "Pedal pivot bushings",
+   "Release fork"
+  ],
+  "explanation": "A creak when pressing the pedal that you can hear with the engine off is dry linkage: the pedal pivot, the cable or the fork. Because the noise exists without the engine running, the belt, the release bearing and the gearbox have nothing to do with it.",
+  "advice": "Ask a garage to grease the pedal pivot and the fork at your next visit — this often takes minutes. There is no danger. If the pedal has also become stiff, or the clutch now bites right at the floor, have it looked at sooner."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Strut top mount bearing",
+  "alt_causes": [
+   "Steering rack",
+   "Anti-roll bar links"
+  ],
+  "explanation": "Crunching or clicking when turning the wheel while parked, coming from above behind the wheel arch, is the top mount bearing — the part the top of the strut turns on as the wheel steers. Single clunks from above over potholes are a further sign.",
+  "advice": "Book a diagnosis within a week or two: the check is simple, as a hand on the strut top under the bonnet feels the clicks straight away. You can drive, but a worn mount wears the strut faster and makes the steering return sluggish."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Steering column universal joint",
+  "alt_causes": [
+   "Play in the shaft splines",
+   "Steering rack"
+  ],
+  "explanation": "A click or knock you can hear and feel right in the steering wheel, down by your feet, usually comes from the universal joint on the intermediate steering shaft — the small coupling between the wheel and the rack. With the engine off, rocking the wheel left and right makes the click clearly audible.",
+  "advice": "Have it checked within days: steering is a safety system and the check takes minutes. Play in the column grows over time and adds slack to the wheel."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Brake servo or its vacuum hose",
+  "alt_causes": [
+   "Servo check valve",
+   "A cracked vacuum hose"
+  ],
+  "explanation": "A hiss from behind the dash that appears and changes exactly as you press and release the brake pedal is air being drawn into the brake servo — the unit that reduces the effort at the pedal. The pedal usually becomes noticeably harder, and the idle may waver.",
+  "advice": "Book a garage this week: the brakes still work without the servo, but you will have to push far harder, which is dangerous in an emergency. Check the pedal before setting off: if it has gone hard as a board, drive gently and not far."
+ },
+ "leaf_wipers": {
+  "top_cause": "Wiper linkage or blade rubbers",
+  "alt_causes": [
+   "Loose wiper arm nuts",
+   "Worn wiper motor bushings"
+  ],
+  "explanation": "A knock at the ends of the sweep is play in the wiper linkage joints — the mechanism that drives the arms — or loose arm nuts. An even squeak across the glass is hardened blade rubbers. The check is simple: switch the wipers off and the noise stops at once and completely.",
+  "advice": "Squeaking rubbers you can replace yourself — blades are sold in any parts shop. For a knock at the ends of the sweep, have the arm nuts tightened or the linkage bushings replaced when convenient. The only safety issue here is a clear windscreen."
  }
 }
