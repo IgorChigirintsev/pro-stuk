@@ -292,5 +292,70 @@
    "o3": "L’auto strattona in partenza, mentre si rilascia la frizione",
    "o4": "Un colpo isolato sotto la vettura in partenza o al cambio di carico"
   }
+ },
+ "q_vibration": {
+  "text": "Quando è più forte il tremolio?",
+  "options": {
+   "o1": "Tra 80 e 120 km/h il volante vibra leggermente; sotto e sopra molto meno",
+   "o2": "Già dai 40–60 km/h, e peggiora con la velocità",
+   "o3": "In una fascia stretta di velocità, il tremolio passa dal pianale e dalla carrozzeria; trazione posteriore o integrale",
+   "o4": "Solo in frenata, il volante scuote"
+  }
+ },
+ "q_const_char": {
+  "text": "A che cosa assomiglia il rumore continuo?",
+  "options": {
+   "o1": "Un ronzio o ululato costante",
+   "o2": "Uno sfregamento, uno strisciare o un fischio dal lato di una ruota",
+   "o3": "Un rombo forte o un crepitio",
+   "o4": "Un fischio o ululato solo ad alta velocità"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Che rumore arriva dal lato della ruota?",
+  "options": {
+   "o1": "Un fischio sottile; sfiorando il freno sparisce o cambia",
+   "o2": "Uno strisciare; dopo aver guidato la ruota è caldissima e l’auto tira da un lato",
+   "o3": "Uno sfregamento continuo, ma la ruota non si scalda",
+   "o4": "Un colpo o uno scatto ritmato al ritmo della rotazione della ruota"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Le ruote sono state cambiate, ruotate o smontate di recente?",
+  "options": {
+   "o1": "Sì, negli ultimi giorni",
+   "o2": "No, non le tocca nessuno da tempo"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Una prova: raggiungi la velocità a cui si sente il rumore, metti in folle e lasciati andare. Il ronzio resta?",
+  "options": {
+   "o1": "Resta uguale",
+   "o2": "Sparisce insieme ai giri del motore",
+   "o3": "Non sono riuscito a provare"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Il volume dell’ululato cambia cambiando marcia?",
+  "options": {
+   "o1": "Sì, su ogni marcia suona diverso",
+   "o2": "No, dipende solo dai giri del motore"
+  }
+ },
+ "q_hum_road": {
+  "text": "Il ronzio cambia nelle curve lunghe?",
+  "options": {
+   "o1": "Sì, da un lato è più forte o più debole",
+   "o2": "No, è costante a qualsiasi velocità sopra i 40–60 km/h",
+   "o3": "Dipende dal manto stradale"
+  }
+ },
+ "q_hum_where": {
+  "text": "Il ronzio arriva da davanti o da dietro?",
+  "options": {
+   "o1": "Da davanti",
+   "o2": "Da dietro",
+   "o3": "Difficile capirlo"
+  }
  }
 }
