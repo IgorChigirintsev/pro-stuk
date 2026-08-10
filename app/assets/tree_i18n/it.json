@@ -644,5 +644,77 @@
   ],
   "explanation": "Un fischio leggero e costante del turbo sotto sforzo è normale su un motore turbo. A destare attenzione dev’essere il cambiamento: il fischio diventa più forte o cambia tono, compare un ululato, l’auto perde ripresa. È una perdita d’aria nei manicotti della sovralimentazione oppure l’usura del cuscinetto dell’albero della turbina.",
   "advice": "Se il tono è cambiato o l’auto tira meno, in diagnosi nei prossimi giorni: un manicotto che perde si ripara con poco, mentre un turbo consumato e trascurato finisce con la sostituzione. Tieni d’occhio il consumo d’olio. Fino al controllo non portare il motore al limitatore e lascia raffreddare il turbo un paio di minuti al minimo dopo una guida vivace."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Coppia conica del differenziale",
+  "alt_causes": [
+   "Cuscinetti del differenziale",
+   "Poco olio nel differenziale"
+  ],
+  "explanation": "Un ululato o ronzio che, alla stessa velocità, cambia tono a seconda che si acceleri o si rilasci il gas — sotto tiro ulula, in rilascio si attenua, o viceversa — è la firma di una coppia conica consumata: gli ingranaggi del differenziale che portano il moto alle ruote. Un cuscinetto ruota, al contrario, al gas non reagisce affatto.",
+  "advice": "Controlla il livello dell’olio del differenziale e fissa una diagnosi entro la settimana: a usura iniziale spesso bastano olio e una registrazione; a usura avanzata va sostituita la coppia. Rimanda i viaggi lunghi ad alta velocità fino al controllo."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT o cambio automatico (cuscinetti, cinghia, convertitore)",
+  "alt_causes": [
+   "Olio del cambio scarso o vecchio",
+   "Cuscinetti degli alberi"
+  ],
+  "explanation": "Un ululato metallico monotono in accelerazione su un’auto con CVT o cambio automatico, che dipende dal gas e non dalla velocità, arriva di solito dai cuscinetti delle pulegge del CVT o dalla pompa dell’automatico. Il CVT è particolarmente sensibile all’età dell’olio.",
+  "advice": "Per prima cosa il controllo del livello e dello stato dell’olio del cambio: è metà di questi casi. Fissa una diagnosi entro la settimana e fino ad allora guida con calma, senza accelerate brusche né rimorchio. Riparare un CVT per tempo costa diverse volte meno che farlo tardi."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Cuscinetti o ingranaggi del cambio manuale",
+  "alt_causes": [
+   "Poco olio nel cambio",
+   "Cuscinetto dell’albero primario"
+  ],
+  "explanation": "Un ululato il cui volume dipende dalla marcia inserita — su una ulula, su un’altra è più debole, in folle in rilascio sparisce — arriva dal cambio manuale: cuscinetti degli alberi consumati o una coppia di ingranaggi precisa. Un cuscinetto ruota ronza uguale su qualsiasi marcia.",
+  "advice": "Controlla il livello dell’olio del cambio: un livello calato è una causa frequente. Fissa una diagnosi entro una o due settimane e di’ su quali marce ulula di più: restringe la ricerca. Puoi guidare, ma un ululato che cresce non va tirato per le lunghe."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Squilibrio delle ruote",
+  "alt_causes": [
+   "Contrappeso di equilibratura perso",
+   "Fango o ghiaccio dentro il cerchio"
+  ],
+  "explanation": "Una vibrazione fine del volante in una fascia stretta di velocità, di solito fra 80 e 120 km/h, che sotto e sopra quasi sparisce, è il classico squilibrio: è caduto un contrappeso, oppure dentro il cerchio si è attaccato fango o ghiaccio. Se vibra il volante sono le ruote anteriori; se vibra il sedile, quelle posteriori.",
+  "advice": "Passa a far equilibrare le ruote quando puoi: è veloce ed economico. D’inverno guarda prima i cerchi dall’interno e stacca neve e ghiaccio attaccati. Non è pericoloso, ma una vibrazione continua accelera l’usura di cuscinetti e testine dello sterzo."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Cerchio piegato o bolla sullo pneumatico",
+  "alt_causes": [
+   "Tela dello pneumatico spostata",
+   "Squilibrio delle ruote"
+  ],
+  "explanation": "Un battere che si nota già dai 40–60 km/h e aumenta con la velocità è di solito una deformazione: un cerchio piegato dopo una buca o una bolla sul fianco dello pneumatico. A differenza dello squilibrio, questo battere non vive in una fascia stretta di velocità, ma peggiora in continuazione.",
+  "advice": "Guarda pneumatici e bordi dei cerchi: una bolla sul fianco o un cerchio piegato spesso si vedono a occhio. Una bolla è un punto debole che può scoppiare a velocità: monta la ruota di scorta al suo posto e non rimandare la visita dal gommista. Fino ad allora non correre."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Albero di trasmissione: cuscinetto centrale o squilibrio",
+  "alt_causes": [
+   "Crociere dell’albero",
+   "Giunto elastico"
+  ],
+  "explanation": "Un ronzio e una vibrazione fine dal pianale e dalla carrozzeria in una fascia precisa di velocità, su un’auto a trazione posteriore o integrale, è l’albero di trasmissione: cuscinetto centrale consumato, crociere rovinate o equilibratura persa. Si distingue dallo squilibrio delle ruote perché non vibra il volante, ma il pianale.",
+  "advice": "Fissa una diagnosi entro la settimana: i giochi dell’albero si controllano sul ponte in pochi minuti. Non conviene tirarla: la rottura di una crociera a velocità è pericolosa. Fino al controllo non guidare a lungo alla velocità in cui vibra."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Fruscio aerodinamico (guarnizioni, modanature, barre sul tetto)",
+  "alt_causes": [
+   "Guarnizioni delle portiere consumate",
+   "Barre o box da tetto"
+  ],
+  "explanation": "Un fischio o ululato che compare solo sopra una certa velocità (di solito 70–90 km/h), aumenta con essa e non dipende dal manto stradale né dalle curve, è aria: una guarnizione consumata, una modanatura staccata, le barre da tetto o un box.",
+  "advice": "La fonte si trova facilmente: togli il box o le barre, se li hai; apri un poco il finestrino e senti se il fischio cambia; copri con nastro da carrozziere la fessura sospetta e fai un giro. Non è un guasto: si risolve con una guarnizione nuova o registrando la portiera."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "L’indicatore di usura delle pastiglie sfrega sul disco",
+  "alt_causes": [
+   "Pastiglie a fine corsa",
+   "Sassolino fra pastiglia e disco"
+  ],
+  "explanation": "Un fischio metallico sottile in marcia senza frenare, che sfiorando il pedale sparisce o cambia, è la linguetta metallica della pastiglia che ha iniziato a toccare il disco. È l’avviso previsto di fabbrica: il materiale d’attrito è quasi finito.",
+  "advice": "Fissa questa settimana la sostituzione delle pastiglie e fai controllare anche i dischi. I freni funzionano ancora del tutto, ma la fase successiva è lo sfregamento metallico e i dischi rovinati. Se il fischio arriva da una ruota precisa, dillo in officina."
  }
 }
