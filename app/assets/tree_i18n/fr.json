@@ -1028,5 +1028,77 @@
   ],
   "explanation": "Un cognement sourd et répété sur les petites irrégularités — pavés, joints de chaussée, tôle ondulée — vient le plus souvent des biellettes de barre stabilisatrice : de petites tringles à rotules qui sont les premières à s'user dans la suspension. En elles-mêmes elles ne sont pas dangereuses, mais des pièces plus sérieuses peuvent cogner de la même façon.",
   "advice": "Prenez rendez-vous pour un contrôle de la suspension dans une à deux semaines : le mécanicien secoue les pièces sur le pont et trouve le jeu en quelques minutes. En attendant, passez lentement sur les gros nids-de-poule. Si la voiture se met à tirer d'un côté, avancez le contrôle."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Train arrière : biellettes ou silentblocs de traverse",
+  "alt_causes": [
+   "Amortisseurs",
+   "Fixations de l’échappement"
+  ],
+  "explanation": "Un cognement répété à l'arrière sur les petites irrégularités vient en général des petites articulations du train arrière : les biellettes de barre stabilisatrice arrière ou des silentblocs usés — les bagues en caoutchouc par lesquelles les bras et la traverse sont fixés à la caisse. Parfois, une fixation d'échappement desserrée cogne de façon similaire.",
+  "advice": "Prenez rendez-vous pour un contrôle de la suspension dans une à deux semaines : sur le pont, l'origine d'un cognement arrière se trouve vite. En attendant, passez lentement sur les gros nids-de-poule. Notez si ça cogne sur les petites ondulations ou seulement sur les trous isolés, et dites-le au mécanicien."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silentblocs de bras ou amortisseurs",
+  "alt_causes": [
+   "Butées de suspension",
+   "Rotules de suspension"
+  ],
+  "explanation": "Des chocs sourds isolés dans les nids-de-poule et sur les ralentisseurs signifient en général des silentblocs usés — les bagues en caoutchouc par lesquelles les bras de suspension sont fixés à la caisse — ou des amortisseurs fatigués. La suspension n'absorbe plus le choc et le transmet à la caisse.",
+  "advice": "Passez un contrôle de suspension dans les deux semaines. Test simple des amortisseurs : appuyez sur un coin de la voiture vers le bas ; la caisse doit revenir sans rebondir. D'ici là, passez les irrégularités en souplesse : les chocs achèvent aussi les pièces voisines."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Fixations de l’échappement ou protection sous moteur",
+  "alt_causes": [
+   "Écran thermique",
+   "Tube d’échappement qui pend"
+  ],
+  "explanation": "Un cliquetis métallique sous la voiture sur les bosses vient en général d'une fixation desserrée : les silentblocs de l'échappement, les boulons de la protection sous moteur ou un écran thermique. C'est agaçant, mais sans effet sur le moteur ni sur la tenue de route.",
+  "advice": "Lors du prochain passage au garage, demandez de resserrer les fixations : c'est rapide et peu coûteux. Assurez-vous que l'échappement ne pend pas : un tube qui traîne au sol, on ne peut plus l'ignorer. En attendant, vous pouvez rouler normalement."
+ },
+ "leaf_detonation": {
+  "top_cause": "Cliquetis de combustion (auto-allumage en charge)",
+  "alt_causes": [
+   "Carburant à indice d’octane trop faible",
+   "Calamine ou capteur de cliquetis défaillant"
+  ],
+  "explanation": "Un tintement métallique à l'accélération, surtout en côte ou à bas régime, c'est le cliquetis de combustion : une partie du carburant s'enflamme d'elle-même, de façon explosive, au lieu de brûler régulièrement, et l'onde de choc martèle les pistons. Causes fréquentes : une essence d'indice d'octane inférieur au préconisé, de la calamine dans les chambres de combustion ou un capteur de cliquetis défaillant. Un cliquetis permanent détruit le moteur petit à petit.",
+  "advice": "Faites le plein avec un carburant d'indice d'octane au moins égal à celui préconisé par le constructeur, de préférence dans une autre station : souvent le tintement disparaît au bout d'un plein. En attendant le contrôle, ne sollicitez pas le moteur : accélérez doucement et rétrogradez en côte. Si le tintement persiste après le changement de carburant, direction le diagnostic."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Supports moteur ou joint homocinétique intérieur",
+  "alt_causes": [
+   "Jeu dans la transmission",
+   "Support de boîte de vitesses"
+  ],
+  "explanation": "Un cognement au moment où l'on appuie ou relâche l'accélérateur signale du jeu dans la chaîne qui transmet le couple. Des supports usés laissent le moteur basculer aux changements de charge, et un joint homocinétique intérieur usé — l'articulation de l'arbre qui va de la boîte à la roue — cogne à l'accélération et au lever de pied. L'essentiel : le bruit arrive avec le changement de charge, pas avec les bosses.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines. Un indice pour le garage : notez si le cognement est plus proche du moteur ou des roues, et s'il se répète aux passages de vitesses. En attendant, accélérez et changez de rapport plus doucement."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Roulement de roue",
+  "alt_causes": [
+   "Bruit des pneus",
+   "Palier intermédiaire ou transmission"
+  ],
+  "explanation": "Un bourdonnement régulier qui augmente avec la vitesse et ne dépend pas du régime moteur vient le plus souvent d'un roulement de roue usé : le roulement sur lequel tourne la roue. Le bruit rappelle un avion au décollage et ne change presque pas selon le revêtement. Un roulement laissé trop longtemps donne du jeu à la roue et, dans le pire des cas, peut se bloquer.",
+  "advice": "Faites contrôler ça au garage dans la semaine : le mécanicien fait tourner les roues sur le pont et repère le moyeu bruyant, l'ensemble dans lequel ce roulement est logé. Reportez les longs trajets rapides jusqu'au diagnostic. Si le bourdonnement s'intensifie brutalement ou si une vibration apparaît, allez au garage immédiatement."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Roulement de roue arrière",
+  "alt_causes": [
+   "Bruit des pneus",
+   "Pont ou palier intermédiaire (sur propulsion et intégrale)"
+  ],
+  "explanation": "Un bourdonnement régulier à l'arrière qui augmente avec la vitesse vient le plus souvent d'un roulement de roue arrière : le roulement sur lequel tourne la roue. Sur les voitures à propulsion ou à transmission intégrale, les organes de transmission bourdonnent de façon similaire : il vaut donc mieux confirmer l'origine sur le pont.",
+  "advice": "Faites contrôler ça au garage dans la semaine : à l'arrière, on confond facilement un bourdonnement de roulement avec le pont, et une inspection sur le pont tranche tout de suite. Reportez les longs trajets rapides jusque-là. Si le bourdonnement s'intensifie brutalement ou si une vibration apparaît, allez au garage immédiatement."
+ },
+ "leaf_tires": {
+  "top_cause": "Bruit des pneus",
+  "alt_causes": [
+   "Usure irrégulière de la bande de roulement",
+   "Roulement de roue"
+  ],
+  "explanation": "Si le bourdonnement dépend du revêtement — plus discret sur enrobé neuf, plus fort sur revêtement rugueux —, ce sont très probablement les pneus. Les pneus hiver, tout-terrain et ceux usés irrégulièrement sont particulièrement bruyants. C'est une question de confort, pas une panne.",
+  "advice": "Inspectez la bande de roulement : une usure en dents de scie (des marches sur les bords) ou par plaques accentue le bruit et suggère une géométrie déréglée ou des amortisseurs fatigués. Vérifiez la pression des pneus. Si en réalité le bourdonnement ne dépend pas du revêtement et augmente avec la vitesse, revenez à l'hypothèse du roulement de roue."
  }
 }
