@@ -944,5 +944,89 @@
   ],
   "explanation": "Durante la notte, dopo la pioggia o un lavaggio, sui dischi si forma un velo sottile arancione: è normale su qualsiasi auto. Le prime frenate lo portano via, da qui il cigolio o il leggero raschiare che sparisce in fretta.",
   "advice": "Non serve fare nulla: qualche frenata dolce a inizio percorso pulisce i dischi. Se il rumore non sparisce più e si sente a ogni frenata, rifai la diagnosi o porta l’auto in officina."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Stato o usura delle pastiglie dei freni",
+  "alt_causes": [
+   "Indicatore di usura delle pastiglie",
+   "Pastiglie vetrificate",
+   "Polvere o corrosione sui dischi"
+  ],
+  "explanation": "Un fischio a ogni frenata è il segnale per far controllare le pastiglie. Molte pastiglie hanno un indicatore di usura metallico: quando il materiale d’attrito che lavora sul disco si è consumato fino al limite, una linguetta tocca il disco e fischia apposta. Possono fischiare anche le pastiglie stesse, per un deposito sulla superficie, per vetrificazione o per materiale scadente.",
+  "advice": "Fissa questa settimana un controllo di pastiglie e dischi. Se è l’indicatore di usura, non si può aspettare: la fase successiva è lo sfregamento metallico e i dischi rovinati. Se le pastiglie sono a posto, il fischio non è pericoloso e il meccanico ti dirà come eliminarlo."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Pastiglie consumate fino al metallo",
+  "alt_causes": [
+   "Corpo estraneo nel freno",
+   "Pastiglia disintegrata"
+  ],
+  "explanation": "Uno sfregamento metallo contro metallo in frenata significa che il materiale d’attrito della pastiglia è finito e la piastra metallica sfrega sul disco. Lo spazio di frenata aumenta, il disco si rovina a ogni fermata e il meccanismo può grippare.",
+  "advice": "Smetti di usare l’auto normalmente e va’ soltanto fino all’officina, frenando in anticipo e con dolcezza. Non rimandare la sostituzione neppure di un giorno: oltre alla sicurezza, ogni chilometro così aggiunge al conto il prezzo di dischi nuovi."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Perni guida della pinza o dischi deformati",
+  "alt_causes": [
+   "Gioco nel mozzo",
+   "Fissaggio della pinza allentato"
+  ],
+  "explanation": "Un colpo in frenata o pulsazioni nel pedale arrivano di solito dal freno stesso: i perni guida della pinza — il componente che preme le pastiglie sul disco — hanno gioco, oppure il disco si è deformato e le pastiglie ci battono contro. I freni funzionano, ma in modo irregolare.",
+  "advice": "Fai controllare i freni in officina nei prossimi giorni: un organo da cui dipende la sicurezza non va trascurato. Se il pedale affonda più del solito, se l’auto tira da un lato in frenata o se batte nel volante, in diagnosi subito."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Qualcosa sfrega sul disco del freno (lamierino o pastiglie consumate)",
+  "alt_causes": [
+   "Pastiglie consumate fino al metallo",
+   "Lamierino parapolvere piegato",
+   "Sassolino fra lamierino e disco"
+  ],
+  "explanation": "Uno sfregamento continuo dal lato di una ruota di solito significa che qualcosa tocca il disco in rotazione: un lamierino parapolvere piegato, un sassolino finito lì dentro — oppure pastiglie consumate fino al metallo. I primi due casi sono innocui, il terzo è pericoloso, e a orecchio si confondono facilmente.",
+  "advice": "Fai controllare entro un giorno o due, senza rimandare: uno sguardo alla ruota mostra subito la causa. Se in frenata lo sfregamento aumenta o il pedale si comporta diversamente dal solito, smetti di usare l’auto e raggiungi l’officina con prudenza."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Cuscinetto ruota",
+  "alt_causes": [
+   "Rumore degli pneumatici",
+   "Giunto omocinetico consumato"
+  ],
+  "explanation": "Un ronzio che cambia in curva mentre si guida è il segno classico di un cuscinetto ruota consumato: il cuscinetto su cui gira la ruota. In curva il peso si sposta sulle ruote esterne: se girando a sinistra il ronzio aumenta, il lato carico è il destro, quindi ronza probabilmente il cuscinetto destro; girando a destra, il contrario. Un cuscinetto che si sta disintegrando dà gioco alla ruota e, allo stadio avanzato, può bloccarsi.",
+  "advice": "Ricorda in quale senso di curva il ronzio è più forte e dillo in officina: restringe subito la ricerca. Non rimandare il controllo oltre una settimana e rinvia i viaggi lunghi fino alla diagnosi. Se compare una vibrazione o il ronzio aumenta molto, in officina subito."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Giunto omocinetico esterno",
+  "alt_causes": [
+   "Giunto omocinetico interno",
+   "Bielline della barra stabilizzatrice",
+   "Frizione della trazione integrale (su 4x4)"
+  ],
+  "explanation": "Scatti o scricchiolii guidando con il volante girato sono il suono caratteristico di un giunto omocinetico esterno consumato: il giunto attraverso cui gira la ruota sterzante. Di solito tutto comincia con una cuffia strappata — la protezione in gomma che ripara il giunto dallo sporco.",
+  "advice": "Guarda le cuffie dei giunti o chiedi di farlo in officina: una cuffia strappata e grasso tutt’intorno confermano la diagnosi. Non rimandare la sostituzione oltre una o due settimane: un giunto consumato può bloccarsi. Fino alla riparazione non partire di scatto con le ruote girate a fondo."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Testine dello sterzo o scatola guida",
+  "alt_causes": [
+   "Bielline della barra stabilizzatrice",
+   "Cuscinetti dei supporti degli ammortizzatori"
+  ],
+  "explanation": "Un colpo girando il volante, soprattutto da fermo o a bassa velocità, arriva di solito dal gioco nelle testine dello sterzo, nei tiranti o nella scatola guida stessa. Alla guida per ora non dà fastidio, ma il gioco nello sterzo con il tempo non fa che aumentare.",
+  "advice": "Fai controllare lo sterzo in officina nei prossimi giorni: la diagnosi sul ponte richiede pochi minuti. Se il volante è diventato vago attorno al centro, se l’auto naviga nella corsia o se il colpo è aumentato di colpo, non rimandare: è un organo di sicurezza."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Pompa del servosterzo",
+  "alt_causes": [
+   "Livello del liquido del servosterzo basso",
+   "Cinghia dei servizi"
+  ],
+  "explanation": "Un ululato o ronzio che compare girando il volante da fermo o a bassa velocità arriva quasi sempre dalla pompa del servosterzo: è lei a mettere in pressione il liquido che aiuta a sterzare. Ulula più forte con il volante girato a fondo. La causa più frequente è il livello del liquido nella vaschetta che è calato.",
+  "advice": "Controlla il livello del liquido del servosterzo nella vaschetta sotto il cofano e rabbocca se è sotto la tacca MIN. Non tenere il volante girato a fondo più di un paio di secondi. Se dopo il rabbocco l’ululato resta o il liquido cala di nuovo, in officina entro la settimana."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Bielline della barra stabilizzatrice",
+  "alt_causes": [
+   "Boccole della barra stabilizzatrice",
+   "Giunti sferici della sospensione"
+  ],
+  "explanation": "Un colpo sordo e ripetuto sulle irregolarità piccole — pavé, giunti della strada, asfalto ondulato — arriva quasi sempre dalle bielline della barra stabilizzatrice: piccole astine con snodi, fra i primi pezzi a consumarsi nella sospensione. Da sole non sono pericolose, ma componenti più seri possono battere in modo simile.",
+  "advice": "Fissa un controllo della sospensione entro una o due settimane: il meccanico scuote i componenti sul ponte e trova il gioco in pochi minuti. Fino ad allora passa piano sulle buche grandi. Se l’auto comincia a tirare da un lato, anticipa il controllo."
  }
 }
