@@ -357,5 +357,77 @@
    "o2": "De l'arrière",
    "o3": "Difficile à dire"
   }
+ },
+ "leaf_battery": {
+  "top_cause": "Batterie déchargée ou cosses oxydées",
+  "alt_causes": [
+   "Mauvaise masse",
+   "Démarreur en fin de vie"
+  ],
+  "explanation": "Un cliquetis rapide quand on essaie de démarrer signifie que le solénoïde du démarreur manque de courant : il claque, mais n'arrive pas à entraîner le moteur. En cause, le plus souvent : une batterie déchargée ou des cosses oxydées et mal serrées. Les voyants du tableau de bord qui faiblissent pendant l'essai le confirment.",
+  "advice": "Regardez les cosses de la batterie : grattez le dépôt blanchâtre ou verdâtre et resserrez-les. Si ça ne suffit pas, rechargez la batterie ou faites un démarrage avec des câbles, puis allez la remplacer au garage ou en magasin. Une batterie de plus de quatre ou cinq ans, c'est presque toujours elle."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Solénoïde ou contacts de puissance du démarreur",
+  "alt_causes": [
+   "Cosses oxydées",
+   "Câblage vers le démarreur"
+  ],
+  "explanation": "Un seul claquement net avec des voyants qui restent bien allumés signifie que le solénoïde s'enclenche, mais que le moteur du démarreur lui-même ne tourne pas : contacts de puissance brûlés, charbons usés ou solénoïde collé. Parfois la voiture démarre quand même au deuxième ou troisième essai : c'est le même diagnostic.",
+  "advice": "Essayez encore quelques fois ; si elle ne démarre qu'une fois sur deux, allez au garage dans les jours qui viennent, avant de rester bloqué sur un parking. Vérifiez et resserrez les cosses de la batterie. Taper sur le démarreur, c'est bon pour rentrer une fois, ce n'est pas une réparation."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Lanceur du démarreur ou couronne du volant moteur",
+  "alt_causes": [
+   "Dents de la couronne usées",
+   "Démarreur mal aligné"
+  ],
+  "explanation": "Un crissement métallique au démarrage signifie que le pignon du démarreur engrène mal avec la couronne dentée du volant moteur : les dents sont usées ou le mécanisme coince. Chaque démarrage de ce genre mange un peu plus les dents du lanceur et de la couronne.",
+  "advice": "Prenez rendez-vous au garage dans la semaine : remplacer le lanceur ou le démarreur coûte nettement moins cher que la couronne, pour laquelle il faut déposer la boîte de vitesses. En attendant, ne gardez pas la clé en position démarrage plus longtemps que nécessaire et ne réessayez pas juste après un crissement."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Le lanceur n'engrène pas ou des dents de la couronne sont cassées",
+  "alt_causes": [
+   "Roue libre du lanceur",
+   "Couronne du volant moteur"
+  ],
+  "explanation": "Si le démarreur ronronne allègrement mais que le moteur n'essaie même pas de tourner, le pignon tourne dans le vide : la roue libre du lanceur est usée, ou il manque des dents à la couronne à cet endroit.",
+  "advice": "Parfois le deuxième essai passe, parce que le volant moteur s'arrête dans une autre position. Allez quand même au garage dans les jours qui viennent : chaque tentative aggrave les dégâts. Sur une boîte manuelle, vous pouvez en dernier recours démarrer en poussant ; sur une automatique, c'est exclu."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Feuilles ou débris dans le ventilateur de chauffage",
+  "alt_causes": [
+   "Filtre d’habitacle encrassé",
+   "Corps étranger dans la gaine d’air"
+  ],
+  "explanation": "Un froissement et un crépitement qui varient avec la vitesse du ventilateur, ce sont presque toujours des feuilles ou des débris entrés par la prise d'air jusqu'au ventilateur de chauffage. En automne, c'est un grand classique, surtout si le filtre d'habitacle est encrassé ou absent.",
+  "advice": "Changez le filtre d'habitacle (les débris sont souvent posés dessus) : sur beaucoup de voitures, ça se fait soi-même en dix minutes, et les tutoriels pour un modèle précis se trouvent facilement. Si le bruit persiste, demandez au garage de souffler et de nettoyer le ventilateur."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Roulement ou bagues du moteur de ventilation",
+  "alt_causes": [
+   "Débris dans le ventilateur",
+   "La turbine frotte contre son carter"
+  ],
+  "explanation": "Un sifflement ou un hurlement sous la planche de bord qui n'apparaît qu'avec la ventilation en marche vient du moteur de ventilation usé. Le test est simple : coupez la ventilation, le sifflement disparaît immédiatement, même moteur tournant.",
+  "advice": "Ça ne joue pas sur la sécurité, mais avec le temps le moteur va commencer à coincer et vous laisser sans chauffage : mieux vaut le remplacer avant l'hiver. En attendant, utilisez les vitesses de ventilation où le bruit est le plus discret."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomoteur d’un volet de chauffage",
+  "alt_causes": [
+   "Calibrage normal des volets",
+   "Dents cassées sur le pignon du servomoteur"
+  ],
+  "explanation": "Une série de claquements rapides ou un crépitement derrière la planche de bord au moment du contact ou lors d'un changement de température vient du servomoteur qui déplace les volets de chauffage. Si la série est courte et toujours identique, c'est souvent un simple calibrage. Un crépitement sans fin, en revanche, signifie que les dents du pignon en plastique sont mangées.",
+  "advice": "Si les claquements sont brefs et que le chauffage se règle normalement, vous n'avez rien à faire. Si le crépitement dure ou si l'air ne sort pas là où vous l'avez réglé, prenez rendez-vous à l'occasion : la voiture n'en souffre pas, mais le confort si."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Air dans le circuit de refroidissement (niveau de liquide bas)",
+  "alt_causes": [
+   "Bouchon du vase d’expansion défectueux",
+   "Fuite de liquide de refroidissement"
+  ],
+  "explanation": "Un gargouillis derrière la planche de bord, c'est une bulle d'air qui traverse le radiateur de chauffage. L'air entre dans le circuit quand le niveau de liquide de refroidissement a baissé : il y a une fuite quelque part, ou le bouchon du vase d'expansion ne tient plus la pression. Le chauffage peut alors souffler tantôt chaud, tantôt froid.",
+  "advice": "Moteur froid, vérifiez le niveau dans le vase d'expansion et complétez jusqu'au repère, puis surveillez s'il rebaisse. Si le niveau continue de descendre ou si le chauffage souffle froid moteur chaud, au garage cette semaine. Si l'aiguille de température monte ou si de la vapeur sort du capot : arrêtez-vous et coupez le moteur."
  }
 }
