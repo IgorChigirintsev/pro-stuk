@@ -141,5 +141,77 @@
    "o1": "Sí, va más rápido y más fuerte",
    "o2": "Casi no cambia o desaparece"
   }
+ },
+ "q_squeal": {
+  "text": "¿Qué clase de ruido es?",
+  "options": {
+   "o1": "Un chillido o silbido agudo",
+   "o2": "Un zumbido o roce constante",
+   "o3": "Un siseo constante, como el aire que sale de un neumático"
+  }
+ },
+ "q_hum_source": {
+  "text": "¿De dónde viene el zumbido?",
+  "options": {
+   "o1": "De delante, del vano motor, y cambia con las revoluciones",
+   "o2": "Se conecta y se para solo: con calor, en atascos, con el aire acondicionado",
+   "o3": "De atrás, del depósito; se oye al dar el contacto, antes de arrancar"
+  }
+ },
+ "q_pump_check": {
+  "text": "¿Hay bajo el capó, cerca de la correa, restos o goteo de líquido?",
+  "options": {
+   "o1": "Sí, hay humedad o huele a refrigerante",
+   "o2": "Está seco",
+   "o3": "No he podido mirarlo"
+  }
+ },
+ "q_rattle": {
+  "text": "¿Qué ruido y de dónde?",
+  "options": {
+   "o1": "Cascabeleo metálico desde los bajos",
+   "o2": "Petardeos o explosiones por el escape",
+   "o3": "Borboteo o gorgoteo detrás del salpicadero"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Junto con el cascabeleo, ¿el coche ha perdido fuerza o el escape huele raro?",
+  "options": {
+   "o1": "Sí, tira menos o el olor ha cambiado",
+   "o2": "No, solo cascabelea a ciertas revoluciones"
+  }
+ },
+ "q_move_when": {
+  "text": "¿Cuándo se nota más el ruido en marcha?",
+  "options": {
+   "o1": "Al frenar",
+   "o2": "En curvas o al girar el volante",
+   "o3": "En baches y badenes",
+   "o4": "Al acelerar, al cambiar de marcha o todo el rato"
+  }
+ },
+ "q_brake_transient": {
+  "text": "¿El ruido aparece solo en las primeras frenadas tras estar parado o con lluvia y luego desaparece?",
+  "options": {
+   "o1": "Sí, desaparece enseguida",
+   "o2": "No, se oye en cada frenada"
+  }
+ },
+ "q_brake_char": {
+  "text": "¿Qué ruido hace al frenar?",
+  "options": {
+   "o1": "Chillido o chirrido",
+   "o2": "Roce de metal contra metal",
+   "o3": "Golpeteo o pulsaciones en el pedal"
+  }
+ },
+ "q_turn_char": {
+  "text": "¿Qué se oye en las curvas?",
+  "options": {
+   "o1": "Zumbido a velocidad, más fuerte hacia un lado",
+   "o2": "Chasquidos o crujidos con el volante a tope",
+   "o3": "Golpeteo al girar el volante",
+   "o4": "Aullido o zumbido al girar el volante parado o aparcando"
+  }
  }
 }
