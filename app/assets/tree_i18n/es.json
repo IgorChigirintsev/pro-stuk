@@ -644,5 +644,77 @@
   ],
   "explanation": "Un silbido ligero y constante del turbo bajo carga es normal en un motor turboalimentado. Lo que debe llamar la atención es el cambio: que el silbido suene más fuerte o con otro tono, que aparezca un aullido o que el coche pierda fuerza. Eso es o bien una fuga de aire en los manguitos de sobrealimentación, o bien desgaste del cojinete del eje del turbo.",
   "advice": "Si el tono ha cambiado o el coche tira menos, a diagnóstico en los próximos días: una fuga en un manguito se arregla barato, mientras que un turbo desgastado y desatendido acaba en sustitución. Vigila el consumo de aceite. Hasta la revisión, no lleves el motor al corte y deja el turbo enfriarse uno o dos minutos al ralentí después de una conducción alegre."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Grupo cónico del diferencial",
+  "alt_causes": [
+   "Rodamientos del diferencial",
+   "Nivel bajo de aceite en el diferencial"
+  ],
+  "explanation": "Un aullido o zumbido que, a la misma velocidad, cambia de tono al pisar y al soltar el acelerador —bajo tracción aúlla y en retención se calma, o al revés— es la firma de un grupo cónico desgastado: los engranajes del diferencial que llevan el giro a las ruedas. Un rodamiento de rueda, en cambio, no reacciona en absoluto al acelerador.",
+  "advice": "Comprueba el nivel de aceite del diferencial y pide diagnóstico dentro de esta semana: con desgaste temprano suele bastar con aceite y un reglaje; con desgaste avanzado hay que cambiar el grupo. Aplaza los viajes largos a alta velocidad hasta la revisión."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT o caja automática (rodamientos, correa, convertidor)",
+  "alt_causes": [
+   "Aceite de la caja bajo o viejo",
+   "Rodamientos de los ejes"
+  ],
+  "explanation": "Un aullido metálico monótono al acelerar en un coche con CVT o automático, que depende del acelerador y no de la velocidad, suele venir de los rodamientos de las poleas del CVT o de la bomba de la automática. El CVT es especialmente sensible a la edad del aceite.",
+  "advice": "Lo primero, comprobar el nivel y el estado del aceite de la caja: eso resuelve la mitad de estos casos. Pide diagnóstico dentro de esta semana y hasta entonces conduce tranquilo, sin acelerones ni remolque. Reparar un CVT a tiempo cuesta varias veces menos que hacerlo tarde."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Rodamientos o engranajes de la caja manual",
+  "alt_causes": [
+   "Nivel bajo de aceite en la caja",
+   "Rodamiento del eje primario"
+  ],
+  "explanation": "Un aullido cuyo volumen depende de la marcha puesta —en una suena, en otra menos, y rodando en punto muerto desaparece— viene de la caja manual: rodamientos de los ejes gastados o un par de engranajes concreto. Un rodamiento de rueda zumba igual en cualquier marcha.",
+  "advice": "Comprueba el nivel de aceite de la caja: que haya bajado es una causa frecuente. Pide diagnóstico en una o dos semanas y di en qué marchas aúlla más: eso acota la búsqueda. Puedes seguir rodando, pero un aullido que va a más no conviene alargarlo."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Desequilibrio de las ruedas",
+  "alt_causes": [
+   "Contrapeso de equilibrado perdido",
+   "Barro o hielo dentro de la llanta"
+  ],
+  "explanation": "Una vibración fina del volante en una franja estrecha de velocidad, normalmente entre 80 y 120 km/h, que por debajo y por encima casi desaparece, es el clásico desequilibrado: se ha caído un contrapeso o se ha pegado barro o hielo en el interior de la llanta. Si vibra el volante son las ruedas delanteras; si vibra el asiento, las traseras.",
+  "advice": "Pasa por el taller a equilibrar cuando puedas: es rápido y barato. En invierno, mira primero el interior de las llantas y quita la nieve y el hielo pegados. No hay peligro, pero una vibración constante acelera el desgaste de rodamientos y rótulas de dirección."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Llanta doblada o hernia en el neumático",
+  "alt_causes": [
+   "Cinturón del neumático desplazado",
+   "Desequilibrio de las ruedas"
+  ],
+  "explanation": "Un baile que ya se nota desde 40–60 km/h y aumenta con la velocidad suele ser una deformación: una llanta doblada tras un bache o una hernia (un bulto) en el flanco del neumático. A diferencia del desequilibrado, este baile no vive en una franja estrecha de velocidad, sino que va a más de forma continua.",
+  "advice": "Revisa los neumáticos y los bordes de las llantas: un bulto en el flanco o una llanta doblada suelen verse a simple vista. Una hernia es un punto débil que puede reventar a velocidad: cambia esa rueda por la de repuesto y no aplaces la visita al taller de neumáticos. Hasta entonces, no corras."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Árbol de transmisión: rodamiento central o desequilibrio",
+  "alt_causes": [
+   "Crucetas del árbol",
+   "Disco flexible de transmisión"
+  ],
+  "explanation": "Un zumbido y una vibración fina por el suelo y la carrocería en una franja concreta de velocidad, en un coche con tracción trasera o total, son el árbol de transmisión: rodamiento central gastado, crucetas machacadas o equilibrado perdido. Se distingue del desequilibrado de ruedas en que no vibra el volante, sino el suelo.",
+  "advice": "Pide diagnóstico dentro de esta semana: las holguras del árbol se comprueban en el elevador en cuestión de minutos. No conviene alargarlo: que una cruceta se rompa a velocidad es peligroso. Hasta la revisión, no circules mucho rato a la velocidad en la que vibra."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Ruido aerodinámico (gomas, molduras, baca)",
+  "alt_causes": [
+   "Gomas de las puertas desgastadas",
+   "Barras o cofre de techo"
+  ],
+  "explanation": "Un silbido o aullido que solo aparece por encima de cierta velocidad (normalmente 70–90 km/h), aumenta con ella y no depende del firme ni de las curvas, es aire: una goma desgastada, una moldura despegada, las barras del techo o un cofre.",
+  "advice": "El origen se busca fácil: quita el cofre o las barras si los llevas; abre un poco la ventanilla y comprueba si cambia el silbido; tapa la junta sospechosa con cinta de pintor y da una vuelta. No es una avería: se arregla cambiando la goma o ajustando la puerta."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "El testigo de desgaste de las pastillas roza el disco",
+  "alt_causes": [
+   "Pastillas al límite",
+   "Piedrecilla entre la pastilla y el disco"
+  ],
+  "explanation": "Un pitido metálico fino en marcha sin pisar el freno, que al rozar apenas el pedal desaparece o cambia, es la chapita indicadora de la pastilla que ha empezado a tocar el disco. Es un aviso previsto de fábrica: al material de la pastilla casi no le queda vida.",
+  "advice": "Pide cita esta semana para cambiar las pastillas y que revisen también los discos. De momento los frenos funcionan del todo, pero la siguiente fase es el roce metálico y los discos estropeados. Si el pitido viene de una rueda concreta, dilo en el taller."
  }
 }
