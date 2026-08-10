@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../data/service.dart';
+import '../data/units.dart';
 import '../models.dart';
 import '../state.dart';
 import '../strings.dart';
@@ -31,7 +32,7 @@ class _GarageScreenState extends State<GarageScreen> {
     if (_shownCarId == car.id && _shownKm == car.mileageKm) return;
     _shownCarId = car.id;
     _shownKm = car.mileageKm;
-    _mileageCtrl.text = car.mileageKm.toString();
+    _mileageCtrl.text = Units.display(car.mileageKm).toString();
   }
 
   @override
@@ -72,7 +73,7 @@ class _GarageScreenState extends State<GarageScreen> {
         ],
       ),
     );
-    if (km != null) await st.setServiceAgo(c.key, km);
+    if (km != null) await st.setServiceAgo(c.key, Units.store(km));
   }
 
   @override
@@ -143,14 +144,14 @@ class _GarageScreenState extends State<GarageScreen> {
                       controller: _mileageCtrl,
                       keyboardType: TextInputType.number,
                       inputFormatters: [FilteringTextInputFormatter.digitsOnly],
-                      decoration: const InputDecoration(suffixText: 'км'),
+                      decoration: InputDecoration(suffixText: Units.label),
                     ),
                   ),
                   const SizedBox(width: 12),
                   FilledButton(
                     onPressed: () {
                       final v = int.tryParse(_mileageCtrl.text.trim());
-                      if (v != null) st.setMileage(v);
+                      if (v != null) st.setMileage(Units.store(v));
                     },
                     child: Text(S.mileageUpdate),
                   ),
@@ -319,7 +320,7 @@ class _CarTile extends StatelessWidget {
         subtitle: Text(
           [
             if (car.generation.isNotEmpty) car.generation,
-            '${car.mileageKm} км',
+            Units.fmt(car.mileageKm),
           ].join(' · '),
           style: const TextStyle(fontSize: 13),
         ),

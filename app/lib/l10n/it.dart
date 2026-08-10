@@ -119,4 +119,6 @@ const Map<String, String> it = {
   'langTitle': 'Lingua',
   'langHint':
       'Per impostazione predefinita, la lingua del dispositivo. Ciò che non è ancora tradotto viene mostrato in russo.',
+  'unitKm': 'km',
+  'unitMi': 'mi',
 };

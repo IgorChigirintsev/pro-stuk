@@ -118,4 +118,6 @@ const Map<String, String> en = {
   'langTitle': 'Language',
   'langHint':
       'Defaults to your device language. Anything not translated yet is shown in Russian.',
+  'unitKm': 'km',
+  'unitMi': 'mi',
 };

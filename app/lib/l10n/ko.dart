@@ -107,4 +107,6 @@ const Map<String, String> ko = {
   'shareText': '소리 분석 — ‘Stuk’ 앱, pro-stuk.com',
   'langTitle': '언어',
   'langHint': '기본값은 기기 언어입니다. 아직 번역되지 않은 부분은 러시아어로 표시됩니다.',
+  'unitKm': 'km',
+  'unitMi': '마일',
 };

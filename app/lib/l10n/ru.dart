@@ -105,4 +105,6 @@ const Map<String, String> ru = {
   'shareText': 'Разбор звука — приложение «Стук», pro-stuk.com',
   'langTitle': 'Язык',
   'langHint': 'По умолчанию — язык устройства. Непереведённое показывается по-русски.',
+  'unitKm': 'км',
+  'unitMi': 'мили',
 };

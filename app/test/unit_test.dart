@@ -6,6 +6,7 @@ import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';
 
 import 'package:stuk/data/service.dart';
+import 'package:stuk/data/units.dart';
 import 'package:stuk/l10n/ar.dart';
 import 'package:stuk/l10n/en.dart';
 import 'package:stuk/l10n/l10n.dart';
@@ -118,5 +119,16 @@ void main() {
     expect(ar.keys.toSet(), ru.keys.toSet());
     expect(L.rtl.contains('ar'), isTrue);
     expect(L.rtl.contains('en'), isFalse);
+  });
+
+  test('мили и километры конвертируются без потери исходного значения', () {
+    Units.miles.value = false;
+    expect(Units.display(150000), 150000);
+    expect(Units.store(150000), 150000);
+
+    Units.miles.value = true;
+    expect(Units.display(160934), 100000); // 160934 км ≈ 100000 миль
+    expect(Units.store(100000), 160934);   // и обратно, без накопления ошибки
+    Units.miles.value = false;
   });
 }

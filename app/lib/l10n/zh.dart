@@ -107,4 +107,6 @@ const Map<String, String> zh = {
   'shareText': '声音分析 —— “Stuk”应用，pro-stuk.com',
   'langTitle': '语言',
   'langHint': '默认使用设备语言。尚未翻译的内容以俄语显示。',
+  'unitKm': '公里',
+  'unitMi': '英里',
 };

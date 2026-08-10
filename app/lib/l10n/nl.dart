@@ -119,4 +119,6 @@ const Map<String, String> nl = {
   'langTitle': 'Taal',
   'langHint':
       'Standaard de taal van je toestel. Wat nog niet vertaald is, tonen we in het Russisch.',
+  'unitKm': 'km',
+  'unitMi': 'mijl',
 };

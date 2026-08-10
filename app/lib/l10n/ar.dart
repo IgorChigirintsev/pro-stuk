@@ -108,4 +108,6 @@ const Map<String, String> ar = {
   'shareText': 'تحليل الصوت — تطبيق «Stuk»، pro-stuk.com',
   'langTitle': 'اللغة',
   'langHint': 'الافتراضي هو لغة الجهاز. ما لم يُترجم بعد يظهر بالروسية.',
+  'unitKm': 'كم',
+  'unitMi': 'ميل',
 };

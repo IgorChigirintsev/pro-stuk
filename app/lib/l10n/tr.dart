@@ -119,4 +119,6 @@ const Map<String, String> tr = {
   'langTitle': 'Dil',
   'langHint':
       'Varsayılan olarak cihazın dili. Henüz çevrilmemiş metinler Rusça görünür.',
+  'unitKm': 'km',
+  'unitMi': 'mil',
 };

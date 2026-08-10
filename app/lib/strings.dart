@@ -110,6 +110,9 @@ class S {
   static String get langTitle => L.t('langTitle');
   static String get langHint => L.t('langHint');
 
+  static String get unitKm => L.t('unitKm');
+  static String get unitMi => L.t('unitMi');
+
   static const recInstructions = [
     'Двигатель заведён.',
     'Телефон ближе к источнику звука.',

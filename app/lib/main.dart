@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'data/units.dart';
 import 'l10n/l10n.dart';
 import 'l10n/locale_service.dart';
 
@@ -18,6 +19,7 @@ Future<void> main() async {
   GoogleFonts.config.allowRuntimeFetching = false;
   final state = AppState();
   await LocaleService.init();
+  await Units.init();
   await state.init();
   tree = await DecisionTree.load();
   runApp(StukApp(state: state));

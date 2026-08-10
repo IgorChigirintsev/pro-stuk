@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../data/units.dart';
 import '../state.dart';
 import '../strings.dart';
 import '../theme.dart';
@@ -40,7 +41,7 @@ class _CarCardState extends State<CarCard> {
     if (_shownCarId != car.id || _shownKm != car.mileageKm) {
       _shownCarId = car.id;
       _shownKm = car.mileageKm;
-      _ctrl.text = car.mileageKm.toString();
+      _ctrl.text = Units.display(car.mileageKm).toString();
     }
 
     final upcoming = st.upcomingService();
@@ -86,7 +87,7 @@ class _CarCardState extends State<CarCard> {
                 decoration: InputDecoration(
                   isDense: true,
                   labelText: S.mileageNow,
-                  suffixText: 'км',
+                  suffixText: Units.label,
                 ),
               ),
             ),
@@ -94,7 +95,7 @@ class _CarCardState extends State<CarCard> {
             FilledButton(
               onPressed: () {
                 final v = int.tryParse(_ctrl.text.trim());
-                if (v != null) st.setMileage(v);
+                if (v != null) st.setMileage(Units.store(v));
                 FocusScope.of(context).unfocus();
               },
               child: Text(S.mileageOk),
