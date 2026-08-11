@@ -204,5 +204,84 @@
    "o2": "Metal metale sürtme gıcırtısı",
    "o3": "Vuruntu ya da pedalda zonklama"
   }
+ },
+ "q_turn_char": {
+  "text": "Virajda ne duyuluyor?",
+  "options": {
+   "o1": "Hızlıyken uğultu, bir tarafa dönerken daha belirgin",
+   "o2": "Direksiyon kırıkken tıkırtı ya da çatırtı",
+   "o3": "Direksiyonu çevirirken vuruntu",
+   "o4": "Dururken ya da park ederken direksiyonu çevirince uğultu ya da inleme"
+  }
+ },
+ "q_bump_char": {
+  "text": "Bozuk yolda ses nasıl?",
+  "options": {
+   "o1": "Vuruntu ya da takırtı",
+   "o2": "Eski karyola gibi gıcırtı",
+   "o3": "Takırtı ya da gümbürtü",
+   "o4": "Uzun park sonrası ilk hareket ederken tek bir „güm” sesi"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Vuruntu tam olarak nasıl?",
+  "options": {
+   "o1": "Küçük tümseklerde sık, boğuk vuruntu",
+   "o2": "Çukurlarda ve kasislerde tek tek boğuk darbeler",
+   "o3": "Vuruntu doğrudan direksiyona vuruyor, avuç içinde hissediliyor",
+   "o4": "Çukura girdikten sonra aniden başladı, aracın bir köşesi çöktü"
+  }
+ },
+ "q_bump_where": {
+  "text": "Vuruntu önden mi, arkadan mı geliyor?",
+  "options": {
+   "o1": "Önden",
+   "o2": "Arkadan",
+   "o3": "Anlamak zor"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Takırtı nereden geliyor?",
+  "options": {
+   "o1": "Aracın altından",
+   "o2": "Kabinden: torpido, kapılar, plastik sesleri",
+   "o3": "Bagajdan, bir şey yuvarlanıyormuş gibi",
+   "o4": "Önden yukarıdan, kaputun oradan"
+  }
+ },
+ "q_move_manner": {
+  "text": "Ses sürüşle nasıl bağlantılı?",
+  "options": {
+   "o1": "Gaza basınca ya da gazı kesince çıkıyor",
+   "o2": "Vites değiştirirken ya da kalkışta",
+   "o3": "Araç gittiği sürece sürekli duyuluyor",
+   "o4": "Sesten çok titreşim ya da sarsıntı"
+  }
+ },
+ "q_accel_char": {
+  "text": "Gaz verirken ses neye benziyor?",
+  "options": {
+   "o1": "Metalik çınlama, özellikle yokuşta",
+   "o2": "Gaza basma ya da gazı kesme anında vuruntu",
+   "o3": "Egzozdan patlamalar ya da yüksek bir gürleme",
+   "o4": "Yük altında inleme ya da ıslık"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Patlama mı, gürleme mi?",
+  "options": {
+   "o1": "Patlamalar",
+   "o2": "Gürleme, gaz verince artıyor; araç normal çekiyor",
+   "o3": "Motor gürlüyor, devir yükseliyor ama araç hızlanmıyor; bazen yanık kokusu var"
+  }
+ },
+ "q_load_whine": {
+  "text": "Yük altındaki inleme nasıl?",
+  "options": {
+   "o1": "Sadece gaza basınca tiz bir ıslık, gazı kesince kayboluyor (turbolu motor)",
+   "o2": "Aynı hızda gaza basıp keserken tonu değişen uğultu ya da inleme",
+   "o3": "Hızlanırken tek düze bir inleme; şanzıman CVT ya da otomatik",
+   "o4": "İnleme bir viteste yüksek, başka viteste düşük; düz vites"
+  }
  }
 }
