@@ -599,5 +599,86 @@
   ],
   "explanation": "Vites kolunu D↔R arasında alırken ya da vites değişimlerinde tam o anda gelen tokluk veya takırtı, otomatik şanzımanda aşınma ya da eski yağ işaretidir: vites darbeyle giriyor, aktarma organlarındaki boşluklar da bunu büyütüyor. Çökmüş takozlar da benzer takırtı yapar, bu yüzden teşhis netleştirilmeli.",
   "advice": "Önce şanzıman yağının seviyesine ve durumuna bakın (koyu renk ve yanık koku varsa değişmeli) — çoğu durumda bu yeterlidir. Bir–iki hafta içinde diagnostiğe gidin ve tam olarak hangi geçişlerde vurduğunu söyleyin. Tamire kadar vites kolunu araç tamamen dururken ve fren basılıyken alın."
+ },
+ "leaf_synchro": {
+  "top_cause": "Şanzıman senkromeçleri ya da debriyajın tam ayrılmaması",
+  "alt_causes": [
+   "Debriyaj pedalının boşluğu",
+   "Debriyaj aşınması"
+  ],
+  "explanation": "Düz viteste vitese takarken duyulan hışırtı, dişlilerin farklı hızlarda karşılaşması demektir. Bir ya da iki belirli vites hışırdıyorsa (çoğu zaman ikinci ya da üçüncü) onların senkromeçleri aşınmıştır; hepsi hışırdıyorsa debriyaj tam ayrılmıyor ve şanzıman „bırakmıyor” demektir.",
+  "advice": "Debriyaj pedalının boşluğunu ve şanzıman yağ seviyesini kontrol ettirin — servis de buradan başlar. İki hafta içinde diagnostiğe gidin. Tamire kadar vitesleri daha yavaş, boşta kısa bir duraklamayla değiştirin: hışırtı da aşınma da azalır."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Debriyaj: aşınma ya da yağlanmış balata",
+  "alt_causes": [
+   "Motor takozları",
+   "Çift kütleli volan"
+  ],
+  "explanation": "Titreme tam kalkış anında, debriyaj pedalı bırakılırken oluyor ve debriyaj tamamen kavradıktan sonra araç düzgün gidiyorsa, debriyaj kesik kesik tutuyor demektir: balata aşınmış, yağlanmış ya da baskı çarpılmış. Motor takozları rölantide de titretir, buradaki titreme ise yalnızca kalkış anında yaşar.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: kalkıştaki titreme kendiliğinden geçmez, genelde artar. Tamire kadar biraz daha yüksek devirle, yumuşak kalkın, debriyajı kaydırmayın. Yanık kokusu geldiyse debriyaj yanıyor demektir, ziyareti ertelemeyin."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Kardan istavrozları ya da aktarma organlarındaki boşluk",
+  "alt_causes": [
+   "Aks taşıyıcının takozları ve cıvataları",
+   "Diferansiyel dişli takımı"
+  ],
+  "explanation": "Kalkış anında ve gaz verip keserken aracın orta ya da arka altından gelen tek bir takırtı veya tık sesi, çekişin aktarıldığı yerdeki boşluktur: çoğunlukla aşınmış kardan istavrozları (arkadan itiş ve 4x4) ya da gevşemiş aks taşıyıcı bağlantıları.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: araç lifte alınınca kardan boşluğu elle oynatarak bir dakikada bulunur. Ertelemeyin — dağılmış bir istavroz yüksek hızda kırılabilir. Tamire kadar daha yumuşak kalkın ve gazı yumuşak kesin."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Debriyajın kayması (patinaj)",
+  "alt_causes": [
+   "Balatanın yağlanması",
+   "Otomatik şanzımanın ya da CVT'nin kayması"
+  ],
+  "explanation": "Gaza basınca devir yükseliyor, motor gürlüyor ama araç zor hızlanıyorsa debriyaj kayıyor ve çekişi aktarmıyor demektir: balata aşınmış ya da yağlanmış. En çok yokuşta ve yüksek viteste belli olur; sık sık keskin bir yanık kokusu da eşlik eder. Otomatik şanzımanda da aşınmış kavramalar aynı şekilde kayar.",
+  "advice": "Bu hafta servise gidin: kayan debriyaj sonunda çekişi tamamen keser, hem de genelde en olmadık anda. Tamire kadar sakin gidin, sollama ve römork yok, yokuşa önceden küçük vitesle girin. Yanık kokusu arttıysa ziyareti bir gün bile ertelemeyin."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo ya da basınç kaçağı",
+  "alt_causes": [
+   "İntercooler hortumu",
+   "Turbo şaftının yatağı"
+  ],
+  "explanation": "Yük altında duyulan hafif, düzgün turbo ıslığı turbolu motorlarda normaldir. Asıl dikkat edilmesi gereken değişimdir: ıslık yükseldiyse ya da tonu değiştiyse, uğultu başladıysa, çekiş düştüyse. Bu ya basınç hortumlarında hava kaçağıdır ya da turbo şaft yatağının aşınmasıdır.",
+  "advice": "Ton değiştiyse ya da çekiş düştüyse önümüzdeki günlerde diagnostiğe gidin: hortum kaçağı ucuza onarılır, ihmal edilen turbo aşınması ise turboyu değiştirmekle biter. Yağ tüketimini izleyin. Kontrole kadar motoru devir sınırına vurdurmayın ve hareketli sürüşten sonra turboya bir–iki dakika rölantide soğuma payı verin."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Diferansiyel dişli takımı",
+  "alt_causes": [
+   "Diferansiyel rulmanları",
+   "Diferansiyel yağının azlığı"
+  ],
+  "explanation": "Aynı hızda gaza basıp keserken tonu değişen inleme ya da uğultu — çekişte inliyor, boş bırakınca kesiliyor ya da tam tersi — aşınmış dişli takımının imzasıdır: dönüşü tekerleklere aktaran diferansiyel dişlilerinin. Tekerlek rulmanı ise ondan farklı olarak gaza tepki vermez.",
+  "advice": "Diferansiyel yağ seviyesini kontrol ettirin ve bir hafta içinde diagnostiğe gidin: erken aşınmada çoğu zaman yağ ve ayar yeterlidir, geç kalınırsa dişli takımı değişir. Uzun ve hızlı yolculukları kontrole kadar erteleyin."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT ya da otomatik şanzıman (rulmanlar, kayış, tork konvertörü)",
+  "alt_causes": [
+   "Şanzıman yağının azlığı ya da eskiliği",
+   "Mil rulmanları"
+  ],
+  "explanation": "CVT ya da otomatik şanzımanlı bir araçta hızlanırken duyulan, hıza değil gaza bağlı tek düze metalik inleme, genelde CVT konilerinin rulmanlarından ya da şanzıman yağ pompasından gelir. CVT özellikle yağın eskimesine karşı hassastır.",
+  "advice": "Önce şanzıman yağının seviyesi ve durumu kontrol edilmeli, bu tür vakaların yarısı buradadır. Bir hafta içinde diagnostiğe gidin, o zamana kadar sakin sürün: sert hızlanma ve römork çekme yok. CVT'nin erken tamiri, geç kalınmış tamirin kat kat altındadır."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Düz şanzımanın rulmanları ya da dişlileri",
+  "alt_causes": [
+   "Şanzıman yağının azlığı",
+   "Giriş mili rulmanı"
+  ],
+  "explanation": "Şiddeti takılı vitese göre değişen — birinde yüksek, diğerinde daha az, boşta süzülürken kesilen — inleme düz şanzımandan gelir: mil rulmanları ya da belirli bir dişli çifti aşınmıştır. Tekerlek rulmanı ise her viteste aynı şekilde uğuldar.",
+  "advice": "Şanzıman yağ seviyesini kontrol ettirin — seviyenin düşmesi sık rastlanan sebeptir. Bir–iki hafta içinde diagnostiğe gidin ve hangi viteslerde daha yüksek inlediğini söyleyin: bu aramayı daraltır. Araç kullanılabilir ama artan inlemeyi ertelemeyin."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Tekerlek balanssızlığı",
+  "alt_causes": [
+   "Düşmüş balans ağırlığı",
+   "Jantın içinde çamur ya da buz"
+  ],
+  "explanation": "Genelde 80–120 km/s arasındaki dar bir hız aralığında direksiyonun ince ince titremesi, altında ve üstünde neredeyse kaybolması, klasik tekerlek balanssızlığıdır: balans ağırlığı düşmüş ya da jantın içine çamur veya buz yapışmıştır. Direksiyon titriyorsa ön tekerlekler, koltuk titriyorsa arka tekerlekler dengesizdir.",
+  "advice": "Fırsat bulunca balans ayarı yaptırın — hızlı ve ucuz bir iştir. Kışın önce jantların iç tarafına bakıp yapışan kar ve buzu temizleyin. Tehlikesi yok ama sürekli titreşim rulmanların ve rot başlarının ömrünü kısaltır."
  }
 }
