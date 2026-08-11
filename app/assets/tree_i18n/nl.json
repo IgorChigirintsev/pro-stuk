@@ -231,5 +231,93 @@
    "o3": "Het kloppen komt recht in het stuur, je voelt het in je handen",
    "o4": "Het klepperen begon ineens na een klap in een kuil, één hoek van de auto hangt lager"
   }
+ },
+ "q_bump_where": {
+  "text": "Hoor je het kloppen voor of achter?",
+  "options": {
+   "o1": "Voor",
+   "o2": "Achter",
+   "o3": "Moeilijk te zeggen"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Waar komt het rammelen vandaan?",
+  "options": {
+   "o1": "Van onder de auto",
+   "o2": "Uit het interieur: dashboard, deuren, kunststof",
+   "o3": "Uit de kofferbak, alsof er iets heen en weer rolt",
+   "o4": "Van voren bovenin, bij de motorkap"
+  }
+ },
+ "q_move_manner": {
+  "text": "Hoe hangt het geluid samen met het rijden?",
+  "options": {
+   "o1": "Het komt bij gas geven of gas loslaten",
+   "o2": "Op het moment van schakelen of wegrijden",
+   "o3": "Het is er continu zolang de auto rijdt",
+   "o4": "Het is eerder een trilling dan een geluid"
+  }
+ },
+ "q_accel_char": {
+  "text": "Waar lijkt het geluid bij gas geven op?",
+  "options": {
+   "o1": "Metaalachtig rinkelen, vooral bergop",
+   "o2": "Kloppen op het moment van gas geven of loslaten",
+   "o3": "Knallen of luid gebulder uit de uitlaat",
+   "o4": "Janken of fluiten onder belasting"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Knallen of bulderen?",
+  "options": {
+   "o1": "Knallen of ploffen",
+   "o2": "Bulderen, harder bij gas geven; de auto trekt gewoon",
+   "o3": "De motor loeit, het toerental loopt op maar de auto versnelt niet; soms een brandlucht"
+  }
+ },
+ "q_load_whine": {
+  "text": "Wat voor janken onder belasting?",
+  "options": {
+   "o1": "Hoog fluiten alleen bij gas geven, weg zodra je loslaat (turbomotor)",
+   "o2": "Brommen of janken waarvan de toon verandert als je bij dezelfde snelheid gas geeft en loslaat",
+   "o3": "Eentonig janken bij het optrekken; de auto heeft een CVT of automaat",
+   "o4": "Janken harder in de ene versnelling en zachter in de andere; handgeschakeld"
+  }
+ },
+ "q_shift_char": {
+  "text": "Wat gebeurt er bij het schakelen of wegrijden?",
+  "options": {
+   "o1": "Een schok of klap bij D↔R op de automaat of bij het schakelen",
+   "o2": "Knarsen bij het inschakelen van een versnelling op de handbak",
+   "o3": "De auto schudt bij het wegrijden terwijl je de koppeling laat opkomen",
+   "o4": "Eén losse klap onder de auto bij het wegrijden of bij het wisselen van gas"
+  }
+ },
+ "q_vibration": {
+  "text": "Wanneer is de trilling het sterkst?",
+  "options": {
+   "o1": "Bij 80–120 km/u trilt het stuur fijn; daaronder en daarboven minder",
+   "o2": "Al vanaf 40–60 km/u, en erger naarmate je sneller rijdt",
+   "o3": "In een smal snelheidsbereik, trillen door vloer en carrosserie; achterwiel- of vierwielaandrijving",
+   "o4": "Alleen bij het remmen, het stuur schudt"
+  }
+ },
+ "q_const_char": {
+  "text": "Waar lijkt het constante geluid op?",
+  "options": {
+   "o1": "Gelijkmatig brommen of janken",
+   "o2": "Knarsen, schuren of piepen bij een wiel",
+   "o3": "Luid gebulder of geronk",
+   "o4": "Fluiten of huilen alleen bij hoge snelheid"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Wat voor geluid komt er bij het wiel vandaan?",
+  "options": {
+   "o1": "Een dun piepje; bij licht remmen verdwijnt of verandert het",
+   "o2": "Schuren; na het rijden is dat wiel heet en de auto trekt naar één kant",
+   "o3": "Continu knarsen of schuren, het wiel wordt niet warm",
+   "o4": "Ritmisch kloppen of klikken op het ritme van het wiel"
+  }
  }
 }
