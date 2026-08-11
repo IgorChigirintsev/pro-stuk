@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import TrafficLight from '../../components/TrafficLight.astro';
 import TreeWidget from '../../components/TreeWidget.tsx';
+import { t } from '../../i18n';
 import DownloadApk from '../../components/DownloadApk.astro';
 import KartaZvuka, { type Zone } from '../../components/KartaZvuka.astro';
 import { SYMPTOMS } from '../../data/types';
@@ -104,7 +105,7 @@ const worstUrgency = page.causes.reduce(
       Ответьте на несколько вопросов — дерево диагностики сузит список причин
       для вашего случая.
     </p>
-    <TreeWidget client:visible startNode={page.startNode} />
+    <TreeWidget client:visible startNode={page.startNode} lang="ru" ui={t('ru').quiz} />
 
     <h2 class="mt-10 text-xl font-bold">Как поможет приложение</h2>
     <p class="mt-4">{page.appHelp}</p>

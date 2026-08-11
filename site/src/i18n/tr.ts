@@ -71,6 +71,18 @@ export const tr: Dict = {
       },
     ],
   },
+  quiz: {
+    h2: 'Hemen deneyin',
+    sub: 'Birkaç soru, ardından olası nedeni ve ne kadar acil olduğunu görürsünüz.',
+    urgOk: 'Yola devam edilebilir',
+    urgWarn: 'Bu hafta servise',
+    urgStop: 'Durun',
+    back: 'Geri',
+    restart: 'Baştan başla',
+    cta: 'Tam ses raporu — uygulamada',
+    schemaMarked: 'Daire içine alınan yer, yanıtlarınızın işaret ettiği yerdir — bir tahmin, teşhis değil.',
+    schemaWhole: 'Parça grubunun tamamı.',
+  },
   download: {
     h2: 'Android uygulaması',
     sub: 'Anket, ses kaydı ve olasılıklarla birlikte tam rapor Stuk uygulamasında.',

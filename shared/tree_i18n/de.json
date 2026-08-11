@@ -1,0 +1,1104 @@
+{
+ "q_when": {
+  "text": "Wann ist das Geräusch zu hören?",
+  "options": {
+   "o1": "Beim Starten oder beim Startversuch",
+   "o2": "Im Stand, bei laufendem Motor",
+   "o3": "Nur während der Fahrt",
+   "o4": "Im Stand und während der Fahrt"
+  }
+ },
+ "q_start_char": {
+  "text": "Was hören Sie, wenn Sie den Zündschlüssel drehen oder den Startknopf drücken?",
+  "options": {
+   "o1": "Klacken, der Motor dreht nicht",
+   "o2": "Metallisches Kreischen, während der Anlasser dreht",
+   "o3": "Der Anlasser surrt, aber der Motor springt nicht an",
+   "o4": "Quietschen oder Pfeifen direkt nachdem der Motor angesprungen ist"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Was für ein Klacken genau?",
+  "options": {
+   "o1": "Schnelles Klackern, die Kontrollleuchten werden dunkler",
+   "o2": "Ein einzelnes deutliches Klacken, dann Stille"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Tritt das Geräusch nur auf, wenn Sie etwas einschalten oder betätigen (Heizung, Klimaanlage, Kupplung, Lenkung, Bremse)?",
+  "options": {
+   "o1": "Ja, es hängt an einer bestimmten Bedienung",
+   "o2": "Nein, es ist von selbst da"
+  }
+ },
+ "q_action": {
+  "text": "Mit welcher Bedienung hängt das Geräusch zusammen?",
+  "options": {
+   "o1": "Mit der Heizung oder dem Gebläse",
+   "o2": "Mit der Klimaanlagentaste",
+   "o3": "Mit dem Kupplungspedal",
+   "o4": "Mit der Lenkung, dem Bremspedal oder den Scheibenwischern"
+  }
+ },
+ "q_hvac": {
+  "text": "Welches Geräusch macht das eingeschaltete Gebläse?",
+  "options": {
+   "o1": "Rascheln oder Knistern, ändert sich mit der Gebläsestufe",
+   "o2": "Quietschen oder Heulen unter dem Armaturenbrett",
+   "o3": "Eine Reihe von Klacken hinter dem Armaturenbrett beim Ändern von Temperatur oder Luftverteilung",
+   "o4": "Gluckern oder Plätschern hinter dem Armaturenbrett"
+  }
+ },
+ "q_ac": {
+  "text": "Was hören Sie beim Einschalten der Klimaanlage?",
+  "options": {
+   "o1": "Quietschen im Moment des Einschaltens",
+   "o2": "Schleifen oder Rumpeln, solange die Klimaanlage läuft",
+   "o3": "Kurzes Zischen beim Ein- oder Ausschalten, die Kühlung funktioniert"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Wie hängt das Geräusch mit dem Kupplungspedal zusammen?",
+  "options": {
+   "o1": "Rascheln oder Brummen bei losgelassenem Pedal; beim Treten wird es leiser",
+   "o2": "Es tritt auf oder wird lauter, wenn das Pedal getreten ist",
+   "o3": "Klappern oder Rasseln im Leerlauf, beim Treten ändert es sich",
+   "o4": "Knarzen beim Treten, auch bei abgestelltem Motor hörbar"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "Womit genau hängt das Geräusch zusammen?",
+  "options": {
+   "o1": "Heulen oder Brummen beim Lenken",
+   "o2": "Knacken oder Klicken beim Lenken im Stand",
+   "o3": "Zischen unter dem Armaturenbrett beim Treten des Bremspedals",
+   "o4": "Klopfen oder Quietschen im Takt der Scheibenwischer"
+  }
+ },
+ "q_ps_type": {
+  "text": "Gibt es unter der Motorhaube einen Behälter für Servolenkungsöl?",
+  "options": {
+   "o1": "Ja, den gibt es",
+   "o2": "Nein oder ich weiß es nicht"
+  }
+ },
+ "q_steer_click": {
+  "text": "Woher kommt das Knacken?",
+  "options": {
+   "o1": "Von oben, aus dem Radhaus, auf Höhe der Motorhaube",
+   "o2": "Aus dem Lenkrad selbst oder aus der Lenksäule, unten im Fußraum"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Ist das Geräusch nur bei kaltem Motor zu hören, direkt nach dem Start?",
+  "options": {
+   "o1": "Ja, nach dem Warmlaufen verschwindet es",
+   "o2": "Nein, es ist auch bei warmem Motor da"
+  }
+ },
+ "q_cold_char": {
+  "text": "Wie klingt das Geräusch bei kaltem Motor?",
+  "options": {
+   "o1": "Schnelles Ticken oder Klackern",
+   "o2": "Dumpfes Klopfen, nach dem Warmlaufen weg",
+   "o3": "Rascheln oder Rasseln vorn am Motor",
+   "o4": "Quietschen oder Pfeifen beim Start"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Ist das Klackern von außen lauter als im Innenraum, und riecht es unter der Haube nach Abgas?",
+  "options": {
+   "o1": "Ja, von außen lauter und es riecht",
+   "o2": "Nein, es tickt oben am Motor, kein Geruch"
+  }
+ },
+ "q_engine_char": {
+  "text": "Wie klingt das Geräusch?",
+  "options": {
+   "o1": "Klopfen oder Ticken",
+   "o2": "Quietschen, Pfeifen, Heulen oder Zischen",
+   "o3": "Klingeln, Klappern, Knallen oder Blubbern",
+   "o4": "Vibrationen, Zittern im Leerlauf"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Was für ein Klopfen genau?",
+  "options": {
+   "o1": "Leichtes schnelles Ticken im oberen Bereich des Motors",
+   "o2": "Dumpfes oder helles Klopfen aus dem Inneren des Motors"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Ist das Ticken mit der Zeit lauter geworden oder immer gleich geblieben?",
+  "options": {
+   "o1": "Lauter geworden, bei warmem Motor deutlicher",
+   "o2": "Immer gleich, von außen lauter als im Innenraum"
+  }
+ },
+ "q_knock_load": {
+  "text": "Wenn Sie sanft Gas geben — wird das Klopfen schneller und lauter?",
+  "options": {
+   "o1": "Ja, schneller und lauter",
+   "o2": "Kaum Veränderung oder es verschwindet"
+  }
+ },
+ "q_squeal": {
+  "text": "Was für ein Geräusch ist das?",
+  "options": {
+   "o1": "Schrilles Quietschen oder Pfeifen",
+   "o2": "Gleichmäßiges Brummen oder Rauschen",
+   "o3": "Gleichmäßiges Zischen, wie Luft aus einem Reifen"
+  }
+ },
+ "q_hum_source": {
+  "text": "Woher kommt das Brummen?",
+  "options": {
+   "o1": "Von vorn, unter der Motorhaube, ändert sich mit der Drehzahl",
+   "o2": "Es geht von selbst an und aus: bei Hitze, im Stau, mit der Klimaanlage",
+   "o3": "Von hinten, am Tank; schon beim Einschalten der Zündung vor dem Start zu hören"
+  }
+ },
+ "q_pump_check": {
+  "text": "Sind unter der Haube am Riemen Spuren von auslaufender Flüssigkeit zu sehen?",
+  "options": {
+   "o1": "Ja, es ist feucht oder riecht nach Kühlmittel",
+   "o2": "Alles trocken",
+   "o3": "Konnte ich nicht nachsehen"
+  }
+ },
+ "q_rattle": {
+  "text": "Welches Geräusch und woher?",
+  "options": {
+   "o1": "Metallisches Klappern von unter dem Fahrzeugboden",
+   "o2": "Knallen oder Fehlzündungen aus dem Auspuff",
+   "o3": "Gluckern oder Plätschern hinter dem Armaturenbrett"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Hat das Auto zusammen mit dem Klappern an Leistung verloren, oder riecht der Auspuff ungewöhnlich?",
+  "options": {
+   "o1": "Ja, die Leistung ist schlechter oder der Geruch hat sich verändert",
+   "o2": "Nein, es klappert nur bei bestimmten Drehzahlen"
+  }
+ },
+ "q_move_when": {
+  "text": "Wann tritt das Geräusch während der Fahrt am stärksten auf?",
+  "options": {
+   "o1": "Beim Bremsen",
+   "o2": "In Kurven oder beim Lenken",
+   "o3": "Auf Unebenheiten und Bodenwellen",
+   "o4": "Beim Gasgeben, beim Schalten oder ständig"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Tritt das Geräusch nur bei den ersten Bremsungen nach dem Stehen oder bei Regen auf und verschwindet dann?",
+  "options": {
+   "o1": "Ja, es verschwindet schnell",
+   "o2": "Nein, es ist bei jeder Bremsung da"
+  }
+ },
+ "q_brake_char": {
+  "text": "Wie klingt es beim Bremsen?",
+  "options": {
+   "o1": "Quietschen oder Kreischen",
+   "o2": "Schabendes Metall auf Metall",
+   "o3": "Klopfen oder Pulsieren im Pedal"
+  }
+ },
+ "q_turn_char": {
+  "text": "Was hören Sie in der Kurve?",
+  "options": {
+   "o1": "Brummen bei Tempo, in eine Richtung stärker",
+   "o2": "Knacken oder Krachen bei voll eingeschlagenem Lenkrad",
+   "o3": "Klopfen beim Lenken",
+   "o4": "Heulen oder Brummen beim Lenken im Stand oder beim Einparken"
+  }
+ },
+ "q_bump_char": {
+  "text": "Wie klingt es auf Unebenheiten?",
+  "options": {
+   "o1": "Klopfen oder Scheppern",
+   "o2": "Knarzen wie ein altes Bett",
+   "o3": "Klappern oder Rasseln",
+   "o4": "Ein einzelner dumpfer Schlag beim ersten Anfahren nach langem Stehen"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Was für ein Klopfen genau?",
+  "options": {
+   "o1": "Schnelles dumpfes Poltern auf kleinen Unebenheiten",
+   "o2": "Einzelne dumpfe Schläge in Schlaglöchern und über Bodenschwellen",
+   "o3": "Das Klopfen geht direkt ins Lenkrad, man spürt es in den Händen",
+   "o4": "Das Scheppern kam plötzlich nach einem Schlagloch, eine Ecke des Autos hängt tiefer"
+  }
+ },
+ "q_bump_where": {
+  "text": "Kommt das Klopfen von vorn oder von hinten?",
+  "options": {
+   "o1": "Von vorn",
+   "o2": "Von hinten",
+   "o3": "Schwer zu sagen"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Woher kommt das Klappern?",
+  "options": {
+   "o1": "Von unter dem Fahrzeugboden",
+   "o2": "Aus dem Innenraum: Armaturenbrett, Türen, Knarzgeräusche",
+   "o3": "Aus dem Kofferraum, als würde etwas hin- und herrollen",
+   "o4": "Vorn oben, im Bereich der Motorhaube"
+  }
+ },
+ "q_move_manner": {
+  "text": "Wie hängt das Geräusch mit dem Fahren zusammen?",
+  "options": {
+   "o1": "Es tritt beim Gasgeben oder beim Gaswegnehmen auf",
+   "o2": "Im Moment des Schaltens oder beim Anfahren",
+   "o3": "Es ist ständig da, solange das Auto fährt",
+   "o4": "Es ist eher eine Vibration oder ein Zittern als ein Geräusch"
+  }
+ },
+ "q_accel_char": {
+  "text": "Wie klingt das Geräusch beim Gasgeben?",
+  "options": {
+   "o1": "Metallisches Klingeln, besonders bergauf",
+   "o2": "Klopfen im Moment des Gasgebens oder Gaswegnehmens",
+   "o3": "Knallen oder lautes Röhren aus dem Auspuff",
+   "o4": "Heulen oder Pfeifen unter Last"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Knallen oder Röhren?",
+  "options": {
+   "o1": "Knallen oder Fehlzündungen",
+   "o2": "Röhren, lauter beim Gasgeben; das Auto zieht wie gewohnt",
+   "o3": "Der Motor heult auf, die Drehzahl steigt, aber es geht nicht vorwärts; manchmal riecht es verbrannt"
+  }
+ },
+ "q_load_whine": {
+  "text": "Was für ein Heulen unter Last?",
+  "options": {
+   "o1": "Hohes Pfeifen nur beim Gasgeben, beim Gaswegnehmen weg (Turbomotor)",
+   "o2": "Brummen oder Heulen, der Ton ändert sich bei gleichem Tempo beim Gasgeben und Gaswegnehmen",
+   "o3": "Gleichförmiges Heulen beim Beschleunigen; Getriebe ist ein CVT oder eine Automatik",
+   "o4": "Heulen in einem Gang lauter, in einem anderen leiser; Schaltgetriebe"
+  }
+ },
+ "q_shift_char": {
+  "text": "Was passiert beim Schalten oder Anfahren?",
+  "options": {
+   "o1": "Ruck oder Schlag beim Wechsel der Automatik zwischen D und R oder beim Schalten",
+   "o2": "Kratzen beim Einlegen eines Gangs am Schaltgetriebe",
+   "o3": "Das Auto ruckelt beim Anfahren, während Sie die Kupplung kommen lassen",
+   "o4": "Ein einzelner Schlag unter dem Wagenboden beim Anfahren oder beim Lastwechsel"
+  }
+ },
+ "q_vibration": {
+  "text": "Wann ist das Zittern am stärksten?",
+  "options": {
+   "o1": "Bei 80–120 km/h zittert das Lenkrad fein; darunter und darüber weniger",
+   "o2": "Schon ab 40–60 km/h, mit steigendem Tempo stärker",
+   "o3": "In einem schmalen Geschwindigkeitsbereich, das Zittern geht durch Boden und Karosserie; Heck- oder Allradantrieb",
+   "o4": "Nur beim Bremsen, das Lenkrad schlägt"
+  }
+ },
+ "q_const_char": {
+  "text": "Wie klingt das dauerhafte Geräusch?",
+  "options": {
+   "o1": "Gleichmäßiges Brummen oder Heulen",
+   "o2": "Schleifen, Schaben oder Piepen von einem Rad",
+   "o3": "Lautes Röhren oder Knattern",
+   "o4": "Pfeifen oder Heulen nur bei hohem Tempo"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Was für ein Geräusch kommt vom Rad?",
+  "options": {
+   "o1": "Feines Piepen; beim leichten Antippen der Bremse verschwindet es oder ändert sich",
+   "o2": "Schaben; nach der Fahrt ist das Rad heiß, das Auto zieht zur Seite",
+   "o3": "Dauerhaftes Schleifen oder Schaben, das Rad wird nicht heiß",
+   "o4": "Rhythmisches Klopfen oder Klicken im Takt der Radumdrehung"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Wurden die Räder kürzlich gewechselt, getauscht oder abgenommen?",
+  "options": {
+   "o1": "Ja, in den letzten Tagen",
+   "o2": "Nein, schon lange nicht mehr"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Ein Test: auf die Geschwindigkeit beschleunigen, bei der das Geräusch auftritt, in den Leerlauf schalten und rollen lassen. Bleibt das Brummen?",
+  "options": {
+   "o1": "Es bleibt",
+   "o2": "Es verschwindet zusammen mit der Motordrehzahl",
+   "o3": "Konnte ich nicht testen"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Ändert sich die Lautstärke des Heulens beim Schalten?",
+  "options": {
+   "o1": "Ja, in verschiedenen Gängen klingt es unterschiedlich",
+   "o2": "Nein, es hängt nur von der Motordrehzahl ab"
+  }
+ },
+ "q_hum_road": {
+  "text": "Ändert sich das Brummen in langgezogenen Kurven?",
+  "options": {
+   "o1": "Ja, in eine Richtung leiser oder lauter",
+   "o2": "Nein, gleichmäßig bei jedem Tempo über 40–60 km/h",
+   "o3": "Es hängt vom Straßenbelag ab"
+  }
+ },
+ "q_hum_where": {
+  "text": "Kommt das Brummen von vorn oder von hinten?",
+  "options": {
+   "o1": "Von vorn",
+   "o2": "Von hinten",
+   "o3": "Schwer zu sagen"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Leere Batterie oder korrodierte Batteriepole",
+  "alt_causes": [
+   "Schlechter Massekontakt",
+   "Anlasser am Ende"
+  ],
+  "explanation": "Schnelles Klackern beim Startversuch heißt: dem Magnetschalter des Anlassers fehlt der Strom — er klackt, kann den Motor aber nicht durchdrehen. Schuld ist meist eine entladene Batterie oder korrodierte, lose Batterieklemmen. Dass die Kontrollleuchten beim Startversuch dunkler werden, bestätigt das.",
+  "advice": "Sehen Sie sich die Batteriepole an: weißen oder grünlichen Belag abkratzen, die Klemmen nachziehen. Hilft das nicht — Batterie laden oder mit Starthilfekabel überbrücken und bis zur Werkstatt fahren, um sie zu ersetzen. Ist die Batterie älter als vier bis fünf Jahre, ist das fast schon das Urteil."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Magnetschalter oder Kontakte des Anlassers",
+  "alt_causes": [
+   "Korrodierte Batterieklemmen",
+   "Kabel zum Anlasser"
+  ],
+  "explanation": "Ein einzelnes deutliches Klacken bei normal hellen Kontrollleuchten heißt: der Magnetschalter zieht an, aber der Anlassermotor selbst läuft nicht — die Kontakte sind verbrannt, die Kohlen verschlissen oder der Magnetschalter klemmt. Manchmal springt das Auto beim zweiten oder dritten Versuch doch an — das ist dieselbe Diagnose.",
+  "advice": "Versuchen Sie es noch ein paar Mal; springt der Wagen nur jedes zweite Mal an, fahren Sie in den nächsten Tagen in die Werkstatt, bevor Sie irgendwo auf einem Parkplatz stehen bleiben. Batterieklemmen prüfen und nachziehen. Mit dem Hammer an den Anlasser zu klopfen bringt Sie einmal nach Hause, ist aber keine Lösung."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Ritzel des Anlassers oder Zahnkranz des Schwungrads",
+  "alt_causes": [
+   "Verschlissene Zähne am Zahnkranz",
+   "Der Anlasser sitzt schief"
+  ],
+  "explanation": "Metallisches Kreischen beim Start heißt: das Ritzel des Anlassers greift schlecht in den Zahnkranz des Schwungrads — die Zähne sind verschlissen oder der Mechanismus klemmt. Jeder solche Start frisst die Zähne von Anlasser und Schwungrad weiter auf.",
+  "advice": "Vereinbaren Sie innerhalb einer Woche einen Werkstatttermin: Ritzel oder Anlasser zu tauschen ist deutlich günstiger als der Zahnkranz, für den das Getriebe heraus muss. Bis zur Reparatur den Schlüssel nicht länger als nötig in Startstellung halten und nach einem Kreischen nicht sofort wieder starten."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Das Anlasserritzel greift nicht oder Zähne am Zahnkranz sind ausgebrochen",
+  "alt_causes": [
+   "Freilauf des Anlasserritzels",
+   "Zahnkranz des Schwungrads"
+  ],
+  "explanation": "Wenn der Anlasser munter surrt, der Motor sich aber nicht einmal zu drehen versucht, dreht das Ritzel leer: der Freilauf im Ritzel ist verschlissen, oder am Zahnkranz sind an dieser Stelle die Zähne weg.",
+  "advice": "Manchmal klappt der zweite Versuch — das Schwungrad bleibt dann in einer anderen Stellung stehen. In die Werkstatt sollten Sie trotzdem in den nächsten Tagen: mit jedem Versuch wird der Schaden größer. Bei einem Schaltgetriebe können Sie im Notfall anschieben — bei einer Automatik ist das ausgeschlossen."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Laub oder Schmutz im Gebläse",
+  "alt_causes": [
+   "Verstopfter Innenraumfilter",
+   "Fremdkörper im Luftkanal"
+  ],
+  "explanation": "Rascheln und Knistern, das sich mit der Gebläsestufe ändert, sind fast immer Laub oder Schmutz, die über den Lufteinlass ins Gebläse geraten sind. Im Herbst ist das ein Massenphänomen, vor allem wenn der Innenraumfilter zu ist oder ganz fehlt.",
+  "advice": "Innenraumfilter wechseln (oft liegt der Schmutz direkt darauf) — bei vielen Autos schaffen Sie das in zehn Minuten selbst, Anleitungen für das konkrete Modell findet man leicht. Bleibt das Rascheln, lassen Sie das Gebläse in der Werkstatt ausblasen und reinigen."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Lager oder Buchsen des Gebläsemotors",
+  "alt_causes": [
+   "Schmutz im Gebläse",
+   "Das Lüfterrad schleift am Gehäuse"
+  ],
+  "explanation": "Quietschen oder Heulen unter dem Armaturenbrett, das nur bei eingeschaltetem Gebläse auftritt, kommt vom verschlissenen Gebläsemotor. Die Probe ist einfach: Gebläse ausschalten — das Quietschen ist sofort weg, auch bei laufendem Motor.",
+  "advice": "Für die Sicherheit ist das ohne Bedeutung, aber mit der Zeit fängt der Motor an zu klemmen und Sie stehen ohne Heizung da — besser vor dem Winter tauschen. Bis dahin können Sie die Gebläsestufen nutzen, bei denen es leiser ist."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Stellmotor einer Heizungsklappe",
+  "alt_causes": [
+   "Normale Kalibrierung der Klappen",
+   "Ausgebrochene Zähne am Zahnrad des Stellmotors"
+  ],
+  "explanation": "Eine Reihe schneller Klackgeräusche oder ein Rattern hinter dem Armaturenbrett beim Einschalten der Zündung oder beim Ändern der Temperatur kommt vom Stellmotor, der die Klappen der Heizung bewegt. Ist die Reihe kurz und immer gleich, ist es oft nur die Kalibrierung. Endloses Rattern heißt: die Zähne des Kunststoffzahnrads sind abgenutzt.",
+  "advice": "Sind die Klackgeräusche kurz und lässt sich die Heizung normal regeln, müssen Sie nichts tun. Rattert es lange oder kommt die Luft nicht dort heraus, wo Sie es eingestellt haben, vereinbaren Sie bei Gelegenheit einen Werkstatttermin: dem Auto schadet es nicht, aber der Komfort leidet."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Luft im Kühlsystem (zu wenig Kühlmittel)",
+  "alt_causes": [
+   "Defekter Deckel des Ausgleichsbehälters",
+   "Kühlmittelverlust"
+  ],
+  "explanation": "Gluckern oder Plätschern hinter dem Armaturenbrett ist eine Luftblase, die durch den Heizungswärmetauscher wandert. Luft kommt ins System, wenn der Kühlmittelstand gefallen ist: irgendwo ist eine Undichtigkeit, oder der Deckel des Ausgleichsbehälters hält nicht. Die Heizung bläst dann mal warm, mal kalt.",
+  "advice": "Bei kaltem Motor den Stand im Ausgleichsbehälter prüfen und bis zur Markierung auffüllen, danach beobachten, ob wieder Flüssigkeit verschwindet. Fällt der Stand weiter oder bläst die Heizung bei warmem Motor kalt — diese Woche in die Werkstatt. Steigt die Temperaturanzeige oder tritt Dampf aus: anhalten und den Motor abstellen."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Die Magnetkupplung des Klimakompressors rutscht",
+  "alt_causes": [
+   "Lockerer Riemen",
+   "Verschlissene Andruckplatte der Kupplung"
+  ],
+  "explanation": "Quietschen genau im Moment des Einschaltens der Klimaanlage heißt: die Kupplung, die den Kompressor mit dem Riemen verbindet, rutscht unter Last durch. Ein einzelnes Klacken beim Einschalten ist normal — Quietschen dagegen spricht für eine verschlissene Kupplung oder einen zu lockeren Riemen.",
+  "advice": "Lassen Sie das in den nächsten zwei Wochen ansehen: fährt man die Kupplung weiter, wird aus dem Quietschen ein Dauergeräusch, und der Kompressor kann fressen und den Riemen zerreißen. Bis zur Reparatur können Sie die Klimaanlage nutzen — wird das Quietschen lauter, schalten Sie sie aus."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Klimakompressor (Lager oder Verschleiß)",
+  "alt_causes": [
+   "Lager der Riemenscheibe an der Kupplung",
+   "Zu wenig Öl im System"
+  ],
+  "explanation": "Schleifen oder Rumpeln, das nur bei laufender Klimaanlage zu hören ist, kommt von einem sterbenden Kompressor oder vom Lager seiner Riemenscheibe. Ein fressender Kompressor zerreißt den Riemen — und der treibt bei vielen Autos auch Lichtmaschine und Wasserpumpe an.",
+  "advice": "Die Klimaanlage vorerst nicht einschalten — so hält das Bauteil bis zur Reparatur durch. Innerhalb einer Woche einen Diagnosetermin machen: solange nur das Lager kaputtgeht, ist die Reparatur deutlich günstiger als ein neuer Kompressor samt Spülung der gesamten Anlage."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Normales Überströmen des Kältemittels",
+  "alt_causes": [
+   "Normale Arbeit des Expansionsventils"
+  ],
+  "explanation": "Kurzes Zischen oder Gluckern hinter dem Armaturenbrett in den ersten Sekunden nach dem Ein- oder Ausschalten der Klimaanlage ist das Kältemittel, das durch das Expansionsventil strömt. Wenn es im Innenraum kalt wird, ist das der normale Betrieb der Anlage und kein Leck.",
+  "advice": "Sie müssen nichts tun. Ein Grund zum Nachsehen wäre etwas anderes: wenn das Zischen dauerhaft wird und die Kühlung ausbleibt oder schwach ist — dann einen Termin zur Prüfung der Klimaanlage machen."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Lager der Getriebeeingangswelle",
+  "alt_causes": [
+   "Ausrücklager",
+   "Rollen des Nebenaggregateriemens"
+  ],
+  "explanation": "Rascheln oder Brummen im Leerlauf, das beim Treten der Kupplung leiser wird, kommt aus dem Getriebe: solange das Pedal oben ist, dreht sich die Eingangswelle mit dem Motor, und ihr verschlissenes Lager macht Geräusche. Beim Treten steht die Welle still — das Geräusch geht weg. Riemen und Rollen reagieren auf das Kupplungspedal überhaupt nicht.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin und erwähnen Sie unbedingt den Zusammenhang mit dem Pedal — das lenkt die Suche sofort in die richtige Richtung. Ölstand im Getriebe prüfen. Fahren können Sie, aber es über Monate hinauszuzögern lohnt sich nicht: ein zerstörtes Lager reißt Wellen und Zahnräder mit."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Ausrücklager der Kupplung",
+  "alt_causes": [
+   "Lager der Eingangswelle",
+   "Ausrückgabel"
+  ],
+  "explanation": "Rascheln oder Brummen, das auftritt oder lauter wird, wenn die Kupplung getreten ist, kommt vom Ausrücklager — dem Teil, das beim Treten auf die Druckplatte drückt. Ein verschlissenes Ausrücklager macht genau unter Last Geräusche, also mit getretenem Pedal.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Werkstatttermin. Halten Sie das Pedal weniger unnötig getreten — an der Ampel den Leerlauf einlegen und die Kupplung kommen lassen. Ein zerstörtes Ausrücklager kann Sie unterwegs ohne Kupplung stehen lassen, deshalb darf man das nicht monatelang schleifen lassen."
+ },
+ "leaf_dmf": {
+  "top_cause": "Zweimassenschwungrad",
+  "alt_causes": [
+   "Federn der Kupplungsscheibe",
+   "Ausrücklager"
+  ],
+  "explanation": "Metallisches Klappern oder Rasseln im Leerlauf von der Getriebeseite, das sich beim Treten der Kupplung ändert und besonders in den Sekunden beim Starten und Abstellen zu hören ist, ist die typische Handschrift eines verschlissenen Zweimassenschwungrads — des Dämpfers zwischen Motor und Getriebe, der die Lastwechsel abfängt.",
+  "advice": "Vereinbaren Sie in den nächsten zwei Wochen einen Diagnosetermin und beschreiben Sie den Zusammenhang mit dem Pedal und mit dem Starten und Abstellen. Der Tausch ist nicht billig, aber Hinauszögern macht die Kupplung mit kaputt und kann damit enden, dass das Schwungrad während der Fahrt auseinanderfällt. Bis zur Reparatur sanft anfahren und den Motor nicht bei niedrigen Drehzahlen quälen."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mechanik des Kupplungspedals (Lagerung, Gabel, Seilzug)",
+  "alt_causes": [
+   "Buchsen der Pedallagerung",
+   "Ausrückgabel"
+  ],
+  "explanation": "Knarzen beim Treten des Pedals, das auch bei abgestelltem Motor zu hören ist, ist trockene Mechanik der Kupplungsbetätigung: die Pedallagerung, der Seilzug oder die Gabel. Da das Geräusch ohne laufenden Motor da ist, haben Riemen, Ausrücklager und Getriebe nichts damit zu tun.",
+  "advice": "Lassen Sie bei der nächsten Gelegenheit in der Werkstatt die Pedallagerung und die Gabel schmieren — oft ist die Sache damit in Minuten erledigt. Gefährlich ist es nicht. Ist das Pedal zusammen mit dem Knarzen schwergängig geworden oder greift die Kupplung erst ganz unten, zeigen Sie das Auto früher."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Domlager des Federbeins",
+  "alt_causes": [
+   "Lenkgetriebe",
+   "Koppelstangen des Stabilisators"
+  ],
+  "explanation": "Knacken oder Klicken beim Lenken im Stand, das von oben aus dem Radhaus kommt, macht das Domlager — das Lager, auf dem sich das obere Ende des Federbeins mit dem Rad mitdreht. Ein weiteres Zeichen sind einzelne Schläge von oben auf Schlaglöchern.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: die Prüfung ist einfach, mit der Hand auf dem Federbeindom unter der Haube spürt man das Knacken sofort. Fahren können Sie, aber ein verschlissenes Domlager beschleunigt den Verschleiß des Federbeins und verschlechtert den Rücklauf der Lenkung."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Kreuzgelenk der Lenkzwischenwelle",
+  "alt_causes": [
+   "Spiel in der Steckverzahnung der Welle",
+   "Lenkgetriebe"
+  ],
+  "explanation": "Ein Klacken oder Klopfen, das man direkt im Lenkrad und unten im Fußraum hört und spürt, kommt meist vom Kreuzgelenk der Lenkzwischenwelle — dem kleinen Gelenk zwischen Lenkrad und Lenkgetriebe. Bei abgestelltem Motor und leichtem Hin- und Herbewegen des Lenkrads ist das Klacken deutlich zu hören.",
+  "advice": "Lassen Sie das in den nächsten Tagen in der Werkstatt prüfen: die Lenkung ist ein sicherheitsrelevantes Bauteil, und die Prüfung dauert nur Minuten. Spiel in der Lenksäule wird mit der Zeit größer und macht die Lenkung um die Mittellage herum unpräzise."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Bremskraftverstärker oder sein Unterdruckschlauch",
+  "alt_causes": [
+   "Rückschlagventil des Bremskraftverstärkers",
+   "Riss im Unterdruckschlauch"
+  ],
+  "explanation": "Zischen unter dem Armaturenbrett, das genau beim Treten und Loslassen des Bremspedals auftritt und sich damit ändert, ist Falschluft im Bremskraftverstärker — dem Bauteil, das die Pedalkraft verringert. Das Pedal wird dabei oft spürbar härter, und die Leerlaufdrehzahl schwankt.",
+  "advice": "Machen Sie diese Woche einen Werkstatttermin: die Bremse funktioniert auch ohne Verstärker, aber Sie müssen dann viel kräftiger treten — in einer Notbremsung ist das gefährlich. Prüfen Sie das Pedal vor der Fahrt: ist es hart wie ein Brett, fahren Sie nur vorsichtig und nicht weit."
+ },
+ "leaf_wipers": {
+  "top_cause": "Wischergestänge oder Wischergummis",
+  "alt_causes": [
+   "Lockere Muttern der Wischerarme",
+   "Verschlissene Buchsen des Wischermotors"
+  ],
+  "explanation": "Klopfen an den Umkehrpunkten ist Spiel in den Gelenken des Wischergestänges — der Mechanik, die die Wischer bewegt — oder es sind lockere Muttern der Wischerarme. Gleichmäßiges Quietschen über die Scheibe kommt von hart gewordenen Wischergummis. Die Probe ist einfach: Wischer ausschalten — das Geräusch ist sofort und vollständig weg.",
+  "advice": "Quietschende Gummis können Sie selbst tauschen — Wischerblätter gibt es in jedem Zubehörhandel. Beim Klopfen an den Umkehrpunkten die Muttern der Wischerarme nachziehen oder bei Gelegenheit die Buchsen des Gestänges in der Werkstatt ersetzen lassen. Für die Sicherheit zählt hier nur die klare Scheibe."
+ },
+ "leaf_eps": {
+  "top_cause": "Elektrische Servolenkung: leises Surren ist normal",
+  "alt_causes": [
+   "Verschleiß der elektrischen Servolenkung",
+   "Lenkgetriebe"
+  ],
+  "explanation": "Wenn es unter der Haube keinen Behälter für Servoöl gibt, ist die Lenkung elektrisch unterstützt, und ein gleichmäßiges leises Surren beim Lenken ist ihr normaler Betrieb und kein Defekt. Eine Hydraulikpumpe, die bei zu wenig Öl heult, gibt es in so einem Auto schlicht nicht.",
+  "advice": "Die Warnzeichen einer elektrischen Servolenkung sind andere: die Lenkung wird schwer oder ruckartig schwer, es knirscht, oder im Display leuchtet die Lenkungslampe. Trifft eines davon zu — in den nächsten Tagen in die Werkstatt; sonst können Sie beruhigt weiterfahren."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Dichtung oder Riss am Abgaskrümmer",
+  "alt_causes": [
+   "Stehbolzen des Krümmers",
+   "Hydrostößel"
+  ],
+  "explanation": "Schnelles Klackern bei kaltem Motor, das von außen lauter ist und unter der Haube nach Abgas riecht, sind Abgase, die durch eine durchgebrannte Dichtung oder einen Riss im Abgaskrümmer entweichen. Mit dem Warmwerden dehnt sich das Metall, der Spalt schließt sich, und das Klackern verschwindet.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Werkstatttermin: der Spalt wird mit der Zeit größer, und Abgasgeruch kann über die Heizung in den Innenraum ziehen — das ist gesundheitsschädlich. Bis zur Reparatur den Innenraum lüften, wenn Sie den Geruch bemerken."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Normales Klackern der Einspritzdüsen (Direkteinspritzer oder Diesel)",
+  "alt_causes": [
+   "Hochdruckpumpe",
+   "Ventilspiel"
+  ],
+  "explanation": "Bei Motoren mit Direkteinspritzung (TSI, GDI und ähnlichen) und bei Dieseln klackern Einspritzdüsen und Hochdruckpumpe immer — das ist ihr normaler Betrieb. Die Erkennungsmerkmale: das Geräusch ist kalt wie warm gleich, von außen lauter als im Innenraum, und hängt nicht vom Alter des Öls ab.",
+  "advice": "Sie müssen nichts tun. Aufmerksam werden sollten Sie bei etwas anderem: wenn das Ticken deutlich lauter geworden ist als früher, sich nach dem Warmlaufen ändert oder zusammen mit Leistungsverlust auftritt — dann zur Diagnose."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Falschluft (Unterdruckschlauch, Dichtung am Ansaugkrümmer)",
+  "alt_causes": [
+   "Gerissener Schlauch",
+   "Dichtung des Ansaugkrümmers"
+  ],
+  "explanation": "Gleichmäßiges Zischen unter der Haube, wie Luft aus einem angestochenen Reifen, ist ungemessene Luft, die durch einen gerissenen Schlauch oder eine undichte Ansaugdichtung gezogen wird. Der Motor läuft davon oft unrund: die Leerlaufdrehzahl schwankt, manchmal leuchtet die Motorkontrollleuchte.",
+  "advice": "Machen Sie in den nächsten Tagen einen Diagnosetermin, besonders wenn die Drehzahl schwankt: die Suche nach Falschluft ist Standard. Selbst können Sie die dünnen Gummischläuche unter der Haube auf Risse ansehen, ohne etwas abzubauen."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Kühlerlüfter (Buchsen oder Dauerlauf)",
+  "alt_causes": [
+   "Temperaturfühler oder Thermostat",
+   "Visco-Kupplung (bei Heckantrieb)"
+  ],
+  "explanation": "Brummen oder Röhren, das von selbst an- und ausgeht — bei Hitze, im Stau, mit der Klimaanlage —, ist der Lüfter des Kühlers. Ein lauter Lüfter heißt entweder verschlissene Buchsen seines Motors, oder er läuft ständig wegen eines Fühlers oder des Thermostats. Manchmal läuft er nach dem Abstellen noch ein paar Minuten nach — das ist normal.",
+  "advice": "Röhrt der Lüfter ständig, schon ab dem Start bei kaltem Motor — in den nächsten Tagen zur Diagnose: dann arbeitet das Kühlsystem nicht richtig. Behalten Sie die Temperaturanzeige im Auge; steigt sie an: anhalten und den Motor abstellen."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Elektrische Kraftstoffpumpe",
+  "alt_causes": [
+   "Verstopfter Kraftstofffilter",
+   "Siebfilter der Pumpe"
+  ],
+  "explanation": "Ein gleichmäßiges Surren oder Heulen von hinten, unter der Rückbank oder aus der Gegend des Tanks, ist die Kraftstoffpumpe. Sie beim Einschalten der Zündung ein paar Sekunden zu hören, ist normal — ein lautes Heulen, das auch während der Fahrt auffällt, spricht für eine verschlissene Pumpe oder einen verstopften Filter, gegen den sie sich abmüht.",
+  "advice": "Lassen Sie in den nächsten ein bis zwei Wochen den Kraftstoffdruck prüfen. Fahren Sie nicht ständig mit fast leerem Tank: unten im Tank wird die Pumpe schlechter gekühlt und verschleißt schneller. Fängt das Auto an, unter Last zu ruckeln, oder springt es schlecht an — den Termin vorziehen."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Zerfallener Katalysator",
+  "alt_causes": [
+   "Hitzeschutzblech",
+   "Befestigungen der Auspuffanlage"
+  ],
+  "explanation": "Ein helles Klappern oder Rieseln von unter dem Fahrzeugboden, näher am Motor, das beim Gasstoß lauter wird und zusammen mit Leistungsverlust oder verändertem Abgasgeruch auftritt, ist zerfallene Keramik im Katalysator. Die Bruchstücke klappern im Gehäuse, und die verstopften Waben würgen den Motor ab.",
+  "advice": "In den nächsten Tagen zur Diagnose: Keramikbruchstücke können in den Motor gesaugt werden, und das ist dann eine teure Reparatur. Eine einfache Prüfung in der Werkstatt: am abgekühlten Auto leicht an den Katalysator klopfen — innen rasseln die Bruchstücke. Damit sollte man nicht warten."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Automatikgetriebe: altes Öl, Verschleiß oder Spiel im Antriebsstrang",
+  "alt_causes": [
+   "Motor- und Getriebelager",
+   "Kreuzgelenke der Kardanwelle (bei Heckantrieb)"
+  ],
+  "explanation": "Ein Ruck oder Schlag genau beim Wechsel des Wählhebels zwischen D und R oder beim Schalten ist ein Zeichen für Verschleiß oder altes Öl im Automatikgetriebe: der Gang legt sich mit einem Schlag ein, und Spiel im Antriebsstrang verstärkt ihn. Ausgeschlagene Lager schlagen ähnlich, deshalb lohnt sich eine genaue Diagnose.",
+  "advice": "Prüfen Sie zuerst Stand und Zustand des Getriebeöls — ist es dunkel und riecht verbrannt, muss es gewechselt werden; oft reicht das schon. Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin und sagen Sie, bei welchen Schaltvorgängen es genau schlägt. Bis zur Reparatur den Wählhebel nur im Stillstand und mit getretener Bremse umlegen."
+ },
+ "leaf_synchro": {
+  "top_cause": "Synchronringe im Getriebe oder die Kupplung trennt nicht vollständig",
+  "alt_causes": [
+   "Pedalspiel der Kupplung",
+   "Verschleiß der Kupplung"
+  ],
+  "explanation": "Kratzen beim Einlegen eines Gangs am Schaltgetriebe heißt: die Zahnräder treffen mit unterschiedlicher Drehzahl aufeinander. Kratzt nur ein bestimmter Gang oder zwei — meist der zweite oder dritte —, sind deren Synchronringe verschlissen; kratzen alle, trennt die Kupplung nicht vollständig und das Getriebe kommt nicht frei.",
+  "advice": "Prüfen Sie das Pedalspiel der Kupplung und den Ölstand im Getriebe — damit fängt auch die Werkstatt an. Vereinbaren Sie in den nächsten zwei Wochen einen Diagnosetermin. Bis zur Reparatur langsamer schalten, mit einer kurzen Pause im Leerlauf: dann kratzt es weniger und der Verschleiß ist geringer."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Kupplung: verschlissene oder verölte Kupplungsscheibe",
+  "alt_causes": [
+   "Motorlager",
+   "Zweimassenschwungrad"
+  ],
+  "explanation": "Ein Zittern genau im Moment des Anfahrens, solange das Kupplungspedal kommt, während das Auto nach dem vollständigen Einkuppeln ruhig fährt, heißt: die Kupplung greift ruckartig — die Scheibe ist verschlissen, verölt oder die Druckplatte hat sich verzogen. Motorlager lassen das Auto auch im Leerlauf zittern, hier aber lebt das Zittern nur in der Anfahrphase.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: ein Rupfen beim Anfahren geht nicht von selbst weg und wird meist stärker. Bis zur Reparatur sanft und mit etwas mehr Drehzahl anfahren, die Kupplung nicht schleifen lassen. Riecht es verbrannt, brennt die Kupplung durch — dann nicht mit dem Termin warten."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Kreuzgelenke der Kardanwelle oder Spiel im Antriebsstrang",
+  "alt_causes": [
+   "Gummilager und Schrauben des Hilfsrahmens",
+   "Tellerrad des Differenzials"
+  ],
+  "explanation": "Ein einzelner Schlag oder ein Klacken von unter der Mitte oder dem Heck des Wagens beim Anfahren und beim Wechsel zwischen Gasgeben und Gaswegnehmen ist Spiel in der Kraftübertragung: meist verschlissene Kreuzgelenke der Kardanwelle bei Heck- und Allradantrieb oder lockere Befestigungen des Hilfsrahmens.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: auf der Hebebühne findet man Spiel in der Kardanwelle in einer Minute, indem man sie mit der Hand hin- und herbewegt. Hinauszögern lohnt sich nicht — ein ausgeschlagenes Kreuzgelenk kann bei Tempo auseinanderfallen. Bis dahin sanfter anfahren und das Gas sanfter wegnehmen."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Die Kupplung rutscht durch",
+  "alt_causes": [
+   "Verölte Kupplungsscheibe",
+   "Durchrutschen der Automatik oder des CVT"
+  ],
+  "explanation": "Wenn beim Gasgeben die Drehzahl steigt, der Motor aufheult, das Auto aber kaum beschleunigt, rutscht die Kupplung durch und überträgt keine Kraft: die Scheibe ist verschlissen oder verölt. Am deutlichsten bergauf und im höchsten Gang; oft kommt ein beißender Brandgeruch dazu. Bei einer Automatik rutscht ein verschlissenes Getriebe genauso.",
+  "advice": "Diese Woche in die Werkstatt: eine rutschende Kupplung rutscht bis zum vollständigen Kraftverlust weiter, und zwar meist im unpassendsten Moment. Bis zur Reparatur ruhig fahren, ohne Überholmanöver und ohne Anhänger, bergauf rechtzeitig zurückschalten. Wird der Brandgeruch stärker — keinen Tag mehr warten."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbolader oder undichte Ladeluftführung",
+  "alt_causes": [
+   "Ladeluftschlauch",
+   "Lager der Turbinenwelle"
+  ],
+  "explanation": "Ein leichtes gleichmäßiges Pfeifen des Turboladers unter Last ist bei einem Turbomotor normal. Aufmerksam werden sollten Sie bei einer Veränderung: das Pfeifen wird lauter oder klingt anders, ein Heulen kommt dazu, die Leistung lässt nach. Das ist entweder eine Undichtigkeit in den Ladeluftschläuchen oder Verschleiß am Lager der Turbinenwelle.",
+  "advice": "Hat sich der Ton verändert oder die Leistung nachgelassen — in den nächsten Tagen zur Diagnose: eine undichte Schlauchverbindung ist billig repariert, ein verschleppter Turboschaden endet mit dem Austausch. Behalten Sie den Ölverbrauch im Auge. Bis zur Prüfung den Motor nicht in den Begrenzer drehen und den Turbolader nach zügiger Fahrt ein bis zwei Minuten im Leerlauf abkühlen lassen."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Tellerrad und Ritzel des Achsgetriebes",
+  "alt_causes": [
+   "Lager im Achsgetriebe",
+   "Zu wenig Öl im Achsgetriebe"
+  ],
+  "explanation": "Ein Heulen oder Brummen, das bei gleichem Tempo beim Gasgeben und Gaswegnehmen den Ton wechselt — unter Zug heult es, im Schub wird es leiser oder umgekehrt —, ist die Handschrift eines verschlissenen Tellerradsatzes: der Zahnräder im Achsgetriebe, die die Drehung auf die Räder bringen. Ein Radlager reagiert im Unterschied dazu überhaupt nicht auf das Gas.",
+  "advice": "Ölstand im Achsgetriebe prüfen und innerhalb einer Woche einen Diagnosetermin machen: bei frühem Verschleiß reichen oft Öl und eine Einstellung, bei spätem muss der Satz getauscht werden. Lange schnelle Fahrten bis zur Prüfung verschieben."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT oder Automatikgetriebe (Lager, Schubgliederband, Wandler)",
+  "alt_causes": [
+   "Zu wenig oder altes Getriebeöl",
+   "Lager der Wellen"
+  ],
+  "explanation": "Ein gleichförmiges metallisches Heulen beim Beschleunigen bei einem CVT oder einer Automatik, das vom Gaspedal abhängt und nicht vom Tempo, kommt meist von den Lagern der Kegelscheiben im CVT oder von der Pumpe der Automatik. Ein CVT ist besonders empfindlich gegenüber altem Öl.",
+  "advice": "Als Erstes Stand und Zustand des Getriebeöls prüfen, das ist die Hälfte dieser Fälle. Innerhalb einer Woche einen Diagnosetermin machen und bis dahin ruhig fahren, ohne heftige Beschleunigung und ohne Anhänger. Eine frühe CVT-Reparatur ist um ein Vielfaches günstiger als eine späte."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Lager oder Zahnräder im Schaltgetriebe",
+  "alt_causes": [
+   "Zu wenig Öl im Getriebe",
+   "Lager der Eingangswelle"
+  ],
+  "explanation": "Ein Heulen, dessen Lautstärke vom eingelegten Gang abhängt — in einem Gang heult es, im anderen leiser, im Leerlauf beim Rollen ist es weg —, kommt aus dem Schaltgetriebe: verschlissene Wellenlager oder ein bestimmtes Zahnradpaar. Ein Radlager brummt in jedem Gang gleich.",
+  "advice": "Ölstand im Getriebe prüfen — ein gefallener Stand ist eine häufige Ursache. In den nächsten ein bis zwei Wochen einen Diagnosetermin machen und sagen, in welchen Gängen es lauter heult: das grenzt die Suche ein. Fahren können Sie, aber ein zunehmendes Heulen sollte man nicht hinauszögern."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Unwucht der Räder",
+  "alt_causes": [
+   "Verlorenes Auswuchtgewicht",
+   "Schmutz oder Eis in der Felge"
+  ],
+  "explanation": "Ein feines Zittern des Lenkrads in einem schmalen Geschwindigkeitsbereich, meist bei 80–120 km/h, das darunter und darüber fast verschwindet, ist die klassische Unwucht: ein Gewicht ist abgefallen, oder innen in der Felge klebt Schmutz oder Eis. Zittert das Lenkrad, sind es die Vorderräder; zittert der Sitz, die hinteren.",
+  "advice": "Bei Gelegenheit auswuchten lassen — das geht schnell und kostet wenig. Im Winter zuerst die Felgen von innen ansehen und angebackenen Schnee und Eis abschlagen. Gefährlich ist es nicht, aber eine dauernde Vibration beschleunigt den Verschleiß von Radlagern und Spurstangenköpfen."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Verzogene Felge oder Beule im Reifen",
+  "alt_causes": [
+   "Verschobener Gürtel im Reifen",
+   "Unwucht der Räder"
+  ],
+  "explanation": "Ein Schlagen, das schon ab 40–60 km/h auffällt und mit dem Tempo zunimmt, ist meist eine Verformung: ein nach einem Schlagloch verbogenes Felgenhorn oder eine Beule in der Reifenflanke. Anders als eine Unwucht lebt dieses Schlagen nicht in einem schmalen Geschwindigkeitsbereich, sondern wird ständig stärker.",
+  "advice": "Reifen und Felgenkanten ansehen: eine Beule in der Flanke oder ein verbogenes Felgenhorn sieht man oft mit bloßem Auge. Eine Beule ist eine Schwachstelle, die bei Tempo platzen kann: das betroffene Rad gegen das Reserverad tauschen und den Besuch beim Reifendienst nicht aufschieben. Bis dahin nicht schnell fahren."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Kardanwelle: Mittellager oder Unwucht",
+  "alt_causes": [
+   "Kreuzgelenke der Kardanwelle",
+   "Hardyscheibe"
+  ],
+  "explanation": "Brummen und feine Vibrationen im Boden und in der Karosserie in einem bestimmten Geschwindigkeitsbereich bei Heck- oder Allradantrieb sind die Kardanwelle: ein verschlissenes Mittellager, ausgeschlagene Kreuzgelenke oder eine gestörte Auswuchtung. Von einer Radunwucht unterscheidet es sich dadurch, dass nicht das Lenkrad zittert, sondern der Boden.",
+  "advice": "Innerhalb einer Woche einen Diagnosetermin machen: Spiel in der Kardanwelle prüft man auf der Hebebühne in Minuten. Hinauszögern lohnt nicht — bricht ein Kreuzgelenk bei Tempo, ist das gefährlich. Bis zur Prüfung nicht lange in dem Tempo fahren, bei dem es vibriert."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Windgeräusch (Dichtungen, Zierleisten, Dachträger)",
+  "alt_causes": [
+   "Verschlissene Türdichtungen",
+   "Dachreling oder Dachbox"
+  ],
+  "explanation": "Ein Pfeifen oder Heulen, das erst oberhalb einer bestimmten Geschwindigkeit auftritt — meist ab 70–90 km/h —, mit ihr zunimmt und weder vom Belag noch von Kurven abhängt, ist Luft: eine verschlissene Dichtung, eine abgelöste Zierleiste, die Dachreling oder eine Dachbox.",
+  "advice": "Die Quelle findet man einfach: Dachbox oder Querträger abnehmen, falls vorhanden; das Fenster einen Spalt öffnen und hören, ob sich das Pfeifen ändert; eine verdächtige Fuge mit Malerkrepp abkleben und eine Runde fahren. Ein Defekt ist es nicht, behoben wird es durch eine neue Dichtung oder das Einstellen der Tür."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Der Verschleißanzeiger der Bremsbeläge schleift an der Scheibe",
+  "alt_causes": [
+   "Beläge fast am Ende",
+   "Steinchen zwischen Belag und Scheibe"
+  ],
+  "explanation": "Ein feines metallisches Piepen während der Fahrt ohne Bremsen, das beim leichten Antippen des Pedals verschwindet oder sich ändert, ist das Metallplättchen am Belag, das die Scheibe zu berühren beginnt. Das ist die vorgesehene Warnung: der nutzbare Belag ist fast aufgebraucht.",
+  "advice": "Vereinbaren Sie diese Woche einen Termin zum Wechsel der Beläge und lassen Sie die Scheiben mit ansehen. Die Bremse arbeitet noch voll, aber die nächste Stufe ist Schaben und beschädigte Scheiben. Kommt das Piepen von einem bestimmten Rad — sagen Sie das in der Werkstatt."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Festsitzender Bremssattel",
+  "alt_causes": [
+   "Festgegangene Führungsbolzen des Sattels",
+   "Aufgequollener Bremsschlauch"
+  ],
+  "explanation": "Dauerhaftes Schaben an einem Rad, eine nach der Fahrt heiße Bremsscheibe, Brandgeruch und ein Ziehen zur Seite heißen: der Bremssattel — das Bauteil, das die Beläge auf die Scheibe drückt — sitzt fest, und der Belag schleift ständig. Eine überhitzte Bremse verliert an Wirkung, und Belag und Scheibe brennen in ein paar hundert Kilometern durch.",
+  "advice": "Normale Fahrten einstellen und nur noch bis zur Werkstatt fahren, kurze Strecke und langsam. Welches Rad heiß ist, spüren Sie mit der Hand in der Nähe der Scheibe — die Scheibe selbst nicht berühren, daran verbrennt man sich. Wer das hinauszögert, riskiert ein blockierendes Rad während der Fahrt."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Zu locker angezogene Radschrauben",
+  "alt_causes": [
+   "Ausgeschlagene Bohrungen in der Felge",
+   "Spiel in der Radnabe"
+  ],
+  "explanation": "Ein rhythmisches Scheppern oder Klopfen im Takt der Radumdrehung, das in den ersten Tagen nach einem Reifenwechsel aufgetreten ist, ist der Klassiker: zu locker angezogene Radschrauben. Ein Rad auf lockeren Schrauben schlägt die Bohrungen in der Felge aus und löst sich im schlimmsten Fall während der Fahrt.",
+  "advice": "Halten Sie bei der nächsten Gelegenheit an und prüfen Sie mit dem Radkreuz den Sitz der Schrauben an allen Rädern. Ließen sie sich nachziehen, sollte das Klopfen weg sein; bleibt es, fahren Sie vorsichtig in die Werkstatt und lassen Sie die Radnabe prüfen. Nach jedem Radwechsel ist es sinnvoll, die Schrauben nach 50–100 km noch einmal nachzuziehen."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Steinchen oder Schraube im Reifenprofil",
+  "alt_causes": [
+   "Zu locker angezogene Radschrauben",
+   "Sich lösendes Profil"
+  ],
+  "explanation": "Ein gleichmäßiges Klicken oder Klacken im Takt der Radumdrehung, besonders bei niedrigem Tempo, kommt meist von einem Steinchen im Profil — oder, was wichtiger ist, von einer eingedrehten Schraube. Das Geräusch bleibt, solange der Gegenstand im Reifen steckt.",
+  "advice": "Sehen Sie sich das Profil aller Räder an, indem Sie das Auto langsam vorrollen oder das Lenkrad voll einschlagen. Ein Steinchen herauspulen. Eine Schraube oder einen Nagel nicht herausziehen — damit kommen Sie in Ruhe bis zum Reifendienst, ohne verliert der Reifen unterwegs die Luft. Ist im Profil nichts zu finden und das Klicken bleibt — den Sitz der Radschrauben prüfen."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Stabilisatorlager oder Gummilager der Querlenker (Knarzen)",
+  "alt_causes": [
+   "Traggelenke",
+   "Trockene Türdichtungen und Scharniere"
+  ],
+  "explanation": "Ein Knarzen wie ein altes Bett auf Unebenheiten, beim Einsteigen und beim Wippen des Autos ist trockener Gummi im Fahrwerk: die Lager des Stabilisators oder die Gummilager der Querlenker. Bei Frost und Nässe lauter. Sie können es nachstellen, indem Sie das stehende Auto am Kotflügel mit der Hand wippen lassen.",
+  "advice": "Bei Gelegenheit in der Werkstatt zeigen: oft hilft schon das Schmieren der Lager oder der Tausch von Cent-Teilen. Gefährlich ist es nicht — kommt zum Knarzen aber ein Klopfen dazu oder zieht das Auto zur Seite, geht es um die Traggelenke, und die Prüfung sollte nicht warten."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Festgebackene Bremsbeläge",
+  "alt_causes": [
+   "Festgefrorene Beläge (im Winter)",
+   "Beläge der Handbremse"
+  ],
+  "explanation": "Ein einzelner lauter Schlag oder ein Krachen beim ersten Anfahren nach langem Stehen, besonders mit angezogener Handbremse, nach der Waschanlage, nach Regen oder Frost, sind Beläge, die an den Scheiben festgeklebt oder festgefroren waren und sich lösen. Ist die restliche Fahrt still, ist das harmlos.",
+  "advice": "Sie müssen nichts tun; im Winter können Sie das Auto statt mit der Handbremse im Gang abstellen — nur beim Schaltgetriebe —, damit die hinteren Beläge nicht festfrieren. Wiederholt sich das Krachen bei jedem Anfahren, geht es nicht um die Beläge: dann die Diagnose noch einmal durchlaufen."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Spiel im Lenkgetriebe",
+  "alt_causes": [
+   "Spurstangenköpfe",
+   "Kreuzgelenk der Lenkwelle"
+  ],
+  "explanation": "Ein Klopfen auf feinen Wellen und Fahrbahnfugen, das direkt ins Lenkrad geht und in den Händen zu spüren ist, ist Spiel im Lenkgetriebe: die Buchse oder die Verzahnung ist verschlissen. Ein typisches Zeichen: das Klopfen wird leiser, wenn Sie das Lenkrad leicht unter Spannung halten.",
+  "advice": "Lassen Sie die Lenkung in den nächsten Tagen in der Werkstatt prüfen: das ist ein sicherheitsrelevantes Bauteil, und die Prüfung auf der Hebebühne dauert Minuten. Bei manchen Autos lässt sich das Lenkgetriebe nachstellen — das ist günstig. Ist die Lenkung um die Mittellage leer geworden oder wandert das Auto in der Spur, nicht aufschieben."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Gebrochene Fahrwerksfeder",
+  "alt_causes": [
+   "Ausgeschlagener Stoßdämpfer",
+   "Gebrochener Federteller"
+  ],
+  "explanation": "Scheppern oder metallisches Schaben auf Unebenheiten und in Kurven, das plötzlich nach einem Schlagloch aufgetreten ist, dazu eine tiefer hängende Ecke des Autos, ist das typische Bild einer abgebrochenen Federwindung. Das Bruchstück kann bei der Arbeit des Fahrwerks schleifen und scheppern.",
+  "advice": "Schauen Sie von unten hinter das Rad: eine gebrochene Windung sieht man oft mit bloßem Auge. Innerhalb weniger Tage in die Werkstatt und bis zur Reparatur ruhig fahren: das Bruchstück kann verrutschen und den Reifen beschädigen. Federn werden achsweise paarweise getauscht."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Innenraumkunststoff: Clips und Fugen der Verkleidungen",
+  "alt_causes": [
+   "Gegenstände im Handschuhfach und in den Ablagen",
+   "Trockene Türdichtungen"
+  ],
+  "explanation": "Ein nahes Kunststoffklappern und Knarzen auf kleinen Unebenheiten ist Reibung und Spiel der Verkleidungen: Armaturenbrett, Türverkleidungen, Handschuhfach. Bei Frost lauter. Eine sichere Probe: drücken Sie während der Fahrt die verdächtige Verkleidung mit der Hand an — ist das Geräusch weg, ist es der Innenraum und nicht das Fahrwerk.",
+  "advice": "Kein Defekt: das Auto ist in Ordnung. Kleinkram aus Handschuhfach und Ablagen räumen, in die gefundene Fuge ein Stück Dichtband legen. Knarzen rund um die Türen behebt man, indem man die Dichtungen mit Silikonfett pflegt. Ein Fahrwerksklopfen ist dagegen dumpf, kommt von unten und ändert sich nicht, wenn man auf die Verkleidungen drückt."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Ungesicherte Ladung oder Reserverad im Kofferraum",
+  "alt_causes": [
+   "Wagenheber und Bordwerkzeug",
+   "Hutablage"
+  ],
+  "explanation": "Ein dumpfes Klopfen oder Poltern von hinten auf Unebenheiten, als würde etwas springen und hin- und herrollen, ist meistens auch genau das: der Wagenheber, das Radkreuz, ein schlecht festgezurrtes Reserverad oder eine klappernde Hutablage. Mit beladenem Kofferraum ändert sich das Geräusch meist oder verschwindet.",
+  "advice": "Räumen Sie den Kofferraum leer, prüfen Sie die Befestigung von Reserverad und Wagenheber, drücken Sie die Hutablage fest — und fahren Sie dieselbe Strecke noch einmal. Ist das Klopfen weg, hat das Fahrwerk nichts damit zu tun und Sie müssen nichts weiter unternehmen. Bleibt es, gehen Sie die Diagnose noch einmal über den Zweig zum Klopfen auf Unebenheiten durch."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Schloss oder Gummipuffer der Motorhaube",
+  "alt_causes": [
+   "Scharniere der Motorhaube",
+   "Türfeststeller"
+  ],
+  "explanation": "Ein metallisches Klopfen vorn oben, an der Kante der Motorhaube, auf kleinen Unebenheiten ist Spiel im Haubenschloss oder sind zusammengedrückte Gummipuffer, auf denen die Haube aufliegt. Im Innenraum hört man das Geräusch nah, wie vor dem Gesicht, und nicht von unten wie ein Fahrwerksklopfen.",
+  "advice": "Prüfung im Stand: auf die geschlossene Haube drücken — bewegt sie sich und klopft, ist die Diagnose bestätigt. Die Gummipuffer in den Ecken eine halbe Umdrehung herausdrehen, damit die Haube fester aufliegt; das hilft in den meisten Fällen. Gefährlich ist es nicht."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hydrostößel (bei kaltem Motor)",
+  "alt_causes": [
+   "Ventilspiel",
+   "Zähflüssiges Öl"
+  ],
+  "explanation": "Hydrostößel sind kleine Bauteile, die über den Öldruck das überschüssige Spiel an den Ventilen ausgleichen. Solange der Motor kalt ist, ist das Öl zäh und kommt nicht sofort bei ihnen an — deshalb hört man in den ersten Minuten ein schnelles Ticken. Verschwindet das Geräusch nach dem Warmlaufen vollständig, ist das die typische Situation und ungefährlich.",
+  "advice": "Ölstand und Wechselintervall prüfen: altes oder ungeeignetes Öl verstärkt das Klopfen. Hält das Ticken länger als ein paar Minuten an oder bleibt es bei warmem Motor — einen Werkstatttermin machen. Additive gegen Motorklopfen sollte man nicht einfüllen."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Verschleiß der Kolbengruppe (Klopfen bei kaltem Motor)",
+  "alt_causes": [
+   "Hydrostößel",
+   "Steuerkette"
+  ],
+  "explanation": "Ein dumpfes Klopfen in den ersten Minuten nach einem Kaltstart, das mit dem Warmwerden verschwindet, kommt bei Autos mit Laufleistung oft vom Verschleiß der Kolbengruppe: solange der Kolben kalt ist, hat er im Zylinder etwas mehr Spiel und klopft. Nach dem Warmlaufen dehnen sich die Teile aus und das Klopfen ist weg. Das ist in der Regel eine Sache zum Beobachten und keine für eine sofortige Reparatur.",
+  "advice": "Erzählen Sie es bei Ihrem nächsten Werkstattbesuch und merken Sie sich, wie viele Minuten das Klopfen anhält — das ist eine nützliche Information für den Mechaniker. Behalten Sie Ölstand und Ölverbrauch im Auge. Verschwindet das Klopfen nach dem Warmlaufen nicht mehr oder ist es unter Last zu hören — ohne Aufschub zur Diagnose."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Steuerkette oder ihr Spanner",
+  "alt_causes": [
+   "Hydrostößel",
+   "Rollen des Nebenaggregateriemens"
+  ],
+  "explanation": "Die Steuerkette ist die Kette im Motor, die seine Wellen verbindet und dafür sorgt, dass die Ventile zum richtigen Zeitpunkt öffnen. Wenn sie sich längt oder ihr Spanner nachlässt, hört man beim Kaltstart ein Rascheln oder Rasseln vorn am Motor, das nach dem Warmlaufen verschwindet, sobald der Öldruck steigt. Mit der Zeit tritt das Geräusch immer häufiger auf.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: eine übergesprungene Kette ist eine teure Motorreparatur. Bis dahin keine harten Kaltstarts mit sofortigem Gas, und den Motor vor Belastung warm werden lassen. Unbedingt den Ölstand prüfen."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "Der Nebenaggregateriemen rutscht durch",
+  "alt_causes": [
+   "Verschlissene Spannrolle",
+   "Zu geringe Riemenspannung"
+  ],
+  "explanation": "Quietschen in den ersten Sekunden nach dem Start kommt fast immer vom Riemen, der Lichtmaschine, Wasserpumpe und Klimakompressor antreibt. Kalt oder bei feuchtem Wetter rutscht er über die Scheiben und pfeift, dann wird er warm und ist still. Gefährlich ist das im Moment nicht, es zeigt aber einen verschlissenen Riemen oder eine zu geringe Spannung an.",
+  "advice": "Lassen Sie den Riemen bei Gelegenheit in der Werkstatt ansehen: die Sichtprüfung dauert ein paar Minuten. Tritt das Quietschen auch bei warmem Motor oder beim Einschalten der Klimaanlage auf — nicht aufschieben. Sprühen Sie kein WD-40 auf den Riemen und probieren Sie auch keine anderen Hausmittel."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Zu großes Ventilspiel",
+  "alt_causes": [
+   "Hydrostößel",
+   "Steuerkette"
+  ],
+  "explanation": "Ein gleichmäßiges schnelles Ticken oben am Motor ist der typische Klang des Ventiltriebs. Mit der Zeit werden die Spiele zwischen seinen Teilen größer, und die Ventile fangen an zu klackern — im Leerlauf hört man das am besten. Der Motor geht davon nicht sofort kaputt, aber die Ventile arbeiten mit Schlag und verschleißen schneller.",
+  "advice": "Vereinbaren Sie in den nächsten zwei Wochen einen Termin zum Einstellen der Ventile oder zur Prüfung der Hydrostößel. Behalten Sie den Ölstand im Auge: bei niedrigem Stand wird das Ticken lauter. Fahren können Sie in Ruhe, aber es über Monate zu verschieben lohnt sich nicht."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Klopfen aus dem unteren Teil des Motors (Lagerschalen, Pleuel)",
+  "alt_causes": [
+   "Klopfende Verbrennung",
+   "Verschleiß der Kolbengruppe",
+   "Riemenscheibe der Kurbelwelle (Schwingungsdämpfer)"
+  ],
+  "explanation": "Ein dumpfes Klopfen aus der Tiefe des Motors, das mit der Drehzahl schneller und unter Last lauter wird, ist das alarmierendste aller Motorgeräusche. So klopfen verschlissene Lagerschalen — die Lager, auf denen sich die Kurbelwelle dreht — oder die Pleuel: in den Verbindungen ist Spiel entstanden, und die Teile schlagen aufeinander. Fährt man weiter, kann der Motor festgehen.",
+  "advice": "Fahren Sie nicht weiter als unbedingt nötig aus eigener Kraft: besser den Abschleppwagen rufen; ist die Werkstatt ganz in der Nähe, langsam hinfahren und kein Gas geben. Prüfen Sie sofort den Ölstand und füllen Sie auf, wenn er niedrig ist. Ähnlich können auch weniger schlimme Dinge klopfen, aber das muss ein Mechaniker prüfen — und zwar schnell."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Nebenaggregate oder Motorlager",
+  "alt_causes": [
+   "Magnetkupplung des Klimakompressors",
+   "Hydrostößel"
+  ],
+  "explanation": "Ein Klopfen, das beim Gasgeben nicht schneller wird, kommt meist nicht aus dem Motor selbst, sondern von dem, was an ihm hängt: Lichtmaschine, Riemenscheiben, Halter, Lager. Spiel in diesen Teilen erzeugt dumpfe Schläge im Leerlauf, besonders wenn der Motor leicht zittert.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin: solche Geräusche findet ein Mechaniker gut mit dem Stethoskop. Nützlich ist, wenn Sie sich merken und dem Mechaniker sagen, ob sich das Geräusch ändert, wenn die Klimaanlage anspringt oder wenn bei getretener Bremse ein Gang eingelegt ist."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Verschlissener oder zu locker gespannter Nebenaggregateriemen",
+  "alt_causes": [
+   "Spannrolle",
+   "Riemenscheibe der Lichtmaschine"
+  ],
+  "explanation": "Ein schrilles Quietschen unter der Haube heißt: der Riemen rutscht über die Scheiben. Meist ist der Riemen selbst verschlissen oder der Spanner hat nachgelassen. Reißt der Riemen, fällt die Lichtmaschine aus — und bei vielen Autos auch die Wasserpumpe, die das Kühlmittel umwälzt —, deshalb darf man das nicht schleifen lassen.",
+  "advice": "Zeigen Sie das Auto innerhalb einer Woche in der Werkstatt: Riemen und Rolle zu tauschen ist eine günstige Arbeit. Wird das Quietschen plötzlich viel lauter, leuchtet die Batterielampe oder steigt die Motortemperatur — anhalten und den Motor abstellen."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Wasserpumpe",
+  "alt_causes": [
+   "Riemenrollen",
+   "Lager der Lichtmaschine"
+  ],
+  "explanation": "Brummen oder Rascheln von der Riemenseite zusammen mit Spuren von Kühlmittel sind die typischen Zeichen einer sterbenden Wasserpumpe. Ihr Lager verschleißt, es entsteht Spiel, und durch die Dichtung tritt Kühlmittel aus. Geht die Pumpe fest, überhitzt der Motor schnell.",
+  "advice": "Fahren Sie in den nächsten Tagen in die Werkstatt und behalten Sie unterwegs Motortemperatur und Kühlmittelstand im Auge. Steigt die Temperatur oder tritt unter der Haube Dampf aus — anhalten und den Motor abstellen. Kühlmittel nur bei kaltem Motor nachfüllen."
+ },
+ "leaf_idler": {
+  "top_cause": "Spannrolle oder Umlenkrolle",
+  "alt_causes": [
+   "Wasserpumpe",
+   "Freilauf der Lichtmaschine",
+   "Steuerkette oder ihr Spanner"
+  ],
+  "explanation": "Ein gleichmäßiges Brummen oder Rascheln, das sich mit der Motordrehzahl ändert, kommt meist vom Lager einer der Rollen, über die der Nebenaggregateriemen läuft. Eine verschlissene Rolle wird immer lauter, kann anfangen zu klemmen und am Ende den Riemen zerreißen.",
+  "advice": "Vereinbaren Sie innerhalb einer Woche einen Werkstatttermin: der Mechaniker nimmt den Riemen ab und stellt vor Ort fest, welche Rolle lärmt. Ähnlich können auch die Wasserpumpe, der Freilauf der Lichtmaschine und sogar die Steuerkette klingen — das wird gleich mitgeprüft. Ist aus dem Geräusch ein Schaben oder Kreischen geworden, den Termin vorziehen."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Hitzeschutzblech der Abgasanlage",
+  "alt_causes": [
+   "Befestigungen des Auspuffs",
+   "Motorschutz unter dem Fahrzeug"
+  ],
+  "explanation": "Ein helles metallisches Klappern bei bestimmten Drehzahlen kommt fast immer von einem locker gewordenen Hitzeschutzblech — dem dünnen Blech über Auspufftopf oder Katalysator. Es klingt unangenehm, hat aber keinen Einfluss darauf, wie das Auto läuft.",
+  "advice": "Lassen Sie das Blech bei Gelegenheit in der Werkstatt nachziehen oder mit einer Schelle befestigen: eine Arbeit von wenigen Minuten. Es lohnt sich sicherzustellen, dass wirklich das Blech klappert und nicht die Befestigungen des Auspuffs — auf der Hebebühne sieht man das sofort."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Zündaussetzer oder ein Loch in der Abgasanlage",
+  "alt_causes": [
+   "Zündkerzen und Zündspulen",
+   "Durchgerosteter Auspufftopf oder durchgerostetes Rohr",
+   "Einstellung der Gasanlage (wenn es im Gasbetrieb knallt)"
+  ],
+  "explanation": "Knallen aus dem Auspuff heißt, dass Kraftstoff nicht in den Zylindern zu Ende verbrennt, sondern in der Abgasanlage. Ursachen sind Zündaussetzer durch Kerzen oder Spulen, ein falsches Gemisch oder ein Loch im Abgasstrang. Außer dem Lärm schadet das dem Katalysator, und der ist teuer im Austausch.",
+  "advice": "Machen Sie in den nächsten Tagen einen Diagnosetermin, besonders wenn das Auto schlechter zieht, unrund läuft oder die Motorkontrollleuchte an ist. Lange mit Knallen zu fahren lohnt nicht: unverbrannter Kraftstoff überhitzt den Katalysator. Ist eine Gasanlage verbaut und knallt es im Gasbetrieb — zur Einstellung der Anlage: für sie sind Knaller besonders gefährlich."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Durchgerosteter Auspufftopf oder durchgerostetes Rohr",
+  "alt_causes": [
+   "Dichtung der Abgasanlage",
+   "Gerissenes Flexrohr"
+  ],
+  "explanation": "Ein lautes Röhren, das beim Gasgeben stärker wird, bedeutet meist ein Loch in der Abgasanlage: Auspufftopf, Rohr oder Dichtung sind durch. Der Klang wird sportlich, aber die Abgase treten zu früh aus — das heißt Lärm, Geruch und das Risiko, dass Kohlenmonoxid in den Innenraum gelangt.",
+  "advice": "Zeigen Sie das Auto diese Woche in der Werkstatt: die Abgasanlage auf der Hebebühne anzusehen dauert ein paar Minuten. Riecht es im Innenraum nach Abgas — mit einem Spalt offenem Fenster fahren und den Motor nicht in einer geschlossenen Garage warmlaufen lassen: Kohlenmonoxid ist gefährlich."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Motorlager",
+  "alt_causes": [
+   "Zündaussetzer",
+   "Verschmutzte Drosselklappe oder Einspritzdüsen"
+  ],
+  "explanation": "Wenn im Leerlauf ein Zittern im Innenraum zu spüren ist und Lenkrad und Sitze fein vibrieren, sind oft die Motorlager schuld — die Gummielemente, die die Schwingungen des Motors dämpfen. Mit der Zeit wird der Gummi hart und reißt, und die Vibration geht in die Karosserie.",
+  "advice": "Lassen Sie die Lager in den nächsten zwei Wochen in der Werkstatt prüfen: die Sichtprüfung ist einfach. Ein Hinweis für die Diagnose — Vibrationen von den Lagern werden meist stärker, wenn bei getretener Bremse ein Gang eingelegt ist. Ruckelt der Motor zusätzlich, sagen Sie das dem Mechaniker: dann können auch Zündaussetzer dahinterstecken."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Flugrost auf den Bremsscheiben",
+  "alt_causes": [
+   "Feuchtigkeit oder Staub auf den Belägen",
+   "Beginnender Verschleiß der Beläge"
+  ],
+  "explanation": "Über Nacht, nach Regen oder nach der Waschanlage bildet sich auf den Bremsscheiben ein dünner rostbrauner Film — das ist bei jedem Auto normal. Die ersten Bremsungen schleifen ihn ab, daher das Quietschen oder leichte Schaben, das schnell wieder weg ist.",
+  "advice": "Sie müssen nichts tun: ein paar sanfte Bremsungen zu Beginn der Fahrt reinigen die Scheiben. Verschwindet das Geräusch nicht mehr und tritt es bei jeder Bremsung auf — die Diagnose noch einmal durchlaufen oder das Auto in der Werkstatt zeigen."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Zustand oder Verschleiß der Bremsbeläge",
+  "alt_causes": [
+   "Verschleißanzeiger der Beläge",
+   "Verhärtete Beläge",
+   "Staub oder Korrosion auf den Scheiben"
+  ],
+  "explanation": "Quietschen bei jeder Bremsung ist das Signal, die Beläge zu prüfen. Viele Beläge haben einen metallischen Verschleißanzeiger: ist der nutzbare Belag — die Reibschicht, die an der Scheibe arbeitet — bis zur Grenze abgetragen, berührt ein Plättchen die Scheibe und quietscht absichtlich. Quietschen können auch die Beläge selbst: wegen eines Belags auf der Oberfläche, verhärtetem oder billigem Material.",
+  "advice": "Vereinbaren Sie diese Woche einen Termin zur Prüfung von Belägen und Scheiben. Ist es der Verschleißanzeiger, darf man nicht warten: die nächste Stufe ist Schaben und beschädigte Scheiben. Sind die Beläge in Ordnung, ist das Quietschen ungefährlich, und der Mechaniker sagt Ihnen, wie man es wegbekommt."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Beläge bis aufs Metall abgefahren",
+  "alt_causes": [
+   "Fremdkörper in der Bremse",
+   "Zerfallener Belag"
+  ],
+  "explanation": "Metall auf Metall beim Bremsen heißt: die Reibschicht des Belags ist aufgebraucht, und die Metallträgerplatte schleift an der Scheibe. Der Bremsweg wird länger, die Scheibe wird bei jeder Bremsung weiter zerstört, und die Bremse kann festgehen.",
+  "advice": "Stellen Sie normale Fahrten ein und fahren Sie nur noch bis zur Werkstatt, dabei früh und sanft bremsen. Den Wechsel keinen Tag aufschieben: neben der Sicherheit kommen mit jedem Kilometer die Kosten für neue Bremsscheiben zur Rechnung dazu."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Führungsbolzen des Bremssattels oder Schlag der Bremsscheiben",
+  "alt_causes": [
+   "Spiel in der Radnabe",
+   "Lockere Befestigung des Bremssattels"
+  ],
+  "explanation": "Klopfen beim Bremsen oder Pulsieren im Pedal kommt meist aus der Bremse selbst: die Führungsbolzen des Sattels — des Bauteils, das die Beläge auf die Scheibe drückt — haben Spiel, oder die Scheibe hat sich verzogen und die Beläge schlagen auf ihr. Die Bremse arbeitet dabei, aber ungleichmäßig.",
+  "advice": "Lassen Sie die Bremse in den nächsten Tagen in der Werkstatt prüfen: ein Bauteil, von dem die Sicherheit abhängt, sollte man nicht schleifen lassen. Geht das Pedal tiefer als sonst, zieht das Auto beim Bremsen zur Seite oder schlägt es ins Lenkrad — sofort zur Diagnose."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Etwas schleift an der Bremsscheibe (Ankerblech oder abgefahrene Beläge)",
+  "alt_causes": [
+   "Beläge bis aufs Metall abgefahren",
+   "Verbogenes Ankerblech der Scheibe",
+   "Steinchen zwischen Ankerblech und Scheibe"
+  ],
+  "explanation": "Dauerhaftes Schaben oder Schleifen an einem Rad heißt meist, dass etwas die drehende Bremsscheibe berührt: ein verbogenes Ankerblech, ein hineingeratenes Steinchen — oder bis aufs Metall abgefahrene Beläge. Die ersten beiden Fälle sind harmlos, der dritte ist gefährlich, und nach Gehör verwechselt man sie leicht.",
+  "advice": "Lassen Sie das in den nächsten ein bis zwei Tagen prüfen, ohne es aufzuschieben: ein Blick aufs Rad zeigt die Ursache schnell. Wird das Schaben beim Bremsen stärker oder verhält sich das Pedal anders als sonst — Fahrten einstellen und vorsichtig bis zur Werkstatt fahren."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Radlager",
+  "alt_causes": [
+   "Reifengeräusch",
+   "Verschlissenes Gleichlaufgelenk"
+  ],
+  "explanation": "Ein Brummen, das sich in Kurven während der Fahrt ändert, ist das klassische Zeichen eines verschlissenen Radlagers — des Lagers, auf dem sich das Rad dreht. In der Kurve verlagert sich das Gewicht auf die kurvenäußeren Räder: wird das Brummen in einer Linkskurve lauter, ist die rechte Seite belastet, also brummt wahrscheinlich das rechte Lager; in einer Rechtskurve umgekehrt. Ein zerfallendes Lager lässt das Rad Spiel bekommen und kann im späten Stadium festgehen.",
+  "advice": "Merken Sie sich, in welcher Kurvenrichtung das Brummen stärker ist, und sagen Sie es in der Werkstatt — das grenzt die Suche sofort ein. Die Prüfung nicht länger als eine Woche aufschieben, längere Fahrten bis zur Diagnose verschieben. Kommt eine Vibration dazu oder wird das Brummen deutlich lauter — sofort in die Werkstatt."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Äußeres Gleichlaufgelenk",
+  "alt_causes": [
+   "Inneres Gleichlaufgelenk",
+   "Koppelstangen des Stabilisators",
+   "Allradkupplung (bei 4x4)"
+  ],
+  "explanation": "Knacken oder Krachen bei Fahrt mit eingeschlagenem Lenkrad ist der Markenklang eines verschlissenen äußeren Gleichlaufgelenks: des Gelenks, über das sich das lenkende Rad dreht. Meist fängt alles mit einer gerissenen Manschette an — der Gummimanschette, die das Gelenk vor Schmutz schützt.",
+  "advice": "Sehen Sie sich die Manschetten der Gelenke an oder lassen Sie das in der Werkstatt machen: eine gerissene Manschette und Fett rundherum bestätigen die Diagnose. Mit dem Tausch nicht länger als ein bis zwei Wochen warten — ein verschlissenes Gelenk kann blockieren. Bis zur Reparatur nicht mit voll eingeschlagenen Rädern hart anfahren."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Spurstangenköpfe oder Lenkgetriebe",
+  "alt_causes": [
+   "Koppelstangen des Stabilisators",
+   "Domlager der Federbeine"
+  ],
+  "explanation": "Klopfen beim Lenken, besonders im Stand oder bei niedrigem Tempo, kommt meist von Spiel in den Spurstangenköpfen, den Spurstangen oder im Lenkgetriebe selbst. Beim Fahren stört es noch nicht, aber Spiel in der Lenkung wird mit der Zeit nur größer.",
+  "advice": "Lassen Sie die Lenkung in den nächsten Tagen in der Werkstatt prüfen: die Diagnose auf der Hebebühne dauert ein paar Minuten. Ist die Lenkung um die Mittellage leer geworden, wandert das Auto in der Spur oder ist das Klopfen plötzlich stärker geworden — nicht aufschieben, das ist ein sicherheitsrelevantes Bauteil."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Pumpe der Servolenkung",
+  "alt_causes": [
+   "Zu wenig Servoöl",
+   "Nebenaggregateriemen"
+  ],
+  "explanation": "Ein Heulen oder Brummen beim Lenken im Stand oder bei niedrigem Tempo kommt meist von der Servopumpe — sie erzeugt den Öldruck, der das Lenken leichter macht. Am lautesten heult sie bei voll eingeschlagenem Lenkrad. Die häufigste Ursache: der Ölstand im Behälter ist gefallen.",
+  "advice": "Prüfen Sie den Stand des Servoöls im Behälter unter der Haube und füllen Sie nach, wenn er unter der MIN-Marke liegt. Halten Sie das Lenkrad nicht länger als ein paar Sekunden voll eingeschlagen. Bleibt das Heulen nach dem Nachfüllen oder verschwindet das Öl wieder — innerhalb einer Woche in die Werkstatt."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Koppelstangen des Stabilisators",
+  "alt_causes": [
+   "Stabilisatorlager",
+   "Traggelenke"
+  ],
+  "explanation": "Ein häufiges dumpfes Klopfen auf kleinen Unebenheiten — Kopfsteinpflaster, Fahrbahnfugen, Querrillen — kommt meist von den Koppelstangen des Stabilisators: kleinen Stangen mit Gelenken, die im Fahrwerk als Erstes verschleißen. Für sich genommen sind sie nicht gefährlich, aber ähnlich können auch ernstere Teile klopfen.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Termin zur Fahrwerksprüfung: der Mechaniker bewegt die Teile auf der Hebebühne und findet das Spiel in wenigen Minuten. Bis dahin große Schlaglöcher langsam nehmen. Fängt das Auto an, zur Seite zu ziehen — die Prüfung vorziehen."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Hinterachse: Koppelstangen oder Gummilager der Achse",
+  "alt_causes": [
+   "Stoßdämpfer",
+   "Befestigungen des Auspuffs"
+  ],
+  "explanation": "Häufiges Klopfen hinten auf kleinen Unebenheiten kommt meist von den kleinen Gelenken der Hinterachse: den Koppelstangen des hinteren Stabilisators oder verschlissenen Gummilagern — den Buchsen, über die Lenker und Achse mit der Karosserie verbunden sind. Manchmal klopft ähnlich auch eine locker gewordene Auspuffbefestigung.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Termin zur Fahrwerksprüfung: auf der Hebebühne ist die Quelle eines Klopfens hinten schnell gefunden. Bis dahin große Schlaglöcher langsam nehmen. Nützlich ist, sich zu merken, ob es auf feinen Wellen oder auf einzelnen Löchern klopft — und das dem Mechaniker zu sagen."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Gummilager der Querlenker oder Stoßdämpfer",
+  "alt_causes": [
+   "Domlager der Federbeine",
+   "Traggelenke"
+  ],
+  "explanation": "Einzelne dumpfe Schläge in Schlaglöchern und über Bodenschwellen bedeuten meist verschlissene Gummilager — die Buchsen, über die die Lenker mit der Karosserie verbunden sind — oder müde Stoßdämpfer. Das Fahrwerk fängt den Schlag nicht mehr ab und gibt ihn an die Karosserie weiter.",
+  "advice": "Lassen Sie das Fahrwerk in den nächsten zwei Wochen prüfen. Ein einfacher Test der Stoßdämpfer: drücken Sie eine Ecke des Autos nach unten — die Karosserie soll zurückkommen, ohne nachzuwippen. Unebenheiten bis zur Reparatur sanft nehmen: die Schläge machen auch die Nachbarteile kaputt."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Befestigungen des Auspuffs oder Motorschutz",
+  "alt_causes": [
+   "Hitzeschutzblech",
+   "Durchhängendes Auspuffrohr"
+  ],
+  "explanation": "Metallisches Klappern von unter dem Fahrzeugboden auf Unebenheiten ist meist eine lockere Befestigung: die Gummis des Auspuffs, Schrauben des Motorschutzes oder ein Hitzeschutzblech. Es nervt, hat aber keinen Einfluss auf Motor und Fahrverhalten.",
+  "advice": "Bitten Sie beim nächsten Werkstattbesuch darum, die Befestigungen nachzuziehen: das geht schnell und kostet wenig. Vergewissern Sie sich, dass der Auspuff nicht durchhängt — ein Rohr, das auf der Straße schleift, kann man nicht mehr ignorieren. Bis dahin können Sie normal fahren."
+ },
+ "leaf_detonation": {
+  "top_cause": "Klopfende Verbrennung",
+  "alt_causes": [
+   "Kraftstoff mit zu niedriger Oktanzahl",
+   "Ablagerungen oder defekter Klopfsensor"
+  ],
+  "explanation": "Metallisches Klingeln beim Beschleunigen, besonders bergauf oder aus niedrigen Drehzahlen, ist klopfende Verbrennung: ein Teil des Kraftstoffs im Zylinder entzündet sich von selbst, explosionsartig, statt gleichmäßig zu verbrennen, und die Druckwelle hämmert auf die Kolben. Häufige Ursachen sind Benzin mit niedrigerer Oktanzahl als vorgeschrieben, Ablagerungen im Brennraum oder ein defekter Klopfsensor. Dauerhaftes Klopfen zerstört den Motor nach und nach.",
+  "advice": "Tanken Sie Kraftstoff mit mindestens der vom Hersteller vorgeschriebenen Oktanzahl, am besten an einer anderen Tankstelle — oft ist das Klingeln nach einer Tankfüllung weg. Bis zur Prüfung den Motor nicht belasten: sanft beschleunigen und am Berg zurückschalten. Bleibt das Klingeln auch nach dem Wechsel des Kraftstoffs — zur Diagnose."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Motorlager oder inneres Gleichlaufgelenk",
+  "alt_causes": [
+   "Spiel im Antriebsstrang",
+   "Getriebelager"
+  ],
+  "explanation": "Ein Klopfen im Moment des Gasgebens oder Gaswegnehmens deutet auf Spiel in der Kette hin, die die Kraft überträgt. Verschlissene Lager lassen den Motor beim Lastwechsel kippen, und ein verschlissenes inneres Gleichlaufgelenk — das Gelenk an der Welle vom Getriebe zum Rad — klopft beim Gasgeben und Gaswegnehmen. Wichtig ist: das Geräusch kommt mit dem Lastwechsel, nicht mit Unebenheiten.",
+  "advice": "Vereinbaren Sie in den nächsten ein bis zwei Wochen einen Diagnosetermin. Ein Hinweis für die Werkstatt: merken Sie sich, ob das Klopfen näher am Motor oder an den Rädern ist und ob es sich beim Schalten wiederholt. Bis dahin Gas und Gänge sanfter benutzen."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Radlager",
+  "alt_causes": [
+   "Reifengeräusch",
+   "Mittellager oder Antriebsstrang"
+  ],
+  "explanation": "Ein gleichmäßiges Brummen, das mit dem Tempo zunimmt und nicht von der Motordrehzahl abhängt, kommt meist von einem verschlissenen Radlager — dem Lager, auf dem sich das Rad dreht. Das Brummen klingt wie ein startendes Flugzeug und ändert sich mit dem Straßenbelag kaum. Ein zu lange gefahrenes Lager lässt das Rad Spiel bekommen und kann im Extremfall festgehen.",
+  "advice": "Lassen Sie es innerhalb einer Woche prüfen: der Mechaniker dreht die Räder auf der Hebebühne und findet die laute Radnabe — das Gehäuse, in dem dieses Lager sitzt. Lange Autobahnfahrten bis dahin verschieben. Wird das Brummen plötzlich lauter oder kommt eine Vibration dazu — sofort hin."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Hinteres Radlager",
+  "alt_causes": [
+   "Reifengeräusch",
+   "Differenzial oder Mittellager (bei Heck- und Allradantrieb)"
+  ],
+  "explanation": "Ein gleichmäßiges Brummen von hinten, das mit dem Tempo zunimmt, kommt meist von einem hinteren Radlager — dem Lager, auf dem sich das Rad dreht. Bei Heck- und Allradantrieb brummt der Antriebsstrang ähnlich, deshalb lohnt es sich, die Quelle auf der Hebebühne zu bestätigen.",
+  "advice": "Lassen Sie es innerhalb einer Woche prüfen: hinten verwechselt man ein Lagerbrummen leicht mit dem Differenzial, und eine Kontrolle auf der Hebebühne klärt das sofort. Lange Autobahnfahrten bis dahin verschieben. Wird das Brummen plötzlich lauter oder kommt eine Vibration dazu — sofort hin."
+ },
+ "leaf_tires": {
+  "top_cause": "Reifengeräusch",
+  "alt_causes": [
+   "Ungleichmäßig abgefahrenes Profil",
+   "Radlager"
+  ],
+  "explanation": "Wenn das Brummen vom Belag abhängt — auf frischem Asphalt leiser, auf grobem lauter —, sind es höchstwahrscheinlich die Reifen. Besonders laut sind Winter-, Geländereifen und ungleichmäßig abgefahrene Reifen. Das ist eine Frage des Komforts und kein Defekt.",
+  "advice": "Sehen Sie sich das Profil an: sägezahnartiger Verschleiß mit Stufen an den Kanten oder fleckiger Verschleiß macht das Brummen lauter und deutet auf eine verstellte Achsvermessung oder müde Stoßdämpfer hin. Prüfen Sie den Reifendruck. Hängt das Brummen in Wirklichkeit nicht vom Belag ab und nimmt mit dem Tempo zu — dann zurück zur Erklärung mit dem Radlager."
+ }
+}

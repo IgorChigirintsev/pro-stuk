@@ -71,6 +71,18 @@ export const en: Dict = {
       },
     ],
   },
+  quiz: {
+    h2: 'Check it now',
+    sub: 'A few questions and you will see the likely cause and how urgent it is.',
+    urgOk: 'Safe to drive',
+    urgWarn: 'Shop this week',
+    urgStop: 'Pull over',
+    back: 'Back',
+    restart: 'Start over',
+    cta: 'Full sound report — in the app',
+    schemaMarked: 'Circled is what your answers point to — a theory, not a diagnosis.',
+    schemaWhole: 'The whole assembly.',
+  },
   download: {
     h2: 'The Android app',
     sub: 'The questionnaire, the sound recording and the full report with probabilities are all in the Stuk app.',

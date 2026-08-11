@@ -69,6 +69,18 @@ export const ko: Dict = {
       },
     ],
   },
+  quiz: {
+    h2: '지금 바로 확인하기',
+    sub: '몇 가지 질문에 답하면 가능성 있는 원인과 긴급도가 보입니다.',
+    urgOk: '계속 주행 가능',
+    urgWarn: '이번 주에 정비소로',
+    urgStop: '즉시 정차',
+    back: '뒤로',
+    restart: '처음부터',
+    cta: '소리 전체 리포트는 앱에서',
+    schemaMarked: '표시된 곳은 답변이 가리키는 부분입니다. 추정이지 진단이 아닙니다.',
+    schemaWhole: '해당 부위 전체 그림.',
+  },
   download: {
     h2: 'Android 앱',
     sub: '설문, 소리 녹음, 확률이 붙은 전체 리포트는 모두 Stuk 앱 안에 있습니다.',

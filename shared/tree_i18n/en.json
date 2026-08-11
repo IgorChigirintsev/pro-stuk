@@ -1,0 +1,1104 @@
+{
+ "q_when": {
+  "text": "When do you hear the noise?",
+  "options": {
+   "o1": "On starting, or when trying to start",
+   "o2": "Standing still, with the engine running",
+   "o3": "Only while driving",
+   "o4": "Both standing still and driving"
+  }
+ },
+ "q_start_char": {
+  "text": "What do you hear when you turn the key or press start?",
+  "options": {
+   "o1": "Clicking, the engine does not turn over",
+   "o2": "A metallic grinding while the starter turns",
+   "o3": "The starter spins but the engine does not catch",
+   "o4": "A squeal or whistle right after the engine starts"
+  }
+ },
+ "q_start_clicks": {
+  "text": "What kind of clicking?",
+  "options": {
+   "o1": "Rapid chattering, dashboard lights dim",
+   "o2": "One clear click, then silence"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Does the noise appear only when you switch something on or press something — heater, A/C, clutch, steering, brake?",
+  "options": {
+   "o1": "Yes, it is tied to a specific action",
+   "o2": "No, it is there on its own"
+  }
+ },
+ "q_action": {
+  "text": "Which action is the noise tied to?",
+  "options": {
+   "o1": "The heater or blower fan",
+   "o2": "The air-conditioning button",
+   "o3": "The clutch pedal",
+   "o4": "The steering, brake pedal or wipers"
+  }
+ },
+ "q_hvac": {
+  "text": "What does it sound like with the blower on?",
+  "options": {
+   "o1": "Rustling or crackling that changes with fan speed",
+   "o2": "A squeal or howl from behind the dashboard",
+   "o3": "A series of clicks behind the dash when changing temperature or airflow",
+   "o4": "Gurgling or trickling behind the dash"
+  }
+ },
+ "q_ac": {
+  "text": "What do you hear when the A/C comes on?",
+  "options": {
+   "o1": "A squeal at the moment it engages",
+   "o2": "Grinding or rumbling while the A/C runs",
+   "o3": "A short hiss when switching on or off, and it still cools"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "How is the noise related to the clutch pedal?",
+  "options": {
+   "o1": "Rustling or humming with the pedal up; it fades when you press it",
+   "o2": "It appears or gets louder when the pedal is pressed",
+   "o3": "Rattling or clatter at idle that changes when you press the pedal",
+   "o4": "A creak when pressing, audible even with the engine off"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "What exactly is the noise tied to?",
+  "options": {
+   "o1": "A howl or hum when you turn the steering wheel",
+   "o2": "Crunching or clicking when turning the wheel while parked",
+   "o3": "A hiss from behind the dash when you press the brake pedal",
+   "o4": "A knock or squeak in time with the wipers"
+  }
+ },
+ "q_ps_type": {
+  "text": "Is there a power-steering fluid reservoir under the bonnet?",
+  "options": {
+   "o1": "Yes, there is",
+   "o2": "No, or I am not sure"
+  }
+ },
+ "q_steer_click": {
+  "text": "Where do the clicks come from?",
+  "options": {
+   "o1": "From above, behind the wheel arch, near the bonnet",
+   "o2": "From the steering wheel or column, down by your feet"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Is the noise there only on a cold engine, right after starting?",
+  "options": {
+   "o1": "Yes, it goes away once warm",
+   "o2": "No, it is there when warm too"
+  }
+ },
+ "q_cold_char": {
+  "text": "What does the cold-engine noise sound like?",
+  "options": {
+   "o1": "Rapid ticking or tapping",
+   "o2": "A dull knock that disappears once warm",
+   "o3": "Rustling or clatter from the front of the engine",
+   "o4": "A squeal or whistle on starting"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Is the tapping louder outside than in the cabin, and does it smell of exhaust under the bonnet?",
+  "options": {
+   "o1": "Yes, louder outside and there is a smell",
+   "o2": "No, it taps from the top of the engine, no smell"
+  }
+ },
+ "q_engine_char": {
+  "text": "What does the noise sound like?",
+  "options": {
+   "o1": "A knock or ticking",
+   "o2": "A squeal, whistle, hum or hiss",
+   "o3": "Ringing, rattling, popping or gurgling",
+   "o4": "Vibration or shaking at idle"
+  }
+ },
+ "q_engine_knock": {
+  "text": "What kind of knock exactly?",
+  "options": {
+   "o1": "Light, rapid ticking from the top of the engine",
+   "o2": "A dull or sharp knock from deep inside the engine"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Has the ticking got louder over time, or is it always the same?",
+  "options": {
+   "o1": "It has got louder, and is clearer when warm",
+   "o2": "Always the same, and louder outside than in the cabin"
+  }
+ },
+ "q_knock_load": {
+  "text": "If you blip the throttle gently, does the knock get faster and louder?",
+  "options": {
+   "o1": "Yes, faster and louder",
+   "o2": "Barely changes, or it disappears"
+  }
+ },
+ "q_squeal": {
+  "text": "What kind of noise is it?",
+  "options": {
+   "o1": "A piercing squeal or whistle",
+   "o2": "A steady hum or rustle",
+   "o3": "A steady hiss, like air escaping a tyre"
+  }
+ },
+ "q_hum_source": {
+  "text": "Where does the hum come from?",
+  "options": {
+   "o1": "From the front, under the bonnet, changing with engine speed",
+   "o2": "It comes and goes by itself: in heat, in traffic, with the A/C on",
+   "o3": "From the rear, near the tank; audible with the ignition on before starting"
+  }
+ },
+ "q_pump_check": {
+  "text": "Are there drips or fluid traces near the belt under the bonnet?",
+  "options": {
+   "o1": "Yes, drips or a smell of coolant",
+   "o2": "It is dry",
+   "o3": "I could not check"
+  }
+ },
+ "q_rattle": {
+  "text": "What is the noise and where from?",
+  "options": {
+   "o1": "A metallic rattle from under the car",
+   "o2": "Popping or banging from the exhaust",
+   "o3": "Gurgling or trickling behind the dashboard"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Along with the rattle, has the car lost power or does the exhaust smell odd?",
+  "options": {
+   "o1": "Yes, less power or a changed smell",
+   "o2": "No, it just rattles at certain engine speeds"
+  }
+ },
+ "q_move_when": {
+  "text": "When driving, when is the noise strongest?",
+  "options": {
+   "o1": "When braking",
+   "o2": "In corners, or when turning the wheel",
+   "o3": "Over bumps and potholes",
+   "o4": "On the throttle, when shifting, or all the time"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Is it only the first few stops after parking or in the rain, and then it goes?",
+  "options": {
+   "o1": "Yes, it clears quickly",
+   "o2": "No, it is there on every stop"
+  }
+ },
+ "q_brake_char": {
+  "text": "What does it sound like when braking?",
+  "options": {
+   "o1": "A squeal or squeak",
+   "o2": "Metal grinding on metal",
+   "o3": "A knock or pulsing through the pedal"
+  }
+ },
+ "q_turn_char": {
+  "text": "What do you hear in a corner?",
+  "options": {
+   "o1": "A hum at speed, louder to one side",
+   "o2": "Clicking or crunching with the wheel on full lock",
+   "o3": "A knock when you turn the wheel",
+   "o4": "A howl or hum when turning while parked or manoeuvring"
+  }
+ },
+ "q_bump_char": {
+  "text": "What kind of noise over bumps?",
+  "options": {
+   "o1": "A knock or clunk",
+   "o2": "A creak, like an old bed",
+   "o3": "Rattling or clatter",
+   "o4": "A single thud on the first move after standing a long time"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "What kind of knock exactly?",
+  "options": {
+   "o1": "Frequent dull knocking over small bumps",
+   "o2": "Single dull thuds over potholes and speed bumps",
+   "o3": "The knock comes through the steering wheel, you feel it in your hands",
+   "o4": "The clunk appeared suddenly after hitting a pothole, and one corner sits lower"
+  }
+ },
+ "q_bump_where": {
+  "text": "Is the knock from the front or the rear?",
+  "options": {
+   "o1": "The front",
+   "o2": "The rear",
+   "o3": "Hard to tell"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Where is the rattle from?",
+  "options": {
+   "o1": "From under the car",
+   "o2": "From the cabin: dashboard, doors, trim squeaks",
+   "o3": "From the boot, as if something is rolling around",
+   "o4": "From the front, up near the bonnet"
+  }
+ },
+ "q_move_manner": {
+  "text": "How is the noise related to how you drive?",
+  "options": {
+   "o1": "It appears on or off the throttle",
+   "o2": "At the moment of a gear change or pulling away",
+   "o3": "It is there constantly while the car moves",
+   "o4": "It is more of a vibration or shudder than a noise"
+  }
+ },
+ "q_accel_char": {
+  "text": "What does it sound like under acceleration?",
+  "options": {
+   "o1": "Metallic pinging, especially uphill",
+   "o2": "A knock as you press or lift off the throttle",
+   "o3": "Popping or a loud roar from the exhaust",
+   "o4": "A howl or whistle under load"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Popping or roaring?",
+  "options": {
+   "o1": "Popping or backfiring",
+   "o2": "A roar, louder on the throttle; the car pulls as usual",
+   "o3": "The engine revs but the car does not accelerate; sometimes a burning smell"
+  }
+ },
+ "q_load_whine": {
+  "text": "What kind of whine under load?",
+  "options": {
+   "o1": "A high whistle only on the throttle, gone when you lift off (turbo engine)",
+   "o2": "A hum or whine whose pitch changes on and off the throttle at the same speed",
+   "o3": "A monotone whine under acceleration; the gearbox is a CVT or automatic",
+   "o4": "Louder in one gear and quieter in another; manual gearbox"
+  }
+ },
+ "q_shift_char": {
+  "text": "What happens when shifting or pulling away?",
+  "options": {
+   "o1": "A jolt or clunk shifting an automatic between D and R, or during changes",
+   "o2": "A crunch when engaging a gear on a manual",
+   "o3": "The car shudders as you pull away while releasing the clutch",
+   "o4": "A single clunk underneath as you pull away or change throttle"
+  }
+ },
+ "q_vibration": {
+  "text": "When is the shaking strongest?",
+  "options": {
+   "o1": "At 50–75 mph the wheel shakes finely; less above and below",
+   "o2": "From 25–40 mph onwards, worse as speed rises",
+   "o3": "In a narrow speed band, felt through the floor and body; rear- or all-wheel drive",
+   "o4": "Only when braking, the wheel kicks back"
+  }
+ },
+ "q_const_char": {
+  "text": "What does the constant noise sound like?",
+  "options": {
+   "o1": "A steady hum or whine",
+   "o2": "Grinding, scraping or a squeak from a wheel",
+   "o3": "A loud roar or droning",
+   "o4": "A whistle or moan only at high speed"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "What is the noise from the wheel?",
+  "options": {
+   "o1": "A thin squeak; it stops or changes when you touch the brake",
+   "o2": "Scraping; after driving the wheel is hot and the car pulls to one side",
+   "o3": "Constant grinding or scraping, and the wheel does not get hot",
+   "o4": "A rhythmic knock or click in time with wheel rotation"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Have the wheels been changed, rotated or removed recently?",
+  "options": {
+   "o1": "Yes, in the last few days",
+   "o2": "No, not for a long time"
+  }
+ },
+ "q_neutral_test": {
+  "text": "A check: get up to the speed where you hear it, shift to neutral and coast. Does the hum stay?",
+  "options": {
+   "o1": "It stays",
+   "o2": "It fades along with the engine speed",
+   "o3": "I could not check"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Does the whine change with the gear you are in?",
+  "options": {
+   "o1": "Yes, it sounds different in different gears",
+   "o2": "No, it depends only on engine speed"
+  }
+ },
+ "q_hum_road": {
+  "text": "Does the hum change in gentle curves?",
+  "options": {
+   "o1": "Yes, quieter or louder to one side",
+   "o2": "No, it is steady at any speed above 25–40 mph",
+   "o3": "It depends on the road surface"
+  }
+ },
+ "q_hum_where": {
+  "text": "Is the hum from the front or the rear?",
+  "options": {
+   "o1": "The front",
+   "o2": "The rear",
+   "o3": "Hard to tell"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Flat battery or corroded terminals",
+  "alt_causes": [
+   "Poor earth connection",
+   "A dying starter"
+  ],
+  "explanation": "Rapid chattering when you try to start means the starter solenoid is not getting enough current: it clicks but cannot turn the engine over. Usually the battery is flat, or the terminals are corroded and loose. Dashboard lights dimming as you try confirms it.",
+  "advice": "Check the battery terminals: clean off any white or greenish deposit and tighten them. If that does not help, charge the battery or jump-start from another car and drive to a shop for a replacement. A battery older than four or five years is almost certainly done."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Starter solenoid or its main contacts",
+  "alt_causes": [
+   "Corroded terminals",
+   "Wiring to the starter"
+  ],
+  "explanation": "One clear click with the lights staying bright means the solenoid engages but the starter motor itself does not run: burnt main contacts, worn brushes, or a stuck solenoid. Sometimes it starts on the second or third try — that is the same diagnosis.",
+  "advice": "Try starting a few more times; if it only starts every other time, get to a garage within days, before you are stranded in a car park. Check and tighten the battery terminals. Tapping the starter is a way to get home once, not a fix."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Starter drive gear or flywheel ring gear",
+  "alt_causes": [
+   "Worn ring-gear teeth",
+   "Misaligned starter"
+  ],
+  "explanation": "Metallic grinding on starting means the starter pinion is not meshing properly with the flywheel ring gear: the teeth are worn or the mechanism is sticking. Every start like this eats away at both the starter and the flywheel.",
+  "advice": "Book a garage within the week: replacing the pinion or the starter is far cheaper than the ring gear, which means dropping the gearbox. Until then, do not hold the key in the start position longer than needed, and do not retry immediately after a grind."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "The starter pinion is not engaging, or ring-gear teeth are stripped",
+  "alt_causes": [
+   "Starter one-way clutch",
+   "Flywheel ring gear"
+  ],
+  "explanation": "If the starter spins briskly but the engine does not even try to turn, the pinion is spinning free: the one-way clutch in the starter drive is worn, or the ring-gear teeth are stripped at that spot.",
+  "advice": "A second attempt sometimes works, because the flywheel stops in a different position. Still, get to a garage within days: every attempt makes the damage worse. On a manual you can bump-start in an emergency — never do this with an automatic."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Leaves or debris in the heater fan",
+  "alt_causes": [
+   "Clogged cabin filter",
+   "A foreign object in the ducting"
+  ],
+  "explanation": "Rustling and crackling that changes with fan speed is almost always leaves or debris drawn through the air intake into the heater fan. It is a classic autumn problem, especially if the cabin filter is clogged or missing.",
+  "advice": "Replace the cabin filter — the debris often sits right on it, and on many cars this is a ten-minute job you can do yourself; instructions for your model are easy to find. If the rustling remains, ask a garage to blow out and clean the fan."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Heater fan motor bearing or bushings",
+  "alt_causes": [
+   "Debris in the fan",
+   "The fan wheel is touching its housing"
+  ],
+  "explanation": "A squeal or howl from behind the dashboard that only appears with the blower on comes from a worn heater fan motor. The check is simple: switch the blower off and the squeal stops instantly, even with the engine running.",
+  "advice": "It does not affect safety, but in time the motor will seize and leave you without heating — better to replace it before the cold sets in. Until then you can use the fan speeds at which the squeal is quieter."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Heater flap actuator",
+  "alt_causes": [
+   "Normal flap calibration",
+   "Stripped teeth in the actuator gear"
+  ],
+  "explanation": "A burst of rapid clicking or chattering behind the dash when you switch on the ignition or change the temperature is the small servo that moves the heater flaps. A short, identical burst is often just calibration. Endless chattering means the plastic gear teeth are stripped.",
+  "advice": "If the clicks are brief and the heating works as set, you can leave it. If the chattering drags on, or air blows somewhere other than where you set it, book a garage when convenient: it does the car no harm, but comfort suffers."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Air in the cooling system (low coolant level)",
+  "alt_causes": [
+   "Faulty expansion tank cap",
+   "A coolant leak"
+  ],
+  "explanation": "Gurgling or trickling behind the dash is an air pocket passing through the heater matrix. Air gets into the system when the coolant level has dropped: either there is a leak somewhere or the tank cap is not holding pressure. The heater may blow warm, then cold.",
+  "advice": "With the engine cold, check the level in the expansion tank and top it up, then watch whether it drops again. If the level keeps falling, or the heater blows cold on a hot engine, get to a garage this week. If the temperature gauge climbs or you see steam, pull over and switch the engine off."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Slipping air-conditioning compressor clutch",
+  "alt_causes": [
+   "A loose belt",
+   "Worn clutch friction plate"
+  ],
+  "explanation": "A squeal exactly at the moment the A/C engages means the clutch that connects the compressor to the belt is slipping under load. A single click on engagement is normal; a squeal points to a worn clutch or a slack belt.",
+  "advice": "Have it looked at within a couple of weeks: left alone, the squeal becomes constant and the compressor can seize and snap the belt. You can still use the A/C until then, but switch it off if the squeal gets worse."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Air-conditioning compressor (bearing or wear)",
+  "alt_causes": [
+   "Clutch pulley bearing",
+   "Low oil level in the system"
+  ],
+  "explanation": "Grinding or rumbling heard only while the A/C is running is a dying compressor or its pulley bearing. A seized compressor snaps the belt, and on many cars that belt also drives the alternator and the water pump.",
+  "advice": "Leave the A/C switched off for now — that will get the unit to the repair intact. Book a diagnosis within the week: while only the bearing is failing, the repair is far cheaper than replacing the compressor and flushing the whole system."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Normal refrigerant flow",
+  "alt_causes": [
+   "Normal operation of the expansion valve"
+  ],
+  "explanation": "A brief hiss or gurgle behind the dash in the first seconds after switching the A/C on or off is refrigerant moving through the expansion valve. If the cabin still gets cold, this is the system working as intended, not a leak.",
+  "advice": "Nothing needs doing. The reason to check is different: if the hiss becomes constant and the cooling is weak or gone, book a diagnosis of the air-conditioning system."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Gearbox input shaft bearing",
+  "alt_causes": [
+   "Clutch release bearing",
+   "Accessory belt pulleys"
+  ],
+  "explanation": "A rustle or hum at idle that fades when you press the clutch comes from the gearbox: with the pedal up, the input shaft turns with the engine and its worn bearing makes the noise. Press the pedal, the shaft stops and the noise goes. The belt and its pulleys do not react to the clutch pedal at all.",
+  "advice": "Book a diagnosis within a week or two, and be sure to mention that the noise depends on the pedal — that alone points the search in the right direction. Check the gearbox oil level. You can drive, but do not leave it for months: a failed bearing takes the shafts and gears with it."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Clutch release bearing",
+  "alt_causes": [
+   "Input shaft bearing",
+   "Clutch fork"
+  ],
+  "explanation": "A rustle or hum that appears or grows when the clutch pedal is pressed comes from the release bearing — the part that pushes on the pressure plate as you press. A worn release bearing is noisy precisely under load, that is, with the pedal down.",
+  "advice": "Book a garage within a week or two. Keep the pedal down only when you need to — at traffic lights, use neutral and let the clutch up. A release bearing that breaks up can leave you without a clutch on the road, so do not drag this out for months."
+ },
+ "leaf_dmf": {
+  "top_cause": "Dual-mass flywheel",
+  "alt_causes": [
+   "Clutch disc damper springs",
+   "Release bearing"
+  ],
+  "explanation": "A metallic rattle or clatter at idle from the gearbox side that changes when you press the clutch, and is loudest in the seconds while starting and switching off, is the classic signature of a worn dual-mass flywheel — the damper between engine and gearbox that absorbs shocks.",
+  "advice": "Book a diagnosis within a couple of weeks and describe how the noise relates to the pedal and to starting and stopping. Replacement is not cheap, but delay ruins the clutch too and can end with the flywheel breaking up while driving. Until then, pull away gently and avoid labouring the engine at low revs."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Clutch pedal linkage (pivot, fork or cable)",
+  "alt_causes": [
+   "Pedal pivot bushings",
+   "Release fork"
+  ],
+  "explanation": "A creak when pressing the pedal that you can hear with the engine off is dry linkage: the pedal pivot, the cable or the fork. Because the noise exists without the engine running, the belt, the release bearing and the gearbox have nothing to do with it.",
+  "advice": "Ask a garage to grease the pedal pivot and the fork at your next visit — this often takes minutes. There is no danger. If the pedal has also become stiff, or the clutch now bites right at the floor, have it looked at sooner."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Strut top mount bearing",
+  "alt_causes": [
+   "Steering rack",
+   "Anti-roll bar links"
+  ],
+  "explanation": "Crunching or clicking when turning the wheel while parked, coming from above behind the wheel arch, is the top mount bearing — the part the top of the strut turns on as the wheel steers. Single clunks from above over potholes are a further sign.",
+  "advice": "Book a diagnosis within a week or two: the check is simple, as a hand on the strut top under the bonnet feels the clicks straight away. You can drive, but a worn mount wears the strut faster and makes the steering return sluggish."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Steering column universal joint",
+  "alt_causes": [
+   "Play in the shaft splines",
+   "Steering rack"
+  ],
+  "explanation": "A click or knock you can hear and feel right in the steering wheel, down by your feet, usually comes from the universal joint on the intermediate steering shaft — the small coupling between the wheel and the rack. With the engine off, rocking the wheel left and right makes the click clearly audible.",
+  "advice": "Have it checked within days: steering is a safety system and the check takes minutes. Play in the column grows over time and adds slack to the wheel."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Brake servo or its vacuum hose",
+  "alt_causes": [
+   "Servo check valve",
+   "A cracked vacuum hose"
+  ],
+  "explanation": "A hiss from behind the dash that appears and changes exactly as you press and release the brake pedal is air being drawn into the brake servo — the unit that reduces the effort at the pedal. The pedal usually becomes noticeably harder, and the idle may waver.",
+  "advice": "Book a garage this week: the brakes still work without the servo, but you will have to push far harder, which is dangerous in an emergency. Check the pedal before setting off: if it has gone hard as a board, drive gently and not far."
+ },
+ "leaf_wipers": {
+  "top_cause": "Wiper linkage or blade rubbers",
+  "alt_causes": [
+   "Loose wiper arm nuts",
+   "Worn wiper motor bushings"
+  ],
+  "explanation": "A knock at the ends of the sweep is play in the wiper linkage joints — the mechanism that drives the arms — or loose arm nuts. An even squeak across the glass is hardened blade rubbers. The check is simple: switch the wipers off and the noise stops at once and completely.",
+  "advice": "Squeaking rubbers you can replace yourself — blades are sold in any parts shop. For a knock at the ends of the sweep, have the arm nuts tightened or the linkage bushings replaced when convenient. The only safety issue here is a clear windscreen."
+ },
+ "leaf_eps": {
+  "top_cause": "Electric power steering: a faint hum is normal",
+  "alt_causes": [
+   "Worn electric steering unit",
+   "Steering rack"
+  ],
+  "explanation": "If there is no fluid reservoir under the bonnet, the steering is electric, and a steady quiet hum when turning is it working normally, not a fault. There is simply no hydraulic pump in such a car to howl from a low fluid level.",
+  "advice": "The warning signs of electric steering are different: the wheel becomes heavy or stiffens in steps, crunching appears, or the steering warning light comes on. If you have any of those, get to a garage within days; if not, drive on with confidence."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Exhaust manifold gasket or a crack",
+  "alt_causes": [
+   "Manifold studs",
+   "Hydraulic lifters"
+  ],
+  "explanation": "Rapid tapping on a cold engine that is louder outside and comes with a smell of exhaust under the bonnet is gases escaping through a burnt manifold gasket or a crack. As the metal warms it expands, the gap closes and the tapping stops.",
+  "advice": "Book a garage within a week or two: the gap grows over time, and exhaust fumes can be drawn into the cabin through the heater, which is harmful. Until it is fixed, air the cabin if you can smell exhaust."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Normal injector tick (direct injection or diesel)",
+  "alt_causes": [
+   "High-pressure fuel pump",
+   "Valve clearances"
+  ],
+  "explanation": "On direct-injection engines (TSI, GDI and the like) and on diesels, the injectors and the high-pressure pump always tick — that is how they work. The giveaways: the sound is the same cold and hot, louder outside than in the cabin, and it does not depend on how old the oil is.",
+  "advice": "Nothing needs doing. What should concern you is different: if the ticking has become noticeably louder than before, changed once warm, or arrived together with a loss of power — then book a diagnosis."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Air leak (vacuum hose or intake gasket)",
+  "alt_causes": [
+   "A cracked hose",
+   "Intake manifold gasket"
+  ],
+  "explanation": "A steady hiss under the bonnet, like air from a punctured tyre, is unmetered air being drawn in through a cracked hose or an intake gasket. The engine often runs unevenly because of it: the idle wanders and the check-engine light may come on.",
+  "advice": "Book a diagnosis within days, especially if the idle wanders: tracing an air leak is a standard job. You can look yourself at the thin rubber hoses under the bonnet for cracks, without removing anything."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Radiator cooling fan (bushings, or running constantly)",
+  "alt_causes": [
+   "Temperature sensor or thermostat",
+   "Viscous coupling (rear-wheel drive)"
+  ],
+  "explanation": "A hum or roar that switches itself on and off — in the heat, in traffic, with the A/C on — is the radiator cooling fan. A noisy fan means either worn motor bushings or that it runs constantly because of a sensor or the thermostat. Running on for a couple of minutes after switching off is normal.",
+  "advice": "If the fan roars constantly from start-up on a cold engine, book a diagnosis within days: the cooling system is not working properly. Watch the temperature gauge; if it climbs, pull over and switch the engine off."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Electric fuel pump",
+  "alt_causes": [
+   "Clogged fuel filter",
+   "Pump strainer"
+  ],
+  "explanation": "A steady buzz or whine from the rear, under the back seat or near the tank, is the fuel pump. Hearing it for a couple of seconds when you switch on the ignition is normal, but a loud whine you notice while driving points to a worn pump or a clogged filter making it strain.",
+  "advice": "Book a fuel pressure check within a week or two. Do not drive for long on the low-fuel light: at the bottom of the tank the pump cools less well and wears faster. If the car has started hesitating under load or is hard to start, go sooner."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Broken-up catalytic converter",
+  "alt_causes": [
+   "Heat shield",
+   "Exhaust mountings"
+  ],
+  "explanation": "A ringing rattle or shuffling from under the car nearer the engine, which grows when you blip the throttle and comes with a loss of power or a changed exhaust smell, is the ceramic inside the converter breaking apart. The fragments rattle in the casing, and the blocked honeycomb chokes the engine.",
+  "advice": "Book a diagnosis within days: fragments of ceramic can be drawn into the engine, and that is an expensive repair. A simple check at a garage is a light tap on the converter body once cold — you can hear the loose pieces inside. This is not one to put off."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Automatic gearbox: old fluid, wear, or play in the driveline",
+  "alt_causes": [
+   "Engine and gearbox mounts",
+   "Driveshaft universal joints (rear-wheel drive)"
+  ],
+  "explanation": "A jolt or clunk exactly as you move the selector between D and R, or during gear changes, points to wear or old fluid in the automatic: the gear engages with a shock, and play in the driveline amplifies it. Sagging mounts clunk in a similar way, so the diagnosis is worth confirming.",
+  "advice": "First check the level and condition of the gearbox fluid — dark, with a burnt smell, means it needs changing, and in many cases that is enough. Book a diagnosis within a week or two and say exactly which changes jolt. Until then, move the selector only at a full stop with the brake pressed."
+ },
+ "leaf_synchro": {
+  "top_cause": "Gearbox synchronisers, or the clutch not fully disengaging",
+  "alt_causes": [
+   "Clutch pedal free play",
+   "Worn clutch"
+  ],
+  "explanation": "A crunch as you engage a gear on a manual means the gears meet at different speeds. If only one or two gears crunch — usually second or third — their synchronisers are worn; if every gear crunches, the clutch is not fully disengaging and the gearbox never lets go.",
+  "advice": "Check the clutch pedal free play and the gearbox oil level — a garage will start there too. Book a diagnosis within a couple of weeks. Until then shift more slowly, with a pause in neutral: it crunches less and wears less."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Clutch: worn or oil-contaminated disc",
+  "alt_causes": [
+   "Engine mounts",
+   "Dual-mass flywheel"
+  ],
+  "explanation": "Shuddering strictly while you release the clutch pulling away, with the car driving smoothly once fully engaged, means the clutch is grabbing in steps: the disc is worn, contaminated with oil, or the pressure plate is distorted. Engine mounts shake at idle as well, whereas this lives only in the pull-away phase.",
+  "advice": "Book a diagnosis within a week or two: judder does not go away on its own and usually gets worse. Until then pull away gently, with slightly more revs, and do not slip the clutch. If you smell burning, the clutch is on its way out — do not delay the visit."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Driveshaft universal joints or play in the driveline",
+  "alt_causes": [
+   "Subframe bushes and bolts",
+   "Final drive gears"
+  ],
+  "explanation": "A single clunk or click from under the middle or rear of the car as you pull away and on and off the throttle is slack in the drive path: most often worn universal joints on the propshaft (rear- and all-wheel drive) or loose subframe mountings.",
+  "advice": "Book a diagnosis within a week or two: on a lift, play in the propshaft is found by hand in a minute. Do not put it off — a worn universal joint can break up at speed. Until then pull away and lift off more gently."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Clutch slipping",
+  "alt_causes": [
+   "Oil-contaminated disc",
+   "Automatic or CVT slipping"
+  ],
+  "explanation": "If the revs rise and the engine roars on the throttle while the car barely accelerates, the clutch is slipping and not transmitting drive: the disc is worn or contaminated with oil. It shows most uphill and in the higher gears, often with an acrid burning smell. A worn automatic slips in the same way.",
+  "advice": "Get to a garage this week: a slipping clutch slips until there is no drive at all, usually at the least convenient moment. Until then drive gently, no overtaking and no towing, and change down before a hill. If the burning smell gets stronger, do not delay another day."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbocharger or a boost leak",
+  "alt_causes": [
+   "Intercooler hose",
+   "Turbo shaft bearing"
+  ],
+  "explanation": "A light, even turbo whistle under load is normal on a turbo engine. What should concern you is change: the whistle grew louder or changed pitch, a howl appeared, or the car lost power. That is either air escaping from the boost pipework or wear in the turbo shaft bearing.",
+  "advice": "If the pitch has changed or power has dropped, book a diagnosis within days: a leaking hose is a cheap fix, while neglected turbo wear ends in replacement. Keep an eye on oil consumption. Until it is checked, avoid running the engine to the limiter and let the turbo cool for a minute or two at idle after hard driving."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Final drive gears",
+  "alt_causes": [
+   "Differential bearings",
+   "Low oil level in the differential"
+  ],
+  "explanation": "A whine or hum that changes pitch on and off the throttle at the same road speed — louder under power, quieter coasting, or the other way round — is the signature of worn final drive gears, the pair that sends drive to the wheels. A wheel bearing, by contrast, does not react to the throttle at all.",
+  "advice": "Check the oil level in the differential and book a diagnosis within the week: caught early, fresh oil and an adjustment are often enough; left late, the gear set needs replacing. Postpone long motorway trips until it is checked."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT or automatic gearbox (bearings, belt, torque converter)",
+  "alt_causes": [
+   "Low or old gearbox fluid",
+   "Shaft bearings"
+  ],
+  "explanation": "A monotone metallic whine under acceleration on a car with a CVT or automatic, which follows the throttle rather than road speed, is usually the pulley bearings in a CVT or the pump in an automatic. A CVT is especially sensitive to the age of its fluid.",
+  "advice": "Start with the level and condition of the gearbox fluid — that is half of these cases. Book a diagnosis within the week and drive gently until then, with no hard acceleration and no towing. Repairing a CVT early costs many times less than repairing it late."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Manual gearbox bearings or gears",
+  "alt_causes": [
+   "Low gearbox oil level",
+   "Input shaft bearing"
+  ],
+  "explanation": "A whine whose loudness depends on the gear you are in — loud in one, quieter in another, gone in neutral while coasting — comes from the manual gearbox: worn shaft bearings or one particular pair of gears. A wheel bearing hums the same in every gear.",
+  "advice": "Check the gearbox oil level — a drop is a common cause in itself. Book a diagnosis within a week or two and say in which gears it is loudest: that narrows the search. You can drive, but do not let a growing whine run on."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Wheels out of balance",
+  "alt_causes": [
+   "A balance weight has come off",
+   "Dirt or ice inside the rim"
+  ],
+  "explanation": "Fine shaking through the wheel in a narrow band of speed, usually 50–75 mph, that almost disappears above and below it, is classic wheel imbalance: a weight has come off, or dirt or ice has built up inside the rim. If the steering wheel shakes, it is the front wheels; if the seat shakes, the rear.",
+  "advice": "Have the wheels balanced when convenient — it is quick and cheap. In winter, first look inside the rims and knock off any packed snow and ice. There is no danger, but constant vibration wears bearings and track rod ends faster."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "A bent rim or a bulge in a tyre",
+  "alt_causes": [
+   "Tread has shifted",
+   "Wheel imbalance"
+  ],
+  "explanation": "Shaking that is already noticeable from 25–40 mph and grows with speed is usually deformation: a rim dented after a pothole, or a bulge in a tyre sidewall. Unlike imbalance, this does not live in a narrow speed band — it just gets steadily worse.",
+  "advice": "Look over the tyres and rim edges: a sidewall bulge or a dented rim is often visible to the eye. A bulge is a weak spot that can burst at speed — fit the spare and do not put off the tyre shop. Keep your speed down until it is sorted."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Propshaft: centre bearing or imbalance",
+  "alt_causes": [
+   "Universal joints",
+   "Flexible coupling"
+  ],
+  "explanation": "A hum and fine vibration through the floor and body in a certain speed band on a rear- or all-wheel-drive car is the propshaft: a worn centre bearing, worn universal joints, or lost balance. It differs from wheel imbalance in that the floor shakes rather than the steering wheel.",
+  "advice": "Book a diagnosis within the week: on a lift, play in the propshaft is checked in minutes. Do not put it off — a universal joint breaking up at speed is dangerous. Until it is checked, avoid driving for long at the speed where it vibrates."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Wind noise (seals, trim, roof bars)",
+  "alt_causes": [
+   "Worn door seals",
+   "Roof bars or a roof box"
+  ],
+  "explanation": "A whistle or moan that only appears above a certain speed, usually 45–55 mph, grows with it, and does not depend on the road surface or cornering, is air: a worn seal, a lifted trim strip, roof bars or a roof box.",
+  "advice": "The source is easy to find: take off the box or bars if fitted; open a window slightly and see whether the whistle changes; tape over a suspect joint with masking tape and drive. It is not a fault, and it is fixed by replacing a seal or adjusting a door."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Brake pad wear indicator touching the disc",
+  "alt_causes": [
+   "Pads near the end of their life",
+   "A stone between pad and disc"
+  ],
+  "explanation": "A thin metallic squeak while driving without touching the brake, which stops or changes when you brush the pedal, is the metal wear tab on the pad starting to touch the disc. This is the designed warning: the friction material is nearly used up.",
+  "advice": "Book a pad replacement this week and ask for the discs to be inspected. The brakes still work fully for now, but the next stage is grinding and ruined discs. If the squeak comes from one wheel, mention that at the garage."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "A sticking brake caliper",
+  "alt_causes": [
+   "Seized caliper guide pins",
+   "A swollen brake hose"
+  ],
+  "explanation": "Constant scraping from one wheel, a disc that is hot after driving, a burning smell and the car pulling to one side mean the caliper — the unit that presses the pads onto the disc — is sticking, so the pad rubs all the time. An overheated brake loses effectiveness, and the pad and disc burn through in a few hundred miles.",
+  "advice": "Stop normal journeys and drive only to a garage, a short distance and slowly. You can tell which wheel is hot with a hand held near the disc — do not touch the disc itself, it will burn you. Left alone, this ends with the wheel locking up while driving."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Loose wheel bolts",
+  "alt_causes": [
+   "Damaged bolt holes in the rim",
+   "Play in the hub"
+  ],
+  "explanation": "A rhythmic clunk or tapping in time with wheel rotation that started in the first days after a tyre change or a wheel swap is the classic sign of under-tightened wheel bolts. On loose bolts the wheel wallows out its own bolt holes and, at worst, comes off while driving.",
+  "advice": "Stop at the first opportunity and check the tightness of the bolts on every wheel with the wheel brace. If they tightened up, the tapping should go; if it remains, drive carefully to a garage and have the hub checked. After any tyre work it is worth re-checking the bolts after 30–60 miles."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "A stone or a screw in the tread",
+  "alt_causes": [
+   "Loose wheel bolts",
+   "Tread separation"
+  ],
+  "explanation": "An even click or tick in time with wheel rotation, most noticeable at low speed, is usually a stone caught in the tread — or, more importantly, a screw driven into it. The noise lasts as long as the object stays in the tyre.",
+  "advice": "Look over the tread on every wheel, rolling the car slowly or turning the wheel to full lock. Pick the stone out. Do not pull out a screw or nail — with it in place you can drive calmly to a tyre shop; without it the tyre will deflate on the way. If the tread is clear and the clicking remains, check the wheel bolt tightness."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Anti-roll bar bushes or suspension bushes (creaking)",
+  "alt_causes": [
+   "Ball joints",
+   "Dry door seals and hinges"
+  ],
+  "explanation": "A creak like an old bed over bumps, when getting in, or when you rock the car is dry rubber in the suspension: anti-roll bar bushes or the bushes in the arms. It is louder in cold and damp weather. You can reproduce it by rocking the parked car with a hand on the wing.",
+  "advice": "Show it to a garage when convenient: often it is cured by greasing the bushes or replacing inexpensive parts. There is no danger, but if a knock has appeared alongside the creak, or the car pulls to one side, that points to the ball joints — do not postpone the check."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Brake pads stuck to the discs",
+  "alt_causes": [
+   "Frozen pads in winter",
+   "Handbrake shoes"
+  ],
+  "explanation": "A single loud thud or crack on the first move after standing a long time, especially with the handbrake on, after a wash, rain or frost, is the pads sticking or freezing to the discs and breaking free. If the rest of the journey is quiet, it is harmless.",
+  "advice": "Nothing needs doing; in winter you can leave the car in gear instead of on the handbrake (manual only) so the rear pads do not freeze on. If the crunch repeats every time you pull away, it is no longer about the pads — run through the diagnosis again."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Play in the steering rack",
+  "alt_causes": [
+   "Track rod ends",
+   "Steering column joint"
+  ],
+  "explanation": "A knock over small ripples and expansion joints that comes through the steering wheel and is felt in your hands is play in the steering rack: a worn bush or worn engagement. A telling sign is that the knock quietens if you hold the wheel under slight tension.",
+  "advice": "Have the steering checked within days: it is a safety system, and a check on a lift takes minutes. On some cars the rack can be adjusted, which is cheap. If the steering has gone vague around centre or the car wanders in its lane, do not delay."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "A broken suspension spring",
+  "alt_causes": [
+   "A collapsed shock absorber",
+   "A broken spring seat"
+  ],
+  "explanation": "A clunk or metallic grinding over bumps and in corners that appeared suddenly after hitting a pothole, together with one corner sitting lower, is the classic picture of a snapped coil. The broken end can rub and clatter as the suspension works.",
+  "advice": "Look in behind the wheel from below: a snapped coil is often visible to the eye. Get to a garage within a few days, and drive gently until then — a broken end can shift and damage the tyre. Springs are replaced in pairs on an axle."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Interior plastics: clips and panel joints",
+  "alt_causes": [
+   "Objects in the glovebox and door pockets",
+   "Dry door seals"
+  ],
+  "explanation": "A close, plasticky rattle and squeaks over small bumps is friction and play between interior panels: the dashboard, door cards, glovebox. It is louder in the cold. A reliable check: press the suspect panel with your hand while driving — if the noise stops, it is the interior, not the suspension.",
+  "advice": "This is not a fault: the car is fine. Take the loose items out of the glovebox and pockets, and slip a piece of felt or foam tape into the joint you find. Squeaks around the doors are cured by treating the seals with silicone grease. A suspension knock, by contrast, is dull, comes from below, and does not change when you press on the panels."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Loose cargo or spare wheel in the boot",
+  "alt_causes": [
+   "Jack and tools",
+   "Parcel shelf"
+  ],
+  "explanation": "A dull knock or clatter from the rear over bumps, as if something is jumping and rolling around, is most often exactly that: the jack, the wheel brace, a poorly secured spare, or a rattling parcel shelf. With a loaded boot the noise usually changes or disappears.",
+  "advice": "Take everything out of the boot, check that the spare and the jack are strapped down, press on the shelf — then drive the same stretch of road. If the knock has gone, the suspension has nothing to do with it and nothing more is needed. If it remains, run the diagnosis again through the bumps branch."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Bonnet catch or rubber stops",
+  "alt_causes": [
+   "Bonnet hinges",
+   "Door check strap"
+  ],
+  "explanation": "Metallic tapping from up front at the edge of the bonnet over small bumps is play in the bonnet catch, or sagging rubber stops it rests on. In the cabin the sound is close, in front of your face, rather than from below like a suspension knock.",
+  "advice": "You can check it on the spot: press on the closed bonnet — if it moves and taps, the diagnosis is confirmed. Wind the rubber stops in the corners up half a turn so the bonnet sits tighter; that fixes most cases. There is no danger."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hydraulic lifters (when cold)",
+  "alt_causes": [
+   "Valve clearances",
+   "Thickened oil"
+  ],
+  "explanation": "Hydraulic lifters are small parts that use oil pressure to take up the slack in the valvetrain. While the engine is cold the oil is thick and takes time to reach them, so you hear rapid ticking for the first minutes. If the sound goes completely once warm, this is typical and not dangerous.",
+  "advice": "Check the oil level and when it was last changed: old or unsuitable oil makes the noise worse. If the ticking now lasts longer than a couple of minutes or stays with the engine warm, book a garage. Do not pour in additives that promise to stop the noise."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Piston and bore wear (cold knock)",
+  "alt_causes": [
+   "Hydraulic lifters",
+   "Timing chain"
+  ],
+  "explanation": "A dull knock for the first minutes after a cold start that fades as the engine warms is often piston and bore wear on a high-mileage car: while the piston is cold it has slightly more room in its bore and taps. Once warm, the parts expand and the knock goes. This is usually something to watch rather than an urgent repair.",
+  "advice": "Mention it at your next garage visit and note how many minutes the knock lasts — that is useful information for a mechanic. Keep an eye on the oil level and consumption. If the knock stops going away once warm, or becomes audible under load, book a diagnosis without delay."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Timing chain or its tensioner",
+  "alt_causes": [
+   "Hydraulic lifters",
+   "Accessory belt pulleys"
+  ],
+  "explanation": "The timing chain is the chain inside the engine that ties its shafts together and makes the valves open at the right moment. When it stretches, or its tensioner weakens, a cold start brings a rustle or clatter from the front of the engine that fades once warm and oil pressure comes up. Over time the noise appears more and more often.",
+  "advice": "Book a diagnosis within a week or two: a chain that jumps a tooth means expensive engine repairs. Until then avoid hard starts from cold and let the engine warm before loading it. Do check the oil level."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "Accessory belt slipping",
+  "alt_causes": [
+   "Worn tensioner pulley",
+   "Slack belt tension"
+  ],
+  "explanation": "A squeal in the first seconds after starting almost always comes from the belt that drives the alternator, water pump and air conditioning. When cold or damp it slips on the pulleys and squeals, then warms up and goes quiet. It is not dangerous right now, but it does point to a worn belt or slack tension.",
+  "advice": "Have the belt looked at when convenient: the inspection takes a couple of minutes. If the squeal starts appearing on a warm engine too, or when the A/C comes on, do not put it off. Do not spray the belt with WD-40 or try other home remedies."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Excessive valve clearances",
+  "alt_causes": [
+   "Hydraulic lifters",
+   "Timing chain"
+  ],
+  "explanation": "Even, rapid ticking from the top of the engine is the classic sound of the valvetrain. Over time the clearances between its parts grow and the valves start to tap, which is easiest to hear at idle. The engine will not break because of it straight away, but the valves are now working with an impact and wear faster.",
+  "advice": "Book a valve adjustment, or a check of the hydraulic lifters, within the next couple of weeks. Watch the oil level: the ticking gets worse when it is low. You can drive normally, but do not leave it for months."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Knock from the bottom end (bearings, connecting rods)",
+  "alt_causes": [
+   "Detonation",
+   "Piston and bore wear",
+   "Crankshaft pulley damper"
+  ],
+  "explanation": "A dull knock from deep inside the engine that speeds up with the revs and grows under load is the most worrying of engine noises. It is how worn big-end bearings — the shells the crankshaft turns on — or the connecting rods sound: a gap has opened up in the joints and the parts are hammering each other. Keep driving and the engine can seize.",
+  "advice": "Do not drive further than you must under its own power: a tow truck is the better choice; if the garage is very close, drive slowly and stay off the throttle. Check the oil level straight away and top it up if it is low. Less frightening things can knock in a similar way, but a mechanic needs to check — and soon."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Engine ancillaries or engine mounts",
+  "alt_causes": [
+   "A/C compressor clutch",
+   "Hydraulic lifters"
+  ],
+  "explanation": "A knock that does not speed up when you blip the throttle usually comes not from inside the engine but from what is bolted to it: the alternator, pulleys, brackets, mounts. Play in these gives dull thuds at idle, especially when the engine rocks.",
+  "advice": "Book a diagnosis within a week or two: a mechanic finds these knocks well with a stethoscope. It helps to notice, and tell them, whether the sound changes when the A/C comes on, or with a gear engaged and the brake pressed."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Worn or slack accessory belt",
+  "alt_causes": [
+   "Tensioner pulley",
+   "Alternator pulley"
+  ],
+  "explanation": "A piercing squeal under the bonnet means the belt is slipping on its pulleys. Most often the belt itself is worn or the tensioner has gone slack. If the belt snaps, the alternator stops and on many cars the water pump with it, so this is not one to let run.",
+  "advice": "Have the car looked at within the week: replacing a belt and pulley is inexpensive work. If the squeal suddenly gets much worse, the battery light comes on, or the engine temperature starts to climb, pull over and switch the engine off."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Water pump",
+  "alt_causes": [
+   "Belt pulleys",
+   "Alternator bearing"
+  ],
+  "explanation": "A hum or rustle from the belt side together with traces of coolant is the classic sign of a dying water pump. Its bearing wears, play develops, and coolant begins to seep through the seal. If the pump seizes, the engine overheats quickly.",
+  "advice": "Drive to a garage within days, watching the engine temperature and the coolant level on the way. If the temperature climbs or steam appears from under the bonnet, pull over and switch the engine off. Only top up coolant once the engine has cooled."
+ },
+ "leaf_idler": {
+  "top_cause": "Tensioner or idler pulley",
+  "alt_causes": [
+   "Water pump",
+   "Alternator freewheel clutch",
+   "Timing chain or its tensioner"
+  ],
+  "explanation": "A steady hum or rustle that follows engine speed most often comes from the bearing in one of the pulleys the accessory belt runs over. A worn pulley gets louder, can start to bind, and eventually snaps the belt.",
+  "advice": "Book a garage within the week: a mechanic takes the belt off and identifies the noisy pulley on the spot. The water pump, the alternator freewheel clutch and even the timing chain can sound similar — those get checked at the same time. If the noise has turned into grinding or squealing, go sooner."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Exhaust heat shield",
+  "alt_causes": [
+   "Exhaust mountings",
+   "Undertray"
+  ],
+  "explanation": "A ringing metallic rattle at certain engine speeds almost always comes from a loose heat shield — the thin metal cover over the silencer or the converter. It sounds unpleasant but has no effect on how the car runs.",
+  "advice": "Ask a garage to tighten it or secure it with a clamp when convenient: it is a few minutes' work. It is worth confirming that it really is the shield rattling and not the exhaust mountings — on a lift that is obvious straight away."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Misfires or a hole in the exhaust",
+  "alt_causes": [
+   "Spark plugs and coils",
+   "A burnt-through silencer or pipe",
+   "LPG settings, if it pops on gas"
+  ],
+  "explanation": "Popping from the exhaust means fuel is finishing burning in the exhaust system rather than in the cylinders. The causes are misfires (plugs, coils), an incorrect mixture, or a hole in the exhaust. Besides the noise, this damages the catalytic converter, and replacing one is expensive.",
+  "advice": "Book a diagnosis within days, especially if the car pulls worse, runs unevenly, or the check-engine light has come on. Do not drive for long with popping: unburnt fuel overheats the converter. If the car runs on LPG and it pops on gas, have the system re-tuned: popping is especially dangerous for it."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Burnt-through silencer or pipe",
+  "alt_causes": [
+   "Exhaust gasket",
+   "A cracked flexible section"
+  ],
+  "explanation": "A loud roar that grows on the throttle usually means a hole in the exhaust: the silencer, a pipe or a gasket has burnt through. The car sounds sporty, but the gases escape early — that means noise, smell, and a risk of carbon monoxide reaching the cabin.",
+  "advice": "Have the car looked at this week: inspecting the exhaust on a lift takes a few minutes. If you can smell exhaust in the cabin, drive with a window ajar and do not warm the car up in a closed garage: carbon monoxide is dangerous."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Engine mounts",
+  "alt_causes": [
+   "Misfires",
+   "A dirty throttle body or injectors"
+  ],
+  "explanation": "If you feel shaking in the cabin at idle, with fine vibration through the wheel and seats, the engine mounts are often to blame — the rubber blocks that absorb the engine's movement. Over time the rubber hardens and tears, and the vibration reaches the body.",
+  "advice": "Have the mounts checked within a couple of weeks: the inspection is simple. A diagnostic hint — vibration from the mounts usually gets worse with a gear engaged and the brake pressed. If the engine also shudders unevenly, tell the mechanic: there may be misfires."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "A film of rust on the brake discs",
+  "alt_causes": [
+   "Damp or dust on the pads",
+   "Pads starting to wear"
+  ],
+  "explanation": "Overnight, after rain or a wash, a thin orange film forms on the brake discs — this is normal on any car. The first few stops scrub it off, which is where the squeak or light scraping comes from, and it clears quickly.",
+  "advice": "Nothing needs doing: a few gentle stops at the start of a journey clean the discs. If the noise has stopped clearing and is there on every stop, run the diagnosis again or have the car looked at."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Brake pad wear or condition",
+  "alt_causes": [
+   "Pad wear indicator",
+   "Glazed pads",
+   "Dust or corrosion on the discs"
+  ],
+  "explanation": "A squeal on every stop is a signal to check the pads. Many pads have a metal wear indicator: once the friction material that rubs against the disc has worn to its limit, the tab touches the disc and squeals on purpose. Pads can also squeal on their own — from a surface film, glazing, or cheap material.",
+  "advice": "Book an inspection of the pads and discs this week. If it is the wear indicator, do not delay: the next stage is grinding and ruined discs. If the pads are fine, the squeal is harmless and the mechanic will suggest how to get rid of it."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Pads worn down to metal",
+  "alt_causes": [
+   "A foreign object in the brake",
+   "A pad breaking apart"
+  ],
+  "explanation": "Metal grinding on metal when braking means the friction material is gone and the pad's steel backing is rubbing on the disc. Stopping distances grow, the disc is ruined a little more with every stop, and the mechanism can seize.",
+  "advice": "Stop normal journeys and drive only as far as a garage, braking early and gently. Do not put the replacement off by even a day: besides the safety, every mile of grinding adds the price of brake discs to the bill."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Caliper guide pins or warped brake discs",
+  "alt_causes": [
+   "Play in the hub",
+   "A loose caliper mounting"
+  ],
+  "explanation": "A knock when braking, or pulsing through the pedal, usually comes from the brake itself: the caliper guide pins have worked loose, or a disc has warped and the pads are knocking against it. The brakes still work, but unevenly.",
+  "advice": "Have the brakes checked within days: this is a safety system and not one to let run. If the pedal now sinks further than usual, the car pulls to one side under braking, or the wheel kicks back, book a diagnosis straight away."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Something is touching the brake disc (shield or worn-out pads)",
+  "alt_causes": [
+   "Pads worn down to metal",
+   "A bent disc backing plate",
+   "A stone between the shield and the disc"
+  ],
+  "explanation": "Constant grinding or scraping from a wheel usually means something is touching the spinning brake disc: a bent backing plate, a trapped stone — or pads worn down to metal. The first two are harmless, the third is dangerous, and by ear they are easy to confuse.",
+  "advice": "Have it checked within a day or two, without putting it off: a look at the wheel shows the cause quickly. If the grinding gets worse when braking, or the pedal does not feel as it should, stop normal journeys and drive carefully to a garage."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Wheel hub bearing",
+  "alt_causes": [
+   "Tyre noise",
+   "A worn CV joint"
+  ],
+  "explanation": "A hum that changes as you corner is the classic sign of a worn hub bearing — the bearing the wheel turns on. In a corner the car's weight shifts onto the outer wheels: if the hum grows when turning left, the right side is loaded, so the right bearing is the likely culprit; turning right, the other way round. A failing bearing lets the wheel develop play and, in a bad case, can seize.",
+  "advice": "Note which way of turning makes the hum louder and tell the garage — that narrows the search immediately. Do not leave the check longer than a week, and postpone long trips until then. If vibration appears or the hum gets noticeably louder, go straight away."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Outer CV joint",
+  "alt_causes": [
+   "Inner CV joint",
+   "Anti-roll bar links",
+   "All-wheel-drive coupling on 4x4"
+  ],
+  "explanation": "Clicking or crunching while driving on full lock is the signature sound of a worn outer CV joint — the joint that drives the wheel while it steers. It usually starts with a torn boot, the rubber cover that keeps dirt out of the joint.",
+  "advice": "Look at the CV boots yourself, or ask a garage to: a split cover with grease flung around it confirms the diagnosis. Do not leave the replacement longer than a week or two — a worn joint can seize. Until then, avoid pulling away hard with the wheels turned."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Track rod ends or the steering rack",
+  "alt_causes": [
+   "Anti-roll bar links",
+   "Strut top mounts"
+  ],
+  "explanation": "A knock when you turn the wheel, especially while parked or at low speed, usually comes from play in the track rod ends, the steering arms or the rack itself. It does not interfere with control yet, but play in the steering only grows.",
+  "advice": "Have the steering checked within days: a diagnosis on a lift takes a few minutes. If the wheel has gone vague around centre, the car wanders in its lane, or the knock has suddenly got worse, do not delay — this is a safety system."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Power steering pump",
+  "alt_causes": [
+   "Low power steering fluid",
+   "Accessory belt"
+  ],
+  "explanation": "A howl or hum that appears when you turn the wheel while parked or at low speed usually comes from the power steering pump, which creates the fluid pressure that helps you steer. It howls loudest with the wheel at full lock. The most common cause is a drop in the fluid level.",
+  "advice": "Check the power steering fluid in the reservoir under the bonnet and top it up if it is below the MIN mark. Do not hold the wheel at full lock for more than a couple of seconds. If the howl remains after topping up, or the fluid disappears again, get to a garage within the week."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Anti-roll bar links",
+  "alt_causes": [
+   "Anti-roll bar bushes",
+   "Ball joints"
+  ],
+  "explanation": "Frequent dull knocking over small bumps — cobbles, expansion joints, washboard surfaces — most often comes from the anti-roll bar links: small rods with joints that are usually the first suspension parts to wear. They are not dangerous in themselves, but more serious parts can knock in a similar way.",
+  "advice": "Book a suspension check within a week or two: a mechanic rocks the joints on a lift and finds the play in minutes. Until then take large potholes slowly. If the car starts pulling to one side, bring the check forward."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Rear suspension: anti-roll bar links or beam bushes",
+  "alt_causes": [
+   "Shock absorbers",
+   "Exhaust mountings"
+  ],
+  "explanation": "Frequent knocking from the rear over small bumps usually comes from the small joints of the rear suspension: the rear anti-roll bar links, or worn bushes — the rubber sleeves through which the arms and beam attach to the body. A loose exhaust mounting can knock in a similar way.",
+  "advice": "Book a suspension check within a week or two: on a lift the source of a rear knock is found quickly. Until then take large potholes slowly. It helps to notice whether it knocks over small ripples or over single potholes — and to tell the mechanic."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Suspension arm bushes or shock absorbers",
+  "alt_causes": [
+   "Strut top mounts",
+   "Ball joints"
+  ],
+  "explanation": "Single dull thuds over potholes and speed bumps usually mean worn bushes — the rubber sleeves through which the suspension arms attach to the body — or tired shock absorbers. The suspension stops absorbing the impact and passes it to the body.",
+  "advice": "Book a suspension check within a couple of weeks. A simple shock absorber test: push a corner of the car down — the body should come back without bouncing. Take bumps gently until it is fixed: the impacts wear out the neighbouring parts too."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Exhaust mountings or the undertray",
+  "alt_causes": [
+   "Heat shield",
+   "A sagging exhaust pipe"
+  ],
+  "explanation": "A metallic rattle from under the car over bumps is usually a loose fixing: exhaust rubbers, undertray bolts, or a heat shield. It is annoying but does not affect the engine or how the car drives.",
+  "advice": "Ask a garage to tighten the fixings at your next visit: it is quick and cheap. Do make sure the exhaust is not sagging — a pipe dragging on the road can no longer be ignored. Until then you can drive as normal."
+ },
+ "leaf_detonation": {
+  "top_cause": "Detonation (pinking under load)",
+  "alt_causes": [
+   "Low-octane fuel",
+   "Carbon deposits or a faulty knock sensor"
+  ],
+  "explanation": "A metallic pinging under acceleration, especially uphill or from low revs, is detonation: part of the fuel in the cylinders ignites on its own, explosively, instead of burning evenly, and the shock wave hammers the pistons. Common causes are fuel with a lower octane rating than required, carbon deposits in the combustion chambers, or a faulty knock sensor. Constant detonation gradually destroys the engine.",
+  "advice": "Fill up with fuel of at least the octane rating the manufacturer specifies, preferably at a different station — the pinging often goes after one tank. Until it is checked, do not load the engine: accelerate gently and change down for hills. If the pinging remains after changing fuel, book a diagnosis."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Engine mounts or the inner CV joint",
+  "alt_causes": [
+   "Play in the driveline",
+   "Gearbox mount"
+  ],
+  "explanation": "A knock as you press or lift off the throttle points to play in the chain that transmits drive. Worn mounts let the engine lurch as the load changes, and a worn inner CV joint — the joint on the shaft from the gearbox to the wheel — knocks on and off the throttle. What matters is that the noise comes with the change of load, not with bumps.",
+  "advice": "Book a diagnosis within a week or two. A hint for the garage: note whether the knock is closer to the engine or to the wheels, and whether it repeats during gear changes. Until then use the throttle and the gears more gently."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Wheel hub bearing",
+  "alt_causes": [
+   "Tyre noise",
+   "Centre bearing or driveline"
+  ],
+  "explanation": "A steady hum that grows with speed and does not follow engine revs most often comes from a worn hub bearing — the bearing the wheel turns on. The hum sounds like an aircraft taking off and barely changes with the road surface. Left too long, the bearing lets the wheel develop play and can seize.",
+  "advice": "Have it checked within the week: a mechanic spins the wheels on a lift and finds the noisy hub — the housing this bearing sits in. Postpone long motorway trips until then. If the hum suddenly gets louder or vibration appears, go straight away."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Rear wheel hub bearing",
+  "alt_causes": [
+   "Tyre noise",
+   "Differential or centre bearing on rear- and all-wheel drive"
+  ],
+  "explanation": "A steady hum from the rear that grows with speed most often comes from a rear hub bearing — the bearing the wheel turns on. On rear- and all-wheel-drive cars the driveline hums in a similar way, so the source is worth confirming on a lift.",
+  "advice": "Have it checked within the week: at the rear a bearing hum is easy to confuse with the differential, and an inspection on a lift settles it at once. Postpone long motorway trips until then. If the hum suddenly gets louder or vibration appears, go straight away."
+ },
+ "leaf_tires": {
+  "top_cause": "Tyre noise",
+  "alt_causes": [
+   "Uneven tread wear",
+   "Wheel hub bearing"
+  ],
+  "explanation": "If the hum depends on the surface — quieter on fresh asphalt, louder on coarse — it is most likely the tyres. Winter, off-road and unevenly worn tyres are especially loud. This is a comfort question, not a fault.",
+  "advice": "Look over the tread: sawtooth wear (steps along the edges) or patchy wear makes the hum worse and hints at wheel alignment being out, or tired shock absorbers. Check the tyre pressures. If the hum in fact does not depend on the surface and grows with speed, go back to the wheel bearing explanation."
+ }
+}

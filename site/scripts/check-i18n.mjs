@@ -73,6 +73,40 @@ for (const lang of LANGS) {
   }
 }
 
+// Опросник на сайте берёт те же переводы дерева, что и приложение. Если файл
+// отстал от структуры дерева, вопрос выйдет к человеку наполовину русским.
+const tree = JSON.parse(
+  readFileSync(new URL('../../shared/tree.json', import.meta.url), 'utf8')
+).nodes;
+
+for (const lang of LANGS) {
+  if (lang === 'ru') continue;
+  let tr;
+  try {
+    tr = JSON.parse(
+      readFileSync(new URL(`../../shared/tree_i18n/${lang}.json`, import.meta.url), 'utf8')
+    );
+  } catch {
+    fail(`${lang}: нет перевода дерева shared/tree_i18n/${lang}.json`);
+    continue;
+  }
+  const missing = Object.keys(tree).filter((id) => !tr[id]);
+  if (missing.length) {
+    fail(`${lang}: дерево переведено не полностью — нет ${missing.length} узлов`);
+  }
+  for (const [id, node] of Object.entries(tree)) {
+    const t = tr[id];
+    if (!t) continue;
+    if (node.type === 'leaf') {
+      if (!t.top_cause) fail(`${lang}: узел ${id} без перевода причины`);
+      continue;
+    }
+    const ids = node.options.map((o) => o.id).sort();
+    const got = Object.keys(t.options ?? {}).sort();
+    if (ids.join() !== got.join()) fail(`${lang}: узел ${id} — ответы разошлись с деревом`);
+  }
+}
+
 if (errors.length) {
   console.error(`Словари сайта: ${errors.length} проблем`);
   for (const e of errors) console.error(' -', e);

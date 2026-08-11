@@ -1,0 +1,1104 @@
+{
+ "q_when": {
+  "text": "Kiedy słychać ten dźwięk?",
+  "options": {
+   "o1": "Przy rozruchu albo przy próbie odpalenia",
+   "o2": "Na postoju, przy pracującym silniku",
+   "o3": "Tylko w jeździe",
+   "o4": "I na postoju, i w jeździe"
+  }
+ },
+ "q_start_char": {
+  "text": "Co słychać przy przekręceniu kluczyka albo wciśnięciu przycisku start?",
+  "options": {
+   "o1": "Kliknięcia, a silnik nie obraca się",
+   "o2": "Metaliczny zgrzyt, gdy rozrusznik kręci",
+   "o3": "Rozrusznik buczy, ale silnik nie łapie",
+   "o4": "Pisk albo gwizd zaraz po odpaleniu silnika"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Jakie dokładnie kliknięcia?",
+  "options": {
+   "o1": "Szybkie stukanie, a kontrolki na desce przygasają",
+   "o2": "Jedno wyraźne kliknięcie i cisza"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Dźwięk pojawia się tylko wtedy, gdy coś włączasz lub naciskasz (ogrzewanie, klimatyzacja, sprzęgło, kierownica, hamulec)?",
+  "options": {
+   "o1": "Tak, jest związany z konkretną czynnością",
+   "o2": "Nie, słychać go sam z siebie"
+  }
+ },
+ "q_action": {
+  "text": "Z jaką czynnością wiąże się dźwięk?",
+  "options": {
+   "o1": "Z ogrzewaniem albo dmuchawą",
+   "o2": "Z przyciskiem klimatyzacji",
+   "o3": "Z pedałem sprzęgła",
+   "o4": "Z kierownicą, pedałem hamulca albo wycieraczkami"
+  }
+ },
+ "q_hvac": {
+  "text": "Jaki dźwięk przy włączonej dmuchawie?",
+  "options": {
+   "o1": "Szelest albo trzaski, zmieniają się z prędkością dmuchawy",
+   "o2": "Pisk albo wycie spod deski rozdzielczej",
+   "o3": "Seria kliknięć za deską przy zmianie temperatury albo nawiewu",
+   "o4": "Bulgotanie za deską rozdzielczą"
+  }
+ },
+ "q_ac": {
+  "text": "Co słychać przy włączeniu klimatyzacji?",
+  "options": {
+   "o1": "Pisk w chwili załączenia",
+   "o2": "Zgrzyt albo łomot, dopóki klimatyzacja pracuje",
+   "o3": "Krótkie syknięcie przy włączeniu lub wyłączeniu, a chłodzi dobrze"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Jak dźwięk wiąże się z pedałem sprzęgła?",
+  "options": {
+   "o1": "Szelest albo buczenie przy puszczonym pedale; po wciśnięciu cichnie",
+   "o2": "Pojawia się albo nasila, gdy pedał jest wciśnięty",
+   "o3": "Grzechotanie na wolnych obrotach, które zmienia się po wciśnięciu pedału",
+   "o4": "Skrzypienie przy naciskaniu, słychać nawet przy zgaszonym silniku"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "Z czym dokładnie wiąże się dźwięk?",
+  "options": {
+   "o1": "Wycie albo buczenie przy kręceniu kierownicą",
+   "o2": "Chrupanie przy kręceniu kierownicą na postoju",
+   "o3": "Syczenie spod deski przy naciskaniu pedału hamulca",
+   "o4": "Stukanie albo skrzypienie w rytm wycieraczek"
+  }
+ },
+ "q_ps_type": {
+  "text": "Czy pod maską jest zbiorniczek płynu wspomagania kierownicy?",
+  "options": {
+   "o1": "Tak, jest",
+   "o2": "Nie ma albo nie wiem"
+  }
+ },
+ "q_steer_click": {
+  "text": "Skąd dochodzą kliknięcia?",
+  "options": {
+   "o1": "Z góry, z nadkola, na wysokości maski",
+   "o2": "Z samej kierownicy albo z kolumny, przy nogach"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Czy dźwięk słychać tylko na zimnym silniku, zaraz po odpaleniu?",
+  "options": {
+   "o1": "Tak, po nagrzaniu znika",
+   "o2": "Nie, słychać go też na ciepłym"
+  }
+ },
+ "q_cold_char": {
+  "text": "Do czego podobny jest dźwięk na zimno?",
+  "options": {
+   "o1": "Szybkie tykanie albo stukot",
+   "o2": "Głuche pukanie, które po nagrzaniu znika",
+   "o3": "Szelest albo grzechotanie z przodu silnika",
+   "o4": "Pisk albo gwizd przy rozruchu"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Czy stukot jest głośniejszy na zewnątrz niż w środku i spod maski czuć spalinami?",
+  "options": {
+   "o1": "Tak, na zewnątrz głośniej i czuć zapach",
+   "o2": "Nie, tyka u góry silnika i nie ma zapachu"
+  }
+ },
+ "q_engine_char": {
+  "text": "Do czego podobny jest dźwięk?",
+  "options": {
+   "o1": "Pukanie albo tykanie",
+   "o2": "Pisk, gwizd, buczenie albo syczenie",
+   "o3": "Dzwonienie, grzechotanie, strzały albo bulgotanie",
+   "o4": "Wibracje, drżenie na wolnych obrotach"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Jakie dokładnie pukanie?",
+  "options": {
+   "o1": "Lekkie, szybkie tykanie w górnej części silnika",
+   "o2": "Głuche albo dźwięczne pukanie z głębi silnika"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Czy tykanie z czasem się nasiliło, czy jest zawsze takie samo?",
+  "options": {
+   "o1": "Nasiliło się; na ciepłym silniku słychać je lepiej",
+   "o2": "Zawsze takie samo; na zewnątrz głośniej niż w środku"
+  }
+ },
+ "q_knock_load": {
+  "text": "Jeśli delikatnie dodasz gazu, czy pukanie przyspiesza i staje się głośniejsze?",
+  "options": {
+   "o1": "Tak, szybsze i głośniejsze",
+   "o2": "Prawie się nie zmienia albo znika"
+  }
+ },
+ "q_squeal": {
+  "text": "Co to za dźwięk?",
+  "options": {
+   "o1": "Przenikliwy pisk albo gwizd",
+   "o2": "Równomierne buczenie albo szelest",
+   "o3": "Równomierne syczenie, jak powietrze uchodzące z opony"
+  }
+ },
+ "q_hum_source": {
+  "text": "Skąd dochodzi buczenie?",
+  "options": {
+   "o1": "Z przodu, spod maski, i zmienia się z obrotami",
+   "o2": "Włącza się i wyłącza samo: przy upale, w korku, z klimatyzacją",
+   "o3": "Z tyłu, od strony baku; słychać po przekręceniu kluczyka, jeszcze przed odpaleniem"
+  }
+ },
+ "q_pump_check": {
+  "text": "Czy pod maską, przy pasku, widać zacieki albo ślady płynu?",
+  "options": {
+   "o1": "Tak, jest wilgotno albo czuć płyn chłodniczy",
+   "o2": "Sucho",
+   "o3": "Nie udało mi się zajrzeć"
+  }
+ },
+ "q_rattle": {
+  "text": "Jaki dźwięk i skąd?",
+  "options": {
+   "o1": "Metaliczne grzechotanie spod podwozia",
+   "o2": "Strzały z układu wydechowego",
+   "o3": "Bulgotanie za deską rozdzielczą"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Czy razem z grzechotaniem samochód stracił moc albo spaliny dziwnie pachną?",
+  "options": {
+   "o1": "Tak, ciągnie gorzej albo zmienił się zapach",
+   "o2": "Nie, po prostu grzechocze przy pewnych obrotach"
+  }
+ },
+ "q_move_when": {
+  "text": "Kiedy w jeździe dźwięk słychać najmocniej?",
+  "options": {
+   "o1": "Przy hamowaniu",
+   "o2": "Na zakrętach albo przy kręceniu kierownicą",
+   "o3": "Na nierównościach i progach zwalniających",
+   "o4": "Przy dodawaniu gazu, przy zmianie biegów albo cały czas"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Czy dźwięk pojawia się tylko przy pierwszych hamowaniach po postoju albo w deszczu, a potem znika?",
+  "options": {
+   "o1": "Tak, szybko znika",
+   "o2": "Nie, słychać go przy każdym hamowaniu"
+  }
+ },
+ "q_brake_char": {
+  "text": "Jaki dźwięk przy hamowaniu?",
+  "options": {
+   "o1": "Pisk albo skrzypienie",
+   "o2": "Zgrzyt metalu o metal",
+   "o3": "Pukanie albo pulsowanie w pedale"
+  }
+ },
+ "q_turn_char": {
+  "text": "Co słychać na zakręcie?",
+  "options": {
+   "o1": "Buczenie przy prędkości, w jedną stronę mocniejsze",
+   "o2": "Kliknięcia albo trzaski przy kierownicy skręconej do oporu",
+   "o3": "Pukanie przy kręceniu kierownicą",
+   "o4": "Wycie albo buczenie przy kręceniu kierownicą na postoju lub przy parkowaniu"
+  }
+ },
+ "q_bump_char": {
+  "text": "Jaki dźwięk na nierównościach?",
+  "options": {
+   "o1": "Pukanie albo metaliczne łomotanie",
+   "o2": "Skrzypienie, jak stare łóżko",
+   "o3": "Grzechotanie albo łoskot",
+   "o4": "Pojedynczy głuchy huk przy pierwszym ruszeniu po dłuższym postoju"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Jakie dokładnie pukanie?",
+  "options": {
+   "o1": "Częste głuche pukanie na drobnych nierównościach",
+   "o2": "Pojedyncze głuche uderzenia na dziurach i progach zwalniających",
+   "o3": "Uderzenie idzie prosto w kierownicę, czuć je w dłoniach",
+   "o4": "Łomot pojawił się nagle po wpadnięciu w dziurę, a jeden róg auta osiadł"
+  }
+ },
+ "q_bump_where": {
+  "text": "Pukanie słychać z przodu czy z tyłu?",
+  "options": {
+   "o1": "Z przodu",
+   "o2": "Z tyłu",
+   "o3": "Trudno stwierdzić"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Skąd dochodzi grzechotanie?",
+  "options": {
+   "o1": "Spod podwozia",
+   "o2": "Z wnętrza: deska rozdzielcza, drzwi, świerszcze",
+   "o3": "Z bagażnika, jakby coś się przetaczało",
+   "o4": "Z przodu u góry, przy masce"
+  }
+ },
+ "q_move_manner": {
+  "text": "Jak dźwięk wiąże się z jazdą?",
+  "options": {
+   "o1": "Pojawia się przy dodaniu albo puszczeniu gazu",
+   "o2": "W chwili zmiany biegu albo ruszania",
+   "o3": "Słychać go cały czas, dopóki samochód jedzie",
+   "o4": "To raczej wibracja albo drżenie niż dźwięk"
+  }
+ },
+ "q_accel_char": {
+  "text": "Do czego podobny jest dźwięk przy dodawaniu gazu?",
+  "options": {
+   "o1": "Metaliczne dzwonienie, zwłaszcza pod górę",
+   "o2": "Pukanie w chwili dodania albo puszczenia gazu",
+   "o3": "Strzały albo głośny ryk z wydechu",
+   "o4": "Wycie albo gwizd pod obciążeniem"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Strzały czy ryk?",
+  "options": {
+   "o1": "Strzały",
+   "o2": "Ryk, głośniejszy przy gazie; auto ciągnie jak zwykle",
+   "o3": "Silnik ryczy, obroty rosną, a auto nie przyspiesza; czasem czuć spalenizną"
+  }
+ },
+ "q_load_whine": {
+  "text": "Jakie wycie pod obciążeniem?",
+  "options": {
+   "o1": "Wysoki gwizd tylko przy dodawaniu gazu, po puszczeniu znika (silnik turbo)",
+   "o2": "Buczenie, którego ton zmienia się przy dodawaniu i puszczaniu gazu na tej samej prędkości",
+   "o3": "Monotonne wycie przy przyspieszaniu; skrzynia to CVT albo automat",
+   "o4": "Wycie głośniejsze na jednym biegu, cichsze na innym; skrzynia manualna"
+  }
+ },
+ "q_shift_char": {
+  "text": "Co dzieje się przy zmianie biegu albo ruszaniu?",
+  "options": {
+   "o1": "Szarpnięcie albo łomot przy przełączaniu automatu z D na R albo przy zmianach biegów",
+   "o2": "Chrupnięcie przy wrzucaniu biegu w skrzyni manualnej",
+   "o3": "Auto szarpie przy ruszaniu, gdy puszczasz sprzęgło",
+   "o4": "Pojedynczy łomot pod podwoziem przy ruszaniu albo zmianie obciążenia"
+  }
+ },
+ "q_vibration": {
+  "text": "Kiedy drgania są najsilniejsze?",
+  "options": {
+   "o1": "Przy 80–120 km/h kierownica drobno drga; poniżej i powyżej znacznie mniej",
+   "o2": "Już od 40–60 km/h, a z prędkością coraz mocniej",
+   "o3": "W wąskim zakresie prędkości, drgania idą przez podłogę i nadwozie; napęd na tył albo na cztery koła",
+   "o4": "Tylko przy hamowaniu, kierownica bije"
+  }
+ },
+ "q_const_char": {
+  "text": "Do czego podobny jest ten stały dźwięk?",
+  "options": {
+   "o1": "Równomierne buczenie albo wycie",
+   "o2": "Zgrzyt, tarcie albo pisk od strony koła",
+   "o3": "Głośny ryk albo terkotanie",
+   "o4": "Gwizd albo wycie tylko przy dużej prędkości"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Co to za dźwięk od strony koła?",
+  "options": {
+   "o1": "Cienki pisk; przy lekkim dotknięciu hamulca znika albo się zmienia",
+   "o2": "Tarcie; po jeździe koło jest gorące, a auto ciągnie w bok",
+   "o3": "Stały zgrzyt albo tarcie, ale koło się nie nagrzewa",
+   "o4": "Rytmiczne pukanie albo kliknięcia w rytm obrotu koła"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Czy koła były niedawno wymieniane, przekładane albo zdejmowane?",
+  "options": {
+   "o1": "Tak, w ostatnich dniach",
+   "o2": "Nie, dawno ich nie ruszano"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Sprawdzian: rozpędź się do prędkości, przy której słychać dźwięk, wrzuć luz i toczyć się. Buczenie zostaje?",
+  "options": {
+   "o1": "Zostaje",
+   "o2": "Znika razem z obrotami silnika",
+   "o3": "Nie udało mi się sprawdzić"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Czy głośność wycia zmienia się przy zmianie biegów?",
+  "options": {
+   "o1": "Tak, na różnych biegach brzmi inaczej",
+   "o2": "Nie, zależy tylko od obrotów silnika"
+  }
+ },
+ "q_hum_road": {
+  "text": "Czy buczenie zmienia się na łagodnych zakrętach?",
+  "options": {
+   "o1": "Tak, w jedną stronę ciszej albo głośniej",
+   "o2": "Nie, jest równe przy każdej prędkości powyżej 40–60 km/h",
+   "o3": "Zależy od nawierzchni drogi"
+  }
+ },
+ "q_hum_where": {
+  "text": "Buczenie słychać z przodu czy z tyłu?",
+  "options": {
+   "o1": "Z przodu",
+   "o2": "Z tyłu",
+   "o3": "Trudno stwierdzić"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Rozładowany akumulator albo utlenione klemy",
+  "alt_causes": [
+   "Zły styk masy",
+   "Rozrusznik na wykończeniu"
+  ],
+  "explanation": "Szybkie stukanie przy próbie odpalenia oznacza, że automatowi rozrusznika brakuje prądu: przeskakuje, ale nie jest w stanie obrócić silnika. Winny jest zwykle rozładowany akumulator albo utlenione, źle dokręcone klemy. Przygasające przy próbie kontrolki na desce to potwierdzają.",
+  "advice": "Obejrzyj klemy akumulatora: zeskrob biały albo zielonkawy nalot i dokręć klemy. Jeśli to nie pomoże, naładuj akumulator albo odpal z kabli i dojedź do warsztatu lub sklepu po nowy. Akumulator starszy niż cztery, pięć lat to prawie zawsze on."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Automat rozrusznika albo styki mocy",
+  "alt_causes": [
+   "Utlenione klemy",
+   "Przewody do rozrusznika"
+  ],
+  "explanation": "Jedno wyraźne kliknięcie przy normalnie świecących kontrolkach oznacza, że automat rozrusznika zadziałał, ale sam silnik rozrusznika nie ruszył: przepalone styki mocy, zużyte szczotki albo zablokowany automat. Czasem auto odpala jednak za drugim lub trzecim razem — to ta sama diagnoza.",
+  "advice": "Spróbuj odpalić jeszcze kilka razy; jeśli odpala co drugi raz, jedź do warsztatu w najbliższych dniach, zanim zostaniesz na jakimś parkingu. Sprawdź i dokręć klemy akumulatora. Stuknięcie w rozrusznik pozwala dojechać raz, ale nie jest naprawą."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Bendiks rozrusznika albo wieniec koła zamachowego",
+  "alt_causes": [
+   "Zużyte zęby wieńca",
+   "Rozrusznik osadzony krzywo"
+  ],
+  "explanation": "Metaliczny zgrzyt przy rozruchu oznacza, że zębatka rozrusznika źle wchodzi w wieniec koła zamachowego: zęby są zużyte albo mechanizm się zacina. Każdy taki rozruch zjada zęby zarówno bendiksa, jak i wieńca.",
+  "advice": "Umów się do warsztatu w ciągu tygodnia: wymiana bendiksa albo rozrusznika jest wyraźnie tańsza niż wieniec, do którego trzeba zdejmować skrzynię biegów. Do naprawy nie trzymaj kluczyka w pozycji rozruchu dłużej niż to konieczne i nie ponawiaj próby zaraz po zgrzycie."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Bendiks nie wchodzi w zazębienie albo wieniec ma wyłamane zęby",
+  "alt_causes": [
+   "Sprzęgło jednokierunkowe bendiksa",
+   "Wieniec koła zamachowego"
+  ],
+  "explanation": "Jeśli rozrusznik żwawo buczy, a silnik nawet nie próbuje się obrócić, zębatka kręci się na jałowo: zużyte jest sprzęgło jednokierunkowe bendiksa albo w wieńcu w tym miejscu brakuje zębów.",
+  "advice": "Czasem udaje się odpalić za drugim razem, bo koło zamachowe zatrzyma się w innym położeniu. Do warsztatu jedź jednak w najbliższych dniach: z każdą próbą uszkodzenie rośnie. Przy skrzyni manualnej w ostateczności możesz odpalić z pchania; przy automacie tak się nie da."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Liście albo śmieci w dmuchawie ogrzewania",
+  "alt_causes": [
+   "Zapchany filtr kabinowy",
+   "Ciało obce w kanale powietrza"
+  ],
+  "explanation": "Szelest i trzaski zmieniające się z prędkością dmuchawy to prawie zawsze liście albo śmieci, które wpadły przez wlot powietrza do dmuchawy ogrzewania. Jesienią to bardzo częsta historia, zwłaszcza gdy filtr kabinowy jest zapchany albo w ogóle go nie ma.",
+  "advice": "Wymień filtr kabinowy (śmieci często leżą wprost na nim) — w wielu autach zrobisz to sam w dziesięć minut, a instrukcje do konkretnego modelu łatwo znaleźć. Jeśli szelest zostanie, poproś w warsztacie o przedmuchanie i wyczyszczenie dmuchawy."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Łożysko albo tulejki silniczka dmuchawy",
+  "alt_causes": [
+   "Śmieci w dmuchawie",
+   "Wirnik ociera o obudowę"
+  ],
+  "explanation": "Pisk albo wycie spod deski rozdzielczej, które pojawia się tylko przy włączonej dmuchawie, wydaje zużyty silniczek dmuchawy. Sprawdzenie jest proste: wyłącz dmuchawę i pisk znika natychmiast, nawet przy pracującym silniku.",
+  "advice": "Na bezpieczeństwo to nie wpływa, ale z czasem silniczek zacznie się zacinać i zostaniesz bez ogrzewania — lepiej wymienić go przed zimą. Do naprawy możesz korzystać z tych biegów dmuchawy, na których jest ciszej."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Siłownik klapy nagrzewnicy",
+  "alt_causes": [
+   "Normalna kalibracja klap",
+   "Wyłamane zęby zębatki siłownika"
+  ],
+  "explanation": "Seria szybkich kliknięć albo terkotanie za deską rozdzielczą przy włączaniu zapłonu lub zmianie temperatury pochodzi od siłownika, który przestawia klapy nagrzewnicy. Jeśli seria jest krótka i zawsze taka sama, to najczęściej po prostu kalibracja. Terkotanie bez końca oznacza starte zęby plastikowej zębatki.",
+  "advice": "Jeśli kliknięcia są krótkie, a ogrzewanie normalnie się reguluje, nie trzeba nic robić. Jeśli terkotanie trwa długo albo powietrze leci nie tam, gdzie ustawione, umów się do warsztatu przy okazji: autu to nie szkodzi, ale komfort cierpi."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Powietrze w układzie chłodzenia (niski poziom płynu)",
+  "alt_causes": [
+   "Uszkodzony korek zbiorniczka wyrównawczego",
+   "Wyciek płynu chłodniczego"
+  ],
+  "explanation": "Bulgotanie za deską rozdzielczą to pęcherz powietrza przechodzący przez nagrzewnicę. Powietrze trafia do układu, gdy poziom płynu chłodniczego spadł: gdzieś jest wyciek albo korek zbiorniczka nie trzyma ciśnienia. Ogrzewanie potrafi wtedy dmuchać raz ciepłym, raz zimnym.",
+  "advice": "Na zimnym silniku sprawdź poziom w zbiorniczku wyrównawczym i uzupełnij do kreski, a potem obserwuj, czy znowu nie spada. Jeśli poziom dalej opada albo ogrzewanie dmucha zimnym przy ciepłym silniku, do warsztatu w tym tygodniu. Jeśli wskazówka temperatury idzie w górę albo spod maski leci para: zatrzymaj się i zgaś silnik."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Sprzęgło kompresora klimatyzacji ślizga się",
+  "alt_causes": [
+   "Poluzowany pasek",
+   "Zużyta tarcza dociskowa sprzęgła"
+  ],
+  "explanation": "Pisk dokładnie w chwili załączenia klimatyzacji oznacza, że sprzęgło łączące kompresor z paskiem ślizga się pod obciążeniem. Pojedyncze kliknięcie przy załączeniu jest normalne; pisk natomiast wskazuje na zużyte sprzęgło albo zbyt luźny pasek.",
+  "advice": "Pokaż to w warsztacie w ciągu dwóch tygodni: jeśli się to zaniedba, pisk zrobi się stały, a kompresor może się zatrzeć i zerwać pasek. Do naprawy możesz korzystać z klimatyzacji, ale gdy pisk się nasili — wyłącz ją."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Kompresor klimatyzacji (łożysko albo zużycie)",
+  "alt_causes": [
+   "Łożysko koła pasowego sprzęgła",
+   "Za mało oleju w układzie"
+  ],
+  "explanation": "Zgrzyt albo łomot słyszalny tylko przy pracującej klimatyzacji pochodzi od dogorywającego kompresora albo od łożyska jego koła pasowego. Zatarty kompresor zrywa pasek, a ten w wielu autach napędza też alternator i pompę wody.",
+  "advice": "Na razie nie włączaj klimatyzacji — dzięki temu podzespół dotrwa do naprawy. Umów diagnostykę w ciągu tygodnia: dopóki niszczy się tylko łożysko, naprawa jest wyraźnie tańsza niż nowy kompresor z płukaniem całego układu."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Normalny przepływ czynnika chłodniczego",
+  "alt_causes": [
+   "Normalna praca zaworu rozprężnego"
+  ],
+  "explanation": "Krótkie syknięcie albo bulgot za deską rozdzielczą w pierwszych sekundach po włączeniu lub wyłączeniu klimatyzacji to czynnik chłodniczy przepływający przez zawór rozprężny. Jeśli w kabinie robi się zimno, to normalna praca układu, a nie wyciek.",
+  "advice": "Nie trzeba nic robić. Powód do sprawdzenia byłby inny: jeśli syczenie stanie się ciągłe, a chłodu nie ma albo jest słaby — umów kontrolę układu klimatyzacji."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Łożysko wałka sprzęgłowego skrzyni biegów",
+  "alt_causes": [
+   "Łożysko oporowe sprzęgła",
+   "Rolki paska osprzętu"
+  ],
+  "explanation": "Szelest albo buczenie na wolnych obrotach, które cichnie po wciśnięciu sprzęgła, dochodzi ze skrzyni: przy puszczonym pedale wałek sprzęgłowy kręci się razem z silnikiem i hałasuje jego zużyte łożysko. Po wciśnięciu pedału wałek się zatrzymuje i dźwięk znika. Pasek i rolki na pedał sprzęgła nie reagują w ogóle.",
+  "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch i koniecznie opowiedz o związku dźwięku z pedałem — to od razu ukierunkuje poszukiwania. Sprawdź poziom oleju w skrzyni. Jeździć można, ale nie ciągnij tego miesiącami: rozsypane łożysko pociąga za sobą wałki i koła zębate."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Łożysko oporowe sprzęgła",
+  "alt_causes": [
+   "Łożysko wałka sprzęgłowego",
+   "Widelec sprzęgła"
+  ],
+  "explanation": "Szelest albo buczenie, które pojawia się lub nasila przy wciśniętym pedale sprzęgła, wydaje łożysko oporowe — element naciskający na docisk w chwili wysprzęglania. Zużyte łożysko oporowe hałasuje właśnie pod obciążeniem, czyli przy wciśniętym pedale.",
+  "advice": "Umów się do warsztatu w ciągu tygodnia albo dwóch. Trzymaj pedał wciśnięty tylko wtedy, gdy trzeba: na światłach wrzuć luz i puść sprzęgło. Rozsypane łożysko oporowe może zostawić cię bez sprzęgła w trasie, więc nie da się tego ciągnąć miesiącami."
+ },
+ "leaf_dmf": {
+  "top_cause": "Koło dwumasowe",
+  "alt_causes": [
+   "Sprężyny tarczy sprzęgła",
+   "Łożysko oporowe"
+  ],
+  "explanation": "Metaliczne grzechotanie na wolnych obrotach od strony skrzyni, które zmienia się po wciśnięciu sprzęgła i najlepiej słychać je w sekundach rozruchu i gaszenia silnika, to typowy podpis zużytego koła dwumasowego: tłumika między silnikiem a skrzynią, który wygasza szarpnięcia.",
+  "advice": "Umów diagnostykę w ciągu dwóch tygodni i opisz związek dźwięku z pedałem oraz z rozruchem i gaszeniem. Wymiana nie jest tania, ale zwlekanie wykańcza też sprzęgło i może skończyć się rozsypaniem koła w trasie. Do naprawy ruszaj łagodnie i nie męcz silnika na niskich obrotach."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mechanizm pedału sprzęgła (oś, widelec, linka)",
+  "alt_causes": [
+   "Tulejki osi pedału",
+   "Widelec łożyska oporowego"
+  ],
+  "explanation": "Skrzypienie przy naciskaniu pedału, słyszalne nawet przy zgaszonym silniku, to sucha mechanika napędu sprzęgła: oś pedału, linka albo widelec. Skoro dźwięk istnieje bez pracującego silnika, pasek, łożysko oporowe i skrzynia nie mają z tym nic wspólnego.",
+  "advice": "Poproś w warsztacie o przesmarowanie osi pedału i widelca przy najbliższej wizycie — często załatwia to sprawę w kilka minut. Nie ma zagrożenia. Jeśli razem ze skrzypieniem pedał zrobił się twardy albo sprzęgło łapie dopiero przy samej podłodze, pokaż auto wcześniej."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Łożysko górnego mocowania amortyzatora",
+  "alt_causes": [
+   "Przekładnia kierownicza",
+   "Łączniki stabilizatora"
+  ],
+  "explanation": "Chrupanie albo kliknięcia przy kręceniu kierownicą na postoju, dochodzące z góry, z nadkola, wydaje łożysko górnego mocowania: element, na którym góra kolumny obraca się razem z kołem. Dodatkowy objaw to pojedyncze stuknięcia z góry na dziurach.",
+  "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch: sprawdzenie jest proste, z ręką na miseczce amortyzatora pod maską kliknięcia czuć od razu. Jeździć można, ale zużyte mocowanie przyspiesza zużycie amortyzatora i pogarsza powrót kierownicy."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Krzyżak kolumny kierowniczej",
+  "alt_causes": [
+   "Luz na wielowypuście wałka",
+   "Przekładnia kierownicza"
+  ],
+  "explanation": "Kliknięcie albo stuknięcie, które słychać i czuć prosto w kierownicy, na wysokości nóg, pochodzi zwykle od krzyżaka wałka pośredniego kolumny kierowniczej: małego przegubu między kierownicą a przekładnią. Przy zgaszonym silniku, kołysząc kierownicą w lewo i w prawo, kliknięcie słychać wyraźnie.",
+  "advice": "Zleć kontrolę w warsztacie w najbliższych dniach: układ kierowniczy to element bezpieczeństwa, a diagnostyka zajmuje kilka minut. Luz w kolumnie z czasem tylko rośnie i sprawia, że kierownica robi się pusta w pozycji na wprost."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Serwo hamulca albo jego przewód podciśnienia",
+  "alt_causes": [
+   "Zawór zwrotny serwa",
+   "Pęknięty przewód podciśnienia"
+  ],
+  "explanation": "Syczenie spod deski rozdzielczej, które pojawia się i zmienia dokładnie w chwili naciskania i puszczania pedału hamulca, to zasysanie powietrza w serwie hamulca — elemencie, który zmniejsza siłę potrzebną na pedale. Pedał robi się przy tym często wyraźnie twardszy, a obroty biegu jałowego skaczą.",
+  "advice": "Umów się do warsztatu w tym tygodniu: hamulce działają i bez serwa, ale trzeba naciskać znacznie mocniej, a przy hamowaniu awaryjnym to niebezpieczne. Sprawdź pedał przed jazdą: jeśli zrobił się twardy jak deska, jedź ostrożnie i niedaleko."
+ },
+ "leaf_wipers": {
+  "top_cause": "Mechanizm wycieraczek albo pióra",
+  "alt_causes": [
+   "Poluzowane nakrętki ramion",
+   "Zużyte tulejki silniczka wycieraczek"
+  ],
+  "explanation": "Stukanie w skrajnych położeniach to luz w przegubach mechanizmu napędu wycieraczek albo poluzowane nakrętki ramion. Równomierne skrzypienie po szybie to stwardniałe gumy piór. Sprawdzenie jest proste: wyłącz wycieraczki, a dźwięk znika od razu i całkowicie.",
+  "advice": "Skrzypiące pióra wymienisz sam — są w każdym sklepie motoryzacyjnym. Przy stukaniu w skrajnych położeniach dokręć nakrętki ramion albo zleć wymianę tulejek mechanizmu przy okazji wizyty. Dla bezpieczeństwa liczy się tu tylko czysta szyba."
+ },
+ "leaf_eps": {
+  "top_cause": "Elektryczne wspomaganie kierownicy: lekkie buczenie to norma",
+  "alt_causes": [
+   "Zużycie elektrycznego wspomagania",
+   "Przekładnia kierownicza"
+  ],
+  "explanation": "Jeśli pod maską nie ma zbiorniczka z płynem, wspomaganie jest elektryczne, a ciche, równomierne buczenie przy kręceniu kierownicą to jego normalna praca, a nie usterka. Pompy hydraulicznej, która wyje przy niskim poziomie płynu, w takim aucie po prostu nie ma.",
+  "advice": "Niepokojące objawy przy wspomaganiu elektrycznym są inne: kierownica robi się ciężka albo twardnieje szarpnięciami, pojawia się chrupanie, na desce świeci kontrolka wspomagania. Jeśli występuje któryś z nich, do warsztatu w najbliższych dniach; jeśli nie, możesz spokojnie jeździć."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Uszczelka albo pęknięcie kolektora wydechowego",
+  "alt_causes": [
+   "Szpilki kolektora",
+   "Popychacze hydrauliczne"
+  ],
+  "explanation": "Szybki stukot na zimnym silniku, głośniejszy na zewnątrz i połączony z zapachem spalin spod maski, to spaliny uchodzące przez przepaloną uszczelkę albo pęknięcie kolektora wydechowego. W miarę nagrzewania metal się rozszerza, szczelina zamyka i stukot znika.",
+  "advice": "Umów się do warsztatu w ciągu tygodnia albo dwóch: szczelina z czasem rośnie, a zapach spalin może przedostawać się do kabiny przez nawiew, co jest szkodliwe. Do naprawy wietrz wnętrze, gdy poczujesz zapach."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Normalny stukot wtryskiwaczy (wtrysk bezpośredni albo diesel)",
+  "alt_causes": [
+   "Pompa wysokiego ciśnienia",
+   "Luzy zaworowe"
+  ],
+  "explanation": "W silnikach z wtryskiem bezpośrednim (TSI, GDI i podobnych) oraz w dieslach wtryskiwacze i pompa wysokiego ciśnienia stukają zawsze — to ich normalna praca. Cechy rozpoznawcze: dźwięk jest taki sam na zimnym i ciepłym silniku, na zewnątrz głośniejszy niż w kabinie i nie zależy od wieku oleju.",
+  "advice": "Nie trzeba nic robić. Zaniepokoić powinno co innego: jeśli tykanie stało się wyraźnie głośniejsze niż wcześniej, zmienia się po nagrzaniu silnika albo pojawiło się razem ze spadkiem mocy — wtedy na diagnostykę."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Zasysanie fałszywego powietrza (przewód podciśnienia, uszczelka dolotu)",
+  "alt_causes": [
+   "Pęknięty przewód",
+   "Uszczelka kolektora dolotowego"
+  ],
+  "explanation": "Równomierne syczenie spod maski, jak powietrze uchodzące z przebitej opony, to niezmierzone powietrze zasysane przez pęknięty przewód albo uszczelkę dolotu. Silnik często pracuje przez to nierówno: obroty biegu jałowego skaczą, czasem zapala się kontrolka silnika.",
+  "advice": "Umów diagnostykę w najbliższych dniach, zwłaszcza gdy obroty skaczą: szukanie nieszczelności to standardowa procedura. Sam możesz obejrzeć cienkie gumowe przewody pod maską pod kątem pęknięć, nic nie rozbierając."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Wentylator chłodnicy (tulejki albo praca bez przerwy)",
+  "alt_causes": [
+   "Czujnik temperatury albo termostat",
+   "Sprzęgło wiskozowe (przy napędzie na tył)"
+  ],
+  "explanation": "Buczenie albo ryk, który sam się włącza i wyłącza — przy upale, w korku, z klimatyzacją — to wentylator chłodnicy. Głośny wentylator oznacza albo zużyte tulejki jego silniczka, albo to, że kręci bez przerwy przez czujnik lub termostat. Czasem pracuje jeszcze przez minutę czy dwie po zgaszeniu silnika — to normalne.",
+  "advice": "Jeśli wentylator ryczy bez przerwy już od rozruchu na zimnym silniku, na diagnostykę w najbliższych dniach: układ chłodzenia nie pracuje prawidłowo. Obserwuj wskazówkę temperatury; jeśli idzie w górę, zatrzymaj się i zgaś silnik."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Elektryczna pompa paliwa",
+  "alt_causes": [
+   "Zapchany filtr paliwa",
+   "Siatka filtrująca pompy"
+  ],
+  "explanation": "Równomierne buczenie albo wycie z tyłu, spod tylnej kanapy albo od strony baku, to pompa paliwa. Słyszeć ją przez sekundę czy dwie po przekręceniu kluczyka to norma; głośne wycie, słyszalne także w jeździe, wskazuje na zużytą pompę albo zapchany filtr, przez który musi pracować z wysiłkiem.",
+  "advice": "Umów sprawdzenie ciśnienia paliwa w ciągu tygodnia albo dwóch. Nie jeźdź długo na rezerwie: przy dnie baku pompa gorzej się chłodzi i szybciej zużywa. Jeśli auto zaczęło szarpać pod obciążeniem albo trudno odpala, przyspiesz wizytę."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Rozsypany katalizator",
+  "alt_causes": [
+   "Osłona termiczna",
+   "Mocowania układu wydechowego"
+  ],
+  "explanation": "Dźwięczne grzechotanie albo szelest spod podwozia, bliżej silnika, które nasila się przy dodaniu gazu i idzie w parze ze spadkiem mocy albo zmienionym zapachem spalin, to rozsypana ceramika w katalizatorze. Odłamki grzechoczą w obudowie, a zapchany wkład dusi silnik.",
+  "advice": "Na diagnostykę w najbliższych dniach: odłamki ceramiki mogą zostać zassane do silnika, a to już droga naprawa. Prosty test w warsztacie to lekkie stuknięcie w obudowę katalizatora na wystudzonym aucie: w środku słychać luźne kawałki. Z tym nie warto zwlekać."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Automatyczna skrzynia: stary olej, zużycie albo luzy w napędzie",
+  "alt_causes": [
+   "Poduszki silnika i skrzyni",
+   "Krzyżaki wału napędowego (przy napędzie na tył)"
+  ],
+  "explanation": "Szarpnięcie albo łomot dokładnie przy przełączaniu wybieraka z D na R lub przy zmianie biegów wskazuje na zużycie albo stary olej w automatycznej skrzyni: bieg wchodzi z uderzeniem, a luzy w napędzie je wzmacniają. Podobnie łomocą osiadłe poduszki, więc diagnozę warto doprecyzować.",
+  "advice": "Najpierw sprawdź poziom i stan oleju w skrzyni: jeśli jest ciemny i pachnie spalenizną, trzeba go wymienić, a w wielu przypadkach to wystarcza. Umów diagnostykę w ciągu tygodnia albo dwóch i powiedz, przy których dokładnie zmianach biegów szarpie. Do naprawy przestawiaj wybierak tylko na całkowitym postoju i z wciśniętym hamulcem."
+ },
+ "leaf_synchro": {
+  "top_cause": "Synchronizatory skrzyni albo sprzęgło, które nie rozłącza do końca",
+  "alt_causes": [
+   "Luz pedału sprzęgła",
+   "Zużycie sprzęgła"
+  ],
+  "explanation": "Chrupnięcie przy wrzucaniu biegu w skrzyni manualnej oznacza, że koła zębate spotykają się przy różnych prędkościach. Jeśli chrupie jeden albo dwa konkretne biegi (najczęściej dwójka albo trójka), zużyte są ich synchronizatory; jeśli chrupią wszystkie, sprzęgło nie rozłącza do końca i skrzynia się nie uwalnia.",
+  "advice": "Sprawdź luz pedału sprzęgła i poziom oleju w skrzyni — od tego zacznie też warsztat. Umów diagnostykę w ciągu dwóch tygodni. Do naprawy zmieniaj biegi wolniej, z chwilą przerwy na luzie: mniej chrupie i mniej się zużywa."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Sprzęgło: zużyta albo zaolejona tarcza",
+  "alt_causes": [
+   "Poduszki silnika",
+   "Koło dwumasowe"
+  ],
+  "explanation": "Drżenie dokładnie w chwili ruszania, dopóki puszczasz pedał sprzęgła, przy czym po pełnym sprzęgnięciu auto jedzie równo, oznacza, że sprzęgło łapie szarpnięciami: tarcza jest zużyta, zaolejona albo docisk się wypaczył. Poduszki silnika powodują drżenie także na wolnych obrotach, a tu żyje ono wyłącznie w fazie ruszania.",
+  "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch: drżenie przy ruszaniu samo nie przechodzi i zwykle się nasila. Do naprawy ruszaj łagodnie, na nieco wyższych obrotach, bez ślizgania sprzęgła. Jeśli pojawi się zapach spalenizny, sprzęgło się dopala — nie zwlekaj z wizytą."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Krzyżaki wału napędowego albo luzy w napędzie",
+  "alt_causes": [
+   "Tuleje i śruby sanek",
+   "Przekładnia główna mostu"
+  ],
+  "explanation": "Pojedynczy łomot albo kliknięcie spod środkowej lub tylnej części podwozia przy ruszaniu i przy przechodzeniu z gazu na hamowanie silnikiem to luz w przenoszeniu napędu: najczęściej zużyte krzyżaki wału napędowego (napęd na tył i na cztery koła) albo poluzowane mocowania sanek.",
+  "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch: na podnośniku luz wału znajduje się w minutę, poruszając nim ręką. Nie warto zwlekać — rozbity krzyżak może się rozlecieć przy prędkości. Do naprawy ruszaj i puszczaj gaz łagodniej."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Sprzęgło ślizga się",
+  "alt_causes": [
+   "Zaolejona tarcza",
+   "Ślizganie automatu albo CVT"
+  ],
+  "explanation": "Jeśli po dodaniu gazu obroty rosną, silnik ryczy, a auto ledwie przyspiesza, sprzęgło ślizga się i nie przenosi napędu: tarcza jest zużyta albo zaolejona. Najbardziej widać to pod górę i na najwyższym biegu; często dochodzi gryzący zapach spalenizny. W automacie tak samo ślizga się zużyta skrzynia.",
+  "advice": "Do warsztatu w tym tygodniu: ślizgające się sprzęgło doślizga się do całkowitej utraty napędu, i to zwykle w najgorszym momencie. Do naprawy jedź spokojnie, bez wyprzedzania i przyczepy, a pod górę redukuj z wyprzedzeniem. Jeśli zapach spalenizny się nasila, nie zwlekaj ani dnia."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbosprężarka albo nieszczelność doładowania",
+  "alt_causes": [
+   "Przewód intercoolera",
+   "Łożysko wału turbiny"
+  ],
+  "explanation": "Lekki, równomierny gwizd turbo pod obciążeniem jest normą w silniku turbo. Zaniepokoić powinna zmiana: gwizd stał się głośniejszy albo zmienił ton, pojawiło się wycie, spadła moc. To albo nieszczelność w przewodach doładowania, albo zużycie łożyska wału turbiny.",
+  "advice": "Jeśli ton się zmienił albo auto ciągnie gorzej, na diagnostykę w najbliższych dniach: nieszczelny przewód naprawia się tanio, a zaniedbane zużycie turbo kończy się jej wymianą. Obserwuj zużycie oleju. Do kontroli nie kręć silnika na odcięcie i po ostrzejszej jeździe daj turbinie ostygnąć minutę albo dwie na wolnych obrotach."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Przekładnia główna mostu",
+  "alt_causes": [
+   "Łożyska mostu",
+   "Za mało oleju w moście"
+  ],
+  "explanation": "Wycie albo buczenie, które przy tej samej prędkości zmienia ton przy dodaniu i puszczeniu gazu — pod obciążeniem wyje, na hamowaniu silnikiem cichnie albo odwrotnie — to podpis zużytej przekładni głównej: kół zębatych mostu przenoszących napęd na koła. Łożysko piasty, w odróżnieniu od niej, na gaz nie reaguje wcale.",
+  "advice": "Sprawdź poziom oleju w moście i umów diagnostykę w ciągu tygodnia: przy wczesnym zużyciu często wystarczy olej i regulacja, przy późnym trzeba wymienić przekładnię. Dalekie szybkie trasy odłóż do czasu kontroli."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT albo automat (łożyska, pasek, sprzęgło hydrokinetyczne)",
+  "alt_causes": [
+   "Za mało albo stary olej w skrzyni",
+   "Łożyska wałków"
+  ],
+  "explanation": "Monotonne metaliczne wycie przy przyspieszaniu w aucie z CVT albo automatem, zależne od gazu, a nie od prędkości, pochodzi zwykle od łożysk kół stożkowych CVT albo od pompy automatu. CVT jest szczególnie wrażliwe na wiek oleju.",
+  "advice": "Najpierw sprawdzenie poziomu i stanu oleju w skrzyni — to połowa takich przypadków. Umów diagnostykę w ciągu tygodnia, a do tego czasu jeźdź spokojnie, bez ostrych przyspieszeń i holowania przyczepy. Naprawa CVT w porę kosztuje kilka razy mniej niż zrobiona za późno."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Łożyska albo koła zębate skrzyni manualnej",
+  "alt_causes": [
+   "Za mało oleju w skrzyni",
+   "Łożysko wałka sprzęgłowego"
+  ],
+  "explanation": "Wycie, którego głośność zależy od włączonego biegu — na jednym wyje, na innym ciszej, na luzie przy toczeniu znika — dochodzi ze skrzyni manualnej: zużyte są łożyska wałków albo konkretna para kół zębatych. Łożysko piasty buczy tak samo na każdym biegu.",
+  "advice": "Sprawdź poziom oleju w skrzyni: jego spadek to częsta przyczyna. Umów diagnostykę w ciągu tygodnia albo dwóch i powiedz, na których biegach wyje głośniej: to zawęzi poszukiwania. Jeździć można, ale narastającego wycia nie warto ciągnąć."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Niewyważone koła",
+  "alt_causes": [
+   "Zgubiony ciężarek wyważający",
+   "Błoto albo lód wewnątrz felgi"
+  ],
+  "explanation": "Drobne drgania kierownicy w wąskim zakresie prędkości, zwykle 80–120 km/h, które poniżej i powyżej prawie znikają, to klasyczne niewyważenie: spadł ciężarek albo od środka felgi przykleiło się błoto lub lód. Drga kierownica — to koła przednie, drga fotel — tylne.",
+  "advice": "Podjedź przy okazji na wyważanie — to szybkie i tanie. Zimą najpierw obejrzyj felgi od środka i zbij przymarznięty śnieg i lód. Nie ma zagrożenia, ale ciągłe drgania przyspieszają zużycie łożysk i końcówek drążków kierowniczych."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Krzywa felga albo guz na oponie",
+  "alt_causes": [
+   "Przesunięta osnowa opony",
+   "Niewyważone koła"
+  ],
+  "explanation": "Bicie wyczuwalne już od 40–60 km/h i rosnące z prędkością to zwykle deformacja: felga wygięta po wpadnięciu w dziurę albo guz na boku opony. W odróżnieniu od niewyważenia to bicie nie żyje w wąskim zakresie prędkości, tylko cały czas się nasila.",
+  "advice": "Obejrzyj opony i krawędzie felg: guz na boku albo wygięty rant felgi często widać gołym okiem. Guz to słabe miejsce, które może pęknąć przy prędkości: załóż w tym miejscu koło zapasowe i nie odkładaj wizyty w wulkanizacji. Do tego czasu nie jeźdź szybko."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Wał napędowy: podpora albo niewyważenie",
+  "alt_causes": [
+   "Krzyżaki wału",
+   "Sprzęgło elastyczne"
+  ],
+  "explanation": "Buczenie i drobne drgania w podłodze i nadwoziu w konkretnym zakresie prędkości, w aucie z napędem na tył albo na cztery koła, to wał napędowy: zużyta podpora, rozbite krzyżaki albo utracone wyważenie. Od niewyważenia kół różni się tym, że drga nie kierownica, tylko podłoga.",
+  "advice": "Umów diagnostykę w ciągu tygodnia: luzy wału sprawdza się na podnośniku w kilka minut. Nie warto zwlekać — rozerwanie krzyżaka przy prędkości jest niebezpieczne. Do kontroli nie jeźdź długo z tą prędkością, przy której drga."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Szum aerodynamiczny (uszczelki, listwy, bagażnik dachowy)",
+  "alt_causes": [
+   "Zużyte uszczelki drzwi",
+   "Belki albo box na dachu"
+  ],
+  "explanation": "Gwizd albo wycie, które pojawia się dopiero powyżej pewnej prędkości (zwykle 70–90 km/h), rośnie razem z nią i nie zależy od nawierzchni ani od zakrętów, to powietrze: zużyta uszczelka, odklejona listwa, belki dachowe albo box.",
+  "advice": "Źródło znajdziesz łatwo: zdejmij box albo belki, jeśli je masz; uchyl szybę i sprawdź, czy gwizd się zmienia; zaklej podejrzaną szczelinę taśmą malarską i przejedź się. To nie usterka: rozwiązuje ją nowa uszczelka albo regulacja drzwi."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Czujnik zużycia klocków ociera o tarczę",
+  "alt_causes": [
+   "Klocki na wykończeniu",
+   "Kamyk między klockiem a tarczą"
+  ],
+  "explanation": "Cienki metaliczny pisk w jeździe bez naciskania hamulca, który przy lekkim dotknięciu pedału znika albo się zmienia, to metalowa blaszka wskaźnika na klocku, która zaczęła dotykać tarczy. To przewidziane fabrycznie ostrzeżenie: materiału ciernego prawie już nie ma.",
+  "advice": "Umów w tym tygodniu wymianę klocków i poproś o sprawdzenie tarcz. Hamulce na razie działają w pełni, ale kolejny etap to zgrzyt i zniszczone tarcze. Jeśli pisk dochodzi od konkretnego koła, powiedz o tym w warsztacie."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Zakleszczony zacisk hamulcowy",
+  "alt_causes": [
+   "Zapieczone prowadnice zacisku",
+   "Spęczniały przewód hamulcowy"
+  ],
+  "explanation": "Stałe szuranie od strony jednego koła, gorąca tarcza po jeździe, zapach spalenizny i ściąganie auta w bok — zacisk (element, który dociska klocki do tarczy) zakleszczył się i klocek ociera tarczę bez przerwy. Przegrzany hamulec traci skuteczność, a klocki i tarcza wypalają się w ciągu kilkuset kilometrów.",
+  "advice": "Zwykłą jazdę przerwać i dojechać wyłącznie do warsztatu — blisko i wolno. Które koło jest gorące, sprawdzisz ręką obok tarczy, ale samej tarczy nie dotykaj, poparzy. Zwlekanie kończy się zablokowaniem koła w czasie jazdy."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Niedokręcone śruby koła",
+  "alt_causes": [
+   "Rozbite otwory w feldze",
+   "Luz piasty"
+  ],
+  "explanation": "Rytmiczny łomot lub stukanie w takt obrotu koła, które pojawiło się w pierwszych dniach po wizycie w wulkanizacji lub zmianie opon, to klasyka niedokręconych śrub koła. Koło na luźnych śrubach rozbija otwory w feldze, a w najgorszym razie odkręca się w czasie jazdy.",
+  "advice": "Zatrzymać się przy pierwszej okazji i kluczem do kół sprawdzić dokręcenie śrub we wszystkich kołach. Dokręciły się — stukanie powinno zniknąć; jeśli zostało, ostrożnie dojechać do warsztatu i sprawdzić piastę. Po każdej zmianie opon warto powtórzyć dokręcanie po 50–100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Kamyk albo wkręt w bieżniku",
+  "alt_causes": [
+   "Niedokręcone śruby koła",
+   "Odchodzący bieżnik"
+  ],
+  "explanation": "Równe cykanie albo klikanie w takt obrotu koła, najlepiej słyszalne przy małej prędkości, najczęściej wydaje kamyk wciśnięty w bieżnik — albo, co ważniejsze, wkręcony w oponę wkręt. Dźwięk trwa tak długo, jak długo przedmiot siedzi w oponie.",
+  "advice": "Obejrzeć bieżnik wszystkich kół, powoli przetaczając auto albo skręcając kierownicę do oporu. Kamyk wydłubać. Wkrętu ani gwoździa nie wyciągać — z nim spokojnie dojedziesz do wulkanizacji, a bez niego opona zejdzie po drodze. Jeśli w bieżniku nic nie ma, a klikanie zostało, sprawdzić dokręcenie śrub kół."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Gumy stabilizatora albo silentbloki (skrzypienie)",
+  "alt_causes": [
+   "Sworznie wahaczy",
+   "Suche uszczelki i zawiasy drzwi"
+  ],
+  "explanation": "Skrzypienie jak w starym łóżku na nierównościach, przy wsiadaniu i przy bujaniu autem — sucha guma w zawieszeniu: tuleje stabilizatora albo silentbloki (gumowe przeguby wahaczy). Na mrozie i w wilgoci głośniejsze. Łatwo je wywołać, kołysząc stojącym autem za błotnik.",
+  "advice": "Przy okazji pokazać w warsztacie: często wystarcza nasmarowanie tulei albo wymiana groszowych części. Niebezpieczeństwa nie ma, ale jeśli razem ze skrzypieniem pojawiło się stukanie albo auto zaczęło ściągać w bok, to już sprawa sworzni wahaczy i sprawdzenia nie odkładaj."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Przywarte klocki hamulcowe",
+  "alt_causes": [
+   "Przymarznięte klocki (zimą)",
+   "Szczęki hamulca ręcznego"
+  ],
+  "explanation": "Pojedynczy głośny huk albo trzask przy pierwszym ruszeniu po dłuższym postoju, zwłaszcza na hamulcu ręcznym, po myjni, deszczu albo mrozie — klocki przywarły lub przymarzły do tarcz i się oderwały. Jeśli dalej cała jazda jest cicha, to nic groźnego.",
+  "advice": "Nic nie trzeba robić; zimą można zostawiać auto na biegu zamiast na hamulcu ręcznym (tylko przy manualnej skrzyni), żeby tylne klocki nie przymarzały. Jeśli chrzęst powtarza się przy każdym ruszeniu, to już nie klocki — przejdź diagnozę od nowa."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Luz przekładni kierowniczej",
+  "alt_causes": [
+   "Końcówki drążków kierowniczych",
+   "Krzyżak kolumny kierowniczej"
+  ],
+  "explanation": "Stukanie na drobnych falach i łączeniach nawierzchni, które przechodzi prosto na kierownicę i czuć je w dłoniach, to luz w przekładni kierowniczej (maglownicy): zużyta tulejka albo zazębienie. Charakterystyczny znak — stukanie cichnie, gdy trzymasz kierownicę lekko naprężoną.",
+  "advice": "Pokazać układ kierowniczy w warsztacie w ciągu najbliższych dni: to element bezpieczeństwa, a sprawdzenie na podnośniku zajmuje kilka minut. W części aut przekładnię da się skasować regulacją — tanio. Jeśli kierownica zrobiła się „pusta” w położeniu prosto albo auto pływa po pasie, nie odkładaj."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Pęknięta sprężyna zawieszenia",
+  "alt_causes": [
+   "Zużyty amortyzator",
+   "Pęknięta miska sprężyny"
+  ],
+  "explanation": "Łomot albo metaliczny zgrzyt na nierównościach i w zakrętach, który pojawił się nagle po wpadnięciu w dziurę, plus obniżony jeden narożnik auta — typowy obraz ułamanego zwoju sprężyny. Ułamany kawałek może ocierać i łomotać przy pracy zawieszenia.",
+  "advice": "Zajrzeć za koło od dołu: ułamany zwój często widać gołym okiem. Do warsztatu w ciągu kilku dni, a do naprawy jeździć łagodnie: kawałek sprężyny może się przesunąć i rozciąć oponę. Sprężyny wymienia się parami na osi."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plastiki wnętrza: klipsy i łączenia paneli",
+  "alt_causes": [
+   "Przedmioty w schowku i kieszeniach",
+   "Suche uszczelki drzwi"
+  ],
+  "explanation": "Bliskie „plastikowe” grzechotanie i cykanie na drobnych nierównościach to tarcie i luz paneli wnętrza: deski rozdzielczej, boczków drzwi, schowka. Na mrozie głośniejsze. Pewny test: jeśli w czasie jazdy przyciśniesz podejrzany panel ręką i dźwięk znika, to wnętrze, a nie podwozie.",
+  "advice": "To nie usterka: auto jest sprawne. Wyjmij drobiazgi ze schowka i kieszeni, w znalezione łączenie podłóż kawałek taśmy uszczelniającej. Skrzypienie na obwodzie drzwi znika po przetarciu uszczelek smarem silikonowym. Stukanie zawieszenia jest głuche, „od dołu”, i nie zmienia się od naciskania paneli."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Luźny bagaż albo koło zapasowe w bagażniku",
+  "alt_causes": [
+   "Podnośnik i narzędzia",
+   "Półka bagażnika"
+  ],
+  "explanation": "Głuche stukanie albo grzechot z tyłu na nierównościach, jakby coś skakało i przetaczało się, najczęściej właśnie czymś skaczącym jest: podnośnik, klucz do kół, słabo dokręcone koło zapasowe albo klekocząca półka. Przy załadowanym bagażniku dźwięk zwykle się zmienia albo znika.",
+  "advice": "Wyjmij wszystko z bagażnika, sprawdź dokręcenie mocowania koła zapasowego i podnośnika, dociśnij półkę — i przejedź ten sam odcinek. Stukanie zniknęło — zawieszenie nie ma z tym nic wspólnego i nic więcej robić nie trzeba. Zostało — przejdź diagnozę od nowa gałęzią „stukanie na nierównościach”."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Zamek albo odboje maski",
+  "alt_causes": [
+   "Zawiasy maski",
+   "Ogranicznik drzwi"
+  ],
+  "explanation": "Metaliczne stukanie z przodu u góry, przy krawędzi maski, na drobnych nierównościach — luz zamka maski albo osiadłe gumowe odboje, na których maska się opiera. W środku słychać je blisko, „przed twarzą”, a nie od dołu jak stukanie zawieszenia.",
+  "advice": "Test na postoju: naciśnij zamkniętą maskę — jeśli gra i postukuje, diagnoza potwierdzona. Gumowe odboje w narożnikach wykręć o pół obrotu w górę, żeby maska leżała ciaśniej; w większości przypadków to wystarcza. Niebezpieczeństwa nie ma."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hydrauliczne popychacze zaworów (na zimno)",
+  "alt_causes": [
+   "Luzy zaworowe",
+   "Zgęstniały olej"
+  ],
+  "explanation": "Hydrauliczne popychacze to małe elementy, które ciśnieniem oleju kasują nadmierny luz zaworów. Dopóki silnik jest zimny, olej jest gęsty i dociera do nich z opóźnieniem, dlatego przez pierwsze minuty słychać szybkie tykanie. Jeśli po nagrzaniu dźwięk całkiem znika, to typowa sytuacja i nie jest groźna.",
+  "advice": "Sprawdź poziom oleju i termin jego wymiany: stary albo niewłaściwy olej nasila stukanie. Jeśli tykanie utrzymuje się dłużej niż dwie minuty albo zostaje na nagrzanym silniku, umów się do warsztatu. Dodatków „na stukanie” lepiej nie wlewać."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Zużycie grupy tłokowej (stukanie na zimno)",
+  "alt_causes": [
+   "Hydrauliczne popychacze",
+   "Łańcuch rozrządu"
+  ],
+  "explanation": "Głuche stukanie przez pierwsze minuty po zimnym rozruchu, które znika w miarę nagrzewania, w autach z przebiegiem często daje zużycie grupy tłokowej: zimny tłok ma w cylindrze trochę więcej luzu i postukuje. Po nagrzaniu części się rozszerzają i stukanie ustępuje. Zwykle to sprawa do obserwacji, a nie pilna naprawa.",
+  "advice": "Powiedz o tym w warsztacie przy najbliższej wizycie i zauważ, ile minut stukanie się utrzymuje — to cenna informacja dla mechanika. Pilnuj poziomu i zużycia oleju. Jeśli stukanie przestało znikać po nagrzaniu albo pojawiło się pod obciążeniem, jedź na diagnostykę bez zwlekania."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Łańcuch rozrządu albo jego napinacz",
+  "alt_causes": [
+   "Hydrauliczne popychacze",
+   "Rolki paska osprzętu"
+  ],
+  "explanation": "Łańcuch rozrządu to łańcuch wewnątrz silnika, który spina jego wały i sprawia, że zawory otwierają się w odpowiednim momencie. Kiedy się rozciągnie albo słabnie napinacz, przy zimnym rozruchu słychać z przodu silnika szelest lub grzechot, który cichnie po nagrzaniu, gdy rośnie ciśnienie oleju. Z czasem dźwięk będzie pojawiał się coraz częściej.",
+  "advice": "Umów się na diagnostykę w ciągu tygodnia–dwóch: przeskoczony łańcuch to kosztowna naprawa silnika. Do wizyty unikaj ostrego ruszania na zimno i pozwól silnikowi się nagrzać przed obciążeniem. Koniecznie sprawdź poziom oleju."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "Ślizganie się paska osprzętu",
+  "alt_causes": [
+   "Zużyta rolka napinacza",
+   "Słabe napięcie paska"
+  ],
+  "explanation": "Pisk w pierwszych sekundach po rozruchu prawie zawsze daje pasek, który napędza alternator, pompę wody i klimatyzację. Na zimno albo przy wilgotnej pogodzie ślizga się po kołach pasowych i gwiżdże, potem się nagrzewa i milknie. Teraz nie jest to groźne, ale świadczy o zużyciu paska albo o osłabionym napięciu.",
+  "advice": "Przy okazji pokaż pasek w warsztacie: oględziny to kwestia dwóch minut. Jeśli pisk zaczął pojawiać się także na nagrzanym silniku albo przy włączaniu klimatyzacji, nie odkładaj. Nie psikaj na pasek WD-40 ani innych „domowych sposobów”."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Powiększone luzy zaworowe",
+  "alt_causes": [
+   "Hydrauliczne popychacze",
+   "Łańcuch rozrządu"
+  ],
+  "explanation": "Równe, szybkie tykanie z górnej części silnika to typowy dźwięk mechanizmu zaworowego. Z czasem luzy między jego elementami rosną i zawory zaczynają „cykać”, najlepiej słychać to na wolnych obrotach. Silnik od tego od razu nie padnie, ale zawory pracują z uderzeniem i szybciej się zużywają.",
+  "advice": "Umów się na regulację zaworów albo sprawdzenie popychaczy w ciągu najbliższych dwóch tygodni. Pilnuj poziomu oleju: przy niskim tykanie się nasila. Jeździć można spokojnie, ale odkładanie tego o miesiące nie ma sensu."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Stukanie w dolnej części silnika (panewki, korbowody)",
+  "alt_causes": [
+   "Spalanie stukowe",
+   "Zużycie grupy tłokowej",
+   "Koło pasowe wału korbowego (tłumik drgań)"
+  ],
+  "explanation": "Głuchy stukot z głębi silnika, który przyspiesza wraz z obrotami i nasila się pod obciążeniem, to najbardziej niepokojący z dźwięków silnika. Tak stukają zużyte panewki — łożyska, na których obraca się wał korbowy — albo korbowody: w połączeniach pojawił się luz i części biją o siebie. Jeśli będziesz jechać dalej, silnik może się zatrzeć.",
+  "advice": "Nie jedź o własnych siłach dalej, niż to konieczne: najlepiej lawetą; jeśli warsztat jest tuż obok — dojedź wolno i nie dodawaj gazu. Od razu sprawdź poziom oleju i uzupełnij go do normy, jeśli jest niski. Podobnie mogą stukać mniej groźne rzeczy, ale sprawdzić musi mechanik — i to szybko."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Osprzęt albo poduszki silnika",
+  "alt_causes": [
+   "Sprzęgło sprężarki klimatyzacji",
+   "Hydrauliczne popychacze"
+  ],
+  "explanation": "Stukanie, które nie przyspiesza przy dodawaniu gazu, zwykle nie pochodzi z samego silnika, tylko z tego, co jest do niego przykręcone: alternatora, kół pasowych, wsporników, poduszek. Luz w tych miejscach daje głuche uderzenia na wolnych obrotach, zwłaszcza gdy silnik drga.",
+  "advice": "Umów się na diagnostykę w ciągu tygodnia–dwóch: takie stuki mechanik dobrze znajduje stetoskopem. Warto zauważyć i powiedzieć mechanikowi, czy dźwięk zmienia się po włączeniu klimatyzacji albo po wrzuceniu biegu przy wciśniętym hamulcu."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Zużyty albo słabo napięty pasek osprzętu",
+  "alt_causes": [
+   "Rolka napinacza",
+   "Koło pasowe alternatora"
+  ],
+  "explanation": "Przenikliwy pisk spod maski to ślizgający się po kołach pasowych pasek. Najczęściej winne jest zużycie samego paska albo osłabiony napinacz. Jeśli pasek się zerwie, stanie alternator, a w wielu autach także pompa wody (pompa układu chłodzenia), więc nie wolno tego zapuszczać.",
+  "advice": "Pokaż auto w warsztacie w ciągu tygodnia: wymiana paska i rolki to niedroga robota. Jeśli pisk gwałtownie się nasilił, zapaliła się kontrolka ładowania albo temperatura silnika poszła w górę — zatrzymaj się i zgaś silnik."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Pompa wody (pompa układu chłodzenia)",
+  "alt_causes": [
+   "Rolki paska",
+   "Łożysko alternatora"
+  ],
+  "explanation": "Buczenie albo szelest od strony paska w połączeniu ze śladami płynu chłodniczego to typowe objawy konającej pompy wody. Jej łożysko się zużywa, pojawia się luz, a przez uszczelnienie zaczyna sączyć się płyn. Jeśli pompa się zatrze, silnik szybko się przegrzeje.",
+  "advice": "Jedź do warsztatu w ciągu najbliższych dni, a po drodze pilnuj temperatury silnika i poziomu płynu chłodniczego. Jeśli temperatura poszła w górę albo spod maski poszła para — zatrzymaj się i zgaś silnik. Płyn uzupełniaj wyłącznie na wystudzonym silniku."
+ },
+ "leaf_idler": {
+  "top_cause": "Rolka napinacza albo rolka prowadząca",
+  "alt_causes": [
+   "Pompa wody",
+   "Sprzęgło jednokierunkowe alternatora",
+   "Łańcuch rozrządu albo jego napinacz"
+  ],
+  "explanation": "Równe buczenie albo szelest, który zmienia się wraz z obrotami silnika, najczęściej daje łożysko jednej z rolek, po których biegnie pasek osprzętu. Zużyta rolka hałasuje coraz mocniej, może zacząć się zakleszczać i w końcu zerwać pasek.",
+  "advice": "Umów się do warsztatu w ciągu tygodnia: mechanik zdejmie pasek i od razu ustali, która rolka hałasuje. Podobnie potrafi hałasować pompa wody, sprzęgło jednokierunkowe alternatora, a nawet łańcuch rozrządu — to sprawdza się przy okazji. Jeśli dźwięk przeszedł w zgrzyt albo pisk, przyspiesz wizytę."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Osłona termiczna układu wydechowego",
+  "alt_causes": [
+   "Mocowania tłumika",
+   "Osłona miski olejowej"
+  ],
+  "explanation": "Dźwięczne, metaliczne grzechotanie przy określonych obrotach prawie zawsze daje obluzowana osłona termiczna — cienka blacha nad tłumikiem albo katalizatorem. Brzmi nieprzyjemnie, ale na pracę auta nie ma wpływu.",
+  "advice": "Przy okazji poproś w warsztacie o dokręcenie albo ściągnięcie osłony opaską: robota na kilka minut. Warto się upewnić, że grzechocze właśnie osłona, a nie mocowania tłumika — na podnośniku widać to od razu."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Wypadanie zapłonu albo dziura w wydechu",
+  "alt_causes": [
+   "Świece i cewki zapłonowe",
+   "Przepalony tłumik albo rura",
+   "Ustawienia instalacji LPG (jeśli strzela na gazie)"
+  ],
+  "explanation": "Strzały z tłumika oznaczają, że paliwo dopala się nie w cylindrach, tylko w układzie wydechowym. Powody to wypadanie zapłonu (świece, cewki), zła mieszanka albo dziura w wydechu. Poza hałasem szkodzi to katalizatorowi, a jego wymiana jest droga.",
+  "advice": "Umów się na diagnostykę w najbliższych dniach, zwłaszcza jeśli auto gorzej ciągnie, pracuje z przerwami albo zapaliła się kontrolka check engine. Długo jeździć ze strzałami nie warto: niespalone paliwo przegrzewa katalizator. Jeśli masz instalację LPG i strzały pojawiają się na gazie, jedź na regulację instalacji: dla niej strzały są szczególnie groźne."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Przepalony tłumik albo rura wydechowa",
+  "alt_causes": [
+   "Uszczelka wydechu",
+   "Pęknięta harmonijka wydechu"
+  ],
+  "explanation": "Głośny ryk, który nasila się przy dodawaniu gazu, zwykle oznacza dziurę w układzie wydechowym: przepalił się tłumik, rura albo uszczelka. Dźwięk robi się „sportowy”, ale spaliny wychodzą przed czasem — to hałas, smród i ryzyko, że czad dostanie się do kabiny.",
+  "advice": "Pokaż auto w warsztacie w tym tygodniu: oględziny wydechu na podnośniku to kilka minut. Jeśli w kabinie czuć spaliny, jeźdź z uchyloną szybą i nie nagrzewaj auta w zamkniętym garażu: tlenek węgla jest niebezpieczny."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Poduszki silnika",
+  "alt_causes": [
+   "Wypadanie zapłonu",
+   "Zabrudzona przepustnica albo wtryskiwacze"
+  ],
+  "explanation": "Jeśli na wolnych obrotach czuć w kabinie drżenie, a kierownica i fotele drobno wibrują, często winne są poduszki silnika — gumowe elementy, które tłumią jego drgania. Z czasem guma twardnieje i pęka, a wibracja przechodzi na nadwozie.",
+  "advice": "Sprawdź poduszki w warsztacie w ciągu dwóch tygodni: oględziny są proste. Podpowiedź do diagnozy — wibracja od poduszek zwykle rośnie po wrzuceniu biegu przy wciśniętym hamulcu. Jeśli silnik dodatkowo szarpie, powiedz o tym mechanikowi: może wypadać zapłon."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Nalot rdzy na tarczach hamulcowych",
+  "alt_causes": [
+   "Wilgoć albo pył na klockach",
+   "Początkowe zużycie klocków"
+  ],
+  "explanation": "Przez noc, po deszczu albo po myjni na tarczach hamulcowych pojawia się cienki rudy nalot — to normalne w każdym samochodzie. Pierwsze kilka hamowań zdziera go klockami, stąd pisk albo lekkie skrobanie, które szybko znika.",
+  "advice": "Nic nie trzeba robić: kilka łagodnych hamowań na początku jazdy czyści tarcze. Jeśli dźwięk przestał znikać i słychać go przy każdym hamowaniu, przejdź diagnozę od nowa albo pokaż auto w warsztacie."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Zużycie albo stan klocków hamulcowych",
+  "alt_causes": [
+   "Czujnik zużycia klocków",
+   "Zeszklone klocki",
+   "Pył albo korozja na tarczach"
+  ],
+  "explanation": "Pisk przy każdym hamowaniu to sygnał, żeby sprawdzić klocki. Wiele klocków ma metalowy „czujnik zużycia”: kiedy warstwa robocza (okładzina cierna, która ociera tarczę) zetrze się do granicy, blaszka zahacza o tarczę i celowo piszczy. Piszczeć mogą też same klocki — od nalotu, zeszklonej powierzchni albo taniego materiału.",
+  "advice": "Umów się na sprawdzenie klocków i tarcz w tym tygodniu. Jeśli to czujnik zużycia, nie ma co zwlekać: następny etap to zgrzyt i zniszczone tarcze. Jeśli klocki są w porządku, pisk nie jest groźny, a mechanik podpowie, jak go usunąć."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Klocki starte do metalu",
+  "alt_causes": [
+   "Ciało obce w mechanizmie hamulcowym",
+   "Rozpadający się klocek"
+  ],
+  "explanation": "Zgrzyt metalu o metal przy hamowaniu oznacza, że warstwa robocza klocka się skończyła i tarczę ociera jego metalowa podstawa. Droga hamowania rośnie, tarcza niszczy się przy każdym zatrzymaniu, a mechanizm może się zakleszczyć.",
+  "advice": "Przerwij zwykłą jazdę i dojedź wyłącznie do warsztatu, hamując wcześnie i łagodnie. Wymiany nie odkładaj ani o jeden dzień: poza bezpieczeństwem każdy kilometr ze zgrzytem dokłada do rachunku koszt tarcz hamulcowych."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Prowadnice zacisku albo bicie tarcz hamulcowych",
+  "alt_causes": [
+   "Luz piasty",
+   "Poluzowane mocowanie zacisku"
+  ],
+  "explanation": "Stukanie przy hamowaniu albo pulsowanie pedału zwykle idzie od mechanizmu hamulcowego: rozklekotały się prowadnice zacisku (elementu, który dociska klocki do tarczy) albo tarczę wypaczyło i klocki o nią biją. Hamulce działają, ale nierówno.",
+  "advice": "Sprawdź hamulce w warsztacie w najbliższych dniach: układu, od którego zależy bezpieczeństwo, lepiej nie zapuszczać. Jeśli pedał zaczął uciekać głębiej niż zwykle, auto ściąga w bok przy hamowaniu albo bije w kierownicę — na diagnostykę od razu."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Coś ociera tarczę hamulcową (osłona albo zużyte klocki)",
+  "alt_causes": [
+   "Klocki starte do metalu",
+   "Wygięta blacha osłony tarczy",
+   "Kamyk między osłoną a tarczą"
+  ],
+  "explanation": "Ciągły zgrzyt albo szuranie od strony koła zwykle oznacza, że coś ociera obracającą się tarczę hamulcową: wygięta blacha osłony, kamyk, który się tam dostał — albo starte do metalu klocki. Pierwsze dwa przypadki są niegroźne, trzeci niebezpieczny, a na słuch łatwo je pomylić.",
+  "advice": "Sprawdź w warsztacie w ciągu dnia–dwóch, bez odkładania: oględziny koła szybko pokażą przyczynę. Jeśli przy hamowaniu zgrzyt się nasila albo pedał zachowuje się inaczej niż zwykle, przerwij jazdę i dojedź do warsztatu ostrożnie."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Łożysko koła",
+  "alt_causes": [
+   "Hałas opon",
+   "Zużyty przegub napędowy"
+  ],
+  "explanation": "Buczenie, które zmienia się w zakrętach podczas jazdy, to klasyczny objaw zużytego łożyska koła — łożyska, na którym obraca się koło. W zakręcie ciężar auta przenosi się na koła zewnętrzne: jeśli przy skręcie w lewo buczenie rośnie, obciążona jest prawa strona i najpewniej buczy prawe łożysko; przy skręcie w prawo — odwrotnie. Rozsypujące się łożysko daje luz koła, a w zapuszczonym przypadku może się zatrzeć.",
+  "advice": "Zapamiętaj, w którą stronę buczenie jest głośniejsze, i powiedz o tym w warsztacie — to od razu zawęzi poszukiwania. Sprawdzenia nie odkładaj dłużej niż tydzień, a dalsze trasy odłóż do czasu diagnostyki. Jeśli pojawiła się wibracja albo buczenie wyraźnie się wzmocniło, jedź do warsztatu od razu."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Zewnętrzny przegub napędowy",
+  "alt_causes": [
+   "Wewnętrzny przegub napędowy",
+   "Łączniki stabilizatora",
+   "Sprzęgło napędu 4x4"
+  ],
+  "explanation": "Kłapanie albo trzaskanie podczas jazdy ze skręconą kierownicą to firmowy dźwięk zużytego zewnętrznego przegubu napędowego: przegubu, przez który napędzane jest skręcające koło. Zwykle wszystko zaczyna się od pękniętej osłony — gumowej harmonijki, która chroni przegub przed brudem.",
+  "advice": "Obejrzyj osłony przegubów albo poproś o to w warsztacie: rozerwana guma i smar dookoła potwierdzają diagnozę. Z wymianą nie zwlekaj dłużej niż tydzień–dwa: zużyty przegub może się zakleszczyć. Do naprawy nie ruszaj gwałtownie ze skręconymi kołami."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Końcówki drążków kierowniczych albo przekładnia",
+  "alt_causes": [
+   "Łączniki stabilizatora",
+   "Łożyska górne amortyzatorów"
+  ],
+  "explanation": "Stukanie przy kręceniu kierownicą, zwłaszcza w miejscu albo przy małej prędkości, zwykle daje luz w końcówkach drążków, w drążkach kierowniczych albo w samej przekładni kierowniczej. Prowadzeniu jeszcze to nie przeszkadza, ale luz w układzie kierowniczym z czasem tylko rośnie.",
+  "advice": "Sprawdź układ kierowniczy w warsztacie w najbliższych dniach: diagnostyka na podnośniku to kilka minut. Jeśli kierownica zrobiła się „pusta” w położeniu środkowym, auto pływa po pasie albo stukanie gwałtownie się nasiliło — nie odkładaj, to element bezpieczeństwa."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Pompa wspomagania układu kierowniczego",
+  "alt_causes": [
+   "Niski poziom płynu wspomagania",
+   "Pasek osprzętu"
+  ],
+  "explanation": "Wycie albo buczenie, które pojawia się, gdy kręcisz kierownicą w miejscu albo przy małej prędkości, najczęściej wydaje pompa wspomagania — to ona wytwarza ciśnienie płynu, który pomaga kręcić kierownicą. Najgłośniej wyje przy kierownicy skręconej do oporu. Najczęstsza przyczyna to spadek poziomu płynu w zbiorniczku.",
+  "advice": "Sprawdź poziom płynu wspomagania w zbiorniczku pod maską i uzupełnij, jeśli jest poniżej kreski MIN. Nie trzymaj kierownicy skręconej do oporu dłużej niż parę sekund. Jeśli po uzupełnieniu wycie zostało albo płyn znowu ubywa, jedź do warsztatu w ciągu tygodnia."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Łączniki stabilizatora",
+  "alt_causes": [
+   "Gumy stabilizatora",
+   "Sworznie wahaczy"
+  ],
+  "explanation": "Częste, głuche stukanie na drobnych nierównościach — kostce, łączeniach nawierzchni, „tarce” — najczęściej dają łączniki stabilizatora: niewielkie drążki z przegubami, które w zawieszeniu zużywają się jako pierwsze. Same w sobie nie są groźne, ale podobnie potrafią stukać poważniejsze elementy.",
+  "advice": "Umów się na diagnostykę zawieszenia w ciągu tygodnia–dwóch: mechanik poruszy elementy na podnośniku i w kilka minut znajdzie luz. Do czasu sprawdzenia większe dziury pokonuj wolno. Jeśli auto zaczęło ściągać w bok, przyspiesz wizytę."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Tylne zawieszenie: łączniki stabilizatora albo tuleje belki",
+  "alt_causes": [
+   "Amortyzatory",
+   "Mocowania tłumika"
+  ],
+  "explanation": "Częste stukanie z tyłu na drobnych nierównościach zwykle dają drobne przeguby tylnego zawieszenia: łączniki tylnego stabilizatora albo zużyte silentbloki — gumowe tuleje, przez które wahacze i belka trzymają się nadwozia. Czasem podobnie stuka rozklekotane mocowanie tłumika.",
+  "advice": "Umów się na diagnostykę zawieszenia w ciągu tygodnia–dwóch: na podnośniku źródło stukania z tyłu znajduje się szybko. Do czasu sprawdzenia większe dziury pokonuj wolno. Warto zauważyć, czy stuka na drobnej tarce, czy na pojedynczych dziurach — i powiedzieć o tym mechanikowi."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silentbloki wahaczy albo amortyzatory",
+  "alt_causes": [
+   "Łożyska górne amortyzatorów",
+   "Sworznie wahaczy"
+  ],
+  "explanation": "Pojedyncze, głuche uderzenia na dziurach i progach zwalniających zwykle oznaczają zużycie silentbloków — gumowych tulei, przez które wahacze trzymają się nadwozia — albo zmęczone amortyzatory. Zawieszenie przestaje tłumić uderzenie i przenosi je na nadwozie.",
+  "advice": "Wybierz się na diagnostykę zawieszenia w ciągu dwóch tygodni. Prosty test amortyzatorów: naciśnij narożnik auta w dół — nadwozie powinno wrócić bez bujania. Do naprawy pokonuj nierówności łagodnie: uderzenia dobijają sąsiednie elementy."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Mocowania tłumika albo osłona miski olejowej",
+  "alt_causes": [
+   "Osłona termiczna",
+   "Obwisła rura wydechowa"
+  ],
+  "explanation": "Metaliczne grzechotanie spod podłogi na nierównościach to zwykle poluzowane mocowanie: gumy zawieszenia tłumika, śruby osłony miski olejowej albo osłona termiczna. Irytuje, ale na prowadzenie i silnik nie wpływa.",
+  "advice": "Przy najbliższej wizycie w warsztacie poproś o dokręcenie mocowań: to szybkie i tanie. Warto się upewnić, że tłumik nie obwisa — wleczącej się rury nie wolno już ignorować. Do naprawy można jeździć spokojnie."
+ },
+ "leaf_detonation": {
+  "top_cause": "Spalanie stukowe (dzwonienie pod obciążeniem)",
+  "alt_causes": [
+   "Paliwo o zbyt niskiej liczbie oktanowej",
+   "Nagar albo uszkodzony czujnik spalania stukowego"
+  ],
+  "explanation": "Metaliczne dzwonienie przy przyspieszaniu, zwłaszcza pod górę albo z niskich obrotów, to spalanie stukowe: część paliwa w cylindrach zapala się sama, wybuchem, zamiast spalać się równo, a fala uderzeniowa bije w tłoki. Częste przyczyny to benzyna o liczbie oktanowej niższej niż potrzebna, nagar w komorach spalania albo awaria czujnika spalania stukowego. Ciągłe stukanie stopniowo niszczy silnik.",
+  "advice": "Zatankuj paliwo o liczbie oktanowej nie niższej niż zalecana przez producenta, najlepiej na innej stacji — często dzwonienie znika po jednym baku. Do czasu sprawdzenia nie obciążaj silnika: przyspieszaj łagodnie, pod górę jedź na niższym biegu. Jeśli dzwonienie nie ustąpiło po zmianie paliwa, jedź na diagnostykę."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Poduszki silnika albo wewnętrzny przegub napędowy",
+  "alt_causes": [
+   "Luz w układzie napędowym",
+   "Poduszka skrzyni biegów"
+  ],
+  "explanation": "Stukanie w momencie dodania albo puszczenia gazu to objaw luzu w łańcuchu, który przenosi napęd. Zużyte poduszki pozwalają silnikowi szarpnąć przy zmianie obciążenia, a zużyty wewnętrzny przegub napędowy (przegub na półosi biegnącej od skrzyni biegów do koła) stuka przy dodawaniu i puszczaniu gazu. Ważne, że dźwięk pojawia się właśnie przy zmianie trybu jazdy, a nie na nierównościach.",
+  "advice": "Umów się na diagnostykę w ciągu tygodnia–dwóch. Podpowiedź dla warsztatu: zauważ, czy stukanie jest bliżej silnika, czy bliżej kół, i czy powtarza się przy zmianie biegów. Do naprawy dodawaj gazu i zmieniaj biegi łagodniej."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Łożysko koła",
+  "alt_causes": [
+   "Hałas opon",
+   "Łożysko podpory wału napędowego albo skrzynia biegów"
+  ],
+  "explanation": "Równe buczenie, które rośnie z prędkością i nie zależy od obrotów silnika, najczęściej wydaje zużyte łożysko koła — łożysko, na którym obraca się koło. Brzmi jak startujący samolot i prawie nie zmienia się wraz z nawierzchnią. Zapuszczone łożysko daje luz koła, a w skrajnym przypadku może się zatrzeć.",
+  "advice": "Sprawdź w warsztacie w ciągu tygodnia: mechanik zakręci kołami na podnośniku i znajdzie hałasującą piastę — element, w którym siedzi to łożysko. Dłuższe trasy z dużą prędkością odłóż do czasu diagnostyki. Jeśli buczenie gwałtownie się nasiliło albo pojawiła się wibracja, jedź na sprawdzenie od razu."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Tylne łożysko koła",
+  "alt_causes": [
+   "Hałas opon",
+   "Mostek albo łożysko podpory wału (w napędzie tylnym i 4x4)"
+  ],
+  "explanation": "Równe buczenie z tyłu, rosnące z prędkością, najczęściej daje tylne łożysko koła — łożysko, na którym obraca się koło. W autach z napędem tylnym albo na cztery koła podobnie buczą elementy układu napędowego, dlatego źródło warto potwierdzić na podnośniku.",
+  "advice": "Sprawdź w warsztacie w ciągu tygodnia: z tyłu buczenie łożyska łatwo pomylić z mostkiem, a oględziny na podnośniku od razu wszystko ustawią. Dłuższe trasy z dużą prędkością odłóż do czasu sprawdzenia. Jeśli buczenie gwałtownie się nasiliło albo pojawiła się wibracja, jedź na sprawdzenie od razu."
+ },
+ "leaf_tires": {
+  "top_cause": "Hałas opon",
+  "alt_causes": [
+   "Nierównomierne zużycie bieżnika",
+   "Łożysko koła"
+  ],
+  "explanation": "Jeśli buczenie zależy od nawierzchni — na nowym asfalcie ciszej, na szorstkim głośniej — najpewniej hałasują opony. Szczególnie buczą opony zimowe, terenowe i nierównomiernie zużyte. To kwestia komfortu, a nie usterki.",
+  "advice": "Obejrzyj bieżnik: ząbkowanie (schodki na krawędziach) albo zużycie plamami nasila buczenie i sugeruje rozregulowaną geometrię kół albo zmęczone amortyzatory. Sprawdź ciśnienie w oponach. Jeśli buczenie jednak nie zależy od nawierzchni i rośnie z prędkością, wróć do wersji z łożyskiem koła."
+ }
+}

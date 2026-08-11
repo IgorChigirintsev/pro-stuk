@@ -73,6 +73,18 @@ export const nl: Dict = {
       },
     ],
   },
+  quiz: {
+    h2: 'Probeer het meteen',
+    sub: 'Een paar vragen en u ziet de waarschijnlijke oorzaak en hoe dringend het is.',
+    urgOk: 'Je kunt doorrijden',
+    urgWarn: 'Deze week naar de garage',
+    urgStop: 'Stop',
+    back: 'Terug',
+    restart: 'Opnieuw beginnen',
+    cta: 'Volledig geluidsrapport — in de app',
+    schemaMarked: 'Omcirkeld is waar uw antwoorden op wijzen — een vermoeden, geen diagnose.',
+    schemaWhole: 'Het geheel.',
+  },
   download: {
     h2: 'De app voor Android',
     sub: 'De vragenlijst, de geluidsopname en het volledige rapport met kansen zitten in de app Stuk.',

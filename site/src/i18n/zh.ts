@@ -67,6 +67,18 @@ export const zh: Dict = {
       },
     ],
   },
+  quiz: {
+    h2: '现在就试一试',
+    sub: '回答几个问题，就能看到可能的原因和紧急程度。',
+    urgOk: '可以继续开',
+    urgWarn: '本周去修理厂',
+    urgStop: '立即停车',
+    back: '返回',
+    restart: '重新开始',
+    cta: '完整的声音报告在应用里',
+    schemaMarked: '圈出的是你的回答所指向的位置——这是推测，不是诊断。',
+    schemaWhole: '整个部位的示意图。',
+  },
   download: {
     h2: 'Android 应用',
     sub: '问卷、录音和带概率的完整报告，都在 Stuk 应用里。',

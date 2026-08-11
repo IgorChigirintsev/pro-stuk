@@ -73,6 +73,18 @@ export const fr: Dict = {
       },
     ],
   },
+  quiz: {
+    h2: 'Essayez tout de suite',
+    sub: 'Quelques questions et vous verrez la cause probable et son degré d’urgence.',
+    urgOk: 'Vous pouvez rouler',
+    urgWarn: 'Au garage cette semaine',
+    urgStop: 'Arrêtez-vous',
+    back: 'Retour',
+    restart: 'Recommencer',
+    cta: 'Rapport sonore complet — dans l’application',
+    schemaMarked: 'Ce qui est entouré correspond à vos réponses : une hypothèse, pas un diagnostic.',
+    schemaWhole: 'L’ensemble au complet.',
+  },
   download: {
     h2: 'L’application Android',
     sub: 'Le questionnaire, l’enregistrement du bruit et le rapport complet avec les probabilités sont dans l’application Stuk.',

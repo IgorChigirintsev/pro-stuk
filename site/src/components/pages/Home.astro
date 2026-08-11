@@ -3,6 +3,8 @@
  *  остальные — в своём префиксе. */
 import Base from '../../layouts/Base.astro';
 import DownloadApk from '../DownloadApk.astro';
+import TreeWidget from '../TreeWidget.tsx';
+import tree from '../../../../shared/tree.json';
 import { HUBS } from '../../data/hubs';
 import { v } from '../../data/assetVersion';
 import { SITE_URL } from '../../../site.config.mjs';
@@ -27,6 +29,9 @@ const schema = {
   offers: { '@type': 'Offer', price: '0', priceCurrency: 'KZT' },
   url: new URL(pathFor('home', lang), SITE_URL).href,
 };
+
+// Опросник на главной начинается с самого первого вопроса дерева.
+const TREE_ROOT = (tree as { root: string }).root;
 
 // Мокапы шагов: цифры — высоты столбиков «звуковой волны» в пикселях.
 const wave = [3, 5, 4, 9, 4, 6, 3, 5];
@@ -101,6 +106,19 @@ const wave = [3, 5, 4, 9, 4, 6, 3, 5];
       </div>
     </div>
   </section>
+
+  <!-- Опросник: то же дерево, что в приложении, прямо на странице.
+       На русском он живёт на страницах симптомов и стартует с их ветки,
+       здесь — с корня: у остальных языков таких страниц пока нет. -->
+  {
+    !isRu && (
+      <section class="mt-14">
+        <h2 class="text-xl font-bold">{dict.quiz.h2}</h2>
+        <p class="mt-2 mb-4 text-ink-soft">{dict.quiz.sub}</p>
+        <TreeWidget client:visible startNode={TREE_ROOT} lang={lang} ui={dict.quiz} />
+      </section>
+    )
+  }
 
   <!-- Скачивание APK -->
   <div class="mt-14">

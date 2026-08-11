@@ -1,0 +1,1104 @@
+{
+ "q_when": {
+  "text": "Ses ne zaman duyuluyor?",
+  "options": {
+   "o1": "Çalıştırırken ya da çalıştırmaya çalışırken",
+   "o2": "Dururken, motor çalışıyorken",
+   "o3": "Sadece giderken",
+   "o4": "Hem dururken hem giderken"
+  }
+ },
+ "q_start_char": {
+  "text": "Kontağı çevirdiğinizde ya da çalıştırma düğmesine bastığınızda ne duyuluyor?",
+  "options": {
+   "o1": "Tıkırtı, motor dönmüyor",
+   "o2": "Marş dönerken metalik bir gıcırtı",
+   "o3": "Marş boşta dönüyor, motor tutmuyor",
+   "o4": "Motor çalışır çalışmaz ıslık ya da cıyaklama"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Tıkırtı tam olarak nasıl?",
+  "options": {
+   "o1": "Hızlı tık tık tık, gösterge ışıkları kısılıyor",
+   "o2": "Tek net bir tık, sonra sessizlik"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Ses yalnızca bir şeyi açtığınızda ya da bastığınızda mı çıkıyor (kalorifer, klima, debriyaj, direksiyon, fren)?",
+  "options": {
+   "o1": "Evet, belirli bir hareketle bağlantılı",
+   "o2": "Hayır, kendi kendine duyuluyor"
+  }
+ },
+ "q_action": {
+  "text": "Ses hangi hareketle bağlantılı?",
+  "options": {
+   "o1": "Kalorifer ya da üfleme fanıyla",
+   "o2": "Klima düğmesiyle",
+   "o3": "Debriyaj pedalıyla",
+   "o4": "Direksiyon, fren pedalı ya da sileceklerle"
+  }
+ },
+ "q_hvac": {
+  "text": "Fan çalışırken ses nasıl?",
+  "options": {
+   "o1": "Hışırtı ya da çıtırtı, fan hızıyla değişiyor",
+   "o2": "Torpidonun altından cıyaklama ya da uğultu",
+   "o3": "Sıcaklığı ya da üflemeyi değiştirirken panelin arkasından bir dizi tıkırtı",
+   "o4": "Panelin arkasında lıkırtı ya da su şırıltısı"
+  }
+ },
+ "q_ac": {
+  "text": "Klimayı açtığınızda ne duyuluyor?",
+  "options": {
+   "o1": "Açıldığı anda cıyaklama",
+   "o2": "Klima çalışırken gıcırtı ya da gürültü",
+   "o3": "Açarken ya da kapatırken kısa bir tıslama, soğutma normal"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Ses debriyaj pedalıyla nasıl bağlantılı?",
+  "options": {
+   "o1": "Pedal bırakılıyken hışırtı ya da uğultu; basınca kesiliyor",
+   "o2": "Pedala basınca çıkıyor ya da artıyor",
+   "o3": "Rölantide takırtı ya da gürültü, pedala basınca değişiyor",
+   "o4": "Pedala basarken gıcırtı, motor kapalıyken bile duyuluyor"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "Ses tam olarak neyle bağlantılı?",
+  "options": {
+   "o1": "Direksiyonu çevirirken uğultu ya da inleme",
+   "o2": "Dururken direksiyonu çevirirken çatırtı ya da tıkırtı",
+   "o3": "Fren pedalına basınca torpidonun altından tıslama",
+   "o4": "Sileceklerin her gidiş gelişinde takırtı ya da gıcırtı"
+  }
+ },
+ "q_ps_type": {
+  "text": "Kaputun altında direksiyon hidrolik yağı deposu var mı?",
+  "options": {
+   "o1": "Evet, var",
+   "o2": "Yok ya da bilmiyorum"
+  }
+ },
+ "q_steer_click": {
+  "text": "Tıkırtı nereden geliyor?",
+  "options": {
+   "o1": "Yukarıdan, tekerlek davlumbazının arkasından, kaputun oradan",
+   "o2": "Direksiyonun kendisinden ya da ayakların oradaki kolondan"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Ses yalnızca motor soğukken, çalıştırdıktan hemen sonra mı duyuluyor?",
+  "options": {
+   "o1": "Evet, ısınınca geçiyor",
+   "o2": "Hayır, motor ısındıktan sonra da duyuluyor"
+  }
+ },
+ "q_cold_char": {
+  "text": "Soğukken ses neye benziyor?",
+  "options": {
+   "o1": "Hızlı tıkırtı ya da tik tak sesi",
+   "o2": "Boğuk bir vuruntu, ısınınca geçiyor",
+   "o3": "Motorun önünden hışırtı ya da gürültü",
+   "o4": "Çalıştırırken cıyaklama ya da ıslık"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Tıkırtı dışarıdan içeriye göre daha yüksek ve kaputun altından egzoz kokusu geliyor mu?",
+  "options": {
+   "o1": "Evet, dışarıda daha yüksek ve koku var",
+   "o2": "Hayır, motorun üst tarafından tıkırdıyor, koku yok"
+  }
+ },
+ "q_engine_char": {
+  "text": "Ses neye benziyor?",
+  "options": {
+   "o1": "Vuruntu ya da tıkırtı",
+   "o2": "Cıyaklama, ıslık, uğultu ya da tıslama",
+   "o3": "Çınlama, takırtı, patlama ya da lıkırtı",
+   "o4": "Rölantide titreşim, sarsıntı"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Vuruntu tam olarak nasıl?",
+  "options": {
+   "o1": "Motorun üst tarafından hafif, hızlı bir tıkırtı",
+   "o2": "Motorun derinlerinden boğuk ya da metalik bir vuruntu"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Tıkırtı zamanla arttı mı, yoksa hep aynı mı?",
+  "options": {
+   "o1": "Arttı, motor ısındıkça daha belirgin",
+   "o2": "Hep aynı, dışarıdan içeriye göre daha yüksek"
+  }
+ },
+ "q_knock_load": {
+  "text": "Yavaşça gaza basınca vuruntu hızlanıp yükseliyor mu?",
+  "options": {
+   "o1": "Evet, hızlanıyor ve yükseliyor",
+   "o2": "Neredeyse değişmiyor ya da kayboluyor"
+  }
+ },
+ "q_squeal": {
+  "text": "Ses nasıl bir ses?",
+  "options": {
+   "o1": "Keskin bir cıyaklama ya da ıslık",
+   "o2": "Düzgün bir uğultu ya da hışırtı",
+   "o3": "Lastikten hava kaçar gibi düzgün bir tıslama"
+  }
+ },
+ "q_hum_source": {
+  "text": "Uğultu nereden geliyor?",
+  "options": {
+   "o1": "Önden, kaputun altından; devirle birlikte değişiyor",
+   "o2": "Kendi kendine devreye girip çıkıyor: sıcakta, trafikte, klima açıkken",
+   "o3": "Arkadan, deponun oradan; kontağı açar açmaz, daha motoru çalıştırmadan duyuluyor"
+  }
+ },
+ "q_pump_check": {
+  "text": "Kaputun altında kayışın çevresinde sızıntı ya da sıvı izi var mı?",
+  "options": {
+   "o1": "Evet, sızıntı ya da antifriz kokusu var",
+   "o2": "Kuru",
+   "o3": "Bakamadım"
+  }
+ },
+ "q_rattle": {
+  "text": "Ses nasıl ve nereden geliyor?",
+  "options": {
+   "o1": "Aracın altından metalik bir takırtı",
+   "o2": "Egzozdan patlamalar",
+   "o3": "Gösterge panelinin arkasından lıkırtı ya da su şırıltısı"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Takırtıyla birlikte araç güç kaybetti mi ya da egzozdan tuhaf bir koku geliyor mu?",
+  "options": {
+   "o1": "Evet, çekişi düştü ya da koku değişti",
+   "o2": "Hayır, sadece bazı devirlerde takırdıyor"
+  }
+ },
+ "q_move_when": {
+  "text": "Giderken ses en çok ne zaman belirginleşiyor?",
+  "options": {
+   "o1": "Fren yaparken",
+   "o2": "Virajlarda ya da direksiyonu çevirirken",
+   "o3": "Bozuk yolda ve tümseklerde",
+   "o4": "Gaz verirken, vites değiştirirken ya da sürekli"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Ses sadece park ettikten sonraki ilk birkaç frende ya da yağmurda mı çıkıyor, sonra geçiyor mu?",
+  "options": {
+   "o1": "Evet, çabuk geçiyor",
+   "o2": "Hayır, her fren yapışta duyuluyor"
+  }
+ },
+ "q_brake_char": {
+  "text": "Fren yaparken ses nasıl?",
+  "options": {
+   "o1": "Cıyaklama ya da gıcırtı",
+   "o2": "Metal metale sürtme gıcırtısı",
+   "o3": "Vuruntu ya da pedalda zonklama"
+  }
+ },
+ "q_turn_char": {
+  "text": "Virajda ne duyuluyor?",
+  "options": {
+   "o1": "Hızlıyken uğultu, bir tarafa dönerken daha belirgin",
+   "o2": "Direksiyon kırıkken tıkırtı ya da çatırtı",
+   "o3": "Direksiyonu çevirirken vuruntu",
+   "o4": "Dururken ya da park ederken direksiyonu çevirince uğultu ya da inleme"
+  }
+ },
+ "q_bump_char": {
+  "text": "Bozuk yolda ses nasıl?",
+  "options": {
+   "o1": "Vuruntu ya da takırtı",
+   "o2": "Eski karyola gibi gıcırtı",
+   "o3": "Takırtı ya da gümbürtü",
+   "o4": "Uzun park sonrası ilk hareket ederken tek bir „güm” sesi"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Vuruntu tam olarak nasıl?",
+  "options": {
+   "o1": "Küçük tümseklerde sık, boğuk vuruntu",
+   "o2": "Çukurlarda ve kasislerde tek tek boğuk darbeler",
+   "o3": "Vuruntu doğrudan direksiyona vuruyor, avuç içinde hissediliyor",
+   "o4": "Çukura girdikten sonra aniden başladı, aracın bir köşesi çöktü"
+  }
+ },
+ "q_bump_where": {
+  "text": "Vuruntu önden mi, arkadan mı geliyor?",
+  "options": {
+   "o1": "Önden",
+   "o2": "Arkadan",
+   "o3": "Anlamak zor"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Takırtı nereden geliyor?",
+  "options": {
+   "o1": "Aracın altından",
+   "o2": "Kabinden: torpido, kapılar, plastik sesleri",
+   "o3": "Bagajdan, bir şey yuvarlanıyormuş gibi",
+   "o4": "Önden yukarıdan, kaputun oradan"
+  }
+ },
+ "q_move_manner": {
+  "text": "Ses sürüşle nasıl bağlantılı?",
+  "options": {
+   "o1": "Gaza basınca ya da gazı kesince çıkıyor",
+   "o2": "Vites değiştirirken ya da kalkışta",
+   "o3": "Araç gittiği sürece sürekli duyuluyor",
+   "o4": "Sesten çok titreşim ya da sarsıntı"
+  }
+ },
+ "q_accel_char": {
+  "text": "Gaz verirken ses neye benziyor?",
+  "options": {
+   "o1": "Metalik çınlama, özellikle yokuşta",
+   "o2": "Gaza basma ya da gazı kesme anında vuruntu",
+   "o3": "Egzozdan patlamalar ya da yüksek bir gürleme",
+   "o4": "Yük altında inleme ya da ıslık"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Patlama mı, gürleme mi?",
+  "options": {
+   "o1": "Patlamalar",
+   "o2": "Gürleme, gaz verince artıyor; araç normal çekiyor",
+   "o3": "Motor gürlüyor, devir yükseliyor ama araç hızlanmıyor; bazen yanık kokusu var"
+  }
+ },
+ "q_load_whine": {
+  "text": "Yük altındaki inleme nasıl?",
+  "options": {
+   "o1": "Sadece gaza basınca tiz bir ıslık, gazı kesince kayboluyor (turbolu motor)",
+   "o2": "Aynı hızda gaza basıp keserken tonu değişen uğultu ya da inleme",
+   "o3": "Hızlanırken tek düze bir inleme; şanzıman CVT ya da otomatik",
+   "o4": "İnleme bir viteste yüksek, başka viteste düşük; düz vites"
+  }
+ },
+ "q_shift_char": {
+  "text": "Vites değiştirirken ya da kalkarken ne oluyor?",
+  "options": {
+   "o1": "Otomatikte D↔R geçişinde ya da vites değişimlerinde tokluk veya takırtı",
+   "o2": "Düz viteste vitese takarken hışırtı",
+   "o3": "Kalkarken debriyajı bırakırken araç titriyor",
+   "o4": "Kalkış anında ya da gaz değişiminde altdan tek bir takırtı"
+  }
+ },
+ "q_vibration": {
+  "text": "Titreşim en çok ne zaman?",
+  "options": {
+   "o1": "80–120 km/s arasında direksiyon ince ince titriyor; altında ve üstünde azalıyor",
+   "o2": "40–60 km/s'ten itibaren başlıyor, hız arttıkça artıyor",
+   "o3": "Dar bir hız aralığında, tabandan ve gövdeden gelen titreşim; arkadan itiş ya da 4x4",
+   "o4": "Sadece fren yaparken, direksiyon vuruyor"
+  }
+ },
+ "q_const_char": {
+  "text": "Sürekli duyulan ses neye benziyor?",
+  "options": {
+   "o1": "Düzgün bir uğultu ya da inleme",
+   "o2": "Tekerlek tarafından gıcırtı, sürtünme ya da tiz bir cızırtı",
+   "o3": "Yüksek gürleme ya da patırtı",
+   "o4": "Sadece yüksek hızda ıslık ya da uğultu"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Tekerlek tarafındaki ses nasıl?",
+  "options": {
+   "o1": "İnce bir cızırtı; frene hafifçe dokununca kesiliyor ya da değişiyor",
+   "o2": "Sürtünme sesi; yolculuktan sonra o tekerlek çok sıcak, araç bir tarafa çekiyor",
+   "o3": "Sürekli gıcırtı ya da sürtünme, tekerlek ısınmıyor",
+   "o4": "Tekerleğin dönüşüne uyan ritmik vuruntu ya da tıkırtı"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Tekerlekler son zamanlarda değişti, yeri değiştirildi ya da söküldü mü?",
+  "options": {
+   "o1": "Evet, son günlerde",
+   "o2": "Hayır, uzun süredir dokunulmadı"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Deneme: sesin duyulduğu hıza çıkın, vitesi boşa alıp süzülün. Uğultu devam ediyor mu?",
+  "options": {
+   "o1": "Devam ediyor",
+   "o2": "Motor devriyle birlikte kayboluyor",
+   "o3": "Deneyemedim"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "İnlemenin şiddeti vites değiştirince değişiyor mu?",
+  "options": {
+   "o1": "Evet, farklı viteslerde farklı duyuluyor",
+   "o2": "Hayır, sadece motor devrine bağlı"
+  }
+ },
+ "q_hum_road": {
+  "text": "Uğultu geniş virajlarda değişiyor mu?",
+  "options": {
+   "o1": "Evet, bir tarafa dönerken daha az ya da daha çok",
+   "o2": "Hayır, 40–60 km/s üstünde her hızda aynı",
+   "o3": "Yol kaplamasına göre değişiyor"
+  }
+ },
+ "q_hum_where": {
+  "text": "Uğultu önden mi, arkadan mı geliyor?",
+  "options": {
+   "o1": "Önden",
+   "o2": "Arkadan",
+   "o3": "Anlamak zor"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Bitmiş akü ya da oksitlenmiş kutup başları",
+  "alt_causes": [
+   "Kötü şasi bağlantısı",
+   "Ölmek üzere olan marş motoru"
+  ],
+  "explanation": "Çalıştırmaya çalışırken hızlı tık tık tık sesi, marş otomatiğine yeterli akım gitmediği anlamına gelir: kendisi tıklıyor ama motoru döndüremiyor. Suçlu genelde boşalmış akü ya da oksitlenmiş, gevşek kutup başlarıdır. Marş verirken gösterge ışıklarının kısılması bunu doğrular.",
+  "advice": "Akü kutup başlarına bakın: beyaz ya da yeşilimsi tortuyu temizleyin, başları sıkın. Fayda etmezse aküyü şarj edin ya da başka bir araçtan takviye alıp değişim için servise veya markete gidin. Akü 4–5 yaşından büyükse ömrünü doldurmuş sayılır."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Marş otomatiği ya da marş motorunun güç kontakları",
+  "alt_causes": [
+   "Oksitlenmiş kutup başları",
+   "Marşa giden kablolar"
+  ],
+  "explanation": "Gösterge ışıkları normal yanarken tek net bir tık: marş otomatiği çekiyor ama marş motoru dönmüyor — güç kontakları yanmış, kömürler bitmiş ya da otomatik takılı kalmış. Bazen ikinci üçüncü denemede araç yine de çalışır; teşhis aynıdır.",
+  "advice": "Birkaç kez daha deneyin; bir çalışıp bir çalışmıyorsa, bir otoparkta kalmadan önümüzdeki günlerde servise gidin. Akü kutup başlarını kontrol edip sıkın. Marşa çekiçle vurmak bir seferlik yol almanın halk yöntemidir, çözüm değil."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Marş dişlisi (bendiks) ya da volan dişli çemberi",
+  "alt_causes": [
+   "Aşınmış dişli çemberi dişleri",
+   "Marş motorunun kaçık oturması"
+  ],
+  "explanation": "Çalıştırırken duyulan metalik gıcırtı, marş dişlisinin volanın dişli çemberine tam oturmadığını gösterir: dişler aşınmış ya da mekanizma takılıyor. Her böyle çalıştırma hem marşın hem volanın dişlerini yer.",
+  "advice": "Bir hafta içinde servise gidin: bendiks ya da marş motoru değişimi, uğruna şanzımanın sökülmesi gereken volan dişli çemberinden çok daha ucuzdur. Tamire kadar kontağı marş konumunda gereğinden uzun tutmayın ve gıcırtıdan hemen sonra tekrar denemeyin."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Bendiks kavramıyor ya da volan dişleri kırılmış",
+  "alt_causes": [
+   "Bendiksin tek yönlü kavraması",
+   "Volan dişli çemberi"
+  ],
+  "explanation": "Marş neşeyle dönüyor ama motor kıpırdamıyorsa, marş dişlisi boşta dönüyor demektir: bendiksin tek yönlü kavraması aşınmış ya da volan dişli çemberinin o bölgesindeki dişler yenmiş.",
+  "advice": "Bazen ikinci denemede çalışır — volan başka bir konumda durur. Yine de önümüzdeki günlerde servise gidin: her denemede hasar büyüyor. Araç düz vitesse en kötü ihtimalle itmeli çalıştırılabilir; otomatik şanzımanda bu yöntem kesinlikle kullanılmaz."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Kalorifer fanına kaçmış yaprak ya da çöp",
+  "alt_causes": [
+   "Tıkanmış polen filtresi",
+   "Hava kanalında yabancı cisim"
+  ],
+  "explanation": "Fan hızıyla birlikte değişen hışırtı ve çıtırtı, neredeyse her zaman hava girişinden kalorifer fanına kaçan yaprak ya da çöptür. Sonbaharda çok yaygındır, özellikle polen filtresi tıkalıysa ya da hiç yoksa.",
+  "advice": "Polen filtresini değiştirin (çöp çoğu zaman doğrudan onun üstünde durur) — birçok araçta bu 10 dakikada kendiniz yapabileceğiniz bir iştir, modele özel anlatımları kolayca bulabilirsiniz. Hışırtı devam ederse serviste fanın temizletilmesini isteyin."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Kalorifer fan motorunun rulmanı ya da burçları",
+  "alt_causes": [
+   "Fanın içindeki çöp",
+   "Pervanenin gövdeye sürtmesi"
+  ],
+  "explanation": "Yalnızca fan çalışırken torpidonun altından gelen cıyaklama ya da uğultu, aşınmış kalorifer fan motorundan gelir. Testi kolay: fanı kapatın, ses motor çalışırken bile anında kesilir.",
+  "advice": "Güvenlik açısından sorun değil, ama zamanla motor takılmaya başlar ve sizi kalorifersiz bırakır — soğuklar bastırmadan değiştirmek en iyisi. Tamire kadar sesin daha az çıktığı fan kademelerini kullanabilirsiniz."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Kalorifer klapesinin servo motoru",
+  "alt_causes": [
+   "Klapelerin normal kalibrasyonu",
+   "Servo dişlisinin kırık dişleri"
+  ],
+  "explanation": "Kontağı açarken ya da sıcaklığı değiştirirken panelin arkasından gelen bir dizi hızlı tıkırtı ya da tırtır sesi, kalorifer klapelerini hareket ettiren servo motordan gelir. Dizi kısa ve hep aynıysa çoğu zaman sadece kalibrasyondur. Bitmeyen tırtır sesi ise plastik dişlinin yenmiş dişleri demektir.",
+  "advice": "Tıkırtılar kısaysa ve kalorifer normal ayarlanıyorsa hiçbir şey yapmanıza gerek yok. Tırtır sesi uzun sürüyorsa ya da hava ayarladığınız yerden gelmiyorsa, fırsat bulunca servise uğrayın: araca zararı yok ama konfor bozuluyor."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Soğutma sisteminde hava (antifriz seviyesi düşük)",
+  "alt_causes": [
+   "Bozuk yedek su deposu kapağı",
+   "Antifriz kaçağı"
+  ],
+  "explanation": "Panelin arkasından gelen lıkırtı ya da su şırıltısı, kalorifer peteğinden geçen hava kabarcığıdır. Sisteme hava, antifriz seviyesi düştüğünde girer: bir yerde kaçak vardır ya da depo kapağı basınç tutmuyordur. Kalorifer bu yüzden bir sıcak bir soğuk üfleyebilir.",
+  "advice": "Motor soğukken yedek su deposundaki seviyeyi kontrol edip normale tamamlayın, sonra sıvının yine eksilip eksilmediğini izleyin. Seviye düşüyorsa ya da motor sıcakken kalorifer soğuk üflüyorsa, bu hafta servise gidin. Hararet göstergesi yükseldiyse ya da buhar çıktıysa — durun ve motoru hemen susturun."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Klima kompresörü kavramasının patinaj yapması",
+  "alt_causes": [
+   "Gevşemiş kayış",
+   "Kavrama baskı plakasının aşınması"
+  ],
+  "explanation": "Tam klimayı açtığınız anda çıkan cıyaklama, kompresörü kayışa bağlayan kavramanın yük altında patinaj yaptığını gösterir. Açarken tek bir tık normaldir; cıyaklama ise kavramanın aşındığını ya da kayışın gevşediğini söyler.",
+  "advice": "İki hafta içinde serviste gösterin: kavrama ihmal edilirse ses sürekli hale gelir, kompresör sıkışıp kayışı koparabilir. Tamire kadar klimayı kullanabilirsiniz, ama ses artarsa kapatın."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Klima kompresörü (rulman ya da aşınma)",
+  "alt_causes": [
+   "Kavrama kasnağının rulmanı",
+   "Sistemdeki yağın azlığı"
+  ],
+  "explanation": "Yalnızca klima çalışırken duyulan gıcırtı ya da gürültü, ölmek üzere olan kompresörden ya da kasnağının rulmanından gelir. Sıkışan kompresör kayışı koparır; birçok araçta o kayış alternatörü ve devirdaim pompasını da döndürür.",
+  "advice": "Şimdilik klimayı açmayın — böylece parça tamire kadar dayanır. Bir hafta içinde diagnostiğe gidin: hasar sadece rulmanla sınırlıyken tamir, kompresör değişimi ve tüm sistemin yıkanmasından çok daha ucuzdur."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Soğutucu gazın normal geçişi",
+  "alt_causes": [
+   "Evaporatör valfinin normal çalışması"
+  ],
+  "explanation": "Klimayı açtıktan ya da kapattıktan sonraki ilk saniyelerde panelin arkasından gelen kısa tıslama ya da lıkırtı, soğutucu gazın evaporatör valfinden geçmesidir. Kabin soğuyorsa bu sistemin normal çalışmasıdır, kaçak değil.",
+  "advice": "Hiçbir şey yapmanıza gerek yok. Asıl kontrol sebebi başka: tıslama sürekli hale geldiyse ve soğutma yoksa ya da zayıfsa, klima sistemini kontrol ettirin."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Şanzıman giriş mili rulmanı",
+  "alt_causes": [
+   "Debriyaj bilyası",
+   "Kayış rolleri"
+  ],
+  "explanation": "Rölantide duyulan, debriyaja basınca kesilen hışırtı ya da uğultu şanzımandan gelir: pedal bırakılıyken giriş mili motorla birlikte döner ve aşınmış rulmanı ses yapar. Pedala basınca mil durur, ses gider. Kayış ve rolleri ise debriyaj pedalına hiç tepki vermez.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin ve sesin pedalla olan ilişkisini mutlaka anlatın — bu aramayı hemen daraltır. Şanzıman yağ seviyesini kontrol ettirin. Araç kullanılabilir ama aylarca ertelenmemeli: dağılan rulman milleri ve dişlileri de peşinden götürür."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Debriyaj bilyası (rulmanı)",
+  "alt_causes": [
+   "Giriş mili rulmanı",
+   "Debriyaj çatalı"
+  ],
+  "explanation": "Debriyaja basınca çıkan ya da artan hışırtı veya uğultu, debriyaj bilyasından gelir — basma anında baskı balatasına yaslanan parçadan. Aşınmış bilya tam da yük altında, yani pedal basılıyken ses yapar.",
+  "advice": "Bir–iki hafta içinde servise gidin. Gereksiz yere pedalı basılı tutmayın (kırmızı ışıkta boşa alıp debriyajı bırakın). Dağılan bilya sizi yolda debriyajsız bırakabilir, bu yüzden aylarca ertelemeyin."
+ },
+ "leaf_dmf": {
+  "top_cause": "Çift kütleli volan",
+  "alt_causes": [
+   "Debriyaj diskinin yayları",
+   "Debriyaj bilyası"
+  ],
+  "explanation": "Rölantide şanzıman tarafından gelen, debriyaja basınca değişen ve özellikle çalıştırma ile susturma anlarında duyulan metalik takırtı ya da gümbürtü, aşınmış çift kütleli volanın tipik imzasıdır: motorla şanzıman arasındaki, sarsıntıları yutan damperin.",
+  "advice": "İki hafta içinde diagnostiğe gidin ve sesin pedalla, çalıştırma ve susturmayla ilişkisini anlatın. Değişimi ucuz değil, ama ertelemek debriyajı da bitirir ve volan yolda dağılabilir. Tamire kadar yumuşak kalkın ve düşük devirde zorlayarak gitmeyin."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Debriyaj pedalı mekanizması (mil, çatal, tel)",
+  "alt_causes": [
+   "Pedal milinin burçları",
+   "Debriyaj çatalı"
+  ],
+  "explanation": "Motor kapalıyken bile duyulan, pedala basarken çıkan gıcırtı, debriyaj mekanizmasının kurumasıdır: pedal mili, tel ya da çatal. Ses motor çalışmadan da çıktığına göre kayış, debriyaj bilyası ve şanzıman bu işin dışında.",
+  "advice": "İlk fırsatta serviste pedal milinin ve çatalın gresle yağlanmasını isteyin — çoğu zaman dakikalar içinde çözülür. Tehlikesi yok. Gıcırtıyla birlikte pedal sertleştiyse ya da debriyaj en dipte tutmaya başladıysa, aracı daha erken gösterin."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Amortisör üst takozunun rulmanı",
+  "alt_causes": [
+   "Direksiyon kutusu",
+   "Viraj demiri rotları"
+  ],
+  "explanation": "Dururken direksiyonu çevirirken yukarıdan, tekerlek davlumbazının arkasından gelen çatırtı ya da tıkırtı, üst takoz rulmanından gelir — amortisörün üst ucunun tekerlekle birlikte döndüğü yerden. Ek işaret: çukurlarda yukarıdan gelen tek tek „tak” sesleri.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: kontrolü kolaydır, kaputun altında amortisör kulesine elinizi koyunca tıkırtı hemen hissedilir. Araç kullanılabilir ama aşınmış takoz amortisörü de yıpratır ve direksiyonun kendiliğinden merkeze dönüşünü bozar."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Direksiyon mili istavrozu (kardan mafsalı)",
+  "alt_causes": [
+   "Mil kamalarındaki boşluk",
+   "Direksiyon kutusu"
+  ],
+  "explanation": "Doğrudan direksiyonda, sürücünün ayaklarının orada duyulan ve hissedilen tık ya da vuruntu, genelde direksiyon ara milinin istavrozundan gelir — direksiyonla kutu arasındaki küçük mafsaldan. Motor kapalıyken direksiyonu sağa sola oynattığınızda ses net duyulur.",
+  "advice": "Önümüzdeki günlerde serviste kontrol ettirin: direksiyon bir güvenlik sistemidir ve teşhis dakikalar sürer. Koldaki boşluk zamanla büyür ve direksiyonun boşluğunu artırır."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Fren vakum takviyesi (hidrovak) ya da hortumu",
+  "alt_causes": [
+   "Takviyenin çek valfi",
+   "Vakum hortumunda çatlak"
+  ],
+  "explanation": "Fren pedalına basıp bırakırken tam o anda çıkan ve değişen tıslama, vakum takviyesine hava kaçtığını gösterir: pedaldaki kuvveti azaltan parçaya. Pedal bu durumda belirgin şekilde sertleşir ve rölanti devri titreyebilir.",
+  "advice": "Bu hafta servise gidin: frenler takviye olmadan da çalışır ama çok daha sert basmak gerekir — acil bir durumda bu tehlikelidir. Yola çıkmadan pedalı deneyin: tahta gibi sertleştiyse yalnızca dikkatli ve kısa mesafe gidin."
+ },
+ "leaf_wipers": {
+  "top_cause": "Silecek mekanizması ya da silecek lastikleri",
+  "alt_causes": [
+   "Gevşemiş silecek kolu somunları",
+   "Silecek motoru burçlarının aşınması"
+  ],
+  "explanation": "Sileceğin dönüş noktalarındaki vuruntu, mekanizmanın mafsallarındaki boşluktan ya da gevşemiş kol somunlarından gelir. Cam üzerinde düzenli gıcırtı ise sertleşmiş silecek lastiğidir. Testi kolay: sileceği kapatın, ses anında ve tamamen kesilir.",
+  "advice": "Gıcırdayan lastikleri kendiniz değiştirebilirsiniz — silecekler her oto markette var. Dönüş noktalarındaki vuruntu için kol somunlarını sıktırın ya da fırsat bulunca serviste mekanizmanın burçlarını değiştirtin. Güvenliği etkileyen tek şey camın temiz kalmasıdır."
+ },
+ "leaf_eps": {
+  "top_cause": "Elektrikli direksiyon: hafif uğultu normaldir",
+  "alt_causes": [
+   "Elektrikli direksiyon ünitesinin aşınması",
+   "Direksiyon kutusu"
+  ],
+  "explanation": "Kaputun altında hidrolik yağı deposu yoksa direksiyon elektriklidir ve çevirirken duyulan düzgün, hafif uğultu onun normal çalışmasıdır, arıza değil. Yağ seviyesi düşünce inleyen hidrolik pompa böyle bir araçta zaten yoktur.",
+  "advice": "Elektrikli direksiyonda asıl uyarıcı işaretler başka: direksiyon ağırlaştıysa ya da kesik kesik ağırlaşıyorsa, çatırtı çıkıyorsa, göstergede direksiyon lambası yanıyorsa. Bunlardan biri varsa önümüzdeki günlerde servise gidin; yoksa rahatça kullanabilirsiniz."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Egzoz manifoldu contası ya da çatlağı",
+  "alt_causes": [
+   "Manifold saplamaları",
+   "Hidrolik supap iticileri"
+  ],
+  "explanation": "Soğukken çıkan, dışarıda içeriden daha yüksek duyulan ve kaputun altında egzoz kokusuyla birlikte gelen sık tıkırtı, egzoz gazlarının yanmış contadan ya da manifold çatlağından kaçtığını gösterir. Motor ısındıkça metal genleşir, aralık kapanır ve tıkırtı kesilir.",
+  "advice": "Bir–iki hafta içinde servise gidin: zamanla aralık büyür ve egzoz kokusu kalorifer üzerinden kabine dolabilir — bu sağlığa zararlıdır. Tamire kadar koku hissederseniz aracı havalandırın."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Enjektörlerin normal tıkırtısı (direkt enjeksiyon ya da dizel)",
+  "alt_causes": [
+   "Yüksek basınç yakıt pompası",
+   "Supap ayarları"
+  ],
+  "explanation": "Direkt enjeksiyonlu motorlarda (TSI, GDI ve benzerleri) ve dizellerde enjektörler ile yüksek basınç pompası her zaman tıkırdar — bu onların normal çalışmasıdır. Ayırt edici işaretler: ses soğukken de sıcakken de aynıdır, dışarıda içeriden daha yüksek duyulur ve yağın eskiliğiyle ilgisi yoktur.",
+  "advice": "Hiçbir şey yapmanıza gerek yok. Şunlar olursa dikkat edin: tıkırtı eskisine göre belirgin şekilde arttıysa, motor ısınınca değiştiyse ya da güç kaybıyla birlikte geldiyse — o zaman diagnostiğe gidin."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Hava kaçağı (vakum hortumu, emme manifoldu contası)",
+  "alt_causes": [
+   "Çatlamış hortum",
+   "Emme manifoldu contası"
+  ],
+  "explanation": "Kaputun altından gelen, patlak lastikten hava kaçar gibi düzgün tıslama, çatlamış bir hortumdan ya da emme contasından ölçülmemiş hava girdiğini gösterir. Motor bu yüzden çoğu zaman düzensiz çalışır: rölanti devri gezinir, bazen check engine lambası yanar.",
+  "advice": "Önümüzdeki günlerde diagnostiğe gidin, özellikle rölanti geziniyorsa: kaçak araması standart bir işlemdir. Kendiniz de kaputun altındaki ince lastik hortumları hiçbir şey sökmeden çatlak var mı diye gözden geçirebilirsiniz."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Radyatör fanı (burçlar ya da sürekli çalışma)",
+  "alt_causes": [
+   "Hararet müşiri ya da termostat",
+   "Viskoz fan kavraması (arkadan itişte)"
+  ],
+  "explanation": "Kendi kendine devreye girip çıkan uğultu ya da gürleme — sıcakta, trafikte, klima açıkken — radyatör fanıdır. Gürültülü fan ya motorunun burçlarının aşındığını ya da müşir veya termostat yüzünden sürekli döndüğünü gösterir. Motoru susturduktan sonra birkaç dakika daha dönmesi normaldir.",
+  "advice": "Fan soğuk motorda daha çalıştırır çalıştırmaz sürekli gürlüyorsa, önümüzdeki günlerde diagnostiğe gidin: soğutma sistemi doğru çalışmıyor demektir. Hararet göstergesini izleyin; yükselmeye başlarsa durun ve motoru susturun."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Elektrikli yakıt pompası",
+  "alt_causes": [
+   "Tıkanmış yakıt filtresi",
+   "Pompanın süzgeci"
+  ],
+  "explanation": "Arkadan, arka koltuğun altından ya da deponun olduğu bölgeden gelen düzgün vızıltı ya da inleme yakıt pompasıdır. Kontağı açınca birkaç saniye duyulması normaldir, ama giderken de fark edilen yüksek inleme, pompanın yorulduğunu ya da filtrenin tıkandığını ve pompanın zorlandığını gösterir.",
+  "advice": "Bir–iki hafta içinde yakıt basıncı ölçümü için servise gidin. Depoyu sürekli dipte gezdirmeyin: az yakıtta pompa daha kötü soğur ve çabuk yıpranır. Araç yük altında tekleyip sarsılmaya ya da zor çalışmaya başladıysa ziyareti öne alın."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Dağılmış katalitik konvertör",
+  "alt_causes": [
+   "Isı kalkanı",
+   "Egzoz bağlantıları"
+  ],
+  "explanation": "Aracın altından, motora yakın bir yerden gelen çınlayan takırtı ya da hışırtı; gaza basınca artıyor, güç kaybı ya da değişen egzoz kokusuyla birlikte geliyorsa, katalizörün içindeki seramik dağılmış demektir. Kırıklar gövdenin içinde takırdar, tıkanan petekler ise motoru boğar.",
+  "advice": "Önümüzdeki günlerde diagnostiğe gidin: seramik kırıkları motorun içine çekilebilir ve bu pahalı bir tamire dönüşür. Serviste basit kontrol: araç soğukken katalizör gövdesine hafifçe vurulur, içeride „çakıl” sesi duyulur. Bunu ertelemeyin."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Otomatik şanzıman: eski yağ, aşınma ya da aktarma boşluğu",
+  "alt_causes": [
+   "Motor ve şanzıman takozları",
+   "Kardan istavrozları (arkadan itişte)"
+  ],
+  "explanation": "Vites kolunu D↔R arasında alırken ya da vites değişimlerinde tam o anda gelen tokluk veya takırtı, otomatik şanzımanda aşınma ya da eski yağ işaretidir: vites darbeyle giriyor, aktarma organlarındaki boşluklar da bunu büyütüyor. Çökmüş takozlar da benzer takırtı yapar, bu yüzden teşhis netleştirilmeli.",
+  "advice": "Önce şanzıman yağının seviyesine ve durumuna bakın (koyu renk ve yanık koku varsa değişmeli) — çoğu durumda bu yeterlidir. Bir–iki hafta içinde diagnostiğe gidin ve tam olarak hangi geçişlerde vurduğunu söyleyin. Tamire kadar vites kolunu araç tamamen dururken ve fren basılıyken alın."
+ },
+ "leaf_synchro": {
+  "top_cause": "Şanzıman senkromeçleri ya da debriyajın tam ayrılmaması",
+  "alt_causes": [
+   "Debriyaj pedalının boşluğu",
+   "Debriyaj aşınması"
+  ],
+  "explanation": "Düz viteste vitese takarken duyulan hışırtı, dişlilerin farklı hızlarda karşılaşması demektir. Bir ya da iki belirli vites hışırdıyorsa (çoğu zaman ikinci ya da üçüncü) onların senkromeçleri aşınmıştır; hepsi hışırdıyorsa debriyaj tam ayrılmıyor ve şanzıman „bırakmıyor” demektir.",
+  "advice": "Debriyaj pedalının boşluğunu ve şanzıman yağ seviyesini kontrol ettirin — servis de buradan başlar. İki hafta içinde diagnostiğe gidin. Tamire kadar vitesleri daha yavaş, boşta kısa bir duraklamayla değiştirin: hışırtı da aşınma da azalır."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Debriyaj: aşınma ya da yağlanmış balata",
+  "alt_causes": [
+   "Motor takozları",
+   "Çift kütleli volan"
+  ],
+  "explanation": "Titreme tam kalkış anında, debriyaj pedalı bırakılırken oluyor ve debriyaj tamamen kavradıktan sonra araç düzgün gidiyorsa, debriyaj kesik kesik tutuyor demektir: balata aşınmış, yağlanmış ya da baskı çarpılmış. Motor takozları rölantide de titretir, buradaki titreme ise yalnızca kalkış anında yaşar.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: kalkıştaki titreme kendiliğinden geçmez, genelde artar. Tamire kadar biraz daha yüksek devirle, yumuşak kalkın, debriyajı kaydırmayın. Yanık kokusu geldiyse debriyaj yanıyor demektir, ziyareti ertelemeyin."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Kardan istavrozları ya da aktarma organlarındaki boşluk",
+  "alt_causes": [
+   "Aks taşıyıcının takozları ve cıvataları",
+   "Diferansiyel dişli takımı"
+  ],
+  "explanation": "Kalkış anında ve gaz verip keserken aracın orta ya da arka altından gelen tek bir takırtı veya tık sesi, çekişin aktarıldığı yerdeki boşluktur: çoğunlukla aşınmış kardan istavrozları (arkadan itiş ve 4x4) ya da gevşemiş aks taşıyıcı bağlantıları.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: araç lifte alınınca kardan boşluğu elle oynatarak bir dakikada bulunur. Ertelemeyin — dağılmış bir istavroz yüksek hızda kırılabilir. Tamire kadar daha yumuşak kalkın ve gazı yumuşak kesin."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Debriyajın kayması (patinaj)",
+  "alt_causes": [
+   "Balatanın yağlanması",
+   "Otomatik şanzımanın ya da CVT'nin kayması"
+  ],
+  "explanation": "Gaza basınca devir yükseliyor, motor gürlüyor ama araç zor hızlanıyorsa debriyaj kayıyor ve çekişi aktarmıyor demektir: balata aşınmış ya da yağlanmış. En çok yokuşta ve yüksek viteste belli olur; sık sık keskin bir yanık kokusu da eşlik eder. Otomatik şanzımanda da aşınmış kavramalar aynı şekilde kayar.",
+  "advice": "Bu hafta servise gidin: kayan debriyaj sonunda çekişi tamamen keser, hem de genelde en olmadık anda. Tamire kadar sakin gidin, sollama ve römork yok, yokuşa önceden küçük vitesle girin. Yanık kokusu arttıysa ziyareti bir gün bile ertelemeyin."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo ya da basınç kaçağı",
+  "alt_causes": [
+   "İntercooler hortumu",
+   "Turbo şaftının yatağı"
+  ],
+  "explanation": "Yük altında duyulan hafif, düzgün turbo ıslığı turbolu motorlarda normaldir. Asıl dikkat edilmesi gereken değişimdir: ıslık yükseldiyse ya da tonu değiştiyse, uğultu başladıysa, çekiş düştüyse. Bu ya basınç hortumlarında hava kaçağıdır ya da turbo şaft yatağının aşınmasıdır.",
+  "advice": "Ton değiştiyse ya da çekiş düştüyse önümüzdeki günlerde diagnostiğe gidin: hortum kaçağı ucuza onarılır, ihmal edilen turbo aşınması ise turboyu değiştirmekle biter. Yağ tüketimini izleyin. Kontrole kadar motoru devir sınırına vurdurmayın ve hareketli sürüşten sonra turboya bir–iki dakika rölantide soğuma payı verin."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Diferansiyel dişli takımı",
+  "alt_causes": [
+   "Diferansiyel rulmanları",
+   "Diferansiyel yağının azlığı"
+  ],
+  "explanation": "Aynı hızda gaza basıp keserken tonu değişen inleme ya da uğultu — çekişte inliyor, boş bırakınca kesiliyor ya da tam tersi — aşınmış dişli takımının imzasıdır: dönüşü tekerleklere aktaran diferansiyel dişlilerinin. Tekerlek rulmanı ise ondan farklı olarak gaza tepki vermez.",
+  "advice": "Diferansiyel yağ seviyesini kontrol ettirin ve bir hafta içinde diagnostiğe gidin: erken aşınmada çoğu zaman yağ ve ayar yeterlidir, geç kalınırsa dişli takımı değişir. Uzun ve hızlı yolculukları kontrole kadar erteleyin."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT ya da otomatik şanzıman (rulmanlar, kayış, tork konvertörü)",
+  "alt_causes": [
+   "Şanzıman yağının azlığı ya da eskiliği",
+   "Mil rulmanları"
+  ],
+  "explanation": "CVT ya da otomatik şanzımanlı bir araçta hızlanırken duyulan, hıza değil gaza bağlı tek düze metalik inleme, genelde CVT konilerinin rulmanlarından ya da şanzıman yağ pompasından gelir. CVT özellikle yağın eskimesine karşı hassastır.",
+  "advice": "Önce şanzıman yağının seviyesi ve durumu kontrol edilmeli, bu tür vakaların yarısı buradadır. Bir hafta içinde diagnostiğe gidin, o zamana kadar sakin sürün: sert hızlanma ve römork çekme yok. CVT'nin erken tamiri, geç kalınmış tamirin kat kat altındadır."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Düz şanzımanın rulmanları ya da dişlileri",
+  "alt_causes": [
+   "Şanzıman yağının azlığı",
+   "Giriş mili rulmanı"
+  ],
+  "explanation": "Şiddeti takılı vitese göre değişen — birinde yüksek, diğerinde daha az, boşta süzülürken kesilen — inleme düz şanzımandan gelir: mil rulmanları ya da belirli bir dişli çifti aşınmıştır. Tekerlek rulmanı ise her viteste aynı şekilde uğuldar.",
+  "advice": "Şanzıman yağ seviyesini kontrol ettirin — seviyenin düşmesi sık rastlanan sebeptir. Bir–iki hafta içinde diagnostiğe gidin ve hangi viteslerde daha yüksek inlediğini söyleyin: bu aramayı daraltır. Araç kullanılabilir ama artan inlemeyi ertelemeyin."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Tekerlek balanssızlığı",
+  "alt_causes": [
+   "Düşmüş balans ağırlığı",
+   "Jantın içinde çamur ya da buz"
+  ],
+  "explanation": "Genelde 80–120 km/s arasındaki dar bir hız aralığında direksiyonun ince ince titremesi, altında ve üstünde neredeyse kaybolması, klasik tekerlek balanssızlığıdır: balans ağırlığı düşmüş ya da jantın içine çamur veya buz yapışmıştır. Direksiyon titriyorsa ön tekerlekler, koltuk titriyorsa arka tekerlekler dengesizdir.",
+  "advice": "Fırsat bulunca balans ayarı yaptırın — hızlı ve ucuz bir iştir. Kışın önce jantların iç tarafına bakıp yapışan kar ve buzu temizleyin. Tehlikesi yok ama sürekli titreşim rulmanların ve rot başlarının ömrünü kısaltır."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Eğrilmiş jant ya da lastikte balon",
+  "alt_causes": [
+   "Lastik sırtının kayması",
+   "Tekerlek balanssızlığı"
+  ],
+  "explanation": "Daha 40–60 km/s'te fark edilen ve hızla birlikte artan zıplama, genelde bir deformasyondur: çukurdan sonra ezilmiş jant kenarı ya da lastiğin yanağındaki balon. Balanssızlıktan farkı, dar bir hız aralığında değil sürekli artmasıdır.",
+  "advice": "Lastikleri ve jant kenarlarını gözden geçirin: yanaktaki şişkinlik ya da ezik jant çoğu zaman gözle görülür. Balon zayıf noktadır ve hızda patlayabilir: o tekerleği stepneyle değiştirin ve lastikçiye gitmeyi ertelemeyin. Sorun giderilene kadar hızlı gitmeyin."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Kardan mili: askı rulmanı ya da balanssızlık",
+  "alt_causes": [
+   "Kardan istavrozları",
+   "Elastik kaplin"
+  ],
+  "explanation": "Arkadan itiş ya da 4x4 bir araçta belirli bir hız aralığında tabandan ve gövdeden gelen uğultu ve ince titreşim kardan milidir: askı rulmanı aşınmış, istavrozlar dağılmış ya da balans bozulmuştur. Tekerlek balanssızlığından farkı, direksiyonun değil tabanın titremesidir.",
+  "advice": "Bir hafta içinde diagnostiğe gidin: kardan boşlukları lifte dakikalar içinde kontrol edilir. Ertelemeyin — istavrozun yüksek hızda kırılması tehlikelidir. Kontrole kadar „titreyen” hızda uzun süre gitmeyin."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Rüzgâr sesi (fitiller, çıtalar, tavan portbagajı)",
+  "alt_causes": [
+   "Aşınmış kapı fitilleri",
+   "Tavan barları ya da tavan kutusu"
+  ],
+  "explanation": "Yalnızca belli bir hızın üstünde (genelde 70–90 km/s) başlayan, hızla birlikte artan, yol kaplamasından ve virajlardan etkilenmeyen ıslık ya da uğultu havadandır: aşınmış fitil, kalkmış çıta, tavan barları ya da tavan kutusu.",
+  "advice": "Kaynağı bulmak kolay: varsa tavan kutusunu ya da barları sökün; camı biraz açın, ses değişiyor mu bakın; şüpheli birleşim yerini maskeleme bandıyla kapatıp bir tur atın. Bu bir arıza değil; fitil değişimi ya da kapı ayarıyla çözülür."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Balata aşınma göstergesi diske sürtüyor",
+  "alt_causes": [
+   "Balatalar bitmek üzere",
+   "Balatayla disk arasına kaçmış taş"
+  ],
+  "explanation": "Frene basmadan giderken duyulan, pedala hafifçe dokununca kesilen ya da değişen ince metalik cızırtı, balatadaki metal gösterge plakasının diske değmeye başladığını söyler. Bu normal bir uyarıdır: balatanın çalışma katmanı neredeyse bitmiş.",
+  "advice": "Bu hafta balata değişimi için randevu alın ve diskleri de kontrol ettirin. Frenler şimdilik tam çalışıyor ama bir sonraki aşama metal metale sürtme ve disklerin bozulmasıdır. Ses tek bir tekerlekten geliyorsa bunu serviste söyleyin."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Sıkışmış fren kaliperi",
+  "alt_causes": [
+   "Tutukluk yapan kaliper pimleri",
+   "Şişmiş fren hortumu"
+  ],
+  "explanation": "Tek bir tekerlek tarafından gelen sürekli sürtme sesi, yolculuktan sonra çok sıcak bir disk, yanık kokusu ve aracın bir tarafa çekmesi — kaliper (balataları diske bastıran parça) sıkışmış ve balata diske sürekli sürtüyor demektir. Aşırı ısınan fren tutuşunu kaybeder, balata ve disk birkaç yüz kilometrede yanar.",
+  "advice": "Normal kullanımı kesin ve yalnızca servise gidin — yakın mesafe ve düşük hızda. Hangi tekerleğin sıcak olduğunu diskin yanına elinizi yaklaştırarak anlarsınız, diske dokunmayın, yakar. Ertelemek tekerleğin yolda kilitlenmesiyle biter."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Sıkılmamış bijon somunları",
+  "alt_causes": [
+   "Jant deliklerinin yenmesi",
+   "Poyra boşluğu"
+  ],
+  "explanation": "Tekerleğin dönüşüne uyan ritmik takırtı ya da tıkırtı lastikçiye gittikten veya lastik değiştirdikten sonraki ilk günlerde başladıysa, klasik gevşek bijon vakasıdır. Gevşek bijonlarla dönen tekerlek jant deliklerini yer, en kötü ihtimalle yolda çıkar.",
+  "advice": "İlk fırsatta durun ve bijon anahtarıyla bütün tekerleklerin bijonlarını kontrol edin. Sıkıldıysa ses gitmeli; ses kaldıysa dikkatli şekilde servise gidip poyrayı kontrol ettirin. Her lastik değişiminden sonra 50–100 km'de bijonları yeniden sıkmakta fayda var."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Lastik sırtına saplanmış taş ya da vida",
+  "alt_causes": [
+   "Sıkılmamış bijon somunları",
+   "Lastik sırtının ayrılması"
+  ],
+  "explanation": "Tekerleğin dönüşüne uyan düzenli klik ya da tık sesi, özellikle düşük hızda belirgin olur ve çoğu zaman sırt desenine sıkışmış bir taştır — ya da daha önemlisi, lastiğe girmiş bir vida. Ses, cisim lastikte durduğu sürece devam eder.",
+  "advice": "Aracı yavaşça ileri geri iterek ya da direksiyonu sonuna kadar çevirerek bütün lastiklerin sırtına bakın. Taşı çıkarın. Vidayı ya da çiviyi çekmeyin — onunla lastikçiye rahatça gidersiniz, çıkarırsanız lastik yolda iner. Sırtta bir şey yoksa ve tık sesi devam ediyorsa bijonları kontrol edin."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Viraj demiri lastikleri ya da salıncak burçları (gıcırtı)",
+  "alt_causes": [
+   "Rotil",
+   "Kurumuş kapı fitilleri ve menteşeleri"
+  ],
+  "explanation": "Tümseklerde, araca binerken ve aracı sallarken çıkan eski karyola gibi gıcırtı, süspansiyondaki kurumuş kauçuktur: viraj demiri lastikleri ya da salıncak burçları. Soğukta ve nemde daha yüksek çıkar. Duran aracı çamurluktan tutup sallayınca kolayca tekrarlanır.",
+  "advice": "Fırsat bulunca serviste gösterin: çoğu zaman lastiklerin greslenmesi ya da çok ucuz parçaların değişimi yeterlidir. Tehlikesi yok, ama gıcırtıyla birlikte vuruntu başladıysa ya da araç bir tarafa çekmeye başladıysa artık konu rotillerdir, kontrolü ertelemeyin."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Diske yapışmış fren balataları",
+  "alt_causes": [
+   "Donmuş balatalar (kışın)",
+   "El freni pabuçları"
+  ],
+  "explanation": "Uzun bir park sonrası ilk hareket ederken, özellikle el freni çekiliyken, yıkamadan, yağmurdan ya da dondan sonra duyulan tek ve yüksek „güm” ya da çatırtı, balataların diske yapışıp koptuğunu gösterir. Yolculuğun devamı sessizse bunun bir zararı yok.",
+  "advice": "Hiçbir şey yapmanıza gerek yok; kışın el freni yerine aracı viteste bırakabilirsiniz (yalnızca düz viteste), böylece arka balatalar donmaz. Çatırtı her hareket edişte tekrarlanıyorsa artık konu balatalar değildir, teşhisi baştan yapın."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Direksiyon kutusunda boşluk",
+  "alt_causes": [
+   "Rot başları",
+   "Direksiyon mili istavrozu"
+  ],
+  "explanation": "İnce dalgalanmalarda ve asfalt eklerinde çıkan, doğrudan direksiyona vuran ve avuç içinde hissedilen vuruntu, direksiyon kutusundaki boşluktur: burcu ya da diş kavraması aşınmıştır. Ayırt edici işaret — direksiyonu hafifçe gergin tutunca vuruntu azalır.",
+  "advice": "Önümüzdeki günlerde direksiyon sistemini serviste kontrol ettirin: bu bir güvenlik parçasıdır ve lifte teşhis dakikalar sürer. Bazı araçlarda kutu ayarla sıkılabilir — ucuz bir iştir. Direksiyon ortada „boş” hale geldiyse ya da araç şeritte geziniyorsa ertelemeyin."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Kırık süspansiyon yayı",
+  "alt_causes": [
+   "Ölmüş amortisör",
+   "Kırık yay yatağı"
+  ],
+  "explanation": "Çukura girdikten sonra aniden başlayan, bozuk yolda ve virajlarda duyulan takırtı ya da metalik gıcırtı, üstüne aracın bir köşesinin çökmesi eklendiyse, tipik kırık yay tablosudur. Kırılan parça süspansiyon çalışırken sürtebilir ve takırdayabilir.",
+  "advice": "Tekerleğin arkasına alttan bakın: kırık sarım çoğu zaman gözle görülür. Birkaç gün içinde servise gidin, tamire kadar yumuşak sürün: kırılan yay parçası kayıp lastiği kesebilir. Yaylar aksta çift olarak değiştirilir."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Kabin plastikleri: klipsler ve panel birleşimleri",
+  "alt_causes": [
+   "Torpido ve cepteki eşyalar",
+   "Kurumuş kapı fitilleri"
+  ],
+  "explanation": "Küçük tümseklerde duyulan yakın „plastik” takırtı ve cırcır sesleri, kabin panellerinin sürtmesi ve boşluğudur: torpido, kapı döşemeleri, torpido gözü. Soğukta daha yüksek çıkar. Kesin test: giderken şüpheli panele elinizle bastırın, ses kesiliyorsa sorun kabindedir, süspansiyonda değil.",
+  "advice": "Bu bir arıza değil: araç sağlam. Torpido gözündeki ve ceplerdeki ufak tefeği çıkarın, bulduğunuz birleşim yerine bir parça sünger bant sıkıştırın. Kapıların çevresindeki gıcırtı, fitillerin silikon spreyle silinmesiyle geçer. Süspansiyon vuruntusu ise boğuktur, „aşağıdan” gelir ve panellere bastırınca değişmez."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Bagajda sabitlenmemiş yük ya da stepne",
+  "alt_causes": [
+   "Kriko ve takımlar",
+   "Bagaj rafı"
+  ],
+  "explanation": "Bozuk yolda arkadan gelen, bir şey zıplıyor ve yuvarlanıyormuş gibi duyulan boğuk vuruntu ya da gümbürtü, çoğu zaman gerçekten zıplayan bir şeydir: kriko, bijon anahtarı, iyi sıkılmamış stepne ya da takırdayan raf. Bagaj doluyken ses genelde değişir ya da kaybolur.",
+  "advice": "Bagajdaki her şeyi çıkarın, stepnenin ve krikonun bağlantısını sıkın, rafa bastırın — ve aynı yoldan tekrar geçin. Ses gittiyse süspansiyonun bu işle ilgisi yok ve başka bir şey yapmanıza gerek yok. Ses kaldıysa „bozuk yolda vuruntu” dalından teşhisi baştan yapın."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Kaput kilidi ya da kaput takozları",
+  "alt_causes": [
+   "Kaput menteşeleri",
+   "Kapı sınırlayıcısı"
+  ],
+  "explanation": "Küçük tümseklerde önden yukarıdan, kaputun kenarından gelen metalik tıkırtı, kaput kilidindeki boşluk ya da kaputun üstüne oturduğu çökmüş lastik takozlardır. Ses kabinde yakından, „yüzünüzün önünde” duyulur, süspansiyon vuruntusu gibi aşağıdan değil.",
+  "advice": "Yerinde test: kapalı kaputa bastırın — oynuyor ve tıkırdıyorsa teşhis doğrulanmıştır. Köşelerdeki lastik takozları yarım tur yukarı çevirin ki kaput daha sıkı otursun; çoğu durumda bu yeterlidir. Tehlikesi yok."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hidrolik supap iticileri (soğukken)",
+  "alt_causes": [
+   "Supap ayarları",
+   "Koyulaşmış yağ"
+  ],
+  "explanation": "Hidrolik iticiler, yağ basıncıyla supaplardaki fazla boşluğu kapatan küçük parçalardır. Motor soğukken yağ koyudur ve onlara hemen ulaşmaz, bu yüzden ilk dakikalarda sık bir tıkırtı duyulur. Isındıktan sonra ses tamamen kesiliyorsa bu tipik bir durumdur ve tehlikeli değildir.",
+  "advice": "Yağ seviyesini ve değişim zamanını kontrol edin: eski ya da uygun olmayan yağ sesi artırır. Tıkırtı birkaç dakikadan uzun sürmeye başladıysa ya da motor ısındıktan sonra da kalıyorsa servise randevu alın. „Ses kesici” katkılar dökmeyin."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Piston grubu aşınması (soğukta vuruntu)",
+  "alt_causes": [
+   "Hidrolik supap iticileri",
+   "Triger zinciri"
+  ],
+  "explanation": "Soğuk çalıştırmadan sonraki ilk dakikalarda duyulan ve motor ısındıkça geçen boğuk vuruntu, kilometresi yüksek araçlarda çoğu zaman piston grubu aşınmasıdır: piston soğukken silindirde biraz daha fazla boşluğu vardır ve vurur. Isınınca parçalar genleşir ve ses geçer. Bu genelde takip edilecek bir konudur, acil tamir değil.",
+  "advice": "İlk servis ziyaretinde durumu anlatın ve vuruntunun kaç dakika sürdüğünü not edin — bu mekanik için değerli bilgidir. Yağ seviyesini ve tüketimini izleyin. Vuruntu ısındıktan sonra da geçmiyorsa ya da yük altında duyulmaya başladıysa, ertelemeden diagnostiğe gidin."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Triger zinciri ya da gergisi",
+  "alt_causes": [
+   "Hidrolik supap iticileri",
+   "Kayış rolleri"
+  ],
+  "explanation": "Triger zinciri, motorun içinde millerini birbirine bağlayan ve supapların doğru anda açılmasını sağlayan zincirdir. Uzadığında ya da gergisi zayıfladığında, soğuk çalıştırmada motorun önünden hışırtı veya gürültü duyulur; motor ısınıp yağ basıncı yükselince kesilir. Zamanla ses giderek daha sık çıkar.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: atlayan zincir pahalı bir motor tamiri demektir. Servise kadar soğukken sert kalkışlardan kaçının ve motoru yüklemeden önce ısınmasını bekleyin. Yağ seviyesini mutlaka kontrol edin."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "V kayışının kayması",
+  "alt_causes": [
+   "Aşınmış gergi rolü",
+   "Kayışın gevşek olması"
+  ],
+  "explanation": "Çalıştırdıktan sonraki ilk saniyelerde çıkan cıyaklama, neredeyse her zaman alternatörü, devirdaim pompasını ve klimayı döndüren kayıştır. Soğukta ya da nemli havada kasnaklarda kayar ve ıslık çalar, sonra ısınıp susar. Şu an tehlikeli değil ama kayışın yıprandığını ya da gerginliğin düştüğünü gösterir.",
+  "advice": "Fırsat bulunca kayışı serviste gösterin: bakması iki dakika sürer. Islık motor ısındıktan sonra da ya da klimayı açınca çıkmaya başladıysa ertelemeyin. Kayışa WD-40 sıkmayın, benzeri „pratik çözümleri” denemeyin."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Supap boşluklarının büyümesi",
+  "alt_causes": [
+   "Hidrolik supap iticileri",
+   "Triger zinciri"
+  ],
+  "explanation": "Motorun üst tarafından gelen düzgün ve sık tıkırtı, supap mekanizmasının tipik sesidir. Zamanla parçalar arasındaki boşluklar büyür ve supaplar „tıkırdamaya” başlar; en iyi rölantide duyulur. Motor bundan bir anda bozulmaz ama supaplar darbeyle çalışır ve daha hızlı aşınır.",
+  "advice": "Önümüzdeki iki hafta içinde supap ayarı ya da hidrolik iticilerin kontrolü için randevu alın. Yağ seviyesini takip edin: seviye düşükken tıkırtı artar. Rahatça kullanabilirsiniz ama aylarca ertelemenin anlamı yok."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Motorun alt tarafında vuruntu (yataklar, kol yatakları)",
+  "alt_causes": [
+   "Vuruntulu yanma (detonasyon)",
+   "Piston grubu aşınması",
+   "Krank kasnağı (titreşim damperi)"
+  ],
+  "explanation": "Motorun derinlerinden gelen, devirle birlikte hızlanan ve yük altında artan boğuk vuruntu, motor seslerinin en tehlikelisidir. Böyle bir ses aşınmış yataklardan — krank milinin döndüğü yataklardan — ya da kol yataklarından gelir: bağlantılarda boşluk oluşmuş ve parçalar birbirine vuruyordur. Gitmeye devam ederseniz motor sarabilir.",
+  "advice": "Gerekenden fazla kendi gücüyle gitmeyin: en iyisi çekici; servis hemen yakındaysa yavaş gidin ve gaza yüklenmeyin. Hemen yağ seviyesini kontrol edin, düşükse normale tamamlayın. Buna benzer sesi daha az korkutucu şeyler de çıkarabilir, ama kontrolü mekanik yapmalı — ve hızlıca."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Motor üstü ekipmanlar ya da motor takozları",
+  "alt_causes": [
+   "Klima kompresörü kavraması",
+   "Hidrolik supap iticileri"
+  ],
+  "explanation": "Gaza basınca hızlanmayan vuruntu, genelde motorun kendisinden değil, üstüne bağlı olan şeylerden gelir: alternatör, kasnaklar, braketler, takozlar. Buralardaki boşluk rölantide boğuk darbeler yaratır, özellikle motor titrerken.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: mekanik bu tür sesleri stetoskopla iyi bulur. Klima devreye girince ya da fren basılıyken vites takılınca sesin değişip değişmediğini not edip mekaniğe söylemek işe yarar."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Aşınmış ya da gevşek V kayışı",
+  "alt_causes": [
+   "Gergi rolü",
+   "Alternatör kasnağı"
+  ],
+  "explanation": "Kaputun altından gelen keskin cıyaklama, kayışın kasnaklarda kaydığını gösterir. En sık suçlu, kayışın kendisinin yıpranması ya da gerginin zayıflamasıdır. Kayış koparsa alternatör durur, birçok araçta devirdaim pompası da — bu yüzden sorunu büyütmeyin.",
+  "advice": "Bir hafta içinde aracı serviste gösterin: kayış ve rol değişimi ucuz bir iştir. Cıyaklama aniden arttıysa, akü lambası yandıysa ya da motor sıcaklığı yükselmeye başladıysa — durun ve motoru susturun."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Devirdaim pompası (su pompası)",
+  "alt_causes": [
+   "Kayış rolleri",
+   "Alternatör rulmanı"
+  ],
+  "explanation": "Kayış tarafından gelen uğultu ya da hışırtının yanına soğutma suyu izleri de eklendiyse, bu ölmek üzere olan devirdaim pompasının tipik belirtisidir. Rulmanı aşınır, boşluk oluşur ve keçesinden antifriz sızmaya başlar. Pompa sıkışırsa motor çok hızlı hararet yapar.",
+  "advice": "Önümüzdeki günlerde servise gidin, yolda motor sıcaklığını ve antifriz seviyesini izleyin. Sıcaklık yükseldiyse ya da kaputun altından buhar çıktıysa — durun ve motoru susturun. Antifrizi yalnızca motor soğuduktan sonra ekleyin."
+ },
+ "leaf_idler": {
+  "top_cause": "Gergi rolü ya da yönlendirme rolü",
+  "alt_causes": [
+   "Devirdaim pompası",
+   "Alternatör serbest kasnağı",
+   "Triger zinciri ya da gergisi"
+  ],
+  "explanation": "Motor devriyle birlikte değişen düzgün uğultu ya da hışırtı, çoğu zaman V kayışının üzerinde koştuğu rollerden birinin rulmanından gelir. Aşınan rol giderek daha çok ses yapar, sıkışmaya başlayabilir ve sonunda kayışı koparabilir.",
+  "advice": "Bir hafta içinde servise gidin: mekanik kayışı çıkarıp hangi rolün ses yaptığını yerinde belirler. Benzer sesi devirdaim pompası, alternatörün serbest kasnağı ve hatta triger zinciri de çıkarabilir — bunlar da aynı anda kontrol edilir. Ses gıcırtıya ya da cıyaklamaya döndüyse ziyareti öne alın."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Egzoz ısı kalkanı",
+  "alt_causes": [
+   "Egzoz bağlantıları",
+   "Motor alt koruması"
+  ],
+  "explanation": "Belirli devirlerde çıkan çınlayan metalik takırtı, neredeyse her zaman gevşemiş ısı kalkanıdır — susturucunun ya da katalizörün üstündeki ince sac. Kulağa hoş gelmez ama aracın çalışmasını etkilemez.",
+  "advice": "Fırsat bulunca serviste kalkanın sıkılmasını ya da kelepçeyle sabitlenmesini isteyin: birkaç dakikalık iş. Takırdayanın gerçekten kalkan olduğundan, susturucu bağlantıları olmadığından emin olmakta fayda var — lifte bu hemen görülür."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Ateşleme kaçırması ya da egzozda delik",
+  "alt_causes": [
+   "Bujiler ve ateşleme bobinleri",
+   "Delinmiş susturucu ya da boru",
+   "LPG ayarları (gazda patlıyorsa)"
+  ],
+  "explanation": "Egzozdan gelen patlamalar, yakıtın silindirlerde değil egzoz sisteminde yandığını gösterir. Sebepleri: ateşleme kaçırması (bujiler, bobinler), yanlış karışım ya da egzozda delik. Gürültünün yanında bu katalizöre de zarar verir ve katalizör değişimi pahalıdır.",
+  "advice": "Önümüzdeki günlerde diagnostiğe gidin, özellikle araç daha kötü çekiyorsa, tekliyorsa ya da check engine yandıysa. Patlamalarla uzun süre gezmeyin: yanmamış yakıt katalizörü aşırı ısıtır. LPG'li bir araçta patlamalar gazda oluyorsa, sistemi ayara götürün: LPG için patlama özellikle tehlikelidir."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Delinmiş susturucu ya da egzoz borusu",
+  "alt_causes": [
+   "Egzoz contası",
+   "Çatlamış egzoz körüğü"
+  ],
+  "explanation": "Gaza basınca artan yüksek gürleme genelde egzoz sisteminde delik demektir: susturucu, boru ya da conta delinmiştir. Ses „sportif” hale gelir ama egzoz gazları zamanından önce dışarı çıkar — bu gürültü, koku ve kabine karbon monoksit girme riskidir.",
+  "advice": "Bu hafta aracı serviste gösterin: egzozun lifte kontrolü birkaç dakika sürer. Kabinde egzoz kokusu duyuluyorsa camı biraz açık kullanın ve aracı kapalı garajda ısıtmayın: karbon monoksit tehlikelidir."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Motor takozları",
+  "alt_causes": [
+   "Ateşleme kaçırması",
+   "Kirli gaz kelebeği ya da enjektörler"
+  ],
+  "explanation": "Rölantide kabinde titreşim hissediliyor, direksiyon ve koltuklar ince ince titriyorsa, sık suçlu motor takozlarıdır — motorun titreşimini yutan kauçuk parçalar. Zamanla kauçuk sertleşir ve yırtılır, titreşim de gövdeye geçer.",
+  "advice": "İki hafta içinde takozları serviste kontrol ettirin: bakması kolaydır. Teşhis için ipucu — takoz kaynaklı titreşim genelde fren basılıyken vites takılınca artar. Motor ayrıca kesik kesik sarsıyorsa bunu mekaniğe söyleyin: ateşleme kaçırıyor olabilir."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Fren disklerindeki pas tabakası",
+  "alt_causes": [
+   "Balatalarda nem ya da toz",
+   "Balataların ilk aşınması"
+  ],
+  "explanation": "Bir gecede, yağmurdan ya da yıkamadan sonra fren disklerinde ince turuncu bir tabaka oluşur — bu her araçta normaldir. İlk birkaç frende balatalar bu tabakayı temizler, gıcırtı ya da hafif kazıma sesi buradan gelir ve çabuk geçer.",
+  "advice": "Hiçbir şey yapmanıza gerek yok: yolculuğun başında birkaç yumuşak fren diskleri temizler. Ses artık geçmiyorsa ve her fren yapışta duyuluyorsa, teşhisi baştan yapın ya da aracı serviste gösterin."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Balataların aşınması ya da durumu",
+  "alt_causes": [
+   "Balata aşınma göstergesi",
+   "Sertleşmiş (camlaşmış) balatalar",
+   "Disklerde toz ya da korozyon"
+  ],
+  "explanation": "Her fren yapışta duyulan cıyaklama, balataları kontrol etme sinyalidir. Birçok balatada metal bir „aşınma göstergesi” vardır: çalışma katmanı (diske sürten balata malzemesi) sınırına kadar aşındığında plaka diske değer ve kasten cıyaklar. Balataların kendisi de ses yapabilir — tabaka, camlaşmış yüzey ya da ucuz malzeme yüzünden.",
+  "advice": "Bu hafta balata ve disk kontrolü için randevu alın. Ses aşınma göstergesinden geliyorsa ertelemeyin: bir sonraki aşama metal metale sürtme ve disklerin bozulmasıdır. Balatalar iyiyse cıyaklama tehlikeli değildir ve mekanik nasıl giderileceğini söyler."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Balatalar metale kadar bitmiş",
+  "alt_causes": [
+   "Fren mekanizmasına kaçmış yabancı cisim",
+   "Dağılmış balata"
+  ],
+  "explanation": "Fren yaparken metal metale sürtme sesi, balatanın çalışma katmanının bittiğini ve diske metal tabanının sürttüğünü gösterir. Fren mesafesi uzar, disk her duruşta biraz daha bozulur ve mekanizma sıkışabilir.",
+  "advice": "Normal kullanımı kesin ve yalnızca servise gidin, erken ve yumuşak fren yaparak. Değişimi bir gün bile ertelemeyin: güvenliğin yanında, sürtünerek geçen her kilometre faturaya disk maliyetini de ekler."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Kaliper pimleri ya da disklerde salgı",
+  "alt_causes": [
+   "Poyra boşluğu",
+   "Gevşemiş kaliper bağlantısı"
+  ],
+  "explanation": "Fren yaparken vuruntu ya da pedalda zonklama genelde fren mekanizmasından gelir: kaliper pimleri (balataları diske bastıran parçanın kızakları) gevşemiştir ya da disk eğrilmiştir ve balatalar ona çarpar. Frenler çalışır ama düzensiz çalışır.",
+  "advice": "Önümüzdeki günlerde frenleri serviste kontrol ettirin: güvenliğin bağlı olduğu bir sistemi ihmal etmeye gelmez. Pedal her zamankinden derine kaçmaya başladıysa, araç fren yaparken bir tarafa çekiyorsa ya da direksiyona vuruyorsa hemen diagnostiğe gidin."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Bir şey fren diskine sürtüyor (muhafaza ya da bitmiş balatalar)",
+  "alt_causes": [
+   "Balatalar metale kadar bitmiş",
+   "Eğilmiş disk muhafazası",
+   "Muhafazayla disk arasına kaçmış taş"
+  ],
+  "explanation": "Tekerlek tarafından gelen sürekli gıcırtı ya da sürtme sesi, genelde dönen fren diskine bir şeyin değdiğini gösterir: eğilmiş sac muhafaza, araya kaçmış bir taş — ya da metale kadar bitmiş balatalar. İlk ikisi zararsız, üçüncüsü tehlikelidir ve kulakla ayırmak kolay değildir.",
+  "advice": "Bir–iki gün içinde, ertelemeden serviste kontrol ettirin: tekerleğe bakınca sebep hemen görülür. Fren yaparken ses artıyorsa ya da pedal her zamanki gibi davranmıyorsa, yolculuğu kesin ve servise dikkatli gidin."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Tekerlek rulmanı",
+  "alt_causes": [
+   "Lastik hışırtısı",
+   "Aşınmış aks körüğü ve mafsalı"
+  ],
+  "explanation": "Giderken virajlarda değişen uğultu, aşınmış tekerlek rulmanının klasik işaretidir: tekerleğin üzerinde döndüğü rulmanın. Virajda aracın ağırlığı dış tekerleklere biner: sola dönerken uğultu artıyorsa yük sağ taraftadır ve büyük ihtimalle sağ rulman uğulduyor; sağa dönerken tersi geçerlidir. Dağılan rulman tekerlekte boşluk yaratır, ihmal edilirse sıkışabilir.",
+  "advice": "Uğultunun hangi yöne dönerken arttığını aklınızda tutun ve serviste söyleyin — bu aramayı hemen daraltır. Kontrolü bir haftadan fazla ertelemeyin, uzun yolları teşhise kadar erteleyin. Titreşim başladıysa ya da uğultu belirgin şekilde arttıysa hemen servise gidin."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Dış aks mafsalı",
+  "alt_causes": [
+   "İç aks mafsalı",
+   "Viraj demiri rotları",
+   "4x4 kavraması"
+  ],
+  "explanation": "Direksiyon kırıkken giderken duyulan tıkırtı ya da çatırtı, aşınmış dış aks mafsalının imzasıdır: dönen tekerleğe gücü ileten mafsalın. Genelde her şey körüğün yırtılmasıyla başlar — mafsalı kirden koruyan kauçuk körükle.",
+  "advice": "Aks körüklerine bakın ya da serviste baktırın: yırtık körük ve çevresine saçılmış gres teşhisi doğrular. Değişimi bir–iki haftadan fazla ertelemeyin — aşınmış mafsal sıkışabilir. Tamire kadar direksiyon kırıkken sert kalkış yapmayın."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Rot başları ya da direksiyon kutusu",
+  "alt_causes": [
+   "Viraj demiri rotları",
+   "Amortisör üst takoz rulmanları"
+  ],
+  "explanation": "Direksiyonu çevirirken, özellikle dururken ya da düşük hızda duyulan vuruntu, genelde rot başlarındaki, rotlardaki ya da direksiyon kutusunun kendisindeki boşluktan gelir. Şimdilik kullanımı engellemez ama direksiyondaki boşluk zamanla yalnızca büyür.",
+  "advice": "Önümüzdeki günlerde direksiyonu serviste kontrol ettirin: lifte teşhis birkaç dakika sürer. Direksiyon orta konumda „boşaldıysa”, araç şeritte geziniyorsa ya da vuruntu aniden arttıysa ertelemeyin, bu bir güvenlik parçasıdır."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Direksiyon hidrolik pompası",
+  "alt_causes": [
+   "Hidrolik yağı seviyesinin düşük olması",
+   "V kayışı"
+  ],
+  "explanation": "Dururken ya da düşük hızda direksiyonu çevirince çıkan inleme ya da uğultu, çoğu zaman hidrolik pompasından gelir — direksiyonu çevirmeye yardım eden yağın basıncını o üretir. En çok direksiyon sonuna kadar kırıkken inler. En sık sebep, depodaki yağ seviyesinin düşmesidir.",
+  "advice": "Kaputun altındaki depoda hidrolik yağı seviyesine bakın ve MIN çizgisinin altındaysa tamamlayın. Direksiyonu sonuna kadar kırık halde birkaç saniyeden uzun tutmayın. Yağ ekledikten sonra inleme kaldıysa ya da yağ yine eksiliyorsa, bir hafta içinde servise gidin."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Viraj demiri rotları",
+  "alt_causes": [
+   "Viraj demiri lastikleri",
+   "Rotil"
+  ],
+  "explanation": "Küçük yol bozukluklarında — parke taşı, asfalt ekleri, „tarak” yol — duyulan sık ve boğuk vuruntuyu çoğu zaman viraj demiri rotları verir: süspansiyonda ilk aşınan, mafsallı küçük çubuklar. Kendileri tehlikeli değildir ama benzer sesi daha ciddi parçalar da çıkarabilir.",
+  "advice": "Bir–iki hafta içinde süspansiyon diagnostiği için randevu alın: mekanik parçaları lifte oynatarak boşluğu birkaç dakikada bulur. Kontrole kadar büyük çukurları yavaş geçin. Araç bir tarafa çekmeye başladıysa kontrolü öne alın."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Arka süspansiyon: viraj demiri rotları ya da arka aks burçları",
+  "alt_causes": [
+   "Amortisörler",
+   "Egzoz bağlantıları"
+  ],
+  "explanation": "Küçük bozukluklarda arkadan gelen sık vuruntuyu genelde arka süspansiyonun küçük mafsalları verir: arka viraj demiri rotları ya da aşınmış burçlar — salıncakların ve aksın gövdeye bağlandığı kauçuk parçalar. Bazen gevşemiş bir egzoz bağlantısı da benzer ses yapar.",
+  "advice": "Bir–iki hafta içinde süspansiyon diagnostiği için randevu alın: lifte arkadaki sesin kaynağı çabuk bulunur. Kontrole kadar büyük çukurları yavaş geçin. Sesin ince tarak yolda mı yoksa tek tek çukurlarda mı çıktığını not edip mekaniğe söylemek işe yarar."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Salıncak burçları ya da amortisörler",
+  "alt_causes": [
+   "Amortisör üst takoz rulmanları",
+   "Rotil"
+  ],
+  "explanation": "Çukurlarda ve hız kesicilerde tek tek gelen boğuk darbeler genelde burçların aşınması demektir — salıncakların gövdeye bağlandığı kauçuk burçların — ya da yorulmuş amortisörler. Süspansiyon darbeyi yutmayı bırakır ve gövdeye aktarır.",
+  "advice": "İki hafta içinde süspansiyon diagnostiğine gidin. Amortisörler için basit test: aracın bir köşesine bastırıp bırakın — gövde salınmadan yerine dönmeli. Tamire kadar bozuklukları yumuşak geçin: darbeler komşu parçaları da bitirir."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Egzoz bağlantıları ya da motor alt koruması",
+  "alt_causes": [
+   "Isı kalkanı",
+   "Sarkmış egzoz borusu"
+  ],
+  "explanation": "Tümseklerde aracın altından gelen metalik takırtı genelde gevşemiş bir bağlantıdır: egzoz askı lastikleri, alt koruma cıvataları ya da ısı kalkanı. Sinir bozucu ama direksiyona ve motora etkisi yok.",
+  "advice": "İlk servis ziyaretinde bağlantıların sıkılmasını isteyin: hızlı ve ucuz. Egzozun sarkmadığından emin olun — yerde sürünen boruyu artık görmezden gelemezsiniz. Tamire kadar rahatça kullanabilirsiniz."
+ },
+ "leaf_detonation": {
+  "top_cause": "Vuruntulu yanma (yük altında metalik çınlama)",
+  "alt_causes": [
+   "Oktanı düşük yakıt",
+   "Karbon birikintisi ya da arızalı vuruntu sensörü"
+  ],
+  "explanation": "Hızlanırken, özellikle yokuşta ya da düşük devirden çekerken duyulan metalik çınlama vuruntulu yanmadır: silindirlerdeki yakıtın bir kısmı düzgün yanmak yerine kendiliğinden, patlayarak tutuşur ve şok dalgası pistonlara vurur. Sık sebepleri: gereken oktandan düşük benzin, yanma odalarındaki karbon birikintisi ya da vuruntu sensörünün arızası. Sürekli vuruntu motoru yavaş yavaş öldürür.",
+  "advice": "Üreticinin önerdiğinden düşük olmayan oktanda yakıt alın, tercihen başka bir istasyondan — çınlama çoğu zaman bir depodan sonra geçer. Kontrole kadar motoru zorlamayın: yumuşak hızlanın, yokuşa küçük vitesle girin. Yakıtı değiştirdikten sonra çınlama geçmediyse diagnostiğe gidin."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Motor takozları ya da iç aks mafsalı",
+  "alt_causes": [
+   "Aktarma organlarında boşluk",
+   "Şanzıman takozu"
+  ],
+  "explanation": "Gaza basma ya da gazı kesme anında gelen vuruntu, çekişi ileten zincirdeki boşluğun işaretidir. Aşınmış takozlar yük değişince motorun sıçramasına izin verir; aşınmış iç aks mafsalı (şanzımandan tekerleğe giden aks üzerindeki mafsal) gaz verip keserken vurur. Önemli olan, sesin bozuk yolda değil, tam da sürüş modu değişirken çıkmasıdır.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin. Servise ipucu: vuruntunun motora mı yoksa tekerleklere mi yakın olduğunu ve vites değiştirirken tekrarlanıp tekrarlanmadığını not edin. Tamire kadar gazı ve vites geçişlerini daha yumuşak yapın."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Tekerlek rulmanı",
+  "alt_causes": [
+   "Lastik hışırtısı",
+   "Askı rulmanı ya da şanzıman"
+  ],
+  "explanation": "Hızla birlikte artan ve motor devrinden etkilenmeyen düzgün uğultuyu çoğu zaman aşınmış tekerlek rulmanı çıkarır — tekerleğin üzerinde döndüğü rulman. Ses kalkan uçağı andırır ve yol kaplamasıyla neredeyse hiç değişmez. İhmal edilen rulman tekerlekte boşluk yaratır, en kötü halde sıkışabilir.",
+  "advice": "Bir hafta içinde serviste kontrol ettirin: mekanik tekerlekleri lifte çevirip ses yapan poyrayı bulur — bu rulmanın oturduğu parçayı. Uzun ve hızlı yolculukları teşhise kadar erteleyin. Uğultu aniden arttıysa ya da titreşim başladıysa hemen kontrole gidin."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Arka tekerlek rulmanı",
+  "alt_causes": [
+   "Lastik hışırtısı",
+   "Diferansiyel ya da askı rulmanı (arkadan itiş ve 4x4)"
+  ],
+  "explanation": "Arkadan gelen ve hızla birlikte artan düzgün uğultuyu çoğu zaman arka tekerlek rulmanı verir — tekerleğin üzerinde döndüğü rulman. Arkadan itişli ve dört çeker araçlarda aktarma organları da benzer şekilde uğuldar, bu yüzden kaynağı lifte netleştirmekte fayda var.",
+  "advice": "Bir hafta içinde serviste kontrol ettirin: arkada rulman uğultusunu diferansiyelle karıştırmak kolaydır, lifte bakınca her şey yerine oturur. Uzun ve hızlı yolculukları kontrole kadar erteleyin. Uğultu aniden arttıysa ya da titreşim başladıysa hemen kontrole gidin."
+ },
+ "leaf_tires": {
+  "top_cause": "Lastik hışırtısı",
+  "alt_causes": [
+   "Lastik sırtının düzensiz aşınması",
+   "Tekerlek rulmanı"
+  ],
+  "explanation": "Uğultu yol kaplamasına göre değişiyorsa — yeni asfaltta daha sessiz, pürüzlü asfaltta daha yüksek — büyük ihtimalle lastikler ses yapıyordur. Özellikle kış lastikleri, arazi lastikleri ve düzensiz aşınmış lastikler uğuldar. Bu bir konfor meselesidir, arıza değil.",
+  "advice": "Lastik sırtına bakın: „testere” şeklinde (kenarlarda basamaklanma) ya da lekeli aşınma uğultuyu artırır ve bozulmuş rot balans ayarını veya yorulmuş amortisörleri işaret eder. Lastik basınçlarını kontrol edin. Uğultu aslında kaplamadan etkilenmiyor ve hızla artıyorsa, tekerlek rulmanı ihtimaline geri dönün."
+ }
+}

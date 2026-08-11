@@ -30,6 +30,19 @@ export interface Dict {
     faqH2: string;
     faq: { q: string; a: string }[];
   };
+  /** Опросник на странице: подписи вокруг самого дерева вопросов. */
+  quiz: {
+    h2: string;
+    sub: string;
+    urgOk: string;
+    urgWarn: string;
+    urgStop: string;
+    back: string;
+    restart: string;
+    cta: string;
+    schemaMarked: string;
+    schemaWhole: string;
+  };
   download: {
     h2: string;
     sub: string;

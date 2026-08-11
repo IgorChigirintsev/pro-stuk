@@ -1,0 +1,1104 @@
+{
+ "q_when": {
+  "text": "Quand entend-on le bruit ?",
+  "options": {
+   "o1": "Au démarrage ou en essayant de démarrer",
+   "o2": "À l'arrêt, moteur tournant",
+   "o3": "Uniquement en roulant",
+   "o4": "À l'arrêt comme en roulant"
+  }
+ },
+ "q_start_char": {
+  "text": "Quʼentendez-vous en tournant la clé ou en appuyant sur le bouton de démarrage ?",
+  "options": {
+   "o1": "Des claquements, le moteur ne tourne pas",
+   "o2": "Un crissement métallique pendant que le démarreur tourne",
+   "o3": "Le démarreur ronronne, mais le moteur ne part pas",
+   "o4": "Un sifflement aigu juste après le démarrage du moteur"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Quel genre de claquements ?",
+  "options": {
+   "o1": "Un cliquetis rapide et les voyants du tableau de bord faiblissent",
+   "o2": "Un seul claquement net, puis le silence"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Le bruit apparaît-il uniquement quand vous actionnez quelque chose (chauffage, climatisation, embrayage, direction, frein) ?",
+  "options": {
+   "o1": "Oui, il est lié à une action précise",
+   "o2": "Non, il se manifeste tout seul"
+  }
+ },
+ "q_action": {
+  "text": "À quelle action le bruit est-il lié ?",
+  "options": {
+   "o1": "Au chauffage ou au ventilateur",
+   "o2": "Au bouton de la climatisation",
+   "o3": "À la pédale d'embrayage",
+   "o4": "Au volant, à la pédale de frein ou aux essuie-glaces"
+  }
+ },
+ "q_hvac": {
+  "text": "Quel bruit fait le ventilateur en marche ?",
+  "options": {
+   "o1": "Un froissement ou un crépitement qui change avec la vitesse du ventilateur",
+   "o2": "Un sifflement ou un hurlement sous la planche de bord",
+   "o3": "Une série de claquements derrière la planche de bord quand on change la température ou la répartition dʼair",
+   "o4": "Un gargouillis derrière la planche de bord"
+  }
+ },
+ "q_ac": {
+  "text": "Qu'entend-on quand on met la climatisation ?",
+  "options": {
+   "o1": "Un sifflement au moment de lʼenclenchement",
+   "o2": "Un crissement ou un grondement pendant que la clim fonctionne",
+   "o3": "Un bref chuintement à l'enclenchement ou à l'arrêt, et ça refroidit bien"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Comment le bruit est-il lié à la pédale d'embrayage ?",
+  "options": {
+   "o1": "Un bruissement ou un bourdonnement pédale relâchée ; en débrayant, il sʼatténue",
+   "o2": "Il apparaît ou augmente quand la pédale est enfoncée",
+   "o3": "Un cliquetis au ralenti qui change quand on débraye",
+   "o4": "Un grincement à lʼappui, audible même moteur coupé"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "À quoi le bruit est-il lié exactement ?",
+  "options": {
+   "o1": "Un hurlement ou un bourdonnement quand on tourne le volant",
+   "o2": "Un craquement ou des claquements quand on tourne le volant à l'arrêt",
+   "o3": "Un chuintement sous la planche de bord quand on appuie sur la pédale de frein",
+   "o4": "Un cognement ou un grincement au rythme des essuie-glaces"
+  }
+ },
+ "q_ps_type": {
+  "text": "Y a-t-il sous le capot un bocal de liquide de direction assistée ?",
+  "options": {
+   "o1": "Oui, il y en a un",
+   "o2": "Non, ou je ne sais pas"
+  }
+ },
+ "q_steer_click": {
+  "text": "D’où viennent les claquements ?",
+  "options": {
+   "o1": "Du haut, du passage de roue, à hauteur du capot",
+   "o2": "Du volant lui-même ou de la colonne, au niveau des pieds"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Le bruit s'entend-il uniquement moteur froid, juste après le démarrage ?",
+  "options": {
+   "o1": "Oui, il disparaît une fois le moteur chaud",
+   "o2": "Non, on l'entend aussi moteur chaud"
+  }
+ },
+ "q_cold_char": {
+  "text": "À quoi ressemble le bruit à froid ?",
+  "options": {
+   "o1": "Un cliquetis rapide",
+   "o2": "Un cognement sourd qui disparaît une fois le moteur chaud",
+   "o3": "Un bruissement ou un cliquetis à l'avant du moteur",
+   "o4": "Un sifflement aigu au démarrage"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Le cliquetis est-il plus fort dehors que dans l'habitacle, et ça sent l'échappement sous le capot ?",
+  "options": {
+   "o1": "Oui, plus fort dehors et il y a une odeur",
+   "o2": "Non, ça claque en haut du moteur et il n'y a pas d'odeur"
+  }
+ },
+ "q_engine_char": {
+  "text": "À quoi ressemble le bruit ?",
+  "options": {
+   "o1": "Un cognement ou un cliquetis",
+   "o2": "Un sifflement, un bourdonnement ou un chuintement",
+   "o3": "Un tintement, un cliquetis de tôle, des pétarades ou un gargouillis",
+   "o4": "Des vibrations, un tremblement au ralenti"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Quel genre de cognement exactement ?",
+  "options": {
+   "o1": "Un cliquetis léger et rapide dans le haut du moteur",
+   "o2": "Un cognement sourd ou métallique venant du fond du moteur"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Le cliquetis a-t-il augmenté avec le temps ou est-il toujours identique ?",
+  "options": {
+   "o1": "Il a augmenté ; moteur chaud, on l’entend mieux",
+   "o2": "Toujours pareil ; plus fort dehors que dans l'habitacle"
+  }
+ },
+ "q_knock_load": {
+  "text": "Si vous accélérez doucement, le cognement s’accélère-t-il et devient-il plus fort ?",
+  "options": {
+   "o1": "Oui, plus rapide et plus fort",
+   "o2": "Il ne change presque pas, ou il disparaît"
+  }
+ },
+ "q_squeal": {
+  "text": "Quel genre de bruit est-ce ?",
+  "options": {
+   "o1": "Un sifflement aigu et strident",
+   "o2": "Un bourdonnement ou un bruissement régulier",
+   "o3": "Un chuintement régulier, comme l'air qui s'échappe d'un pneu"
+  }
+ },
+ "q_hum_source": {
+  "text": "D'où vient le bourdonnement ?",
+  "options": {
+   "o1": "De l'avant, sous le capot, et il change avec le régime moteur",
+   "o2": "Il se déclenche et s'arrête tout seul : par forte chaleur, dans les bouchons, avec la clim",
+   "o3": "De l'arrière, vers le réservoir ; on l'entend dès le contact, avant même de démarrer"
+  }
+ },
+ "q_pump_check": {
+  "text": "Y a-t-il sous le capot, près de la courroie, des coulures ou des traces de liquide ?",
+  "options": {
+   "o1": "Oui, c'est humide ou ça sent le liquide de refroidissement",
+   "o2": "Tout est sec",
+   "o3": "Je n'ai pas pu regarder"
+  }
+ },
+ "q_rattle": {
+  "text": "Quel bruit et d’où ?",
+  "options": {
+   "o1": "Un cliquetis métallique sous la voiture",
+   "o2": "Des pétarades ou des détonations à l'échappement",
+   "o3": "Un gargouillis derrière la planche de bord"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "En plus du cliquetis, la voiture a-t-elle perdu de la reprise ou l'échappement sent-il bizarre ?",
+  "options": {
+   "o1": "Oui, elle tire moins ou l'odeur a changé",
+   "o2": "Non, ça cliquette seulement à certains régimes"
+  }
+ },
+ "q_move_when": {
+  "text": "Quand le bruit se manifeste-t-il le plus en roulant ?",
+  "options": {
+   "o1": "Au freinage",
+   "o2": "En virage ou quand on tourne le volant",
+   "o3": "Sur les bosses et les nids-de-poule",
+   "o4": "À l'accélération, au passage des vitesses ou en permanence"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Le bruit n'apparaît-il qu'aux premiers freinages après un stationnement ou sous la pluie, puis disparaît ?",
+  "options": {
+   "o1": "Oui, il disparaît vite",
+   "o2": "Non, on l’entend à chaque freinage"
+  }
+ },
+ "q_brake_char": {
+  "text": "Quel bruit fait-elle au freinage ?",
+  "options": {
+   "o1": "Un sifflement ou un grincement",
+   "o2": "Un frottement métal contre métal",
+   "o3": "Un cognement ou des pulsations dans la pédale"
+  }
+ },
+ "q_turn_char": {
+  "text": "Qu’entend-on en virage ?",
+  "options": {
+   "o1": "Un bourdonnement à vitesse, plus fort d’un côté",
+   "o2": "Des claquements ou des craquements volant braqué à fond",
+   "o3": "Un cognement quand on tourne le volant",
+   "o4": "Un hurlement ou un bourdonnement quand on tourne le volant à l'arrêt ou en manœuvre"
+  }
+ },
+ "q_bump_char": {
+  "text": "Quel bruit sur les bosses ?",
+  "options": {
+   "o1": "Un cognement ou un choc métallique",
+   "o2": "Un grincement, comme un vieux lit",
+   "o3": "Un cliquetis ou un vacarme de tôle",
+   "o4": "Un « boum » unique au premier démarrage après un long stationnement"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Quel genre de cognement exactement ?",
+  "options": {
+   "o1": "Un cognement sourd et répété sur les petites irrégularités",
+   "o2": "Des chocs sourds isolés dans les nids-de-poule et sur les ralentisseurs",
+   "o3": "Le choc remonte directement dans le volant, on le sent dans les mains",
+   "o4": "Le bruit est apparu d'un coup après un nid-de-poule et un coin de la voiture s'est affaissé"
+  }
+ },
+ "q_bump_where": {
+  "text": "Le cognement vient-il de l'avant ou de l'arrière ?",
+  "options": {
+   "o1": "De l'avant",
+   "o2": "De l'arrière",
+   "o3": "Difficile à dire"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "D'où vient le cliquetis ?",
+  "options": {
+   "o1": "De sous la voiture",
+   "o2": "De l'habitacle : planche de bord, portes, grillons",
+   "o3": "Du coffre, comme si quelque chose roulait",
+   "o4": "De l'avant en haut, vers le capot"
+  }
+ },
+ "q_move_manner": {
+  "text": "Quel est le lien entre le bruit et la conduite ?",
+  "options": {
+   "o1": "Il apparaît quand on appuie ou qu'on relâche l'accélérateur",
+   "o2": "Au moment du passage de vitesse ou du démarrage",
+   "o3": "On l’entend en permanence tant que la voiture roule",
+   "o4": "C'est plutôt une vibration ou un tremblement qu'un bruit"
+  }
+ },
+ "q_accel_char": {
+  "text": "À quoi ressemble le bruit à l'accélération ?",
+  "options": {
+   "o1": "Un tintement métallique, surtout en côte",
+   "o2": "Un cognement au moment où l'on appuie ou relâche l'accélérateur",
+   "o3": "Des pétarades ou un rugissement fort à l'échappement",
+   "o4": "Un hurlement ou un sifflement en charge"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Pétarades ou rugissement ?",
+  "options": {
+   "o1": "Des pétarades ou des détonations",
+   "o2": "Un rugissement, plus fort à l'accélération ; la voiture tire comme d'habitude",
+   "o3": "Le moteur hurle, le régime monte mais la voiture n'accélère pas ; parfois une odeur de brûlé"
+  }
+ },
+ "q_load_whine": {
+  "text": "Quel genre de hurlement en charge ?",
+  "options": {
+   "o1": "Un sifflement aigu uniquement à l'accélération, qui disparaît quand on relâche (moteur turbo)",
+   "o2": "Un bourdonnement dont le ton change quand on appuie et relâche l'accélérateur à vitesse constante",
+   "o3": "Un hurlement monotone à l'accélération ; la boîte est une CVT ou une automatique",
+   "o4": "Le hurlement est plus fort sur un rapport et plus faible sur un autre ; boîte manuelle"
+  }
+ },
+ "q_shift_char": {
+  "text": "Que se passe-t-il au passage des vitesses ou au démarrage ?",
+  "options": {
+   "o1": "Un à-coup ou un choc au passage de D à R sur une automatique, ou lors des changements de rapport",
+   "o2": "Un craquement en enclenchant une vitesse sur une boîte manuelle",
+   "o3": "La voiture broute au démarrage, pendant qu'on relâche l'embrayage",
+   "o4": "Un choc isolé sous la voiture au démarrage ou lors d'un changement de charge"
+  }
+ },
+ "q_vibration": {
+  "text": "Quand le tremblement est-il le plus fort ?",
+  "options": {
+   "o1": "Entre 80 et 120 km/h le volant vibre finement ; en dessous et au-dessus, beaucoup moins",
+   "o2": "Dès 40–60 km/h, et ça empire avec la vitesse",
+   "o3": "Sur une plage de vitesse étroite, le tremblement passe par le plancher et la caisse ; propulsion ou transmission intégrale",
+   "o4": "Uniquement au freinage, le volant tape"
+  }
+ },
+ "q_const_char": {
+  "text": "À quoi ressemble le bruit permanent ?",
+  "options": {
+   "o1": "Un bourdonnement ou un hurlement régulier",
+   "o2": "Un frottement, un raclement ou un sifflement du côté d'une roue",
+   "o3": "Un rugissement fort ou un pétaradement",
+   "o4": "Un sifflement ou un hurlement uniquement à haute vitesse"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Quel bruit vient du côté de la roue ?",
+  "options": {
+   "o1": "Un sifflement fin ; en effleurant le frein, il disparaît ou change",
+   "o2": "Un raclement ; après avoir roulé, la roue est brûlante et la voiture tire d'un côté",
+   "o3": "Un frottement ou un raclement permanent, sans que la roue chauffe",
+   "o4": "Un cognement ou un claquement rythmé au rythme de la rotation de la roue"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Les roues ont-elles été changées, permutées ou démontées récemment ?",
+  "options": {
+   "o1": "Oui, ces derniers jours",
+   "o2": "Non, on n'y a pas touché depuis longtemps"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Un test : prenez la vitesse à laquelle le bruit s'entend, passez au point mort et laissez rouler. Le bourdonnement persiste-t-il ?",
+  "options": {
+   "o1": "Il persiste",
+   "o2": "Il disparaît en même temps que le régime moteur",
+   "o3": "Je n'ai pas pu faire le test"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Le volume du hurlement change-t-il quand on change de rapport ?",
+  "options": {
+   "o1": "Oui, il sonne différemment selon le rapport",
+   "o2": "Non, il ne dépend que du régime moteur"
+  }
+ },
+ "q_hum_road": {
+  "text": "Le bourdonnement change-t-il dans les longues courbes ?",
+  "options": {
+   "o1": "Oui, il baisse ou augmente d’un côté",
+   "o2": "Non, il est constant à toute vitesse au-dessus de 40–60 km/h",
+   "o3": "Ça dépend du revêtement de la route"
+  }
+ },
+ "q_hum_where": {
+  "text": "Le bourdonnement vient-il de l'avant ou de l'arrière ?",
+  "options": {
+   "o1": "De l'avant",
+   "o2": "De l'arrière",
+   "o3": "Difficile à dire"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Batterie déchargée ou cosses oxydées",
+  "alt_causes": [
+   "Mauvaise masse",
+   "Démarreur en fin de vie"
+  ],
+  "explanation": "Un cliquetis rapide quand on essaie de démarrer signifie que le solénoïde du démarreur manque de courant : il claque, mais n'arrive pas à entraîner le moteur. En cause, le plus souvent : une batterie déchargée ou des cosses oxydées et mal serrées. Les voyants du tableau de bord qui faiblissent pendant l'essai le confirment.",
+  "advice": "Regardez les cosses de la batterie : grattez le dépôt blanchâtre ou verdâtre et resserrez-les. Si ça ne suffit pas, rechargez la batterie ou faites un démarrage avec des câbles, puis allez la remplacer au garage ou en magasin. Une batterie de plus de quatre ou cinq ans, c'est presque toujours elle."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Solénoïde ou contacts de puissance du démarreur",
+  "alt_causes": [
+   "Cosses oxydées",
+   "Câblage vers le démarreur"
+  ],
+  "explanation": "Un seul claquement net avec des voyants qui restent bien allumés signifie que le solénoïde s'enclenche, mais que le moteur du démarreur lui-même ne tourne pas : contacts de puissance brûlés, charbons usés ou solénoïde collé. Parfois la voiture démarre quand même au deuxième ou troisième essai : c'est le même diagnostic.",
+  "advice": "Essayez encore quelques fois ; si elle ne démarre qu'une fois sur deux, allez au garage dans les jours qui viennent, avant de rester bloqué sur un parking. Vérifiez et resserrez les cosses de la batterie. Taper sur le démarreur, c'est bon pour rentrer une fois, ce n'est pas une réparation."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Lanceur du démarreur ou couronne du volant moteur",
+  "alt_causes": [
+   "Dents de la couronne usées",
+   "Démarreur mal aligné"
+  ],
+  "explanation": "Un crissement métallique au démarrage signifie que le pignon du démarreur engrène mal avec la couronne dentée du volant moteur : les dents sont usées ou le mécanisme coince. Chaque démarrage de ce genre mange un peu plus les dents du lanceur et de la couronne.",
+  "advice": "Prenez rendez-vous au garage dans la semaine : remplacer le lanceur ou le démarreur coûte nettement moins cher que la couronne, pour laquelle il faut déposer la boîte de vitesses. En attendant, ne gardez pas la clé en position démarrage plus longtemps que nécessaire et ne réessayez pas juste après un crissement."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Le lanceur n'engrène pas ou des dents de la couronne sont cassées",
+  "alt_causes": [
+   "Roue libre du lanceur",
+   "Couronne du volant moteur"
+  ],
+  "explanation": "Si le démarreur ronronne allègrement mais que le moteur n'essaie même pas de tourner, le pignon tourne dans le vide : la roue libre du lanceur est usée, ou il manque des dents à la couronne à cet endroit.",
+  "advice": "Parfois le deuxième essai passe, parce que le volant moteur s'arrête dans une autre position. Allez quand même au garage dans les jours qui viennent : chaque tentative aggrave les dégâts. Sur une boîte manuelle, vous pouvez en dernier recours démarrer en poussant ; sur une automatique, c'est exclu."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Feuilles ou débris dans le ventilateur de chauffage",
+  "alt_causes": [
+   "Filtre d’habitacle encrassé",
+   "Corps étranger dans la gaine d’air"
+  ],
+  "explanation": "Un froissement et un crépitement qui varient avec la vitesse du ventilateur, ce sont presque toujours des feuilles ou des débris entrés par la prise d'air jusqu'au ventilateur de chauffage. En automne, c'est un grand classique, surtout si le filtre d'habitacle est encrassé ou absent.",
+  "advice": "Changez le filtre d'habitacle (les débris sont souvent posés dessus) : sur beaucoup de voitures, ça se fait soi-même en dix minutes, et les tutoriels pour un modèle précis se trouvent facilement. Si le bruit persiste, demandez au garage de souffler et de nettoyer le ventilateur."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Roulement ou bagues du moteur de ventilation",
+  "alt_causes": [
+   "Débris dans le ventilateur",
+   "La turbine frotte contre son carter"
+  ],
+  "explanation": "Un sifflement ou un hurlement sous la planche de bord qui n'apparaît qu'avec la ventilation en marche vient du moteur de ventilation usé. Le test est simple : coupez la ventilation, le sifflement disparaît immédiatement, même moteur tournant.",
+  "advice": "Ça ne joue pas sur la sécurité, mais avec le temps le moteur va commencer à coincer et vous laisser sans chauffage : mieux vaut le remplacer avant l'hiver. En attendant, utilisez les vitesses de ventilation où le bruit est le plus discret."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomoteur d’un volet de chauffage",
+  "alt_causes": [
+   "Calibrage normal des volets",
+   "Dents cassées sur le pignon du servomoteur"
+  ],
+  "explanation": "Une série de claquements rapides ou un crépitement derrière la planche de bord au moment du contact ou lors d'un changement de température vient du servomoteur qui déplace les volets de chauffage. Si la série est courte et toujours identique, c'est souvent un simple calibrage. Un crépitement sans fin, en revanche, signifie que les dents du pignon en plastique sont mangées.",
+  "advice": "Si les claquements sont brefs et que le chauffage se règle normalement, vous n'avez rien à faire. Si le crépitement dure ou si l'air ne sort pas là où vous l'avez réglé, prenez rendez-vous à l'occasion : la voiture n'en souffre pas, mais le confort si."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Air dans le circuit de refroidissement (niveau de liquide bas)",
+  "alt_causes": [
+   "Bouchon du vase d’expansion défectueux",
+   "Fuite de liquide de refroidissement"
+  ],
+  "explanation": "Un gargouillis derrière la planche de bord, c'est une bulle d'air qui traverse le radiateur de chauffage. L'air entre dans le circuit quand le niveau de liquide de refroidissement a baissé : il y a une fuite quelque part, ou le bouchon du vase d'expansion ne tient plus la pression. Le chauffage peut alors souffler tantôt chaud, tantôt froid.",
+  "advice": "Moteur froid, vérifiez le niveau dans le vase d'expansion et complétez jusqu'au repère, puis surveillez s'il rebaisse. Si le niveau continue de descendre ou si le chauffage souffle froid moteur chaud, au garage cette semaine. Si l'aiguille de température monte ou si de la vapeur sort du capot : arrêtez-vous et coupez le moteur."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "L'embrayage du compresseur de clim patine",
+  "alt_causes": [
+   "Courroie détendue",
+   "Plateau de pression de l’embrayage usé"
+  ],
+  "explanation": "Un sifflement pile au moment où l'on enclenche la climatisation : l'embrayage qui relie le compresseur à la courroie patine sous la charge. Un simple claquement à l'enclenchement est normal ; le sifflement, lui, signale un embrayage usé ou une courroie trop détendue.",
+  "advice": "Faites voir ça au garage dans les deux semaines : si on laisse traîner, le sifflement devient permanent et le compresseur peut se bloquer et casser la courroie. En attendant, vous pouvez utiliser la clim, mais coupez-la si le sifflement s'accentue."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Compresseur de climatisation (roulement ou usure)",
+  "alt_causes": [
+   "Roulement de la poulie d’embrayage",
+   "Niveau d’huile insuffisant dans le circuit"
+  ],
+  "explanation": "Un frottement ou un grondement qui ne s'entend qu'avec la climatisation en marche vient d'un compresseur en fin de vie ou du roulement de sa poulie. Un compresseur qui se bloque casse la courroie — et sur beaucoup de voitures, cette courroie entraîne aussi l'alternateur et la pompe à eau.",
+  "advice": "N'utilisez plus la climatisation pour l'instant : l'ensemble tiendra jusqu'à la réparation. Prenez rendez-vous pour un diagnostic dans la semaine : tant que seul le roulement s'abîme, la réparation coûte nettement moins cher qu'un compresseur neuf avec rinçage complet du circuit."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Circulation normale du fluide frigorigène",
+  "alt_causes": [
+   "Fonctionnement normal du détendeur"
+  ],
+  "explanation": "Un bref chuintement ou gargouillis derrière la planche de bord dans les premières secondes après l'enclenchement ou l'arrêt de la climatisation, c'est le fluide frigorigène qui passe par le détendeur. Si l'habitacle refroidit, c'est le fonctionnement normal du système, pas une fuite.",
+  "advice": "Vous n'avez rien à faire. Ce qui justifierait une vérification, c'est autre chose : si le chuintement devient permanent et que le froid disparaît ou faiblit, prenez rendez-vous pour un contrôle de la climatisation."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Roulement d’arbre primaire de boîte",
+  "alt_causes": [
+   "Butée d’embrayage",
+   "Galets de la courroie d’accessoires"
+  ],
+  "explanation": "Un bruissement ou un bourdonnement au ralenti qui s'atténue quand on débraye vient de la boîte : tant que la pédale est relâchée, l'arbre primaire tourne avec le moteur et son roulement usé fait du bruit. En débrayant, l'arbre s'arrête et le bruit disparaît. La courroie et ses galets, eux, ne réagissent pas du tout à la pédale d'embrayage.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines et signalez impérativement le lien avec la pédale : ça oriente la recherche tout de suite. Vérifiez le niveau d'huile de boîte. Vous pouvez rouler, mais ne laissez pas traîner des mois : un roulement détruit emporte avec lui les arbres et les pignons."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Butée d’embrayage",
+  "alt_causes": [
+   "Roulement d’arbre primaire",
+   "Fourchette d’embrayage"
+  ],
+  "explanation": "Un bruissement ou un bourdonnement qui apparaît ou augmente pédale d'embrayage enfoncée vient de la butée : la pièce qui appuie sur le mécanisme d'embrayage au moment du débrayage. Une butée usée fait du bruit précisément en charge, c'est-à-dire pédale enfoncée.",
+  "advice": "Prenez rendez-vous au garage dans une à deux semaines. Gardez moins souvent la pédale enfoncée sans nécessité : au feu rouge, point mort et relâchez l'embrayage. Une butée qui casse peut vous laisser sans embrayage en route, il ne faut donc pas laisser traîner des mois."
+ },
+ "leaf_dmf": {
+  "top_cause": "Volant moteur bimasse",
+  "alt_causes": [
+   "Ressorts du disque d’embrayage",
+   "Butée d’embrayage"
+  ],
+  "explanation": "Un cliquetis métallique au ralenti du côté de la boîte, qui change quand on débraye et s'entend surtout dans les secondes du démarrage et de l'arrêt du moteur, c'est la signature typique d'un volant bimasse usé : l'amortisseur placé entre le moteur et la boîte pour absorber les à-coups.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans les deux semaines et décrivez le lien avec la pédale et avec le démarrage et l'arrêt du moteur. Le remplacement n'est pas donné, mais laisser traîner abîme aussi l'embrayage et peut finir par la destruction du volant en roulant. En attendant, démarrez en douceur et ne faites pas peiner le moteur à bas régime."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mécanisme de la pédale d'embrayage (axe, fourchette, câble)",
+  "alt_causes": [
+   "Bagues de l’axe de pédale",
+   "Fourchette de butée"
+  ],
+  "explanation": "Un grincement à l'appui sur la pédale, audible même moteur coupé, c'est de la mécanique sèche dans la commande d'embrayage : l'axe de pédale, le câble ou la fourchette. Puisque le bruit existe sans moteur tournant, la courroie, la butée et la boîte n'y sont pour rien.",
+  "advice": "Demandez au garage de graisser l'axe de pédale et la fourchette lors du prochain passage : ça se règle souvent en quelques minutes. Il n'y a pas de danger. Si, en plus du grincement, la pédale est devenue dure ou que l'embrayage ne mord qu'en toute fin de course, montrez la voiture plus tôt."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Butée de suspension (coupelle d’amortisseur)",
+  "alt_causes": [
+   "Crémaillère de direction",
+   "Biellettes de barre stabilisatrice"
+  ],
+  "explanation": "Un craquement ou des claquements quand on tourne le volant à l'arrêt, venant du haut, du passage de roue, sont produits par la butée de suspension : le roulement sur lequel le haut de la jambe de force pivote avec la roue. Autre indice : des chocs isolés venant du haut sur les nids-de-poule.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : le contrôle est simple, la main posée sur la coupelle sous le capot sent immédiatement les craquements. Vous pouvez rouler, mais une butée usée accélère l'usure de l'amortisseur et dégrade le rappel du volant."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Cardan de colonne de direction (croisillon)",
+  "alt_causes": [
+   "Jeu dans les cannelures de l’arbre",
+   "Crémaillère de direction"
+  ],
+  "explanation": "Un claquement ou un cognement qu'on entend et qu'on sent directement dans le volant, au niveau des pieds, vient en général du croisillon de l'arbre intermédiaire de colonne : la petite articulation entre le volant et la crémaillère. Moteur coupé, en secouant légèrement le volant de gauche à droite, le claquement s'entend nettement.",
+  "advice": "Faites contrôler ça au garage dans les jours qui viennent : la direction est un organe de sécurité et le diagnostic prend quelques minutes. Le jeu dans la colonne ne fait qu'augmenter avec le temps et rend le volant flou au point milieu."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Servofrein ou son tuyau de dépression",
+  "alt_causes": [
+   "Clapet anti-retour du servofrein",
+   "Fissure du tuyau de dépression"
+  ],
+  "explanation": "Un chuintement sous la planche de bord qui apparaît et varie pile au moment où l'on appuie et relâche la pédale de frein, c'est une prise d'air dans le servofrein : l'organe qui réduit l'effort à la pédale. La pédale devient souvent nettement plus dure et le ralenti se met à trembler.",
+  "advice": "Prenez rendez-vous au garage cette semaine : les freins fonctionnent aussi sans assistance, mais il faut appuyer beaucoup plus fort, et en freinage d'urgence c'est dangereux. Vérifiez la pédale avant de partir : si elle est dure comme une planche, roulez prudemment et pas loin."
+ },
+ "leaf_wipers": {
+  "top_cause": "Tringlerie ou balais d’essuie-glace",
+  "alt_causes": [
+   "Écrous de bras desserrés",
+   "Bagues du moteur d’essuie-glace usées"
+  ],
+  "explanation": "Un cognement aux points de renversement, c'est du jeu dans les articulations de la tringlerie — le mécanisme qui entraîne les essuie-glaces — ou des écrous de bras desserrés. Un grincement régulier sur le pare-brise, ce sont des caoutchoucs durcis. Le test est simple : coupez les essuie-glaces, le bruit disparaît instantanément et totalement.",
+  "advice": "Les caoutchoucs qui grincent, vous pouvez les changer vous-même : les balais se trouvent dans n'importe quel magasin auto. Pour le cognement en fin de course, resserrez les écrous de bras ou faites remplacer les bagues de la tringlerie à l'occasion. Côté sécurité, seule compte la propreté du pare-brise."
+ },
+ "leaf_eps": {
+  "top_cause": "Direction assistée électrique : un léger bourdonnement est normal",
+  "alt_causes": [
+   "Usure de la direction assistée électrique",
+   "Crémaillère de direction"
+  ],
+  "explanation": "S'il n'y a pas de bocal de liquide sous le capot, la direction est assistée électriquement, et un bourdonnement discret et régulier quand on tourne est son fonctionnement normal, pas une panne. La pompe hydraulique qui hurle par manque de liquide n'existe tout simplement pas sur ce genre de voiture.",
+  "advice": "Les vrais signaux d'alerte d'une direction électrique sont ailleurs : le volant devient dur ou durcit par à-coups, un craquement apparaît, ou le témoin de direction s'allume. Si c'est le cas, au garage dans les jours qui viennent ; sinon, vous pouvez rouler tranquillement."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Joint ou fissure du collecteur d'échappement",
+  "alt_causes": [
+   "Goujons du collecteur",
+   "Poussoirs hydrauliques"
+  ],
+  "explanation": "Un cliquetis rapide à froid, plus fort dehors et accompagné d'une odeur d'échappement sous le capot, ce sont des gaz qui s'échappent par un joint brûlé ou une fissure du collecteur d'échappement. À mesure que le métal chauffe, il se dilate, la fente se referme et le cliquetis disparaît.",
+  "advice": "Prenez rendez-vous au garage dans une à deux semaines : la fente s'agrandit avec le temps, et l'odeur d'échappement peut être aspirée dans l'habitacle par le chauffage, ce qui est nocif. En attendant, aérez l'habitacle dès que vous sentez l'odeur."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Cliquetis normal des injecteurs (injection directe ou diesel)",
+  "alt_causes": [
+   "Pompe haute pression",
+   "Jeu aux soupapes"
+  ],
+  "explanation": "Sur les moteurs à injection directe (TSI, GDI et similaires) et sur les diesels, les injecteurs et la pompe haute pression cliquettent toujours : c'est leur fonctionnement normal. Les signes distinctifs : le bruit est identique à froid et à chaud, plus fort dehors que dans l'habitacle, et ne dépend pas de l'âge de l'huile.",
+  "advice": "Vous n'avez rien à faire. Ce qui doit alerter, c'est autre chose : si le cliquetis est devenu nettement plus fort qu'avant, s'il change une fois le moteur chaud ou s'il s'accompagne d'une perte de reprise, alors direction le diagnostic."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Prise d'air (durite de dépression, joint d'admission)",
+  "alt_causes": [
+   "Durite fissurée",
+   "Joint de collecteur d’admission"
+  ],
+  "explanation": "Un chuintement régulier sous le capot, comme l'air qui s'échappe d'un pneu crevé, c'est de l'air non mesuré aspiré par une durite fissurée ou un joint d'admission. Le moteur tourne souvent irrégulièrement : le ralenti oscille, et le voyant moteur peut s'allumer.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans les jours qui viennent, surtout si le ralenti oscille : la recherche de prise d'air est une procédure courante. Vous pouvez déjà inspecter vous-même les petites durites en caoutchouc sous le capot à la recherche de fissures, sans rien démonter."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Ventilateur de refroidissement (bagues ou fonctionnement permanent)",
+  "alt_causes": [
+   "Sonde de température ou thermostat",
+   "Viscocoupleur (sur propulsion)"
+  ],
+  "explanation": "Un bourdonnement ou un rugissement qui se déclenche et s'arrête tout seul — par forte chaleur, dans les bouchons, avec la climatisation — c'est le ventilateur du radiateur. Un ventilateur bruyant, c'est soit les bagues de son moteur usées, soit qu'il tourne en permanence à cause d'une sonde ou du thermostat. Parfois il continue une ou deux minutes après l'arrêt du moteur : c'est normal.",
+  "advice": "Si le ventilateur rugit en permanence dès le démarrage moteur froid, direction le diagnostic dans les jours qui viennent : le circuit de refroidissement ne fonctionne pas correctement. Surveillez l'aiguille de température ; si elle monte, arrêtez-vous et coupez le moteur."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Pompe à carburant électrique",
+  "alt_causes": [
+   "Filtre à carburant colmaté",
+   "Crépine de la pompe"
+  ],
+  "explanation": "Un bourdonnement ou un hurlement régulier à l'arrière, sous la banquette ou du côté du réservoir, c'est la pompe à carburant. L'entendre une ou deux secondes au moment du contact est normal ; un hurlement fort, perceptible même en roulant, indique une pompe usée ou un filtre colmaté qui la fait forcer.",
+  "advice": "Faites contrôler la pression de carburant dans une à deux semaines. Ne roulez pas longtemps sur la réserve : au fond du réservoir, la pompe est moins bien refroidie et s'use plus vite. Si la voiture se met à broncher en charge ou démarre mal, avancez le rendez-vous."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Catalyseur détruit",
+  "alt_causes": [
+   "Écran thermique",
+   "Fixations de l’échappement"
+  ],
+  "explanation": "Un cliquetis clair ou un bruit de gravier sous la voiture, plutôt vers le moteur, qui s'accentue en donnant un coup d'accélérateur et s'accompagne d'une perte de reprise ou d'une odeur d'échappement différente, c'est la céramique du catalyseur qui s'est désagrégée. Les morceaux s'entrechoquent dans le corps, et le nid d'abeilles bouché étouffe le moteur.",
+  "advice": "Diagnostic dans les jours qui viennent : des éclats de céramique peuvent être aspirés dans le moteur, et là, la facture grimpe. Un contrôle simple au garage : tapoter le corps du catalyseur voiture froide, on entend les morceaux à l'intérieur. Il ne faut pas laisser traîner."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Boîte automatique : huile ancienne, usure ou jeu dans la transmission",
+  "alt_causes": [
+   "Supports moteur et boîte",
+   "Croisillons de transmission (sur propulsion)"
+  ],
+  "explanation": "Un à-coup ou un choc pile au moment où l'on passe le sélecteur de D à R, ou lors des changements de rapport, indique de l'usure ou une huile ancienne dans la boîte automatique : le rapport s'enclenche brutalement, et les jeux de la transmission amplifient le choc. Des supports affaissés cognent de façon similaire, d'où l'intérêt d'affiner le diagnostic.",
+  "advice": "Commencez par vérifier le niveau et l'état de l'huile de boîte : si elle est sombre et sent le brûlé, il faut la changer, et dans bien des cas cela suffit. Prenez rendez-vous pour un diagnostic dans une à deux semaines et précisez sur quels passages exactement ça cogne. En attendant, ne manipulez le sélecteur qu'à l'arrêt complet, pied sur le frein."
+ },
+ "leaf_synchro": {
+  "top_cause": "Synchros de boîte ou embrayage qui ne débraye pas complètement",
+  "alt_causes": [
+   "Garde de la pédale d’embrayage",
+   "Usure de l’embrayage"
+  ],
+  "explanation": "Un craquement au moment d'enclencher une vitesse sur une boîte manuelle signifie que les pignons se rencontrent à des vitesses différentes. Si une ou deux vitesses précises craquent (souvent la deuxième ou la troisième), ce sont leurs synchros qui sont usés ; si toutes craquent, l'embrayage ne débraye pas complètement et la boîte ne se libère pas.",
+  "advice": "Vérifiez la garde de la pédale d'embrayage et le niveau d'huile de boîte : le garage commencera par là aussi. Prenez rendez-vous pour un diagnostic dans les deux semaines. En attendant, passez les vitesses plus lentement, avec une pause au point mort : ça craque moins et ça use moins."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Embrayage : disque usé ou souillé d'huile",
+  "alt_causes": [
+   "Supports moteur",
+   "Volant moteur bimasse"
+  ],
+  "explanation": "Un broutement pile au moment du démarrage, pendant qu'on relâche la pédale d'embrayage, alors que la voiture roule ensuite normalement une fois l'embrayage complètement engagé, signifie que l'embrayage mord par à-coups : disque usé, souillé d'huile, ou mécanisme voilé. Les supports moteur, eux, font aussi trembler la voiture au ralenti ; ici, le tremblement ne vit que dans la phase de démarrage.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : un broutement au démarrage ne part pas tout seul et s'aggrave en général. En attendant, démarrez en douceur, avec un peu plus de régime, sans faire patiner. Si une odeur de brûlé apparaît, l'embrayage est en train de griller : n'attendez pas."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Croisillons de transmission ou jeu dans la chaîne cinématique",
+  "alt_causes": [
+   "Silentblocs et boulons du berceau",
+   "Couple conique du pont"
+  ],
+  "explanation": "Un choc ou un claquement isolé venant du centre ou de l'arrière du plancher au moment de démarrer et lors des transitions accélération–lever de pied, c'est du jeu dans la transmission du couple : le plus souvent des croisissons d'arbre de transmission usés (propulsion et intégrale) ou des fixations de berceau desserrées.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : sur le pont élévateur, le jeu de l'arbre se trouve à la main en une minute. Ne laissez pas traîner : un croisillon très usé peut casser à vitesse. En attendant, démarrez et levez le pied plus doucement."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "L'embrayage patine",
+  "alt_causes": [
+   "Disque souillé d'huile",
+   "Patinage de la boîte automatique ou de la CVT"
+  ],
+  "explanation": "Si en appuyant sur l'accélérateur le régime monte, le moteur hurle, mais que la voiture accélère à peine, l'embrayage patine et ne transmet plus le couple : le disque est usé ou souillé d'huile. C'est le plus flagrant en côte et sur le rapport le plus long ; souvent s'y ajoute une odeur âcre de brûlé. Sur une automatique, une boîte usée patine de la même façon.",
+  "advice": "Au garage cette semaine : un embrayage qui patine finit par patiner jusqu'à la perte totale de motricité, en général au pire moment. En attendant, roulez tranquillement, sans dépassements ni remorque, et rétrogradez à l'avance en côte. Si l'odeur de brûlé s'accentue, n'attendez pas un jour de plus."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo ou fuite de pression de suralimentation",
+  "alt_causes": [
+   "Durite d’intercooler",
+   "Palier de l’arbre de turbine"
+  ],
+  "explanation": "Un léger sifflement régulier du turbo en charge est normal sur un moteur turbocompressé. Ce qui doit alerter, c'est le changement : le sifflement devient plus fort ou change de tonalité, un hurlement apparaît, la reprise s'effondre. C'est soit une fuite d'air dans les durites de suralimentation, soit l'usure du palier de l'arbre de turbine.",
+  "advice": "Si la tonalité a changé ou si la voiture tire moins, diagnostic dans les jours qui viennent : une durite qui fuit se répare pour pas cher, alors qu'une usure de turbo négligée se termine par son remplacement. Surveillez la consommation d'huile. En attendant, n'emmenez pas le moteur dans le rupteur et laissez le turbo refroidir une à deux minutes au ralenti après une conduite soutenue."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Couple conique du pont",
+  "alt_causes": [
+   "Roulements du pont",
+   "Niveau d’huile de pont insuffisant"
+  ],
+  "explanation": "Un hurlement ou un bourdonnement qui, à vitesse constante, change de tonalité selon qu'on appuie ou qu'on relâche l'accélérateur — il hurle en charge et s'apaise en roue libre, ou l'inverse — est la signature d'un couple conique usé : les pignons du pont qui transmettent le mouvement aux roues. Un roulement de roue, lui, ne réagit pas du tout à l'accélérateur.",
+  "advice": "Vérifiez le niveau d'huile de pont et prenez rendez-vous pour un diagnostic dans la semaine : à un stade précoce, de l'huile et un réglage suffisent souvent ; plus tard, il faut remplacer le couple. Reportez les longs trajets rapides jusqu'au contrôle."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT ou boîte automatique (roulements, courroie, convertisseur)",
+  "alt_causes": [
+   "Huile de boîte insuffisante ou ancienne",
+   "Roulements d’arbres"
+  ],
+  "explanation": "Un hurlement métallique monotone à l'accélération sur une voiture à CVT ou boîte automatique, qui dépend de l'accélérateur et non de la vitesse, vient en général des roulements des poulies de la CVT ou de la pompe de la boîte automatique. La CVT est particulièrement sensible à l'âge de l'huile.",
+  "advice": "D'abord le contrôle du niveau et de l'état de l'huile de boîte : c'est la moitié de ces cas. Prenez rendez-vous pour un diagnostic dans la semaine et, en attendant, roulez tranquillement, sans accélérations brutales ni remorque. Une CVT réparée tôt coûte plusieurs fois moins cher qu'une CVT réparée tard."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Roulements ou pignons de boîte manuelle",
+  "alt_causes": [
+   "Niveau d’huile de boîte insuffisant",
+   "Roulement d’arbre primaire"
+  ],
+  "explanation": "Un hurlement dont le volume dépend du rapport engagé — fort sur l'un, plus discret sur l'autre, absent en roue libre au point mort — vient de la boîte manuelle : roulements d'arbres usés ou un couple de pignons précis. Un roulement de roue, lui, bourdonne pareil sur tous les rapports.",
+  "advice": "Vérifiez le niveau d'huile de boîte : sa baisse est une cause fréquente. Prenez rendez-vous pour un diagnostic dans une à deux semaines et précisez sur quels rapports le hurlement est le plus fort : ça réduit le champ de recherche. Vous pouvez rouler, mais un hurlement qui s'amplifie ne doit pas traîner."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Balourd des roues",
+  "alt_causes": [
+   "Masselotte d’équilibrage perdue",
+   "Boue ou glace à l’intérieur de la jante"
+  ],
+  "explanation": "Une vibration fine du volant sur une plage de vitesse étroite, en général entre 80 et 120 km/h, qui disparaît presque en dessous et au-dessus, c'est le balourd classique : une masselotte est tombée, ou de la boue ou de la glace s'est collée à l'intérieur de la jante. Si c'est le volant qui vibre, ce sont les roues avant ; si c'est le siège, les roues arrière.",
+  "advice": "Passez à l'équilibrage à l'occasion : c'est rapide et peu coûteux. En hiver, regardez d'abord l'intérieur des jantes et décollez la neige et la glace. Ce n'est pas dangereux, mais une vibration permanente accélère l'usure des roulements et des rotules de direction."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Jante voilée ou hernie sur un pneu",
+  "alt_causes": [
+   "Nappe du pneu déplacée",
+   "Balourd des roues"
+  ],
+  "explanation": "Un battement perceptible dès 40–60 km/h et qui augmente avec la vitesse vient en général d'une déformation : une jante voilée après un nid-de-poule ou une hernie (une bosse) sur le flanc du pneu. Contrairement au balourd, ce battement ne vit pas dans une plage de vitesse étroite : il s'amplifie en continu.",
+  "advice": "Inspectez les pneus et les bords de jantes : une bosse sur le flanc ou une jante voilée se voient souvent à l'œil nu. Une hernie est un point faible qui peut éclater à vitesse : montez la roue de secours à la place et n'attendez pas pour aller chez le spécialiste du pneu. En attendant, ne roulez pas vite."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Arbre de transmission : palier intermédiaire ou balourd",
+  "alt_causes": [
+   "Croisillons de transmission",
+   "Flector (accouplement souple)"
+  ],
+  "explanation": "Un bourdonnement et une vibration fine par le plancher et la caisse dans une plage de vitesse précise, sur une voiture à propulsion ou à transmission intégrale, c'est l'arbre de transmission : palier intermédiaire usé, croisillons matés ou équilibrage perdu. Ça se distingue d'un balourd de roue parce que ce n'est pas le volant qui vibre, mais le plancher.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans la semaine : les jeux de l'arbre se contrôlent sur le pont en quelques minutes. Ne laissez pas traîner : la rupture d'un croisillon à vitesse est dangereuse. En attendant, ne roulez pas longtemps à la vitesse où ça vibre."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Bruit aérodynamique (joints, baguettes, barres de toit)",
+  "alt_causes": [
+   "Joints de portes usés",
+   "Barres ou coffre de toit"
+  ],
+  "explanation": "Un sifflement ou un hurlement qui n'apparaît qu'au-delà d'une certaine vitesse (en général 70–90 km/h), augmente avec elle et ne dépend ni du revêtement ni des virages, c'est de l'air : un joint usé, une baguette décollée, des barres de toit ou un coffre.",
+  "advice": "La source se trouve facilement : enlevez le coffre ou les barres si vous en avez ; entrouvrez la vitre et voyez si le sifflement change ; scotchez l'interstice suspect avec du ruban de masquage et faites un tour. Ce n'est pas une panne : ça se règle avec un joint neuf ou un réglage de porte."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Le témoin d’usure des plaquettes frotte sur le disque",
+  "alt_causes": [
+   "Plaquettes en fin de vie",
+   "Gravillon entre la plaquette et le disque"
+  ],
+  "explanation": "Un sifflement métallique fin en roulant sans freiner, qui disparaît ou change dès qu'on effleure la pédale, c'est la languette métallique de la plaquette qui commence à toucher le disque. C'est l'avertissement prévu d'origine : la garniture est presque au bout.",
+  "advice": "Prenez rendez-vous cette semaine pour changer les plaquettes et faites contrôler les disques au passage. Le freinage est encore pleinement efficace, mais l'étape suivante, c'est le frottement métallique et des disques abîmés. Si le sifflement vient d'une roue précise, signalez-le au garage."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Étrier de frein grippé",
+  "alt_causes": [
+   "Colonnettes d’étrier grippées",
+   "Flexible de frein gonflé de l’intérieur"
+  ],
+  "explanation": "Un frottement permanent du côté d'une roue, un disque brûlant après le trajet, une odeur de brûlé et la voiture qui tire d'un côté : l'étrier — l'organe qui plaque les plaquettes contre le disque — est grippé, et la plaquette frotte en permanence. Un frein surchauffé perd son efficacité, et plaquette et disque partent en quelques centaines de kilomètres.",
+  "advice": "Arrêtez les trajets normaux et n'allez plus que jusqu'au garage, sur une courte distance et à faible allure. Pour savoir quelle roue chauffe, approchez la main près du disque sans le toucher : il brûle. Laisser traîner finit par un blocage de roue en roulant."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Boulons de roue mal serrés",
+  "alt_causes": [
+   "Trous de jante ovalisés",
+   "Jeu dans le moyeu"
+  ],
+  "explanation": "Un choc ou un cognement rythmé au rythme de la rotation de la roue, apparu dans les premiers jours après un montage ou un changement de pneus, c'est le grand classique des boulons de roue mal serrés. Une roue sur des boulons desserrés ovalise les trous de la jante et, au pire, se détache en roulant.",
+  "advice": "Arrêtez-vous dès que possible et vérifiez le serrage des boulons de toutes les roues avec la croix. S'ils étaient desserrés et que vous les avez resserrés, le cognement doit disparaître ; s'il persiste, rejoignez prudemment le garage et faites contrôler le moyeu. Après tout montage de roues, il est utile de resserrer les boulons au bout de 50 à 100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Gravillon ou vis planté dans la bande de roulement",
+  "alt_causes": [
+   "Boulons de roue mal serrés",
+   "Décollement de la bande de roulement"
+  ],
+  "explanation": "Un claquement ou un cliquetis régulier au rythme de la rotation de la roue, surtout perceptible à faible vitesse, vient le plus souvent d'un gravillon coincé dans les sculptures — ou, plus grave, d'une vis plantée. Le bruit dure tant que l'objet reste dans le pneu.",
+  "advice": "Inspectez la bande de roulement de toutes les roues en avançant doucement ou en braquant à fond. Le gravillon, retirez-le. Une vis ou un clou, ne les arrachez pas : avec, vous rejoindrez tranquillement le spécialiste du pneu ; sans, le pneu se dégonflera en route. Si rien n'est planté et que le claquement persiste, vérifiez le serrage des boulons de roue."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Silentblocs de barre stabilisatrice ou de bras (grincement)",
+  "alt_causes": [
+   "Rotules de suspension",
+   "Joints et charnières de portes secs"
+  ],
+  "explanation": "Un grincement de vieux lit sur les bosses, en montant dans la voiture et en la faisant balancer, c'est du caoutchouc sec dans la suspension : les silentblocs de barre stabilisatrice ou ceux des bras. Par temps froid et humide, c'est plus fort. On le reproduit en appuyant à la main sur une aile, voiture à l'arrêt.",
+  "advice": "Faites voir ça au garage à l'occasion : souvent, un graissage des silentblocs ou le remplacement de pièces à quelques euros suffit. Il n'y a pas de danger ; mais si un cognement s'ajoute au grincement ou si la voiture se met à tirer d'un côté, on parle alors de rotules et le contrôle ne doit pas attendre."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Plaquettes collées aux disques",
+  "alt_causes": [
+   "Plaquettes gelées (en hiver)",
+   "Mâchoires du frein à main"
+  ],
+  "explanation": "Un « boum » sonore ou un craquement unique au premier démarrage après un long stationnement, surtout frein à main serré, après un lavage, de la pluie ou du gel : les plaquettes s'étaient collées ou gelées aux disques et se décollent. Si le reste du trajet est silencieux, c'est sans gravité.",
+  "advice": "Vous n'avez rien à faire ; en hiver, vous pouvez laisser la voiture en prise plutôt qu'au frein à main — uniquement sur boîte manuelle — pour que les plaquettes arrière ne gèlent pas. Si le craquement se répète à chaque démarrage, ce ne sont plus les plaquettes : refaites le diagnostic."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Jeu dans la crémaillère de direction",
+  "alt_causes": [
+   "Rotules de direction",
+   "Cardan de colonne"
+  ],
+  "explanation": "Un cognement sur les petites irrégularités et les joints de chaussée, qui remonte directement dans le volant et se sent dans les mains, c'est du jeu dans la crémaillère de direction : la bague ou l'engrènement sont usés. Signe caractéristique : le cognement s'atténue si l'on maintient le volant légèrement en tension.",
+  "advice": "Faites contrôler la direction au garage dans les jours qui viennent : c'est un organe de sécurité et le diagnostic sur le pont prend quelques minutes. Sur certaines voitures, la crémaillère se rattrape par un simple réglage, ce qui coûte peu. Si le volant est devenu flou au point milieu ou si la voiture flotte dans sa file, n'attendez pas."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Ressort de suspension cassé",
+  "alt_causes": [
+   "Amortisseur affaissé",
+   "Coupelle de ressort cassée"
+  ],
+  "explanation": "Un choc métallique ou un raclement sur les bosses et en virage, apparu d'un coup après un nid-de-poule, avec en plus un coin de la voiture affaissé : c'est le tableau typique d'une spire de ressort cassée. Le morceau peut frotter et cogner au travail de la suspension.",
+  "advice": "Regardez par-dessous, derrière la roue : une spire cassée se voit souvent à l'œil nu. Au garage sous quelques jours, et d'ici là roulez souplement : le morceau de ressort peut se déplacer et abîmer le pneu. Les ressorts se remplacent par paire sur un même essieu."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plastiques d’habitacle : agrafes et jonctions de panneaux",
+  "alt_causes": [
+   "Objets dans la boîte à gants et les vide-poches",
+   "Joints de portes secs"
+  ],
+  "explanation": "Un cliquetis de plastique tout proche et des grillons sur les petites irrégularités, ce sont des frottements et du jeu entre les panneaux d'habitacle : planche de bord, panneaux de portes, boîte à gants. Par temps froid, c'est plus fort. Le test qui ne trompe pas : si, en roulant, vous appuyez de la main sur le panneau suspect et que le bruit disparaît, c'est l'habitacle et non le train roulant.",
+  "advice": "Ce n'est pas une panne : la voiture va bien. Sortez les petits objets de la boîte à gants et des vide-poches, glissez un bout de feutrine dans la jonction identifiée. Le grincement autour des portes se traite en graissant les joints à la graisse silicone. Un cognement de train roulant, lui, est sourd, vient d'en dessous, et ne change pas quand on appuie sur les panneaux."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Chargement ou roue de secours mal arrimés dans le coffre",
+  "alt_causes": [
+   "Cric et outillage de bord",
+   "Tablette arrière"
+  ],
+  "explanation": "Un cognement sourd ou un vacarme à l'arrière sur les bosses, comme si quelque chose sautait et roulait, c'est le plus souvent exactement ça : le cric, la clé de roue, une roue de secours mal serrée ou une tablette qui vibre. Coffre chargé, le bruit change en général ou disparaît.",
+  "advice": "Videz le coffre, vérifiez la fixation de la roue de secours et du cric, plaquez la tablette — puis refaites le même trajet. Si le bruit a disparu, la suspension n'y est pour rien et il n'y a rien d'autre à faire. S'il persiste, refaites le diagnostic par la branche des cognements sur les bosses."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Serrure ou butées de capot",
+  "alt_causes": [
+   "Charnières de capot",
+   "Arrêt de porte"
+  ],
+  "explanation": "Un cognement métallique à l'avant en haut, vers le bord du capot, sur les petites irrégularités, c'est du jeu dans la serrure de capot ou des butées en caoutchouc tassées sur lesquelles il repose. Dans l'habitacle, le bruit s'entend tout près, « devant le visage », et non d'en dessous comme un cognement de suspension.",
+  "advice": "Test à l'arrêt : appuyez sur le capot fermé ; s'il joue et cogne, le diagnostic est confirmé. Dévissez d'un demi-tour vers le haut les butées en caoutchouc dans les coins pour que le capot repose plus fermement : dans la plupart des cas, cela suffit. Il n'y a pas de danger."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Poussoirs hydrauliques (à froid)",
+  "alt_causes": [
+   "Jeu aux soupapes",
+   "Huile trop épaisse"
+  ],
+  "explanation": "Les poussoirs hydrauliques sont de petites pièces qui rattrapent le jeu des soupapes grâce à la pression d'huile. Tant que le moteur est froid, l'huile est épaisse et met du temps à leur parvenir : d'où un cliquetis rapide pendant les premières minutes. Si le bruit disparaît complètement une fois le moteur chaud, c'est la situation typique et sans danger.",
+  "advice": "Vérifiez le niveau d'huile et l'échéance de la vidange : une huile ancienne ou inadaptée accentue le bruit. Si le cliquetis dure plus de deux ou trois minutes ou persiste moteur chaud, prenez rendez-vous au garage. Ne versez pas d'additifs censés faire taire le moteur."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Usure de l’attelage mobile (cognement à froid)",
+  "alt_causes": [
+   "Poussoirs hydrauliques",
+   "Chaîne de distribution"
+  ],
+  "explanation": "Un cognement sourd pendant les premières minutes après un démarrage à froid, qui s'estompe à mesure que le moteur chauffe, vient souvent, sur une voiture qui a du kilométrage, de l'usure de l'attelage mobile : tant que le piston est froid, il a un peu plus de jeu dans le cylindre et il cogne. Une fois chaud, les pièces se dilatent et le bruit disparaît. C'est en général une affaire de surveillance, pas de réparation urgente.",
+  "advice": "Signalez-le au garage lors du prochain passage et notez combien de minutes le cognement dure : c'est une information utile au mécanicien. Surveillez le niveau et la consommation d'huile. Si le cognement ne disparaît plus une fois le moteur chaud ou s'entend en charge, direction le diagnostic sans attendre."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Chaîne de distribution ou son tendeur",
+  "alt_causes": [
+   "Poussoirs hydrauliques",
+   "Galets de la courroie d’accessoires"
+  ],
+  "explanation": "La chaîne de distribution est la chaîne située dans le moteur qui relie ses arbres et fait ouvrir les soupapes au bon moment. Quand elle s'allonge ou que son tendeur faiblit, on entend au démarrage à froid un bruissement ou un cliquetis à l'avant du moteur, qui s'apaise une fois chaud, quand la pression d'huile monte. Avec le temps, le bruit reviendra de plus en plus souvent.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : une chaîne qui saute de dent, c'est une réparation moteur coûteuse. En attendant, évitez les démarrages secs à froid et laissez le moteur monter en température avant de le solliciter. Vérifiez impérativement le niveau d'huile."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "La courroie d’accessoires patine",
+  "alt_causes": [
+   "Galet tendeur usé",
+   "Tension de courroie insuffisante"
+  ],
+  "explanation": "Un sifflement dans les premières secondes après le démarrage vient presque toujours de la courroie qui entraîne l'alternateur, la pompe à eau et le compresseur de clim. À froid ou par temps humide, elle patine sur les poulies et siffle, puis se réchauffe et se tait. Ce n'est pas dangereux dans l'immédiat, mais cela indique une courroie usée ou une tension insuffisante.",
+  "advice": "Faites regarder la courroie au garage à l'occasion : le contrôle visuel prend deux minutes. Si le sifflement apparaît aussi moteur chaud ou à l'enclenchement de la climatisation, n'attendez pas. Ne vaporisez pas de WD-40 sur la courroie et n'essayez pas d'autres remèdes de grand-mère."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Jeu aux soupapes trop important",
+  "alt_causes": [
+   "Poussoirs hydrauliques",
+   "Chaîne de distribution"
+  ],
+  "explanation": "Un cliquetis régulier et rapide dans le haut du moteur est le son typique de la distribution. Avec le temps, les jeux entre ses pièces augmentent et les soupapes se mettent à claquer ; c'est au ralenti qu'on l'entend le mieux. Le moteur ne va pas casser pour autant dans l'immédiat, mais les soupapes travaillent en tapant et s'usent plus vite.",
+  "advice": "Prenez rendez-vous pour un réglage des soupapes ou un contrôle des poussoirs hydrauliques dans les deux semaines. Surveillez le niveau d'huile : quand il est bas, le cliquetis s'accentue. Vous pouvez rouler tranquillement, mais ne repoussez pas ça de plusieurs mois."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Cognement dans le bas moteur (coussinets, bielles)",
+  "alt_causes": [
+   "Cliquetis de combustion",
+   "Usure de l’attelage mobile",
+   "Poulie damper de vilebrequin"
+  ],
+  "explanation": "Un cognement sourd venant du fond du moteur, qui s'accélère avec le régime et s'amplifie en charge, est le plus inquiétant de tous les bruits moteur. C'est ainsi que cognent des coussinets usés — les paliers sur lesquels tourne le vilebrequin — ou les bielles : du jeu est apparu dans les assemblages et les pièces se percutent. Si vous continuez à rouler, le moteur peut serrer.",
+  "advice": "Ne roulez pas par vos propres moyens plus loin que strictement nécessaire : mieux vaut le dépanneur ; si le garage est tout près, allez-y doucement et sans accélérer. Vérifiez immédiatement le niveau d'huile et complétez s'il est bas. Des choses moins graves peuvent cogner de façon similaire, mais c'est à un mécanicien de vérifier — et vite."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Accessoires ou supports moteur",
+  "alt_causes": [
+   "Embrayage du compresseur de clim",
+   "Poussoirs hydrauliques"
+  ],
+  "explanation": "Un cognement qui ne s'accélère pas quand on donne des gaz vient en général non pas du moteur lui-même, mais de ce qui est fixé dessus : alternateur, poulies, pattes de fixation, supports. Le jeu dans ces pièces produit des chocs sourds au ralenti, surtout quand le moteur tremblote.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines : ce genre de bruit, le mécanicien le localise bien au stéthoscope. Notez et signalez-lui si le bruit change quand la climatisation s'enclenche ou quand un rapport est engagé pied sur le frein."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Courroie d'accessoires usée ou détendue",
+  "alt_causes": [
+   "Galet tendeur",
+   "Poulie d’alternateur"
+  ],
+  "explanation": "Un sifflement strident sous le capot signifie que la courroie patine sur les poulies. Le plus souvent, c'est la courroie elle-même qui est usée ou le tendeur qui a faibli. Si la courroie casse, l'alternateur s'arrête — et sur beaucoup de voitures la pompe à eau aussi —, il ne faut donc pas laisser traîner.",
+  "advice": "Montrez la voiture au garage dans la semaine : remplacer la courroie et le galet est une intervention peu coûteuse. Si le sifflement s'intensifie brutalement, si le témoin de batterie s'allume ou si la température moteur grimpe, arrêtez-vous et coupez le moteur."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Pompe à eau",
+  "alt_causes": [
+   "Galets de courroie",
+   "Roulement d’alternateur"
+  ],
+  "explanation": "Un bourdonnement ou un bruissement du côté de la courroie, associé à des traces de liquide de refroidissement, ce sont les signes typiques d'une pompe à eau en fin de vie. Son roulement s'use, du jeu apparaît, et le liquide commence à suinter par le joint. Si la pompe se bloque, le moteur surchauffe très vite.",
+  "advice": "Allez au garage dans les jours qui viennent et surveillez en chemin la température moteur et le niveau de liquide. Si la température monte ou si de la vapeur sort du capot, arrêtez-vous et coupez le moteur. Ne complétez le liquide de refroidissement que moteur froid."
+ },
+ "leaf_idler": {
+  "top_cause": "Galet tendeur ou galet enrouleur",
+  "alt_causes": [
+   "Pompe à eau",
+   "Poulie débrayable d’alternateur",
+   "Chaîne de distribution ou son tendeur"
+  ],
+  "explanation": "Un bourdonnement ou un bruissement régulier qui varie avec le régime moteur vient le plus souvent du roulement d'un des galets sur lesquels court la courroie d'accessoires. Un galet usé fait de plus en plus de bruit, peut commencer à coincer et finir par casser la courroie.",
+  "advice": "Prenez rendez-vous au garage dans la semaine : le mécanicien dépose la courroie et détermine sur place quel galet fait du bruit. La pompe à eau, la poulie débrayable d'alternateur et même la chaîne de distribution peuvent sonner de façon similaire ; c'est vérifié dans la foulée. Si le bruit est devenu un frottement ou un sifflement, avancez le rendez-vous."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Écran thermique de la ligne d’échappement",
+  "alt_causes": [
+   "Fixations de l’échappement",
+   "Protection sous moteur"
+  ],
+  "explanation": "Un cliquetis métallique clair à certains régimes vient presque toujours d'un écran thermique desserré : la fine tôle placée au-dessus du silencieux ou du catalyseur. C'est désagréable à entendre, mais sans effet sur le fonctionnement de la voiture.",
+  "advice": "Demandez au garage de le resserrer ou de le maintenir avec un collier à l'occasion : c'est l'affaire de quelques minutes. Assurez-vous qu'il s'agit bien de l'écran et non des fixations de l'échappement : sur le pont, ça se voit tout de suite."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Ratés d'allumage ou trou dans l'échappement",
+  "alt_causes": [
+   "Bougies et bobines d’allumage",
+   "Silencieux ou tube percé",
+   "Réglage de l’installation GPL (si ça pétarade au gaz)"
+  ],
+  "explanation": "Des pétarades à l'échappement signifient que le carburant finit de brûler non pas dans les cylindres, mais dans la ligne d'échappement. Les causes : des ratés d'allumage (bougies, bobines), un mélange incorrect ou un trou dans la ligne. Au-delà du bruit, cela abîme le catalyseur, dont le remplacement coûte cher.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans les jours qui viennent, surtout si la voiture tire moins, tourne irrégulièrement ou si le voyant moteur s'est allumé. Ne roulez pas longtemps avec des pétarades : le carburant imbrûlé surchauffe le catalyseur. Si vous avez une installation GPL et que ça pétarade au gaz, direction le réglage de l'installation : pour elle, les pétarades sont particulièrement dangereuses."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Silencieux ou tube d’échappement percé",
+  "alt_causes": [
+   "Joint d’échappement",
+   "Flexible d’échappement fissuré"
+  ],
+  "explanation": "Un rugissement fort qui s'amplifie à l'accélération signale en général un trou dans la ligne d'échappement : silencieux, tube ou joint percés. Le son devient « sportif », mais les gaz sortent trop tôt : c'est du bruit, de l'odeur et un risque d'entrée de monoxyde de carbone dans l'habitacle.",
+  "advice": "Montrez la voiture au garage cette semaine : l'inspection de la ligne sur le pont prend quelques minutes. Si vous sentez l'odeur d'échappement dans l'habitacle, roulez vitre entrouverte et ne faites pas chauffer le moteur dans un garage fermé : le monoxyde de carbone est dangereux."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Supports moteur",
+  "alt_causes": [
+   "Ratés d’allumage",
+   "Papillon ou injecteurs encrassés"
+  ],
+  "explanation": "Si au ralenti on sent des vibrations dans l'habitacle et que le volant et les sièges vibrent finement, ce sont souvent les supports moteur : les blocs en caoutchouc qui absorbent ses oscillations. Avec le temps, le caoutchouc durcit et se déchire, et la vibration passe dans la caisse.",
+  "advice": "Faites contrôler les supports au garage dans les deux semaines : l'examen est simple. Un indice pour le diagnostic : les vibrations dues aux supports augmentent en général avec un rapport engagé, pied sur le frein. Si en plus le moteur a des à-coups, dites-le au mécanicien : il peut y avoir des ratés d'allumage."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Voile de rouille sur les disques de frein",
+  "alt_causes": [
+   "Humidité ou poussière sur les plaquettes",
+   "Début d’usure des plaquettes"
+  ],
+  "explanation": "Après une nuit, sous la pluie ou après un lavage, un fin voile orangé se forme sur les disques : c'est normal sur n'importe quelle voiture. Les premiers freinages l'enlèvent, d'où un grincement ou un léger raclement qui disparaît vite.",
+  "advice": "Vous n'avez rien à faire : quelques freinages doux en début de trajet nettoient les disques. Si le bruit ne disparaît plus et se fait entendre à chaque freinage, refaites le diagnostic ou montrez la voiture au garage."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "État ou usure des plaquettes de frein",
+  "alt_causes": [
+   "Témoin d’usure des plaquettes",
+   "Plaquettes vitrifiées",
+   "Poussière ou corrosion sur les disques"
+  ],
+  "explanation": "Un sifflement à chaque freinage, c'est le signal de faire contrôler les plaquettes. Beaucoup de plaquettes ont un témoin d'usure métallique : quand la garniture — la matière qui frotte sur le disque — est usée jusqu'à la limite, une languette touche le disque et siffle volontairement. Les plaquettes elles-mêmes peuvent aussi siffler, à cause d'un dépôt, d'une surface vitrifiée ou d'un matériau bas de gamme.",
+  "advice": "Prenez rendez-vous cette semaine pour un contrôle des plaquettes et des disques. Si c'est le témoin d'usure, il ne faut pas attendre : l'étape suivante, c'est le frottement métallique et des disques abîmés. Si les plaquettes sont en bon état, le sifflement n'est pas dangereux et le mécanicien vous dira comment le faire cesser."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Plaquettes usées jusqu'au métal",
+  "alt_causes": [
+   "Corps étranger dans le frein",
+   "Plaquette désagrégée"
+  ],
+  "explanation": "Un frottement métal contre métal au freinage signifie que la garniture est épuisée et que le support métallique de la plaquette frotte sur le disque. La distance de freinage augmente, le disque s'abîme à chaque arrêt, et le mécanisme peut se bloquer.",
+  "advice": "Arrêtez les trajets normaux et n'allez plus que jusqu'au garage, en freinant tôt et en douceur. Ne repoussez pas le remplacement d'un seul jour : au-delà de la sécurité, chaque kilomètre dans cet état ajoute le prix des disques à la facture."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Colonnettes d’étrier ou disques voilés",
+  "alt_causes": [
+   "Jeu dans le moyeu",
+   "Fixation d’étrier desserrée"
+  ],
+  "explanation": "Un cognement au freinage ou des pulsations dans la pédale viennent en général du frein lui-même : les colonnettes de l'étrier — l'organe qui plaque les plaquettes sur le disque — ont du jeu, ou le disque est voilé et les plaquettes tapent dessus. Le freinage fonctionne, mais de façon irrégulière.",
+  "advice": "Faites contrôler les freins au garage dans les jours qui viennent : un organe dont dépend la sécurité ne doit pas être négligé. Si la pédale s'enfonce plus que d'habitude, si la voiture tire d'un côté au freinage ou si ça tape dans le volant, diagnostic immédiat."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Quelque chose frotte sur le disque (tôle de protection ou plaquettes usées)",
+  "alt_causes": [
+   "Plaquettes usées jusqu'au métal",
+   "Tôle de protection de disque tordue",
+   "Gravillon entre la tôle et le disque"
+  ],
+  "explanation": "Un frottement permanent du côté d'une roue signifie en général que quelque chose touche le disque en rotation : une tôle de protection tordue, un gravillon coincé — ou des plaquettes usées jusqu'au métal. Les deux premiers cas sont sans gravité, le troisième est dangereux, et à l'oreille on les confond facilement.",
+  "advice": "Faites contrôler ça dans un jour ou deux, sans repousser : un coup d'œil à la roue montre vite la cause. Si le frottement s'accentue au freinage ou si la pédale se comporte autrement que d'habitude, arrêtez les trajets et rejoignez prudemment le garage."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Roulement de roue",
+  "alt_causes": [
+   "Bruit des pneus",
+   "Joint homocinétique usé"
+  ],
+  "explanation": "Un bourdonnement qui change dans les virages en roulant est le signe classique d'un roulement de roue usé : le roulement sur lequel tourne la roue. En virage, le poids se reporte sur les roues extérieures : si le bourdonnement augmente en tournant à gauche, c'est le côté droit qui est chargé, donc probablement le roulement droit ; en tournant à droite, l'inverse. Un roulement qui se désagrège laisse du jeu dans la roue et, à un stade avancé, peut se bloquer.",
+  "advice": "Retenez de quel côté de virage le bourdonnement est le plus fort et dites-le au garage : ça réduit tout de suite le champ de recherche. Ne repoussez pas le contrôle de plus d'une semaine et reportez les longs trajets jusqu'au diagnostic. Si une vibration apparaît ou si le bourdonnement s'intensifie nettement, allez au garage immédiatement."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Joint homocinétique extérieur",
+  "alt_causes": [
+   "Joint homocinétique intérieur",
+   "Biellettes de barre stabilisatrice",
+   "Coupleur de transmission intégrale (sur 4x4)"
+  ],
+  "explanation": "Des claquements ou des craquements en roulant volant braqué sont le son caractéristique d'un joint homocinétique extérieur usé : l'articulation par laquelle tourne la roue directrice. Tout commence en général par un soufflet déchiré — la protection en caoutchouc qui protège le joint de la saleté.",
+  "advice": "Inspectez les soufflets de transmission ou faites-le faire au garage : un soufflet déchiré et de la graisse autour confirment le diagnostic. Ne repoussez pas le remplacement au-delà d'une à deux semaines : un joint usé peut se bloquer. En attendant, ne démarrez pas brutalement roues braquées."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Rotules de direction ou crémaillère",
+  "alt_causes": [
+   "Biellettes de barre stabilisatrice",
+   "Butées de suspension"
+  ],
+  "explanation": "Un cognement quand on tourne le volant, surtout à l'arrêt ou à faible vitesse, vient en général du jeu dans les rotules de direction, dans les biellettes ou dans la crémaillère elle-même. Cela ne gêne pas encore la conduite, mais le jeu dans la direction ne fait qu'augmenter avec le temps.",
+  "advice": "Faites contrôler la direction au garage dans les jours qui viennent : le diagnostic sur le pont prend quelques minutes. Si le volant est devenu flou au point milieu, si la voiture flotte dans sa file ou si le cognement s'est brutalement accentué, n'attendez pas : c'est un organe de sécurité."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Pompe de direction assistée",
+  "alt_causes": [
+   "Niveau de liquide de direction insuffisant",
+   "Courroie d’accessoires"
+  ],
+  "explanation": "Un hurlement ou un bourdonnement qui apparaît quand on tourne le volant à l'arrêt ou à faible vitesse vient le plus souvent de la pompe de direction assistée : c'est elle qui met sous pression le liquide qui aide à tourner. Elle hurle le plus fort volant braqué à fond. La cause la plus fréquente : le niveau de liquide dans le bocal a baissé.",
+  "advice": "Vérifiez le niveau de liquide de direction dans le bocal sous le capot et complétez s'il est sous le repère MIN. Ne gardez pas le volant braqué à fond plus de deux ou trois secondes. Si le hurlement persiste après l'appoint ou si le liquide rebaisse, au garage dans la semaine."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Biellettes de barre stabilisatrice",
+  "alt_causes": [
+   "Silentblocs de barre stabilisatrice",
+   "Rotules de suspension"
+  ],
+  "explanation": "Un cognement sourd et répété sur les petites irrégularités — pavés, joints de chaussée, tôle ondulée — vient le plus souvent des biellettes de barre stabilisatrice : de petites tringles à rotules qui sont les premières à s'user dans la suspension. En elles-mêmes elles ne sont pas dangereuses, mais des pièces plus sérieuses peuvent cogner de la même façon.",
+  "advice": "Prenez rendez-vous pour un contrôle de la suspension dans une à deux semaines : le mécanicien secoue les pièces sur le pont et trouve le jeu en quelques minutes. En attendant, passez lentement sur les gros nids-de-poule. Si la voiture se met à tirer d'un côté, avancez le contrôle."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Train arrière : biellettes ou silentblocs de traverse",
+  "alt_causes": [
+   "Amortisseurs",
+   "Fixations de l’échappement"
+  ],
+  "explanation": "Un cognement répété à l'arrière sur les petites irrégularités vient en général des petites articulations du train arrière : les biellettes de barre stabilisatrice arrière ou des silentblocs usés — les bagues en caoutchouc par lesquelles les bras et la traverse sont fixés à la caisse. Parfois, une fixation d'échappement desserrée cogne de façon similaire.",
+  "advice": "Prenez rendez-vous pour un contrôle de la suspension dans une à deux semaines : sur le pont, l'origine d'un cognement arrière se trouve vite. En attendant, passez lentement sur les gros nids-de-poule. Notez si ça cogne sur les petites ondulations ou seulement sur les trous isolés, et dites-le au mécanicien."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silentblocs de bras ou amortisseurs",
+  "alt_causes": [
+   "Butées de suspension",
+   "Rotules de suspension"
+  ],
+  "explanation": "Des chocs sourds isolés dans les nids-de-poule et sur les ralentisseurs signifient en général des silentblocs usés — les bagues en caoutchouc par lesquelles les bras de suspension sont fixés à la caisse — ou des amortisseurs fatigués. La suspension n'absorbe plus le choc et le transmet à la caisse.",
+  "advice": "Passez un contrôle de suspension dans les deux semaines. Test simple des amortisseurs : appuyez sur un coin de la voiture vers le bas ; la caisse doit revenir sans rebondir. D'ici là, passez les irrégularités en souplesse : les chocs achèvent aussi les pièces voisines."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Fixations de l’échappement ou protection sous moteur",
+  "alt_causes": [
+   "Écran thermique",
+   "Tube d’échappement qui pend"
+  ],
+  "explanation": "Un cliquetis métallique sous la voiture sur les bosses vient en général d'une fixation desserrée : les silentblocs de l'échappement, les boulons de la protection sous moteur ou un écran thermique. C'est agaçant, mais sans effet sur le moteur ni sur la tenue de route.",
+  "advice": "Lors du prochain passage au garage, demandez de resserrer les fixations : c'est rapide et peu coûteux. Assurez-vous que l'échappement ne pend pas : un tube qui traîne au sol, on ne peut plus l'ignorer. En attendant, vous pouvez rouler normalement."
+ },
+ "leaf_detonation": {
+  "top_cause": "Cliquetis de combustion (auto-allumage en charge)",
+  "alt_causes": [
+   "Carburant à indice d’octane trop faible",
+   "Calamine ou capteur de cliquetis défaillant"
+  ],
+  "explanation": "Un tintement métallique à l'accélération, surtout en côte ou à bas régime, c'est le cliquetis de combustion : une partie du carburant s'enflamme d'elle-même, de façon explosive, au lieu de brûler régulièrement, et l'onde de choc martèle les pistons. Causes fréquentes : une essence d'indice d'octane inférieur au préconisé, de la calamine dans les chambres de combustion ou un capteur de cliquetis défaillant. Un cliquetis permanent détruit le moteur petit à petit.",
+  "advice": "Faites le plein avec un carburant d'indice d'octane au moins égal à celui préconisé par le constructeur, de préférence dans une autre station : souvent le tintement disparaît au bout d'un plein. En attendant le contrôle, ne sollicitez pas le moteur : accélérez doucement et rétrogradez en côte. Si le tintement persiste après le changement de carburant, direction le diagnostic."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Supports moteur ou joint homocinétique intérieur",
+  "alt_causes": [
+   "Jeu dans la transmission",
+   "Support de boîte de vitesses"
+  ],
+  "explanation": "Un cognement au moment où l'on appuie ou relâche l'accélérateur signale du jeu dans la chaîne qui transmet le couple. Des supports usés laissent le moteur basculer aux changements de charge, et un joint homocinétique intérieur usé — l'articulation de l'arbre qui va de la boîte à la roue — cogne à l'accélération et au lever de pied. L'essentiel : le bruit arrive avec le changement de charge, pas avec les bosses.",
+  "advice": "Prenez rendez-vous pour un diagnostic dans une à deux semaines. Un indice pour le garage : notez si le cognement est plus proche du moteur ou des roues, et s'il se répète aux passages de vitesses. En attendant, accélérez et changez de rapport plus doucement."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Roulement de roue",
+  "alt_causes": [
+   "Bruit des pneus",
+   "Palier intermédiaire ou transmission"
+  ],
+  "explanation": "Un bourdonnement régulier qui augmente avec la vitesse et ne dépend pas du régime moteur vient le plus souvent d'un roulement de roue usé : le roulement sur lequel tourne la roue. Le bruit rappelle un avion au décollage et ne change presque pas selon le revêtement. Un roulement laissé trop longtemps donne du jeu à la roue et, dans le pire des cas, peut se bloquer.",
+  "advice": "Faites contrôler ça au garage dans la semaine : le mécanicien fait tourner les roues sur le pont et repère le moyeu bruyant, l'ensemble dans lequel ce roulement est logé. Reportez les longs trajets rapides jusqu'au diagnostic. Si le bourdonnement s'intensifie brutalement ou si une vibration apparaît, allez au garage immédiatement."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Roulement de roue arrière",
+  "alt_causes": [
+   "Bruit des pneus",
+   "Pont ou palier intermédiaire (sur propulsion et intégrale)"
+  ],
+  "explanation": "Un bourdonnement régulier à l'arrière qui augmente avec la vitesse vient le plus souvent d'un roulement de roue arrière : le roulement sur lequel tourne la roue. Sur les voitures à propulsion ou à transmission intégrale, les organes de transmission bourdonnent de façon similaire : il vaut donc mieux confirmer l'origine sur le pont.",
+  "advice": "Faites contrôler ça au garage dans la semaine : à l'arrière, on confond facilement un bourdonnement de roulement avec le pont, et une inspection sur le pont tranche tout de suite. Reportez les longs trajets rapides jusque-là. Si le bourdonnement s'intensifie brutalement ou si une vibration apparaît, allez au garage immédiatement."
+ },
+ "leaf_tires": {
+  "top_cause": "Bruit des pneus",
+  "alt_causes": [
+   "Usure irrégulière de la bande de roulement",
+   "Roulement de roue"
+  ],
+  "explanation": "Si le bourdonnement dépend du revêtement — plus discret sur enrobé neuf, plus fort sur revêtement rugueux —, ce sont très probablement les pneus. Les pneus hiver, tout-terrain et ceux usés irrégulièrement sont particulièrement bruyants. C'est une question de confort, pas une panne.",
+  "advice": "Inspectez la bande de roulement : une usure en dents de scie (des marches sur les bords) ou par plaques accentue le bruit et suggère une géométrie déréglée ou des amortisseurs fatigués. Vérifiez la pression des pneus. Si en réalité le bourdonnement ne dépend pas du revêtement et augmente avec la vitesse, revenez à l'hypothèse du roulement de roue."
+ }
+}

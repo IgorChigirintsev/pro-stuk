@@ -2,7 +2,7 @@
 # Сборка release APK и публикация на сайт.
 # Использование:
 #   API_BASE_URL=https://api.example.kz bash scripts/publish-apk.sh
-# Шаги: копирует shared/tree.json в ассеты приложения → собирает подписанный
+# Шаги: копирует shared/tree.json и переводы дерева в ассеты приложения → собирает подписанный
 # release APK → кладёт APK и version.json в site/public/app/.
 set -euo pipefail
 
@@ -16,6 +16,9 @@ node "$ROOT/shared/validate-tree.mjs"
 
 echo "==> Копирование дерева в ассеты приложения (симлинки Flutter не поддерживает)"
 cp "$ROOT/shared/tree.json" "$ROOT/app/assets/tree.json"
+rm -rf "$ROOT/app/assets/tree_i18n"
+cp -r "$ROOT/shared/tree_i18n" "$ROOT/app/assets/tree_i18n"
+cp "$ROOT/shared/schemes-parts.json" "$ROOT/app/assets/schemes/parts.json"
 
 if [ ! -f "$ROOT/app/android/key.properties" ]; then
   echo "ОШИБКА: нет app/android/key.properties — публикация отменена." >&2

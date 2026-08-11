@@ -73,6 +73,18 @@ export const de: Dict = {
       },
     ],
   },
+  quiz: {
+    h2: 'Gleich ausprobieren',
+    sub: 'Ein paar Fragen, und Sie sehen die wahrscheinliche Ursache und wie dringend es ist.',
+    urgOk: 'Weiterfahren möglich',
+    urgWarn: 'Diese Woche in die Werkstatt',
+    urgStop: 'Anhalten',
+    back: 'Zurück',
+    restart: 'Von vorn beginnen',
+    cta: 'Vollständiger Geräuschbericht — in der App',
+    schemaMarked: 'Eingekreist ist, worauf Ihre Antworten deuten — eine Vermutung, keine Diagnose.',
+    schemaWhole: 'Die Baugruppe im Ganzen.',
+  },
   download: {
     h2: 'Die App für Android',
     sub: 'Fragebogen, Tonaufnahme und der vollständige Bericht mit Wahrscheinlichkeiten stecken in der Stuk-App.',

@@ -1,0 +1,1104 @@
+{
+ "q_when": {
+  "text": "Quando é que se ouve o barulho?",
+  "options": {
+   "o1": "Ao arrancar ou ao tentar arrancar",
+   "o2": "Parado, com o motor a trabalhar",
+   "o3": "Só em andamento",
+   "o4": "Tanto parado como em andamento"
+  }
+ },
+ "q_start_char": {
+  "text": "O que se ouve ao rodar a chave ou premir o botão de arranque?",
+  "options": {
+   "o1": "Estalidos e o motor não roda",
+   "o2": "Um chiar metálico enquanto o motor de arranque roda",
+   "o3": "O motor de arranque zumbe, mas o motor não pega",
+   "o4": "Um guincho ou assobio logo depois de o motor pegar"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Que tipo de estalidos?",
+  "options": {
+   "o1": "Um matraquear rápido e as luzes do painel a esmorecer",
+   "o2": "Um estalido seco e depois silêncio"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "O barulho só aparece quando liga ou aciona alguma coisa (aquecimento, ar condicionado, embraiagem, direção, travão)?",
+  "options": {
+   "o1": "Sim, está ligado a uma ação concreta",
+   "o2": "Não, ouve-se por si só"
+  }
+ },
+ "q_action": {
+  "text": "A que ação está ligado o barulho?",
+  "options": {
+   "o1": "Ao aquecimento ou à ventilação",
+   "o2": "Ao botão do ar condicionado",
+   "o3": "Ao pedal da embraiagem",
+   "o4": "Ao volante, ao pedal do travão ou aos limpa-para-brisas"
+  }
+ },
+ "q_hvac": {
+  "text": "Que barulho faz a ventilação ligada?",
+  "options": {
+   "o1": "Um roçar ou crepitar que muda com a velocidade da ventilação",
+   "o2": "Um guincho ou uivo debaixo do tablier",
+   "o3": "Uma série de estalidos atrás do tablier ao mudar a temperatura ou a saída de ar",
+   "o4": "Um borbulhar atrás do tablier"
+  }
+ },
+ "q_ac": {
+  "text": "O que se ouve ao ligar o ar condicionado?",
+  "options": {
+   "o1": "Um guincho no momento em que engata",
+   "o2": "Um chiar ou estrondo enquanto o ar condicionado trabalha",
+   "o3": "Um breve sibilar ao ligar ou desligar, e arrefece bem"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Como se relaciona o barulho com o pedal da embraiagem?",
+  "options": {
+   "o1": "Um sussurro ou zumbido com o pedal solto; ao carregar, acalma",
+   "o2": "Aparece ou aumenta quando o pedal está carregado",
+   "o3": "Um chocalhar ao ralenti que muda quando se carrega no pedal",
+   "o4": "Um ranger ao carregar, audível mesmo com o motor desligado"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "A que é que o barulho está ligado exatamente?",
+  "options": {
+   "o1": "Um uivo ou zumbido ao rodar o volante",
+   "o2": "Um estalar ao rodar o volante com o carro parado",
+   "o3": "Um sibilar debaixo do tablier ao carregar no pedal do travão",
+   "o4": "Uma pancada ou ranger ao ritmo dos limpa-para-brisas"
+  }
+ },
+ "q_ps_type": {
+  "text": "Existe debaixo do capô um depósito de líquido da direção assistida?",
+  "options": {
+   "o1": "Sim, existe",
+   "o2": "Não, ou não sei"
+  }
+ },
+ "q_steer_click": {
+  "text": "De onde vêm os estalidos?",
+  "options": {
+   "o1": "De cima, da cava da roda, à altura do capô",
+   "o2": "Do próprio volante ou da coluna, ao nível dos pés"
+  }
+ },
+ "q_engine_cold": {
+  "text": "O barulho ouve-se só com o motor frio, logo depois de arrancar?",
+  "options": {
+   "o1": "Sim, com o motor quente desaparece",
+   "o2": "Não, também se ouve com o motor quente"
+  }
+ },
+ "q_cold_char": {
+  "text": "A que se parece o barulho a frio?",
+  "options": {
+   "o1": "Um tiquetaque rápido",
+   "o2": "Uma pancada surda que desaparece quando o motor aquece",
+   "o3": "Um roçar ou chocalhar à frente do motor",
+   "o4": "Um guincho ou assobio ao arrancar"
+  }
+ },
+ "q_tick_cold": {
+  "text": "O tiquetaque soa mais forte cá fora do que dentro do carro, e debaixo do capô cheira a escape?",
+  "options": {
+   "o1": "Sim, cá fora soa mais e há cheiro",
+   "o2": "Não, faz tiquetaque em cima do motor e não há cheiro"
+  }
+ },
+ "q_engine_char": {
+  "text": "A que se parece o barulho?",
+  "options": {
+   "o1": "Uma pancada ou um tiquetaque",
+   "o2": "Um guincho, assobio, zumbido ou sibilar",
+   "o3": "Um tinir, chocalhar, estouros ou borbulhar",
+   "o4": "Vibração ou tremor ao ralenti"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Que tipo de pancada exatamente?",
+  "options": {
+   "o1": "Um tiquetaque leve e rápido na parte de cima do motor",
+   "o2": "Uma pancada surda ou metálica vinda do fundo do motor"
+  }
+ },
+ "q_tick_warm": {
+  "text": "O tiquetaque aumentou com o tempo ou é sempre igual?",
+  "options": {
+   "o1": "Aumentou; com o motor quente ouve-se melhor",
+   "o2": "Sempre igual; cá fora soa mais do que dentro"
+  }
+ },
+ "q_knock_load": {
+  "text": "Se acelerar suavemente, a pancada fica mais rápida e mais forte?",
+  "options": {
+   "o1": "Sim, mais rápida e mais forte",
+   "o2": "Quase não muda, ou desaparece"
+  }
+ },
+ "q_squeal": {
+  "text": "Que tipo de barulho é?",
+  "options": {
+   "o1": "Um guincho agudo ou assobio",
+   "o2": "Um zumbido ou roçar constante",
+   "o3": "Um sibilar constante, como ar a sair de um pneu"
+  }
+ },
+ "q_hum_source": {
+  "text": "De onde vem o zumbido?",
+  "options": {
+   "o1": "Da frente, do compartimento do motor, e muda com as rotações",
+   "o2": "Liga e desliga sozinho: com calor, no trânsito, com o ar condicionado",
+   "o3": "De trás, junto ao depósito; ouve-se ao ligar a ignição, antes de arrancar"
+  }
+ },
+ "q_pump_check": {
+  "text": "Debaixo do capô, junto à correia, há escorrimentos ou vestígios de líquido?",
+  "options": {
+   "o1": "Sim, está húmido ou cheira a líquido de refrigeração",
+   "o2": "Está tudo seco",
+   "o3": "Não consegui ver"
+  }
+ },
+ "q_rattle": {
+  "text": "Que barulho e de onde?",
+  "options": {
+   "o1": "Um chocalhar metálico debaixo do carro",
+   "o2": "Estouros no escape",
+   "o3": "Um borbulhar atrás do tablier"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Junto com o chocalhar, o carro perdeu força ou o escape passou a cheirar de forma estranha?",
+  "options": {
+   "o1": "Sim, puxa menos ou o cheiro mudou",
+   "o2": "Não, só chocalha a certas rotações"
+  }
+ },
+ "q_move_when": {
+  "text": "Quando é que o barulho se nota mais em andamento?",
+  "options": {
+   "o1": "Ao travar",
+   "o2": "Em curva ou ao rodar o volante",
+   "o3": "Em buracos e lombas",
+   "o4": "Ao acelerar, ao mudar de velocidade ou permanentemente"
+  }
+ },
+ "q_brake_transient": {
+  "text": "O barulho aparece só nas primeiras travagens depois de o carro estar parado ou com chuva, e depois desaparece?",
+  "options": {
+   "o1": "Sim, desaparece depressa",
+   "o2": "Não, ouve-se em todas as travagens"
+  }
+ },
+ "q_brake_char": {
+  "text": "Que barulho faz ao travar?",
+  "options": {
+   "o1": "Um guincho ou ranger",
+   "o2": "Um roçar de metal contra metal",
+   "o3": "Uma pancada ou pulsação no pedal"
+  }
+ },
+ "q_turn_char": {
+  "text": "O que se ouve em curva?",
+  "options": {
+   "o1": "Um zumbido a velocidade, mais forte para um dos lados",
+   "o2": "Estalidos com o volante todo virado",
+   "o3": "Uma pancada ao rodar o volante",
+   "o4": "Um uivo ou zumbido ao rodar o volante parado ou a estacionar"
+  }
+ },
+ "q_bump_char": {
+  "text": "Que barulho faz nos buracos?",
+  "options": {
+   "o1": "Uma pancada ou choque metálico",
+   "o2": "Um ranger, como uma cama velha",
+   "o3": "Um chocalhar ou estrondo",
+   "o4": "Uma pancada seca isolada ao arrancar pela primeira vez depois de o carro estar muito tempo parado"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Que tipo de pancada exatamente?",
+  "options": {
+   "o1": "Uma pancada surda e repetida nas irregularidades pequenas",
+   "o2": "Pancadas surdas isoladas em buracos e lombas",
+   "o3": "A pancada chega diretamente ao volante, sente-se nas mãos",
+   "o4": "O barulho apareceu de repente depois de um buraco e um canto do carro está mais baixo"
+  }
+ },
+ "q_bump_where": {
+  "text": "A pancada vem da frente ou de trás?",
+  "options": {
+   "o1": "Da frente",
+   "o2": "De trás",
+   "o3": "Difícil de perceber"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "De onde vem o chocalhar?",
+  "options": {
+   "o1": "De debaixo do carro",
+   "o2": "Do interior: tablier, portas, grilos",
+   "o3": "Da bagageira, como se algo rolasse",
+   "o4": "Da frente, em cima, junto ao capô"
+  }
+ },
+ "q_move_manner": {
+  "text": "Como se relaciona o barulho com a condução?",
+  "options": {
+   "o1": "Aparece ao carregar ou ao largar o acelerador",
+   "o2": "No momento da mudança de velocidade ou do arranque",
+   "o3": "Ouve-se sempre, enquanto o carro anda",
+   "o4": "É mais uma vibração ou tremor do que um barulho"
+  }
+ },
+ "q_accel_char": {
+  "text": "A que se parece o barulho ao acelerar?",
+  "options": {
+   "o1": "Um tinir metálico, sobretudo a subir",
+   "o2": "Uma pancada no momento em que carrega ou larga o acelerador",
+   "o3": "Estouros ou um ronco forte no escape",
+   "o4": "Um uivo ou assobio em esforço"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Estouros ou ronco?",
+  "options": {
+   "o1": "Estouros",
+   "o2": "Um ronco, mais forte ao acelerar; o carro puxa como sempre",
+   "o3": "O motor ruge, as rotações sobem mas o carro não acelera; às vezes cheira a queimado"
+  }
+ },
+ "q_load_whine": {
+  "text": "Que tipo de uivo em esforço?",
+  "options": {
+   "o1": "Um assobio agudo só ao acelerar, que desaparece ao largar o pé (motor turbo)",
+   "o2": "Um zumbido cujo tom muda ao carregar e largar o acelerador à mesma velocidade",
+   "o3": "Um uivo monótono a acelerar; a caixa é CVT ou automática",
+   "o4": "O uivo é mais forte numa mudança e mais fraco noutra; caixa manual"
+  }
+ },
+ "q_shift_char": {
+  "text": "O que acontece ao mudar de velocidade ou ao arrancar?",
+  "options": {
+   "o1": "Um solavanco ou pancada ao passar a automática de D para R ou nas mudanças",
+   "o2": "Um ranger ao meter a mudança numa caixa manual",
+   "o3": "O carro treme ao arrancar, enquanto larga a embraiagem",
+   "o4": "Uma pancada isolada debaixo do carro ao arrancar ou ao mudar de acelerador"
+  }
+ },
+ "q_vibration": {
+  "text": "Quando é que o tremor é mais forte?",
+  "options": {
+   "o1": "Entre 80 e 120 km/h o volante vibra ligeiramente; abaixo e acima disso, muito menos",
+   "o2": "Já a partir dos 40–60 km/h, e piora com a velocidade",
+   "o3": "Numa faixa estreita de velocidade, o tremor passa pelo piso e pela carroçaria; tração traseira ou integral",
+   "o4": "Só ao travar, o volante bate"
+  }
+ },
+ "q_const_char": {
+  "text": "A que se parece o barulho permanente?",
+  "options": {
+   "o1": "Um zumbido ou uivo constante",
+   "o2": "Um roçar, arrastar ou apitar do lado de uma roda",
+   "o3": "Um ronco forte ou matraquear",
+   "o4": "Um assobio ou uivo só a alta velocidade"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Que barulho vem do lado da roda?",
+  "options": {
+   "o1": "Um apito fino; ao tocar levemente no travão desaparece ou muda",
+   "o2": "Um arrastar; depois de andar, a roda está quente e o carro puxa para o lado",
+   "o3": "Um roçar ou arrastar permanente, sem que a roda aqueça",
+   "o4": "Uma pancada ou estalido ritmado ao ritmo da rotação da roda"
+  }
+ },
+ "q_wheel_click": {
+  "text": "As rodas foram mudadas, trocadas de posição ou desmontadas há pouco tempo?",
+  "options": {
+   "o1": "Sim, nos últimos dias",
+   "o2": "Não, já há muito que não se mexe nelas"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Um teste: acelere até à velocidade a que se ouve o barulho, meta em ponto morto e deixe rolar. O zumbido continua?",
+  "options": {
+   "o1": "Continua igual",
+   "o2": "Desaparece junto com as rotações do motor",
+   "o3": "Não consegui testar"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "O volume do uivo muda ao trocar de mudança?",
+  "options": {
+   "o1": "Sim, em cada mudança soa de forma diferente",
+   "o2": "Não, depende apenas das rotações do motor"
+  }
+ },
+ "q_hum_road": {
+  "text": "O zumbido muda nas curvas longas?",
+  "options": {
+   "o1": "Sim, para um dos lados fica mais forte ou mais fraco",
+   "o2": "Não, é constante a qualquer velocidade acima dos 40–60 km/h",
+   "o3": "Depende do piso da estrada"
+  }
+ },
+ "q_hum_where": {
+  "text": "O zumbido vem da frente ou de trás?",
+  "options": {
+   "o1": "Da frente",
+   "o2": "De trás",
+   "o3": "Difícil de perceber"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Bateria descarregada ou bornes oxidados",
+  "alt_causes": [
+   "Mau contacto de massa",
+   "Motor de arranque no fim de vida"
+  ],
+  "explanation": "Um matraquear rápido ao tentar arrancar significa que falta corrente ao relé do motor de arranque: ele estala, mas não consegue rodar o motor. A culpa é quase sempre de uma bateria descarregada ou de bornes oxidados e mal apertados. As luzes do painel a esmorecer durante a tentativa confirmam-no.",
+  "advice": "Veja os bornes da bateria: raspe o depósito branco ou esverdeado e aperte as pinças. Se não chegar, carregue a bateria ou faça um arranque com cabos e vá à oficina ou à loja substituí-la. Uma bateria com mais de quatro ou cinco anos é quase sempre a responsável."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Relé ou contactos de potência do motor de arranque",
+  "alt_causes": [
+   "Bornes oxidados",
+   "Cablagem até ao motor de arranque"
+  ],
+  "explanation": "Um estalido seco com as luzes do painel normais significa que o relé atua, mas o próprio motor de arranque não roda: contactos de potência queimados, escovas gastas ou o relé colado. Às vezes o carro acaba por pegar à segunda ou terceira tentativa — o diagnóstico é o mesmo.",
+  "advice": "Tente arrancar mais algumas vezes; se só pega uma vez em cada duas, vá à oficina nos próximos dias, antes de ficar retido nalgum parque. Verifique e aperte os bornes da bateria. Dar uma pancada no motor de arranque serve para chegar a casa uma vez, não é uma solução."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Pinhão do motor de arranque ou cremalheira do volante do motor",
+  "alt_causes": [
+   "Dentes da cremalheira gastos",
+   "Motor de arranque mal assente"
+  ],
+  "explanation": "Um chiar metálico ao arrancar significa que o pinhão do motor de arranque engrena mal na cremalheira do volante do motor: os dentes estão gastos ou o mecanismo prende. Cada arranque assim come mais os dentes do pinhão e da cremalheira.",
+  "advice": "Marque oficina dentro desta semana: substituir o pinhão ou o motor de arranque é bastante mais barato do que a cremalheira, para a qual é preciso tirar a caixa de velocidades. Até à reparação, não mantenha a chave na posição de arranque mais tempo do que o necessário e não volte a tentar logo a seguir a um chiar."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "O pinhão não engrena ou a cremalheira tem dentes partidos",
+  "alt_causes": [
+   "Roda livre do pinhão",
+   "Cremalheira do volante do motor"
+  ],
+  "explanation": "Se o motor de arranque zumbe animado mas o motor nem sequer tenta rodar, o pinhão está a girar em vazio: a roda livre do pinhão está gasta, ou faltam dentes à cremalheira naquele ponto.",
+  "advice": "Às vezes resulta à segunda tentativa, porque o volante do motor para noutra posição. Mesmo assim, vá à oficina nos próximos dias: cada tentativa aumenta o estrago. Se a caixa for manual, em último recurso pode arrancar a empurrar; com uma automática isso está fora de questão."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Folhas ou sujidade no ventilador do aquecimento",
+  "alt_causes": [
+   "Filtro do habitáculo entupido",
+   "Objeto estranho na conduta de ar"
+  ],
+  "explanation": "Um roçar e crepitar que muda com a velocidade da ventilação são quase sempre folhas ou sujidade que entraram pela tomada de ar até ao ventilador do aquecimento. No outono é um clássico, sobretudo se o filtro do habitáculo estiver entupido ou nem sequer existir.",
+  "advice": "Substitua o filtro do habitáculo (muitas vezes a sujidade está mesmo em cima dele) — em muitos carros faz-se em dez minutos e as instruções para o modelo encontram-se com facilidade. Se o barulho continuar, peça na oficina para soprarem e limparem o ventilador."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Rolamento ou casquilhos do motor da ventilação",
+  "alt_causes": [
+   "Sujidade no ventilador",
+   "A turbina roça na caixa"
+  ],
+  "explanation": "Um guincho ou uivo debaixo do tablier que só aparece com a ventilação ligada vem do motor da ventilação gasto. O teste é simples: desligue a ventilação e o guincho desaparece de imediato, mesmo com o motor a trabalhar.",
+  "advice": "Não afeta a segurança, mas com o tempo o motorzinho começa a prender e deixa-o sem aquecimento — melhor substituí-lo antes do frio. Até lá, use as velocidades de ventilação em que o barulho é menor."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomotor de uma comporta do aquecimento",
+  "alt_causes": [
+   "Calibração normal das comportas",
+   "Dentes partidos na engrenagem do servomotor"
+  ],
+  "explanation": "Uma série de estalidos rápidos ou um matraquear atrás do tablier ao ligar a ignição ou ao mudar a temperatura vem do servomotor que move as comportas do aquecimento. Se a série for curta e sempre igual, é muitas vezes apenas a calibração. Um matraquear sem fim significa que os dentes da engrenagem de plástico estão comidos.",
+  "advice": "Se os estalidos forem curtos e o aquecimento se regular normalmente, não é preciso fazer nada. Se o matraquear for longo ou o ar não sair por onde escolheu, marque oficina quando puder: ao carro não faz mal, mas o conforto perde-se."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Ar no circuito de refrigeração (nível de líquido baixo)",
+  "alt_causes": [
+   "Tampa do vaso de expansão avariada",
+   "Fuga de líquido de refrigeração"
+  ],
+  "explanation": "Um borbulhar atrás do tablier é uma bolha de ar a passar pelo radiador do aquecimento. O ar entra no circuito quando o nível de líquido de refrigeração desce: há uma fuga algures ou a tampa do vaso de expansão não aguenta a pressão. O aquecimento pode então soprar ora quente, ora frio.",
+  "advice": "Com o motor frio, verifique o nível no vaso de expansão e complete até à marca; depois vigie se volta a descer. Se o nível continuar a cair ou o aquecimento soprar frio com o motor quente, vá à oficina esta semana. Se o ponteiro da temperatura subir ou sair vapor: encoste e desligue o motor."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "A embraiagem do compressor do ar condicionado patina",
+  "alt_causes": [
+   "Correia frouxa",
+   "Prato de pressão da embraiagem gasto"
+  ],
+  "explanation": "Um guincho exatamente no momento em que liga o ar condicionado significa que a embraiagem que liga o compressor à correia está a patinar sob carga. Um estalido isolado ao engatar é normal; o guincho, esse, indica embraiagem gasta ou correia frouxa.",
+  "advice": "Mostre na oficina nas próximas duas semanas: se deixar andar, o guincho passa a permanente e o compressor pode gripar e partir a correia. Até à reparação pode usar o ar condicionado, mas se o guincho aumentar, desligue-o."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Compressor do ar condicionado (rolamento ou desgaste)",
+  "alt_causes": [
+   "Rolamento da polia da embraiagem",
+   "Pouco óleo no circuito"
+  ],
+  "explanation": "Um chiar ou estrondo que só se ouve com o ar condicionado a trabalhar vem de um compressor em fim de vida ou do rolamento da sua polia. Um compressor gripado parte a correia — e em muitos carros essa correia move também o alternador e a bomba de água.",
+  "advice": "Por agora não ligue o ar condicionado: assim o conjunto aguenta até à reparação. Marque diagnóstico dentro desta semana: enquanto se estraga só o rolamento, a reparação sai bastante mais barata do que um compressor novo com lavagem de todo o circuito."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Passagem normal do gás refrigerante",
+  "alt_causes": [
+   "Funcionamento normal da válvula de expansão"
+  ],
+  "explanation": "Um breve sibilar ou borbulhar atrás do tablier nos primeiros segundos depois de ligar ou desligar o ar condicionado é o gás refrigerante a passar pela válvula de expansão. Se o habitáculo arrefece, é o funcionamento normal do sistema e não uma fuga.",
+  "advice": "Não é preciso fazer nada. O motivo para verificar seria outro: se o sibilar se tornar permanente e deixar de arrefecer ou arrefecer pouco, marque uma revisão do ar condicionado."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Rolamento do veio primário da caixa",
+  "alt_causes": [
+   "Rolamento de encosto da embraiagem",
+   "Roletes da correia de acessórios"
+  ],
+  "explanation": "Um roçar ou zumbido ao ralenti que acalma quando se carrega na embraiagem vem da caixa: com o pedal solto, o veio primário roda com o motor e o seu rolamento gasto faz barulho. Ao carregar, o veio para e o barulho desaparece. A correia e os roletes não reagem de todo ao pedal da embraiagem.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas e conte sem falta a relação do barulho com o pedal: isso orienta logo a busca. Verifique o nível de óleo da caixa. Pode andar, mas não arraste durante meses: um rolamento destruído leva atrás veios e engrenagens."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Rolamento de encosto da embraiagem",
+  "alt_causes": [
+   "Rolamento do veio primário",
+   "Garfo da embraiagem"
+  ],
+  "explanation": "Um roçar ou zumbido que aparece ou aumenta com o pedal da embraiagem carregado vem do rolamento de encosto — a peça que empurra o prato de pressão no momento em que se desembraia. Um rolamento gasto faz barulho precisamente sob carga, ou seja, com o pedal carregado.",
+  "advice": "Marque oficina dentro de uma a duas semanas. Mantenha o pedal carregado o menos possível: no semáforo, ponto morto e largar a embraiagem. Um rolamento de encosto que se parte pode deixá-lo sem embraiagem na estrada, por isso não se pode arrastar durante meses."
+ },
+ "leaf_dmf": {
+  "top_cause": "Volante bimassa",
+  "alt_causes": [
+   "Molas do disco de embraiagem",
+   "Rolamento de encosto"
+  ],
+  "explanation": "Um chocalhar metálico ao ralenti do lado da caixa, que muda quando se carrega na embraiagem e se ouve sobretudo nos segundos do arranque e do desligar do motor, é a assinatura típica de um volante bimassa gasto: o amortecedor entre motor e caixa que absorve os solavancos.",
+  "advice": "Marque diagnóstico dentro de duas semanas e descreva a relação do barulho com o pedal e com o arranque e o desligar. A substituição não é barata, mas arrastar estraga também a embraiagem e pode acabar com o volante desfeito em andamento. Até à reparação, arranque com suavidade e não force o motor a baixas rotações."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mecanismo do pedal da embraiagem (eixo, garfo, cabo)",
+  "alt_causes": [
+   "Casquilhos do eixo do pedal",
+   "Garfo do rolamento de encosto"
+  ],
+  "explanation": "Um ranger ao carregar no pedal, audível mesmo com o motor desligado, é mecânica seca do comando da embraiagem: o eixo do pedal, o cabo ou o garfo. Como o barulho existe sem o motor a trabalhar, a correia, o rolamento de encosto e a caixa não têm nada a ver com isso.",
+  "advice": "Peça na oficina para lubrificarem o eixo do pedal e o garfo na próxima visita: muitas vezes resolve-se em minutos. Não há perigo. Se, além do ranger, o pedal ficou duro ou a embraiagem só pega já no fim do curso, mostre o carro mais cedo."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Rolamento do apoio superior do amortecedor",
+  "alt_causes": [
+   "Caixa de direção",
+   "Bieletas da barra estabilizadora"
+  ],
+  "explanation": "Um estalar ao rodar o volante com o carro parado, vindo de cima, da cava da roda, é produzido pelo rolamento do apoio superior: a peça sobre a qual o topo do amortecedor roda junto com a roda. Outro sinal são pancadas isoladas vindas de cima ao passar buracos.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: a verificação é simples, com a mão na torre do amortecedor debaixo do capô sentem-se logo os estalidos. Pode andar, mas um apoio gasto acelera o desgaste do amortecedor e piora o retorno do volante."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Cardã da coluna de direção (cruzeta)",
+  "alt_causes": [
+   "Folga nas estrias do veio",
+   "Caixa de direção"
+  ],
+  "explanation": "Um estalido ou pancada que se ouve e se sente diretamente no volante, ao nível dos pés, vem normalmente da cruzeta do veio intermédio da coluna: a pequena junta entre o volante e a caixa de direção. Com o motor desligado, abanando levemente o volante para um lado e para o outro, o estalido ouve-se com nitidez.",
+  "advice": "Mande verificar na oficina nos próximos dias: a direção é um órgão de segurança e o diagnóstico leva minutos. A folga na coluna só cresce com o tempo e deixa o volante vago ao centro."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Servofreio ou o seu tubo de vácuo",
+  "alt_causes": [
+   "Válvula de retenção do servofreio",
+   "Fissura no tubo de vácuo"
+  ],
+  "explanation": "Um sibilar debaixo do tablier que aparece e muda exatamente no momento em que carrega e larga o pedal do travão é entrada de ar no servofreio: a peça que reduz o esforço no pedal. O pedal fica muitas vezes bastante mais duro e o ralenti oscila.",
+  "advice": "Marque oficina esta semana: os travões funcionam mesmo sem servofreio, mas é preciso carregar muito mais — numa travagem de emergência isso é perigoso. Verifique o pedal antes de sair: se estiver duro como uma tábua, conduza com cuidado e não vá longe."
+ },
+ "leaf_wipers": {
+  "top_cause": "Articulação dos limpa-para-brisas ou borrachas das escovas",
+  "alt_causes": [
+   "Porcas dos braços soltas",
+   "Casquilhos do motor dos limpa-para-brisas gastos"
+  ],
+  "explanation": "Uma pancada nos pontos extremos do varrimento é folga nas articulações do mecanismo que move as escovas, ou são porcas dos braços soltas. Um ranger uniforme sobre o vidro são borrachas endurecidas. O teste é simples: desligue os limpa-para-brisas e o barulho desaparece de imediato e por completo.",
+  "advice": "As borrachas que rangem pode trocá-las você mesmo: as escovas vendem-se em qualquer loja de peças. Para a pancada nos extremos, aperte as porcas dos braços ou mande substituir os casquilhos da articulação quando for à oficina. Para a segurança, o que conta aqui é o vidro ficar limpo."
+ },
+ "leaf_eps": {
+  "top_cause": "Direção assistida elétrica: um zumbido leve é normal",
+  "alt_causes": [
+   "Desgaste da direção assistida elétrica",
+   "Caixa de direção"
+  ],
+  "explanation": "Se debaixo do capô não há depósito de líquido, a direção assistida é elétrica, e um zumbido baixo e constante ao rodar o volante é o seu funcionamento normal, não uma avaria. A bomba hidráulica que uiva por falta de líquido simplesmente não existe num carro destes.",
+  "advice": "Os sinais de alarme de uma direção elétrica são outros: o volante fica pesado ou pesa aos solavancos, aparece um estalar, ou acende-se a luz da direção no painel. Se acontecer algum destes, à oficina nos próximos dias; caso contrário, pode andar descansado."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Junta ou fissura do coletor de escape",
+  "alt_causes": [
+   "Espigões do coletor",
+   "Tuchos hidráulicos"
+  ],
+  "explanation": "Um tiquetaque rápido a frio, mais forte cá fora e acompanhado de cheiro a escape debaixo do capô, são gases a escapar por uma junta queimada ou uma fissura no coletor de escape. À medida que o metal aquece, dilata, a fenda fecha e o tiquetaque desaparece.",
+  "advice": "Marque oficina dentro de uma a duas semanas: a fenda cresce com o tempo, e o cheiro a escape pode entrar no habitáculo pela ventilação, o que é nocivo. Até à reparação, areje o interior sempre que sentir o cheiro."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Tiquetaque normal dos injetores (injeção direta ou diesel)",
+  "alt_causes": [
+   "Bomba de alta pressão",
+   "Folga das válvulas"
+  ],
+  "explanation": "Em motores de injeção direta (TSI, GDI e semelhantes) e nos diesel, os injetores e a bomba de alta pressão fazem sempre tiquetaque: é o seu funcionamento normal. Os sinais que o distinguem: o barulho é igual a frio e a quente, ouve-se mais cá fora do que dentro, e não depende da idade do óleo.",
+  "advice": "Não é preciso fazer nada. O que deve dar que pensar é outra coisa: se o tiquetaque ficou claramente mais forte do que antes, se muda depois de o motor aquecer ou se surge junto com perda de força, então sim, a diagnóstico."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Entrada de ar falso (tubo de vácuo, junta da admissão)",
+  "alt_causes": [
+   "Tubo rachado",
+   "Junta do coletor de admissão"
+  ],
+  "explanation": "Um sibilar constante debaixo do capô, como ar a sair de um pneu furado, é ar não medido a entrar por um tubo rachado ou pela junta da admissão. O motor costuma trabalhar irregular: o ralenti oscila e por vezes acende-se a luz de avaria do motor.",
+  "advice": "Marque diagnóstico nos próximos dias, sobretudo se o ralenti oscila: procurar entradas de ar é um procedimento de rotina. Por sua conta pode ver se os tubos finos de borracha debaixo do capô têm fissuras, sem desmontar nada."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Ventoinha de refrigeração (casquilhos ou funcionamento contínuo)",
+  "alt_causes": [
+   "Sensor de temperatura ou termóstato",
+   "Embraiagem viscosa (na tração traseira)"
+  ],
+  "explanation": "Um zumbido ou ronco que liga e desliga sozinho — com calor, no trânsito, com o ar condicionado — é a ventoinha do radiador. Uma ventoinha barulhenta significa ou casquilhos gastos no seu motor, ou que ela roda sem parar por causa de um sensor ou do termóstato. Às vezes continua a trabalhar um ou dois minutos depois de desligar o carro: isso é normal.",
+  "advice": "Se a ventoinha ronca sem parar logo desde o arranque com o motor frio, a diagnóstico nos próximos dias: o circuito de refrigeração não está a funcionar corretamente. Vigie o ponteiro da temperatura; se subir, encoste e desligue o motor."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Bomba de combustível elétrica",
+  "alt_causes": [
+   "Filtro de combustível entupido",
+   "Rede filtrante da bomba"
+  ],
+  "explanation": "Um zumbido ou uivo constante atrás, debaixo do banco traseiro ou na zona do depósito, é a bomba de combustível. Ouvi-la um ou dois segundos ao ligar a ignição é normal; um uivo forte, percetível também em andamento, indica bomba gasta ou filtro entupido que a obriga a forçar.",
+  "advice": "Marque uma verificação da pressão de combustível dentro de uma a duas semanas. Não ande muito tempo com a reserva acesa: no fundo do depósito a bomba arrefece pior e desgasta-se mais depressa. Se o carro começar a dar solavancos em esforço ou a pegar com dificuldade, antecipe a visita."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Catalisador desfeito",
+  "alt_causes": [
+   "Chapa de proteção térmica",
+   "Suportes do escape"
+  ],
+  "explanation": "Um chocalhar metálico ou um som de gravilha debaixo do carro, mais perto do motor, que aumenta ao dar um acelerão e vem acompanhado de perda de força ou de um cheiro diferente no escape, é a cerâmica do catalisador que se desfez. Os pedaços chocalham dentro da caixa e o favo entupido sufoca o motor.",
+  "advice": "A diagnóstico nos próximos dias: os pedaços de cerâmica podem ser aspirados para o motor, e aí a conta sobe muito. Uma verificação simples na oficina é bater levemente no corpo do catalisador com o carro frio: ouvem-se os pedaços soltos lá dentro. Com isto não convém esperar."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Caixa automática: óleo velho, desgaste ou folga na transmissão",
+  "alt_causes": [
+   "Apoios do motor e da caixa",
+   "Cruzetas do veio de transmissão (na tração traseira)"
+  ],
+  "explanation": "Um solavanco ou pancada exatamente ao passar o seletor de D para R, ou nas mudanças, indica desgaste ou óleo velho na caixa automática: a mudança entra com pancada, e as folgas da transmissão amplificam-na. Apoios cedidos batem de forma parecida, por isso vale a pena confirmar o diagnóstico.",
+  "advice": "Primeiro verifique o nível e o estado do óleo da caixa: se estiver escuro e a cheirar a queimado, tem de ser mudado, e em muitos casos isso resolve. Marque diagnóstico dentro de uma a duas semanas e diga em que mudanças exatamente dá o solavanco. Até à reparação, mova o seletor só com o carro totalmente parado e o travão carregado."
+ },
+ "leaf_synchro": {
+  "top_cause": "Sincronizadores da caixa ou embraiagem que não desengata por completo",
+  "alt_causes": [
+   "Folga do pedal da embraiagem",
+   "Desgaste da embraiagem"
+  ],
+  "explanation": "Um ranger ao meter a mudança numa caixa manual significa que as engrenagens se encontram a velocidades diferentes. Se ranger só uma ou duas mudanças concretas — muitas vezes a segunda ou a terceira —, são os sincronizadores dessas mudanças que estão gastos; se rangerem todas, a embraiagem não desengata por completo e a caixa não fica livre.",
+  "advice": "Verifique a folga do pedal da embraiagem e o nível de óleo da caixa: é também por aí que a oficina começa. Marque diagnóstico dentro de duas semanas. Até à reparação, mude mais devagar, com uma pausa em ponto morto: range menos e desgasta menos."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Embraiagem: disco gasto ou sujo de óleo",
+  "alt_causes": [
+   "Apoios do motor",
+   "Volante bimassa"
+  ],
+  "explanation": "Um tremor exatamente no momento do arranque, enquanto larga o pedal da embraiagem, com o carro a andar normalmente depois de a embraiagem engatar por completo, significa que a embraiagem pega aos solavancos: disco gasto, sujo de óleo, ou prato de pressão empenado. Os apoios do motor também fazem tremer o carro ao ralenti; aqui o tremor vive só na fase do arranque.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: o tremor no arranque não passa sozinho e costuma agravar-se. Até à reparação, arranque com suavidade e um pouco mais de rotação, sem deixar a embraiagem patinar. Se aparecer cheiro a queimado, a embraiagem está a queimar-se: não espere com a visita."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Cruzetas do veio de transmissão ou folga na transmissão",
+  "alt_causes": [
+   "Silentblocks e parafusos do berço",
+   "Grupo cónico do diferencial"
+  ],
+  "explanation": "Uma pancada ou estalido isolado vindo da zona central ou traseira do piso ao arrancar e ao passar de acelerar para largar o pé é folga na cadeia que transmite a força: na maioria das vezes cruzetas gastas do veio de transmissão (tração traseira e integral) ou fixações do berço soltas.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: no elevador a folga do veio encontra-se num minuto, abanando-o com a mão. Não convém arrastar: uma cruzeta muito castigada pode partir-se em andamento. Até lá, arranque e largue o acelerador com mais suavidade."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "A embraiagem patina",
+  "alt_causes": [
+   "Disco sujo de óleo",
+   "Patinagem da caixa automática ou do CVT"
+  ],
+  "explanation": "Se ao carregar no acelerador as rotações sobem e o motor ruge mas o carro quase não acelera, a embraiagem está a patinar e não transmite força: o disco está gasto ou sujo de óleo. Nota-se sobretudo a subir e na mudança mais alta; muitas vezes junta-se um cheiro acre a queimado. Numa automática, uma caixa gasta patina da mesma forma.",
+  "advice": "À oficina esta semana: uma embraiagem que patina acaba por patinar até perder a tração por completo, e normalmente no pior momento. Até à reparação, conduza com calma, sem ultrapassagens nem reboque, e a subir reduza com antecedência. Se o cheiro a queimado aumentar, não espere nem mais um dia."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo ou fuga na pressão de sobrealimentação",
+  "alt_causes": [
+   "Tubo do intercooler",
+   "Chumaceira do eixo do turbo"
+  ],
+  "explanation": "Um assobio leve e constante do turbo em esforço é normal num motor turbo. O que deve dar que pensar é a mudança: o assobio ficar mais forte ou com outro tom, aparecer um uivo, ou o carro perder força. Isso é uma fuga de ar nos tubos de sobrealimentação, ou desgaste da chumaceira do eixo do turbo.",
+  "advice": "Se o tom mudou ou o carro puxa menos, a diagnóstico nos próximos dias: um tubo com fuga repara-se barato, enquanto um turbo gasto e adiado acaba em substituição. Vigie o consumo de óleo. Até à verificação, não leve o motor ao corte e deixe o turbo arrefecer um ou dois minutos ao ralenti depois de uma condução animada."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Grupo cónico do diferencial",
+  "alt_causes": [
+   "Rolamentos do diferencial",
+   "Pouco óleo no diferencial"
+  ],
+  "explanation": "Um uivo ou zumbido que, à mesma velocidade, muda de tom conforme se carrega ou se larga o acelerador — uiva em esforço e acalma em roda livre, ou o contrário — é a assinatura de um grupo cónico gasto: as engrenagens do diferencial que levam o movimento às rodas. Um rolamento de roda, ao contrário, não reage de todo ao acelerador.",
+  "advice": "Verifique o nível de óleo do diferencial e marque diagnóstico dentro desta semana: num desgaste inicial bastam muitas vezes óleo e uma afinação; num desgaste avançado é preciso substituir o grupo. Adie as viagens longas a alta velocidade até à verificação."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT ou caixa automática (rolamentos, correia, conversor)",
+  "alt_causes": [
+   "Óleo da caixa em falta ou velho",
+   "Rolamentos dos veios"
+  ],
+  "explanation": "Um uivo metálico monótono ao acelerar num carro com CVT ou caixa automática, que depende do acelerador e não da velocidade, vem normalmente dos rolamentos das polias do CVT ou da bomba da caixa automática. O CVT é especialmente sensível à idade do óleo.",
+  "advice": "Primeiro, verificar o nível e o estado do óleo da caixa: é metade destes casos. Marque diagnóstico dentro desta semana e, até lá, conduza com calma, sem acelerações bruscas nem reboque. Reparar um CVT a tempo custa várias vezes menos do que fazê-lo tarde."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Rolamentos ou engrenagens da caixa manual",
+  "alt_causes": [
+   "Pouco óleo na caixa",
+   "Rolamento do veio primário"
+  ],
+  "explanation": "Um uivo cujo volume depende da mudança engatada — forte numa, mais fraco noutra, ausente em ponto morto a rolar — vem da caixa manual: rolamentos dos veios gastos ou um par de engrenagens concreto. Um rolamento de roda zumbe igual em qualquer mudança.",
+  "advice": "Verifique o nível de óleo da caixa: a descida do nível é uma causa frequente. Marque diagnóstico dentro de uma a duas semanas e diga em que mudanças uiva mais: isso reduz a busca. Pode andar, mas um uivo que aumenta não deve arrastar-se."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Desequilíbrio das rodas",
+  "alt_causes": [
+   "Contrapeso de equilibragem perdido",
+   "Lama ou gelo dentro da jante"
+  ],
+  "explanation": "Uma vibração fina no volante numa faixa estreita de velocidade, normalmente entre 80 e 120 km/h, que quase desaparece abaixo e acima disso, é o clássico desequilíbrio: caiu um contrapeso, ou colou-se lama ou gelo no interior da jante. Se vibra o volante, são as rodas da frente; se vibra o banco, as de trás.",
+  "advice": "Passe pela equilibragem quando puder: é rápido e barato. No inverno, veja primeiro o interior das jantes e retire a neve e o gelo agarrados. Não é perigoso, mas uma vibração permanente acelera o desgaste dos rolamentos e das rótulas de direção."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Jante empenada ou hérnia no pneu",
+  "alt_causes": [
+   "Lona do pneu deslocada",
+   "Desequilíbrio das rodas"
+  ],
+  "explanation": "Um bater que já se nota a partir dos 40–60 km/h e aumenta com a velocidade é normalmente uma deformação: uma jante empenada depois de um buraco ou uma hérnia (um alto) no flanco do pneu. Ao contrário do desequilíbrio, este bater não vive numa faixa estreita de velocidade: agrava-se continuamente.",
+  "advice": "Veja os pneus e os bordos das jantes: um alto no flanco ou uma jante empenada notam-se muitas vezes a olho. Uma hérnia é um ponto fraco que pode rebentar em velocidade: monte o pneu suplente nessa roda e não adie a ida ao serviço de pneus. Até lá, não ande depressa."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Veio de transmissão: rolamento intermédio ou desequilíbrio",
+  "alt_causes": [
+   "Cruzetas do veio",
+   "Disco flexível de transmissão"
+  ],
+  "explanation": "Um zumbido e uma vibração fina pelo piso e pela carroçaria numa faixa concreta de velocidade, num carro de tração traseira ou integral, é o veio de transmissão: rolamento intermédio gasto, cruzetas batidas ou equilibragem perdida. Distingue-se do desequilíbrio das rodas porque não vibra o volante, mas o piso.",
+  "advice": "Marque diagnóstico dentro desta semana: as folgas do veio verificam-se no elevador em minutos. Não convém arrastar: a rutura de uma cruzeta em velocidade é perigosa. Até à verificação, não ande muito tempo à velocidade em que vibra."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Ruído aerodinâmico (borrachas, frisos, barras de tejadilho)",
+  "alt_causes": [
+   "Borrachas das portas gastas",
+   "Barras ou mala de tejadilho"
+  ],
+  "explanation": "Um assobio ou uivo que só aparece acima de certa velocidade (normalmente 70–90 km/h), aumenta com ela e não depende do piso nem das curvas, é ar: uma borracha gasta, um friso descolado, as barras de tejadilho ou uma mala de tejadilho.",
+  "advice": "A origem encontra-se com facilidade: tire a mala ou as barras, se as tiver; abra ligeiramente o vidro e veja se o assobio muda; tape a junta suspeita com fita de pintor e dê uma volta. Não é uma avaria: resolve-se com uma borracha nova ou afinando a porta."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "O indicador de desgaste das pastilhas roça no disco",
+  "alt_causes": [
+   "Pastilhas no fim",
+   "Pedrinha entre a pastilha e o disco"
+  ],
+  "explanation": "Um apito metálico fino em andamento sem travar, que ao tocar levemente no pedal desaparece ou muda, é a lâmina indicadora da pastilha a começar a tocar no disco. É o aviso previsto de origem: o material da pastilha está quase no fim.",
+  "advice": "Marque esta semana a substituição das pastilhas e peça para verem também os discos. Os travões ainda funcionam na totalidade, mas a fase seguinte é o roçar metálico e os discos estragados. Se o apito vier de uma roda concreta, diga-o na oficina."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Pinça de travão gripada",
+  "alt_causes": [
+   "Guias da pinça gripadas",
+   "Tubo flexível do travão inchado por dentro"
+  ],
+  "explanation": "Um roçar permanente do lado de uma roda, o disco muito quente no fim do trajeto, cheiro a queimado e o carro a puxar para o lado significam que a pinça — a peça que aperta as pastilhas contra o disco — gripou e a pastilha roça o tempo todo. Um travão sobreaquecido perde eficácia, e pastilha e disco gastam-se em algumas centenas de quilómetros.",
+  "advice": "Deixe de usar o carro normalmente e vá apenas até à oficina, pouca distância e devagar. Para saber que roda está quente, aproxime a mão do disco sem lhe tocar: queima. Arrastar isto acaba com a roda bloqueada em andamento."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Parafusos de roda mal apertados",
+  "alt_causes": [
+   "Furos da jante ovalizados",
+   "Folga no cubo"
+  ],
+  "explanation": "Uma pancada ou batimento ritmado ao ritmo da rotação da roda, que apareceu nos primeiros dias depois de montar ou trocar pneus, é o caso clássico de parafusos de roda mal apertados. Uma roda com os parafusos frouxos ovaliza os furos da jante e, no pior caso, solta-se em andamento.",
+  "advice": "Pare na primeira oportunidade e verifique com a chave o aperto dos parafusos de todas as rodas. Se estavam frouxos e os apertou, a pancada deve desaparecer; se continuar, vá com cuidado à oficina e mande verificar o cubo. Depois de qualquer montagem de rodas convém reapertar os parafusos ao fim de 50 a 100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Pedrinha ou parafuso espetado no piso do pneu",
+  "alt_causes": [
+   "Parafusos de roda mal apertados",
+   "Descolamento do piso"
+  ],
+  "explanation": "Um estalido regular ao ritmo da rotação da roda, sobretudo a baixa velocidade, vem quase sempre de uma pedrinha presa no piso — ou, o que é mais importante, de um parafuso espetado. O barulho dura enquanto o objeto estiver no pneu.",
+  "advice": "Veja o piso de todas as rodas, avançando devagar ou virando o volante até ao fim. A pedrinha, tire-a. Um parafuso ou um prego, não os arranque: com eles chega tranquilamente ao serviço de pneus; sem eles, o pneu esvazia-se pelo caminho. Se não houver nada espetado e o estalido continuar, verifique o aperto dos parafusos de roda."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Casquilhos da barra estabilizadora ou silentblocks (ranger)",
+  "alt_causes": [
+   "Rótulas da suspensão",
+   "Borrachas e dobradiças das portas secas"
+  ],
+  "explanation": "Um ranger de cama velha nos buracos, ao entrar no carro e ao abaná-lo, é borracha seca na suspensão: os casquilhos da barra estabilizadora ou os silentblocks (as articulações de borracha dos braços). Com frio e humidade soa mais. Reproduz-se abanando o carro parado com a mão, apoiado num guarda-lamas.",
+  "advice": "Mostre na oficina quando puder: muitas vezes resolve-se lubrificando os casquilhos ou trocando peças de cêntimos. Não há perigo; mas se ao ranger se juntar uma pancada ou o carro começar a puxar para o lado, aí já são as rótulas e a verificação não deve esperar."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Pastilhas coladas aos discos",
+  "alt_causes": [
+   "Pastilhas geladas (no inverno)",
+   "Maxilas do travão de mão"
+  ],
+  "explanation": "Uma pancada seca forte ou um estalo isolado ao arrancar pela primeira vez depois de o carro estar muito tempo parado, sobretudo com o travão de mão puxado, depois de uma lavagem, de chuva ou de gelo, são as pastilhas que estavam coladas ou geladas nos discos e se soltam. Se o resto do trajeto for silencioso, é inofensivo.",
+  "advice": "Não é preciso fazer nada; no inverno pode deixar o carro com uma mudança metida em vez do travão de mão — só em caixa manual — para as pastilhas de trás não colarem com o gelo. Se o estalo se repetir em todos os arranques, já não são as pastilhas: volte a fazer o diagnóstico."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Folga na caixa de direção",
+  "alt_causes": [
+   "Rótulas de direção",
+   "Cardã da coluna"
+  ],
+  "explanation": "Uma pancada em piso irregular e nas juntas do pavimento, que chega diretamente ao volante e se sente nas mãos, é folga na caixa de direção: o casquilho ou o engrenamento estão gastos. Sinal característico: a pancada acalma se mantiver o volante ligeiramente em tensão.",
+  "advice": "Mande verificar a direção na oficina nos próximos dias: é um órgão de segurança e o diagnóstico no elevador leva minutos. Nalguns carros a caixa de direção afina-se, o que sai barato. Se o volante ficou vago ao centro ou o carro anda a nadar dentro da via, não adie."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Mola da suspensão partida",
+  "alt_causes": [
+   "Amortecedor cedido",
+   "Prato da mola partido"
+  ],
+  "explanation": "Uma pancada metálica ou um raspar nos buracos e nas curvas, aparecido de repente depois de um buraco, mais um canto do carro mais baixo, é o quadro típico de uma espira da mola partida. O pedaço pode roçar e bater enquanto a suspensão trabalha.",
+  "advice": "Espreite por baixo, atrás da roda: uma espira partida vê-se muitas vezes a olho. À oficina dentro de poucos dias e, até lá, conduza com suavidade: o pedaço da mola pode deslocar-se e danificar o pneu. As molas mudam-se aos pares no mesmo eixo."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plásticos do interior: clipes e juntas dos painéis",
+  "alt_causes": [
+   "Objetos no porta-luvas e nos bolsos",
+   "Borrachas das portas secas"
+  ],
+  "explanation": "Um chocalhar de plástico próximo e grilos nas irregularidades pequenas são atrito e folga dos painéis do interior: tablier, painéis das portas, porta-luvas. Com frio soa mais. O teste certeiro: se em andamento carregar com a mão no painel suspeito e o barulho desaparecer, é o interior e não o trem rolante.",
+  "advice": "Não é uma avaria: o carro está bom. Tire as coisas soltas do porta-luvas e dos bolsos e meta um pedaço de fita de feltro na junta que encontrou. O ranger à volta das portas resolve-se tratando as borrachas com massa de silicone. Uma pancada do trem rolante, essa, é surda, vem de baixo e não muda quando se carrega nos painéis."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Carga solta ou pneu suplente mal preso na bagageira",
+  "alt_causes": [
+   "Macaco e ferramentas",
+   "Tampão da bagageira"
+  ],
+  "explanation": "Uma pancada surda ou estrondo atrás nos buracos, como se algo saltasse e rolasse, é quase sempre exatamente isso: o macaco, a chave de rodas, um pneu suplente mal apertado ou o tampão da bagageira solto. Com a bagageira carregada, o barulho normalmente muda ou desaparece.",
+  "advice": "Esvazie a bagageira, verifique a fixação do pneu suplente e do macaco, encaixe bem o tampão — e volte a passar no mesmo troço. Se o barulho desapareceu, a suspensão não tem nada a ver e não é preciso fazer mais nada. Se continuar, refaça o diagnóstico pelo ramo das pancadas em piso irregular."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Fecho ou batentes do capô",
+  "alt_causes": [
+   "Dobradiças do capô",
+   "Retentor da porta"
+  ],
+  "explanation": "Um bater metálico à frente e em cima, junto ao bordo do capô, nas irregularidades pequenas, é folga no fecho do capô ou batentes de borracha cedidos onde ele assenta. Dentro do carro o barulho ouve-se perto, como à frente do rosto, e não vindo de baixo como uma pancada da suspensão.",
+  "advice": "Teste com o carro parado: carregue no capô fechado; se ele joga e bate, o diagnóstico fica confirmado. Desenrosque meia volta para cima os batentes de borracha dos cantos, para o capô assentar com mais firmeza: na maioria dos casos chega. Não há perigo."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Tuchos hidráulicos (a frio)",
+  "alt_causes": [
+   "Folga das válvulas",
+   "Óleo demasiado espesso"
+  ],
+  "explanation": "Os tuchos hidráulicos são peças pequenas que, com a pressão do óleo, eliminam a folga a mais nas válvulas. Enquanto o motor está frio, o óleo está espesso e não lhes chega logo — daí o tiquetaque rápido nos primeiros minutos. Se o barulho desaparecer por completo depois de o motor aquecer, é a situação típica e não é perigosa.",
+  "advice": "Verifique o nível do óleo e há quanto tempo não é mudado: óleo velho ou inadequado aumenta o barulho. Se o tiquetaque durar mais do que dois ou três minutos ou se mantiver com o motor quente, marque oficina. Não deite aditivos que prometem calar o motor."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Desgaste do conjunto pistão-cilindro (pancada a frio)",
+  "alt_causes": [
+   "Tuchos hidráulicos",
+   "Corrente de distribuição"
+  ],
+  "explanation": "Uma pancada surda nos primeiros minutos depois de um arranque a frio, que desaparece à medida que o motor aquece, vem muitas vezes, em carros com quilómetros, do desgaste do conjunto pistão-cilindro: enquanto o pistão está frio tem um pouco mais de folga no cilindro e bate. Depois de aquecer, as peças dilatam e a pancada desaparece. Normalmente é caso para vigiar, não para reparar com urgência.",
+  "advice": "Conte na oficina na próxima visita e repare quantos minutos dura a pancada: é informação útil para o mecânico. Vigie o nível e o consumo de óleo. Se a pancada deixar de desaparecer com o motor quente ou passar a ouvir-se em esforço, a diagnóstico sem adiar."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Corrente de distribuição ou o seu tensor",
+  "alt_causes": [
+   "Tuchos hidráulicos",
+   "Roletes da correia de acessórios"
+  ],
+  "explanation": "A corrente de distribuição é a corrente dentro do motor que liga os seus veios e faz as válvulas abrir no momento certo. Quando se alonga ou o tensor perde força, no arranque a frio ouve-se um roçar ou chocalhar à frente do motor, que acalma depois de aquecer, quando a pressão do óleo sobe. Com o tempo o barulho aparece cada vez mais vezes.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: uma corrente que salta um dente é uma reparação de motor cara. Até lá, evite arranques bruscos a frio e deixe o motor aquecer antes de o exigir. Verifique sem falta o nível do óleo."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "A correia de acessórios patina",
+  "alt_causes": [
+   "Rolete tensor gasto",
+   "Tensão da correia insuficiente"
+  ],
+  "explanation": "Um guincho nos primeiros segundos depois do arranque vem quase sempre da correia que move o alternador, a bomba de água e o compressor do ar condicionado. A frio ou com tempo húmido ela patina nas polias e assobia; depois aquece e cala-se. Neste momento não é perigoso, mas indica correia gasta ou tensão frouxa.",
+  "advice": "Mande ver a correia na oficina quando puder: a inspeção visual leva dois minutos. Se o assobio passar a aparecer também com o motor quente ou ao ligar o ar condicionado, não adie. Não pulverize WD-40 na correia nem tente outros truques caseiros."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Folga das válvulas excessiva",
+  "alt_causes": [
+   "Tuchos hidráulicos",
+   "Corrente de distribuição"
+  ],
+  "explanation": "Um tiquetaque rápido e regular na parte de cima do motor é o som típico da distribuição. Com o tempo as folgas entre as suas peças aumentam e as válvulas começam a bater; ao ralenti é quando melhor se ouve. O motor não se estraga já por causa disso, mas as válvulas trabalham com pancada e desgastam-se mais depressa.",
+  "advice": "Marque a afinação das válvulas ou a verificação dos tuchos hidráulicos dentro de duas semanas. Vigie o nível do óleo: com o nível baixo o tiquetaque aumenta. Pode conduzir com tranquilidade, mas não deixe isto para daqui a meses."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Pancada na parte de baixo do motor (chumaceiras, bielas)",
+  "alt_causes": [
+   "Detonação",
+   "Desgaste do conjunto pistão-cilindro",
+   "Polia do cambota (amortecedor de vibrações)"
+  ],
+  "explanation": "Uma pancada surda vinda do fundo do motor, que fica mais rápida com as rotações e mais forte em esforço, é o mais preocupante de todos os barulhos do motor. É assim que batem chumaceiras gastas — os apoios onde a cambota roda — ou as bielas: apareceu folga nas ligações e as peças batem umas nas outras. Se continuar a andar, o motor pode gripar.",
+  "advice": "Não ande pelo seu próprio pé mais do que o estritamente necessário: melhor chamar o reboque; se a oficina for mesmo ao lado, vá devagar e sem acelerar. Verifique já o nível do óleo e complete se estiver baixo. Coisas menos graves podem soar de forma parecida, mas quem tem de verificar é um mecânico — e depressa."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Acessórios do motor ou apoios do motor",
+  "alt_causes": [
+   "Embraiagem do compressor do ar condicionado",
+   "Tuchos hidráulicos"
+  ],
+  "explanation": "Uma pancada que não fica mais rápida quando se acelera vem normalmente não do motor em si, mas do que está montado nele: alternador, polias, suportes, apoios. A folga nessas peças produz pancadas surdas ao ralenti, sobretudo quando o motor treme um pouco.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas: este tipo de barulho o mecânico localiza bem com o estetoscópio. É útil reparar e contar ao mecânico se o barulho muda quando o ar condicionado arranca ou quando mete uma mudança com o travão carregado."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Correia de acessórios gasta ou frouxa",
+  "alt_causes": [
+   "Rolete tensor",
+   "Polia do alternador"
+  ],
+  "explanation": "Um guincho agudo debaixo do capô significa que a correia está a patinar nas polias. Na maioria das vezes é a própria correia que está gasta ou o tensor que perdeu força. Se a correia partir, o alternador deixa de trabalhar — e em muitos carros também a bomba de água —, por isso não se pode deixar andar.",
+  "advice": "Leve o carro à oficina dentro desta semana: substituir a correia e o rolete é um trabalho barato. Se o guincho aumentar de repente, se acender a luz da bateria ou a temperatura do motor começar a subir: encoste e desligue o motor."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Bomba de água",
+  "alt_causes": [
+   "Roletes da correia",
+   "Rolamento do alternador"
+  ],
+  "explanation": "Um zumbido ou roçar do lado da correia, junto com vestígios de líquido de refrigeração, são os sinais típicos de uma bomba de água em fim de vida. O rolamento dela desgasta-se, aparece folga, e pelo vedante começa a escorrer líquido. Se a bomba gripar, o motor sobreaquece depressa.",
+  "advice": "Vá à oficina nos próximos dias e vigie pelo caminho a temperatura do motor e o nível do líquido. Se a temperatura subir ou sair vapor do capô: encoste e desligue o motor. O líquido de refrigeração só se completa com o motor frio."
+ },
+ "leaf_idler": {
+  "top_cause": "Rolete tensor ou rolete de desvio",
+  "alt_causes": [
+   "Bomba de água",
+   "Polia de roda livre do alternador",
+   "Corrente de distribuição ou o seu tensor"
+  ],
+  "explanation": "Um zumbido ou roçar constante que muda com as rotações do motor vem, na maioria das vezes, do rolamento de um dos roletes por onde passa a correia de acessórios. Um rolete gasto faz cada vez mais barulho, pode começar a prender e acabar por partir a correia.",
+  "advice": "Marque oficina dentro desta semana: o mecânico tira a correia e determina ali mesmo qual o rolete que faz barulho. A bomba de água, a polia de roda livre do alternador e até a corrente de distribuição podem soar de forma parecida — verificam-se de caminho. Se o barulho passou a chiar ou a guinchar, antecipe a visita."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Chapa de proteção térmica do escape",
+  "alt_causes": [
+   "Suportes do escape",
+   "Proteção do cárter"
+  ],
+  "explanation": "Um chocalhar metálico agudo a certas rotações vem quase sempre de uma chapa de proteção térmica solta: a chapa fina que fica por cima do silencioso ou do catalisador. Soa mal, mas não afeta o funcionamento do carro.",
+  "advice": "Peça na oficina para a apertarem ou a prenderem com uma abraçadeira quando puder: é um trabalho de poucos minutos. Vale a pena confirmar que o que chocalha é mesmo a chapa e não os suportes do escape — no elevador vê-se logo."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Falhas de ignição ou um furo no escape",
+  "alt_causes": [
+   "Velas e bobinas de ignição",
+   "Silencioso ou tubo furado",
+   "Afinação do sistema de GPL (se estoura a gás)"
+  ],
+  "explanation": "Estouros no escape significam que o combustível acaba de arder fora dos cilindros, já na linha de escape. As causas são falhas de ignição (velas, bobinas), mistura incorreta ou um furo no escape. Além do barulho, isto estraga o catalisador, e substituí-lo é caro.",
+  "advice": "Marque diagnóstico nos próximos dias, sobretudo se o carro puxa menos, trabalha irregular ou se acendeu a luz de avaria do motor. Não convém andar muito tempo com estouros: o combustível por queimar sobreaquece o catalisador. Se tiver GPL e os estouros aparecerem a gás, vá afinar a instalação: para ela os estouros são especialmente perigosos."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Silencioso ou tubo de escape furado",
+  "alt_causes": [
+   "Junta do escape",
+   "Tubo flexível do escape rachado"
+  ],
+  "explanation": "Um ronco forte que aumenta ao acelerar significa normalmente um furo na linha de escape: silencioso, tubo ou junta furados. O som fica desportivo, mas os gases saem antes do tempo — isso é barulho, cheiro e o risco de entrar monóxido de carbono no habitáculo.",
+  "advice": "Leve o carro à oficina esta semana: ver o escape no elevador leva poucos minutos. Se sentir cheiro a escape dentro do carro, ande com o vidro entreaberto e não aqueça o motor numa garagem fechada: o monóxido de carbono é perigoso."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Apoios do motor",
+  "alt_causes": [
+   "Falhas de ignição",
+   "Borboleta ou injetores sujos"
+  ],
+  "explanation": "Se ao ralenti se sente tremor dentro do carro e o volante e os bancos vibram ligeiramente, a culpa é muitas vezes dos apoios do motor: os blocos de borracha que absorvem as suas vibrações. Com o tempo a borracha endurece e rompe, e a vibração passa para a carroçaria.",
+  "advice": "Mande verificar os apoios na oficina dentro de duas semanas: a inspeção é simples. Uma pista para o diagnóstico: a vibração dos apoios costuma aumentar com uma mudança engatada e o travão carregado. Se além disso o motor der solavancos, diga-o ao mecânico: pode haver falhas de ignição."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Camada de ferrugem nos discos de travão",
+  "alt_causes": [
+   "Humidade ou pó nas pastilhas",
+   "Desgaste inicial das pastilhas"
+  ],
+  "explanation": "Durante a noite, depois de chuva ou de uma lavagem, forma-se nos discos uma fina camada alaranjada: é normal em qualquer carro. As primeiras travagens limpam-na, e daí o ranger ou o leve raspar que desaparece depressa.",
+  "advice": "Não é preciso fazer nada: algumas travagens suaves no início do trajeto limpam os discos. Se o barulho deixar de desaparecer e se ouvir em todas as travagens, refaça o diagnóstico ou leve o carro à oficina."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Estado ou desgaste das pastilhas de travão",
+  "alt_causes": [
+   "Indicador de desgaste das pastilhas",
+   "Pastilhas vitrificadas",
+   "Pó ou corrosão nos discos"
+  ],
+  "explanation": "Um guincho em todas as travagens é o sinal para mandar ver as pastilhas. Muitas pastilhas têm um indicador de desgaste metálico: quando o material de atrito que roça no disco se gasta até ao limite, uma lâmina toca no disco e guincha de propósito. As próprias pastilhas também podem guinchar, por causa de um depósito na superfície, de vitrificação ou de material barato.",
+  "advice": "Marque esta semana a inspeção das pastilhas e dos discos. Se for o indicador de desgaste, não se pode esperar: a fase seguinte é o roçar metálico e os discos estragados. Se as pastilhas estiverem boas, o guincho não é perigoso e o mecânico dir-lhe-á como o eliminar."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Pastilhas gastas até ao metal",
+  "alt_causes": [
+   "Objeto estranho no travão",
+   "Pastilha desfeita"
+  ],
+  "explanation": "Um roçar de metal contra metal ao travar significa que o material de atrito da pastilha acabou e a base metálica está a roçar no disco. A distância de travagem aumenta, o disco estraga-se a cada paragem e o mecanismo pode gripar.",
+  "advice": "Deixe de usar o carro normalmente e vá apenas até à oficina, travando com antecedência e suavidade. Não adie a substituição nem um dia: além da segurança, cada quilómetro assim acrescenta à conta o preço de discos novos."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Guias da pinça ou discos empenados",
+  "alt_causes": [
+   "Folga no cubo",
+   "Fixação da pinça solta"
+  ],
+  "explanation": "Uma pancada ao travar ou pulsações no pedal vêm normalmente do próprio travão: as guias da pinça — a peça que aperta as pastilhas contra o disco — têm folga, ou o disco empenou e as pastilhas batem nele. Os travões funcionam, mas de forma irregular.",
+  "advice": "Mande verificar os travões na oficina nos próximos dias: um órgão de que depende a segurança não deve ser descuidado. Se o pedal passar a afundar mais do que o habitual, se o carro puxar para o lado ao travar ou se bater no volante, a diagnóstico de imediato."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Algo roça no disco de travão (chapa de proteção ou pastilhas gastas)",
+  "alt_causes": [
+   "Pastilhas gastas até ao metal",
+   "Chapa de proteção do disco torta",
+   "Pedrinha entre a chapa e o disco"
+  ],
+  "explanation": "Um roçar permanente do lado de uma roda significa normalmente que algo está a tocar no disco em rotação: uma chapa de proteção torta, uma pedrinha que se meteu ali — ou pastilhas gastas até ao metal. Os dois primeiros casos são inofensivos, o terceiro é perigoso, e de ouvido confundem-se com facilidade.",
+  "advice": "Mande verificar dentro de um ou dois dias, sem adiar: olhar para a roda mostra depressa a causa. Se ao travar o roçar aumentar ou o pedal se comportar de forma diferente do habitual, deixe de usar o carro e vá com cuidado até à oficina."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Rolamento de roda",
+  "alt_causes": [
+   "Ruído dos pneus",
+   "Junta homocinética gasta"
+  ],
+  "explanation": "Um zumbido que muda nas curvas em andamento é o sinal clássico de um rolamento de roda gasto: o rolamento sobre o qual a roda gira. Em curva o peso do carro passa para as rodas de fora: se ao virar à esquerda o zumbido aumenta, o lado carregado é o direito, portanto o mais provável é ser o rolamento direito; a virar à direita, o contrário. Um rolamento que se desfaz dá folga à roda e, num caso avançado, pode gripar.",
+  "advice": "Repare para que lado da curva o zumbido é mais forte e diga-o na oficina: isso reduz logo a busca. Não adie a verificação mais do que uma semana e deixe as viagens longas para depois do diagnóstico. Se aparecer vibração ou o zumbido subir muito, à oficina de imediato."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Junta homocinética exterior",
+  "alt_causes": [
+   "Junta homocinética interior",
+   "Bieletas da barra estabilizadora",
+   "Embraiagem da tração integral (em 4x4)"
+  ],
+  "explanation": "Estalidos ao andar com o volante virado são o som característico de uma junta homocinética exterior gasta: a junta através da qual roda a roda direcional. Normalmente tudo começa com um fole rasgado — a proteção de borracha que protege a junta da sujidade.",
+  "advice": "Veja os foles das juntas ou peça que o façam na oficina: um fole rasgado e massa lubrificante à volta confirmam o diagnóstico. Não adie a substituição mais do que uma ou duas semanas: uma junta gasta pode bloquear. Até à reparação, não arranque com força com as rodas todas viradas."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Rótulas de direção ou caixa de direção",
+  "alt_causes": [
+   "Bieletas da barra estabilizadora",
+   "Rolamentos dos apoios dos amortecedores"
+  ],
+  "explanation": "Uma pancada ao rodar o volante, sobretudo com o carro parado ou a baixa velocidade, vem normalmente de folga nas rótulas de direção, nas barras ou na própria caixa de direção. Por agora não atrapalha a condução, mas a folga na direção só cresce com o tempo.",
+  "advice": "Mande verificar a direção na oficina nos próximos dias: o diagnóstico no elevador leva poucos minutos. Se o volante ficou vago ao centro, se o carro anda a nadar dentro da via ou se a pancada aumentou de repente, não adie: é um órgão de segurança."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Bomba da direção assistida",
+  "alt_causes": [
+   "Nível baixo do líquido da direção",
+   "Correia de acessórios"
+  ],
+  "explanation": "Um uivo ou zumbido que aparece ao rodar o volante com o carro parado ou a baixa velocidade vem quase sempre da bomba da direção assistida: é ela que dá pressão ao líquido que ajuda a virar. Uiva mais alto com o volante todo virado. A causa mais frequente é o nível de líquido no depósito ter descido.",
+  "advice": "Verifique o nível do líquido da direção no depósito debaixo do capô e complete se estiver abaixo da marca MIN. Não mantenha o volante todo virado mais do que dois ou três segundos. Se depois de completar o uivo continuar ou o líquido voltar a descer, à oficina dentro desta semana."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Bieletas da barra estabilizadora",
+  "alt_causes": [
+   "Casquilhos da barra estabilizadora",
+   "Rótulas da suspensão"
+  ],
+  "explanation": "Uma pancada surda e repetida nas irregularidades pequenas — calçada, juntas do pavimento, piso ondulado — vem quase sempre das bieletas da barra estabilizadora: umas barras pequenas com rótulas que são das primeiras peças a gastar-se na suspensão. Por si só não são perigosas, mas peças mais sérias podem bater de forma parecida.",
+  "advice": "Marque uma verificação da suspensão dentro de uma a duas semanas: o mecânico abana as peças no elevador e encontra a folga em poucos minutos. Até lá, passe devagar nos buracos maiores. Se o carro começar a puxar para o lado, antecipe a verificação."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Trem traseiro: bieletas ou silentblocks do eixo",
+  "alt_causes": [
+   "Amortecedores",
+   "Suportes do escape"
+  ],
+  "explanation": "Uma pancada repetida atrás nas irregularidades pequenas vem normalmente das articulações pequenas do trem traseiro: as bieletas da barra estabilizadora traseira ou silentblocks gastos — os casquilhos de borracha através dos quais os braços e o eixo se fixam à carroçaria. Às vezes um suporte do escape solto bate de forma parecida.",
+  "advice": "Marque uma verificação da suspensão dentro de uma a duas semanas: no elevador a origem de uma pancada atrás encontra-se depressa. Até lá, passe devagar nos buracos maiores. Repare se bate em piso ondulado ou só em buracos isolados, e diga-o ao mecânico."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silentblocks dos braços ou amortecedores",
+  "alt_causes": [
+   "Rolamentos dos apoios dos amortecedores",
+   "Rótulas da suspensão"
+  ],
+  "explanation": "Pancadas surdas isoladas em buracos e lombas significam normalmente silentblocks gastos — os casquilhos de borracha através dos quais os braços da suspensão se fixam à carroçaria — ou amortecedores cansados. A suspensão deixa de absorver o impacto e passa-o à carroçaria.",
+  "advice": "Faça uma verificação da suspensão dentro de duas semanas. Um teste simples aos amortecedores: carregue num canto do carro para baixo; a carroçaria deve voltar sem ficar a oscilar. Até à reparação, passe as irregularidades com suavidade: as pancadas acabam também com as peças vizinhas."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Suportes do escape ou proteção do cárter",
+  "alt_causes": [
+   "Chapa de proteção térmica",
+   "Tubo de escape pendurado"
+  ],
+  "explanation": "Um chocalhar metálico debaixo do carro nos buracos é normalmente uma fixação solta: as borrachas do escape, os parafusos da proteção do cárter ou uma chapa de proteção térmica. É incomodativo, mas não afeta o motor nem a condução.",
+  "advice": "Na próxima ida à oficina, peça para apertarem as fixações: é rápido e barato. Vale a pena confirmar que o escape não está pendurado — um tubo a arrastar no chão já não se pode ignorar. Até lá, pode conduzir normalmente."
+ },
+ "leaf_detonation": {
+  "top_cause": "Detonação (bater de bielas em esforço)",
+  "alt_causes": [
+   "Combustível com octanagem baixa",
+   "Carbono ou sensor de detonação avariado"
+  ],
+  "explanation": "Um tinir metálico ao acelerar, sobretudo a subir ou a partir de rotações baixas, é detonação: parte do combustível no cilindro inflama-se sozinha, de forma explosiva, em vez de arder de maneira uniforme, e a onda de choque martela os pistões. Causas frequentes: gasolina com octanagem inferior à necessária, depósitos de carbono nas câmaras de combustão ou um sensor de detonação avariado. Uma detonação permanente vai destruindo o motor.",
+  "advice": "Abasteça com combustível de octanagem não inferior à recomendada pelo fabricante, de preferência noutra estação: muitas vezes o tinir desaparece ao fim de um depósito. Até à verificação, não exija do motor: acelere com suavidade e reduza nas subidas. Se o tinir continuar depois de mudar de combustível, a diagnóstico."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Apoios do motor ou junta homocinética interior",
+  "alt_causes": [
+   "Folga na transmissão",
+   "Apoio da caixa de velocidades"
+  ],
+  "explanation": "Uma pancada no momento em que carrega ou larga o acelerador indica folga na cadeia que transmite a força. Apoios gastos deixam o motor balançar na mudança de carga, e uma junta homocinética interior gasta — a junta do semieixo que vai da caixa à roda — bate ao acelerar e ao largar o pé. O que importa: o barulho vem com a mudança de carga, não com os buracos.",
+  "advice": "Marque diagnóstico dentro de uma a duas semanas. Uma pista para a oficina: repare se a pancada está mais perto do motor ou das rodas e se se repete ao trocar de mudança. Até à reparação, acelere e mude de velocidade com mais suavidade."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Rolamento de roda",
+  "alt_causes": [
+   "Ruído dos pneus",
+   "Rolamento intermédio ou transmissão"
+  ],
+  "explanation": "Um zumbido constante que aumenta com a velocidade e não depende das rotações do motor vem quase sempre de um rolamento de roda gasto: o rolamento sobre o qual a roda gira. O zumbido lembra um avião a levantar voo e quase não muda com o piso. Um rolamento deixado andar demasiado tempo dá folga à roda e, no pior caso, pode gripar.",
+  "advice": "Mande verificar na oficina dentro desta semana: o mecânico roda as rodas no elevador e encontra o cubo barulhento — a peça onde este rolamento está alojado. Adie as viagens longas a alta velocidade até ao diagnóstico. Se o zumbido subir de repente ou aparecer vibração, à oficina de imediato."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Rolamento da roda traseira",
+  "alt_causes": [
+   "Ruído dos pneus",
+   "Diferencial ou rolamento intermédio (na tração traseira e integral)"
+  ],
+  "explanation": "Um zumbido constante atrás que aumenta com a velocidade vem quase sempre de um rolamento da roda traseira: o rolamento sobre o qual a roda gira. Em carros de tração traseira ou integral, as peças da transmissão zumbem de forma parecida, por isso vale a pena confirmar a origem no elevador.",
+  "advice": "Mande verificar na oficina dentro desta semana: atrás, o zumbido de um rolamento confunde-se facilmente com o diferencial, e uma inspeção no elevador esclarece logo. Adie as viagens longas a alta velocidade até lá. Se o zumbido subir de repente ou aparecer vibração, à oficina de imediato."
+ },
+ "leaf_tires": {
+  "top_cause": "Ruído dos pneus",
+  "alt_causes": [
+   "Desgaste irregular do piso",
+   "Rolamento de roda"
+  ],
+  "explanation": "Se o zumbido depende do piso — mais baixo em asfalto novo, mais alto em piso rugoso —, o mais provável é serem os pneus. Zumbem sobretudo os pneus de inverno, os de todo-o-terreno e os gastos de forma irregular. É uma questão de conforto, não uma avaria.",
+  "advice": "Veja o piso dos pneus: um desgaste em serra (degraus nos bordos) ou às manchas aumenta o zumbido e sugere alinhamento desafinado ou amortecedores cansados. Verifique a pressão dos pneus. Se afinal o zumbido não depender do piso e aumentar com a velocidade, volte à hipótese do rolamento de roda."
+ }
+}

@@ -1,0 +1,1104 @@
+{
+ "q_when": {
+  "text": "¿Cuándo se oye el ruido?",
+  "options": {
+   "o1": "Al arrancar o al intentar arrancar",
+   "o2": "Parado, con el motor en marcha",
+   "o3": "Solo en marcha",
+   "o4": "Tanto parado como en marcha"
+  }
+ },
+ "q_start_char": {
+  "text": "¿Qué se oye al girar la llave o pulsar el botón de arranque?",
+  "options": {
+   "o1": "Chasquidos y el motor no gira",
+   "o2": "Chirrido metálico mientras el motor de arranque gira",
+   "o3": "El motor de arranque zumba, pero el motor no llega a arrancar",
+   "o4": "Chillido o silbido justo después de que el motor arranca"
+  }
+ },
+ "q_start_clicks": {
+  "text": "¿Qué tipo de chasquidos?",
+  "options": {
+   "o1": "Traqueteo rápido y las luces del cuadro se atenúan",
+   "o2": "Un chasquido seco y luego silencio"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "¿El ruido aparece solo cuando accionas algo (calefacción, aire acondicionado, embrague, dirección, freno)?",
+  "options": {
+   "o1": "Sí, va ligado a una acción concreta",
+   "o2": "No, se oye por sí solo"
+  }
+ },
+ "q_action": {
+  "text": "¿Con qué acción se relaciona el ruido?",
+  "options": {
+   "o1": "Con la calefacción o el ventilador",
+   "o2": "Con el botón del aire acondicionado",
+   "o3": "Con el pedal del embrague",
+   "o4": "Con el volante, el pedal de freno o los limpiaparabrisas"
+  }
+ },
+ "q_hvac": {
+  "text": "¿Qué ruido hace con el ventilador encendido?",
+  "options": {
+   "o1": "Roce o crepitar que cambia con la velocidad del ventilador",
+   "o2": "Chillido o aullido bajo el salpicadero",
+   "o3": "Una serie de chasquidos detrás del salpicadero al cambiar la temperatura o la salida de aire",
+   "o4": "Borboteo o gorgoteo detrás del salpicadero"
+  }
+ },
+ "q_ac": {
+  "text": "¿Qué se oye al encender el aire acondicionado?",
+  "options": {
+   "o1": "Chillido justo al conectarlo",
+   "o2": "Chirrido o traqueteo mientras el aire funciona",
+   "o3": "Un siseo corto al conectar o desconectar, y enfría bien"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "¿Cómo se relaciona el ruido con el pedal del embrague?",
+  "options": {
+   "o1": "Un susurro o zumbido con el pedal suelto; al pisarlo se calma",
+   "o2": "Aparece o aumenta cuando el pedal está pisado",
+   "o3": "Cascabeleo o traqueteo al ralentí que cambia al pisar el pedal",
+   "o4": "Chirrido al pisar, se oye incluso con el motor apagado"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "¿Con qué se relaciona exactamente el ruido?",
+  "options": {
+   "o1": "Aullido o zumbido al girar el volante",
+   "o2": "Crujido o chasquidos al girar el volante estando parado",
+   "o3": "Siseo bajo el salpicadero al pisar el pedal de freno",
+   "o4": "Golpeteo o chirrido al ritmo del limpiaparabrisas"
+  }
+ },
+ "q_ps_type": {
+  "text": "¿Hay bajo el capó un depósito de líquido de la dirección asistida?",
+  "options": {
+   "o1": "Sí, lo hay",
+   "o2": "No, o no lo sé"
+  }
+ },
+ "q_steer_click": {
+  "text": "¿De dónde vienen los chasquidos?",
+  "options": {
+   "o1": "De arriba, del paso de rueda, a la altura del capó",
+   "o2": "Del propio volante o de la columna, a la altura de los pies"
+  }
+ },
+ "q_engine_cold": {
+  "text": "¿El ruido se oye solo con el motor frío, justo después de arrancar?",
+  "options": {
+   "o1": "Sí, al calentarse desaparece",
+   "o2": "No, también con el motor caliente"
+  }
+ },
+ "q_cold_char": {
+  "text": "¿A qué se parece el ruido en frío?",
+  "options": {
+   "o1": "Un tableteo o repiqueteo rápido",
+   "o2": "Un golpeteo sordo que desaparece al calentarse",
+   "o3": "Un roce o traqueteo en la parte delantera del motor",
+   "o4": "Un chillido o silbido al arrancar"
+  }
+ },
+ "q_tick_cold": {
+  "text": "¿El repiqueteo suena más fuerte desde fuera que dentro del coche, y bajo el capó huele a escape?",
+  "options": {
+   "o1": "Sí, desde fuera suena más y se nota el olor",
+   "o2": "No, tabletea en la parte alta del motor y no hay olor"
+  }
+ },
+ "q_engine_char": {
+  "text": "¿A qué se parece el ruido?",
+  "options": {
+   "o1": "Golpeteo o tableteo",
+   "o2": "Chillido, silbido, zumbido o siseo",
+   "o3": "Tintineo, cascabeleo, petardeos o borboteo",
+   "o4": "Vibración o temblor al ralentí"
+  }
+ },
+ "q_engine_knock": {
+  "text": "¿Qué tipo de golpeteo exactamente?",
+  "options": {
+   "o1": "Un tableteo ligero y rápido en la parte alta del motor",
+   "o2": "Un golpe sordo o metálico desde el fondo del motor"
+  }
+ },
+ "q_tick_warm": {
+  "text": "¿El tableteo ha ido a más con el tiempo o siempre suena igual?",
+  "options": {
+   "o1": "Ha ido a más; con el motor caliente se oye mejor",
+   "o2": "Siempre igual; desde fuera suena más que dentro"
+  }
+ },
+ "q_knock_load": {
+  "text": "Si aceleras suavemente, ¿el golpeteo se acelera y suena más fuerte?",
+  "options": {
+   "o1": "Sí, va más rápido y más fuerte",
+   "o2": "Casi no cambia o desaparece"
+  }
+ },
+ "q_squeal": {
+  "text": "¿Qué clase de ruido es?",
+  "options": {
+   "o1": "Un chillido o silbido agudo",
+   "o2": "Un zumbido o roce constante",
+   "o3": "Un siseo constante, como el aire que sale de un neumático"
+  }
+ },
+ "q_hum_source": {
+  "text": "¿De dónde viene el zumbido?",
+  "options": {
+   "o1": "De delante, del vano motor, y cambia con las revoluciones",
+   "o2": "Se conecta y se para solo: con calor, en atascos, con el aire acondicionado",
+   "o3": "De atrás, del depósito; se oye al dar el contacto, antes de arrancar"
+  }
+ },
+ "q_pump_check": {
+  "text": "¿Hay bajo el capó, cerca de la correa, restos o goteo de líquido?",
+  "options": {
+   "o1": "Sí, hay humedad o huele a refrigerante",
+   "o2": "Está seco",
+   "o3": "No he podido mirarlo"
+  }
+ },
+ "q_rattle": {
+  "text": "¿Qué ruido y de dónde?",
+  "options": {
+   "o1": "Cascabeleo metálico desde los bajos",
+   "o2": "Petardeos o explosiones por el escape",
+   "o3": "Borboteo o gorgoteo detrás del salpicadero"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Junto con el cascabeleo, ¿el coche ha perdido fuerza o el escape huele raro?",
+  "options": {
+   "o1": "Sí, tira menos o el olor ha cambiado",
+   "o2": "No, solo cascabelea a ciertas revoluciones"
+  }
+ },
+ "q_move_when": {
+  "text": "¿Cuándo se nota más el ruido en marcha?",
+  "options": {
+   "o1": "Al frenar",
+   "o2": "En curvas o al girar el volante",
+   "o3": "En baches y badenes",
+   "o4": "Al acelerar, al cambiar de marcha o todo el rato"
+  }
+ },
+ "q_brake_transient": {
+  "text": "¿El ruido aparece solo en las primeras frenadas tras estar parado o con lluvia y luego desaparece?",
+  "options": {
+   "o1": "Sí, desaparece enseguida",
+   "o2": "No, se oye en cada frenada"
+  }
+ },
+ "q_brake_char": {
+  "text": "¿Qué ruido hace al frenar?",
+  "options": {
+   "o1": "Chillido o chirrido",
+   "o2": "Roce de metal contra metal",
+   "o3": "Golpeteo o pulsaciones en el pedal"
+  }
+ },
+ "q_turn_char": {
+  "text": "¿Qué se oye en las curvas?",
+  "options": {
+   "o1": "Zumbido a velocidad, más fuerte hacia un lado",
+   "o2": "Chasquidos o crujidos con el volante a tope",
+   "o3": "Golpeteo al girar el volante",
+   "o4": "Aullido o zumbido al girar el volante parado o aparcando"
+  }
+ },
+ "q_bump_char": {
+  "text": "¿Qué ruido hace en los baches?",
+  "options": {
+   "o1": "Golpeteo o topetazos metálicos",
+   "o2": "Crujido, como una cama vieja",
+   "o3": "Cascabeleo o traqueteo",
+   "o4": "Un golpe seco al arrancar por primera vez tras estar mucho tiempo parado"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "¿Qué tipo de golpeteo exactamente?",
+  "options": {
+   "o1": "Golpeteo sordo y repetido en las irregularidades pequeñas",
+   "o2": "Golpes sordos sueltos en baches y badenes",
+   "o3": "El golpe llega directo al volante, se nota en las manos",
+   "o4": "El topetazo apareció de golpe tras pisar un bache y una esquina del coche ha bajado"
+  }
+ },
+ "q_bump_where": {
+  "text": "¿El golpeteo viene de delante o de detrás?",
+  "options": {
+   "o1": "De delante",
+   "o2": "De detrás",
+   "o3": "Difícil de saber"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "¿De dónde viene el cascabeleo?",
+  "options": {
+   "o1": "De los bajos",
+   "o2": "Del interior: salpicadero, puertas, grillos",
+   "o3": "Del maletero, como si algo rodara",
+   "o4": "De delante y arriba, por la zona del capó"
+  }
+ },
+ "q_move_manner": {
+  "text": "¿Cómo se relaciona el ruido con la conducción?",
+  "options": {
+   "o1": "Aparece al pisar o al soltar el acelerador",
+   "o2": "Justo al cambiar de marcha o al arrancar",
+   "o3": "Se oye continuamente mientras el coche rueda",
+   "o4": "Es más una vibración o un temblor que un ruido"
+  }
+ },
+ "q_accel_char": {
+  "text": "¿A qué se parece el ruido al acelerar?",
+  "options": {
+   "o1": "Tintineo metálico, sobre todo cuesta arriba",
+   "o2": "Un golpe justo al pisar o al soltar el acelerador",
+   "o3": "Petardeos o un rugido fuerte por el escape",
+   "o4": "Aullido o silbido bajo carga"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "¿Petardeos o rugido?",
+  "options": {
+   "o1": "Petardeos o explosiones",
+   "o2": "Rugido, más fuerte al acelerar; el coche tira como siempre",
+   "o3": "El motor ruge, suben las revoluciones y el coche no acelera; a veces huele a quemado"
+  }
+ },
+ "q_load_whine": {
+  "text": "¿Qué clase de aullido bajo carga?",
+  "options": {
+   "o1": "Un silbido agudo solo al pisar el acelerador, y al soltar desaparece (motor turbo)",
+   "o2": "Zumbido o aullido cuyo tono cambia al pisar y soltar el acelerador a la misma velocidad",
+   "o3": "Aullido monótono al acelerar; la caja es un CVT o un automático",
+   "o4": "El aullido suena más en una marcha y menos en otra; caja manual"
+  }
+ },
+ "q_shift_char": {
+  "text": "¿Qué pasa al cambiar de marcha o al arrancar?",
+  "options": {
+   "o1": "Un tirón o topetazo al pasar el automático de D a R o al cambiar de marcha",
+   "o2": "Un crujido al meter la marcha en una caja manual",
+   "o3": "El coche da tirones al arrancar, mientras sueltas el embrague",
+   "o4": "Un topetazo suelto bajo el coche al arrancar o al cambiar de acelerador"
+  }
+ },
+ "q_vibration": {
+  "text": "¿Cuándo es más fuerte el temblor?",
+  "options": {
+   "o1": "Entre 80 y 120 km/h el volante vibra finamente; por debajo y por encima, menos",
+   "o2": "Ya desde 40–60 km/h y va a más con la velocidad",
+   "o3": "En una franja estrecha de velocidad, el temblor va por el suelo y la carrocería; tracción trasera o total",
+   "o4": "Solo al frenar, el volante da tirones"
+  }
+ },
+ "q_const_char": {
+  "text": "¿A qué se parece el ruido continuo?",
+  "options": {
+   "o1": "Un zumbido o aullido constante",
+   "o2": "Roce, arrastre o pitido por el lado de una rueda",
+   "o3": "Un rugido fuerte o traqueteo",
+   "o4": "Silbido o aullido solo a alta velocidad"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "¿Qué ruido viene del lado de la rueda?",
+  "options": {
+   "o1": "Un pitido fino; al rozar apenas el freno desaparece o cambia",
+   "o2": "Arrastre; después de rodar la rueda está caliente y el coche se va hacia un lado",
+   "o3": "Roce o arrastre constante, y la rueda no se calienta",
+   "o4": "Golpeteo o chasquido rítmico al ritmo del giro de la rueda"
+  }
+ },
+ "q_wheel_click": {
+  "text": "¿Has cambiado, rotado o desmontado las ruedas hace poco?",
+  "options": {
+   "o1": "Sí, en los últimos días",
+   "o2": "No, hace mucho que no se tocan"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Una prueba: coge la velocidad a la que se oye el ruido, pon punto muerto y déjate rodar. ¿Sigue el zumbido?",
+  "options": {
+   "o1": "Sigue igual",
+   "o2": "Desaparece junto con las revoluciones del motor",
+   "o3": "No he podido probarlo"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "¿Cambia el volumen del aullido al cambiar de marcha?",
+  "options": {
+   "o1": "Sí, en cada marcha suena distinto",
+   "o2": "No, depende solo de las revoluciones del motor"
+  }
+ },
+ "q_hum_road": {
+  "text": "¿Cambia el zumbido en las curvas largas?",
+  "options": {
+   "o1": "Sí, hacia un lado suena más o menos",
+   "o2": "No, es constante a cualquier velocidad por encima de 40–60 km/h",
+   "o3": "Depende del firme de la carretera"
+  }
+ },
+ "q_hum_where": {
+  "text": "¿El zumbido viene de delante o de detrás?",
+  "options": {
+   "o1": "De delante",
+   "o2": "De detrás",
+   "o3": "Difícil de saber"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Batería descargada o bornes sulfatados",
+  "alt_causes": [
+   "Mala toma de masa",
+   "Motor de arranque al final de su vida"
+  ],
+  "explanation": "Un traqueteo rápido al intentar arrancar significa que al relé del motor de arranque le falta corriente: chasquea, pero no consigue mover el motor. La culpa suele ser de una batería descargada o de unos bornes sulfatados y mal apretados. Que las luces del cuadro se atenúen al intentar arrancar lo confirma.",
+  "advice": "Mira los bornes de la batería: limpia el polvillo blanco o verdoso y aprieta las grapas. Si no basta, carga la batería o haz un puente con otro coche y ve al taller o a la tienda a cambiarla. Si la batería tiene más de cuatro o cinco años, casi seguro que es ella."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Relé o contactos de potencia del motor de arranque",
+  "alt_causes": [
+   "Bornes sulfatados",
+   "Cableado hasta el motor de arranque"
+  ],
+  "explanation": "Un chasquido seco con las luces del cuadro normales significa que el relé actúa, pero el motor de arranque en sí no gira: los contactos de potencia están quemados, las escobillas gastadas o el relé se ha pegado. A veces arranca al segundo o tercer intento, y el diagnóstico es el mismo.",
+  "advice": "Prueba a arrancar unas cuantas veces más; si arranca una de cada dos, ve al taller en los próximos días, antes de quedarte tirado en cualquier aparcamiento. Revisa y aprieta los bornes de la batería. Dar un golpe al motor de arranque es un truco para llegar una vez, no una solución."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Piñón del motor de arranque o corona del volante motor",
+  "alt_causes": [
+   "Dientes de la corona desgastados",
+   "El motor de arranque está mal asentado"
+  ],
+  "explanation": "Un chirrido metálico al arrancar significa que el piñón del motor de arranque engrana mal con la corona dentada del volante motor: los dientes están gastados o el mecanismo se atasca. Cada arranque así se come los dientes del piñón y de la corona.",
+  "advice": "Pide cita en el taller dentro de esta semana: cambiar el piñón o el motor de arranque sale mucho más barato que la corona, para la que hay que desmontar la caja de cambios. Hasta la reparación, no mantengas la llave en posición de arranque más de lo necesario y no vuelvas a intentarlo justo después de un chirrido."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "El piñón no engrana o la corona tiene dientes rotos",
+  "alt_causes": [
+   "Rueda libre del piñón",
+   "Corona del volante motor"
+  ],
+  "explanation": "Si el motor de arranque zumba con ganas pero el motor ni siquiera intenta girar, el piñón está girando en vacío: la rueda libre del piñón está gastada o a la corona le faltan dientes justo en ese punto.",
+  "advice": "A veces arranca al segundo intento, porque el volante motor se para en otra posición. Aun así, ve al taller en los próximos días: con cada intento el daño crece. Si el coche es manual, en caso extremo puedes arrancarlo empujando; con un automático eso no se puede hacer."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Hojas o suciedad en el ventilador de la calefacción",
+  "alt_causes": [
+   "Filtro de habitáculo saturado",
+   "Objeto extraño en el conducto de aire"
+  ],
+  "explanation": "Un roce o crepitar que cambia con la velocidad del ventilador son casi siempre hojas o suciedad que han entrado por la toma de aire hasta el ventilador de la calefacción. En otoño es de lo más común, sobre todo si el filtro de habitáculo está saturado o directamente no está.",
+  "advice": "Cambia el filtro de habitáculo (a menudo la suciedad está justo encima) — en muchos coches se hace en diez minutos y las instrucciones del modelo se encuentran fácilmente. Si el roce sigue, pide en el taller que soplen y limpien el ventilador."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Cojinete o casquillos del motor del ventilador",
+  "alt_causes": [
+   "Suciedad en el ventilador",
+   "La turbina roza la carcasa"
+  ],
+  "explanation": "Un chillido o aullido bajo el salpicadero que solo aparece con el ventilador encendido lo produce el motor del ventilador desgastado. La prueba es sencilla: apaga el ventilador y el chillido desaparece al instante, aunque el motor del coche siga en marcha.",
+  "advice": "No afecta a la seguridad, pero con el tiempo el motorcito empieza a agarrotarse y te deja sin calefacción: mejor cambiarlo antes del frío. Hasta entonces puedes usar las velocidades de ventilador en las que suena menos."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomotor de una trampilla de la calefacción",
+  "alt_causes": [
+   "Calibración normal de las trampillas",
+   "Dientes rotos en el engranaje del servomotor"
+  ],
+  "explanation": "Una serie de chasquidos rápidos o un traqueteo detrás del salpicadero al dar el contacto o al cambiar la temperatura viene del servomotor que mueve las trampillas de la calefacción. Si la serie es corta y siempre igual, suele ser solo la calibración. Un traqueteo interminable significa que los dientes del engranaje de plástico están comidos.",
+  "advice": "Si los chasquidos son cortos y la calefacción se regula con normalidad, no hace falta hacer nada. Si el traqueteo es largo o el aire no sale por donde lo has puesto, pide cita en el taller cuando puedas: al coche no le hace daño, pero se pierde comodidad."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Aire en el circuito de refrigeración (nivel bajo de refrigerante)",
+  "alt_causes": [
+   "Tapón del vaso de expansión defectuoso",
+   "Fuga de refrigerante"
+  ],
+  "explanation": "Un borboteo o gorgoteo detrás del salpicadero es una burbuja de aire pasando por el radiador de la calefacción. El aire entra en el circuito cuando el nivel de refrigerante ha bajado: hay una fuga en algún punto o el tapón del vaso de expansión no aguanta la presión. La calefacción puede soplar unas veces caliente y otras fría.",
+  "advice": "Con el motor frío, comprueba el nivel del vaso de expansión y rellénalo hasta la marca; luego vigila si vuelve a bajar. Si el nivel sigue cayendo o la calefacción sopla frío con el motor caliente, al taller esta semana. Si la aguja de temperatura sube o sale vapor: para y apaga el motor."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "El embrague del compresor del aire acondicionado patina",
+  "alt_causes": [
+   "Correa floja",
+   "Placa de presión del embrague desgastada"
+  ],
+  "explanation": "Un chillido justo en el momento de conectar el aire acondicionado significa que el embrague que une el compresor a la correa patina bajo carga. Un chasquido suelto al conectar es normal; el chillido, en cambio, indica un embrague desgastado o una correa floja.",
+  "advice": "Llévalo al taller en un par de semanas: si se deja pasar, el chillido se vuelve continuo y el compresor puede agarrotarse y romper la correa. Hasta la reparación puedes usar el aire, pero si el chillido va a más, apágalo."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Compresor del aire acondicionado (cojinete o desgaste)",
+  "alt_causes": [
+   "Cojinete de la polea del embrague",
+   "Nivel bajo de aceite en el circuito"
+  ],
+  "explanation": "Un roce o traqueteo que solo se oye con el aire acondicionado en marcha viene de un compresor que se está muriendo o del cojinete de su polea. Un compresor agarrotado rompe la correa, y en muchos coches esa correa mueve también el alternador y la bomba de agua.",
+  "advice": "De momento no conectes el aire: así el conjunto aguanta hasta la reparación. Pide diagnóstico dentro de esta semana: mientras solo se rompa el cojinete, la reparación sale mucho más barata que cambiar el compresor y limpiar todo el circuito."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Paso normal del refrigerante",
+  "alt_causes": [
+   "Funcionamiento normal de la válvula de expansión"
+  ],
+  "explanation": "Un siseo o borboteo corto detrás del salpicadero en los primeros segundos tras conectar o desconectar el aire acondicionado es el refrigerante pasando por la válvula de expansión. Si el habitáculo enfría, es el funcionamiento normal del sistema y no una fuga.",
+  "advice": "No hace falta hacer nada. El motivo para revisarlo sería otro: si el siseo se vuelve constante y no enfría o enfría poco, pide una revisión del aire acondicionado."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Rodamiento del eje primario de la caja de cambios",
+  "alt_causes": [
+   "Cojinete de empuje del embrague",
+   "Rodillos de la correa de accesorios"
+  ],
+  "explanation": "Un roce o zumbido al ralentí que se calma al pisar el embrague viene de la caja: con el pedal suelto, el eje primario gira con el motor y su rodamiento gastado hace ruido. Al pisar, el eje se para y el ruido desaparece. La correa y sus rodillos no reaccionan en absoluto al pedal del embrague.",
+  "advice": "Pide diagnóstico en una o dos semanas y cuenta sin falta la relación del ruido con el pedal: eso orienta la búsqueda desde el principio. Comprueba el nivel de aceite de la caja. Puedes seguir rodando, pero no lo alargues meses: un rodamiento roto se lleva por delante ejes y engranajes."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Cojinete de empuje del embrague",
+  "alt_causes": [
+   "Rodamiento del eje primario",
+   "Horquilla del embrague"
+  ],
+  "explanation": "Un roce o zumbido que aparece o aumenta con el pedal del embrague pisado lo produce el cojinete de empuje, la pieza que aprieta el plato de presión al pisar. Un cojinete gastado hace ruido precisamente bajo carga, es decir, con el pedal pisado.",
+  "advice": "Pide cita en el taller en una o dos semanas. Mantén el pedal pisado lo menos posible: en el semáforo, punto muerto y suelta el embrague. Un cojinete que se rompe puede dejarte sin embrague en marcha, así que no se puede alargar durante meses."
+ },
+ "leaf_dmf": {
+  "top_cause": "Volante motor bimasa",
+  "alt_causes": [
+   "Muelles del disco de embrague",
+   "Cojinete de empuje"
+  ],
+  "explanation": "Un cascabeleo metálico al ralentí por el lado de la caja, que cambia al pisar el embrague y se oye sobre todo en los segundos del arranque y del apagado, es la firma típica de un volante bimasa desgastado: el amortiguador entre motor y caja que absorbe los tirones.",
+  "advice": "Pide diagnóstico en un par de semanas y describe la relación del ruido con el pedal y con el arranque y el apagado. El cambio no es barato, pero alargarlo se lleva también el embrague y puede acabar con el volante roto en marcha. Hasta la reparación, arranca con suavidad y no fuerces el motor a pocas revoluciones."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mecanismo del pedal de embrague (eje, horquilla, cable)",
+  "alt_causes": [
+   "Casquillos del eje del pedal",
+   "Horquilla del cojinete de empuje"
+  ],
+  "explanation": "Un crujido al pisar el pedal que se oye incluso con el motor apagado es mecánica seca del mando del embrague: el eje del pedal, el cable o la horquilla. Como el ruido existe sin el motor en marcha, la correa, el cojinete de empuje y la caja no tienen nada que ver.",
+  "advice": "Pide en el taller que engrasen el eje del pedal y la horquilla en la próxima visita: muchas veces se resuelve en minutos. No hay peligro. Si junto al crujido el pedal se ha vuelto duro o el embrague agarra justo al final del recorrido, llévalo antes."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Cojinete del soporte superior del amortiguador",
+  "alt_causes": [
+   "Cremallera de dirección",
+   "Bieletas de la barra estabilizadora"
+  ],
+  "explanation": "Un crujido o chasquidos al girar el volante estando parado, que vienen de arriba, del paso de rueda, los produce el cojinete del soporte superior: la pieza sobre la que la parte alta del amortiguador gira junto con la rueda. Otra señal son golpes secos sueltos desde arriba al pasar baches.",
+  "advice": "Pide diagnóstico en una o dos semanas: la comprobación es sencilla, con la mano sobre la copela bajo el capó los chasquidos se notan enseguida. Puedes seguir rodando, pero un soporte gastado acelera el desgaste del amortiguador y empeora el retorno del volante."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Cardan de la columna de dirección (cruceta)",
+  "alt_causes": [
+   "Holgura en el estriado del eje",
+   "Cremallera de dirección"
+  ],
+  "explanation": "Un chasquido o golpe que se oye y se nota directamente en el volante, a la altura de los pies, suele venir de la cruceta del eje intermedio de la columna: la pequeña junta entre el volante y la cremallera. Con el motor apagado, moviendo el volante a un lado y a otro, el chasquido se oye con claridad.",
+  "advice": "Llévalo al taller en los próximos días: la dirección es un elemento de seguridad y la comprobación son minutos. La holgura en la columna solo crece con el tiempo y hace que el volante se note vacío."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Servofreno o su tubo de vacío",
+  "alt_causes": [
+   "Válvula antirretorno del servofreno",
+   "Grieta en el tubo de vacío"
+  ],
+  "explanation": "Un siseo bajo el salpicadero que aparece y cambia justo al pisar y soltar el pedal de freno es entrada de aire en el servofreno: la pieza que reduce el esfuerzo del pedal. El pedal suele volverse claramente más duro y el ralentí tiembla.",
+  "advice": "Pide cita en el taller esta semana: los frenos funcionan también sin servofreno, pero hay que pisar mucho más fuerte, y en una frenada de emergencia eso es peligroso. Comprueba el pedal antes de salir: si está duro como una tabla, conduce con cuidado y poca distancia."
+ },
+ "leaf_wipers": {
+  "top_cause": "Varillaje del limpiaparabrisas o gomas de las escobillas",
+  "alt_causes": [
+   "Tuercas de los brazos flojas",
+   "Casquillos del motor del limpiaparabrisas gastados"
+  ],
+  "explanation": "Un golpeteo en los extremos del barrido es holgura en las articulaciones del varillaje —el mecanismo que mueve las escobillas— o tuercas de los brazos flojas. Un chirrido uniforme sobre el cristal son gomas endurecidas. La prueba es sencilla: apaga el limpiaparabrisas y el ruido desaparece del todo al instante.",
+  "advice": "Las gomas que chirrían puedes cambiarlas tú: las escobillas se venden en cualquier tienda de recambios. Para el golpeteo en los extremos, aprieta las tuercas de los brazos o pide que cambien los casquillos del varillaje cuando vayas al taller. A la seguridad solo le afecta que el cristal quede limpio."
+ },
+ "leaf_eps": {
+  "top_cause": "Dirección asistida eléctrica: un zumbido suave es normal",
+  "alt_causes": [
+   "Desgaste de la dirección asistida eléctrica",
+   "Cremallera de dirección"
+  ],
+  "explanation": "Si bajo el capó no hay depósito de líquido, la dirección asistida es eléctrica, y un zumbido suave y constante al girar es su funcionamiento normal, no una avería. En un coche así sencillamente no existe la bomba hidráulica que aúlla cuando falta líquido.",
+  "advice": "Las señales de alarma de una dirección eléctrica son otras: el volante se pone duro o se endurece a tirones, aparece un crujido, o se enciende el testigo de la dirección. Si ocurre algo de esto, al taller en los próximos días; si no, puedes seguir conduciendo con tranquilidad."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Junta o grieta del colector de escape",
+  "alt_causes": [
+   "Espárragos del colector",
+   "Taqués hidráulicos"
+  ],
+  "explanation": "Un repiqueteo rápido en frío, más fuerte desde fuera y acompañado de olor a escape bajo el capó, son gases que se escapan por una junta quemada o una grieta del colector de escape. Al calentarse, el metal se dilata, la rendija se cierra y el repiqueteo desaparece.",
+  "advice": "Pide cita en el taller en una o dos semanas: con el tiempo la rendija crece, y el olor a escape puede entrar al habitáculo por la calefacción, lo cual es nocivo. Hasta la reparación, ventila el interior si notas el olor."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Repiqueteo normal de los inyectores (inyección directa o diésel)",
+  "alt_causes": [
+   "Bomba de alta presión",
+   "Holgura de válvulas"
+  ],
+  "explanation": "En motores de inyección directa (TSI, GDI y similares) y en los diésel, los inyectores y la bomba de alta presión repiquetean siempre: es su funcionamiento normal. Las señales que lo distinguen: el ruido suena igual en frío y en caliente, se oye más desde fuera que dentro, y no depende de lo viejo que esté el aceite.",
+  "advice": "No hace falta hacer nada. Lo que sí debe llamar la atención es otra cosa: si el tableteo se ha vuelto claramente más fuerte que antes, cambia al calentarse el motor o aparece junto con pérdida de fuerza, entonces sí, a diagnóstico."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Entrada de aire falso (tubo de vacío, junta de admisión)",
+  "alt_causes": [
+   "Manguito agrietado",
+   "Junta del colector de admisión"
+  ],
+  "explanation": "Un siseo constante bajo el capó, como el aire que sale de un neumático pinchado, es aire sin medir que entra por un tubo agrietado o por la junta de admisión. El motor suele funcionar irregular: el ralentí baila y a veces se enciende el testigo de avería del motor.",
+  "advice": "Pide diagnóstico en los próximos días, sobre todo si el ralentí baila: buscar entradas de aire es un procedimiento habitual. Por tu cuenta puedes mirar si los tubos finos de goma bajo el capó tienen grietas, sin desmontar nada."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Ventilador de refrigeración (casquillos o funcionamiento continuo)",
+  "alt_causes": [
+   "Sensor de temperatura o termostato",
+   "Embrague viscoso (en tracción trasera)"
+  ],
+  "explanation": "Un zumbido o rugido que se conecta y se para solo —con calor, en atascos, con el aire acondicionado— es el ventilador del radiador. Un ventilador ruidoso significa o bien casquillos gastados en su motor, o bien que gira sin parar por culpa de un sensor o del termostato. A veces sigue funcionando un par de minutos después de apagar el coche: eso es normal.",
+  "advice": "Si el ventilador ruge sin parar desde el arranque con el motor frío, a diagnóstico en los próximos días: el circuito de refrigeración no está trabajando bien. Vigila la aguja de temperatura; si sube, para y apaga el motor."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Bomba de gasolina eléctrica",
+  "alt_causes": [
+   "Filtro de combustible saturado",
+   "Filtro de malla de la bomba"
+  ],
+  "explanation": "Un zumbido o aullido constante por detrás, bajo el asiento trasero o por la zona del depósito, es la bomba de gasolina. Oírla un par de segundos al dar el contacto es normal, pero un aullido fuerte que se nota también en marcha indica una bomba desgastada o un filtro saturado que la obliga a trabajar forzada.",
+  "advice": "Pide una comprobación de la presión de combustible en una o dos semanas. No circules mucho tiempo con la reserva encendida: en el fondo del depósito la bomba se refrigera peor y se desgasta antes. Si el coche empieza a dar tirones bajo carga o le cuesta arrancar, adelanta la visita."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Catalizador deshecho",
+  "alt_causes": [
+   "Chapa antitérmica",
+   "Soportes del escape"
+  ],
+  "explanation": "Un cascabeleo metálico o un ruido de arenilla desde los bajos, más cerca del motor, que aumenta al dar un acelerón y viene acompañado de pérdida de fuerza o de un olor distinto en el escape, es la cerámica del catalizador que se ha roto. Los trozos suenan dentro de la carcasa y el panal obstruido ahoga el motor.",
+  "advice": "A diagnóstico en los próximos días: los trozos de cerámica pueden acabar succionados hacia el motor, y eso ya es una reparación cara. Una comprobación sencilla en el taller es golpear suavemente el cuerpo del catalizador con el coche frío: dentro suenan los trozos sueltos. Con esto no conviene esperar."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Caja automática: aceite viejo, desgaste u holgura en la transmisión",
+  "alt_causes": [
+   "Soportes de motor y caja",
+   "Crucetas del árbol de transmisión (en tracción trasera)"
+  ],
+  "explanation": "Un tirón o topetazo justo al pasar el selector de D a R o al cambiar de marcha indica desgaste o aceite viejo en la caja automática: la marcha entra con golpe y las holguras de la transmisión lo amplifican. Unos soportes vencidos golpean de forma parecida, así que conviene confirmar el diagnóstico.",
+  "advice": "Lo primero, comprueba el nivel y el estado del aceite de la caja: si está oscuro y huele a quemado, hay que cambiarlo, y en muchos casos con eso basta. Pide diagnóstico en una o dos semanas y di en qué cambios concretos da el tirón. Hasta la reparación, mueve el selector solo con el coche totalmente parado y el freno pisado."
+ },
+ "leaf_synchro": {
+  "top_cause": "Sincronizadores de la caja o embrague que no desembraga del todo",
+  "alt_causes": [
+   "Recorrido libre del pedal de embrague",
+   "Desgaste del embrague"
+  ],
+  "explanation": "Un crujido al meter la marcha en una caja manual significa que los engranajes se encuentran girando a distinta velocidad. Si cruje una o dos marchas concretas (a menudo la segunda o la tercera), sus sincronizadores están gastados; si crujen todas, el embrague no desembraga del todo y la caja no queda libre.",
+  "advice": "Comprueba el recorrido libre del pedal de embrague y el nivel de aceite de la caja: por ahí empezará también el taller. Pide diagnóstico en un par de semanas. Hasta la reparación, cambia más despacio y con una pausa en punto muerto: cruje menos y se desgasta menos."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Embrague: disco desgastado o manchado de aceite",
+  "alt_causes": [
+   "Soportes de motor",
+   "Volante motor bimasa"
+  ],
+  "explanation": "Un temblor justo en el momento de arrancar, mientras sueltas el pedal del embrague, y una marcha suave una vez que el embrague ha acoplado del todo, significa que el embrague agarra a tirones: el disco está gastado, manchado de aceite o el plato de presión se ha deformado. Los soportes de motor también hacen temblar el coche al ralentí; aquí el temblor solo vive en la fase de arranque.",
+  "advice": "Pide diagnóstico en una o dos semanas: el temblor al arrancar no se va solo y suele ir a más. Hasta la reparación, arranca con suavidad y algo más de revoluciones, sin patinar el embrague. Si aparece olor a quemado, el embrague se está quemando: no esperes con la visita."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Crucetas del árbol de transmisión u holgura en la transmisión",
+  "alt_causes": [
+   "Silentblocks y tornillos del subchasis",
+   "Grupo cónico del diferencial"
+  ],
+  "explanation": "Un topetazo o chasquido suelto desde la zona central o trasera de los bajos al arrancar y al pasar de acelerar a levantar el pie es holgura en la cadena que transmite la fuerza: lo más habitual son crucetas gastadas del árbol de transmisión (tracción trasera y total) o soportes del subchasis flojos.",
+  "advice": "Pide diagnóstico en una o dos semanas: en el elevador la holgura del árbol se encuentra en un minuto moviéndolo con la mano. No conviene alargarlo: una cruceta muy castigada puede romperse en marcha. Hasta la reparación, arranca y levanta el pie del acelerador con más suavidad."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "El embrague patina",
+  "alt_causes": [
+   "Disco manchado de aceite",
+   "Patinamiento de la caja automática o del CVT"
+  ],
+  "explanation": "Si al pisar el acelerador suben las revoluciones y el motor ruge pero el coche apenas acelera, el embrague está patinando y no transmite la fuerza: el disco está gastado o manchado de aceite. Se nota sobre todo cuesta arriba y en la marcha más larga, y a menudo se suma un olor acre a quemado. En un automático, una caja desgastada patina igual.",
+  "advice": "Al taller esta semana: un embrague que patina acaba patinando hasta perder la tracción del todo, y normalmente en el momento más inoportuno. Hasta la reparación, conduce tranquilo, sin adelantamientos ni remolque, y cuesta arriba reduce con antelación. Si el olor a quemado va a más, no esperes ni un día."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo o fuga de presión de sobrealimentación",
+  "alt_causes": [
+   "Manguito del intercooler",
+   "Cojinete del eje del turbo"
+  ],
+  "explanation": "Un silbido ligero y constante del turbo bajo carga es normal en un motor turboalimentado. Lo que debe llamar la atención es el cambio: que el silbido suene más fuerte o con otro tono, que aparezca un aullido o que el coche pierda fuerza. Eso es o bien una fuga de aire en los manguitos de sobrealimentación, o bien desgaste del cojinete del eje del turbo.",
+  "advice": "Si el tono ha cambiado o el coche tira menos, a diagnóstico en los próximos días: una fuga en un manguito se arregla barato, mientras que un turbo desgastado y desatendido acaba en sustitución. Vigila el consumo de aceite. Hasta la revisión, no lleves el motor al corte y deja el turbo enfriarse uno o dos minutos al ralentí después de una conducción alegre."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Grupo cónico del diferencial",
+  "alt_causes": [
+   "Rodamientos del diferencial",
+   "Nivel bajo de aceite en el diferencial"
+  ],
+  "explanation": "Un aullido o zumbido que, a la misma velocidad, cambia de tono al pisar y al soltar el acelerador —bajo tracción aúlla y en retención se calma, o al revés— es la firma de un grupo cónico desgastado: los engranajes del diferencial que llevan el giro a las ruedas. Un rodamiento de rueda, en cambio, no reacciona en absoluto al acelerador.",
+  "advice": "Comprueba el nivel de aceite del diferencial y pide diagnóstico dentro de esta semana: con desgaste temprano suele bastar con aceite y un reglaje; con desgaste avanzado hay que cambiar el grupo. Aplaza los viajes largos a alta velocidad hasta la revisión."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT o caja automática (rodamientos, correa, convertidor)",
+  "alt_causes": [
+   "Aceite de la caja bajo o viejo",
+   "Rodamientos de los ejes"
+  ],
+  "explanation": "Un aullido metálico monótono al acelerar en un coche con CVT o automático, que depende del acelerador y no de la velocidad, suele venir de los rodamientos de las poleas del CVT o de la bomba de la automática. El CVT es especialmente sensible a la edad del aceite.",
+  "advice": "Lo primero, comprobar el nivel y el estado del aceite de la caja: eso resuelve la mitad de estos casos. Pide diagnóstico dentro de esta semana y hasta entonces conduce tranquilo, sin acelerones ni remolque. Reparar un CVT a tiempo cuesta varias veces menos que hacerlo tarde."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Rodamientos o engranajes de la caja manual",
+  "alt_causes": [
+   "Nivel bajo de aceite en la caja",
+   "Rodamiento del eje primario"
+  ],
+  "explanation": "Un aullido cuyo volumen depende de la marcha puesta —en una suena, en otra menos, y rodando en punto muerto desaparece— viene de la caja manual: rodamientos de los ejes gastados o un par de engranajes concreto. Un rodamiento de rueda zumba igual en cualquier marcha.",
+  "advice": "Comprueba el nivel de aceite de la caja: que haya bajado es una causa frecuente. Pide diagnóstico en una o dos semanas y di en qué marchas aúlla más: eso acota la búsqueda. Puedes seguir rodando, pero un aullido que va a más no conviene alargarlo."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Desequilibrio de las ruedas",
+  "alt_causes": [
+   "Contrapeso de equilibrado perdido",
+   "Barro o hielo dentro de la llanta"
+  ],
+  "explanation": "Una vibración fina del volante en una franja estrecha de velocidad, normalmente entre 80 y 120 km/h, que por debajo y por encima casi desaparece, es el clásico desequilibrado: se ha caído un contrapeso o se ha pegado barro o hielo en el interior de la llanta. Si vibra el volante son las ruedas delanteras; si vibra el asiento, las traseras.",
+  "advice": "Pasa por el taller a equilibrar cuando puedas: es rápido y barato. En invierno, mira primero el interior de las llantas y quita la nieve y el hielo pegados. No hay peligro, pero una vibración constante acelera el desgaste de rodamientos y rótulas de dirección."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Llanta doblada o hernia en el neumático",
+  "alt_causes": [
+   "Cinturón del neumático desplazado",
+   "Desequilibrio de las ruedas"
+  ],
+  "explanation": "Un baile que ya se nota desde 40–60 km/h y aumenta con la velocidad suele ser una deformación: una llanta doblada tras un bache o una hernia (un bulto) en el flanco del neumático. A diferencia del desequilibrado, este baile no vive en una franja estrecha de velocidad, sino que va a más de forma continua.",
+  "advice": "Revisa los neumáticos y los bordes de las llantas: un bulto en el flanco o una llanta doblada suelen verse a simple vista. Una hernia es un punto débil que puede reventar a velocidad: cambia esa rueda por la de repuesto y no aplaces la visita al taller de neumáticos. Hasta entonces, no corras."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Árbol de transmisión: rodamiento central o desequilibrio",
+  "alt_causes": [
+   "Crucetas del árbol",
+   "Disco flexible de transmisión"
+  ],
+  "explanation": "Un zumbido y una vibración fina por el suelo y la carrocería en una franja concreta de velocidad, en un coche con tracción trasera o total, son el árbol de transmisión: rodamiento central gastado, crucetas machacadas o equilibrado perdido. Se distingue del desequilibrado de ruedas en que no vibra el volante, sino el suelo.",
+  "advice": "Pide diagnóstico dentro de esta semana: las holguras del árbol se comprueban en el elevador en cuestión de minutos. No conviene alargarlo: que una cruceta se rompa a velocidad es peligroso. Hasta la revisión, no circules mucho rato a la velocidad en la que vibra."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Ruido aerodinámico (gomas, molduras, baca)",
+  "alt_causes": [
+   "Gomas de las puertas desgastadas",
+   "Barras o cofre de techo"
+  ],
+  "explanation": "Un silbido o aullido que solo aparece por encima de cierta velocidad (normalmente 70–90 km/h), aumenta con ella y no depende del firme ni de las curvas, es aire: una goma desgastada, una moldura despegada, las barras del techo o un cofre.",
+  "advice": "El origen se busca fácil: quita el cofre o las barras si los llevas; abre un poco la ventanilla y comprueba si cambia el silbido; tapa la junta sospechosa con cinta de pintor y da una vuelta. No es una avería: se arregla cambiando la goma o ajustando la puerta."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "El testigo de desgaste de las pastillas roza el disco",
+  "alt_causes": [
+   "Pastillas al límite",
+   "Piedrecilla entre la pastilla y el disco"
+  ],
+  "explanation": "Un pitido metálico fino en marcha sin pisar el freno, que al rozar apenas el pedal desaparece o cambia, es la chapita indicadora de la pastilla que ha empezado a tocar el disco. Es un aviso previsto de fábrica: al material de la pastilla casi no le queda vida.",
+  "advice": "Pide cita esta semana para cambiar las pastillas y que revisen también los discos. De momento los frenos funcionan del todo, pero la siguiente fase es el roce metálico y los discos estropeados. Si el pitido viene de una rueda concreta, dilo en el taller."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Pinza de freno agarrotada",
+  "alt_causes": [
+   "Guías de la pinza agarrotadas",
+   "Latiguillo de freno hinchado por dentro"
+  ],
+  "explanation": "Un roce continuo por el lado de una rueda, el disco caliente al terminar el trayecto, olor a quemado y el coche que se va hacia un lado significan que la pinza —la pieza que aprieta las pastillas contra el disco— se ha agarrotado y la pastilla roza todo el rato. Un freno recalentado pierde eficacia, y pastilla y disco se destrozan en unos cientos de kilómetros.",
+  "advice": "Deja de usar el coche con normalidad y ve solo hasta el taller, poca distancia y despacio. Para saber qué rueda está caliente, acerca la mano cerca del disco sin llegar a tocarlo: quema. Si lo alargas, puedes acabar con la rueda bloqueada en marcha."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Tornillos de rueda mal apretados",
+  "alt_causes": [
+   "Agujeros de la llanta ovalados",
+   "Holgura en el buje"
+  ],
+  "explanation": "Un topetazo o golpeteo rítmico al compás del giro de la rueda, aparecido en los primeros días tras montar o cambiar neumáticos, es el clásico caso de tornillos de rueda mal apretados. Una rueda con los tornillos flojos ovala los agujeros de la llanta y, en el peor caso, se suelta en marcha.",
+  "advice": "Para en cuanto puedas y comprueba con la llave el apriete de los tornillos de todas las ruedas. Si estaban flojos y los aprietas, el golpeteo debería desaparecer; si sigue, ve con cuidado al taller y que revisen el buje. Después de cualquier montaje de ruedas conviene reapretar los tornillos a los 50–100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Piedrecilla o tornillo clavado en el dibujo",
+  "alt_causes": [
+   "Tornillos de rueda mal apretados",
+   "Despegue de la banda de rodadura"
+  ],
+  "explanation": "Un chasquido o taconeo regular al compás del giro de la rueda, sobre todo a poca velocidad, lo produce casi siempre una piedrecilla atrapada en el dibujo o, lo que es más importante, un tornillo clavado. El ruido dura mientras el objeto siga en el neumático.",
+  "advice": "Revisa el dibujo de todas las ruedas moviendo el coche despacio o girando el volante a tope. La piedrecilla, sácala. Un tornillo o un clavo, no lo saques: con él puedes llegar tranquilamente al taller de neumáticos, y sin él la rueda se desinflará por el camino. Si no hay nada en el dibujo y el chasquido sigue, comprueba el apriete de los tornillos de rueda."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Casquillos de la barra estabilizadora o silentblocks (crujido)",
+  "alt_causes": [
+   "Rótulas de suspensión",
+   "Gomas y bisagras de las puertas resecas"
+  ],
+  "explanation": "Un crujido de cama vieja en los baches, al subir al coche y al balancearlo, es goma seca en la suspensión: los casquillos de la barra estabilizadora o los silentblocks (las articulaciones de goma de los brazos). Con frío y humedad suena más. Se reproduce empujando con la mano el coche parado por una aleta.",
+  "advice": "Enséñalo en el taller cuando puedas: muchas veces se soluciona engrasando los casquillos o cambiando piezas de céntimos. No hay peligro; pero si junto al crujido aparece un golpeteo o el coche empieza a irse hacia un lado, ya hablamos de rótulas y la revisión no debe esperar."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Pastillas pegadas al disco",
+  "alt_causes": [
+   "Pastillas congeladas (en invierno)",
+   "Zapatas del freno de mano"
+  ],
+  "explanation": "Un golpe seco fuerte o un crujido al arrancar por primera vez tras estar mucho tiempo parado, sobre todo con el freno de mano puesto, después del lavadero, de lluvia o de una helada, son las pastillas que se habían pegado o congelado a los discos y se sueltan. Si el resto del trayecto va en silencio, es inofensivo.",
+  "advice": "No hace falta hacer nada; en invierno puedes dejar el coche con una marcha metida en lugar del freno de mano —solo en cambio manual— para que las pastillas traseras no se congelen. Si el crujido se repite en cada arranque, ya no son las pastillas: vuelve a pasar el diagnóstico."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Holgura en la cremallera de dirección",
+  "alt_causes": [
+   "Rótulas de dirección",
+   "Cardan de la columna"
+  ],
+  "explanation": "Un golpeteo sobre firme rugoso y juntas de la calzada que llega directo al volante y se nota en las manos es holgura en la cremallera de dirección: el casquillo o el engrane están gastados. Una señal característica: el golpeteo se calma si mantienes el volante ligeramente en tensión.",
+  "advice": "Que revisen la dirección en el taller en los próximos días: es un elemento de seguridad y la comprobación en el elevador son minutos. En algunos coches la cremallera se ajusta con un reglaje, y sale barato. Si el volante se ha quedado vacío en el centro o el coche baila dentro del carril, no lo aplaces."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Muelle de suspensión roto",
+  "alt_causes": [
+   "Amortiguador vencido",
+   "Copela del muelle rota"
+  ],
+  "explanation": "Un topetazo o roce metálico en los baches y en las curvas, aparecido de golpe tras pisar un bache, junto con una esquina del coche más baja, es el cuadro típico de una espira de muelle partida. El trozo roto puede rozar y golpear cuando trabaja la suspensión.",
+  "advice": "Mira por debajo, detrás de la rueda: una espira partida se suele ver a simple vista. Al taller en unos días, y hasta la reparación conduce con suavidad: el trozo de muelle puede desplazarse y dañar el neumático. Los muelles se cambian por parejas en el mismo eje."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plásticos del interior: clips y juntas de los paneles",
+  "alt_causes": [
+   "Objetos en la guantera y los huecos",
+   "Gomas de las puertas resecas"
+  ],
+  "explanation": "Un cascabeleo de plástico cercano y grillos en las irregularidades pequeñas son roce y holgura de los paneles del interior: salpicadero, paneles de puerta, guantera. Con frío suena más. La prueba definitiva: si en marcha aprietas con la mano el panel sospechoso y el ruido desaparece, es el interior y no el tren rodante.",
+  "advice": "No es una avería: el coche está bien. Saca los objetos sueltos de la guantera y los huecos y mete un trozo de cinta de fieltro en la junta que hayas localizado. El crujido alrededor de las puertas se cura tratando las gomas con grasa de silicona. Un golpe del tren rodante, en cambio, es sordo, viene de abajo y no cambia al apretar los paneles."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Carga suelta o rueda de repuesto mal sujeta en el maletero",
+  "alt_causes": [
+   "Gato y herramientas",
+   "Bandeja del maletero"
+  ],
+  "explanation": "Un golpe sordo o traqueteo por detrás en los baches, como si algo saltara y rodara, suele ser exactamente eso: el gato, la llave de ruedas, una rueda de repuesto mal sujeta o la bandeja del maletero suelta. Con el maletero cargado, el ruido normalmente cambia o desaparece.",
+  "advice": "Vacía el maletero, comprueba la sujeción de la rueda de repuesto y del gato, aprieta la bandeja y vuelve a pasar por el mismo tramo. Si el ruido ha desaparecido, la suspensión no tiene nada que ver y no hay que hacer nada más. Si sigue, repite el diagnóstico por la rama de los golpes en baches."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Cierre o topes del capó",
+  "alt_causes": [
+   "Bisagras del capó",
+   "Retén de la puerta"
+  ],
+  "explanation": "Un golpeteo metálico delante y arriba, por el borde del capó, en las irregularidades pequeñas es holgura en el cierre del capó o unos topes de goma vencidos sobre los que apoya. Dentro del coche el ruido se oye cerca, como delante de la cara, y no desde abajo como un golpe de suspensión.",
+  "advice": "Comprobación en parado: empuja el capó cerrado; si se mueve y golpea, el diagnóstico queda confirmado. Desenrosca media vuelta hacia arriba los topes de goma de las esquinas para que el capó apoye más firme: en la mayoría de los casos basta con eso. No hay peligro."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Taqués hidráulicos (en frío)",
+  "alt_causes": [
+   "Holgura de válvulas",
+   "Aceite demasiado espeso"
+  ],
+  "explanation": "Los taqués hidráulicos son piezas pequeñas que, con la presión del aceite, eliminan la holgura sobrante de las válvulas. Mientras el motor está frío el aceite es espeso y no les llega enseguida, por eso los primeros minutos se oye un tableteo rápido. Si al calentarse el ruido desaparece del todo, es la situación típica y no es peligrosa.",
+  "advice": "Comprueba el nivel de aceite y cuándo toca cambiarlo: un aceite viejo o inadecuado aumenta el ruido. Si el tableteo dura más de un par de minutos o se mantiene con el motor caliente, pide cita en el taller. No conviene echar aditivos que prometen quitar ruidos."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Desgaste del conjunto pistón-cilindro (golpeteo en frío)",
+  "alt_causes": [
+   "Taqués hidráulicos",
+   "Cadena de distribución"
+  ],
+  "explanation": "Un golpeteo sordo durante los primeros minutos tras un arranque en frío, que se va al calentarse el motor, en coches con kilómetros suele venir del desgaste del conjunto pistón-cilindro: mientras el pistón está frío tiene algo más de holgura en el cilindro y golpetea. Al calentarse, las piezas se dilatan y el golpeteo desaparece. Normalmente es cosa de vigilar, no de reparar con urgencia.",
+  "advice": "Coméntalo en el taller en la próxima visita y fíjate cuántos minutos dura el golpeteo: es información útil para el mecánico. Vigila el nivel y el consumo de aceite. Si el golpeteo ya no desaparece al calentarse o se oye bajo carga, a diagnóstico sin demora."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Cadena de distribución o su tensor",
+  "alt_causes": [
+   "Taqués hidráulicos",
+   "Rodillos de la correa de accesorios"
+  ],
+  "explanation": "La cadena de distribución es la cadena que hay dentro del motor y que une sus árboles para que las válvulas abran en el momento justo. Cuando se estira o su tensor pierde fuerza, al arrancar en frío se oye un roce o traqueteo en la parte delantera del motor que se calma al calentarse, cuando sube la presión de aceite. Con el tiempo el ruido aparecerá cada vez más a menudo.",
+  "advice": "Pide diagnóstico en una o dos semanas: una cadena que salta de diente es una reparación de motor cara. Hasta entonces, evita arrancar y acelerar en frío y deja que el motor se caliente antes de exigirle. Comprueba sin falta el nivel de aceite."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "La correa de accesorios patina",
+  "alt_causes": [
+   "Rodillo tensor gastado",
+   "Tensión de la correa insuficiente"
+  ],
+  "explanation": "Un chillido en los primeros segundos tras arrancar viene casi siempre de la correa que mueve el alternador, la bomba de agua y el compresor del aire. En frío o con humedad patina sobre las poleas y silba; luego se calienta y se calla. Ahora mismo no es peligroso, pero indica una correa gastada o una tensión floja.",
+  "advice": "Enseña la correa en el taller cuando puedas: mirarla lleva un par de minutos. Si el silbido empieza a aparecer también con el motor caliente o al conectar el aire acondicionado, no lo aplaces. No rocíes WD-40 sobre la correa ni pruebes otros remedios caseros."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Holgura de válvulas excesiva",
+  "alt_causes": [
+   "Taqués hidráulicos",
+   "Cadena de distribución"
+  ],
+  "explanation": "Un tableteo rápido y regular en la parte alta del motor es el sonido típico del tren de válvulas. Con el tiempo las holguras entre sus piezas crecen y las válvulas empiezan a repiquetear; al ralentí es cuando mejor se oye. El motor no se va a romper por esto de inmediato, pero las válvulas trabajan a golpes y se desgastan antes.",
+  "advice": "Pide cita para el reglaje de válvulas o la revisión de los taqués hidráulicos en un par de semanas. Vigila el nivel de aceite: con el nivel bajo el tableteo aumenta. Puedes conducir con tranquilidad, pero no lo dejes para dentro de meses."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Golpeteo en la parte baja del motor (casquillos, bielas)",
+  "alt_causes": [
+   "Detonación",
+   "Desgaste del conjunto pistón-cilindro",
+   "Polea del cigüeñal (amortiguador de vibraciones)"
+  ],
+  "explanation": "Un golpeteo sordo desde el fondo del motor, que se acelera con las revoluciones y aumenta bajo carga, es el más preocupante de todos los ruidos del motor. Así golpean unos casquillos gastados —los cojinetes sobre los que gira el cigüeñal— o las bielas: ha aparecido holgura en las uniones y las piezas se golpean entre sí. Si sigues conduciendo, el motor puede griparse.",
+  "advice": "No sigas conduciendo por tu cuenta más de lo imprescindible: mejor grúa; si el taller está muy cerca, ve despacio y sin acelerar. Comprueba de inmediato el nivel de aceite y rellena si está bajo. Cosas menos graves pueden sonar parecido, pero tiene que comprobarlo un mecánico, y rápido."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Accesorios del motor o soportes de motor",
+  "alt_causes": [
+   "Embrague del compresor del aire acondicionado",
+   "Taqués hidráulicos"
+  ],
+  "explanation": "Un golpeteo que no se acelera al dar gas no suele venir del motor en sí, sino de lo que va montado sobre él: alternador, poleas, soportes y silentblocks. La holgura en esas piezas produce golpes sordos al ralentí, sobre todo cuando el motor tiembla un poco.",
+  "advice": "Pide diagnóstico en una o dos semanas: este tipo de ruidos el mecánico los localiza bien con el estetoscopio. Es útil que te fijes y le cuentes si el ruido cambia cuando arranca el aire acondicionado o cuando metes una marcha con el freno pisado."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Correa de accesorios gastada o floja",
+  "alt_causes": [
+   "Rodillo tensor",
+   "Polea del alternador"
+  ],
+  "explanation": "Un chillido agudo bajo el capó significa que la correa patina sobre las poleas. Lo más habitual es que la correa esté gastada o que el tensor haya perdido fuerza. Si la correa se rompe, se queda sin funcionar el alternador y, en muchos coches, también la bomba de agua que refrigera el motor, así que no se puede dejar pasar.",
+  "advice": "Lleva el coche al taller dentro de esta semana: cambiar correa y rodillo es un trabajo barato. Si el chillido sube de golpe, se enciende el testigo de la batería o la temperatura del motor empieza a subir: para y apaga el motor."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Bomba de agua",
+  "alt_causes": [
+   "Rodillos de la correa",
+   "Rodamiento del alternador"
+  ],
+  "explanation": "Un zumbido o roce por el lado de la correa junto con restos de refrigerante son las señales típicas de una bomba de agua que se está muriendo. Su rodamiento se desgasta, aparece holgura y por el retén empieza a rezumar refrigerante. Si la bomba se agarrota, el motor se recalienta rápido.",
+  "advice": "Ve al taller en los próximos días y vigila por el camino la temperatura del motor y el nivel de refrigerante. Si la temperatura sube o sale vapor por el capó: para y apaga el motor. El refrigerante se rellena solo con el motor frío."
+ },
+ "leaf_idler": {
+  "top_cause": "Rodillo tensor o rodillo guía",
+  "alt_causes": [
+   "Bomba de agua",
+   "Polea de rueda libre del alternador",
+   "Cadena de distribución o su tensor"
+  ],
+  "explanation": "Un zumbido o roce constante que cambia con las revoluciones del motor viene casi siempre del rodamiento de alguno de los rodillos por los que pasa la correa de accesorios. Un rodillo gastado suena cada vez más, puede empezar a agarrotarse y acabar rompiendo la correa.",
+  "advice": "Pide cita en el taller dentro de esta semana: el mecánico quita la correa y determina allí mismo qué rodillo suena. La bomba de agua, la polea de rueda libre del alternador e incluso la cadena de distribución pueden sonar parecido, y se comprueban de paso. Si el ruido se ha convertido en un roce metálico o un chillido, adelanta la visita."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Chapa antitérmica del escape",
+  "alt_causes": [
+   "Soportes del escape",
+   "Cubrecárter"
+  ],
+  "explanation": "Un cascabeleo metálico agudo a determinadas revoluciones lo produce casi siempre una chapa antitérmica suelta: la lámina fina que va sobre el silenciador o el catalizador. Suena desagradable, pero no afecta al funcionamiento del coche.",
+  "advice": "Pide en el taller que la aprieten o la sujeten con una abrazadera cuando puedas: es un trabajo de unos minutos. Conviene asegurarse de que lo que suena es la chapa y no los soportes del escape: en el elevador se ve enseguida."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Fallos de encendido o un agujero en el escape",
+  "alt_causes": [
+   "Bujías y bobinas de encendido",
+   "Silenciador o tubo perforado",
+   "Ajuste del equipo de gas (si petardea con gas)"
+  ],
+  "explanation": "Los petardeos por el escape significan que el combustible termina de quemarse fuera de los cilindros, ya en la línea de escape. Las causas son fallos de encendido (bujías, bobinas), una mezcla incorrecta o un agujero en el escape. Además del ruido, esto daña el catalizador, y cambiarlo sale caro.",
+  "advice": "Pide diagnóstico en los próximos días, sobre todo si el coche tira menos, funciona a tirones o se ha encendido el testigo del motor. No conviene rodar mucho tiempo con petardeos: el combustible sin quemar recalienta el catalizador. Si llevas equipo de gas y los petardeos aparecen con gas, a ajustar la instalación: para ella los petardeos son especialmente peligrosos."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Silenciador o tubo de escape perforado",
+  "alt_causes": [
+   "Junta del escape",
+   "Tubo flexible del escape agrietado"
+  ],
+  "explanation": "Un rugido fuerte que aumenta al pisar el acelerador suele significar un agujero en la línea de escape: silenciador, tubo o junta pasados. El sonido se vuelve deportivo, pero los gases salen antes de tiempo: eso es ruido, olor y riesgo de que entre monóxido de carbono al habitáculo.",
+  "advice": "Lleva el coche al taller esta semana: revisar el escape en el elevador lleva unos minutos. Si dentro se nota olor a escape, conduce con la ventanilla algo abierta y no calientes el motor en un garaje cerrado: el monóxido de carbono es peligroso."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Soportes de motor",
+  "alt_causes": [
+   "Fallos de encendido",
+   "Mariposa o inyectores sucios"
+  ],
+  "explanation": "Si al ralentí se nota temblor dentro del coche y el volante y los asientos vibran finamente, la culpa suele ser de los soportes de motor: los tacos de goma que absorben sus vibraciones. Con el tiempo la goma se endurece y se rompe, y la vibración pasa a la carrocería.",
+  "advice": "Que revisen los soportes en el taller en un par de semanas: la comprobación es sencilla. Una pista para el diagnóstico: la vibración de los soportes suele aumentar con una marcha metida y el freno pisado. Si además el motor da tirones, díselo al mecánico: puede haber fallos de encendido."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Óxido superficial en los discos de freno",
+  "alt_causes": [
+   "Humedad o polvo en las pastillas",
+   "Desgaste incipiente de las pastillas"
+  ],
+  "explanation": "Durante la noche, después de la lluvia o del lavadero, sobre los discos aparece una fina capa anaranjada: es normal en cualquier coche. Las primeras frenadas la limpian, y de ahí el chirrido o el ligero roce que desaparece enseguida.",
+  "advice": "No hace falta hacer nada: unas cuantas frenadas suaves al principio del trayecto limpian los discos. Si el ruido ya no desaparece y se oye en cada frenada, repite el diagnóstico o lleva el coche al taller."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Estado o desgaste de las pastillas de freno",
+  "alt_causes": [
+   "Testigo de desgaste de las pastillas",
+   "Pastillas cristalizadas",
+   "Polvo o corrosión en los discos"
+  ],
+  "explanation": "Un chillido en cada frenada es la señal de revisar las pastillas. Muchas pastillas llevan un testigo metálico de desgaste: cuando el material de fricción que roza contra el disco se ha gastado hasta el límite, una chapita toca el disco y chilla a propósito. También pueden chillar las propias pastillas por una capa de suciedad, una superficie cristalizada o un material barato.",
+  "advice": "Pide cita esta semana para revisar pastillas y discos. Si es el testigo de desgaste, no se puede esperar: la siguiente fase es el roce metálico y los discos estropeados. Si las pastillas están bien, el chillido no es peligroso y el mecánico te dirá cómo quitarlo."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Pastillas gastadas hasta el metal",
+  "alt_causes": [
+   "Objeto extraño en el freno",
+   "Pastilla deshecha"
+  ],
+  "explanation": "Un roce de metal contra metal al frenar significa que el material de fricción de la pastilla se ha acabado y la base metálica está rozando el disco. La distancia de frenada aumenta, el disco se estropea en cada parada y el mecanismo puede agarrotarse.",
+  "advice": "Deja de usar el coche con normalidad y ve solo hasta el taller, frenando con antelación y suavidad. No aplaces el cambio ni un día: además de la seguridad, cada kilómetro con ese roce añade a la factura el precio de unos discos nuevos."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Guías de la pinza o discos alabeados",
+  "alt_causes": [
+   "Holgura en el buje",
+   "Anclaje de la pinza flojo"
+  ],
+  "explanation": "Un golpeteo al frenar o pulsaciones en el pedal suelen venir del propio freno: las guías de la pinza —la pieza que aprieta las pastillas contra el disco— tienen holgura, o el disco se ha alabeado y las pastillas golpean contra él. Los frenos funcionan, pero de forma irregular.",
+  "advice": "Que revisen los frenos en el taller en los próximos días: no conviene descuidar un elemento del que depende la seguridad. Si el pedal se hunde más de lo normal, el coche se va hacia un lado al frenar o da tirones en el volante, a diagnóstico de inmediato."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Algo roza el disco de freno (chapa protectora o pastillas gastadas)",
+  "alt_causes": [
+   "Pastillas gastadas hasta el metal",
+   "Chapa protectora del disco doblada",
+   "Piedrecilla entre la chapa y el disco"
+  ],
+  "explanation": "Un roce continuo por el lado de una rueda suele significar que algo está tocando el disco de freno mientras gira: una chapa protectora doblada, una piedrecilla metida ahí, o unas pastillas gastadas hasta el metal. Los dos primeros casos son inofensivos, el tercero es peligroso, y de oído se confunden con facilidad.",
+  "advice": "Que lo revisen en el taller en uno o dos días, sin aplazarlo: mirar la rueda enseña la causa enseguida. Si al frenar el roce aumenta o el pedal se comporta de forma distinta a lo habitual, deja de usar el coche y ve al taller con cuidado."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Rodamiento de rueda",
+  "alt_causes": [
+   "Ruido de los neumáticos",
+   "Junta homocinética gastada"
+  ],
+  "explanation": "Un zumbido que cambia en las curvas mientras conduces es la señal clásica de un rodamiento de rueda gastado: el rodamiento sobre el que gira la rueda. En curva el peso del coche se traslada a las ruedas exteriores: si al girar a la izquierda el zumbido aumenta, el lado cargado es el derecho, así que lo más probable es que zumbe el rodamiento derecho; girando a la derecha, al revés. Un rodamiento que se deshace deja holgura en la rueda y, en un caso avanzado, puede agarrotarse.",
+  "advice": "Fíjate hacia qué lado de curva suena más y dilo en el taller: eso acota la búsqueda desde el principio. No aplaces la revisión más de una semana y deja los viajes largos para después del diagnóstico. Si aparece vibración o el zumbido sube de golpe, al taller de inmediato."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Junta homocinética exterior",
+  "alt_causes": [
+   "Junta homocinética interior",
+   "Bieletas de la barra estabilizadora",
+   "Embrague de la tracción total (en 4x4)"
+  ],
+  "explanation": "Chasquidos o crujidos al circular con el volante girado son el sonido característico de una junta homocinética exterior gastada: la junta a través de la cual gira la rueda directriz. Normalmente todo empieza con un fuelle roto, la funda de goma que protege la junta de la suciedad.",
+  "advice": "Mira los fuelles de las juntas o pide que lo hagan en el taller: un fuelle roto y grasa alrededor confirman el diagnóstico. No alargues el cambio más de una o dos semanas: una junta gastada puede bloquearse. Hasta la reparación, no arranques con fuerza con las ruedas giradas a tope."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Rótulas de dirección o cremallera",
+  "alt_causes": [
+   "Bieletas de la barra estabilizadora",
+   "Cojinetes de los soportes de amortiguador"
+  ],
+  "explanation": "Un golpeteo al girar el volante, sobre todo parado o a poca velocidad, suele venir de la holgura en las rótulas de dirección, en las barras o en la propia cremallera. De momento no estorba a la conducción, pero la holgura en la dirección solo crece con el tiempo.",
+  "advice": "Que revisen la dirección en el taller en los próximos días: el diagnóstico en el elevador lleva unos minutos. Si el volante se ha quedado vacío en el centro, el coche baila dentro del carril o el golpeteo ha subido de golpe, no lo aplaces: es un elemento de seguridad."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Bomba de la dirección asistida",
+  "alt_causes": [
+   "Nivel bajo del líquido de dirección",
+   "Correa de accesorios"
+  ],
+  "explanation": "Un aullido o zumbido que aparece al girar el volante parado o a poca velocidad lo produce casi siempre la bomba de la dirección asistida: la que genera la presión del líquido que ayuda a girar el volante. Aúlla más fuerte con el volante girado a tope. La causa más frecuente es que haya bajado el nivel de líquido del depósito.",
+  "advice": "Comprueba el nivel del líquido de dirección en el depósito bajo el capó y rellena si está por debajo de la marca MIN. No mantengas el volante girado a tope más de un par de segundos. Si tras rellenar el aullido sigue o el líquido vuelve a bajar, al taller dentro de esta semana."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Bieletas de la barra estabilizadora",
+  "alt_causes": [
+   "Casquillos de la barra estabilizadora",
+   "Rótulas de suspensión"
+  ],
+  "explanation": "Un golpeteo sordo y repetido en las irregularidades pequeñas —adoquines, juntas de la calzada, firme ondulado— viene casi siempre de las bieletas de la barra estabilizadora: unas barritas con rótulas que son de lo primero que se desgasta en la suspensión. Por sí solas no son peligrosas, pero piezas más serias pueden sonar de forma parecida.",
+  "advice": "Pide una revisión de la suspensión en una o dos semanas: el mecánico mueve las piezas en el elevador y localiza la holgura en unos minutos. Hasta la revisión, pasa despacio por los baches grandes. Si el coche empieza a irse hacia un lado, adelanta la comprobación."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Tren trasero: bieletas o silentblocks del eje",
+  "alt_causes": [
+   "Amortiguadores",
+   "Soportes del escape"
+  ],
+  "explanation": "Un golpeteo repetido por detrás en las irregularidades pequeñas suele venir de las articulaciones pequeñas del tren trasero: las bieletas de la barra estabilizadora trasera o los silentblocks gastados, los casquillos de goma con los que los brazos y el eje se sujetan a la carrocería. A veces suena parecido un soporte del escape que se ha aflojado.",
+  "advice": "Pide una revisión de la suspensión en una o dos semanas: en el elevador el origen de un golpeteo trasero se localiza rápido. Hasta entonces, pasa despacio por los baches grandes. Es útil fijarte si golpea sobre firme ondulado o solo en baches sueltos, y decírselo al mecánico."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silentblocks de los brazos o amortiguadores",
+  "alt_causes": [
+   "Cojinetes de los soportes de amortiguador",
+   "Rótulas de suspensión"
+  ],
+  "explanation": "Unos golpes sordos sueltos en baches y badenes suelen significar silentblocks gastados —los casquillos de goma con los que los brazos de la suspensión se sujetan a la carrocería— o amortiguadores cansados. La suspensión deja de absorber el impacto y se lo pasa a la carrocería.",
+  "advice": "Pasa por una revisión de suspensión en un par de semanas. Una prueba sencilla de los amortiguadores: empuja hacia abajo una esquina del coche; la carrocería debe volver sin rebotar. Hasta la reparación, pasa las irregularidades con suavidad: los golpes van machacando también las piezas de al lado."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Soportes del escape o cubrecárter",
+  "alt_causes": [
+   "Chapa antitérmica",
+   "Tubo de escape descolgado"
+  ],
+  "explanation": "Un cascabeleo metálico desde los bajos al pasar baches suele ser una sujeción floja: las gomas del escape, los tornillos del cubrecárter o una chapa antitérmica. Molesta, pero no afecta ni al motor ni a la conducción.",
+  "advice": "En la próxima visita al taller, pide que aprieten las sujeciones: es rápido y barato. Conviene asegurarse de que el escape no va descolgado: un tubo que arrastra por el suelo ya no se puede ignorar. Hasta entonces puedes conducir con normalidad."
+ },
+ "leaf_detonation": {
+  "top_cause": "Detonación (picado de biela bajo carga)",
+  "alt_causes": [
+   "Combustible de octanaje bajo",
+   "Carbonilla o sensor de detonación averiado"
+  ],
+  "explanation": "Un tintineo metálico al acelerar, sobre todo cuesta arriba o desde pocas revoluciones, es detonación: parte del combustible del cilindro se enciende por su cuenta, de forma explosiva, en lugar de quemarse de manera uniforme, y la onda de choque golpea los pistones. Las causas frecuentes son gasolina con menos octanaje del necesario, carbonilla en las cámaras de combustión o un sensor de detonación averiado. Una detonación continuada va destruyendo el motor.",
+  "advice": "Reposta con combustible del octanaje mínimo que indique el fabricante, y mejor en otra gasolinera: muchas veces el tintineo desaparece tras un depósito. Hasta la comprobación, no fuerces el motor: acelera con suavidad y reduce en las cuestas. Si el tintineo sigue después de cambiar de combustible, a diagnóstico."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Soportes de motor o junta homocinética interior",
+  "alt_causes": [
+   "Holgura en la transmisión",
+   "Soporte de la caja de cambios"
+  ],
+  "explanation": "Un golpe justo al pisar o al soltar el acelerador indica holgura en la cadena que transmite la fuerza. Unos soportes gastados dejan que el motor se mueva al cambiar la carga, y una junta homocinética interior gastada —la junta del palier que va de la caja a la rueda— golpea al pisar y al soltar. Lo importante es que el ruido llega con el cambio de carga, no con los baches.",
+  "advice": "Pide diagnóstico en una o dos semanas. Una pista para el taller: fíjate en si el golpe está más cerca del motor o de las ruedas y si se repite al cambiar de marcha. Hasta la reparación, acelera y cambia con más suavidad."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Rodamiento de rueda",
+  "alt_causes": [
+   "Ruido de los neumáticos",
+   "Rodamiento central o transmisión"
+  ],
+  "explanation": "Un zumbido constante que aumenta con la velocidad y no depende de las revoluciones del motor viene casi siempre de un rodamiento de rueda gastado: el rodamiento sobre el que gira la rueda. El zumbido recuerda al de un avión despegando y apenas cambia con el firme. Un rodamiento muy castigado deja holgura en la rueda y, en el peor caso, puede agarrotarse.",
+  "advice": "Que lo revisen en el taller dentro de esta semana: el mecánico gira las ruedas en el elevador y localiza el buje ruidoso, la pieza donde va alojado ese rodamiento. Aplaza los viajes largos a alta velocidad hasta el diagnóstico. Si el zumbido sube de golpe o aparece vibración, al taller de inmediato."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Rodamiento de rueda trasera",
+  "alt_causes": [
+   "Ruido de los neumáticos",
+   "Diferencial o rodamiento central (en tracción trasera y total)"
+  ],
+  "explanation": "Un zumbido constante por detrás que aumenta con la velocidad viene casi siempre de un rodamiento de rueda trasera: el rodamiento sobre el que gira la rueda. En coches con tracción trasera o total, las piezas de la transmisión zumban de forma parecida, así que conviene confirmar el origen en el elevador.",
+  "advice": "Que lo revisen en el taller dentro de esta semana: atrás, el zumbido de un rodamiento se confunde con facilidad con el diferencial, y una inspección en el elevador lo aclara enseguida. Aplaza los viajes largos a alta velocidad hasta entonces. Si el zumbido sube de golpe o aparece vibración, al taller de inmediato."
+ },
+ "leaf_tires": {
+  "top_cause": "Ruido de los neumáticos",
+  "alt_causes": [
+   "Desgaste irregular del dibujo",
+   "Rodamiento de rueda"
+  ],
+  "explanation": "Si el zumbido depende del firme —más bajo sobre asfalto nuevo, más alto sobre firme rugoso—, lo más probable es que sean los neumáticos. Zumban especialmente los de invierno, los de campo y los desgastados de forma irregular. Es una cuestión de comodidad, no una avería.",
+  "advice": "Mira el dibujo: un desgaste en sierra (escalones en los bordes) o a manchas aumenta el zumbido y apunta a una alineación descuadrada o a unos amortiguadores cansados. Comprueba la presión de los neumáticos. Si el zumbido en realidad no depende del firme y aumenta con la velocidad, vuelve a la explicación del rodamiento de rueda."
+ }
+}

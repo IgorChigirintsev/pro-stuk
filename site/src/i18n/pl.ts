@@ -71,6 +71,18 @@ export const pl: Dict = {
       },
     ],
   },
+  quiz: {
+    h2: 'Sprawdź od razu',
+    sub: 'Kilka pytań i zobaczysz prawdopodobną przyczynę oraz to, jak pilna jest sprawa.',
+    urgOk: 'Można jechać',
+    urgWarn: 'Do warsztatu w tym tygodniu',
+    urgStop: 'Zatrzymaj się',
+    back: 'Wstecz',
+    restart: 'Zacznij od nowa',
+    cta: 'Pełny raport z dźwięku — w aplikacji',
+    schemaMarked: 'Zakreślone jest to, na co wskazują twoje odpowiedzi — to wersja, a nie diagnoza.',
+    schemaWhole: 'Cały układ.',
+  },
   download: {
     h2: 'Aplikacja na Androida',
     sub: 'Ankieta, nagranie dźwięku i pełny raport z prawdopodobieństwami są w aplikacji Stuk.',

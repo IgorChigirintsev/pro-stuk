@@ -1,0 +1,1104 @@
+{
+ "q_when": {
+  "text": "Quando si sente il rumore?",
+  "options": {
+   "o1": "All'avviamento o nel tentativo di avviare",
+   "o2": "Da fermo, con il motore acceso",
+   "o3": "Solo in marcia",
+   "o4": "Sia da fermo sia in marcia"
+  }
+ },
+ "q_start_char": {
+  "text": "Che cosa si sente girando la chiave o premendo il pulsante di avviamento?",
+  "options": {
+   "o1": "Scatti e il motore non gira",
+   "o2": "Uno stridio metallico mentre il motorino d'avviamento gira",
+   "o3": "Il motorino d'avviamento ronza, ma il motore non parte",
+   "o4": "Un fischio acuto subito dopo che il motore si è acceso"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Che tipo di scatti?",
+  "options": {
+   "o1": "Un ticchettio rapido e le spie del cruscotto che si affievoliscono",
+   "o2": "Un solo scatto netto e poi silenzio"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Il rumore compare solo quando accendi o azioni qualcosa (riscaldamento, climatizzatore, frizione, sterzo, freno)?",
+  "options": {
+   "o1": "Sì, è legato a un comando preciso",
+   "o2": "No, si sente da solo"
+  }
+ },
+ "q_action": {
+  "text": "A quale comando è legato il rumore?",
+  "options": {
+   "o1": "Al riscaldamento o alla ventola",
+   "o2": "Al pulsante del climatizzatore",
+   "o3": "Al pedale della frizione",
+   "o4": "Al volante, al pedale del freno o ai tergicristalli"
+  }
+ },
+ "q_hvac": {
+  "text": "Che rumore fa la ventola accesa?",
+  "options": {
+   "o1": "Un fruscio o crepitio che cambia con la velocità della ventola",
+   "o2": "Un fischio o ululato sotto la plancia",
+   "o3": "Una serie di scatti dietro la plancia quando si cambia la temperatura o la distribuzione dell’aria",
+   "o4": "Un gorgoglio dietro la plancia"
+  }
+ },
+ "q_ac": {
+  "text": "Che cosa si sente accendendo il climatizzatore?",
+  "options": {
+   "o1": "Un fischio nel momento in cui si innesta",
+   "o2": "Uno stridio o rimbombo mentre il climatizzatore lavora",
+   "o3": "Un breve sibilo all’accensione o allo spegnimento, e raffredda bene"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Che rapporto ha il rumore con il pedale della frizione?",
+  "options": {
+   "o1": "Un fruscio o ronzio a pedale rilasciato; premendolo si attenua",
+   "o2": "Compare o aumenta quando il pedale è premuto",
+   "o3": "Un tintinnio al minimo che cambia premendo il pedale",
+   "o4": "Un cigolio premendo il pedale, udibile anche a motore spento"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "A che cosa è legato esattamente il rumore?",
+  "options": {
+   "o1": "Un ululato o ronzio girando il volante",
+   "o2": "Uno scricchiolio girando il volante da fermo",
+   "o3": "Un sibilo sotto la plancia premendo il pedale del freno",
+   "o4": "Un colpo o cigolio a tempo con i tergicristalli"
+  }
+ },
+ "q_ps_type": {
+  "text": "Sotto il cofano c’è una vaschetta del liquido del servosterzo?",
+  "options": {
+   "o1": "Sì, c’è",
+   "o2": "No, oppure non lo so"
+  }
+ },
+ "q_steer_click": {
+  "text": "Da dove arrivano gli scatti?",
+  "options": {
+   "o1": "Dall’alto, dal passaruota, all’altezza del cofano",
+   "o2": "Dal volante stesso o dal piantone, all’altezza dei piedi"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Il rumore si sente solo a motore freddo, subito dopo l’avviamento?",
+  "options": {
+   "o1": "Sì, quando il motore si scalda sparisce",
+   "o2": "No, si sente anche a motore caldo"
+  }
+ },
+ "q_cold_char": {
+  "text": "A che cosa assomiglia il rumore a freddo?",
+  "options": {
+   "o1": "Un ticchettio rapido",
+   "o2": "Un colpo sordo che sparisce quando il motore si scalda",
+   "o3": "Un fruscio o tintinnio nella parte anteriore del motore",
+   "o4": "Un fischio acuto all’avviamento"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Il ticchettio si sente più forte da fuori che dentro l’abitacolo, e sotto il cofano si sente odore di scarico?",
+  "options": {
+   "o1": "Sì, da fuori si sente di più e c’è odore",
+   "o2": "No, ticchetta nella parte alta del motore e non c’è odore"
+  }
+ },
+ "q_engine_char": {
+  "text": "A che cosa assomiglia il rumore?",
+  "options": {
+   "o1": "Un colpo o un ticchettio",
+   "o2": "Un fischio, un ronzio o un sibilo",
+   "o3": "Un tintinnio, un sferragliare, scoppi o gorgoglii",
+   "o4": "Vibrazioni o tremolio al minimo"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Che tipo di colpo esattamente?",
+  "options": {
+   "o1": "Un ticchettio leggero e rapido nella parte alta del motore",
+   "o2": "Un colpo sordo o metallico dal fondo del motore"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Il ticchettio è aumentato col tempo o è sempre uguale?",
+  "options": {
+   "o1": "È aumentato; a motore caldo si sente di più",
+   "o2": "Sempre uguale; da fuori si sente più che dentro"
+  }
+ },
+ "q_knock_load": {
+  "text": "Se acceleri dolcemente, il colpo diventa più rapido e più forte?",
+  "options": {
+   "o1": "Sì, più rapido e più forte",
+   "o2": "Quasi non cambia, oppure sparisce"
+  }
+ },
+ "q_squeal": {
+  "text": "Che tipo di rumore è?",
+  "options": {
+   "o1": "Un fischio acuto e penetrante",
+   "o2": "Un ronzio o fruscio costante",
+   "o3": "Un sibilo costante, come aria che esce da uno pneumatico"
+  }
+ },
+ "q_hum_source": {
+  "text": "Da dove arriva il ronzio?",
+  "options": {
+   "o1": "Da davanti, dal vano motore, e cambia con i giri",
+   "o2": "Si accende e si spegne da solo: con il caldo, nel traffico, con il climatizzatore",
+   "o3": "Da dietro, vicino al serbatoio; si sente girando la chiave, prima ancora di avviare"
+  }
+ },
+ "q_pump_check": {
+  "text": "Sotto il cofano, vicino alla cinghia, ci sono colature o tracce di liquido?",
+  "options": {
+   "o1": "Sì, è bagnato o si sente odore di liquido refrigerante",
+   "o2": "È tutto asciutto",
+   "o3": "Non sono riuscito a guardare"
+  }
+ },
+ "q_rattle": {
+  "text": "Che rumore e da dove?",
+  "options": {
+   "o1": "Un sferragliare metallico da sotto la vettura",
+   "o2": "Scoppi allo scarico",
+   "o3": "Un gorgoglio dietro la plancia"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Insieme al sferragliare, l’auto ha perso ripresa o lo scarico ha un odore strano?",
+  "options": {
+   "o1": "Sì, tira meno o l’odore è cambiato",
+   "o2": "No, sferraglia soltanto a certi regimi"
+  }
+ },
+ "q_move_when": {
+  "text": "Quando si manifesta di più il rumore in marcia?",
+  "options": {
+   "o1": "In frenata",
+   "o2": "In curva o girando il volante",
+   "o3": "Su buche e dossi",
+   "o4": "In accelerazione, cambiando marcia o di continuo"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Il rumore compare solo alle prime frenate dopo una sosta o con la pioggia, e poi sparisce?",
+  "options": {
+   "o1": "Sì, sparisce subito",
+   "o2": "No, si sente a ogni frenata"
+  }
+ },
+ "q_brake_char": {
+  "text": "Che rumore fa in frenata?",
+  "options": {
+   "o1": "Un fischio o cigolio",
+   "o2": "Uno sfregamento metallo contro metallo",
+   "o3": "Un colpo o pulsazioni nel pedale"
+  }
+ },
+ "q_turn_char": {
+  "text": "Che cosa si sente in curva?",
+  "options": {
+   "o1": "Un ronzio a velocità, più forte da un lato",
+   "o2": "Scatti o scricchiolii con il volante tutto girato",
+   "o3": "Un colpo girando il volante",
+   "o4": "Un ululato o ronzio girando il volante da fermo o in manovra"
+  }
+ },
+ "q_bump_char": {
+  "text": "Che rumore fa sulle buche?",
+  "options": {
+   "o1": "Un colpo o un urto metallico",
+   "o2": "Un cigolio, come un vecchio letto",
+   "o3": "Un sferragliare o rimbombo",
+   "o4": "Un solo colpo secco alla prima partenza dopo una lunga sosta"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Che tipo di colpo esattamente?",
+  "options": {
+   "o1": "Un colpo sordo e ripetuto sulle irregolarità piccole",
+   "o2": "Colpi sordi isolati su buche e dossi",
+   "o3": "Il colpo arriva dritto al volante, si sente nelle mani",
+   "o4": "L’urto è comparso di colpo dopo una buca e un angolo dell’auto si è abbassato"
+  }
+ },
+ "q_bump_where": {
+  "text": "Il colpo arriva da davanti o da dietro?",
+  "options": {
+   "o1": "Da davanti",
+   "o2": "Da dietro",
+   "o3": "Difficile capirlo"
+  }
+ },
+ "q_bump_rattle_where": {
+  "text": "Da dove arriva il sferragliare?",
+  "options": {
+   "o1": "Da sotto la vettura",
+   "o2": "Dall’abitacolo: plancia, portiere, grilli",
+   "o3": "Dal bagagliaio, come se qualcosa rotolasse",
+   "o4": "Da davanti in alto, verso il cofano"
+  }
+ },
+ "q_move_manner": {
+  "text": "Che rapporto ha il rumore con la guida?",
+  "options": {
+   "o1": "Compare accelerando o rilasciando il gas",
+   "o2": "Nel momento del cambio marcia o della partenza",
+   "o3": "Si sente di continuo, finché l’auto è in movimento",
+   "o4": "È più una vibrazione o un tremolio che un rumore"
+  }
+ },
+ "q_accel_char": {
+  "text": "A che cosa assomiglia il rumore accelerando?",
+  "options": {
+   "o1": "Un tintinnio metallico, soprattutto in salita",
+   "o2": "Un colpo nel momento in cui si accelera o si rilascia il gas",
+   "o3": "Scoppi o un rombo forte allo scarico",
+   "o4": "Un ululato o fischio sotto sforzo"
+  }
+ },
+ "q_exhaust_char": {
+  "text": "Scoppi o rombo?",
+  "options": {
+   "o1": "Scoppi",
+   "o2": "Un rombo, più forte accelerando; l’auto tira come sempre",
+   "o3": "Il motore urla, i giri salgono ma l’auto non accelera; a volte c’è odore di bruciato"
+  }
+ },
+ "q_load_whine": {
+  "text": "Che tipo di ululato sotto sforzo?",
+  "options": {
+   "o1": "Un fischio acuto solo accelerando, che sparisce rilasciando il gas (motore turbo)",
+   "o2": "Un ronzio il cui tono cambia accelerando e rilasciando alla stessa velocità",
+   "o3": "Un ululato monotono in accelerazione; il cambio è un CVT o un automatico",
+   "o4": "L’ululato è più forte su una marcia e più debole su un’altra; cambio manuale"
+  }
+ },
+ "q_shift_char": {
+  "text": "Che cosa succede cambiando marcia o partendo?",
+  "options": {
+   "o1": "Uno strappo o un colpo passando l’automatico da D a R o durante i cambi marcia",
+   "o2": "Uno scricchiolio innestando la marcia sul cambio manuale",
+   "o3": "L’auto strattona in partenza, mentre si rilascia la frizione",
+   "o4": "Un colpo isolato sotto la vettura in partenza o al cambio di carico"
+  }
+ },
+ "q_vibration": {
+  "text": "Quando è più forte il tremolio?",
+  "options": {
+   "o1": "Tra 80 e 120 km/h il volante vibra leggermente; sotto e sopra molto meno",
+   "o2": "Già dai 40–60 km/h, e peggiora con la velocità",
+   "o3": "In una fascia stretta di velocità, il tremolio passa dal pianale e dalla carrozzeria; trazione posteriore o integrale",
+   "o4": "Solo in frenata, il volante scuote"
+  }
+ },
+ "q_const_char": {
+  "text": "A che cosa assomiglia il rumore continuo?",
+  "options": {
+   "o1": "Un ronzio o ululato costante",
+   "o2": "Uno sfregamento, uno strisciare o un fischio dal lato di una ruota",
+   "o3": "Un rombo forte o un crepitio",
+   "o4": "Un fischio o ululato solo ad alta velocità"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Che rumore arriva dal lato della ruota?",
+  "options": {
+   "o1": "Un fischio sottile; sfiorando il freno sparisce o cambia",
+   "o2": "Uno strisciare; dopo aver guidato la ruota è caldissima e l’auto tira da un lato",
+   "o3": "Uno sfregamento continuo, ma la ruota non si scalda",
+   "o4": "Un colpo o uno scatto ritmato al ritmo della rotazione della ruota"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Le ruote sono state cambiate, ruotate o smontate di recente?",
+  "options": {
+   "o1": "Sì, negli ultimi giorni",
+   "o2": "No, non le tocca nessuno da tempo"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Una prova: raggiungi la velocità a cui si sente il rumore, metti in folle e lasciati andare. Il ronzio resta?",
+  "options": {
+   "o1": "Resta uguale",
+   "o2": "Sparisce insieme ai giri del motore",
+   "o3": "Non sono riuscito a provare"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Il volume dell’ululato cambia cambiando marcia?",
+  "options": {
+   "o1": "Sì, su ogni marcia suona diverso",
+   "o2": "No, dipende solo dai giri del motore"
+  }
+ },
+ "q_hum_road": {
+  "text": "Il ronzio cambia nelle curve lunghe?",
+  "options": {
+   "o1": "Sì, da un lato è più forte o più debole",
+   "o2": "No, è costante a qualsiasi velocità sopra i 40–60 km/h",
+   "o3": "Dipende dal manto stradale"
+  }
+ },
+ "q_hum_where": {
+  "text": "Il ronzio arriva da davanti o da dietro?",
+  "options": {
+   "o1": "Da davanti",
+   "o2": "Da dietro",
+   "o3": "Difficile capirlo"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Batteria scarica o morsetti ossidati",
+  "alt_causes": [
+   "Massa che fa cattivo contatto",
+   "Motorino d’avviamento a fine vita"
+  ],
+  "explanation": "Un ticchettio rapido quando si prova ad avviare significa che al teleruttore del motorino d’avviamento manca corrente: scatta, ma non riesce a far girare il motore. Di solito la colpa è di una batteria scarica o di morsetti ossidati e mal serrati. Le spie del cruscotto che si affievoliscono durante il tentativo lo confermano.",
+  "advice": "Guarda i morsetti della batteria: raschia la patina bianca o verdastra e stringi i morsetti. Se non basta, ricarica la batteria oppure fai un avviamento con i cavi e vai a sostituirla in officina o in negozio. Se la batteria ha più di quattro o cinque anni, è quasi sempre lei."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Teleruttore o contatti di potenza del motorino d’avviamento",
+  "alt_causes": [
+   "Morsetti ossidati",
+   "Cablaggio verso il motorino d’avviamento"
+  ],
+  "explanation": "Un solo scatto netto con le spie che restano ben accese significa che il teleruttore lavora, ma il motorino d’avviamento non gira: contatti di potenza bruciati, spazzole consumate o teleruttore incollato. A volte l’auto parte comunque al secondo o terzo tentativo — la diagnosi è la stessa.",
+  "advice": "Prova ad avviare ancora qualche volta; se parte una volta su due, vai in officina nei prossimi giorni, prima di restare fermo in qualche parcheggio. Controlla e stringi i morsetti della batteria. Dare un colpo al motorino d’avviamento serve a tornare a casa una volta, non è una riparazione."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Pignone del motorino d’avviamento o corona del volano",
+  "alt_causes": [
+   "Denti della corona consumati",
+   "Motorino d’avviamento disallineato"
+  ],
+  "explanation": "Uno stridio metallico all’avviamento significa che il pignone del motorino ingrana male con la corona dentata del volano: i denti sono consumati o il meccanismo si inceppa. Ogni avviamento del genere mangia i denti del pignone e della corona.",
+  "advice": "Fissa un appuntamento in officina entro la settimana: sostituire il pignone o il motorino costa molto meno della corona, per la quale bisogna smontare il cambio. Fino alla riparazione, non tenere la chiave in posizione di avviamento più del necessario e non riprovare subito dopo uno stridio."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Il pignone non ingrana o la corona ha denti rotti",
+  "alt_causes": [
+   "Ruota libera del pignone",
+   "Corona del volano"
+  ],
+  "explanation": "Se il motorino d’avviamento ronza allegro ma il motore non prova neppure a girare, il pignone gira a vuoto: la ruota libera del pignone è consumata, oppure alla corona mancano i denti proprio in quel punto.",
+  "advice": "A volte funziona al secondo tentativo, perché il volano si ferma in un’altra posizione. In officina però va comunque nei prossimi giorni: a ogni tentativo il danno aumenta. Con il cambio manuale, in caso estremo puoi avviare a spinta; con un automatico questo non si può fare."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Foglie o sporcizia nella ventola del riscaldamento",
+  "alt_causes": [
+   "Filtro abitacolo intasato",
+   "Corpo estraneo nel condotto dell’aria"
+  ],
+  "explanation": "Un fruscio e un crepitio che cambiano con la velocità della ventola sono quasi sempre foglie o sporcizia entrate dalla presa d’aria fino alla ventola del riscaldamento. In autunno è un classico, soprattutto se il filtro abitacolo è intasato o manca del tutto.",
+  "advice": "Sostituisci il filtro abitacolo (spesso la sporcizia sta proprio sopra) — su molte auto si fa da soli in dieci minuti e le istruzioni per il modello si trovano facilmente. Se il fruscio resta, chiedi in officina di soffiare e pulire la ventola."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Cuscinetto o boccole del motorino della ventola",
+  "alt_causes": [
+   "Sporcizia nella ventola",
+   "La girante sfrega contro la scatola"
+  ],
+  "explanation": "Un fischio o ululato sotto la plancia che compare solo con la ventola accesa arriva dal motorino della ventola consumato. La prova è semplice: spegni la ventola e il fischio sparisce all’istante, anche con il motore acceso.",
+  "advice": "Per la sicurezza non conta, ma col tempo il motorino comincia a incepparsi e ti lascia senza riscaldamento: meglio sostituirlo prima dell’inverno. Fino ad allora puoi usare le velocità della ventola su cui il rumore è più basso."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomotore di una serranda del riscaldamento",
+  "alt_causes": [
+   "Calibrazione normale delle serrande",
+   "Denti rotti sull’ingranaggio del servomotore"
+  ],
+  "explanation": "Una serie di scatti rapidi o un ticchettio dietro la plancia girando la chiave o cambiando temperatura arriva dal servomotore che muove le serrande del riscaldamento. Se la serie è breve e sempre uguale, spesso è solo la calibrazione. Un ticchettio infinito, invece, significa che i denti dell’ingranaggio di plastica sono consumati.",
+  "advice": "Se gli scatti sono brevi e il riscaldamento si regola normalmente, non serve fare nulla. Se il ticchettio dura a lungo o l’aria non esce da dove l’hai impostata, fissa un appuntamento quando puoi: all’auto non fa male, ma il comfort ne risente."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Aria nel circuito di raffreddamento (livello del liquido basso)",
+  "alt_causes": [
+   "Tappo del vaso di espansione difettoso",
+   "Perdita di liquido refrigerante"
+  ],
+  "explanation": "Un gorgoglio dietro la plancia è una bolla d’aria che passa nel radiatore del riscaldamento. L’aria entra nel circuito quando il livello del liquido refrigerante è sceso: c’è una perdita da qualche parte, oppure il tappo del vaso di espansione non tiene la pressione. Il riscaldamento può soffiare ora caldo, ora freddo.",
+  "advice": "A motore freddo controlla il livello nel vaso di espansione e rabbocca fino alla tacca, poi tieni d’occhio se scende di nuovo. Se il livello continua a calare o il riscaldamento soffia freddo a motore caldo, in officina questa settimana. Se la lancetta della temperatura sale o esce vapore: accosta e spegni il motore."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "La frizione del compressore del climatizzatore slitta",
+  "alt_causes": [
+   "Cinghia allentata",
+   "Piatto di spinta della frizione consumato"
+  ],
+  "explanation": "Un fischio proprio nel momento in cui si accende il climatizzatore significa che la frizione che collega il compressore alla cinghia slitta sotto carico. Un singolo scatto all’innesto è normale; il fischio, invece, indica una frizione consumata o una cinghia troppo lenta.",
+  "advice": "Fallo vedere in officina nel giro di due settimane: se si lascia andare, il fischio diventa continuo e il compressore può grippare e rompere la cinghia. Fino alla riparazione puoi usare il climatizzatore, ma se il fischio aumenta, spegnilo."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Compressore del climatizzatore (cuscinetto o usura)",
+  "alt_causes": [
+   "Cuscinetto della puleggia della frizione",
+   "Poco olio nel circuito"
+  ],
+  "explanation": "Uno stridio o rimbombo che si sente solo con il climatizzatore acceso arriva da un compressore a fine vita o dal cuscinetto della sua puleggia. Un compressore che grippa rompe la cinghia — e su molte auto quella cinghia muove anche alternatore e pompa dell’acqua.",
+  "advice": "Per ora non accendere il climatizzatore: così il gruppo regge fino alla riparazione. Fissa una diagnosi entro la settimana: finché si rovina solo il cuscinetto, la riparazione costa molto meno di un compressore nuovo con il lavaggio di tutto il circuito."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Passaggio normale del gas refrigerante",
+  "alt_causes": [
+   "Funzionamento normale della valvola di espansione"
+  ],
+  "explanation": "Un breve sibilo o gorgoglio dietro la plancia nei primi secondi dopo aver acceso o spento il climatizzatore è il gas refrigerante che passa attraverso la valvola di espansione. Se in abitacolo arriva il fresco, è il normale funzionamento dell’impianto e non una perdita.",
+  "advice": "Non serve fare nulla. Il motivo per controllare sarebbe un altro: se il sibilo diventa continuo e il fresco manca o è debole, fissa un controllo dell’impianto di climatizzazione."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Cuscinetto dell’albero primario del cambio",
+  "alt_causes": [
+   "Cuscinetto reggispinta della frizione",
+   "Rulli della cinghia dei servizi"
+  ],
+  "explanation": "Un fruscio o ronzio al minimo che si attenua premendo la frizione arriva dal cambio: con il pedale rilasciato l’albero primario gira insieme al motore e il suo cuscinetto consumato fa rumore. Premendo il pedale l’albero si ferma e il rumore sparisce. La cinghia e i rulli, invece, al pedale della frizione non reagiscono affatto.",
+  "advice": "Fissa una diagnosi entro una o due settimane e racconta assolutamente il legame del rumore con il pedale: indirizza subito la ricerca. Controlla il livello dell’olio del cambio. Puoi guidare, ma non tirarla per mesi: un cuscinetto distrutto si porta dietro alberi e ingranaggi."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Cuscinetto reggispinta della frizione",
+  "alt_causes": [
+   "Cuscinetto dell’albero primario",
+   "Forcella della frizione"
+  ],
+  "explanation": "Un fruscio o ronzio che compare o aumenta con il pedale della frizione premuto arriva dal cuscinetto reggispinta: il pezzo che spinge sullo spingidisco quando si disinnesta. Un reggispinta consumato fa rumore proprio sotto carico, cioè a pedale premuto.",
+  "advice": "Fissa un appuntamento in officina entro una o due settimane. Tieni il pedale premuto il meno possibile: al semaforo metti in folle e rilascia la frizione. Un reggispinta che si rompe può lasciarti senza frizione per strada, quindi non si può tirare per mesi."
+ },
+ "leaf_dmf": {
+  "top_cause": "Volano bimassa",
+  "alt_causes": [
+   "Molle del disco frizione",
+   "Cuscinetto reggispinta"
+  ],
+  "explanation": "Un sferragliare metallico al minimo dal lato del cambio, che cambia premendo la frizione e si sente soprattutto nei secondi dell’avviamento e dello spegnimento, è la firma tipica di un volano bimassa consumato: lo smorzatore fra motore e cambio che assorbe gli strappi.",
+  "advice": "Fissa una diagnosi entro due settimane e descrivi il legame del rumore con il pedale e con l’avviamento e lo spegnimento. La sostituzione non è economica, ma tirarla avanti rovina anche la frizione e può finire con il volano che si disfa in marcia. Fino alla riparazione parti dolcemente e non far faticare il motore a bassi giri."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Meccanismo del pedale della frizione (perno, forcella, cavo)",
+  "alt_causes": [
+   "Boccole del perno del pedale",
+   "Forcella del reggispinta"
+  ],
+  "explanation": "Un cigolio premendo il pedale, udibile anche a motore spento, è meccanica secca del comando frizione: il perno del pedale, il cavo o la forcella. Dato che il rumore c’è anche senza motore acceso, cinghia, reggispinta e cambio non c’entrano nulla.",
+  "advice": "Chiedi in officina di ingrassare il perno del pedale e la forcella alla prossima occasione: spesso si risolve in pochi minuti. Non è pericoloso. Se insieme al cigolio il pedale è diventato duro o la frizione stacca solo a fine corsa, porta l’auto prima."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Cuscinetto del supporto superiore dell’ammortizzatore",
+  "alt_causes": [
+   "Scatola dello sterzo",
+   "Bielline della barra stabilizzatrice"
+  ],
+  "explanation": "Uno scricchiolio girando il volante da fermo, che arriva dall’alto, dal passaruota, è prodotto dal cuscinetto del supporto superiore: il pezzo su cui la parte alta del montante ruota insieme alla ruota. Un altro indizio sono colpi isolati dall’alto sulle buche.",
+  "advice": "Fissa una diagnosi entro una o due settimane: il controllo è semplice, con la mano sulla torretta dell’ammortizzatore sotto il cofano gli scatti si sentono subito. Puoi guidare, ma un supporto consumato accelera l’usura dell’ammortizzatore e peggiora il ritorno dello sterzo."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Giunto cardanico del piantone (crociera)",
+  "alt_causes": [
+   "Gioco nelle scanalature dell’albero",
+   "Scatola dello sterzo"
+  ],
+  "explanation": "Uno scatto o colpo che si sente e si avverte direttamente nel volante, all’altezza dei piedi, arriva di solito dalla crociera dell’albero intermedio del piantone: il piccolo giunto fra volante e scatola dello sterzo. A motore spento, muovendo leggermente il volante a destra e a sinistra, lo scatto si sente chiaramente.",
+  "advice": "Fallo controllare in officina nei prossimi giorni: lo sterzo è un organo di sicurezza e la diagnosi richiede pochi minuti. Il gioco nel piantone con il tempo aumenta e rende il volante vago attorno al centro."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Servofreno o il suo tubo del vuoto",
+  "alt_causes": [
+   "Valvola di ritegno del servofreno",
+   "Crepa nel tubo del vuoto"
+  ],
+  "explanation": "Un sibilo sotto la plancia che compare e cambia esattamente premendo e rilasciando il pedale del freno è aria che entra nel servofreno: il componente che riduce lo sforzo sul pedale. Il pedale diventa spesso molto più duro e il minimo oscilla.",
+  "advice": "Fissa un appuntamento in officina questa settimana: i freni funzionano anche senza servofreno, ma bisogna premere molto più forte, e in una frenata d’emergenza questo è pericoloso. Controlla il pedale prima di partire: se è duro come una tavola, guida con prudenza e per pochi chilometri."
+ },
+ "leaf_wipers": {
+  "top_cause": "Leverismo dei tergicristalli o gomme delle spazzole",
+  "alt_causes": [
+   "Dadi dei bracci allentati",
+   "Boccole del motorino tergicristalli consumate"
+  ],
+  "explanation": "Un colpo nei punti di inversione è gioco nei snodi del leverismo — il meccanismo che muove i tergicristalli — oppure sono i dadi dei bracci allentati. Un cigolio uniforme sul vetro sono le gomme indurite. La prova è semplice: spegni i tergicristalli e il rumore sparisce subito e del tutto.",
+  "advice": "Le gomme che cigolano puoi cambiarle da solo: le spazzole si trovano in qualsiasi negozio di ricambi. Per il colpo di fine corsa, stringi i dadi dei bracci o fai sostituire le boccole del leverismo quando vai in officina. Per la sicurezza qui conta solo che il vetro resti pulito."
+ },
+ "leaf_eps": {
+  "top_cause": "Servosterzo elettrico: un leggero ronzio è normale",
+  "alt_causes": [
+   "Usura del servosterzo elettrico",
+   "Scatola dello sterzo"
+  ],
+  "explanation": "Se sotto il cofano non c’è una vaschetta del liquido, il servosterzo è elettrico, e un ronzio basso e costante girando il volante è il suo normale funzionamento, non un guasto. La pompa idraulica che ulula quando manca liquido su un’auto così semplicemente non esiste.",
+  "advice": "I veri segnali d’allarme di un servosterzo elettrico sono altri: il volante diventa duro o si indurisce a strappi, compare uno scricchiolio, oppure si accende la spia dello sterzo. Se succede una di queste cose, in officina nei prossimi giorni; altrimenti puoi guidare tranquillo."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Guarnizione o crepa del collettore di scarico",
+  "alt_causes": [
+   "Prigionieri del collettore",
+   "Punterie idrauliche"
+  ],
+  "explanation": "Un ticchettio rapido a freddo, più forte da fuori e accompagnato da odore di scarico sotto il cofano, sono gas che escono da una guarnizione bruciata o da una crepa del collettore di scarico. Man mano che il metallo si scalda si dilata, la fessura si chiude e il ticchettio sparisce.",
+  "advice": "Fissa un appuntamento in officina entro una o due settimane: la fessura con il tempo cresce, e l’odore di scarico può entrare in abitacolo attraverso la ventilazione, il che è nocivo. Fino alla riparazione arieggia l’abitacolo quando senti l’odore."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Ticchettio normale degli iniettori (iniezione diretta o diesel)",
+  "alt_causes": [
+   "Pompa ad alta pressione",
+   "Gioco valvole"
+  ],
+  "explanation": "Sui motori a iniezione diretta (TSI, GDI e simili) e sui diesel, iniettori e pompa ad alta pressione ticchettano sempre: è il loro normale funzionamento. I segni che lo distinguono: il rumore è uguale a freddo e a caldo, si sente più da fuori che in abitacolo, e non dipende dall’età dell’olio.",
+  "advice": "Non serve fare nulla. A destare attenzione dev’essere altro: se il ticchettio è diventato molto più forte di prima, se cambia dopo che il motore si è scaldato o se arriva insieme a una perdita di ripresa, allora sì, in diagnosi."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Aria falsa (tubo del vuoto, guarnizione dell’aspirazione)",
+  "alt_causes": [
+   "Manicotto crepato",
+   "Guarnizione del collettore di aspirazione"
+  ],
+  "explanation": "Un sibilo costante sotto il cofano, come aria che esce da uno pneumatico forato, è aria non misurata che entra da un tubo crepato o dalla guarnizione dell’aspirazione. Il motore spesso gira irregolare: il minimo oscilla e a volte si accende la spia del motore.",
+  "advice": "Fissa una diagnosi nei prossimi giorni, soprattutto se il minimo oscilla: cercare le prese d’aria è una procedura di routine. Da solo puoi guardare se i tubicini di gomma sotto il cofano hanno crepe, senza smontare nulla."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Ventola di raffreddamento (boccole o funzionamento continuo)",
+  "alt_causes": [
+   "Sensore di temperatura o termostato",
+   "Giunto viscoso (sulla trazione posteriore)"
+  ],
+  "explanation": "Un ronzio o rombo che si accende e si spegne da solo — con il caldo, nel traffico, con il climatizzatore — è la ventola del radiatore. Una ventola rumorosa significa o boccole consumate nel suo motorino, oppure che gira in continuazione per colpa di un sensore o del termostato. A volte continua per un paio di minuti dopo aver spento l’auto: è normale.",
+  "advice": "Se la ventola rimbomba di continuo fin dall’avviamento a motore freddo, in diagnosi nei prossimi giorni: il circuito di raffreddamento non sta lavorando come deve. Tieni d’occhio la lancetta della temperatura; se sale, accosta e spegni il motore."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Pompa del carburante elettrica",
+  "alt_causes": [
+   "Filtro del carburante intasato",
+   "Filtro a rete della pompa"
+  ],
+  "explanation": "Un ronzio o ululato costante da dietro, sotto il divano posteriore o dalla zona del serbatoio, è la pompa del carburante. Sentirla per un paio di secondi girando la chiave è normale; un ululato forte, percepibile anche in marcia, indica una pompa consumata o un filtro intasato contro cui deve forzare.",
+  "advice": "Fissa un controllo della pressione del carburante entro una o due settimane. Non girare a lungo con la spia della riserva accesa: sul fondo del serbatoio la pompa si raffredda peggio e si consuma prima. Se l’auto inizia a strattonare sotto sforzo o fatica ad avviarsi, anticipa la visita."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Catalizzatore disintegrato",
+  "alt_causes": [
+   "Schermo termico",
+   "Supporti dello scarico"
+  ],
+  "explanation": "Un tintinnio metallico o un rumore di ghiaia da sotto la vettura, più vicino al motore, che aumenta dando un colpo di gas e arriva insieme a una perdita di ripresa o a un odore di scarico diverso, è la ceramica del catalizzatore che si è sbriciolata. I frammenti sferragliano nel corpo e il nido d’ape intasato soffoca il motore.",
+  "advice": "In diagnosi nei prossimi giorni: i frammenti di ceramica possono essere aspirati nel motore, e a quel punto la riparazione diventa costosa. Un controllo semplice in officina è battere leggermente sul corpo del catalizzatore a vettura fredda: dentro si sentono i pezzi sciolti. Con questo non conviene aspettare."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Cambio automatico: olio vecchio, usura o gioco nella trasmissione",
+  "alt_causes": [
+   "Supporti motore e cambio",
+   "Crociere dell’albero di trasmissione (sulla trazione posteriore)"
+  ],
+  "explanation": "Uno strappo o un colpo proprio passando il selettore da D a R, o durante i cambi marcia, indica usura o olio vecchio nel cambio automatico: la marcia entra di colpo e i giochi della trasmissione amplificano il colpo. Anche i supporti ceduti battono in modo simile, quindi vale la pena precisare la diagnosi.",
+  "advice": "Per prima cosa controlla livello e stato dell’olio del cambio: se è scuro e sa di bruciato va sostituito, e in molti casi basta questo. Fissa una diagnosi entro una o due settimane e di’ su quali cambi marcia esattamente strappa. Fino alla riparazione muovi il selettore solo a veicolo fermo e con il freno premuto."
+ },
+ "leaf_synchro": {
+  "top_cause": "Sincronizzatori del cambio o frizione che non stacca del tutto",
+  "alt_causes": [
+   "Gioco del pedale della frizione",
+   "Usura della frizione"
+  ],
+  "explanation": "Uno scricchiolio innestando la marcia sul cambio manuale significa che gli ingranaggi si incontrano a velocità diverse. Se scricchiola una o due marce precise (spesso la seconda o la terza), sono consumati i loro sincronizzatori; se scricchiolano tutte, la frizione non stacca del tutto e il cambio non si libera.",
+  "advice": "Controlla il gioco del pedale della frizione e il livello dell’olio del cambio: anche l’officina parte da lì. Fissa una diagnosi entro due settimane. Fino alla riparazione cambia più lentamente, con una pausa in folle: scricchiola meno e si consuma meno."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Frizione: disco consumato o sporco d’olio",
+  "alt_causes": [
+   "Supporti motore",
+   "Volano bimassa"
+  ],
+  "explanation": "Un tremolio proprio nel momento della partenza, mentre si rilascia il pedale della frizione, con l’auto che poi va liscia una volta innestata del tutto, significa che la frizione attacca a strappi: disco consumato, sporco d’olio, o spingidisco deformato. I supporti motore fanno tremare l’auto anche al minimo; qui il tremolio vive solo nella fase di partenza.",
+  "advice": "Fissa una diagnosi entro una o due settimane: lo strappo in partenza non passa da solo e di solito peggiora. Fino alla riparazione parti dolcemente e con qualche giro in più, senza far slittare la frizione. Se compare odore di bruciato, la frizione si sta bruciando: non rimandare la visita."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Crociere dell’albero di trasmissione o gioco nella trasmissione",
+  "alt_causes": [
+   "Silent block e bulloni del telaietto",
+   "Coppia conica del differenziale"
+  ],
+  "explanation": "Un colpo o scatto isolato dalla zona centrale o posteriore del pianale in partenza e nel passaggio fra accelerazione e rilascio è gioco nella catena che trasmette la coppia: quasi sempre crociere consumate dell’albero di trasmissione (trazione posteriore e integrale) o fissaggi del telaietto allentati.",
+  "advice": "Fissa una diagnosi entro una o due settimane: sul ponte il gioco dell’albero si trova in un minuto muovendolo con la mano. Non conviene tirarla: una crociera molto consumata può rompersi a velocità. Fino ad allora parti e rilascia il gas con più dolcezza."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "La frizione slitta",
+  "alt_causes": [
+   "Disco sporco d’olio",
+   "Slittamento del cambio automatico o del CVT"
+  ],
+  "explanation": "Se accelerando i giri salgono e il motore urla ma l’auto quasi non accelera, la frizione sta slittando e non trasmette la coppia: il disco è consumato o sporco d’olio. Si nota soprattutto in salita e sulla marcia più alta; spesso si aggiunge un odore acre di bruciato. Su un automatico, un cambio consumato slitta allo stesso modo.",
+  "advice": "In officina questa settimana: una frizione che slitta continua a slittare fino a perdere del tutto la trazione, e di solito nel momento peggiore. Fino alla riparazione guida con calma, senza sorpassi né rimorchio, e in salita scala per tempo. Se l’odore di bruciato aumenta, non aspettare neppure un giorno."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbina o perdita nella sovralimentazione",
+  "alt_causes": [
+   "Manicotto dell’intercooler",
+   "Cuscinetto dell’albero della turbina"
+  ],
+  "explanation": "Un fischio leggero e costante del turbo sotto sforzo è normale su un motore turbo. A destare attenzione dev’essere il cambiamento: il fischio diventa più forte o cambia tono, compare un ululato, l’auto perde ripresa. È una perdita d’aria nei manicotti della sovralimentazione oppure l’usura del cuscinetto dell’albero della turbina.",
+  "advice": "Se il tono è cambiato o l’auto tira meno, in diagnosi nei prossimi giorni: un manicotto che perde si ripara con poco, mentre un turbo consumato e trascurato finisce con la sostituzione. Tieni d’occhio il consumo d’olio. Fino al controllo non portare il motore al limitatore e lascia raffreddare il turbo un paio di minuti al minimo dopo una guida vivace."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Coppia conica del differenziale",
+  "alt_causes": [
+   "Cuscinetti del differenziale",
+   "Poco olio nel differenziale"
+  ],
+  "explanation": "Un ululato o ronzio che, alla stessa velocità, cambia tono a seconda che si acceleri o si rilasci il gas — sotto tiro ulula, in rilascio si attenua, o viceversa — è la firma di una coppia conica consumata: gli ingranaggi del differenziale che portano il moto alle ruote. Un cuscinetto ruota, al contrario, al gas non reagisce affatto.",
+  "advice": "Controlla il livello dell’olio del differenziale e fissa una diagnosi entro la settimana: a usura iniziale spesso bastano olio e una registrazione; a usura avanzata va sostituita la coppia. Rimanda i viaggi lunghi ad alta velocità fino al controllo."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT o cambio automatico (cuscinetti, cinghia, convertitore)",
+  "alt_causes": [
+   "Olio del cambio scarso o vecchio",
+   "Cuscinetti degli alberi"
+  ],
+  "explanation": "Un ululato metallico monotono in accelerazione su un’auto con CVT o cambio automatico, che dipende dal gas e non dalla velocità, arriva di solito dai cuscinetti delle pulegge del CVT o dalla pompa dell’automatico. Il CVT è particolarmente sensibile all’età dell’olio.",
+  "advice": "Per prima cosa il controllo del livello e dello stato dell’olio del cambio: è metà di questi casi. Fissa una diagnosi entro la settimana e fino ad allora guida con calma, senza accelerate brusche né rimorchio. Riparare un CVT per tempo costa diverse volte meno che farlo tardi."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Cuscinetti o ingranaggi del cambio manuale",
+  "alt_causes": [
+   "Poco olio nel cambio",
+   "Cuscinetto dell’albero primario"
+  ],
+  "explanation": "Un ululato il cui volume dipende dalla marcia inserita — su una ulula, su un’altra è più debole, in folle in rilascio sparisce — arriva dal cambio manuale: cuscinetti degli alberi consumati o una coppia di ingranaggi precisa. Un cuscinetto ruota ronza uguale su qualsiasi marcia.",
+  "advice": "Controlla il livello dell’olio del cambio: un livello calato è una causa frequente. Fissa una diagnosi entro una o due settimane e di’ su quali marce ulula di più: restringe la ricerca. Puoi guidare, ma un ululato che cresce non va tirato per le lunghe."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Squilibrio delle ruote",
+  "alt_causes": [
+   "Contrappeso di equilibratura perso",
+   "Fango o ghiaccio dentro il cerchio"
+  ],
+  "explanation": "Una vibrazione fine del volante in una fascia stretta di velocità, di solito fra 80 e 120 km/h, che sotto e sopra quasi sparisce, è il classico squilibrio: è caduto un contrappeso, oppure dentro il cerchio si è attaccato fango o ghiaccio. Se vibra il volante sono le ruote anteriori; se vibra il sedile, quelle posteriori.",
+  "advice": "Passa a far equilibrare le ruote quando puoi: è veloce ed economico. D’inverno guarda prima i cerchi dall’interno e stacca neve e ghiaccio attaccati. Non è pericoloso, ma una vibrazione continua accelera l’usura di cuscinetti e testine dello sterzo."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Cerchio piegato o bolla sullo pneumatico",
+  "alt_causes": [
+   "Tela dello pneumatico spostata",
+   "Squilibrio delle ruote"
+  ],
+  "explanation": "Un battere che si nota già dai 40–60 km/h e aumenta con la velocità è di solito una deformazione: un cerchio piegato dopo una buca o una bolla sul fianco dello pneumatico. A differenza dello squilibrio, questo battere non vive in una fascia stretta di velocità, ma peggiora in continuazione.",
+  "advice": "Guarda pneumatici e bordi dei cerchi: una bolla sul fianco o un cerchio piegato spesso si vedono a occhio. Una bolla è un punto debole che può scoppiare a velocità: monta la ruota di scorta al suo posto e non rimandare la visita dal gommista. Fino ad allora non correre."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Albero di trasmissione: cuscinetto centrale o squilibrio",
+  "alt_causes": [
+   "Crociere dell’albero",
+   "Giunto elastico"
+  ],
+  "explanation": "Un ronzio e una vibrazione fine dal pianale e dalla carrozzeria in una fascia precisa di velocità, su un’auto a trazione posteriore o integrale, è l’albero di trasmissione: cuscinetto centrale consumato, crociere rovinate o equilibratura persa. Si distingue dallo squilibrio delle ruote perché non vibra il volante, ma il pianale.",
+  "advice": "Fissa una diagnosi entro la settimana: i giochi dell’albero si controllano sul ponte in pochi minuti. Non conviene tirarla: la rottura di una crociera a velocità è pericolosa. Fino al controllo non guidare a lungo alla velocità in cui vibra."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Fruscio aerodinamico (guarnizioni, modanature, barre sul tetto)",
+  "alt_causes": [
+   "Guarnizioni delle portiere consumate",
+   "Barre o box da tetto"
+  ],
+  "explanation": "Un fischio o ululato che compare solo sopra una certa velocità (di solito 70–90 km/h), aumenta con essa e non dipende dal manto stradale né dalle curve, è aria: una guarnizione consumata, una modanatura staccata, le barre da tetto o un box.",
+  "advice": "La fonte si trova facilmente: togli il box o le barre, se li hai; apri un poco il finestrino e senti se il fischio cambia; copri con nastro da carrozziere la fessura sospetta e fai un giro. Non è un guasto: si risolve con una guarnizione nuova o registrando la portiera."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "L’indicatore di usura delle pastiglie sfrega sul disco",
+  "alt_causes": [
+   "Pastiglie a fine corsa",
+   "Sassolino fra pastiglia e disco"
+  ],
+  "explanation": "Un fischio metallico sottile in marcia senza frenare, che sfiorando il pedale sparisce o cambia, è la linguetta metallica della pastiglia che ha iniziato a toccare il disco. È l’avviso previsto di fabbrica: il materiale d’attrito è quasi finito.",
+  "advice": "Fissa questa settimana la sostituzione delle pastiglie e fai controllare anche i dischi. I freni funzionano ancora del tutto, ma la fase successiva è lo sfregamento metallico e i dischi rovinati. Se il fischio arriva da una ruota precisa, dillo in officina."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Pinza del freno grippata",
+  "alt_causes": [
+   "Perni guida della pinza grippati",
+   "Tubo del freno rigonfio all’interno"
+  ],
+  "explanation": "Uno sfregamento continuo dal lato di una ruota, il disco bollente a fine percorso, odore di bruciato e l’auto che tira da un lato significano che la pinza — il componente che preme le pastiglie contro il disco — si è grippata e la pastiglia sfrega di continuo. Un freno surriscaldato perde efficacia, e pastiglia e disco si consumano in qualche centinaio di chilometri.",
+  "advice": "Smetti di usare l’auto normalmente e va’ soltanto fino all’officina, per pochi chilometri e piano. Per capire quale ruota è calda avvicina la mano al disco senza toccarlo: scotta. Tirarla per le lunghe finisce con una ruota che si blocca in marcia."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Bulloni della ruota non serrati",
+  "alt_causes": [
+   "Fori del cerchio ovalizzati",
+   "Gioco nel mozzo"
+  ],
+  "explanation": "Un urto o battito ritmato al ritmo della rotazione della ruota, comparso nei primi giorni dopo un cambio gomme, è il classico caso di bulloni della ruota non serrati. Una ruota con i bulloni allentati ovalizza i fori del cerchio e, nel peggiore dei casi, si stacca in marcia.",
+  "advice": "Fermati alla prima occasione e controlla con la chiave il serraggio dei bulloni di tutte le ruote. Se erano allentati e li hai stretti, il battito deve sparire; se resta, raggiungi con prudenza l’officina e fai controllare il mozzo. Dopo ogni cambio ruote conviene ripassare i bulloni dopo 50–100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Sassolino o vite nel battistrada",
+  "alt_causes": [
+   "Bulloni della ruota non serrati",
+   "Distacco del battistrada"
+  ],
+  "explanation": "Uno scatto regolare al ritmo della rotazione della ruota, soprattutto a bassa velocità, arriva quasi sempre da un sassolino incastrato nel battistrada — oppure, cosa più importante, da una vite piantata. Il rumore dura finché l’oggetto resta nel pneumatico.",
+  "advice": "Guarda il battistrada di tutte le ruote, facendo avanzare l’auto lentamente o girando il volante a fondo. Il sassolino toglilo. Una vite o un chiodo non estrarli: con quelli arrivi tranquillamente dal gommista, senza il pneumatico si sgonfia per strada. Se non c’è nulla di piantato e lo scatto resta, controlla il serraggio dei bulloni."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Boccole della barra stabilizzatrice o silent block (cigolio)",
+  "alt_causes": [
+   "Giunti sferici della sospensione",
+   "Guarnizioni e cerniere delle portiere secche"
+  ],
+  "explanation": "Un cigolio da vecchio letto sulle buche, salendo in auto e facendola dondolare, è gomma secca nella sospensione: le boccole della barra stabilizzatrice o i silent block dei bracci. Con freddo e umidità si sente di più. Si riproduce spingendo con la mano sul parafango a vettura ferma.",
+  "advice": "Fallo vedere in officina quando puoi: spesso si risolve ingrassando le boccole o cambiando pezzi da pochi euro. Non è pericoloso; ma se al cigolio si aggiunge un colpo o l’auto comincia a tirare da un lato, si parla di giunti sferici e il controllo non deve aspettare."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Pastiglie incollate ai dischi",
+  "alt_causes": [
+   "Pastiglie ghiacciate (in inverno)",
+   "Ganasce del freno a mano"
+  ],
+  "explanation": "Un colpo secco forte o uno scricchiolio isolato alla prima partenza dopo una lunga sosta, soprattutto con il freno a mano tirato, dopo un lavaggio, la pioggia o il gelo, sono le pastiglie che si erano incollate o ghiacciate ai dischi e si staccano. Se il resto del percorso è silenzioso, è innocuo.",
+  "advice": "Non serve fare nulla; d’inverno puoi lasciare l’auto con una marcia inserita invece del freno a mano — solo con il cambio manuale — così le pastiglie posteriori non si ghiacciano. Se lo scricchiolio si ripete a ogni partenza, non sono più le pastiglie: rifai la diagnosi."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Gioco nella scatola dello sterzo",
+  "alt_causes": [
+   "Testine dello sterzo",
+   "Giunto cardanico del piantone"
+  ],
+  "explanation": "Un colpo su asfalto increspato e sui giunti della strada, che arriva dritto al volante e si sente nelle mani, è gioco nella scatola dello sterzo: la boccola o l’ingranamento sono consumati. Segno caratteristico: il colpo si attenua se tieni il volante leggermente in tensione.",
+  "advice": "Fai controllare lo sterzo in officina nei prossimi giorni: è un organo di sicurezza e la diagnosi sul ponte richiede pochi minuti. Su alcune auto la scatola dello sterzo si registra, e costa poco. Se il volante è diventato vago attorno al centro o l’auto naviga nella corsia, non rimandare."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Molla della sospensione rotta",
+  "alt_causes": [
+   "Ammortizzatore ceduto",
+   "Piattello della molla rotto"
+  ],
+  "explanation": "Un urto metallico o uno sfregamento sulle buche e in curva, comparso di colpo dopo una buca, più un angolo dell’auto abbassato, è il quadro tipico di una spira di molla rotta. Il pezzo rotto può sfregare e battere mentre la sospensione lavora.",
+  "advice": "Guarda da sotto, dietro la ruota: una spira rotta spesso si vede a occhio nudo. In officina entro pochi giorni e fino ad allora guida con dolcezza: il pezzo di molla può spostarsi e danneggiare il pneumatico. Le molle si cambiano a coppie sullo stesso asse."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plastiche dell’abitacolo: clip e giunzioni dei pannelli",
+  "alt_causes": [
+   "Oggetti nel cassetto e nei vani",
+   "Guarnizioni delle portiere secche"
+  ],
+  "explanation": "Un sferragliare di plastica vicino e grilli sulle irregolarità piccole sono attrito e gioco dei pannelli dell’abitacolo: plancia, pannelli porta, cassetto portaoggetti. Con il freddo si sente di più. La prova sicura: se in marcia premi con la mano sul pannello sospetto e il rumore sparisce, è l’abitacolo e non il rotabile.",
+  "advice": "Non è un guasto: l’auto sta bene. Togli gli oggetti sciolti dal cassetto e dai vani e infila un pezzo di feltro nella giunzione che hai individuato. Il cigolio attorno alle portiere si risolve trattando le guarnizioni con grasso al silicone. Un colpo del rotabile, invece, è sordo, arriva da sotto e non cambia premendo sui pannelli."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Carico o ruota di scorta non fissati nel bagagliaio",
+  "alt_causes": [
+   "Cric e attrezzi di bordo",
+   "Cappelliera"
+  ],
+  "explanation": "Un colpo sordo o un rimbombo da dietro sulle buche, come se qualcosa saltasse e rotolasse, è quasi sempre proprio questo: il cric, la chiave delle ruote, una ruota di scorta mal fissata o la cappelliera che vibra. Con il bagagliaio carico il rumore di solito cambia o sparisce.",
+  "advice": "Svuota il bagagliaio, controlla il fissaggio della ruota di scorta e del cric, premi bene la cappelliera — e rifai lo stesso tratto di strada. Se il rumore è sparito, la sospensione non c’entra e non serve fare altro. Se resta, rifai la diagnosi seguendo il ramo dei colpi sulle buche."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Serratura o tamponi del cofano",
+  "alt_causes": [
+   "Cerniere del cofano",
+   "Fermaporta"
+  ],
+  "explanation": "Un battito metallico davanti in alto, verso il bordo del cofano, sulle irregolarità piccole è gioco nella serratura del cofano oppure sono i tamponi di gomma schiacciati su cui appoggia. In abitacolo il rumore si sente vicino, quasi davanti al viso, e non da sotto come un colpo della sospensione.",
+  "advice": "Prova a veicolo fermo: premi sul cofano chiuso; se si muove e batte, la diagnosi è confermata. Svita di mezzo giro verso l’alto i tamponi di gomma negli angoli, così il cofano appoggia più saldo: nella maggior parte dei casi basta. Non è pericoloso."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Punterie idrauliche (a freddo)",
+  "alt_causes": [
+   "Gioco valvole",
+   "Olio troppo denso"
+  ],
+  "explanation": "Le punterie idrauliche sono piccoli componenti che, grazie alla pressione dell’olio, recuperano il gioco in eccesso delle valvole. Finché il motore è freddo l’olio è denso e non arriva subito, per questo nei primi minuti si sente un ticchettio rapido. Se dopo il riscaldamento il rumore sparisce del tutto, è la situazione tipica e non è pericolosa.",
+  "advice": "Controlla il livello dell’olio e quando è stato cambiato: olio vecchio o non adatto aumenta il rumore. Se il ticchettio dura più di un paio di minuti o resta a motore caldo, fissa un appuntamento in officina. Non versare additivi che promettono di zittire il motore."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Usura del gruppo pistone-cilindro (colpo a freddo)",
+  "alt_causes": [
+   "Punterie idrauliche",
+   "Catena di distribuzione"
+  ],
+  "explanation": "Un colpo sordo nei primi minuti dopo un avviamento a freddo, che sparisce man mano che il motore si scalda, su auto con chilometri arriva spesso dall’usura del gruppo pistone-cilindro: finché il pistone è freddo ha un po’ più di gioco nel cilindro e batte. Scaldandosi i pezzi si dilatano e il colpo sparisce. Di solito è una cosa da tenere d’occhio, non da riparare d’urgenza.",
+  "advice": "Raccontalo in officina alla prossima visita e nota quanti minuti dura il colpo: è un’informazione utile per il meccanico. Tieni d’occhio livello e consumo d’olio. Se il colpo non sparisce più a motore caldo o si sente sotto sforzo, in diagnosi senza rimandare."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Catena di distribuzione o il suo tenditore",
+  "alt_causes": [
+   "Punterie idrauliche",
+   "Rulli della cinghia dei servizi"
+  ],
+  "explanation": "La catena di distribuzione è la catena dentro il motore che collega i suoi alberi e fa aprire le valvole al momento giusto. Quando si allunga o il tenditore perde forza, all’avviamento a freddo si sente un fruscio o tintinnio nella parte anteriore del motore, che si attenua quando il motore si scalda e la pressione dell’olio sale. Con il tempo il rumore comparirà sempre più spesso.",
+  "advice": "Fissa una diagnosi entro una o due settimane: una catena che salta un dente è una riparazione costosa del motore. Fino ad allora evita partenze brusche a freddo e lascia scaldare il motore prima di sollecitarlo. Controlla assolutamente il livello dell’olio."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "La cinghia dei servizi slitta",
+  "alt_causes": [
+   "Rullo tenditore consumato",
+   "Tensione della cinghia insufficiente"
+  ],
+  "explanation": "Un fischio nei primi secondi dopo l’avviamento arriva quasi sempre dalla cinghia che muove alternatore, pompa dell’acqua e compressore del clima. A freddo o con tempo umido slitta sulle pulegge e fischia, poi si scalda e tace. Al momento non è pericoloso, ma indica una cinghia consumata o una tensione allentata.",
+  "advice": "Fai guardare la cinghia in officina quando puoi: il controllo visivo richiede un paio di minuti. Se il fischio compare anche a motore caldo o accendendo il climatizzatore, non rimandare. Non spruzzare WD-40 sulla cinghia e non provare altri rimedi casalinghi."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Gioco valvole eccessivo",
+  "alt_causes": [
+   "Punterie idrauliche",
+   "Catena di distribuzione"
+  ],
+  "explanation": "Un ticchettio rapido e regolare nella parte alta del motore è il suono tipico della distribuzione. Con il tempo i giochi fra i suoi componenti aumentano e le valvole iniziano a battere; al minimo è quando si sente meglio. Il motore non si rompe subito per questo, ma le valvole lavorano con un colpo e si consumano prima.",
+  "advice": "Fissa entro un paio di settimane la registrazione delle valvole o il controllo delle punterie idrauliche. Tieni d’occhio il livello dell’olio: con il livello basso il ticchettio aumenta. Puoi guidare tranquillo, ma non rimandare di mesi."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Colpo nella parte bassa del motore (bronzine, bielle)",
+  "alt_causes": [
+   "Detonazione",
+   "Usura del gruppo pistone-cilindro",
+   "Puleggia dell’albero motore (smorzatore)"
+  ],
+  "explanation": "Un colpo sordo dal fondo del motore, che diventa più rapido con i giri e più forte sotto sforzo, è il più preoccupante di tutti i rumori del motore. Così battono bronzine consumate — i supporti su cui gira l’albero motore — oppure le bielle: nei collegamenti è comparso gioco e i pezzi si urtano. Se continui a guidare, il motore può grippare.",
+  "advice": "Non proseguire con le tue forze più del minimo indispensabile: meglio il carro attrezzi; se l’officina è proprio vicina, vai piano e senza accelerare. Controlla subito il livello dell’olio e rabbocca se è basso. Cose meno gravi possono suonare in modo simile, ma a controllare dev’essere un meccanico — e in fretta."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Accessori del motore o supporti motore",
+  "alt_causes": [
+   "Frizione del compressore del climatizzatore",
+   "Punterie idrauliche"
+  ],
+  "explanation": "Un colpo che non diventa più rapido quando si accelera di solito non arriva dal motore in sé, ma da ciò che è montato su di esso: alternatore, pulegge, staffe, supporti. Il gioco in questi componenti produce colpi sordi al minimo, soprattutto quando il motore vibra un po’.",
+  "advice": "Fissa una diagnosi entro una o due settimane: rumori del genere il meccanico li individua bene con lo stetoscopio. È utile notare e riferire se il rumore cambia quando parte il climatizzatore o quando inserisci una marcia con il freno premuto."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Cinghia dei servizi consumata o allentata",
+  "alt_causes": [
+   "Rullo tenditore",
+   "Puleggia dell’alternatore"
+  ],
+  "explanation": "Un fischio acuto sotto il cofano significa che la cinghia slitta sulle pulegge. Nella maggior parte dei casi è la cinghia stessa a essere consumata o il tenditore ad aver perso forza. Se la cinghia si rompe, si ferma l’alternatore — e su molte auto anche la pompa dell’acqua —, quindi non si può lasciar correre.",
+  "advice": "Porta l’auto in officina entro la settimana: sostituire cinghia e rullo è un lavoro economico. Se il fischio aumenta di colpo, si accende la spia della batteria o la temperatura del motore sale: accosta e spegni il motore."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Pompa dell’acqua",
+  "alt_causes": [
+   "Rulli della cinghia",
+   "Cuscinetto dell’alternatore"
+  ],
+  "explanation": "Un ronzio o fruscio dal lato della cinghia insieme a tracce di liquido refrigerante sono i segni tipici di una pompa dell’acqua a fine vita. Il suo cuscinetto si consuma, compare gioco e dal paraolio inizia a trasudare liquido. Se la pompa si blocca, il motore surriscalda in fretta.",
+  "advice": "Vai in officina nei prossimi giorni e tieni d’occhio lungo la strada temperatura del motore e livello del liquido. Se la temperatura sale o esce vapore dal cofano: accosta e spegni il motore. Il liquido refrigerante si rabbocca solo a motore freddo."
+ },
+ "leaf_idler": {
+  "top_cause": "Rullo tenditore o rullo di rinvio",
+  "alt_causes": [
+   "Pompa dell’acqua",
+   "Puleggia a ruota libera dell’alternatore",
+   "Catena di distribuzione o il suo tenditore"
+  ],
+  "explanation": "Un ronzio o fruscio costante che cambia con i giri del motore arriva quasi sempre dal cuscinetto di uno dei rulli su cui scorre la cinghia dei servizi. Un rullo consumato fa sempre più rumore, può iniziare a bloccarsi e finire per rompere la cinghia.",
+  "advice": "Fissa un appuntamento in officina entro la settimana: il meccanico toglie la cinghia e capisce sul posto quale rullo fa rumore. Anche la pompa dell’acqua, la puleggia a ruota libera dell’alternatore e persino la catena di distribuzione possono suonare in modo simile: si controllano nella stessa occasione. Se il rumore è diventato uno sfregamento o un fischio, anticipa la visita."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Schermo termico dell’impianto di scarico",
+  "alt_causes": [
+   "Supporti dello scarico",
+   "Riparo sotto motore"
+  ],
+  "explanation": "Un tintinnio metallico acuto a certi regimi arriva quasi sempre da uno schermo termico allentato: la lamiera sottile sopra il silenziatore o il catalizzatore. Suona male, ma non incide su come va l’auto.",
+  "advice": "Chiedi in officina di stringerlo o fissarlo con una fascetta quando puoi: è un lavoro di pochi minuti. Vale la pena assicurarsi che a tintinnare sia lo schermo e non i supporti dello scarico: sul ponte si vede subito."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Mancate accensioni o un foro nello scarico",
+  "alt_causes": [
+   "Candele e bobine di accensione",
+   "Silenziatore o tubo forato",
+   "Taratura dell’impianto GPL (se scoppietta a gas)"
+  ],
+  "explanation": "Gli scoppi allo scarico significano che il carburante finisce di bruciare non nei cilindri, ma nella linea di scarico. Le cause sono mancate accensioni (candele, bobine), una miscela sbagliata o un foro nello scarico. Oltre al rumore, questo rovina il catalizzatore, e sostituirlo costa caro.",
+  "advice": "Fissa una diagnosi nei prossimi giorni, soprattutto se l’auto tira meno, gira irregolare o si è accesa la spia del motore. Non conviene girare a lungo con gli scoppi: il carburante incombusto surriscalda il catalizzatore. Se hai un impianto GPL e gli scoppi arrivano a gas, vai a far tarare l’impianto: per lui gli scoppi sono particolarmente pericolosi."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Silenziatore o tubo di scarico forato",
+  "alt_causes": [
+   "Guarnizione dello scarico",
+   "Flessibile dello scarico crepato"
+  ],
+  "explanation": "Un rombo forte che aumenta accelerando di solito significa un foro nella linea di scarico: silenziatore, tubo o guarnizione andati. Il suono diventa sportivo, ma i gas escono prima del dovuto: significa rumore, odore e il rischio che il monossido di carbonio entri in abitacolo.",
+  "advice": "Porta l’auto in officina questa settimana: guardare lo scarico sul ponte richiede pochi minuti. Se in abitacolo senti odore di scarico, guida con il finestrino socchiuso e non scaldare il motore in un garage chiuso: il monossido di carbonio è pericoloso."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Supporti motore",
+  "alt_causes": [
+   "Mancate accensioni",
+   "Farfalla o iniettori sporchi"
+  ],
+  "explanation": "Se al minimo si sente un tremolio in abitacolo e volante e sedili vibrano leggermente, la colpa è spesso dei supporti motore: i tasselli di gomma che smorzano le sue oscillazioni. Con il tempo la gomma si indurisce e si lacera, e la vibrazione passa alla carrozzeria.",
+  "advice": "Fai controllare i supporti in officina entro un paio di settimane: l’ispezione è semplice. Un indizio per la diagnosi: la vibrazione dei supporti di solito aumenta con una marcia inserita e il freno premuto. Se in più il motore dà strappi, dillo al meccanico: potrebbero esserci mancate accensioni."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Velo di ruggine sui dischi dei freni",
+  "alt_causes": [
+   "Umidità o polvere sulle pastiglie",
+   "Usura iniziale delle pastiglie"
+  ],
+  "explanation": "Durante la notte, dopo la pioggia o un lavaggio, sui dischi si forma un velo sottile arancione: è normale su qualsiasi auto. Le prime frenate lo portano via, da qui il cigolio o il leggero raschiare che sparisce in fretta.",
+  "advice": "Non serve fare nulla: qualche frenata dolce a inizio percorso pulisce i dischi. Se il rumore non sparisce più e si sente a ogni frenata, rifai la diagnosi o porta l’auto in officina."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Stato o usura delle pastiglie dei freni",
+  "alt_causes": [
+   "Indicatore di usura delle pastiglie",
+   "Pastiglie vetrificate",
+   "Polvere o corrosione sui dischi"
+  ],
+  "explanation": "Un fischio a ogni frenata è il segnale per far controllare le pastiglie. Molte pastiglie hanno un indicatore di usura metallico: quando il materiale d’attrito che lavora sul disco si è consumato fino al limite, una linguetta tocca il disco e fischia apposta. Possono fischiare anche le pastiglie stesse, per un deposito sulla superficie, per vetrificazione o per materiale scadente.",
+  "advice": "Fissa questa settimana un controllo di pastiglie e dischi. Se è l’indicatore di usura, non si può aspettare: la fase successiva è lo sfregamento metallico e i dischi rovinati. Se le pastiglie sono a posto, il fischio non è pericoloso e il meccanico ti dirà come eliminarlo."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Pastiglie consumate fino al metallo",
+  "alt_causes": [
+   "Corpo estraneo nel freno",
+   "Pastiglia disintegrata"
+  ],
+  "explanation": "Uno sfregamento metallo contro metallo in frenata significa che il materiale d’attrito della pastiglia è finito e la piastra metallica sfrega sul disco. Lo spazio di frenata aumenta, il disco si rovina a ogni fermata e il meccanismo può grippare.",
+  "advice": "Smetti di usare l’auto normalmente e va’ soltanto fino all’officina, frenando in anticipo e con dolcezza. Non rimandare la sostituzione neppure di un giorno: oltre alla sicurezza, ogni chilometro così aggiunge al conto il prezzo di dischi nuovi."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Perni guida della pinza o dischi deformati",
+  "alt_causes": [
+   "Gioco nel mozzo",
+   "Fissaggio della pinza allentato"
+  ],
+  "explanation": "Un colpo in frenata o pulsazioni nel pedale arrivano di solito dal freno stesso: i perni guida della pinza — il componente che preme le pastiglie sul disco — hanno gioco, oppure il disco si è deformato e le pastiglie ci battono contro. I freni funzionano, ma in modo irregolare.",
+  "advice": "Fai controllare i freni in officina nei prossimi giorni: un organo da cui dipende la sicurezza non va trascurato. Se il pedale affonda più del solito, se l’auto tira da un lato in frenata o se batte nel volante, in diagnosi subito."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Qualcosa sfrega sul disco del freno (lamierino o pastiglie consumate)",
+  "alt_causes": [
+   "Pastiglie consumate fino al metallo",
+   "Lamierino parapolvere piegato",
+   "Sassolino fra lamierino e disco"
+  ],
+  "explanation": "Uno sfregamento continuo dal lato di una ruota di solito significa che qualcosa tocca il disco in rotazione: un lamierino parapolvere piegato, un sassolino finito lì dentro — oppure pastiglie consumate fino al metallo. I primi due casi sono innocui, il terzo è pericoloso, e a orecchio si confondono facilmente.",
+  "advice": "Fai controllare entro un giorno o due, senza rimandare: uno sguardo alla ruota mostra subito la causa. Se in frenata lo sfregamento aumenta o il pedale si comporta diversamente dal solito, smetti di usare l’auto e raggiungi l’officina con prudenza."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Cuscinetto ruota",
+  "alt_causes": [
+   "Rumore degli pneumatici",
+   "Giunto omocinetico consumato"
+  ],
+  "explanation": "Un ronzio che cambia in curva mentre si guida è il segno classico di un cuscinetto ruota consumato: il cuscinetto su cui gira la ruota. In curva il peso si sposta sulle ruote esterne: se girando a sinistra il ronzio aumenta, il lato carico è il destro, quindi ronza probabilmente il cuscinetto destro; girando a destra, il contrario. Un cuscinetto che si sta disintegrando dà gioco alla ruota e, allo stadio avanzato, può bloccarsi.",
+  "advice": "Ricorda in quale senso di curva il ronzio è più forte e dillo in officina: restringe subito la ricerca. Non rimandare il controllo oltre una settimana e rinvia i viaggi lunghi fino alla diagnosi. Se compare una vibrazione o il ronzio aumenta molto, in officina subito."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Giunto omocinetico esterno",
+  "alt_causes": [
+   "Giunto omocinetico interno",
+   "Bielline della barra stabilizzatrice",
+   "Frizione della trazione integrale (su 4x4)"
+  ],
+  "explanation": "Scatti o scricchiolii guidando con il volante girato sono il suono caratteristico di un giunto omocinetico esterno consumato: il giunto attraverso cui gira la ruota sterzante. Di solito tutto comincia con una cuffia strappata — la protezione in gomma che ripara il giunto dallo sporco.",
+  "advice": "Guarda le cuffie dei giunti o chiedi di farlo in officina: una cuffia strappata e grasso tutt’intorno confermano la diagnosi. Non rimandare la sostituzione oltre una o due settimane: un giunto consumato può bloccarsi. Fino alla riparazione non partire di scatto con le ruote girate a fondo."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Testine dello sterzo o scatola guida",
+  "alt_causes": [
+   "Bielline della barra stabilizzatrice",
+   "Cuscinetti dei supporti degli ammortizzatori"
+  ],
+  "explanation": "Un colpo girando il volante, soprattutto da fermo o a bassa velocità, arriva di solito dal gioco nelle testine dello sterzo, nei tiranti o nella scatola guida stessa. Alla guida per ora non dà fastidio, ma il gioco nello sterzo con il tempo non fa che aumentare.",
+  "advice": "Fai controllare lo sterzo in officina nei prossimi giorni: la diagnosi sul ponte richiede pochi minuti. Se il volante è diventato vago attorno al centro, se l’auto naviga nella corsia o se il colpo è aumentato di colpo, non rimandare: è un organo di sicurezza."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Pompa del servosterzo",
+  "alt_causes": [
+   "Livello del liquido del servosterzo basso",
+   "Cinghia dei servizi"
+  ],
+  "explanation": "Un ululato o ronzio che compare girando il volante da fermo o a bassa velocità arriva quasi sempre dalla pompa del servosterzo: è lei a mettere in pressione il liquido che aiuta a sterzare. Ulula più forte con il volante girato a fondo. La causa più frequente è il livello del liquido nella vaschetta che è calato.",
+  "advice": "Controlla il livello del liquido del servosterzo nella vaschetta sotto il cofano e rabbocca se è sotto la tacca MIN. Non tenere il volante girato a fondo più di un paio di secondi. Se dopo il rabbocco l’ululato resta o il liquido cala di nuovo, in officina entro la settimana."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Bielline della barra stabilizzatrice",
+  "alt_causes": [
+   "Boccole della barra stabilizzatrice",
+   "Giunti sferici della sospensione"
+  ],
+  "explanation": "Un colpo sordo e ripetuto sulle irregolarità piccole — pavé, giunti della strada, asfalto ondulato — arriva quasi sempre dalle bielline della barra stabilizzatrice: piccole astine con snodi, fra i primi pezzi a consumarsi nella sospensione. Da sole non sono pericolose, ma componenti più seri possono battere in modo simile.",
+  "advice": "Fissa un controllo della sospensione entro una o due settimane: il meccanico scuote i componenti sul ponte e trova il gioco in pochi minuti. Fino ad allora passa piano sulle buche grandi. Se l’auto comincia a tirare da un lato, anticipa il controllo."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Retrotreno: bielline o silent block del ponte",
+  "alt_causes": [
+   "Ammortizzatori",
+   "Supporti dello scarico"
+  ],
+  "explanation": "Un colpo ripetuto da dietro sulle irregolarità piccole arriva di solito dagli snodi piccoli del retrotreno: le bielline della barra stabilizzatrice posteriore o silent block consumati — le boccole di gomma con cui bracci e ponte sono fissati alla scocca. A volte batte in modo simile anche un supporto dello scarico allentato.",
+  "advice": "Fissa un controllo della sospensione entro una o due settimane: sul ponte l’origine di un colpo posteriore si trova in fretta. Fino ad allora passa piano sulle buche grandi. Nota se batte su asfalto increspato o solo sulle buche isolate, e dillo al meccanico."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silent block dei bracci o ammortizzatori",
+  "alt_causes": [
+   "Cuscinetti dei supporti degli ammortizzatori",
+   "Giunti sferici della sospensione"
+  ],
+  "explanation": "Colpi sordi isolati su buche e dossi significano di solito silent block consumati — le boccole di gomma con cui i bracci della sospensione sono fissati alla scocca — oppure ammortizzatori stanchi. La sospensione non assorbe più il colpo e lo passa alla scocca.",
+  "advice": "Fai un controllo della sospensione entro due settimane. Una prova semplice degli ammortizzatori: premi verso il basso un angolo dell’auto; la scocca deve tornare senza continuare a oscillare. Fino alla riparazione passa le irregolarità con dolcezza: i colpi rovinano anche i componenti vicini."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Supporti dello scarico o riparo sotto motore",
+  "alt_causes": [
+   "Schermo termico",
+   "Tubo di scarico che pende"
+  ],
+  "explanation": "Un sferragliare metallico da sotto la vettura sulle buche è di solito un fissaggio allentato: i gommini dello scarico, i bulloni del riparo sotto motore o uno schermo termico. Dà fastidio, ma non incide né sul motore né sulla guida.",
+  "advice": "Alla prossima visita in officina chiedi di stringere i fissaggi: è veloce ed economico. Vale la pena assicurarsi che lo scarico non penda — un tubo che striscia sull’asfalto non si può più ignorare. Fino ad allora puoi guidare normalmente."
+ },
+ "leaf_detonation": {
+  "top_cause": "Detonazione (battito in testa sotto sforzo)",
+  "alt_causes": [
+   "Carburante con numero di ottano troppo basso",
+   "Depositi carboniosi o sensore di detonazione guasto"
+  ],
+  "explanation": "Un tintinnio metallico in accelerazione, soprattutto in salita o da bassi regimi, è detonazione: parte del carburante nel cilindro si accende da sola, in modo esplosivo, invece di bruciare in modo uniforme, e l’onda d’urto martella i pistoni. Cause frequenti: benzina con numero di ottano inferiore al necessario, depositi carboniosi nelle camere di combustione o un sensore di detonazione guasto. Una detonazione continua distrugge il motore poco a poco.",
+  "advice": "Fai il pieno con carburante di numero di ottano non inferiore a quello prescritto dal costruttore, meglio a un altro distributore: spesso il tintinnio sparisce dopo un pieno. Fino al controllo non sollecitare il motore: accelera con dolcezza e in salita scala. Se il tintinnio resta anche dopo aver cambiato carburante, in diagnosi."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Supporti motore o giunto omocinetico interno",
+  "alt_causes": [
+   "Gioco nella trasmissione",
+   "Supporto del cambio"
+  ],
+  "explanation": "Un colpo nel momento in cui si accelera o si rilascia il gas indica gioco nella catena che trasmette la coppia. Supporti consumati lasciano oscillare il motore al cambio di carico, e un giunto omocinetico interno consumato — il giunto del semiasse che va dal cambio alla ruota — batte accelerando e rilasciando. La cosa importante: il rumore arriva con il cambio di carico, non con le buche.",
+  "advice": "Fissa una diagnosi entro una o due settimane. Un indizio per l’officina: nota se il colpo è più vicino al motore o alle ruote e se si ripete cambiando marcia. Fino alla riparazione accelera e cambia marcia con più dolcezza."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Cuscinetto ruota",
+  "alt_causes": [
+   "Rumore degli pneumatici",
+   "Cuscinetto centrale o trasmissione"
+  ],
+  "explanation": "Un ronzio costante che aumenta con la velocità e non dipende dai giri del motore arriva quasi sempre da un cuscinetto ruota consumato: il cuscinetto su cui gira la ruota. Il ronzio ricorda un aereo al decollo e quasi non cambia con il manto stradale. Un cuscinetto trascurato troppo a lungo dà gioco alla ruota e, nel caso peggiore, può bloccarsi.",
+  "advice": "Fallo controllare in officina entro la settimana: il meccanico fa girare le ruote sul ponte e individua il mozzo rumoroso, il gruppo in cui questo cuscinetto è alloggiato. Rimanda i viaggi lunghi ad alta velocità fino alla diagnosi. Se il ronzio aumenta di colpo o compare una vibrazione, in officina subito."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Cuscinetto della ruota posteriore",
+  "alt_causes": [
+   "Rumore degli pneumatici",
+   "Differenziale o cuscinetto centrale (su trazione posteriore e integrale)"
+  ],
+  "explanation": "Un ronzio costante da dietro che aumenta con la velocità arriva quasi sempre da un cuscinetto della ruota posteriore: il cuscinetto su cui gira la ruota. Sulle auto a trazione posteriore o integrale i componenti della trasmissione ronzano in modo simile, quindi conviene confermare l’origine sul ponte.",
+  "advice": "Fallo controllare in officina entro la settimana: dietro, il ronzio di un cuscinetto si confonde facilmente con il differenziale, e un’ispezione sul ponte chiarisce subito. Rimanda fino ad allora i viaggi lunghi ad alta velocità. Se il ronzio aumenta di colpo o compare una vibrazione, in officina subito."
+ },
+ "leaf_tires": {
+  "top_cause": "Rumore degli pneumatici",
+  "alt_causes": [
+   "Usura irregolare del battistrada",
+   "Cuscinetto ruota"
+  ],
+  "explanation": "Se il ronzio dipende dal manto stradale — più basso su asfalto nuovo, più forte su asfalto ruvido —, quasi certamente sono gli pneumatici. Rumoreggiano soprattutto le gomme invernali, quelle da fuoristrada e quelle consumate in modo irregolare. È una questione di comfort, non un guasto.",
+  "advice": "Guarda il battistrada: un’usura a dente di sega (gradini sui bordi) o a chiazze aumenta il ronzio e fa pensare a un assetto sregolato o ad ammortizzatori stanchi. Controlla la pressione degli pneumatici. Se in realtà il ronzio non dipende dal manto stradale e aumenta con la velocità, torna all’ipotesi del cuscinetto ruota."
+ }
+}
