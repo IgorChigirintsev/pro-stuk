@@ -149,5 +149,87 @@
    "o2": "Een gelijkmatig brommen of ruisen",
    "o3": "Gelijkmatig sissen, als lucht uit een band"
   }
+ },
+ "q_hum_source": {
+  "text": "Waar komt het brommen vandaan?",
+  "options": {
+   "o1": "Van voren, onder de motorkap, verandert met het toerental",
+   "o2": "Het schakelt vanzelf aan en uit: bij warm weer, in de file, met de airco aan",
+   "o3": "Van achteren, bij de tank; te horen zodra het contact aan gaat, nog voor het starten"
+  }
+ },
+ "q_pump_check": {
+  "text": "Zie je onder de motorkap bij de riem lekkage of vochtsporen?",
+  "options": {
+   "o1": "Ja, lekkage of een koelvloeistofgeur",
+   "o2": "Droog",
+   "o3": "Ik heb niet kunnen kijken"
+  }
+ },
+ "q_rattle": {
+  "text": "Wat voor geluid en waarvandaan?",
+  "options": {
+   "o1": "Metaalachtig rammelen onder de auto",
+   "o2": "Knallen of ploffen uit de uitlaat",
+   "o3": "Klokken of borrelen achter het dashboard"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Trekt de auto slechter of ruikt de uitlaat anders sinds het rammelen begon?",
+  "options": {
+   "o1": "Ja, minder trekkracht of de geur is veranderd",
+   "o2": "Nee, hij rammelt alleen bij bepaalde toerentallen"
+  }
+ },
+ "q_move_when": {
+  "text": "Wanneer valt het geluid tijdens het rijden het meest op?",
+  "options": {
+   "o1": "Bij het remmen",
+   "o2": "In bochten of als je aan het stuur draait",
+   "o3": "Op oneffenheden en drempels",
+   "o4": "Bij gas geven, bij het schakelen of continu"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Hoor je het alleen bij de eerste paar keer remmen na het parkeren of bij regen, en daarna niet meer?",
+  "options": {
+   "o1": "Ja, het verdwijnt snel",
+   "o2": "Nee, ik hoor het bij elke rembeurt"
+  }
+ },
+ "q_brake_char": {
+  "text": "Wat voor geluid hoor je bij het remmen?",
+  "options": {
+   "o1": "Piepen of knersen",
+   "o2": "Metaal dat over metaal schuurt",
+   "o3": "Kloppen of pulseren in het pedaal"
+  }
+ },
+ "q_turn_char": {
+  "text": "Wat hoor je in de bocht?",
+  "options": {
+   "o1": "Brommen bij snelheid, naar één kant sterker",
+   "o2": "Klikken of knappen met het stuur ver ingedraaid",
+   "o3": "Kloppen als je aan het stuur draait",
+   "o4": "Janken of brommen als je stilstaand of bij het parkeren stuurt"
+  }
+ },
+ "q_bump_char": {
+  "text": "Wat voor geluid hoor je op oneffenheden?",
+  "options": {
+   "o1": "Kloppen of klepperen",
+   "o2": "Kraken, als een oud bed",
+   "o3": "Rammelen of dreunen",
+   "o4": "Eén harde bonk bij het eerste wegrijden na lang stilstaan"
+  }
+ },
+ "q_bump_knock_type": {
+  "text": "Wat voor klopgeluid precies?",
+  "options": {
+   "o1": "Snel, dof kloppen op kleine oneffenheden",
+   "o2": "Losse doffe klappen in kuilen en over drempels",
+   "o3": "Het kloppen komt recht in het stuur, je voelt het in je handen",
+   "o4": "Het klepperen begon ineens na een klap in een kuil, één hoek van de auto hangt lager"
+  }
  }
 }
