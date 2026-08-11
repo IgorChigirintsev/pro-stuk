@@ -438,5 +438,85 @@
   ],
   "explanation": "Tam klimayı açtığınız anda çıkan cıyaklama, kompresörü kayışa bağlayan kavramanın yük altında patinaj yaptığını gösterir. Açarken tek bir tık normaldir; cıyaklama ise kavramanın aşındığını ya da kayışın gevşediğini söyler.",
   "advice": "İki hafta içinde serviste gösterin: kavrama ihmal edilirse ses sürekli hale gelir, kompresör sıkışıp kayışı koparabilir. Tamire kadar klimayı kullanabilirsiniz, ama ses artarsa kapatın."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Klima kompresörü (rulman ya da aşınma)",
+  "alt_causes": [
+   "Kavrama kasnağının rulmanı",
+   "Sistemdeki yağın azlığı"
+  ],
+  "explanation": "Yalnızca klima çalışırken duyulan gıcırtı ya da gürültü, ölmek üzere olan kompresörden ya da kasnağının rulmanından gelir. Sıkışan kompresör kayışı koparır; birçok araçta o kayış alternatörü ve devirdaim pompasını da döndürür.",
+  "advice": "Şimdilik klimayı açmayın — böylece parça tamire kadar dayanır. Bir hafta içinde diagnostiğe gidin: hasar sadece rulmanla sınırlıyken tamir, kompresör değişimi ve tüm sistemin yıkanmasından çok daha ucuzdur."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Soğutucu gazın normal geçişi",
+  "alt_causes": [
+   "Evaporatör valfinin normal çalışması"
+  ],
+  "explanation": "Klimayı açtıktan ya da kapattıktan sonraki ilk saniyelerde panelin arkasından gelen kısa tıslama ya da lıkırtı, soğutucu gazın evaporatör valfinden geçmesidir. Kabin soğuyorsa bu sistemin normal çalışmasıdır, kaçak değil.",
+  "advice": "Hiçbir şey yapmanıza gerek yok. Asıl kontrol sebebi başka: tıslama sürekli hale geldiyse ve soğutma yoksa ya da zayıfsa, klima sistemini kontrol ettirin."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Şanzıman giriş mili rulmanı",
+  "alt_causes": [
+   "Debriyaj bilyası",
+   "Kayış rolleri"
+  ],
+  "explanation": "Rölantide duyulan, debriyaja basınca kesilen hışırtı ya da uğultu şanzımandan gelir: pedal bırakılıyken giriş mili motorla birlikte döner ve aşınmış rulmanı ses yapar. Pedala basınca mil durur, ses gider. Kayış ve rolleri ise debriyaj pedalına hiç tepki vermez.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin ve sesin pedalla olan ilişkisini mutlaka anlatın — bu aramayı hemen daraltır. Şanzıman yağ seviyesini kontrol ettirin. Araç kullanılabilir ama aylarca ertelenmemeli: dağılan rulman milleri ve dişlileri de peşinden götürür."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Debriyaj bilyası (rulmanı)",
+  "alt_causes": [
+   "Giriş mili rulmanı",
+   "Debriyaj çatalı"
+  ],
+  "explanation": "Debriyaja basınca çıkan ya da artan hışırtı veya uğultu, debriyaj bilyasından gelir — basma anında baskı balatasına yaslanan parçadan. Aşınmış bilya tam da yük altında, yani pedal basılıyken ses yapar.",
+  "advice": "Bir–iki hafta içinde servise gidin. Gereksiz yere pedalı basılı tutmayın (kırmızı ışıkta boşa alıp debriyajı bırakın). Dağılan bilya sizi yolda debriyajsız bırakabilir, bu yüzden aylarca ertelemeyin."
+ },
+ "leaf_dmf": {
+  "top_cause": "Çift kütleli volan",
+  "alt_causes": [
+   "Debriyaj diskinin yayları",
+   "Debriyaj bilyası"
+  ],
+  "explanation": "Rölantide şanzıman tarafından gelen, debriyaja basınca değişen ve özellikle çalıştırma ile susturma anlarında duyulan metalik takırtı ya da gümbürtü, aşınmış çift kütleli volanın tipik imzasıdır: motorla şanzıman arasındaki, sarsıntıları yutan damperin.",
+  "advice": "İki hafta içinde diagnostiğe gidin ve sesin pedalla, çalıştırma ve susturmayla ilişkisini anlatın. Değişimi ucuz değil, ama ertelemek debriyajı da bitirir ve volan yolda dağılabilir. Tamire kadar yumuşak kalkın ve düşük devirde zorlayarak gitmeyin."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Debriyaj pedalı mekanizması (mil, çatal, tel)",
+  "alt_causes": [
+   "Pedal milinin burçları",
+   "Debriyaj çatalı"
+  ],
+  "explanation": "Motor kapalıyken bile duyulan, pedala basarken çıkan gıcırtı, debriyaj mekanizmasının kurumasıdır: pedal mili, tel ya da çatal. Ses motor çalışmadan da çıktığına göre kayış, debriyaj bilyası ve şanzıman bu işin dışında.",
+  "advice": "İlk fırsatta serviste pedal milinin ve çatalın gresle yağlanmasını isteyin — çoğu zaman dakikalar içinde çözülür. Tehlikesi yok. Gıcırtıyla birlikte pedal sertleştiyse ya da debriyaj en dipte tutmaya başladıysa, aracı daha erken gösterin."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Amortisör üst takozunun rulmanı",
+  "alt_causes": [
+   "Direksiyon kutusu",
+   "Viraj demiri rotları"
+  ],
+  "explanation": "Dururken direksiyonu çevirirken yukarıdan, tekerlek davlumbazının arkasından gelen çatırtı ya da tıkırtı, üst takoz rulmanından gelir — amortisörün üst ucunun tekerlekle birlikte döndüğü yerden. Ek işaret: çukurlarda yukarıdan gelen tek tek „tak” sesleri.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: kontrolü kolaydır, kaputun altında amortisör kulesine elinizi koyunca tıkırtı hemen hissedilir. Araç kullanılabilir ama aşınmış takoz amortisörü de yıpratır ve direksiyonun kendiliğinden merkeze dönüşünü bozar."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Direksiyon mili istavrozu (kardan mafsalı)",
+  "alt_causes": [
+   "Mil kamalarındaki boşluk",
+   "Direksiyon kutusu"
+  ],
+  "explanation": "Doğrudan direksiyonda, sürücünün ayaklarının orada duyulan ve hissedilen tık ya da vuruntu, genelde direksiyon ara milinin istavrozundan gelir — direksiyonla kutu arasındaki küçük mafsaldan. Motor kapalıyken direksiyonu sağa sola oynattığınızda ses net duyulur.",
+  "advice": "Önümüzdeki günlerde serviste kontrol ettirin: direksiyon bir güvenlik sistemidir ve teşhis dakikalar sürer. Koldaki boşluk zamanla büyür ve direksiyonun boşluğunu artırır."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Fren vakum takviyesi (hidrovak) ya da hortumu",
+  "alt_causes": [
+   "Takviyenin çek valfi",
+   "Vakum hortumunda çatlak"
+  ],
+  "explanation": "Fren pedalına basıp bırakırken tam o anda çıkan ve değişen tıslama, vakum takviyesine hava kaçtığını gösterir: pedaldaki kuvveti azaltan parçaya. Pedal bu durumda belirgin şekilde sertleşir ve rölanti devri titreyebilir.",
+  "advice": "Bu hafta servise gidin: frenler takviye olmadan da çalışır ama çok daha sert basmak gerekir — acil bir durumda bu tehlikelidir. Yola çıkmadan pedalı deneyin: tahta gibi sertleştiyse yalnızca dikkatli ve kısa mesafe gidin."
  }
 }
