@@ -180,4 +180,183 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-podshipnika-stupitsy': {
+    h1: 'Ronflement du roulement de roue',
+    metaTitle: 'Roulement de roue qui ronfle : comment le reconnaître | Stuk',
+    description:
+      'Comment sonne un roulement de roue usé, comment le distinguer du bruit des pneus, quelle roue ronfle et combien de temps on peut rouler ainsi.',
+    intro: [
+      'Le roulement de roue est la pièce sur laquelle la roue tourne. Quand il s’use, un ronflement régulier apparaît et grandit avec la vitesse : beaucoup le comparent à un avion qui décolle ou au bourdonnement d’un transformateur. Il commence à peine perceptible vers 60–80 km/h, s’entend avec le temps à toutes les vitesses et finit par se transmettre en vibration.',
+      'La difficulté est de le séparer du bruit des pneus : ils ronflent de façon voisine. Il existe deux tests fiables sans matériel. Le premier, le revêtement : le bruit des pneus change avec le type de bitume, le ronflement du roulement reste identique partout. Le second, les changements de file doux à vitesse : si le ronflement change dans un arc large, c’est presque à coup sûr un roulement — celui du côté chargé.',
+    ],
+    causes: [
+      { name: 'Roulement de roue usé', likelihood: 'Le plus souvent, quand le ronflement est régulier et ignore le revêtement' },
+      { name: 'Bruit des pneus (hiver, tout-terrain, usure irrégulière)', likelihood: 'Très fréquent — le grand sosie du roulement' },
+      { name: 'Pont ou couple conique (propulsion et quatre roues motrices)', likelihood: 'Plus rare ; le ton de ce ronflement change à l’accélérateur' },
+      { name: 'Palier central de l’arbre de transmission', likelihood: 'Rare, uniquement sur voitures à arbre de transmission' },
+    ],
+    canRide: [
+      'Au début oui, mais avec des réserves. Un roulement usé ne se détruit pas d’un coup : du premier ronflement à l’état critique, il s’écoule en général des milliers de kilomètres. Le processus ne va toutefois que dans un sens, et sa fin est désagréable : du jeu dans la roue, une portée abîmée et, à l’extrême, un moyeu qui se bloque en roulant.',
+      'La règle est donc simple : ronflement remarqué — voiture au garage sous une à deux semaines, longs trajets rapides reportés jusque-là. Si le ronflement a brusquement grossi, qu’une vibration est apparue, que la roue a du jeu ou que la voiture tire d’un côté, allez au diagnostic tout de suite, et pas par l’autoroute.',
+    ],
+    checks: [
+      'Test du revêtement : parcourez la même portion sur des bitumes différents. Le ronflement n’a pas changé — plutôt le roulement ; il s’est atténué sur revêtement lisse — plutôt les pneus.',
+      'Test du virage : sur une route vide à 60–80 km/h, changez de file en douceur. Le ronflement faiblit à droite et grossit à gauche — le côté droit se charge, le roulement droit est probable ; et inversement.',
+      'Vérification au point mort : accélérez puis laissez rouler au point mort. Le ronflement reste — la source tourne avec les roues, pas avec le moteur.',
+      'Examiner la bande de roulement : l’usure en dents de scie et les plaques d’usure irrégulière rendent les pneus bruyants et orientent vers la géométrie.',
+      'Après le trajet, approcher prudemment la main des moyeux (sans toucher le disque de frein, qui est brûlant) : un moyeu nettement plus chaud d’un côté est un indice de plus.',
+    ],
+    appHelp:
+      'L’application Stuk pose les mêmes questions de contrôle — sur le revêtement, les virages et la roue libre au point mort —, enregistre le ronflement et évalue son caractère : le bruit large bande des pneus et le ronflement d’un roulement n’ont pas la même allure dans le spectre. Le rapport donne les probabilités des causes, l’urgence et une indication sur le côté à annoncer au mécanicien.',
+    faq: [
+      {
+        q: 'Pourquoi le ronflement change-t-il en virage ?',
+        a: 'En virage, le poids passe sur les roues extérieures. Si le ronflement grossit en tournant à gauche, c’est le côté droit qui est chargé — et c’est donc probablement le roulement droit qui ronfle. En tournant à droite, l’inverse. Retenez cet indice et annoncez-le au garage : il divise la recherche par deux.',
+      },
+      {
+        q: 'Combien de temps peut-on rouler avec un roulement qui ronfle ?',
+        a: 'Il n’y a pas de chiffre unique : des premiers symptômes à un jeu dangereux, il s’écoule en général des milliers de kilomètres, mais la vitesse d’usure est imprévisible. Compromis raisonnable : prendre rendez-vous sous une à deux semaines et ne pas prévoir de longs trajets rapides d’ici là.',
+      },
+      {
+        q: 'Peut-on confondre un roulement avec les pneus ?',
+        a: 'Facilement — c’est l’erreur la plus courante. Deux indices les séparent : le bruit des pneus dépend du revêtement et ne change pas en virage, tandis que le ronflement d’un roulement est identique sur tout bitume et réagit au transfert de masse dans les courbes larges.',
+      },
+    ],
+  },
+
+  'stuk-na-nerovnostyah': {
+    h1: 'Chocs sur les irrégularités',
+    metaTitle: 'Chocs sur les bosses : causes et vérifications à faire soi-même | Stuk',
+    description:
+      'Chocs sur les bosses et les trous : martèlement fréquent sur les ondulations, chocs isolés dans les nids-de-poule ou choc dans le volant. Quelles pièces sont en cause et peut-on rouler.',
+    intro: [
+      'Un choc qui n’apparaît que sur les irrégularités — joints de chaussée, pavés, dos-d’âne — vient presque toujours du train roulant. En passant une bosse, la suspension se comprime et se détend, et si du jeu est apparu dans une articulation, la pièce bat dans son logement à chaque débattement. Sur les voitures de plus de cinq à sept ans, c’est banal, et ce sont le plus souvent des pièces d’usure bon marché qui sont en cause, pas de gros organes.',
+      'Le dessin du choc réduit la liste des suspects. Un martèlement sourd et fréquent sur les petites ondulations à l’avant, c’est le classique des biellettes de barre stabilisatrice ; le même dessin à l’arrière, ce sont les biellettes arrière ou les silentblocs de traverse (les bagues en caoutchouc par lesquelles la traverse est fixée à la caisse). Des chocs isolés dans les trous, ce sont les silentblocs de bras ou des amortisseurs fatigués. Cas à part : un choc au rythme de la rotation de la roue apparu après un montage de pneus récent — il peut s’agir de boulons de roue mal serrés, et cette hypothèse se vérifie en premier.',
+    ],
+    causes: [
+      { name: 'Biellettes de barre stabilisatrice', likelihood: 'Le plus souvent — martèlement fréquent à l’avant sur les petites bosses' },
+      { name: 'Train arrière : biellettes arrière, silentblocs de traverse', likelihood: 'Fréquent — si le choc vient de l’arrière' },
+      { name: 'Silentblocs de bras ou amortisseurs', likelihood: 'Fréquent — chocs isolés dans les trous' },
+      { name: 'Jeu dans la crémaillère de direction', likelihood: 'Plus rare — le choc remonte droit dans le volant' },
+      { name: 'Boulons de roue mal serrés', likelihood: 'Rare — mais c’est la première chose à vérifier après un montage de pneus' },
+    ],
+    canRide: [
+      'Avec le choc typique des biellettes ou des silentblocs, vous pouvez rouler : ces pièces ne lâchent pas brutalement, et une à deux semaines avant le diagnostic ne changent rien si vous passez les grands trous lentement. Le diagnostic de la suspension lui-même est rapide : sur un pont, le mécanicien secoue les articulations et trouve le jeu en quelques minutes. Traîner des mois reste une mauvaise idée : une articulation usée transmet les chocs aux pièces voisines et accélère leur usure.',
+      'Autre chose : un choc rythmé, au rythme de la rotation de la roue, dans les premiers jours après un montage de pneus. C’est une raison de s’arrêter dès que possible et de contrôler le serrage des boulons de toutes les roues à la clé. Une roue sur des boulons desserrés matraque les trous de la jante et, au pire, peut se détacher en roulant. Un choc qui remonte dans le volant n’attend pas non plus : la direction est un organe de sécurité, elle se contrôle dans les jours qui viennent.',
+    ],
+    checks: [
+      'Si les roues ont été déposées ou permutées récemment, contrôlez d’abord le serrage des boulons de toutes les roues à la clé, avant toute autre hypothèse.',
+      'Noter le dessin du choc : un martèlement fréquent sur les ondulations et des chocs isolés dans les trous, ce sont des pièces différentes, et ce détail raccourcit aussitôt la recherche du mécanicien.',
+      'Déterminer si le choc est à l’avant ou à l’arrière : roulez lentement, vitres entrouvertes, le long d’un mur ou d’une clôture — le son réfléchi s’entend bien mieux.',
+      'Tenir le volant légèrement en tension sur une route dégradée : si le choc ressenti dans les paumes s’atténue, cela ressemble à du jeu dans la crémaillère, et il faut le dire au garage.',
+      'Éliminer le simple : sortir les objets libres du coffre, vérifier l’arrimage de la roue de secours et du cric, appuyer sur le capot fermé — une serrure avec du jeu tape comme la suspension.',
+    ],
+    appHelp:
+      'L’application Stuk pose les mêmes questions que cette page, mais pas à pas : quel choc exactement, où on l’entend, comment il se comporte sur différentes irrégularités. À partir de vos réponses et de l’enregistrement, elle construit un rapport avec les causes probables et un feu d’urgence — de quoi trancher entre le garage demain et le garage à l’occasion.',
+    faq: [
+      {
+        q: 'Pourquoi le choc ne s’entend-il que sur les irrégularités et pas sur route lisse ?',
+        a: 'Le jeu d’une articulation ne se manifeste que lorsque la suspension travaille : sur la bosse, la pièce se déplace dans son logement et vient frapper. Sur bitume lisse, les débattements sont faibles et la pièce usée se tait. C’est pourquoi un choc sur les irrégularités parle presque toujours du train roulant et non du moteur.',
+      },
+      {
+        q: 'J’ai fait monter des pneus récemment et un choc est apparu. Coïncidence ?',
+        a: 'Probablement pas. Un choc rythmé ou un fracas au rythme de la rotation de la roue dans les premiers jours après la dépose des roues est le classique des boulons mal serrés. La vérification prend cinq minutes : reprendre les boulons de toutes les roues à la clé. Après tout montage, il est utile de refaire le serrage au bout de 50–100 kilomètres.',
+      },
+      {
+        q: 'Ce sont les biellettes qui cognent. Est-ce urgent ?',
+        a: 'Les biellettes en elles-mêmes ne sont pas dangereuses : ce sont de petites tiges qui s’usent les premières dans la suspension, et la voiture reste contrôlable. Mais des pièces plus sérieuses peuvent cogner de façon semblable, donc un diagnostic sous une à deux semaines s’impose : sur un pont, la source se trouve en quelques minutes.',
+      },
+    ],
+  },
+
+  'tikanie-dvigatelya': {
+    h1: 'Moteur qui cliquette',
+    metaTitle: 'Le moteur cliquette : normal ou usure, causes | Stuk',
+    description:
+      'D’où vient le cliquetis du moteur : jeux aux soupapes, poussoirs hydrauliques, claquement normal des injecteurs ou collecteur d’échappement. Comment distinguer le normal de l’usure.',
+    intro: [
+      'Un cliquetis régulier et rapide est le plus ordinaire des bruits moteur, et il est loin de signifier toujours une panne. Sur les moteurs à injection directe (TSI, GDI et semblables) et sur les diesels, les injecteurs et la pompe haute pression claquent en permanence — c’est leur conception. Le claquement normal a des signes reconnaissables : il est identique à froid et à chaud, s’entend plus fort dehors que dans l’habitacle, et ne change pas au fil des années.',
+      'Ce qui doit alerter, c’est un cliquetis qui devient plus fort avec le temps et s’entend mieux qu’avant sur moteur chaud. Ainsi se manifestent des jeux aux soupapes trop grands : les intervalles entre les pièces de la distribution augmentent avec l’usure, et les soupapes se mettent à travailler avec choc. Cas particuliers : un cliquetis uniquement pendant les premières minutes après un démarrage à froid (en général les poussoirs hydrauliques, qui rattrapent le jeu grâce à la pression d’huile) et un claquement accompagné d’une odeur d’échappement, plus fort dehors — la signature d’un joint de collecteur d’échappement percé.',
+    ],
+    causes: [
+      { name: 'Claquement normal des injecteurs (injection directe, diesel)', likelihood: 'Très fréquent — si le bruit est toujours identique' },
+      { name: 'Jeux aux soupapes trop grands', likelihood: 'Fréquent — si le cliquetis s’est renforcé avec le temps' },
+      { name: 'Poussoirs hydrauliques à froid', likelihood: 'Fréquent — s’il ne cliquette que les premières minutes après le démarrage' },
+      { name: 'Joint ou fissure du collecteur d’échappement', likelihood: 'Si le claquement est plus fort dehors et que ça sent l’échappement' },
+      { name: 'Chaîne de distribution ou son tendeur', likelihood: 'Plus rare — un bruissement ou un crécellement à l’avant du moteur' },
+    ],
+    canRide: [
+      'Avec un cliquetis, on peut presque toujours rouler : parmi ses causes typiques, aucune n’exige de s’arrêter sur la bande d’arrêt d’urgence. Le claquement normal des injecteurs et le cliquetis matinal des poussoirs n’exigent aucune réparation : c’est le fonctionnement normal du moteur.',
+      'Mais un cliquetis qui grandit ne partira pas tout seul. Des soupapes au jeu excessif travaillent avec choc et s’usent plus vite, il faut donc prévoir le réglage ou le contrôle des poussoirs dans les deux semaines qui viennent — vous pouvez rouler tranquillement d’ici là. Pour le collecteur d’échappement, la logique est voisine : une à deux semaines de marge, mais la fissure grandit et l’odeur d’échappement peut être aspirée dans l’habitacle par le chauffage — et cela devient nocif.',
+    ],
+    checks: [
+      'Comparer moteur froid et moteur chaud : un cliquetis seulement les premières minutes après le démarrage, c’est le tableau des poussoirs ; un bruit mieux audible à chaud plaide pour les jeux aux soupapes.',
+      'Juger l’évolution de mémoire : un cliquetis inchangé depuis des années est plutôt normal ; s’il était nettement plus discret il y a six mois, c’est de l’usure, et elle va continuer.',
+      'Écouter depuis l’extérieur et depuis l’habitacle : le claquement normal des injecteurs est nettement plus fort dehors ; le cliquetis des soupapes s’entend bien aussi depuis le siège conducteur.',
+      'Vérifier le niveau d’huile à la jauge : avec un niveau bas, le cliquetis des poussoirs et de la distribution augmente, et l’appoint jusqu’au repère s’entend parfois tout de suite.',
+      'Renifler près du capot ouvert : une odeur d’échappement accompagnée d’un claquement fréquent est le signe du collecteur — garage sous une à deux semaines.',
+    ],
+    appHelp:
+      'L’application Stuk précise l’essentiel — le cliquetis s’est-il renforcé avec le temps et comment se comporte-t-il à froid et à chaud — et l’enregistrement permet de le comparer à des exemples typiques. Le rapport donne les causes probables avec des pourcentages et une conclusion en forme de feu : normal, rendez-vous cette semaine ou diagnostic sans délai.',
+    faq: [
+      {
+        q: 'Pourquoi les diesels et les moteurs à injection directe cliquettent-ils toujours ?',
+        a: 'Chez eux le carburant arrive à très haute pression, et chaque injecteur émet un claquement bref en s’ouvrant, auquel s’ajoute le claquement de la pompe haute pression. C’est un fonctionnement normal : le bruit est identique par tous les temps, plus fort dehors que dedans, et n’exige aucune réparation.',
+      },
+      {
+        q: 'Qu’est-ce que le réglage des jeux aux soupapes ?',
+        a: 'Entre les pièces de la distribution, on laisse un petit jeu thermique ; l’usure l’agrandit et les soupapes se mettent à claquer. Le mécanicien ramène les jeux à la valeur voulue avec des pastilles ou des vis de réglage. Sur les moteurs à poussoirs hydrauliques, au lieu d’un réglage, on contrôle les poussoirs eux-mêmes et la pression d’huile.',
+      },
+      {
+        q: 'Le cliquetis peut-il disparaître après une vidange ?',
+        a: 'Oui, si l’huile usée, une viscosité inadaptée ou un niveau bas étaient en cause : les poussoirs hydrauliques sont très sensibles à l’état de l’huile. Mais une vidange ne corrige pas des jeux aux soupapes usés — si après elle le cliquetis persiste et continue de grandir, un réglage s’impose.',
+      },
+    ],
+  },
+
+  'svist-remnya': {
+    h1: 'Sifflement de la courroie',
+    metaTitle: 'La courroie siffle : causes, peut-on rouler et que faire | Stuk',
+    description:
+      'La courroie d’accessoires siffle : usure, tension faible, galets ou embrayage du compresseur de clim. Comment cerner la cause selon les circonstances.',
+    intro: [
+      'Un sifflement perçant sous le capot vient presque toujours de la courroie d’accessoires — la courroie qui, depuis le vilebrequin, entraîne l’alternateur, la pompe à eau et, sur beaucoup de voitures, le compresseur de climatisation et la pompe de direction assistée. Elle siffle dans un seul cas : quand elle patine sur les poulies au lieu de s’y accrocher.',
+      'Les causes du patinage se divisent en deux groupes. Le premier, la courroie elle-même : le caoutchouc a vieilli et durci, la tension a baissé, ou de l’huile ou du liquide de refroidissement a atteint la surface de travail. Le second, les organes qu’elle entraîne : un galet qui coince, un embrayage de compresseur dur ou une pompe à eau au roulement usé chargent la courroie plus qu’elle ne peut transmettre. Le moment exact où le sifflement apparaît resserre nettement le cercle.',
+    ],
+    causes: [
+      { name: 'Courroie usée ou mal tendue', likelihood: 'Le plus souvent' },
+      { name: 'Patinage à froid ou par temps humide', likelihood: 'Fréquent — si le sifflement part une fois chaud' },
+      { name: 'Galet tendeur ou galet enrouleur', likelihood: 'Assez fréquent — un ronflement ou un bruissement accompagne le sifflement' },
+      { name: 'Embrayage du compresseur de climatisation', likelihood: 'Si le couinement coïncide avec l’enclenchement de la clim' },
+      { name: 'Pompe à eau ou poulie débrayable d’alternateur', likelihood: 'Plus rare' },
+    ],
+    canRide: [
+      'Si le sifflement est bref et ne vit que les premières secondes après un démarrage à froid, roulez tranquillement : c’est une raison de faire regarder la courroie à l’occasion, pas de changer vos plans de la journée.',
+      'Avec un sifflement permanent ou sous charge, on peut encore rouler, mais prenez rendez-vous dans la semaine : une courroie qui patine chauffe et s’use en cascade, et si elle casse, l’alternateur s’arrête, ainsi que la pompe à eau sur beaucoup de moteurs. Deux signaux imposent de se ranger et de couper le moteur tout de suite : le témoin de batterie qui s’allume et l’aiguille de température qui monte — les deux signifient que la courroie n’entraîne plus ses organes.',
+    ],
+    checks: [
+      'Retenir quand exactement ça siffle : les premières secondes après le démarrage, au moment où la clim s’enclenche, en tournant le volant, ou en permanence — c’est la clé principale.',
+      'Enclencher la climatisation moteur tournant : un couinement pile au moment de l’enclenchement désigne un embrayage de compresseur qui patine.',
+      'Moteur coupé, examiner la courroie : fissures transversales, bords effilochés et flancs « polis » brillants sont des signes d’usure.',
+      'Vérifier s’il y a des traces d’huile ou de liquide de refroidissement sur la courroie et autour des poulies : une courroie huilée siffle même neuve, et des traces de liquide désignent la pompe à eau.',
+      'Écouter si un ronflement ou un bruissement régulier accompagne le sifflement en suivant le régime moteur — c’est le roulement de l’un des galets.',
+    ],
+    appHelp:
+      'L’application Stuk précise le caractère du bruit et les circonstances — sifflement ou ronflement, à froid ou en charge, lié ou non à la climatisation — et, grâce à l’enregistrement, aide à distinguer le couinement de la courroie du bruissement d’un galet. Le rapport donne les causes probables avec des pourcentages et un feu : vous pouvez rouler, au garage cette semaine ou arrêtez-vous.',
+    faq: [
+      {
+        q: 'Que se passe-t-il si la courroie casse en route ?',
+        a: 'La charge s’arrête aussitôt : l’alternateur s’immobilise et la voiture roule sur ce qui reste dans la batterie — en général quelques dizaines de minutes. Sur les moteurs où la courroie entraîne aussi la pompe à eau, la température grimpe vite et continuer devient impossible. C’est pourquoi une courroie qui siffle se remplace sur rendez-vous plutôt qu’après la rupture.',
+      },
+      {
+        q: 'Pourquoi le sifflement apparaît-il à l’enclenchement de la climatisation ?',
+        a: 'Le compresseur de clim est le consommateur le plus lourd sur la courroie. À l’enclenchement, son embrayage ajoute brutalement de la charge, et une courroie usée ou mal tendue part en patinage. Si c’est précisément la seconde de l’enclenchement qui couine, il faut aussi contrôler l’embrayage : son usure donne le même bruit.',
+      },
+      {
+        q: 'Peut-on pulvériser un produit sur la courroie pour qu’elle ne siffle plus ?',
+        a: 'Mieux vaut éviter. Les aérosols et remèdes maison comme le WD-40 donnent un ou deux jours de silence, mais le caoutchouc imprégné glisse et vieillit plus vite, alors que la cause — usure ou tension faible — reste entière. Plus fiable : remplacer la courroie avec le galet, l’un des travaux peu coûteux du garage.',
+      },
+    ],
+  },
 };
