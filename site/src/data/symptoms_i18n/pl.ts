@@ -180,4 +180,183 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-podshipnika-stupitsy': {
+    h1: 'Buczenie łożyska koła',
+    metaTitle: 'Łożysko koła buczy: jak je rozpoznać | Stuk',
+    description:
+      'Jak brzmi zużyte łożysko koła, jak odróżnić je od hałasu opon, które koło buczy i jak długo można tak jeździć.',
+    intro: [
+      'Łożysko koła to element, na którym obraca się koło. Gdy się zużywa, pojawia się równe buczenie rosnące z prędkością: wielu porównuje je do startującego samolotu albo buczenia transformatora. Zaczyna się ledwo słyszalnie od 60–80 km/h, z czasem słychać je przy każdej prędkości i zaczyna dochodzić jako drganie.',
+      'Największa trudność to oddzielić łożysko od hałasu opon: buczą podobnie. Są dwa pewne domowe testy. Pierwszy to nawierzchnia: hałas opon zmienia się z rodzajem asfaltu, buczenie łożyska jest wszędzie takie samo. Drugi to łagodne zmiany pasa przy prędkości: jeśli w szerokim łuku buczenie się zmienia, to prawie na pewno łożysko — i to obciążonej strony.',
+    ],
+    causes: [
+      { name: 'Zużyte łożysko koła', likelihood: 'Najczęściej, gdy buczenie jest równe i nie zależy od nawierzchni' },
+      { name: 'Hałas opon (zimowe, terenowe, nierównomierne zużycie)', likelihood: 'Bardzo często — główny sobowtór łożyska' },
+      { name: 'Dyferencjał albo przekładnia główna (napęd na tył i na cztery koła)', likelihood: 'Rzadziej; ton takiego buczenia zmienia się przy dodaniu gazu' },
+      { name: 'Łożysko podporowe wału napędowego', likelihood: 'Rzadko, tylko w autach z wałem napędowym' },
+    ],
+    canRide: [
+      'Na wczesnym etapie tak, ale z zastrzeżeniami. Zużyte łożysko nie rozsypuje się natychmiast: od pierwszego buczenia do stanu krytycznego mijają zwykle tysiące kilometrów. Proces idzie jednak tylko w jedną stronę, a finał ma nieprzyjemny: luz koła, rozbite gniazdo, w skrajnym przypadku zatarcie piasty w ruchu.',
+      'Dlatego zasada jest prosta: zauważyłeś buczenie — pokaż auto w warsztacie w ciągu tygodnia–dwóch, a dalekie szybkie trasy przełóż na później. Jeśli buczenie nagle się wzmogło, pojawiły się drgania, koło ma luz albo auto ściąga w bok — jedź na diagnostykę od razu i nie autostradą.',
+    ],
+    checks: [
+      'Test nawierzchni: przejedź ten sam odcinek po różnym asfalcie. Buczenie się nie zmieniło — raczej łożysko; ucichło na gładkiej nawierzchni — raczej opony.',
+      'Test zakrętu: na pustej drodze przy 60–80 km/h płynnie zmień pas. Buczenie ucichło przy skręcie w prawo i wzmogło się przy skręcie w lewo — obciążana jest prawa strona, prawdopodobne prawe łożysko; i odwrotnie.',
+      'Sprawdzenie luzem: rozpędź się i toczyć na luzie. Buczenie zostało — źródło kręci się razem z kołami, a nie z silnikiem.',
+      'Obejrzeć bieżnik: „piła” i plamy nierównomiernego zużycia czynią opony głośnymi i wskazują na geometrię.',
+      'Po jeździe ostrożnie zbliżyć rękę do piast (nie dotykając tarczy hamulcowej — jest gorąca): wyraźnie cieplejsza piasta z jednej strony to dodatkowa poszlaka.',
+    ],
+    appHelp:
+      'Aplikacja Stuk zada te same pytania kontrolne — o nawierzchnię, zakręty i toczenie na luzie — nagra buczenie i oceni jego charakter: równy szerokopasmowy szum opon i buczenie łożyska wyglądają w widmie inaczej. W raporcie będą prawdopodobieństwa przyczyn, pilność i podpowiedź, którą stronę wskazać mechanikowi.',
+    faq: [
+      {
+        q: 'Dlaczego buczenie zmienia się w zakrętach?',
+        a: 'W zakręcie ciężar przechodzi na koła zewnętrzne. Jeśli przy skręcie w lewo buczenie rośnie, obciążona jest prawa strona — więc buczy najpewniej prawe łożysko. Przy skręcie w prawo odwrotnie. Warto zapamiętać tę cechę i powiedzieć o niej w warsztacie: skraca poszukiwania o połowę.',
+      },
+      {
+        q: 'Jak długo można jeździć z buczącym łożyskiem?',
+        a: 'Nie ma jednej liczby: od pierwszych objawów do groźnego luzu mijają zwykle tysiące kilometrów, ale tempo zużycia jest nieprzewidywalne. Rozsądny kompromis: umówić diagnostykę w ciągu tygodnia–dwóch i do tego czasu nie planować dalekich szybkich tras.',
+      },
+      {
+        q: 'Czy można pomylić łożysko z oponami?',
+        a: 'Łatwo — to najczęstszy błąd. Odróżniają je dwie cechy: hałas opon zależy od nawierzchni i nie zmienia się w zakrętach, a buczenie łożyska jest takie samo na każdym asfalcie i reaguje na przeniesienie ciężaru w szerokich łukach.',
+      },
+    ],
+  },
+
+  'stuk-na-nerovnostyah': {
+    h1: 'Stukanie na nierównościach',
+    metaTitle: 'Stuki na nierównościach: przyczyny i co sprawdzić samemu | Stuk',
+    description:
+      'Stukanie na nierównościach: częste na drobnych falach, pojedyncze uderzenia na dziurach albo stuk na kierownicę. Które elementy zawiniły i czy można jechać.',
+    intro: [
+      'Stuk, który pojawia się tylko na nierównościach — szczelinach, kostce, progach zwalniających — prawie zawsze pochodzi z podwozia. Przy pokonywaniu wyboju zawieszenie ugina się i prostuje, a jeśli w którymś przegubie pojawił się luz, element przy każdym skoku bije w swoim mocowaniu. W autach starszych niż pięć–siedem lat to zwyczajna sprawa, a winne są najczęściej tanie części eksploatacyjne, a nie duże zespoły.',
+      'Rysunek stuku zawęża listę podejrzanych. Częsty głuchy stukot na drobnych falach z przodu to klasyk łączników stabilizatora; ten sam rysunek z tyłu to łączniki tylnego stabilizatora albo tuleje belki (gumowe tuleje, przez które belka mocowana jest do nadwozia). Pojedyncze uderzenia na dziurach to tuleje wahaczy albo zmęczone amortyzatory. Osobny przypadek — stuk w takt obrotu koła, który pojawił się po niedawnej wymianie opon: to mogą być niedokręcone śruby koła i tę wersję sprawdza się pierwszą.',
+    ],
+    causes: [
+      { name: 'Łączniki stabilizatora', likelihood: 'Najczęściej — częsty stukot z przodu na drobnych nierównościach' },
+      { name: 'Tylne zawieszenie: łączniki stabilizatora, tuleje belki', likelihood: 'Często — jeśli stuk jest z tyłu' },
+      { name: 'Tuleje wahaczy albo amortyzatory', likelihood: 'Często — pojedyncze uderzenia na dziurach' },
+      { name: 'Luz w przekładni kierowniczej', likelihood: 'Rzadziej — stuk przechodzi prosto na kierownicę' },
+      { name: 'Niedokręcone śruby koła', likelihood: 'Rzadko — ale to pierwsza rzecz do sprawdzenia po wymianie opon' },
+    ],
+    canRide: [
+      'Z typowym stukiem łączników stabilizatora albo tulei można jeździć: te elementy nie odmawiają nagle, a tydzień–dwa do diagnostyki niczego nie zmienią, jeśli duże dziury pokonujesz wolno. Sama diagnostyka zawieszenia jest szybka: mechanik poruszy przegubami na podnośniku i znajdzie luz w kilka minut. Ciągnąć miesiącami mimo wszystko nie warto: zużyty przegub przekazuje uderzenia sąsiednim częściom i przyspiesza ich zużycie.',
+      'Inaczej wygląda rytmiczny stuk w takt obrotu koła w pierwszych dniach po wymianie opon: to powód, by zatrzymać się przy pierwszej okazji i sprawdzić dokręcenie śrub wszystkich kół kluczem. Koło na poluzowanych śrubach rozbija otwory felgi, a w najgorszym razie może się odkręcić w ruchu. Stuk przechodzący na kierownicę też nie znosi zwłoki: układ kierowniczy to zespół bezpieczeństwa, sprawdza się go w najbliższych dniach.',
+    ],
+    checks: [
+      'Jeśli koła były niedawno zdejmowane albo przekładane — najpierw sprawdź dokręcenie śrub wszystkich kół kluczem, zanim rozważysz inne wersje.',
+      'Zauważyć rysunek stuku: częsty stukot na drobnych falach i pojedyncze uderzenia na dziurach to różne elementy, a taki szczegół od razu skraca mechanikowi poszukiwania.',
+      'Ustalić, czy stuk jest z przodu czy z tyłu: przejedź wolno z uchylonymi szybami wzdłuż muru albo płotu — odbity dźwięk słychać znacznie lepiej.',
+      'Potrzymać kierownicę lekko napiętą na nierównej drodze: jeśli stuk czuć w dłoniach i cichnie, wygląda to na luz w przekładni kierowniczej, warto o tym powiedzieć w warsztacie.',
+      'Wykluczyć proste rzeczy: wyjąć luźne przedmioty z bagażnika, sprawdzić mocowanie koła zapasowego i podnośnika, nacisnąć zamkniętą maskę — luźny zamek maski stuka podobnie do zawieszenia.',
+    ],
+    appHelp:
+      'Aplikacja Stuk zadaje te same pytania co ta strona, tylko krok po kroku: jaki dokładnie stuk, gdzie go słychać, jak zachowuje się na różnych nierównościach. Z odpowiedzi i nagrania układa raport z prawdopodobnymi przyczynami i sygnalizacją pilności — z nim łatwiej zdecydować, czy jechać do warsztatu jutro, czy przy okazji.',
+    faq: [
+      {
+        q: 'Dlaczego stuk słychać tylko na nierównościach, a na gładkiej drodze jest cicho?',
+        a: 'Luz w przegubie zawieszenia ujawnia się tylko wtedy, gdy zawieszenie pracuje: na wyboju element przesuwa się w mocowaniu i uderza. Na gładkim asfalcie skoki są małe i zużyty element milczy. Dlatego stuk na nierównościach prawie zawsze dotyczy podwozia, a nie silnika.',
+      },
+      {
+        q: 'Niedawno była wymiana opon i pojawił się stuk. Przypadek?',
+        a: 'Raczej nie. Rytmiczny stuk albo łomot w takt obrotu koła w pierwszych dniach po zdjęciu kół to klasyka niedokręconych śrub. Sprawdzenie zajmuje pięć minut: przejść kluczem po śrubach wszystkich kół. Po każdej wymianie warto powtórzyć dokręcanie po 50–100 kilometrach.',
+      },
+      {
+        q: 'Stukają łączniki stabilizatora. To pilne?',
+        a: 'Same łączniki nie są groźne — to niewielkie drążki, które w zawieszeniu zużywają się pierwsze, a auto pozostaje sterowne. Ale podobnie mogą stukać poważniejsze elementy, dlatego diagnostyka w ciągu tygodnia–dwóch jest potrzebna: na podnośniku źródło znajduje się w minuty.',
+      },
+    ],
+  },
+
+  'tikanie-dvigatelya': {
+    h1: 'Tykanie silnika',
+    metaTitle: 'Silnik tyka: norma czy zużycie, przyczyny | Stuk',
+    description:
+      'Skąd bierze się tykanie silnika: luzy zaworowe, hydrauliczne popychacze, normalne klekotanie wtryskiwaczy albo kolektor wydechowy. Jak odróżnić normę od zużycia.',
+    intro: [
+      'Równe, częste tykanie to najzwyklejszy z dźwięków silnika i wcale nie zawsze oznacza usterkę. W silnikach z bezpośrednim wtryskiem (TSI, GDI i podobnych) oraz w dieslach zawsze klekoczą wtryskiwacze i pompa wysokiego ciśnienia — tak są zbudowane. Normalne klekotanie ma rozpoznawalne cechy: jest takie samo na zimno i na ciepło, na zewnątrz głośniejsze niż w kabinie i nie zmienia się latami.',
+      'Zaniepokoić powinno tykanie, które z czasem staje się głośniejsze i na rozgrzanym silniku słychać je lepiej niż wcześniej. Tak objawiają się zwiększone luzy zaworowe: odstępy między częściami układu rozrządu rosną wraz ze zużyciem i zawory zaczynają pracować z uderzeniem. Osobne przypadki to tykanie tylko przez pierwsze minuty po zimnym rozruchu (zwykle hydrauliczne popychacze, które ciśnieniem oleju kasują nadmiarowy luz) i klekot z zapachem spalin, głośniejszy na zewnątrz — podpis przepalonej uszczelki kolektora wydechowego.',
+    ],
+    causes: [
+      { name: 'Normalne klekotanie wtryskiwaczy (bezpośredni wtrysk, diesel)', likelihood: 'Bardzo często — jeśli dźwięk jest zawsze taki sam' },
+      { name: 'Zwiększone luzy zaworowe', likelihood: 'Często — jeśli tykanie z czasem stało się głośniejsze' },
+      { name: 'Hydrauliczne popychacze na zimno', likelihood: 'Często — jeśli tyka tylko przez pierwsze minuty po rozruchu' },
+      { name: 'Uszczelka albo pęknięcie kolektora wydechowego', likelihood: 'Jeśli klekot jest głośniejszy na zewnątrz i czuć spaliny' },
+      { name: 'Łańcuch rozrządu albo jego napinacz', likelihood: 'Rzadziej — szelest albo terkot z przodu silnika' },
+    ],
+    canRide: [
+      'Z tykaniem można jeździć niemal zawsze: wśród jego typowych przyczyn nie ma takiej, która wymagałaby zjazdu na pobocze. Normalne klekotanie wtryskiwaczy i poranne tykanie popychaczy w ogóle nie wymagają naprawy — tak pracuje silnik.',
+      'Ale rosnące tykanie samo nie przejdzie. Zawory ze zwiększonym luzem pracują z uderzeniem i zużywają się szybciej, dlatego regulację albo sprawdzenie popychaczy warto zaplanować na najbliższe dwa tygodnie — w tym czasie można spokojnie jeździć. Z kolektorem wydechowym logika jest podobna: tydzień–dwa zapasu jest, ale szczelina rośnie, a zapach spalin może być zasysany do kabiny przez nawiew — a to już szkodzi.',
+    ],
+    checks: [
+      'Porównać silnik zimny i rozgrzany: tykanie tylko przez pierwsze minuty po rozruchu to obraz popychaczy; dźwięk lepiej słyszalny na ciepło przemawia za luzami zaworowymi.',
+      'Ocenić z pamięci zmianę w czasie: tykanie niezmienione od lat jest raczej normą; jeśli pół roku temu było wyraźnie cichsze, to zużycie i będzie rosło.',
+      'Posłuchać z zewnątrz i z kabiny: normalne klekotanie wtryskiwaczy na zewnątrz jest wyraźnie głośniejsze; tykanie zaworów dobrze słychać także z fotela kierowcy.',
+      'Sprawdzić bagnetem poziom oleju: przy niskim poziomie tykanie popychaczy i rozrządu się nasila, a dolanie do normy bywa słychać od razu.',
+      'Powąchać przy otwartej masce: zapach spalin razem z częstym klekotem to znak kolektora — z tym do warsztatu w ciągu tygodnia–dwóch.',
+    ],
+    appHelp:
+      'Aplikacja Stuk doprecyzuje najważniejsze — czy tykanie stało się z czasem głośniejsze i jak zachowuje się na zimno i na ciepło — a nagranie pozwoli porównać je z typowymi przykładami. W raporcie będą prawdopodobne przyczyny z procentami i wniosek w formie sygnalizacji: norma, wizyta w tym tygodniu albo diagnostyka bez zwłoki.',
+    faq: [
+      {
+        q: 'Dlaczego diesle i silniki z bezpośrednim wtryskiem zawsze tykają?',
+        a: 'Paliwo podawane jest w nich pod bardzo wysokim ciśnieniem, a każdy wtryskiwacz przy otwarciu wydaje krótkie kliknięcie, do tego dochodzi klekot pompy wysokiego ciśnienia. To normalna praca: dźwięk jest taki sam przy każdej pogodzie, na zewnątrz głośniejszy niż w środku, i nie wymaga naprawy.',
+      },
+      {
+        q: 'Czym jest regulacja luzów zaworowych?',
+        a: 'Między częściami układu rozrządu zostawia się niewielki luz cieplny; ze zużyciem rośnie i zawory zaczynają klekotać. Mechanik przywraca luzy do normy płytkami regulacyjnymi albo śrubami. W silnikach z hydraulicznymi popychaczami zamiast regulacji sprawdza się same popychacze i ciśnienie oleju.',
+      },
+      {
+        q: 'Czy tykanie może zniknąć po wymianie oleju?',
+        a: 'Tak, jeśli winne były stary olej, nieodpowiednia lepkość albo niski poziom: hydrauliczne popychacze są bardzo wrażliwe na stan oleju. Ale wymiana oleju nie naprawi zużytych luzów zaworowych — jeśli po niej tykanie zostało i dalej rośnie, potrzebna jest regulacja.',
+      },
+    ],
+  },
+
+  'svist-remnya': {
+    h1: 'Pisk paska',
+    metaTitle: 'Pasek piszczy: przyczyny, czy można jechać i co robić | Stuk',
+    description:
+      'Pasek osprzętu piszczy: zużycie, słabe napięcie, rolki albo sprzęgło sprężarki klimatyzacji. Jak zawęzić przyczynę po okolicznościach i kiedy pisk wymaga warsztatu.',
+    intro: [
+      'Przenikliwy pisk spod maski wydaje niemal zawsze pasek osprzętu — pasek, który od wału korbowego napędza alternator, pompę wody, a w wielu autach także sprężarkę klimatyzacji i pompę wspomagania. Piszczy w jednym jedynym przypadku: gdy ślizga się po kołach pasowych zamiast pewnie się ich trzymać.',
+      'Przyczyny poślizgu dzielą się na dwie grupy. Pierwsza to sam pasek: guma zestarzała się i stwardniała, napięcie spadło, na powierzchnię roboczą trafił olej albo płyn chłodzący. Druga to zespoły, które on napędza: zakleszczająca się rolka, ciężko chodzące sprzęgło sprężarki klimatyzacji albo pompa wody ze zużytym łożyskiem obciążają pasek bardziej, niż jest on w stanie przenieść. Po tym, kiedy dokładnie pojawia się pisk, krąg przyczyn zawęża się wyraźnie.',
+    ],
+    causes: [
+      { name: 'Zużyty albo słabo napięty pasek', likelihood: 'Najczęściej' },
+      { name: 'Poślizg na zimno albo przy wilgoci', likelihood: 'Często — jeśli pisk znika po rozgrzaniu' },
+      { name: 'Rolka napinacza albo rolka prowadząca', likelihood: 'Nierzadko — do pisku dochodzi buczenie albo szelest' },
+      { name: 'Sprzęgło sprężarki klimatyzacji', likelihood: 'Jeśli pisk pokrywa się z włączeniem klimatyzacji' },
+      { name: 'Pompa wody albo sprzęgło jednokierunkowe alternatora', likelihood: 'Rzadziej' },
+    ],
+    canRide: [
+      'Jeśli pisk jest krótki i żyje tylko przez pierwsze sekundy po zimnym rozruchu, jedź spokojnie: to powód, by pokazać pasek przy okazji, a nie zmieniać plany dnia.',
+      'Ze stałym piskiem albo piskiem pod obciążeniem na razie też można jeździć, ale warto umówić warsztat w ciągu tygodnia: ślizgający się pasek przegrzewa się i zużywa lawinowo, a jego zerwanie zatrzymuje alternator i w wielu autach pompę wody. Dwa sygnały wymagają zjechania na pobocze i natychmiastowego zgaszenia silnika: zapalona kontrolka akumulatora i rosnąca wskazówka temperatury — oba oznaczają, że pasek już nie napędza swoich urządzeń.',
+    ],
+    checks: [
+      'Zapamiętać, kiedy dokładnie piszczy: przez pierwsze sekundy po rozruchu, w chwili włączenia klimatyzacji, przy kręceniu kierownicą czy stale — to główny klucz do przyczyny.',
+      'Włączyć klimatyzację przy pracującym silniku: pisk dokładnie w chwili włączenia wskazuje na ślizgające się sprzęgło sprężarki.',
+      'Przy zgaszonym silniku obejrzeć pasek: poprzeczne pęknięcia, postrzępione krawędzie i błyszczące, „wypolerowane” boki to oznaki zużycia.',
+      'Sprawdzić, czy na pasku i wokół kół pasowych nie ma śladów oleju albo płynu chłodzącego: zaolejony pasek piszczy nawet nowy, a ślady płynu wskazują na pompę wody.',
+      'Wsłuchać się, czy obok pisku nie ma równego buczenia albo szelestu zmieniającego się z obrotami silnika — tak brzmi łożysko jednej z rolek.',
+    ],
+    appHelp:
+      'Aplikacja Stuk doprecyzuje charakter dźwięku i okoliczności — pisk czy buczenie, na zimno czy pod obciążeniem, czy dźwięk wiąże się z klimatyzacją — a po nagraniu pomoże odróżnić pisk paska od szelestu rolki. W raporcie będą prawdopodobne przyczyny z procentami i sygnalizacja: można jechać, do warsztatu w tym tygodniu albo zatrzymaj się.',
+    faq: [
+      {
+        q: 'Co się stanie, jeśli pasek zerwie się w drodze?',
+        a: 'Od razu zniknie ładowanie: alternator się zatrzyma i auto pojedzie na resztce akumulatora — zwykle to kilkadziesiąt minut. W silnikach, w których pasek napędza też pompę wody, temperatura szybko zacznie rosnąć i dalsza jazda będzie niemożliwa. Dlatego piszczący pasek lepiej wymienić na umówiony termin, a nie po zerwaniu.',
+      },
+      {
+        q: 'Dlaczego pisk pojawia się przy włączeniu klimatyzacji?',
+        a: 'Sprężarka klimatyzacji to najcięższy odbiornik na pasku. W chwili włączenia jej sprzęgło gwałtownie dokłada obciążenia, a zużyty albo słabo napięty pasek wpada w poślizg. Jeśli piszczy właśnie sekunda włączenia, warto sprawdzić także samo sprzęgło: jego zużycie daje taki sam dźwięk.',
+      },
+      {
+        q: 'Czy można spryskać pasek czymś, żeby nie piszczał?',
+        a: 'Lepiej nie. Spraye i domowe sposoby w rodzaju WD-40 dają dzień–dwa ciszy, ale nasączona guma ślizga się i starzeje szybciej, a przyczyna — zużycie albo słabe napięcie — pozostaje. Pewniejsza jest wymiana paska razem z rolką: to jedna z tańszych prac w warsztacie.',
+      },
+    ],
+  },
 };
