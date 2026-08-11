@@ -536,4 +536,184 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-pri-povorote': {
+    h1: 'Buczenie na zakręcie',
+    metaTitle: 'Buczenie na zakręcie: łożysko koła czy wspomaganie | Stuk',
+    description:
+      'Skąd buczenie na zakręcie: zużyte łożysko koła, wyjąca pompa wspomagania albo hałas opon. Jak ustalić stronę i czy to groźne.',
+    intro: [
+      'W buczeniu na zakręcie trzeba od razu rozdzielić dwa scenariusze: buczenie przy prędkości, które w jednym zakręcie się wzmaga, a w drugim cichnie, oraz wycie pojawiające się przy kręceniu kierownicą w miejscu albo na parkingu. Brzmią podobnie, ale źródła są zupełnie inne: w pierwszym przypadku koło, w drugim — wspomaganie kierownicy.',
+      'Buczenie przy prędkości zależne od kierunku skrętu to klasyczny podpis łożyska koła — łożyska, na którym obraca się koło. W zakręcie ciężar auta przechodzi na koła zewnętrzne i obciążone zużyte łożysko buczy głośniej. Wycie przy kręceniu kierownicą na małej prędkości wydaje najczęściej pompa wspomagania — z reguły przez niski poziom płynu. A w autach z elektrycznym wspomaganiem lekkie buczenie przy kręceniu kierownicą to w ogóle norma, a nie usterka.',
+    ],
+    causes: [
+      { name: 'Łożysko koła', likelihood: 'Najczęściej — jeśli buczenie idzie z prędkością i zmienia się w zakrętach' },
+      { name: 'Pompa wspomagania albo niski poziom płynu', likelihood: 'Często — jeśli wyje przy kręceniu kierownicą w miejscu' },
+      { name: 'Hałas opon', likelihood: 'Często; buczenie zależy od nawierzchni, a nie od zakrętu' },
+      { name: 'Normalne buczenie elektrycznego wspomagania', likelihood: 'Norma w autach bez zbiorniczka płynu wspomagania' },
+      { name: 'Zużyty przegub napędowy', likelihood: 'Rzadziej; zwykle dokłada trzaski przy pełnym skręcie' },
+    ],
+    canRide: [
+      'Z buczącym łożyskiem koła można jeździć, ale to kredyt na krótki termin: sprawdzenia nie odkładaj dłużej niż o tydzień, a dalekie szybkie trasy przenieś na czas po diagnostyce. Rozsypujące się łożysko daje luz koła, a w zaniedbanym przypadku może się zatrzeć. Jeśli buczenie nagle się wzmogło albo doszły drgania — do warsztatu od razu.',
+      'Przy wyjącej pompie wspomagania najpierw sprawdza się poziom płynu w zbiorniczku: dolanie nierzadko zamyka sprawę. Jeździć można, ale nie trzymaj kierownicy skręconej do oporu dłużej niż parę sekund — w tym położeniu pompa pracuje pod maksymalnym ciśnieniem. Jeśli po dolaniu wycie zostało albo płyn znowu ubywa, jest wyciek — do warsztatu w ciągu tygodnia.',
+    ],
+    checks: [
+      'Zapamiętać, w którą stronę zakrętu buczenie jest głośniejsze. Głośniej przy skręcie w lewo oznacza obciążoną prawą stronę, czyli prawdopodobne prawe łożysko, i odwrotnie. Ten szczegół zauważalnie skróci poszukiwania w warsztacie.',
+      'Sprawdzić dźwięk w miejscu: jeśli wycie pojawia się przy kręceniu kierownicą na parkingu, koła nie mają z tym nic wspólnego — źródłem jest wspomaganie.',
+      'Zajrzeć pod maskę: czy jest zbiorniczek płynu wspomagania. Jest — sprawdzić poziom i w razie potrzeby dolać do znaku; nie ma — wspomaganie jest elektryczne, a ciche równe buczenie jest dla niego normalne.',
+      'Ocenić zależność od drogi: buczenie cichsze na świeżym asfalcie i głośniejsze na szorstkiej nawierzchni zwykle dają opony, a nie łożysko.',
+      'Obejrzeć bieżnik: zużycie „piłokształtne” (stopnie na krawędziach) albo plamami wzmaga hałas opon i przy okazji wskazuje na rozregulowaną geometrię lub zmęczone amortyzatory.',
+    ],
+    appHelp:
+      'Aplikacja Stuk zadaje te same pytania co mechanik przy przyjęciu auta: gdzie słychać buczenie, czy zmienia się w zakrętach, czy wiąże się z kręceniem kierownicą w miejscu. Nagranie pomoże porównać dźwięk z typowymi przykładami, a w raporcie będą prawdopodobne przyczyny i czytelne zalecenie: jedź spokojnie, umów wizytę w tym tygodniu albo sprawdź bez zwłoki.',
+    faq: [
+      {
+        q: 'Dlaczego buczenie wzmaga się tylko w jedną stronę zakrętu?',
+        a: 'W zakręcie ciężar auta przechodzi na koła zewnętrzne. Jeśli zużyte jest na przykład prawe łożysko, pod obciążeniem buczy głośniej — czyli przy skręcie w lewo. Ta cecha pozwala jeszcze przed warsztatem ustalić, którą stronę sprawdzić w pierwszej kolejności.',
+      },
+      {
+        q: 'Czy do wspomagania można dolać dowolny płyn?',
+        a: 'Nie. Rodzaj płynu podaje instrukcja auta, a często jest napisany wprost na korku zbiorniczka. Jednorazowe dolanie właściwego płynu jest bezpieczne, ale jeśli poziom spada regularnie, gdzieś jest wyciek — szukać go i usuwać trzeba w warsztacie, dolewaniem sprawy się nie załatwi.',
+      },
+      {
+        q: 'Pod maską nie ma zbiorniczka wspomagania, a przy skręcaniu buczy — co to?',
+        a: 'Najprawdopodobniej wspomaganie jest elektryczne: jego silniczek cicho buczy przy kręceniu kierownicą i jest to normalna praca. Zaniepokoić powinny inne objawy: kierownica zrobiła się ciężka albo ciężknie skokowo, pojawił się chrzęst, na desce świeci kontrolka wspomagania. Z nimi — do warsztatu w najbliższych dniach.',
+      },
+    ],
+  },
+
+  'shchelchki-pri-povorote-rulya': {
+    h1: 'Trzaski przy kręceniu kierownicą',
+    metaTitle: 'Trzaski przy skręcaniu: przegub czy łożysko amortyzatora | Stuk',
+    description:
+      'Dlaczego trzeszczy przy kręceniu kierownicą: zewnętrzny przegub napędowy, łożysko górnego mocowania amortyzatora albo krzyżak kolumny. Jak je odróżnić po dźwięku.',
+    intro: [
+      'Trzaski przy kręceniu kierownicą rozdziela jedno proste pytanie: auto w tej chwili jedzie czy stoi? Trzask i chrzęst w ruchu przy skręconej kierownicy to podpis zewnętrznego przegubu napędowego — przegubu, przez który obroty trafiają na koło, które jednocześnie skręca. Im mocniej skręcona kierownica i im gwałtowniejszy start, tym wyraźniejszy trzask. Wszystko zaczyna się zwykle od pękniętej osłony — gumowego mieszka chroniącego przegub przed brudem.',
+      'Jeśli natomiast trzaski słychać przy kręceniu kierownicą na stojącym aucie, przegub zwykle nie ma z tym nic wspólnego. Chrzęst od góry, zza nadkola, daje łożysko górnego mocowania amortyzatora — element, na którym góra kolumny obraca się razem z kołem. Trzaski w samej kierownicy, przy nogach kierowcy, to krzyżak kolumny kierowniczej, mały przegub między kierownicą a przekładnią. Żaden z tych wariantów nie każe zostawiać auta na miejscu, ale i ciągnąć ich miesiącami nie warto.',
+    ],
+    causes: [
+      { name: 'Zewnętrzny przegub napędowy', likelihood: 'Najczęściej — jeśli trzeszczy w ruchu przy skręconej kierownicy' },
+      { name: 'Łożysko górnego mocowania amortyzatora', likelihood: 'Często — jeśli chrzęści w miejscu, od góry zza nadkola' },
+      { name: 'Krzyżak kolumny kierowniczej', likelihood: 'Jeśli trzaski słychać i czuć w samej kierownicy' },
+      { name: 'Końcówki drążków kierowniczych albo przekładnia', likelihood: 'Rzadziej; zwykle dają stuk, a nie trzaski' },
+      { name: 'Wewnętrzny przegub napędowy, łączniki stabilizatora', likelihood: 'Rzadziej; sprawdza się je przy tej samej diagnostyce' },
+    ],
+    canRide: [
+      'Z trzeszczącym przegubem napędowym można jeździć, ale z wymianą nie warto zwlekać dłużej niż tydzień–dwa: zużyty przegub w najgorszym razie się zakleszcza, a to już nie dźwięk, tylko unieruchomione auto. Do naprawy pomaga tryb oszczędny — nie ruszać gwałtownie z kołami skręconymi do oporu.',
+      'Łożysko amortyzatora i krzyżak kolumny dają więcej dyskomfortu niż natychmiastowego zagrożenia, ale układ kierowniczy to zespół bezpieczeństwa, dlatego diagnostykę warto przejść w najbliższych dniach: na podnośniku zajmuje kilka minut. Powód, by przyspieszyć: kierownica zrobiła się „pusta” w położeniu centralnym, auto pływa po pasie albo trzaski wyraźnie się nasiliły.',
+    ],
+    checks: [
+      'Rozdzielić scenariusze na pustym parkingu: czy trzask pojawia się przy jeździe w kółko ze skręconą kierownicą — czy trzaski słychać przy kręceniu kierownicą na stojącym aucie.',
+      'Obejrzeć osłony przegubów — gumowe mieszki przy wewnętrznej stronie każdego przedniego koła. Pęknięcie i rozrzucony wokół smar to niemal potwierdzona diagnoza.',
+      'Poprosić pomocnika, żeby pokręcił kierownicą przy zgaszonym silniku, i położyć dłoń na miseczce amortyzatora pod maską: trzaski zużytego łożyska czuć ręką.',
+      'Poruszać kierownicą w lewo–prawo przy zgaszonym silniku i posłuchać przy nogach: wyraźny trzask w kolumnie zdradza krzyżak.',
+      'Zapamiętać, od strony którego koła słychać trzask w ruchu i w którym zakręcie jest głośniejszy — te szczegóły zauważalnie skrócą poszukiwania w warsztacie.',
+    ],
+    appHelp:
+      'W aplikacji Stuk te rozwidlenia zebrano w krótkie drzewo pytań: auto jedzie czy stoi, skąd dochodzi dźwięk, w jakim stanie są osłony. Trzask można nagrać telefonem i porównać z przykładami. W raporcie będą prawdopodobne przyczyny z oceną i zalecenie co do terminów: bez paniki, ale i bez trzasków zapomnianych na miesiąc.',
+    faq: [
+      {
+        q: 'Czym jest przegub napędowy i dlaczego trzeszczy?',
+        a: 'To przegub równych prędkości kątowych, element przekazujący obroty na koło, które jednocześnie skręca. Gdy przez pękniętą osłonę dostaje się brud, kulki i bieżnie przegubu zużywają się, a pod obciążeniem przy skręconej kierownicy zaczyna wyraźnie trzeszczeć.',
+      },
+      {
+        q: 'Jak długo można jeździć z trzeszczącym przegubem?',
+        a: 'Dokładnej żywotności nie ma: u jednych przegub wytrzymuje miesiące, u innych wykańcza się w dwa tygodnie. Rozsądny punkt odniesienia — nie odkładać wymiany dłużej niż o tydzień–dwa, a do naprawy nie ruszać gwałtownie ze skręconymi kołami: wtedy obciążenie przegubu jest najmniejsze.',
+      },
+      {
+        q: 'Dlaczego chrzęści przy kręceniu kierownicą na stojącym aucie?',
+        a: 'Gdy auto stoi, koło się nie obraca i przegub napędowy nie pracuje. Chrzęst w miejscu daje zwykle łożysko górnego mocowania amortyzatora — dźwięk idzie od góry, zza nadkola — albo krzyżak kolumny, jeśli trzaska w samej kierownicy. Oba elementy sprawdza się w warsztacie w kilka minut.',
+      },
+    ],
+  },
+
+  'stuk-v-dvigatele-na-holodnuyu': {
+    h1: 'Stukanie silnika na zimno',
+    metaTitle: 'Silnik stuka na zimno: przyczyny i co robić | Stuk',
+    description:
+      'Dlaczego silnik stuka na zimno i milknie po rozgrzaniu: hydrauliczne popychacze, grupa tłokowa, łańcuch rozrządu. Kiedy to norma, a kiedy pora do warsztatu.',
+    intro: [
+      'Stuk słyszalny tylko przez pierwsze minuty po zimnym rozruchu i znikający w miarę rozgrzewania to jedna z najczęstszych skarg w autach z przebiegiem. Dobra wiadomość: najpowszechniejsza przyczyna jest tu zarazem najbardziej niegroźna. Częste tykanie u góry silnika wydają zwykle hydrauliczne popychacze — małe elementy, które ciśnieniem oleju kasują nadmiarowy luz w układzie rozrządu. Dopóki silnik jest zimny, olej jest gęsty i nie dociera do nich od razu, więc przez parę minut klekoczą. Rozgrzał się — ucichły.',
+      'Charakter dźwięku dużo podpowiada. Głuchy stuk z głębi silnika częściej daje zużycie grupy tłokowej: zimny tłok ma nieco więcej swobody w cylindrze i postukuje, dopóki nie rozszerzy się od ciepła. Szelest albo terkot z przodu to podpis rozciągniętego łańcucha rozrządu — łańcucha wewnątrz silnika, który każe zaworom otwierać się w porę — albo jego osłabionego napinacza. A klekot głośniejszy na zewnątrz niż w kabinie, do tego z zapachem spalin pod maską, to oznaka przepalonej uszczelki kolektora wydechowego: gazy uciekają szczeliną, dopóki metal się nie rozszerzy i jej nie zamknie.',
+    ],
+    causes: [
+      { name: 'Hydrauliczne popychacze: gęsty zimny olej', likelihood: 'Najczęściej — jeśli tyka u góry i cichnie po paru minutach' },
+      { name: 'Zużycie grupy tłokowej', likelihood: 'Często przy dużych przebiegach — głuchy stuk z głębi' },
+      { name: 'Łańcuch rozrządu albo jego napinacz', likelihood: 'Często — jeśli z przodu słychać szelest albo terkot' },
+      { name: 'Uszczelka albo pęknięcie kolektora wydechowego', likelihood: 'Jeśli klekot jest głośniejszy na zewnątrz i czuć spaliny' },
+      { name: 'Ślizgający się pasek osprzętu', likelihood: 'Jeśli to pisk albo gwizd, a nie stuk' },
+    ],
+    canRide: [
+      'Z tykaniem popychaczy, które po rozgrzaniu znika całkowicie, można jeździć bez ograniczeń — to zwyczajne życie silnika z przebiegiem. To samo dotyczy pisku paska przez pierwsze sekundy po rozruchu: nieprzyjemne, ale niegroźne. W obu przypadkach wystarczy sprawdzić poziom i wiek oleju oraz pokazać auto mechanikowi przy planowej wizycie.',
+      'Głuchy stuk grupy tłokowej to historia do obserwacji: jeździć można, ale warto śledzić zużycie oleju i powiedzieć o dźwięku mechanikowi przy najbliższej wizycie. Z szelestem łańcucha rozrządu zwlekać nie wolno: diagnostyka w ciągu tygodnia–dwóch, bo przeskoczony łańcuch oznacza drogą naprawę silnika, a do warsztatu — bez gwałtownych startów na zimno. I zasada ogólna: jeśli stuk przestał znikać po rozgrzaniu albo słychać go pod obciążeniem, diagnostyki nie można już odkładać.',
+    ],
+    checks: [
+      'Zmierzyć, ile minut trzyma się dźwięk: minuta–dwie i cisza to typowy obraz popychaczy; im dłużej stuk żyje, tym bardziej potrzebne są oględziny.',
+      'Sprawdzić bagnetem poziom oleju na wystygniętym silniku i przypomnieć sobie, kiedy był wymieniany: niski poziom i stary olej wzmacniają wszystkie zimne stuki.',
+      'Określić charakter dźwięku: częste tykanie u góry, głuchy stuk z głębi albo szelest z przodu silnika to trzy różne historie o różnej pilności.',
+      'Otworzyć maskę przy pracującym zimnym silniku i powąchać: zapach spalin razem z klekotem wskazuje na kolektor wydechowy.',
+      'Zgasić rozgrzany silnik na dziesięć minut i uruchomić ponownie: prawdziwy „zimny” stuk po tak krótkim postoju nie wraca.',
+    ],
+    appHelp:
+      'Aplikacja Stuk przejdzie przez te same rozwidlenia — czy to tykanie, głuchy stuk czy szelest i jak szybko dźwięk znika — a nagranie z telefonu pomoże uchwycić charakter, który trudno opisać słowami. W raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można spokojnie jeździć, umówić wizytę w tym tygodniu albo nie zwlekać z warsztatem.',
+    faq: [
+      {
+        q: 'Stuk znika po rozgrzaniu — można nie zwracać uwagi?',
+        a: 'Najczęściej tak: tykanie popychaczy na zimno to zwykła sprawa i nie wymaga naprawy. Ale warto obserwować: jeśli dźwięk zaczął trzymać się dłużej niż parę minut, został na rozgrzanym silniku albo pojawił się pod obciążeniem — to już powód do diagnostyki.',
+      },
+      {
+        q: 'Czy pomagają dodatki „na stukanie”?',
+        a: 'Lepiej ich nie wlewać: zużycia nie usuwają, tylko maskują objaw, przez co problem zauważa się później. Naprawdę pomaga co innego — świeży olej o właściwej lepkości, prawidłowy poziom, a jeśli stuk zostaje, regulacja albo naprawa u mechanika.',
+      },
+      {
+        q: 'Dlaczego zimą na zimno stuka mocniej?',
+        a: 'Na mrozie olej jest gęstszy i dłużej dociera do górnej części silnika, dlatego popychacze i układ rozrządu klekoczą wyraźniej, a luzy zimnych części są nieco większe. Jeśli po rozgrzaniu wszystko cichnie, to ten sam obraz co latem, tylko rozciągnięty w czasie.',
+      },
+    ],
+  },
+
+  'svist-pri-zapuske': {
+    h1: 'Pisk przy uruchamianiu silnika',
+    metaTitle: 'Pisk przy uruchamianiu silnika: przyczyny i co robić | Stuk',
+    description:
+      'Dlaczego silnik piszczy przy uruchamianiu: ślizgający się pasek osprzętu, rolki albo pompa wody. Kiedy pisk jest niegroźny, a kiedy pora umówić warsztat.',
+    intro: [
+      'Pisk albo gwizd w pierwszych sekundach po odpaleniu silnika wydaje niemal zawsze pasek osprzętu — gumowy pasek, który od silnika napędza alternator, pompę wody i sprężarkę klimatyzacji. Na zimno albo przy wilgotnej pogodzie pasek ślizga się po kołach pasowych i piszczy, a po kilku sekundach nagrzewa się, obsycha i milknie.',
+      'W tej chwili taki scenariusz nie jest groźny, ale i za normę uznawać go nie warto: świeży, prawidłowo napięty pasek nie piszczy nawet na mrozie. Regularny poranny pisk to znak, że pasek się zestarzał, napięcie osłabło albo zaczęła zużywać się jedna z rolek, po których biegnie. Osobna historia to dźwięki samego rozruchu: zgrzyt albo buczenie, gdy rozrusznik kręci silnikiem. To już nie pasek, tylko rozrusznik albo wieniec koła zamachowego, a z nimi nie warto zwlekać.',
+    ],
+    causes: [
+      { name: 'Ślizganie się paska osprzętu na zimno', likelihood: 'Najczęściej — jeśli pisk znika w pierwszych sekundach' },
+      { name: 'Zużyty pasek albo osłabione napięcie', likelihood: 'Często — jeśli pisk zostaje także na rozgrzanym silniku' },
+      { name: 'Łożysko rolki napinacza albo prowadzącej', likelihood: 'Nierzadko — do pisku dochodzi szelest albo buczenie' },
+      { name: 'Pompa wody — jeśli przy pasku są ślady płynu chłodzącego', likelihood: 'Rzadziej' },
+      { name: 'Zgrzyt podczas pracy rozrusznika: bendiks albo wieniec koła zamachowego', likelihood: 'Osobny przypadek — dźwięk przed odpaleniem silnika' },
+    ],
+    canRide: [
+      'Z piskiem, który żyje kilka sekund po zimnym rozruchu i całkowicie znika, jeździć można: bezpośredniego zagrożenia nie ma. Ale pasek warto pokazać w warsztacie przy okazji — oględziny zajmują parę minut, a wymiana paska z rolką należy do tanich prac.',
+      'Jeśli pisk przestał znikać po rozgrzaniu, pojawia się przy włączeniu klimatyzacji albo z każdym rozruchem brzmi dłużej i głośniej, lepiej umówić warsztat w ciągu tygodnia: zużyty pasek może pęknąć, a bez niego zatrzymują się alternator i w wielu silnikach pompa wody. Zapaliła się kontrolka akumulatora albo wskazówka temperatury poszła w górę — zatrzymać się i zgasić silnik.',
+    ],
+    checks: [
+      'Zmierzyć czas trwania pisku: kilka sekund po rozruchu to ślizganie na zimno; dźwięk, który nie znika po rozgrzaniu, to zużycie paska albo rolek.',
+      'Prześledzić związek z pogodą: pisk tylko po deszczu, myjni albo na mrozie mówi o poślizgu, a nie o awarii konkretnego elementu.',
+      'Włączyć klimatyzację albo ogrzewanie szyby przy pracującym silniku: jeśli pisk się pojawia albo nasila, pasek buksuje pod obciążeniem.',
+      'Przy zgaszonym silniku obejrzeć pasek latarką: poprzeczne pęknięcia, postrzępione krawędzie i błyszczące „wypolerowane” boki to oznaki zużycia.',
+      'Sprawdzić, czy przy kołach pasowych nie ma zacieków albo białawych śladów płynu chłodzącego: wskazują na pompę wody, a wtedy wizyty w warsztacie lepiej nie odkładać.',
+    ],
+    appHelp:
+      'Aplikacja Stuk zada te same pytania co mechanik przy przyjęciu auta: kiedy pojawia się pisk, czy znika po rozgrzaniu, co słychać podczas pracy rozrusznika. Nagranie pomoże odróżnić pisk paska od zgrzytu rozrusznika, a w raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można jechać, do warsztatu w tym tygodniu albo zatrzymać się.',
+    faq: [
+      {
+        q: 'Dlaczego silnik piszczy tylko na zimno i przy wilgoci?',
+        a: 'Zimna i wilgotna guma paska gorzej trzyma się kół pasowych, dlatego w pierwszych sekundach po rozruchu ślizga się i piszczy. W miarę nagrzewania przyczepność wraca i dźwięk znika. Nowy pasek ze sprawnym napinaczem radzi sobie i w takich warunkach, więc regularny poranny pisk to powód do oględzin.',
+      },
+      {
+        q: 'Pisk zaczął pojawiać się także na rozgrzanym silniku. To poważne?',
+        a: 'To znak, że zużycie doszło do etapu, w którym pasek buksuje już w zwykłych warunkach. Jeździć na razie można, ale warto umówić warsztat w ciągu tygodnia: pęknięty pasek zostawi bez alternatora, a w wielu autach i bez pompy wody, a podróż skończy się na lawecie.',
+      },
+      {
+        q: 'Czym pisk po rozruchu różni się od zgrzytu przy rozruchu?',
+        a: 'Pisk i gwizd pojawiają się po tym, jak silnik już odpalił, i winny jest zwykle pasek. Metaliczny zgrzyt słychać wcześniej — w sekundach, gdy rozrusznik kręci silnikiem — i mówi o złym zazębieniu bendiksa z wieńcem koła zamachowego. To inne elementy i inna naprawa.',
+      },
+    ],
+  },
 };
