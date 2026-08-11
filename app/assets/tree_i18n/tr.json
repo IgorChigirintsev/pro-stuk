@@ -761,5 +761,86 @@
   ],
   "explanation": "Uzun bir park sonrası ilk hareket ederken, özellikle el freni çekiliyken, yıkamadan, yağmurdan ya da dondan sonra duyulan tek ve yüksek „güm” ya da çatırtı, balataların diske yapışıp koptuğunu gösterir. Yolculuğun devamı sessizse bunun bir zararı yok.",
   "advice": "Hiçbir şey yapmanıza gerek yok; kışın el freni yerine aracı viteste bırakabilirsiniz (yalnızca düz viteste), böylece arka balatalar donmaz. Çatırtı her hareket edişte tekrarlanıyorsa artık konu balatalar değildir, teşhisi baştan yapın."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Direksiyon kutusunda boşluk",
+  "alt_causes": [
+   "Rot başları",
+   "Direksiyon mili istavrozu"
+  ],
+  "explanation": "İnce dalgalanmalarda ve asfalt eklerinde çıkan, doğrudan direksiyona vuran ve avuç içinde hissedilen vuruntu, direksiyon kutusundaki boşluktur: burcu ya da diş kavraması aşınmıştır. Ayırt edici işaret — direksiyonu hafifçe gergin tutunca vuruntu azalır.",
+  "advice": "Önümüzdeki günlerde direksiyon sistemini serviste kontrol ettirin: bu bir güvenlik parçasıdır ve lifte teşhis dakikalar sürer. Bazı araçlarda kutu ayarla sıkılabilir — ucuz bir iştir. Direksiyon ortada „boş” hale geldiyse ya da araç şeritte geziniyorsa ertelemeyin."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Kırık süspansiyon yayı",
+  "alt_causes": [
+   "Ölmüş amortisör",
+   "Kırık yay yatağı"
+  ],
+  "explanation": "Çukura girdikten sonra aniden başlayan, bozuk yolda ve virajlarda duyulan takırtı ya da metalik gıcırtı, üstüne aracın bir köşesinin çökmesi eklendiyse, tipik kırık yay tablosudur. Kırılan parça süspansiyon çalışırken sürtebilir ve takırdayabilir.",
+  "advice": "Tekerleğin arkasına alttan bakın: kırık sarım çoğu zaman gözle görülür. Birkaç gün içinde servise gidin, tamire kadar yumuşak sürün: kırılan yay parçası kayıp lastiği kesebilir. Yaylar aksta çift olarak değiştirilir."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Kabin plastikleri: klipsler ve panel birleşimleri",
+  "alt_causes": [
+   "Torpido ve cepteki eşyalar",
+   "Kurumuş kapı fitilleri"
+  ],
+  "explanation": "Küçük tümseklerde duyulan yakın „plastik” takırtı ve cırcır sesleri, kabin panellerinin sürtmesi ve boşluğudur: torpido, kapı döşemeleri, torpido gözü. Soğukta daha yüksek çıkar. Kesin test: giderken şüpheli panele elinizle bastırın, ses kesiliyorsa sorun kabindedir, süspansiyonda değil.",
+  "advice": "Bu bir arıza değil: araç sağlam. Torpido gözündeki ve ceplerdeki ufak tefeği çıkarın, bulduğunuz birleşim yerine bir parça sünger bant sıkıştırın. Kapıların çevresindeki gıcırtı, fitillerin silikon spreyle silinmesiyle geçer. Süspansiyon vuruntusu ise boğuktur, „aşağıdan” gelir ve panellere bastırınca değişmez."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Bagajda sabitlenmemiş yük ya da stepne",
+  "alt_causes": [
+   "Kriko ve takımlar",
+   "Bagaj rafı"
+  ],
+  "explanation": "Bozuk yolda arkadan gelen, bir şey zıplıyor ve yuvarlanıyormuş gibi duyulan boğuk vuruntu ya da gümbürtü, çoğu zaman gerçekten zıplayan bir şeydir: kriko, bijon anahtarı, iyi sıkılmamış stepne ya da takırdayan raf. Bagaj doluyken ses genelde değişir ya da kaybolur.",
+  "advice": "Bagajdaki her şeyi çıkarın, stepnenin ve krikonun bağlantısını sıkın, rafa bastırın — ve aynı yoldan tekrar geçin. Ses gittiyse süspansiyonun bu işle ilgisi yok ve başka bir şey yapmanıza gerek yok. Ses kaldıysa „bozuk yolda vuruntu” dalından teşhisi baştan yapın."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Kaput kilidi ya da kaput takozları",
+  "alt_causes": [
+   "Kaput menteşeleri",
+   "Kapı sınırlayıcısı"
+  ],
+  "explanation": "Küçük tümseklerde önden yukarıdan, kaputun kenarından gelen metalik tıkırtı, kaput kilidindeki boşluk ya da kaputun üstüne oturduğu çökmüş lastik takozlardır. Ses kabinde yakından, „yüzünüzün önünde” duyulur, süspansiyon vuruntusu gibi aşağıdan değil.",
+  "advice": "Yerinde test: kapalı kaputa bastırın — oynuyor ve tıkırdıyorsa teşhis doğrulanmıştır. Köşelerdeki lastik takozları yarım tur yukarı çevirin ki kaput daha sıkı otursun; çoğu durumda bu yeterlidir. Tehlikesi yok."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hidrolik supap iticileri (soğukken)",
+  "alt_causes": [
+   "Supap ayarları",
+   "Koyulaşmış yağ"
+  ],
+  "explanation": "Hidrolik iticiler, yağ basıncıyla supaplardaki fazla boşluğu kapatan küçük parçalardır. Motor soğukken yağ koyudur ve onlara hemen ulaşmaz, bu yüzden ilk dakikalarda sık bir tıkırtı duyulur. Isındıktan sonra ses tamamen kesiliyorsa bu tipik bir durumdur ve tehlikeli değildir.",
+  "advice": "Yağ seviyesini ve değişim zamanını kontrol edin: eski ya da uygun olmayan yağ sesi artırır. Tıkırtı birkaç dakikadan uzun sürmeye başladıysa ya da motor ısındıktan sonra da kalıyorsa servise randevu alın. „Ses kesici” katkılar dökmeyin."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Piston grubu aşınması (soğukta vuruntu)",
+  "alt_causes": [
+   "Hidrolik supap iticileri",
+   "Triger zinciri"
+  ],
+  "explanation": "Soğuk çalıştırmadan sonraki ilk dakikalarda duyulan ve motor ısındıkça geçen boğuk vuruntu, kilometresi yüksek araçlarda çoğu zaman piston grubu aşınmasıdır: piston soğukken silindirde biraz daha fazla boşluğu vardır ve vurur. Isınınca parçalar genleşir ve ses geçer. Bu genelde takip edilecek bir konudur, acil tamir değil.",
+  "advice": "İlk servis ziyaretinde durumu anlatın ve vuruntunun kaç dakika sürdüğünü not edin — bu mekanik için değerli bilgidir. Yağ seviyesini ve tüketimini izleyin. Vuruntu ısındıktan sonra da geçmiyorsa ya da yük altında duyulmaya başladıysa, ertelemeden diagnostiğe gidin."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Triger zinciri ya da gergisi",
+  "alt_causes": [
+   "Hidrolik supap iticileri",
+   "Kayış rolleri"
+  ],
+  "explanation": "Triger zinciri, motorun içinde millerini birbirine bağlayan ve supapların doğru anda açılmasını sağlayan zincirdir. Uzadığında ya da gergisi zayıfladığında, soğuk çalıştırmada motorun önünden hışırtı veya gürültü duyulur; motor ısınıp yağ basıncı yükselince kesilir. Zamanla ses giderek daha sık çıkar.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: atlayan zincir pahalı bir motor tamiri demektir. Servise kadar soğukken sert kalkışlardan kaçının ve motoru yüklemeden önce ısınmasını bekleyin. Yağ seviyesini mutlaka kontrol edin."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "V kayışının kayması",
+  "alt_causes": [
+   "Aşınmış gergi rolü",
+   "Kayışın gevşek olması"
+  ],
+  "explanation": "Çalıştırdıktan sonraki ilk saniyelerde çıkan cıyaklama, neredeyse her zaman alternatörü, devirdaim pompasını ve klimayı döndüren kayıştır. Soğukta ya da nemli havada kasnaklarda kayar ve ıslık çalar, sonra ısınıp susar. Şu an tehlikeli değil ama kayışın yıprandığını ya da gerginliğin düştüğünü gösterir.",
+  "advice": "Fırsat bulunca kayışı serviste gösterin: bakması iki dakika sürer. Islık motor ısındıktan sonra da ya da klimayı açınca çıkmaya başladıysa ertelemeyin. Kayışa WD-40 sıkmayın, benzeri „pratik çözümleri” denemeyin."
  }
 }
