@@ -842,5 +842,89 @@
   ],
   "explanation": "Çalıştırdıktan sonraki ilk saniyelerde çıkan cıyaklama, neredeyse her zaman alternatörü, devirdaim pompasını ve klimayı döndüren kayıştır. Soğukta ya da nemli havada kasnaklarda kayar ve ıslık çalar, sonra ısınıp susar. Şu an tehlikeli değil ama kayışın yıprandığını ya da gerginliğin düştüğünü gösterir.",
   "advice": "Fırsat bulunca kayışı serviste gösterin: bakması iki dakika sürer. Islık motor ısındıktan sonra da ya da klimayı açınca çıkmaya başladıysa ertelemeyin. Kayışa WD-40 sıkmayın, benzeri „pratik çözümleri” denemeyin."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Supap boşluklarının büyümesi",
+  "alt_causes": [
+   "Hidrolik supap iticileri",
+   "Triger zinciri"
+  ],
+  "explanation": "Motorun üst tarafından gelen düzgün ve sık tıkırtı, supap mekanizmasının tipik sesidir. Zamanla parçalar arasındaki boşluklar büyür ve supaplar „tıkırdamaya” başlar; en iyi rölantide duyulur. Motor bundan bir anda bozulmaz ama supaplar darbeyle çalışır ve daha hızlı aşınır.",
+  "advice": "Önümüzdeki iki hafta içinde supap ayarı ya da hidrolik iticilerin kontrolü için randevu alın. Yağ seviyesini takip edin: seviye düşükken tıkırtı artar. Rahatça kullanabilirsiniz ama aylarca ertelemenin anlamı yok."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Motorun alt tarafında vuruntu (yataklar, kol yatakları)",
+  "alt_causes": [
+   "Vuruntulu yanma (detonasyon)",
+   "Piston grubu aşınması",
+   "Krank kasnağı (titreşim damperi)"
+  ],
+  "explanation": "Motorun derinlerinden gelen, devirle birlikte hızlanan ve yük altında artan boğuk vuruntu, motor seslerinin en tehlikelisidir. Böyle bir ses aşınmış yataklardan — krank milinin döndüğü yataklardan — ya da kol yataklarından gelir: bağlantılarda boşluk oluşmuş ve parçalar birbirine vuruyordur. Gitmeye devam ederseniz motor sarabilir.",
+  "advice": "Gerekenden fazla kendi gücüyle gitmeyin: en iyisi çekici; servis hemen yakındaysa yavaş gidin ve gaza yüklenmeyin. Hemen yağ seviyesini kontrol edin, düşükse normale tamamlayın. Buna benzer sesi daha az korkutucu şeyler de çıkarabilir, ama kontrolü mekanik yapmalı — ve hızlıca."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Motor üstü ekipmanlar ya da motor takozları",
+  "alt_causes": [
+   "Klima kompresörü kavraması",
+   "Hidrolik supap iticileri"
+  ],
+  "explanation": "Gaza basınca hızlanmayan vuruntu, genelde motorun kendisinden değil, üstüne bağlı olan şeylerden gelir: alternatör, kasnaklar, braketler, takozlar. Buralardaki boşluk rölantide boğuk darbeler yaratır, özellikle motor titrerken.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin: mekanik bu tür sesleri stetoskopla iyi bulur. Klima devreye girince ya da fren basılıyken vites takılınca sesin değişip değişmediğini not edip mekaniğe söylemek işe yarar."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Aşınmış ya da gevşek V kayışı",
+  "alt_causes": [
+   "Gergi rolü",
+   "Alternatör kasnağı"
+  ],
+  "explanation": "Kaputun altından gelen keskin cıyaklama, kayışın kasnaklarda kaydığını gösterir. En sık suçlu, kayışın kendisinin yıpranması ya da gerginin zayıflamasıdır. Kayış koparsa alternatör durur, birçok araçta devirdaim pompası da — bu yüzden sorunu büyütmeyin.",
+  "advice": "Bir hafta içinde aracı serviste gösterin: kayış ve rol değişimi ucuz bir iştir. Cıyaklama aniden arttıysa, akü lambası yandıysa ya da motor sıcaklığı yükselmeye başladıysa — durun ve motoru susturun."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Devirdaim pompası (su pompası)",
+  "alt_causes": [
+   "Kayış rolleri",
+   "Alternatör rulmanı"
+  ],
+  "explanation": "Kayış tarafından gelen uğultu ya da hışırtının yanına soğutma suyu izleri de eklendiyse, bu ölmek üzere olan devirdaim pompasının tipik belirtisidir. Rulmanı aşınır, boşluk oluşur ve keçesinden antifriz sızmaya başlar. Pompa sıkışırsa motor çok hızlı hararet yapar.",
+  "advice": "Önümüzdeki günlerde servise gidin, yolda motor sıcaklığını ve antifriz seviyesini izleyin. Sıcaklık yükseldiyse ya da kaputun altından buhar çıktıysa — durun ve motoru susturun. Antifrizi yalnızca motor soğuduktan sonra ekleyin."
+ },
+ "leaf_idler": {
+  "top_cause": "Gergi rolü ya da yönlendirme rolü",
+  "alt_causes": [
+   "Devirdaim pompası",
+   "Alternatör serbest kasnağı",
+   "Triger zinciri ya da gergisi"
+  ],
+  "explanation": "Motor devriyle birlikte değişen düzgün uğultu ya da hışırtı, çoğu zaman V kayışının üzerinde koştuğu rollerden birinin rulmanından gelir. Aşınan rol giderek daha çok ses yapar, sıkışmaya başlayabilir ve sonunda kayışı koparabilir.",
+  "advice": "Bir hafta içinde servise gidin: mekanik kayışı çıkarıp hangi rolün ses yaptığını yerinde belirler. Benzer sesi devirdaim pompası, alternatörün serbest kasnağı ve hatta triger zinciri de çıkarabilir — bunlar da aynı anda kontrol edilir. Ses gıcırtıya ya da cıyaklamaya döndüyse ziyareti öne alın."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Egzoz ısı kalkanı",
+  "alt_causes": [
+   "Egzoz bağlantıları",
+   "Motor alt koruması"
+  ],
+  "explanation": "Belirli devirlerde çıkan çınlayan metalik takırtı, neredeyse her zaman gevşemiş ısı kalkanıdır — susturucunun ya da katalizörün üstündeki ince sac. Kulağa hoş gelmez ama aracın çalışmasını etkilemez.",
+  "advice": "Fırsat bulunca serviste kalkanın sıkılmasını ya da kelepçeyle sabitlenmesini isteyin: birkaç dakikalık iş. Takırdayanın gerçekten kalkan olduğundan, susturucu bağlantıları olmadığından emin olmakta fayda var — lifte bu hemen görülür."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Ateşleme kaçırması ya da egzozda delik",
+  "alt_causes": [
+   "Bujiler ve ateşleme bobinleri",
+   "Delinmiş susturucu ya da boru",
+   "LPG ayarları (gazda patlıyorsa)"
+  ],
+  "explanation": "Egzozdan gelen patlamalar, yakıtın silindirlerde değil egzoz sisteminde yandığını gösterir. Sebepleri: ateşleme kaçırması (bujiler, bobinler), yanlış karışım ya da egzozda delik. Gürültünün yanında bu katalizöre de zarar verir ve katalizör değişimi pahalıdır.",
+  "advice": "Önümüzdeki günlerde diagnostiğe gidin, özellikle araç daha kötü çekiyorsa, tekliyorsa ya da check engine yandıysa. Patlamalarla uzun süre gezmeyin: yanmamış yakıt katalizörü aşırı ısıtır. LPG'li bir araçta patlamalar gazda oluyorsa, sistemi ayara götürün: LPG için patlama özellikle tehlikelidir."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Delinmiş susturucu ya da egzoz borusu",
+  "alt_causes": [
+   "Egzoz contası",
+   "Çatlamış egzoz körüğü"
+  ],
+  "explanation": "Gaza basınca artan yüksek gürleme genelde egzoz sisteminde delik demektir: susturucu, boru ya da conta delinmiştir. Ses „sportif” hale gelir ama egzoz gazları zamanından önce dışarı çıkar — bu gürültü, koku ve kabine karbon monoksit girme riskidir.",
+  "advice": "Bu hafta aracı serviste gösterin: egzozun lifte kontrolü birkaç dakika sürer. Kabinde egzoz kokusu duyuluyorsa camı biraz açık kullanın ve aracı kapalı garajda ısıtmayın: karbon monoksit tehlikelidir."
  }
 }
