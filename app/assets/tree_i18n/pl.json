@@ -806,5 +806,97 @@
   ],
   "explanation": "Metaliczne stukanie z przodu u góry, przy krawędzi maski, na drobnych nierównościach — luz zamka maski albo osiadłe gumowe odboje, na których maska się opiera. W środku słychać je blisko, „przed twarzą”, a nie od dołu jak stukanie zawieszenia.",
   "advice": "Test na postoju: naciśnij zamkniętą maskę — jeśli gra i postukuje, diagnoza potwierdzona. Gumowe odboje w narożnikach wykręć o pół obrotu w górę, żeby maska leżała ciaśniej; w większości przypadków to wystarcza. Niebezpieczeństwa nie ma."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hydrauliczne popychacze zaworów (na zimno)",
+  "alt_causes": [
+   "Luzy zaworowe",
+   "Zgęstniały olej"
+  ],
+  "explanation": "Hydrauliczne popychacze to małe elementy, które ciśnieniem oleju kasują nadmierny luz zaworów. Dopóki silnik jest zimny, olej jest gęsty i dociera do nich z opóźnieniem, dlatego przez pierwsze minuty słychać szybkie tykanie. Jeśli po nagrzaniu dźwięk całkiem znika, to typowa sytuacja i nie jest groźna.",
+  "advice": "Sprawdź poziom oleju i termin jego wymiany: stary albo niewłaściwy olej nasila stukanie. Jeśli tykanie utrzymuje się dłużej niż dwie minuty albo zostaje na nagrzanym silniku, umów się do warsztatu. Dodatków „na stukanie” lepiej nie wlewać."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Zużycie grupy tłokowej (stukanie na zimno)",
+  "alt_causes": [
+   "Hydrauliczne popychacze",
+   "Łańcuch rozrządu"
+  ],
+  "explanation": "Głuche stukanie przez pierwsze minuty po zimnym rozruchu, które znika w miarę nagrzewania, w autach z przebiegiem często daje zużycie grupy tłokowej: zimny tłok ma w cylindrze trochę więcej luzu i postukuje. Po nagrzaniu części się rozszerzają i stukanie ustępuje. Zwykle to sprawa do obserwacji, a nie pilna naprawa.",
+  "advice": "Powiedz o tym w warsztacie przy najbliższej wizycie i zauważ, ile minut stukanie się utrzymuje — to cenna informacja dla mechanika. Pilnuj poziomu i zużycia oleju. Jeśli stukanie przestało znikać po nagrzaniu albo pojawiło się pod obciążeniem, jedź na diagnostykę bez zwlekania."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Łańcuch rozrządu albo jego napinacz",
+  "alt_causes": [
+   "Hydrauliczne popychacze",
+   "Rolki paska osprzętu"
+  ],
+  "explanation": "Łańcuch rozrządu to łańcuch wewnątrz silnika, który spina jego wały i sprawia, że zawory otwierają się w odpowiednim momencie. Kiedy się rozciągnie albo słabnie napinacz, przy zimnym rozruchu słychać z przodu silnika szelest lub grzechot, który cichnie po nagrzaniu, gdy rośnie ciśnienie oleju. Z czasem dźwięk będzie pojawiał się coraz częściej.",
+  "advice": "Umów się na diagnostykę w ciągu tygodnia–dwóch: przeskoczony łańcuch to kosztowna naprawa silnika. Do wizyty unikaj ostrego ruszania na zimno i pozwól silnikowi się nagrzać przed obciążeniem. Koniecznie sprawdź poziom oleju."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "Ślizganie się paska osprzętu",
+  "alt_causes": [
+   "Zużyta rolka napinacza",
+   "Słabe napięcie paska"
+  ],
+  "explanation": "Pisk w pierwszych sekundach po rozruchu prawie zawsze daje pasek, który napędza alternator, pompę wody i klimatyzację. Na zimno albo przy wilgotnej pogodzie ślizga się po kołach pasowych i gwiżdże, potem się nagrzewa i milknie. Teraz nie jest to groźne, ale świadczy o zużyciu paska albo o osłabionym napięciu.",
+  "advice": "Przy okazji pokaż pasek w warsztacie: oględziny to kwestia dwóch minut. Jeśli pisk zaczął pojawiać się także na nagrzanym silniku albo przy włączaniu klimatyzacji, nie odkładaj. Nie psikaj na pasek WD-40 ani innych „domowych sposobów”."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Powiększone luzy zaworowe",
+  "alt_causes": [
+   "Hydrauliczne popychacze",
+   "Łańcuch rozrządu"
+  ],
+  "explanation": "Równe, szybkie tykanie z górnej części silnika to typowy dźwięk mechanizmu zaworowego. Z czasem luzy między jego elementami rosną i zawory zaczynają „cykać”, najlepiej słychać to na wolnych obrotach. Silnik od tego od razu nie padnie, ale zawory pracują z uderzeniem i szybciej się zużywają.",
+  "advice": "Umów się na regulację zaworów albo sprawdzenie popychaczy w ciągu najbliższych dwóch tygodni. Pilnuj poziomu oleju: przy niskim tykanie się nasila. Jeździć można spokojnie, ale odkładanie tego o miesiące nie ma sensu."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Stukanie w dolnej części silnika (panewki, korbowody)",
+  "alt_causes": [
+   "Spalanie stukowe",
+   "Zużycie grupy tłokowej",
+   "Koło pasowe wału korbowego (tłumik drgań)"
+  ],
+  "explanation": "Głuchy stukot z głębi silnika, który przyspiesza wraz z obrotami i nasila się pod obciążeniem, to najbardziej niepokojący z dźwięków silnika. Tak stukają zużyte panewki — łożyska, na których obraca się wał korbowy — albo korbowody: w połączeniach pojawił się luz i części biją o siebie. Jeśli będziesz jechać dalej, silnik może się zatrzeć.",
+  "advice": "Nie jedź o własnych siłach dalej, niż to konieczne: najlepiej lawetą; jeśli warsztat jest tuż obok — dojedź wolno i nie dodawaj gazu. Od razu sprawdź poziom oleju i uzupełnij go do normy, jeśli jest niski. Podobnie mogą stukać mniej groźne rzeczy, ale sprawdzić musi mechanik — i to szybko."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Osprzęt albo poduszki silnika",
+  "alt_causes": [
+   "Sprzęgło sprężarki klimatyzacji",
+   "Hydrauliczne popychacze"
+  ],
+  "explanation": "Stukanie, które nie przyspiesza przy dodawaniu gazu, zwykle nie pochodzi z samego silnika, tylko z tego, co jest do niego przykręcone: alternatora, kół pasowych, wsporników, poduszek. Luz w tych miejscach daje głuche uderzenia na wolnych obrotach, zwłaszcza gdy silnik drga.",
+  "advice": "Umów się na diagnostykę w ciągu tygodnia–dwóch: takie stuki mechanik dobrze znajduje stetoskopem. Warto zauważyć i powiedzieć mechanikowi, czy dźwięk zmienia się po włączeniu klimatyzacji albo po wrzuceniu biegu przy wciśniętym hamulcu."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Zużyty albo słabo napięty pasek osprzętu",
+  "alt_causes": [
+   "Rolka napinacza",
+   "Koło pasowe alternatora"
+  ],
+  "explanation": "Przenikliwy pisk spod maski to ślizgający się po kołach pasowych pasek. Najczęściej winne jest zużycie samego paska albo osłabiony napinacz. Jeśli pasek się zerwie, stanie alternator, a w wielu autach także pompa wody (pompa układu chłodzenia), więc nie wolno tego zapuszczać.",
+  "advice": "Pokaż auto w warsztacie w ciągu tygodnia: wymiana paska i rolki to niedroga robota. Jeśli pisk gwałtownie się nasilił, zapaliła się kontrolka ładowania albo temperatura silnika poszła w górę — zatrzymaj się i zgaś silnik."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Pompa wody (pompa układu chłodzenia)",
+  "alt_causes": [
+   "Rolki paska",
+   "Łożysko alternatora"
+  ],
+  "explanation": "Buczenie albo szelest od strony paska w połączeniu ze śladami płynu chłodniczego to typowe objawy konającej pompy wody. Jej łożysko się zużywa, pojawia się luz, a przez uszczelnienie zaczyna sączyć się płyn. Jeśli pompa się zatrze, silnik szybko się przegrzeje.",
+  "advice": "Jedź do warsztatu w ciągu najbliższych dni, a po drodze pilnuj temperatury silnika i poziomu płynu chłodniczego. Jeśli temperatura poszła w górę albo spod maski poszła para — zatrzymaj się i zgaś silnik. Płyn uzupełniaj wyłącznie na wystudzonym silniku."
+ },
+ "leaf_idler": {
+  "top_cause": "Rolka napinacza albo rolka prowadząca",
+  "alt_causes": [
+   "Pompa wody",
+   "Sprzęgło jednokierunkowe alternatora",
+   "Łańcuch rozrządu albo jego napinacz"
+  ],
+  "explanation": "Równe buczenie albo szelest, który zmienia się wraz z obrotami silnika, najczęściej daje łożysko jednej z rolek, po których biegnie pasek osprzętu. Zużyta rolka hałasuje coraz mocniej, może zacząć się zakleszczać i w końcu zerwać pasek.",
+  "advice": "Umów się do warsztatu w ciągu tygodnia: mechanik zdejmie pasek i od razu ustali, która rolka hałasuje. Podobnie potrafi hałasować pompa wody, sprzęgło jednokierunkowe alternatora, a nawet łańcuch rozrządu — to sprawdza się przy okazji. Jeśli dźwięk przeszedł w zgrzyt albo pisk, przyspiesz wizytę."
  }
 }
