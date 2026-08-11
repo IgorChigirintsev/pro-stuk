@@ -283,5 +283,79 @@
    "o3": "Hızlanırken tek düze bir inleme; şanzıman CVT ya da otomatik",
    "o4": "İnleme bir viteste yüksek, başka viteste düşük; düz vites"
   }
+ },
+ "q_shift_char": {
+  "text": "Vites değiştirirken ya da kalkarken ne oluyor?",
+  "options": {
+   "o1": "Otomatikte D↔R geçişinde ya da vites değişimlerinde tokluk veya takırtı",
+   "o2": "Düz viteste vitese takarken hışırtı",
+   "o3": "Kalkarken debriyajı bırakırken araç titriyor",
+   "o4": "Kalkış anında ya da gaz değişiminde altdan tek bir takırtı"
+  }
+ },
+ "q_vibration": {
+  "text": "Titreşim en çok ne zaman?",
+  "options": {
+   "o1": "80–120 km/s arasında direksiyon ince ince titriyor; altında ve üstünde azalıyor",
+   "o2": "40–60 km/s'ten itibaren başlıyor, hız arttıkça artıyor",
+   "o3": "Dar bir hız aralığında, tabandan ve gövdeden gelen titreşim; arkadan itiş ya da 4x4",
+   "o4": "Sadece fren yaparken, direksiyon vuruyor"
+  }
+ },
+ "q_const_char": {
+  "text": "Sürekli duyulan ses neye benziyor?",
+  "options": {
+   "o1": "Düzgün bir uğultu ya da inleme",
+   "o2": "Tekerlek tarafından gıcırtı, sürtünme ya da tiz bir cızırtı",
+   "o3": "Yüksek gürleme ya da patırtı",
+   "o4": "Sadece yüksek hızda ıslık ya da uğultu"
+  }
+ },
+ "q_wheel_noise": {
+  "text": "Tekerlek tarafındaki ses nasıl?",
+  "options": {
+   "o1": "İnce bir cızırtı; frene hafifçe dokununca kesiliyor ya da değişiyor",
+   "o2": "Sürtünme sesi; yolculuktan sonra o tekerlek çok sıcak, araç bir tarafa çekiyor",
+   "o3": "Sürekli gıcırtı ya da sürtünme, tekerlek ısınmıyor",
+   "o4": "Tekerleğin dönüşüne uyan ritmik vuruntu ya da tıkırtı"
+  }
+ },
+ "q_wheel_click": {
+  "text": "Tekerlekler son zamanlarda değişti, yeri değiştirildi ya da söküldü mü?",
+  "options": {
+   "o1": "Evet, son günlerde",
+   "o2": "Hayır, uzun süredir dokunulmadı"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Deneme: sesin duyulduğu hıza çıkın, vitesi boşa alıp süzülün. Uğultu devam ediyor mu?",
+  "options": {
+   "o1": "Devam ediyor",
+   "o2": "Motor devriyle birlikte kayboluyor",
+   "o3": "Deneyemedim"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "İnlemenin şiddeti vites değiştirince değişiyor mu?",
+  "options": {
+   "o1": "Evet, farklı viteslerde farklı duyuluyor",
+   "o2": "Hayır, sadece motor devrine bağlı"
+  }
+ },
+ "q_hum_road": {
+  "text": "Uğultu geniş virajlarda değişiyor mu?",
+  "options": {
+   "o1": "Evet, bir tarafa dönerken daha az ya da daha çok",
+   "o2": "Hayır, 40–60 km/s üstünde her hızda aynı",
+   "o3": "Yol kaplamasına göre değişiyor"
+  }
+ },
+ "q_hum_where": {
+  "text": "Uğultu önden mi, arkadan mı geliyor?",
+  "options": {
+   "o1": "Önden",
+   "o2": "Arkadan",
+   "o3": "Anlamak zor"
+  }
  }
 }
