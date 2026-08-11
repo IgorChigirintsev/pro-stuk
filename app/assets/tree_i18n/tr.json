@@ -65,5 +65,74 @@
    "o3": "Rölantide takırtı ya da gürültü, pedala basınca değişiyor",
    "o4": "Pedala basarken gıcırtı, motor kapalıyken bile duyuluyor"
   }
+ },
+ "q_wheel_pedal": {
+  "text": "Ses tam olarak neyle bağlantılı?",
+  "options": {
+   "o1": "Direksiyonu çevirirken uğultu ya da inleme",
+   "o2": "Dururken direksiyonu çevirirken çatırtı ya da tıkırtı",
+   "o3": "Fren pedalına basınca torpidonun altından tıslama",
+   "o4": "Sileceklerin her gidiş gelişinde takırtı ya da gıcırtı"
+  }
+ },
+ "q_ps_type": {
+  "text": "Kaputun altında direksiyon hidrolik yağı deposu var mı?",
+  "options": {
+   "o1": "Evet, var",
+   "o2": "Yok ya da bilmiyorum"
+  }
+ },
+ "q_steer_click": {
+  "text": "Tıkırtı nereden geliyor?",
+  "options": {
+   "o1": "Yukarıdan, tekerlek davlumbazının arkasından, kaputun oradan",
+   "o2": "Direksiyonun kendisinden ya da ayakların oradaki kolondan"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Ses yalnızca motor soğukken, çalıştırdıktan hemen sonra mı duyuluyor?",
+  "options": {
+   "o1": "Evet, ısınınca geçiyor",
+   "o2": "Hayır, motor ısındıktan sonra da duyuluyor"
+  }
+ },
+ "q_cold_char": {
+  "text": "Soğukken ses neye benziyor?",
+  "options": {
+   "o1": "Hızlı tıkırtı ya da tik tak sesi",
+   "o2": "Boğuk bir vuruntu, ısınınca geçiyor",
+   "o3": "Motorun önünden hışırtı ya da gürültü",
+   "o4": "Çalıştırırken cıyaklama ya da ıslık"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Tıkırtı dışarıdan içeriye göre daha yüksek ve kaputun altından egzoz kokusu geliyor mu?",
+  "options": {
+   "o1": "Evet, dışarıda daha yüksek ve koku var",
+   "o2": "Hayır, motorun üst tarafından tıkırdıyor, koku yok"
+  }
+ },
+ "q_engine_char": {
+  "text": "Ses neye benziyor?",
+  "options": {
+   "o1": "Vuruntu ya da tıkırtı",
+   "o2": "Cıyaklama, ıslık, uğultu ya da tıslama",
+   "o3": "Çınlama, takırtı, patlama ya da lıkırtı",
+   "o4": "Rölantide titreşim, sarsıntı"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Vuruntu tam olarak nasıl?",
+  "options": {
+   "o1": "Motorun üst tarafından hafif, hızlı bir tıkırtı",
+   "o2": "Motorun derinlerinden boğuk ya da metalik bir vuruntu"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Tıkırtı zamanla arttı mı, yoksa hep aynı mı?",
+  "options": {
+   "o1": "Arttı, motor ısındıkça daha belirgin",
+   "o2": "Hep aynı, dışarıdan içeriye göre daha yüksek"
+  }
  }
 }
