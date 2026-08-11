@@ -680,5 +680,86 @@
   ],
   "explanation": "Genelde 80–120 km/s arasındaki dar bir hız aralığında direksiyonun ince ince titremesi, altında ve üstünde neredeyse kaybolması, klasik tekerlek balanssızlığıdır: balans ağırlığı düşmüş ya da jantın içine çamur veya buz yapışmıştır. Direksiyon titriyorsa ön tekerlekler, koltuk titriyorsa arka tekerlekler dengesizdir.",
   "advice": "Fırsat bulunca balans ayarı yaptırın — hızlı ve ucuz bir iştir. Kışın önce jantların iç tarafına bakıp yapışan kar ve buzu temizleyin. Tehlikesi yok ama sürekli titreşim rulmanların ve rot başlarının ömrünü kısaltır."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Eğrilmiş jant ya da lastikte balon",
+  "alt_causes": [
+   "Lastik sırtının kayması",
+   "Tekerlek balanssızlığı"
+  ],
+  "explanation": "Daha 40–60 km/s'te fark edilen ve hızla birlikte artan zıplama, genelde bir deformasyondur: çukurdan sonra ezilmiş jant kenarı ya da lastiğin yanağındaki balon. Balanssızlıktan farkı, dar bir hız aralığında değil sürekli artmasıdır.",
+  "advice": "Lastikleri ve jant kenarlarını gözden geçirin: yanaktaki şişkinlik ya da ezik jant çoğu zaman gözle görülür. Balon zayıf noktadır ve hızda patlayabilir: o tekerleği stepneyle değiştirin ve lastikçiye gitmeyi ertelemeyin. Sorun giderilene kadar hızlı gitmeyin."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Kardan mili: askı rulmanı ya da balanssızlık",
+  "alt_causes": [
+   "Kardan istavrozları",
+   "Elastik kaplin"
+  ],
+  "explanation": "Arkadan itiş ya da 4x4 bir araçta belirli bir hız aralığında tabandan ve gövdeden gelen uğultu ve ince titreşim kardan milidir: askı rulmanı aşınmış, istavrozlar dağılmış ya da balans bozulmuştur. Tekerlek balanssızlığından farkı, direksiyonun değil tabanın titremesidir.",
+  "advice": "Bir hafta içinde diagnostiğe gidin: kardan boşlukları lifte dakikalar içinde kontrol edilir. Ertelemeyin — istavrozun yüksek hızda kırılması tehlikelidir. Kontrole kadar „titreyen” hızda uzun süre gitmeyin."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Rüzgâr sesi (fitiller, çıtalar, tavan portbagajı)",
+  "alt_causes": [
+   "Aşınmış kapı fitilleri",
+   "Tavan barları ya da tavan kutusu"
+  ],
+  "explanation": "Yalnızca belli bir hızın üstünde (genelde 70–90 km/s) başlayan, hızla birlikte artan, yol kaplamasından ve virajlardan etkilenmeyen ıslık ya da uğultu havadandır: aşınmış fitil, kalkmış çıta, tavan barları ya da tavan kutusu.",
+  "advice": "Kaynağı bulmak kolay: varsa tavan kutusunu ya da barları sökün; camı biraz açın, ses değişiyor mu bakın; şüpheli birleşim yerini maskeleme bandıyla kapatıp bir tur atın. Bu bir arıza değil; fitil değişimi ya da kapı ayarıyla çözülür."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Balata aşınma göstergesi diske sürtüyor",
+  "alt_causes": [
+   "Balatalar bitmek üzere",
+   "Balatayla disk arasına kaçmış taş"
+  ],
+  "explanation": "Frene basmadan giderken duyulan, pedala hafifçe dokununca kesilen ya da değişen ince metalik cızırtı, balatadaki metal gösterge plakasının diske değmeye başladığını söyler. Bu normal bir uyarıdır: balatanın çalışma katmanı neredeyse bitmiş.",
+  "advice": "Bu hafta balata değişimi için randevu alın ve diskleri de kontrol ettirin. Frenler şimdilik tam çalışıyor ama bir sonraki aşama metal metale sürtme ve disklerin bozulmasıdır. Ses tek bir tekerlekten geliyorsa bunu serviste söyleyin."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Sıkışmış fren kaliperi",
+  "alt_causes": [
+   "Tutukluk yapan kaliper pimleri",
+   "Şişmiş fren hortumu"
+  ],
+  "explanation": "Tek bir tekerlek tarafından gelen sürekli sürtme sesi, yolculuktan sonra çok sıcak bir disk, yanık kokusu ve aracın bir tarafa çekmesi — kaliper (balataları diske bastıran parça) sıkışmış ve balata diske sürekli sürtüyor demektir. Aşırı ısınan fren tutuşunu kaybeder, balata ve disk birkaç yüz kilometrede yanar.",
+  "advice": "Normal kullanımı kesin ve yalnızca servise gidin — yakın mesafe ve düşük hızda. Hangi tekerleğin sıcak olduğunu diskin yanına elinizi yaklaştırarak anlarsınız, diske dokunmayın, yakar. Ertelemek tekerleğin yolda kilitlenmesiyle biter."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Sıkılmamış bijon somunları",
+  "alt_causes": [
+   "Jant deliklerinin yenmesi",
+   "Poyra boşluğu"
+  ],
+  "explanation": "Tekerleğin dönüşüne uyan ritmik takırtı ya da tıkırtı lastikçiye gittikten veya lastik değiştirdikten sonraki ilk günlerde başladıysa, klasik gevşek bijon vakasıdır. Gevşek bijonlarla dönen tekerlek jant deliklerini yer, en kötü ihtimalle yolda çıkar.",
+  "advice": "İlk fırsatta durun ve bijon anahtarıyla bütün tekerleklerin bijonlarını kontrol edin. Sıkıldıysa ses gitmeli; ses kaldıysa dikkatli şekilde servise gidip poyrayı kontrol ettirin. Her lastik değişiminden sonra 50–100 km'de bijonları yeniden sıkmakta fayda var."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Lastik sırtına saplanmış taş ya da vida",
+  "alt_causes": [
+   "Sıkılmamış bijon somunları",
+   "Lastik sırtının ayrılması"
+  ],
+  "explanation": "Tekerleğin dönüşüne uyan düzenli klik ya da tık sesi, özellikle düşük hızda belirgin olur ve çoğu zaman sırt desenine sıkışmış bir taştır — ya da daha önemlisi, lastiğe girmiş bir vida. Ses, cisim lastikte durduğu sürece devam eder.",
+  "advice": "Aracı yavaşça ileri geri iterek ya da direksiyonu sonuna kadar çevirerek bütün lastiklerin sırtına bakın. Taşı çıkarın. Vidayı ya da çiviyi çekmeyin — onunla lastikçiye rahatça gidersiniz, çıkarırsanız lastik yolda iner. Sırtta bir şey yoksa ve tık sesi devam ediyorsa bijonları kontrol edin."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Viraj demiri lastikleri ya da salıncak burçları (gıcırtı)",
+  "alt_causes": [
+   "Rotil",
+   "Kurumuş kapı fitilleri ve menteşeleri"
+  ],
+  "explanation": "Tümseklerde, araca binerken ve aracı sallarken çıkan eski karyola gibi gıcırtı, süspansiyondaki kurumuş kauçuktur: viraj demiri lastikleri ya da salıncak burçları. Soğukta ve nemde daha yüksek çıkar. Duran aracı çamurluktan tutup sallayınca kolayca tekrarlanır.",
+  "advice": "Fırsat bulunca serviste gösterin: çoğu zaman lastiklerin greslenmesi ya da çok ucuz parçaların değişimi yeterlidir. Tehlikesi yok, ama gıcırtıyla birlikte vuruntu başladıysa ya da araç bir tarafa çekmeye başladıysa artık konu rotillerdir, kontrolü ertelemeyin."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Diske yapışmış fren balataları",
+  "alt_causes": [
+   "Donmuş balatalar (kışın)",
+   "El freni pabuçları"
+  ],
+  "explanation": "Uzun bir park sonrası ilk hareket ederken, özellikle el freni çekiliyken, yıkamadan, yağmurdan ya da dondan sonra duyulan tek ve yüksek „güm” ya da çatırtı, balataların diske yapışıp koptuğunu gösterir. Yolculuğun devamı sessizse bunun bir zararı yok.",
+  "advice": "Hiçbir şey yapmanıza gerek yok; kışın el freni yerine aracı viteste bırakabilirsiniz (yalnızca düz viteste), böylece arka balatalar donmaz. Çatırtı her hareket edişte tekrarlanıyorsa artık konu balatalar değildir, teşhisi baştan yapın."
  }
 }
