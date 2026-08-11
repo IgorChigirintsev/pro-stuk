@@ -806,5 +806,78 @@
   ],
   "explanation": "Metaalachtig getik van voren bovenin, bij de rand van de motorkap, op kleine oneffenheden, is speling in het motorkapslot of ingezakte rubberen aanslagen waar de kap op rust. Binnen hoor je het dichtbij, 'voor je gezicht', en niet van onderaf zoals getik uit de ophanging.",
   "advice": "Test op de plaats: druk op de gesloten motorkap — beweegt en tikt hij, dan is de diagnose bevestigd. Draai de rubberen aanslagen in de hoeken een halve slag omhoog zodat de kap strakker ligt; in de meeste gevallen helpt dat. Gevaarlijk is het niet."
+ },
+ "leaf_lifters_cold": {
+  "top_cause": "Hydraulische klepstoters (bij een koude motor)",
+  "alt_causes": [
+   "Klepspeling",
+   "Te dikke olie"
+  ],
+  "explanation": "Hydraulische klepstoters zijn kleine onderdelen die met oliedruk de speling in de kleppen wegnemen. Zolang de motor koud is, is de olie dik en bereikt hij ze niet meteen; daarom hoor je de eerste minuten snel getik. Verdwijnt het geluid volledig zodra de motor warm is, dan is dat een normale situatie en niet gevaarlijk.",
+  "advice": "Controleer het oliepeil en wanneer de olie voor het laatst is ververst: oude of verkeerde olie maakt het tikken erger. Blijft het tikken langer dan een paar minuten of ook bij een warme motor, maak dan een afspraak. Giet geen 'antitik'-additieven in de motor."
+ },
+ "leaf_piston_cold": {
+  "top_cause": "Slijtage van zuigers en cilinders (kloppen bij koude motor)",
+  "alt_causes": [
+   "Hydraulische klepstoters",
+   "Distributieketting"
+  ],
+  "explanation": "Dof kloppen de eerste minuten na een koude start dat verdwijnt naarmate de motor warm wordt, komt bij auto's met kilometers vaak door slijtage van zuiger en cilinder: een koude zuiger heeft iets meer ruimte en klopt daardoor. Als alles warm is zetten de delen uit en is het kloppen weg. Dit is meestal iets om in de gaten te houden, geen spoedreparatie.",
+  "advice": "Vertel het bij je volgende garagebezoek en let op hoeveel minuten het kloppen aanhoudt — dat is nuttige informatie voor de monteur. Houd het oliepeil en het olieverbruik in de gaten. Verdwijnt het kloppen niet meer bij een warme motor of hoor je het onder belasting, ga dan zonder uitstel langs voor diagnose."
+ },
+ "leaf_timing_chain": {
+  "top_cause": "Distributieketting of zijn spanner",
+  "alt_causes": [
+   "Hydraulische klepstoters",
+   "Riemrollen"
+  ],
+  "explanation": "De distributieketting is de ketting binnen in de motor die de assen koppelt en de kleppen op het juiste moment laat openen. Rekt hij op of verzwakt de spanner, dan hoor je bij een koude start ruisen of rammelen aan de voorkant van de motor, dat wegvalt zodra de motor warm is en de oliedruk stijgt. Met de tijd komt het geluid steeds vaker.",
+  "advice": "Maak binnen een of twee weken een afspraak voor diagnose: een ketting die overslaat betekent een dure motorreparatie. Vermijd tot die tijd felle starts bij een koude motor en laat de motor warm worden voor je hem belast. Controleer beslist het oliepeil."
+ },
+ "leaf_belt_cold": {
+  "top_cause": "Slippende multiriem",
+  "alt_causes": [
+   "Versleten spanrol",
+   "Te weinig riemspanning"
+  ],
+  "explanation": "Piepen in de eerste seconden na het starten komt bijna altijd van de riem die de dynamo, de waterpomp en de airco aandrijft. Koud of bij vochtig weer slipt hij over de poelies en fluit, daarna wordt hij warm en zwijgt. Op dit moment is dat niet gevaarlijk, maar het wijst op een versleten riem of te weinig spanning.",
+  "advice": "Laat de riem bij gelegenheid in de garage bekijken: dat is een kwestie van twee minuten. Komt het piepen ook bij een warme motor of bij het inschakelen van de airco, stel het dan niet uit. Spuit geen WD-40 op de riem en probeer ook geen andere 'huismiddeltjes'."
+ },
+ "leaf_valve_tick": {
+  "top_cause": "Te grote klepspeling",
+  "alt_causes": [
+   "Hydraulische klepstoters",
+   "Distributieketting"
+  ],
+  "explanation": "Gelijkmatig, snel getik bovenin de motor is het typische geluid van het klepmechanisme. Met de tijd wordt de speling tussen de delen groter en gaan de kleppen tikken; stationair hoor je het het best. De motor gaat er niet meteen aan kapot, maar de kleppen werken met een slag en slijten sneller.",
+  "advice": "Maak binnen twee weken een afspraak om de kleppen te laten stellen of de stoters te laten controleren. Houd het oliepeil in de gaten: bij een laag peil tikt het harder. Rijden kan rustig, maar maandenlang uitstellen is niet verstandig."
+ },
+ "leaf_engine_knock_deep": {
+  "top_cause": "Kloppen onderin de motor (lagerschalen, drijfstangen)",
+  "alt_causes": [
+   "Pingelen",
+   "Slijtage van zuigers en cilinders",
+   "Krukaspoelie (trillingsdemper)"
+  ],
+  "explanation": "Dof kloppen uit de diepte van de motor dat sneller wordt met het toerental en harder onder belasting, is het meest alarmerende van alle motorgeluiden. Zo klinken versleten lagerschalen — de lagers waarin de krukas draait — of de drijfstangen: er is speling in de verbindingen ontstaan en de delen slaan tegen elkaar. Rijd je door, dan kan de motor vastlopen.",
+  "advice": "Rijd niet verder op eigen kracht dan strikt nodig: neem liever een sleepwagen; is de garage vlakbij, rijd dan langzaam en geef geen gas. Controleer meteen het oliepeil en vul bij als het laag staat. Minder erge dingen kunnen ook zo klinken, maar een monteur moet ernaar kijken — en snel."
+ },
+ "leaf_accessory_knock": {
+  "top_cause": "Aangebouwde onderdelen of motorsteunen",
+  "alt_causes": [
+   "Koppeling van de aircocompressor",
+   "Hydraulische klepstoters"
+  ],
+  "explanation": "Kloppen dat niet sneller wordt als je gas geeft, komt meestal niet uit de motor zelf maar van wat eraan vastzit: de dynamo, poelies, steunen, rubbers. Speling daarin geeft doffe klappen stationair, vooral als de motor wat trilt.",
+  "advice": "Maak binnen een of twee weken een afspraak voor diagnose: zulke geluiden vindt een monteur goed met de stethoscoop. Let erop en vertel de monteur of het geluid verandert als de airco inschakelt of als je met de rem in een versnelling zet."
+ },
+ "leaf_belt_squeal": {
+  "top_cause": "Versleten of te slappe multiriem",
+  "alt_causes": [
+   "Spanrol",
+   "Poelie van de dynamo"
+  ],
+  "explanation": "Schel piepen onder de motorkap betekent dat de riem over de poelies slipt. Meestal is de riem zelf versleten of is de spanner verzwakt. Breekt de riem, dan valt de dynamo uit en op veel auto's ook de waterpomp — dit mag je dus niet laten lopen.",
+  "advice": "Laat de auto binnen een week nakijken: een riem en rol vervangen is goedkoop werk. Wordt het piepen ineens veel harder, gaat het acculampje branden of loopt de motortemperatuur op — stop en zet de motor uit."
  }
 }
