@@ -926,5 +926,98 @@
   ],
   "explanation": "Gaza basınca artan yüksek gürleme genelde egzoz sisteminde delik demektir: susturucu, boru ya da conta delinmiştir. Ses „sportif” hale gelir ama egzoz gazları zamanından önce dışarı çıkar — bu gürültü, koku ve kabine karbon monoksit girme riskidir.",
   "advice": "Bu hafta aracı serviste gösterin: egzozun lifte kontrolü birkaç dakika sürer. Kabinde egzoz kokusu duyuluyorsa camı biraz açık kullanın ve aracı kapalı garajda ısıtmayın: karbon monoksit tehlikelidir."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Motor takozları",
+  "alt_causes": [
+   "Ateşleme kaçırması",
+   "Kirli gaz kelebeği ya da enjektörler"
+  ],
+  "explanation": "Rölantide kabinde titreşim hissediliyor, direksiyon ve koltuklar ince ince titriyorsa, sık suçlu motor takozlarıdır — motorun titreşimini yutan kauçuk parçalar. Zamanla kauçuk sertleşir ve yırtılır, titreşim de gövdeye geçer.",
+  "advice": "İki hafta içinde takozları serviste kontrol ettirin: bakması kolaydır. Teşhis için ipucu — takoz kaynaklı titreşim genelde fren basılıyken vites takılınca artar. Motor ayrıca kesik kesik sarsıyorsa bunu mekaniğe söyleyin: ateşleme kaçırıyor olabilir."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Fren disklerindeki pas tabakası",
+  "alt_causes": [
+   "Balatalarda nem ya da toz",
+   "Balataların ilk aşınması"
+  ],
+  "explanation": "Bir gecede, yağmurdan ya da yıkamadan sonra fren disklerinde ince turuncu bir tabaka oluşur — bu her araçta normaldir. İlk birkaç frende balatalar bu tabakayı temizler, gıcırtı ya da hafif kazıma sesi buradan gelir ve çabuk geçer.",
+  "advice": "Hiçbir şey yapmanıza gerek yok: yolculuğun başında birkaç yumuşak fren diskleri temizler. Ses artık geçmiyorsa ve her fren yapışta duyuluyorsa, teşhisi baştan yapın ya da aracı serviste gösterin."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Balataların aşınması ya da durumu",
+  "alt_causes": [
+   "Balata aşınma göstergesi",
+   "Sertleşmiş (camlaşmış) balatalar",
+   "Disklerde toz ya da korozyon"
+  ],
+  "explanation": "Her fren yapışta duyulan cıyaklama, balataları kontrol etme sinyalidir. Birçok balatada metal bir „aşınma göstergesi” vardır: çalışma katmanı (diske sürten balata malzemesi) sınırına kadar aşındığında plaka diske değer ve kasten cıyaklar. Balataların kendisi de ses yapabilir — tabaka, camlaşmış yüzey ya da ucuz malzeme yüzünden.",
+  "advice": "Bu hafta balata ve disk kontrolü için randevu alın. Ses aşınma göstergesinden geliyorsa ertelemeyin: bir sonraki aşama metal metale sürtme ve disklerin bozulmasıdır. Balatalar iyiyse cıyaklama tehlikeli değildir ve mekanik nasıl giderileceğini söyler."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Balatalar metale kadar bitmiş",
+  "alt_causes": [
+   "Fren mekanizmasına kaçmış yabancı cisim",
+   "Dağılmış balata"
+  ],
+  "explanation": "Fren yaparken metal metale sürtme sesi, balatanın çalışma katmanının bittiğini ve diske metal tabanının sürttüğünü gösterir. Fren mesafesi uzar, disk her duruşta biraz daha bozulur ve mekanizma sıkışabilir.",
+  "advice": "Normal kullanımı kesin ve yalnızca servise gidin, erken ve yumuşak fren yaparak. Değişimi bir gün bile ertelemeyin: güvenliğin yanında, sürtünerek geçen her kilometre faturaya disk maliyetini de ekler."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Kaliper pimleri ya da disklerde salgı",
+  "alt_causes": [
+   "Poyra boşluğu",
+   "Gevşemiş kaliper bağlantısı"
+  ],
+  "explanation": "Fren yaparken vuruntu ya da pedalda zonklama genelde fren mekanizmasından gelir: kaliper pimleri (balataları diske bastıran parçanın kızakları) gevşemiştir ya da disk eğrilmiştir ve balatalar ona çarpar. Frenler çalışır ama düzensiz çalışır.",
+  "advice": "Önümüzdeki günlerde frenleri serviste kontrol ettirin: güvenliğin bağlı olduğu bir sistemi ihmal etmeye gelmez. Pedal her zamankinden derine kaçmaya başladıysa, araç fren yaparken bir tarafa çekiyorsa ya da direksiyona vuruyorsa hemen diagnostiğe gidin."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Bir şey fren diskine sürtüyor (muhafaza ya da bitmiş balatalar)",
+  "alt_causes": [
+   "Balatalar metale kadar bitmiş",
+   "Eğilmiş disk muhafazası",
+   "Muhafazayla disk arasına kaçmış taş"
+  ],
+  "explanation": "Tekerlek tarafından gelen sürekli gıcırtı ya da sürtme sesi, genelde dönen fren diskine bir şeyin değdiğini gösterir: eğilmiş sac muhafaza, araya kaçmış bir taş — ya da metale kadar bitmiş balatalar. İlk ikisi zararsız, üçüncüsü tehlikelidir ve kulakla ayırmak kolay değildir.",
+  "advice": "Bir–iki gün içinde, ertelemeden serviste kontrol ettirin: tekerleğe bakınca sebep hemen görülür. Fren yaparken ses artıyorsa ya da pedal her zamanki gibi davranmıyorsa, yolculuğu kesin ve servise dikkatli gidin."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Tekerlek rulmanı",
+  "alt_causes": [
+   "Lastik hışırtısı",
+   "Aşınmış aks körüğü ve mafsalı"
+  ],
+  "explanation": "Giderken virajlarda değişen uğultu, aşınmış tekerlek rulmanının klasik işaretidir: tekerleğin üzerinde döndüğü rulmanın. Virajda aracın ağırlığı dış tekerleklere biner: sola dönerken uğultu artıyorsa yük sağ taraftadır ve büyük ihtimalle sağ rulman uğulduyor; sağa dönerken tersi geçerlidir. Dağılan rulman tekerlekte boşluk yaratır, ihmal edilirse sıkışabilir.",
+  "advice": "Uğultunun hangi yöne dönerken arttığını aklınızda tutun ve serviste söyleyin — bu aramayı hemen daraltır. Kontrolü bir haftadan fazla ertelemeyin, uzun yolları teşhise kadar erteleyin. Titreşim başladıysa ya da uğultu belirgin şekilde arttıysa hemen servise gidin."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Dış aks mafsalı",
+  "alt_causes": [
+   "İç aks mafsalı",
+   "Viraj demiri rotları",
+   "4x4 kavraması"
+  ],
+  "explanation": "Direksiyon kırıkken giderken duyulan tıkırtı ya da çatırtı, aşınmış dış aks mafsalının imzasıdır: dönen tekerleğe gücü ileten mafsalın. Genelde her şey körüğün yırtılmasıyla başlar — mafsalı kirden koruyan kauçuk körükle.",
+  "advice": "Aks körüklerine bakın ya da serviste baktırın: yırtık körük ve çevresine saçılmış gres teşhisi doğrular. Değişimi bir–iki haftadan fazla ertelemeyin — aşınmış mafsal sıkışabilir. Tamire kadar direksiyon kırıkken sert kalkış yapmayın."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Rot başları ya da direksiyon kutusu",
+  "alt_causes": [
+   "Viraj demiri rotları",
+   "Amortisör üst takoz rulmanları"
+  ],
+  "explanation": "Direksiyonu çevirirken, özellikle dururken ya da düşük hızda duyulan vuruntu, genelde rot başlarındaki, rotlardaki ya da direksiyon kutusunun kendisindeki boşluktan gelir. Şimdilik kullanımı engellemez ama direksiyondaki boşluk zamanla yalnızca büyür.",
+  "advice": "Önümüzdeki günlerde direksiyonu serviste kontrol ettirin: lifte teşhis birkaç dakika sürer. Direksiyon orta konumda „boşaldıysa”, araç şeritte geziniyorsa ya da vuruntu aniden arttıysa ertelemeyin, bu bir güvenlik parçasıdır."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Direksiyon hidrolik pompası",
+  "alt_causes": [
+   "Hidrolik yağı seviyesinin düşük olması",
+   "V kayışı"
+  ],
+  "explanation": "Dururken ya da düşük hızda direksiyonu çevirince çıkan inleme ya da uğultu, çoğu zaman hidrolik pompasından gelir — direksiyonu çevirmeye yardım eden yağın basıncını o üretir. En çok direksiyon sonuna kadar kırıkken inler. En sık sebep, depodaki yağ seviyesinin düşmesidir.",
+  "advice": "Kaputun altındaki depoda hidrolik yağı seviyesine bakın ve MIN çizgisinin altındaysa tamamlayın. Direksiyonu sonuna kadar kırık halde birkaç saniyeden uzun tutmayın. Yağ ekledikten sonra inleme kaldıysa ya da yağ yine eksiliyorsa, bir hafta içinde servise gidin."
  }
 }
