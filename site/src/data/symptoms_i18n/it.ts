@@ -359,4 +359,181 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gremit-pod-mashinoy': {
+    h1: 'Sferragliare sotto l’auto',
+    metaTitle: 'Sferragliare sotto l’auto: cosa vibra ed è pericoloso | Stuk',
+    description:
+      'Sferragliare e vibrare sotto l’auto: supporti dello scarico, schermo termico, paramotore o catalizzatore. Come trovare la fonte del rumore e quando la cosa è seria.',
+    intro: [
+      'Uno sferragliare da sotto l’auto suona allarmante, ma la fonte non è quasi mai il motore né la sospensione: è la lamiera imbullonata — i gommini dello scarico, i bulloni allentati del paramotore o lo schermo termico, quella lamiera sottile che protegge il pianale dal calore del tubo di scarico. Tutto questo sferraglia forte e risuona nella scocca, e per questo sembra più grave di quel che è: sulla guida e sul funzionamento dell’auto questi rumori non incidono.',
+      'Ci sono anche gli inganni: ciò che sferraglia «sotto l’auto» spesso è il bagagliaio — il cric, la chiave a croce, una ruota di scorta mal fissata — o le plastiche dell’abitacolo, il cui suono è difficile da collocare. Solo uno scenario preoccupa davvero: uno sferragliare metallico più vicino al motore insieme a una perdita di potenza o a un odore di scarico diverso. Così suona un catalizzatore distrutto — il filtro ceramico dei gas di scarico, i cui frammenti sferragliano dentro il proprio involucro — e con questa ipotesi non conviene aspettare.',
+    ],
+    causes: [
+      { name: 'Supporti dello scarico o paramotore', likelihood: 'Il più delle volte — sferragliare metallico sulle buche' },
+      { name: 'Schermo termico dell’impianto di scarico', likelihood: 'Frequente — sferragliare metallico a certi regimi' },
+      { name: 'Cric, ruota di scorta o carico nel bagagliaio', likelihood: 'Frequente — fragore sordo dietro, «qualcosa che rotola»' },
+      { name: 'Plastiche dell’abitacolo: pannelli e grilli', likelihood: 'Frequente — il suono è più vicino di quanto sembri' },
+      { name: 'Catalizzatore distrutto', likelihood: 'Più raro — se insieme allo sferragliare è calata la potenza' },
+    ],
+    canRide: [
+      'Nella maggior parte dei casi sì, e senza limitazioni particolari: uno schermo termico che vibra, supporti dello scarico allentati o bulloni del paramotore sono questione di comfort, non di sicurezza. La riparazione dura di solito pochi minuti: stringere o fissare con una fascetta. L’unica cosa da accertare è che lo scarico non penzoli: un tubo che sta per toccare l’asfalto non si ignora più, il suo fissaggio si ripristina subito.',
+      'Se lo sferragliare si accompagna a perdita di potenza, a un odore di scarico diverso o alla spia motore, vai alla diagnosi nei prossimi giorni: frammenti di ceramica di un catalizzatore distrutto possono essere risucchiati nel motore, e questa è già una riparazione costosa. Fino al controllo, evita i regimi alti.',
+    ],
+    checks: [
+      'Svuotare il bagagliaio, controllare il fissaggio di ruota di scorta e cric, premere la cappelliera — e rifare lo stesso tratto di strada. Il rumore è sparito: questione chiusa.',
+      'Ad auto ferma, alzare i giri dolcemente: lo sferragliare dello schermo termico compare di solito a certi regimi e si sente sul posto, senza alcuna buca.',
+      'Chiedere a un passeggero di premere con la mano i pannelli sospetti dell’abitacolo in marcia: se il rumore sparisce, sono grilli dell’abitacolo e non il pianale.',
+      'Fare attenzione alla potenza e all’odore di scarico: se l’auto accelera peggio o l’odore è cambiato, è l’ipotesi del catalizzatore — con essa dal meccanico nei prossimi giorni.',
+      'Guardare sotto l’auto senza infilarsi sotto: uno scarico che penzola, un bordo staccato del paramotore o uno schermo piegato spesso si vedono già dalla ruota.',
+    ],
+    appHelp:
+      'L’app Stuk aiuta a legare lo sferragliare alla sua fonte: da dove viene il suono, se segue i giri del motore o le buche, cosa succede alla potenza. Da risposte e registrazione mostra cause probabili con percentuali e un semaforo dell’urgenza — comodo per distinguere una lamiera innocua dal catalizzatore prima ancora dell’officina.',
+    faq: [
+      {
+        q: 'È pericoloso guidare se sotto l’auto sferraglia qualcosa?',
+        a: 'Il più delle volte no: supporti dello scarico allentati, paramotore e schermo termico non incidono sul funzionamento dell’auto. Le eccezioni sono uno scarico che penzola e sta per toccare l’asfalto e uno sferragliare insieme a perdita di potenza: nel secondo caso è possibile un catalizzatore distrutto, e il controllo non va rimandato.',
+      },
+      {
+        q: 'Che cos’è lo schermo termico e si può semplicemente toglierlo?',
+        a: 'È una sottile lamiera metallica tra le parti calde dello scarico e il pianale: protegge dal calore la scocca, i cablaggi e tutto ciò che sta sopra il tubo. Toglierlo non è una buona idea — meglio stringerlo o fissarlo con una fascetta: in officina è un lavoro di pochi minuti.',
+      },
+      {
+        q: 'Come capire che a sferragliare è proprio il catalizzatore?',
+        a: 'Da uno sferragliare metallico o un fruscio da sotto il pianale, più vicino al motore, che aumenta dando gas, più una perdita di potenza o un odore di scarico diverso. In officina confermano l’ipotesi battendo leggermente sull’involucro del catalizzatore ad auto fredda: la ceramica sbriciolata frusciando dentro sembra ghiaia.',
+      },
+    ],
+  },
+
+  'skrezhet-pri-tormozhenii': {
+    h1: 'Stridore in frenata',
+    metaTitle: 'Stridore in frenata: pastiglie fino al metallo, che fare | Stuk',
+    description:
+      'Lo stridore in frenata di solito significa pastiglie consumate fino al metallo: con questo non si guida. Più di rado la colpa è di un sassolino dietro il parapolvere. Come distinguerli.',
+    intro: [
+      'Lo stridore in frenata merita più attenzione di qualunque fischio. Il più delle volte così suonano pastiglie consumate fino al metallo: il materiale d’attrito che sfrega il disco è finito, e a raschiare il disco è il supporto in acciaio della pastiglia. Lo spazio di frenata cresce, il disco si rovina a ogni sosta e il meccanismo può bloccarsi.',
+      'Ci sono varianti meno drammatiche. Un parapolvere del disco piegato o un sassolino incastrato tra parapolvere e disco producono uno stridore molto simile, ma non danneggiano i freni. E un breve raschiare nelle prime frenate dopo una notte all’aperto o dopo la pioggia è solo la patina di ruggine, che le pastiglie tolgono in un paio di minuti. Il guaio è che all’orecchio questi scenari si confondono facilmente, perciò uno stridore costante richiede un controllo e non congetture.',
+    ],
+    causes: [
+      { name: 'Pastiglie consumate fino al metallo', likelihood: 'Il più delle volte — se stride a ogni frenata' },
+      { name: 'Un sassolino o il parapolvere piegato che tocca il disco', likelihood: 'Frequente; il suono è simile, ma non danneggia i freni' },
+      { name: 'Pinza che si blocca', likelihood: 'Se la ruota si scalda e l’auto tira da un lato' },
+      { name: 'Patina di ruggine dopo la sosta o la pioggia', likelihood: 'Se il suono sparisce nelle prime frenate' },
+    ],
+    canRide: [
+      'Con lo stridore metallo contro metallo bisogna interrompere i viaggi ordinari: è ammesso solo un tragitto prudente fino all’officina, con distanze abbondanti e frenate dolci e anticipate. Rimandare la sostituzione non conviene nemmeno economicamente: ogni chilometro passato a stridere aggiunge al conto il prezzo dei dischi, che il supporto in acciaio della pastiglia letteralmente asporta.',
+      'Se lo stridore è comparso dopo la sosta ed è sparito nelle prime frenate, guida senza limitazioni: è ruggine. Se il suono somiglia più a un raschiare, si sente anche senza premere il pedale e la ruota non si scalda dopo il viaggio, sono probabili il parapolvere o un sassolino: puoi arrivare tranquillo, ma fai vedere l’auto entro un giorno o due — solo un controllo separa con certezza il caso innocuo da pastiglie finite.',
+    ],
+    checks: [
+      'Cercare la regolarità: suono solo premendo il freno indica le pastiglie; un raschiare continuo in marcia, piuttosto il parapolvere, un sassolino o una pinza bloccata.',
+      'Guardare tra le razze del cerchio: su molte auto la pastiglia esterna è visibile senza smontare. Materiale d’attrito sotto i 3–4 mm, o metallo lucido al suo posto, significa sostituzione immediata.',
+      'Dopo un breve tragitto, avvicinare la mano alle ruote senza toccare il disco: se una ruota è nettamente più calda delle altre, somiglia a una pinza bloccata — il componente che preme le pastiglie sul disco.',
+      'Osservare il comportamento dell’auto: tirare da un lato in frenata o odore di bruciato da una ruota sono segni con cui non si guida — solo con prudenza fino all’officina.',
+      'Esaminare il disco attraverso il cerchio: solchi profondi e una tinta bluastra del metallo dicono che lo stridore dura da tempo e i dischi hanno già sofferto.',
+    ],
+    appHelp:
+      'L’app Stuk percorre le stesse domande — lo stridore è costante, la ruota si scalda, il suono sparisce dopo le prime frenate — e con la registrazione aiuta a distinguere lo stridore dallo stridio dell’indicatore di usura. Nel rapporto trovi cause probabili e un semaforo: puoi guidare, mostralo questa settimana o vai solo fino all’officina.',
+    faq: [
+      {
+        q: 'Che differenza c’è tra stridore e fischio dei freni?',
+        a: 'Il fischio è un suono acuto mentre i freni lavorano ancora pienamente: quasi sempre è l’indicatore di usura, che avvisa in anticipo. Lo stridore è un rumore ruvido e grave di metallo contro metallo: il materiale d’attrito è finito e il supporto in acciaio sfrega il disco. Il fischio è un appuntamento questa settimana; lo stridore, la fine dei viaggi ordinari.',
+      },
+      {
+        q: 'Basta sostituire solo le pastiglie se c’è già stato stridore?',
+        a: 'Dipende dallo stato dei dischi: anche guidare poco «sul metallo» lascia solchi. Quelli superficiali a volte si rettificano, quelli profondi impongono dischi nuovi. Pastiglie nuove su un disco solcato frenano peggio e si consumano in fretta, quindi la decisione si prende dopo il controllo.',
+      },
+      {
+        q: 'Lo stridore va e viene — anche questo è pericoloso?',
+        a: 'Uno stridore intermittente viene spesso da un sassolino tra parapolvere e disco, e può cadere da solo. Non conviene contarci: lo stesso suono intermittente compare nella fase iniziale del consumo delle pastiglie fino al metallo. Un controllo entro un giorno o due chiarisce la faccenda.',
+      },
+    ],
+  },
+
+  'stuk-pri-razgone': {
+    h1: 'Colpo in accelerazione',
+    metaTitle: 'Colpo dando e rilasciando gas: cause e cosa fare | Stuk',
+    description:
+      'Perché batte premendo o rilasciando l’acceleratore: supporti motore, giunto omocinetico, gioco nella trasmissione o cambio automatico. Come distinguere un gioco innocuo da un colpo dentro il motore.',
+    intro: [
+      'Un colpo che compare esattamente nel momento in cui si preme o si rilascia l’acceleratore nasce quasi sempre non nel motore, ma nella catena che porta la coppia alle ruote. Con gli anni nei suoi componenti si accumula gioco: i supporti in gomma del motore cedono e gli permettono di scuotersi al cambio di carico, il giunto omocinetico interno si consuma (lo snodo del semiasse che va dal cambio alla ruota), le crociere dell’albero di trasmissione e i fissaggi del telaietto si allentano. Ogni volta che la coppia cambia direzione, il gioco si recupera con un urto — da qui il colpo o lo sferragliare isolato.',
+      'Storia a parte è il cambio automatico: uno strappo con sferragliare passando il selettore tra D e R, o durante i cambi marcia, di solito indica olio vecchio o usura. E un caso del tutto diverso è un colpo sordo dal profondo del motore, che accelera con i giri e diventa più forte sotto carico: così battono le bronzine dell’albero motore. È raro, ma è la variante più seria, ed è importante non lasciarsela sfuggire.',
+    ],
+    causes: [
+      { name: 'Supporti motore o giunto omocinetico interno', likelihood: 'Il più delle volte — colpo isolato dando e rilasciando gas' },
+      { name: 'Gioco nella trasmissione: crociere, fissaggi del telaietto', likelihood: 'Frequente su trazione posteriore e integrale — sferragliare sotto il pianale in partenza' },
+      { name: 'Cambio automatico: olio vecchio o usura', likelihood: 'Se strappo e sferragliare coincidono con i cambi marcia' },
+      { name: 'Colpo di bronzine dal profondo del motore', likelihood: 'Raro — accelera con i giri, più forte sotto carico' },
+    ],
+    canRide: [
+      'Con la maggior parte delle cause della tabella si può guidare: il gioco nei supporti, negli snodi o nella trasmissione non blocca l’auto all’improvviso finché il colpo resta isolato e discreto. Ma rimandare la diagnosi di mesi non è saggio: una crociera rovinata o un giunto omocinetico consumato prima o poi si distruggono, e succede in marcia. Tempo ragionevole per l’officina: una o due settimane; fino ad allora, parti e usa l’acceleratore con più dolcezza.',
+      'L’eccezione è il colpo dal profondo del motore, che accelera dando gas e cresce sotto carico. Con esso vanno interrotti i viaggi ordinari: bronzine usurate possono finire con un motore grippato. Per prima cosa controlla il livello dell’olio; poi carro attrezzi — oppure, se l’officina è vicinissima, piano e senza dare gas.',
+    ],
+    checks: [
+      'Precisare il momento: un colpo esattamente dando e rilasciando gas, e non sulle buche, parla della trasmissione della coppia e non della sospensione. Questo dettaglio accorcia subito la ricerca del meccanico.',
+      'Controllare il livello dell’olio motore con l’astina. Davanti a qualunque colpo che suoni di motore, è il primo passo: con livello basso soffrono per prime le bronzine.',
+      'Se sferraglia ai cambi marcia, controllare livello e stato dell’olio del cambio automatico: un fluido scuro con odore di bruciato è causa frequente di strappi, e a volte la sostituzione risolve.',
+      'Ascoltare da dove viene il suono — da sotto il cofano, dal centro del pianale o dal lato di una ruota — e se si ripete cambiando marcia. Vale la pena annotare queste osservazioni per l’officina.',
+      'Fare la prova dolce: se con pressione e rilascio dolci dell’acceleratore il colpo sparisce e con un gesto brusco ritorna, è gioco classico, e fino alla riparazione basta una guida morbida.',
+    ],
+    appHelp:
+      'L’app Stuk pone le stesse domande di precisione — quando esattamente batte, se il suono cambia con giri e marce — e con la registrazione aiuta a separare lo sferragliare di un gioco da un colpo profondo del motore. Nel rapporto trovi cause probabili con percentuali e una conclusione chiara: puoi guidare, pianifica l’officina o fermati.',
+    faq: [
+      {
+        q: 'Perché batte proprio dando e rilasciando gas?',
+        a: 'Al cambio di carico la coppia inverte direzione, e tutti i giochi dei supporti motore, degli snodi e della trasmissione si recuperano con un urto. Finché l’auto viaggia a velocità costante i componenti restano a contatto e il gioco non si tradisce — per questo il colpo si sente solo lavorando con l’acceleratore.',
+      },
+      {
+        q: 'Come capire che a battere è il motore stesso e che è grave?',
+        a: 'Il segnale d’allarme è un colpo sordo dal profondo del motore che accelera con i giri e cresce sotto carico, per esempio in salita. Così battono le bronzine dell’albero motore. In questo caso interrompi i viaggi, controlla il livello dell’olio e porta l’auto in officina con il carro attrezzi.',
+      },
+      {
+        q: 'Il cambio automatico può causare colpi in accelerazione?',
+        a: 'Sì. Uno strappo o uno sferragliare nel momento di un cambio marcia, o passando il selettore tra D e R, è segno tipico di olio vecchio o di usura del cambio. Comincia dal controllo di livello e stato dell’olio; fino alla riparazione, sposta il selettore solo ad auto completamente ferma e con il freno premuto.',
+      },
+    ],
+  },
+
+  'zvon-pri-razgone': {
+    h1: 'Tintinnio in accelerazione',
+    metaTitle: 'Tintinnio in accelerazione: detonazione o no, che fare | Stuk',
+    description:
+      'Un tintinnio metallico in accelerazione è quasi sempre detonazione dovuta al carburante. Come verificarlo cambiando distributore e quando la colpa non è del motore ma dello schermo termico o del catalizzatore.',
+    intro: [
+      'Il tintinnio metallico in accelerazione — quello che gli automobilisti chiamano «battito in testa» — risulta quasi sempre essere detonazione. Una parte del carburante nei cilindri non brucia in modo regolare, ma esplode, e l’onda d’urto risuona metallica contro le pareti del motore. Si sente meglio sotto carico: in salita, nel sorpasso, accelerando da bassi regimi con una marcia alta. La causa più comune è prosaica — benzina con numero di ottano inferiore a quello raccomandato dal costruttore, o semplicemente un pieno sfortunato.',
+      'A tintinnare può non essere il motore. Uno schermo termico allentato — la lamiera sopra lo scarico — vibra a certi regimi, e la ceramica sbriciolata del catalizzatore frusciando tintinna da sotto il pianale. La differenza sta in ciò che segue: la detonazione dipende dal carico e sparisce guidando dolcemente, mentre lo schermo tintinna ai «suoi» regimi anche ad auto ferma, dando gas.',
+    ],
+    causes: [
+      { name: 'Detonazione: carburante con numero di ottano basso', likelihood: 'Il più delle volte — tintinnio sotto carico, soprattutto in salita' },
+      { name: 'Depositi carboniosi nelle camere o il sensore di detonazione', likelihood: 'Se cambiare distributore non ha aiutato' },
+      { name: 'Schermo termico dell’impianto di scarico', likelihood: 'Frequente — sferragliare a certi regimi, senza legame con il carico' },
+      { name: 'Catalizzatore distrutto', likelihood: 'Più raro — tintinnio e fruscio da sotto il pianale, potenza in calo' },
+    ],
+    canRide: [
+      'Con episodi rari di tintinnio puoi arrivare, ma senza caricare il motore: accelera dolcemente, affronta le salite con una marcia più corta, non tirare da bassi regimi con marcia alta. Il primo passo è fare il pieno con carburante di numero di ottano non inferiore a quello raccomandato, meglio in un’altra catena di distributori: spesso il tintinnio se ne va con un solo pieno.',
+      'Una detonazione costante sono colpi sui pistoni a ogni accelerazione, e distrugge progressivamente il motore: soffrono pistoni, fasce e guarnizione della testata. Se dopo il cambio di carburante il tintinnio non se n’è andato, non rimandare la diagnosi. Lo sferragliare dello schermo, al contrario, è una seccatura puramente acustica: con esso si guida senza limitazioni e la lamiera si fissa alla prossima visita in officina.',
+    ],
+    checks: [
+      'Fare un pieno completo con numero di ottano non inferiore a quello raccomandato, in un altro distributore. Se in uno o due pieni il tintinnio sparisce, la causa era il carburante.',
+      'Verificare il legame con il carico: un tintinnio che compare in salita, nel sorpasso e con gas deciso, ma si attenua in accelerazione dolce, è la firma della detonazione.',
+      'Dare gas in folle ad auto ferma: se il tintinnio o lo sferragliare compare a certi regimi anche senza carico, è più probabile lo schermo termico.',
+      'Controllare sul libretto o sullo sportello del serbatoio quale benzina è raccomandata: per molti motori un numero di ottano basso non va più bene, anche se formalmente ammesso.',
+      'Fare attenzione alla potenza e ai rumori sotto il pianale: fruscio e tintinnio dal basso insieme a un’accelerazione più fiacca sono un motivo per controllare il catalizzatore senza rinvii.',
+    ],
+    appHelp:
+      'L’app Stuk aiuta con le stesse domande — quando tintinna, se il suono segue il carico o i giri — e la registrazione permette di distinguere il tintinnio metallico della detonazione dallo sferragliare di una lamiera. Nel rapporto trovi cause probabili con percentuali e una conclusione: puoi guidare, conviene pianificare l’officina o meglio fermarsi.',
+    faq: [
+      {
+        q: 'Che cosa significa «battito in testa»?',
+        a: 'È il vecchio nome del tintinnio della detonazione; un tempo lo si attribuiva agli spinotti dei pistoni. In realtà non sono loro a tintinnare: il suono nasce dall’onda d’urto di una combustione esplosiva riflessa dalle pareti dei cilindri. Il nome è rimasto, ma la causa è sempre la stessa: detonazione, non componenti del pistone usurati.',
+      },
+      {
+        q: 'Si può guidare con la detonazione?',
+        a: 'Per poco e con riguardo: accelerazione dolce, marcia più corta in salita, senza pieno carico né rimorchio. Ogni episodio sono colpi sui pistoni, e una detonazione costante finisce in una riparazione costosa del motore. Se il cambio di carburante non ha tolto il tintinnio in uno o due pieni, serve una diagnosi.',
+      },
+      {
+        q: 'Una benzina con numero di ottano più alto aiuta?',
+        a: 'La regola principale è non fare mai il pieno al di sotto di quanto raccomanda il costruttore. Il numero di ottano indica la resistenza del carburante all’autoaccensione, quindi passare a una qualità superiore su un motore incline alla detonazione spesso elimina il tintinnio. Se nemmeno così basta, la causa — depositi o sensore di detonazione — si cerca in officina.',
+      },
+    ],
+  },
 };
