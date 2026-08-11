@@ -563,5 +563,86 @@
   ],
   "explanation": "Gelijkmatig sissen onder de motorkap, als lucht uit een lekke band, betekent dat er ongemeten lucht wordt aangezogen via een gescheurde slang of een inlaatpakking. De motor loopt daardoor vaak onregelmatig: het stationair toerental schommelt en soms brandt het motorstoringslampje.",
   "advice": "Maak binnen een paar dagen een afspraak, zeker als het toerental schommelt: zoeken naar valse lucht is standaardwerk. Zelf kun je de dunne rubberslangen onder de motorkap op scheurtjes bekijken zonder iets te demonteren."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Koelventilator (bussen of blijft continu draaien)",
+  "alt_causes": [
+   "Temperatuursensor of thermostaat",
+   "Viscokoppeling (bij achterwielaandrijving)"
+  ],
+  "explanation": "Brommen of geloei dat vanzelf aan- en uitschakelt — bij warm weer, in de file, met de airco aan — is de koelventilator van de radiateur. Een luide ventilator betekent versleten bussen in het motortje, of hij draait continu door een sensor of de thermostaat. Dat hij na het afzetten nog een paar minuten doordraait, is normaal.",
+  "advice": "Loeit de ventilator meteen na het starten bij een koude motor onafgebroken, ga dan binnen een paar dagen langs voor diagnose: het koelsysteem werkt dan niet goed. Houd de temperatuurmeter in de gaten; loopt die op — stop en zet de motor uit."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Elektrische brandstofpomp",
+  "alt_causes": [
+   "Verstopt brandstoffilter",
+   "Zeeffilter van de pomp"
+  ],
+  "explanation": "Gelijkmatig zoemen of janken van achteren, onder de achterbank of bij de tank, is de brandstofpomp. Hem een paar seconden horen als het contact aangaat is normaal, maar hard janken dat je ook tijdens het rijden hoort, wijst op een versleten pomp of een verstopt filter waardoor hij zwaar moet werken.",
+  "advice": "Laat binnen een of twee weken de brandstofdruk meten. Rijd niet lang met de tank bijna leeg: onderin koelt de pomp slechter en slijt hij sneller. Gaat de auto haperen onder belasting of slecht starten, ga dan eerder."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Kapotte katalysator",
+  "alt_causes": [
+   "Hitteschild",
+   "Uitlaatbevestigingen"
+  ],
+  "explanation": "Helder rammelen of ruisen onder de auto, dichter bij de motor, dat erger wordt als je gas geeft en samengaat met minder trekkracht of een veranderde uitlaatgeur, is verbrokkeld keramiek in de katalysator. De brokjes rammelen in het huis en de dichtgeslibde cellen verstikken de motor.",
+  "advice": "Ga binnen een paar dagen langs voor diagnose: keramiekbrokjes kunnen de motor in worden gezogen, en dat is een dure reparatie. Simpele controle in de garage: zachtjes op de koude katalysator tikken — je hoort de brokjes rammelen. Stel dit niet uit."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Automaat: oude olie, slijtage of speling in de aandrijflijn",
+  "alt_causes": [
+   "Motor- en bakmomentsteunen",
+   "Kruiskoppelingen van de cardanas (bij achterwielaandrijving)"
+  ],
+  "explanation": "Een schok of klap precies bij het wisselen van D naar R of bij het schakelen wijst op slijtage of oude olie in de automaat: de versnelling grijpt met een klap aan en speling in de aandrijflijn versterkt dat. Doorgezakte momentsteunen klappen op dezelfde manier, dus de diagnose is het bevestigen waard.",
+  "advice": "Laat eerst het peil en de staat van de automaatolie controleren (donker en met brandlucht betekent verversen) — in veel gevallen is dat genoeg. Maak binnen een of twee weken een afspraak en vertel bij welke schakelmomenten het precies schokt. Zet de keuzehendel tot die tijd alleen om bij volledig stilstaande auto met de rem in."
+ },
+ "leaf_synchro": {
+  "top_cause": "Synchromeshringen van de bak of een koppeling die niet volledig loskomt",
+  "alt_causes": [
+   "Vrije slag van het koppelingspedaal",
+   "Slijtage van de koppeling"
+  ],
+  "explanation": "Knarsen op het moment dat je een versnelling inschakelt bij een handbak betekent dat de tandwielen elkaar op verschillende snelheden ontmoeten. Knarst één of twee bepaalde versnellingen (vaak de tweede of derde), dan zijn hun synchromeshringen versleten; knarsen ze allemaal, dan komt de koppeling niet volledig los en blijft de bak meedraaien.",
+  "advice": "Laat de vrije slag van het koppelingspedaal en het oliepeil van de bak controleren — daar begint de garage ook mee. Maak binnen twee weken een afspraak. Schakel tot die tijd rustiger, met een korte pauze in zijn vrij: dan knarst het minder en slijt het minder."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Koppeling: slijtage of olie op de plaat",
+  "alt_causes": [
+   "Motorsteunen",
+   "Tweemassavliegwiel"
+  ],
+  "explanation": "Schudden precies tijdens het wegrijden, terwijl je de koppeling laat opkomen, waarna de auto bij volledig aangrijpen weer rustig loopt, betekent dat de koppeling schoksgewijs pakt: de plaat is versleten, vervuild met olie of het drukgroep is kromgetrokken. Motorsteunen laten de auto ook stationair trillen; dit leeft alleen in de fase van wegrijden.",
+  "advice": "Maak binnen een of twee weken een afspraak: schudden bij het wegrijden gaat niet vanzelf over en wordt meestal erger. Rijd tot die tijd rustig weg, met iets meer toeren, en laat de koppeling niet slippen. Ruik je een brandlucht, dan brandt de koppeling weg — stel het bezoek niet uit."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Kruiskoppelingen van de cardanas of speling in de aandrijflijn",
+  "alt_causes": [
+   "Rubbers en bouten van het subframe",
+   "Kroonwiel en pignon van het differentieel"
+  ],
+  "explanation": "Eén losse klap of klik van onder het midden of de achterkant van de auto op het moment van wegrijden en bij het wisselen van gas geven naar loslaten, is speling in de krachtoverbrenging: meestal versleten kruiskoppelingen van de cardanas (achterwiel- en vierwielaandrijving) of losgeraakte subframebevestigingen.",
+  "advice": "Maak binnen een of twee weken een afspraak: op de brug vindt de monteur de speling in de cardanas in een minuut door er met de hand aan te wrikken. Uitstellen is onverstandig — een uitgesleten kruiskoppeling kan bij snelheid bezwijken. Rijd tot die tijd rustiger weg en laat het gas geleidelijker los."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Slippende koppeling",
+  "alt_causes": [
+   "Olie op de koppelingsplaat",
+   "Slippende automaat of CVT"
+  ],
+  "explanation": "Als het toerental bij gas geven oploopt, de motor loeit maar de auto nauwelijks versnelt, slipt de koppeling en brengt geen kracht over: de plaat is versleten of vervuild met olie. Bergop en in de hoogste versnelling valt het het meest op; vaak komt er een scherpe brandlucht bij. Bij een automaat slipt een versleten bak op dezelfde manier.",
+  "advice": "Deze week naar de garage: een slippende koppeling slipt door tot je helemaal geen kracht meer overhoudt, meestal op het slechtst denkbare moment. Rijd tot die tijd rustig, zonder inhalen of aanhanger, en ga bergop tijdig terug in de versnellingen. Wordt de brandlucht sterker, stel het bezoek dan geen dag uit."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbo of lekkage in de drukleidingen",
+  "alt_causes": [
+   "Intercoolerslang",
+   "Lager van de turbo-as"
+  ],
+  "explanation": "Een licht, gelijkmatig turbofluitje onder belasting is normaal bij een turbomotor. Let op verandering: het fluiten wordt harder of van toon, er komt janken bij, de trekkracht zakt. Dat is óf luchtlekkage in de drukleidingen, óf slijtage van het lager van de turbo-as.",
+  "advice": "Is de toon veranderd of de trekkracht gezakt, ga dan binnen een paar dagen langs voor diagnose: een lekke slang is goedkoop verholpen, maar uitgestelde turboslijtage eindigt met een nieuwe turbo. Houd het olieverbruik in de gaten. Jaag de motor tot die tijd niet in de begrenzer en laat de turbo na stevig rijden een minuut of twee stationair afkoelen."
  }
 }
