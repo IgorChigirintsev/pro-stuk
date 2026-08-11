@@ -536,4 +536,184 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-pri-povorote': {
+    h1: 'Ronzio in curva',
+    metaTitle: 'Ronzio in curva: cuscinetto ruota o servosterzo | Stuk',
+    description:
+      'Da dove viene il ronzio in curva: cuscinetto ruota usurato, pompa del servosterzo che ulula o rumore delle gomme. Come capire il lato e se è pericoloso.',
+    intro: [
+      'Nel ronzio in curva vanno separati subito due scenari: un ronzio a velocità che in una curva cresce e nell’altra cala, e un ululato che compare girando il volante da fermi o in manovra. Suonano simili, ma le fonti sono del tutto diverse: nel primo caso la ruota, nel secondo il servosterzo.',
+      'Un ronzio a velocità che dipende dal senso della curva è la firma classica del cuscinetto ruota — il supporto su cui la ruota gira. In curva il peso dell’auto passa sulle ruote esterne, e un cuscinetto usurato e caricato ronza più forte. L’ululato girando il volante a bassa velocità viene di solito dalla pompa del servosterzo, di regola per un livello basso del fluido. E sulle auto con servosterzo elettrico un leggero ronzio girando il volante è normale, non un guasto.',
+    ],
+    causes: [
+      { name: 'Cuscinetto ruota', likelihood: 'Il più delle volte — se il ronzio arriva con la velocità e cambia in curva' },
+      { name: 'Pompa del servosterzo o livello basso del fluido', likelihood: 'Frequente — se ulula girando il volante da fermi' },
+      { name: 'Rumore delle gomme', likelihood: 'Frequente; il ronzio dipende dal fondo, non dalla curva' },
+      { name: 'Ronzio normale del servosterzo elettrico', likelihood: 'Normale sulle auto senza serbatoio del fluido dello sterzo' },
+      { name: 'Giunto omocinetico usurato', likelihood: 'Più raro; di solito aggiunge scatti a sterzo tutto girato' },
+    ],
+    canRide: [
+      'Con un cuscinetto che ronza si può guidare, ma è un credito a breve termine: non rimandare il controllo oltre una settimana e sposta i viaggi lunghi ad alta velocità a dopo. Un cuscinetto che si sta distruggendo dà gioco alla ruota e, in un caso trascurato, può bloccarsi. Se il ronzio è cresciuto di colpo o si è aggiunta una vibrazione — in officina subito.',
+      'Con la pompa del servosterzo che ulula, la prima cosa è controllare il livello del fluido nel serbatoio: il rabbocco spesso chiude la questione. Si può guidare, ma non tenere il volante a fondo corsa più di un paio di secondi — in quella posizione la pompa lavora alla pressione massima. Se dopo il rabbocco l’ululato resta o il livello cala di nuovo, c’è una perdita — officina entro la settimana.',
+    ],
+    checks: [
+      'Ricordare in quale senso di curva il ronzio è più forte. Più forte girando a sinistra significa che si carica il lato destro, quindi è probabile il cuscinetto destro; e viceversa. Questo dettaglio accorcia molto la ricerca in officina.',
+      'Verificare il suono da fermi: se l’ululato compare girando il volante nel parcheggio, le ruote non c’entrano — la fonte è il servosterzo.',
+      'Guardare sotto il cofano se c’è un serbatoio del fluido dello sterzo. Se c’è, controllare il livello e rabboccare fino al segno se serve; se non c’è, il servosterzo è elettrico, e un ronzio basso e regolare per esso è normale.',
+      'Valutare la dipendenza dal fondo: un ronzio più discreto su asfalto nuovo e più forte su fondo ruvido di solito viene dalle gomme, non dal cuscinetto.',
+      'Guardare il battistrada: l’usura «a sega» (gradini sui bordi) o a chiazze aumenta il ronzio delle gomme e insieme suggerisce assetto sballato o ammortizzatori stanchi.',
+    ],
+    appHelp:
+      'L’app Stuk pone le stesse domande del meccanico all’accettazione: dove si sente il ronzio, se cambia in curva, se è legato al volante girato da fermi. La registrazione aiuta a confrontare il suono con esempi tipici, e nel rapporto trovi cause probabili e una raccomandazione chiara: viaggia tranquillo, fissa un appuntamento questa settimana o fai controllare senza rinvii.',
+    faq: [
+      {
+        q: 'Perché il ronzio cresce solo in un senso di curva?',
+        a: 'In curva il peso dell’auto passa sulle ruote esterne. Se è usurato, per esempio, il cuscinetto destro, sotto carico ronza più forte — cioè girando a sinistra. Questa proprietà permette di capire, prima ancora dell’officina, quale lato controllare per primo.',
+      },
+      {
+        q: 'Si può rabboccare il servosterzo con un fluido qualsiasi?',
+        a: 'No. Il tipo di fluido è indicato nel libretto dell’auto e spesso sul tappo stesso del serbatoio. Un rabbocco occasionale con il fluido giusto è sicuro, ma se il livello cala con regolarità c’è una perdita da qualche parte: trovarla e ripararla spetta all’officina, il rabbocco non risolve.',
+      },
+      {
+        q: 'Sotto il cofano non c’è il serbatoio dello sterzo eppure ronza in curva — che cos’è?',
+        a: 'Molto probabilmente il servosterzo è elettrico: il suo motore ronza piano girando il volante, ed è funzionamento normale. Devono allarmare altri segnali: lo sterzo è diventato duro o si indurisce a scatti, è comparso un raschiare, o è accesa la spia dello sterzo. Con questi, officina nei prossimi giorni.',
+      },
+    ],
+  },
+
+  'shchelchki-pri-povorote-rulya': {
+    h1: 'Scatti girando il volante',
+    metaTitle: 'Scatti al volante: giunto omocinetico o cuscinetto | Stuk',
+    description:
+      'Perché scatta girando il volante: giunto omocinetico esterno, cuscinetto reggispinta dell’ammortizzatore o giunto del piantone. Come distinguerli dal suono e cosa controllare senza smontare.',
+    intro: [
+      'Gli scatti girando il volante si distinguono con una domanda semplice: in quel momento l’auto è in movimento o ferma? Un crepitio con scatti guidando a sterzo girato è la firma del giunto omocinetico esterno, lo snodo attraverso cui la rotazione arriva alla ruota che al tempo stesso sterza. Più lo sterzo è girato e più brusca è la partenza, più netto è il crepitio. Tutto inizia di solito con una cuffia rotta: la protezione in gomma che tiene lo sporco fuori dallo snodo.',
+      'Se invece gli scatti si sentono girando il volante ad auto ferma, il giunto di solito non c’entra. Uno scricchiolio dall’alto, dal passaruota, viene dal cuscinetto reggispinta dell’ammortizzatore — il componente su cui la parte alta del montante ruota insieme alla ruota. Scatti nel volante stesso, all’altezza dei piedi del guidatore, sono il giunto del piantone, la piccola crociera tra volante e scatola dello sterzo. Nessuna di queste opzioni obbliga a lasciare l’auto dov’è, ma nessuna va trascinata per mesi.',
+    ],
+    causes: [
+      { name: 'Giunto omocinetico esterno', likelihood: 'Il più delle volte — se crepita in marcia a sterzo girato' },
+      { name: 'Cuscinetto reggispinta dell’ammortizzatore', likelihood: 'Frequente — se scricchiola da fermi, dall’alto del passaruota' },
+      { name: 'Giunto del piantone dello sterzo', likelihood: 'Se gli scatti si sentono e si avvertono nel volante stesso' },
+      { name: 'Testine dello sterzo o la scatola', likelihood: 'Più raro; di solito danno colpi, non scatti' },
+      { name: 'Giunto omocinetico interno, tiranti della barra', likelihood: 'Più raro; si controllano nella stessa diagnosi' },
+    ],
+    canRide: [
+      'Con un giunto omocinetico che crepita si può guidare, ma non rimandare la sostituzione oltre una o due settimane: uno snodo usurato nel peggiore dei casi si blocca, e allora non è più un suono ma un’auto ferma. Fino alla riparazione aiuta un regime di riguardo — non partire di scatto con le ruote a fondo corsa.',
+      'Cuscinetto reggispinta e giunto del piantone danno più fastidio che pericolo immediato, ma lo sterzo è un organo di sicurezza, quindi fai la diagnosi nei prossimi giorni: sul ponte richiede pochi minuti. Motivi per accelerare: il volante è diventato «vuoto» al centro, l’auto vaga nella corsia o gli scatti sono diventati molto più frequenti.',
+    ],
+    checks: [
+      'Separare gli scenari in un parcheggio vuoto: il crepitio compare guidando in cerchio a sterzo girato — oppure gli scatti si sentono girando il volante ad auto ferma?',
+      'Esaminare le cuffie dei giunti omocinetici — le protezioni in gomma a soffietto sul lato interno di ogni ruota anteriore. Uno strappo con il grasso schizzato intorno è una diagnosi quasi confermata.',
+      'Chiedere a qualcuno di girare il volante a motore spento e appoggiare il palmo sulla torretta dell’ammortizzatore sotto il cofano: gli scatti di un cuscinetto usurato si sentono con la mano.',
+      'Muovere il volante a destra e sinistra a motore spento e ascoltare all’altezza dei piedi: uno scatto netto nel piantone tradisce il giunto.',
+      'Ricordare da quale ruota arriva il crepitio in marcia e in quale curva è più forte — questi dettagli accorciano molto la ricerca in officina.',
+    ],
+    appHelp:
+      'Nell’app Stuk questi bivi sono raccolti in un breve albero di domande: l’auto è in marcia o ferma, da dove viene il suono, in che stato sono le cuffie. Il crepitio si può registrare con il telefono e confrontarlo con esempi. Nel rapporto trovi cause probabili con la loro valutazione e una raccomandazione sui tempi: senza allarmismi, ma senza scatti dimenticati per un mese.',
+    faq: [
+      {
+        q: 'Che cos’è il giunto omocinetico e perché scatta?',
+        a: 'È lo snodo che trasmette la rotazione a una ruota che allo stesso tempo sterza. Quando lo sporco entra da una cuffia rotta, le sfere e le piste dello snodo si consumano, e sotto carico a sterzo girato inizia a crepitare in modo netto.',
+      },
+      {
+        q: 'Per quanto si può guidare con un giunto omocinetico che scatta?',
+        a: 'Non c’è una durata esatta: in alcuni lo snodo regge mesi, in altri si esaurisce in un paio di settimane. Riferimento ragionevole: non rimandare la sostituzione oltre una o due settimane e, fino alla riparazione, non partire di scatto a ruote girate — così il carico sullo snodo è minimo.',
+      },
+      {
+        q: 'Perché scricchiola girando il volante ad auto ferma?',
+        a: 'Ad auto ferma la ruota non gira e il giunto omocinetico non lavora. Uno scricchiolio sul posto viene di solito dal cuscinetto reggispinta dell’ammortizzatore — il suono arriva dall’alto, dal passaruota — o dal giunto del piantone, se lo scatto è nel volante stesso. Entrambi si controllano in officina in pochi minuti.',
+      },
+    ],
+  },
+
+  'stuk-v-dvigatele-na-holodnuyu': {
+    h1: 'Battito del motore a freddo',
+    metaTitle: 'Il motore batte a freddo: cause e cosa fare | Stuk',
+    description:
+      'Perché il motore batte a freddo e tace dopo il riscaldamento: punterie idrauliche, gruppo pistoni, catena di distribuzione. Quando è normale e quando è ora dell’officina.',
+    intro: [
+      'Un battito che si sente solo nei primi minuti dopo l’avviamento a freddo e sparisce man mano che il motore si scalda è una delle lamentele più frequenti sulle auto con chilometri. Buona notizia: qui la causa più diffusa è anche la più innocua. Un ticchettio frequente in alto sul motore viene di solito dalle punterie idrauliche — piccoli componenti che, grazie alla pressione dell’olio, eliminano il gioco in eccesso nella distribuzione. Finché il motore è freddo l’olio è denso e non le raggiunge subito, perciò ticchettano un paio di minuti. Scaldato — silenzio.',
+      'Il carattere del suono dice molto. Un battito sordo dal profondo indica più spesso l’usura del gruppo pistoni: a freddo il pistone ha un po’ più di libertà nel cilindro e batte finché il calore non lo dilata. Un fruscio o un raschiare davanti è la firma di una catena di distribuzione allungata — la catena interna che fa aprire le valvole al momento giusto — o del suo tenditore indebolito. E un ticchettio più forte all’esterno che in abitacolo, per giunta con odore di scarico sotto il cofano, è segno di una guarnizione del collettore bruciata: i gas escono dalla fessura finché il metallo non si dilata e la chiude.',
+    ],
+    causes: [
+      { name: 'Punterie idrauliche: olio freddo e denso', likelihood: 'Il più delle volte — se ticchetta in alto e tace in un paio di minuti' },
+      { name: 'Usura del gruppo pistoni', likelihood: 'Frequente ad alto chilometraggio — battito sordo dal profondo' },
+      { name: 'Catena di distribuzione o il suo tenditore', likelihood: 'Frequente — se davanti c’è un fruscio o un raschiare' },
+      { name: 'Guarnizione o crepa del collettore di scarico', likelihood: 'Se il ticchettio è più forte fuori e c’è odore di scarico' },
+      { name: 'Cinghia dei servizi che slitta', likelihood: 'Se è uno stridio o un fischio e non un battito' },
+    ],
+    canRide: [
+      'Con il ticchettio delle punterie, che sparisce del tutto dopo il riscaldamento, si guida senza limitazioni — è la vita ordinaria di un motore con chilometri. Lo stesso vale per lo stridio della cinghia nei primi secondi dopo l’avviamento: fastidioso, ma non pericoloso. In entrambi i casi basta controllare livello ed età dell’olio e mostrare l’auto al meccanico alla prossima visita programmata.',
+      'Il battito sordo del gruppo pistoni è materia di osservazione: si può guidare, ma tieni d’occhio il consumo d’olio e parlane al meccanico alla prossima visita. Con il fruscio della catena non si può tirare: diagnosi entro una o due settimane, perché una catena che salta significa una riparazione costosa del motore — e fino ad allora niente partenze brusche a freddo. E un principio generale: se il battito ha smesso di sparire con il riscaldamento o si sente sotto carico, la diagnosi non si rimanda più.',
+    ],
+    checks: [
+      'Cronometrare quanti minuti dura il suono: uno o due e poi silenzio è tipico delle punterie; più a lungo vive il battito, più serve il controllo.',
+      'Controllare con l’astina il livello dell’olio a motore freddo e ricordare quando è stato cambiato: livello basso e olio vecchio amplificano tutti i battiti a freddo.',
+      'Definire il carattere del suono: ticchettio frequente in alto, battito sordo dal profondo o fruscio davanti al motore sono tre storie diverse, con urgenze diverse.',
+      'Aprire il cofano a motore freddo acceso e annusare: odore di scarico insieme al ticchettio indica il collettore.',
+      'Spegnere il motore caldo per dieci minuti e riavviare: un vero battito «a freddo» non torna dopo una sosta così breve.',
+    ],
+    appHelp:
+      'L’app Stuk percorre gli stessi bivi — è ticchettio, battito sordo o fruscio e quanto in fretta il suono sparisce — e la registrazione dal telefono aiuta a cogliere un carattere difficile da descrivere a parole. Nel rapporto trovi cause probabili con percentuali e una conclusione chiara: guida tranquillo, fissa un appuntamento questa settimana o non rimandare l’officina.',
+    faq: [
+      {
+        q: 'Il battito sparisce dopo il riscaldamento — posso ignorarlo?',
+        a: 'Il più delle volte sì: il ticchettio delle punterie a freddo è cosa comune e non richiede riparazioni. Ma vale la pena osservare: se il suono ha iniziato a durare più di un paio di minuti, è rimasto a motore caldo o è comparso sotto carico, è già motivo di diagnosi.',
+      },
+      {
+        q: 'Servono gli additivi «anti-battito»?',
+        a: 'Meglio non versarli: non eliminano l’usura, mascherano il sintomo, e per questo il problema si nota più tardi. Ciò che aiuta davvero è altro: olio fresco della viscosità giusta, livello corretto e, se il battito resta, registrazione o riparazione dal meccanico.',
+      },
+      {
+        q: 'Perché d’inverno batte di più a freddo?',
+        a: 'Col freddo l’olio è più denso e impiega più tempo ad arrivare nella parte alta del motore, perciò punterie e distribuzione ticchettano in modo più marcato, e i giochi dei componenti freddi sono un po’ maggiori. Se dopo il riscaldamento tutto tace, è lo stesso quadro dell’estate, solo dilatato nel tempo.',
+      },
+    ],
+  },
+
+  'svist-pri-zapuske': {
+    h1: 'Fischio all’avviamento del motore',
+    metaTitle: 'Fischio all’avviamento del motore: cause e rimedi | Stuk',
+    description:
+      'Perché il motore fischia all’avviamento: cinghia dei servizi che slitta, rulli o pompa dell’acqua. Quando il fischio è innocuo e quando è ora di fissare l’officina.',
+    intro: [
+      'Uno stridio o un fischio nei primi secondi dopo che il motore è partito viene quasi sempre dalla cinghia dei servizi — la cinghia in gomma che dal motore muove alternatore, pompa dell’acqua e compressore del climatizzatore. A freddo o con tempo umido la cinghia slitta sulle pulegge e fischia, e dopo qualche secondo si scalda, si asciuga e tace.',
+      'In questo momento lo scenario non è pericoloso, ma non va nemmeno considerato normale: una cinghia recente e ben tesa non fischia nemmeno col gelo. Un fischio mattutino regolare indica che la cinghia è invecchiata, che la tensione è calata o che uno dei rulli su cui scorre ha iniziato a consumarsi. Storia a parte sono i rumori dell’avviamento stesso: uno stridore o un ronzio mentre il motorino gira il motore. Lì non è più la cinghia, ma il motorino o la corona del volano — e con quelli non conviene aspettare.',
+    ],
+    causes: [
+      { name: 'Cinghia dei servizi che slitta a freddo', likelihood: 'Il più delle volte — se il fischio sparisce nei primi secondi' },
+      { name: 'Cinghia usurata o tensione calata', likelihood: 'Frequente — se il fischio resta anche a motore caldo' },
+      { name: 'Cuscinetto del rullo tenditore o di rinvio', likelihood: 'Abbastanza frequente — al fischio si aggiunge un fruscio o un ronzio' },
+      { name: 'Pompa dell’acqua, se vicino alla cinghia ci sono tracce di liquido', likelihood: 'Più raro' },
+      { name: 'Stridore mentre gira il motorino: pignone o corona del volano', likelihood: 'Caso a parte — il suono arriva prima che il motore parta' },
+    ],
+    canRide: [
+      'Con un fischio che vive qualche secondo dopo l’avviamento a freddo e poi sparisce del tutto si può guidare: non c’è una minaccia diretta. Vale comunque la pena far vedere la cinghia in officina quando capita — l’esame richiede un paio di minuti, e sostituire cinghia e rullo è tra i lavori economici.',
+      'Se il fischio ha smesso di sparire con il riscaldamento, compare accendendo il climatizzatore o a ogni avviamento dura di più e più forte, fissa l’officina entro la settimana: una cinghia usurata può rompersi, e senza di essa si fermano l’alternatore e, su molti motori, la pompa dell’acqua. Se si accende la spia della batteria o la lancetta della temperatura sale — fermati e spegni il motore.',
+    ],
+    checks: [
+      'Cronometrare la durata del fischio: qualche secondo dopo l’avviamento è slittamento a freddo; un suono che non sparisce con il riscaldamento è usura di cinghia o rulli.',
+      'Cercare il legame con il meteo: fischio solo dopo la pioggia, il lavaggio o col gelo parla di slittamento e non del guasto di un componente preciso.',
+      'Accendere il climatizzatore o lo sbrinatore a motore acceso: se il fischio compare o cresce, la cinghia slitta sotto carico.',
+      'A motore spento, esaminare la cinghia con una torcia: crepe trasversali, bordi sfilacciati e fianchi «lucidati» sono segni di usura.',
+      'Guardare se ci sono gocce o tracce biancastre di liquido di raffreddamento vicino alle pulegge: indicano la pompa dell’acqua, e allora meglio non rimandare l’officina.',
+    ],
+    appHelp:
+      'L’app Stuk pone le stesse domande del meccanico all’accettazione: quando compare il fischio, se sparisce dopo il riscaldamento, cosa si sente mentre lavora il motorino d’avviamento. La registrazione aiuta a distinguere lo stridio della cinghia dallo stridore del motorino, e nel rapporto trovi cause probabili con percentuali e una conclusione chiara: puoi guidare, in officina questa settimana o fermati.',
+    faq: [
+      {
+        q: 'Perché il motore fischia solo a freddo e con l’umidità?',
+        a: 'La gomma fredda e bagnata della cinghia fa meno presa sulle pulegge, perciò nei primi secondi dopo l’avviamento slitta e fischia. Con il riscaldamento l’aderenza torna e il suono sparisce. Una cinghia nuova con un tenditore integro regge anche queste condizioni, quindi un fischio mattutino regolare è motivo di controllo.',
+      },
+      {
+        q: 'Il fischio ora compare anche a motore caldo. È grave?',
+        a: 'È il segno che l’usura ha raggiunto lo stadio in cui la cinghia slitta già in condizioni ordinarie. Per ora si può guidare, ma fissa l’officina entro la settimana: una cinghia rotta ti lascia senza alternatore e, su molte auto, senza pompa dell’acqua, e il viaggio finisce sul carro attrezzi.',
+      },
+      {
+        q: 'Che differenza c’è tra il fischio dopo l’avviamento e lo stridore durante l’avviamento?',
+        a: 'Fischio e stridio compaiono dopo che il motore è già in moto, e la colpa di solito è della cinghia. Lo stridore metallico si sente prima — nei secondi in cui il motorino gira il motore — e indica un cattivo innesto del pignone con la corona del volano. Componenti diversi e riparazione diversa.',
+      },
+    ],
+  },
 };
