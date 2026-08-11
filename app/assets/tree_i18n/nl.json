@@ -74,5 +74,80 @@
    "o3": "Sissen onder het dashboard als je het rempedaal indrukt",
    "o4": "Tikken of piepen op het ritme van de ruitenwissers"
   }
+ },
+ "q_ps_type": {
+  "text": "Zit er onder de motorkap een reservoir met stuurbekrachtigingsolie?",
+  "options": {
+   "o1": "Ja, dat zit er",
+   "o2": "Nee of ik weet het niet"
+  }
+ },
+ "q_steer_click": {
+  "text": "Waar komen de klikken vandaan?",
+  "options": {
+   "o1": "Van boven, achter het wielkast, bij de motorkap",
+   "o2": "Uit het stuur zelf of uit de stuurkolom, bij je voeten"
+  }
+ },
+ "q_engine_cold": {
+  "text": "Hoor je het geluid alleen bij een koude motor, meteen na het starten?",
+  "options": {
+   "o1": "Ja, als de motor warm is verdwijnt het",
+   "o2": "Nee, ook bij een warme motor"
+  }
+ },
+ "q_cold_char": {
+  "text": "Waar lijkt het geluid op bij een koude motor?",
+  "options": {
+   "o1": "Snel tikken of klikken",
+   "o2": "Dof kloppen, verdwijnt als de motor warm is",
+   "o3": "Ruisen of rammelen aan de voorkant van de motor",
+   "o4": "Piepen of fluiten bij het starten"
+  }
+ },
+ "q_tick_cold": {
+  "text": "Is het tikken buiten harder dan binnen en ruik je uitlaatgas onder de motorkap?",
+  "options": {
+   "o1": "Ja, buiten harder en er is een geur",
+   "o2": "Nee, het tikt bovenin de motor en er is geen geur"
+  }
+ },
+ "q_engine_char": {
+  "text": "Waar lijkt het geluid op?",
+  "options": {
+   "o1": "Kloppen of tikken",
+   "o2": "Piepen, fluiten, brommen of sissen",
+   "o3": "Rinkelen, rammelen, knallen of borrelen",
+   "o4": "Trillen, schudden bij stationair draaien"
+  }
+ },
+ "q_engine_knock": {
+  "text": "Wat voor klopgeluid precies?",
+  "options": {
+   "o1": "Licht, snel getik bovenin de motor",
+   "o2": "Dof of hard kloppen diep uit de motor"
+  }
+ },
+ "q_tick_warm": {
+  "text": "Is het tikken met de tijd harder geworden of altijd hetzelfde?",
+  "options": {
+   "o1": "Harder geworden, bij een warme motor duidelijker",
+   "o2": "Altijd hetzelfde, buiten harder dan binnen"
+  }
+ },
+ "q_knock_load": {
+  "text": "Als je rustig gas geeft: wordt het kloppen sneller en harder?",
+  "options": {
+   "o1": "Ja, sneller en harder",
+   "o2": "Verandert nauwelijks of verdwijnt"
+  }
+ },
+ "q_squeal": {
+  "text": "Wat voor geluid is het?",
+  "options": {
+   "o1": "Een schel piepen of fluiten",
+   "o2": "Een gelijkmatig brommen of ruisen",
+   "o3": "Gelijkmatig sissen, als lucht uit een band"
+  }
  }
 }
