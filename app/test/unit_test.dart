@@ -178,7 +178,9 @@ void main() {
 
   // Языки, дерево которых объявлено готовым. Тест держит обещание:
   // ни одного русского поля не осталось ни в вопросах, ни в вердиктах.
-  for (final lang in ['en', 'de', 'es', 'fr', 'pt', 'it', 'pl', 'tr', 'nl']) {
+  for (final lang in [
+    'en', 'de', 'es', 'fr', 'pt', 'it', 'pl', 'tr', 'nl', 'zh'
+  ]) {
     test('дерево на $lang переведено полностью: вопросы и вердикты', () async {
       LocaleService.current.value = lang;
       final t = await DecisionTree.load();
