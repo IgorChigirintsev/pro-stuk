@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:stuk/api.dart';
+import 'package:stuk/main.dart' show reloadTree, tree, watchLocaleForTree;
 import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';
 
@@ -174,6 +175,26 @@ void main() {
     LocaleService.current.value = 'zz';
     final zz = await DecisionTree.load();
     expect(zz.node(zz.rootId).text, ruText);
+    LocaleService.current.value = 'ru';
+  });
+
+  // Смена языка обязана перечитать дерево: оно лежит в отдельном ассете,
+  // и без этого вопросы с вердиктами остались бы на прежнем языке.
+  test('смена языка перечитывает дерево, а не только интерфейс', () async {
+    LocaleService.current.value = 'ru';
+    await reloadTree();
+    final ruRoot = tree.node(tree.rootId).text;
+
+    watchLocaleForTree();
+    addTearDown(() => LocaleService.current.removeListener(reloadTree));
+
+    LocaleService.current.value = 'de';
+    // Слушатель дочитывает ассет асинхронно — ждём результат, а не факт вызова.
+    for (var i = 0; i < 100 && tree.node(tree.rootId).text == ruRoot; i++) {
+      await Future<void>.delayed(const Duration(milliseconds: 10));
+    }
+    expect(tree.node(tree.rootId).text, isNot(ruRoot));
+
     LocaleService.current.value = 'ru';
   });
 
