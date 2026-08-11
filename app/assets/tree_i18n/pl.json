@@ -898,5 +898,108 @@
   ],
   "explanation": "Równe buczenie albo szelest, który zmienia się wraz z obrotami silnika, najczęściej daje łożysko jednej z rolek, po których biegnie pasek osprzętu. Zużyta rolka hałasuje coraz mocniej, może zacząć się zakleszczać i w końcu zerwać pasek.",
   "advice": "Umów się do warsztatu w ciągu tygodnia: mechanik zdejmie pasek i od razu ustali, która rolka hałasuje. Podobnie potrafi hałasować pompa wody, sprzęgło jednokierunkowe alternatora, a nawet łańcuch rozrządu — to sprawdza się przy okazji. Jeśli dźwięk przeszedł w zgrzyt albo pisk, przyspiesz wizytę."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Osłona termiczna układu wydechowego",
+  "alt_causes": [
+   "Mocowania tłumika",
+   "Osłona miski olejowej"
+  ],
+  "explanation": "Dźwięczne, metaliczne grzechotanie przy określonych obrotach prawie zawsze daje obluzowana osłona termiczna — cienka blacha nad tłumikiem albo katalizatorem. Brzmi nieprzyjemnie, ale na pracę auta nie ma wpływu.",
+  "advice": "Przy okazji poproś w warsztacie o dokręcenie albo ściągnięcie osłony opaską: robota na kilka minut. Warto się upewnić, że grzechocze właśnie osłona, a nie mocowania tłumika — na podnośniku widać to od razu."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Wypadanie zapłonu albo dziura w wydechu",
+  "alt_causes": [
+   "Świece i cewki zapłonowe",
+   "Przepalony tłumik albo rura",
+   "Ustawienia instalacji LPG (jeśli strzela na gazie)"
+  ],
+  "explanation": "Strzały z tłumika oznaczają, że paliwo dopala się nie w cylindrach, tylko w układzie wydechowym. Powody to wypadanie zapłonu (świece, cewki), zła mieszanka albo dziura w wydechu. Poza hałasem szkodzi to katalizatorowi, a jego wymiana jest droga.",
+  "advice": "Umów się na diagnostykę w najbliższych dniach, zwłaszcza jeśli auto gorzej ciągnie, pracuje z przerwami albo zapaliła się kontrolka check engine. Długo jeździć ze strzałami nie warto: niespalone paliwo przegrzewa katalizator. Jeśli masz instalację LPG i strzały pojawiają się na gazie, jedź na regulację instalacji: dla niej strzały są szczególnie groźne."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Przepalony tłumik albo rura wydechowa",
+  "alt_causes": [
+   "Uszczelka wydechu",
+   "Pęknięta harmonijka wydechu"
+  ],
+  "explanation": "Głośny ryk, który nasila się przy dodawaniu gazu, zwykle oznacza dziurę w układzie wydechowym: przepalił się tłumik, rura albo uszczelka. Dźwięk robi się „sportowy”, ale spaliny wychodzą przed czasem — to hałas, smród i ryzyko, że czad dostanie się do kabiny.",
+  "advice": "Pokaż auto w warsztacie w tym tygodniu: oględziny wydechu na podnośniku to kilka minut. Jeśli w kabinie czuć spaliny, jeźdź z uchyloną szybą i nie nagrzewaj auta w zamkniętym garażu: tlenek węgla jest niebezpieczny."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Poduszki silnika",
+  "alt_causes": [
+   "Wypadanie zapłonu",
+   "Zabrudzona przepustnica albo wtryskiwacze"
+  ],
+  "explanation": "Jeśli na wolnych obrotach czuć w kabinie drżenie, a kierownica i fotele drobno wibrują, często winne są poduszki silnika — gumowe elementy, które tłumią jego drgania. Z czasem guma twardnieje i pęka, a wibracja przechodzi na nadwozie.",
+  "advice": "Sprawdź poduszki w warsztacie w ciągu dwóch tygodni: oględziny są proste. Podpowiedź do diagnozy — wibracja od poduszek zwykle rośnie po wrzuceniu biegu przy wciśniętym hamulcu. Jeśli silnik dodatkowo szarpie, powiedz o tym mechanikowi: może wypadać zapłon."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Nalot rdzy na tarczach hamulcowych",
+  "alt_causes": [
+   "Wilgoć albo pył na klockach",
+   "Początkowe zużycie klocków"
+  ],
+  "explanation": "Przez noc, po deszczu albo po myjni na tarczach hamulcowych pojawia się cienki rudy nalot — to normalne w każdym samochodzie. Pierwsze kilka hamowań zdziera go klockami, stąd pisk albo lekkie skrobanie, które szybko znika.",
+  "advice": "Nic nie trzeba robić: kilka łagodnych hamowań na początku jazdy czyści tarcze. Jeśli dźwięk przestał znikać i słychać go przy każdym hamowaniu, przejdź diagnozę od nowa albo pokaż auto w warsztacie."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Zużycie albo stan klocków hamulcowych",
+  "alt_causes": [
+   "Czujnik zużycia klocków",
+   "Zeszklone klocki",
+   "Pył albo korozja na tarczach"
+  ],
+  "explanation": "Pisk przy każdym hamowaniu to sygnał, żeby sprawdzić klocki. Wiele klocków ma metalowy „czujnik zużycia”: kiedy warstwa robocza (okładzina cierna, która ociera tarczę) zetrze się do granicy, blaszka zahacza o tarczę i celowo piszczy. Piszczeć mogą też same klocki — od nalotu, zeszklonej powierzchni albo taniego materiału.",
+  "advice": "Umów się na sprawdzenie klocków i tarcz w tym tygodniu. Jeśli to czujnik zużycia, nie ma co zwlekać: następny etap to zgrzyt i zniszczone tarcze. Jeśli klocki są w porządku, pisk nie jest groźny, a mechanik podpowie, jak go usunąć."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Klocki starte do metalu",
+  "alt_causes": [
+   "Ciało obce w mechanizmie hamulcowym",
+   "Rozpadający się klocek"
+  ],
+  "explanation": "Zgrzyt metalu o metal przy hamowaniu oznacza, że warstwa robocza klocka się skończyła i tarczę ociera jego metalowa podstawa. Droga hamowania rośnie, tarcza niszczy się przy każdym zatrzymaniu, a mechanizm może się zakleszczyć.",
+  "advice": "Przerwij zwykłą jazdę i dojedź wyłącznie do warsztatu, hamując wcześnie i łagodnie. Wymiany nie odkładaj ani o jeden dzień: poza bezpieczeństwem każdy kilometr ze zgrzytem dokłada do rachunku koszt tarcz hamulcowych."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Prowadnice zacisku albo bicie tarcz hamulcowych",
+  "alt_causes": [
+   "Luz piasty",
+   "Poluzowane mocowanie zacisku"
+  ],
+  "explanation": "Stukanie przy hamowaniu albo pulsowanie pedału zwykle idzie od mechanizmu hamulcowego: rozklekotały się prowadnice zacisku (elementu, który dociska klocki do tarczy) albo tarczę wypaczyło i klocki o nią biją. Hamulce działają, ale nierówno.",
+  "advice": "Sprawdź hamulce w warsztacie w najbliższych dniach: układu, od którego zależy bezpieczeństwo, lepiej nie zapuszczać. Jeśli pedał zaczął uciekać głębiej niż zwykle, auto ściąga w bok przy hamowaniu albo bije w kierownicę — na diagnostykę od razu."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Coś ociera tarczę hamulcową (osłona albo zużyte klocki)",
+  "alt_causes": [
+   "Klocki starte do metalu",
+   "Wygięta blacha osłony tarczy",
+   "Kamyk między osłoną a tarczą"
+  ],
+  "explanation": "Ciągły zgrzyt albo szuranie od strony koła zwykle oznacza, że coś ociera obracającą się tarczę hamulcową: wygięta blacha osłony, kamyk, który się tam dostał — albo starte do metalu klocki. Pierwsze dwa przypadki są niegroźne, trzeci niebezpieczny, a na słuch łatwo je pomylić.",
+  "advice": "Sprawdź w warsztacie w ciągu dnia–dwóch, bez odkładania: oględziny koła szybko pokażą przyczynę. Jeśli przy hamowaniu zgrzyt się nasila albo pedał zachowuje się inaczej niż zwykle, przerwij jazdę i dojedź do warsztatu ostrożnie."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Łożysko koła",
+  "alt_causes": [
+   "Hałas opon",
+   "Zużyty przegub napędowy"
+  ],
+  "explanation": "Buczenie, które zmienia się w zakrętach podczas jazdy, to klasyczny objaw zużytego łożyska koła — łożyska, na którym obraca się koło. W zakręcie ciężar auta przenosi się na koła zewnętrzne: jeśli przy skręcie w lewo buczenie rośnie, obciążona jest prawa strona i najpewniej buczy prawe łożysko; przy skręcie w prawo — odwrotnie. Rozsypujące się łożysko daje luz koła, a w zapuszczonym przypadku może się zatrzeć.",
+  "advice": "Zapamiętaj, w którą stronę buczenie jest głośniejsze, i powiedz o tym w warsztacie — to od razu zawęzi poszukiwania. Sprawdzenia nie odkładaj dłużej niż tydzień, a dalsze trasy odłóż do czasu diagnostyki. Jeśli pojawiła się wibracja albo buczenie wyraźnie się wzmocniło, jedź do warsztatu od razu."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Zewnętrzny przegub napędowy",
+  "alt_causes": [
+   "Wewnętrzny przegub napędowy",
+   "Łączniki stabilizatora",
+   "Sprzęgło napędu 4x4"
+  ],
+  "explanation": "Kłapanie albo trzaskanie podczas jazdy ze skręconą kierownicą to firmowy dźwięk zużytego zewnętrznego przegubu napędowego: przegubu, przez który napędzane jest skręcające koło. Zwykle wszystko zaczyna się od pękniętej osłony — gumowej harmonijki, która chroni przegub przed brudem.",
+  "advice": "Obejrzyj osłony przegubów albo poproś o to w warsztacie: rozerwana guma i smar dookoła potwierdzają diagnozę. Z wymianą nie zwlekaj dłużej niż tydzień–dwa: zużyty przegub może się zakleszczyć. Do naprawy nie ruszaj gwałtownie ze skręconymi kołami."
  }
 }
