@@ -1001,5 +1001,104 @@
   ],
   "explanation": "Kłapanie albo trzaskanie podczas jazdy ze skręconą kierownicą to firmowy dźwięk zużytego zewnętrznego przegubu napędowego: przegubu, przez który napędzane jest skręcające koło. Zwykle wszystko zaczyna się od pękniętej osłony — gumowej harmonijki, która chroni przegub przed brudem.",
   "advice": "Obejrzyj osłony przegubów albo poproś o to w warsztacie: rozerwana guma i smar dookoła potwierdzają diagnozę. Z wymianą nie zwlekaj dłużej niż tydzień–dwa: zużyty przegub może się zakleszczyć. Do naprawy nie ruszaj gwałtownie ze skręconymi kołami."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Końcówki drążków kierowniczych albo przekładnia",
+  "alt_causes": [
+   "Łączniki stabilizatora",
+   "Łożyska górne amortyzatorów"
+  ],
+  "explanation": "Stukanie przy kręceniu kierownicą, zwłaszcza w miejscu albo przy małej prędkości, zwykle daje luz w końcówkach drążków, w drążkach kierowniczych albo w samej przekładni kierowniczej. Prowadzeniu jeszcze to nie przeszkadza, ale luz w układzie kierowniczym z czasem tylko rośnie.",
+  "advice": "Sprawdź układ kierowniczy w warsztacie w najbliższych dniach: diagnostyka na podnośniku to kilka minut. Jeśli kierownica zrobiła się „pusta” w położeniu środkowym, auto pływa po pasie albo stukanie gwałtownie się nasiliło — nie odkładaj, to element bezpieczeństwa."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Pompa wspomagania układu kierowniczego",
+  "alt_causes": [
+   "Niski poziom płynu wspomagania",
+   "Pasek osprzętu"
+  ],
+  "explanation": "Wycie albo buczenie, które pojawia się, gdy kręcisz kierownicą w miejscu albo przy małej prędkości, najczęściej wydaje pompa wspomagania — to ona wytwarza ciśnienie płynu, który pomaga kręcić kierownicą. Najgłośniej wyje przy kierownicy skręconej do oporu. Najczęstsza przyczyna to spadek poziomu płynu w zbiorniczku.",
+  "advice": "Sprawdź poziom płynu wspomagania w zbiorniczku pod maską i uzupełnij, jeśli jest poniżej kreski MIN. Nie trzymaj kierownicy skręconej do oporu dłużej niż parę sekund. Jeśli po uzupełnieniu wycie zostało albo płyn znowu ubywa, jedź do warsztatu w ciągu tygodnia."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Łączniki stabilizatora",
+  "alt_causes": [
+   "Gumy stabilizatora",
+   "Sworznie wahaczy"
+  ],
+  "explanation": "Częste, głuche stukanie na drobnych nierównościach — kostce, łączeniach nawierzchni, „tarce” — najczęściej dają łączniki stabilizatora: niewielkie drążki z przegubami, które w zawieszeniu zużywają się jako pierwsze. Same w sobie nie są groźne, ale podobnie potrafią stukać poważniejsze elementy.",
+  "advice": "Umów się na diagnostykę zawieszenia w ciągu tygodnia–dwóch: mechanik poruszy elementy na podnośniku i w kilka minut znajdzie luz. Do czasu sprawdzenia większe dziury pokonuj wolno. Jeśli auto zaczęło ściągać w bok, przyspiesz wizytę."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Tylne zawieszenie: łączniki stabilizatora albo tuleje belki",
+  "alt_causes": [
+   "Amortyzatory",
+   "Mocowania tłumika"
+  ],
+  "explanation": "Częste stukanie z tyłu na drobnych nierównościach zwykle dają drobne przeguby tylnego zawieszenia: łączniki tylnego stabilizatora albo zużyte silentbloki — gumowe tuleje, przez które wahacze i belka trzymają się nadwozia. Czasem podobnie stuka rozklekotane mocowanie tłumika.",
+  "advice": "Umów się na diagnostykę zawieszenia w ciągu tygodnia–dwóch: na podnośniku źródło stukania z tyłu znajduje się szybko. Do czasu sprawdzenia większe dziury pokonuj wolno. Warto zauważyć, czy stuka na drobnej tarce, czy na pojedynczych dziurach — i powiedzieć o tym mechanikowi."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Silentbloki wahaczy albo amortyzatory",
+  "alt_causes": [
+   "Łożyska górne amortyzatorów",
+   "Sworznie wahaczy"
+  ],
+  "explanation": "Pojedyncze, głuche uderzenia na dziurach i progach zwalniających zwykle oznaczają zużycie silentbloków — gumowych tulei, przez które wahacze trzymają się nadwozia — albo zmęczone amortyzatory. Zawieszenie przestaje tłumić uderzenie i przenosi je na nadwozie.",
+  "advice": "Wybierz się na diagnostykę zawieszenia w ciągu dwóch tygodni. Prosty test amortyzatorów: naciśnij narożnik auta w dół — nadwozie powinno wrócić bez bujania. Do naprawy pokonuj nierówności łagodnie: uderzenia dobijają sąsiednie elementy."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Mocowania tłumika albo osłona miski olejowej",
+  "alt_causes": [
+   "Osłona termiczna",
+   "Obwisła rura wydechowa"
+  ],
+  "explanation": "Metaliczne grzechotanie spod podłogi na nierównościach to zwykle poluzowane mocowanie: gumy zawieszenia tłumika, śruby osłony miski olejowej albo osłona termiczna. Irytuje, ale na prowadzenie i silnik nie wpływa.",
+  "advice": "Przy najbliższej wizycie w warsztacie poproś o dokręcenie mocowań: to szybkie i tanie. Warto się upewnić, że tłumik nie obwisa — wleczącej się rury nie wolno już ignorować. Do naprawy można jeździć spokojnie."
+ },
+ "leaf_detonation": {
+  "top_cause": "Spalanie stukowe (dzwonienie pod obciążeniem)",
+  "alt_causes": [
+   "Paliwo o zbyt niskiej liczbie oktanowej",
+   "Nagar albo uszkodzony czujnik spalania stukowego"
+  ],
+  "explanation": "Metaliczne dzwonienie przy przyspieszaniu, zwłaszcza pod górę albo z niskich obrotów, to spalanie stukowe: część paliwa w cylindrach zapala się sama, wybuchem, zamiast spalać się równo, a fala uderzeniowa bije w tłoki. Częste przyczyny to benzyna o liczbie oktanowej niższej niż potrzebna, nagar w komorach spalania albo awaria czujnika spalania stukowego. Ciągłe stukanie stopniowo niszczy silnik.",
+  "advice": "Zatankuj paliwo o liczbie oktanowej nie niższej niż zalecana przez producenta, najlepiej na innej stacji — często dzwonienie znika po jednym baku. Do czasu sprawdzenia nie obciążaj silnika: przyspieszaj łagodnie, pod górę jedź na niższym biegu. Jeśli dzwonienie nie ustąpiło po zmianie paliwa, jedź na diagnostykę."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Poduszki silnika albo wewnętrzny przegub napędowy",
+  "alt_causes": [
+   "Luz w układzie napędowym",
+   "Poduszka skrzyni biegów"
+  ],
+  "explanation": "Stukanie w momencie dodania albo puszczenia gazu to objaw luzu w łańcuchu, który przenosi napęd. Zużyte poduszki pozwalają silnikowi szarpnąć przy zmianie obciążenia, a zużyty wewnętrzny przegub napędowy (przegub na półosi biegnącej od skrzyni biegów do koła) stuka przy dodawaniu i puszczaniu gazu. Ważne, że dźwięk pojawia się właśnie przy zmianie trybu jazdy, a nie na nierównościach.",
+  "advice": "Umów się na diagnostykę w ciągu tygodnia–dwóch. Podpowiedź dla warsztatu: zauważ, czy stukanie jest bliżej silnika, czy bliżej kół, i czy powtarza się przy zmianie biegów. Do naprawy dodawaj gazu i zmieniaj biegi łagodniej."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Łożysko koła",
+  "alt_causes": [
+   "Hałas opon",
+   "Łożysko podpory wału napędowego albo skrzynia biegów"
+  ],
+  "explanation": "Równe buczenie, które rośnie z prędkością i nie zależy od obrotów silnika, najczęściej wydaje zużyte łożysko koła — łożysko, na którym obraca się koło. Brzmi jak startujący samolot i prawie nie zmienia się wraz z nawierzchnią. Zapuszczone łożysko daje luz koła, a w skrajnym przypadku może się zatrzeć.",
+  "advice": "Sprawdź w warsztacie w ciągu tygodnia: mechanik zakręci kołami na podnośniku i znajdzie hałasującą piastę — element, w którym siedzi to łożysko. Dłuższe trasy z dużą prędkością odłóż do czasu diagnostyki. Jeśli buczenie gwałtownie się nasiliło albo pojawiła się wibracja, jedź na sprawdzenie od razu."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Tylne łożysko koła",
+  "alt_causes": [
+   "Hałas opon",
+   "Mostek albo łożysko podpory wału (w napędzie tylnym i 4x4)"
+  ],
+  "explanation": "Równe buczenie z tyłu, rosnące z prędkością, najczęściej daje tylne łożysko koła — łożysko, na którym obraca się koło. W autach z napędem tylnym albo na cztery koła podobnie buczą elementy układu napędowego, dlatego źródło warto potwierdzić na podnośniku.",
+  "advice": "Sprawdź w warsztacie w ciągu tygodnia: z tyłu buczenie łożyska łatwo pomylić z mostkiem, a oględziny na podnośniku od razu wszystko ustawią. Dłuższe trasy z dużą prędkością odłóż do czasu sprawdzenia. Jeśli buczenie gwałtownie się nasiliło albo pojawiła się wibracja, jedź na sprawdzenie od razu."
+ },
+ "leaf_tires": {
+  "top_cause": "Hałas opon",
+  "alt_causes": [
+   "Nierównomierne zużycie bieżnika",
+   "Łożysko koła"
+  ],
+  "explanation": "Jeśli buczenie zależy od nawierzchni — na nowym asfalcie ciszej, na szorstkim głośniej — najpewniej hałasują opony. Szczególnie buczą opony zimowe, terenowe i nierównomiernie zużyte. To kwestia komfortu, a nie usterki.",
+  "advice": "Obejrzyj bieżnik: ząbkowanie (schodki na krawędziach) albo zużycie plamami nasila buczenie i sugeruje rozregulowaną geometrię kół albo zmęczone amortyzatory. Sprawdź ciśnienie w oponach. Jeśli buczenie jednak nie zależy od nawierzchni i rośnie z prędkością, wróć do wersji z łożyskiem koła."
  }
 }
