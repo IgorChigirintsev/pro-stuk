@@ -716,4 +716,93 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'vibratsiya-na-holostyh': {
+    h1: 'Vibração na marcha lenta',
+    metaTitle: 'Vibração na marcha lenta: causas do tremor e o que fazer | Stuk',
+    description:
+      'Por que o carro treme na marcha lenta: coxins do motor, falhas de ignição, entrada de ar falso ou corpo de borboleta sujo. O que conferir e se dá para rodar.',
+    intro: [
+      'Um leve tremor na marcha lenta qualquer carro tem, e um diesel ainda mais. Aqui a conversa é outra: sobre um tremor que se sente no volante, no banco e no retrovisor e que antes não existia. A causa mais comum são os coxins do motor: os blocos de borracha em que o motor se apoia na carroceria e que absorvem as oscilações dele. Com os anos a borracha endurece e racha, e a vibração que antes os coxins engoliam vai para a carroceria.',
+      'O segundo grupo de causas: o próprio motor trabalha irregular. Falhas de ignição (quando um cilindro deixa de queimar de vez em quando — normalmente por causa das velas ou das bobinas), entrada de ar falso por uma mangueira rachada ou pela junta da admissão, corpo de borboleta ou bicos sujos deixam a marcha lenta instável. Distinguir esses casos dos coxins não é difícil: neles o ponteiro do conta-giros treme ou oscila e muitas vezes acende a luz de injeção, enquanto com coxins gastos o motor funciona redondo — quem treme é a carroceria.',
+    ],
+    causes: [
+      { name: 'Coxins do motor', likelihood: 'O mais comum — sobretudo em carros com mais de 8–10 anos' },
+      { name: 'Falhas de ignição: velas, bobinas', likelihood: 'Comum — se a rotação treme e a luz de injeção está acesa' },
+      { name: 'Entrada de ar falso por mangueira ou junta da admissão', likelihood: 'Comum — se a rotação oscila, às vezes com um assobio' },
+      { name: 'Corpo de borboleta ou bicos sujos', likelihood: 'Comum acima de cem mil quilômetros' },
+    ],
+    canRide: [
+      'Na maioria dos cenários dá para rodar: vibração na marcha lenta não é o sintoma pelo qual se deixa o carro no acostamento. Com coxins gastos há uma ou duas semanas para agendar com calma; arrastar por meses não convém — coxins arrebentados acrescentam batidas na arrancada e nas trocas de marcha e aceleram o desgaste das peças vizinhas.',
+      'História à parte é quando o motor claramente falha: treme aos trancos, a luz de injeção pisca ou fica acesa, a força caiu. Com isso também dá para rodar, mas com cuidado e pouco: o combustível não queimado das falhas termina de queimar no escapamento e superaquece o catalisador, cuja troca é cara. O diagnóstico, nesse caso, é para os próximos dias e não para quando der.',
+    ],
+    checks: [
+      'Teste dos coxins: engatar uma marcha (D no automático) e segurar o freio. A vibração de coxins gastos costuma aumentar bastante nessa posição.',
+      'Olhar o conta-giros: ponteiro firme e carro tremendo é argumento a favor dos coxins; ponteiro tremendo ou oscilando significa motor irregular.',
+      'Ligar o ar-condicionado e reparar se o tremor muda: sob carga extra, coxins fracos e marcha lenta irregular se manifestam mais, e esse detalhe é útil ao mecânico.',
+      'Examinar, sem desmontar nada, as mangueiras finas de borracha sob o capô: rachaduras e mangueiras soltas são ponto frequente de entrada de ar falso.',
+      'Lembrar quando as velas foram trocadas: quilometragem muito além do intervalo faz delas o primeiro suspeito nas falhas. Se a luz de injeção está acesa, comece pela leitura dos códigos: eles estreitam a busca.',
+    ],
+    appHelp:
+      'O aplicativo Stuk faz as mesmas perguntas — o tremor aumenta com marcha engatada, a rotação se mantém firme, a luz de injeção está acesa — e distribui as causas prováveis em percentuais. No relatório vem uma conclusão clara: siga tranquilo, agende esta semana ou mostre o carro nos próximos dias.',
+    faq: [
+      {
+        q: 'Por que treme só na marcha lenta e andando o carro vai liso?',
+        a: 'Na marcha lenta a rotação é mínima e o motor balança sobre os coxins numa frequência que a carroceria transmite bem para dentro do carro. Com o aumento da rotação as oscilações ficam menores e se sentem menos. Por isso coxins gastos se denunciam no semáforo e não na estrada.',
+      },
+      {
+        q: 'O que são falhas de ignição?',
+        a: 'É quando a mistura em um dos cilindros deixa de inflamar de tempos em tempos — quase sempre por velas gastas ou uma bobina com defeito. O motor perde nesse momento parte da força e dá um tranco, enquanto o combustível não queimado termina de queimar no escapamento e superaquece o catalisador.',
+      },
+      {
+        q: 'Limpar o corpo de borboleta ajuda?',
+        a: 'Ajuda se a causa estiver ali: a sujeira atrapalha a dosagem precisa do ar na marcha lenta, e a rotação fica irregular. Mas a limpeza não é remédio universal: com coxins gastos ou falhas de ignição a vibração continuará igual depois.',
+      },
+    ],
+  },
+
+  'hlopki-v-glushitele': {
+    h1: 'Estouros no escapamento',
+    metaTitle: 'Estouros no escapamento: causas e o que fazer | Stuk',
+    description:
+      'Por que o escapamento estoura: falhas de ignição, escapamento furado, mistura incorreta ou regulagem do GNV. O que os estouros fazem ao catalisador e quando ir à oficina.',
+    intro: [
+      'Estouros ou «tiros» no escapamento significam que parte do combustível não queima nos cilindros, e sim já no sistema de escape. Na maioria das vezes a culpa é das falhas de ignição: uma vela gasta ou uma bobina com defeito não acende a mistura, a gasolina não queimada vai para o escapamento quente e se inflama ali com o estouro característico.',
+      'O segundo grupo de causas é o próprio escapamento: silencioso, tubo ou junta furados somam aos estouros um ronco que aumenta ao pisar no acelerador. A mistura também pode estar errada por causa de sensores ou bicos, e em carros com GNV estouros no gás são sinal típico de regulagem desajustada. Todos os cenários têm um denominador comum: o combustível não queimado termina de queimar no catalisador — a peça do escape que queima os gases nocivos —, superaquece-o e aos poucos o destrói, e trocar catalisador é caro.',
+    ],
+    causes: [
+      { name: 'Falhas de ignição: velas ou bobinas', likelihood: 'O mais comum' },
+      { name: 'Silencioso, tubo ou junta do escape furados', likelihood: 'Comum — os estouros vêm junto com um ronco' },
+      { name: 'Mistura incorreta: sensores ou bicos', likelihood: 'Bastante comum' },
+      { name: 'Regulagem desajustada do GNV', likelihood: 'Se os estouros aparecem só no gás' },
+      { name: 'Ronco ao acelerar sem força: a embreagem patina', likelihood: 'Caso à parte, de som parecido' },
+    ],
+    canRide: [
+      'Um estouro isolado ao tirar o pé não é motivo para parar: dá para chegar em casa ou na oficina. Com estouros regulares também dá para rodar, mas planeje o diagnóstico para os próximos dias e não para as próximas semanas: cada estouro é uma porção de combustível não queimado terminando de queimar no catalisador, e a conta de um conserto adiado cresce de velas baratas ao preço de um catalisador.',
+      'Caso especial: a luz de injeção piscando. Assim o sistema avisa de falhas de ignição acontecendo agora, perigosas para o catalisador neste momento. Com a luz piscando, rode só com calma e pouco, sem carga, e vá à oficina sem adiar. Se dentro do carro se sente cheiro de escapamento, até o conserto rode com o vidro entreaberto e não aqueça o carro em garagem fechada: o monóxido de carbono é perigoso.',
+    ],
+    checks: [
+      'Reparar quando estoura: sob carga ao acelerar, ao tirar o pé ou na marcha lenta — esse detalhe encurta na hora a busca do mecânico.',
+      'Olhar a luz de injeção: acesa fixa significa diagnóstico nos próximos dias; piscando significa que as falhas acontecem agora e a visita não se adia.',
+      'Avaliar o funcionamento do motor: marcha irregular, tremor na marcha lenta e perda de força junto com os estouros apontam para velas, bobinas ou mistura.',
+      'Ouvir o escapamento: um ronco que aumenta ao pisar no acelerador com a força normal é sinal de furo no silencioso ou no tubo, e não de problema de ignição.',
+      'Num carro com GNV, comparar o funcionamento no gás e na gasolina: estouros só no gás são pergunta para quem regulou o sistema.',
+    ],
+    appHelp:
+      'O aplicativo Stuk esclarece as circunstâncias — estouros ou ronco, no gás ou na gasolina, com ou sem perda de força — e ajuda a separar problemas de ignição, um furo no escape e uma embreagem patinando, que de ouvido se parecem. No relatório vêm causas prováveis com percentuais e uma recomendação clara sobre a urgência da oficina.',
+    faq: [
+      {
+        q: 'Por que estoura no escapamento se o problema está no motor?',
+        a: 'Quando a vela ou a bobina não acende a mistura no cilindro, a gasolina não queimada é empurrada para o sistema de escape. Lá ela encontra peças em brasa e termina de queimar num lampejo — esse som é o estouro que se ouve no escapamento. A fonte, porém, está sob o capô, e não no silencioso.',
+      },
+      {
+        q: 'Por que os estouros são perigosos para o catalisador?',
+        a: 'O catalisador foi feito para terminar de queimar restos de gases de escape, e não porções de combustível cru. A gasolina que queima ali dentro eleva a temperatura acima do previsto, e a colmeia cerâmica derrete ou se esfarela. O resultado: perda de força, chacoalho embaixo do carro e troca do catalisador, um dos serviços mais caros do escapamento.',
+      },
+      {
+        q: 'Meu carro com GNV estoura no gás. É perigoso?',
+        a: 'É, e para o sistema de gás os estouros são mais perigosos do que para o motor a gasolina: um retorno de chama na admissão pode danificar peças plásticas e sensores. A causa habitual é regulagem desajustada ou velas gastas. O sensato é passar para a gasolina e agendar com um especialista em GNV.',
+      },
+    ],
+  },
 };
