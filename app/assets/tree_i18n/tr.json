@@ -134,5 +134,75 @@
    "o1": "Arttı, motor ısındıkça daha belirgin",
    "o2": "Hep aynı, dışarıdan içeriye göre daha yüksek"
   }
+ },
+ "q_knock_load": {
+  "text": "Yavaşça gaza basınca vuruntu hızlanıp yükseliyor mu?",
+  "options": {
+   "o1": "Evet, hızlanıyor ve yükseliyor",
+   "o2": "Neredeyse değişmiyor ya da kayboluyor"
+  }
+ },
+ "q_squeal": {
+  "text": "Ses nasıl bir ses?",
+  "options": {
+   "o1": "Keskin bir cıyaklama ya da ıslık",
+   "o2": "Düzgün bir uğultu ya da hışırtı",
+   "o3": "Lastikten hava kaçar gibi düzgün bir tıslama"
+  }
+ },
+ "q_hum_source": {
+  "text": "Uğultu nereden geliyor?",
+  "options": {
+   "o1": "Önden, kaputun altından; devirle birlikte değişiyor",
+   "o2": "Kendi kendine devreye girip çıkıyor: sıcakta, trafikte, klima açıkken",
+   "o3": "Arkadan, deponun oradan; kontağı açar açmaz, daha motoru çalıştırmadan duyuluyor"
+  }
+ },
+ "q_pump_check": {
+  "text": "Kaputun altında kayışın çevresinde sızıntı ya da sıvı izi var mı?",
+  "options": {
+   "o1": "Evet, sızıntı ya da antifriz kokusu var",
+   "o2": "Kuru",
+   "o3": "Bakamadım"
+  }
+ },
+ "q_rattle": {
+  "text": "Ses nasıl ve nereden geliyor?",
+  "options": {
+   "o1": "Aracın altından metalik bir takırtı",
+   "o2": "Egzozdan patlamalar",
+   "o3": "Gösterge panelinin arkasından lıkırtı ya da su şırıltısı"
+  }
+ },
+ "q_underbody_rattle": {
+  "text": "Takırtıyla birlikte araç güç kaybetti mi ya da egzozdan tuhaf bir koku geliyor mu?",
+  "options": {
+   "o1": "Evet, çekişi düştü ya da koku değişti",
+   "o2": "Hayır, sadece bazı devirlerde takırdıyor"
+  }
+ },
+ "q_move_when": {
+  "text": "Giderken ses en çok ne zaman belirginleşiyor?",
+  "options": {
+   "o1": "Fren yaparken",
+   "o2": "Virajlarda ya da direksiyonu çevirirken",
+   "o3": "Bozuk yolda ve tümseklerde",
+   "o4": "Gaz verirken, vites değiştirirken ya da sürekli"
+  }
+ },
+ "q_brake_transient": {
+  "text": "Ses sadece park ettikten sonraki ilk birkaç frende ya da yağmurda mı çıkıyor, sonra geçiyor mu?",
+  "options": {
+   "o1": "Evet, çabuk geçiyor",
+   "o2": "Hayır, her fren yapışta duyuluyor"
+  }
+ },
+ "q_brake_char": {
+  "text": "Fren yaparken ses nasıl?",
+  "options": {
+   "o1": "Cıyaklama ya da gıcırtı",
+   "o2": "Metal metale sürtme gıcırtısı",
+   "o3": "Vuruntu ya da pedalda zonklama"
+  }
  }
 }
