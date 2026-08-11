@@ -402,5 +402,85 @@
   ],
   "explanation": "Ritselen en knisperen dat met de ventilatorstand meeverandert, is bijna altijd blad of vuil dat via de luchtinlaat in de kachelventilator terecht is gekomen. In het najaar is dat heel gewoon, zeker als het interieurfilter verstopt is of ontbreekt.",
   "advice": "Vervang het interieurfilter (het vuil ligt er vaak bovenop) — bij veel auto's doe je dat zelf in 10 minuten, instructies voor je model zijn eenvoudig te vinden. Blijft het ritselen, laat de ventilator dan in de garage doorblazen en schoonmaken."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Lager of bussen van de kachelventilatormotor",
+  "alt_causes": [
+   "Vuil in de ventilator",
+   "Waaier die tegen het huis loopt"
+  ],
+  "explanation": "Piepen of janken onder het dashboard dat alleen klinkt met de ventilator aan, komt van een versleten kachelventilatormotor. De test is simpel: zet de ventilator uit en het piepen stopt meteen, ook met draaiende motor.",
+  "advice": "Voor de veiligheid maakt het niets uit, maar op den duur gaat het motortje klemmen en sta je zonder kachel — vervang hem liefst voor de winter. Tot die tijd kun je de ventilatorstanden gebruiken waarbij het piepen zachter is."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Servomotor van de kachelklep",
+  "alt_causes": [
+   "Normale kalibratie van de kleppen",
+   "Kapotte tandjes van het aandrijfwieltje"
+  ],
+  "explanation": "Een reeks snelle klikjes of geratel achter het dashboard bij het aanzetten van het contact of bij het wisselen van temperatuur komt van het servomotortje dat de kachelkleppen verstelt. Is de reeks kort en steeds hetzelfde, dan is het meestal gewoon de kalibratie. Eindeloos geratel betekent afgesleten tandjes van het kunststof wieltje.",
+  "advice": "Zijn de klikjes kort en regelt de kachel normaal, dan hoef je niets te doen. Duurt het geratel lang of blaast de lucht niet waar je hem instelt, maak dan bij gelegenheid een afspraak: schadelijk is het niet, maar het comfort lijdt eronder."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Lucht in het koelsysteem (te weinig koelvloeistof)",
+  "alt_causes": [
+   "Defecte dop van het expansievat",
+   "Koelvloeistoflekkage"
+  ],
+  "explanation": "Klokken of borrelen achter het dashboard is een luchtbel die door de kachelradiateur trekt. Er komt lucht in het systeem als het koelvloeistofpeil is gezakt: er lekt iets of de dop van het expansievat houdt geen druk. De kachel blaast dan afwisselend warm en koud.",
+  "advice": "Controleer bij een koude motor het peil in het expansievat en vul bij tot het streepje, en kijk daarna of het opnieuw zakt. Zakt het peil of blaast de kachel koud bij een warme motor, ga dan deze week naar de garage. Loopt de temperatuurmeter op of komt er stoom vanonder de motorkap — stop en zet de motor uit."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Slippende koppeling van de aircocompressor",
+  "alt_causes": [
+   "Slappe riem",
+   "Versleten drukplaat van de koppeling"
+  ],
+  "explanation": "Piepen precies op het moment dat de airco inschakelt betekent dat de koppeling die de compressor aan de riem hangt onder belasting doorslipt. Eén klik bij het inschakelen is normaal; piepen wijst op een versleten koppeling of een slappe riem.",
+  "advice": "Laat het binnen twee weken nakijken: laat je het lopen, dan wordt het piepen continu en kan de compressor vastlopen en de riem stukscheuren. Tot die tijd mag je de airco gebruiken, maar zet hem uit als het piepen erger wordt."
+ },
+ "leaf_ac_compressor": {
+  "top_cause": "Aircocompressor (lager of slijtage)",
+  "alt_causes": [
+   "Lager van de koppelingspoelie",
+   "Te weinig olie in het systeem"
+  ],
+  "explanation": "Knarsen of dreunen dat alleen te horen is met de airco aan, komt van een compressor op zijn eind of van het lager van zijn poelie. Een vastgelopen compressor scheurt de riem kapot, en die drijft op veel auto's ook de dynamo en de waterpomp aan.",
+  "advice": "Zet de airco voorlopig niet aan — zo houdt het onderdeel het uit tot de reparatie. Maak binnen een week een afspraak: zolang alleen het lager kapotgaat, is de reparatie fors goedkoper dan een nieuwe compressor plus het doorspoelen van het hele systeem."
+ },
+ "leaf_ac_hiss": {
+  "top_cause": "Normaal doorstromen van het koudemiddel",
+  "alt_causes": [
+   "Normale werking van het expansieventiel"
+  ],
+  "explanation": "Kort sissen of borrelen achter het dashboard in de eerste seconden na het aan- of uitzetten van de airco is koudemiddel dat door het expansieventiel stroomt. Zolang de auto koelt, is dat gewoon hoe het systeem werkt en geen lek.",
+  "advice": "Je hoeft niets te doen. Iets anders is wel reden om te controleren: wordt het sissen continu terwijl de koeling weg is of zwak, laat het aircosysteem dan nakijken."
+ },
+ "leaf_gearbox_input_bearing": {
+  "top_cause": "Lager van de ingaande as van de versnellingsbak",
+  "alt_causes": [
+   "Druklager van de koppeling",
+   "Riemrollen"
+  ],
+  "explanation": "Ruisen of brommen stationair dat wegvalt zodra je de koppeling intrapt, komt uit de bak: met het pedaal omhoog draait de ingaande as met de motor mee en maakt het versleten lager geluid. Trap je in, dan stopt de as en verdwijnt het geluid. De riem en zijn rollen reageren helemaal niet op het koppelingspedaal.",
+  "advice": "Maak binnen een of twee weken een afspraak en vertel er beslist bij dat het geluid met het pedaal samenhangt — dat stuurt het zoeken meteen. Laat het oliepeil van de bak controleren. Rijden kan, maar maandenlang uitstellen is onverstandig: een kapot lager sleept assen en tandwielen mee."
+ },
+ "leaf_release_bearing": {
+  "top_cause": "Druklager van de koppeling",
+  "alt_causes": [
+   "Lager van de ingaande as",
+   "Koppelingsvork"
+  ],
+  "explanation": "Ruisen of brommen dat komt of erger wordt met het koppelingspedaal ingetrapt, komt van het druklager — het onderdeel dat bij het intrappen tegen het drukgroep duwt. Een versleten druklager maakt juist onder belasting geluid, dus met het pedaal in.",
+  "advice": "Maak binnen een of twee weken een afspraak. Houd het pedaal niet onnodig ingetrapt (voor het stoplicht: in zijn vrij en koppeling los). Een kapot druklager kan je onderweg zonder koppeling zetten, dus maandenlang wachten kan niet."
+ },
+ "leaf_dmf": {
+  "top_cause": "Tweemassavliegwiel",
+  "alt_causes": [
+   "Veren in de koppelingsplaat",
+   "Druklager van de koppeling"
+  ],
+  "explanation": "Metaalachtig rammelen of gerinkel stationair aan de kant van de bak, dat verandert als je de koppeling intrapt en vooral hoorbaar is in de seconden van starten en afzetten, is het typische handschrift van een versleten tweemassavliegwiel: de demper tussen motor en bak die schokken opvangt.",
+  "advice": "Maak binnen twee weken een afspraak en beschrijf hoe het geluid samenhangt met het pedaal en met starten/afzetten. Vervangen is niet goedkoop, maar uitstellen sloopt ook de koppeling en kan eindigen met een vliegwiel dat onderweg uit elkaar valt. Rijd tot die tijd rustig weg en trek niet op bij lage toeren."
  }
 }
