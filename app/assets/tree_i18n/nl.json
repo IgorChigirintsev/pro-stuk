@@ -482,5 +482,86 @@
   ],
   "explanation": "Metaalachtig rammelen of gerinkel stationair aan de kant van de bak, dat verandert als je de koppeling intrapt en vooral hoorbaar is in de seconden van starten en afzetten, is het typische handschrift van een versleten tweemassavliegwiel: de demper tussen motor en bak die schokken opvangt.",
   "advice": "Maak binnen twee weken een afspraak en beschrijf hoe het geluid samenhangt met het pedaal en met starten/afzetten. Vervangen is niet goedkoop, maar uitstellen sloopt ook de koppeling en kan eindigen met een vliegwiel dat onderweg uit elkaar valt. Rijd tot die tijd rustig weg en trek niet op bij lage toeren."
+ },
+ "leaf_clutch_pedal": {
+  "top_cause": "Mechaniek van het koppelingspedaal (as, vork, kabel)",
+  "alt_causes": [
+   "Bussen van de pedaalas",
+   "Koppelingsvork"
+  ],
+  "explanation": "Piepen bij het intrappen dat je ook met de motor uit hoort, is droog mechaniek van de koppelingsbediening: de pedaalas, de kabel of de vork. Omdat het geluid er ook zonder draaiende motor is, hebben de riem, het druklager en de bak er niets mee te maken.",
+  "advice": "Vraag bij het volgende garagebezoek of ze de pedaalas en de vork willen smeren — vaak is het in minuten opgelost. Gevaarlijk is het niet. Wordt het pedaal naast het piepen ook zwaar of grijpt de koppeling pas vlak boven de vloer, laat het dan eerder nakijken."
+ },
+ "leaf_strut_mount": {
+  "top_cause": "Bovenste veerpootlager",
+  "alt_causes": [
+   "Stuurhuis",
+   "Stabilisatorstangen"
+  ],
+  "explanation": "Knappen of klikken van bovenaf, achter het wielkast, als je stilstaand aan het stuur draait, komt van het bovenste veerpootlager — het punt waar de bovenkant van de veerpoot met het wiel meedraait. Extra aanwijzing: losse tikken van bovenaf in kuilen.",
+  "advice": "Maak binnen een of twee weken een afspraak: de controle is simpel, met je hand op de veerpootbevestiging onder de motorkap voel je de klikken meteen. Rijden kan, maar een versleten lager versnelt de slijtage van de schokdemper en het stuur komt minder goed terug."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Kruiskoppeling van de stuurkolom",
+  "alt_causes": [
+   "Speling op de vertanding van de as",
+   "Stuurhuis"
+  ],
+  "explanation": "Een klik of tik die je recht in het stuur hoort en voelt, bij de voeten van de bestuurder, komt meestal van de kruiskoppeling van de tussenas in de stuurkolom — het kleine scharnier tussen stuur en stuurhuis. Met de motor uit en het stuur heen en weer bewogen hoor je de klik duidelijk.",
+  "advice": "Laat het binnen een paar dagen nakijken: de besturing is een veiligheidsonderdeel en de controle duurt minuten. De speling in de kolom wordt met de tijd groter en maakt het stuur voelbaar loos."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Rembekrachtiger of zijn vacuümslang",
+  "alt_causes": [
+   "Terugslagklep van de bekrachtiger",
+   "Scheur in de vacuümslang"
+  ],
+  "explanation": "Sissen onder het dashboard dat precies opkomt en verandert als je het rempedaal indrukt en loslaat, is valse lucht in de rembekrachtiger: het onderdeel dat je pedaalkracht verlicht. Het pedaal wordt daarbij vaak duidelijk zwaarder en het stationair toerental schommelt.",
+  "advice": "Maak deze week een afspraak: remmen doet de auto ook zonder bekrachtiging, maar je moet veel harder trappen — in een noodsituatie is dat gevaarlijk. Test het pedaal voor je wegrijdt: voelt het zo hard als een plank, rijd dan alleen voorzichtig en niet ver."
+ },
+ "leaf_wipers": {
+  "top_cause": "Ruitenwissermechaniek of de wisserrubbers",
+  "alt_causes": [
+   "Losse moeren van de wisserarmen",
+   "Versleten bussen van de wissermotor"
+  ],
+  "explanation": "Tikken op de omkeerpunten komt van speling in de scharnieren van het wissermechaniek of van losse moeren op de wisserarmen. Gelijkmatig piepen over de ruit betekent verharde wisserrubbers. De test is simpel: zet de wissers uit en het geluid is meteen helemaal weg.",
+  "advice": "Piepende rubbers vervang je zelf — wissers liggen in elke onderdelenwinkel. Voor het tikken op de omkeerpunten: laat de moeren van de armen aandraaien of de bussen van het mechaniek vervangen wanneer het uitkomt. Voor de veiligheid telt alleen dat de ruit schoon wordt."
+ },
+ "leaf_eps": {
+  "top_cause": "Elektrische stuurbekrachtiging: licht zoemen is normaal",
+  "alt_causes": [
+   "Slijtage van de elektrische bekrachtiging",
+   "Stuurhuis"
+  ],
+  "explanation": "Zit er onder de motorkap geen reservoir met olie, dan is de stuurbekrachtiging elektrisch en is een gelijkmatig, zacht zoemen bij het sturen gewoon hoe hij werkt, geen defect. De hydraulische pomp die gaat janken bij een laag oliepeil zit er in zo'n auto simpelweg niet in.",
+  "advice": "Bij elektrische bekrachtiging zijn de alarmsignalen anders: het stuur wordt zwaar of wordt schoksgewijs zwaarder, er komt geknars bij of het bekrachtigingslampje brandt. Is daar sprake van, ga dan binnen een paar dagen naar de garage; zo niet, dan kun je rustig doorrijden."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Pakking of scheur in het uitlaatspruitstuk",
+  "alt_causes": [
+   "Spruitstukbouten",
+   "Hydraulische klepstoters"
+  ],
+  "explanation": "Snel tikken bij een koude motor dat buiten harder klinkt dan binnen en samengaat met een uitlaatgeur onder de motorkap, betekent dat uitlaatgas ontsnapt langs een doorgebrande pakking of een scheur in het uitlaatspruitstuk. Naarmate de motor warm wordt zet het metaal uit, sluit de spleet en verdwijnt het tikken.",
+  "advice": "Maak binnen een of twee weken een afspraak: de spleet wordt met de tijd groter en de uitlaatgeur kan via de kachel het interieur in trekken — dat is ongezond. Lucht de auto tot die tijd goed als je de geur ruikt."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Normaal tikken van de verstuivers (directe inspuiting of diesel)",
+  "alt_causes": [
+   "Hogedrukbrandstofpomp",
+   "Klepspeling"
+  ],
+  "explanation": "Bij motoren met directe inspuiting (TSI, GDI en dergelijke) en bij diesels tikken de verstuivers en de hogedrukpomp altijd — zo werken ze nu eenmaal. Kenmerken: het geluid is koud en warm hetzelfde, buiten harder dan binnen, en het hangt niet af van de leeftijd van de olie.",
+  "advice": "Je hoeft niets te doen. Let wel op iets anders: is het tikken duidelijk harder dan vroeger, verandert het als de motor warm is of kwam het samen met verlies aan trekkracht — laat het dan nakijken."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Valse lucht (vacuümslang, inlaatpakking)",
+  "alt_causes": [
+   "Gescheurde slang",
+   "Pakking van het inlaatspruitstuk"
+  ],
+  "explanation": "Gelijkmatig sissen onder de motorkap, als lucht uit een lekke band, betekent dat er ongemeten lucht wordt aangezogen via een gescheurde slang of een inlaatpakking. De motor loopt daardoor vaak onregelmatig: het stationair toerental schommelt en soms brandt het motorstoringslampje.",
+  "advice": "Maak binnen een paar dagen een afspraak, zeker als het toerental schommelt: zoeken naar valse lucht is standaardwerk. Zelf kun je de dunne rubberslangen onder de motorkap op scheurtjes bekijken zonder iets te demonteren."
  }
 }
