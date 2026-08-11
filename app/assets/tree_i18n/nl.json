@@ -954,5 +954,79 @@
   ],
   "explanation": "Piepen bij elke rembeurt is het signaal om de blokken te controleren. Veel blokken hebben een metalen slijtage-indicator: als het werkzame deel (het remmateriaal dat over de schijf loopt) tot de grens is versleten, raakt het plaatje de schijf en piept met opzet. Ook de blokken zelf kunnen piepen — door aanslag, een verglaasd oppervlak of goedkoop materiaal.",
   "advice": "Maak deze week een afspraak om blokken en schijven te laten bekijken. Is het de slijtage-indicator, dan mag je niet wachten: de volgende fase is metaal op metaal en beschadigde schijven. Zijn de blokken in orde, dan is het piepen ongevaarlijk en vertelt de monteur hoe je het wegkrijgt."
+ },
+ "leaf_brake_grind": {
+  "top_cause": "Remblokken tot op het metaal versleten",
+  "alt_causes": [
+   "Voorwerp in het remmechanisme",
+   "Uiteengevallen remblok"
+  ],
+  "explanation": "Metaal dat over metaal knarst bij het remmen betekent dat het remmateriaal op is en de metalen rugplaat van het blok over de schijf schuurt. De remweg wordt langer, de schijf gaat bij elke stop verder kapot en het mechanisme kan vastlopen.",
+  "advice": "Stop met gewoon rijden en ga alleen naar de garage, met vroeg en rustig remmen. Stel vervanging geen dag uit: naast de veiligheid legt elke kilometer met geknars de kosten van nieuwe remschijven op de rekening."
+ },
+ "leaf_brake_knock": {
+  "top_cause": "Geleidepennen van de remklauw of slingerende remschijven",
+  "alt_causes": [
+   "Speling in de naaf",
+   "Losgeraakte bevestiging van de remklauw"
+  ],
+  "explanation": "Kloppen bij het remmen of pulseren in het pedaal komt meestal uit het remmechanisme: de geleidepennen van de remklauw (het onderdeel dat de blokken tegen de schijf duwt) zijn uitgesleten, of de schijf is kromgetrokken en de blokken slaan ertegenaan. De remmen werken wel, maar ongelijkmatig.",
+  "advice": "Laat de remmen binnen een paar dagen nakijken: een onderdeel waar je veiligheid van afhangt kun je beter niet laten lopen. Zakt het pedaal dieper weg dan normaal, trekt de auto bij het remmen naar één kant of slaat het stuur, ga dan meteen langs voor diagnose."
+ },
+ "leaf_wheel_scrape": {
+  "top_cause": "Er schuurt iets tegen de remschijf (stofplaat of versleten blokken)",
+  "alt_causes": [
+   "Remblokken tot op het metaal versleten",
+   "Verbogen stofplaat van de schijf",
+   "Steentje tussen stofplaat en schijf"
+  ],
+  "explanation": "Continu knarsen of schuren bij een wiel betekent meestal dat er iets tegen de draaiende remschijf aan komt: een verbogen stofplaat, een steentje dat ertussen is geraakt — of remblokken die tot op het metaal versleten zijn. De eerste twee zijn onschuldig, de derde is gevaarlijk, en op het gehoor haal je ze makkelijk door elkaar.",
+  "advice": "Laat het binnen een dag of twee nakijken, zonder uitstel: bij het wiel is de oorzaak snel te zien. Wordt het knarsen erger bij het remmen of doet het pedaal raar, stop dan met rijden en ga voorzichtig naar de garage."
+ },
+ "leaf_bearing_turn": {
+  "top_cause": "Wiellager",
+  "alt_causes": [
+   "Bandengeruis",
+   "Versleten homokineet"
+  ],
+  "explanation": "Brommen dat tijdens het rijden in bochten verandert, is het klassieke teken van een versleten wiellager: het lager waarop het wiel draait. In een bocht verplaatst het gewicht zich naar de buitenste wielen: wordt het brommen harder in een linkerbocht, dan wordt de rechterkant belast en bromt waarschijnlijk het rechterlager; in een rechterbocht andersom. Een lager dat uit elkaar valt geeft speling in het wiel en kan in het ergste geval vastlopen.",
+  "advice": "Onthoud in welke bochtrichting het brommen harder is en vertel dat in de garage — dat versmalt het zoeken meteen. Stel de controle niet langer dan een week uit en bewaar lange ritten tot na de diagnose. Komt er trilling bij of wordt het brommen duidelijk harder, ga dan meteen."
+ },
+ "leaf_cv_outer": {
+  "top_cause": "Buitenste homokineet",
+  "alt_causes": [
+   "Binnenste homokineet",
+   "Stabilisatorstangen",
+   "Koppeling van de vierwielaandrijving"
+  ],
+  "explanation": "Klikken of knappen tijdens het rijden met het stuur ver ingedraaid is het handelsmerk van een versleten buitenste homokineet: het scharnier waardoor het sturende wiel wordt aangedreven. Meestal begint het met een gescheurde hoes — het rubberen manchet dat het scharnier tegen vuil beschermt.",
+  "advice": "Bekijk de hoezen van de aandrijfassen of laat dat in de garage doen: een gescheurde hoes met vet eromheen bevestigt de diagnose. Wacht met vervangen niet langer dan een week of twee — een versleten scharnier kan vastlopen. Trek tot die tijd niet fel op met het stuur ingedraaid."
+ },
+ "leaf_steering_knock": {
+  "top_cause": "Stuurkogels of het stuurhuis",
+  "alt_causes": [
+   "Stabilisatorstangen",
+   "Bovenste veerpootlagers"
+  ],
+  "explanation": "Kloppen als je aan het stuur draait, vooral stilstaand of bij lage snelheid, komt meestal van speling in de stuurkogels, de stuurstangen of het stuurhuis zelf. Het rijden hindert het nog niet, maar speling in de besturing wordt met de tijd alleen maar groter.",
+  "advice": "Laat de besturing binnen een paar dagen nakijken: de controle op de brug duurt een paar minuten. Voelt het stuur rond de middenstand loos, zwabbert de auto in zijn baan of is het kloppen ineens veel erger — stel het niet uit, dit is een veiligheidsonderdeel."
+ },
+ "leaf_ps_pump": {
+  "top_cause": "Stuurbekrachtigingspomp",
+  "alt_causes": [
+   "Te weinig stuurbekrachtigingsolie",
+   "Multiriem"
+  ],
+  "explanation": "Janken of brommen dat opkomt als je stilstaand of bij lage snelheid stuurt, komt meestal van de stuurbekrachtigingspomp — die maakt de oliedruk die het sturen licht houdt. Het hardst jankt hij met het stuur helemaal ingedraaid. De meest voorkomende oorzaak is een gezakt oliepeil in het reservoir.",
+  "advice": "Controleer het peil van de stuurbekrachtigingsolie in het reservoir onder de motorkap en vul bij als het onder MIN staat. Houd het stuur niet langer dan een paar seconden helemaal ingedraaid. Blijft het janken na het bijvullen of zakt het peil opnieuw, ga dan binnen een week naar de garage."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Stabilisatorstangen",
+  "alt_causes": [
+   "Stabilisatorrubbers",
+   "Fuseekogels"
+  ],
+  "explanation": "Snel, dof kloppen op kleine oneffenheden — klinkers, voegen, een geribbeld wegdek — komt meestal van de stabilisatorstangen: kleine stangetjes met kogelgewrichten die in de ophanging als eerste verslijten. Op zichzelf zijn ze niet gevaarlijk, maar zwaardere onderdelen kunnen op dezelfde manier klinken.",
+  "advice": "Maak binnen een of twee weken een afspraak om de ophanging te laten nakijken: op de brug wrikt de monteur aan de onderdelen en vindt de speling in een paar minuten. Neem tot die tijd grote kuilen langzaam. Gaat de auto naar één kant trekken, ga dan eerder."
  }
 }
