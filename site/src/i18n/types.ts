@@ -15,6 +15,8 @@ export interface Dict {
     disclaimer: string;
     how: string;
     privacy: string;
+    /** Когда разборы уже переведены, а статьи ещё нет. */
+    ruArticles: string;
     ruOnly: string;
   };
   home: {
@@ -42,6 +44,39 @@ export interface Dict {
     cta: string;
     schemaMarked: string;
     schemaWhole: string;
+  };
+  /** Раздел «Симптомы по звуку»: заголовки и подписи вокруг разборов.
+   *  Сами разборы лежат отдельно — в src/data/symptoms_i18n/. */
+  symptoms: {
+    indexTitle: string;
+    indexDescription: string;
+    h1: string;
+    sub: string;
+    gDvigatel: string;
+    gDvizhenie: string;
+    gTormozaRul: string;
+    gPodveska: string;
+    causesH2: string;
+    thCause: string;
+    thLikelihood: string;
+    thDanger: string;
+    canRideH2: string;
+    checksH2: string;
+    quizH2: string;
+    quizSub: string;
+    appHelpH2: string;
+    faqH2: string;
+    lightOk: string;
+    lightWarn: string;
+    lightStop: string;
+    mapTitle: string;
+    mapOk: string;
+    mapWarn: string;
+    mapStop: string;
+    zoneDvigatel: string;
+    zoneDvizhenie: string;
+    zoneTormoza: string;
+    zonePodveska: string;
   };
   download: {
     h2: string;

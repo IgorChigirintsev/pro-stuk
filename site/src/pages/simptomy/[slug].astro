@@ -1,10 +1,5 @@
 ---
-import Base from '../../layouts/Base.astro';
-import TrafficLight from '../../components/TrafficLight.astro';
-import TreeWidget from '../../components/TreeWidget.tsx';
-import { t } from '../../i18n';
-import DownloadApk from '../../components/DownloadApk.astro';
-import KartaZvuka, { type Zone } from '../../components/KartaZvuka.astro';
+import Symptom from '../../components/pages/Symptom.astro';
 import { SYMPTOMS } from '../../data/types';
 import { getCollection } from 'astro:content';
 
@@ -29,117 +24,13 @@ export function getStaticPaths() {
 const { page } = Astro.props;
 
 // Статьи, ссылающиеся на этот симптом, — обратная перелинковка кластеров.
+// Кластер русский, поэтому блок есть только здесь.
 const allArticles = await getCollection('articles');
-const articlesForSymptom = allArticles
+const articles = allArticles
   .filter((a) => a.body?.includes(`/simptomy/${page.slug}/`))
   .sort((a, b) => (b.data.updated ?? b.data.pubDate).localeCompare(a.data.updated ?? a.data.pubDate))
-  .slice(0, 6);
-
-const faqSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'FAQPage',
-  mainEntity: page.faq.map((f) => ({
-    '@type': 'Question',
-    name: f.q,
-    acceptedAnswer: { '@type': 'Answer', text: f.a },
-  })),
-};
-
-/** Зона источника звука по группе симптома — для карты звука. */
-const ZONE_BY_GROUP: Record<typeof page.group, { zone: Zone; caption: string }> = {
-  dvigatel: { zone: 'motor', caption: 'моторный отсек' },
-  dvizhenie: { zone: 'koleso', caption: 'колёса и то, что вращается вместе с ними' },
-  'tormoza-rul': { zone: 'koleso', caption: 'тормоза и рулевое, зона колеса' },
-  podveska: { zone: 'koleso', caption: 'подвеска, зона колеса' },
-};
-const { zone, caption: zoneCaption } = ZONE_BY_GROUP[page.group];
-
-// Светофор показываем по самой опасной из перечисленных причин — это данные, не оценка.
-const RANK = { ok: 0, warn: 1, stop: 2 } as const;
-const worstUrgency = page.causes.reduce(
-  (worst, c) => (RANK[c.urgency] > RANK[worst] ? c.urgency : worst),
-  'ok' as 'ok' | 'warn' | 'stop',
-);
+  .slice(0, 6)
+  .map((a) => ({ slug: a.id, title: a.data.title }));
 ---
 
-<Base title={page.metaTitle} description={page.description} schema={faqSchema}>
-  <article>
-    <h1 class="text-2xl font-bold sm:text-3xl">{page.h1}</h1>
-
-    <KartaZvuka zone={zone} caption={zoneCaption} urgency={worstUrgency} class="mt-6" />
-
-    {page.intro.map((p) => <p class="mt-4 text-ink-soft">{p}</p>)}
-
-    <h2 class="mt-10 text-xl font-bold">Возможные причины</h2>
-    <div class="mt-4 overflow-x-auto rounded-card border border-line">
-      <table class="w-full border-collapse text-left">
-        <thead>
-          <tr class="bg-surface text-s text-ink-soft">
-            <th class="p-3 font-semibold">Причина</th>
-            <th class="p-3 font-semibold">Насколько вероятно</th>
-            <th class="p-3 font-semibold">Опасность</th>
-          </tr>
-        </thead>
-        <tbody>
-          {page.causes.map((c) => (
-            <tr class="border-t border-line align-top">
-              <td class="p-3">{c.name}</td>
-              <td class="p-3 text-ink-soft">{c.likelihood}</td>
-              <td class="p-3"><TrafficLight urgency={c.urgency} /></td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
-
-    <h2 class="mt-10 text-xl font-bold">Можно ли ехать</h2>
-    {page.canRide.map((p) => <p class="mt-4">{p}</p>)}
-
-    <h2 class="mt-10 text-xl font-bold">Что проверить самому</h2>
-    <ul class="mt-4 list-disc space-y-2 pl-5">
-      {page.checks.map((c) => <li>{c}</li>)}
-    </ul>
-
-    <h2 class="mt-10 text-xl font-bold">Уточнить причину по вопросам</h2>
-    <p class="mt-3 mb-4 text-ink-soft">
-      Ответьте на несколько вопросов — дерево диагностики сузит список причин
-      для вашего случая.
-    </p>
-    <TreeWidget client:visible startNode={page.startNode} lang="ru" ui={t('ru').quiz} />
-
-    <h2 class="mt-10 text-xl font-bold">Как поможет приложение</h2>
-    <p class="mt-4">{page.appHelp}</p>
-
-    <h2 class="mt-10 text-xl font-bold">Частые вопросы</h2>
-    <div class="mt-4 space-y-4">
-      {page.faq.map((f) => (
-        <details class="rounded-card border border-line bg-surface p-4">
-          <summary class="cursor-pointer font-semibold">{f.q}</summary>
-          <p class="mt-2 text-ink-soft">{f.a}</p>
-        </details>
-      ))}
-    </div>
-
-    {articlesForSymptom.length > 0 && (
-      <>
-        <h2 class="mt-10 text-xl font-bold">Статьи по теме</h2>
-        <ul class="mt-4 grid gap-3 sm:grid-cols-2">
-          {articlesForSymptom.map((a) => (
-            <li>
-              <a
-                href={`/stati/${a.id}/`}
-                class="block h-full rounded-card border border-line bg-surface p-4 text-ink no-underline hover:border-accent"
-              >
-                {a.data.title}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </>
-    )}
-
-    <div class="mt-12">
-      <DownloadApk />
-    </div>
-  </article>
-</Base>
+<Symptom page={page} lang="ru" articles={articles} />

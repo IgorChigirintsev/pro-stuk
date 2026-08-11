@@ -1,10 +1,14 @@
 ---
 /** Мини-светофор для таблиц причин: точка + подпись. */
+import { DEFAULT_LANG, t } from '../i18n';
+
 interface Props {
   urgency: 'ok' | 'warn' | 'stop';
+  lang?: string;
 }
-const { urgency } = Astro.props;
-const label = { ok: 'можно ехать', warn: 'в сервис на неделе', stop: 'остановиться' }[urgency];
+const { urgency, lang = DEFAULT_LANG } = Astro.props;
+const s = t(lang).symptoms;
+const label = { ok: s.lightOk, warn: s.lightWarn, stop: s.lightStop }[urgency];
 const dot = { ok: 'bg-ok', warn: 'bg-warn', stop: 'bg-stop' }[urgency];
 ---
 

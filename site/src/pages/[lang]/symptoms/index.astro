@@ -1,0 +1,14 @@
+---
+import Symptoms from '../../../components/pages/Symptoms.astro';
+import { PREFIXED } from '../../../i18n';
+import { hasSymptoms } from '../../../data/types';
+
+export function getStaticPaths() {
+  // Раздел появляется только у языков с полным переводом разборов.
+  return PREFIXED.filter(hasSymptoms).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+---
+
+<Symptoms lang={lang} />

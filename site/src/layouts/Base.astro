@@ -11,9 +11,12 @@ import {
   RTL,
   altsFor,
   pathFor,
+  symptomAlts,
+  symptomPath,
   t,
   type PageId,
 } from '../i18n';
+import { hasSymptoms } from '../data/types';
 
 interface Props {
   title: string;
@@ -27,8 +30,10 @@ interface Props {
   /** Язык страницы. По умолчанию русский: на нём весь исходный контент. */
   lang?: string;
   /** Идентификатор страницы для hreflang и переключателя языка.
-   *  Не задан — значит переводов у страницы нет (статьи, разборы). */
+   *  Не задан — значит переводов у страницы нет (статьи, разборы по узлам). */
   page?: PageId;
+  /** Разбор симптома: адреса у него свои на каждом языке. */
+  symptomSlug?: string;
 }
 
 const {
@@ -39,14 +44,15 @@ const {
   ogImage = v('/og/default.png'),
   lang = DEFAULT_LANG,
   page,
+  symptomSlug,
 } = Astro.props;
 
 const d = t(lang);
 const isRu = lang === DEFAULT_LANG;
 const canonical = new URL(Astro.url.pathname, SITE_URL).href;
 // Есть перевод — есть и альтернативы; у статьи их нет, и трогать её нельзя.
-const alts = page ? altsFor(page) : null;
-const langHref = (l: string) => (alts ? alts[l] : pathFor('home', l));
+const alts = symptomSlug ? symptomAlts(symptomSlug) : page ? altsFor(page) : null;
+const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
 ---
 
 <!doctype html>
@@ -58,12 +64,16 @@ const langHref = (l: string) => (alts ? alts[l] : pathFor('home', l));
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {
+      /* Перечисляем только те языки, где страница действительно есть:
+         разбор симптома живёт лишь на переведённых языках. */
       alts && (
         <>
-          {LANGS.map((l) => (
-            <link rel="alternate" hreflang={l} href={new URL(alts[l], SITE_URL).href} />
+          {Object.entries(alts).map(([l, href]) => (
+            <link rel="alternate" hreflang={l} href={new URL(href, SITE_URL).href} />
           ))}
-          <link rel="alternate" hreflang="x-default" href={new URL(alts.en, SITE_URL).href} />
+          {alts.en && (
+            <link rel="alternate" hreflang="x-default" href={new URL(alts.en, SITE_URL).href} />
+          )}
         </>
       )
     }
@@ -136,9 +146,9 @@ const langHref = (l: string) => (alts ? alts[l] : pathFor('home', l));
         <!-- Иконки навигации: подписи в title и aria-label -->
         <div class="ml-auto flex items-center gap-4" data-nav>
           {
-            isRu && (
+            hasSymptoms(lang) && (
               <a
-                href="/simptomy/"
+                href={symptomPath(null, lang)}
                 class="p-1 text-ink-soft hover:text-accent"
                 aria-label={d.nav.symptoms}
                 title={d.nav.symptoms}
@@ -240,7 +250,7 @@ const langHref = (l: string) => (alts ? alts[l] : pathFor('home', l));
                вместо того чтобы молча уводить на непонятный язык. */
             !isRu && (
               <a href="/simptomy/" class="hover:text-accent" hreflang="ru" lang="ru">
-                {d.footer.ruOnly}
+                {hasSymptoms(lang) ? d.footer.ruArticles : d.footer.ruOnly}
               </a>
             )
           }

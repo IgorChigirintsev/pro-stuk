@@ -1,4 +1,5 @@
 import type { Dict } from './types';
+import { SYMPTOM_SLUGS, hasSymptoms } from '../data/types';
 import { ru } from './ru';
 import { en } from './en';
 import { de } from './de';
@@ -79,13 +80,14 @@ export const COUNTRY_TO_LANG: Record<string, Lang> = {
 };
 
 /** Страницы, у которых есть версия на каждом языке. */
-export type PageId = 'home' | 'how' | 'privacy';
+export type PageId = 'home' | 'how' | 'privacy' | 'symptoms';
 
 /** Русские адреса исторические, у остальных языков — общие английские слаги. */
 const ROUTES: Record<PageId, { ru: string; slug: string }> = {
   home: { ru: '/', slug: '' },
   how: { ru: '/kak-eto-rabotaet/', slug: 'how-it-works/' },
   privacy: { ru: '/politika/', slug: 'privacy/' },
+  symptoms: { ru: '/simptomy/', slug: 'symptoms/' },
 };
 
 export function pathFor(page: PageId, lang: string): string {
@@ -95,7 +97,23 @@ export function pathFor(page: PageId, lang: string): string {
 
 /** Карта «язык → адрес этой же страницы» для hreflang и переключателя. */
 export function altsFor(page: PageId): Record<string, string> {
-  return Object.fromEntries(LANGS.map((l) => [l, pathFor(page, l)]));
+  const langs = page === 'symptoms' ? LANGS.filter(hasSymptoms) : LANGS;
+  return Object.fromEntries(langs.map((l) => [l, pathFor(page, l)]));
+}
+
+/** Адрес разбора симптома: русский слаг в корне, английский — под префиксом.
+ *  slug === null — сам раздел. */
+export function symptomPath(slug: string | null, lang: string): string {
+  if (!slug) return pathFor('symptoms', lang);
+  if (lang === DEFAULT_LANG) return `/simptomy/${slug}/`;
+  return `/${lang}/symptoms/${SYMPTOM_SLUGS[slug]}/`;
+}
+
+/** Альтернативы одного разбора — только языки, где он переведён целиком. */
+export function symptomAlts(slug: string): Record<string, string> {
+  return Object.fromEntries(
+    LANGS.filter(hasSymptoms).map((l) => [l, symptomPath(slug, l)])
+  );
 }
 
 const DICTS: Partial<Record<Lang, Dict>> = { ru, en, de, es, fr, pt, it, pl, tr, nl, zh, ja, ko, ar };

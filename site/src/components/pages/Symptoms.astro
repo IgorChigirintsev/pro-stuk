@@ -1,0 +1,76 @@
+---
+/** Индекс раздела «Симптомы по звуку» — один на все языки. */
+import Base from '../../layouts/Base.astro';
+import { SYMPTOMS, SYMPTOMS_TR } from '../../data/types';
+import { SITE_URL } from '../../../site.config.mjs';
+import { DEFAULT_LANG, symptomPath, t } from '../../i18n';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = DEFAULT_LANG } = Astro.props;
+const dict = t(lang);
+const L = dict.symptoms;
+const tr = SYMPTOMS_TR[lang] ?? {};
+
+/** Заголовок ссылки — перевод, если он есть; на русском это сам оригинал. */
+const titleOf = (slug: string, ru: string) => (lang === DEFAULT_LANG ? ru : tr[slug]?.h1 ?? ru);
+
+const items = SYMPTOMS.map((s) => ({
+  slug: s.slug,
+  group: s.group,
+  title: titleOf(s.slug, s.h1),
+  href: symptomPath(s.slug, lang),
+})).sort((a, b) => a.title.localeCompare(b.title, lang));
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: L.h1,
+  url: new URL(symptomPath(null, lang), SITE_URL).href,
+  inLanguage: lang,
+  hasPart: items.map((s) => ({
+    '@type': 'WebPage',
+    name: s.title,
+    url: new URL(s.href, SITE_URL).href,
+  })),
+};
+
+const GROUP_TITLES = {
+  dvigatel: L.gDvigatel,
+  dvizhenie: L.gDvizhenie,
+  'tormoza-rul': L.gTormozaRul,
+  podveska: L.gPodveska,
+} as const;
+const order = ['dvigatel', 'dvizhenie', 'tormoza-rul', 'podveska'] as const;
+---
+
+<Base
+  title={L.indexTitle}
+  description={L.indexDescription}
+  schema={schema}
+  lang={lang}
+  page="symptoms"
+>
+  <h1 class="text-2xl font-bold sm:text-3xl">{L.h1}</h1>
+  <p class="mt-4 max-w-2xl text-ink-soft">{L.sub}</p>
+
+  {order.map((g) => (
+    <section class="mt-10">
+      <h2 class="text-xl font-bold">{GROUP_TITLES[g]}</h2>
+      <ul class="mt-4 grid gap-3 sm:grid-cols-2">
+        {items.filter((s) => s.group === g).map((s) => (
+          <li>
+            <a
+              href={s.href}
+              class="block min-h-14 rounded-card border border-line bg-surface px-4 py-3 text-ink no-underline hover:border-accent"
+            >
+              {s.title}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

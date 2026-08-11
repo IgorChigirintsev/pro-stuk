@@ -7,6 +7,8 @@
  * (симптом-страницы: максимум по causes). Для pSEO-статей её нет —
  * карта показывает только зону, ничего не выдумывая.
  */
+import { DEFAULT_LANG, t } from '../i18n';
+
 export type Zone = 'motor' | 'koleso' | 'dnishche' | 'zad' | 'salon';
 
 interface Props {
@@ -15,9 +17,11 @@ interface Props {
   caption: string;
   urgency?: 'ok' | 'warn' | 'stop';
   class?: string;
+  lang?: string;
 }
 
-const { zone, caption, urgency, class: cls = '' } = Astro.props;
+const { zone, caption, urgency, class: cls = '', lang = DEFAULT_LANG } = Astro.props;
+const L = t(lang).symptoms;
 
 /**
  * Зоны в системе координат силуэта (машина смотрит влево).
@@ -54,9 +58,9 @@ const GLASS_F = 'M 138 104 L 174 70 L 206 70 L 206 104 Z';
 const GLASS_R = 'M 214 70 L 250 70 L 286 104 L 214 104 Z';
 
 const URGENCY: Record<string, { label: string; step: number; color: string }> = {
-  ok: { label: 'Можно спокойно доехать до сервиса', step: 0, color: '#15803D' },
-  warn: { label: 'Не тянуть: проверить в ближайшие дни', step: 1, color: '#B45309' },
-  stop: { label: 'Ехать в сервис, не откладывая', step: 2, color: '#C2410C' },
+  ok: { label: L.mapOk, step: 0, color: '#15803D' },
+  warn: { label: L.mapWarn, step: 1, color: '#B45309' },
+  stop: { label: L.mapStop, step: 2, color: '#C2410C' },
 };
 const u = urgency ? URGENCY[urgency] : null;
 
@@ -67,13 +71,13 @@ const GLASS = '#F5F7F9';
 ---
 
 <figure class={`rounded-card border border-line bg-surface p-5 ${cls}`}>
-  <p class="font-bold">Откуда звук</p>
+  <p class="font-bold">{L.mapTitle}</p>
   <p class="mt-1 text-s text-ink-soft">{caption}</p>
 
   <svg
     viewBox={viewBox}
     role="img"
-    aria-label={`Силуэт автомобиля, подсвечена зона: ${caption}`}
+    aria-label={`${L.mapTitle}: ${caption}`}
     class="mt-3 w-full"
   >
     <path d={BODY} fill={SKIN} stroke={INK} stroke-width="3" stroke-linejoin="round" />

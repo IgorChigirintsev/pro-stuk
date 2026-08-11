@@ -1,0 +1,19 @@
+---
+import Symptom from '../../../components/pages/Symptom.astro';
+import { PREFIXED } from '../../../i18n';
+import { SYMPTOMS, SYMPTOMS_TR, SYMPTOM_SLUGS, hasSymptoms } from '../../../data/types';
+
+export function getStaticPaths() {
+  return PREFIXED.filter(hasSymptoms).flatMap((lang) =>
+    SYMPTOMS.map((page) => ({
+      params: { lang, slug: SYMPTOM_SLUGS[page.slug] },
+      props: { page, tr: SYMPTOMS_TR[lang][page.slug] },
+    }))
+  );
+}
+
+const { lang } = Astro.params;
+const { page, tr } = Astro.props;
+---
+
+<Symptom page={page} lang={lang} tr={tr} />
