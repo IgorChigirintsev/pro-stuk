@@ -536,4 +536,184 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-pri-povorote': {
+    h1: 'Zumbido nas curvas',
+    metaTitle: 'Zumbido na curva: rolamento de roda ou direção hidráulica | Stuk',
+    description:
+      'De onde vem o zumbido nas curvas: rolamento de roda gasto, bomba da direção hidráulica uivando ou ruído dos pneus. Como descobrir o lado e se é perigoso.',
+    intro: [
+      'No zumbido em curva é preciso separar logo dois cenários: um zumbido em velocidade que cresce numa curva e diminui na outra, e um uivo que aparece ao girar o volante parado ou manobrando. Soam parecido, mas as fontes são completamente diferentes: no primeiro caso a roda, no segundo a direção.',
+      'Um zumbido em velocidade que depende do sentido da curva é a assinatura clássica do rolamento de roda — o mancal sobre o qual a roda gira. Na curva o peso do carro passa para as rodas externas, e um rolamento gasto e carregado zumbe mais alto. O uivo ao girar o volante em baixa velocidade costuma vir da bomba da direção hidráulica, em geral por nível baixo de fluido. E em carros com direção elétrica um leve zumbido ao girar o volante é normal e não defeito.',
+    ],
+    causes: [
+      { name: 'Rolamento de roda', likelihood: 'O mais comum — se o zumbido vem com a velocidade e muda em curva' },
+      { name: 'Bomba da direção hidráulica ou nível baixo de fluido', likelihood: 'Comum — se uiva ao girar o volante parado' },
+      { name: 'Ruído dos pneus', likelihood: 'Comum; o zumbido depende do piso, não da curva' },
+      { name: 'Zumbido normal da direção elétrica', likelihood: 'Normal em carros sem reservatório de fluido de direção' },
+      { name: 'Junta homocinética gasta', likelihood: 'Mais raro; costuma vir com estalos com o volante todo virado' },
+    ],
+    canRide: [
+      'Com o rolamento zumbindo dá para rodar, mas é um crédito de prazo curto: não adie a revisão além de uma semana e deixe as viagens longas em velocidade alta para depois dela. Um rolamento se destruindo dá folga à roda e, num caso descuidado, pode travar. Se o zumbido cresceu de repente ou veio acompanhado de vibração — à oficina já.',
+      'Com a bomba da direção uivando, o primeiro passo é conferir o nível de fluido no reservatório: completar costuma encerrar o assunto. Dá para rodar, mas não segure o volante no fim de curso por mais de dois segundos — nessa posição a bomba trabalha na pressão máxima. Se depois de completar o uivo continuar ou o nível cair de novo, há vazamento — oficina dentro de uma semana.',
+    ],
+    checks: [
+      'Guardar em que sentido de curva o zumbido é mais forte. Mais forte ao virar à esquerda significa que o lado carregado é o direito, então o rolamento direito é o candidato; e vice-versa. Esse detalhe encurta bastante a busca na oficina.',
+      'Conferir o som parado: se o uivo aparece ao girar o volante no estacionamento, as rodas não têm nada a ver — a fonte é a direção.',
+      'Olhar sob o capô se há reservatório de fluido de direção. Se houver, conferir o nível e completar até a marca se preciso; se não houver, a direção é elétrica, e um zumbido baixo e constante nela é normal.',
+      'Avaliar a dependência do piso: um zumbido mais baixo no asfalto novo e mais alto no áspero costuma vir dos pneus, não do rolamento.',
+      'Olhar a banda de rodagem: desgaste «em serra» (degraus nas bordas) ou em manchas aumenta o zumbido dos pneus e sugere alinhamento fora ou amortecedores cansados.',
+    ],
+    appHelp:
+      'O aplicativo Stuk faz as mesmas perguntas que o mecânico na recepção: onde se ouve o zumbido, se muda em curva, se está ligado a girar o volante parado. A gravação ajuda a comparar o som com exemplos típicos, e no relatório vêm causas prováveis e uma recomendação clara: siga tranquilo, agende para esta semana ou verifique sem adiar.',
+    faq: [
+      {
+        q: 'Por que o zumbido cresce só para um lado da curva?',
+        a: 'Na curva o peso do carro passa para as rodas externas. Se estiver gasto, por exemplo, o rolamento direito, sob carga ele zumbe mais alto — ou seja, ao virar à esquerda. Essa propriedade permite saber, antes mesmo da oficina, qual lado conferir primeiro.',
+      },
+      {
+        q: 'Dá para completar a direção hidráulica com qualquer fluido?',
+        a: 'Não. O tipo de fluido está no manual do carro e muitas vezes na própria tampa do reservatório. Completar uma vez com o fluido certo é seguro, mas se o nível cai com regularidade há um vazamento em algum lugar: achá-lo e repará-lo é serviço de oficina, completar não resolve.',
+      },
+      {
+        q: 'Não há reservatório de direção sob o capô e mesmo assim zumbe na curva — o que é?',
+        a: 'O mais provável é que a direção seja elétrica: o motor dela zumbe baixinho ao girar o volante, e isso é funcionamento normal. Devem preocupar outros sinais: a direção ficou pesada ou pesa aos trancos, apareceu um rangido, ou a luz da direção acendeu. Com eles, oficina nos próximos dias.',
+      },
+    ],
+  },
+
+  'shchelchki-pri-povorote-rulya': {
+    h1: 'Estalos ao girar o volante',
+    metaTitle: 'Estalos ao virar o volante: homocinética ou rolamento | Stuk',
+    description:
+      'Por que estala ao girar o volante: junta homocinética externa, rolamento do amortecedor ou cruzeta da coluna. Como distingui-los pelo som e o que conferir sem desmontar.',
+    intro: [
+      'Os estalos ao girar o volante se separam por uma pergunta simples: o carro está andando nesse momento ou parado? Um estalar seco andando com o volante virado é a assinatura da junta homocinética externa, a articulação pela qual o giro chega à roda que também esterça. Quanto mais virado o volante e mais brusca a arrancada, mais nítido o estalo. Tudo costuma começar com uma coifa rasgada: a capa de borracha que protege a junta da sujeira.',
+      'Se, ao contrário, os estalos se ouvem ao girar o volante com o carro parado, a homocinética em geral não tem culpa. Um rangido vindo de cima, da caixa de roda, vem do rolamento do amortecedor — a peça sobre a qual o topo do amortecedor gira junto com a roda. Estalos no próprio volante, à altura dos pés do motorista, são a cruzeta da coluna, a pequena articulação entre o volante e a caixa de direção. Nenhuma dessas opções obriga a largar o carro onde está, mas nenhuma deve se arrastar por meses.',
+    ],
+    causes: [
+      { name: 'Junta homocinética externa', likelihood: 'O mais comum — se estala andando com o volante virado' },
+      { name: 'Rolamento do amortecedor', likelihood: 'Comum — se range parado, vindo de cima da caixa de roda' },
+      { name: 'Cruzeta da coluna de direção', likelihood: 'Se os estalos se ouvem e se sentem no próprio volante' },
+      { name: 'Terminais de direção ou a caixa', likelihood: 'Mais raro; costumam dar batidas, não estalos' },
+      { name: 'Junta homocinética interna, bieletas', likelihood: 'Mais raro; verificam-se no mesmo diagnóstico' },
+    ],
+    canRide: [
+      'Com uma homocinética estalando dá para rodar, mas não adie a troca além de uma ou duas semanas: uma junta gasta no pior caso trava, e aí já não é som, e sim carro parado. Até o conserto ajuda um regime mais suave — não arrancar bruscamente com as rodas no fim de curso.',
+      'O rolamento do amortecedor e a cruzeta da coluna dão mais desconforto do que perigo imediato, mas a direção é item de segurança, então faça o diagnóstico nos próximos dias: no elevador leva poucos minutos. Motivos para apressar: o volante ficou «vazio» na posição central, o carro vagueia na faixa ou os estalos ficaram bem mais frequentes.',
+    ],
+    checks: [
+      'Separar os cenários num estacionamento vazio: o estalo aparece andando em círculo com o volante virado — ou os estalos se ouvem ao girar o volante com o carro parado?',
+      'Examinar as coifas das homocinéticas — as capas sanfonadas de borracha do lado interno de cada roda dianteira. Um rasgo com graxa espalhada em volta é diagnóstico quase confirmado.',
+      'Pedir a alguém que gire o volante com o motor desligado e pôr a palma sobre a torre do amortecedor sob o capô: os estalos de um rolamento gasto se sentem com a mão.',
+      'Balançar o volante para os lados com o motor desligado e ouvir à altura dos pés: um estalo nítido na coluna denuncia a cruzeta.',
+      'Guardar de qual roda vem o estalo em movimento e em qual curva ele é mais forte — esses detalhes encurtam bastante a busca na oficina.',
+    ],
+    appHelp:
+      'No aplicativo Stuk essas bifurcações estão reunidas numa árvore curta de perguntas: o carro anda ou está parado, de onde vem o som, como estão as coifas. O estalo pode ser gravado no celular e comparado com exemplos. No relatório vêm causas prováveis com avaliação e uma recomendação de prazo: sem pânico, mas sem estalos esquecidos por um mês.',
+    faq: [
+      {
+        q: 'O que é a junta homocinética e por que ela estala?',
+        a: 'É a articulação que transmite o giro a uma roda que também esterça. Quando entra sujeira por uma coifa rasgada, as esferas e as pistas da junta se desgastam, e sob carga com o volante virado ela começa a estalar com clareza.',
+      },
+      {
+        q: 'Por quanto tempo dá para rodar com a homocinética estalando?',
+        a: 'Não há vida útil exata: em uns a junta aguenta meses, em outros se acaba em duas semanas. Referência sensata: não adiar a troca além de uma ou duas semanas e, até o conserto, não arrancar bruscamente com as rodas viradas — assim a carga sobre a junta é mínima.',
+      },
+      {
+        q: 'Por que range ao girar o volante com o carro parado?',
+        a: 'Com o carro parado a roda não gira e a homocinética não trabalha. Um rangido no lugar costuma vir do rolamento do amortecedor — o som vem de cima, da caixa de roda — ou da cruzeta da coluna, se o estalo é no próprio volante. As duas peças se verificam na oficina em poucos minutos.',
+      },
+    ],
+  },
+
+  'stuk-v-dvigatele-na-holodnuyu': {
+    h1: 'Batida no motor frio',
+    metaTitle: 'Motor batendo a frio: causas e o que fazer | Stuk',
+    description:
+      'Por que o motor bate a frio e cala depois de aquecer: tuchos hidráulicos, conjunto de pistões, corrente de comando. Quando é normal e quando é hora da oficina.',
+    intro: [
+      'Uma batida que se ouve só nos primeiros minutos depois da partida a frio e some conforme o motor aquece é uma das queixas mais comuns em carros rodados. A boa notícia: aqui a causa mais frequente é também a mais inofensiva. Um tiquetaque rápido em cima do motor costuma vir dos tuchos hidráulicos — peças pequenas que, com a pressão do óleo, tiram a folga excedente do comando de válvulas. Enquanto o motor está frio, o óleo é grosso e não chega neles de imediato, por isso estalam um ou dois minutos. Aqueceu — silêncio.',
+      'O caráter do som diz muito. Uma batida surda vinda do fundo costuma indicar desgaste do conjunto de pistões: a frio o pistão tem um pouco mais de folga no cilindro e bate até se dilatar com o calor. Um sussurro ou matraqueado na frente é a assinatura de uma corrente de comando esticada — a corrente interna que faz as válvulas abrirem na hora certa — ou do tensionador enfraquecido. E um estalido mais alto do lado de fora do que dentro do carro, ainda com cheiro de escapamento sob o capô, é sinal de junta do coletor de escape queimada: os gases escapam pela fresta até o metal se dilatar e fechá-la.',
+    ],
+    causes: [
+      { name: 'Tuchos hidráulicos: óleo frio e grosso', likelihood: 'O mais comum — se tiquetaqueia em cima e cala em dois minutos' },
+      { name: 'Desgaste do conjunto de pistões', likelihood: 'Comum em quilometragem alta — batida surda vinda do fundo' },
+      { name: 'Corrente de comando ou seu tensionador', likelihood: 'Comum — se há sussurro ou matraqueado na frente' },
+      { name: 'Junta ou trinca do coletor de escape', likelihood: 'Se o estalido é mais alto do lado de fora e cheira a escapamento' },
+      { name: 'Correia de acessórios patinando', likelihood: 'Se for guincho ou chiado e não batida' },
+    ],
+    canRide: [
+      'Com o tiquetaque dos tuchos, que some por completo depois de aquecer, dá para rodar sem restrições — é a vida comum de um motor rodado. O mesmo vale para o chiado da correia nos primeiros segundos após a partida: incômodo, mas não perigoso. Nos dois casos basta conferir o nível e a idade do óleo e mostrar o carro ao mecânico na próxima revisão programada.',
+      'A batida surda do conjunto de pistões é assunto de observação: dá para rodar, mas acompanhe o consumo de óleo e conte do som ao mecânico na próxima visita. Com o sussurro da corrente não dá para arrastar: diagnóstico em uma ou duas semanas, porque uma corrente que pula significa conserto caro de motor — e até lá, sem arrancadas bruscas a frio. E um princípio geral: se a batida deixou de sumir com o aquecimento ou se ouve sob carga, o diagnóstico não se adia mais.',
+    ],
+    checks: [
+      'Cronometrar quantos minutos o som dura: um ou dois e silêncio é típico dos tuchos; quanto mais tempo a batida vive, mais necessária a inspeção.',
+      'Conferir na vareta o nível de óleo com o motor frio e lembrar quando foi trocado: nível baixo e óleo velho amplificam todas as batidas a frio.',
+      'Definir o caráter do som: tiquetaque rápido em cima, batida surda do fundo ou sussurro na frente do motor são três histórias diferentes, com urgências diferentes.',
+      'Abrir o capô com o motor frio funcionando e cheirar: cheiro de escapamento junto com estalido aponta para o coletor.',
+      'Desligar o motor quente por dez minutos e dar partida de novo: uma batida «de frio» de verdade não volta depois de uma pausa tão curta.',
+    ],
+    appHelp:
+      'O aplicativo Stuk percorre as mesmas bifurcações — é tiquetaque, batida surda ou sussurro e com que rapidez o som some — e a gravação do celular ajuda a captar um caráter difícil de descrever com palavras. No relatório vêm causas prováveis com percentuais e uma conclusão clara: rode tranquilo, agende esta semana ou não adie a oficina.',
+    faq: [
+      {
+        q: 'A batida some depois de aquecer — dá para ignorar?',
+        a: 'Na maioria das vezes sim: o tiquetaque dos tuchos a frio é comum e não pede reparo. Mas vale observar: se o som passou a durar mais de dois minutos, ficou com o motor quente ou apareceu sob carga, já é motivo de diagnóstico.',
+      },
+      {
+        q: 'Aditivos «antibatida» ajudam?',
+        a: 'Melhor não colocar: eles não eliminam o desgaste, mascaram o sintoma, e por isso o problema é percebido mais tarde. O que ajuda de verdade é outra coisa: óleo novo da viscosidade certa, nível correto e, se a batida continuar, regulagem ou conserto com o mecânico.',
+      },
+      {
+        q: 'Por que no inverno bate mais a frio?',
+        a: 'No frio o óleo é mais grosso e demora mais a chegar à parte alta do motor, então os tuchos e o comando de válvulas estalam mais e as folgas das peças frias são um pouco maiores. Se depois de aquecer tudo cala, é o mesmo quadro do verão, só que esticado no tempo.',
+      },
+    ],
+  },
+
+  'svist-pri-zapuske': {
+    h1: 'Chiado ao dar partida',
+    metaTitle: 'Chiado ao dar partida no motor: causas e o que fazer | Stuk',
+    description:
+      'Por que o motor chia ao dar partida: correia de acessórios patinando, roldanas ou bomba d’água. Quando o chiado é inofensivo e quando é hora de agendar a oficina.',
+    intro: [
+      'Um guincho ou chiado nos primeiros segundos depois de o motor pegar vem quase sempre da correia de acessórios — a correia de borracha que, a partir do motor, gira o alternador, a bomba d’água e o compressor do ar-condicionado. A frio ou com tempo úmido a correia patina nas polias e chia, e alguns segundos depois aquece, seca e cala.',
+      'Agora mesmo esse cenário não é perigoso, mas também não deve ser tratado como normal: uma correia nova e bem tensionada não chia nem no frio. Um chiado matinal regular indica que a correia envelheceu, que a tensão caiu ou que uma das roldanas por onde ela passa começou a se desgastar. História à parte são os sons da própria partida: rangido ou zunido enquanto o motor de arranque gira o motor. Isso já não é a correia, e sim o arranque ou a cremalheira do volante — e com eles não convém esperar.',
+    ],
+    causes: [
+      { name: 'Correia de acessórios patinando a frio', likelihood: 'O mais comum — se o chiado some nos primeiros segundos' },
+      { name: 'Correia gasta ou tensão caída', likelihood: 'Comum — se o chiado continua com o motor quente' },
+      { name: 'Rolamento da roldana tensora ou guia', likelihood: 'Bastante comum — ao chiado se soma um sussurro ou zumbido' },
+      { name: 'Bomba d’água, se houver marcas de líquido perto da correia', likelihood: 'Mais raro' },
+      { name: 'Rangido enquanto o arranque gira: impulsor ou cremalheira do volante', likelihood: 'Caso à parte — o som vem antes de o motor pegar' },
+    ],
+    canRide: [
+      'Com um chiado que vive alguns segundos após a partida a frio e some por completo dá para rodar: não há ameaça direta. Ainda assim vale mostrar a correia na oficina quando der — o exame leva dois minutos, e trocar correia com roldana é dos serviços baratos.',
+      'Se o chiado deixou de sumir com o aquecimento, aparece ao ligar o ar-condicionado ou a cada partida dura mais e mais alto, agende dentro de uma semana: uma correia gasta pode romper, e sem ela param o alternador e, em muitos motores, a bomba d’água. Se acender a luz da bateria ou o ponteiro da temperatura subir — pare e desligue o motor.',
+    ],
+    checks: [
+      'Cronometrar a duração do chiado: alguns segundos após a partida é patinamento a frio; um som que não some com o aquecimento é desgaste da correia ou das roldanas.',
+      'Buscar a relação com o clima: chiado só depois da chuva, da lavagem ou no frio fala de patinamento, e não de defeito de uma peça específica.',
+      'Ligar o ar-condicionado ou o desembaçador com o motor funcionando: se o chiado aparece ou aumenta, a correia patina sob carga.',
+      'Com o motor desligado, examinar a correia com uma lanterna: trincas transversais, bordas desfiadas e flancos «polidos» brilhantes são sinais de desgaste.',
+      'Ver se há gotas ou marcas esbranquiçadas de líquido de arrefecimento perto das polias: apontam para a bomba d’água, e então é melhor não adiar a oficina.',
+    ],
+    appHelp:
+      'O aplicativo Stuk faz as mesmas perguntas que o mecânico na recepção: quando o chiado aparece, se some depois de aquecer, o que se ouve enquanto o arranque trabalha. A gravação ajuda a separar o guincho da correia do rangido do arranque, e no relatório vêm causas prováveis com percentuais e uma conclusão clara: pode rodar, à oficina esta semana ou pare.',
+    faq: [
+      {
+        q: 'Por que o motor chia só a frio e na umidade?',
+        a: 'A borracha fria e úmida da correia agarra pior nas polias, então nos primeiros segundos após a partida ela patina e chia. Com o aquecimento a aderência volta e o som some. Uma correia nova com tensionador em ordem dá conta também dessas condições, então chiado matinal regular é motivo de inspeção.',
+      },
+      {
+        q: 'O chiado passou a aparecer também com o motor quente. É sério?',
+        a: 'É sinal de que o desgaste chegou ao estágio em que a correia patina já em condições normais. Por ora dá para rodar, mas agende dentro de uma semana: uma correia rompida deixa sem alternador e, em muitos carros, sem bomba d’água, e a viagem termina de guincho.',
+      },
+      {
+        q: 'Qual a diferença entre chiado depois da partida e rangido durante a partida?',
+        a: 'Chiado e guincho aparecem depois de o motor já estar funcionando, e a culpa costuma ser da correia. O rangido metálico se ouve antes — nos segundos em que o motor de arranque gira o motor — e indica engate ruim do impulsor com a cremalheira do volante. São peças diferentes e conserto diferente.',
+      },
+    ],
+  },
 };
