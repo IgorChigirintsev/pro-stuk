@@ -359,4 +359,181 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gremit-pod-mashinoy': {
+    h1: 'Cliquetis sous la voiture',
+    metaTitle: 'Cliquetis sous la voiture : ce qui vibre et est-ce grave | Stuk',
+    description:
+      'Ça cliquette et ça vibre sous la voiture : supports d’échappement, tôle pare-chaleur, protection sous moteur ou catalyseur. Comment trouver la source du bruit et quand c’est sérieux.',
+    intro: [
+      'Un cliquetis venu de sous la voiture sonne inquiétant, mais la source n’est en général ni le moteur ni la suspension : c’est de la tôle boulonnée — silentblocs d’échappement, vis desserrées de la protection sous moteur ou tôle pare-chaleur, cette fine feuille qui protège le plancher de la chaleur du pot. Tout cela cliquette fort et résonne dans la caisse, ce qui le fait paraître plus grave qu’il n’est : ces bruits n’affectent ni la conduite ni le fonctionnement de la voiture.',
+      'Il y a aussi des leurres : ce qui cliquette « sous la voiture » est souvent le coffre — le cric, la clé de roue, une roue de secours mal arrimée — ou les plastiques de l’habitacle, dont le bruit est difficile à situer. Un seul scénario est vraiment inquiétant : un cliquetis clair plus près du moteur accompagné d’une perte de puissance ou d’une odeur d’échappement modifiée. Ainsi sonne un catalyseur détruit — le filtre céramique des gaz d’échappement, dont les morceaux s’entrechoquent dans leur propre carter — et avec cette hypothèse il ne faut pas traîner.',
+    ],
+    causes: [
+      { name: 'Supports d’échappement ou protection sous moteur', likelihood: 'Le plus souvent — cliquetis métallique sur les bosses' },
+      { name: 'Tôle pare-chaleur de la ligne d’échappement', likelihood: 'Fréquent — cliquetis clair à certains régimes' },
+      { name: 'Cric, roue de secours ou chargement dans le coffre', likelihood: 'Fréquent — fracas sourd à l’arrière, « quelque chose roule »' },
+      { name: 'Plastiques de l’habitacle : panneaux et grillons', likelihood: 'Fréquent — le bruit est plus proche qu’il n’y paraît' },
+      { name: 'Catalyseur détruit', likelihood: 'Plus rare — si la puissance a chuté en même temps' },
+    ],
+    canRide: [
+      'Dans la plupart des cas oui, et sans restriction particulière : une tôle pare-chaleur qui vibre, des supports d’échappement desserrés ou des vis de protection sous moteur relèvent du confort, pas de la sécurité. La réparation prend en général quelques minutes : resserrer ou fixer avec un collier. La seule chose à vérifier, c’est que l’échappement ne pende pas : un tuyau sur le point de racler le bitume ne s’ignore plus, sa fixation se rétablit tout de suite.',
+      'Si le cliquetis s’accompagne d’une perte de puissance, d’une odeur d’échappement modifiée ou du voyant moteur, allez au diagnostic dans les jours qui viennent : des éclats de céramique d’un catalyseur détruit peuvent être aspirés dans le moteur, et c’est déjà une réparation coûteuse. En attendant le contrôle, évitez les hauts régimes.',
+    ],
+    checks: [
+      'Vider le coffre, vérifier l’arrimage de la roue de secours et du cric, plaquer la tablette — puis refaire le même bout de route. Le bruit a disparu : affaire close.',
+      'Voiture à l’arrêt, monter doucement en régime : le cliquetis d’une tôle pare-chaleur apparaît en général à certains régimes et s’entend sur place, sans la moindre bosse.',
+      'Demander à un passager d’appuyer de la main sur les panneaux suspects de l’habitacle en roulant : si le bruit disparaît, ce sont des grillons d’habitacle et non le plancher.',
+      'Surveiller la puissance et l’odeur d’échappement : si la voiture accélère moins bien ou que l’odeur a changé, c’est l’hypothèse du catalyseur — au mécanicien dans les jours qui viennent.',
+      'Regarder sous la voiture sans se glisser dessous : un échappement qui pend, un bord de protection sous moteur qui ballotte ou une tôle repliée se voient souvent depuis la roue.',
+    ],
+    appHelp:
+      'L’application Stuk aide à rattacher le cliquetis à sa source : d’où vient le bruit, suit-il le régime moteur ou les bosses, que devient la puissance. À partir de vos réponses et de l’enregistrement, elle affiche les causes probables avec des pourcentages et un feu d’urgence — pratique pour distinguer une tôle inoffensive du catalyseur avant même le garage.',
+    faq: [
+      {
+        q: 'Est-il dangereux de rouler si quelque chose cliquette sous la voiture ?',
+        a: 'Le plus souvent non : des supports d’échappement desserrés, la protection sous moteur et la tôle pare-chaleur n’affectent pas le fonctionnement de la voiture. Les exceptions : un échappement qui pend et va toucher le sol, et un cliquetis accompagné d’une perte de puissance — dans ce second cas, un catalyseur détruit est possible, et le contrôle ne doit pas attendre.',
+      },
+      {
+        q: 'Qu’est-ce qu’une tôle pare-chaleur et peut-on simplement l’enlever ?',
+        a: 'C’est une fine feuille métallique entre les parties chaudes de l’échappement et le plancher : elle protège de la chaleur la caisse, les faisceaux et tout ce qui se trouve au-dessus du tuyau. L’enlever est une mauvaise idée — mieux vaut la resserrer ou la fixer avec un collier : au garage, c’est l’affaire de quelques minutes.',
+      },
+      {
+        q: 'Comment savoir que c’est bien le catalyseur qui cliquette ?',
+        a: 'Par un cliquetis clair ou un bruissement venu du plancher, plus près du moteur, qui augmente aux coups d’accélérateur, plus une perte de puissance ou une odeur d’échappement modifiée. Au garage, on confirme l’hypothèse en tapotant le carter du catalyseur sur voiture froide : la céramique effritée y bruisse comme des cailloux.',
+      },
+    ],
+  },
+
+  'skrezhet-pri-tormozhenii': {
+    h1: 'Frottement métallique au freinage',
+    metaTitle: 'Frottement métallique au freinage : plaquettes finies | Stuk',
+    description:
+      'Le frottement métallique au freinage signifie le plus souvent des plaquettes usées jusqu’au métal : avec cela, on ne roule pas. Plus rarement, c’est un caillou derrière le déflecteur. Comment les distinguer.',
+    intro: [
+      'Le frottement métallique au freinage mérite plus d’attention que n’importe quel grincement. Le plus souvent, ainsi sonnent des plaquettes usées jusqu’au métal : la garniture qui frotte le disque est finie, et c’est le support en acier de la plaquette qui racle le disque. La distance de freinage s’allonge, le disque s’abîme à chaque arrêt et le mécanisme peut se bloquer.',
+      'Il existe des variantes moins dramatiques. Un déflecteur de disque tordu ou un caillou coincé entre le déflecteur et le disque produisent un frottement très semblable, mais sans danger pour les freins. Et un bref raclement aux premiers freinages après une nuit dehors ou après la pluie n’est que la pellicule de rouille que les plaquettes enlèvent en deux minutes. L’ennui, c’est que ces scénarios se confondent facilement à l’oreille : un frottement permanent exige donc un contrôle et non des suppositions.',
+    ],
+    causes: [
+      { name: 'Plaquettes usées jusqu’au métal', likelihood: 'Le plus souvent — si ça frotte à chaque freinage' },
+      { name: 'Un caillou ou un déflecteur tordu touche le disque', likelihood: 'Fréquent ; le bruit est semblable, mais sans danger pour les freins' },
+      { name: 'Étrier qui coince', likelihood: 'Si la roue chauffe et que la voiture tire d’un côté' },
+      { name: 'Pellicule de rouille après un stationnement ou la pluie', likelihood: 'Si le bruit part aux premiers freinages' },
+    ],
+    canRide: [
+      'Avec un frottement métal contre métal, il faut cesser les trajets ordinaires : seule une route prudente jusqu’au garage est admissible, avec de grandes distances et des freinages doux et anticipés. Repousser le remplacement n’est pas rentable non plus : chaque kilomètre passé à frotter ajoute à la facture le prix des disques, que le support en acier usine littéralement.',
+      'Si le frottement est apparu après un stationnement et a disparu aux premiers freinages, roulez sans restriction : c’est de la rouille. Si le bruit ressemble plutôt à un raclement, s’entend même sans appuyer sur la pédale et que la roue ne chauffe pas après le trajet, le déflecteur ou un caillou sont probables : vous pouvez arriver tranquillement, mais montrez la voiture sous un à deux jours — seul un contrôle sépare avec certitude le cas anodin de plaquettes finies.',
+    ],
+    checks: [
+      'Repérer la régularité : bruit uniquement à l’appui sur le frein, ce sont plutôt les plaquettes ; raclement permanent en roulant, plutôt le déflecteur, un caillou ou un étrier qui coince.',
+      'Regarder entre les rayons de la jante : sur beaucoup de voitures la plaquette extérieure est visible sans démontage. Une garniture de moins de 3–4 mm, ou du métal brillant à sa place, veut dire remplacement immédiat.',
+      'Après un court trajet, approcher la main des roues sans toucher le disque : si une roue est nettement plus chaude que les autres, cela ressemble à un étrier qui coince — la pièce qui plaque les plaquettes contre le disque.',
+      'Observer le comportement de la voiture : tirer d’un côté au freinage ou une odeur de brûlé venue d’une roue sont des signes avec lesquels on ne roule pas — seulement prudemment jusqu’au garage.',
+      'Examiner le disque à travers la jante : des sillons profonds et une teinte bleutée du métal disent que le frottement dure depuis longtemps et que les disques ont déjà souffert.',
+    ],
+    appHelp:
+      'L’application Stuk parcourt les mêmes questions — le frottement est-il permanent, la roue chauffe-t-elle, le bruit part-il après les premiers freinages — et l’enregistrement aide à distinguer le frottement du couinement du témoin d’usure. Le rapport donne les causes probables et un feu : vous pouvez rouler, montrez-le cette semaine ou n’allez que jusqu’au garage.',
+    faq: [
+      {
+        q: 'Quelle différence entre le frottement métallique et le couinement des freins ?',
+        a: 'Le couinement est un son aigu alors que les freins travaillent encore pleinement : c’est le plus souvent le témoin d’usure, qui prévient à l’avance. Le frottement est un bruit rêche et grave de métal contre métal : la garniture est finie et le support en acier frotte le disque. Le couinement, c’est un rendez-vous cette semaine ; le frottement, la fin des trajets ordinaires.',
+      },
+      {
+        q: 'Suffit-il de changer seulement les plaquettes s’il y a déjà eu du frottement ?',
+        a: 'Cela dépend de l’état des disques : même rouler peu « sur le métal » y laisse des sillons. Les peu profonds se rectifient parfois, les profonds imposent des disques neufs. Des plaquettes neuves sur un disque sillonné freinent moins bien et s’usent vite, la décision se prend donc après contrôle.',
+      },
+      {
+        q: 'Le frottement va et vient — est-ce dangereux aussi ?',
+        a: 'Un frottement intermittent vient souvent d’un caillou entre le déflecteur et le disque, et il peut tomber tout seul. Il ne faut pas compter dessus : le même bruit intermittent apparaît au début de l’usure des plaquettes jusqu’au métal. Un contrôle sous un à deux jours tranche la question.',
+      },
+    ],
+  },
+
+  'stuk-pri-razgone': {
+    h1: 'Choc à l’accélération',
+    metaTitle: 'Choc à l’accélération et au lever de pied : causes | Stuk',
+    description:
+      'Pourquoi ça cogne quand on accélère ou qu’on lève le pied : supports moteur, cardan, jeu dans la transmission ou boîte automatique. Comment distinguer un jeu anodin d’un choc dans le moteur.',
+    intro: [
+      'Un choc qui apparaît pile au moment où l’on appuie sur l’accélérateur ou qu’on lève le pied naît le plus souvent non pas dans le moteur, mais dans la chaîne qui transmet la force aux roues. Avec les années, du jeu s’y accumule : les supports moteur en caoutchouc s’affaissent et laissent le moteur bouger au changement de charge, le cardan intérieur s’use (l’articulation de l’arbre allant de la boîte à la roue), les croisillons de l’arbre de transmission et les fixations du berceau prennent du mou. Chaque fois que la force change de sens, le jeu se rattrape avec un coup — d’où un choc ou un fracas isolé.',
+      'Cas à part : la boîte automatique. Un à-coup avec fracas au passage du sélecteur entre D et R, ou pendant les changements de rapport, parle en général d’une huile vieillie ou d’une usure. Et un cas tout différent : un choc sourd venu des profondeurs du moteur, qui s’accélère avec le régime et grossit en charge — ainsi cognent les coussinets de vilebrequin. C’est rare, mais c’est la variante la plus sérieuse, et il ne faut pas la manquer.',
+    ],
+    causes: [
+      { name: 'Supports moteur ou cardan intérieur', likelihood: 'Le plus souvent — choc isolé à l’appui et au lever de pied' },
+      { name: 'Jeu dans la transmission : croisillons, fixations du berceau', likelihood: 'Fréquent en propulsion et quatre roues motrices — fracas sous le plancher au démarrage' },
+      { name: 'Boîte automatique : huile vieillie ou usure', likelihood: 'Si l’à-coup et le fracas coïncident avec les passages de rapport' },
+      { name: 'Cognement de coussinets venu des profondeurs du moteur', likelihood: 'Rare — s’accélère avec le régime, plus fort en charge' },
+    ],
+    canRide: [
+      'Avec la plupart des causes du tableau, on peut rouler : le jeu dans les supports, les articulations ou la transmission n’immobilise pas la voiture d’un coup tant que le choc reste isolé et discret. Mais repousser le diagnostic de plusieurs mois n’est pas raisonnable : un croisillon fatigué ou un cardan usé finissent par se détruire, et cela arrive en roulant. Délai raisonnable pour le garage : une à deux semaines ; d’ici là, démarrer et doser l’accélérateur plus doucement.',
+      'L’exception : un choc venu des profondeurs du moteur, qui s’accélère aux coups d’accélérateur et grossit en charge. Avec lui, il faut cesser les trajets ordinaires : des coussinets usés peuvent finir en moteur serré. D’abord vérifier le niveau d’huile ; ensuite, dépanneuse — ou, si le garage est tout proche, lentement et sans accélérer.',
+    ],
+    checks: [
+      'Préciser le moment : un choc pile à l’appui et au lever de pied, et non sur les bosses, parle de la transmission de la force et non de la suspension. Ce détail raccourcit aussitôt la recherche du mécanicien.',
+      'Vérifier le niveau d’huile moteur à la jauge. Devant tout bruit qui ressemble au moteur, c’est le premier geste : avec un niveau bas, les coussinets souffrent en premier.',
+      'Si ça fracasse aux passages de rapport, vérifier le niveau et l’état de l’huile de boîte automatique : un fluide sombre à l’odeur de brûlé est une cause fréquente d’à-coups, et parfois la vidange règle l’affaire.',
+      'Écouter d’où vient le son — de sous le capot, du milieu du plancher ou du côté d’une roue — et s’il se répète au changement de rapport. Ces observations méritent d’être notées pour le garage.',
+      'Faire le test doux : si avec un appui et un lever de pied progressifs le choc disparaît et qu’il revient avec un geste brusque, c’est un jeu classique, et jusqu’à la réparation une conduite souple suffit.',
+    ],
+    appHelp:
+      'L’application Stuk pose les mêmes questions de précision — quand exactement ça cogne, le bruit change-t-il avec le régime et les rapports — et, grâce à l’enregistrement, aide à distinguer le fracas d’un jeu d’un cognement profond du moteur. Le rapport donne les causes probables avec des pourcentages et une conclusion claire : vous pouvez rouler, planifiez le garage ou arrêtez-vous.',
+    faq: [
+      {
+        q: 'Pourquoi ça cogne précisément à l’appui et au lever de pied ?',
+        a: 'Au changement de charge, la force inverse son sens et tous les jeux des supports moteur, des articulations et de la transmission se rattrapent avec un coup. Tant que la voiture roule à allure stabilisée, les pièces restent en appui l’une contre l’autre et le jeu ne se trahit pas — d’où un choc audible seulement quand on travaille à l’accélérateur.',
+      },
+      {
+        q: 'Comment savoir que c’est le moteur lui-même et que c’est sérieux ?',
+        a: 'Le signe d’alerte est un choc sourd venu des profondeurs du moteur, qui s’accélère avec le régime et grossit en charge, par exemple en côte. Ainsi cognent les coussinets de vilebrequin. Dans ce cas, cessez de rouler, vérifiez le niveau d’huile et faites remorquer la voiture jusqu’au garage.',
+      },
+      {
+        q: 'Une boîte automatique peut-elle provoquer un choc à l’accélération ?',
+        a: 'Oui. Un à-coup ou un fracas au moment d’un passage de rapport, ou au passage du sélecteur entre D et R, est un signe typique d’huile vieillie ou d’usure de la boîte. Commencez par vérifier le niveau et l’état de l’huile ; jusqu’à la réparation, ne déplacez le sélecteur qu’à l’arrêt complet, frein appuyé.',
+      },
+    ],
+  },
+
+  'zvon-pri-razgone': {
+    h1: 'Cliquetis à l’accélération',
+    metaTitle: 'Cliquetis à l’accélération : détonation ou non, que faire | Stuk',
+    description:
+      'Un tintement métallique à l’accélération vient le plus souvent de la détonation liée au carburant. Comment le vérifier en changeant de station et quand ce n’est pas le moteur mais la tôle pare-chaleur ou le catalyseur.',
+    intro: [
+      'Le tintement métallique à l’accélération — ce que les conducteurs appellent le cliquetis — se révèle le plus souvent être de la détonation. Une partie du carburant dans les cylindres ne brûle pas régulièrement mais explose, et l’onde de choc résonne clair contre les parois du moteur. On l’entend surtout en charge : en côte, au dépassement, en accélérant à bas régime sur un rapport élevé. La cause la plus fréquente est prosaïque — de l’essence dont l’indice d’octane est inférieur à celui que recommande le constructeur, ou tout simplement un mauvais plein.',
+      'Le tintement peut ne pas venir du moteur. Une tôle pare-chaleur mal fixée — la feuille au-dessus du pot — vibre à certains régimes, et la céramique effritée du catalyseur bruisse et tinte sous le plancher. La différence tient à ce dont cela dépend : la détonation suit la charge et disparaît en conduite souple, tandis qu’une tôle tinte à « ses » régimes même sur voiture à l’arrêt lors d’un coup d’accélérateur.',
+    ],
+    causes: [
+      { name: 'Détonation : carburant à indice d’octane trop bas', likelihood: 'Le plus souvent — tintement en charge, surtout en côte' },
+      { name: 'Calamine dans les chambres de combustion ou capteur de cliquetis', likelihood: 'Si changer de station n’a rien donné' },
+      { name: 'Tôle pare-chaleur de la ligne d’échappement', likelihood: 'Fréquent — cliquetis à certains régimes, sans lien avec la charge' },
+      { name: 'Catalyseur détruit', likelihood: 'Plus rare — tintement et bruissement sous le plancher, puissance en baisse' },
+    ],
+    canRide: [
+      'Avec des épisodes rares de tintement, vous pouvez arriver, mais sans charger le moteur : accélérez doucement, montez les côtes sur un rapport plus court, ne tirez pas à bas régime sur un rapport élevé. Le premier geste : faire le plein avec un carburant dont l’indice d’octane n’est pas inférieur au recommandé, de préférence dans une autre enseigne — le tintement part souvent avec un seul plein.',
+      'Une détonation permanente, ce sont des coups sur les pistons à chaque accélération, et elle détruit peu à peu le moteur : pistons, segments et joint de culasse en souffrent. Si après le changement de carburant le tintement persiste, ne repoussez pas le diagnostic. Le cliquetis d’une tôle, à l’inverse, est un désagrément purement sonore : on roule sans restriction et l’on fait fixer la tôle à la prochaine visite au garage.',
+    ],
+    checks: [
+      'Faire un plein complet avec un indice d’octane au moins égal au recommandé, dans une autre station. Si en un ou deux pleins le tintement disparaît, la cause était le carburant.',
+      'Vérifier le lien avec la charge : un tintement qui apparaît en côte, au dépassement et sous forte accélération mais s’atténue en accélération douce est la signature de la détonation.',
+      'Donner un coup d’accélérateur au point mort, voiture à l’arrêt : si le tintement ou le cliquetis surgit à certains régimes même sans charge, la tôle pare-chaleur est plus probable.',
+      'Vérifier dans le manuel ou sur la trappe à carburant quelle essence est recommandée : pour beaucoup de moteurs, un indice d’octane bas ne convient plus, même s’il est formellement admis.',
+      'Prêter attention à la puissance et aux bruits sous le plancher : bruissement et tintement d’en bas accompagnés d’une accélération plus molle sont une raison de faire vérifier le catalyseur sans délai.',
+    ],
+    appHelp:
+      'L’application Stuk aide avec les mêmes questions — quand ça tinte, le bruit suit-il la charge ou le régime — et l’enregistrement permet de distinguer le tintement clair de la détonation du cliquetis d’une tôle. Le rapport donne les causes probables avec des pourcentages et une conclusion : vous pouvez rouler, mieux vaut planifier le garage ou plutôt vous arrêter.',
+    faq: [
+      {
+        q: 'Que signifie « le moteur cliquette » ?',
+        a: 'C’est l’ancien nom du tintement de la détonation ; on l’attribuait autrefois aux axes de piston. En réalité, ce ne sont pas eux qui tintent : le bruit vient de l’onde de choc d’une combustion explosive renvoyée par les parois des cylindres. Le nom est resté, mais la cause est toujours la même : la détonation, et non des pièces de piston usées.',
+      },
+      {
+        q: 'Peut-on rouler avec de la détonation ?',
+        a: 'Brièvement et en ménageant : accélération douce, rapport plus court en côte, sans pleine charge ni remorque. Chaque épisode, ce sont des coups sur les pistons, et une détonation permanente finit par une réparation coûteuse du moteur. Si le changement de carburant n’a pas supprimé le tintement en un ou deux pleins, un diagnostic s’impose.',
+      },
+      {
+        q: 'Une essence à indice d’octane plus élevé aide-t-elle ?',
+        a: 'La règle principale : ne jamais faire le plein en dessous de la recommandation du constructeur. L’indice d’octane indique la résistance du carburant à l’auto-inflammation, donc passer à une qualité supérieure sur un moteur sensible supprime souvent le tintement. Si même cela ne suffit pas, la cause — calamine ou capteur de cliquetis — se cherche au garage.',
+      },
+    ],
+  },
 };
