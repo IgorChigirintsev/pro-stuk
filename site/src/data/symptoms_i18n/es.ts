@@ -359,4 +359,181 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gremit-pod-mashinoy': {
+    h1: 'Traqueteo debajo del coche',
+    metaTitle: 'Traqueteo debajo del coche: qué vibra y si es peligroso | Stuk',
+    description:
+      'Traqueteo y vibración debajo del coche: soportes del escape, pantalla térmica, cubrecárter o catalizador. Cómo localizar la fuente del ruido y cuándo la cosa es seria.',
+    intro: [
+      'El traqueteo desde los bajos suena alarmante, pero la fuente casi nunca es el motor ni la suspensión, sino la chapa atornillada: las gomas del escape, los tornillos flojos del cubrecárter o la pantalla térmica, esa hojalata fina que protege los bajos del calor del tubo de escape. Todo eso suena fuerte y resuena en la carrocería, por eso parece más grave de lo que es: ni la conducción ni el funcionamiento del coche se ven afectados.',
+      'También hay engaños: lo que traquetea «debajo del coche» a menudo es el maletero —el gato, la llave de ruedas, una rueda de repuesto mal sujeta— o los plásticos del habitáculo, cuyo sonido cuesta ubicar. Solo un escenario preocupa de verdad: un traqueteo metálico cerca del motor junto con pérdida de fuerza o un olor a escape distinto. Así suena un catalizador roto —el filtro cerámico de los gases de escape, cuyos fragmentos suenan dentro de su propia carcasa—, y con esa versión no conviene esperar.',
+    ],
+    causes: [
+      { name: 'Soportes del escape o cubrecárter', likelihood: 'Lo más frecuente: traqueteo metálico en los baches' },
+      { name: 'Pantalla térmica del escape', likelihood: 'Frecuente: traqueteo metálico a ciertas revoluciones' },
+      { name: 'Gato, rueda de repuesto o carga en el maletero', likelihood: 'Frecuente: golpeteo sordo detrás, «algo rueda»' },
+      { name: 'Plásticos del habitáculo: paneles y grillos', likelihood: 'Frecuente: el sonido está más cerca de lo que parece' },
+      { name: 'Catalizador roto', likelihood: 'Menos frecuente: si con el traqueteo cayó la fuerza' },
+    ],
+    canRide: [
+      'En la mayoría de los casos sí, y sin limitaciones especiales: una pantalla térmica suelta, unos soportes del escape flojos o los tornillos del cubrecárter son cuestión de confort, no de seguridad. La reparación suele durar minutos: apretar o sujetar con una abrazadera. Lo único que conviene asegurar es que el escape no esté descolgado: un tubo a punto de rozar el asfalto ya no se ignora, su sujeción se restablece de inmediato.',
+      'Si el traqueteo va acompañado de pérdida de fuerza, olor a escape distinto o el testigo del motor encendido, ve al diagnóstico en los próximos días: los fragmentos de cerámica de un catalizador roto pueden ser aspirados hacia el motor, y eso ya es una reparación cara. Hasta la revisión, mejor no subir de vueltas.',
+    ],
+    checks: [
+      'Vaciar el maletero, comprobar la sujeción de la rueda de repuesto y del gato, apretar la bandeja y recorrer el mismo tramo. Si el ruido desapareció, asunto cerrado.',
+      'Con el coche parado, subir las revoluciones con suavidad: el traqueteo de la pantalla térmica suele aparecer a ciertas revoluciones y se oye en el sitio, sin ningún bache.',
+      'Pedir a un acompañante que apriete con la mano los paneles sospechosos del habitáculo en marcha: si el ruido desaparece, son grillos del interior y no los bajos.',
+      'Prestar atención a la fuerza y al olor del escape: si el coche acelera peor o el olor ha cambiado, es la versión del catalizador, y con ella al mecánico en los próximos días.',
+      'Mirar debajo del coche sin meterse debajo: un escape descolgado, un borde suelto del cubrecárter o una pantalla doblada suelen verse desde la propia rueda.',
+    ],
+    appHelp:
+      'La aplicación Stuk ayuda a atar el traqueteo a su fuente: de dónde viene el sonido, si depende de las revoluciones o de los baches, qué pasa con la fuerza del motor. Con tus respuestas y la grabación muestra causas probables con porcentajes y un semáforo de urgencia: útil para separar una hojalata inofensiva del catalizador antes de llegar al taller.',
+    faq: [
+      {
+        q: '¿Es peligroso circular si algo traquetea debajo del coche?',
+        a: 'La mayoría de las veces no: unos soportes del escape flojos, el cubrecárter y la pantalla térmica no afectan al funcionamiento del coche. Las excepciones son un escape descolgado a punto de tocar el asfalto y un traqueteo junto con pérdida de fuerza: en el segundo caso puede haber un catalizador roto, y con la comprobación mejor no esperar.',
+      },
+      {
+        q: '¿Qué es la pantalla térmica y se puede quitar sin más?',
+        a: 'Es una lámina metálica fina entre las partes calientes del escape y los bajos: protege del calor la carrocería, el cableado y todo lo que queda encima del tubo. Quitarla no es buena idea; lo correcto es apretarla o sujetarla con una abrazadera, y en el taller es un trabajo de unos minutos.',
+      },
+      {
+        q: '¿Cómo saber si lo que suena es el catalizador?',
+        a: 'Por un traqueteo o susurro metálico desde los bajos, más cerca del motor, que aumenta al dar acelerones, junto con pérdida de fuerza o un olor a escape distinto. En el taller confirman la versión golpeando suavemente la carcasa del catalizador con el coche frío: la cerámica desmenuzada suena dentro como piedrecitas.',
+      },
+    ],
+  },
+
+  'skrezhet-pri-tormozhenii': {
+    h1: 'Rechinar al frenar',
+    metaTitle: 'Rechinar al frenar: pastillas al metal, qué hacer | Stuk',
+    description:
+      'El rechinar al frenar suele significar pastillas gastadas hasta el metal: con eso no se circula. Menos veces la culpa es de una piedrecita tras el guardapolvos. Cómo distinguirlo.',
+    intro: [
+      'El rechinar al frenar merece más atención que cualquier chirrido. Casi siempre suenan así unas pastillas gastadas hasta el metal: el material de fricción que roza el disco se ha acabado y la base de acero de la pastilla raspa el disco. La distancia de frenado crece, el disco se estropea en cada parada y el mecanismo puede agarrotarse.',
+      'Hay variantes menos dramáticas. Un guardapolvos del disco doblado o una piedrecita atrapada entre el guardapolvos y el disco producen un rechinar muy parecido, pero no dañan los frenos. Y un raspado corto en las primeras frenadas tras una noche al raso o tras la lluvia es solo la capa de óxido que las pastillas limpian en un par de minutos. El problema es que de oído estos escenarios se confunden con facilidad, así que un rechinar constante exige una revisión y no suposiciones.',
+    ],
+    causes: [
+      { name: 'Pastillas gastadas hasta el metal', likelihood: 'Lo más frecuente si rechina en cada frenada' },
+      { name: 'Una piedrecita o el guardapolvos doblado rozan el disco', likelihood: 'Frecuente; suena parecido, pero no daña los frenos' },
+      { name: 'Pinza agarrotada', likelihood: 'Si la rueda se calienta y el coche tira hacia un lado' },
+      { name: 'Capa de óxido tras la parada o la lluvia', likelihood: 'Si el sonido se va en las primeras frenadas' },
+    ],
+    canRide: [
+      'Con metal contra metal hay que dejar los viajes normales: solo se admite un trayecto prudente hasta el taller, con distancia de sobra y frenadas suaves y anticipadas. Aplazar el cambio tampoco sale a cuenta: cada kilómetro rechinando añade a la factura el precio de los discos, que la base de acero de la pastilla literalmente rebaja.',
+      'Si el rechinar apareció tras estar parado y desapareció en las primeras frenadas, circula sin limitaciones: es óxido. Si el sonido es más bien un raspado, se oye también sin pisar el pedal y la rueda no se calienta tras el viaje, lo probable es el guardapolvos o una piedrecita: puedes llegar tranquilo, pero enseña el coche en uno o dos días; solo una revisión separa con fiabilidad el caso inofensivo de unas pastillas acabadas.',
+    ],
+    checks: [
+      'Buscar el patrón: sonido solo al pisar el freno apunta a las pastillas; un raspado continuo en marcha, más bien al guardapolvos, una piedrecita o una pinza agarrotada.',
+      'Mirar entre los radios de la llanta: en muchos coches la pastilla exterior se ve sin desmontar nada. Material de fricción de menos de 3–4 mm, o metal brillante en su lugar, significa cambio inmediato.',
+      'Tras un trayecto corto, acercar la mano a las ruedas sin tocar el disco: si una rueda está claramente más caliente que el resto, se parece a una pinza agarrotada, la pieza que aprieta las pastillas contra el disco.',
+      'Fijarse en el comportamiento del coche: que tire hacia un lado al frenar u olor a quemado en una rueda son señales con las que no se circula, solo con cuidado hasta el taller.',
+      'Mirar el disco a través de la llanta: surcos profundos y un tono azulado del metal dicen que el rechinar viene de lejos y los discos ya han sufrido.',
+    ],
+    appHelp:
+      'La aplicación Stuk recorre las mismas preguntas —si el rechinar es constante, si la rueda se calienta, si el sonido se va tras las primeras frenadas— y con la grabación ayuda a separar el rechinar del chillido del avisador de desgaste. En el informe verás causas probables y un semáforo: puedes circular, enséñalo esta semana o solo hasta el taller.',
+    faq: [
+      {
+        q: '¿En qué se diferencia el rechinar del chirrido de frenos?',
+        a: 'El chirrido es un sonido agudo con el que los frenos aún trabajan del todo: casi siempre es el avisador de desgaste, que advierte con antelación. El rechinar es un ruido áspero y grave de metal contra metal: el material de fricción se acabó y la base de acero roza el disco. El chirrido es cita esta semana; el rechinar, fin de los viajes normales.',
+      },
+      {
+        q: '¿Basta con cambiar solo las pastillas si ya hubo rechinar?',
+        a: 'Depende del estado de los discos: incluso circular poco «sobre metal» deja surcos. Los superficiales a veces se rectifican; los profundos obligan a cambiar discos. Unas pastillas nuevas sobre un disco surcado frenan peor y se gastan rápido, así que la decisión se toma tras la revisión.',
+      },
+      {
+        q: 'El rechinar aparece y desaparece, ¿también es peligroso?',
+        a: 'Un rechinar intermitente suele venir de una piedrecita entre el guardapolvos y el disco, y puede caerse sola. No conviene fiarse: el mismo sonido intermitente aparece en la fase inicial del desgaste de las pastillas hasta el metal. Una revisión en uno o dos días lo aclara.',
+      },
+    ],
+  },
+
+  'stuk-pri-razgone': {
+    h1: 'Golpe al acelerar',
+    metaTitle: 'Golpe al acelerar y al soltar el gas: causas y qué hacer | Stuk',
+    description:
+      'Por qué golpea al pisar o soltar el acelerador: soportes del motor, junta homocinética, holgura en la transmisión o la caja automática. Cómo distinguir una holgura inofensiva de un golpe dentro del motor.',
+    intro: [
+      'Un golpe que aparece justo al pisar o soltar el acelerador nace casi nunca en el motor y casi siempre en la cadena que lleva la fuerza a las ruedas. Con los años se acumula holgura en sus piezas: los soportes de goma del motor se hunden y le permiten moverse al cambiar la carga, se desgasta la junta homocinética interior (la articulación del palier que va de la caja a la rueda), se aflojan las crucetas del árbol de transmisión y los anclajes del subchasis. Cada vez que la fuerza cambia de sentido, la holgura se cierra con un impacto: de ahí el golpe o el chasquido aislado.',
+      'Historia aparte es la caja automática: un tirón con chasquido al pasar el selector entre D y R o durante los cambios suele hablar de aceite viejo o de desgaste. Y un caso completamente distinto es un golpe sordo desde el fondo del motor, que se acelera con las revoluciones y suena más fuerte con carga: así golpean los cojinetes del cigüeñal. Es raro, pero es la variante más seria, y no hay que dejarla pasar.',
+    ],
+    causes: [
+      { name: 'Soportes del motor o junta homocinética interior', likelihood: 'Lo más frecuente: golpe aislado al pisar y soltar el gas' },
+      { name: 'Holgura en la transmisión: crucetas, anclajes del subchasis', likelihood: 'Frecuente en propulsión trasera y total: chasquido bajo el piso al arrancar' },
+      { name: 'Caja automática: aceite viejo o desgaste', likelihood: 'Si el tirón y el chasquido coinciden con los cambios' },
+      { name: 'Golpe de cojinetes desde el fondo del motor', likelihood: 'Raro: se acelera con las revoluciones, más fuerte con carga' },
+    ],
+    canRide: [
+      'Con la mayoría de las causas de la tabla se puede circular: la holgura en soportes, articulaciones o transmisión no deja el coche parado de repente mientras el golpe siga siendo aislado y suave. Pero aplazar el diagnóstico meses no conviene: una cruceta rota o una junta homocinética gastada acaban destruyéndose, y eso ocurre en marcha. Un plazo razonable para el taller es de una a dos semanas; hasta entonces, arrancar y usar el acelerador con más suavidad.',
+      'La excepción es un golpe desde el fondo del motor que se acelera al dar gas y crece con la carga. Con él hay que dejar los viajes normales: unos cojinetes gastados pueden acabar en un motor gripado. Lo primero es comprobar el nivel de aceite; después, grúa o, si el taller está muy cerca, despacio y sin acelerar.',
+    ],
+    checks: [
+      'Precisar el momento: un golpe justo al pisar y soltar el gas, y no en los baches, habla de la transmisión de la fuerza y no de la suspensión. Ese detalle acorta la búsqueda del mecánico de inmediato.',
+      'Comprobar el nivel de aceite del motor con la varilla. Ante cualquier golpe que suene a motor, ese es el primer paso: con nivel bajo los cojinetes sufren antes que nada.',
+      'Si chasquea en los cambios, comprobar el nivel y el estado del aceite de la caja automática: un fluido oscuro con olor a quemado es causa frecuente de tirones, y a veces el asunto se resuelve cambiándolo.',
+      'Escuchar de dónde viene el sonido —de debajo del capó, del centro de los bajos o del lado de una rueda— y si se repite al cambiar de marcha. Conviene anotar estas observaciones para el taller.',
+      'Hacer la prueba suave: si con un pisado y soltado suaves del acelerador el golpe no aparece y con uno brusco vuelve, es holgura clásica, y hasta la reparación basta con conducir con suavidad.',
+    ],
+    appHelp:
+      'La aplicación Stuk hace las mismas preguntas de precisión —cuándo golpea exactamente, si el sonido cambia con las revoluciones y las marchas— y con la grabación ayuda a separar el chasquido de una holgura de un golpe profundo del motor. En el informe verás causas probables con porcentajes y una conclusión clara: puedes circular, planifica el taller o detente.',
+    faq: [
+      {
+        q: '¿Por qué golpea justo al pisar y soltar el acelerador?',
+        a: 'Al cambiar la carga la fuerza invierte su sentido y todas las holguras de soportes, articulaciones y transmisión se cierran con un impacto. Mientras el coche rueda uniforme las piezas están apoyadas entre sí y la holgura no se delata: por eso el golpe se oye solo al trabajar con el acelerador.',
+      },
+      {
+        q: '¿Cómo saber que golpea el propio motor y que es serio?',
+        a: 'La señal de alarma es un golpe sordo desde el fondo del motor que se acelera con las revoluciones y crece con la carga, por ejemplo en subida. Así golpean los cojinetes del cigüeñal. En ese caso hay que dejar de circular, comprobar el nivel de aceite y llevar el coche al taller en grúa.',
+      },
+      {
+        q: '¿Puede la caja automática causar golpes al acelerar?',
+        a: 'Sí. Un tirón o chasquido en el momento de un cambio, o al pasar el selector entre D y R, es señal típica de aceite viejo o de desgaste de la caja. Empieza por comprobar el nivel y el estado del aceite; hasta la reparación, mueve el selector solo con el coche detenido y el freno pisado.',
+      },
+    ],
+  },
+
+  'zvon-pri-razgone': {
+    h1: 'Tintineo al acelerar',
+    metaTitle: 'Tintineo al acelerar: detonación o no, qué hacer | Stuk',
+    description:
+      'El tintineo metálico al acelerar suele ser detonación por el combustible. Cómo comprobarlo cambiando de gasolinera y cuándo la culpa no es del motor, sino de la pantalla térmica o el catalizador.',
+    intro: [
+      'El tintineo metálico al acelerar —eso que los conductores llaman «picar bielas»— casi siempre resulta ser detonación. Parte del combustible en los cilindros no arde de forma uniforme, sino que explota, y la onda de choque resuena como un repiqueteo agudo en las paredes del motor. Se oye mejor con carga: en subida, al adelantar, al acelerar desde revoluciones bajas en una marcha alta. La causa más frecuente es prosaica: gasolina con un octanaje menor del que recomienda el fabricante, o simplemente un mal repostaje.',
+      'También puede tintinear algo que no es el motor. Una pantalla térmica suelta —la hojalata sobre el escape— vibra a ciertas revoluciones, y la cerámica desmenuzada del catalizador susurra y tintinea desde los bajos. La diferencia está en de qué depende: la detonación va ligada a la carga y desaparece conduciendo suave, mientras que la pantalla tintinea a «sus» revoluciones incluso con el coche parado al dar un acelerón.',
+    ],
+    causes: [
+      { name: 'Detonación: combustible de octanaje bajo', likelihood: 'Lo más frecuente: tintineo con carga, sobre todo en subida' },
+      { name: 'Carbonilla en las cámaras de combustión o el sensor de detonación', likelihood: 'Si cambiar de gasolinera no ayudó' },
+      { name: 'Pantalla térmica del escape', likelihood: 'Frecuente: traqueteo a ciertas revoluciones, sin relación con la carga' },
+      { name: 'Catalizador roto', likelihood: 'Menos frecuente: tintineo y susurro desde los bajos, la fuerza baja' },
+    ],
+    canRide: [
+      'Con episodios aislados de tintineo puedes llegar, pero sin cargar el motor mientras tanto: acelera con suavidad, sube las cuestas en una marcha más corta, no tires desde revoluciones bajas en marcha alta. Lo primero es repostar combustible con un octanaje no menor del recomendado, mejor en otra red de gasolineras: muchas veces el tintineo se va con un solo depósito.',
+      'Una detonación constante son golpes sobre los pistones en cada acelerón y va destruyendo el motor: sufren pistones, segmentos y la junta de culata. Si tras cambiar de combustible el tintineo no se fue, no alargues el diagnóstico. El traqueteo de la pantalla, en cambio, es una molestia puramente acústica: con él se circula sin limitaciones y la chapa se sujeta en la próxima visita al taller.',
+    ],
+    checks: [
+      'Llenar un depósito completo con octanaje no menor del recomendado, en otra gasolinera. Si en uno o dos depósitos el tintineo desaparece, la causa era el combustible.',
+      'Comprobar la relación con la carga: el tintineo aparece en subida, al adelantar y con acelerones fuertes, y baja al acelerar suave: esa es la firma de la detonación.',
+      'Dar un acelerón en punto muerto con el coche parado: si el tintineo o el traqueteo surge a ciertas revoluciones incluso sin carga, lo más probable es la pantalla térmica.',
+      'Consultar en el manual o en la tapa del depósito qué gasolina se recomienda: para muchos motores el octanaje bajo ya no vale, aunque formalmente esté permitido.',
+      'Prestar atención a la fuerza y a los ruidos de los bajos: un susurro y un tintineo abajo junto con una aceleración más floja son motivo para revisar el catalizador sin demora.',
+    ],
+    appHelp:
+      'La aplicación Stuk ayuda con las mismas preguntas —cuándo tintinea, si el sonido va ligado a la carga o a las revoluciones— y la grabación permite separar el repiqueteo agudo de la detonación del traqueteo de una chapa. En el informe verás causas probables con porcentajes y una conclusión: puedes circular, conviene planificar el taller o mejor detente.',
+    faq: [
+      {
+        q: '¿Qué significa «picar bielas»?',
+        a: 'Es el nombre antiguo del tintineo de la detonación; en su día se atribuía a los bulones del pistón. En realidad no son ellos los que suenan: el repiqueteo lo crea la onda de choque de una combustión explosiva que rebota en las paredes de los cilindros. El nombre quedó, pero la causa es siempre la misma: detonación, no piezas del pistón gastadas.',
+      },
+      {
+        q: '¿Se puede circular con detonación?',
+        a: 'Poco tiempo y con mimo: aceleración suave, marcha más corta en subida, sin carga completa ni remolque. Cada episodio son golpes sobre los pistones, y una detonación constante acaba en una reparación cara del motor. Si cambiar de combustible no quitó el tintineo en uno o dos depósitos, hace falta diagnóstico.',
+      },
+      {
+        q: '¿Ayuda una gasolina de mayor octanaje?',
+        a: 'La regla principal es no repostar por debajo de lo recomendado por el fabricante. El octanaje indica la resistencia del combustible a la autoinflamación, así que subir de grado en un motor propenso a detonar suele quitar el tintineo. Si ni así se va, la causa —carbonilla o el sensor de detonación— se busca en el taller.',
+      },
+    ],
+  },
 };
