@@ -716,4 +716,93 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'vibratsiya-na-holostyh': {
+    h1: 'Vibrations au ralenti',
+    metaTitle: 'Vibrations au ralenti : causes des tremblements et solutions | Stuk',
+    description:
+      'Pourquoi la voiture tremble au ralenti : supports moteur, ratés d’allumage, prise d’air ou papillon encrassé. Quoi vérifier et peut-on rouler.',
+    intro: [
+      'Un léger tremblement au ralenti, toute voiture en a, un diesel encore plus. Ici il s’agit d’autre chose : d’un tremblement que l’on sent dans le volant, le siège et le rétroviseur, et qui n’était pas là avant. Sa cause la plus fréquente, ce sont les supports moteur : les blocs en caoutchouc sur lesquels le moteur est fixé à la caisse et qui absorbent ses oscillations. Avec les années, le caoutchouc durcit et se fissure, et la vibration que les supports mangeaient auparavant part dans la caisse.',
+      'Deuxième groupe de causes : le moteur lui-même tourne irrégulièrement. Les ratés d’allumage (quand un cylindre s’allume mal de temps à autre — en général à cause des bougies ou des bobines), une prise d’air par une durite fissurée ou un joint d’admission, un papillon ou des injecteurs encrassés rendent le ralenti instable. Distinguer ces cas des supports n’est pas difficile : alors l’aiguille du compte-tours tremble ou ondule et le voyant moteur s’allume souvent, tandis qu’avec des supports usés le moteur tourne rond — c’est la caisse qui tremble.',
+    ],
+    causes: [
+      { name: 'Supports moteur', likelihood: 'Le plus souvent — surtout sur les voitures de plus de 8–10 ans' },
+      { name: 'Ratés d’allumage : bougies, bobines', likelihood: 'Fréquent — si le régime tremble et que le voyant moteur est allumé' },
+      { name: 'Prise d’air par une durite ou un joint d’admission', likelihood: 'Fréquent — si le régime ondule, parfois avec un sifflement' },
+      { name: 'Papillon ou injecteurs encrassés', likelihood: 'Fréquent au-delà de cent mille kilomètres' },
+    ],
+    canRide: [
+      'Dans la plupart des cas, on peut rouler : les vibrations au ralenti ne sont pas le symptôme pour lequel on laisse la voiture sur la bande d’arrêt d’urgence. Avec des supports usés, vous avez une à deux semaines pour prendre rendez-vous tranquillement ; traîner des mois n’est pas raisonnable — des supports détruits ajoutent des chocs au démarrage et aux passages de rapport et accélèrent l’usure des pièces voisines.',
+      'Cas à part : un moteur qui rate franchement — tremblements par à-coups, voyant moteur clignotant ou allumé, puissance en baisse. Avec cela aussi on peut rouler, mais doucement et pas longtemps : le carburant non brûlé des ratés finit de brûler dans l’échappement et surchauffe le catalyseur, dont le remplacement coûte cher. Le diagnostic, dans ce cas, est pour les jours qui viennent et non « à l’occasion ».',
+    ],
+    checks: [
+      'Test des supports : enclencher un rapport (D sur boîte automatique) et maintenir le frein. La vibration de supports usés augmente en général nettement dans cette position.',
+      'Regarder le compte-tours : aiguille immobile et voiture qui tremble, c’est un argument pour les supports ; aiguille qui tremble ou ondule, le moteur tourne irrégulièrement.',
+      'Enclencher la climatisation et noter si le tremblement change : sous charge supplémentaire, des supports faibles et un ralenti irrégulier se manifestent plus nettement, et ce détail servira au mécanicien.',
+      'Examiner, sans rien démonter, les fines durites en caoutchouc sous le capot : fissures et durites déboîtées sont un lieu fréquent de prise d’air.',
+      'Se rappeler quand les bougies ont été changées : un kilométrage bien au-delà de l’intervalle en fait le premier candidat en cas de ratés. Si le voyant moteur est allumé, commencer par la lecture des codes : ils resserrent la recherche.',
+    ],
+    appHelp:
+      'L’application Stuk pose les mêmes questions — le tremblement augmente-t-il avec un rapport enclenché, le régime tient-il, le voyant moteur est-il allumé — et répartit les causes probables en pourcentages. Le rapport donne une conclusion claire : roulez tranquillement, prenez rendez-vous cette semaine ou montrez la voiture dans les jours qui viennent.',
+    faq: [
+      {
+        q: 'Pourquoi ça tremble seulement au ralenti alors que la voiture roule bien ?',
+        a: 'Au ralenti, le régime est minimal et le moteur se balance sur ses supports à une fréquence que la caisse transmet bien dans l’habitacle. Quand le régime monte, les oscillations deviennent plus fines et se sentent moins. C’est pourquoi des supports usés se trahissent au feu rouge et non sur l’autoroute.',
+      },
+      {
+        q: 'Qu’est-ce qu’un raté d’allumage ?',
+        a: 'C’est lorsque le mélange dans l’un des cylindres ne s’enflamme pas de temps en temps — le plus souvent à cause de bougies usées ou d’une bobine défaillante. Le moteur perd alors une partie de sa puissance et sursaute, tandis que le carburant non brûlé finit de brûler dans l’échappement et surchauffe le catalyseur.',
+      },
+      {
+        q: 'Le nettoyage du papillon aide-t-il ?',
+        a: 'Il aide si la cause est là : l’encrassement empêche de doser précisément l’air au ralenti, et le régime devient irrégulier. Mais le nettoyage n’est pas un remède universel : avec des supports usés ou des ratés d’allumage, la vibration restera identique après.',
+      },
+    ],
+  },
+
+  'hlopki-v-glushitele': {
+    h1: 'Détonations dans l’échappement',
+    metaTitle: 'Détonations dans l’échappement : causes et que faire | Stuk',
+    description:
+      'Pourquoi l’échappement pétarade : ratés d’allumage, ligne percée, mélange incorrect ou réglages du GPL. Ce que les détonations font au catalyseur et quand aller au garage.',
+    intro: [
+      'Des détonations ou des « coups de feu » dans l’échappement signifient qu’une partie du carburant ne brûle pas dans les cylindres, mais déjà dans la ligne d’échappement. Le plus souvent, les ratés d’allumage sont en cause : une bougie usée ou une bobine défaillante n’enflamme pas le mélange, l’essence non brûlée part dans l’échappement chaud et s’y enflamme avec la détonation caractéristique.',
+      'Deuxième groupe de causes : la ligne d’échappement elle-même. Un silencieux, un tuyau ou un joint percés ajoutent aux détonations un rugissement qui grossit à l’accélérateur. Le mélange peut aussi être incorrect à cause de capteurs ou d’injecteurs, et sur les voitures au GPL, des détonations au gaz sont un signe typique de réglages déviés. Tous ces scénarios ont un dénominateur commun : le carburant non brûlé finit de brûler dans le catalyseur — l’organe qui achève de brûler les gaz nocifs —, le surchauffe et le détruit peu à peu, et le remplacement d’un catalyseur coûte cher.',
+    ],
+    causes: [
+      { name: 'Ratés d’allumage : bougies ou bobines', likelihood: 'Le plus souvent' },
+      { name: 'Silencieux, tuyau ou joint d’échappement percés', likelihood: 'Fréquent — les détonations viennent avec un rugissement' },
+      { name: 'Mélange incorrect : capteurs ou injecteurs', likelihood: 'Assez fréquent' },
+      { name: 'Réglages déviés de l’installation GPL', likelihood: 'Si les détonations n’apparaissent qu’au gaz' },
+      { name: 'Rugissement à l’accélération sans puissance : l’embrayage patine', likelihood: 'Cas à part au bruit voisin' },
+    ],
+    canRide: [
+      'Une détonation isolée au lever de pied n’oblige pas à s’arrêter : vous pouvez rentrer ou rejoindre le garage. Avec des détonations régulières, on peut rouler aussi, mais prévoyez le diagnostic dans les jours qui viennent et non dans les semaines : chaque détonation est une dose de carburant non brûlé qui finit de brûler dans le catalyseur, et la facture d’une réparation repoussée passe de bougies bon marché au prix d’un catalyseur.',
+      'Cas particulier : le voyant moteur qui clignote. Le système prévient ainsi de ratés d’allumage actifs, dangereux pour le catalyseur en cet instant même. Avec un voyant clignotant, ne roulez que doucement et pas loin, sans charge, et allez au garage sans délai. Si l’on sent l’échappement dans l’habitacle, roulez fenêtre entrouverte jusqu’à la réparation et ne faites pas chauffer la voiture dans un garage fermé : le monoxyde de carbone est dangereux.',
+    ],
+    checks: [
+      'Noter quand ça pétarade : en charge à l’accélération, au lever de pied ou au ralenti — ce détail raccourcit aussitôt la recherche du mécanicien.',
+      'Regarder le voyant moteur : allumé fixe, c’est un diagnostic dans les jours qui viennent ; clignotant, les ratés ont lieu en ce moment même et la visite ne se repousse pas.',
+      'Évaluer le fonctionnement du moteur : marche irrégulière, tremblements au ralenti et puissance en baisse accompagnant les détonations désignent bougies, bobines ou mélange.',
+      'Écouter l’échappement : un rugissement qui grossit à l’accélérateur alors que la puissance reste normale est le signe d’un trou dans le silencieux ou le tuyau, et non d’un problème d’allumage.',
+      'Sur une voiture au GPL, comparer le fonctionnement au gaz et à l’essence : des détonations uniquement au gaz sont une question pour l’installateur.',
+    ],
+    appHelp:
+      'L’application Stuk précise les circonstances — détonations ou rugissement, au gaz ou à l’essence, avec ou sans perte de puissance — et aide à séparer les problèmes d’allumage, un trou dans la ligne et un embrayage qui patine, qui se ressemblent à l’oreille. Le rapport donne les causes probables avec des pourcentages et une recommandation claire sur l’urgence du garage.',
+    faq: [
+      {
+        q: 'Pourquoi l’échappement pétarade-t-il si le problème est dans le moteur ?',
+        a: 'Quand une bougie ou une bobine n’enflamme pas le mélange dans le cylindre, l’essence non brûlée est refoulée dans la ligne d’échappement. Elle y rencontre des pièces portées au rouge et finit de brûler dans un éclair — c’est ce bruit que l’on entend comme une détonation d’échappement. La source, elle, se trouve sous le capot et non dans le silencieux.',
+      },
+      {
+        q: 'En quoi les détonations sont-elles dangereuses pour le catalyseur ?',
+        a: 'Le catalyseur est conçu pour achever de brûler des restes de gaz d’échappement, et non des doses de carburant brut. L’essence qui y finit de brûler fait monter la température au-delà du prévu, et le nid d’abeilles céramique fond ou s’effrite. Résultat : perte de puissance, cliquetis sous le plancher et remplacement du catalyseur, l’un des travaux les plus coûteux de la ligne d’échappement.',
+      },
+      {
+        q: 'Ma voiture au GPL pétarade au gaz. Est-ce dangereux ?',
+        a: 'Oui, pour l’installation gaz les détonations sont plus dangereuses que pour le moteur essence : un retour de flamme dans l’admission peut endommager ses pièces en plastique et les capteurs. La cause habituelle, ce sont des réglages déviés ou des bougies usées. Le plus sage : passer à l’essence et prendre rendez-vous chez un spécialiste GPL.',
+      },
+    ],
+  },
 };
