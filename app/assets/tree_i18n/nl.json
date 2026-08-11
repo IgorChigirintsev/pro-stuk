@@ -644,5 +644,86 @@
   ],
   "explanation": "Een licht, gelijkmatig turbofluitje onder belasting is normaal bij een turbomotor. Let op verandering: het fluiten wordt harder of van toon, er komt janken bij, de trekkracht zakt. Dat is óf luchtlekkage in de drukleidingen, óf slijtage van het lager van de turbo-as.",
   "advice": "Is de toon veranderd of de trekkracht gezakt, ga dan binnen een paar dagen langs voor diagnose: een lekke slang is goedkoop verholpen, maar uitgestelde turboslijtage eindigt met een nieuwe turbo. Houd het olieverbruik in de gaten. Jaag de motor tot die tijd niet in de begrenzer en laat de turbo na stevig rijden een minuut of twee stationair afkoelen."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Kroonwiel en pignon van het differentieel",
+  "alt_causes": [
+   "Lagers van het differentieel",
+   "Te weinig olie in het differentieel"
+  ],
+  "explanation": "Janken of brommen dat bij dezelfde snelheid van toon verandert als je gas geeft en loslaat — onder trekkracht jankt het, uitrollend wordt het zachter, of net andersom — is het handschrift van een versleten kroonwiel en pignon: de tandwielen die de aandrijving naar de wielen brengen. Een wiellager reageert juist helemaal niet op het gaspedaal.",
+  "advice": "Laat het oliepeil van het differentieel controleren en maak binnen een week een afspraak: bij vroege slijtage helpen olie en afstelling vaak nog, bij late slijtage moet de set eruit. Stel lange ritten met hoge snelheid uit tot de controle."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT of automaat (lagers, duwband, koppelomvormer)",
+  "alt_causes": [
+   "Te weinig of oude bakolie",
+   "Aslagers"
+  ],
+  "explanation": "Eentonig, metaalachtig janken bij het optrekken in een auto met CVT of automaat dat afhangt van het gaspedaal en niet van de snelheid, komt meestal van de lagers van de CVT-poelies of van de oliepomp van de automaat. Een CVT is bijzonder gevoelig voor oude olie.",
+  "advice": "Eerst het peil en de staat van de bakolie laten controleren — dat is de helft van deze gevallen. Maak binnen een week een afspraak en rijd tot die tijd rustig, zonder felle sprints of een aanhanger. Een CVT vroeg repareren is vele malen goedkoper dan laat."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Lagers of tandwielen van de handgeschakelde bak",
+  "alt_causes": [
+   "Te weinig olie in de bak",
+   "Lager van de ingaande as"
+  ],
+  "explanation": "Janken waarvan het volume afhangt van de ingeschakelde versnelling — in de ene hard, in de andere zachter, in zijn vrij uitrollend weg — komt uit de handbak: versleten aslagers of één bepaald tandwielpaar. Een wiellager bromt in elke versnelling even hard.",
+  "advice": "Laat het oliepeil van de bak controleren — een gezakt peil is een veelvoorkomende oorzaak. Maak binnen een of twee weken een afspraak en vertel in welke versnellingen het harder jankt: dat versmalt het zoeken. Rijden kan, maar toenemend janken moet je niet laten lopen."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Onbalans van de wielen",
+  "alt_causes": [
+   "Verloren balanceergewichtje",
+   "Vuil of ijs aan de binnenkant van de velg"
+  ],
+  "explanation": "Fijn trillen van het stuur in een smal snelheidsbereik, meestal 80–120 km/u, dat daaronder en daarboven bijna weg is, is klassieke onbalans: er is een gewichtje afgevlogen of er kleeft vuil of ijs aan de binnenkant van de velg. Trilt het stuur, dan zitten de voorwielen uit balans; trilt de stoel, dan de achterwielen.",
+  "advice": "Laat de wielen bij gelegenheid balanceren — snel en goedkoop. Kijk in de winter eerst aan de binnenkant van de velgen en bik aangekoekte sneeuw en ijs eraf. Gevaarlijk is het niet, maar continu trillen versnelt de slijtage van lagers en stuurkogels."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Verbogen velg of een bult in de band",
+  "alt_causes": [
+   "Verschoven loopvlak",
+   "Onbalans van de wielen"
+  ],
+  "explanation": "Slingeren dat al vanaf 40–60 km/u merkbaar is en met de snelheid toeneemt, is meestal vervorming: een velgrand die na een kuil is ingedeukt, of een bult in de zijwand van de band. Anders dan onbalans zit dit niet in een smal snelheidsbereik maar wordt het steeds erger.",
+  "advice": "Bekijk de banden en de velgranden: een bult in de zijwand of een deuk in de velg zie je vaak met het blote oog. Een bult is een zwakke plek die bij snelheid kan klappen: verwissel dat wiel voor het reservewiel en stel het bezoek aan de bandenspecialist niet uit. Rijd niet hard tot het verholpen is."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Cardanas: steunlager of onbalans",
+  "alt_causes": [
+   "Kruiskoppelingen van de cardanas",
+   "Rubberen flexkoppeling"
+  ],
+  "explanation": "Brommen en fijn trillen door vloer en carrosserie in een bepaald snelheidsbereik bij een auto met achterwiel- of vierwielaandrijving komt van de cardanas: een versleten steunlager, uitgesleten kruiskoppelingen of een verstoorde balans. Van wielonbalans verschilt het doordat niet het stuur maar de vloer trilt.",
+  "advice": "Maak binnen een week een afspraak: speling in de cardanas wordt op de brug in enkele minuten gevonden. Uitstellen is onverstandig — een kruiskoppeling die bij snelheid bezwijkt is gevaarlijk. Rijd tot de controle niet lang op de snelheid waarbij het trilt."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Windgeruis (rubbers, sierlijsten, dakdrager)",
+  "alt_causes": [
+   "Versleten deurrubbers",
+   "Dakrails of dakkoffer"
+  ],
+  "explanation": "Fluiten of huilen dat pas boven een bepaalde snelheid begint (meestal 70–90 km/u), daarmee toeneemt en niet afhangt van het wegdek of van bochten, is lucht: een versleten rubber, een losgelaten sierlijst, dakrails of een dakkoffer.",
+  "advice": "De bron vind je eenvoudig: haal de dakkoffer of de dwarsdragers eraf als je die hebt; zet een raam op een kier en luister of het fluiten verandert; plak een verdachte naad af met schilderstape en maak een ritje. Een defect is het niet; het wordt verholpen met een nieuw rubber of het afstellen van de deur."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Slijtage-indicator van de remblokken schuurt tegen de schijf",
+  "alt_causes": [
+   "Remblokken bijna op",
+   "Steentje tussen blok en schijf"
+  ],
+  "explanation": "Een dun metaalachtig piepje tijdens het rijden zonder te remmen, dat bij licht aanraken van het pedaal verdwijnt of verandert, betekent dat het metalen plaatje op het remblok de schijf begint te raken. Dat is de ingebouwde waarschuwing: het werkzame deel van het blok is bijna op.",
+  "advice": "Maak deze week een afspraak voor nieuwe remblokken en laat de schijven meteen nakijken. De remmen werken nu nog volledig, maar de volgende fase is metaal op metaal en beschadigde schijven. Komt het piepen van één wiel, vertel dat dan in de garage."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Vastgelopen remklauw",
+  "alt_causes": [
+   "Vastgekoekte geleidepennen van de remklauw",
+   "Opgezwollen remslang"
+  ],
+  "explanation": "Continu schuren bij één wiel, een gloeiend hete schijf na het rijden, een brandlucht en een auto die naar één kant trekt: de remklauw (het onderdeel dat de blokken tegen de schijf duwt) is vastgelopen en het blok sleept continu over de schijf. Een oververhitte rem verliest zijn werking, en blok en schijf branden binnen een paar honderd kilometer op.",
+  "advice": "Stop met gewoon rijden en ga alleen naar de garage — dichtbij en langzaam. Welk wiel heet is, voel je met je hand naast de schijf; raak de schijf zelf niet aan, die verbrandt je. Uitstellen eindigt met een wiel dat tijdens het rijden blokkeert."
  }
 }
