@@ -1,0 +1,69 @@
+{
+ "q_when": {
+  "text": "Ses ne zaman duyuluyor?",
+  "options": {
+   "o1": "Çalıştırırken ya da çalıştırmaya çalışırken",
+   "o2": "Dururken, motor çalışıyorken",
+   "o3": "Sadece giderken",
+   "o4": "Hem dururken hem giderken"
+  }
+ },
+ "q_start_char": {
+  "text": "Kontağı çevirdiğinizde ya da çalıştırma düğmesine bastığınızda ne duyuluyor?",
+  "options": {
+   "o1": "Tıkırtı, motor dönmüyor",
+   "o2": "Marş dönerken metalik bir gıcırtı",
+   "o3": "Marş boşta dönüyor, motor tutmuyor",
+   "o4": "Motor çalışır çalışmaz ıslık ya da cıyaklama"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Tıkırtı tam olarak nasıl?",
+  "options": {
+   "o1": "Hızlı tık tık tık, gösterge ışıkları kısılıyor",
+   "o2": "Tek net bir tık, sonra sessizlik"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Ses yalnızca bir şeyi açtığınızda ya da bastığınızda mı çıkıyor (kalorifer, klima, debriyaj, direksiyon, fren)?",
+  "options": {
+   "o1": "Evet, belirli bir hareketle bağlantılı",
+   "o2": "Hayır, kendi kendine duyuluyor"
+  }
+ },
+ "q_action": {
+  "text": "Ses hangi hareketle bağlantılı?",
+  "options": {
+   "o1": "Kalorifer ya da üfleme fanıyla",
+   "o2": "Klima düğmesiyle",
+   "o3": "Debriyaj pedalıyla",
+   "o4": "Direksiyon, fren pedalı ya da sileceklerle"
+  }
+ },
+ "q_hvac": {
+  "text": "Fan çalışırken ses nasıl?",
+  "options": {
+   "o1": "Hışırtı ya da çıtırtı, fan hızıyla değişiyor",
+   "o2": "Torpidonun altından cıyaklama ya da uğultu",
+   "o3": "Sıcaklığı ya da üflemeyi değiştirirken panelin arkasından bir dizi tıkırtı",
+   "o4": "Panelin arkasında lıkırtı ya da su şırıltısı"
+  }
+ },
+ "q_ac": {
+  "text": "Klimayı açtığınızda ne duyuluyor?",
+  "options": {
+   "o1": "Açıldığı anda cıyaklama",
+   "o2": "Klima çalışırken gıcırtı ya da gürültü",
+   "o3": "Açarken ya da kapatırken kısa bir tıslama, soğutma normal"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Ses debriyaj pedalıyla nasıl bağlantılı?",
+  "options": {
+   "o1": "Pedal bırakılıyken hışırtı ya da uğultu; basınca kesiliyor",
+   "o2": "Pedala basınca çıkıyor ya da artıyor",
+   "o3": "Rölantide takırtı ya da gürültü, pedala basınca değişiyor",
+   "o4": "Pedala basarken gıcırtı, motor kapalıyken bile duyuluyor"
+  }
+ }
+}
