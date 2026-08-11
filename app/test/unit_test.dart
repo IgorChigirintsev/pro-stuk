@@ -169,10 +169,11 @@ void main() {
     final ru = await DecisionTree.load();
     final ruText = ru.node(ru.rootId).text;
 
-    // язык без файла перевода — дерево целиком остаётся русским
-    LocaleService.current.value = 'ko';
-    final ko = await DecisionTree.load();
-    expect(ko.node(ko.rootId).text, ruText);
+    // язык без файла перевода — дерево целиком остаётся русским.
+    // Код заведомо несуществующий: реальные языки один за другим переводятся.
+    LocaleService.current.value = 'zz';
+    final zz = await DecisionTree.load();
+    expect(zz.node(zz.rootId).text, ruText);
     LocaleService.current.value = 'ru';
   });
 
