@@ -536,4 +536,184 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-pri-povorote': {
+    h1: 'Zumbido al girar',
+    metaTitle: 'Zumbido al girar: rodamiento de rueda o dirección asistida | Stuk',
+    description:
+      'De dónde viene el zumbido al girar: rodamiento de rueda gastado, bomba de dirección asistida que aúlla o ruido de los neumáticos. Cómo saber el lado y si es peligroso.',
+    intro: [
+      'En el zumbido al girar hay que separar dos escenarios desde el principio: un zumbido a cierta velocidad que en una curva crece y en la otra baja, y un aullido que aparece al girar el volante parado o aparcando. Suenan parecido, pero las fuentes son completamente distintas: en el primer caso, la rueda; en el segundo, la dirección asistida.',
+      'Un zumbido a velocidad que depende del sentido del giro es la firma clásica del rodamiento de rueda, el apoyo sobre el que gira la rueda. En curva el peso del coche pasa a las ruedas exteriores, y un rodamiento gastado y cargado zumba más fuerte. El aullido al girar el volante a poca velocidad suele venir de la bomba de la dirección asistida, normalmente por un nivel bajo de líquido. Y en coches con dirección eléctrica un ligero zumbido al girar el volante es normal, no una avería.',
+    ],
+    causes: [
+      { name: 'Rodamiento de rueda', likelihood: 'Lo más frecuente: si el zumbido va con la velocidad y cambia en curva' },
+      { name: 'Bomba de dirección asistida o nivel bajo de líquido', likelihood: 'Frecuente: si aúlla al girar el volante parado' },
+      { name: 'Ruido de los neumáticos', likelihood: 'Frecuente; el zumbido depende del firme, no del giro' },
+      { name: 'Zumbido normal de la dirección eléctrica', likelihood: 'Normal en coches sin depósito de líquido de dirección' },
+      { name: 'Junta homocinética gastada', likelihood: 'Menos frecuente; suele añadir chasquidos a tope de giro' },
+    ],
+    canRide: [
+      'Con un rodamiento que zumba se puede circular, pero es un crédito a corto plazo: no aplaces la revisión más de una semana y deja los viajes largos a velocidad alta para después. Un rodamiento que se rompe da holgura a la rueda y, en un caso descuidado, puede agarrotarse. Si el zumbido creció de golpe o se le sumó vibración, al taller enseguida.',
+      'Con la bomba de dirección aullando, lo primero es comprobar el nivel de líquido en el depósito: rellenar suele cerrar el asunto. Se puede circular, pero no mantengas el volante a tope de giro más de un par de segundos: en esa posición la bomba trabaja a presión máxima. Si tras rellenar el aullido sigue o el nivel vuelve a bajar, hay una fuga: al taller en una semana.',
+    ],
+    checks: [
+      'Recordar hacia qué lado del giro el zumbido es más fuerte. Más fuerte al girar a la izquierda significa que se carga el lado derecho, así que el rodamiento derecho es el candidato; y al revés. Ese detalle acorta mucho la búsqueda en el taller.',
+      'Comprobar el sonido parado: si el aullido aparece al girar el volante en el aparcamiento, las ruedas no tienen nada que ver, la fuente es la dirección asistida.',
+      'Mirar bajo el capó si hay depósito de líquido de dirección. Si lo hay, comprobar el nivel y rellenar hasta la marca si hace falta; si no lo hay, la dirección es eléctrica y un zumbido suave y uniforme es normal en ella.',
+      'Valorar la dependencia del firme: un zumbido más suave sobre asfalto nuevo y más fuerte sobre firme rugoso suele venir de los neumáticos, no del rodamiento.',
+      'Mirar el dibujo: el desgaste «en sierra» (escalones en los bordes) o por manchas aumenta el zumbido de la goma y a la vez sugiere una alineación descuadrada o amortiguadores cansados.',
+    ],
+    appHelp:
+      'La aplicación Stuk hace las mismas preguntas que el mecánico al recibir el coche: dónde se oye el zumbido, si cambia en curva, si está ligado a girar el volante parado. La grabación ayuda a comparar el sonido con ejemplos típicos, y en el informe verás causas probables y una recomendación clara: circula tranquilo, pide cita esta semana o compruébalo sin demora.',
+    faq: [
+      {
+        q: '¿Por qué el zumbido crece solo hacia un lado del giro?',
+        a: 'En curva el peso del coche pasa a las ruedas exteriores. Si está gastado, por ejemplo, el rodamiento derecho, bajo carga zumba más fuerte, es decir, al girar a la izquierda. Esa propiedad permite saber antes del taller qué lado revisar primero.',
+      },
+      {
+        q: '¿Se puede echar cualquier líquido a la dirección asistida?',
+        a: 'No. El tipo de líquido está en el manual del coche y a menudo en la propia tapa del depósito. Un relleno puntual con el líquido adecuado es seguro, pero si el nivel baja con regularidad hay una fuga en alguna parte: buscarla y repararla es cosa del taller, rellenar no resuelve nada.',
+      },
+      {
+        q: 'No hay depósito de dirección bajo el capó y al girar zumba, ¿qué es?',
+        a: 'Lo más probable es que la dirección sea eléctrica: su motor zumba suavemente al girar el volante y eso es funcionamiento normal. Deben alertarte otras señales: que la dirección se haya vuelto dura o se endurezca a tirones, que aparezca un crujido o que se encienda el testigo de la dirección. Con eso, al taller en los próximos días.',
+      },
+    ],
+  },
+
+  'shchelchki-pri-povorote-rulya': {
+    h1: 'Chasquidos al girar el volante',
+    metaTitle: 'Chasquidos al girar el volante: homocinética o cojinete | Stuk',
+    description:
+      'Por qué chasquea al girar el volante: junta homocinética exterior, cojinete del amortiguador o la cruceta de la columna. Cómo distinguirlos por el sonido y qué comprobar sin desmontar.',
+    intro: [
+      'Los chasquidos al girar el volante se separan con una pregunta sencilla: ¿el coche está en marcha o parado en ese momento? Un crujido con chasquidos circulando con el volante girado es la firma de la junta homocinética exterior, la articulación por la que el giro llega a la rueda que además dirige. Cuanto más girado está el volante y más brusca la salida, más claro es el crujido. Todo suele empezar con un fuelle roto: la funda de goma que protege la articulación de la suciedad.',
+      'Si en cambio los chasquidos se oyen al girar el volante con el coche parado, la homocinética normalmente no tiene la culpa. Un crujido desde arriba, desde el paso de rueda, lo da el cojinete de apoyo del amortiguador, la pieza sobre la que la parte alta del amortiguador gira junto con la rueda. Los chasquidos en el propio volante, a la altura de los pies del conductor, son la cruceta de la columna, la pequeña articulación entre el volante y la cremallera. Ninguna de estas opciones obliga a dejar el coche donde está, pero tampoco conviene alargarlas meses.',
+    ],
+    causes: [
+      { name: 'Junta homocinética exterior', likelihood: 'Lo más frecuente: si cruje en marcha con el volante girado' },
+      { name: 'Cojinete de apoyo del amortiguador', likelihood: 'Frecuente: si cruje parado, desde arriba del paso de rueda' },
+      { name: 'Cruceta de la columna de dirección', likelihood: 'Si los chasquidos se oyen y se notan en el propio volante' },
+      { name: 'Rótulas de dirección o la cremallera', likelihood: 'Menos frecuente; suelen dar golpes, no chasquidos' },
+      { name: 'Junta homocinética interior, bieletas', likelihood: 'Menos frecuente; se comprueban en el mismo diagnóstico' },
+    ],
+    canRide: [
+      'Con una homocinética que cruje se puede circular, pero no alargues el cambio más de una o dos semanas: una articulación gastada en el peor caso se agarrota, y eso ya no es un sonido sino un coche parado. Hasta la reparación ayuda un trato suave: no arrancar de golpe con las ruedas a tope de giro.',
+      'El cojinete de apoyo y la cruceta dan más incomodidad que peligro inmediato, pero la dirección es un sistema de seguridad, así que conviene pasar el diagnóstico en los próximos días: en el elevador lleva unos minutos. Motivos para acelerar: el volante se ha quedado «vacío» en el centro, el coche baila dentro del carril o los chasquidos se han vuelto mucho más frecuentes.',
+    ],
+    checks: [
+      'Separar los escenarios en un aparcamiento vacío: ¿aparece el crujido al circular en círculo con el volante girado, o los chasquidos se oyen al girar el volante con el coche parado?',
+      'Revisar los fuelles de las homocinéticas, las fundas de goma acordeón en la cara interna de cada rueda delantera. Un desgarro con grasa esparcida alrededor es casi un diagnóstico confirmado.',
+      'Pedir a alguien que gire el volante con el motor parado y poner la palma sobre la copela del amortiguador bajo el capó: los chasquidos de un apoyo gastado se notan con la mano.',
+      'Mover el volante a izquierda y derecha con el motor parado y escuchar a la altura de los pies: un chasquido nítido en la columna delata la cruceta.',
+      'Recordar de qué rueda viene el crujido en marcha y en qué giro es más fuerte: esos detalles acortan mucho la búsqueda en el taller.',
+    ],
+    appHelp:
+      'En la aplicación Stuk estas bifurcaciones están reunidas en un árbol corto de preguntas: si el coche va o está parado, de dónde viene el sonido, cómo están los fuelles. El crujido se puede grabar con el móvil y compararlo con ejemplos. En el informe verás causas probables con su valoración y una recomendación de plazos: sin alarmismo, pero sin chasquidos olvidados un mes.',
+    faq: [
+      {
+        q: '¿Qué es una junta homocinética y por qué chasquea?',
+        a: 'Es la articulación que transmite el giro a una rueda que además dirige. Cuando entra suciedad por un fuelle roto, las bolas y las pistas de la articulación se desgastan, y bajo carga con el volante girado empieza a crujir con claridad.',
+      },
+      {
+        q: '¿Cuánto se puede circular con una homocinética que chasquea?',
+        a: 'No hay una vida útil exacta: a unos les aguanta meses, a otros se acaba en un par de semanas. La referencia razonable es no aplazar el cambio más de una o dos semanas y, hasta la reparación, no arrancar de golpe con las ruedas giradas: así la carga sobre la articulación es mínima.',
+      },
+      {
+        q: '¿Por qué cruje al girar el volante con el coche parado?',
+        a: 'Con el coche parado la rueda no gira y la homocinética no trabaja. Un crujido en el sitio suele venir del cojinete de apoyo del amortiguador —el sonido llega desde arriba, del paso de rueda— o de la cruceta de la columna si chasquea en el propio volante. Ambas piezas se comprueban en el taller en unos minutos.',
+      },
+    ],
+  },
+
+  'stuk-v-dvigatele-na-holodnuyu': {
+    h1: 'Golpeteo del motor en frío',
+    metaTitle: 'El motor golpetea en frío: causas y qué hacer | Stuk',
+    description:
+      'Por qué el motor golpetea en frío y calla al calentarse: taqués hidráulicos, grupo de pistones, cadena de distribución. Cuándo es normal y cuándo toca taller.',
+    intro: [
+      'Un golpeteo que solo se oye los primeros minutos tras el arranque en frío y se va según el motor se calienta es una de las quejas más frecuentes en coches con kilómetros. La buena noticia: aquí la causa más extendida es también la más inofensiva. Un tictac frecuente arriba del motor suele venir de los taqués hidráulicos, pequeñas piezas que con la presión de aceite eliminan la holgura sobrante del tren de válvulas. Mientras el motor está frío, el aceite es espeso y no les llega enseguida, así que repiquetean un par de minutos. Al calentarse, callan.',
+      'El carácter del sonido dice mucho. Un golpe sordo desde el fondo del motor apunta más al desgaste del grupo de pistones: en frío el pistón tiene algo más de holgura en el cilindro y golpetea hasta que el calor lo dilata. Un susurro o traqueteo delante es la firma de una cadena de distribución estirada —la cadena interna que hace abrir las válvulas a tiempo— o de su tensor flojo. Y un repiqueteo más fuerte fuera que dentro del habitáculo, con olor a escape bajo el capó, es señal de una junta del colector de escape quemada: los gases escapan por la fisura hasta que el metal se dilata y la cierra.',
+    ],
+    causes: [
+      { name: 'Taqués hidráulicos: aceite frío y espeso', likelihood: 'Lo más frecuente: si suena arriba y calla en un par de minutos' },
+      { name: 'Desgaste del grupo de pistones', likelihood: 'Frecuente con muchos kilómetros: golpe sordo desde el fondo' },
+      { name: 'Cadena de distribución o su tensor', likelihood: 'Frecuente: si delante hay susurro o traqueteo' },
+      { name: 'Junta o grieta del colector de escape', likelihood: 'Si el repiqueteo es más fuerte fuera y huele a escape' },
+      { name: 'Correa de accesorios patinando', likelihood: 'Si es un chillido o chirrido y no un golpe' },
+    ],
+    canRide: [
+      'Con el tictac de los taqués que desaparece del todo al calentar se puede circular sin limitaciones: es la vida normal de un motor con kilómetros. Lo mismo vale para el chirrido de la correa los primeros segundos tras arrancar: molesto, pero no peligroso. En ambos casos basta con comprobar el nivel y la edad del aceite y enseñar el coche al mecánico en la próxima visita programada.',
+      'El golpe sordo del grupo de pistones es cosa de observación: se puede circular, pero conviene vigilar el consumo de aceite y contarle el sonido al mecánico en la próxima visita. Con el susurro de la cadena no se puede alargar: diagnóstico en una o dos semanas, porque una cadena que salta significa una reparación cara del motor, y hasta entonces sin arrancadas bruscas en frío. Y un principio general: si el golpeteo dejó de irse al calentar o se oye con carga, el diagnóstico ya no se aplaza.',
+    ],
+    checks: [
+      'Cronometrar cuántos minutos dura el sonido: uno o dos y silencio es típico de los taqués; cuanto más vive el golpeteo, más necesaria es la revisión.',
+      'Comprobar con la varilla el nivel de aceite en el motor frío y recordar cuándo se cambió: nivel bajo y aceite viejo amplifican todos los golpeteos en frío.',
+      'Determinar el carácter del sonido: tictac frecuente arriba, golpe sordo desde el fondo o susurro delante del motor son tres historias distintas con urgencias distintas.',
+      'Abrir el capó con el motor frío en marcha y oler: el olor a escape junto al repiqueteo apunta al colector.',
+      'Apagar el motor caliente diez minutos y volver a arrancar: un golpeteo «de frío» de verdad no vuelve tras una parada tan corta.',
+    ],
+    appHelp:
+      'La aplicación Stuk recorre las mismas bifurcaciones —si es tictac, golpe sordo o susurro y con qué rapidez se va el sonido— y la grabación del móvil ayuda a captar un carácter difícil de describir con palabras. En el informe verás causas probables con porcentajes y una conclusión clara: circula tranquilo, pide cita esta semana o no alargues el taller.',
+    faq: [
+      {
+        q: 'El golpeteo desaparece al calentar, ¿puedo ignorarlo?',
+        a: 'La mayoría de las veces sí: el tictac de los taqués en frío es habitual y no requiere reparación. Pero conviene observar: si el sonido empezó a durar más de un par de minutos, se quedó con el motor caliente o apareció bajo carga, ya es motivo de diagnóstico.',
+      },
+      {
+        q: '¿Sirven los aditivos «antigolpeteo»?',
+        a: 'Mejor no echarlos: no eliminan el desgaste, enmascaran el síntoma y por eso el problema se detecta más tarde. Lo que de verdad ayuda es otra cosa: aceite fresco de la viscosidad adecuada, nivel correcto y, si el golpeteo sigue, reglaje o reparación con un mecánico.',
+      },
+      {
+        q: '¿Por qué en invierno golpetea más en frío?',
+        a: 'Con frío el aceite es más espeso y tarda más en llegar a la parte alta del motor, así que los taqués y el tren de válvulas repiquetean más y las holguras de las piezas frías son algo mayores. Si al calentar todo calla, es el mismo cuadro que en verano, solo que estirado en el tiempo.',
+      },
+    ],
+  },
+
+  'svist-pri-zapuske': {
+    h1: 'Chirrido al arrancar el motor',
+    metaTitle: 'Chirrido al arrancar el motor: causas y qué hacer | Stuk',
+    description:
+      'Por qué el motor chirría al arrancar: correa de accesorios que patina, rodillos o la bomba de agua. Cuándo el chirrido es inofensivo y cuándo toca pedir cita.',
+    intro: [
+      'Un chillido o chirrido en los primeros segundos después de que el motor arranca viene casi siempre de la correa de accesorios: la correa de goma que desde el motor mueve el alternador, la bomba de agua y el compresor del aire acondicionado. En frío o con tiempo húmedo la correa patina sobre las poleas y chirría, y unos segundos después se calienta, se seca y calla.',
+      'Ahora mismo ese escenario no es peligroso, pero tampoco conviene darlo por normal: una correa nueva y bien tensada no chirría ni con helada. Un chirrido matutino regular indica que la correa ha envejecido, que la tensión ha caído o que uno de los rodillos por los que pasa empieza a desgastarse. Historia aparte son los ruidos del propio arranque: un rechinar o zumbido mientras el motor de arranque gira el motor. Eso ya no es la correa, sino el motor de arranque o la corona del volante, y con ellos no conviene esperar.',
+    ],
+    causes: [
+      { name: 'Correa de accesorios patinando en frío', likelihood: 'Lo más frecuente: si el chirrido se va en los primeros segundos' },
+      { name: 'Correa desgastada o tensión caída', likelihood: 'Frecuente: si el chirrido sigue también con el motor caliente' },
+      { name: 'Rodamiento del rodillo tensor o guía', likelihood: 'Bastante frecuente: al chirrido se suma un susurro o zumbido' },
+      { name: 'Bomba de agua, si hay restos de refrigerante junto a la correa', likelihood: 'Menos frecuente' },
+      { name: 'Rechinar mientras gira el motor de arranque: piñón o corona del volante', likelihood: 'Caso aparte: el sonido llega antes de que el motor arranque' },
+    ],
+    canRide: [
+      'Con un chirrido que vive unos segundos tras el arranque en frío y desaparece del todo se puede circular: no hay amenaza directa. Aun así, conviene enseñar la correa en el taller cuando toque: la revisión lleva un par de minutos y cambiar correa y rodillo es de los trabajos baratos.',
+      'Si el chirrido dejó de irse al calentar, aparece al conectar el aire acondicionado o con cada arranque suena más largo y más fuerte, pide cita en una semana: una correa desgastada puede romperse, y sin ella se paran el alternador y, en muchos motores, la bomba de agua. Si se enciende el testigo de la batería o la aguja de temperatura sube, detente y apaga el motor.',
+    ],
+    checks: [
+      'Cronometrar la duración del chirrido: unos segundos tras arrancar es patinaje en frío; un sonido que no se va al calentar es desgaste de la correa o de los rodillos.',
+      'Buscar la relación con el tiempo: chirrido solo tras la lluvia, el lavado o con helada habla de patinaje, no de la avería de una pieza concreta.',
+      'Conectar el aire acondicionado o el desempañador con el motor en marcha: si el chirrido aparece o crece, la correa patina bajo carga.',
+      'Con el motor parado, revisar la correa con una linterna: grietas transversales, bordes deshilachados y flancos «pulidos» brillantes son signos de desgaste.',
+      'Mirar si hay goteos o restos blanquecinos de refrigerante junto a las poleas: apuntan a la bomba de agua, y entonces mejor no aplazar la visita al taller.',
+    ],
+    appHelp:
+      'La aplicación Stuk hace las mismas preguntas que el mecánico al recibir el coche: cuándo aparece el chirrido, si se va al calentar, qué se oye mientras trabaja el motor de arranque. La grabación ayuda a separar el chillido de la correa del rechinar del arranque, y en el informe verás causas probables con porcentajes y una conclusión clara: puedes circular, al taller esta semana o detente.',
+    faq: [
+      {
+        q: '¿Por qué el motor chirría solo en frío y con humedad?',
+        a: 'La goma fría y húmeda de la correa agarra peor las poleas, así que en los primeros segundos tras arrancar patina y chirría. Al calentarse recupera el agarre y el sonido se va. Una correa nueva con el tensor en buen estado aguanta también esas condiciones, así que un chirrido matutino regular es motivo de revisión.',
+      },
+      {
+        q: 'El chirrido aparece ya con el motor caliente. ¿Es serio?',
+        a: 'Es señal de que el desgaste ha llegado al punto en que la correa patina en condiciones normales. De momento se puede circular, pero pide cita en una semana: una correa rota te deja sin alternador y en muchos coches sin bomba de agua, y el viaje acaba en grúa.',
+      },
+      {
+        q: '¿En qué se diferencia el chirrido tras arrancar del rechinar al arrancar?',
+        a: 'El chirrido y el chillido aparecen cuando el motor ya está en marcha, y la culpa suele ser de la correa. El rechinar metálico se oye antes, en los segundos en que el motor de arranque gira el motor, y habla de un mal engrane del piñón con la corona del volante. Son piezas distintas y reparaciones distintas.',
+      },
+    ],
+  },
 };
