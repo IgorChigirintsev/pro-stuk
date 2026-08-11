@@ -572,5 +572,77 @@
   ],
   "explanation": "Buczenie albo ryk, który sam się włącza i wyłącza — przy upale, w korku, z klimatyzacją — to wentylator chłodnicy. Głośny wentylator oznacza albo zużyte tulejki jego silniczka, albo to, że kręci bez przerwy przez czujnik lub termostat. Czasem pracuje jeszcze przez minutę czy dwie po zgaszeniu silnika — to normalne.",
   "advice": "Jeśli wentylator ryczy bez przerwy już od rozruchu na zimnym silniku, na diagnostykę w najbliższych dniach: układ chłodzenia nie pracuje prawidłowo. Obserwuj wskazówkę temperatury; jeśli idzie w górę, zatrzymaj się i zgaś silnik."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Elektryczna pompa paliwa",
+  "alt_causes": [
+   "Zapchany filtr paliwa",
+   "Siatka filtrująca pompy"
+  ],
+  "explanation": "Równomierne buczenie albo wycie z tyłu, spod tylnej kanapy albo od strony baku, to pompa paliwa. Słyszeć ją przez sekundę czy dwie po przekręceniu kluczyka to norma; głośne wycie, słyszalne także w jeździe, wskazuje na zużytą pompę albo zapchany filtr, przez który musi pracować z wysiłkiem.",
+  "advice": "Umów sprawdzenie ciśnienia paliwa w ciągu tygodnia albo dwóch. Nie jeźdź długo na rezerwie: przy dnie baku pompa gorzej się chłodzi i szybciej zużywa. Jeśli auto zaczęło szarpać pod obciążeniem albo trudno odpala, przyspiesz wizytę."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Rozsypany katalizator",
+  "alt_causes": [
+   "Osłona termiczna",
+   "Mocowania układu wydechowego"
+  ],
+  "explanation": "Dźwięczne grzechotanie albo szelest spod podwozia, bliżej silnika, które nasila się przy dodaniu gazu i idzie w parze ze spadkiem mocy albo zmienionym zapachem spalin, to rozsypana ceramika w katalizatorze. Odłamki grzechoczą w obudowie, a zapchany wkład dusi silnik.",
+  "advice": "Na diagnostykę w najbliższych dniach: odłamki ceramiki mogą zostać zassane do silnika, a to już droga naprawa. Prosty test w warsztacie to lekkie stuknięcie w obudowę katalizatora na wystudzonym aucie: w środku słychać luźne kawałki. Z tym nie warto zwlekać."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Automatyczna skrzynia: stary olej, zużycie albo luzy w napędzie",
+  "alt_causes": [
+   "Poduszki silnika i skrzyni",
+   "Krzyżaki wału napędowego (przy napędzie na tył)"
+  ],
+  "explanation": "Szarpnięcie albo łomot dokładnie przy przełączaniu wybieraka z D na R lub przy zmianie biegów wskazuje na zużycie albo stary olej w automatycznej skrzyni: bieg wchodzi z uderzeniem, a luzy w napędzie je wzmacniają. Podobnie łomocą osiadłe poduszki, więc diagnozę warto doprecyzować.",
+  "advice": "Najpierw sprawdź poziom i stan oleju w skrzyni: jeśli jest ciemny i pachnie spalenizną, trzeba go wymienić, a w wielu przypadkach to wystarcza. Umów diagnostykę w ciągu tygodnia albo dwóch i powiedz, przy których dokładnie zmianach biegów szarpie. Do naprawy przestawiaj wybierak tylko na całkowitym postoju i z wciśniętym hamulcem."
+ },
+ "leaf_synchro": {
+  "top_cause": "Synchronizatory skrzyni albo sprzęgło, które nie rozłącza do końca",
+  "alt_causes": [
+   "Luz pedału sprzęgła",
+   "Zużycie sprzęgła"
+  ],
+  "explanation": "Chrupnięcie przy wrzucaniu biegu w skrzyni manualnej oznacza, że koła zębate spotykają się przy różnych prędkościach. Jeśli chrupie jeden albo dwa konkretne biegi (najczęściej dwójka albo trójka), zużyte są ich synchronizatory; jeśli chrupią wszystkie, sprzęgło nie rozłącza do końca i skrzynia się nie uwalnia.",
+  "advice": "Sprawdź luz pedału sprzęgła i poziom oleju w skrzyni — od tego zacznie też warsztat. Umów diagnostykę w ciągu dwóch tygodni. Do naprawy zmieniaj biegi wolniej, z chwilą przerwy na luzie: mniej chrupie i mniej się zużywa."
+ },
+ "leaf_clutch_judder": {
+  "top_cause": "Sprzęgło: zużyta albo zaolejona tarcza",
+  "alt_causes": [
+   "Poduszki silnika",
+   "Koło dwumasowe"
+  ],
+  "explanation": "Drżenie dokładnie w chwili ruszania, dopóki puszczasz pedał sprzęgła, przy czym po pełnym sprzęgnięciu auto jedzie równo, oznacza, że sprzęgło łapie szarpnięciami: tarcza jest zużyta, zaolejona albo docisk się wypaczył. Poduszki silnika powodują drżenie także na wolnych obrotach, a tu żyje ono wyłącznie w fazie ruszania.",
+  "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch: drżenie przy ruszaniu samo nie przechodzi i zwykle się nasila. Do naprawy ruszaj łagodnie, na nieco wyższych obrotach, bez ślizgania sprzęgła. Jeśli pojawi się zapach spalenizny, sprzęgło się dopala — nie zwlekaj z wizytą."
+ },
+ "leaf_driveline_lash": {
+  "top_cause": "Krzyżaki wału napędowego albo luzy w napędzie",
+  "alt_causes": [
+   "Tuleje i śruby sanek",
+   "Przekładnia główna mostu"
+  ],
+  "explanation": "Pojedynczy łomot albo kliknięcie spod środkowej lub tylnej części podwozia przy ruszaniu i przy przechodzeniu z gazu na hamowanie silnikiem to luz w przenoszeniu napędu: najczęściej zużyte krzyżaki wału napędowego (napęd na tył i na cztery koła) albo poluzowane mocowania sanek.",
+  "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch: na podnośniku luz wału znajduje się w minutę, poruszając nim ręką. Nie warto zwlekać — rozbity krzyżak może się rozlecieć przy prędkości. Do naprawy ruszaj i puszczaj gaz łagodniej."
+ },
+ "leaf_clutch_slip": {
+  "top_cause": "Sprzęgło ślizga się",
+  "alt_causes": [
+   "Zaolejona tarcza",
+   "Ślizganie automatu albo CVT"
+  ],
+  "explanation": "Jeśli po dodaniu gazu obroty rosną, silnik ryczy, a auto ledwie przyspiesza, sprzęgło ślizga się i nie przenosi napędu: tarcza jest zużyta albo zaolejona. Najbardziej widać to pod górę i na najwyższym biegu; często dochodzi gryzący zapach spalenizny. W automacie tak samo ślizga się zużyta skrzynia.",
+  "advice": "Do warsztatu w tym tygodniu: ślizgające się sprzęgło doślizga się do całkowitej utraty napędu, i to zwykle w najgorszym momencie. Do naprawy jedź spokojnie, bez wyprzedzania i przyczepy, a pod górę redukuj z wyprzedzeniem. Jeśli zapach spalenizny się nasila, nie zwlekaj ani dnia."
+ },
+ "leaf_turbo": {
+  "top_cause": "Turbosprężarka albo nieszczelność doładowania",
+  "alt_causes": [
+   "Przewód intercoolera",
+   "Łożysko wału turbiny"
+  ],
+  "explanation": "Lekki, równomierny gwizd turbo pod obciążeniem jest normą w silniku turbo. Zaniepokoić powinna zmiana: gwizd stał się głośniejszy albo zmienił ton, pojawiło się wycie, spadła moc. To albo nieszczelność w przewodach doładowania, albo zużycie łożyska wału turbiny.",
+  "advice": "Jeśli ton się zmienił albo auto ciągnie gorzej, na diagnostykę w najbliższych dniach: nieszczelny przewód naprawia się tanio, a zaniedbane zużycie turbo kończy się jej wymianą. Obserwuj zużycie oleju. Do kontroli nie kręć silnika na odcięcie i po ostrzejszej jeździe daj turbinie ostygnąć minutę albo dwie na wolnych obrotach."
  }
 }
