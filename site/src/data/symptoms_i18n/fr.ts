@@ -536,4 +536,184 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-pri-povorote': {
+    h1: 'Ronflement en virage',
+    metaTitle: 'Ronflement en virage : roulement de roue ou direction assistée | Stuk',
+    description:
+      'D’où vient le ronflement en virage : roulement de roue usé, pompe de direction assistée qui hurle ou bruit des pneus. Comment déterminer le côté et savoir si c’est dangereux.',
+    intro: [
+      'Avec le ronflement en virage, il faut d’emblée séparer deux scénarios : un ronflement à vitesse qui grossit dans un sens et faiblit dans l’autre, et un hurlement qui apparaît quand on tourne le volant à l’arrêt ou en manœuvrant. Ils sonnent de façon voisine, mais les sources sont totalement différentes : dans le premier cas la roue, dans le second la direction assistée.',
+      'Un ronflement à vitesse qui dépend du sens du virage est la signature classique du roulement de roue — le palier sur lequel la roue tourne. En virage, le poids de la voiture passe sur les roues extérieures, et un roulement usé et chargé ronfle plus fort. Un hurlement en tournant le volant à basse vitesse vient le plus souvent de la pompe de direction assistée, en règle générale à cause d’un niveau de liquide trop bas. Et sur les voitures à direction électrique, un léger bourdonnement en tournant le volant est normal et non une panne.',
+    ],
+    causes: [
+      { name: 'Roulement de roue', likelihood: 'Le plus souvent — si le ronflement vient avec la vitesse et change en virage' },
+      { name: 'Pompe de direction assistée ou niveau de liquide bas', likelihood: 'Fréquent — s’il hurle en tournant le volant à l’arrêt' },
+      { name: 'Bruit des pneus', likelihood: 'Fréquent ; le ronflement dépend du revêtement, pas du virage' },
+      { name: 'Bourdonnement normal de la direction électrique', likelihood: 'Normal sur les voitures sans bocal de liquide de direction' },
+      { name: 'Cardan usé', likelihood: 'Plus rare ; ajoute en général des claquements à fond de braquage' },
+    ],
+    canRide: [
+      'Avec un roulement qui ronfle, on peut rouler, mais c’est un crédit à court terme : ne repoussez pas le contrôle au-delà d’une semaine et reportez les longs trajets rapides. Un roulement qui se détruit donne du jeu à la roue et, dans un cas négligé, peut se bloquer. Si le ronflement a brusquement grossi ou qu’une vibration s’y est ajoutée — au garage tout de suite.',
+      'Avec une pompe de direction qui hurle, on vérifie d’abord le niveau de liquide dans le bocal : l’appoint règle souvent la question. On peut rouler, mais ne gardez pas le volant à fond de braquage plus de deux secondes — dans cette position la pompe travaille à la pression maximale. Si après l’appoint le hurlement persiste ou que le niveau baisse de nouveau, il y a une fuite — garage dans la semaine.',
+    ],
+    checks: [
+      'Retenir dans quel sens de virage le ronflement est plus fort. Plus fort en tournant à gauche : c’est le côté droit qui est chargé, donc le roulement droit est probable, et inversement. Ce détail raccourcit nettement la recherche au garage.',
+      'Vérifier le bruit à l’arrêt : si le hurlement apparaît en tournant le volant sur un parking, les roues n’y sont pour rien — la source est la direction assistée.',
+      'Regarder sous le capot s’il y a un bocal de liquide de direction. S’il y en a un, vérifier le niveau et compléter jusqu’au repère si besoin ; s’il n’y en a pas, la direction est électrique et un bourdonnement doux et régulier lui est normal.',
+      'Évaluer la dépendance à la route : un ronflement plus discret sur bitume neuf et plus fort sur revêtement rugueux vient en général des pneus, pas du roulement.',
+      'Examiner la bande de roulement : une usure en dents de scie (marches sur les bords) ou par plaques amplifie le ronflement des pneus et suggère du même coup une géométrie faussée ou des amortisseurs fatigués.',
+    ],
+    appHelp:
+      'L’application Stuk pose les mêmes questions que le mécanicien à la réception : où l’on entend le ronflement, s’il change en virage, s’il est lié au volant tourné à l’arrêt. L’enregistrement aide à comparer le bruit à des exemples typiques, et le rapport donne les causes probables et une recommandation claire : roulez tranquillement, prenez rendez-vous cette semaine ou faites vérifier sans délai.',
+    faq: [
+      {
+        q: 'Pourquoi le ronflement grossit-il seulement dans un sens de virage ?',
+        a: 'En virage, le poids de la voiture passe sur les roues extérieures. Si, par exemple, le roulement droit est usé, il ronfle plus fort en charge — c’est-à-dire en tournant à gauche. Cette propriété permet de savoir, avant même le garage, quel côté contrôler en premier.',
+      },
+      {
+        q: 'Peut-on mettre n’importe quel liquide dans la direction assistée ?',
+        a: 'Non. Le type de liquide est indiqué dans le manuel de la voiture et souvent directement sur le bouchon du bocal. Un appoint ponctuel avec le bon liquide est sans risque, mais si le niveau baisse régulièrement, il y a une fuite quelque part : la chercher et la réparer relève du garage, l’appoint ne règle rien.',
+      },
+      {
+        q: 'Il n’y a pas de bocal de direction sous le capot et pourtant ça ronfle en virage — qu’est-ce que c’est ?',
+        a: 'La direction est très probablement électrique : son moteur bourdonne doucement quand on tourne le volant, et c’est un fonctionnement normal. Ce qui doit alerter, ce sont d’autres signes : une direction devenue dure ou qui durcit par à-coups, un craquement, ou le témoin de direction allumé. Avec eux — garage dans les jours qui viennent.',
+      },
+    ],
+  },
+
+  'shchelchki-pri-povorote-rulya': {
+    h1: 'Claquements en tournant le volant',
+    metaTitle: 'Claquements au volant : cardan ou butée de suspension | Stuk',
+    description:
+      'Pourquoi ça claque quand on tourne le volant : cardan extérieur, butée d’amortisseur ou cardan de colonne. Comment les distinguer au bruit et quoi vérifier sans démonter.',
+    intro: [
+      'Les claquements en tournant le volant se départagent par une question simple : la voiture roule-t-elle à ce moment-là ou est-elle à l’arrêt ? Un craquement avec claquements en roulant braqué est la signature du cardan extérieur, l’articulation par laquelle la rotation atteint la roue qui, en plus, dirige. Plus le braquage est important et le démarrage brusque, plus le craquement est net. Tout commence en général par un soufflet déchiré : la protection en caoutchouc qui garde l’articulation à l’abri de la saleté.',
+      'Si en revanche les claquements s’entendent en tournant le volant voiture à l’arrêt, le cardan est généralement hors de cause. Un craquement venu d’en haut, du passage de roue, vient de la butée d’amortisseur — la pièce sur laquelle le haut de la jambe de force tourne avec la roue. Des claquements dans le volant lui-même, au niveau des pieds du conducteur, viennent du cardan de colonne, la petite articulation entre le volant et la crémaillère. Aucune de ces options n’oblige à laisser la voiture sur place, mais aucune ne doit traîner des mois.',
+    ],
+    causes: [
+      { name: 'Cardan extérieur', likelihood: 'Le plus souvent — s’il craque en roulant braqué' },
+      { name: 'Butée d’amortisseur', likelihood: 'Fréquent — s’il craque à l’arrêt, en haut du passage de roue' },
+      { name: 'Cardan de colonne de direction', likelihood: 'Si les claquements s’entendent et se sentent dans le volant lui-même' },
+      { name: 'Rotules de direction ou crémaillère', likelihood: 'Plus rare ; donnent en général des chocs, pas des claquements' },
+      { name: 'Cardan intérieur, biellettes de barre stabilisatrice', likelihood: 'Plus rare ; contrôlés lors du même diagnostic' },
+    ],
+    canRide: [
+      'Avec un cardan qui craque, on peut rouler, mais ne repoussez pas le remplacement au-delà d’une à deux semaines : une articulation usée se bloque au pire, et ce n’est alors plus un bruit mais une voiture immobilisée. En attendant la réparation, un régime ménagé aide — ne pas démarrer sec avec les roues à fond de braquage.',
+      'La butée d’amortisseur et le cardan de colonne donnent plus d’inconfort que de danger immédiat, mais la direction est un organe de sécurité : passez le diagnostic dans les jours qui viennent, sur un pont il prend quelques minutes. Raisons d’accélérer : le volant est devenu flou au point milieu, la voiture flotte dans sa voie, ou les claquements sont devenus bien plus fréquents.',
+    ],
+    checks: [
+      'Séparer les scénarios sur un parking vide : le craquement apparaît-il en roulant en cercle braqué, ou les claquements s’entendent-ils en tournant le volant voiture à l’arrêt ?',
+      'Examiner les soufflets de cardans — les protections en caoutchouc à soufflets du côté intérieur de chaque roue avant. Une déchirure avec de la graisse projetée autour vaut presque diagnostic confirmé.',
+      'Demander à quelqu’un de tourner le volant moteur coupé et poser la paume sur la coupelle d’amortisseur sous le capot : les claquements d’une butée usée se sentent à la main.',
+      'Faire bouger le volant à gauche et à droite moteur coupé et écouter au niveau des pieds : un claquement net dans la colonne trahit le cardan de colonne.',
+      'Retenir de quelle roue vient le craquement en roulant et dans quel virage il est plus fort — ces détails raccourcissent nettement la recherche au garage.',
+    ],
+    appHelp:
+      'Dans l’application Stuk, ces bifurcations sont réunies en un court arbre de questions : la voiture roule-t-elle ou est-elle à l’arrêt, d’où vient le bruit, dans quel état sont les soufflets. Le craquement peut être enregistré au téléphone et comparé à des exemples. Le rapport donne les causes probables avec leur évaluation et une recommandation de délai : sans panique, mais sans claquements oubliés pendant un mois.',
+    faq: [
+      {
+        q: 'Qu’est-ce qu’un cardan et pourquoi claque-t-il ?',
+        a: 'C’est le joint homocinétique, la pièce qui transmet la rotation à une roue qui dirige aussi. Quand la saleté entre par un soufflet déchiré, les billes et les pistes de l’articulation s’usent, et sous charge en braquage elle se met à craquer nettement.',
+      },
+      {
+        q: 'Combien de temps peut-on rouler avec un cardan qui claque ?',
+        a: 'Il n’y a pas de durée exacte : chez certains l’articulation tient des mois, chez d’autres elle se détruit en deux semaines. Repère raisonnable : ne pas repousser le remplacement au-delà d’une à deux semaines et, en attendant, ne pas démarrer sec braqué — la charge sur l’articulation reste alors minimale.',
+      },
+      {
+        q: 'Pourquoi ça craque en tournant le volant voiture à l’arrêt ?',
+        a: 'À l’arrêt, la roue ne tourne pas et le cardan ne travaille pas. Un craquement sur place vient en général de la butée d’amortisseur — le son vient d’en haut, du passage de roue — ou du cardan de colonne si le claquement est dans le volant lui-même. Les deux pièces se contrôlent au garage en quelques minutes.',
+      },
+    ],
+  },
+
+  'stuk-v-dvigatele-na-holodnuyu': {
+    h1: 'Cognement du moteur à froid',
+    metaTitle: 'Le moteur cogne à froid : causes et que faire | Stuk',
+    description:
+      'Pourquoi le moteur cogne à froid et se tait une fois chaud : poussoirs hydrauliques, attelage mobile, chaîne de distribution. Quand c’est normal et quand il faut aller au garage.',
+    intro: [
+      'Un cognement qui ne s’entend que les premières minutes après un démarrage à froid et disparaît à mesure que le moteur chauffe est l’une des plaintes les plus fréquentes sur les voitures qui ont du kilométrage. Bonne nouvelle : ici, la cause la plus répandue est aussi la plus anodine. Un cliquetis fréquent en haut du moteur vient en général des poussoirs hydrauliques, de petites pièces qui, grâce à la pression d’huile, rattrapent le jeu dans la distribution. Tant que le moteur est froid, l’huile est épaisse et ne leur parvient pas tout de suite : ils claquent donc une ou deux minutes. Une fois chaud, silence.',
+      'Le caractère du bruit en dit long. Un cognement sourd venu des profondeurs vient plus souvent de l’usure de l’attelage mobile : à froid, le piston a un peu plus de liberté dans son cylindre et tape jusqu’à ce que la chaleur le dilate. Un bruissement ou un crécellement à l’avant, c’est la signature d’une chaîne de distribution détendue — la chaîne interne qui fait ouvrir les soupapes au bon moment — ou de son tendeur affaibli. Et un claquement plus fort dehors que dans l’habitacle, avec une odeur d’échappement sous le capot, est le signe d’un joint de collecteur percé : les gaz s’échappent par la fissure jusqu’à ce que le métal se dilate et la referme.',
+    ],
+    causes: [
+      { name: 'Poussoirs hydrauliques : huile froide et épaisse', likelihood: 'Le plus souvent — s’il cliquette en haut et se tait en deux minutes' },
+      { name: 'Usure de l’attelage mobile', likelihood: 'Fréquent à fort kilométrage — cognement sourd venu des profondeurs' },
+      { name: 'Chaîne de distribution ou son tendeur', likelihood: 'Fréquent — s’il y a un bruissement ou un crécellement à l’avant' },
+      { name: 'Joint ou fissure du collecteur d’échappement', likelihood: 'Si le claquement est plus fort dehors et que ça sent l’échappement' },
+      { name: 'Courroie d’accessoires qui patine', likelihood: 'S’il s’agit d’un couinement ou d’un sifflement et non d’un cognement' },
+    ],
+    canRide: [
+      'Avec le cliquetis des poussoirs qui disparaît complètement une fois chaud, roulez sans restriction — c’est la vie ordinaire d’un moteur qui a du kilométrage. Il en va de même pour le couinement de la courroie les premières secondes après le démarrage : désagréable, mais sans danger. Dans les deux cas, il suffit de vérifier le niveau et l’âge de l’huile et de montrer la voiture au mécanicien lors de la prochaine visite prévue.',
+      'Le cognement sourd de l’attelage mobile relève de l’observation : on peut rouler, mais surveillez la consommation d’huile et parlez du bruit au mécanicien à la prochaine visite. Avec le bruissement de la chaîne, il ne faut pas traîner : diagnostic sous une à deux semaines, car une chaîne qui saute signifie une réparation coûteuse du moteur — et d’ici là, pas de démarrages brusques à froid. Principe général : si le cognement a cessé de disparaître à chaud ou s’entend en charge, le diagnostic ne se repousse plus.',
+    ],
+    checks: [
+      'Chronométrer combien de minutes dure le bruit : une à deux minutes puis le silence, c’est typique des poussoirs ; plus le cognement vit longtemps, plus le contrôle s’impose.',
+      'Vérifier à la jauge le niveau d’huile sur moteur froid et se rappeler la date de la vidange : niveau bas et huile vieillie amplifient tous les cognements à froid.',
+      'Déterminer le caractère du bruit : cliquetis fréquent en haut, cognement sourd venu des profondeurs ou bruissement à l’avant du moteur sont trois histoires différentes, aux urgences différentes.',
+      'Ouvrir le capot moteur froid tournant et renifler : une odeur d’échappement accompagnée d’un claquement désigne le collecteur.',
+      'Couper le moteur chaud pendant dix minutes puis redémarrer : un vrai cognement « à froid » ne revient pas après une pause aussi courte.',
+    ],
+    appHelp:
+      'L’application Stuk parcourt les mêmes bifurcations — cliquetis, cognement sourd ou bruissement, et à quelle vitesse le bruit disparaît — et l’enregistrement au téléphone aide à saisir un caractère difficile à décrire avec des mots. Le rapport donne les causes probables avec des pourcentages et une conclusion claire : roulez tranquillement, prenez rendez-vous cette semaine ou ne repoussez pas le garage.',
+    faq: [
+      {
+        q: 'Le cognement disparaît une fois chaud — puis-je l’ignorer ?',
+        a: 'Le plus souvent oui : le cliquetis des poussoirs à froid est banal et n’exige pas de réparation. Mais il est utile d’observer : si le bruit dure désormais plus de deux minutes, persiste moteur chaud ou apparaît en charge, c’est déjà un motif de diagnostic.',
+      },
+      {
+        q: 'Les additifs « anti-cognement » servent-ils à quelque chose ?',
+        a: 'Mieux vaut ne pas en verser : ils n’éliminent pas l’usure, ils masquent le symptôme, si bien que le problème est repéré plus tard. Ce qui aide vraiment est autre chose : une huile fraîche de la bonne viscosité, un niveau correct et, si le cognement persiste, un réglage ou une réparation chez le mécanicien.',
+      },
+      {
+        q: 'Pourquoi le cognement à froid est-il plus fort en hiver ?',
+        a: 'Par grand froid, l’huile est plus épaisse et met plus de temps à atteindre le haut du moteur : les poussoirs et la distribution claquent donc plus nettement, et les jeux des pièces froides sont un peu plus grands. Si tout se tait une fois chaud, c’est le même tableau qu’en été, simplement étiré dans le temps.',
+      },
+    ],
+  },
+
+  'svist-pri-zapuske': {
+    h1: 'Sifflement au démarrage du moteur',
+    metaTitle: 'Sifflement au démarrage du moteur : causes et solutions | Stuk',
+    description:
+      'Pourquoi le moteur siffle au démarrage : courroie d’accessoires qui patine, galets ou pompe à eau. Quand le sifflement est anodin et quand il faut prendre rendez-vous.',
+    intro: [
+      'Un couinement ou un sifflement dans les premières secondes après le démarrage du moteur vient presque toujours de la courroie d’accessoires — la courroie en caoutchouc qui, depuis le moteur, entraîne l’alternateur, la pompe à eau et le compresseur de climatisation. À froid ou par temps humide, la courroie patine sur les poulies et siffle, puis en quelques secondes elle chauffe, sèche et se tait.',
+      'Ce scénario n’est pas dangereux dans l’immédiat, mais il ne faut pas le tenir pour normal : une courroie récente et correctement tendue ne siffle pas, même par temps froid. Un sifflement matinal régulier indique que la courroie a vieilli, que la tension a baissé ou que l’un des galets sur lesquels elle passe commence à s’user. Cas à part : les bruits du démarrage lui-même — un frottement ou un ronronnement pendant que le démarreur entraîne le moteur. Là, ce n’est plus la courroie mais le démarreur ou la couronne du volant moteur, et avec eux il ne faut pas traîner.',
+    ],
+    causes: [
+      { name: 'Courroie d’accessoires qui patine à froid', likelihood: 'Le plus souvent — si le sifflement part dans les premières secondes' },
+      { name: 'Courroie usée ou tension retombée', likelihood: 'Fréquent — si le sifflement persiste moteur chaud' },
+      { name: 'Roulement du galet tendeur ou enrouleur', likelihood: 'Assez fréquent — un bruissement ou un ronflement s’ajoute au sifflement' },
+      { name: 'Pompe à eau, s’il y a des traces de liquide près de la courroie', likelihood: 'Plus rare' },
+      { name: 'Frottement pendant que le démarreur tourne : lanceur ou couronne', likelihood: 'Cas à part — le bruit arrive avant que le moteur ne démarre' },
+    ],
+    canRide: [
+      'Avec un sifflement qui vit quelques secondes après un démarrage à froid puis disparaît complètement, on peut rouler : il n’y a pas de menace directe. Il reste utile de faire regarder la courroie à l’occasion — l’examen prend deux minutes, et remplacer la courroie avec le galet fait partie des travaux peu coûteux.',
+      'Si le sifflement a cessé de partir à chaud, apparaît à l’enclenchement de la climatisation ou dure plus longtemps et plus fort à chaque démarrage, prenez rendez-vous dans la semaine : une courroie usée peut casser, et sans elle l’alternateur s’arrête, ainsi que la pompe à eau sur beaucoup de moteurs. Si le témoin de batterie s’allume ou que l’aiguille de température monte — arrêtez-vous et coupez le moteur.',
+    ],
+    checks: [
+      'Chronométrer la durée du sifflement : quelques secondes après le démarrage, c’est du patinage à froid ; un bruit qui ne part pas à chaud, c’est l’usure de la courroie ou des galets.',
+      'Chercher le lien avec la météo : un sifflement seulement après la pluie, un lavage ou par grand froid parle de patinage et non de la panne d’une pièce précise.',
+      'Enclencher la climatisation ou le dégivrage moteur tournant : si le sifflement apparaît ou grossit, la courroie patine en charge.',
+      'Moteur coupé, examiner la courroie à la lampe : fissures transversales, bords effilochés et flancs « polis » brillants sont des signes d’usure.',
+      'Regarder s’il y a des coulures ou des traces blanchâtres de liquide de refroidissement près des poulies : elles désignent la pompe à eau, et alors mieux vaut ne pas repousser la visite au garage.',
+    ],
+    appHelp:
+      'L’application Stuk pose les mêmes questions que le mécanicien à la réception : quand le sifflement apparaît, s’il part une fois chaud, ce que l’on entend pendant que le démarreur travaille. L’enregistrement aide à distinguer le couinement de la courroie du frottement du démarreur, et le rapport donne les causes probables avec des pourcentages et une conclusion claire : vous pouvez rouler, au garage cette semaine ou arrêtez-vous.',
+    faq: [
+      {
+        q: 'Pourquoi le moteur siffle-t-il seulement à froid et par temps humide ?',
+        a: 'Le caoutchouc froid et mouillé de la courroie accroche moins bien les poulies : dans les premières secondes après le démarrage, elle patine et siffle. En chauffant, l’adhérence revient et le bruit disparaît. Une courroie neuve avec un tendeur en bon état encaisse aussi ces conditions, donc un sifflement matinal régulier est un motif de contrôle.',
+      },
+      {
+        q: 'Le sifflement apparaît maintenant aussi moteur chaud. Est-ce sérieux ?',
+        a: 'C’est le signe que l’usure a atteint le stade où la courroie patine déjà dans des conditions normales. On peut encore rouler, mais prenez rendez-vous dans la semaine : une courroie cassée vous laisse sans alternateur et, sur beaucoup de voitures, sans pompe à eau, et le trajet se termine en dépanneuse.',
+      },
+      {
+        q: 'Quelle différence entre le sifflement après le démarrage et le frottement pendant le démarrage ?',
+        a: 'Le sifflement et le couinement apparaissent une fois le moteur lancé, et la courroie en est en général responsable. Le frottement métallique s’entend plus tôt — dans les secondes où le démarreur entraîne le moteur — et signale un mauvais engagement du lanceur avec la couronne du volant moteur. Pièces différentes, réparation différente.',
+      },
+    ],
+  },
 };
