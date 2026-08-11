@@ -716,4 +716,93 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'vibratsiya-na-holostyh': {
+    h1: 'Wibracje na biegu jałowym',
+    metaTitle: 'Wibracje na biegu jałowym: przyczyny drgań i co robić | Stuk',
+    description:
+      'Dlaczego auto drży na biegu jałowym: poduszki silnika, wypadanie zapłonu, nieszczelność układu dolotowego albo brudna przepustnica. Co sprawdzić i czy można jeździć.',
+    intro: [
+      'Lekkie drżenie na biegu jałowym ma każde auto, zwłaszcza z silnikiem Diesla. Mowa o czymś innym — o drżeniu, które czuć na kierownicy, fotelu i lusterku wstecznym, a którego wcześniej nie było. Najczęstsza przyczyna to poduszki silnika: gumowe elementy, na których silnik jest zamocowany w nadwoziu i które tłumią jego drgania. Z latami guma twardnieje i pęka, a wibracja, którą wcześniej pochłaniały poduszki, przechodzi na nadwozie.',
+      'Druga grupa przyczyn to nierówna praca samego silnika. Wypadanie zapłonu (gdy jeden z cylindrów raz po raz nie odpala — zwykle przez świece albo cewki), zasysanie nieuwzględnionego powietrza przez pęknięty przewód albo uszczelkę kolektora dolotowego, zabrudzona przepustnica lub wtryskiwacze — wszystko to czyni bieg jałowy niestabilnym. Odróżnić te przypadki od poduszek nietrudno: wtedy wskazówka obrotomierza drży albo pływa i często zapala się kontrolka silnika, a przy zużytych poduszkach silnik pracuje równo — trzęsie się właśnie nadwozie.',
+    ],
+    causes: [
+      { name: 'Poduszki silnika', likelihood: 'Najczęściej — zwłaszcza w autach starszych niż 8–10 lat' },
+      { name: 'Wypadanie zapłonu: świece, cewki', likelihood: 'Często — jeśli obroty drżą i świeci kontrolka silnika' },
+      { name: 'Zasysanie powietrza przez przewód albo uszczelkę dolotu', likelihood: 'Często — jeśli obroty pływają, bywa syczenie' },
+      { name: 'Zabrudzona przepustnica albo wtryskiwacze', likelihood: 'Często przy przebiegach powyżej stu tysięcy' },
+    ],
+    canRide: [
+      'W większości scenariuszy jeździć można: wibracja na biegu jałowym to nie ten objaw, przez który zostawia się auto na poboczu. Przy zużytych poduszkach jest tydzień–dwa na spokojne umówienie warsztatu; ciągnąć miesiącami nie warto — rozbite poduszki dokładają stuki przy ruszaniu i zmianach biegów oraz przyspieszają zużycie sąsiednich elementów.',
+      'Osobna historia to sytuacja, gdy silnik wyraźnie „trzyma na trzech”: trzęsie szarpnięciami, kontrolka silnika miga albo świeci, spadła moc. Z tym też można jechać, ale ostrożnie i niedługo: niespalone paliwo przy wypadaniu zapłonu dopala się w układzie wydechowym i przegrzewa katalizator, a jego wymiana jest droga. Diagnostyka w takim przypadku jest potrzebna w najbliższych dniach, a nie przy okazji.',
+    ],
+    checks: [
+      'Test poduszek: włączyć bieg (w automacie D) i przytrzymać hamulec. Wibracja od zużytych poduszek zwykle zauważalnie się w tym położeniu nasila.',
+      'Spojrzeć na obrotomierz: wskazówka stoi równo, a autem trzęsie — argument za poduszkami; wskazówka drży albo pływa — silnik pracuje z przerwami.',
+      'Włączyć klimatyzację i zauważyć, czy drżenie się zmienia: pod dodatkowym obciążeniem słabe poduszki i nierówny bieg jałowy ujawniają się wyraźniej, a taki szczegół przyda się mechanikowi.',
+      'Obejrzeć, niczego nie zdejmując, cienkie gumowe przewody pod maską: pęknięcia i zsunięte króćce to częste miejsce zasysania powietrza.',
+      'Przypomnieć sobie, kiedy wymieniano świece: przebieg daleko poza zaleceniami czyni je pierwszym kandydatem przy wypadaniu zapłonu. Jeśli świeci kontrolka silnika, zacząć od diagnostyki komputerowej: kody błędów zawężą poszukiwania.',
+    ],
+    appHelp:
+      'Aplikacja Stuk zada te same pytania — czy drżenie nasila się z włączonym biegiem, czy obroty trzymają się równo, czy świeci kontrolka silnika — i po odpowiedziach rozłoży prawdopodobne przyczyny na procenty. W raporcie będzie czytelny wniosek: jedź spokojnie, umów wizytę w tym tygodniu albo pokaż auto w najbliższych dniach.',
+    faq: [
+      {
+        q: 'Dlaczego trzęsie tylko na biegu jałowym, a w jeździe auto idzie równo?',
+        a: 'Na biegu jałowym obroty są najniższe i silnik kołysze się na poduszkach z częstotliwością, którą nadwozie dobrze przekazuje do kabiny. Wraz ze wzrostem obrotów drgania stają się drobniejsze i mniej wyczuwalne. Dlatego zużyte poduszki zdradzają się na światłach, a nie na trasie.',
+      },
+      {
+        q: 'Czym jest wypadanie zapłonu?',
+        a: 'To sytuacja, gdy mieszanka w jednym z cylindrów co jakiś czas się nie zapala — najczęściej przez zużyte świece albo uszkodzoną cewkę. Silnik traci w tym momencie część mocy i szarpie, a niespalone paliwo dopala się w układzie wydechowym i przegrzewa katalizator.',
+      },
+      {
+        q: 'Czy pomoże czyszczenie przepustnicy?',
+        a: 'Pomoże, jeśli przyczyna tkwi właśnie w niej: nagar przeszkadza precyzyjnie dawkować powietrze na biegu jałowym i obroty stają się nierówne. Ale czyszczenie nie jest lekarstwem uniwersalnym: przy zużytych poduszkach albo wypadaniu zapłonu wibracja po nim nie zniknie.',
+      },
+    ],
+  },
+
+  'hlopki-v-glushitele': {
+    h1: 'Strzały w tłumiku',
+    metaTitle: 'Strzały w tłumiku: przyczyny i co robić | Stuk',
+    description:
+      'Dlaczego z tłumika słychać strzały: wypadanie zapłonu, przepalony wydech, skład mieszanki albo ustawienia instalacji gazowej. Czym strzały grożą katalizatorowi.',
+    intro: [
+      'Strzały z tłumika oznaczają, że część paliwa spala się nie w cylindrach, tylko już w układzie wydechowym. Najczęściej winne jest wypadanie zapłonu: zużyta świeca albo uszkodzona cewka nie zapala mieszanki, niespalona benzyna trafia do gorącego wydechu i tam zapala się z charakterystycznym hukiem.',
+      'Druga grupa przyczyn to sam układ wydechowy: przepalony tłumik, rura albo uszczelka dokładają do strzałów ryk, który nasila się przy dodaniu gazu. Mieszanka bywa też nieprawidłowa przez czujniki albo wtryskiwacze, a w autach z instalacją gazową strzały na gazie to typowy objaw rozregulowanych ustawień. Wszystkie scenariusze mają wspólny mianownik: niespalone paliwo dopala się w katalizatorze — elemencie wydechu dopalającym szkodliwe gazy — przegrzewa go i stopniowo niszczy, a wymiana katalizatora jest droga.',
+    ],
+    causes: [
+      { name: 'Wypadanie zapłonu: świece albo cewki', likelihood: 'Najczęściej' },
+      { name: 'Przepalony tłumik, rura albo uszczelka wydechu', likelihood: 'Często — strzałom towarzyszy ryk' },
+      { name: 'Nieprawidłowa mieszanka: czujniki albo wtryskiwacze', likelihood: 'Nierzadko' },
+      { name: 'Rozregulowane ustawienia instalacji gazowej', likelihood: 'Jeśli strzały są tylko na gazie' },
+      { name: 'Ryk przy przyspieszaniu bez ciągu: ślizga się sprzęgło', likelihood: 'Osobny przypadek o podobnym brzmieniu' },
+    ],
+    canRide: [
+      'Pojedynczy strzał przy puszczeniu gazu to nie powód, by się zatrzymywać: do domu albo do warsztatu dojedziesz. Z regularnymi strzałami też można jeździć, ale diagnostykę warto zaplanować na najbliższe dni, a nie tygodnie: każdy strzał to porcja niespalonego paliwa dopalająca się w katalizatorze, a rachunek za odłożoną naprawę rośnie od tanich świec do ceny katalizatora.',
+      'Szczególny przypadek to migająca kontrolka silnika: tak system ostrzega o aktywnym wypadaniu zapłonu, groźnym dla katalizatora właśnie teraz. Z migającą kontrolką jedź tylko spokojnie i niedaleko, bez obciążenia, i do warsztatu bez zwłoki. Jeśli w kabinie czuć spaliny, do naprawy jeźdź z uchyloną szybą i nie nagrzewaj auta w zamkniętym garażu: tlenek węgla jest niebezpieczny.',
+    ],
+    checks: [
+      'Zauważyć, kiedy strzela: pod obciążeniem przy przyspieszaniu, przy puszczeniu gazu czy na biegu jałowym — ten szczegół od razu zawęzi mechanikowi poszukiwania.',
+      'Spojrzeć na kontrolkę silnika: świeci równo — na diagnostykę w najbliższych dniach; miga — wypadanie zapłonu trwa właśnie teraz i wizyty nie wolno odkładać.',
+      'Ocenić pracę silnika: nierówna praca, drżenie na biegu jałowym i spadek mocy razem ze strzałami wskazują na świece, cewki albo mieszankę.',
+      'Posłuchać wydechu: ryk nasilający się przy dodaniu gazu przy normalnym ciągu to oznaka dziury w tłumiku albo rurze, a nie problemu z zapłonem.',
+      'W aucie z instalacją gazową porównać pracę na gazie i na benzynie: strzały tylko na gazie to pytanie do serwisu instalacji.',
+    ],
+    appHelp:
+      'Aplikacja Stuk doprecyzuje okoliczności — strzały czy ryk, na gazie czy na benzynie, czy jest utrata mocy — i pomoże rozdzielić problemy zapłonu, dziurę w wydechu i ślizgające się sprzęgło, które na słuch są podobne. W raporcie będą prawdopodobne przyczyny z procentami i czytelne zalecenie, jak pilnie potrzebny jest warsztat.',
+    faq: [
+      {
+        q: 'Dlaczego strzela w tłumiku, jeśli problem jest w silniku?',
+        a: 'Gdy świeca albo cewka nie zapala mieszanki w cylindrze, niespalona benzyna zostaje wypchnięta do układu wydechowego. Tam trafia na rozgrzane elementy i dopala się z błyskiem — ten dźwięk słychać jako strzał z tłumika. Źródło jest jednak pod maską, a nie w samym tłumiku.',
+      },
+      {
+        q: 'Czym strzały grożą katalizatorowi?',
+        a: 'Katalizator jest przewidziany do dopalania resztek spalin, a nie porcji surowego paliwa. Dopalająca się w nim benzyna podnosi temperaturę powyżej wartości projektowej, a ceramiczne plastry topią się albo rozsypują. Efekt to utrata mocy, grzechot spod podwozia i wymiana katalizatora — jedna z najdroższych prac przy wydechu.',
+      },
+      {
+        q: 'Auto z instalacją gazową strzela na gazie. To groźne?',
+        a: 'Tak, dla instalacji gazowej strzały są groźniejsze niż dla silnika benzynowego: cofnięcie płomienia w dolocie potrafi uszkodzić jej plastikowe elementy i czujniki. Zwykła przyczyna to rozregulowane ustawienia albo zużyte świece. Rozsądnie jest przejść na benzynę i umówić się do specjalistów od instalacji gazowych.',
+      },
+    ],
+  },
 };
