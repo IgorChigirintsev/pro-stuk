@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "build": "npm run check && astro build && node scripts/check-detect.mjs",
     "preview": "astro preview",
-    "check": "node --experimental-strip-types scripts/check-i18n.mjs"
+    "check": "node --experimental-strip-types scripts/check-i18n.mjs",
+    "progress": "node scripts/i18n-progress.mjs"
   },
   "dependencies": {
     "@astrojs/react": "^4.2.0",
