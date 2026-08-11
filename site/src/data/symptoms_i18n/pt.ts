@@ -359,4 +359,181 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gremit-pod-mashinoy': {
+    h1: 'Chacoalho embaixo do carro',
+    metaTitle: 'Chacoalho embaixo do carro: o que treme e é perigoso | Stuk',
+    description:
+      'Chacoalho e tremeliques embaixo do carro: coxins do escapamento, protetor térmico, protetor de cárter ou catalisador. Como achar a fonte do ruído e quando a coisa é séria.',
+    intro: [
+      'Um chacoalho vindo de baixo soa preocupante, mas a fonte quase nunca é o motor nem a suspensão: é a lataria aparafusada — coxins do escapamento, parafusos frouxos do protetor de cárter ou o protetor térmico, aquela chapa fina que protege o assoalho do calor do escapamento. Tudo isso chacoalha alto e ressoa pela carroceria, e por isso parece mais grave do que é: esses sons não afetam a dirigibilidade nem o funcionamento do carro.',
+      'Também há enganos: o que chacoalha «embaixo do carro» muitas vezes é o porta-malas — o macaco, a chave de roda, um estepe mal preso — ou os plásticos do interior, cujo som é difícil de localizar. Um único cenário preocupa de verdade: um chacoalho metálico mais perto do motor junto com perda de força ou um cheiro diferente no escapamento. Assim soa um catalisador destruído — o filtro cerâmico dos gases de escape, cujos cacos chacoalham dentro da própria carcaça — e com essa hipótese não convém esperar.',
+    ],
+    causes: [
+      { name: 'Coxins do escapamento ou protetor de cárter', likelihood: 'O mais comum — chacoalho metálico nos buracos' },
+      { name: 'Protetor térmico do escapamento', likelihood: 'Comum — chacoalho metálico em certas rotações' },
+      { name: 'Macaco, estepe ou carga no porta-malas', likelihood: 'Comum — estrondo surdo atrás, «algo rolando»' },
+      { name: 'Plásticos do interior: painéis e grilos', likelihood: 'Comum — o som está mais perto do que parece' },
+      { name: 'Catalisador destruído', likelihood: 'Mais raro — se junto com o chacoalho caiu a força' },
+    ],
+    canRide: [
+      'Na maioria dos casos dá, e sem restrições especiais: um protetor térmico chacoalhando, coxins do escapamento soltos ou parafusos do protetor de cárter são questão de conforto, não de segurança. O conserto costuma levar minutos: apertar ou prender com abraçadeira. A única coisa a garantir é que o escapamento não esteja pendurado: um tubo prestes a raspar o asfalto já não se ignora, a fixação dele se refaz na hora.',
+      'Se o chacoalho vem com perda de força, cheiro diferente no escapamento ou a luz de injeção acesa, vá ao diagnóstico nos próximos dias: cacos de cerâmica de um catalisador destruído podem ser puxados para dentro do motor, e isso já é conserto caro. Até a revisão, evite girar o motor em rotações altas.',
+    ],
+    checks: [
+      'Esvaziar o porta-malas, conferir a fixação do estepe e do macaco, apertar a tampa traseira — e refazer o mesmo trecho. O som sumiu: assunto encerrado.',
+      'Com o carro parado, subir a rotação com suavidade: o chacoalho do protetor térmico costuma aparecer em certas rotações e se ouve ali mesmo, sem buraco nenhum.',
+      'Pedir a um passageiro que aperte com a mão os painéis suspeitos do interior em movimento: se o som some, são grilos do interior e não o assoalho.',
+      'Prestar atenção à força e ao cheiro do escapamento: se o carro acelera pior ou o cheiro mudou, é a hipótese do catalisador — com ela, ao mecânico nos próximos dias.',
+      'Olhar debaixo do carro sem se enfiar embaixo: um escapamento pendurado, uma borda solta do protetor de cárter ou uma chapa entortada muitas vezes se veem já pela roda.',
+    ],
+    appHelp:
+      'O aplicativo Stuk ajuda a ligar o chacoalho à sua fonte: de onde vem o som, se acompanha a rotação do motor ou os buracos, o que acontece com a força. Com as respostas e a gravação mostra causas prováveis com percentuais e um semáforo de urgência — útil para separar uma lata inofensiva do catalisador antes mesmo da oficina.',
+    faq: [
+      {
+        q: 'É perigoso rodar se algo chacoalha embaixo do carro?',
+        a: 'Na maioria das vezes não: coxins do escapamento soltos, protetor de cárter e protetor térmico não afetam o funcionamento do carro. As exceções são um escapamento pendurado prestes a tocar o asfalto e um chacoalho junto com perda de força: no segundo caso pode haver catalisador destruído, e a verificação não deve esperar.',
+      },
+      {
+        q: 'O que é o protetor térmico e dá para simplesmente tirá-lo?',
+        a: 'É uma chapa metálica fina entre as partes quentes do escapamento e o assoalho: protege do calor a carroceria, os chicotes e tudo o que fica acima do tubo. Tirar não é boa ideia — o certo é apertar ou prender com abraçadeira: na oficina é trabalho de poucos minutos.',
+      },
+      {
+        q: 'Como saber que é o catalisador que chacoalha?',
+        a: 'Por um chacoalho metálico ou um chiado vindo de baixo, mais perto do motor, que aumenta nas aceleradas, somado a perda de força ou cheiro diferente no escapamento. Na oficina confirmam batendo de leve na carcaça do catalisador com o carro frio: a cerâmica esfarelada chacoalha lá dentro como pedrinhas.',
+      },
+    ],
+  },
+
+  'skrezhet-pri-tormozhenii': {
+    h1: 'Rangido ao frear',
+    metaTitle: 'Rangido ao frear: pastilhas no metal, o que fazer | Stuk',
+    description:
+      'O rangido ao frear quase sempre significa pastilhas gastas até o metal: com isso não se roda. Mais raramente a culpa é de uma pedrinha atrás da capa do disco. Como distinguir.',
+    intro: [
+      'O rangido ao frear merece mais atenção do que qualquer chiado. Na maioria das vezes assim soam pastilhas gastas até o metal: o material de atrito que esfrega o disco acabou, e é a base de aço da pastilha que raspa o disco. A distância de frenagem cresce, o disco se estraga a cada parada e o mecanismo pode travar.',
+      'Há variantes menos dramáticas. Uma capa de proteção do disco entortada ou uma pedrinha presa entre a capa e o disco produzem um rangido muito parecido, mas não fazem mal aos freios. E um arranhado curto nas primeiras freadas depois de uma noite ao relento ou de chuva é apenas a película de ferrugem, que as pastilhas limpam em dois minutos. O problema é que de ouvido esses cenários se confundem com facilidade, então rangido constante exige inspeção e não palpite.',
+    ],
+    causes: [
+      { name: 'Pastilhas gastas até o metal', likelihood: 'O mais comum — se range a cada freada' },
+      { name: 'Uma pedrinha ou a capa entortada encostando no disco', likelihood: 'Comum; o som é parecido, mas não faz mal aos freios' },
+      { name: 'Pinça travando', likelihood: 'Se a roda esquenta e o carro puxa para um lado' },
+      { name: 'Película de ferrugem após parada ou chuva', likelihood: 'Se o som some nas primeiras freadas' },
+    ],
+    canRide: [
+      'Com metal contra metal é preciso encerrar as viagens comuns: só se admite um trajeto cuidadoso até a oficina, com distância de sobra e freadas suaves e antecipadas. Adiar a troca também não compensa no bolso: cada quilômetro rangendo soma à conta o preço dos discos, que a base de aço da pastilha literalmente desbasta.',
+      'Se o rangido apareceu depois de o carro ficar parado e sumiu nas primeiras freadas, rode sem restrições: é ferrugem. Se o som lembra mais um arranhado, se ouve mesmo sem pisar no pedal e a roda não esquenta depois da viagem, o provável é a capa ou uma pedrinha: dá para chegar tranquilo, mas mostre o carro em um ou dois dias — só a inspeção separa com segurança o caso inofensivo de pastilhas no fim.',
+    ],
+    checks: [
+      'Observar o padrão: som só ao pisar no freio aponta para as pastilhas; arranhado constante em movimento, mais para a capa, uma pedrinha ou uma pinça travando.',
+      'Olhar entre os raios da roda: em muitos carros a pastilha externa fica visível sem desmontar. Material de atrito com menos de 3–4 mm, ou metal brilhante no lugar dele, significa troca imediata.',
+      'Depois de um trajeto curto, aproximar a mão das rodas sem tocar no disco: se uma roda está bem mais quente que as outras, parece pinça travando — a peça que aperta as pastilhas contra o disco.',
+      'Reparar no comportamento do carro: puxar para um lado ao frear ou cheiro de queimado numa roda são sinais com os quais não se roda — só com cuidado até a oficina.',
+      'Examinar o disco pela roda: sulcos profundos e um tom azulado no metal dizem que o rangido já dura e os discos sofreram.',
+    ],
+    appHelp:
+      'O aplicativo Stuk percorre as mesmas perguntas — o rangido é constante, a roda esquenta, o som some depois das primeiras freadas — e pela gravação ajuda a distinguir o rangido do guincho do sensor de desgaste. No relatório vêm causas prováveis e um semáforo: pode rodar, mostre esta semana ou vá só até a oficina.',
+    faq: [
+      {
+        q: 'Qual a diferença entre rangido e chiado dos freios?',
+        a: 'O chiado é um som agudo com os freios ainda trabalhando por inteiro: quase sempre é o sensor de desgaste, avisando com antecedência. O rangido é um ruído áspero e grave de metal contra metal: o material de atrito acabou e a base de aço esfrega o disco. Chiado é agendamento nesta semana; rangido é fim das viagens comuns.',
+      },
+      {
+        q: 'Basta trocar só as pastilhas se já houve rangido?',
+        a: 'Depende do estado dos discos: mesmo rodar pouco «no metal» deixa sulcos. Os rasos às vezes se corrigem com retífica; os fundos pedem discos novos. Pastilhas novas num disco sulcado freiam pior e se gastam rápido, então a decisão se toma depois da inspeção.',
+      },
+      {
+        q: 'O rangido vem e vai — isso também é perigoso?',
+        a: 'Rangido intermitente costuma vir de uma pedrinha entre a capa e o disco, e ela pode cair sozinha. Não convém contar com isso: o mesmo som intermitente aparece no início do desgaste das pastilhas até o metal. Uma inspeção em um ou dois dias resolve a dúvida.',
+      },
+    ],
+  },
+
+  'stuk-pri-razgone': {
+    h1: 'Batida ao acelerar',
+    metaTitle: 'Batida ao acelerar e ao tirar o pé: causas e o que fazer | Stuk',
+    description:
+      'Por que bate ao pisar ou tirar o pé do acelerador: coxins do motor, junta homocinética, folga na transmissão ou câmbio automático. Como distinguir folga inofensiva de batida dentro do motor.',
+    intro: [
+      'Uma batida que aparece bem na hora de pisar no acelerador ou tirar o pé nasce quase sempre não no motor, e sim na corrente que leva a força às rodas. Com os anos acumula-se folga nas peças dela: os coxins de borracha do motor cedem e deixam o motor balançar na troca de carga, a junta homocinética interna se desgasta (a articulação do semieixo que vai do câmbio à roda), as cruzetas do cardã e as fixações do subchassi se soltam. Toda vez que a força muda de sentido, a folga se fecha com um impacto — daí a batida ou o estalo isolado.',
+      'História à parte é o câmbio automático: um tranco com estalo ao passar a alavanca entre D e R, ou durante as trocas, costuma indicar óleo velho ou desgaste. E um caso bem diferente é uma batida surda vinda do fundo do motor, que acelera com a rotação e fica mais forte sob carga: assim batem as bronzinas do virabrequim. É raro, mas é a variante mais séria, e não se pode deixar passar.',
+    ],
+    causes: [
+      { name: 'Coxins do motor ou junta homocinética interna', likelihood: 'O mais comum — batida isolada ao pisar e ao tirar o pé' },
+      { name: 'Folga na transmissão: cruzetas do cardã, fixações do subchassi', likelihood: 'Comum na tração traseira e integral — estalo embaixo ao arrancar' },
+      { name: 'Câmbio automático: óleo velho ou desgaste', likelihood: 'Se o tranco e o estalo coincidem com as trocas de marcha' },
+      { name: 'Batida de bronzinas vinda do fundo do motor', likelihood: 'Raro — acelera com a rotação, mais forte sob carga' },
+    ],
+    canRide: [
+      'Com a maioria das causas da tabela dá para rodar: folga em coxins, articulações ou transmissão não imobiliza o carro de repente enquanto a batida for isolada e discreta. Mas adiar o diagnóstico por meses não é sensato: uma cruzeta arrebentada ou uma junta homocinética gasta acabam se destruindo, e isso acontece em movimento. Prazo razoável para a oficina: uma ou duas semanas; até lá, arranque e use o acelerador com mais suavidade.',
+      'A exceção é a batida vinda do fundo do motor, que acelera nas aceleradas e cresce sob carga. Com ela é preciso encerrar as viagens comuns: bronzinas gastas podem terminar em motor travado. Primeiro confira o nível de óleo; depois, guincho — ou, se a oficina for bem perto, devagar e sem acelerar.',
+    ],
+    checks: [
+      'Precisar o momento: uma batida exatamente ao pisar e tirar o pé, e não nos buracos, fala da transmissão da força, e não da suspensão. Esse detalhe encurta na hora a busca do mecânico.',
+      'Conferir o nível de óleo do motor na vareta. Diante de qualquer batida que soe a motor, esse é o primeiro passo: com nível baixo as bronzinas sofrem antes de tudo.',
+      'Se estala nas trocas, conferir o nível e o estado do óleo do câmbio automático: fluido escuro com cheiro de queimado é causa frequente de trancos, e às vezes a troca resolve.',
+      'Ouvir de onde vem o som — de baixo do capô, do meio do assoalho ou do lado de uma roda — e se ele se repete ao trocar de marcha. Vale anotar essas observações para a oficina.',
+      'Fazer o teste suave: se com pisada e alívio suaves a batida some e com movimento brusco volta, é folga clássica, e até o conserto basta dirigir com suavidade.',
+    ],
+    appHelp:
+      'O aplicativo Stuk faz as mesmas perguntas de precisão — quando exatamente bate, se o som muda com a rotação e as marchas — e pela gravação ajuda a separar o estalo de uma folga de uma batida profunda do motor. No relatório vêm causas prováveis com percentuais e uma conclusão clara: pode rodar, planeje a oficina ou pare.',
+    faq: [
+      {
+        q: 'Por que bate justamente ao pisar e tirar o pé do acelerador?',
+        a: 'Na troca de carga a força inverte o sentido, e todas as folgas dos coxins, articulações e transmissão se fecham com um impacto. Enquanto o carro anda em velocidade constante as peças ficam encostadas umas nas outras e a folga não se denuncia — por isso a batida só se ouve ao trabalhar com o acelerador.',
+      },
+      {
+        q: 'Como saber que é o próprio motor e que é sério?',
+        a: 'O sinal de alerta é uma batida surda vinda do fundo do motor que acelera com a rotação e cresce sob carga, por exemplo em subida. Assim batem as bronzinas do virabrequim. Nesse caso, encerre as viagens, confira o nível de óleo e leve o carro à oficina de guincho.',
+      },
+      {
+        q: 'O câmbio automático pode causar batida ao acelerar?',
+        a: 'Pode. Um tranco ou estalo no momento de uma troca, ou ao passar a alavanca entre D e R, é sinal típico de óleo velho ou desgaste do câmbio. Comece conferindo o nível e o estado do óleo; até o conserto, mova a alavanca só com o carro totalmente parado e o freio pisado.',
+      },
+    ],
+  },
+
+  'zvon-pri-razgone': {
+    h1: 'Tinido ao acelerar',
+    metaTitle: 'Tinido ao acelerar: detonação ou não, o que fazer | Stuk',
+    description:
+      'Tinido metálico ao acelerar quase sempre é detonação por causa do combustível. Como testar trocando de posto e quando a culpa não é do motor, e sim do protetor térmico ou do catalisador.',
+    intro: [
+      'O tinido metálico ao acelerar — aquilo que os motoristas chamam de «batida de pino» — quase sempre é detonação. Parte do combustível nos cilindros não queima de forma uniforme, e sim explode, e a onda de choque ressoa metálica nas paredes do motor. Ouve-se melhor sob carga: em subida, na ultrapassagem, ao acelerar em rotação baixa numa marcha alta. A causa mais comum é prosaica — gasolina com octanagem menor do que a recomendada pelo fabricante, ou simplesmente um abastecimento ruim.',
+      'O tinido pode não vir do motor. Um protetor térmico solto — a chapa acima do escapamento — chacoalha em certas rotações, e a cerâmica esfarelada do catalisador chia e tine embaixo do assoalho. A diferença está no que ele acompanha: a detonação depende da carga e some com direção suave, enquanto a chapa tine nas «suas» rotações mesmo com o carro parado, numa acelerada.',
+    ],
+    causes: [
+      { name: 'Detonação: combustível com octanagem baixa', likelihood: 'O mais comum — tinido sob carga, sobretudo em subida' },
+      { name: 'Carvão nas câmaras de combustão ou o sensor de detonação', likelihood: 'Se trocar de posto não resolveu' },
+      { name: 'Protetor térmico do escapamento', likelihood: 'Comum — chacoalho em certas rotações, sem relação com a carga' },
+      { name: 'Catalisador destruído', likelihood: 'Mais raro — tinido e chiado embaixo, com a força caindo' },
+    ],
+    canRide: [
+      'Com episódios raros de tinido dá para chegar, mas sem carregar o motor: acelere com suavidade, suba as ladeiras numa marcha mais curta, não puxe em rotação baixa com marcha alta. O primeiro passo é abastecer com combustível de octanagem não inferior à recomendada, de preferência em outra bandeira: muitas vezes o tinido some com um tanque só.',
+      'Detonação constante são pancadas nos pistões a cada aceleração, e ela vai destruindo o motor: sofrem pistões, anéis e a junta do cabeçote. Se depois de trocar o combustível o tinido continuar, não adie o diagnóstico. Já o chacoalho da chapa é um incômodo puramente sonoro: com ele dá para rodar sem restrições e prender a chapa na próxima ida à oficina.',
+    ],
+    checks: [
+      'Encher um tanque inteiro com octanagem não inferior à recomendada, em outro posto. Se em um ou dois tanques o tinido sumir, a causa era o combustível.',
+      'Conferir a relação com a carga: tinido que aparece em subida, na ultrapassagem e com acelerada forte, mas diminui na aceleração suave, é a assinatura da detonação.',
+      'Dar uma acelerada em ponto morto com o carro parado: se o tinido ou o chacoalho surge em certas rotações mesmo sem carga, o mais provável é o protetor térmico.',
+      'Ver no manual ou na tampa do tanque qual combustível é recomendado: para muitos motores a octanagem baixa já não serve, ainda que formalmente permitida.',
+      'Prestar atenção à força e aos sons embaixo: chiado e tinido vindos de baixo junto com aceleração mais fraca são motivo para checar o catalisador sem adiar.',
+    ],
+    appHelp:
+      'O aplicativo Stuk ajuda com as mesmas perguntas — quando tine, se o som acompanha a carga ou a rotação — e a gravação permite separar o tinido metálico da detonação do chacoalho de uma chapa. No relatório vêm causas prováveis com percentuais e uma conclusão: pode rodar, vale planejar a oficina ou melhor parar.',
+    faq: [
+      {
+        q: 'O que significa «bater pino»?',
+        a: 'É o nome antigo do tinido da detonação; antigamente atribuíam-no aos pinos dos pistões. Na verdade não são eles que tinem: o som vem da onda de choque de uma queima explosiva refletida nas paredes dos cilindros. O nome ficou, mas a causa é sempre a mesma: detonação, e não peças do pistão gastas.',
+      },
+      {
+        q: 'Dá para rodar com detonação?',
+        a: 'Por pouco tempo e com cuidado: aceleração suave, marcha mais curta em subida, sem carga total nem reboque. Cada episódio são pancadas nos pistões, e a detonação constante termina em conserto caro do motor. Se a troca de combustível não tirou o tinido em um ou dois tanques, é preciso diagnóstico.',
+      },
+      {
+        q: 'Gasolina de octanagem maior ajuda?',
+        a: 'A regra principal é nunca abastecer abaixo do recomendado pelo fabricante. A octanagem mostra a resistência do combustível à autoignição, então subir de tipo num motor propenso à detonação costuma tirar o tinido. Se nem assim resolver, a causa — carvão ou o sensor de detonação — se procura na oficina.',
+      },
+    ],
+  },
 };
