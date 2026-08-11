@@ -500,5 +500,77 @@
   ],
   "explanation": "Chrupanie albo kliknięcia przy kręceniu kierownicą na postoju, dochodzące z góry, z nadkola, wydaje łożysko górnego mocowania: element, na którym góra kolumny obraca się razem z kołem. Dodatkowy objaw to pojedyncze stuknięcia z góry na dziurach.",
   "advice": "Umów diagnostykę w ciągu tygodnia albo dwóch: sprawdzenie jest proste, z ręką na miseczce amortyzatora pod maską kliknięcia czuć od razu. Jeździć można, ale zużyte mocowanie przyspiesza zużycie amortyzatora i pogarsza powrót kierownicy."
+ },
+ "leaf_steering_ujoint": {
+  "top_cause": "Krzyżak kolumny kierowniczej",
+  "alt_causes": [
+   "Luz na wielowypuście wałka",
+   "Przekładnia kierownicza"
+  ],
+  "explanation": "Kliknięcie albo stuknięcie, które słychać i czuć prosto w kierownicy, na wysokości nóg, pochodzi zwykle od krzyżaka wałka pośredniego kolumny kierowniczej: małego przegubu między kierownicą a przekładnią. Przy zgaszonym silniku, kołysząc kierownicą w lewo i w prawo, kliknięcie słychać wyraźnie.",
+  "advice": "Zleć kontrolę w warsztacie w najbliższych dniach: układ kierowniczy to element bezpieczeństwa, a diagnostyka zajmuje kilka minut. Luz w kolumnie z czasem tylko rośnie i sprawia, że kierownica robi się pusta w pozycji na wprost."
+ },
+ "leaf_brake_booster": {
+  "top_cause": "Serwo hamulca albo jego przewód podciśnienia",
+  "alt_causes": [
+   "Zawór zwrotny serwa",
+   "Pęknięty przewód podciśnienia"
+  ],
+  "explanation": "Syczenie spod deski rozdzielczej, które pojawia się i zmienia dokładnie w chwili naciskania i puszczania pedału hamulca, to zasysanie powietrza w serwie hamulca — elemencie, który zmniejsza siłę potrzebną na pedale. Pedał robi się przy tym często wyraźnie twardszy, a obroty biegu jałowego skaczą.",
+  "advice": "Umów się do warsztatu w tym tygodniu: hamulce działają i bez serwa, ale trzeba naciskać znacznie mocniej, a przy hamowaniu awaryjnym to niebezpieczne. Sprawdź pedał przed jazdą: jeśli zrobił się twardy jak deska, jedź ostrożnie i niedaleko."
+ },
+ "leaf_wipers": {
+  "top_cause": "Mechanizm wycieraczek albo pióra",
+  "alt_causes": [
+   "Poluzowane nakrętki ramion",
+   "Zużyte tulejki silniczka wycieraczek"
+  ],
+  "explanation": "Stukanie w skrajnych położeniach to luz w przegubach mechanizmu napędu wycieraczek albo poluzowane nakrętki ramion. Równomierne skrzypienie po szybie to stwardniałe gumy piór. Sprawdzenie jest proste: wyłącz wycieraczki, a dźwięk znika od razu i całkowicie.",
+  "advice": "Skrzypiące pióra wymienisz sam — są w każdym sklepie motoryzacyjnym. Przy stukaniu w skrajnych położeniach dokręć nakrętki ramion albo zleć wymianę tulejek mechanizmu przy okazji wizyty. Dla bezpieczeństwa liczy się tu tylko czysta szyba."
+ },
+ "leaf_eps": {
+  "top_cause": "Elektryczne wspomaganie kierownicy: lekkie buczenie to norma",
+  "alt_causes": [
+   "Zużycie elektrycznego wspomagania",
+   "Przekładnia kierownicza"
+  ],
+  "explanation": "Jeśli pod maską nie ma zbiorniczka z płynem, wspomaganie jest elektryczne, a ciche, równomierne buczenie przy kręceniu kierownicą to jego normalna praca, a nie usterka. Pompy hydraulicznej, która wyje przy niskim poziomie płynu, w takim aucie po prostu nie ma.",
+  "advice": "Niepokojące objawy przy wspomaganiu elektrycznym są inne: kierownica robi się ciężka albo twardnieje szarpnięciami, pojawia się chrupanie, na desce świeci kontrolka wspomagania. Jeśli występuje któryś z nich, do warsztatu w najbliższych dniach; jeśli nie, możesz spokojnie jeździć."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Uszczelka albo pęknięcie kolektora wydechowego",
+  "alt_causes": [
+   "Szpilki kolektora",
+   "Popychacze hydrauliczne"
+  ],
+  "explanation": "Szybki stukot na zimnym silniku, głośniejszy na zewnątrz i połączony z zapachem spalin spod maski, to spaliny uchodzące przez przepaloną uszczelkę albo pęknięcie kolektora wydechowego. W miarę nagrzewania metal się rozszerza, szczelina zamyka i stukot znika.",
+  "advice": "Umów się do warsztatu w ciągu tygodnia albo dwóch: szczelina z czasem rośnie, a zapach spalin może przedostawać się do kabiny przez nawiew, co jest szkodliwe. Do naprawy wietrz wnętrze, gdy poczujesz zapach."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Normalny stukot wtryskiwaczy (wtrysk bezpośredni albo diesel)",
+  "alt_causes": [
+   "Pompa wysokiego ciśnienia",
+   "Luzy zaworowe"
+  ],
+  "explanation": "W silnikach z wtryskiem bezpośrednim (TSI, GDI i podobnych) oraz w dieslach wtryskiwacze i pompa wysokiego ciśnienia stukają zawsze — to ich normalna praca. Cechy rozpoznawcze: dźwięk jest taki sam na zimnym i ciepłym silniku, na zewnątrz głośniejszy niż w kabinie i nie zależy od wieku oleju.",
+  "advice": "Nie trzeba nic robić. Zaniepokoić powinno co innego: jeśli tykanie stało się wyraźnie głośniejsze niż wcześniej, zmienia się po nagrzaniu silnika albo pojawiło się razem ze spadkiem mocy — wtedy na diagnostykę."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Zasysanie fałszywego powietrza (przewód podciśnienia, uszczelka dolotu)",
+  "alt_causes": [
+   "Pęknięty przewód",
+   "Uszczelka kolektora dolotowego"
+  ],
+  "explanation": "Równomierne syczenie spod maski, jak powietrze uchodzące z przebitej opony, to niezmierzone powietrze zasysane przez pęknięty przewód albo uszczelkę dolotu. Silnik często pracuje przez to nierówno: obroty biegu jałowego skaczą, czasem zapala się kontrolka silnika.",
+  "advice": "Umów diagnostykę w najbliższych dniach, zwłaszcza gdy obroty skaczą: szukanie nieszczelności to standardowa procedura. Sam możesz obejrzeć cienkie gumowe przewody pod maską pod kątem pęknięć, nic nie rozbierając."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Wentylator chłodnicy (tulejki albo praca bez przerwy)",
+  "alt_causes": [
+   "Czujnik temperatury albo termostat",
+   "Sprzęgło wiskozowe (przy napędzie na tył)"
+  ],
+  "explanation": "Buczenie albo ryk, który sam się włącza i wyłącza — przy upale, w korku, z klimatyzacją — to wentylator chłodnicy. Głośny wentylator oznacza albo zużyte tulejki jego silniczka, albo to, że kręci bez przerwy przez czujnik lub termostat. Czasem pracuje jeszcze przez minutę czy dwie po zgaszeniu silnika — to normalne.",
+  "advice": "Jeśli wentylator ryczy bez przerwy już od rozruchu na zimnym silniku, na diagnostykę w najbliższych dniach: układ chłodzenia nie pracuje prawidłowo. Obserwuj wskazówkę temperatury; jeśli idzie w górę, zatrzymaj się i zgaś silnik."
  }
 }
