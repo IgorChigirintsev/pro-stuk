@@ -357,5 +357,86 @@
    "o2": "Arkadan",
    "o3": "Anlamak zor"
   }
+ },
+ "leaf_battery": {
+  "top_cause": "Bitmiş akü ya da oksitlenmiş kutup başları",
+  "alt_causes": [
+   "Kötü şasi bağlantısı",
+   "Ölmek üzere olan marş motoru"
+  ],
+  "explanation": "Çalıştırmaya çalışırken hızlı tık tık tık sesi, marş otomatiğine yeterli akım gitmediği anlamına gelir: kendisi tıklıyor ama motoru döndüremiyor. Suçlu genelde boşalmış akü ya da oksitlenmiş, gevşek kutup başlarıdır. Marş verirken gösterge ışıklarının kısılması bunu doğrular.",
+  "advice": "Akü kutup başlarına bakın: beyaz ya da yeşilimsi tortuyu temizleyin, başları sıkın. Fayda etmezse aküyü şarj edin ya da başka bir araçtan takviye alıp değişim için servise veya markete gidin. Akü 4–5 yaşından büyükse ömrünü doldurmuş sayılır."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Marş otomatiği ya da marş motorunun güç kontakları",
+  "alt_causes": [
+   "Oksitlenmiş kutup başları",
+   "Marşa giden kablolar"
+  ],
+  "explanation": "Gösterge ışıkları normal yanarken tek net bir tık: marş otomatiği çekiyor ama marş motoru dönmüyor — güç kontakları yanmış, kömürler bitmiş ya da otomatik takılı kalmış. Bazen ikinci üçüncü denemede araç yine de çalışır; teşhis aynıdır.",
+  "advice": "Birkaç kez daha deneyin; bir çalışıp bir çalışmıyorsa, bir otoparkta kalmadan önümüzdeki günlerde servise gidin. Akü kutup başlarını kontrol edip sıkın. Marşa çekiçle vurmak bir seferlik yol almanın halk yöntemidir, çözüm değil."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Marş dişlisi (bendiks) ya da volan dişli çemberi",
+  "alt_causes": [
+   "Aşınmış dişli çemberi dişleri",
+   "Marş motorunun kaçık oturması"
+  ],
+  "explanation": "Çalıştırırken duyulan metalik gıcırtı, marş dişlisinin volanın dişli çemberine tam oturmadığını gösterir: dişler aşınmış ya da mekanizma takılıyor. Her böyle çalıştırma hem marşın hem volanın dişlerini yer.",
+  "advice": "Bir hafta içinde servise gidin: bendiks ya da marş motoru değişimi, uğruna şanzımanın sökülmesi gereken volan dişli çemberinden çok daha ucuzdur. Tamire kadar kontağı marş konumunda gereğinden uzun tutmayın ve gıcırtıdan hemen sonra tekrar denemeyin."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Bendiks kavramıyor ya da volan dişleri kırılmış",
+  "alt_causes": [
+   "Bendiksin tek yönlü kavraması",
+   "Volan dişli çemberi"
+  ],
+  "explanation": "Marş neşeyle dönüyor ama motor kıpırdamıyorsa, marş dişlisi boşta dönüyor demektir: bendiksin tek yönlü kavraması aşınmış ya da volan dişli çemberinin o bölgesindeki dişler yenmiş.",
+  "advice": "Bazen ikinci denemede çalışır — volan başka bir konumda durur. Yine de önümüzdeki günlerde servise gidin: her denemede hasar büyüyor. Araç düz vitesse en kötü ihtimalle itmeli çalıştırılabilir; otomatik şanzımanda bu yöntem kesinlikle kullanılmaz."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Kalorifer fanına kaçmış yaprak ya da çöp",
+  "alt_causes": [
+   "Tıkanmış polen filtresi",
+   "Hava kanalında yabancı cisim"
+  ],
+  "explanation": "Fan hızıyla birlikte değişen hışırtı ve çıtırtı, neredeyse her zaman hava girişinden kalorifer fanına kaçan yaprak ya da çöptür. Sonbaharda çok yaygındır, özellikle polen filtresi tıkalıysa ya da hiç yoksa.",
+  "advice": "Polen filtresini değiştirin (çöp çoğu zaman doğrudan onun üstünde durur) — birçok araçta bu 10 dakikada kendiniz yapabileceğiniz bir iştir, modele özel anlatımları kolayca bulabilirsiniz. Hışırtı devam ederse serviste fanın temizletilmesini isteyin."
+ },
+ "leaf_blower_motor": {
+  "top_cause": "Kalorifer fan motorunun rulmanı ya da burçları",
+  "alt_causes": [
+   "Fanın içindeki çöp",
+   "Pervanenin gövdeye sürtmesi"
+  ],
+  "explanation": "Yalnızca fan çalışırken torpidonun altından gelen cıyaklama ya da uğultu, aşınmış kalorifer fan motorundan gelir. Testi kolay: fanı kapatın, ses motor çalışırken bile anında kesilir.",
+  "advice": "Güvenlik açısından sorun değil, ama zamanla motor takılmaya başlar ve sizi kalorifersiz bırakır — soğuklar bastırmadan değiştirmek en iyisi. Tamire kadar sesin daha az çıktığı fan kademelerini kullanabilirsiniz."
+ },
+ "leaf_hvac_servo": {
+  "top_cause": "Kalorifer klapesinin servo motoru",
+  "alt_causes": [
+   "Klapelerin normal kalibrasyonu",
+   "Servo dişlisinin kırık dişleri"
+  ],
+  "explanation": "Kontağı açarken ya da sıcaklığı değiştirirken panelin arkasından gelen bir dizi hızlı tıkırtı ya da tırtır sesi, kalorifer klapelerini hareket ettiren servo motordan gelir. Dizi kısa ve hep aynıysa çoğu zaman sadece kalibrasyondur. Bitmeyen tırtır sesi ise plastik dişlinin yenmiş dişleri demektir.",
+  "advice": "Tıkırtılar kısaysa ve kalorifer normal ayarlanıyorsa hiçbir şey yapmanıza gerek yok. Tırtır sesi uzun sürüyorsa ya da hava ayarladığınız yerden gelmiyorsa, fırsat bulunca servise uğrayın: araca zararı yok ama konfor bozuluyor."
+ },
+ "leaf_coolant_air": {
+  "top_cause": "Soğutma sisteminde hava (antifriz seviyesi düşük)",
+  "alt_causes": [
+   "Bozuk yedek su deposu kapağı",
+   "Antifriz kaçağı"
+  ],
+  "explanation": "Panelin arkasından gelen lıkırtı ya da su şırıltısı, kalorifer peteğinden geçen hava kabarcığıdır. Sisteme hava, antifriz seviyesi düştüğünde girer: bir yerde kaçak vardır ya da depo kapağı basınç tutmuyordur. Kalorifer bu yüzden bir sıcak bir soğuk üfleyebilir.",
+  "advice": "Motor soğukken yedek su deposundaki seviyeyi kontrol edip normale tamamlayın, sonra sıvının yine eksilip eksilmediğini izleyin. Seviye düşüyorsa ya da motor sıcakken kalorifer soğuk üflüyorsa, bu hafta servise gidin. Hararet göstergesi yükseldiyse ya da buhar çıktıysa — durun ve motoru hemen susturun."
+ },
+ "leaf_ac_clutch": {
+  "top_cause": "Klima kompresörü kavramasının patinaj yapması",
+  "alt_causes": [
+   "Gevşemiş kayış",
+   "Kavrama baskı plakasının aşınması"
+  ],
+  "explanation": "Tam klimayı açtığınız anda çıkan cıyaklama, kompresörü kayışa bağlayan kavramanın yük altında patinaj yaptığını gösterir. Açarken tek bir tık normaldir; cıyaklama ise kavramanın aşındığını ya da kayışın gevşediğini söyler.",
+  "advice": "İki hafta içinde serviste gösterin: kavrama ihmal edilirse ses sürekli hale gelir, kompresör sıkışıp kayışı koparabilir. Tamire kadar klimayı kullanabilirsiniz, ama ses artarsa kapatın."
  }
 }
