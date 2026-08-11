@@ -1019,5 +1019,86 @@
   ],
   "explanation": "Dururken ya da düşük hızda direksiyonu çevirince çıkan inleme ya da uğultu, çoğu zaman hidrolik pompasından gelir — direksiyonu çevirmeye yardım eden yağın basıncını o üretir. En çok direksiyon sonuna kadar kırıkken inler. En sık sebep, depodaki yağ seviyesinin düşmesidir.",
   "advice": "Kaputun altındaki depoda hidrolik yağı seviyesine bakın ve MIN çizgisinin altındaysa tamamlayın. Direksiyonu sonuna kadar kırık halde birkaç saniyeden uzun tutmayın. Yağ ekledikten sonra inleme kaldıysa ya da yağ yine eksiliyorsa, bir hafta içinde servise gidin."
+ },
+ "leaf_stab_links": {
+  "top_cause": "Viraj demiri rotları",
+  "alt_causes": [
+   "Viraj demiri lastikleri",
+   "Rotil"
+  ],
+  "explanation": "Küçük yol bozukluklarında — parke taşı, asfalt ekleri, „tarak” yol — duyulan sık ve boğuk vuruntuyu çoğu zaman viraj demiri rotları verir: süspansiyonda ilk aşınan, mafsallı küçük çubuklar. Kendileri tehlikeli değildir ama benzer sesi daha ciddi parçalar da çıkarabilir.",
+  "advice": "Bir–iki hafta içinde süspansiyon diagnostiği için randevu alın: mekanik parçaları lifte oynatarak boşluğu birkaç dakikada bulur. Kontrole kadar büyük çukurları yavaş geçin. Araç bir tarafa çekmeye başladıysa kontrolü öne alın."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Arka süspansiyon: viraj demiri rotları ya da arka aks burçları",
+  "alt_causes": [
+   "Amortisörler",
+   "Egzoz bağlantıları"
+  ],
+  "explanation": "Küçük bozukluklarda arkadan gelen sık vuruntuyu genelde arka süspansiyonun küçük mafsalları verir: arka viraj demiri rotları ya da aşınmış burçlar — salıncakların ve aksın gövdeye bağlandığı kauçuk parçalar. Bazen gevşemiş bir egzoz bağlantısı da benzer ses yapar.",
+  "advice": "Bir–iki hafta içinde süspansiyon diagnostiği için randevu alın: lifte arkadaki sesin kaynağı çabuk bulunur. Kontrole kadar büyük çukurları yavaş geçin. Sesin ince tarak yolda mı yoksa tek tek çukurlarda mı çıktığını not edip mekaniğe söylemek işe yarar."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Salıncak burçları ya da amortisörler",
+  "alt_causes": [
+   "Amortisör üst takoz rulmanları",
+   "Rotil"
+  ],
+  "explanation": "Çukurlarda ve hız kesicilerde tek tek gelen boğuk darbeler genelde burçların aşınması demektir — salıncakların gövdeye bağlandığı kauçuk burçların — ya da yorulmuş amortisörler. Süspansiyon darbeyi yutmayı bırakır ve gövdeye aktarır.",
+  "advice": "İki hafta içinde süspansiyon diagnostiğine gidin. Amortisörler için basit test: aracın bir köşesine bastırıp bırakın — gövde salınmadan yerine dönmeli. Tamire kadar bozuklukları yumuşak geçin: darbeler komşu parçaları da bitirir."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Egzoz bağlantıları ya da motor alt koruması",
+  "alt_causes": [
+   "Isı kalkanı",
+   "Sarkmış egzoz borusu"
+  ],
+  "explanation": "Tümseklerde aracın altından gelen metalik takırtı genelde gevşemiş bir bağlantıdır: egzoz askı lastikleri, alt koruma cıvataları ya da ısı kalkanı. Sinir bozucu ama direksiyona ve motora etkisi yok.",
+  "advice": "İlk servis ziyaretinde bağlantıların sıkılmasını isteyin: hızlı ve ucuz. Egzozun sarkmadığından emin olun — yerde sürünen boruyu artık görmezden gelemezsiniz. Tamire kadar rahatça kullanabilirsiniz."
+ },
+ "leaf_detonation": {
+  "top_cause": "Vuruntulu yanma (yük altında metalik çınlama)",
+  "alt_causes": [
+   "Oktanı düşük yakıt",
+   "Karbon birikintisi ya da arızalı vuruntu sensörü"
+  ],
+  "explanation": "Hızlanırken, özellikle yokuşta ya da düşük devirden çekerken duyulan metalik çınlama vuruntulu yanmadır: silindirlerdeki yakıtın bir kısmı düzgün yanmak yerine kendiliğinden, patlayarak tutuşur ve şok dalgası pistonlara vurur. Sık sebepleri: gereken oktandan düşük benzin, yanma odalarındaki karbon birikintisi ya da vuruntu sensörünün arızası. Sürekli vuruntu motoru yavaş yavaş öldürür.",
+  "advice": "Üreticinin önerdiğinden düşük olmayan oktanda yakıt alın, tercihen başka bir istasyondan — çınlama çoğu zaman bir depodan sonra geçer. Kontrole kadar motoru zorlamayın: yumuşak hızlanın, yokuşa küçük vitesle girin. Yakıtı değiştirdikten sonra çınlama geçmediyse diagnostiğe gidin."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Motor takozları ya da iç aks mafsalı",
+  "alt_causes": [
+   "Aktarma organlarında boşluk",
+   "Şanzıman takozu"
+  ],
+  "explanation": "Gaza basma ya da gazı kesme anında gelen vuruntu, çekişi ileten zincirdeki boşluğun işaretidir. Aşınmış takozlar yük değişince motorun sıçramasına izin verir; aşınmış iç aks mafsalı (şanzımandan tekerleğe giden aks üzerindeki mafsal) gaz verip keserken vurur. Önemli olan, sesin bozuk yolda değil, tam da sürüş modu değişirken çıkmasıdır.",
+  "advice": "Bir–iki hafta içinde diagnostiğe gidin. Servise ipucu: vuruntunun motora mı yoksa tekerleklere mi yakın olduğunu ve vites değiştirirken tekrarlanıp tekrarlanmadığını not edin. Tamire kadar gazı ve vites geçişlerini daha yumuşak yapın."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Tekerlek rulmanı",
+  "alt_causes": [
+   "Lastik hışırtısı",
+   "Askı rulmanı ya da şanzıman"
+  ],
+  "explanation": "Hızla birlikte artan ve motor devrinden etkilenmeyen düzgün uğultuyu çoğu zaman aşınmış tekerlek rulmanı çıkarır — tekerleğin üzerinde döndüğü rulman. Ses kalkan uçağı andırır ve yol kaplamasıyla neredeyse hiç değişmez. İhmal edilen rulman tekerlekte boşluk yaratır, en kötü halde sıkışabilir.",
+  "advice": "Bir hafta içinde serviste kontrol ettirin: mekanik tekerlekleri lifte çevirip ses yapan poyrayı bulur — bu rulmanın oturduğu parçayı. Uzun ve hızlı yolculukları teşhise kadar erteleyin. Uğultu aniden arttıysa ya da titreşim başladıysa hemen kontrole gidin."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Arka tekerlek rulmanı",
+  "alt_causes": [
+   "Lastik hışırtısı",
+   "Diferansiyel ya da askı rulmanı (arkadan itiş ve 4x4)"
+  ],
+  "explanation": "Arkadan gelen ve hızla birlikte artan düzgün uğultuyu çoğu zaman arka tekerlek rulmanı verir — tekerleğin üzerinde döndüğü rulman. Arkadan itişli ve dört çeker araçlarda aktarma organları da benzer şekilde uğuldar, bu yüzden kaynağı lifte netleştirmekte fayda var.",
+  "advice": "Bir hafta içinde serviste kontrol ettirin: arkada rulman uğultusunu diferansiyelle karıştırmak kolaydır, lifte bakınca her şey yerine oturur. Uzun ve hızlı yolculukları kontrole kadar erteleyin. Uğultu aniden arttıysa ya da titreşim başladıysa hemen kontrole gidin."
+ },
+ "leaf_tires": {
+  "top_cause": "Lastik hışırtısı",
+  "alt_causes": [
+   "Lastik sırtının düzensiz aşınması",
+   "Tekerlek rulmanı"
+  ],
+  "explanation": "Uğultu yol kaplamasına göre değişiyorsa — yeni asfaltta daha sessiz, pürüzlü asfaltta daha yüksek — büyük ihtimalle lastikler ses yapıyordur. Özellikle kış lastikleri, arazi lastikleri ve düzensiz aşınmış lastikler uğuldar. Bu bir konfor meselesidir, arıza değil.",
+  "advice": "Lastik sırtına bakın: „testere” şeklinde (kenarlarda basamaklanma) ya da lekeli aşınma uğultuyu artırır ve bozulmuş rot balans ayarını veya yorulmuş amortisörleri işaret eder. Lastik basınçlarını kontrol edin. Uğultu aslında kaplamadan etkilenmiyor ve hızla artıyorsa, tekerlek rulmanı ihtimaline geri dönün."
  }
 }
