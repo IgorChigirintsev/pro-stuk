@@ -518,5 +518,86 @@
   ],
   "explanation": "Fren pedalına basıp bırakırken tam o anda çıkan ve değişen tıslama, vakum takviyesine hava kaçtığını gösterir: pedaldaki kuvveti azaltan parçaya. Pedal bu durumda belirgin şekilde sertleşir ve rölanti devri titreyebilir.",
   "advice": "Bu hafta servise gidin: frenler takviye olmadan da çalışır ama çok daha sert basmak gerekir — acil bir durumda bu tehlikelidir. Yola çıkmadan pedalı deneyin: tahta gibi sertleştiyse yalnızca dikkatli ve kısa mesafe gidin."
+ },
+ "leaf_wipers": {
+  "top_cause": "Silecek mekanizması ya da silecek lastikleri",
+  "alt_causes": [
+   "Gevşemiş silecek kolu somunları",
+   "Silecek motoru burçlarının aşınması"
+  ],
+  "explanation": "Sileceğin dönüş noktalarındaki vuruntu, mekanizmanın mafsallarındaki boşluktan ya da gevşemiş kol somunlarından gelir. Cam üzerinde düzenli gıcırtı ise sertleşmiş silecek lastiğidir. Testi kolay: sileceği kapatın, ses anında ve tamamen kesilir.",
+  "advice": "Gıcırdayan lastikleri kendiniz değiştirebilirsiniz — silecekler her oto markette var. Dönüş noktalarındaki vuruntu için kol somunlarını sıktırın ya da fırsat bulunca serviste mekanizmanın burçlarını değiştirtin. Güvenliği etkileyen tek şey camın temiz kalmasıdır."
+ },
+ "leaf_eps": {
+  "top_cause": "Elektrikli direksiyon: hafif uğultu normaldir",
+  "alt_causes": [
+   "Elektrikli direksiyon ünitesinin aşınması",
+   "Direksiyon kutusu"
+  ],
+  "explanation": "Kaputun altında hidrolik yağı deposu yoksa direksiyon elektriklidir ve çevirirken duyulan düzgün, hafif uğultu onun normal çalışmasıdır, arıza değil. Yağ seviyesi düşünce inleyen hidrolik pompa böyle bir araçta zaten yoktur.",
+  "advice": "Elektrikli direksiyonda asıl uyarıcı işaretler başka: direksiyon ağırlaştıysa ya da kesik kesik ağırlaşıyorsa, çatırtı çıkıyorsa, göstergede direksiyon lambası yanıyorsa. Bunlardan biri varsa önümüzdeki günlerde servise gidin; yoksa rahatça kullanabilirsiniz."
+ },
+ "leaf_exhaust_manifold": {
+  "top_cause": "Egzoz manifoldu contası ya da çatlağı",
+  "alt_causes": [
+   "Manifold saplamaları",
+   "Hidrolik supap iticileri"
+  ],
+  "explanation": "Soğukken çıkan, dışarıda içeriden daha yüksek duyulan ve kaputun altında egzoz kokusuyla birlikte gelen sık tıkırtı, egzoz gazlarının yanmış contadan ya da manifold çatlağından kaçtığını gösterir. Motor ısındıkça metal genleşir, aralık kapanır ve tıkırtı kesilir.",
+  "advice": "Bir–iki hafta içinde servise gidin: zamanla aralık büyür ve egzoz kokusu kalorifer üzerinden kabine dolabilir — bu sağlığa zararlıdır. Tamire kadar koku hissederseniz aracı havalandırın."
+ },
+ "leaf_injectors_normal": {
+  "top_cause": "Enjektörlerin normal tıkırtısı (direkt enjeksiyon ya da dizel)",
+  "alt_causes": [
+   "Yüksek basınç yakıt pompası",
+   "Supap ayarları"
+  ],
+  "explanation": "Direkt enjeksiyonlu motorlarda (TSI, GDI ve benzerleri) ve dizellerde enjektörler ile yüksek basınç pompası her zaman tıkırdar — bu onların normal çalışmasıdır. Ayırt edici işaretler: ses soğukken de sıcakken de aynıdır, dışarıda içeriden daha yüksek duyulur ve yağın eskiliğiyle ilgisi yoktur.",
+  "advice": "Hiçbir şey yapmanıza gerek yok. Şunlar olursa dikkat edin: tıkırtı eskisine göre belirgin şekilde arttıysa, motor ısınınca değiştiyse ya da güç kaybıyla birlikte geldiyse — o zaman diagnostiğe gidin."
+ },
+ "leaf_vacuum_leak": {
+  "top_cause": "Hava kaçağı (vakum hortumu, emme manifoldu contası)",
+  "alt_causes": [
+   "Çatlamış hortum",
+   "Emme manifoldu contası"
+  ],
+  "explanation": "Kaputun altından gelen, patlak lastikten hava kaçar gibi düzgün tıslama, çatlamış bir hortumdan ya da emme contasından ölçülmemiş hava girdiğini gösterir. Motor bu yüzden çoğu zaman düzensiz çalışır: rölanti devri gezinir, bazen check engine lambası yanar.",
+  "advice": "Önümüzdeki günlerde diagnostiğe gidin, özellikle rölanti geziniyorsa: kaçak araması standart bir işlemdir. Kendiniz de kaputun altındaki ince lastik hortumları hiçbir şey sökmeden çatlak var mı diye gözden geçirebilirsiniz."
+ },
+ "leaf_cooling_fan": {
+  "top_cause": "Radyatör fanı (burçlar ya da sürekli çalışma)",
+  "alt_causes": [
+   "Hararet müşiri ya da termostat",
+   "Viskoz fan kavraması (arkadan itişte)"
+  ],
+  "explanation": "Kendi kendine devreye girip çıkan uğultu ya da gürleme — sıcakta, trafikte, klima açıkken — radyatör fanıdır. Gürültülü fan ya motorunun burçlarının aşındığını ya da müşir veya termostat yüzünden sürekli döndüğünü gösterir. Motoru susturduktan sonra birkaç dakika daha dönmesi normaldir.",
+  "advice": "Fan soğuk motorda daha çalıştırır çalıştırmaz sürekli gürlüyorsa, önümüzdeki günlerde diagnostiğe gidin: soğutma sistemi doğru çalışmıyor demektir. Hararet göstergesini izleyin; yükselmeye başlarsa durun ve motoru susturun."
+ },
+ "leaf_fuel_pump": {
+  "top_cause": "Elektrikli yakıt pompası",
+  "alt_causes": [
+   "Tıkanmış yakıt filtresi",
+   "Pompanın süzgeci"
+  ],
+  "explanation": "Arkadan, arka koltuğun altından ya da deponun olduğu bölgeden gelen düzgün vızıltı ya da inleme yakıt pompasıdır. Kontağı açınca birkaç saniye duyulması normaldir, ama giderken de fark edilen yüksek inleme, pompanın yorulduğunu ya da filtrenin tıkandığını ve pompanın zorlandığını gösterir.",
+  "advice": "Bir–iki hafta içinde yakıt basıncı ölçümü için servise gidin. Depoyu sürekli dipte gezdirmeyin: az yakıtta pompa daha kötü soğur ve çabuk yıpranır. Araç yük altında tekleyip sarsılmaya ya da zor çalışmaya başladıysa ziyareti öne alın."
+ },
+ "leaf_catalyst": {
+  "top_cause": "Dağılmış katalitik konvertör",
+  "alt_causes": [
+   "Isı kalkanı",
+   "Egzoz bağlantıları"
+  ],
+  "explanation": "Aracın altından, motora yakın bir yerden gelen çınlayan takırtı ya da hışırtı; gaza basınca artıyor, güç kaybı ya da değişen egzoz kokusuyla birlikte geliyorsa, katalizörün içindeki seramik dağılmış demektir. Kırıklar gövdenin içinde takırdar, tıkanan petekler ise motoru boğar.",
+  "advice": "Önümüzdeki günlerde diagnostiğe gidin: seramik kırıkları motorun içine çekilebilir ve bu pahalı bir tamire dönüşür. Serviste basit kontrol: araç soğukken katalizör gövdesine hafifçe vurulur, içeride „çakıl” sesi duyulur. Bunu ertelemeyin."
+ },
+ "leaf_at_jerk": {
+  "top_cause": "Otomatik şanzıman: eski yağ, aşınma ya da aktarma boşluğu",
+  "alt_causes": [
+   "Motor ve şanzıman takozları",
+   "Kardan istavrozları (arkadan itişte)"
+  ],
+  "explanation": "Vites kolunu D↔R arasında alırken ya da vites değişimlerinde tam o anda gelen tokluk veya takırtı, otomatik şanzımanda aşınma ya da eski yağ işaretidir: vites darbeyle giriyor, aktarma organlarındaki boşluklar da bunu büyütüyor. Çökmüş takozlar da benzer takırtı yapar, bu yüzden teşhis netleştirilmeli.",
+  "advice": "Önce şanzıman yağının seviyesine ve durumuna bakın (koyu renk ve yanık koku varsa değişmeli) — çoğu durumda bu yeterlidir. Bir–iki hafta içinde diagnostiğe gidin ve tam olarak hangi geçişlerde vurduğunu söyleyin. Tamire kadar vites kolunu araç tamamen dururken ve fren basılıyken alın."
  }
 }
