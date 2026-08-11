@@ -1028,5 +1028,77 @@
   ],
   "explanation": "Snel, dof kloppen op kleine oneffenheden — klinkers, voegen, een geribbeld wegdek — komt meestal van de stabilisatorstangen: kleine stangetjes met kogelgewrichten die in de ophanging als eerste verslijten. Op zichzelf zijn ze niet gevaarlijk, maar zwaardere onderdelen kunnen op dezelfde manier klinken.",
   "advice": "Maak binnen een of twee weken een afspraak om de ophanging te laten nakijken: op de brug wrikt de monteur aan de onderdelen en vindt de speling in een paar minuten. Neem tot die tijd grote kuilen langzaam. Gaat de auto naar één kant trekken, ga dan eerder."
+ },
+ "leaf_susp_rear": {
+  "top_cause": "Achterophanging: stabilisatorstangen of rubbers van de achteras",
+  "alt_causes": [
+   "Schokdempers",
+   "Uitlaatbevestigingen"
+  ],
+  "explanation": "Snel kloppen achterin op kleine oneffenheden komt meestal van de kleine scharnierpunten van de achterophanging: de stangetjes van de achterste stabilisator of versleten rubberbussen waarmee de armen en de as aan de carrosserie zitten. Soms klinkt een losgeraakte uitlaatbevestiging net zo.",
+  "advice": "Maak binnen een of twee weken een afspraak om de ophanging te laten nakijken: op de brug is de bron van geklop achterin snel gevonden. Neem tot die tijd grote kuilen langzaam. Let erop of het klopt op fijne rimpels in het wegdek of juist op losse kuilen — en vertel dat aan de monteur."
+ },
+ "leaf_susp_bushings": {
+  "top_cause": "Draagarmbussen of schokdempers",
+  "alt_causes": [
+   "Bovenste veerpootlagers",
+   "Fuseekogels"
+  ],
+  "explanation": "Losse doffe klappen in kuilen en over drempels betekenen meestal versleten draagarmbussen — de rubbers waarmee de armen aan de carrosserie zitten — of vermoeide schokdempers. De ophanging vangt de klap niet meer op en geeft hem door aan de carrosserie.",
+  "advice": "Ga binnen twee weken langs om de ophanging te laten nakijken. Simpele test voor de dempers: druk een hoek van de auto omlaag — de carrosserie hoort zonder na te wiebelen terug te komen. Neem oneffenheden tot die tijd rustig: klappen slopen ook de omliggende onderdelen."
+ },
+ "leaf_underbody_rattle": {
+  "top_cause": "Uitlaatbevestigingen of de carterbeschermplaat",
+  "alt_causes": [
+   "Hitteschild",
+   "Doorhangende uitlaatpijp"
+  ],
+  "explanation": "Metaalachtig rammelen onder de auto op oneffenheden is meestal een losgeraakte bevestiging: de uitlaatrubbers, de bouten van de carterplaat of het hitteschild. Irritant, maar op het rijden en de motor heeft het geen invloed.",
+  "advice": "Vraag bij je volgende garagebezoek of ze de bevestigingen aandraaien: snel en goedkoop. Stel wel vast dat de uitlaat niet doorhangt — een pijp die over de grond sleept mag je niet negeren. Tot de reparatie kun je rustig doorrijden."
+ },
+ "leaf_detonation": {
+  "top_cause": "Pingelen (metaalachtig rinkelen onder belasting)",
+  "alt_causes": [
+   "Benzine met te laag octaangetal",
+   "Koolaanslag of een defecte klopsensor"
+  ],
+  "explanation": "Metaalachtig rinkelen bij het optrekken, vooral bergop of vanuit lage toeren, is pingelen: een deel van de brandstof in de cilinders ontsteekt zichzelf met een explosie in plaats van rustig te verbranden, en de drukgolf beukt op de zuigers. Veelvoorkomende oorzaken: benzine met een lager octaangetal dan nodig, koolaanslag in de verbrandingskamers of een defecte klopsensor. Blijvend pingelen sloopt de motor geleidelijk.",
+  "advice": "Tank brandstof met minstens het door de fabrikant voorgeschreven octaangetal, het liefst bij een ander tankstation — vaak is het rinkelen na één tankbeurt weg. Belast de motor tot die tijd niet: trek rustig op en ga bergop een versnelling terug. Blijft het rinkelen na het wisselen van brandstof, ga dan langs voor diagnose."
+ },
+ "leaf_accel_knock": {
+  "top_cause": "Motorsteunen of de binnenste homokineet",
+  "alt_causes": [
+   "Speling in de aandrijflijn",
+   "Steunrubber van de versnellingsbak"
+  ],
+  "explanation": "Kloppen precies op het moment dat je gas geeft of loslaat, wijst op speling in de keten die de kracht overbrengt. Versleten steunen laten de motor bij een lastwissel doorschieten, en een versleten binnenste homokineet (het scharnier op de as van de bak naar het wiel) klopt bij gas geven en loslaten. Kenmerkend is dat het geluid juist bij de wisseling komt en niet op oneffenheden.",
+  "advice": "Maak binnen een of twee weken een afspraak. Tip voor de garage: let op of het kloppen dichter bij de motor of bij de wielen zit en of het terugkomt bij het schakelen. Geef tot die tijd rustiger gas en schakel soepeler."
+ },
+ "leaf_wheel_bearing": {
+  "top_cause": "Wiellager",
+  "alt_causes": [
+   "Bandengeruis",
+   "Steunlager of versnellingsbak"
+  ],
+  "explanation": "Gelijkmatig brommen dat toeneemt met de snelheid en niet afhangt van het motortoerental, komt meestal van een versleten wiellager — het lager waarop het wiel draait. Het klinkt als een opstijgend vliegtuig en verandert nauwelijks met het wegdek. Een verwaarloosd lager geeft speling in het wiel en kan in het uiterste geval vastlopen.",
+  "advice": "Laat het binnen een week nakijken: de monteur draait de wielen op de brug rond en vindt de naaf die geluid maakt — het onderdeel waarin dat lager zit. Stel lange ritten met hoge snelheid uit tot de diagnose. Wordt het brommen ineens veel harder of komt er trilling bij, ga dan meteen."
+ },
+ "leaf_wheel_bearing_rear": {
+  "top_cause": "Achterste wiellager",
+  "alt_causes": [
+   "Bandengeruis",
+   "Differentieel of steunlager (bij achterwiel- en vierwielaandrijving)"
+  ],
+  "explanation": "Gelijkmatig brommen achterin dat toeneemt met de snelheid, komt meestal van het achterste wiellager — het lager waarop het wiel draait. Bij auto's met achterwiel- of vierwielaandrijving brommen ook aandrijfonderdelen zo, dus de bron is het bevestigen op de brug waard.",
+  "advice": "Laat het binnen een week nakijken: achterin is het brommen van een lager makkelijk te verwarren met het differentieel, en op de brug is dat zo uitgezocht. Stel lange ritten met hoge snelheid uit tot de controle. Wordt het brommen ineens veel harder of komt er trilling bij, ga dan meteen."
+ },
+ "leaf_tires": {
+  "top_cause": "Bandengeruis",
+  "alt_causes": [
+   "Ongelijkmatige slijtage van het loopvlak",
+   "Wiellager"
+  ],
+  "explanation": "Hangt het brommen af van het wegdek — op nieuw asfalt zachter, op ruw asfalt harder — dan zijn het waarschijnlijk de banden. Vooral winterbanden, terreinbanden en ongelijkmatig versleten banden brommen. Dat is een kwestie van comfort, geen defect.",
+  "advice": "Bekijk het loopvlak: zaagtandslijtage (trapjes op de randen van de blokken) of slijtplekken versterken het brommen en wijzen op een verlopen wieluitlijning of vermoeide schokdempers. Controleer de bandenspanning. Hangt het brommen toch niet van het wegdek af en neemt het toe met de snelheid, ga dan terug naar de mogelijkheid van een wiellager."
  }
 }
