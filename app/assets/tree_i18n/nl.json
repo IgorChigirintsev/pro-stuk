@@ -879,5 +879,80 @@
   ],
   "explanation": "Schel piepen onder de motorkap betekent dat de riem over de poelies slipt. Meestal is de riem zelf versleten of is de spanner verzwakt. Breekt de riem, dan valt de dynamo uit en op veel auto's ook de waterpomp — dit mag je dus niet laten lopen.",
   "advice": "Laat de auto binnen een week nakijken: een riem en rol vervangen is goedkoop werk. Wordt het piepen ineens veel harder, gaat het acculampje branden of loopt de motortemperatuur op — stop en zet de motor uit."
+ },
+ "leaf_water_pump": {
+  "top_cause": "Waterpomp",
+  "alt_causes": [
+   "Riemrollen",
+   "Lager van de dynamo"
+  ],
+  "explanation": "Brommen of ruisen aan de riemkant in combinatie met sporen van koelvloeistof zijn de klassieke tekenen van een waterpomp op zijn eind. Het lager slijt, er komt speling in en langs de keerring begint koelvloeistof te sijpelen. Loopt de pomp vast, dan raakt de motor razendsnel oververhit.",
+  "advice": "Ga in de komende dagen naar de garage en houd onderweg de motortemperatuur en het koelvloeistofpeil in de gaten. Loopt de temperatuur op of komt er stoom vanonder de motorkap — stop en zet de motor uit. Vul koelvloeistof alleen bij op een afgekoelde motor."
+ },
+ "leaf_idler": {
+  "top_cause": "Span- of geleiderol",
+  "alt_causes": [
+   "Waterpomp",
+   "Vrijloop van de dynamo",
+   "Distributieketting of zijn spanner"
+  ],
+  "explanation": "Gelijkmatig brommen of ruisen dat met het motortoerental meeverandert, komt meestal van het lager van een van de rollen waar de multiriem overheen loopt. Een versleten rol maakt steeds meer geluid, kan gaan klemmen en uiteindelijk de riem stukscheuren.",
+  "advice": "Maak binnen een week een afspraak: de monteur haalt de riem eraf en stelt ter plekke vast welke rol het is. Zo kunnen ook de waterpomp, de vrijloop van de dynamo en zelfs de distributieketting klinken — die worden meteen meegenomen. Is het geluid overgegaan in knarsen of piepen, ga dan eerder."
+ },
+ "leaf_heat_shield": {
+  "top_cause": "Hitteschild van de uitlaat",
+  "alt_causes": [
+   "Uitlaatbevestigingen",
+   "Carterbeschermplaat"
+  ],
+  "explanation": "Helder metaalachtig rammelen bij bepaalde toerentallen komt bijna altijd van een losgetrild hitteschild — het dunne plaatje boven de demper of de katalysator. Het klinkt vervelend, maar op het functioneren van de auto heeft het geen invloed.",
+  "advice": "Vraag bij gelegenheid of ze het schild vastzetten of met een klem borgen: een klusje van een paar minuten. Het is de moeite waard vast te stellen dat het echt het schild is en niet de uitlaatbevestiging — op de brug zie je dat meteen."
+ },
+ "leaf_exhaust_pops": {
+  "top_cause": "Overslaande ontsteking of een gat in de uitlaat",
+  "alt_causes": [
+   "Bougies en bobines",
+   "Doorgeroeste demper of pijp",
+   "Afstelling van de LPG-installatie (als het op gas knalt)"
+  ],
+  "explanation": "Knallen uit de uitlaat betekent dat de brandstof niet in de cilinders maar in het uitlaatsysteem naverbrandt. Oorzaken: overslaande ontsteking (bougies, bobines), een verkeerd mengsel of een gat in de uitlaat. Naast het lawaai beschadigt dit de katalysator, en die vervangen is duur.",
+  "advice": "Maak binnen een paar dagen een afspraak, zeker als de auto slechter trekt, hapert of het motorstoringslampje brandt. Rijd niet lang door met knallen: onverbrande brandstof oververhit de katalysator. Rijd je op LPG en knalt het op gas, laat dan de installatie afstellen: voor LPG zijn knallen extra gevaarlijk."
+ },
+ "leaf_exhaust_leak": {
+  "top_cause": "Doorgeroeste demper of uitlaatpijp",
+  "alt_causes": [
+   "Uitlaatpakking",
+   "Gescheurde flexibele koppeling"
+  ],
+  "explanation": "Luid gebulder dat harder wordt als je gas geeft, betekent meestal een gat in het uitlaatsysteem: de demper, de pijp of een pakking is doorgeroest. Het klinkt 'sportief', maar de uitlaatgassen komen te vroeg naar buiten — dat geeft lawaai, stank en het risico dat koolmonoxide het interieur in trekt.",
+  "advice": "Laat de auto deze week nakijken: de uitlaat controleren op de brug duurt een paar minuten. Ruik je uitlaatgas in het interieur, rijd dan met een raam op een kier en laat de auto niet warmdraaien in een gesloten garage: koolmonoxide is levensgevaarlijk."
+ },
+ "leaf_engine_mounts": {
+  "top_cause": "Motorsteunen",
+  "alt_causes": [
+   "Overslaande ontsteking",
+   "Vervuild gasklephuis of vervuilde verstuivers"
+  ],
+  "explanation": "Voel je stationair trillingen in het interieur en trillen het stuur en de stoelen fijn mee, dan zijn vaak de motorsteunen de boosdoener — de rubbers die de trillingen van de motor opvangen. Met de tijd verhardt het rubber en scheurt het, en gaan de trillingen door naar de carrosserie.",
+  "advice": "Laat de steunen binnen twee weken nakijken: de controle is eenvoudig. Aanwijzing voor de diagnose: trillingen van de steunen worden meestal sterker als je met de rem in een versnelling zet. Schokt de motor er ook nog bij, vertel dat dan aan de monteur: mogelijk slaat de ontsteking over."
+ },
+ "leaf_brake_rust": {
+  "top_cause": "Roestaanslag op de remschijven",
+  "alt_causes": [
+   "Vocht of stof op de remblokken",
+   "Beginnende slijtage van de blokken"
+  ],
+  "explanation": "Na een nacht, na regen of na de wasstraat ligt er een dun roestlaagje op de remschijven — dat is bij elke auto normaal. De eerste paar keer remmen schrapen de blokken het eraf; vandaar het piepen of lichte schuren dat snel weer weg is.",
+  "advice": "Je hoeft niets te doen: een paar rustige rembeurten aan het begin van de rit maken de schijven schoon. Verdwijnt het geluid niet meer en hoor je het bij elke rembeurt, doorloop dan de diagnose opnieuw of laat de auto nakijken."
+ },
+ "leaf_brake_squeal": {
+  "top_cause": "Slijtage of staat van de remblokken",
+  "alt_causes": [
+   "Slijtage-indicator van de blokken",
+   "Verglaasde remblokken",
+   "Stof of corrosie op de schijven"
+  ],
+  "explanation": "Piepen bij elke rembeurt is het signaal om de blokken te controleren. Veel blokken hebben een metalen slijtage-indicator: als het werkzame deel (het remmateriaal dat over de schijf loopt) tot de grens is versleten, raakt het plaatje de schijf en piept met opzet. Ook de blokken zelf kunnen piepen — door aanslag, een verglaasd oppervlak of goedkoop materiaal.",
+  "advice": "Maak deze week een afspraak om blokken en schijven te laten bekijken. Is het de slijtage-indicator, dan mag je niet wachten: de volgende fase is metaal op metaal en beschadigde schijven. Zijn de blokken in orde, dan is het piepen ongevaarlijk en vertelt de monteur hoe je het wegkrijgt."
  }
 }
