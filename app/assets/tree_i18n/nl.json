@@ -1,0 +1,78 @@
+{
+ "q_when": {
+  "text": "Wanneer hoor je het geluid?",
+  "options": {
+   "o1": "Bij het starten of bij een startpoging",
+   "o2": "Stilstaand, met draaiende motor",
+   "o3": "Alleen tijdens het rijden",
+   "o4": "Zowel stilstaand als tijdens het rijden"
+  }
+ },
+ "q_start_char": {
+  "text": "Wat hoor je als je de sleutel omdraait of op de startknop drukt?",
+  "options": {
+   "o1": "Klikken, de motor draait niet rond",
+   "o2": "Metaalachtig geknars terwijl de startmotor draait",
+   "o3": "De startmotor snort, maar de motor pakt niet aan",
+   "o4": "Piepen of fluiten meteen nadat de motor is aangeslagen"
+  }
+ },
+ "q_start_clicks": {
+  "text": "Wat voor klikken precies?",
+  "options": {
+   "o1": "Snel geratel, de lampjes op het dashboard doven weg",
+   "o2": "Eén duidelijke klik en daarna stilte"
+  }
+ },
+ "q_stationary_gate": {
+  "text": "Komt het geluid alleen als je iets aanzet of indrukt (kachel, airco, koppeling, stuur, rem)?",
+  "options": {
+   "o1": "Ja, het hangt aan een bepaalde handeling",
+   "o2": "Nee, het is er vanzelf"
+  }
+ },
+ "q_action": {
+  "text": "Bij welke handeling hoor je het geluid?",
+  "options": {
+   "o1": "Bij de kachel of de ventilator",
+   "o2": "Bij de aircoknop",
+   "o3": "Bij het koppelingspedaal",
+   "o4": "Bij het stuur, het rempedaal of de ruitenwissers"
+  }
+ },
+ "q_hvac": {
+  "text": "Wat voor geluid maakt de ventilator?",
+  "options": {
+   "o1": "Ritselen of knisperen, verandert met de ventilatorstand",
+   "o2": "Piepen of janken onder het dashboard",
+   "o3": "Een reeks klikjes achter het dashboard bij het wisselen van temperatuur of luchtstroom",
+   "o4": "Klokken of borrelen achter het dashboard"
+  }
+ },
+ "q_ac": {
+  "text": "Wat hoor je als je de airco aanzet?",
+  "options": {
+   "o1": "Piepen op het moment van inschakelen",
+   "o2": "Knarsen of dreunen zolang de airco draait",
+   "o3": "Kort sissen bij aan- of uitzetten, de koeling werkt gewoon"
+  }
+ },
+ "q_clutch_idle": {
+  "text": "Hoe hangt het geluid samen met het koppelingspedaal?",
+  "options": {
+   "o1": "Ruisen of brommen met het pedaal omhoog; bij intrappen wordt het stil",
+   "o2": "Het komt of wordt erger als het pedaal ingetrapt is",
+   "o3": "Rammelen of gerinkel stationair, verandert bij intrappen",
+   "o4": "Piepen bij het intrappen, ook met de motor uit te horen"
+  }
+ },
+ "q_wheel_pedal": {
+  "text": "Waar hangt het geluid precies mee samen?",
+  "options": {
+   "o1": "Janken of brommen als je aan het stuur draait",
+   "o2": "Knappen of klikken als je stilstaand aan het stuur draait",
+   "o3": "Sissen onder het dashboard als je het rempedaal indrukt",
+   "o4": "Tikken of piepen op het ritme van de ruitenwissers"
+  }
+ }
+}
