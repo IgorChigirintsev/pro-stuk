@@ -716,4 +716,93 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'vibratsiya-na-holostyh': {
+    h1: 'Vibración al ralentí',
+    metaTitle: 'Vibración al ralentí: causas del temblor y qué hacer | Stuk',
+    description:
+      'Por qué el coche tiembla al ralentí: soportes del motor, fallos de encendido, entrada de aire falso o mariposa sucia. Qué comprobar y si puedes circular.',
+    intro: [
+      'Un ligero temblor al ralentí lo tiene cualquier coche, y más si es diésel. Aquí hablamos de otra cosa: de un temblor que se nota en el volante, en el asiento y en el retrovisor y que antes no estaba. Su causa más frecuente son los soportes del motor: los tacos de goma sobre los que el motor va sujeto a la carrocería y que amortiguan sus oscilaciones. Con los años la goma se endurece y se agrieta, y la vibración que antes se comían los tacos pasa a la carrocería.',
+      'El segundo grupo de causas: el propio motor va irregular. Los fallos de encendido (cuando un cilindro deja de encender de vez en cuando, normalmente por bujías o bobinas), la entrada de aire falso por un manguito agrietado o la junta de admisión, una mariposa o unos inyectores sucios hacen inestable el ralentí. Distinguir estos casos de los soportes no es difícil: con ellos la aguja del cuentarrevoluciones tiembla o baila y a menudo se enciende el testigo del motor, mientras que con los soportes gastados el motor va redondo y lo que tiembla es la carrocería.',
+    ],
+    causes: [
+      { name: 'Soportes del motor', likelihood: 'Lo más frecuente, sobre todo en coches de más de 8–10 años' },
+      { name: 'Fallos de encendido: bujías, bobinas', likelihood: 'Frecuente: si las revoluciones tiemblan y se enciende el testigo del motor' },
+      { name: 'Entrada de aire falso por un manguito o la junta de admisión', likelihood: 'Frecuente: si las revoluciones bailan, a veces con un silbido' },
+      { name: 'Mariposa o inyectores sucios', likelihood: 'Frecuente pasados los cien mil kilómetros' },
+    ],
+    canRide: [
+      'En la mayoría de los escenarios se puede circular: la vibración al ralentí no es el síntoma por el que se deja el coche en el arcén. Con los soportes gastados hay una o dos semanas para pedir cita con calma; alargarlo meses no conviene, porque unos soportes rotos añaden golpes al arrancar y al cambiar de marcha y aceleran el desgaste de las piezas vecinas.',
+      'Historia aparte es cuando el motor va claramente a trompicones: tiembla a tirones, el testigo del motor parpadea o está fijo, ha caído la fuerza. Con eso también se puede circular, pero con cuidado y poco: el combustible sin quemar de los fallos de encendido arde en el escape y recalienta el catalizador, cuyo cambio es caro. El diagnóstico, en ese caso, es para los próximos días y no para cuando toque.',
+    ],
+    checks: [
+      'Prueba de soportes: meter una marcha (en automático, D) y mantener el freno. La vibración de unos soportes gastados suele crecer bastante en esa posición.',
+      'Mirar el cuentarrevoluciones: aguja quieta y coche temblando es argumento a favor de los soportes; aguja que tiembla o baila significa que el motor va irregular.',
+      'Conectar el aire acondicionado y fijarse si el temblor cambia: con carga adicional, unos soportes débiles y un ralentí irregular se manifiestan más, y ese detalle le sirve al mecánico.',
+      'Revisar, sin desmontar nada, los manguitos de goma finos bajo el capó: grietas y tubos salidos son un sitio habitual de entrada de aire falso.',
+      'Recordar cuándo se cambiaron las bujías: un kilometraje muy por encima del intervalo las convierte en primer candidato ante fallos de encendido. Si el testigo del motor está encendido, empezar por la lectura de códigos: acotan la búsqueda.',
+    ],
+    appHelp:
+      'La aplicación Stuk hace las mismas preguntas —si el temblor crece con una marcha metida, si las revoluciones se mantienen firmes, si está encendido el testigo del motor— y con las respuestas reparte las causas probables en porcentajes. En el informe verás una conclusión clara: circula tranquilo, pide cita esta semana o enseña el coche en los próximos días.',
+    faq: [
+      {
+        q: '¿Por qué tiembla solo al ralentí y en marcha el coche va suave?',
+        a: 'Al ralentí las revoluciones son mínimas y el motor se balancea sobre sus soportes a una frecuencia que la carrocería transmite bien al habitáculo. Al subir de vueltas las oscilaciones se hacen más pequeñas y se notan menos. Por eso unos soportes gastados se delatan en el semáforo y no en autopista.',
+      },
+      {
+        q: '¿Qué son los fallos de encendido?',
+        a: 'Es cuando la mezcla de uno de los cilindros no se inflama de vez en cuando, casi siempre por bujías gastadas o una bobina averiada. El motor pierde en ese momento parte de su fuerza y da un tirón, mientras el combustible sin quemar arde en el escape y recalienta el catalizador.',
+      },
+      {
+        q: '¿Ayuda limpiar la mariposa?',
+        a: 'Ayuda si la causa está ahí: la suciedad impide dosificar bien el aire al ralentí y las revoluciones se vuelven irregulares. Pero la limpieza no es un remedio universal: con soportes gastados o fallos de encendido la vibración seguirá igual después.',
+      },
+    ],
+  },
+
+  'hlopki-v-glushitele': {
+    h1: 'Petardeos en el escape',
+    metaTitle: 'Petardeos en el escape: causas y qué hacer | Stuk',
+    description:
+      'Por qué se oyen petardeos en el escape: fallos de encendido, escape perforado, mezcla incorrecta o ajustes del equipo de GLP. Qué le hacen los petardeos al catalizador.',
+    intro: [
+      'Los petardeos o «disparos» del escape significan que parte del combustible no arde en los cilindros, sino ya en el sistema de escape. Casi siempre la culpa es de los fallos de encendido: una bujía gastada o una bobina averiada no inflama la mezcla, la gasolina sin quemar pasa al escape caliente y allí se enciende con el petardeo característico.',
+      'El segundo grupo de causas es el propio escape: un silenciador, un tubo o una junta perforados añaden a los petardeos un rugido que crece al pisar el acelerador. También la mezcla puede ser incorrecta por sensores o inyectores, y en coches con GLP los petardeos con gas son señal típica de ajustes desviados. Todos los escenarios tienen un denominador común: el combustible sin quemar termina de arder en el catalizador —la pieza del escape que quema los gases nocivos—, lo recalienta y poco a poco lo destruye, y cambiar un catalizador sale caro.',
+    ],
+    causes: [
+      { name: 'Fallos de encendido: bujías o bobinas', likelihood: 'Lo más frecuente' },
+      { name: 'Silenciador, tubo o junta de escape perforados', likelihood: 'Frecuente: los petardeos vienen con un rugido' },
+      { name: 'Mezcla incorrecta: sensores o inyectores', likelihood: 'Bastante frecuente' },
+      { name: 'Ajustes desviados del equipo de GLP', likelihood: 'Si los petardeos solo aparecen con gas' },
+      { name: 'Rugido al acelerar sin fuerza: el embrague patina', likelihood: 'Caso aparte que suena parecido' },
+    ],
+    canRide: [
+      'Un petardeo suelto al soltar el acelerador no es motivo para detenerse: puedes llegar a casa o al taller. Con petardeos regulares también se puede circular, pero planifica el diagnóstico para los próximos días y no semanas: cada petardeo es una porción de combustible sin quemar terminando de arder en el catalizador, y la factura por alargarlo crece desde unas bujías baratas hasta el precio de un catalizador.',
+      'Caso especial: el testigo del motor parpadeando. Así avisa el sistema de fallos de encendido activos, peligrosos para el catalizador ahora mismo. Con el testigo parpadeando, circula solo con calma y poco, sin cargar el motor, y al taller sin demora. Si en el habitáculo se huele a escape, hasta la reparación conduce con una ventanilla entreabierta y no calientes el coche en un garaje cerrado: el monóxido de carbono es peligroso.',
+    ],
+    checks: [
+      'Fijarse en cuándo petardea: con carga al acelerar, al soltar el gas o al ralentí; ese detalle acorta de inmediato la búsqueda del mecánico.',
+      'Mirar el testigo del motor: fijo significa diagnóstico en los próximos días; parpadeando significa que los fallos están ocurriendo ahora y la visita no se aplaza.',
+      'Valorar cómo va el motor: funcionamiento irregular, temblor al ralentí y pérdida de fuerza junto con los petardeos apuntan a bujías, bobinas o mezcla.',
+      'Escuchar el escape: un rugido que crece al pisar el acelerador con la fuerza normal es señal de un agujero en el silenciador o el tubo, no de problemas de encendido.',
+      'En un coche con GLP, comparar el funcionamiento con gas y con gasolina: petardeos solo con gas son una pregunta para quien ajustó el equipo.',
+    ],
+    appHelp:
+      'La aplicación Stuk precisa las circunstancias —petardeos o rugido, con gas o con gasolina, con o sin pérdida de fuerza— y ayuda a separar los problemas de encendido, un agujero en el escape y un embrague que patina, que de oído se parecen. En el informe verás causas probables con porcentajes y una recomendación clara sobre la urgencia del taller.',
+    faq: [
+      {
+        q: '¿Por qué petardea el escape si el problema está en el motor?',
+        a: 'Cuando una bujía o una bobina no inflama la mezcla en el cilindro, la gasolina sin quemar sale empujada al sistema de escape. Allí encuentra piezas al rojo y termina de arder con una llamarada: ese sonido es el petardeo que oyes en el escape. La fuente, sin embargo, está bajo el capó y no en el silenciador.',
+      },
+      {
+        q: '¿Por qué los petardeos son peligrosos para el catalizador?',
+        a: 'El catalizador está pensado para quemar los restos de los gases de escape, no porciones de combustible crudo. La gasolina que termina de arder dentro sube la temperatura por encima de lo previsto, y el panal cerámico se funde o se desmenuza. El resultado: pérdida de fuerza, traqueteo desde los bajos y un cambio de catalizador, uno de los trabajos más caros del escape.',
+      },
+      {
+        q: 'Mi coche de GLP petardea con gas. ¿Es peligroso?',
+        a: 'Sí, para el equipo de gas los petardeos son más peligrosos que para el motor de gasolina: un retorno de llama en la admisión puede dañar sus piezas de plástico y los sensores. La causa habitual son ajustes desviados o bujías gastadas. Lo sensato es pasar a gasolina y pedir cita con un especialista en GLP.',
+      },
+    ],
+  },
 };
