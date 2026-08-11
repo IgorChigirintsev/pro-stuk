@@ -1,0 +1,46 @@
+---
+/** Политика конфиденциальности. Переведена на все языки: человек имеет право
+ *  читать про свои данные на своём языке. */
+import Base from '../../layouts/Base.astro';
+import { SITE_URL } from '../../../site.config.mjs';
+import { DEFAULT_LANG, pathFor, t } from '../../i18n';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = DEFAULT_LANG } = Astro.props;
+const dict = t(lang);
+const d = dict.privacy;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: d.h1,
+  url: new URL(pathFor('privacy', lang), SITE_URL).href,
+  inLanguage: lang,
+  isPartOf: {
+    '@type': 'WebSite',
+    name: dict.brand,
+    url: new URL(pathFor('home', lang), SITE_URL).href,
+  },
+};
+---
+
+<Base title={d.title} description={d.description} schema={schema} lang={lang} page="privacy">
+  <article class="max-w-2xl">
+    <h1 class="text-2xl font-bold sm:text-3xl">{d.h1}</h1>
+
+    <p class="mt-4 text-ink-soft">{d.intro}</p>
+
+    <ul class="mt-6 list-disc space-y-3 ps-5 text-ink-soft">
+      {d.items.map((it) => (
+        <li>
+          <strong class="text-ink">{it.strong}</strong> {it.text}
+        </li>
+      ))}
+    </ul>
+
+    <p class="mt-6 text-ink-soft">{d.outro}</p>
+  </article>
+</Base>

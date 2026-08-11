@@ -1,0 +1,172 @@
+import type { Dict } from './types';
+
+export const es: Dict = {
+  brand: 'Stuk',
+  nav: {
+    symptoms: 'Síntomas',
+    how: 'Cómo funciona',
+    articles: 'Artículos',
+    analytics: 'Estadísticas',
+    lang: 'Idioma',
+  },
+  footer: {
+    disclaimer:
+      'Stuk da una estimación de probabilidades a partir de tus respuestas y del sonido, ' +
+      'no un diagnóstico. La decisión final sobre la reparación la toma el mecánico ' +
+      'después de revisar el coche.',
+    how: 'Cómo funciona',
+    privacy: 'Política de privacidad',
+    ruOnly: 'Guías por síntomas y artículos (en ruso)',
+  },
+  home: {
+    title: 'Stuk — diagnóstico del coche por el sonido',
+    description:
+      'Graba el ruido y descubre qué le pasa al coche. Un cuestionario breve, análisis de ' +
+      'la grabación y un informe: causas probables con porcentajes, semáforo de urgencia ' +
+      'y qué decir en el taller.',
+    schemaDescription:
+      'Diagnóstico de averías del coche por síntomas y sonido: cuestionario, grabación ' +
+      'del ruido e informe con las causas probables.',
+    h1: 'Graba el ruido y descubre qué le pasa al coche',
+    sub:
+      'Un cuestionario breve y una grabación de 15–30 segundos. A cambio: causas probables ' +
+      'con porcentajes, semáforo de urgencia y las palabras justas para hablar en el taller.',
+    cta: 'Descargar la aplicación',
+    ctaNote: 'Android · gratis por ahora',
+    howH2: 'Cómo funciona',
+    steps: [
+      {
+        title: '1. Preguntas',
+        text: 'Cuándo se oye el ruido y a qué se parece: el árbol de preguntas va acotando la causa.',
+      },
+      {
+        title: '2. Sonido',
+        text: 'Grabación de 15–30 segundos: el espectro, el ritmo de los golpes y las revoluciones se calculan en el servidor.',
+      },
+      {
+        title: '3. Informe',
+        text: 'Causas con porcentajes, semáforo de urgencia y qué decir en el taller.',
+      },
+    ],
+    faqH2: 'Preguntas frecuentes',
+    faq: [
+      {
+        q: '¿Es un diagnóstico exacto?',
+        a: 'No. Stuk da una estimación de probabilidades: una lista de causas posibles con porcentajes y el nivel de urgencia. El diagnóstico exacto lo hace el mecánico tras revisar el coche; el informe sirve para llegar preparado.',
+      },
+      {
+        q: '¿Cuánto cuesta?',
+        a: 'Por ahora es gratis: hasta 3 informes completos de sonido al día por dispositivo. El veredicto preliminar del cuestionario no tiene límite.',
+      },
+      {
+        q: '¿Qué coches admite?',
+        a: 'Turismos con motor de gasolina o diésel y caja manual o automática. La marca, el año y el kilometraje se tienen en cuenta en el análisis.',
+      },
+      {
+        q: '¿Qué pasa con mi grabación?',
+        a: 'El audio se envía al servidor, se analiza y no se guarda después. No hay cuentas ni rastreadores publicitarios.',
+      },
+      {
+        q: '¿Y si no consigo grabar bien el ruido?',
+        a: 'El informe se apoya sobre todo en las respuestas del cuestionario, igual que un mecánico que primero pregunta. Si la grabación no aporta nada, la aplicación lo dice claramente.',
+      },
+    ],
+  },
+  download: {
+    h2: 'La aplicación para Android',
+    sub: 'El cuestionario, la grabación del ruido y el informe completo con probabilidades están en la aplicación Stuk.',
+    btn: 'Descargar para Android',
+    meta: 'Versión {version} · APK {size} MB · actualizado el {date}',
+    installH: 'Cómo instalar el APK',
+    steps: [
+      'Descarga el archivo con el botón de arriba.',
+      'Ábrelo desde la notificación o desde «Descargas».',
+      'Permite la instalación desde este origen cuando el teléfono lo pregunte.',
+      'Instala la aplicación y ábrela.',
+    ],
+    playNote: 'Cuando la aplicación esté en Google Play, esta página se actualizará.',
+  },
+  how: {
+    title: 'Cómo funciona el diagnóstico por sonido | Stuk',
+    description:
+      'Sin adornos: el cuestionario como herramienta principal, el análisis espectral de la ' +
+      'grabación, un modelo de lenguaje y los fallos típicos de cada modelo. Por qué el ' +
+      'resultado es una probabilidad.',
+    schemaName: 'Cómo funciona el diagnóstico por sonido',
+    h1: 'Cómo funciona',
+    formH2: 'El cuestionario es la herramienta principal',
+    formP:
+      'Cualquier diagnóstico empieza con preguntas: cuándo apareció el ruido, a qué se ' +
+      'parece, si depende de la velocidad, de las revoluciones, del frenado o de los giros. ' +
+      'Las respuestas descartan grupos enteros de causas y aportan más que cualquier ' +
+      'algoritmo aplicado a una grabación mala. Por eso en Stuk el cuestionario va primero, ' +
+      'y su lógica es un árbol de decisiones: cada respuesta lleva a la siguiente pregunta, ' +
+      'más precisa.',
+    recH2: 'Qué pasa con la grabación',
+    recP: [
+      'La grabación de 15–30 segundos se envía al servidor. Primero la procesa matemática ' +
+        'corriente, sin redes neuronales: el espectro del sonido, su color (un chirrido tonal ' +
+        'o un ruido de banda ancha), el ritmo de los golpes y su frecuencia, y una estimación ' +
+        'de las revoluciones del motor a partir de la banda de baja frecuencia. Cada rasgo ' +
+        'recibe una marca de fiabilidad: si la grabación es floja o está llena de ruido, los ' +
+        'rasgos se marcan honestamente como poco fiables.',
+      'Después, un modelo de lenguaje lo junta todo: las respuestas del cuestionario, los ' +
+        'rasgos de la grabación, el propio audio y los datos del coche — marca, año, ' +
+        'kilometraje y los fallos típicos de ese modelo. El resultado son 2–4 causas ' +
+        'probables con porcentajes, un nivel de urgencia y pistas para el taller.',
+    ],
+    probH2: 'Por qué el resultado es una probabilidad',
+    probP: [
+      'Averías distintas suenan igual: el zumbido de un rodamiento de rueda se confunde ' +
+        'fácilmente con el ruido de los neumáticos, y el golpeteo de las bieletas de la barra ' +
+        'estabilizadora, con piezas de la suspensión mucho más serias. Distinguirlas con ' +
+        'seguridad solo se puede en el elevador. Por eso Stuk no diagnostica ni promete ' +
+        'precisión: reparte las probabilidades con honestidad y dice qué conviene comprobar ' +
+        'primero.',
+      'Una buena grabación mejora la estimación, pero no sustituye al mecánico. Toma el ' +
+        'informe como una segunda opinión antes de ir al taller: la conversación se vuelve ' +
+        'concreta y resulta más difícil que te vendan una reparación de más.',
+    ],
+    dataH2: 'Datos',
+    dataP:
+      'El audio se analiza en el servidor y no se guarda después. No hay cuentas, ni ' +
+      'analíticas, ni rastreadores publicitarios. Más detalles en la ',
+    dataLink: 'política de privacidad',
+    dataTail: '.',
+  },
+  privacy: {
+    title: 'Política de privacidad | Stuk',
+    description:
+      'Qué pasa con tus datos en la aplicación Stuk: el audio se procesa en el servidor y no ' +
+      'se guarda tras el análisis, no hay cuentas ni analíticas.',
+    h1: 'Política de privacidad',
+    intro:
+      'La aplicación Stuk recoge lo mínimo: exactamente lo que hace falta para el diagnóstico.',
+    items: [
+      {
+        strong: 'La grabación',
+        text: 'se envía al servidor solo cuando pulsas el botón, se usa para el análisis y no se guarda después.',
+      },
+      {
+        strong: 'Los datos del coche',
+        text: '(marca, modelo, año, kilometraje) y las respuestas del cuestionario se envían junto con la grabación: hacen falta para valorar las causas.',
+      },
+      {
+        strong: 'No hay cuentas.',
+        text: 'La aplicación funciona sin registro; el dispositivo recibe un identificador aleatorio para el límite diario de informes.',
+      },
+      {
+        strong: 'No hay rastreadores de terceros.',
+        text: 'La web cuenta visitas anónimas en su propio servidor, sin cookies, sin identificadores y sin ceder datos a nadie. La aplicación no tiene analítica alguna.',
+      },
+      {
+        strong: 'El historial de informes',
+        text: 'se guarda solo en tu dispositivo y se borra junto con la aplicación.',
+      },
+    ],
+    outro:
+      'El micrófono se usa únicamente mientras se graba el sonido y solo cuando tú lo pides. ' +
+      'El informe es una estimación de probabilidades, no un diagnóstico; la decisión de ' +
+      'reparar la toma el mecánico después de revisar el coche.',
+  },
+};

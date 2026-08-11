@@ -1,0 +1,13 @@
+---
+// Главная на остальных языках: /en/, /de/, /ar/ …
+import Home from '../../components/pages/Home.astro';
+import { PREFIXED } from '../../i18n';
+
+export function getStaticPaths() {
+  return PREFIXED.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+---
+
+<Home lang={lang} />

@@ -1,0 +1,47 @@
+---
+/** «Как это работает» — методика без прикрас, одна на все языки. */
+import Base from '../../layouts/Base.astro';
+import { SITE_URL } from '../../../site.config.mjs';
+import { DEFAULT_LANG, pathFor, t } from '../../i18n';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = DEFAULT_LANG } = Astro.props;
+const dict = t(lang);
+const d = dict.how;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: d.schemaName,
+  url: new URL(pathFor('how', lang), SITE_URL).href,
+  inLanguage: lang,
+  isPartOf: {
+    '@type': 'WebSite',
+    name: dict.brand,
+    url: new URL(pathFor('home', lang), SITE_URL).href,
+  },
+};
+---
+
+<Base title={d.title} description={d.description} schema={schema} lang={lang} page="how">
+  <article class="max-w-2xl">
+    <h1 class="text-2xl font-bold sm:text-3xl">{d.h1}</h1>
+
+    <h2 class="mt-8 text-xl font-bold">{d.formH2}</h2>
+    <p class="mt-3 text-ink-soft">{d.formP}</p>
+
+    <h2 class="mt-8 text-xl font-bold">{d.recH2}</h2>
+    {d.recP.map((p) => <p class="mt-3 text-ink-soft">{p}</p>)}
+
+    <h2 class="mt-8 text-xl font-bold">{d.probH2}</h2>
+    {d.probP.map((p) => <p class="mt-3 text-ink-soft">{p}</p>)}
+
+    <h2 class="mt-8 text-xl font-bold">{d.dataH2}</h2>
+    <p class="mt-3 text-ink-soft">
+      {d.dataP}<a href={pathFor('privacy', lang)} class="text-accent">{d.dataLink}</a>{d.dataTail}
+    </p>
+  </article>
+</Base>

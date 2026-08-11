@@ -1,0 +1,161 @@
+---
+/** Главная страница. Одна разметка на все языки: русская версия живёт в корне,
+ *  остальные — в своём префиксе. */
+import Base from '../../layouts/Base.astro';
+import DownloadApk from '../DownloadApk.astro';
+import { HUBS } from '../../data/hubs';
+import { v } from '../../data/assetVersion';
+import { SITE_URL } from '../../../site.config.mjs';
+import { DEFAULT_LANG, pathFor, t } from '../../i18n';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = DEFAULT_LANG } = Astro.props;
+const dict = t(lang);
+const d = dict.home;
+const isRu = lang === DEFAULT_LANG;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'SoftwareApplication',
+  name: dict.brand,
+  operatingSystem: 'Android',
+  applicationCategory: 'UtilitiesApplication',
+  description: d.schemaDescription,
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'KZT' },
+  url: new URL(pathFor('home', lang), SITE_URL).href,
+};
+
+// Мокапы шагов: цифры — высоты столбиков «звуковой волны» в пикселях.
+const wave = [3, 5, 4, 9, 4, 6, 3, 5];
+---
+
+<Base title={d.title} description={d.description} schema={schema} lang={lang} page="home">
+  <!-- Hero -->
+  <section class="py-6 text-center sm:py-12">
+    <h1 class="mx-auto max-w-2xl text-2xl font-bold sm:text-3xl">{d.h1}</h1>
+    <p class="mx-auto mt-4 max-w-xl text-l text-ink-soft">{d.sub}</p>
+    <a
+      href="#skachat"
+      class="mt-7 inline-block rounded-btn bg-accent px-8 py-4 font-semibold text-white no-underline hover:opacity-90"
+    >
+      {d.cta}
+    </a>
+    <p class="mt-2 text-s text-ink-soft">{d.ctaNote}</p>
+  </section>
+
+  <!-- Как работает: 3 шага с CSS-мокапами -->
+  <section class="mt-10">
+    <h2 class="text-center text-xl font-bold">{d.howH2}</h2>
+    <div class="mt-8 grid gap-6 sm:grid-cols-3">
+      <!-- Шаг 1: вопросы -->
+      <div class="text-center">
+        <div class="mx-auto w-40 rounded-card border border-line bg-surface p-3">
+          <div class="rounded-field bg-bg p-2 text-start">
+            <div class="mb-2 h-2 w-4/5 rounded bg-ink/70"></div>
+            <div class="mb-1.5 h-6 rounded-lg border border-line bg-surface"></div>
+            <div class="mb-1.5 h-6 rounded-lg border border-line bg-surface"></div>
+            <div class="h-6 rounded-lg border border-accent bg-accent-soft"></div>
+          </div>
+        </div>
+        <h3 class="mt-4 font-bold">{d.steps[0].title}</h3>
+        <p class="mt-1 text-s text-ink-soft">{d.steps[0].text}</p>
+      </div>
+      <!-- Шаг 2: звук -->
+      <div class="text-center">
+        <div class="mx-auto w-40 rounded-card border border-line bg-surface p-3">
+          <div class="rounded-field bg-bg p-2">
+            <div class="flex h-8 items-center justify-center gap-0.5">
+              {wave.map((h) => (
+                <span class="w-1 rounded-full bg-accent" style={`height:${h * 3}px`}></span>
+              ))}
+            </div>
+            <div class="mx-auto mt-2 h-9 w-9 rounded-full bg-stop"></div>
+          </div>
+        </div>
+        <h3 class="mt-4 font-bold">{d.steps[1].title}</h3>
+        <p class="mt-1 text-s text-ink-soft">{d.steps[1].text}</p>
+      </div>
+      <!-- Шаг 3: отчёт -->
+      <div class="text-center">
+        <div class="mx-auto w-40 rounded-card border border-line bg-surface p-3">
+          <div class="rounded-field bg-bg p-2 text-start">
+            <div class="mb-2 rounded-lg bg-warn p-1.5">
+              <div class="h-2 w-3/5 rounded bg-white/90"></div>
+            </div>
+            <div class="mb-1 h-1.5 w-full rounded bg-accent-soft">
+              <div class="h-1.5 w-3/5 rounded bg-accent"></div>
+            </div>
+            <div class="mb-1 h-1.5 w-full rounded bg-accent-soft">
+              <div class="h-1.5 w-2/5 rounded bg-accent"></div>
+            </div>
+            <div class="h-1.5 w-full rounded bg-accent-soft">
+              <div class="h-1.5 w-1/5 rounded bg-accent"></div>
+            </div>
+          </div>
+        </div>
+        <h3 class="mt-4 font-bold">{d.steps[2].title}</h3>
+        <p class="mt-1 text-s text-ink-soft">{d.steps[2].text}</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Скачивание APK -->
+  <div class="mt-14">
+    <DownloadApk lang={lang} />
+  </div>
+
+  <!-- FAQ -->
+  <section class="mt-14">
+    <h2 class="text-xl font-bold">{d.faqH2}</h2>
+    <div class="mt-4 space-y-4">
+      {d.faq.map((f) => (
+        <details class="rounded-card border border-line bg-surface p-4">
+          <summary class="cursor-pointer font-semibold">{f.q}</summary>
+          <p class="mt-2 text-ink-soft">{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  {
+    /* Разборы по узлам и симптомам пока существуют только по-русски:
+       на других языках вместо них ссылка в подвале с явной пометкой. */
+    isRu && (
+      <>
+        <section class="mt-14">
+          <h2 class="text-center text-xl font-bold">Разборы по узлам</h2>
+          <ul class="mx-auto mt-6 grid max-w-3xl gap-3 sm:grid-cols-2">
+            {HUBS.map((h) => (
+              <li>
+                <a
+                  href={`/uzly/${h.slug}/`}
+                  class="flex h-full items-center gap-4 rounded-card border border-line bg-surface p-4 no-underline hover:border-accent"
+                >
+                  <img src={v(`/uzly/${h.slug}.svg`)} alt="" width="96" height="58" class="hidden shrink-0 rounded-lg sm:block" />
+                  <span>
+                    <span class="font-semibold text-ink">{h.h1}</span>
+                    <span class="mt-1 block text-s text-ink-soft">{h.description}</span>
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        <section class="mt-14 text-center">
+          <h2 class="text-xl font-bold">Разборы по симптомам</h2>
+          <p class="mx-auto mt-2 max-w-xl text-ink-soft">
+            Стук в двигателе, гул при движении, скрип тормозов — что это значит и насколько
+            срочно.
+          </p>
+          <a href="/simptomy/" class="mt-4 inline-block font-semibold text-accent no-underline hover:underline">
+            Все симптомы →
+          </a>
+        </section>
+      </>
+    )
+  }
+</Base>

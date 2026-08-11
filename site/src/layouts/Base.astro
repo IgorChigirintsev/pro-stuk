@@ -1,7 +1,19 @@
 ---
 import '../styles/global.css';
 import { v } from '../data/assetVersion';
-import { SITE_URL, SITE_NAME, API_URL } from '../../site.config.mjs';
+import { SITE_URL, API_URL } from '../../site.config.mjs';
+import {
+  COUNTRY_TO_LANG,
+  DEFAULT_LANG,
+  LANGS,
+  LANG_NAMES,
+  OG_LOCALE,
+  RTL,
+  altsFor,
+  pathFor,
+  t,
+  type PageId,
+} from '../i18n';
 
 interface Props {
   title: string;
@@ -12,20 +24,49 @@ interface Props {
   wide?: boolean;
   /** Картинка для соцсетей (абсолютный путь от корня сайта). */
   ogImage?: string;
+  /** Язык страницы. По умолчанию русский: на нём весь исходный контент. */
+  lang?: string;
+  /** Идентификатор страницы для hreflang и переключателя языка.
+   *  Не задан — значит переводов у страницы нет (статьи, разборы). */
+  page?: PageId;
 }
 
-const { title, description, schema, wide = false, ogImage = v('/og/default.png') } = Astro.props;
+const {
+  title,
+  description,
+  schema,
+  wide = false,
+  ogImage = v('/og/default.png'),
+  lang = DEFAULT_LANG,
+  page,
+} = Astro.props;
+
+const d = t(lang);
+const isRu = lang === DEFAULT_LANG;
 const canonical = new URL(Astro.url.pathname, SITE_URL).href;
+// Есть перевод — есть и альтернативы; у статьи их нет, и трогать её нельзя.
+const alts = page ? altsFor(page) : null;
+const langHref = (l: string) => (alts ? alts[l] : pathFor('home', l));
 ---
 
 <!doctype html>
-<html lang="ru">
+<html lang={lang} dir={RTL.includes(lang) ? 'rtl' : 'ltr'}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {
+      alts && (
+        <>
+          {LANGS.map((l) => (
+            <link rel="alternate" hreflang={l} href={new URL(alts[l], SITE_URL).href} />
+          ))}
+          <link rel="alternate" hreflang="x-default" href={new URL(alts.en, SITE_URL).href} />
+        </>
+      )
+    }
     <!-- /favicon.ico и /apple-touch-icon.png роботы запрашивают сами, даже если не объявлены:
          без файлов это давало 404 в отчёте Search Console. -->
     <link rel="icon" href="/favicon.ico" sizes="any" />
@@ -39,29 +80,85 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:locale" content={OG_LOCALE[lang] ?? OG_LOCALE.en} />
     {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+    {
+      alts && (
+        <script
+          is:inline
+          define:vars={{ pageLang: lang, alts, c2l: COUNTRY_TO_LANG, known: LANGS }}
+        >
+          // Язык подбирается так же, как в приложении: язык браузера, затем
+          // ближайший язык по стране, затем английский. Уходим на другую версию
+          // только до первого осознанного выбора — выбранный язык живёт в
+          // localStorage и больше не переспрашивается.
+          (() => {
+            const saved = localStorage.getItem('stuk_lang');
+            if (saved) {
+              if (saved !== pageLang && alts[saved]) location.replace(alts[saved]);
+              return;
+            }
+            // Поисковых роботов не перебрасываем: иначе русская версия рискует
+            // выпасть из индекса в пользу английской.
+            // «google» и «bing» целиком не берём: они попадаются и в браузерах
+            // обычных телефонов, а лишить человека перевода хуже, чем недосчитаться
+            // редкого робота.
+            if (/bot|crawl|spider|slurp|yandex|duckduck|facebookexternalhit/i.test(navigator.userAgent))
+              return;
+
+            const pick = () => {
+              for (const tag of navigator.languages || [navigator.language || '']) {
+                const [base, region] = tag.toLowerCase().split('-');
+                if (known.includes(base)) return base;
+                const byCountry = region && c2l[region.toUpperCase()];
+                if (byCountry) return byCountry;
+              }
+              return 'en';
+            };
+            const want = pick();
+            if (want !== pageLang && alts[want]) location.replace(alts[want]);
+          })();
+        </script>
+      )
+    }
     <slot name="head" />
   </head>
   <body class="bg-bg text-ink text-base">
     <header class="border-b border-line">
       <nav class="mx-auto flex max-w-4xl items-center gap-6 px-5 py-4">
-        <a href="/" class="flex items-center gap-2 font-bold text-l text-ink no-underline">
+        <a
+          href={pathFor('home', lang)}
+          class="flex items-center gap-2 font-bold text-l text-ink no-underline"
+        >
           <img src="/icon.png" alt="" width="28" height="28" class="rounded-lg" />
-          {SITE_NAME}
+          {d.brand}
         </a>
         <!-- Иконки навигации: подписи в title и aria-label -->
         <div class="ml-auto flex items-center gap-4" data-nav>
-          <a href="/simptomy/" class="p-1 text-ink-soft hover:text-accent" aria-label="Симптомы" title="Симптомы">
-            <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
-              fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round" aria-hidden="true">
-              <path d="M11 2v2"/><path d="M5 2v2"/>
-              <path d="M5 3H4a2 2 0 0 0-2 2v4a6 6 0 0 0 12 0V5a2 2 0 0 0-2-2h-1"/>
-              <path d="M8 15a6 6 0 0 0 12 0v-3"/><circle cx="20" cy="10" r="2"/>
-            </svg>
-          </a>
-          <a href="/kak-eto-rabotaet/" class="p-1 text-ink-soft hover:text-accent" aria-label="Как это работает" title="Как это работает">
+          {
+            isRu && (
+              <a
+                href="/simptomy/"
+                class="p-1 text-ink-soft hover:text-accent"
+                aria-label={d.nav.symptoms}
+                title={d.nav.symptoms}
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
+                  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                  stroke-linejoin="round" aria-hidden="true">
+                  <path d="M11 2v2"/><path d="M5 2v2"/>
+                  <path d="M5 3H4a2 2 0 0 0-2 2v4a6 6 0 0 0 12 0V5a2 2 0 0 0-2-2h-1"/>
+                  <path d="M8 15a6 6 0 0 0 12 0v-3"/><circle cx="20" cy="10" r="2"/>
+                </svg>
+              </a>
+            )
+          }
+          <a
+            href={pathFor('how', lang)}
+            class="p-1 text-ink-soft hover:text-accent"
+            aria-label={d.nav.how}
+            title={d.nav.how}
+          >
             <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
               stroke-linejoin="round" aria-hidden="true">
@@ -69,14 +166,61 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
               <path d="M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z"/>
             </svg>
           </a>
-          <a href="/stati/" class="p-1 text-ink-soft hover:text-accent" aria-label="Статьи" title="Статьи">
-            <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
-              fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-              stroke-linejoin="round" aria-hidden="true">
-              <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/>
-              <path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/>
-            </svg>
-          </a>
+          {
+            isRu && (
+              <a
+                href="/stati/"
+                class="p-1 text-ink-soft hover:text-accent"
+                aria-label={d.nav.articles}
+                title={d.nav.articles}
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
+                  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                  stroke-linejoin="round" aria-hidden="true">
+                  <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/>
+                  <path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/>
+                </svg>
+              </a>
+            )
+          }
+          <!-- Переключатель языка: список на самих языках, без флагов —
+               флаг обозначает страну, а не язык, и путает больше, чем помогает. -->
+          <details class="relative" data-lang-switch>
+            <summary
+              class="flex cursor-pointer list-none items-center gap-1 p-1 text-ink-soft hover:text-accent"
+              aria-label={d.nav.lang}
+              title={d.nav.lang}
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" aria-hidden="true">
+                <circle cx="12" cy="12" r="10"/><path d="M2 12h20"/>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+              </svg>
+              <span class="text-s uppercase">{lang}</span>
+            </summary>
+            <ul
+              class="absolute end-0 z-10 mt-2 max-h-80 w-44 overflow-y-auto rounded-card border border-line bg-surface py-1 shadow-lg"
+            >
+              {
+                LANGS.map((l) => (
+                  <li>
+                    <a
+                      href={langHref(l)}
+                      data-lang={l}
+                      hreflang={l}
+                      class:list={[
+                        'block px-4 py-2 text-s no-underline hover:bg-accent-soft',
+                        l === lang ? 'font-bold text-accent' : 'text-ink',
+                      ]}
+                    >
+                      {LANG_NAMES[l]}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </details>
         </div>
       </nav>
     </header>
@@ -87,17 +231,42 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
 
     <footer class="border-t border-line">
       <div class="mx-auto max-w-4xl px-5 py-8 text-s text-ink-soft">
-        <p class="mb-3">
-          «{SITE_NAME}» даёт вероятностную оценку по симптомам и звуку, а не диагноз.
-          Итоговое решение о ремонте принимает механик после осмотра автомобиля.
-        </p>
+        <p class="mb-3">{d.footer.disclaimer}</p>
         <p class="flex flex-wrap gap-4">
-          <a href="/kak-eto-rabotaet/" class="hover:text-accent">Как это работает</a>
-          <a href="/politika/" class="hover:text-accent">Политика конфиденциальности</a>
+          <a href={pathFor('how', lang)} class="hover:text-accent">{d.footer.how}</a>
+          <a href={pathFor('privacy', lang)} class="hover:text-accent">{d.footer.privacy}</a>
+          {
+            /* Разборы и статьи пока только на русском — честно говорим об этом,
+               вместо того чтобы молча уводить на непонятный язык. */
+            !isRu && (
+              <a href="/simptomy/" class="hover:text-accent" hreflang="ru" lang="ru">
+                {d.footer.ruOnly}
+              </a>
+            )
+          }
         </p>
       </div>
     </footer>
-    <script is:inline define:vars={{ apiUrl: API_URL }}>
+    <script is:inline>
+      // Выбор языка руками сильнее автоопределения и переживает перезаход.
+      document.addEventListener('click', (e) => {
+        const a = e.target instanceof Element ? e.target.closest('a[data-lang]') : null;
+        if (a) localStorage.setItem('stuk_lang', a.getAttribute('data-lang'));
+      });
+      // Меню закрывается по клику мимо и по Esc — иначе висит поверх страницы.
+      document.addEventListener('click', (e) => {
+        for (const el of document.querySelectorAll('[data-lang-switch][open]')) {
+          if (!el.contains(e.target)) el.removeAttribute('open');
+        }
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key !== 'Escape') return;
+        for (const el of document.querySelectorAll('[data-lang-switch][open]')) {
+          el.removeAttribute('open');
+        }
+      });
+    </script>
+    <script is:inline define:vars={{ apiUrl: API_URL, analyticsLabel: d.nav.analytics }}>
       // Обезличенный счётчик просмотров: без cookies и идентификаторов.
       // Машина владельца (с сохранённым ключом аналитики) не учитывается,
       // вместо этого ей показывается кнопка «Аналитика».
@@ -110,8 +279,8 @@ const canonical = new URL(Astro.url.pathname, SITE_URL).href;
             a.href = '/analitika/';
             a.className = 'p-1 text-accent hover:opacity-80';
             a.setAttribute('data-analytics', '');
-            a.setAttribute('aria-label', 'Аналитика');
-            a.setAttribute('title', 'Аналитика');
+            a.setAttribute('aria-label', analyticsLabel);
+            a.setAttribute('title', analyticsLabel);
             a.innerHTML =
               '<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 24 24" ' +
               'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" ' +
