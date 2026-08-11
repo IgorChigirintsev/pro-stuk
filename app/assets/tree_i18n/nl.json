@@ -319,5 +319,88 @@
    "o3": "Continu knarsen of schuren, het wiel wordt niet warm",
    "o4": "Ritmisch kloppen of klikken op het ritme van het wiel"
   }
+ },
+ "q_wheel_click": {
+  "text": "Zijn de wielen kortgeleden vervangen, verwisseld of eraf geweest?",
+  "options": {
+   "o1": "Ja, in de afgelopen dagen",
+   "o2": "Nee, al lang niet meer aangeraakt"
+  }
+ },
+ "q_neutral_test": {
+  "text": "Test: rijd naar de snelheid waarbij je het geluid hoort, zet hem in zijn vrij en laat uitrollen. Blijft het brommen?",
+  "options": {
+   "o1": "Het blijft",
+   "o2": "Het verdwijnt samen met het motortoerental",
+   "o3": "Ik heb het niet kunnen testen"
+  }
+ },
+ "q_rpm_hum": {
+  "text": "Verandert het volume van het janken als je schakelt?",
+  "options": {
+   "o1": "Ja, in elke versnelling klinkt het anders",
+   "o2": "Nee, het hangt alleen van het motortoerental af"
+  }
+ },
+ "q_hum_road": {
+  "text": "Verandert het brommen in flauwe bochten?",
+  "options": {
+   "o1": "Ja, naar één kant zachter of harder",
+   "o2": "Nee, gelijkmatig bij elke snelheid boven 40–60 km/u",
+   "o3": "Het hangt af van het wegdek"
+  }
+ },
+ "q_hum_where": {
+  "text": "Hoor je het brommen voor of achter?",
+  "options": {
+   "o1": "Voor",
+   "o2": "Achter",
+   "o3": "Moeilijk te zeggen"
+  }
+ },
+ "leaf_battery": {
+  "top_cause": "Lege accu of geoxideerde accupolen",
+  "alt_causes": [
+   "Slechte massa-aansluiting",
+   "Startmotor op zijn eind"
+  ],
+  "explanation": "Snel geratel bij een startpoging betekent dat de startrelais te weinig stroom krijgt: hij klikt wel, maar kan de motor niet ronddraaien. Meestal is de accu leeg of zijn de polen aangeslagen en niet goed vastgezet. Dashboardlampjes die tijdens de startpoging wegdoven bevestigen dat.",
+  "advice": "Bekijk de accupolen: witte of groenige aanslag schoonmaken en de polen aandraaien. Helpt dat niet, laad de accu dan op of start met startkabels van een andere auto en rijd naar de winkel of garage voor een nieuwe. Een accu ouder dan 4–5 jaar is meestal aan vervanging toe."
+ },
+ "leaf_starter_solenoid": {
+  "top_cause": "Startrelais of de hoofdcontacten van de startmotor",
+  "alt_causes": [
+   "Geoxideerde accupolen",
+   "Bedrading naar de startmotor"
+  ],
+  "explanation": "Eén duidelijke klik terwijl de lampjes normaal branden: het startrelais schakelt wel, maar de startmotor zelf loopt niet — de hoofdcontacten zijn ingebrand, de koolborstels versleten of het relais blijft hangen. Soms start de auto bij de tweede of derde poging alsnog; dat is dezelfde diagnose.",
+  "advice": "Probeer het nog een paar keer; start hij om en om, ga dan binnen een paar dagen naar de garage, voordat je ergens op een parkeerplaats blijft staan. Controleer de accupolen en draai ze aan. Op de startmotor tikken is een truc om één keer thuis te komen, geen oplossing."
+ },
+ "leaf_starter_grind": {
+  "top_cause": "Startmotorrondsel of de krans van het vliegwiel",
+  "alt_causes": [
+   "Versleten tanden op de startkrans",
+   "Scheef gemonteerde startmotor"
+  ],
+  "explanation": "Metaalachtig geknars bij het starten betekent dat het rondsel van de startmotor niet goed in de tandkrans van het vliegwiel grijpt: de tanden zijn versleten of het mechanisme klemt. Elke start op deze manier vreet tanden weg, van de startmotor én van het vliegwiel.",
+  "advice": "Maak binnen een week een afspraak: een rondsel of startmotor vervangen is fors goedkoper dan de startkrans, waarvoor de versnellingsbak eruit moet. Houd tot die tijd de sleutel niet langer in de startstand dan nodig en probeer het niet meteen opnieuw na geknars."
+ },
+ "leaf_starter_bendix": {
+  "top_cause": "Het rondsel grijpt niet aan of de tanden van de startkrans zijn kapot",
+  "alt_causes": [
+   "Vrijloop van het startrondsel",
+   "Startkrans van het vliegwiel"
+  ],
+  "explanation": "Als de startmotor vrolijk snort maar de motor zelfs niet probeert rond te draaien, draait het rondsel in het niets: de vrijloop is versleten of op die plek van de startkrans zijn de tanden weggevreten.",
+  "advice": "Soms lukt starten bij de tweede poging — het vliegwiel staat dan anders. Ga toch binnen een paar dagen naar de garage: elke poging maakt de schade groter. Bij een handbak kun je in het uiterste geval aanduwen; bij een automaat mag dat absoluut niet."
+ },
+ "leaf_blower_debris": {
+  "top_cause": "Bladeren of vuil in de kachelventilator",
+  "alt_causes": [
+   "Verstopt interieurfilter",
+   "Voorwerp in het luchtkanaal"
+  ],
+  "explanation": "Ritselen en knisperen dat met de ventilatorstand meeverandert, is bijna altijd blad of vuil dat via de luchtinlaat in de kachelventilator terecht is gekomen. In het najaar is dat heel gewoon, zeker als het interieurfilter verstopt is of ontbreekt.",
+  "advice": "Vervang het interieurfilter (het vuil ligt er vaak bovenop) — bij veel auto's doe je dat zelf in 10 minuten, instructies voor je model zijn eenvoudig te vinden. Blijft het ritselen, laat de ventilator dan in de garage doorblazen en schoonmaken."
  }
 }
