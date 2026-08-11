@@ -644,5 +644,77 @@
   ],
   "explanation": "Lekki, równomierny gwizd turbo pod obciążeniem jest normą w silniku turbo. Zaniepokoić powinna zmiana: gwizd stał się głośniejszy albo zmienił ton, pojawiło się wycie, spadła moc. To albo nieszczelność w przewodach doładowania, albo zużycie łożyska wału turbiny.",
   "advice": "Jeśli ton się zmienił albo auto ciągnie gorzej, na diagnostykę w najbliższych dniach: nieszczelny przewód naprawia się tanio, a zaniedbane zużycie turbo kończy się jej wymianą. Obserwuj zużycie oleju. Do kontroli nie kręć silnika na odcięcie i po ostrzejszej jeździe daj turbinie ostygnąć minutę albo dwie na wolnych obrotach."
+ },
+ "leaf_final_drive": {
+  "top_cause": "Przekładnia główna mostu",
+  "alt_causes": [
+   "Łożyska mostu",
+   "Za mało oleju w moście"
+  ],
+  "explanation": "Wycie albo buczenie, które przy tej samej prędkości zmienia ton przy dodaniu i puszczeniu gazu — pod obciążeniem wyje, na hamowaniu silnikiem cichnie albo odwrotnie — to podpis zużytej przekładni głównej: kół zębatych mostu przenoszących napęd na koła. Łożysko piasty, w odróżnieniu od niej, na gaz nie reaguje wcale.",
+  "advice": "Sprawdź poziom oleju w moście i umów diagnostykę w ciągu tygodnia: przy wczesnym zużyciu często wystarczy olej i regulacja, przy późnym trzeba wymienić przekładnię. Dalekie szybkie trasy odłóż do czasu kontroli."
+ },
+ "leaf_cvt_whine": {
+  "top_cause": "CVT albo automat (łożyska, pasek, sprzęgło hydrokinetyczne)",
+  "alt_causes": [
+   "Za mało albo stary olej w skrzyni",
+   "Łożyska wałków"
+  ],
+  "explanation": "Monotonne metaliczne wycie przy przyspieszaniu w aucie z CVT albo automatem, zależne od gazu, a nie od prędkości, pochodzi zwykle od łożysk kół stożkowych CVT albo od pompy automatu. CVT jest szczególnie wrażliwe na wiek oleju.",
+  "advice": "Najpierw sprawdzenie poziomu i stanu oleju w skrzyni — to połowa takich przypadków. Umów diagnostykę w ciągu tygodnia, a do tego czasu jeźdź spokojnie, bez ostrych przyspieszeń i holowania przyczepy. Naprawa CVT w porę kosztuje kilka razy mniej niż zrobiona za późno."
+ },
+ "leaf_gearbox_whine": {
+  "top_cause": "Łożyska albo koła zębate skrzyni manualnej",
+  "alt_causes": [
+   "Za mało oleju w skrzyni",
+   "Łożysko wałka sprzęgłowego"
+  ],
+  "explanation": "Wycie, którego głośność zależy od włączonego biegu — na jednym wyje, na innym ciszej, na luzie przy toczeniu znika — dochodzi ze skrzyni manualnej: zużyte są łożyska wałków albo konkretna para kół zębatych. Łożysko piasty buczy tak samo na każdym biegu.",
+  "advice": "Sprawdź poziom oleju w skrzyni: jego spadek to częsta przyczyna. Umów diagnostykę w ciągu tygodnia albo dwóch i powiedz, na których biegach wyje głośniej: to zawęzi poszukiwania. Jeździć można, ale narastającego wycia nie warto ciągnąć."
+ },
+ "leaf_wheel_balance": {
+  "top_cause": "Niewyważone koła",
+  "alt_causes": [
+   "Zgubiony ciężarek wyważający",
+   "Błoto albo lód wewnątrz felgi"
+  ],
+  "explanation": "Drobne drgania kierownicy w wąskim zakresie prędkości, zwykle 80–120 km/h, które poniżej i powyżej prawie znikają, to klasyczne niewyważenie: spadł ciężarek albo od środka felgi przykleiło się błoto lub lód. Drga kierownica — to koła przednie, drga fotel — tylne.",
+  "advice": "Podjedź przy okazji na wyważanie — to szybkie i tanie. Zimą najpierw obejrzyj felgi od środka i zbij przymarznięty śnieg i lód. Nie ma zagrożenia, ale ciągłe drgania przyspieszają zużycie łożysk i końcówek drążków kierowniczych."
+ },
+ "leaf_rim_tire": {
+  "top_cause": "Krzywa felga albo guz na oponie",
+  "alt_causes": [
+   "Przesunięta osnowa opony",
+   "Niewyważone koła"
+  ],
+  "explanation": "Bicie wyczuwalne już od 40–60 km/h i rosnące z prędkością to zwykle deformacja: felga wygięta po wpadnięciu w dziurę albo guz na boku opony. W odróżnieniu od niewyważenia to bicie nie żyje w wąskim zakresie prędkości, tylko cały czas się nasila.",
+  "advice": "Obejrzyj opony i krawędzie felg: guz na boku albo wygięty rant felgi często widać gołym okiem. Guz to słabe miejsce, które może pęknąć przy prędkości: załóż w tym miejscu koło zapasowe i nie odkładaj wizyty w wulkanizacji. Do tego czasu nie jeźdź szybko."
+ },
+ "leaf_driveshaft": {
+  "top_cause": "Wał napędowy: podpora albo niewyważenie",
+  "alt_causes": [
+   "Krzyżaki wału",
+   "Sprzęgło elastyczne"
+  ],
+  "explanation": "Buczenie i drobne drgania w podłodze i nadwoziu w konkretnym zakresie prędkości, w aucie z napędem na tył albo na cztery koła, to wał napędowy: zużyta podpora, rozbite krzyżaki albo utracone wyważenie. Od niewyważenia kół różni się tym, że drga nie kierownica, tylko podłoga.",
+  "advice": "Umów diagnostykę w ciągu tygodnia: luzy wału sprawdza się na podnośniku w kilka minut. Nie warto zwlekać — rozerwanie krzyżaka przy prędkości jest niebezpieczne. Do kontroli nie jeźdź długo z tą prędkością, przy której drga."
+ },
+ "leaf_wind_noise": {
+  "top_cause": "Szum aerodynamiczny (uszczelki, listwy, bagażnik dachowy)",
+  "alt_causes": [
+   "Zużyte uszczelki drzwi",
+   "Belki albo box na dachu"
+  ],
+  "explanation": "Gwizd albo wycie, które pojawia się dopiero powyżej pewnej prędkości (zwykle 70–90 km/h), rośnie razem z nią i nie zależy od nawierzchni ani od zakrętów, to powietrze: zużyta uszczelka, odklejona listwa, belki dachowe albo box.",
+  "advice": "Źródło znajdziesz łatwo: zdejmij box albo belki, jeśli je masz; uchyl szybę i sprawdź, czy gwizd się zmienia; zaklej podejrzaną szczelinę taśmą malarską i przejedź się. To nie usterka: rozwiązuje ją nowa uszczelka albo regulacja drzwi."
+ },
+ "leaf_wear_indicator": {
+  "top_cause": "Czujnik zużycia klocków ociera o tarczę",
+  "alt_causes": [
+   "Klocki na wykończeniu",
+   "Kamyk między klockiem a tarczą"
+  ],
+  "explanation": "Cienki metaliczny pisk w jeździe bez naciskania hamulca, który przy lekkim dotknięciu pedału znika albo się zmienia, to metalowa blaszka wskaźnika na klocku, która zaczęła dotykać tarczy. To przewidziane fabrycznie ostrzeżenie: materiału ciernego prawie już nie ma.",
+  "advice": "Umów w tym tygodniu wymianę klocków i poproś o sprawdzenie tarcz. Hamulce na razie działają w pełni, ale kolejny etap to zgrzyt i zniszczone tarcze. Jeśli pisk dochodzi od konkretnego koła, powiedz o tym w warsztacie."
  }
 }
