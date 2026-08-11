@@ -359,4 +359,181 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gremit-pod-mashinoy': {
+    h1: 'Grzechot pod samochodem',
+    metaTitle: 'Grzechot pod samochodem: co brzęczy i czy to groźne | Stuk',
+    description:
+      'Grzechot i brzęczenie pod samochodem: mocowania tłumika, osłona termiczna, osłona silnika albo katalizator. Jak znaleźć źródło dźwięku i kiedy sprawa jest poważna.',
+    intro: [
+      'Grzechot spod samochodu brzmi niepokojąco, ale źródłem najczęściej nie jest ani silnik, ani zawieszenie, tylko przykręcona blacha: gumy tłumika, poluzowane śruby osłony silnika albo osłona termiczna — cienka blaszka chroniąca podwozie przed żarem układu wydechowego. Wszystko to grzechocze głośno i rezonuje po nadwoziu, dlatego wydaje się poważniejsze, niż jest: na prowadzenie i pracę auta takie dźwięki nie wpływają.',
+      'Są też mylące tropy: to, co grzechocze „pod samochodem”, bywa w rzeczywistości bagażnikiem — podnośnik, klucz do kół, źle zamocowane koło zapasowe — albo plastikami kabiny, których dźwięk trudno umiejscowić. Naprawdę niepokojący scenariusz jest jeden: dźwięczny grzechot bliżej silnika razem z utratą mocy albo zmienionym zapachem spalin. Tak hałasuje rozsypany katalizator — ceramiczny filtr spalin, którego odłamki grzechoczą we własnej obudowie — i z tą wersją nie warto zwlekać.',
+    ],
+    causes: [
+      { name: 'Mocowania tłumika albo osłona silnika', likelihood: 'Najczęściej — metaliczny grzechot na nierównościach' },
+      { name: 'Osłona termiczna układu wydechowego', likelihood: 'Często — dźwięczny grzechot przy określonych obrotach' },
+      { name: 'Podnośnik, koło zapasowe albo bagaż w bagażniku', likelihood: 'Często — głuchy łomot z tyłu, „coś się przetacza”' },
+      { name: 'Plastiki kabiny: panele i „świerszcze”', likelihood: 'Często — dźwięk jest bliżej, niż się wydaje' },
+      { name: 'Rozsypany katalizator', likelihood: 'Rzadziej — jeśli razem z grzechotem spadła moc' },
+    ],
+    canRide: [
+      'W większości przypadków tak i bez szczególnych ograniczeń: brzęcząca osłona termiczna, poluzowane mocowania tłumika albo śruby osłony silnika to kwestia komfortu, a nie bezpieczeństwa. Naprawa zwykle zajmuje minuty: dokręcić albo spiąć obejmą. Jedyne, co warto sprawdzić, to czy tłumik nie zwisa: rury szorującej po asfalcie nie wolno już ignorować, jej mocowanie odtwarza się od razu.',
+      'Jeśli grzechotowi towarzyszy utrata mocy, zmieniony zapach spalin albo kontrolka silnika, jedź na diagnostykę w najbliższych dniach: odłamki ceramiki rozsypanego katalizatora mogą zostać zassane do silnika, a to już droga naprawa. Do czasu sprawdzenia lepiej nie kręcić silnika na wysokich obrotach.',
+    ],
+    checks: [
+      'Wyjąć wszystko z bagażnika, sprawdzić mocowanie koła zapasowego i podnośnika, docisnąć półkę — i przejechać ten sam odcinek drogi. Dźwięk zniknął — sprawa zamknięta.',
+      'Na stojącym aucie płynnie podnieść obroty: grzechot osłony termicznej zwykle pojawia się przy określonych obrotach i słychać go w miejscu, bez żadnych nierówności.',
+      'Poprosić pasażera, żeby w jeździe przycisnął ręką podejrzane panele kabiny: jeśli dźwięk znika, to „świerszcze” wnętrza, a nie podwozie.',
+      'Wsłuchać się w moc i zapach spalin: auto gorzej przyspiesza albo zapach się zmienił — to wersja katalizatora, z nią do mechanika w najbliższych dniach.',
+      'Zajrzeć pod samochód, nie wchodząc pod niego: zwisający tłumik, obluzowana krawędź osłony silnika albo odgięta blacha często widać już od koła.',
+    ],
+    appHelp:
+      'Aplikacja Stuk pomaga powiązać grzechot ze źródłem: skąd dźwięk, czy zależy od obrotów silnika czy od nierówności, co dzieje się z mocą. Z odpowiedzi i nagrania pokazuje prawdopodobne przyczyny z procentami i sygnalizację pilności — wygodnie, żeby odróżnić niegroźną blachę od katalizatora jeszcze przed warsztatem.',
+    faq: [
+      {
+        q: 'Czy jazda jest groźna, jeśli coś grzechocze pod samochodem?',
+        a: 'Najczęściej nie: poluzowane mocowania tłumika, osłona silnika i osłona termiczna nie wpływają na pracę auta. Wyjątki to zwisający tłumik, który zaraz dotknie asfaltu, i grzechot razem z utratą mocy: w drugim przypadku możliwy jest rozsypany katalizator i ze sprawdzeniem lepiej nie zwlekać.',
+      },
+      {
+        q: 'Czym jest osłona termiczna i czy można ją po prostu zdjąć?',
+        a: 'To cienka blacha między gorącymi częściami układu wydechowego a podwoziem: chroni nadwozie, wiązki i wszystko nad rurą przed żarem. Zdejmować jej nie warto — właściwiej dokręcić albo spiąć obejmą: w warsztacie to praca na kilka minut.',
+      },
+      {
+        q: 'Jak poznać, że grzechocze właśnie katalizator?',
+        a: 'Po dźwięcznym grzechocie albo szeleście spod podwozia bliżej silnika, który nasila się przy dodaniu gazu, plus utrata mocy albo zmieniony zapach spalin. W warsztacie potwierdzają wersję, lekko stukając w obudowę katalizatora na wystygniętym aucie: rozsypana ceramika szeleści w środku jak kamyki.',
+      },
+    ],
+  },
+
+  'skrezhet-pri-tormozhenii': {
+    h1: 'Zgrzyt przy hamowaniu',
+    metaTitle: 'Zgrzyt przy hamowaniu: klocki do metalu, co robić | Stuk',
+    description:
+      'Zgrzyt przy hamowaniu najczęściej oznacza klocki starte do metalu — z tym się nie jeździ. Rzadziej winny jest kamyk za osłoną tarczy. Jak to odróżnić i co robić.',
+    intro: [
+      'Zgrzyt przy hamowaniu zasługuje na większą uwagę niż jakikolwiek pisk. Najczęściej tak brzmią klocki starte do metalu: okładzina, która trze o tarczę, skończyła się i tarczę skrobie stalowa płytka nośna klocka. Droga hamowania rośnie, tarcza niszczy się przy każdym zatrzymaniu, a mechanizm może się zakleszczyć.',
+      'Są też warianty mniej dramatyczne. Wygięta osłona tarczy albo kamyk zakleszczony między osłoną a tarczą dają bardzo podobny zgrzyt, ale hamulcom nie szkodzą. A krótkie skrobanie przy pierwszych hamowaniach po nocnym postoju albo deszczu to tylko warstewka rdzy, którą klocki zdzierają w dwie minuty. Kłopot w tym, że na słuch te scenariusze łatwo pomylić, dlatego stały zgrzyt wymaga oględzin, a nie domysłów.',
+    ],
+    causes: [
+      { name: 'Klocki starte do metalu', likelihood: 'Najczęściej — jeśli zgrzyta przy każdym hamowaniu' },
+      { name: 'Kamyk albo wygięta osłona dotyka tarczy', likelihood: 'Często; dźwięk podobny, ale hamulcom nie szkodzi' },
+      { name: 'Zakleszczony zacisk', likelihood: 'Jeśli koło się nagrzewa i auto ściąga w bok' },
+      { name: 'Warstewka rdzy po postoju albo deszczu', likelihood: 'Jeśli dźwięk znika po pierwszych hamowaniach' },
+    ],
+    canRide: [
+      'Ze zgrzytem metalu o metal zwykłe jazdy trzeba przerwać: dopuszczalny jest tylko ostrożny przejazd do warsztatu z zapasem odległości i łagodnym, wcześniejszym hamowaniem. Odkładanie wymiany nie opłaca się też finansowo: każdy kilometr ze zgrzytem dokłada do rachunku koszt tarcz, które stalowa płytka nośna klocka dosłownie toczy.',
+      'Jeśli zgrzyt pojawił się po postoju i zniknął po pierwszych hamowaniach — jedź bez ograniczeń, to rdza. Jeśli dźwięk jest raczej skrobiący, słychać go także bez naciskania pedału, a koło po jeździe się nie nagrzewa, prawdopodobna jest osłona albo kamyk: dojechać można spokojnie, ale auto warto pokazać w ciągu dnia–dwóch — pewnie odróżnić niegroźny scenariusz od startych klocków da się tylko przy oględzinach.',
+    ],
+    checks: [
+      'Prześledzić prawidłowość: dźwięk tylko przy naciśnięciu hamulca — prawdopodobne klocki; stałe skrobanie w jeździe — raczej osłona, kamyk albo zakleszczony zacisk.',
+      'Zajrzeć między szprychy felgi: w wielu autach zewnętrzny klocek widać bez demontażu. Okładzina cieńsza niż 3–4 mm albo błyszczący metal zamiast niej — wymiana natychmiast.',
+      'Po krótkiej jeździe zbliżyć rękę do kół, nie dotykając tarczy: jeśli jedno koło jest wyraźnie gorętsze od pozostałych, wygląda to na zakleszczony zacisk — element, który dociska klocki do tarczy.',
+      'Zwrócić uwagę na zachowanie auta: ściąganie w bok przy hamowaniu albo zapach spalenizny od koła to objawy, z którymi nie wolno jeździć — tylko ostrożnie do warsztatu.',
+      'Obejrzeć tarczę przez felgę: głębokie rowki i niebieskawy odcień metalu mówią, że zgrzyt trwa od dawna i tarcze już ucierpiały.',
+    ],
+    appHelp:
+      'Aplikacja Stuk przeprowadzi przez te same pytania — czy zgrzyt jest stały, czy koło się nagrzewa, czy dźwięk znika po pierwszych hamowaniach — a po nagraniu pomoże odróżnić zgrzyt od pisku czujnika zużycia. W raporcie będą prawdopodobne przyczyny i sygnalizacja: jechać można, pokazać w tym tygodniu albo dojechać tylko do warsztatu.',
+    faq: [
+      {
+        q: 'Czym zgrzyt różni się od pisku hamulców?',
+        a: 'Pisk to dźwięk wysoki, przy którym hamulce jeszcze pracują w pełni: najczęściej to czujnik zużycia, ostrzegający z wyprzedzeniem. Zgrzyt to szorstki, niski dźwięk metalu o metal: okładzina się skończyła i tarczę trze stalowa płytka nośna. Pisk to wizyta w tym tygodniu, zgrzyt — koniec zwykłych jazd.',
+      },
+      {
+        q: 'Czy wystarczy wymienić same klocki, jeśli był już zgrzyt?',
+        a: 'Zależy od stanu tarcz: nawet krótka jazda „na metalu” zostawia rowki. Płytkie czasem usuwa się toczeniem, głębokie oznaczają wymianę tarcz. Nowe klocki na porysowanej tarczy hamują gorzej i szybko się zużywają, dlatego decyzję podejmuje się po oględzinach.',
+      },
+      {
+        q: 'Zgrzyt raz jest, raz go nie ma — to też groźne?',
+        a: 'Niestały zgrzyt często daje kamyk między osłoną a tarczą: może wypaść sam. Nie warto na to liczyć: taki sam pływający dźwięk bywa we wczesnej fazie starcia klocków do metalu. Oględziny w ciągu dnia–dwóch rozstrzygną sprawę.',
+      },
+    ],
+  },
+
+  'stuk-pri-razgone': {
+    h1: 'Stuk przy przyspieszaniu',
+    metaTitle: 'Stuk przy dodaniu i puszczeniu gazu: przyczyny | Stuk',
+    description:
+      'Dlaczego stuka przy naciśnięciu albo puszczeniu gazu: poduszki silnika, przegub napędowy, luz w napędzie albo automatyczna skrzynia. Jak odróżnić niegroźny luz od stuku w samym silniku.',
+    intro: [
+      'Stuk, który pojawia się dokładnie w chwili naciśnięcia albo puszczenia gazu, rodzi się najczęściej nie w samym silniku, tylko w łańcuchu przekazującym napęd na koła. Z wiekiem w jego elementach narasta luz: gumowe poduszki silnika osiadają i pozwalają mu szarpać przy zmianie obciążenia, zużywa się wewnętrzny przegub napędowy (przegub półosi biegnącej od skrzyni do koła), rozklekotują się krzyżaki wału napędowego i mocowania wózka. Za każdym razem, gdy napęd zmienia kierunek, luz kasuje się z uderzeniem — stąd pojedynczy stuk albo łomot.',
+      'Osobna historia to automatyczna skrzynia: szarpnięcie z łomotem przy przekładaniu wybieraka D↔R albo przy zmianach biegów zwykle mówi o starym oleju albo zużyciu. I zupełnie inny przypadek to głuchy stuk z głębi silnika, który przyspiesza wraz z obrotami i staje się głośniejszy pod obciążeniem: tak stukają panewki wału korbowego. To rzadki, ale najpoważniejszy wariant i ważne, żeby go nie przeoczyć.',
+    ],
+    causes: [
+      { name: 'Poduszki silnika albo wewnętrzny przegub napędowy', likelihood: 'Najczęściej — pojedynczy stuk przy dodaniu i puszczeniu gazu' },
+      { name: 'Luz w napędzie: krzyżaki wału, mocowania wózka', likelihood: 'Często przy napędzie na tył i na cztery koła — łomot pod podłogą przy ruszaniu' },
+      { name: 'Automatyczna skrzynia: stary olej albo zużycie', likelihood: 'Jeśli szarpnięcie i łomot pokrywają się ze zmianami biegów' },
+      { name: 'Stuk panewek z głębi silnika', likelihood: 'Rzadko — przyspiesza z obrotami, głośniejszy pod obciążeniem' },
+    ],
+    canRide: [
+      'Z większością przyczyn z tabeli można jeździć: luz w poduszkach, przegubach albo napędzie nie unieruchomi auta nagle, dopóki stuk jest pojedynczy i cichy. Ale odkładanie diagnostyki na miesiące nie ma sensu: rozbity krzyżak albo zużyty przegub z czasem się rozsypują, a dzieje się to już w ruchu. Rozsądny termin wizyty to tydzień–dwa; do tego czasu ruszaj i operuj gazem łagodniej.',
+      'Wyjątkiem jest stuk z głębi silnika, który przyspiesza przy dodaniu gazu i wzmaga się pod obciążeniem. Z nim zwykłe jazdy trzeba przerwać: zużyte panewki mogą skończyć się zatarciem silnika. Najpierw sprawdź poziom oleju; dalej — laweta albo, jeśli warsztat jest tuż obok, wolno i bez dodawania gazu.',
+    ],
+    checks: [
+      'Doprecyzować moment: stuk dokładnie przy dodaniu i puszczeniu gazu, a nie na nierównościach, dotyczy przekazywania napędu, a nie zawieszenia. Taki szczegół od razu skróci mechanikowi poszukiwania.',
+      'Sprawdzić bagnetem poziom oleju silnikowego. Przy każdym stuku brzmiącym jak silnikowy to pierwszy krok: przy niskim poziomie panewki cierpią w pierwszej kolejności.',
+      'Jeśli łomocze przy zmianach biegów — sprawdzić poziom i stan oleju w automatycznej skrzyni: ciemny płyn z zapachem spalenizny to częsta przyczyna szarpnięć, a czasem sprawę rozwiązuje jego wymiana.',
+      'Wsłuchać się, skąd dochodzi dźwięk — spod maski, ze środka podłogi czy od strony koła — i czy powtarza się przy zmianie biegu. Te obserwacje warto zapisać dla warsztatu.',
+      'Zrobić łagodny test: jeśli przy miękkim dodaniu i puszczeniu gazu stuk znika, a przy gwałtownym wraca — to klasyczny luz, i do naprawy wystarczy spokojna jazda.',
+    ],
+    appHelp:
+      'Aplikacja Stuk zada te same pytania uściślające — kiedy dokładnie stuka, czy dźwięk zmienia się z obrotami i biegami — a po nagraniu pomoże odróżnić łomot luzu od głębokiego stuku silnikowego. W raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można jechać, zaplanować warsztat albo zatrzymać się.',
+    faq: [
+      {
+        q: 'Dlaczego stuka właśnie przy dodaniu i puszczeniu gazu?',
+        a: 'W chwili zmiany obciążenia napęd zmienia kierunek i wszystkie luzy w poduszkach silnika, przegubach i napędzie kasują się z uderzeniem. Dopóki auto jedzie równomiernie, elementy są do siebie dociśnięte i luz się nie zdradza — dlatego stuk słychać tylko przy pracy pedałem gazu.',
+      },
+      {
+        q: 'Jak poznać, że stuka sam silnik i że to poważne?',
+        a: 'Niepokojąca cecha to głuchy stuk z głębi silnika, który przyspiesza wraz z obrotami i staje się głośniejszy pod obciążeniem, na przykład pod górę. Tak stukają panewki wału korbowego. W tym przypadku jazdy trzeba przerwać, sprawdzić poziom oleju i dostarczyć auto do warsztatu na lawecie.',
+      },
+      {
+        q: 'Czy automatyczna skrzynia może powodować stuk przy przyspieszaniu?',
+        a: 'Tak. Szarpnięcie albo łomot w chwili zmiany biegu bądź przy przekładaniu wybieraka między D i R to typowa oznaka starego oleju albo zużycia skrzyni. Zacząć warto od sprawdzenia poziomu i stanu oleju; do naprawy przekładaj wybierak tylko na całkowicie zatrzymanym aucie z wciśniętym hamulcem.',
+      },
+    ],
+  },
+
+  'zvon-pri-razgone': {
+    h1: 'Dzwonienie przy przyspieszaniu',
+    metaTitle: 'Dzwonienie przy przyspieszaniu: spalanie stukowe czy nie | Stuk',
+    description:
+      'Metaliczne dzwonienie przy przyspieszaniu to najczęściej spalanie stukowe przez paliwo. Jak sprawdzić to zmianą stacji i kiedy winny jest nie silnik, a osłona termiczna albo katalizator.',
+    intro: [
+      'Metaliczne dzwonienie przy przyspieszaniu — dźwięk, o którym kierowcy mówią „stukają sworznie” — najczęściej okazuje się spalaniem stukowym. Część paliwa w cylindrach nie spala się równomiernie, tylko wybucha, a fala uderzeniowa odzywa się dźwięcznym klekotem o ścianki silnika. Najlepiej słychać ją pod obciążeniem: pod górę, przy wyprzedzaniu, przy przyspieszaniu z niskich obrotów na wysokim biegu. Najczęstsza przyczyna jest prozaiczna — benzyna o liczbie oktanowej niższej niż zaleca producent albo po prostu nieudane tankowanie.',
+      'Dzwonić może też nie silnik. Rozklekotana osłona termiczna — cienka blaszka nad tłumikiem — brzęczy przy określonych obrotach, a rozsypana ceramika katalizatora szeleści i pobrzękuje spod podwozia. Różnica tkwi w powiązaniu: spalanie stukowe zależy od obciążenia i znika przy spokojnej jeździe, a osłona dzwoni na „swoich” obrotach nawet na stojącym aucie przy dodaniu gazu.',
+    ],
+    causes: [
+      { name: 'Spalanie stukowe: paliwo o niskiej liczbie oktanowej', likelihood: 'Najczęściej — dzwonienie pod obciążeniem, zwłaszcza pod górę' },
+      { name: 'Nagar w komorach spalania albo czujnik spalania stukowego', likelihood: 'Jeśli zmiana stacji nie pomogła' },
+      { name: 'Osłona termiczna układu wydechowego', likelihood: 'Często — brzęczenie przy określonych obrotach, bez związku z obciążeniem' },
+      { name: 'Rozsypany katalizator', likelihood: 'Rzadziej — dzwonienie i szelest spod podwozia, moc słabnie' },
+    ],
+    canRide: [
+      'Z rzadkimi epizodami dzwonienia dojechać można, ale silnika lepiej wtedy nie obciążać: przyspieszać łagodnie, pod górę jechać na niższym biegu, nie ciągnąć z niskich obrotów na wysokim biegu. Pierwszy krok to zatankować paliwo o liczbie oktanowej nie niższej niż zalecana, najlepiej na innej stacji: często dzwonienie znika razem z jednym bakiem.',
+      'Stałe spalanie stukowe to uderzenia w tłoki przy każdym przyspieszaniu i stopniowo niszczy silnik: cierpią tłoki, pierścienie, uszczelka pod głowicą. Jeśli po zmianie paliwa dzwonienie nie ustąpiło, z diagnostyką nie warto zwlekać. Brzęczenie osłony to natomiast czysto akustyczna niedogodność: z nim można jeździć bez ograniczeń i przymocować blachę przy najbliższej wizycie w warsztacie.',
+    ],
+    checks: [
+      'Zatankować pełny bak paliwa o liczbie oktanowej nie niższej niż zalecana, na innej stacji. Jeśli po baku–dwóch dzwonienie zniknęło, przyczyną było paliwo.',
+      'Sprawdzić związek z obciążeniem: dzwonienie pojawia się pod górę, przy wyprzedzaniu i gwałtownym gazie, a przy łagodnym przyspieszaniu cichnie — to podpis spalania stukowego.',
+      'Dodać gazu na luzie na stojącym aucie: jeśli dzwonienie albo brzęczenie pojawia się przy określonych obrotach nawet bez obciążenia — bardziej prawdopodobna jest osłona termiczna.',
+      'Sprawdzić w instrukcji albo na klapce wlewu, jaka benzyna jest zalecana dla auta: wielu silnikom niska liczba oktanowa już nie odpowiada, choć formalnie jest dopuszczalna.',
+      'Zwrócić uwagę na moc i dźwięki spod podwozia: szelest i pobrzękiwanie od dołu razem ze słabszym przyspieszaniem to powód, by sprawdzić katalizator bez zwłoki.',
+    ],
+    appHelp:
+      'Aplikacja Stuk pomaga rozeznać się tymi samymi pytaniami — kiedy dzwoni, czy dźwięk wiąże się z obciążeniem czy z obrotami — a nagranie pozwala odróżnić dźwięczny klekot spalania stukowego od brzęczenia blaszanej osłony. W raporcie będą prawdopodobne przyczyny z procentami i wniosek: można jechać, warto zaplanować warsztat albo lepiej się zatrzymać.',
+    faq: [
+      {
+        q: 'Co znaczy „stukają sworznie”?',
+        a: 'To stara nazwa dzwonienia przy spalaniu stukowym: kiedyś wiązano je ze sworzniami tłokowymi. W rzeczywistości dzwonią nie one — klekot tworzy fala uderzeniowa wybuchowego spalania odbijająca się od ścianek cylindrów. Nazwa się przyjęła, ale przyczyna jest zawsze ta sama: spalanie stukowe, a nie zużyte elementy tłoka.',
+      },
+      {
+        q: 'Czy można jeździć ze spalaniem stukowym?',
+        a: 'Krótko i oszczędnie: łagodne przyspieszanie, niższy bieg pod górę, bez pełnego obciążenia i przyczepy. Każdy epizod dzwonienia to uderzenia w tłoki, a stałe spalanie stukowe kończy się drogą naprawą silnika. Jeśli zmiana paliwa nie usunęła dzwonienia po baku–dwóch, potrzebna jest diagnostyka.',
+      },
+      {
+        q: 'Czy pomoże benzyna o wyższej liczbie oktanowej?',
+        a: 'Główna zasada — nie tankować poniżej zalecenia producenta. Liczba oktanowa pokazuje odporność paliwa na samozapłon, dlatego przejście na wyższą u silnika skłonnego do spalania stukowego często usuwa dzwonienie. Jeśli i to nie pomaga, przyczyny — nagaru albo czujnika spalania stukowego — szuka się w warsztacie.',
+      },
+    ],
+  },
 };
