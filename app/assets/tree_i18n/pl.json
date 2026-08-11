@@ -716,5 +716,95 @@
   ],
   "explanation": "Cienki metaliczny pisk w jeździe bez naciskania hamulca, który przy lekkim dotknięciu pedału znika albo się zmienia, to metalowa blaszka wskaźnika na klocku, która zaczęła dotykać tarczy. To przewidziane fabrycznie ostrzeżenie: materiału ciernego prawie już nie ma.",
   "advice": "Umów w tym tygodniu wymianę klocków i poproś o sprawdzenie tarcz. Hamulce na razie działają w pełni, ale kolejny etap to zgrzyt i zniszczone tarcze. Jeśli pisk dochodzi od konkretnego koła, powiedz o tym w warsztacie."
+ },
+ "leaf_caliper_stuck": {
+  "top_cause": "Zakleszczony zacisk hamulcowy",
+  "alt_causes": [
+   "Zapieczone prowadnice zacisku",
+   "Spęczniały przewód hamulcowy"
+  ],
+  "explanation": "Stałe szuranie od strony jednego koła, gorąca tarcza po jeździe, zapach spalenizny i ściąganie auta w bok — zacisk (element, który dociska klocki do tarczy) zakleszczył się i klocek ociera tarczę bez przerwy. Przegrzany hamulec traci skuteczność, a klocki i tarcza wypalają się w ciągu kilkuset kilometrów.",
+  "advice": "Zwykłą jazdę przerwać i dojechać wyłącznie do warsztatu — blisko i wolno. Które koło jest gorące, sprawdzisz ręką obok tarczy, ale samej tarczy nie dotykaj, poparzy. Zwlekanie kończy się zablokowaniem koła w czasie jazdy."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Niedokręcone śruby koła",
+  "alt_causes": [
+   "Rozbite otwory w feldze",
+   "Luz piasty"
+  ],
+  "explanation": "Rytmiczny łomot lub stukanie w takt obrotu koła, które pojawiło się w pierwszych dniach po wizycie w wulkanizacji lub zmianie opon, to klasyka niedokręconych śrub koła. Koło na luźnych śrubach rozbija otwory w feldze, a w najgorszym razie odkręca się w czasie jazdy.",
+  "advice": "Zatrzymać się przy pierwszej okazji i kluczem do kół sprawdzić dokręcenie śrub we wszystkich kołach. Dokręciły się — stukanie powinno zniknąć; jeśli zostało, ostrożnie dojechać do warsztatu i sprawdzić piastę. Po każdej zmianie opon warto powtórzyć dokręcanie po 50–100 km."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Kamyk albo wkręt w bieżniku",
+  "alt_causes": [
+   "Niedokręcone śruby koła",
+   "Odchodzący bieżnik"
+  ],
+  "explanation": "Równe cykanie albo klikanie w takt obrotu koła, najlepiej słyszalne przy małej prędkości, najczęściej wydaje kamyk wciśnięty w bieżnik — albo, co ważniejsze, wkręcony w oponę wkręt. Dźwięk trwa tak długo, jak długo przedmiot siedzi w oponie.",
+  "advice": "Obejrzeć bieżnik wszystkich kół, powoli przetaczając auto albo skręcając kierownicę do oporu. Kamyk wydłubać. Wkrętu ani gwoździa nie wyciągać — z nim spokojnie dojedziesz do wulkanizacji, a bez niego opona zejdzie po drodze. Jeśli w bieżniku nic nie ma, a klikanie zostało, sprawdzić dokręcenie śrub kół."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Gumy stabilizatora albo silentbloki (skrzypienie)",
+  "alt_causes": [
+   "Sworznie wahaczy",
+   "Suche uszczelki i zawiasy drzwi"
+  ],
+  "explanation": "Skrzypienie jak w starym łóżku na nierównościach, przy wsiadaniu i przy bujaniu autem — sucha guma w zawieszeniu: tuleje stabilizatora albo silentbloki (gumowe przeguby wahaczy). Na mrozie i w wilgoci głośniejsze. Łatwo je wywołać, kołysząc stojącym autem za błotnik.",
+  "advice": "Przy okazji pokazać w warsztacie: często wystarcza nasmarowanie tulei albo wymiana groszowych części. Niebezpieczeństwa nie ma, ale jeśli razem ze skrzypieniem pojawiło się stukanie albo auto zaczęło ściągać w bok, to już sprawa sworzni wahaczy i sprawdzenia nie odkładaj."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Przywarte klocki hamulcowe",
+  "alt_causes": [
+   "Przymarznięte klocki (zimą)",
+   "Szczęki hamulca ręcznego"
+  ],
+  "explanation": "Pojedynczy głośny huk albo trzask przy pierwszym ruszeniu po dłuższym postoju, zwłaszcza na hamulcu ręcznym, po myjni, deszczu albo mrozie — klocki przywarły lub przymarzły do tarcz i się oderwały. Jeśli dalej cała jazda jest cicha, to nic groźnego.",
+  "advice": "Nic nie trzeba robić; zimą można zostawiać auto na biegu zamiast na hamulcu ręcznym (tylko przy manualnej skrzyni), żeby tylne klocki nie przymarzały. Jeśli chrzęst powtarza się przy każdym ruszeniu, to już nie klocki — przejdź diagnozę od nowa."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Luz przekładni kierowniczej",
+  "alt_causes": [
+   "Końcówki drążków kierowniczych",
+   "Krzyżak kolumny kierowniczej"
+  ],
+  "explanation": "Stukanie na drobnych falach i łączeniach nawierzchni, które przechodzi prosto na kierownicę i czuć je w dłoniach, to luz w przekładni kierowniczej (maglownicy): zużyta tulejka albo zazębienie. Charakterystyczny znak — stukanie cichnie, gdy trzymasz kierownicę lekko naprężoną.",
+  "advice": "Pokazać układ kierowniczy w warsztacie w ciągu najbliższych dni: to element bezpieczeństwa, a sprawdzenie na podnośniku zajmuje kilka minut. W części aut przekładnię da się skasować regulacją — tanio. Jeśli kierownica zrobiła się „pusta” w położeniu prosto albo auto pływa po pasie, nie odkładaj."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Pęknięta sprężyna zawieszenia",
+  "alt_causes": [
+   "Zużyty amortyzator",
+   "Pęknięta miska sprężyny"
+  ],
+  "explanation": "Łomot albo metaliczny zgrzyt na nierównościach i w zakrętach, który pojawił się nagle po wpadnięciu w dziurę, plus obniżony jeden narożnik auta — typowy obraz ułamanego zwoju sprężyny. Ułamany kawałek może ocierać i łomotać przy pracy zawieszenia.",
+  "advice": "Zajrzeć za koło od dołu: ułamany zwój często widać gołym okiem. Do warsztatu w ciągu kilku dni, a do naprawy jeździć łagodnie: kawałek sprężyny może się przesunąć i rozciąć oponę. Sprężyny wymienia się parami na osi."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Plastiki wnętrza: klipsy i łączenia paneli",
+  "alt_causes": [
+   "Przedmioty w schowku i kieszeniach",
+   "Suche uszczelki drzwi"
+  ],
+  "explanation": "Bliskie „plastikowe” grzechotanie i cykanie na drobnych nierównościach to tarcie i luz paneli wnętrza: deski rozdzielczej, boczków drzwi, schowka. Na mrozie głośniejsze. Pewny test: jeśli w czasie jazdy przyciśniesz podejrzany panel ręką i dźwięk znika, to wnętrze, a nie podwozie.",
+  "advice": "To nie usterka: auto jest sprawne. Wyjmij drobiazgi ze schowka i kieszeni, w znalezione łączenie podłóż kawałek taśmy uszczelniającej. Skrzypienie na obwodzie drzwi znika po przetarciu uszczelek smarem silikonowym. Stukanie zawieszenia jest głuche, „od dołu”, i nie zmienia się od naciskania paneli."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Luźny bagaż albo koło zapasowe w bagażniku",
+  "alt_causes": [
+   "Podnośnik i narzędzia",
+   "Półka bagażnika"
+  ],
+  "explanation": "Głuche stukanie albo grzechot z tyłu na nierównościach, jakby coś skakało i przetaczało się, najczęściej właśnie czymś skaczącym jest: podnośnik, klucz do kół, słabo dokręcone koło zapasowe albo klekocząca półka. Przy załadowanym bagażniku dźwięk zwykle się zmienia albo znika.",
+  "advice": "Wyjmij wszystko z bagażnika, sprawdź dokręcenie mocowania koła zapasowego i podnośnika, dociśnij półkę — i przejedź ten sam odcinek. Stukanie zniknęło — zawieszenie nie ma z tym nic wspólnego i nic więcej robić nie trzeba. Zostało — przejdź diagnozę od nowa gałęzią „stukanie na nierównościach”."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Zamek albo odboje maski",
+  "alt_causes": [
+   "Zawiasy maski",
+   "Ogranicznik drzwi"
+  ],
+  "explanation": "Metaliczne stukanie z przodu u góry, przy krawędzi maski, na drobnych nierównościach — luz zamka maski albo osiadłe gumowe odboje, na których maska się opiera. W środku słychać je blisko, „przed twarzą”, a nie od dołu jak stukanie zawieszenia.",
+  "advice": "Test na postoju: naciśnij zamkniętą maskę — jeśli gra i postukuje, diagnoza potwierdzona. Gumowe odboje w narożnikach wykręć o pół obrotu w górę, żeby maska leżała ciaśniej; w większości przypadków to wystarcza. Niebezpieczeństwa nie ma."
  }
 }
