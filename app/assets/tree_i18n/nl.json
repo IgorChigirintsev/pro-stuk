@@ -725,5 +725,86 @@
   ],
   "explanation": "Continu schuren bij één wiel, een gloeiend hete schijf na het rijden, een brandlucht en een auto die naar één kant trekt: de remklauw (het onderdeel dat de blokken tegen de schijf duwt) is vastgelopen en het blok sleept continu over de schijf. Een oververhitte rem verliest zijn werking, en blok en schijf branden binnen een paar honderd kilometer op.",
   "advice": "Stop met gewoon rijden en ga alleen naar de garage — dichtbij en langzaam. Welk wiel heet is, voel je met je hand naast de schijf; raak de schijf zelf niet aan, die verbrandt je. Uitstellen eindigt met een wiel dat tijdens het rijden blokkeert."
+ },
+ "leaf_wheel_bolts": {
+  "top_cause": "Niet aangedraaide wielbouten",
+  "alt_causes": [
+   "Uitgesleten boutgaten in de velg",
+   "Speling in de naaf"
+  ],
+  "explanation": "Ritmisch klepperen of tikken op het ritme van het wiel dat begon in de eerste dagen na een bandenwissel of bezoek aan de bandenspecialist, is klassiek voor niet aangedraaide wielbouten. Een wiel op losse bouten slaat de gaten in de velg uit en draait er in het ergste geval tijdens het rijden af.",
+  "advice": "Stop bij de eerste gelegenheid en controleer met de wielsleutel de bouten van alle wielen. Zaten ze los, dan hoort het tikken te verdwijnen; blijft het, rijd dan voorzichtig naar de garage en laat de naaf nakijken. Na elke bandenwissel is het verstandig de bouten na 50–100 km opnieuw na te trekken."
+ },
+ "leaf_tire_stone": {
+  "top_cause": "Steentje of schroef in het loopvlak",
+  "alt_causes": [
+   "Niet aangedraaide wielbouten",
+   "Loslatend loopvlak"
+  ],
+  "explanation": "Gelijkmatig klikken of tikken op het ritme van het wiel, vooral goed hoorbaar bij lage snelheid, komt meestal van een steentje dat in het profiel klem zit — of, belangrijker, van een schroef die erin is gedraaid. Het geluid blijft zolang het voorwerp in de band zit.",
+  "advice": "Bekijk het profiel van alle banden door de auto langzaam te rollen of het stuur helemaal in te draaien. Wip het steentje eruit. Trek een schroef of spijker er niet uit — daarmee rijd je rustig naar de bandenspecialist, eruit loopt de band onderweg leeg. Zit er niets in het profiel en blijft het klikken, controleer dan de wielbouten."
+ },
+ "leaf_susp_creak": {
+  "top_cause": "Stabilisatorrubbers of draagarmbussen (gekraak)",
+  "alt_causes": [
+   "Fuseekogels",
+   "Droge deurrubbers en scharnieren"
+  ],
+  "explanation": "Kraken als een oud bed op oneffenheden, bij het instappen en bij het wiegen van de auto, is droog rubber in de ophanging: stabilisatorrubbers of draagarmbussen. Bij vorst en vocht klinkt het harder. Je roept het op door de stilstaande auto met je hand aan het spatbord heen en weer te wiegen.",
+  "advice": "Laat het bij gelegenheid in de garage zien: vaak is het opgelost met het smeren van de rubbers of het vervangen van een paar goedkope onderdelen. Gevaarlijk is het niet, maar komt er naast het kraken ook getik bij of gaat de auto naar één kant trekken, dan gaat het om de fuseekogels — stel de controle dan niet uit."
+ },
+ "leaf_brake_stiction": {
+  "top_cause": "Vastgeplakte remblokken",
+  "alt_causes": [
+   "Vastgevroren remblokken (in de winter)",
+   "Remschoenen van de handrem"
+  ],
+  "explanation": "Eén harde bonk of krak bij het eerste wegrijden na lang stilstaan, zeker met de handrem erop, na de wasstraat, regen of vorst, betekent dat de blokken aan de schijven waren vastgeplakt of vastgevroren en losschoten. Blijft de rest van de rit stil, dan is er niets aan de hand.",
+  "advice": "Je hoeft niets te doen; in de winter kun je de auto in een versnelling zetten in plaats van op de handrem (alleen bij een handbak), zodat de achterblokken niet vastvriezen. Herhaalt het gekraak zich bij elk wegrijden, dan gaat het niet meer om de blokken — doorloop de diagnose opnieuw."
+ },
+ "leaf_steering_rack": {
+  "top_cause": "Speling in het stuurhuis",
+  "alt_causes": [
+   "Stuurkogels",
+   "Kruiskoppeling van de stuurkolom"
+  ],
+  "explanation": "Tikken op fijne golven en voegen in het wegdek dat recht in het stuur doorkomt en dat je in je handen voelt, is speling in het stuurhuis: de bus of de vertanding is versleten. Kenmerkend: het tikken wordt zachter als je het stuur licht op spanning houdt.",
+  "advice": "Laat de besturing binnen een paar dagen nakijken: het is een veiligheidsonderdeel en de controle op de brug duurt minuten. Bij sommige auto's kan het stuurhuis worden bijgesteld — dat is goedkoop. Voelt het stuur rond de middenstand loos of zwabbert de auto in zijn baan, stel het dan niet uit."
+ },
+ "leaf_broken_spring": {
+  "top_cause": "Gebroken veer in de ophanging",
+  "alt_causes": [
+   "Doorgezakte schokdemper",
+   "Gebroken veerschotel"
+  ],
+  "explanation": "Klepperen of metaalachtig geknars op oneffenheden en in bochten dat ineens begon na een klap in een kuil, plus een hoek van de auto die lager hangt, is het typische beeld van een gebroken veerwinding. Het afgebroken stuk kan tijdens het veren schuren en klepperen.",
+  "advice": "Kijk van onderaf achter het wiel: de gebroken winding zie je vaak met het blote oog. Binnen een paar dagen naar de garage, en rijd tot die tijd rustig: een stuk veer kan verschuiven en de band beschadigen. Veren worden per as in paren vervangen."
+ },
+ "leaf_interior_rattle": {
+  "top_cause": "Interieurkunststof: clips en naden van panelen",
+  "alt_causes": [
+   "Spullen in het dashboardkastje en de vakken",
+   "Droge deurrubbers"
+  ],
+  "explanation": "Dichtbij klinkend kunststof gerammel en gepiep op kleine oneffenheden is wrijving en speling van interieurpanelen: het dashboard, de deurpanelen, het dashboardkastje. Bij vorst klinkt het harder. Betrouwbare test: druk tijdens het rijden met je hand op het verdachte paneel — stopt het geluid, dan zit het in het interieur en niet in het onderstel.",
+  "advice": "Geen defect: de auto is in orde. Haal losse spullen uit het kastje en de vakken en schuif een stukje afdichtband in de naad die je vindt. Piepen rond de deuren verhelp je door de rubbers met siliconenspray te behandelen. Getik uit het onderstel is juist dof, komt 'van onder' en verandert niet als je op panelen drukt."
+ },
+ "leaf_trunk_cargo": {
+  "top_cause": "Losse lading of reservewiel in de kofferbak",
+  "alt_causes": [
+   "Krik en gereedschap",
+   "Hoedenplank"
+  ],
+  "explanation": "Dof gebonk of gerammel achterin op oneffenheden, alsof er iets stuitert en heen en weer rolt, is meestal precies dat: de krik, de wielsleutel, een slecht vastgezet reservewiel of een rammelende hoedenplank. Met een volle kofferbak verandert het geluid meestal of is het weg.",
+  "advice": "Haal alles uit de kofferbak, controleer de bevestiging van het reservewiel en de krik, druk de hoedenplank aan — en rijd hetzelfde stuk weg opnieuw. Is het weg, dan heeft de ophanging er niets mee te maken en hoef je verder niets te doen. Blijft het, doorloop dan de diagnose opnieuw via de tak 'kloppen op oneffenheden'."
+ },
+ "leaf_hood_latch": {
+  "top_cause": "Motorkapslot of de rubberen aanslagen",
+  "alt_causes": [
+   "Scharnieren van de motorkap",
+   "Deurvanger"
+  ],
+  "explanation": "Metaalachtig getik van voren bovenin, bij de rand van de motorkap, op kleine oneffenheden, is speling in het motorkapslot of ingezakte rubberen aanslagen waar de kap op rust. Binnen hoor je het dichtbij, 'voor je gezicht', en niet van onderaf zoals getik uit de ophanging.",
+  "advice": "Test op de plaats: druk op de gesloten motorkap — beweegt en tikt hij, dan is de diagnose bevestigd. Draai de rubberen aanslagen in de hoeken een halve slag omhoog zodat de kap strakker ligt; in de meeste gevallen helpt dat. Gevaarlijk is het niet."
  }
 }
