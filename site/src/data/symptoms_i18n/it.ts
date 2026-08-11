@@ -716,4 +716,93 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'vibratsiya-na-holostyh': {
+    h1: 'Vibrazione al minimo',
+    metaTitle: 'Vibrazione al minimo: cause del tremolio e cosa fare | Stuk',
+    description:
+      'Perché l’auto trema al minimo: supporti motore, mancate accensioni, presa d’aria falsa o corpo farfallato sporco. Cosa controllare e se si può guidare.',
+    intro: [
+      'Un leggero tremolio al minimo ce l’ha qualunque auto, un diesel ancora di più. Qui si parla d’altro: di un tremolio che si sente nel volante, nel sedile e nello specchietto retrovisore e che prima non c’era. La causa più frequente sono i supporti motore: i tasselli in gomma su cui il motore è fissato alla scocca e che smorzano le sue oscillazioni. Con gli anni la gomma indurisce e si crepa, e la vibrazione che prima i tasselli assorbivano finisce nella scocca.',
+      'Il secondo gruppo di cause: è il motore stesso a girare irregolare. Le mancate accensioni (quando un cilindro ogni tanto non scoppia — di solito per candele o bobine), una presa d’aria falsa da un manicotto crepato o dalla guarnizione dell’aspirazione, un corpo farfallato o iniettori sporchi rendono instabile il minimo. Distinguere questi casi dai supporti non è difficile: con essi la lancetta del contagiri trema o oscilla e spesso si accende la spia motore, mentre con supporti usurati il motore gira rotondo — a tremare è la scocca.',
+    ],
+    causes: [
+      { name: 'Supporti motore', likelihood: 'Il più delle volte — soprattutto su auto di oltre 8–10 anni' },
+      { name: 'Mancate accensioni: candele, bobine', likelihood: 'Frequente — se i giri tremano ed è accesa la spia motore' },
+      { name: 'Presa d’aria falsa da un manicotto o dalla guarnizione dell’aspirazione', likelihood: 'Frequente — se i giri oscillano, a volte con un sibilo' },
+      { name: 'Corpo farfallato o iniettori sporchi', likelihood: 'Frequente oltre i centomila chilometri' },
+    ],
+    canRide: [
+      'Nella maggior parte degli scenari si può guidare: la vibrazione al minimo non è il sintomo per cui si lascia l’auto in corsia d’emergenza. Con supporti usurati ci sono una o due settimane per fissare con calma l’appuntamento; tirarla per mesi non conviene — supporti rovinati aggiungono colpi in partenza e nei cambi marcia e accelerano l’usura dei componenti vicini.',
+      'Storia a parte è quando il motore chiaramente perde colpi: trema a scatti, la spia motore lampeggia o è accesa fissa, la potenza è calata. Anche con questo si può guidare, ma con prudenza e non a lungo: il carburante incombusto delle mancate accensioni finisce di bruciare nello scarico e surriscalda il catalizzatore, la cui sostituzione è costosa. La diagnosi, in quel caso, serve nei prossimi giorni e non quando capita.',
+    ],
+    checks: [
+      'Prova dei supporti: inserire una marcia (D sull’automatico) e tenere il freno. La vibrazione di supporti usurati di solito aumenta nettamente in questa posizione.',
+      'Guardare il contagiri: lancetta ferma e auto che trema depone per i supporti; lancetta che trema o oscilla significa motore irregolare.',
+      'Accendere il climatizzatore e notare se il tremolio cambia: sotto carico aggiuntivo supporti deboli e minimo irregolare si manifestano di più, e questo dettaglio servirà al meccanico.',
+      'Esaminare, senza smontare nulla, i sottili manicotti in gomma sotto il cofano: crepe e tubi sfilati sono un punto frequente di presa d’aria falsa.',
+      'Ricordare quando sono state cambiate le candele: un chilometraggio ben oltre l’intervallo le rende il primo sospettato per le mancate accensioni. Se la spia motore è accesa, comincia dalla lettura degli errori: i codici restringono la ricerca.',
+    ],
+    appHelp:
+      'L’app Stuk pone le stesse domande — il tremolio aumenta con la marcia inserita, i giri restano stabili, è accesa la spia motore — e dalle risposte distribuisce le cause probabili in percentuali. Nel rapporto trovi una conclusione chiara: viaggia tranquillo, fissa un appuntamento questa settimana o mostra l’auto nei prossimi giorni.',
+    faq: [
+      {
+        q: 'Perché trema solo al minimo mentre in marcia l’auto va liscia?',
+        a: 'Al minimo i giri sono minimi e il motore oscilla sui supporti a una frequenza che la scocca trasmette bene in abitacolo. Salendo di giri le oscillazioni diventano più piccole e si sentono meno. Per questo i supporti usurati si tradiscono al semaforo e non in autostrada.',
+      },
+      {
+        q: 'Che cosa sono le mancate accensioni?',
+        a: 'È quando la miscela in uno dei cilindri di tanto in tanto non si accende — quasi sempre per candele usurate o una bobina difettosa. In quel momento il motore perde parte della potenza e sussulta, mentre il carburante incombusto finisce di bruciare nello scarico e surriscalda il catalizzatore.',
+      },
+      {
+        q: 'La pulizia del corpo farfallato aiuta?',
+        a: 'Aiuta se la causa è lì: lo sporco impedisce di dosare con precisione l’aria al minimo, e i giri diventano irregolari. Ma la pulizia non è una cura universale: con supporti usurati o mancate accensioni la vibrazione resterà identica anche dopo.',
+      },
+    ],
+  },
+
+  'hlopki-v-glushitele': {
+    h1: 'Scoppi nello scarico',
+    metaTitle: 'Scoppi nello scarico: cause e cosa fare | Stuk',
+    description:
+      'Perché lo scarico scoppietta: mancate accensioni, scarico forato, miscela sbagliata o taratura dell’impianto GPL. Cosa fanno gli scoppi al catalizzatore e quando andare in officina.',
+    intro: [
+      'Scoppi o «colpi di pistola» dallo scarico significano che una parte del carburante non brucia nei cilindri, ma già nell’impianto di scarico. Il più delle volte la colpa è delle mancate accensioni: una candela usurata o una bobina difettosa non accende la miscela, la benzina incombusta finisce nello scarico caldo e lì si infiamma con il tipico scoppio.',
+      'Il secondo gruppo di cause è l’impianto di scarico stesso: silenziatore, tubo o guarnizione forati aggiungono agli scoppi un rombo che cresce premendo l’acceleratore. Anche la miscela può essere sbagliata per colpa di sensori o iniettori, e sulle auto a GPL gli scoppi a gas sono un segno tipico di taratura sballata. Tutti gli scenari hanno un denominatore comune: il carburante incombusto finisce di bruciare nel catalizzatore — il componente dello scarico che brucia i gas nocivi —, lo surriscalda e a poco a poco lo distrugge, e sostituire un catalizzatore costa caro.',
+    ],
+    causes: [
+      { name: 'Mancate accensioni: candele o bobine', likelihood: 'Il più delle volte' },
+      { name: 'Silenziatore, tubo o guarnizione dello scarico forati', likelihood: 'Frequente — gli scoppi arrivano insieme a un rombo' },
+      { name: 'Miscela sbagliata: sensori o iniettori', likelihood: 'Abbastanza frequente' },
+      { name: 'Taratura sballata dell’impianto GPL', likelihood: 'Se gli scoppi compaiono solo a gas' },
+      { name: 'Rombo in accelerazione senza spinta: la frizione slitta', likelihood: 'Caso a parte, dal suono simile' },
+    ],
+    canRide: [
+      'Uno scoppio isolato rilasciando il gas non è un motivo per fermarsi: puoi arrivare a casa o in officina. Anche con scoppi regolari si può guidare, ma programma la diagnosi per i prossimi giorni e non per le prossime settimane: ogni scoppio è una porzione di carburante incombusto che finisce di bruciare nel catalizzatore, e il conto di una riparazione rimandata cresce da candele economiche al prezzo di un catalizzatore.',
+      'Caso particolare: la spia motore lampeggiante. Così il sistema avverte di mancate accensioni in corso, pericolose per il catalizzatore proprio adesso. Con la spia che lampeggia, guida solo con calma e per poco, senza carico, e vai in officina senza rinvii. Se in abitacolo si sente odore di scarico, fino alla riparazione viaggia con un finestrino socchiuso e non scaldare l’auto in un garage chiuso: il monossido di carbonio è pericoloso.',
+    ],
+    checks: [
+      'Notare quando scoppietta: sotto carico in accelerazione, rilasciando il gas o al minimo — questo dettaglio accorcia subito la ricerca del meccanico.',
+      'Guardare la spia motore: accesa fissa significa diagnosi nei prossimi giorni; lampeggiante significa che le mancate accensioni sono in corso adesso e la visita non si rimanda.',
+      'Valutare il funzionamento del motore: andatura irregolare, tremolio al minimo e potenza calata insieme agli scoppi indicano candele, bobine o miscela.',
+      'Ascoltare lo scarico: un rombo che cresce premendo l’acceleratore con potenza normale è segno di un foro nel silenziatore o nel tubo, e non di problemi di accensione.',
+      'Su un’auto a GPL, confrontare il funzionamento a gas e a benzina: scoppi solo a gas sono una domanda per chi ha tarato l’impianto.',
+    ],
+    appHelp:
+      'L’app Stuk chiarisce le circostanze — scoppi o rombo, a gas o a benzina, con o senza perdita di potenza — e aiuta a separare problemi di accensione, un foro nello scarico e una frizione che slitta, che all’orecchio si somigliano. Nel rapporto trovi cause probabili con percentuali e una raccomandazione chiara sull’urgenza dell’officina.',
+    faq: [
+      {
+        q: 'Perché scoppietta nello scarico se il problema è nel motore?',
+        a: 'Quando la candela o la bobina non accende la miscela nel cilindro, la benzina incombusta viene spinta nell’impianto di scarico. Lì incontra componenti roventi e finisce di bruciare con una fiammata — ed è questo suono che si sente come scoppio dallo scarico. La fonte però sta sotto il cofano, non nel silenziatore.',
+      },
+      {
+        q: 'Perché gli scoppi sono pericolosi per il catalizzatore?',
+        a: 'Il catalizzatore è progettato per bruciare i residui dei gas di scarico, non porzioni di carburante crudo. La benzina che vi finisce di bruciare porta la temperatura oltre il previsto, e il nido d’ape ceramico fonde o si sbriciola. Il risultato: perdita di potenza, sferragliare da sotto il pianale e sostituzione del catalizzatore, uno dei lavori più costosi dello scarico.',
+      },
+      {
+        q: 'La mia auto a GPL scoppietta a gas. È pericoloso?',
+        a: 'Sì, e per l’impianto a gas gli scoppi sono più pericolosi che per il motore a benzina: un ritorno di fiamma nell’aspirazione può danneggiarne le parti in plastica e i sensori. La causa abituale è una taratura sballata o candele usurate. La cosa sensata è passare a benzina e fissare un appuntamento con uno specialista GPL.',
+      },
+    ],
+  },
 };
