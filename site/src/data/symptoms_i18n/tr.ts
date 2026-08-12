@@ -536,4 +536,273 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-pri-povorote': {
+    h1: 'Virajda uğultu',
+    metaTitle: 'Virajda uğultu: poyra rulmanı mı hidrolik direksiyon mu | Stuk',
+    description:
+      'Virajdaki uğultu nereden gelir: aşınmış poyra rulmanı, uğuldayan hidrolik direksiyon pompası ya da lastik gürültüsü. Tarafı nasıl belirlersiniz ve tehlikeli mi.',
+    intro: [
+      'Virajdaki uğultuda iki senaryoyu hemen ayırmak gerekir: hızda duyulan, bir virajda artıp diğerinde azalan uğultu ve direksiyonu yerinde ya da park ederken çevirirken çıkan inleme. Benzer duyulurlar, ama kaynaklar tümüyle farklıdır: birincisinde tekerlek, ikincisinde direksiyon takviyesi.',
+      'Dönüş yönüne bağlı olarak değişen, hızla gelen uğultu poyra rulmanının klasik imzasıdır — tekerleğin üzerinde döndüğü rulman. Virajda aracın ağırlığı dış tekerleklere geçer ve yük binen aşınmış rulman daha gür uğuldar. Düşük hızda direksiyon çevirirken duyulan inleme genelde hidrolik direksiyon pompasından gelir — kural olarak hidrolik yağı seviyesi düştüğü için. Elektrikli direksiyonlu araçlarda ise direksiyonu çevirirken hafif bir vınlama arıza değil, normaldir.',
+    ],
+    causes: [
+      { name: 'Poyra rulmanı', likelihood: 'En sık — uğultu hızla geliyor ve virajlarda değişiyorsa' },
+      { name: 'Hidrolik direksiyon pompası veya düşük yağ seviyesi', likelihood: 'Sık — direksiyonu yerinde çevirirken inliyorsa' },
+      { name: 'Lastik gürültüsü', likelihood: 'Sık; uğultu viraja değil, yol zeminine bağlıdır' },
+      { name: 'Elektrikli direksiyonun normal vınlaması', likelihood: 'Hidrolik yağ deposu olmayan araçlarda normal' },
+      { name: 'Aşınmış aks mafsalı', likelihood: 'Daha seyrek; genelde tam kilitte tıkırtı da ekler' },
+    ],
+    canRide: [
+      'Uğuldayan poyra rulmanıyla gidilebilir, ama bu kısa vadeli bir kredidir: kontrolü bir haftadan fazla ertelemeyin, uzun ve hızlı yolculukları arıza tespitinden sonraya bırakın. Dağılmakta olan rulman tekerlekte boşluk yapar, ihmal edilirse sıkışabilir. Uğultu birden arttıysa ya da yanına titreşim eklendiyse hemen servise.',
+      'İnleyen hidrolik direksiyon pompasında ilk iş depodaki yağ seviyesini kontrol etmektir: tamamlamak çoğu zaman konuyu kapatır. Gidilebilir, ama direksiyonu birkaç saniyeden uzun süre sonuna kadar kilitli tutmayın — bu konumda pompa azami basınçla çalışır. Tamamladıktan sonra inleme sürüyorsa ya da seviye yine düşüyorsa kaçak var demektir — bir hafta içinde servise.',
+    ],
+    checks: [
+      'Uğultunun hangi dönüş yönünde daha gür olduğunu aklınızda tutun. Sola dönerken daha gürse yük sağ tarafa biniyor, yani sağ rulman daha olası; tersi de geçerli. Bu ayrıntı serviste aramayı belirgin biçimde kısaltır.',
+      'Sesi yerinde kontrol edin: inleme otoparkta direksiyon çevirirken çıkıyorsa tekerleklerin bununla ilgisi yok — kaynak direksiyon takviyesidir.',
+      'Kaputun altına bakın: hidrolik yağ deposu var mı. Varsa seviyeyi kontrol edin, gerekirse işarete kadar tamamlayın; yoksa direksiyon elektriklidir ve sessiz düzgün vınlama onun için normaldir.',
+      'Yol zeminine bağlılığı değerlendirin: yeni asfaltta daha sessiz, pürüzlü zeminde daha gür uğultu genelde lastiklerden gelir, rulmandan değil.',
+      'Sırtı inceleyin: «testere» aşınması (blok kenarlarındaki basamaklar) ya da lekeli aşınma lastik uğultusunu artırır ve aynı zamanda bozuk rot balansa veya yorulmuş amortisörlere işaret eder.',
+    ],
+    appHelp:
+      'Stuk uygulaması, ustanın araç kabulünde sorduğu soruların aynısını sorar: uğultu nerede duyuluyor, virajlarda değişiyor mu, direksiyonu yerinde çevirmekle ilgili mi. Kayıt sesi tipik örneklerle karşılaştırmayı sağlar, raporda ise olası nedenler ve anlaşılır bir öneri olur: rahat gidin, bu hafta randevu alın ya da geciktirmeden kontrol ettirin.',
+    faq: [
+      {
+        q: 'Uğultu neden yalnızca bir dönüş yönünde artıyor?',
+        a: 'Virajda aracın ağırlığı dış tekerleklere geçer. Örneğin sağ poyra rulmanı aşınmışsa yük altında daha gür uğuldar — yani sola dönerken. Bu özellik, servise gitmeden önce hangi tarafı ilk kontrol ettireceğinizi anlamanızı sağlar.',
+      },
+      {
+        q: 'Hidrolik direksiyona her yağ konabilir mi?',
+        a: 'Hayır. Yağ tipi aracın kullanma kılavuzunda, çoğu zaman doğrudan depo kapağında yazar. Uygun yağla bir kerelik tamamlama güvenlidir, ama seviye düzenli olarak düşüyorsa bir yerde kaçak vardır — onu bulup gidermek serviste yapılır, tamamlamayla çözülmez.',
+      },
+      {
+        q: 'Kaputun altında hidrolik deposu yok, ama dönerken uğulduyor — bu nedir?',
+        a: 'Büyük olasılıkla direksiyon elektriklidir: motoru direksiyon çevrilirken hafifçe vınlar ve bu normal çalışmadır. Şüphelendirmesi gerekenler başkadır: direksiyon ağırlaştıysa ya da sıçrayarak ağırlaşıyorsa, hışırtı çıkıyorsa, göstergede direksiyon lambası yanıyorsa. Bunlarla önümüzdeki günlerde servise.',
+      },
+    ],
+  },
+
+  'shchelchki-pri-povorote-rulya': {
+    h1: 'Direksiyon çevirirken tıkırtı',
+    metaTitle: 'Direksiyonda tıkırtı: aks mafsalı mı kule rulmanı mı | Stuk',
+    description:
+      'Direksiyon çevirirken neden tıkırdar: dış aks mafsalı, amortisör kule rulmanı ya da direksiyon mili kardanı. Sese göre nasıl ayırt edilir ve sökmeden ne kontrol edilir.',
+    intro: [
+      'Direksiyon çevirirken duyulan tıkırtıları basit bir soru ayırır: araç o anda gidiyor mu, duruyor mu? Direksiyon kilitliyken hareket hâlinde gelen çıtırtı ve tıkırtı, dış aks mafsalının imzasıdır — dönüşü aynı zamanda dönen tekerleğe ileten mafsal. Direksiyon ne kadar kilitli ve kalkış ne kadar sertse çıtırtı o kadar belirgindir. Her şey genelde yırtılmış körükle başlar: mafsalı kirden koruyan kauçuk körük.',
+      'Tıkırtılar duran araçta direksiyon çevirirken duyuluyorsa aks mafsalının genelde suçu yoktur. Tekerlek davlumbazının üstünden gelen hışırtıyı amortisör kule rulmanı verir — amortisörün üst kısmının tekerlekle birlikte döndüğü parça. Direksiyonun kendisinde, sürücünün ayakları hizasında duyulan tıkırtılar ise direksiyon mili kardanıdır: direksiyon ile kutu arasındaki küçük mafsal. Bunların hiçbiri aracı olduğu yerde bırakmayı gerektirmez, ama aylarca da uzatılmaz.',
+    ],
+    causes: [
+      { name: 'Dış aks mafsalı', likelihood: 'En sık — direksiyon kilitliyken hareket hâlinde çıtırdıyorsa' },
+      { name: 'Amortisör kule rulmanı', likelihood: 'Sık — yerinde, davlumbazın üstünden hışırdıyorsa' },
+      { name: 'Direksiyon mili kardanı', likelihood: 'Tıkırtı direksiyonun kendisinde duyulup hissediliyorsa' },
+      { name: 'Rot başları veya direksiyon kutusu', likelihood: 'Daha seyrek; genelde tıkırtı değil, takırtı verirler' },
+      { name: 'İç aks mafsalı, viraj demiri rotilleri', likelihood: 'Daha seyrek; aynı kontrolde bakılır' },
+    ],
+    canRide: [
+      'Çıtırdayan aks mafsalıyla gidilebilir, ama değişimi bir–iki haftadan fazla uzatmayın: aşınmış mafsal en kötü durumda sıkışır ve bu artık ses değil, yolda kalmış araç demektir. Onarıma kadar idareli kullanmak yardımcı olur — tekerlekler sonuna kadar kilitliyken sert kalkış yapmayın.',
+      'Kule rulmanı ve direksiyon kardanı ani tehlikeden çok rahatsızlık verir, ama direksiyon bir güvenlik grubudur; bu yüzden arıza tespitini önümüzdeki günlerde yaptırın: lifte birkaç dakika sürer. Aceleyi gerektiren işaretler: direksiyon orta konumda «boşaldıysa», araç şeritte geziniyorsa ya da tıkırtılar belirgin biçimde sıklaştıysa.',
+    ],
+    checks: [
+      'Senaryoları boş bir otoparkta ayırın: çıtırtı direksiyon kilitliyken daire çizerken mi çıkıyor — yoksa tıkırtılar duran araçta direksiyon çevirirken mi duyuluyor?',
+      'Aks körüklerini inceleyin — her ön tekerleğin iç tarafındaki kauçuk körükler. Yırtık ve etrafa saçılmış gres neredeyse doğrulanmış bir teşhistir.',
+      'Motor kapalıyken birinden direksiyonu çevirmesini isteyin ve avucunuzu kaputun altındaki amortisör kulesine koyun: aşınmış rulmanın tıkırtısı elle hissedilir.',
+      'Motor kapalıyken direksiyonu sağa sola oynatın ve ayaklar hizasında dinleyin: mildeki net tıkırtı kardanı ele verir.',
+      'Hareket hâlinde çıtırtının hangi tekerlek tarafından geldiğini ve hangi virajda daha gür olduğunu aklınızda tutun — bu ayrıntılar serviste aramayı belirgin biçimde kısaltır.',
+    ],
+    appHelp:
+      'Stuk uygulamasında bu yol ayrımları kısa bir soru ağacında toplanmıştır: araç gidiyor mu duruyor mu, ses nereden geliyor, körüklerin durumu nasıl. Çıtırtıyı telefonla kaydedip örneklerle karşılaştırabilirsiniz. Raporda değerlendirmesiyle olası nedenler ve süre önerisi olur: paniğe gerek yok, ama bir ay unutulmuş tıkırtı da olmasın.',
+    faq: [
+      {
+        q: 'Aks mafsalı nedir ve neden tıkırdar?',
+        a: 'Aks mafsalı, dönüşü aynı zamanda dönen tekerleğe ileten sabit hızlı mafsaldır. Yırtılmış körükten içeri kir girdiğinde bilyeler ve yatak yolları aşınır ve direksiyon kilitliyken yük altında belirgin biçimde çıtırdamaya başlar.',
+      },
+      {
+        q: 'Tıkırdayan aks mafsalıyla ne kadar gidilebilir?',
+        a: 'Kesin bir ömür yok: kiminde mafsal aylarca dayanır, kiminde birkaç haftada biter. Makul ölçüt — değişimi bir–iki haftadan fazla ertelememek ve onarıma kadar tekerlekler kilitliyken sert kalkmamak: böylece mafsala binen yük en azdır.',
+      },
+      {
+        q: 'Duran araçta direksiyon çevirirken neden hışırdıyor?',
+        a: 'Araç dururken tekerlek dönmez ve aks mafsalı çalışmaz. Yerinde hışırtıyı genelde amortisör kule rulmanı verir — ses yukarıdan, davlumbazın içinden gelir — ya da tıkırtı direksiyonun kendisindeyse direksiyon mili kardanı. İki parça da serviste birkaç dakikada kontrol edilir.',
+      },
+    ],
+  },
+
+  'stuk-v-dvigatele-na-holodnuyu': {
+    h1: 'Soğukta motor vuruntusu',
+    metaTitle: 'Motor soğukken vuruyor: nedenleri ve ne yapmalı | Stuk',
+    description:
+      'Motor neden soğukken vurur ve ısınınca susar: hidrolik kaldıraçlar, piston grubu, triger zinciri. Ne zaman normal, ne zaman servis vakti.',
+    intro: [
+      'Yalnızca soğuk çalıştırmadan sonraki ilk dakikalarda duyulan ve motor ısındıkça kaybolan vuruntu, kilometresi olan araçlarda en sık şikâyetlerden biridir. İyi haber: burada en yaygın neden aynı zamanda en zararsız olanıdır. Motorun üstünden gelen sık tıkırtıyı genelde hidrolik kaldıraçlar çıkarır — yağ basıncıyla supap mekanizmasındaki fazla boşluğu alan küçük parçalar. Motor soğukken yağ koyudur ve onlara hemen ulaşmaz, bu yüzden birkaç dakika tıkırdarlar. Isındı — sustu.',
+      'Sesin karakteri çok şey anlatır. Derinden gelen boğuk vuruntu daha çok piston grubu aşınmasını gösterir: soğuk pistonun silindirde biraz daha fazla boşluğu vardır ve sıcakla genleşene kadar tıkırdar. Önden gelen hışırtı ya da gürültü uzamış triger zincirinin — supapların zamanında açılmasını sağlayan, motorun içindeki zincirin — ya da gevşemiş gergisinin imzasıdır. Kabin içinden çok dışarıda duyulan, üstelik kaputun altında egzoz kokusuyla gelen tıkırtı ise yanmış egzoz manifoldu contasının işaretidir: metal genleşip aralığı kapatana kadar gazlar çatlaktan sızar.',
+    ],
+    causes: [
+      { name: 'Hidrolik kaldıraçlar: koyu soğuk yağ', likelihood: 'En sık — üstten tıkırdıyor ve birkaç dakikada susuyorsa' },
+      { name: 'Piston grubu aşınması', likelihood: 'Yüksek kilometrelerde sık — derinden boğuk vuruntu' },
+      { name: 'Triger zinciri veya gergisi', likelihood: 'Sık — önden hışırtı ya da gürültü geliyorsa' },
+      { name: 'Egzoz manifoldu contası veya çatlağı', likelihood: 'Tıkırtı dışarıda daha gürse ve egzoz kokusu varsa' },
+      { name: 'Kayan aksesuar kayışı', likelihood: 'Vuruntu değil de ıslık ya da ciyaklamaysa' },
+    ],
+    canRide: [
+      'Isındıktan sonra tamamen geçen kaldıraç tıkırtısıyla kısıtlamasız gidilebilir — kilometresi olan bir motorun olağan yaşamıdır. Aynısı, çalıştırmadan sonraki ilk saniyelerde kayış ciyaklaması için de geçerlidir: rahatsız edici ama tehlikeli değil. İki durumda da yağın seviyesini ve yaşını kontrol etmek, aracı planlı bakımda ustaya göstermek yeter.',
+      'Piston grubunun boğuk vuruntusu izlenecek bir konudur: gidilebilir, ama yağ tüketimini takip edin ve ilk ziyarette ustaya sesten söz edin. Triger zincirinin hışırtısıyla oyalanmak olmaz: bir–iki hafta içinde arıza tespiti, çünkü atlayan zincir pahalı bir motor onarımı demektir — servise kadar da soğukken sert kalkış yok. Genel ilke: vuruntu artık ısınmayla geçmiyorsa ya da yük altında duyuluyorsa arıza tespiti daha fazla ertelenemez.',
+    ],
+    checks: [
+      'Sesin kaç dakika sürdüğünü ölçün: bir–iki dakika ve sessizlik kaldıraçlar için tipiktir; vuruntu ne kadar uzun yaşarsa kontrol o kadar gereklidir.',
+      'Soğumuş motorda yağ çubuğuyla seviyeyi kontrol edin ve yağın ne zaman değiştiğini hatırlayın: düşük seviye ve eski yağ tüm soğuk vuruntuları artırır.',
+      'Sesin karakterini belirleyin: üstten sık tıkırtı, derinden boğuk vuruntu ya da motorun önünden hışırtı — bunlar aciliyeti farklı üç ayrı hikâyedir.',
+      'Soğuk motor çalışırken kaputu açın ve koklayın: tıkırtıyla birlikte egzoz kokusu manifoldu gösterir.',
+      'Isınmış motoru on dakika durdurup yeniden çalıştırın: gerçek «soğuk» vuruntu bu kadar kısa bir duraklamadan sonra geri gelmez.',
+    ],
+    appHelp:
+      'Stuk uygulaması aynı yol ayrımlarından geçer — tıkırtı mı, boğuk vuruntu mu, hışırtı mı ve ses ne kadar çabuk geçiyor — telefonla kayıt ise kelimelerle anlatması güç karakteri yakalamaya yardım eder. Raporda yüzdeleriyle olası nedenler ve anlaşılır bir sonuç olur: rahat gidin, bu hafta randevu alın ya da servisi geciktirmeyin.',
+    faq: [
+      {
+        q: 'Vuruntu ısınınca geçiyor — dikkate almayabilir miyim?',
+        a: 'Çoğu zaman evet: soğukta kaldıraç tıkırtısı olağandır ve onarım gerektirmez. Ama izlemek yararlıdır: ses birkaç dakikadan uzun sürmeye başladıysa, ısınmış motorda kaldıysa ya da yük altında ortaya çıktıysa artık arıza tespiti gerekir.',
+      },
+      {
+        q: '«Vuruntu kesici» katkılar işe yarar mı?',
+        a: 'Dökmeyin: aşınmayı gidermezler, belirtiyi maskelerler ve sorun bu yüzden geç fark edilir. Gerçekten işe yarayan başka: uygun viskozitede taze yağ, doğru seviye ve vuruntu kalıyorsa ustada ayar ya da onarım.',
+      },
+      {
+        q: 'Kışın soğukta neden daha çok vuruyor?',
+        a: 'Soğukta yağ daha koyudur ve motorun üst kısmına daha geç ulaşır; bu yüzden kaldıraçlar ve supap mekanizması daha belirgin tıkırdar, soğuk parçaların boşlukları da biraz daha büyüktür. Isındıktan sonra her şey susuyorsa bu, yazın görülenin zamana yayılmış hâlidir.',
+      },
+    ],
+  },
+
+  'svist-pri-zapuske': {
+    h1: 'Çalıştırırken ıslık',
+    metaTitle: 'Motoru çalıştırırken ıslık: nedenleri ve çözümü | Stuk',
+    description:
+      'Motor çalıştırırken neden öter: kayan aksesuar kayışı, rulmanlar ya da devirdaim. Islık ne zaman zararsız, ne zaman randevu almanın vakti.',
+    intro: [
+      'Motor çalıştıktan sonraki ilk saniyelerde duyulan ciyaklama ya da ıslığı neredeyse her zaman aksesuar kayışı çıkarır — motordan alternatörü, devirdaimi ve klima kompresörünü döndüren kauçuk kayış. Soğukta ya da nemli havada kayış kasnaklarda kayar ve öter, birkaç saniye sonra ısınır, kurur ve susar.',
+      'Şu an için bu senaryo tehlikeli değildir, ama normal saymak da doğru olmaz: yeni ve doğru gerdirilmiş kayış soğukta bile ötmez. Her sabah tekrarlanan ıslık, kayışın yaşlandığını, gerginliğin düştüğünü ya da üzerinde koştuğu rulmanlardan birinin aşınmaya başladığını gösterir. Ayrı bir konu, çalıştırmanın kendi sesleridir: marş motoru motoru döndürürken gelen metal sesi ya da uğultu. Bu artık kayış değil, marş motoru ya da volan dişlisidir ve onlarla oyalanmamak gerekir.',
+    ],
+    causes: [
+      { name: 'Soğukta kayan aksesuar kayışı', likelihood: 'En sık — ıslık ilk saniyelerde geçiyorsa' },
+      { name: 'Aşınmış kayış veya düşmüş gerginlik', likelihood: 'Sık — ıslık ısınmış motorda da kalıyorsa' },
+      { name: 'Gergi veya avara rulmanının bilyesi', likelihood: 'Az değil — ıslığa hışırtı ya da uğultu eklenir' },
+      { name: 'Devirdaim — kayışın yanında antifriz izi varsa', likelihood: 'Daha seyrek' },
+      { name: 'Marş dönerken metal sesi: marş dişlisi ya da volan dişlisi', likelihood: 'Ayrı durum — ses, motor çalışmadan önce gelir' },
+    ],
+    canRide: [
+      'Soğuk çalıştırmadan sonra birkaç saniye yaşayıp tamamen kaybolan ıslıkla gidilebilir: doğrudan bir tehdit yok. Yine de kayışı fırsat bulunca serviste göstermek gerekir — muayene birkaç dakika sürer, kayışı rulmanıyla değiştirmek ise ucuz işlerdendir.',
+      'Islık ısınmayla artık geçmiyorsa, klima açılınca çıkıyorsa ya da her çalıştırmada daha uzun ve daha gür duyuluyorsa bir hafta içinde randevu alın: aşınmış kayış kopabilir, o zaman alternatör ve birçok motorda devirdaim durur. Akü lambası yandıysa ya da sıcaklık göstergesi yükseldiyse — durun ve motoru kapatın.',
+    ],
+    checks: [
+      'Islığın süresini ölçün: çalıştırmadan sonraki birkaç saniye soğukta kaymadır; ısınmayla geçmeyen ses kayışın ya da rulmanların aşınmasıdır.',
+      'Hava ile bağlantısını izleyin: yalnızca yağmurdan, yıkamadan sonra ya da soğukta ıslık, belirli bir parçanın arızasını değil kaymayı anlatır.',
+      'Motor çalışırken klimayı ya da cam rezistansını açın: ıslık çıkıyor veya artıyorsa kayış yük altında kayıyordur.',
+      'Motor kapalıyken kayışı el fenerle inceleyin: enine çatlaklar, saçaklanmış kenarlar ve parlak «cilalanmış» yanaklar aşınma işaretidir.',
+      'Kasnakların yanında damla ya da beyazımsı antifriz izi olup olmadığına bakın: devirdaimi gösterirler, o zaman servisi ertelememek gerekir.',
+    ],
+    appHelp:
+      'Stuk uygulaması ustanın araç kabulündeki sorularının aynısını sorar: ıslık ne zaman çıkıyor, ısınınca geçiyor mu, marş çalışırken ne duyuluyor. Kayıt kayışın ciyaklamasını marşın metal sesinden ayırmaya yardım eder, raporda ise yüzdeleriyle olası nedenler ve anlaşılır bir sonuç olur: gidilebilir, bu hafta servise ya da durun.',
+    faq: [
+      {
+        q: 'Motor neden yalnızca soğukta ve rutubette öter?',
+        a: 'Kayışın soğuk ve nemli kauçuğu kasnaklara daha kötü tutunur, bu yüzden çalıştırmadan sonraki ilk saniyelerde kayar ve öter. Isındıkça tutunma geri gelir ve ses kaybolur. Gergisi sağlam yeni bir kayış bu koşullarla da baş eder, dolayısıyla her sabah tekrarlanan ıslık muayene için nedendir.',
+      },
+      {
+        q: 'Islık artık ısınmış motorda da çıkıyor. Ciddi mi?',
+        a: 'Aşınmanın, kayışın olağan koşullarda bile kaydığı aşamaya geldiğinin işaretidir. Şimdilik gidilebilir, ama bir hafta içinde randevu alın: kopan kayış sizi alternatörsüz, birçok araçta devirdaimsiz bırakır ve yolculuk çekiciyle biter.',
+      },
+      {
+        q: 'Çalıştırma sonrası ıslık ile çalıştırma sırasındaki metal sesi nasıl ayrılır?',
+        a: 'Islık ve ciyaklama motor çalıştıktan sonra ortaya çıkar ve suçlusu genelde kayıştır. Metalik ses daha önce — marş motorunun motoru döndürdüğü saniyelerde — duyulur ve marş dişlisinin volan dişlisine kötü geçtiğini anlatır. Farklı parçalar, farklı onarım.',
+      },
+    ],
+  },
+
+  'vibratsiya-na-holostyh': {
+    h1: 'Rölantide titreşim',
+    metaTitle: 'Rölantide titreşim: titremenin nedenleri ve çözümü | Stuk',
+    description:
+      'Araç rölantide neden titrer: motor takozları, ateşleme atlamaları, kaçak hava ya da kirli gaz kelebeği. Ne kontrol edilir ve yola devam edilir mi.',
+    intro: [
+      'Rölantide hafif bir titreme her araçta, özellikle dizellerde vardır. Konu başka: direksiyonda, koltukta ve dikiz aynasında hissedilen, daha önce olmayan titreme. En sık nedeni motor takozlarıdır: motorun gövdeye bağlandığı ve salınımlarını sönümleyen kauçuk takozlar. Yıllar içinde kauçuk sertleşip çatlar ve eskiden takozların yuttuğu titreşim gövdeye geçer.',
+      'İkinci neden grubu, motorun kendisinin düzensiz çalışmasıdır. Ateşleme atlamaları (silindirlerden biri arada ateşlemiyorsa — genelde buji ya da bobin yüzünden), çatlak hortumdan veya emme manifoldu contasından kaçak hava, kirlenmiş gaz kelebeği ya da enjektörler rölantiyi kararsız yapar. Bunları takozlardan ayırmak zor değil: bu durumlarda devir göstergesi titrer ya da gezinir ve çoğu zaman motor arıza lambası yanar; aşınmış takozlarda ise motor düzgün çalışır — titreyen gövdedir.',
+    ],
+    causes: [
+      { name: 'Motor takozları', likelihood: 'En sık — özellikle 8–10 yaşından büyük araçlarda' },
+      { name: 'Ateşleme atlamaları: bujiler, bobinler', likelihood: 'Sık — devir titriyor ve motor lambası yanıyorsa' },
+      { name: 'Hortum veya emme contasından kaçak hava', likelihood: 'Sık — devir geziniyorsa, bazen tıslama duyulur' },
+      { name: 'Kirlenmiş gaz kelebeği veya enjektörler', likelihood: 'Yüz bin kilometreyi aşan araçlarda sık' },
+    ],
+    canRide: [
+      'Senaryoların çoğunda gidilebilir: rölantideki titreşim, aracı emniyet şeridinde bırakacak bir belirti değildir. Aşınmış takozlarda sakin bir randevu için bir–iki hafta vardır; aylarca uzatmayın — dağılmış takozlar kalkışta ve vites değişimlerinde takırtı ekler ve komşu parçaların aşınmasını hızlandırır.',
+      'Ayrı bir durum, motorun açıkça teklemesidir: sarsıntılı titreme, yanıp sönen ya da sabit yanan motor lambası, düşen güç. Bununla da gidilebilir ama dikkatli ve kısa: ateşleme atlamalarındaki yanmamış yakıt egzozda yanar ve katalizörü aşırı ısıtır, değişimi ise pahalıdır. Bu durumda arıza tespiti önümüzdeki günlerde gerekir, fırsat bulununca değil.',
+    ],
+    checks: [
+      'Takoz testi: vitese takın (otomatikte D) ve fren pedalını basılı tutun. Aşınmış takozların titreşimi bu konumda genelde belirgin biçimde artar.',
+      'Devir göstergesine bakın: ibre sabitken araç titriyorsa bu takozlar lehine bir kanıttır; ibre titriyor ya da geziniyorsa motor düzensiz çalışıyordur.',
+      'Klimayı açın ve titremenin değişip değişmediğine bakın: ek yük altında zayıf takozlar ve düzensiz rölanti daha belirgin ortaya çıkar, bu ayrıntı ustaya yarar.',
+      'Hiçbir şeyi sökmeden kaputun altındaki ince kauçuk hortumları inceleyin: çatlaklar ve çıkmış rakorlar sık görülen kaçak hava noktalarıdır.',
+      'Bujilerin ne zaman değiştiğini hatırlayın: bakım aralığını çoktan aşmış kilometre, ateşleme atlamalarında ilk adaydır. Motor lambası yanıyorsa arıza kodlarını okutarak başlayın: kodlar aramayı daraltır.',
+    ],
+    appHelp:
+      'Stuk uygulaması aynı soruları sorar — vites takılıyken titreme artıyor mu, devir sabit duruyor mu, motor lambası yanıyor mu — ve yanıtlara göre olası nedenleri yüzdelere ayırır. Raporda anlaşılır bir sonuç olur: rahat gidin, bu hafta randevu alın ya da aracı önümüzdeki günlerde gösterin.',
+    faq: [
+      {
+        q: 'Neden yalnızca rölantide titriyor da yolda araç düzgün gidiyor?',
+        a: 'Rölantide devir en düşüktür ve motor takozları üzerinde, gövdenin kabine iyi ilettiği bir frekansta salınır. Devir yükseldikçe salınımlar küçülür ve daha az hissedilir. Bu yüzden aşınmış takozlar kendini otoyolda değil, kırmızı ışıkta belli eder.',
+      },
+      {
+        q: 'Ateşleme atlaması nedir?',
+        a: 'Silindirlerden birindeki karışımın arada bir ateşlenmemesidir — çoğunlukla aşınmış buji ya da arızalı bobin yüzünden. Motor o anda gücünün bir kısmını kaybeder ve sarsılır, yanmamış yakıt ise egzozda yanarak katalizörü aşırı ısıtır.',
+      },
+      {
+        q: 'Gaz kelebeğini temizlemek işe yarar mı?',
+        a: 'Neden oradaysa yarar: birikinti rölantide havanın hassas ölçülmesini engeller ve devir düzensizleşir. Ama temizlik evrensel bir ilaç değildir: aşınmış takozlarda ya da ateşleme atlamalarında titreşim sonrasında da aynı kalır.',
+      },
+    ],
+  },
+
+  'hlopki-v-glushitele': {
+    h1: 'Egzozda patlamalar',
+    metaTitle: 'Egzozda patlama sesleri: nedenleri ve çözümü | Stuk',
+    description:
+      'Egzozdan neden patlama sesi gelir: ateşleme atlamaları, delinmiş egzoz, karışım ya da LPG ayarları. Patlamaların katalizöre ne yaptığı ve ne zaman servise gitmek gerektiği.',
+    intro: [
+      'Egzozdan gelen patlamalar ya da «silah sesleri», yakıtın bir kısmının silindirlerde değil, artık egzoz sisteminde yandığını gösterir. Çoğunlukla suçlu ateşleme atlamalarıdır: aşınmış buji ya da arızalı bobin karışımı ateşlemez, yanmamış benzin sıcak egzoza gider ve orada karakteristik bir patlamayla tutuşur.',
+      'İkinci neden grubu egzoz sisteminin kendisidir: delinmiş susturucu, boru ya da conta, patlama seslerine gaz verildikçe artan bir gürlemeyi ekler. Karışım da sensörler ya da enjektörler yüzünden yanlış olabilir; LPG’li araçlarda gazla giderken patlamalar ise ayarların bozulduğunun tipik işaretidir. Tüm senaryoların ortak paydası şudur: yanmamış yakıt katalizörde — zararlı gazları yakan egzoz parçasında — yanmayı tamamlar, onu aşırı ısıtır ve yavaş yavaş bitirir; katalizör değişimi ise pahalıdır.',
+    ],
+    causes: [
+      { name: 'Ateşleme atlamaları: bujiler ya da bobinler', likelihood: 'En sık' },
+      { name: 'Delinmiş susturucu, boru veya egzoz contası', likelihood: 'Sık — patlamalara gürleme eşlik eder' },
+      { name: 'Yanlış karışım: sensörler ya da enjektörler', likelihood: 'Az değil' },
+      { name: 'Bozulmuş LPG ayarları', likelihood: 'Patlamalar yalnızca gazla giderken çıkıyorsa' },
+      { name: 'Güç olmadan hızlanırken gürleme: debriyaj kayıyor', likelihood: 'Sese benzeyen ayrı bir durum' },
+    ],
+    canRide: [
+      'Gazı keserken gelen tek bir patlama durmak için neden değildir: eve ya da servise varabilirsiniz. Düzenli patlamalarla da gidilebilir, ama arıza tespitini haftalara değil, önümüzdeki günlere planlayın: her patlama katalizörde yanmayı tamamlayan bir doz yanmamış yakıttır ve ertelenen onarımın faturası ucuz bujilerden katalizör bedeline kadar büyür.',
+      'Özel durum, yanıp sönen motor arıza lambasıdır: sistem böylece tam şu anda katalizör için tehlikeli olan aktif ateşleme atlamalarını haber verir. Lamba yanıp sönerken yalnızca sakin ve kısa mesafe, yük bindirmeden gidin ve gecikmeden servise. Kabinde egzoz kokusu duyuyorsanız onarıma kadar camı aralık tutarak sürün ve aracı kapalı garajda ısıtmayın: karbon monoksit tehlikelidir.',
+    ],
+    checks: [
+      'Ne zaman patladığını not edin: yük altında hızlanırken, gazı keserken ya da rölantide — bu ayrıntı ustanın aramasını hemen daraltır.',
+      'Motor arıza lambasına bakın: sabit yanıyorsa önümüzdeki günlerde arıza tespiti; yanıp sönüyorsa atlamalar tam şu anda oluyordur ve ziyaret ertelenemez.',
+      'Motorun çalışmasını değerlendirin: tekleme, rölantide titreme ve düşen güç patlamalarla birlikteyse bujileri, bobinleri ya da karışımı gösterir.',
+      'Egzozu dinleyin: güç normalken gaz verildikçe artan gürleme, ateşleme sorunu değil susturucudaki ya da borudaki deliğin işaretidir.',
+      'LPG’li araçta gaz ve benzin çalışmasını karşılaştırın: patlamalar yalnızca gazdaysa bu, sistemi ayarlayan servise sorulacak bir sorudur.',
+    ],
+    appHelp:
+      'Stuk uygulaması koşulları netleştirir — patlama mı gürleme mi, gazla mı benzinle mi, güç kaybı var mı — ve kulakla benzeyen üç şeyi ayırmaya yardım eder: ateşleme sorunları, egzozdaki delik ve kayan debriyaj. Raporda yüzdeleriyle olası nedenler ve servisin ne kadar acil olduğuna dair anlaşılır bir öneri yer alır.',
+    faq: [
+      {
+        q: 'Sorun motordaysa neden egzozda patlıyor?',
+        a: 'Buji ya da bobin silindirdeki karışımı ateşlemediğinde yanmamış benzin egzoz sistemine itilir. Orada kızgın parçalarla karşılaşır ve bir alevle yanmayı tamamlar — bu ses egzozdan gelen patlama olarak duyulur. Kaynak ise susturucuda değil, kaputun altındadır.',
+      },
+      {
+        q: 'Patlamalar katalizör için neden tehlikeli?',
+        a: 'Katalizör, ham yakıt dozlarını değil, egzoz gazlarının kalıntılarını yakmak üzere tasarlanmıştır. İçinde yanmayı tamamlayan benzin sıcaklığı hesaplananın üzerine çıkarır ve seramik petekler erir ya da dağılır. Sonuç: güç kaybı, tabandan zangırtı ve egzozun en pahalı işlerinden biri olan katalizör değişimi.',
+      },
+      {
+        q: 'LPG’li aracım gazla giderken patlıyor. Tehlikeli mi?',
+        a: 'Evet; gaz sistemi için patlamalar benzinli motordan daha tehlikelidir: emme sistemindeki geri tepme plastik parçalarına ve sensörlerine zarar verebilir. Olağan neden bozulmuş ayarlar ya da aşınmış bujilerdir. Mantıklısı benzine geçmek ve LPG uzmanlarından randevu almaktır.',
+      },
+    ],
+  },
 };
