@@ -269,4 +269,271 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'tikanie-dvigatelya': {
+    h1: 'Motorun tıkırtısı',
+    metaTitle: 'Motor tıkırdıyor: normal mi aşınma mı, nedenleri | Stuk',
+    description:
+      'Motor tıkırtısı nereden gelir: supap boşlukları, hidrolik kaldıraçlar, enjektörlerin normal tıkırtısı ya da egzoz manifoldu. Normali aşınmadan nasıl ayırt edersiniz.',
+    intro: [
+      'Düzenli ve sık tıkırtı, motor seslerinin en sıradanıdır ve her zaman arıza anlamına gelmez. Direkt enjeksiyonlu motorlarda (TSI, GDI ve benzerleri) ve dizellerde enjektörler ile yüksek basınç pompası hep tıkırdar — yapıları böyledir. Normal tıkırtının tanınabilir işaretleri vardır: soğukken de sıcakken de aynıdır, dışarıdan kabin içinden daha gür duyulur ve yıllarca değişmez.',
+      'Şüphelendirmesi gereken, zamanla gürleşen ve ısınmış motorda eskisinden daha iyi duyulan tıkırtıdır. Büyümüş supap boşlukları böyle kendini gösterir: supap mekanizmasındaki aralıklar aşınmayla büyür ve supaplar darbeyle çalışmaya başlar. Ayrı durumlar: yalnızca soğuk çalıştırmadan sonraki ilk dakikalarda tıkırtı (genelde hidrolik kaldıraçlar — yağ basıncıyla fazla boşluğu alan parçalar) ve dışarıdan daha gür duyulan, egzoz kokusuyla gelen tıkırtı — yanmış egzoz manifoldu contasının imzası.',
+    ],
+    causes: [
+      { name: 'Enjektörlerin normal tıkırtısı (direkt enjeksiyon, dizel)', likelihood: 'Çok sık — ses her zaman aynıysa' },
+      { name: 'Büyümüş supap boşlukları', likelihood: 'Sık — tıkırtı zamanla gürleştiyse' },
+      { name: 'Soğukta hidrolik supap kaldıraçları', likelihood: 'Sık — yalnızca çalıştırmadan sonraki ilk dakikalarda tıkırdıyorsa' },
+      { name: 'Egzoz manifoldu contası veya çatlağı', likelihood: 'Tıkırtı dışarıda daha gürse ve egzoz kokusu varsa' },
+      { name: 'Triger zinciri veya gergisi', likelihood: 'Daha seyrek — motorun önünden hışırtı ya da tırıltı' },
+    ],
+    canRide: [
+      'Tıkırtıyla neredeyse her zaman yola devam edilebilir: tipik nedenleri arasında emniyet şeridine çekmeyi gerektiren yoktur. Enjektörlerin normal tıkırtısı ve sabahları kaldıraçların tıkırtısı hiçbir onarım gerektirmez — motorun olağan çalışmasıdır.',
+      'Ama büyüyen tıkırtı kendiliğinden geçmez. Boşluğu büyümüş supaplar darbeyle çalışır ve daha hızlı aşınır; bu yüzden ayarı ya da kaldıraç kontrolünü önümüzdeki iki haftaya planlayın — o süre boyunca rahatça gidebilirsiniz. Egzoz manifoldunda mantık benzerdir: bir–iki hafta payınız var, ama açıklık büyür ve egzoz kokusu kalorifer üzerinden kabine çekilebilir — bu artık zararlıdır.',
+    ],
+    checks: [
+      'Soğuk ve ısınmış motoru karşılaştırın: yalnızca çalıştırmadan sonraki ilk dakikalarda tıkırtı kaldıraçların tablosudur; ısınınca daha iyi duyulan ses supap boşluklarına işaret eder.',
+      'Değişimi hafızanızdan değerlendirin: yıllardır aynı kalan tıkırtı daha çok normaldir; altı ay önce belirgin biçimde daha sessizse bu aşınmadır ve büyümeye devam eder.',
+      'Dışarıdan ve kabinden dinleyin: enjektörlerin normal tıkırtısı dışarıda belirgin şekilde daha gürdür; supap tıkırtısı sürücü koltuğundan da iyi duyulur.',
+      'Yağ çubuğuyla seviyeyi kontrol edin: seviye düşükken kaldıraçların ve supap mekanizmasının tıkırtısı artar, seviyeye tamamlamak bazen hemen duyulur.',
+      'Açık kaputun yanında koklayın: sık tıkırtıyla birlikte egzoz kokusu manifold işaretidir — bununla bir–iki hafta içinde servise.',
+    ],
+    appHelp:
+      'Stuk uygulaması en önemlisini netleştirir — tıkırtı zamanla gürleşti mi ve soğukken/sıcakken nasıl davranıyor — kayıt ise onu tipik örneklerle karşılaştırmayı sağlar. Raporda yüzdeleriyle olası nedenler ve ışık biçiminde bir sonuç yer alır: normal, bu hafta randevu ya da gecikmeden arıza tespiti.',
+    faq: [
+      {
+        q: 'Dizeller ve direkt enjeksiyonlu motorlar neden hep tıkırdar?',
+        a: 'Bunlarda yakıt çok yüksek basınçla verilir ve her enjektör açılırken kısa bir tık sesi çıkarır, buna yüksek basınç pompasının tıkırtısı eklenir. Bu normal çalışmadır: ses her havada aynıdır, dışarıda içeriden daha gürdür ve onarım gerektirmez.',
+      },
+      {
+        q: 'Supap boşluğu ayarı nedir?',
+        a: 'Supap mekanizmasının parçaları arasında küçük bir ısıl boşluk bırakılır; aşınmayla büyür ve supaplar tıkırdamaya başlar. Usta boşlukları ayar şimleri ya da vidalarla normale getirir. Hidrolik kaldıraçlı motorlarda ayar yerine kaldıraçların kendisi ve yağ basıncı kontrol edilir.',
+      },
+      {
+        q: 'Yağ değişiminden sonra tıkırtı geçebilir mi?',
+        a: 'Geçebilir; suçlu eski yağ, uygun olmayan viskozite ya da düşük seviyeyse: hidrolik kaldıraçlar yağın durumuna çok duyarlıdır. Ama yağ değişimi aşınmış supap boşluklarını düzeltmez — sonrasında tıkırtı kaldıysa ve büyümeye devam ediyorsa ayar gerekir.',
+      },
+    ],
+  },
+
+  'svist-remnya': {
+    h1: 'Kayış ıslığı',
+    metaTitle: 'Kayış ötüyor: nedenleri, gidilir mi ve ne yapmalı | Stuk',
+    description:
+      'Aksesuar kayışı ötüyor: aşınma, gevşek gerginlik, rulmanlar ya da klima kompresörü kavraması. Nedeni koşullardan nasıl daraltırsınız ve ıslık ne zaman servis ister.',
+    intro: [
+      'Kaputun altından gelen tiz ıslığı neredeyse her zaman aksesuar kayışı çıkarır — krank milinden alternatörü, devirdaimi ve birçok araçta klima kompresörü ile direksiyon pompasını döndüren kayış. Tek bir durumda öter: kasnaklara tutunmak yerine üzerlerinde kaydığında.',
+      'Kaymanın nedenleri iki gruba ayrılır. Birincisi kayışın kendisi: kauçuk yaşlanıp sertleşmiş, gerginlik düşmüş, çalışma yüzeyine yağ ya da antifriz bulaşmıştır. İkincisi döndürdüğü gruplar: sıkışan bir rulman, ağır dönen klima kompresörü kavraması ya da rulmanı aşınmış devirdaim, kayışı aktarabileceğinden fazla zorlar. Islığın tam olarak ne zaman çıktığı, olası nedenleri belirgin biçimde daraltır.',
+    ],
+    causes: [
+      { name: 'Aşınmış veya gevşek gerdirilmiş kayış', likelihood: 'En sık' },
+      { name: 'Soğukta veya rutubette kayma', likelihood: 'Sık — ıslık ısındıktan sonra geçiyorsa' },
+      { name: 'Gergi rulmanı veya avara rulmanı', likelihood: 'Az değil — ıslığa uğultu ya da hışırtı eşlik eder' },
+      { name: 'Klima kompresörü kavraması', likelihood: 'Ciyaklama klimanın devreye girmesiyle çakışıyorsa' },
+      { name: 'Devirdaim veya alternatör tek yön kasnağı', likelihood: 'Daha seyrek' },
+    ],
+    canRide: [
+      'Islık kısa ve yalnızca soğuk çalıştırmadan sonraki ilk saniyelerde yaşıyorsa rahatça gidin: bu, kayışı fırsat bulunca göstermek için bir nedendir, günün planını değiştirmek için değil.',
+      'Sürekli ıslıkla ya da yük altındaki ıslıkla şimdilik gidilebilir, ama bir hafta içinde servise randevu alın: kayan kayış aşırı ısınır ve çığ gibi aşınır; kopması alternatörü, birçok motorda da devirdaimi durdurur. İki işaret hemen kenara çekip motoru durdurmayı gerektirir: yanan akü lambası ve yükselen sıcaklık göstergesi — ikisi de kayışın artık kendi ünitelerini döndürmediği anlamına gelir.',
+    ],
+    checks: [
+      'Tam olarak ne zaman öttüğünü aklınızda tutun: çalıştırmadan sonraki ilk saniyeler, klimanın devreye girdiği an, direksiyonu çevirirken ya da sürekli — asıl anahtar budur.',
+      'Motor çalışırken klimayı açın: tam devreye girme anındaki ciyaklama, kayan kompresör kavrasını gösterir.',
+      'Motor kapalıyken kayışı inceleyin: enine çatlaklar, saçaklanmış kenarlar ve parlak «cilalanmış» yanaklar aşınma işaretidir.',
+      'Kayışta ve kasnakların çevresinde yağ ya da antifriz izi olup olmadığına bakın: yağlanmış kayış yeniyken bile öter, antifriz izleri ise devirdaimi gösterir.',
+      'Islığın yanında motor deviriyle değişen düzgün bir uğultu ya da hışırtı olup olmadığını dinleyin — rulmanlardan birinin sesi böyledir.',
+    ],
+    appHelp:
+      'Stuk uygulaması sesin karakterini ve koşulları netleştirir — ıslık mı uğultu mu, soğukta mı yük altında mı, klimayla bağlantılı mı — ve kayıt sayesinde kayışın ciyaklamasını rulmanın hışırtısından ayırmaya yardım eder. Raporda yüzdeleriyle olası nedenler ve bir ışık vardır: yola devam edilebilir, bu hafta servise ya da durun.',
+    faq: [
+      {
+        q: 'Kayış yolda koparsa ne olur?',
+        a: 'Şarj anında kesilir: alternatör durur ve araç akünün kalanıyla gider — genelde birkaç on dakika. Kayışın devirdaimi de döndürdüğü motorlarda sıcaklık hızla yükselir ve yola devam etmek mümkün olmaz. Bu yüzden öten kayışı kopma sonrası değil, randevuyla değiştirmek daha doğrudur.',
+      },
+      {
+        q: 'Islık neden klima açılınca çıkıyor?',
+        a: 'Klima kompresörü kayıştaki en ağır tüketicidir. Devreye girdiği anda kavraması yükü aniden artırır ve aşınmış ya da gevşek kayış kaymaya başlar. Ciyaklayan tam olarak devreye girme anıysa kavramanın kendisini de kontrol ettirin: aşınması aynı sesi verir.',
+      },
+      {
+        q: 'Ötmesin diye kayışa sprey sıkılabilir mi?',
+        a: 'Sıkmayın. Spreyler ve WD-40 gibi ev usulü çözümler bir–iki gün sessizlik verir, ama emdiği maddeyle kauçuk daha çok kayar ve daha hızlı yaşlanır; neden — aşınma ya da gevşek gerginlik — yerinde kalır. Kayışı rulmanıyla birlikte değiştirmek daha güvenlidir: serviste ucuz işlerden biridir.',
+      },
+    ],
+  },
+
+  'gremit-pod-mashinoy': {
+    h1: 'Aracın altından zangırtı',
+    metaTitle: 'Aracın altından zangırtı: ne titriyor, tehlikeli mi | Stuk',
+    description:
+      'Aracın altından gelen zangırtı ve titreşim: egzoz askıları, ısı kalkanı, karter koruması ya da katalizör. Sesin kaynağını nasıl bulursunuz ve ne zaman iş ciddiye biner.',
+    intro: [
+      'Aracın altından gelen zangırtı endişe verici duyulur, ama kaynak çoğu zaman ne motordur ne süspansiyon: cıvatalı saclardır — egzoz takozları, karter korumasının gevşemiş cıvataları ya da ısı kalkanı, yani tabanı egzoz borusunun sıcağından koruyan ince sac. Bunların hepsi gür zangırdar, gövdede yankılanır ve bu yüzden olduğundan daha ciddi görünür: bu sesler aracın yol tutuşunu ve çalışmasını etkilemez.',
+      'Yanıltıcı durumlar da var: «aracın altında» zangırdayan şey çoğu zaman bagajdır — kriko, bijon anahtarı, kötü sabitlenmiş stepne — ya da yeri güç belirlenen kabin plastikleri. Gerçekten endişe verici tek senaryo şu: motora daha yakın, çınlayan bir zangırtı ile birlikte güç kaybı veya değişmiş egzoz kokusu. Dağılmış katalizör böyle ses verir — egzoz gazlarının seramik filtresi, kırılan parçaları kendi gövdesinin içinde zangırdar — ve bu ihtimalle oyalanmamak gerekir.',
+    ],
+    causes: [
+      { name: 'Egzoz askıları veya karter koruması', likelihood: 'En sık — tümseklerde metalik zangırtı' },
+      { name: 'Egzoz sisteminin ısı kalkanı', likelihood: 'Sık — belirli devirlerde çınlayan zangırtı' },
+      { name: 'Kriko, stepne veya bagajdaki yük', likelihood: 'Sık — arkadan boğuk gürültü, «bir şey yuvarlanıyor»' },
+      { name: 'Kabin plastikleri: paneller ve gıcırtılar', likelihood: 'Sık — ses sanıldığından daha yakın' },
+      { name: 'Dağılmış katalizör', likelihood: 'Daha seyrek — zangırtıyla birlikte güç düştüyse' },
+    ],
+    canRide: [
+      'Çoğu durumda evet, üstelik özel bir kısıtlama olmadan: zangırdayan ısı kalkanı, gevşemiş egzoz askıları ya da karter koruması cıvataları konfor meselesidir, güvenlik değil. Onarım genelde dakikalar sürer: sıkmak ya da kelepçeyle tutturmak. Emin olunması gereken tek şey egzozun sarkmadığıdır: asfalta değmek üzere olan bir boru artık görmezden gelinemez, askısı hemen onarılır.',
+      'Zangırtıya güç kaybı, değişmiş egzoz kokusu ya da motor arıza lambası eşlik ediyorsa önümüzdeki günlerde arıza tespitine gidin: dağılmış katalizörün seramik parçaları motora çekilebilir ve bu artık pahalı bir onarımdır. Kontrole kadar motoru yüksek devirlerde çevirmeyin.',
+    ],
+    checks: [
+      'Bagajı boşaltın, stepne ve krikonun sabitliğini kontrol edin, rafı bastırın — ve aynı yol bölümünü yeniden geçin. Ses kaybolduysa konu kapanmıştır.',
+      'Duran araçta devri yumuşakça yükseltin: ısı kalkanının zangırtısı genelde belirli devirlerde çıkar ve hiçbir tümsek olmadan olduğunuz yerde duyulur.',
+      'Yolcudan giderken şüpheli kabin panellerine eliyle bastırmasını isteyin: ses kesiliyorsa bunlar kabin «gıcırtıları»dır, taban değil.',
+      'Güce ve egzoz kokusuna dikkat edin: araç daha kötü hızlanıyorsa ya da koku değiştiyse bu katalizör ihtimalidir — onunla önümüzdeki günlerde ustaya.',
+      'Altına girmeden aracın altına bakın: sarkmış egzoz, karter korumasının sallanan kenarı ya da bükülmüş kalkan çoğu zaman tekerleğin yanından bile görünür.',
+    ],
+    appHelp:
+      'Stuk uygulaması zangırtıyı kaynağına bağlamaya yardım eder: ses nereden geliyor, motor devrine mi tümseklere mi bağlı, güce ne oluyor. Yanıtlardan ve kayıttan yüzdeleriyle olası nedenleri ve aciliyet ışığını gösterir — zararsız bir sacı katalizörden daha servise gitmeden ayırmak için elverişlidir.',
+    faq: [
+      {
+        q: 'Aracın altında bir şey zangırdıyorsa gitmek tehlikeli mi?',
+        a: 'Çoğu zaman değil: gevşemiş egzoz askıları, karter koruması ve ısı kalkanı aracın çalışmasını etkilemez. İstisnalar, asfalta değmek üzere sarkmış egzoz ve güç kaybıyla birlikte gelen zangırtıdır: ikincisinde dağılmış katalizör olabilir ve kontrolü ertelememek gerekir.',
+      },
+      {
+        q: 'Isı kalkanı nedir, öylece sökülebilir mi?',
+        a: 'Egzoz sisteminin sıcak parçaları ile taban arasındaki ince metal levhadır: gövdeyi, tesisatı ve borunun üstündeki her şeyi sıcaktan korur. Sökmek doğru değildir — doğrusu sıkmak ya da kelepçeyle tutturmaktır: serviste birkaç dakikalık iştir.',
+      },
+      {
+        q: 'Zangırdayanın katalizör olduğunu nasıl anlarım?',
+        a: 'Motora daha yakın, tabandan gelen ve gaz verince artan çınlayan zangırtı ya da hışırtı, buna ek olarak güç kaybı veya değişmiş egzoz kokusu. Serviste bu ihtimal, soğumuş araçta katalizör gövdesine hafifçe vurularak doğrulanır: dağılmış seramik içeride çakıl gibi hışırdar.',
+      },
+    ],
+  },
+
+  'skrezhet-pri-tormozhenii': {
+    h1: 'Frenlerde metal sesi',
+    metaTitle: 'Frenlerde metal sesi: balatalar bitti, ne yapmalı | Stuk',
+    description:
+      'Frenlerde metal metale sürtme çoğunlukla metale kadar aşınmış balata demektir — bununla yola devam edilmez. Daha seyrek suçlu, disk muhafazasının arkasındaki taştır.',
+    intro: [
+      'Frenlemede metal sesi, herhangi bir gıcırtıdan daha ciddiye alınmalıdır. Çoğu zaman metale kadar aşınmış balatalar böyle ses verir: diske sürtünen balata malzemesi bitmiştir ve diski balatanın çelik tabanı kazımaktadır. Fren mesafesi uzar, disk her duruşta bozulur, mekanizma sıkışabilir.',
+      'Daha az dramatik seçenekler de var. Eğilmiş disk muhafazası ya da muhafaza ile disk arasına sıkışan bir taş çok benzer bir ses verir, ama frenlere zarar vermez. Gece dışarıda kaldıktan veya yağmurdan sonraki ilk frenlemelerdeki kısa kazıma sesi ise yalnızca balataların birkaç dakikada temizlediği pas tabakasıdır. Sorun şu ki bu senaryolar kulakla kolayca karışır; bu yüzden sürekli metal sesi tahmin değil, gözle kontrol ister.',
+    ],
+    causes: [
+      { name: 'Metale kadar aşınmış balatalar', likelihood: 'En sık — her frenlemede metal sesi geliyorsa' },
+      { name: 'Taş ya da eğilmiş muhafaza diske değiyor', likelihood: 'Sık; ses benzer, ama frenlere zarar vermez' },
+      { name: 'Sıkışan kaliper', likelihood: 'Tekerlek ısınıyor ve araç bir yana çekiyorsa' },
+      { name: 'Park veya yağmur sonrası pas tabakası', likelihood: 'Ses ilk frenlemelerde geçiyorsa' },
+    ],
+    canRide: [
+      'Metal metale sürtmeyle olağan yolculuklar kesilmelidir: yalnızca mesafeyi geniş tutarak, erken ve yumuşak fren yaparak servise gitmek kabul edilebilir. Değişimi ertelemek parasal olarak da mantıklı değildir: metal sesiyle geçen her kilometre faturaya, balatanın çelik tabanının kelimenin tam anlamıyla tornaladığı disklerin bedelini ekler.',
+      'Ses park sonrası çıkıp ilk frenlemelerde kaybolduysa kısıtlamasız gidin: bu pastır. Ses daha çok sürtme gibiyse, pedala basmadan da duyuluyorsa ve tekerlek yolculuktan sonra ısınmıyorsa muhafaza ya da taş olasıdır: rahatça varabilirsiniz, ama aracı bir–iki gün içinde gösterin — zararsız senaryoyu bitmiş balatalardan güvenle ancak gözle kontrol ayırır.',
+    ],
+    checks: [
+      'Düzeni izleyin: ses yalnızca frene basınca geliyorsa balatalar olasıdır; giderken sürekli sürtme sesi daha çok muhafaza, taş ya da sıkışan kaliperdir.',
+      'Jant parmaklarının arasından bakın: birçok araçta dış balata sökmeden görünür. Balata malzemesi 3–4 mm’den ince ya da yerinde parlak metal varsa derhal değişmelidir.',
+      'Kısa bir yolculuktan sonra fren diskine dokunmadan elinizi tekerleklere yaklaştırın: bir tekerlek diğerlerinden belirgin biçimde sıcaksa bu sıkışan kalipere benzer — balataları diske bastıran parçaya.',
+      'Aracın davranışına dikkat edin: frenlerken bir yana çekme ya da tekerlekten gelen yanık kokusu, yola devam edilmeyecek işaretlerdir — yalnızca dikkatle servise kadar.',
+      'Diski jantın içinden inceleyin: derin oyuklar ve metalde mavimsi renk, metal sesinin uzun süredir devam ettiğini ve disklerin zarar gördüğünü söyler.',
+    ],
+    appHelp:
+      'Stuk uygulaması aynı sorulardan geçirir — ses sürekli mi, tekerlek ısınıyor mu, ilk frenlemelerden sonra geçiyor mu — kayıt ise metal sesini aşınma göstergesinin ciyaklamasından ayırmaya yardım eder. Raporda olası nedenler ve bir ışık vardır: gidilebilir, bu hafta gösterin ya da yalnızca servise kadar sürün.',
+    faq: [
+      {
+        q: 'Metal sesi ile fren gıcırtısının farkı nedir?',
+        a: 'Gıcırtı tiz bir sestir ve frenler o sırada hâlâ tam çalışır: çoğunlukla önceden uyaran aşınma göstergesidir. Metal sesi ise kaba ve kalın bir metal metale sürtmedir: balata malzemesi bitmiştir ve diski çelik taban sürtmektedir. Gıcırtı bu hafta randevu, metal sesi ise olağan yolculukların sonu demektir.',
+      },
+      {
+        q: 'Metal sesi çıktıysa yalnızca balata değişimi yeter mi?',
+        a: 'Disklerin durumuna bağlı: kısa süre bile «metal üstünde» gitmek onlarda oyuk bırakır. Sığ olanlar bazen tornayla giderilir, derin olanlar disk değişimi gerektirir. Oyuklu diskte yeni balata daha kötü frenler ve hızlı aşınır, bu yüzden karar gözle kontrolden sonra verilir.',
+      },
+      {
+        q: 'Metal sesi bazen çıkıp bazen kayboluyor — bu da tehlikeli mi?',
+        a: 'Kesintili ses çoğu zaman muhafaza ile disk arasındaki taştan gelir ve taş kendiliğinden de düşebilir. Buna güvenmeyin: aynı gelip giden ses, balataların metale doğru aşınmasının erken evresinde de olur. Bir–iki gün içinde gözle kontrol her şeyi yerine oturtur.',
+      },
+    ],
+  },
+
+  'stuk-pri-razgone': {
+    h1: 'Hızlanırken vuruntu',
+    metaTitle: 'Gaz verip keserken vuruntu: nedenleri ve çözümü | Stuk',
+    description:
+      'Gaza basınca ya da gazı kesince neden vuruyor: motor takozları, aks körüğü, aktarma organlarındaki boşluk veya otomatik şanzıman. Zararsız boşluğu motorun içindeki vuruntudan nasıl ayırırsınız.',
+    intro: [
+      'Tam olarak gaza basıldığı ya da gazın kesildiği anda ortaya çıkan vuruntu çoğunlukla motorun kendisinde değil, gücü tekerleklere ileten zincirde doğar. Yıllar içinde bu zincirin parçalarında boşluk birikir: motorun kauçuk takozları çöker ve yük değişiminde motorun sallanmasına izin verir, iç aks mafsalı aşınır (şanzımandan tekerleğe giden akstaki mafsal), şaft istavrozları ve alt beşik bağlantıları gevşer. Güç yön değiştirdiği her seferde boşluk darbeyle kapanır — tek bir vuruntu ya da takırtı buradan gelir.',
+      'Ayrı bir konu otomatik şanzımandır: vites kolunu D ile R arasında geçirirken ya da vites değişimlerinde gelen tokat ve takırtı genelde eski yağı veya aşınmayı anlatır. Bambaşka bir durum ise motorun derinliğinden gelen, devirle sıklaşan ve yük altında yükselen boğuk vuruntudur: krank mili yatakları böyle vurur. Seyrek ama en ciddi seçenektir ve kaçırmamak önemlidir.',
+    ],
+    causes: [
+      { name: 'Motor takozları veya iç aks mafsalı', likelihood: 'En sık — gaza basıp keserken tek vuruntu' },
+      { name: 'Aktarma organlarında boşluk: şaft istavrozları, alt beşik bağlantıları', likelihood: 'Arkadan ve dört çekerde sık — kalkışta tabandan takırtı' },
+      { name: 'Otomatik şanzıman: eski yağ veya aşınma', likelihood: 'Tokat ve takırtı vites değişimleriyle çakışıyorsa' },
+      { name: 'Motorun derinliğinden yatak vuruntusu', likelihood: 'Seyrek — devirle sıklaşır, yük altında daha gür' },
+    ],
+    canRide: [
+      'Tablodaki nedenlerin çoğuyla yola devam edilebilir: takozlardaki, mafsallardaki ya da aktarma organlarındaki boşluk, vuruntu tek ve hafif kaldığı sürece aracı bir anda yolda bırakmaz. Ama arıza tespitini aylarca ertelemeyin: dağılan bir istavroz ya da aşınmış mafsal zamanla kırılır ve bu yolda olur. Servis için makul süre bir–iki hafta; o zamana kadar daha yumuşak kalkın, gaza yumuşak basın ve yumuşak kesin.',
+      'İstisna, motorun derinliğinden gelen ve gaz verince sıklaşıp yük altında yükselen vuruntudur. Onunla olağan yolculuklar kesilmelidir: aşınmış yataklar motorun sıkışmasıyla bitebilir. Önce yağ seviyesini kontrol edin; sonrası çekici — servis çok yakınsa yavaş ve gaz vermeden.',
+    ],
+    checks: [
+      'Anı netleştirin: vuruntu tümseklerde değil, tam olarak gaza basıp keserken geliyorsa bu, süspansiyonu değil güç aktarımını ilgilendirir. Bu ayrıntı ustanın aramasını hemen daraltır.',
+      'Yağ çubuğuyla motor yağ seviyesini kontrol edin. Motor sesine benzeyen her vuruntuda ilk adım budur: seviye düşükken en önce yataklar zarar görür.',
+      'Vites değişimlerinde takırdıyorsa otomatik şanzıman yağının seviyesini ve durumunu kontrol edin: yanık kokulu koyu yağ tokatların sık nedenidir ve bazen değişimi sorunu çözer.',
+      'Sesin nereden geldiğini dinleyin — kaputun altından mı, tabanın ortasından mı, bir tekerlek tarafından mı — ve vites değiştirirken tekrarlanıp tekrarlanmadığına bakın. Bu gözlemleri servis için not edin.',
+      'Yumuşak testi yapın: gaza yumuşak basıp bırakınca vuruntu kayboluyor, sert yapınca dönüyorsa bu klasik boşluktur ve onarıma kadar yumuşak sürüş yeter.',
+    ],
+    appHelp:
+      'Stuk uygulaması aynı netleştirici soruları sorar — tam olarak ne zaman vuruyor, ses devirle ve viteslerle değişiyor mu — ve kayıt sayesinde boşluğun takırtısını derin motor vuruntusundan ayırmaya yardım eder. Raporda yüzdeleriyle olası nedenler ve anlaşılır bir sonuç yer alır: gidilebilir, servisi planlayın ya da durun.',
+    faq: [
+      {
+        q: 'Neden tam olarak gaza basıp keserken vuruyor?',
+        a: 'Yük değiştiği anda güç yön değiştirir ve motor takozlarındaki, mafsallardaki ve aktarma organlarındaki tüm boşluklar darbeyle kapanır. Araç sabit hızla giderken parçalar birbirine dayalıdır ve boşluk kendini belli etmez — bu yüzden vuruntu yalnızca gaz pedalıyla çalışırken duyulur.',
+      },
+      {
+        q: 'Vuran şeyin motorun kendisi olduğunu ve durumun ciddi olduğunu nasıl anlarım?',
+        a: 'Endişe verici işaret, motorun derinliğinden gelen ve devirle sıklaşıp yük altında — örneğin yokuşta — yükselen boğuk vuruntudur. Krank mili yatakları böyle vurur. Bu durumda yolculukları kesin, yağ seviyesini kontrol edin ve aracı servise çekiciyle ulaştırın.',
+      },
+      {
+        q: 'Otomatik şanzıman hızlanırken vuruntuya yol açabilir mi?',
+        a: 'Evet. Vites değişimi anında ya da vites kolunu D ile R arasında geçirirken gelen tokat veya takırtı, eski yağın ya da şanzıman aşınmasının tipik işaretidir. Yağın seviyesi ve durumunu kontrol ederek başlayın; onarıma kadar vites kolunu yalnızca araç tamamen dururken ve frene basılıyken hareket ettirin.',
+      },
+    ],
+  },
+
+  'zvon-pri-razgone': {
+    h1: 'Hızlanırken çınlama',
+    metaTitle: 'Hızlanırken çınlama: detonasyon mu değil mi | Stuk',
+    description:
+      'Hızlanırken duyulan metalik çınlama çoğunlukla yakıttan kaynaklanan detonasyondur. İstasyon değiştirerek nasıl sınarsınız ve ne zaman suçlu motor değil, ısı kalkanı ya da katalizördür.',
+    intro: [
+      'Hızlanırken duyulan metalik çınlama — sürücülerin «vuruntu yapıyor» dediği ses — çoğunlukla detonasyon çıkar. Silindirlerdeki yakıtın bir kısmı düzgün yanmak yerine patlar ve şok dalgası motorun cidarlarında çınlayan bir tıkırtı olarak duyulur. En iyi yük altında duyulur: yokuşta, sollarken, yüksek viteste düşük devirden hızlanırken. En sık neden sıradandır — üreticinin önerdiğinden düşük oktanlı benzin ya da sadece kötü bir depo.',
+      'Çınlayan şey motor olmayabilir. Gevşemiş ısı kalkanı — egzozun üstündeki ince sac — belirli devirlerde zangırdar, dağılmış katalizör seramiği ise tabanın altından hışırdayıp çınlar. Fark bağlantıdadır: detonasyon yüke bağlıdır ve yumuşak sürüşte kaybolur; kalkan ise duran araçta gaz verildiğinde bile «kendi» devirlerinde çınlar.',
+    ],
+    causes: [
+      { name: 'Detonasyon: oktanı düşük yakıt', likelihood: 'En sık — yük altında, özellikle yokuşta çınlama' },
+      { name: 'Yanma odalarındaki karbon birikintisi ya da vuruntu sensörü', likelihood: 'İstasyon değişikliği işe yaramadıysa' },
+      { name: 'Egzoz sisteminin ısı kalkanı', likelihood: 'Sık — belirli devirlerde zangırtı, yükle ilgisiz' },
+      { name: 'Dağılmış katalizör', likelihood: 'Daha seyrek — tabandan çınlama ve hışırtı, güç azalıyor' },
+    ],
+    canRide: [
+      'Seyrek çınlama ataklarıyla varılabilir, ama bu sırada motoru zorlamayın: yumuşak hızlanın, yokuşa düşük viteste girin, yüksek viteste düşük devirden çekmeyin. İlk adım, önerilenden düşük olmayan oktanlı yakıt almak, tercihen başka bir akaryakıt zincirinden: çınlama çoğu zaman bir depoyla birlikte geçer.',
+      'Sürekli detonasyon, her hızlanmada pistonlara inen darbelerdir ve motoru yavaş yavaş yıpratır: pistonlar, segmanlar, silindir kapağı contası zarar görür. Yakıt değişiminden sonra çınlama geçmediyse arıza tespitini geciktirmeyin. Kalkanın zangırtısı ise tamamen akustik bir rahatsızlıktır: onunla kısıtlamasız gidilir ve sac ilk servis ziyaretinde sabitlenir.',
+    ],
+    checks: [
+      'Başka bir istasyondan, önerilenden düşük olmayan oktanlı yakıtla depoyu doldurun. Bir–iki depoda çınlama kaybolduysa neden yakıttı.',
+      'Yükle bağlantısını kontrol edin: yokuşta, sollarken ve sert gazda çıkıp yumuşak hızlanmada azalan çınlama detonasyonun imzasıdır.',
+      'Duran araçta boşta gaz verin: çınlama ya da zangırtı yük olmadan da belirli devirlerde çıkıyorsa ısı kalkanı daha olasıdır.',
+      'Kullanma kılavuzundan ya da yakıt kapağından aracınıza hangi benzinin önerildiğine bakın: birçok motora düşük oktan artık uymaz, biçimsel olarak izinli olsa bile.',
+      'Güce ve tabandan gelen seslere dikkat edin: alttan hışırtı ve çınlama ile birlikte zayıflayan hızlanma, katalizörü geciktirmeden kontrol ettirmek için nedendir.',
+    ],
+    appHelp:
+      'Stuk uygulaması aynı sorularla yol gösterir — ne zaman çınlıyor, ses yüke mi devre mi bağlı — kayıt ise detonasyonun çınlayan tıkırtısını sac kalkanın zangırtısından ayırmayı sağlar. Raporda yüzdeleriyle olası nedenler ve bir sonuç yer alır: gidilebilir, servisi planlamak gerekir ya da durmak daha doğru.',
+    faq: [
+      {
+        q: '«Vuruntu yapıyor» ne demek?',
+        a: 'Detonasyon çınlamasının eski adıdır; bir zamanlar piston pimleriyle ilişkilendirilirdi. Gerçekte çınlayan onlar değildir — sesi, patlamalı yanmanın silindir cidarlarından yansıyan şok dalgası oluşturur. Ad yerleşmiştir, ama neden hep aynıdır: detonasyon, aşınmış piston parçaları değil.',
+      },
+      {
+        q: 'Detonasyonla yola devam edilebilir mi?',
+        a: 'Kısa süre ve idareli: yumuşak hızlanma, yokuşta düşük vites, tam yük ve römork olmadan. Her çınlama atağı pistonlara inen darbedir ve sürekli detonasyon pahalı bir motor onarımıyla biter. Yakıt değişimi çınlamayı bir–iki depoda gidermediyse arıza tespiti gerekir.',
+      },
+      {
+        q: 'Daha yüksek oktanlı benzin işe yarar mı?',
+        a: 'Ana kural üreticinin önerdiğinin altına inmemektir. Oktan sayısı yakıtın kendiliğinden tutuşmaya direncini gösterir; bu yüzden detonasyona yatkın bir motorda bir üst kaliteye geçmek çınlamayı çoğu zaman giderir. Bu da yetmiyorsa neden — karbon birikintisi ya da vuruntu sensörü — serviste aranır.',
+      },
+    ],
+  },
 };
