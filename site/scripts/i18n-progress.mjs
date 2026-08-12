@@ -82,5 +82,19 @@ const doneSym = rows.filter((r) => r.sym === symptomsTotal).length;
 const totalSym = rows.reduce((n, r) => n + r.sym, 0);
 console.log(
   `\n  Разборы: ${doneSym} из ${rows.length} языков целиком, ` +
-    `${totalSym} из ${rows.length * symptomsTotal} страниц переведено.\n`
+    `${totalSym} из ${rows.length * symptomsTotal} страниц переведено.`
+);
+
+// Статьи pSEO: русский оригинал и английская версия под англоязычный поиск.
+const count = (dir) => {
+  try {
+    return readdirSync(new URL(dir, import.meta.url)).filter((f) => f.endsWith('.md')).length;
+  } catch {
+    return 0;
+  }
+};
+const ruArt = count('../src/content/articles/');
+const enArt = count('../src/content/articles_en/');
+console.log(
+  `  Статьи: ${bar(enArt, ruArt)} ${enArt} из ${ruArt} переведено на английский.\n`
 );
