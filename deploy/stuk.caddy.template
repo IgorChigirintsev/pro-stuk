@@ -24,14 +24,12 @@ ${STUK_DOMAIN} {
 		-Server
 	}
 
-	# Своя страница 404 (собирается Astro, язык выбирает сама). Код ответа
-	# сохраняем: без status роботы читают ошибку как обычную страницу.
+	# Своя страница 404: собирает Astro, язык выбирает сама на стороне браузера.
+	# Код ответа Caddy оставляет 404 — проверено curl'ом на живом сайте.
 	handle_errors {
 		@404 expression {http.error.status_code} == 404
 		rewrite @404 /404.html
-		file_server {
-			status {http.error.status_code}
-		}
+		file_server
 	}
 }
 
