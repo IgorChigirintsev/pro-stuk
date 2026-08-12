@@ -32,9 +32,10 @@ const arc = (r: number) =>
   `A ${r} ${r} 0 0 1 ${NOSE.x + r * Math.cos((52 * Math.PI) / 180)} ${NOSE.y + r * Math.sin((52 * Math.PI) / 180)}`;
 ---
 
-<svg viewBox="0 0 400 240" class={cls} aria-hidden="true" focusable="false">
-  <rect width="400" height="240" rx="16" fill={GLASS} />
-
+<!-- Фон и скруглённые углы рисует контейнер: своя подложка внутри svg
+     растягивалась вместе с ним, и её радиус переставал совпадать с рамкой. -->
+<!-- Кадр подрезан под сцену: сверху и снизу иначе остаётся пустая треть. -->
+<svg viewBox="0 52 400 172" class={cls} aria-hidden="true" focusable="false">
   <!-- машина: тот же силуэт, что на карте звука в разборах -->
   <g transform={CAR}>
     <path d={CAR_BODY} fill={SKIN} stroke={INK} stroke-width="3" stroke-linejoin="round" />

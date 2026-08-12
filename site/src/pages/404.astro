@@ -58,14 +58,20 @@ const base = STRINGS.en;
   </head>
   <body class="bg-bg text-ink">
     <main class="mx-auto flex min-h-screen max-w-3xl flex-col justify-center px-5 py-12">
-      <a href={base.homeHref} id="nf-brand-link" class="flex items-center gap-3 no-underline">
-        <span class="block h-9 w-9 rounded-[10px] bg-accent"></span>
-        <span id="nf-brand" class="text-xl font-extrabold">{base.brand}</span>
+      <a
+        href={base.homeHref}
+        id="nf-brand-link"
+        class="flex w-fit items-center gap-2 text-l font-bold text-ink no-underline"
+      >
+        <img src="/icon.png" alt="" width="28" height="28" class="rounded-lg" />
+        <span id="nf-brand">{base.brand}</span>
       </a>
 
-      <!-- В арабской раскладке машина едет навстречу чтению, как и на картинке
-           для соцсетей: иначе телефон оказывается «позади» источника звука. -->
-      <ArtNotFound class="mt-10 w-full rounded-card border border-line rtl:-scale-x-100" />
+      <div class="mt-10 overflow-hidden rounded-card border border-line bg-surface">
+        <!-- В арабской раскладке машина едет навстречу чтению, как и на картинке
+             для соцсетей: иначе телефон оказывается «позади» источника звука. -->
+        <ArtNotFound class="block w-full rtl:-scale-x-100" />
+      </div>
 
       <p class="mt-10 text-l font-bold text-accent">404</p>
       <h1 id="nf-h1" class="mt-1 text-3xl font-extrabold">{base.h1}</h1>
