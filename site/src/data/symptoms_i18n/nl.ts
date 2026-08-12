@@ -269,4 +269,271 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'tikanie-dvigatelya': {
+    h1: 'Tikkende motor',
+    metaTitle: 'Motor tikt: normaal of slijtage, oorzaken | Stuk',
+    description:
+      'Waar het tikken van de motor vandaan komt: klepspeling, hydraulische stoters, normaal klepperen van injectoren of het uitlaatspruitstuk. Hoe u normaal van slijtage onderscheidt.',
+    intro: [
+      'Een gelijkmatig, snel tikken is het gewoonste motorgeluid dat er is, en het betekent lang niet altijd een defect. Bij motoren met directe inspuiting (TSI, GDI en dergelijke) en bij diesels klepperen de injectoren en de hogedrukpomp altijd — zo zijn ze gebouwd. Normaal klepperen heeft herkenbare kenmerken: het is koud en warm hetzelfde, buiten luider dan in het interieur, en het verandert door de jaren heen niet.',
+      'Waakzaam moet u worden bij tikken dat na verloop van tijd luider wordt en op een warme motor beter hoorbaar is dan vroeger. Zo laat te grote klepspeling zich horen: de ruimtes tussen de delen van de klepaandrijving groeien door slijtage en de kleppen gaan met een slag werken. Aparte gevallen zijn tikken alleen in de eerste minuten na een koude start (meestal de hydraulische stoters, die met oliedruk de overtollige speling wegnemen) en klepperen met uitlaatgeur dat buiten luider is — de handtekening van een doorgebrande spruitstukpakking.',
+    ],
+    causes: [
+      { name: 'Normaal klepperen van injectoren (directe inspuiting, diesel)', likelihood: 'Heel vaak — als het geluid altijd hetzelfde is' },
+      { name: 'Te grote klepspeling', likelihood: 'Vaak — als het tikken met de tijd luider is geworden' },
+      { name: 'Hydraulische stoters bij koude motor', likelihood: 'Vaak — als het alleen de eerste minuten na de start tikt' },
+      { name: 'Pakking of scheur in het uitlaatspruitstuk', likelihood: 'Als het klepperen buiten luider is en het naar uitlaatgas ruikt' },
+      { name: 'Distributieketting of de spanner ervan', likelihood: 'Zeldzamer — geritsel of geratel aan de voorkant van de motor' },
+    ],
+    canRide: [
+      'Met tikken kunt u vrijwel altijd rijden: onder de typische oorzaken zit er geen die vraagt om stoppen op de vluchtstrook. Normaal injectorklepperen en het ochtendtikken van de stoters hebben helemaal geen reparatie nodig — zo werkt de motor.',
+      'Maar groeiend tikken gaat niet vanzelf over. Kleppen met te grote speling werken met een slag en slijten sneller, dus plan het afstellen of het controleren van de stoters in de komende twee weken — in die tijd kunt u rustig rijden. Bij het uitlaatspruitstuk is de logica vergelijkbaar: u hebt één tot twee weken speling, maar de spleet groeit en de uitlaatgeur kan via de ventilatie het interieur in worden gezogen — en dat is wel schadelijk.',
+    ],
+    checks: [
+      'Vergelijk de koude en de warme motor: tikken alleen in de eerste minuten na de start is het beeld van de stoters; een geluid dat warm beter hoorbaar is pleit voor klepspeling.',
+      'Beoordeel het verloop uit uw geheugen: tikken dat al jaren onveranderd is, is eerder normaal; was het een half jaar geleden duidelijk zachter, dan is het slijtage en die groeit door.',
+      'Luister van buiten en van binnen: normaal injectorklepperen is buiten duidelijk luider; kleptikken hoort u ook goed vanaf de bestuurdersstoel.',
+      'Controleer het oliepeil met de peilstok: bij een laag peil neemt het tikken van stoters en klepaandrijving toe, en bijvullen tot het streepje is soms meteen te horen.',
+      'Ruik bij de open motorkap: uitlaatgeur samen met frequent klepperen wijst op het spruitstuk — daarmee binnen één tot twee weken naar de garage.',
+    ],
+    appHelp:
+      'De app Stuk verheldert het belangrijkste — is het tikken met de tijd luider geworden en hoe gedraagt het zich koud en warm — en met de opname vergelijkt u het met typische voorbeelden. Het rapport geeft waarschijnlijke oorzaken met percentages en een conclusie als stoplicht: normaal, een afspraak deze week of zonder uitstel een diagnose.',
+    faq: [
+      {
+        q: 'Waarom tikken diesels en motoren met directe inspuiting altijd?',
+        a: 'Bij hen wordt de brandstof onder zeer hoge druk ingespoten, en elke injector geeft bij het openen een korte klik, waar het klepperen van de hogedrukpomp bij komt. Dat is normale werking: het geluid is bij elk weer hetzelfde, buiten luider dan binnen, en vraagt geen reparatie.',
+      },
+      {
+        q: 'Wat is het afstellen van de klepspeling?',
+        a: 'Tussen de delen van de klepaandrijving zit een kleine warmtespeling; door slijtage groeit die en gaan de kleppen klepperen. De monteur brengt de spelingen met stelplaatjes of stelschroeven terug op maat. Bij motoren met hydraulische stoters worden in plaats daarvan de stoters zelf en de oliedruk gecontroleerd.',
+      },
+      {
+        q: 'Kan het tikken na een olieverversing verdwijnen?',
+        a: 'Ja, als oude olie, een verkeerde viscositeit of een laag peil de schuldige waren: hydraulische stoters zijn erg gevoelig voor de staat van de olie. Maar een olieverversing herstelt versleten klepspeling niet — blijft het tikken daarna en groeit het door, dan is afstellen nodig.',
+      },
+    ],
+  },
+
+  'svist-remnya': {
+    h1: 'Piepende riem',
+    metaTitle: 'Riem piept: oorzaken, kunt u rijden en wat te doen | Stuk',
+    description:
+      'De multiriem piept: slijtage, te lage spanning, rollen of de koppeling van de aircocompressor. Hoe u de oorzaak inperkt aan de omstandigheden en wanneer het piepen om een garage vraagt.',
+    intro: [
+      'Een doordringend gepiep onder de motorkap komt vrijwel altijd van de multiriem — de riem die vanaf de krukas de dynamo, de waterpomp en bij veel auto’s ook de aircocompressor en de stuurbekrachtigingspomp aandrijft. Hij piept in één geval: als hij over de poelies slipt in plaats van er stevig op te grijpen.',
+      'De oorzaken van het slippen vallen in twee groepen. De eerste is de riem zelf: het rubber is verouderd en hard geworden, de spanning is gezakt, of er is olie of koelvloeistof op het loopvlak gekomen. De tweede zijn de onderdelen die hij aandrijft: een klemmende rol, een zware koppeling van de aircocompressor of een waterpomp met een versleten lager belasten de riem zwaarder dan hij kan overbrengen. Wanneer het piepen precies opkomt, perkt het rijtje oorzaken flink in.',
+    ],
+    causes: [
+      { name: 'Versleten of te slap gespannen riem', likelihood: 'Het vaakst' },
+      { name: 'Slippen bij koude motor of vochtig weer', likelihood: 'Vaak — als het piepen na het warmdraaien weg is' },
+      { name: 'Spanrol of geleiderol', likelihood: 'Niet zelden — bij het piepen komt gebrom of geritsel' },
+      { name: 'Koppeling van de aircocompressor', likelihood: 'Als het gillen samenvalt met het inschakelen van de airco' },
+      { name: 'Waterpomp of vrijlooppoelie van de dynamo', likelihood: 'Zeldzamer' },
+    ],
+    canRide: [
+      'Is het piepen kort en leeft het alleen de eerste seconden na een koude start, rijd dan rustig door: dat is een reden om de riem bij gelegenheid te laten bekijken, niet om uw dagplanning te wijzigen.',
+      'Met aanhoudend piepen of piepen onder belasting kunt u voorlopig ook rijden, maar maak binnen een week een afspraak: een slippende riem raakt oververhit en slijt lawineachtig, en breekt hij, dan staat de dynamo stil en op veel motoren ook de waterpomp. Twee signalen vragen om direct uitwijken en de motor afzetten: het accu-lampje dat gaat branden en een oplopende temperatuurmeter — beide betekenen dat de riem zijn onderdelen niet meer aandrijft.',
+    ],
+    checks: [
+      'Onthoud wanneer het precies piept: de eerste seconden na de start, op het moment dat de airco inschakelt, bij het draaien aan het stuur of continu — dat is de belangrijkste sleutel.',
+      'Schakel met draaiende motor de airco in: gillen precies op het moment van inschakelen wijst op een slippende compressorkoppeling.',
+      'Bekijk met stilstaande motor de riem: dwarsscheurtjes, gerafelde randen en glimmend «gepolijste» flanken zijn tekenen van slijtage.',
+      'Controleer of er op de riem en rond de poelies sporen van olie of koelvloeistof zitten: een vette riem piept ook als hij nieuw is, en sporen van koelvloeistof wijzen op de waterpomp.',
+      'Luister of er naast het piepen een gelijkmatig gebrom of geritsel meeloopt met het motortoerental — zo klinkt het lager van een van de rollen.',
+    ],
+    appHelp:
+      'De app Stuk verheldert het karakter van het geluid en de omstandigheden — piepen of brommen, koud of onder belasting, wel of niet gekoppeld aan de airco — en helpt met de opname het gillen van de riem te onderscheiden van het geritsel van een rol. Het rapport geeft waarschijnlijke oorzaken met percentages en een stoplicht: u kunt rijden, deze week naar de garage of stop.',
+    faq: [
+      {
+        q: 'Wat gebeurt er als de riem onderweg breekt?',
+        a: 'Het laden valt meteen weg: de dynamo staat stil en de auto rijdt op wat er in de accu zit — meestal enkele tientallen minuten. Bij motoren waar de riem ook de waterpomp aandrijft loopt de temperatuur snel op en is doorrijden onmogelijk. Daarom vervangt u een piepende riem beter op afspraak dan na een breuk.',
+      },
+      {
+        q: 'Waarom komt het piepen op als de airco inschakelt?',
+        a: 'De aircocompressor is de zwaarste verbruiker aan de riem. Bij het inschakelen legt zijn koppeling abrupt belasting op, en een versleten of slap gespannen riem gaat slippen. Gilt precies die seconde van inschakelen, controleer dan ook de koppeling zelf: slijtage daarvan geeft hetzelfde geluid.',
+      },
+      {
+        q: 'Kun je iets op de riem spuiten zodat hij niet piept?',
+        a: 'Liever niet. Sprays en huismiddelen zoals WD-40 geven een dag of twee rust, maar doordrenkt rubber slipt en veroudert sneller, terwijl de oorzaak — slijtage of te lage spanning — blijft. Betrouwbaarder is de riem samen met de rol vervangen: dat is een van de goedkopere klussen in de garage.',
+      },
+    ],
+  },
+
+  'gremit-pod-mashinoy': {
+    h1: 'Rammelen onder de auto',
+    metaTitle: 'Rammelen onder de auto: wat rammelt en is het erg | Stuk',
+    description:
+      'Het rammelt en klettert onder de auto: uitlaatophanging, hitteschild, carterbeschermplaat of katalysator. Hoe u de bron van het geluid vindt en wanneer het ernstig wordt.',
+    intro: [
+      'Rammelen van onder de auto klinkt verontrustend, maar de bron is meestal noch de motor, noch het onderstel: het is vastgeschroefd plaatwerk — de rubbers van de uitlaat, losgeraakte bouten van de carterbeschermplaat of het hitteschild, het dunne plaatje dat de bodem tegen de hitte van de uitlaat beschermt. Dat alles rammelt hard en resoneert door de carrosserie, waardoor het ernstiger lijkt dan het is: op het rijden en de werking van de auto hebben zulke geluiden geen invloed.',
+      'Er zijn ook valse sporen: wat «onder de auto» rammelt is vaak de bagageruimte — de krik, de wielsleutel, een slecht vastgezet reservewiel — of interieurplastic, waarvan het geluid lastig te plaatsen is. Slechts één scenario is echt verontrustend: een helder rammelen dichter bij de motor samen met vermogensverlies of een veranderde uitlaatgeur. Zo klinkt een uiteengevallen katalysator — het keramische filter voor uitlaatgassen waarvan de brokstukken in de eigen behuizing rammelen — en met die mogelijkheid moet u niet wachten.',
+    ],
+    causes: [
+      { name: 'Uitlaatophanging of carterbeschermplaat', likelihood: 'Het vaakst — metalig rammelen op oneffenheden' },
+      { name: 'Hitteschild van het uitlaatsysteem', likelihood: 'Vaak — helder rammelen bij bepaalde toerentallen' },
+      { name: 'Krik, reservewiel of lading in de bagageruimte', likelihood: 'Vaak — dof gebonk achter, «er rolt iets»' },
+      { name: 'Interieurplastic: panelen en piepjes', likelihood: 'Vaak — het geluid zit dichterbij dan het lijkt' },
+      { name: 'Uiteengevallen katalysator', likelihood: 'Zeldzamer — als met het rammelen het vermogen wegviel' },
+    ],
+    canRide: [
+      'In de meeste gevallen wel, en zonder bijzondere beperkingen: een rammelend hitteschild, losse uitlaatrubbers of bouten van de beschermplaat zijn een kwestie van comfort, niet van veiligheid. De reparatie duurt meestal minuten: aandraaien of met een beugel vastzetten. Het enige om zeker van te zijn is dat de uitlaat niet doorhangt: een pijp die bijna het asfalt raakt kunt u niet negeren, de ophanging daarvan wordt meteen hersteld.',
+      'Gaat het rammelen samen met vermogensverlies, een veranderde uitlaatgeur of het motorstoringslampje, ga dan binnen enkele dagen naar de diagnose: keramiekbrokjes van een uiteengevallen katalysator kunnen de motor in worden gezogen, en dat is al een dure reparatie. Draai de motor tot de controle niet hoog op.',
+    ],
+    checks: [
+      'Haal alles uit de bagageruimte, controleer de bevestiging van reservewiel en krik, druk de hoedenplank aan — en rijd hetzelfde stuk weg opnieuw. Is het geluid weg, dan is de zaak afgedaan.',
+      'Breng bij stilstaande auto het toerental rustig omhoog: het rammelen van een hitteschild komt meestal bij bepaalde toerentallen en is ter plekke hoorbaar, zonder enige oneffenheid.',
+      'Vraag een passagier om tijdens het rijden verdachte interieurpanelen met de hand aan te drukken: verdwijnt het geluid, dan zijn het piepjes van het interieur en niet de bodem.',
+      'Let op het vermogen en de uitlaatgeur: trekt de auto slechter op of is de geur veranderd, dan is dat de katalysatorvariant — daarmee binnen enkele dagen naar de monteur.',
+      'Kijk onder de auto zonder eronder te kruipen: een doorhangende uitlaat, een loshangende rand van de beschermplaat of een verbogen schild ziet u vaak al vanaf het wiel.',
+    ],
+    appHelp:
+      'De app Stuk helpt het rammelen aan de bron te koppelen: waar komt het geluid vandaan, volgt het het motortoerental of de oneffenheden, wat gebeurt er met het vermogen. Uit de antwoorden en de opname toont hij waarschijnlijke oorzaken met percentages en een urgentiestoplicht — handig om onschuldig plaatwerk nog vóór de garage van de katalysator te onderscheiden.',
+    faq: [
+      {
+        q: 'Is rijden gevaarlijk als er iets onder de auto rammelt?',
+        a: 'Meestal niet: losse uitlaatrubbers, de carterbeschermplaat en het hitteschild hebben geen invloed op de werking van de auto. Uitzonderingen zijn een doorhangende uitlaat die bijna het asfalt raakt, en rammelen samen met vermogensverlies: in het tweede geval kan de katalysator uiteengevallen zijn, en de controle mag niet wachten.',
+      },
+      {
+        q: 'Wat is een hitteschild en kun je het gewoon weghalen?',
+        a: 'Het is een dun metalen plaatje tussen de hete delen van de uitlaat en de bodem: het beschermt carrosserie, bedrading en alles boven de pijp tegen de hitte. Weghalen is geen goed idee — beter is aandraaien of met een beugel vastzetten: in de garage is dat een klus van enkele minuten.',
+      },
+      {
+        q: 'Hoe weet ik dat het juist de katalysator is die rammelt?',
+        a: 'Aan een helder rammelen of ritselen van onder de bodem, dichter bij de motor, dat toeneemt als u gas geeft, plus vermogensverlies of een veranderde uitlaatgeur. In de garage bevestigen ze die theorie door bij koude auto zacht op de katalysatorbehuizing te tikken: verkruimeld keramiek ritselt binnenin als grind.',
+      },
+    ],
+  },
+
+  'skrezhet-pri-tormozhenii': {
+    h1: 'Schurend geluid bij het remmen',
+    metaTitle: 'Schuren bij het remmen: blokken tot op het metaal | Stuk',
+    description:
+      'Schuren bij het remmen betekent meestal remblokken die tot op het metaal versleten zijn — daarmee rijdt u niet. Minder vaak is een steentje achter het stofschild de boosdoener.',
+    intro: [
+      'Schuren bij het remmen verdient meer aandacht dan welk gepiep ook. Meestal klinken zo remblokken die tot op het metaal versleten zijn: het wrijvingsmateriaal dat over de schijf loopt is op, en de stalen drager van het blok schraapt over de schijf. De remweg wordt langer, de schijf raakt bij elke stop verder beschadigd en het mechanisme kan vastlopen.',
+      'Er zijn minder dramatische varianten. Een verbogen stofschild van de schijf of een steentje dat tussen schild en schijf klem zit geeft een heel vergelijkbaar schuren, maar beschadigt de remmen niet. En kort geschraap bij de eerste remstoten na een nacht buiten of na regen is slechts het roestlaagje dat de blokken in een paar minuten wegpoetsen. Het lastige is dat deze scenario’s op het gehoor makkelijk te verwarren zijn, dus aanhoudend schuren vraagt om inspectie, niet om gissen.',
+    ],
+    causes: [
+      { name: 'Blokken tot op het metaal versleten', likelihood: 'Het vaakst — als het bij elke remstoot schuurt' },
+      { name: 'Een steentje of een verbogen stofschild raakt de schijf', likelihood: 'Vaak; het geluid lijkt erop, maar het schaadt de remmen niet' },
+      { name: 'Klemmende remklauw', likelihood: 'Als het wiel warm wordt en de auto naar één kant trekt' },
+      { name: 'Roestlaagje na stilstand of regen', likelihood: 'Als het geluid na de eerste remstoten weg is' },
+    ],
+    canRide: [
+      'Bij metaal op metaal moeten gewone ritten stoppen: alleen een voorzichtige rit naar de garage is aanvaardbaar, met ruime afstand en vroeg, rustig remmen. De vervanging uitstellen loont ook financieel niet: elke kilometer met schuren voegt de prijs van remschijven aan de rekening toe, die de stalen drager van het blok letterlijk afdraait.',
+      'Kwam het schuren na stilstand op en verdween het na de eerste remstoten, rijd dan zonder beperkingen: dat is roest. Klinkt het geluid meer als schrapen, hoort u het ook zonder het pedaal in te trappen en wordt het wiel na de rit niet warm, dan zijn een stofschild of een steentje waarschijnlijk: u komt rustig aan, maar laat de auto binnen een dag of twee zien — alleen inspectie scheidt het onschuldige geval betrouwbaar van versleten blokken.',
+    ],
+    checks: [
+      'Let op het patroon: geluid alleen bij het intrappen van de rem wijst op de blokken; aanhoudend schrapen tijdens het rijden eerder op het stofschild, een steentje of een klemmende klauw.',
+      'Kijk tussen de spaken van de velg door: bij veel auto’s is het buitenste blok zonder demonteren zichtbaar. Wrijvingsmateriaal dunner dan 3–4 mm, of blank metaal in plaats daarvan, betekent onmiddellijk vervangen.',
+      'Houd na een korte rit uw hand bij de wielen zonder de remschijf aan te raken: is één wiel duidelijk warmer dan de rest, dan lijkt dat op een klemmende remklauw — het deel dat de blokken tegen de schijf drukt.',
+      'Let op het gedrag van de auto: naar één kant trekken bij het remmen of een brandlucht bij een wiel zijn tekenen waarmee u niet mag rijden — alleen voorzichtig naar de garage.',
+      'Bekijk de remschijf door de velg: diepe groeven en een blauwige tint van het metaal zeggen dat het schuren al lang aan de gang is en de schijven al geleden hebben.',
+    ],
+    appHelp:
+      'De app Stuk loopt dezelfde vragen langs — is het schuren constant, wordt het wiel warm, verdwijnt het geluid na de eerste remstoten — en helpt met de opname schuren te onderscheiden van het gillen van de slijtage-indicator. Het rapport geeft waarschijnlijke oorzaken en een stoplicht: u kunt rijden, laat het deze week zien of rijd alleen nog naar de garage.',
+    faq: [
+      {
+        q: 'Wat is het verschil tussen schuren en piepende remmen?',
+        a: 'Piepen is een hoge toon waarbij de remmen nog volledig werken: meestal is het de slijtage-indicator die tijdig waarschuwt. Schuren is een grof, laag geluid van metaal op metaal: het wrijvingsmateriaal is op en de stalen drager schuurt over de schijf. Piepen betekent een afspraak deze week, schuren het einde van gewone ritten.',
+      },
+      {
+        q: 'Is alleen de blokken vervangen genoeg als het al schuurde?',
+        a: 'Dat hangt af van de staat van de schijven: zelfs kort «op het metaal» rijden laat groeven achter. Ondiepe kunnen soms worden afgedraaid, diepe betekenen nieuwe schijven. Nieuwe blokken op een gegroefde schijf remmen slechter en slijten snel, dus de beslissing valt na inspectie.',
+      },
+      {
+        q: 'Het schuren komt en gaat — is dat ook gevaarlijk?',
+        a: 'Wisselend schuren komt vaak van een steentje tussen stofschild en schijf, en dat kan er vanzelf uit vallen. Reken daar niet op: hetzelfde komende en gaande geluid hoort ook bij de vroege fase waarin blokken tot op het metaal doorslijten. Een inspectie binnen een dag of twee brengt duidelijkheid.',
+      },
+    ],
+  },
+
+  'stuk-pri-razgone': {
+    h1: 'Klap bij optrekken',
+    metaTitle: 'Klap bij gas geven en gas loslaten: oorzaken | Stuk',
+    description:
+      'Waarom het klapt als u gas geeft of het gas loslaat: motorsteunen, homokineet, speling in de aandrijflijn of de automaat. Hoe u onschuldige speling onderscheidt van een klop in de motor.',
+    intro: [
+      'Een klap die precies opkomt op het moment dat u gas geeft of het gas loslaat, ontstaat meestal niet in de motor zelf, maar in de keten die de kracht naar de wielen brengt. Met de jaren stapelt zich daar speling op: de rubberen motorsteunen zakken door en laten de motor bij belastingwisseling schokken, de binnenste homokineet slijt (het scharnier op de as van bak naar wiel), kruiskoppelingen van de cardanas en bevestigingen van het subframe raken los. Elke keer dat de kracht van richting wisselt, wordt de speling met een slag opgenomen — vandaar een losse klap of gerammel.',
+      'Een verhaal apart is de automaat: een schok met gerammel bij het overhalen van de selector tussen D en R of tijdens het schakelen wijst meestal op oude olie of slijtage. En een heel ander geval is een dof kloppen uit de diepte van de motor dat sneller wordt met het toerental en luider onder belasting: zo kloppen de krukaslagers. Dat is zeldzaam, maar de ernstigste variant, en die mag u niet missen.',
+    ],
+    causes: [
+      { name: 'Motorsteunen of de binnenste homokineet', likelihood: 'Het vaakst — losse klap bij gas geven en loslaten' },
+      { name: 'Speling in de aandrijflijn: kruiskoppelingen, subframebevestigingen', likelihood: 'Vaak bij achterwiel- en vierwielaandrijving — gerammel onder de vloer bij wegrijden' },
+      { name: 'Automaat: oude olie of slijtage', likelihood: 'Als schok en gerammel samenvallen met het schakelen' },
+      { name: 'Lagerklop uit de diepte van de motor', likelihood: 'Zelden — wordt sneller met het toerental, luider onder belasting' },
+    ],
+    canRide: [
+      'Met de meeste oorzaken uit de tabel kunt u rijden: speling in steunen, scharnieren of aandrijflijn legt de auto niet plots stil zolang de klap los en zacht blijft. Maar de diagnose maanden uitstellen is onverstandig: een kapotte kruiskoppeling of een versleten homokineet valt uiteindelijk uiteen, en dat gebeurt tijdens het rijden. Een verstandige termijn voor de garage is één tot twee weken; rijd tot die tijd rustiger weg en doseer het gas soepeler.',
+      'De uitzondering is een klop uit de diepte van de motor die sneller wordt bij gas geven en groeit onder belasting. Daarmee moeten gewone ritten stoppen: versleten lagers kunnen eindigen in een vastgelopen motor. Controleer eerst het oliepeil; daarna een bergingsdienst — of, als de garage vlakbij is, langzaam en zonder gas.',
+    ],
+    checks: [
+      'Bepaal het moment precies: een klap exact bij gas geven en loslaten, en niet op oneffenheden, gaat over de krachtoverbrenging en niet over het onderstel. Dat detail bekort de zoektocht van de monteur meteen.',
+      'Controleer het motoroliepeil met de peilstok. Bij elk geluid dat naar de motor klinkt is dat de eerste stap: bij een laag peil lijden de lagers als eerste.',
+      'Rammelt het bij het schakelen, controleer dan peil en staat van de automaatolie: donkere vloeistof met brandlucht is een veelvoorkomende oorzaak van schokken, en soms lost verversen het op.',
+      'Luister waar het geluid vandaan komt — van onder de motorkap, uit het midden van de vloer of vanaf een wiel — en of het terugkomt bij het schakelen. Noteer die waarnemingen voor de garage.',
+      'Doe de zachte test: blijft de klap uit bij zacht intrappen en loslaten van het gas en komt hij terug bij een abrupte beweging, dan is het klassieke speling, en tot de reparatie volstaat rustig rijden.',
+    ],
+    appHelp:
+      'De app Stuk stelt dezelfde precieze vragen — wanneer klapt het precies, verandert het geluid met toerental en versnellingen — en helpt met de opname het gerammel van speling te scheiden van een diepe motorklop. Het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: u kunt rijden, plan een garagebezoek of stop.',
+    faq: [
+      {
+        q: 'Waarom klapt het juist bij gas geven en loslaten?',
+        a: 'Bij een belastingwisseling keert de kracht van richting om en worden alle spelingen in motorsteunen, scharnieren en aandrijflijn met een slag opgenomen. Zolang de auto gelijkmatig rijdt liggen de delen tegen elkaar aan en verraadt de speling zich niet — daarom hoort u de klap alleen bij het werken met het gaspedaal.',
+      },
+      {
+        q: 'Hoe weet ik dat het de motor zelf is en dat het ernstig is?',
+        a: 'Het alarmsignaal is een dof kloppen uit de diepte van de motor dat sneller wordt met het toerental en luider onder belasting, bijvoorbeeld bergop. Zo kloppen de krukaslagers. Stop dan met rijden, controleer het oliepeil en laat de auto met een bergingsdienst naar de garage brengen.',
+      },
+      {
+        q: 'Kan een automaat een klap bij optrekken veroorzaken?',
+        a: 'Ja. Een schok of gerammel op het moment van schakelen, of bij het overhalen van de selector tussen D en R, is een typisch teken van oude olie of slijtage van de bak. Begin met het controleren van peil en staat van de olie; verzet de selector tot de reparatie alleen bij volledig stilstaande auto met ingetrapte rem.',
+      },
+    ],
+  },
+
+  'zvon-pri-razgone': {
+    h1: 'Pingelen bij optrekken',
+    metaTitle: 'Pingelen bij optrekken: detonatie of niet, wat te doen | Stuk',
+    description:
+      'Een metalige tik bij optrekken is meestal detonatie door de brandstof. Hoe u dat test met een andere tankstationketen en wanneer niet de motor maar het hitteschild of de katalysator de boosdoener is.',
+    intro: [
+      'De metalige tik bij optrekken — wat automobilisten pingelen noemen — blijkt meestal detonatie te zijn. Een deel van de brandstof in de cilinders verbrandt niet gelijkmatig maar explodeert, en de schokgolf klinkt als een heldere tik tegen de wanden van de motor. Het best hoorbaar is dat onder belasting: bergop, bij inhalen, bij optrekken vanuit lage toeren in een hoge versnelling. De meest voorkomende oorzaak is prozaïsch — benzine met een lager octaangetal dan de fabrikant voorschrijft, of simpelweg een slechte tankbeurt.',
+      'Het tikken hoeft niet uit de motor te komen. Een losgeraakt hitteschild — het dunne plaatje boven de uitlaat — rammelt bij bepaalde toerentallen, en verkruimeld katalysatorkeramiek ritselt en tinkelt onder de bodem. Het verschil zit in de koppeling: detonatie hangt aan de belasting en verdwijnt bij rustig rijden, terwijl een schild bij «zijn» toerental zelfs op een stilstaande auto tinkelt als u gas geeft.',
+    ],
+    causes: [
+      { name: 'Detonatie: brandstof met te laag octaangetal', likelihood: 'Het vaakst — tikken onder belasting, vooral bergop' },
+      { name: 'Koolaanslag in de verbrandingskamers of de klopsensor', likelihood: 'Als een ander tankstation niet hielp' },
+      { name: 'Hitteschild van het uitlaatsysteem', likelihood: 'Vaak — rammelen bij bepaalde toerentallen, los van de belasting' },
+      { name: 'Uiteengevallen katalysator', likelihood: 'Zeldzamer — tinkelen en ritselen onder de bodem, het vermogen zakt' },
+    ],
+    canRide: [
+      'Met zeldzame vlagen van pingelen komt u er wel, maar belast de motor ondertussen niet: trek rustig op, neem hellingen in een lagere versnelling, trek niet vanuit lage toeren in een hoge versnelling. De eerste stap is tanken met een octaangetal niet lager dan voorgeschreven, bij voorkeur bij een andere keten: het pingelen verdwijnt vaak met één tankbeurt.',
+      'Aanhoudende detonatie zijn slagen op de zuigers bij elke acceleratie, en dat sloopt de motor geleidelijk: zuigers, veren en de koppakking lijden eronder. Is het pingelen na een andere brandstof niet weg, stel de diagnose dan niet uit. Het rammelen van een schild is daarentegen puur een akoestisch ongemak: daarmee rijdt u zonder beperkingen en laat u het plaatje bij het eerstvolgende garagebezoek vastzetten.',
+    ],
+    checks: [
+      'Tank een volle tank met een octaangetal niet lager dan voorgeschreven, bij een ander tankstation. Verdwijnt het pingelen binnen één of twee tanks, dan lag het aan de brandstof.',
+      'Controleer de koppeling met de belasting: pingelen dat opkomt bergop, bij inhalen en bij stevig gas maar afneemt bij rustig optrekken is de handtekening van detonatie.',
+      'Geef gas in neutraal bij stilstaande auto: komt het tikken of rammelen bij bepaalde toerentallen ook zonder belasting op, dan is het hitteschild waarschijnlijker.',
+      'Kijk in het instructieboekje of op de tankklep welke benzine wordt aanbevolen: voor veel motoren voldoet een laag octaangetal niet meer, ook al is het formeel toegestaan.',
+      'Let op het vermogen en op geluiden onder de bodem: ritselen en tinkelen van onderen samen met slapper optrekken is een reden om de katalysator zonder uitstel te laten controleren.',
+    ],
+    appHelp:
+      'De app Stuk helpt met dezelfde vragen — wanneer tikt het, volgt het geluid de belasting of het toerental — en met de opname onderscheidt u de heldere tik van detonatie van het rammelen van een blikken schild. Het rapport geeft waarschijnlijke oorzaken met percentages en een conclusie: u kunt rijden, plan een garagebezoek of stop liever.',
+    faq: [
+      {
+        q: 'Wat betekent «pingelen»?',
+        a: 'Het is de oude naam voor het tikken bij detonatie; vroeger werd het aan de zuigerpennen toegeschreven. In werkelijkheid tikken die niet — het geluid ontstaat door de schokgolf van explosieve verbranding die van de cilinderwanden terugkaatst. De naam bleef, maar de oorzaak is altijd dezelfde: detonatie, geen versleten zuigerdelen.',
+      },
+      {
+        q: 'Kun je met detonatie rijden?',
+        a: 'Kort en behoedzaam: rustig optrekken, een lagere versnelling bergop, zonder volle belading en aanhanger. Elke vlaag zijn slagen op de zuigers, en aanhoudende detonatie eindigt in een dure motorreparatie. Heeft een andere brandstof het tikken binnen één of twee tanks niet weggenomen, dan is een diagnose nodig.',
+      },
+      {
+        q: 'Helpt benzine met een hoger octaangetal?',
+        a: 'De hoofdregel is nooit lager tanken dan de fabrikant voorschrijft. Het octaangetal geeft de weerstand van de brandstof tegen zelfontbranding aan, dus overstappen op een hogere kwaliteit neemt bij een klopgevoelige motor het tikken vaak weg. Helpt zelfs dat niet, dan wordt de oorzaak — koolaanslag of de klopsensor — in de garage gezocht.',
+      },
+    ],
+  },
 };
