@@ -536,4 +536,273 @@ export const pages: Record<string, SymptomTr> = {
       },
     ],
   },
+
+  'gul-pri-povorote': {
+    h1: 'Brommen in de bocht',
+    metaTitle: 'Brommen in de bocht: wiellager of stuurbekrachtiging | Stuk',
+    description:
+      'Waar het brommen in de bocht vandaan komt: een versleten wiellager, een jankende stuurbekrachtigingspomp of bandengeluid. Hoe u de kant bepaalt en of het gevaarlijk is.',
+    intro: [
+      'Bij brommen in de bocht moet u meteen twee scenario’s scheiden: brommen bij snelheid dat in de ene bocht luider en in de andere zachter wordt, en janken dat opkomt als u aan het stuur draait terwijl u stilstaat of parkeert. Ze klinken op elkaar lijkend, maar de bronnen zijn totaal verschillend: in het eerste geval het wiel, in het tweede de stuurbekrachtiging.',
+      'Brommen bij snelheid dat van de bochtrichting afhangt is de klassieke handtekening van het wiellager — het lager waarop het wiel draait. In een bocht verschuift het gewicht naar de buitenste wielen, en een belast versleten lager bromt luider. Janken bij het draaien aan het stuur op lage snelheid komt meestal van de stuurbekrachtigingspomp, in de regel door een te laag vloeistofpeil. En bij auto’s met elektrische stuurbekrachtiging is een licht zoemen tijdens het sturen normaal en geen defect.',
+    ],
+    causes: [
+      { name: 'Wiellager', likelihood: 'Het vaakst — als het brommen bij snelheid komt en in bochten verandert' },
+      { name: 'Stuurbekrachtigingspomp of laag vloeistofpeil', likelihood: 'Vaak — als het jankt bij sturen in stilstand' },
+      { name: 'Bandengeluid', likelihood: 'Vaak; het brommen hangt af van het wegdek, niet van de bocht' },
+      { name: 'Normaal zoemen van elektrische stuurbekrachtiging', likelihood: 'Normaal bij auto’s zonder reservoir voor stuurvloeistof' },
+      { name: 'Versleten homokineet', likelihood: 'Zeldzamer; geeft meestal ook klikken bij vol stuur' },
+    ],
+    canRide: [
+      'Met een brommend wiellager kunt u rijden, maar het is krediet op korte termijn: stel de controle niet langer dan een week uit en verplaats lange, snelle ritten naar de tijd erna. Een lager dat uiteenvalt geeft het wiel speling en kan in een verwaarloosd geval vastlopen. Werd het brommen ineens luider of kwam er trilling bij — meteen naar de garage.',
+      'Bij een jankende stuurbekrachtigingspomp controleert u eerst het vloeistofpeil in het reservoir: bijvullen sluit de zaak vaak af. Rijden kan, maar houd het stuur niet langer dan een paar seconden tegen de aanslag — in die stand werkt de pomp op maximale druk. Blijft het janken na bijvullen of zakt het peil opnieuw, dan is er een lek — binnen een week naar de garage.',
+    ],
+    checks: [
+      'Onthoud in welke bochtrichting het brommen luider is. Luider bij een bocht naar links betekent dat de rechterkant wordt belast, dus is het rechterlager waarschijnlijker; en omgekeerd. Dat detail bekort de zoektocht in de garage aanzienlijk.',
+      'Controleer het geluid in stilstand: komt het janken op als u op een parkeerplaats aan het stuur draait, dan hebben de wielen er niets mee te maken — de bron is de stuurbekrachtiging.',
+      'Kijk onder de motorkap of er een reservoir voor stuurvloeistof zit. Is dat er, controleer het peil en vul zo nodig bij tot het streepje; is het er niet, dan is de bekrachtiging elektrisch en is een zacht, gelijkmatig zoemen daarvoor normaal.',
+      'Beoordeel de afhankelijkheid van de weg: brommen dat op vers asfalt zachter en op ruw wegdek luider is komt meestal van de banden, niet van het lager.',
+      'Bekijk het loopvlak: zaagtandslijtage (trapjes op de randen) of vlekkerige slijtage versterkt het brommen van de banden en wijst tegelijk op een verstelde uitlijning of vermoeide schokdempers.',
+    ],
+    appHelp:
+      'De app Stuk stelt dezelfde vragen als de monteur bij de aanname: waar hoort u het brommen, verandert het in bochten, hangt het samen met sturen in stilstand. De opname helpt het geluid met typische voorbeelden te vergelijken, en het rapport geeft waarschijnlijke oorzaken en een duidelijk advies: rustig doorrijden, deze week een afspraak maken of zonder uitstel laten controleren.',
+    faq: [
+      {
+        q: 'Waarom wordt het brommen maar in één bochtrichting luider?',
+        a: 'In een bocht verschuift het gewicht van de auto naar de buitenste wielen. Is bijvoorbeeld het rechter wiellager versleten, dan bromt het onder belasting luider — dus bij een bocht naar links. Die eigenschap laat al vóór de garage zien welke kant u als eerste moet laten nakijken.',
+      },
+      {
+        q: 'Mag je elke vloeistof in de stuurbekrachtiging bijvullen?',
+        a: 'Nee. Het type vloeistof staat in het instructieboekje en vaak op de dop van het reservoir zelf. Eenmalig bijvullen met de juiste vloeistof is veilig, maar zakt het peil regelmatig, dan zit er ergens een lek — dat moet in de garage worden opgespoord en verholpen, bijvullen lost het niet op.',
+      },
+      {
+        q: 'Er zit geen stuurreservoir onder de kap en toch bromt het in de bocht — wat is dat?',
+        a: 'Waarschijnlijk is de stuurbekrachtiging elektrisch: het motortje zoemt zacht bij het sturen, en dat is normale werking. Andere signalen moeten u wél alarmeren: het stuur is zwaar geworden of wordt schoksgewijs zwaar, er is geknars, of het waarschuwingslampje van de besturing brandt. Daarmee binnen enkele dagen naar de garage.',
+      },
+    ],
+  },
+
+  'shchelchki-pri-povorote-rulya': {
+    h1: 'Klikken bij het sturen',
+    metaTitle: 'Klikken bij het sturen: homokineet of veerpootlager | Stuk',
+    description:
+      'Waarom het klikt bij het draaien aan het stuur: de buitenste homokineet, het veerpootlager of het kruiskoppelstuk van de stuurkolom. Hoe u ze aan het geluid herkent.',
+    intro: [
+      'Klikken bij het sturen wordt door één simpele vraag gescheiden: rijdt de auto op dat moment of staat hij stil? Knappen en klikken tijdens het rijden met ingeslagen stuur is de handtekening van de buitenste homokineet, het scharnier waarlangs de aandrijving het meesturende wiel bereikt. Hoe verder het stuur is ingeslagen en hoe abrupter u wegrijdt, hoe duidelijker het knappen. Het begint meestal met een gescheurde hoes — de rubberen manchet die het scharnier tegen vuil beschermt.',
+      'Hoort u de klikken juist bij het sturen op een stilstaande auto, dan treft de homokineet meestal geen schuld. Geknars van boven, uit de wielkast, komt van het veerpootlager — het deel waarop de bovenkant van de veerpoot met het wiel meedraait. Klikken in het stuur zelf, ter hoogte van de voeten van de bestuurder, is het kruiskoppelstuk van de stuurkolom, het kleine scharnier tussen stuur en stuurhuis. Geen van deze varianten betekent de auto laten staan, maar geen ervan mag ook maanden blijven liggen.',
+    ],
+    causes: [
+      { name: 'Buitenste homokineet', likelihood: 'Het vaakst — als het knapt tijdens rijden met ingeslagen stuur' },
+      { name: 'Veerpootlager', likelihood: 'Vaak — als het knarst in stilstand, van boven uit de wielkast' },
+      { name: 'Kruiskoppelstuk van de stuurkolom', likelihood: 'Als de klikken in het stuur zelf hoorbaar en voelbaar zijn' },
+      { name: 'Stuurkogels of het stuurhuis', likelihood: 'Zeldzamer; die geven meestal een klap, geen klik' },
+      { name: 'Binnenste homokineet, stabilisatorstangen', likelihood: 'Zeldzamer; worden bij dezelfde controle nagekeken' },
+    ],
+    canRide: [
+      'Met een knappende homokineet kunt u rijden, maar rek de vervanging niet langer dan één tot twee weken: een versleten scharnier loopt in het ergste geval vast, en dan is het geen geluid meer maar een stilstaande auto. Tot de reparatie helpt een zachte omgang — niet abrupt wegrijden met het stuur tegen de aanslag.',
+      'Het veerpootlager en het kruiskoppelstuk geven meer ongemak dan direct gevaar, maar de besturing is een veiligheidsdeel, dus laat de diagnose binnen enkele dagen doen: op de brug kost die een paar minuten. Reden om haast te maken: het stuur is rond de middenstand vaag geworden, de auto zwabbert in zijn rijstrook of de klikken zijn veel frequenter geworden.',
+    ],
+    checks: [
+      'Scheid de scenario’s op een leeg parkeerterrein: komt het knappen op tijdens het rijden in een cirkel met ingeslagen stuur — of hoort u de klikken bij het sturen op de stilstaande auto?',
+      'Bekijk de hoezen van de homokineten — de rubberen balgen aan de binnenzijde van elk voorwiel. Een scheur met rondgeslingerd vet is een vrijwel bevestigde diagnose.',
+      'Vraag iemand om met uitgezette motor aan het stuur te draaien en leg uw handpalm op de veerpootbevestiging onder de kap: de klikken van een versleten lager voelt u met de hand.',
+      'Beweeg met uitgezette motor het stuur heen en weer en luister ter hoogte van uw voeten: een duidelijke klik in de kolom verraadt het kruiskoppelstuk.',
+      'Onthoud van welk wiel het knappen tijdens het rijden komt en in welke bocht het luider is — die details bekorten de zoektocht in de garage aanzienlijk.',
+    ],
+    appHelp:
+      'In de app Stuk zijn deze vertakkingen samengebracht in een korte vragenboom: rijdt de auto of staat hij, waar komt het geluid vandaan, in welke staat zijn de hoezen. Het knappen kunt u met de telefoon opnemen en met voorbeelden vergelijken. Het rapport geeft waarschijnlijke oorzaken met een inschatting en een advies over de termijn: geen paniek, maar ook geen klikken die een maand blijven liggen.',
+    faq: [
+      {
+        q: 'Wat is een homokineet en waarom klikt hij?',
+        a: 'Het is het homokinetische scharnier dat de aandrijving overbrengt naar een wiel dat tegelijk stuurt. Komt er via een gescheurde hoes vuil binnen, dan slijten de kogels en loopbanen van het scharnier, en onder belasting met ingeslagen stuur begint het duidelijk te knappen.',
+      },
+      {
+        q: 'Hoe lang kun je rijden met een klikkende homokineet?',
+        a: 'Een exacte levensduur is er niet: bij de een houdt het scharnier maanden vol, bij de ander is het in een paar weken op. Een verstandig richtpunt: de vervanging niet langer dan één tot twee weken uitstellen en tot de reparatie niet abrupt wegrijden met ingeslagen wielen — dan is de belasting op het scharnier minimaal.',
+      },
+      {
+        q: 'Waarom knarst het bij sturen op een stilstaande auto?',
+        a: 'Bij stilstand draait het wiel niet en werkt de homokineet niet. Geknars ter plekke komt meestal van het veerpootlager — het geluid komt van boven, uit de wielkast — of van het kruiskoppelstuk van de kolom als het in het stuur zelf klikt. Beide delen controleert de garage in een paar minuten.',
+      },
+    ],
+  },
+
+  'stuk-v-dvigatele-na-holodnuyu': {
+    h1: 'Kloppen bij koude motor',
+    metaTitle: 'Motor klopt koud: oorzaken en wat te doen | Stuk',
+    description:
+      'Waarom de motor koud klopt en na het warmdraaien zwijgt: hydraulische stoters, zuigergroep, distributieketting. Wanneer het normaal is en wanneer het tijd is voor de garage.',
+    intro: [
+      'Een klopgeluid dat alleen in de eerste minuten na een koude start hoorbaar is en verdwijnt naarmate de motor warm wordt, is een van de meest voorkomende klachten bij auto’s met kilometers. Het goede nieuws: de meest verbreide oorzaak is hier ook de onschuldigste. Frequent tikken bovenin de motor komt meestal van de hydraulische stoters — kleine onderdelen die met oliedruk de overtollige speling in de klepaandrijving wegnemen. Zolang de motor koud is, is de olie dik en bereikt hij ze niet meteen, dus tikken ze een minuut of twee. Eenmaal warm: stil.',
+      'Het karakter van het geluid zegt veel. Een dof kloppen uit de diepte wijst vaker op slijtage van de zuigergroep: een koude zuiger heeft iets meer ruimte in de cilinder en tikt tot de warmte hem uitzet. Geritsel of geratel aan de voorkant is de handtekening van een uitgerekte distributieketting — de ketting in de motor die de kleppen op tijd laat openen — of van de verzwakte spanner. En klepperen dat buiten luider is dan in het interieur, met uitlaatgeur onder de kap, wijst op een doorgebrande spruitstukpakking: de gassen ontsnappen door de spleet tot het metaal uitzet en hem sluit.',
+    ],
+    causes: [
+      { name: 'Hydraulische stoters: dikke koude olie', likelihood: 'Het vaakst — als het bovenin tikt en na een paar minuten zwijgt' },
+      { name: 'Slijtage van de zuigergroep', likelihood: 'Vaak bij hoge kilometerstanden — dof kloppen uit de diepte' },
+      { name: 'Distributieketting of de spanner ervan', likelihood: 'Vaak — als er vooraan geritsel of geratel klinkt' },
+      { name: 'Pakking of scheur in het uitlaatspruitstuk', likelihood: 'Als het klepperen buiten luider is en het naar uitlaatgas ruikt' },
+      { name: 'Slippende multiriem', likelihood: 'Als het piepen of gillen is en geen kloppen' },
+    ],
+    canRide: [
+      'Met het tikken van de stoters dat na het warmdraaien volledig verdwijnt rijdt u zonder beperkingen — dat is het gewone leven van een motor met kilometers. Hetzelfde geldt voor het piepen van de riem in de eerste seconden na de start: vervelend, maar niet gevaarlijk. In beide gevallen volstaat het het peil en de leeftijd van de olie te controleren en de auto bij de volgende geplande beurt aan de monteur te tonen.',
+      'Het doffe kloppen van de zuigergroep is een kwestie van observeren: rijden kan, maar houd het olieverbruik in de gaten en vertel de monteur bij het volgende bezoek over het geluid. Met het geritsel van de distributieketting mag u niet rekken: diagnose binnen één tot twee weken, want een overgeslagen ketting betekent een dure motorreparatie — en tot die tijd geen abrupte starts bij koude motor. Algemene regel: verdwijnt het kloppen niet meer bij het warmdraaien of is het onder belasting hoorbaar, dan kan de diagnose niet langer wachten.',
+    ],
+    checks: [
+      'Klok hoeveel minuten het geluid aanhoudt: één tot twee minuten en dan stilte is typisch voor de stoters; hoe langer de klop leeft, hoe noodzakelijker de inspectie.',
+      'Controleer het oliepeil met de peilstok bij koude motor en denk terug wanneer de olie is ververst: een laag peil en oude olie versterken alle koude klopgeluiden.',
+      'Bepaal het karakter van het geluid: frequent tikken bovenin, dof kloppen uit de diepte of geritsel aan de voorkant zijn drie verschillende verhalen met verschillende urgentie.',
+      'Open de kap bij een draaiende koude motor en ruik: uitlaatgeur samen met klepperen wijst op het uitlaatspruitstuk.',
+      'Zet de warme motor tien minuten af en start opnieuw: een echte «koude» klop komt na zo’n korte pauze niet terug.',
+    ],
+    appHelp:
+      'De app Stuk loopt dezelfde vertakkingen langs — is het tikken, dof kloppen of geritsel en hoe snel verdwijnt het geluid — en de opname met de telefoon helpt een karakter vast te leggen dat lastig in woorden te vangen is. Het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: rustig doorrijden, deze week een afspraak of de garage niet uitstellen.',
+    faq: [
+      {
+        q: 'Het kloppen verdwijnt na het warmdraaien — mag ik het negeren?',
+        a: 'Meestal wel: tikken van de stoters bij koude motor is gewoon en vraagt geen reparatie. Observeren loont wel: duurt het geluid nu langer dan een paar minuten, blijft het bij warme motor of komt het onder belasting op, dan is dat al reden voor een diagnose.',
+      },
+      {
+        q: 'Helpen additieven «tegen kloppen»?',
+        a: 'Giet ze er niet in: ze verhelpen de slijtage niet, ze maskeren het symptoom, waardoor het probleem later wordt opgemerkt. Wat echt helpt is iets anders — verse olie met de juiste viscositeit, een correct peil en, blijft het kloppen, afstellen of reparatie bij de monteur.',
+      },
+      {
+        q: 'Waarom klopt het ’s winters koud harder?',
+        a: 'Bij vorst is de olie dikker en doet er langer over om het bovenste deel van de motor te bereiken, dus tikken stoters en klepaandrijving duidelijker, en de spelingen van koude delen zijn iets groter. Wordt alles na het warmdraaien stil, dan is het hetzelfde beeld als in de zomer, alleen uitgerekt in de tijd.',
+      },
+    ],
+  },
+
+  'svist-pri-zapuske': {
+    h1: 'Piepen bij het starten',
+    metaTitle: 'Piepen bij het starten van de motor: oorzaken | Stuk',
+    description:
+      'Waarom de motor piept bij het starten: een slippende multiriem, rollen of de waterpomp. Wanneer het piepen onschuldig is en wanneer het tijd is voor een afspraak.',
+    intro: [
+      'Gillen of piepen in de eerste seconden nadat de motor is aangeslagen komt vrijwel altijd van de multiriem — de rubberen riem die vanaf de motor de dynamo, de waterpomp en de aircocompressor aandrijft. Koud of bij vochtig weer slipt de riem over de poelies en piept hij, en na een paar seconden is hij warm, droog en stil.',
+      'Op dit moment is dat scenario niet gevaarlijk, maar normaal moet u het ook niet noemen: een nieuwe, correct gespannen riem piept zelfs bij vorst niet. Regelmatig ochtendpiepen is een teken dat de riem verouderd is, de spanning is gezakt of een van de rollen waarover hij loopt begint te slijten. Een verhaal apart zijn de geluiden van het starten zelf: geschraap of gezoem terwijl de startmotor de motor rondslingert. Dat is niet de riem meer, maar de startmotor of de starterkrans, en daarmee moet u niet wachten.',
+    ],
+    causes: [
+      { name: 'Slippende multiriem bij koude motor', likelihood: 'Het vaakst — als het piepen in de eerste seconden verdwijnt' },
+      { name: 'Versleten riem of gezakte spanning', likelihood: 'Vaak — als het piepen ook bij warme motor blijft' },
+      { name: 'Lager van de span- of geleiderol', likelihood: 'Niet zelden — bij het piepen komt geritsel of gebrom' },
+      { name: 'Waterpomp — als er bij de riem koelvloeistofsporen zitten', likelihood: 'Zeldzamer' },
+      { name: 'Geschraap terwijl de startmotor draait: startertandwiel of krans', likelihood: 'Apart geval — het geluid komt vóór de motor aanslaat' },
+    ],
+    canRide: [
+      'Met piepen dat een paar seconden na een koude start leeft en dan volledig verdwijnt kunt u rijden: er is geen directe dreiging. Toch is het goed de riem bij gelegenheid in de garage te laten bekijken — de inspectie kost een paar minuten, en riem met rol vervangen hoort bij de goedkope klussen.',
+      'Verdwijnt het piepen niet meer bij het warmdraaien, komt het op bij het inschakelen van de airco of duurt het bij elke start langer en luider, maak dan binnen een week een afspraak: een versleten riem kan breken, en zonder hem staan de dynamo en op veel motoren de waterpomp stil. Gaat het accu-lampje branden of loopt de temperatuurmeter op — stop en zet de motor af.',
+    ],
+    checks: [
+      'Klok de duur van het piepen: een paar seconden na de start is slippen bij koude motor; een geluid dat na het warmdraaien blijft is slijtage van riem of rollen.',
+      'Zoek het verband met het weer: piepen alleen na regen, de wasstraat of bij vorst wijst op slippen en niet op het defect van een concreet onderdeel.',
+      'Schakel met draaiende motor de airco of de achterruitverwarming in: komt het piepen op of wordt het luider, dan slipt de riem onder belasting.',
+      'Bekijk met uitgezette motor de riem met een lamp: dwarsscheurtjes, gerafelde randen en glimmend «gepolijste» flanken zijn tekenen van slijtage.',
+      'Kijk of er bij de poelies druppels of witte koelvloeistofsporen zitten: die wijzen op de waterpomp, en dan stelt u het garagebezoek beter niet uit.',
+    ],
+    appHelp:
+      'De app Stuk stelt dezelfde vragen als de monteur bij de aanname: wanneer komt het piepen op, verdwijnt het na het warmdraaien, wat hoort u terwijl de startmotor draait. De opname helpt het gillen van de riem te onderscheiden van geschraap van de startmotor, en het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: u kunt rijden, deze week naar de garage of stop.',
+    faq: [
+      {
+        q: 'Waarom piept de motor alleen koud en bij vocht?',
+        a: 'Koud en nat rubber van de riem grijpt slechter op de poelies, dus slipt hij in de eerste seconden na de start en piept. Naarmate hij opwarmt keert de grip terug en verdwijnt het geluid. Een nieuwe riem met een goede spanner kan ook deze omstandigheden aan, dus regelmatig ochtendpiepen is een reden voor inspectie.',
+      },
+      {
+        q: 'Het piepen komt nu ook bij warme motor op. Is dat ernstig?',
+        a: 'Het is een teken dat de slijtage het stadium heeft bereikt waarin de riem al onder gewone omstandigheden slipt. Rijden kan voorlopig, maar maak binnen een week een afspraak: een gebroken riem laat u zonder dynamo achter en op veel auto’s zonder waterpomp, en de rit eindigt bij de bergingsdienst.',
+      },
+      {
+        q: 'Wat is het verschil tussen piepen na de start en geschraap tijdens het starten?',
+        a: 'Piepen en gillen komen op nadat de motor al draait, en meestal is de riem de schuldige. Metalig geschraap hoort u eerder — in de seconden waarin de startmotor de motor rondslingert — en dat wijst op slechte aangrijping van het startertandwiel met de krans. Andere onderdelen, andere reparatie.',
+      },
+    ],
+  },
+
+  'vibratsiya-na-holostyh': {
+    h1: 'Trillen bij stationair draaien',
+    metaTitle: 'Trillen bij stationair: oorzaken en wat te doen | Stuk',
+    description:
+      'Waarom de auto stationair trilt: motorsteunen, ontstekingsuitval, valse lucht of een vervuild gasklephuis. Wat u kunt nakijken en of u kunt rijden.',
+    intro: [
+      'Een lichte trilling bij stationair draaien heeft elke auto, een diesel nog het meest. Het gaat hier om iets anders: om trillen dat u voelt in het stuur, de stoel en de binnenspiegel en dat er eerder niet was. De meest voorkomende oorzaak zijn de motorsteunen: de rubberblokken waarmee de motor in de carrosserie hangt en die zijn bewegingen dempen. Door de jaren wordt het rubber hard en scheurt het, en de trilling die de steunen vroeger opnamen gaat de carrosserie in.',
+      'De tweede groep oorzaken: de motor zelf loopt onregelmatig. Ontstekingsuitval (als een cilinder telkens niet aanslaat — meestal door bougies of bobines), valse lucht via een gescheurde slang of een inlaatpakking, een vervuild gasklephuis of vervuilde injectoren maken het stationair toerental onrustig. Deze gevallen van de steunen onderscheiden is niet moeilijk: dan trilt of zwerft de naald van de toerenteller en gaat vaak het motorstoringslampje branden, terwijl bij versleten steunen de motor rond loopt — het is de carrosserie die trilt.',
+    ],
+    causes: [
+      { name: 'Motorsteunen', likelihood: 'Het vaakst — vooral bij auto’s ouder dan 8–10 jaar' },
+      { name: 'Ontstekingsuitval: bougies, bobines', likelihood: 'Vaak — als het toerental trilt en het storingslampje brandt' },
+      { name: 'Valse lucht via een slang of inlaatpakking', likelihood: 'Vaak — als het toerental zwerft, soms met gesis' },
+      { name: 'Vervuild gasklephuis of vervuilde injectoren', likelihood: 'Vaak boven de honderdduizend kilometer' },
+    ],
+    canRide: [
+      'In de meeste scenario’s kunt u rijden: trillen bij stationair is niet het symptoom waarvoor u de auto op de vluchtstrook laat staan. Met versleten steunen hebt u één tot twee weken voor een rustige afspraak; maanden rekken is onverstandig — kapotte steunen voegen klappen toe bij wegrijden en schakelen en versnellen de slijtage van de buurdelen.',
+      'Een verhaal apart is een motor die duidelijk hapert: schokkend trillen, een knipperend of brandend storingslampje, weggevallen vermogen. Ook daarmee kunt u rijden, maar voorzichtig en niet lang: onverbrande brandstof uit de uitval brandt na in de uitlaat en oververhit de katalysator, en die vervangen is duur. De diagnose is dan nodig binnen enkele dagen, niet bij gelegenheid.',
+    ],
+    checks: [
+      'Steuntest: zet hem in de versnelling (bij automaat D) en houd de rem ingetrapt. De trilling van versleten steunen neemt in die stand meestal duidelijk toe.',
+      'Kijk naar de toerenteller: staat de naald stil terwijl de auto trilt, dan pleit dat voor de steunen; trilt of zwerft de naald, dan loopt de motor onregelmatig.',
+      'Schakel de airco in en let of het trillen verandert: onder extra belasting laten zwakke steunen en een onrustig stationair toerental zich duidelijker zien, en dat detail helpt de monteur.',
+      'Bekijk zonder iets te demonteren de dunne rubberslangen onder de kap: scheurtjes en losgeschoten slangetjes zijn een veelvoorkomende plek voor valse lucht.',
+      'Denk terug wanneer de bougies zijn vervangen: een kilometerstand ver voorbij het interval maakt ze de eerste kandidaat bij uitval. Brandt het storingslampje, begin dan met het uitlezen van de foutcodes: die perken de zoektocht in.',
+    ],
+    appHelp:
+      'De app Stuk stelt dezelfde vragen — neemt het trillen toe met een versnelling ingeschakeld, houdt het toerental stand, brandt het storingslampje — en verdeelt de waarschijnlijke oorzaken over percentages. Het rapport geeft een heldere conclusie: rustig doorrijden, deze week een afspraak of de auto binnen enkele dagen laten zien.',
+    faq: [
+      {
+        q: 'Waarom trilt het alleen stationair terwijl de auto onderweg soepel loopt?',
+        a: 'Bij stationair draaien is het toerental het laagst en schommelt de motor op zijn steunen met een frequentie die de carrosserie goed doorgeeft aan het interieur. Bij hoger toerental worden de bewegingen kleiner en minder voelbaar. Daarom verraden versleten steunen zich bij het stoplicht en niet op de snelweg.',
+      },
+      {
+        q: 'Wat is ontstekingsuitval?',
+        a: 'Dat is wanneer het mengsel in een van de cilinders af en toe niet ontsteekt — meestal door versleten bougies of een defecte bobine. De motor verliest op dat moment een deel van zijn vermogen en schokt, terwijl de onverbrande brandstof in de uitlaat nabrandt en de katalysator oververhit.',
+      },
+      {
+        q: 'Helpt het reinigen van het gasklephuis?',
+        a: 'Het helpt als de oorzaak daar ligt: aanslag verhindert het nauwkeurig doseren van lucht bij stationair draaien, en het toerental wordt onrustig. Maar reinigen is geen wondermiddel: bij versleten steunen of ontstekingsuitval blijft de trilling daarna precies hetzelfde.',
+      },
+    ],
+  },
+
+  'hlopki-v-glushitele': {
+    h1: 'Knallen in de uitlaat',
+    metaTitle: 'Knallen in de uitlaat: oorzaken en wat te doen | Stuk',
+    description:
+      'Waarom de uitlaat knalt: ontstekingsuitval, een doorgebrande uitlaat, het mengsel of de afstelling van de LPG-installatie. Wat knallen met de katalysator doet.',
+    intro: [
+      'Knallen of «schoten» uit de uitlaat betekenen dat een deel van de brandstof niet in de cilinders verbrandt, maar al in het uitlaatsysteem. Meestal is ontstekingsuitval de schuldige: een versleten bougie of een defecte bobine ontsteekt het mengsel niet, de onverbrande benzine komt in de hete uitlaat terecht en ontvlamt daar met de karakteristieke knal.',
+      'De tweede groep oorzaken is het uitlaatsysteem zelf: een doorgebrande demper, pijp of pakking voegt aan de knallen een gebrul toe dat toeneemt als u gas geeft. Ook kan het mengsel verkeerd zijn door sensoren of injectoren, en bij auto’s met LPG zijn knallen op gas een typisch teken van een ontregelde afstelling. Alle scenario’s hebben één gemene deler: de onverbrande brandstof brandt na in de katalysator — het uitlaatdeel dat schadelijke gassen naverbrandt —, oververhit hem en maakt hem geleidelijk kapot, en een katalysator vervangen is duur.',
+    ],
+    causes: [
+      { name: 'Ontstekingsuitval: bougies of bobines', likelihood: 'Het vaakst' },
+      { name: 'Doorgebrande demper, pijp of uitlaatpakking', likelihood: 'Vaak — de knallen gaan samen met gebrul' },
+      { name: 'Verkeerd mengsel: sensoren of injectoren', likelihood: 'Niet zelden' },
+      { name: 'Ontregelde afstelling van de LPG-installatie', likelihood: 'Als de knallen alleen op gas optreden' },
+      { name: 'Gebrul bij optrekken zonder trekkracht: de koppeling slipt', likelihood: 'Apart geval dat er qua geluid op lijkt' },
+    ],
+    canRide: [
+      'Eén losse knal bij het loslaten van het gas is geen reden om te stoppen: naar huis of naar de garage komt u wel. Met regelmatige knallen kunt u ook rijden, maar plan de diagnose voor de komende dagen en niet voor over weken: elke knal is een portie onverbrande brandstof die in de katalysator nabrandt, en de rekening voor uitgesteld herstel groeit van goedkope bougies naar de prijs van een katalysator.',
+      'Een bijzonder geval is een knipperend motorstoringslampje: zo waarschuwt het systeem voor actieve ontstekingsuitval, die juist nu gevaarlijk is voor de katalysator. Met een knipperend lampje rijdt u alleen rustig en niet ver, zonder belasting, en gaat u zonder uitstel naar de garage. Ruikt u uitlaatgas in het interieur, rijd dan tot de reparatie met een raam op een kier en laat de auto niet warmdraaien in een gesloten garage: koolmonoxide is gevaarlijk.',
+    ],
+    checks: [
+      'Let op wanneer het knalt: onder belasting bij optrekken, bij het loslaten van het gas of stationair — dat detail bekort de zoektocht van de monteur meteen.',
+      'Kijk naar het motorstoringslampje: brandt het constant, dan een diagnose binnen enkele dagen; knippert het, dan treedt de uitval juist nu op en kan het bezoek niet wachten.',
+      'Beoordeel hoe de motor loopt: onregelmatig lopen, trillen bij stationair en weggevallen vermogen samen met knallen wijzen op bougies, bobines of het mengsel.',
+      'Luister naar de uitlaat: gebrul dat toeneemt als u gas geeft terwijl het vermogen normaal is, wijst op een gat in de demper of de pijp, niet op ontstekingsproblemen.',
+      'Vergelijk bij een auto met LPG de werking op gas en op benzine: knallen alleen op gas is een vraag voor degene die de installatie heeft afgesteld.',
+    ],
+    appHelp:
+      'De app Stuk verheldert de omstandigheden — knallen of gebrul, op gas of op benzine, met of zonder vermogensverlies — en helpt ontstekingsproblemen, een gat in de uitlaat en een slippende koppeling te scheiden, die op het gehoor op elkaar lijken. Het rapport geeft waarschijnlijke oorzaken met percentages en een helder advies over hoe dringend de garage is.',
+    faq: [
+      {
+        q: 'Waarom knalt het in de uitlaat als het probleem in de motor zit?',
+        a: 'Als een bougie of bobine het mengsel in de cilinder niet ontsteekt, wordt de onverbrande benzine het uitlaatsysteem in geduwd. Daar treft ze roodgloeiende delen en brandt met een steekvlam na — dat geluid hoort u als een knal uit de uitlaat. De bron zit echter onder de motorkap, niet in de demper.',
+      },
+      {
+        q: 'Waarom zijn knallen gevaarlijk voor de katalysator?',
+        a: 'Een katalysator is bedoeld om restanten uitlaatgas na te verbranden, niet porties ruwe brandstof. De benzine die erin nabrandt jaagt de temperatuur boven de ontwerpwaarde, en de keramische honingraat smelt of verkruimelt. Het resultaat: vermogensverlies, rammelen onder de bodem en vervanging van de katalysator, een van de duurste klussen aan de uitlaat.',
+      },
+      {
+        q: 'Mijn auto op LPG knalt op gas. Is dat gevaarlijk?',
+        a: 'Ja, voor de gasinstallatie zijn knallen gevaarlijker dan voor de benzinemotor: een terugslag in het inlaatsysteem kan de kunststof delen en sensoren beschadigen. De gebruikelijke oorzaak is een ontregelde afstelling of versleten bougies. Verstandig is overschakelen op benzine en een afspraak maken bij een LPG-specialist.',
+      },
+    ],
+  },
 };
