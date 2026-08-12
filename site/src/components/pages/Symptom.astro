@@ -77,8 +77,11 @@ const worstUrgency = page.causes.reduce(
     {intro.map((p) => <p class="mt-4 text-ink-soft">{p}</p>)}
 
     <h2 class="mt-10 text-xl font-bold">{L.causesH2}</h2>
+    <!-- min-w: без него на узком экране колонки сжимаются, а в китайском,
+         японском и корейском строка рвётся по любому знаку — выходит столбик
+         в один иероглиф. Контейнер прокручивается, так что ничего не теряется. -->
     <div class="mt-4 overflow-x-auto rounded-card border border-line">
-      <table class="w-full border-collapse text-start">
+      <table class="w-full min-w-[34rem] border-collapse text-start">
         <thead>
           <tr class="bg-surface text-s text-ink-soft">
             <th class="p-3 font-semibold">{L.thCause}</th>

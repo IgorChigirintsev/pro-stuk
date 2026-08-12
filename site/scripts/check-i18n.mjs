@@ -138,6 +138,94 @@ for (const lang of LANGS) {
   }
 }
 
+/**
+ * Чужая письменность в переводе. Кириллицу ловим выше, но перепутать можно не
+ * только её: японский знак в китайском тексте, польская «ł» в турецком,
+ * персидская «گ» в арабском. На глаз это незаметно, а носителю бросается сразу.
+ *
+ * Для каждого языка перечислены буквы, которые в нём вообще бывают. Всё
+ * остальное — ошибка. Латиница в нелатинских языках допускается только
+ * названиями и аббревиатурами из общего списка.
+ */
+/** Латиница, которая остаётся латиницей на любом языке: марки, аббревиатуры,
+ *  единицы и подстановки. Список нарочно короткий — иначе проверка ослепнет. */
+const LATIN_OK =
+  /Google Play|WD-40|\{version\}|\{size\}|\{date\}|Android|Cookie|cookie|km\/h|Stuk|APK|LPG|ABS|TSI|GDI|CVT|MIN|MAX|MT|AT|MB|km|[DRV](?![A-Za-z])/g;
+const A = 'A-Za-z';
+const SCRIPTS = {
+  ru: { letters: new RegExp(`[${A}А-Яа-яЁё]`) },
+  en: { letters: new RegExp(`[${A}]`) },
+  de: { letters: new RegExp(`[${A}ÄÖÜäöüß]`) },
+  es: { letters: new RegExp(`[${A}ÁÉÍÓÚÜÑáéíóúüñ]`) },
+  fr: { letters: new RegExp(`[${A}ÀÂÇÉÈÊËÎÏÔÙÛÜŸŒÆàâçéèêëîïôùûüÿœæ]`) },
+  pt: { letters: new RegExp(`[${A}ÁÂÃÀÇÉÊÍÓÔÕÚáâãàçéêíóôõú]`) },
+  it: { letters: new RegExp(`[${A}ÀÈÉÌÍÎÒÓÙàèéìíîòóù]`) },
+  pl: { letters: new RegExp(`[${A}ĄĆĘŁŃÓŚŹŻąćęłńóśźż]`) },
+  tr: { letters: new RegExp(`[${A}ÂÇĞİıÖŞÜâçğöşü]`) },
+  nl: { letters: new RegExp(`[${A}ÁÉËÏÓÖÜáéëïóöü]`) },
+  // Иероглифы без каны и хангыля.
+  zh: { letters: /\p{Script=Han}/u, latinOnlyByList: true },
+  // Кана обязательна: текст из одних иероглифов — признак китайской кальки.
+  ja: {
+    letters: /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}ー々]/u,
+    latinOnlyByList: true,
+    needs: { re: /[\p{Script=Hiragana}\p{Script=Katakana}]/u, from: 12, what: 'кана' },
+  },
+  ko: { letters: /\p{Script=Hangul}/u, latinOnlyByList: true },
+  ar: {
+    // Татвиль (ـ) — не буква, а соединитель: им артикль привязывают к «الـCVT».
+    letters: /[\p{Script=Arabic}ـ]/u,
+    latinOnlyByList: true,
+    // Персидские буквы и восточные цифры: арабский у нас литературный, цифры западные.
+    banned: { re: /[پچژگی۰-۹٠-٩]/u, what: 'персидские буквы или восточные цифры' },
+  },
+};
+
+/** Строки перевода: словарь сайта, разборы, дерево вопросов, подписи деталей. */
+async function translatedStrings(lang) {
+  const out = [];
+  const add = (where, v) => {
+    if (typeof v === 'string') out.push([where, v]);
+    else if (v && typeof v === 'object') for (const x of Object.values(v)) add(where, x);
+  };
+  add('словарь', (await import(new URL(`../src/i18n/${lang}.ts`, import.meta.url).href))[lang]);
+  try {
+    add('разборы', (await import(new URL(`../src/data/symptoms_i18n/${lang}.ts`, import.meta.url).href)).pages);
+  } catch {}
+  for (const [where, file] of [
+    ['дерево', `../../shared/tree_i18n/${lang}.json`],
+    ['детали', `../../shared/parts_i18n/${lang}.json`],
+  ]) {
+    try {
+      add(where, JSON.parse(readFileSync(new URL(file, import.meta.url), 'utf8')));
+    } catch {}
+  }
+  return out;
+}
+
+for (const lang of LANGS) {
+  const rules = SCRIPTS[lang];
+  if (!rules) {
+    fail(`${lang}: не описан набор букв в SCRIPTS — проверка письменности пропущена`);
+    continue;
+  }
+  for (const [where, text] of await translatedStrings(lang)) {
+    const rest = rules.latinOnlyByList ? text.replace(LATIN_OK, ' ') : text;
+    const alien = [
+      ...new Set([...rest].filter((ch) => /\p{L}/u.test(ch) && !rules.letters.test(ch))),
+    ];
+    if (alien.length) {
+      fail(`${lang} (${where}): чужие буквы «${alien.join('')}» в «${text.slice(0, 50)}…»`);
+    }
+    if (rules.banned?.re.test(text)) {
+      fail(`${lang} (${where}): ${rules.banned.what} в «${text.slice(0, 50)}…»`);
+    }
+    if (rules.needs && text.length >= rules.needs.from && !rules.needs.re.test(text)) {
+      fail(`${lang} (${where}): нет ${rules.needs.what} в «${text.slice(0, 50)}…»`);
+    }
+  }
+}
+
 // Картинка для соцсетей есть на каждом языке: её человек видит раньше сайта,
 // и подставленная вместо неё чужая надпись выглядит как чужая ссылка.
 // Пересобрать: node --experimental-strip-types scripts/gen-og.mjs
