@@ -210,4 +210,16 @@ export const pt: Dict = {
       'relatório é uma estimativa de probabilidades, não um diagnóstico; a decisão de ' +
       'consertar é do mecânico, depois de examinar o carro.',
   },
+  og: {
+    tagline: 'Descubra o defeito pelo som',
+  },
+  notFound: {
+    title: 'Página não encontrada — Stuk',
+    description:
+      'Esta página não existe no site. Volte ao início ou abra os guias de sintomas por som.',
+    h1: 'Página não encontrada',
+    text:
+      'O endereço tem um erro de digitação ou a página mudou de lugar. O barulho que trouxe você até aqui continua lá — comece pelo início ou abra os guias de sintomas.',
+    home: 'Ir para o início',
+  },
 };

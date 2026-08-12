@@ -214,4 +214,16 @@ export const fr: Dict = {
       'demande. Le rapport est une estimation de probabilités, pas un diagnostic ; la ' +
       'décision de réparer revient au mécanicien après examen.',
   },
+  og: {
+    tagline: 'Trouver la panne au bruit',
+  },
+  notFound: {
+    title: 'Page introuvable — Stuk',
+    description:
+      'Cette page n’existe pas sur le site. Revenez à l’accueil ou ouvrez les guides par symptôme.',
+    h1: 'Page introuvable',
+    text:
+      'L’adresse comporte une faute de frappe, ou la page a été déplacée. Le bruit qui vous a amené ici n’a pas disparu : repartez de l’accueil ou ouvrez les guides par symptôme.',
+    home: 'Retour à l’accueil',
+  },
 };

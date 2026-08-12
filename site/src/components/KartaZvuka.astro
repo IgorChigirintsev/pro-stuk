@@ -7,6 +7,7 @@
  * (симптом-страницы: максимум по causes). Для pSEO-статей её нет —
  * карта показывает только зону, ничего не выдумывая.
  */
+import { CAR_BODY, CAR_GLASS_F, CAR_GLASS_R, GLASS, INK, LINE, SKIN } from '../data/car';
 import { DEFAULT_LANG, t } from '../i18n';
 
 export type Zone = 'motor' | 'koleso' | 'dnishche' | 'zad' | 'salon';
@@ -46,16 +47,9 @@ const echo = [0, 12, 24];
 /** Кадр подрезаем под зону: у салона подсветка уходит выше крыши. */
 const viewBox = zone === 'salon' ? '8 32 384 204' : '8 58 384 178';
 
-/** Кузов: колёсная база по третям, выраженная оконная линия, вырезы арок. */
-const BODY =
-  'M 26 150 C 26 136 32 128 46 123 L 74 117 L 128 110 L 170 64 L 258 62 ' +
-  'L 302 100 L 350 105 C 366 107 374 117 375 133 L 376 154 ' +
-  'C 376 164 371 169 362 169 L 332 169 A 36 36 0 0 0 260 169 ' +
-  'L 132 169 A 36 36 0 0 0 60 169 L 34 169 C 28 168 26 163 26 157 Z';
-
-/** Оконный проём с racками стоек: передняя дверь, задняя дверь. */
-const GLASS_F = 'M 138 104 L 174 70 L 206 70 L 206 104 Z';
-const GLASS_R = 'M 214 70 L 250 70 L 286 104 L 214 104 Z';
+const BODY = CAR_BODY;
+const GLASS_F = CAR_GLASS_F;
+const GLASS_R = CAR_GLASS_R;
 
 const URGENCY: Record<string, { label: string; step: number; color: string }> = {
   ok: { label: L.mapOk, step: 0, color: '#15803D' },
@@ -64,10 +58,6 @@ const URGENCY: Record<string, { label: string; step: number; color: string }> = 
 };
 const u = urgency ? URGENCY[urgency] : null;
 
-const INK = '#5C6B78';
-const LINE = '#C9D3DA';
-const SKIN = '#EAEFF3';
-const GLASS = '#F5F7F9';
 ---
 
 <figure class={`rounded-card border border-line bg-surface p-5 ${cls}`}>

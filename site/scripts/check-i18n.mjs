@@ -5,7 +5,7 @@
  *
  *   node --experimental-strip-types scripts/check-i18n.mjs
  */
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 
 import { ru } from '../src/i18n/ru.ts';
 
@@ -135,6 +135,15 @@ for (const lang of LANGS) {
     }
     const flat = JSON.stringify(tr);
     if (/[А-Яа-яЁё]/.test(flat)) fail(`${lang}/${slug}: осталась кириллица`);
+  }
+}
+
+// Картинка для соцсетей есть на каждом языке: её человек видит раньше сайта,
+// и подставленная вместо неё чужая надпись выглядит как чужая ссылка.
+// Пересобрать: node --experimental-strip-types scripts/gen-og.mjs
+for (const lang of LANGS) {
+  if (!existsSync(new URL(`../public/og/${lang}.png`, import.meta.url))) {
+    fail(`${lang}: нет картинки для соцсетей public/og/${lang}.png (scripts/gen-og.mjs)`);
   }
 }
 

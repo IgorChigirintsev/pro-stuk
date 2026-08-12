@@ -213,4 +213,16 @@ export const es: Dict = {
       'El informe es una estimación de probabilidades, no un diagnóstico; la decisión de ' +
       'reparar la toma el mecánico después de revisar el coche.',
   },
+  og: {
+    tagline: 'Encuentra la avería por el sonido',
+  },
+  notFound: {
+    title: 'Página no encontrada — Stuk',
+    description:
+      'Esta página no existe en el sitio. Vuelve al inicio o abre las guías de síntomas por sonido.',
+    h1: 'Página no encontrada',
+    text:
+      'La dirección tiene una errata o la página se ha movido. El ruido que te trajo hasta aquí sigue ahí: empieza por el inicio o abre las guías de síntomas.',
+    home: 'Ir al inicio',
+  },
 };

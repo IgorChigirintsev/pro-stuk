@@ -212,4 +212,16 @@ export const nl: Dict = {
       'handeling van u. Het rapport is een kansinschatting, geen diagnose; de beslissing om ' +
       'te repareren neemt de monteur na inspectie.',
   },
+  og: {
+    tagline: 'Vind het defect op het gehoor',
+  },
+  notFound: {
+    title: 'Pagina niet gevonden — Stuk',
+    description:
+      'Deze pagina bestaat niet op de site. Ga terug naar de startpagina of open de symptoomgidsen.',
+    h1: 'Pagina niet gevonden',
+    text:
+      'Er zit een typfout in het adres, of de pagina is verplaatst. Het geluid waarvoor u kwam is er nog steeds — begin op de startpagina of open de symptoomgidsen.',
+    home: 'Naar de startpagina',
+  },
 };

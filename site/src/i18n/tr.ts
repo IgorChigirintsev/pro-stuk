@@ -206,4 +206,16 @@ export const tr: Dict = {
       'Mikrofon yalnızca ses kaydedilirken ve yalnızca sizin başlatmanızla kullanılır. Rapor ' +
       'bir olasılık tahminidir, teşhis değil; onarım kararını aracı inceleyen usta verir.',
   },
+  og: {
+    tagline: 'Arızayı sesinden bulun',
+  },
+  notFound: {
+    title: 'Sayfa bulunamadı — Stuk',
+    description:
+      'Sitede böyle bir sayfa yok. Ana sayfaya dönün ya da sese göre belirti rehberlerini açın.',
+    h1: 'Sayfa bulunamadı',
+    text:
+      'Adreste bir yazım hatası var ya da sayfa taşındı. Sizi buraya getiren ses hâlâ yerinde — ana sayfadan başlayın veya belirti rehberlerini açın.',
+    home: 'Ana sayfaya git',
+  },
 };

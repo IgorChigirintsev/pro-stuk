@@ -208,4 +208,16 @@ export const en: Dict = {
       'it. The report is a probability estimate, not a diagnosis; the decision to repair ' +
       'belongs to a mechanic after an inspection.',
   },
+  og: {
+    tagline: 'Find the fault by its sound',
+  },
+  notFound: {
+    title: 'Page not found — Stuk',
+    description:
+      'There is no such page on this site. Go back to the home page or open the symptom guides.',
+    h1: 'Page not found',
+    text:
+      'The address has a typo in it, or the page has moved. The noise that brought you here is still there — start from the home page or open the symptom guides.',
+    home: 'Go to the home page',
+  },
 };

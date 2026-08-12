@@ -213,4 +213,16 @@ export const de: Dict = {
       'selbst starten. Der Bericht ist eine Wahrscheinlichkeitseinschätzung, keine Diagnose; ' +
       'über die Reparatur entscheidet die Werkstatt nach der Sichtprüfung.',
   },
+  og: {
+    tagline: 'Die Ursache am Geräusch erkennen',
+  },
+  notFound: {
+    title: 'Seite nicht gefunden — Stuk',
+    description:
+      'Diese Seite gibt es hier nicht. Zurück zur Startseite oder direkt zu den Geräusch-Ratgebern.',
+    h1: 'Seite nicht gefunden',
+    text:
+      'In der Adresse steckt ein Tippfehler, oder die Seite ist umgezogen. Das Geräusch, das Sie hergeführt hat, ist noch da — fangen Sie auf der Startseite an oder öffnen Sie die Ratgeber.',
+    home: 'Zur Startseite',
+  },
 };

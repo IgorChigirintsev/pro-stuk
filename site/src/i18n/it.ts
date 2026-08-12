@@ -214,4 +214,16 @@ export const it: Dict = {
       'avviarla. Il report è una stima di probabilità, non una diagnosi; la decisione di ' +
       'riparare spetta al meccanico dopo il controllo.',
   },
+  og: {
+    tagline: 'Trova il guasto dal rumore',
+  },
+  notFound: {
+    title: 'Pagina non trovata — Stuk',
+    description:
+      'Questa pagina non esiste sul sito. Torna alla home o apri le guide ai sintomi per rumore.',
+    h1: 'Pagina non trovata',
+    text:
+      'L’indirizzo contiene un errore di battitura oppure la pagina è stata spostata. Il rumore che ti ha portato qui c’è ancora: riparti dalla home o apri le guide ai sintomi.',
+    home: 'Vai alla home',
+  },
 };

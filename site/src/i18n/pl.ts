@@ -209,4 +209,16 @@ export const pl: Dict = {
       'działanie. Raport to ocena prawdopodobieństwa, a nie diagnoza; decyzję o naprawie ' +
       'podejmuje mechanik po oględzinach.',
   },
+  og: {
+    tagline: 'Znajdź usterkę po dźwięku',
+  },
+  notFound: {
+    title: 'Nie znaleziono strony — Stuk',
+    description:
+      'Takiej strony tu nie ma. Wróć na stronę główną albo otwórz poradniki objawów po dźwięku.',
+    h1: 'Nie znaleziono strony',
+    text:
+      'W adresie jest literówka albo strona została przeniesiona. Dźwięk, przez który tu trafiłeś, nie zniknął — zacznij od strony głównej lub otwórz poradniki objawów.',
+    home: 'Na stronę główną',
+  },
 };

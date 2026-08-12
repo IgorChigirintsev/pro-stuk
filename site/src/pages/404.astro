@@ -1,0 +1,136 @@
+---
+/**
+ * Страница 404. Единственная страница сайта, которую собираем сразу на всех
+ * языках: сервер отдаёт её по любому несуществующему адресу, и заранее не
+ * известно, на каком языке этот адрес хотели набрать. Поэтому тексты всех
+ * языков лежат в разметке, а нужный выбирается тем же правилом, что и везде:
+ * язык браузера → ближайший язык по стране → английский.
+ *
+ * Из общего макета она не наследуется намеренно: шапка и подвал пришлись бы
+ * на один язык, и немец получил бы русское меню вокруг английского текста.
+ */
+import '../styles/global.css';
+
+import ArtNotFound from '../components/ArtNotFound.astro';
+import { hasSymptoms } from '../data/types';
+import { COUNTRY_TO_LANG, LANGS, RTL, pathFor, t } from '../i18n';
+
+const STRINGS = Object.fromEntries(
+  LANGS.map((lang) => {
+    const d = t(lang);
+    return [
+      lang,
+      {
+        dir: RTL.includes(lang) ? 'rtl' : 'ltr',
+        brand: d.brand,
+        title: d.notFound.title,
+        description: d.notFound.description,
+        h1: d.notFound.h1,
+        text: d.notFound.text,
+        home: d.notFound.home,
+        homeHref: pathFor('home', lang),
+        // Раздел разборов появляется у языка только целиком переведённым.
+        symptoms: hasSymptoms(lang) ? d.symptoms.h1 : null,
+        symptomsHref: hasSymptoms(lang) ? pathFor('symptoms', lang) : null,
+      },
+    ];
+  })
+);
+
+/** Без скрипта страница остаётся английской: это самый широкий запасной вариант. */
+const base = STRINGS.en;
+---
+
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{base.title}</title>
+    <meta name="description" content={base.description} />
+    <!-- Страницу-ошибку в индексе видеть незачем. -->
+    <meta name="robots" content="noindex" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" href="/icon.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#0e7c7b" />
+  </head>
+  <body class="bg-bg text-ink">
+    <main class="mx-auto flex min-h-screen max-w-3xl flex-col justify-center px-5 py-12">
+      <a href={base.homeHref} id="nf-brand-link" class="flex items-center gap-3 no-underline">
+        <span class="block h-9 w-9 rounded-[10px] bg-accent"></span>
+        <span id="nf-brand" class="text-xl font-extrabold">{base.brand}</span>
+      </a>
+
+      <!-- В арабской раскладке машина едет навстречу чтению, как и на картинке
+           для соцсетей: иначе телефон оказывается «позади» источника звука. -->
+      <ArtNotFound class="mt-10 w-full rounded-card border border-line rtl:-scale-x-100" />
+
+      <p class="mt-10 text-l font-bold text-accent">404</p>
+      <h1 id="nf-h1" class="mt-1 text-3xl font-extrabold">{base.h1}</h1>
+      <p id="nf-text" class="mt-4 max-w-xl text-base text-ink-soft">{base.text}</p>
+
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a
+          id="nf-home"
+          href={base.homeHref}
+          class="rounded-btn bg-accent px-5 py-3 font-bold text-white no-underline"
+        >
+          {base.home}
+        </a>
+        <a
+          id="nf-symptoms"
+          href={base.symptomsHref}
+          class="rounded-btn border border-line px-5 py-3 font-bold no-underline"
+        >
+          {base.symptoms}
+        </a>
+      </div>
+    </main>
+
+    <script is:inline define:vars={{ strings: STRINGS, c2l: COUNTRY_TO_LANG, known: LANGS }}>
+      // Тот же порядок, что и в приложении и в остальных страницах сайта:
+      // осознанный выбор сильнее всего, дальше язык браузера, дальше страна.
+      (() => {
+        const pick = () => {
+          const saved = localStorage.getItem('stuk_lang');
+          if (saved && known.includes(saved)) return saved;
+          for (const tag of navigator.languages ?? [navigator.language]) {
+            if (!tag) continue;
+            const [base, region] = tag.toLowerCase().split('-');
+            if (known.includes(base)) return base;
+            const byCountry = region && c2l[region.toUpperCase()];
+            if (byCountry && known.includes(byCountry)) return byCountry;
+          }
+          return 'en';
+        };
+
+        const lang = pick();
+        const s = strings[lang];
+        if (!s) return;
+        document.documentElement.lang = lang;
+        document.documentElement.dir = s.dir;
+        document.title = s.title;
+        document.querySelector('meta[name="description"]')?.setAttribute('content', s.description);
+
+        const set = (id, text, href) => {
+          const el = document.getElementById(id);
+          if (!el) return;
+          if (text === null) {
+            el.remove();
+            return;
+          }
+          el.textContent = text;
+          if (href) el.href = href;
+        };
+        set('nf-brand', s.brand);
+        set('nf-h1', s.h1);
+        set('nf-text', s.text);
+        set('nf-home', s.home, s.homeHref);
+        set('nf-symptoms', s.symptoms, s.symptomsHref);
+        document.getElementById('nf-brand-link')?.setAttribute('href', s.homeHref);
+      })();
+    </script>
+  </body>
+</html>
