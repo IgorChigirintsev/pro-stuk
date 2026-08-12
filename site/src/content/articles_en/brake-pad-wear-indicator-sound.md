@@ -4,7 +4,10 @@ title: "Brake pad wear indicator: what it sounds like"
 metaTitle: "Brake pad wear indicator: what it sounds like | Stuk"
 description: "A thin metallic squeal while driving that stops the moment you brake is the mechanical pad wear indicator. How to recognise it and how long you have."
 pubDate: "2026-06-09"
-related: []
+related:
+  - seized-caliper-slide-pins-signs
+  - starter-clicks-but-wont-crank
+  - alternator-belt-squeal-causes
 faq:
   - q: "Why does the squeal stop when I press the pedal?"
     a: "Because braking presses the indicator's spring tab against the disc and it stops vibrating. That is the signature of a mechanical indicator: the sound is there while rolling and disappears exactly when you brake."

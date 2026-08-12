@@ -4,7 +4,10 @@ title: "Alternator belt squeal: the causes"
 metaTitle: "Alternator belt squeal: causes and what to do | Stuk"
 description: "Why a drive belt squeals: slack tension, wear, oil on the pulleys, idlers. How to find the cause from the moment the squeal appears."
 pubDate: "2026-08-02"
-related: []
+related:
+  - alternator-squeal-bearing-or-belt
+  - belt-squeal-after-a-belt-change
+  - signs-of-a-failing-water-pump
 faq:
   - q: "Can I drive with a squealing drive belt?"
     a: "For a few days, usually yes, but the cause should be found without delay. A squeal means slipping: the belt overheats and wears faster, and the battery may be undercharging. If the squeal is constant and loud, the risk of a break grows — and on most cars the water pump stops along with the belt."

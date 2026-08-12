@@ -4,7 +4,10 @@ title: "An engine knock only when cold: the full picture"
 metaTitle: "Engine knock only when cold: the full picture | Stuk"
 description: "Why an engine knocks after starting and goes quiet as it warms: lifters, piston skirts, the chain, cam phasers. Where normal ends and bore scoring begins."
 pubDate: "2026-07-02"
-related: []
+related:
+  - knock-at-start-after-long-standing
+  - noises-when-starting-in-freezing-weather
+  - engine-knock-at-idle
 faq:
   - q: "Why does the knock disappear exactly as the engine warms?"
     a: "Engine parts expand with heat and take up the enlarged clearances: an aluminium piston sits more tightly in the bore, the oil thins and reaches every friction pair. If the source of the sound was an enlarged cold clearance, the sound goes with it."

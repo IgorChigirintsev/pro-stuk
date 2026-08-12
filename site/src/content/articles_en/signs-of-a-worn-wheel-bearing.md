@@ -4,7 +4,10 @@ title: "Signs of a worn wheel bearing"
 metaTitle: "Worn wheel bearing: sound and tests | Stuk"
 description: "How a worn wheel bearing sounds, how to tell it from tyre noise, which tests you can do yourself and what decides the replacement."
 pubDate: "2026-08-02"
-related: []
+related:
+  - can-you-drive-with-a-humming-wheel-bearing
+  - hum-wheel-bearing-or-tyres
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "What is the very first sign of a worn wheel bearing?"
     a: "An even low hum from 60–80 km/h that was not there before. At first it appears only under acceleration or in gentle curves, then it becomes constant and louder. At the early stage there is no play yet — only the sound."

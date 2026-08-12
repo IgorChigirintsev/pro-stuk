@@ -4,7 +4,10 @@ title: "A ringing under the car at idle"
 metaTitle: "A ringing under the car at idle: causes and fixes | Stuk"
 description: "A heat shield, a broken catalytic converter, the exhaust touching the body: where a ringing under the car at idle comes from and how to check it."
 pubDate: "2026-07-15"
-related: []
+related:
+  - rattle-under-car-when-accelerating
+  - exhaust-has-become-louder-causes
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Why is the ringing heard when cold and gone after warm-up?"
     a: "Metal expands with heat, and the gap between a loose shield and the pipe closes — the ringing stops. That is a convenient diagnostic clue: a ringing that depends on warm-up almost always lives in the exhaust system rather than the suspension."

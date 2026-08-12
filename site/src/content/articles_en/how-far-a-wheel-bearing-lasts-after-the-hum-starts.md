@@ -4,7 +4,10 @@ title: "How far a wheel bearing lasts after the hum starts"
 metaTitle: "How far a wheel bearing lasts with a hum | Stuk"
 description: "From a wheel bearing's first hum to dangerous play is usually thousands of kilometres. What the margin depends on and which signs cancel it."
 pubDate: "2026-06-16"
-related: []
+related:
+  - timing-chain-failure-consequences-by-engine
+  - driving-with-dead-shock-absorbers
+  - alternator-belt-squeal-causes
 faq:
   - q: "How many kilometres can I drive with a humming bearing?"
     a: "There is no exact figure: from the hum appearing to a critical state is usually thousands of kilometres, but the spread is enormous. The practical guide is to book a diagnosis within one or two weeks and not to plan long trips."

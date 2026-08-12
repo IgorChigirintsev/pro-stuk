@@ -4,7 +4,10 @@ title: "A knock: ball joint or bush — how to tell"
 metaTitle: "Knock: ball joint or bush — how to tell them apart | Stuk"
 description: "A suspension knock over bumps: how to tell a worn ball joint from a worn bush by the character of the sound, simple tests and a check on a lift."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-worn-ball-joint
+  - signs-of-worn-suspension-bushes
+  - how-to-check-a-ball-joint-yourself
 faq:
   - q: "How does a ball joint knock differ from a bush knock by ear?"
     a: "A ball joint knocks brighter and drier — a metallic, clipped sound, often with a creak as the wheel is turned. A bush gives a dull, rubbery knock with no ring to it, usually on the same small bumps. The difference is real but subtle, so it is safer to combine the sound with simple tests: rocking the car, braking over a bump, and a look underneath."

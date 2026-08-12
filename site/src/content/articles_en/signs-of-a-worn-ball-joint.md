@@ -4,7 +4,10 @@ title: "Signs of a worn ball joint"
 metaTitle: "Worn ball joint: sound, play, checks | Stuk"
 description: "Knocking over small bumps, creaking when steering, wheel play — how to recognise a worn ball joint, check it and how urgent the replacement is."
 pubDate: "2026-08-02"
-related: []
+related:
+  - how-to-check-a-ball-joint-yourself
+  - knock-ball-joint-or-suspension-bush
+  - signs-of-worn-suspension-bushes
 faq:
   - q: "What does a worn ball joint sound like?"
     a: "Most often an abrupt metallic knock over small bumps — expansion joints, gravel, speed humps. At the middle stage creaking when the steering is turned joins it. The sound is usually localised on one side, from below, around the wheel."

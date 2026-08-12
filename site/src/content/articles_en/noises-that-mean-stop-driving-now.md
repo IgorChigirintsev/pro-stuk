@@ -4,7 +4,10 @@ title: "Noises that mean stop driving now"
 metaTitle: "Car noises that mean stop driving now | Stuk"
 description: "Most car noises can wait for a workshop, but a few mean switch it off now. The signals, how to stop safely and what to do once you have."
 pubDate: "2026-07-31"
-related: []
+related:
+  - top-10-noises-you-should-not-drive-with
+  - finding-interior-rattles-and-squeaks
+  - can-you-drive-with-engine-knock
 faq:
   - q: "How do I know a noise means stopping right now?"
     a: "Go by two markers: the noise appeared suddenly, and it is dull, low and metallic. Gradually growing hums and squeaks almost always wait for a workshop; a heavy knock that arrived out of nowhere almost never does."

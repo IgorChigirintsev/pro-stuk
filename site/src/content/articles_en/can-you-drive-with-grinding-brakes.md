@@ -4,7 +4,10 @@ title: "Can you drive with grinding brakes"
 metaTitle: "Can you drive with grinding brakes? | Stuk"
 description: "Metallic grinding when braking means the friction material is gone and metal is cutting the disc. How far you can drive, what not to do and what it costs."
 pubDate: "2026-07-22"
-related: []
+related:
+  - hum-that-grows-with-speed
+  - hum-after-changing-tyres
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "How many kilometres can I drive with grinding brakes?"
     a: "We are talking about tens of kilometres, not thousands: once the friction material is gone, the backing plate cuts the disc with every stop. The sensible plan is to drive calmly to the nearest workshop, without planning a motorway trip or a mountain descent on those brakes."

@@ -4,7 +4,10 @@ title: "Signs of a worn inner CV joint"
 metaTitle: "Worn inner CV joint: how to recognise it | Stuk"
 description: "An inner CV joint does not click in turns — it knocks under acceleration and vibrates. Its symptoms, how it differs from the outer joint and the repair."
 pubDate: "2026-07-26"
-related: []
+related:
+  - torn-cv-boot-how-far-can-you-drive
+  - click-when-reversing
+  - how-long-a-cv-joint-lasts-after-clicking-starts
 faq:
   - q: "How does an inner CV joint differ from an outer one by sound?"
     a: "The outer one rattles at full lock under power; the inner one knocks and vibrates accelerating in a straight line, especially over bumps. If the sound appears without the steering being turned, look at the inner joint."

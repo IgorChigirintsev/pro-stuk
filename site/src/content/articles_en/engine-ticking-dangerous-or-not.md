@@ -4,7 +4,10 @@ title: "Engine ticking: dangerous or not"
 metaTitle: "Engine ticking: dangerous or not, how to tell | Stuk"
 description: "Why an engine ticks: when it is normal injector operation and when it is worn hydraulic lifters or valves. How to tell a harmless sound from a serious one."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-valve-clatter
+  - hydraulic-lifters-ticking-when-cold
+  - petrol-engine-sounds-like-a-diesel
 faq:
   - q: "The engine ticks at idle — is that dangerous?"
     a: "More often no than yes. The commonest sources of ticking are direct injection injectors, which tick as standard, and hydraulic lifters, which dislike the oil. Ticking becomes dangerous when it appeared suddenly, grows week by week, or comes with a loss of pull and the oil pressure light."

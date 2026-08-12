@@ -4,7 +4,10 @@ title: "Chevrolet Cruze alternator bearing whine"
 metaTitle: "Chevrolet Cruze alternator bearing whine: checks | Stuk"
 description: "A whine under the bonnet of a Cruze that rises with revs: how to tell the alternator bearing from idlers, the water pump and the one-way pulley."
 pubDate: "2026-06-28"
-related: []
+related:
+  - chinese-suv-common-noises-chery-haval-geely
+  - haval-jolion-suspension-knock-what-to-check-first
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "The whine under the bonnet rises with revs. Is that the alternator?"
     a: "Possibly, but the idlers, the water pump and the tensioner have the same signature: they all turn on the same belt. What separates them is a test with the belt removed and listening to each unit individually."

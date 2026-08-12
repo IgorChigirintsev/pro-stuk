@@ -4,7 +4,10 @@ title: "A steering rack knock: how to identify it"
 metaTitle: "A steering rack knock: how to identify it yourself | Stuk"
 description: "How to tell that the steering rack is knocking and not the ends or tie rods: the characteristic signs, a two-person test and what the repair depends on."
 pubDate: "2026-07-16"
-related: []
+related:
+  - knock-when-steering-on-the-move
+  - signs-of-worn-tie-rods
+  - signs-of-worn-track-rod-ends
 faq:
   - q: "Can I drive with a knocking rack?"
     a: "For a short time, yes: the knock alone will not immobilise the car. But the clearance in the mesh grows with every kilometre of broken road, and wear on the toothed bar makes a cheap adjustment useless. The earlier the diagnosis, the cheaper the answer."

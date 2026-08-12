@@ -4,7 +4,10 @@ title: "Automatic transmission whine: the early signs"
 metaTitle: "Automatic transmission whine: early signs | Stuk"
 description: "Whine from an automatic gearbox at an early stage: what it sounds like, how it differs from wheel bearing and tyre noise, and what gets checked first."
 pubDate: "2026-06-05"
-related: []
+related:
+  - signs-of-worn-driveshaft-splines
+  - what-a-stretched-timing-chain-sounds-like
+  - signs-of-a-worn-clutch
 faq:
   - q: "Does gearbox whine follow road speed or engine revs?"
     a: "Usually engine revs and what the torque converter is doing, rather than speed directly. So at the same road speed in different gears the whine changes pitch — an important difference from a wheel bearing, which is tied to speed alone."

@@ -4,7 +4,10 @@ title: "Signs of a rotten silencer"
 metaTitle: "Signs of a rotten silencer: how to tell | Stuk"
 description: "The car has got louder, a rumble and popping come from under the floor, exhaust fumes reach the cabin — the signs of a rotten silencer and the repair."
 pubDate: "2026-06-08"
-related: []
+related:
+  - finding-a-rattling-heat-shield
+  - signs-of-a-torn-exhaust-flex-pipe
+  - signs-of-a-worn-clutch
 faq:
   - q: "Does a rotten silencer affect power?"
     a: "Noticeably, no. A hole in the box or a pipe makes the exhaust louder, but the resistance to flow does not rise — it falls. If power went along with the noise, look for another cause: usually a blocked catalytic converter or an engine fault."

@@ -4,7 +4,10 @@ title: "Finding a suspension knock without a lift"
 metaTitle: "Finding a suspension knock without a lift | Stuk"
 description: "A step-by-step plan for locating a suspension knock with no pit and no lift: the sound portrait, the bounce test, checks by hand and a controlled drive."
 pubDate: "2026-08-02"
-related: []
+related:
+  - how-to-check-a-ball-joint-yourself
+  - checking-shock-absorbers-with-the-bounce-test
+  - front-suspension-knock-over-small-bumps
 faq:
   - q: "Can you really find the source without a pit or a lift?"
     a: "In most cases yes, at least down to a candidate part. Anti-roll bar links, ball joints, track rod ends and dampers can all be checked by rocking the car, by hand and with a controlled drive. A lift is needed to confirm the diagnosis and for parts you cannot reach, such as rear beam bushes."

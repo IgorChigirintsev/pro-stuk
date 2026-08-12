@@ -4,7 +4,10 @@ title: "Nissan Qashqai cam phaser knock"
 metaTitle: "Nissan Qashqai cam phaser knock: causes, repair | Stuk"
 description: "A short rattle at a cold start on a Qashqai often comes from the cam phaser. How to tell it from the timing chain and what a workshop checks."
 pubDate: "2026-06-25"
-related: []
+related:
+  - nissan-timing-chain-stretch-symptoms
+  - renault-duster-transfer-case-whine
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "Is a short rattle at start-up on a Qashqai dangerous?"
     a: "A rattle of a second or two at a cold start does not break the car by itself, but it signals that oil is reaching the mechanism slowly. If the sound gets longer or appears on a warm engine, do not put the diagnosis off."

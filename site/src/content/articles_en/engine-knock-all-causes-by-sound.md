@@ -4,7 +4,10 @@ title: "Engine knock: all the causes by type of sound"
 metaTitle: "Engine knock: all the causes by type of sound | Stuk"
 description: "A map of engine knocks by character of sound: ticking, clicking, ringing, dull thumps. What each one means and how urgent it is."
 pubDate: "2026-07-01"
-related: []
+related:
+  - engine-ticking-at-idle
+  - metallic-pinging-under-acceleration
+  - engine-knock-at-idle
 faq:
   - q: "Can the cause be identified precisely by sound alone?"
     a: "A precise diagnosis follows an inspection, but the character of the sound narrows the list to two or three versions. What matters is recording three conditions: engine temperature, revs and load. With that data a mechanic finds the cause several times faster, and the diagnosis costs less."

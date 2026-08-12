@@ -4,7 +4,10 @@ title: "Ford Focus clutch fork knock"
 metaTitle: "Ford Focus clutch fork knock: causes and repair | Stuk"
 description: "Clicking and knocking as you press the clutch pedal on a Focus: how to check the fork and the release bearing, and what a workshop does."
 pubDate: "2026-06-28"
-related: []
+related:
+  - chevrolet-cruze-alternator-bearing-whine
+  - chinese-suv-common-noises-chery-haval-geely
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "The knock is only heard when working the pedal — is it definitely the clutch?"
     a: "Almost certainly. If the sound appears strictly as the pedal is pressed or released and does not depend on speed or road surface, the source is in the clutch release mechanism. Other parts do not react that selectively."

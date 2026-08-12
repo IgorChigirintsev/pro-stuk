@@ -4,7 +4,10 @@ title: "Power steering whine when turning: causes"
 metaTitle: "Power steering whine when turning: causes | Stuk"
 description: "Why hydraulic power steering whines in corners: fluid level, air in the system, the pump, the belt. How to tell normal from wear and what to check first."
 pubDate: "2026-08-02"
-related: []
+related:
+  - knock-when-steering-while-parked
+  - signs-of-worn-track-rod-ends
+  - alternator-belt-squeal-causes
 faq:
   - q: "It only whines at full lock. Is that a fault?"
     a: "A short whine with the wheel held at full lock is by design: the pump's relief valve opens and system pressure is at maximum. It is not a sign of a fault, but do not hold full lock for more than a couple of seconds — the pump is working at its hardest right then."

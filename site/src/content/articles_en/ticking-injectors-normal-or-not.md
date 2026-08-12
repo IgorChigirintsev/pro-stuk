@@ -4,7 +4,10 @@ title: "Ticking injectors: normal or not"
 metaTitle: "Ticking injectors: normal or a sign of trouble | Stuk"
 description: "Injector ticking: why it happens, when it is normal for an engine and when it signals a fault. How to tell it from hydraulic lifters."
 pubDate: "2026-07-08"
-related: []
+related:
+  - intake-backfire-causes
+  - gurgling-in-engine-after-shutdown
+  - engine-ticking-dangerous-or-not
 faq:
   - q: "Why are the injectors only audible at idle?"
     a: "At idle the general engine noise is at its lowest, and the clicks of the solenoid valves come to the fore. As the revs rise the ticking does not go anywhere — it simply dissolves into the noise of the intake and exhaust."

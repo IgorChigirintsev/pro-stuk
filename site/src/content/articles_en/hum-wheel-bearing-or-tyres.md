@@ -4,7 +4,10 @@ title: "Humming: wheel bearing or tyres — telling them apart"
 metaTitle: "Hum: wheel bearing or tyres — how to tell | Stuk"
 description: "How to tell wheel bearing hum from tyre noise: tests you can do in one drive, a comparison table of the signs, and the mistakes that cost money."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-worn-wheel-bearing
+  - can-you-drive-with-a-humming-wheel-bearing
+  - knock-after-a-tyre-change
 faq:
   - q: "The hum appeared right after fitting different wheels. What is it?"
     a: "Almost certainly the tyres: a different tread pattern, a different compound, or uneven wear on the old set. A bearing cannot switch on that abruptly — its hum builds week by week. To check, refit the previous set or swap the wheels around."

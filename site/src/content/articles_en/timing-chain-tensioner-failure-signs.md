@@ -4,7 +4,10 @@ title: "Signs of a failing timing chain tensioner"
 metaTitle: "Timing chain tensioner: signs of failure | Stuk"
 description: "How to tell a timing chain tensioner has weakened: clatter at a cold start, rustling at idle, a knock when blipping the throttle, and the risk of a jump."
 pubDate: "2026-07-06"
-related: []
+related:
+  - squeal-under-the-bonnet-at-startup
+  - squealing-under-the-bonnet-when-cold
+  - alternator-belt-squeal-causes
 faq:
   - q: "Why does the chain rattle only at a cold start?"
     a: "While the car stands, oil drains out of the hydraulic tensioner, and in the first seconds after starting the chain runs with reduced tension and whips against the guides. As soon as oil pressure builds the plunger extends and the sound goes. The more worn the tensioner, the longer the clatter lasts."

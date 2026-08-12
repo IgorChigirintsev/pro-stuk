@@ -4,7 +4,10 @@ title: "Humming when turning right"
 metaTitle: "Humming when turning right: causes and checks | Stuk"
 description: "If the hum grows in right-hand curves, the left wheel bearing is the suspect. A step-by-step check without a lift, the sound-alikes and what the repair involves."
 pubDate: "2026-07-19"
-related: []
+related:
+  - knock-felt-in-the-steering-wheel-on-rough-roads
+  - how-to-identify-a-steering-rack-knock
+  - power-steering-whine-when-turning
 faq:
   - q: "Why does turning right make the left bearing hum?"
     a: "In a right-hand curve the body leans left and the car's weight transfers onto the outer, left-hand wheels. A worn left bearing hums louder under that extra load, while in a left-hand curve it is unloaded and goes quiet. The side that hums points at the bearing opposite the direction of the turn."

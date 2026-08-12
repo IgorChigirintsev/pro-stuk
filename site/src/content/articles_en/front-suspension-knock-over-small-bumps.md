@@ -4,7 +4,10 @@ title: "Front suspension knock over small bumps"
 metaTitle: "Front suspension knock over small bumps: causes | Stuk"
 description: "Why the front suspension knocks on small bumps specifically: anti-roll bar links, bushes, top mounts, track rod ends. How to narrow it down yourself."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-worn-anti-roll-bar-links
+  - signs-of-worn-suspension-bushes
+  - finding-a-suspension-knock-without-a-lift
 faq:
   - q: "Why does the suspension knock on small bumps but stay silent on big potholes?"
     a: "On a small bump the suspension makes fast short movements, and a worn joint has time to shift within its play — every cycle gives an impact. On a big pothole the suspension is loaded harder, the play is taken up by force, and there is nothing left to knock. So a knock on small stuff nearly always means a small amount of play in one of the joints."

@@ -4,7 +4,9 @@ title: "Haval Jolion suspension knock: what to check first"
 metaTitle: "Haval Jolion suspension knock: what to check first | Stuk"
 description: "A sensible order for checking a front suspension knock on a Haval Jolion: from anti-roll bar links to top mounts and control arm bushes."
 pubDate: "2026-06-29"
-related: []
+related:
+  - signs-of-a-worn-outer-cv-joint
+  - chinese-suv-common-noises-chery-haval-geely
 faq:
   - q: "Is a Jolion suspension knock a warranty case?"
     a: "It depends on the part and the mileage. Anti-roll bar links are treated as consumables almost everywhere, while strut top mounts, control arm bushes and dampers at low mileage may well be covered. The dealer decides after an inspection, so the first visit logically goes there."

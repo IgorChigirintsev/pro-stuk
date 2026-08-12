@@ -4,7 +4,10 @@ title: "Signs of worn anti-roll bar links"
 metaTitle: "Worn anti-roll bar links: knock and tests | Stuk"
 description: "How worn anti-roll bar links knock, how their sound differs from dampers and ball joints, simple checks and what the replacement involves."
 pubDate: "2026-08-02"
-related: []
+related:
+  - not-replacing-anti-roll-bar-links
+  - signs-of-worn-shock-absorbers
+  - knock-after-a-tyre-change
 faq:
   - q: "What is the most characteristic sign of worn anti-roll bar links?"
     a: "A frequent dull knock over small bumps — expansion joints, washboard surfaces, speed humps at low speed. The giveaway: in a gentle turn the knock usually goes quiet, because the anti-roll bar is loaded and the play in the joint is taken up."

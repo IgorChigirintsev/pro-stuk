@@ -4,7 +4,10 @@ title: "Squealing under the bonnet when cold"
 metaTitle: "Squealing under the bonnet when cold: causes | Stuk"
 description: "Why there is a squeal under the bonnet on a cold engine that goes once warm: the belt, idlers, the water pump. How to find the source yourself."
 pubDate: "2026-07-04"
-related: []
+related:
+  - engine-whine-under-acceleration
+  - humming-under-the-bonnet-at-idle
+  - signs-of-a-failing-water-pump
 faq:
   - q: "Why does the squeal disappear once the engine warms up?"
     a: "With heat the belt rubber becomes more flexible and grips the pulleys better, and the grease in the bearings thins and lubricates the races again. The sound goes, but the cause remains. The threshold shifts month by month: the squeal will last longer and start appearing outside frosty mornings."

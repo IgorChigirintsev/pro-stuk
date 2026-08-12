@@ -4,7 +4,10 @@ title: "How long a CV joint lasts after the clicking starts"
 metaTitle: "How long a CV joint lasts after clicking starts | Stuk"
 description: "Honest guidance on CV joint life after the first clicks: what the margin depends on, what accelerates the failure and when it must be replaced."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-worn-outer-cv-joint
+  - can-you-drive-with-a-humming-wheel-bearing
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Can a CV joint seize while driving?"
     a: "Seizure is a rare scenario; the joint usually passes through stages of play and rattling and finally breaks up: torque stops being transmitted and the car will not move. That is safer than a seizure but means a tow truck in an awkward place. The main risk is not a crash but being suddenly immobilised."

@@ -4,7 +4,10 @@ title: "Signs of valve clatter"
 metaTitle: "Valve clatter: what it sounds like, what to do | Stuk"
 description: "How valve clatter sounds, why valve clearances drift, how it differs from other engine noises and what a clearance adjustment involves."
 pubDate: "2026-08-02"
-related: []
+related:
+  - engine-ticking-dangerous-or-not
+  - hydraulic-lifters-ticking-when-cold
+  - engine-knock-at-idle
 faq:
   - q: "What does valve clatter sound like?"
     a: "An even dry ticking from the top of the engine, under the rocker cover. Its frequency is half crankshaft speed, because the camshaft turns half as fast. The clatter is clearly audible at idle and does not disappear entirely with warm-up — which is how it differs from the brief morning ticking of hydraulic lifters."

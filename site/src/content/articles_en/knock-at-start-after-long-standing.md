@@ -4,7 +4,10 @@ title: "A knock at start-up after standing for weeks"
 metaTitle: "Knock at start-up after long standing: causes | Stuk"
 description: "Why an engine knocks for the first seconds after weeks parked: oil draining down, lifters, the chain tensioner, cam phasers. Where normal ends."
 pubDate: "2026-07-03"
-related: []
+related:
+  - noises-when-starting-in-freezing-weather
+  - knock-on-lift-off
+  - engine-knock-when-hot
 faq:
   - q: "The engine knocks for a couple of seconds after starting — is that normal?"
     a: "If the car has stood for weeks, a short knock in the first two or three seconds is acceptable: the oil has drained into the sump and the system needs time to restore pressure. The concerning version is the same knock after every night, or one lasting longer than a few seconds."

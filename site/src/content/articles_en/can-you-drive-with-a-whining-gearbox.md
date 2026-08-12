@@ -4,7 +4,10 @@ title: "Can you drive with a whining gearbox"
 metaTitle: "Can you drive with a whining gearbox? | Stuk"
 description: "A whining gearbox rarely stops the car at once, but the margin depends on the character of the sound. What whines, which signs are urgent and what to do."
 pubDate: "2026-07-30"
-related: []
+related:
+  - can-you-drive-with-a-whining-water-pump
+  - driving-with-noisy-hydraulic-lifters
+  - can-you-drive-with-engine-knock
 faq:
   - q: "How many kilometres can I drive with a whining gearbox?"
     a: "If the whine is even, the same in every gear, and comes with no crunching or jolts, we are usually talking about thousands of kilometres. As soon as a metallic edge joins it, or gears start needing force to engage, the margin shrinks to hundreds."

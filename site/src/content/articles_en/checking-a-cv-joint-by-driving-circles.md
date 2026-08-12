@@ -4,7 +4,10 @@ title: "Checking a CV joint by driving circles in a car park"
 metaTitle: "Checking a CV joint by driving circles | Stuk"
 description: "A step-by-step outer CV joint test on an empty car park: how to drive the circles, what should click, and why the test sometimes shows nothing."
 pubDate: "2026-06-18"
-related: []
+related:
+  - checking-timing-chain-tension-by-ear
+  - how-to-check-hydraulic-lifters
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "Why does a CV joint only click in a tight turn?"
     a: "Driving straight, the balls work in the middle of their tracks where wear is minimal. At full lock the angle between the shafts is at its maximum, the balls reach the edges of the worn grooves and jump over the steps in the metal — which you hear as rapid clicking."

@@ -4,7 +4,10 @@ title: "A knock when changing gear"
 metaTitle: "A knock when changing gear: the causes | Stuk"
 description: "A knock at the moment of a gear change comes from linkage play, worn engine mounts and driveshaft joints. How to separate the causes."
 pubDate: "2026-07-22"
-related: []
+related:
+  - gearbox-whine-in-neutral
+  - gearbox-whine-at-a-particular-speed
+  - signs-of-a-worn-clutch
 faq:
   - q: "Is a knock when changing gear always the gearbox?"
     a: "No, more often the opposite. The shift mechanism itself rarely knocks; far more often the sound comes from an engine mount that lets the engine lurch as the drive changes. The gearbox's internals are usually silent."

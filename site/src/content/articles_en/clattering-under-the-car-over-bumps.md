@@ -4,7 +4,10 @@ title: "Clattering under the car over bumps"
 metaTitle: "Clattering under the car over bumps: causes | Stuk"
 description: "Anti-roll bar links, the undertray, exhaust mountings: why something clatters under the car over bumps, how to find the source and when it is actually serious."
 pubDate: "2026-07-14"
-related: []
+related:
+  - rattling-under-the-floor-at-speed
+  - ringing-under-the-car-at-idle
+  - signs-of-worn-suspension-bushes
 faq:
   - q: "Why does it clatter on small bumps but stay quiet in big potholes?"
     a: "Washboard tarmac produces rapid, small-amplitude movements — exactly what makes parts with a little play rattle: anti-roll bar links, loose undertray bolts, exhaust mountings. In a big pothole the suspension travels through its full range and those small gaps never get the chance to ring."

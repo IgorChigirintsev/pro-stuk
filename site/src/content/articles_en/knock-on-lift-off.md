@@ -4,7 +4,10 @@ title: "A knock on lift-off"
 metaTitle: "A knock on lift-off: mounts, driveline, chain | Stuk"
 description: "A single knock as you release the throttle: worn engine mounts, driveline play, the timing chain, the exhaust. How to localise the source."
 pubDate: "2026-07-03"
-related: []
+related:
+  - engine-knock-all-causes-by-sound
+  - engine-ticking-at-idle
+  - engine-knock-at-idle
 faq:
   - q: "Why is the knock heard on lift-off rather than constantly?"
     a: "When you release the pedal the load in the powertrain reverses: the engine rocks the other way on its mounts, and driveline clearances are taken up with an impact. While the drive is constant the clearances are pressed to one side and stay silent — only the moment of reversal knocks."

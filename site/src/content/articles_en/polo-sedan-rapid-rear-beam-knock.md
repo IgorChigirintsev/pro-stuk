@@ -4,7 +4,10 @@ title: "Polo Sedan / Rapid rear beam knock"
 metaTitle: "Polo Sedan and Rapid rear beam knock: causes | Stuk"
 description: "Why a Polo Sedan or Rapid knocks at the rear: beam bushes, dampers, bump stops and fasteners. How to localise the source and what the repair depends on."
 pubDate: "2026-06-23"
-related: []
+related:
+  - signs-of-a-worn-wheel-bearing
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "Can only the bushes be replaced without changing the beam?"
     a: "Yes, that is the standard procedure: the bushes are pressed out and replaced separately while the beam stays. Replacing the beam complete only makes sense if it is deformed or corroded through, not because the bushes are worn."

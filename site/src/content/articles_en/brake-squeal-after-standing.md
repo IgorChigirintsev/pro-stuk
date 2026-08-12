@@ -4,7 +4,10 @@ title: "Brake squeal after standing: normal or not"
 metaTitle: "Brake squeal after standing: normal or not | Stuk"
 description: "A morning brake squeal after a night outside is usually rust film on the disc. How to tell it from worn friction material and when to go to a workshop."
 pubDate: "2026-07-22"
-related: []
+related:
+  - can-you-drive-with-grinding-brakes
+  - hum-that-grows-with-speed
+  - brake-judder-when-braking
 faq:
   - q: "Why do the brakes squeal only in the morning?"
     a: "Overnight a very thin oxide layer forms on the exposed disc surface — ordinary surface rust, which needs only a few hours of damp air. The first applications remove it, the contact area is restored and the squeal disappears."

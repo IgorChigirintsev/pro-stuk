@@ -4,7 +4,10 @@ title: "A squeal under the bonnet at start-up"
 metaTitle: "A squeal under the bonnet at start-up: causes | Stuk"
 description: "Why there is a squeal under the bonnet in the first seconds after starting: the belt, tensioner, idlers or the alternator decoupler pulley."
 pubDate: "2026-07-04"
-related: []
+related:
+  - squealing-under-the-bonnet-when-cold
+  - engine-whine-under-acceleration
+  - alternator-belt-squeal-causes
 faq:
   - q: "Is a squeal that stops a couple of seconds after starting dangerous?"
     a: "A brief squeal is not an emergency, but it is not normal either: a healthy drive should run silently. It is an early sign of belt wear or slack tension. You can drive, but do not postpone the inspection for months — the squeal will get longer and louder."

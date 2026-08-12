@@ -4,7 +4,10 @@ title: "Signs of worn suspension springs"
 metaTitle: "Worn suspension springs: how to check | Stuk"
 description: "Sagging, body roll, bottoming out in potholes: how to tell that suspension springs are tired, how to check them without a lift and what replacement involves."
 pubDate: "2026-07-13"
-related: []
+related:
+  - sagging-springs-symptoms
+  - signs-of-worn-bump-stops
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Can I replace just one spring?"
     a: "Not recommended. A new spring is taller and stiffer than its tired neighbour, the car sits crooked, and suspension loads become uneven. Springs on one axle are replaced in pairs."

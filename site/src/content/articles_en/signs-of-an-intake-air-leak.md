@@ -4,7 +4,10 @@ title: "Signs of an intake air leak"
 metaTitle: "Signs of an intake air leak: how to find it | Stuk"
 description: "Hunting idle, whistling or hissing under the bonnet, a lean mixture and fuel trim codes — how to recognise an intake air leak and how workshops find it."
 pubDate: "2026-06-09"
-related: []
+related:
+  - brake-pad-wear-indicator-sound
+  - seized-caliper-slide-pins-signs
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "Why does an air leak make the idle hunt?"
     a: "The ECU calculates fuel delivery from the measured airflow. Unmeasured air through a gap leans the mixture, the ECU adds fuel, the revs jump, then the correction rolls back — and the cycle repeats. Hence the characteristic swing of the tachometer needle."

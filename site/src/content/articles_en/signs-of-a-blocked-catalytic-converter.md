@@ -4,7 +4,10 @@ title: "Signs of a blocked catalytic converter"
 metaTitle: "Signs of a blocked catalytic converter | Stuk"
 description: "A blocked converter chokes the engine: the car will not accelerate, stalls under load, uses more fuel. How to tell it from other causes of lost power."
 pubDate: "2026-06-08"
-related: []
+related:
+  - broken-catalytic-converter-rattle
+  - signs-of-a-rotten-silencer
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Can a converter block suddenly?"
     a: "Suddenly, usually not: the honeycomb clogs with deposits gradually and power fades over months. A sharp loss of power in one day more often means the ceramic has broken up and its fragments have blocked the exhaust."

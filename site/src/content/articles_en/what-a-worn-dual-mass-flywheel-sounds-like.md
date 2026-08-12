@@ -4,7 +4,10 @@ title: "What a worn dual-mass flywheel sounds like"
 metaTitle: "Worn dual-mass flywheel: what it sounds like | Stuk"
 description: "Clatter at startup and shutdown, rattling at idle, vibration when pulling away — how a worn dual-mass flywheel sounds and what it gets confused with."
 pubDate: "2026-06-04"
-related: []
+related:
+  - engine-mount-failure-symptoms
+  - automatic-transmission-whine-early-signs
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Why is a dual-mass flywheel loudest when you switch the engine off?"
     a: "As it stops, the engine passes through the low-rev range where the driveline resonates. A healthy flywheel absorbs that with its damper springs; a worn one no longer does, and the two masses knock together. The same effect is audible at startup."

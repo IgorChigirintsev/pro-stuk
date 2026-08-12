@@ -4,7 +4,10 @@ title: "Gearbox whine at a particular speed"
 metaTitle: "Gearbox whine at a particular speed: causes | Stuk"
 description: "A whine that appears in a narrow band of speeds and changes with the throttle usually comes from the gearbox or the final drive. How to tell it apart."
 pubDate: "2026-07-23"
-related: []
+related:
+  - crunching-when-selecting-a-gear
+  - knock-when-releasing-the-clutch
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "Why is the whine only heard at 60–80 km/h and gone above that?"
     a: "Worn gear teeth produce a sound at their own frequency, and it coincides with a body resonance only in a narrow band of revs. Outside that window the whine has not gone anywhere, it simply drops below the background noise and stops being distinguishable."

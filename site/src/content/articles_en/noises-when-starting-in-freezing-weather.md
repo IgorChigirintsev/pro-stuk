@@ -4,7 +4,10 @@ title: "Noises when starting in freezing weather"
 metaTitle: "Noises starting in frost: squeal, knock, grinding | Stuk"
 description: "Belt squeal, the knock of thick oil, starter grinding: the sounds of a cold start in frost. What counts as normal in winter and what needs a workshop."
 pubDate: "2026-07-03"
-related: []
+related:
+  - knock-on-lift-off
+  - engine-knock-all-causes-by-sound
+  - can-you-drive-with-engine-knock
 faq:
   - q: "Why does an engine sound louder and coarser in frost?"
     a: "In the cold the oil thickens and reaches the friction pairs more slowly, the clearances between cold parts are at their largest, and belt rubber stiffens. Each of those adds its own sound. As it warms, a healthy engine quietens within a few minutes."

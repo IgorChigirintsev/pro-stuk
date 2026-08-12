@@ -4,7 +4,10 @@ title: "Automatic gearbox jolts and clunks when shifting"
 metaTitle: "Automatic gearbox jolts and clunks when shifting | Stuk"
 description: "Jolts and a dull clunk as an automatic changes gear can be harmless or the first signal of an expensive repair. How to tell them apart and what to check."
 pubDate: "2026-07-25"
-related: []
+related:
+  - signs-of-a-failing-automatic-transmission
+  - knock-when-changing-gear
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "Is a jolt when selecting D from P normal?"
     a: "A light jolt when engaging a gear on a cold automatic is considered normal: the fluid is thick and the hydraulics react more slowly. What is not normal is a jolt that stays sharp on a warm gearbox, comes with a clunk through the body and a delay of a second or two."

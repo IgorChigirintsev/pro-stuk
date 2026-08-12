@@ -4,7 +4,10 @@ title: "How to check hydraulic lifters"
 metaTitle: "How to check hydraulic lifters by ear | Stuk"
 description: "How to tell that hydraulic lifters are the source of the ticking: cold and warm tests, how they differ from valve clearances and injectors, and what to do."
 pubDate: "2026-06-19"
-related: []
+related:
+  - diy-mechanics-stethoscope
+  - checking-engine-mounts-under-load
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "The ticking goes away after warm-up. Is that normal?"
     a: "Brief ticking for the first 10–60 seconds after a cold start is common on many engines and is not a verdict in itself: the lifters simply have not filled with oil yet. What should concern you is ticking that lasts minutes or comes back on a warm engine."

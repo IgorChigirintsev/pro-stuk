@@ -4,7 +4,10 @@ title: "Gurgling in the engine after you switch off"
 metaTitle: "Gurgling in the engine after shutdown: causes | Stuk"
 description: "Gurgling after you switch off: when it is normal cool-down and when it is air in the system, a tired cap or a head gasket. Checks you can do in five minutes."
 pubDate: "2026-07-09"
-related: []
+related:
+  - hissing-under-the-bonnet-after-shutdown
+  - noises-after-an-engine-bay-wash
+  - signs-of-engine-detonation
 faq:
   - q: "Does gurgling after shutdown always mean something is boiling?"
     a: "No. Part of what you hear is coolant draining back through the circuit and fuel settling in the rail. Local boiling has its own signature: a kettle-like gurgle in the first minutes after you stop, most often in hot weather and after the engine has been working hard."

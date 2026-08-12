@@ -4,7 +4,10 @@ title: "Nissan Almera/Qashqai timing chain stretch symptoms"
 metaTitle: "Nissan timing chain stretch: the symptoms | Stuk"
 description: "How a stretched timing chain sounds on the Almera and Qashqai, how it differs from other engine knocks, and how the repair is decided."
 pubDate: "2026-06-25"
-related: []
+related:
+  - renault-duster-transfer-case-whine
+  - camry-front-strut-knock
+  - alternator-belt-squeal-causes
 faq:
   - q: "How long does the timing chain last on these engines?"
     a: "There is no exact figure: the service life depends heavily on oil, change intervals and driving style. It is more accurate to go by the sound and the engine's behaviour than by mileage — stretch always announces itself in advance."

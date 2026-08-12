@@ -4,7 +4,10 @@ title: "The engine misfires and knocks"
 metaTitle: "Engine misfires and knocks: causes and next steps | Stuk"
 description: "The engine shakes, the idle wanders and there is a knock: causes from plugs and coils to scored cylinders. How to find the dead cylinder and why waiting costs more."
 pubDate: "2026-07-01"
-related: []
+related:
+  - gudgeon-pin-knock-how-to-identify
+  - signs-of-cylinder-bore-scoring
+  - engine-knock-at-idle
 faq:
   - q: "Can I drive while the engine is misfiring?"
     a: "A short trip to a workshop is acceptable; driving on permanently is not. Unburnt fuel from the dead cylinder washes oil off the bore and finishes burning in the catalytic converter, destroying it. Within a few hundred kilometres a light fault turns into an expensive one."

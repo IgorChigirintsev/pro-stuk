@@ -4,7 +4,10 @@ title: "What a stretched timing chain sounds like"
 metaTitle: "What a stretched timing chain sounds like | Stuk"
 description: "Rattle at a cold start, rustling from behind the cover, a change on lift-off — how to recognise a stretched timing chain and tell it from other knocks."
 pubDate: "2026-06-06"
-related: []
+related:
+  - what-big-end-bearing-knock-sounds-like
+  - signs-of-main-bearing-knock
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "Why does the chain rattle loudest in the first seconds after a cold start?"
     a: "The hydraulic tensioner holds the chain with oil pressure, and at startup there is no pressure yet. A stretched chain sags during those seconds and slaps the guides. As soon as oil reaches the tensioner the sound fades — and that pattern is the typical one."

@@ -4,7 +4,10 @@ title: "The starter chatters but will not crank"
 metaTitle: "Starter chatters but will not crank: causes | Stuk"
 description: "The starter chatters but the engine does not turn: battery, terminals, solenoid. Simple checks on the spot and a table of causes."
 pubDate: "2026-07-07"
-related: []
+related:
+  - cam-phaser-rattle-when-cold
+  - vvt-actuator-failure-signs
+  - engine-ticking-dangerous-or-not
 faq:
   - q: "Why does the starter chatter if the battery is new?"
     a: "Current can be lost on the way: at corroded terminals, a loose clamp or a poor earth between the body and the engine. A new battery delivers full current, but it reaches the starter weakened — and the solenoid chatters exactly as it would with a flat battery."

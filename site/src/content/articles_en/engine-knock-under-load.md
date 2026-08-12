@@ -4,7 +4,10 @@ title: "An engine knock under load"
 metaTitle: "An engine knock under load: causes and danger | Stuk"
 description: "A knock under load: how to tell detonation from bearing knock, where the timing chain comes in, and when driving on becomes dangerous."
 pubDate: "2026-08-02"
-related: []
+related:
+  - engine-knock-at-idle
+  - can-you-drive-with-a-stretched-timing-chain
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "How do I tell detonation from bearing knock?"
     a: "Detonation is a bright high-pitched metallic ringing, like small steel balls rattling; it appears when accelerating under strain and vanishes when you lift off or drop a gear. Bearing knock is dull and low, from deep in the engine, grows with load and revs and goes nowhere when you change fuel. Ringing survives a test with a different filling station; a dull knock is a reason to go to a workshop now."

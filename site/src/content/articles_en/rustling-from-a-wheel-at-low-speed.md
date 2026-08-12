@@ -4,7 +4,10 @@ title: "Rustling from a wheel at low speed"
 metaTitle: "Rustling from a wheel at low speed: causes | Stuk"
 description: "A rustle from a wheel at 10–30 km/h most often comes from the brakes or the dust shield. How to tell a harmless touch from wear, and what to check."
 pubDate: "2026-07-20"
-related: []
+related:
+  - brake-squeal-at-low-speed
+  - knock-felt-through-the-brake-pedal
+  - brake-pad-wear-by-ear
 faq:
   - q: "The rustle is only audible below 30 km/h — is that normal?"
     a: "Often yes: at low speed the cabin is quiet and a light touch of the pad on the disc is audible, while at 60 km/h road noise covers it. It becomes concerning when the rustle turns into an even metallic scraping and does not clear after the first few stops."

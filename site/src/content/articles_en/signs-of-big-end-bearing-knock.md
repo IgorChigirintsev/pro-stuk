@@ -4,7 +4,10 @@ title: "Signs of big-end bearing knock"
 metaTitle: "Big-end knock: what it sounds like and what to do | Stuk"
 description: "How big-end bearing knock sounds, which signs come with it, what it is confused with and how the diagnosis is confirmed at a workshop."
 pubDate: "2026-08-02"
-related: []
+related:
+  - can-you-drive-with-engine-knock
+  - engine-knock-under-load
+  - signs-of-low-oil-pressure
 faq:
   - q: "How does big-end knock differ from hydraulic lifter noise?"
     a: "Lifters tick sharply, from above, under the rocker cover, and at half crankshaft speed. Big-end knock is dull and metallic, from deep in the block, its frequency matches the revs, and it grows noticeably under load. Lifter ticking can be watched; big-end knock cannot."

@@ -4,7 +4,10 @@ title: "An engine knock at idle"
 metaTitle: "An engine knock at idle: causes and what to do | Stuk"
 description: "Why an engine knocks at idle: hydraulic lifters, the timing chain, valves or the accessories. How to tell the causes apart by the sound."
 pubDate: "2026-08-02"
-related: []
+related:
+  - engine-knock-under-load
+  - hydraulic-lifters-ticking-when-cold
+  - knock-that-goes-away-with-warm-up
 faq:
   - q: "Why is the knock heard at idle and gone at higher revs?"
     a: "At idle the oil pressure is at its minimum and the clearances in the friction pairs are not loaded by anything — the parts float slightly and make themselves heard. As the revs rise the oil pressure grows, the lifters and the chain tensioner take up the slack, and the general engine noise masks a weak knock. A sound that disappears with revs is a useful clue to give the mechanic."

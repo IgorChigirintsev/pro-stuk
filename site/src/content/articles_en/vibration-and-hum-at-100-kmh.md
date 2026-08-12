@@ -4,7 +4,10 @@ title: "Vibration and hum at 100 km/h"
 metaTitle: "Vibration and hum at 100 km/h: the causes | Stuk"
 description: "Where vibration and hum at 100 km/h come from: balancing, a bent rim, a wheel bearing or tyre noise. Self-checks you can do in one drive."
 pubDate: "2026-08-02"
-related: []
+related:
+  - hum-wheel-bearing-or-tyres
+  - signs-of-a-worn-wheel-bearing
+  - knock-after-a-tyre-change
 faq:
   - q: "Why does the vibration appear at around 100 km/h?"
     a: "At that speed a typical wheel turns 12–14 times a second, and the oscillation from imbalance falls into resonance with the suspension and body. Below and above that band the oscillation is damped, so the vibration is felt as a window: it appears around 90–100 km/h and often fades by 120–130. That is the classic handwriting of wheel imbalance."

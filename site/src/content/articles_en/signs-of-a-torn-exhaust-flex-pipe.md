@@ -4,7 +4,10 @@ title: "Signs of a torn exhaust flex pipe"
 metaTitle: "Signs of a torn exhaust flex pipe | Stuk"
 description: "A sudden roar under your feet, vibration at idle and exhaust fumes in the cabin — how to recognise a torn flex pipe and what the repair involves."
 pubDate: "2026-06-09"
-related: []
+related:
+  - signs-of-an-intake-air-leak
+  - brake-pad-wear-indicator-sound
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "How long can I drive with a torn flex pipe?"
     a: "Technically the car drives, but do not put it off, for two reasons: exhaust can be drawn into the cabin, and a rigidly connected system with no damper starts destroying its mountings and the silencer itself. A sensible horizon is the next few days."

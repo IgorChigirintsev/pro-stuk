@@ -4,7 +4,10 @@ title: "Timing chain rustle: what it sounds like"
 metaTitle: "Timing chain rustle: the sound and the risk | Stuk"
 description: "How a stretched timing chain sounds, when a rustle after starting is normal and when it means a workshop. The stages of wear and the risk of a jump."
 pubDate: "2026-07-05"
-related: []
+related:
+  - signs-of-a-worn-timing-belt
+  - signs-of-worn-timing-belt-idlers
+  - signs-of-a-failing-water-pump
 faq:
   - q: "How many seconds of rustle after starting is normal?"
     a: "On many engines one or two seconds of rustle at a cold start is acceptable: the hydraulic tensioner has not built oil pressure yet. The warning sign is a sound that lasts five seconds or more, repeats at every start and gradually lengthens. That is the typical progression of wear."

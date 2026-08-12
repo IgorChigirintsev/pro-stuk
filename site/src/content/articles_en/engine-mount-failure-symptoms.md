@@ -4,7 +4,10 @@ title: "Engine mount failure: the symptoms"
 metaTitle: "Engine mount failure: the symptoms | Stuk"
 description: "A jolt when pulling away, vibration at idle, a dull thump shifting from drive to reverse — how to recognise a failed engine mount and what it leads to."
 pubDate: "2026-06-05"
-related: []
+related:
+  - automatic-transmission-whine-early-signs
+  - signs-of-worn-driveshaft-splines
+  - brake-pad-wear-by-ear
 faq:
   - q: "Is it dangerous to drive with a torn engine mount?"
     a: "One worn mount will not stop the car by itself, but the load redistributes onto the others and they fail faster. Beyond that, the extra engine movement wears hoses, pipes and driveshafts, and on front-wheel-drive cars it accelerates CV joint wear."

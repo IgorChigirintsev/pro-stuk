@@ -4,7 +4,10 @@ title: "Telling brake pad wear by ear"
 metaTitle: "Signs of brake pad wear by ear | Stuk"
 description: "The sounds worn brake pads make: the wear indicator chirp, squealing, grinding. How to tell them from a wheel bearing hum and what to check."
 pubDate: "2026-08-02"
-related: []
+related:
+  - brake-squeal-after-rain
+  - knock-after-a-tyre-change
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Why does the wear indicator chirp stop when I press the brake?"
     a: "The mechanical indicator is a springy steel tab that starts touching the disc when the friction material is down to 2–3 mm. Pressing the pedal presses the pad against the disc, the geometry changes and the tab either lifts clear or contacts flat without vibrating. Hence the chirp on the move that fades under braking."

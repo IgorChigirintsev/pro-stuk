@@ -4,7 +4,10 @@ title: "Lada gearbox noise: fifth gear whine"
 metaTitle: "Lada gearbox noise: fifth gear whine explained | Stuk"
 description: "A whine in fifth gear on a Lada gearbox: why the top gear is the one that goes, how to tell gearbox noise from a wheel bearing, and what to check."
 pubDate: "2026-06-24"
-related: []
+related:
+  - nissan-qashqai-cam-phaser-knock
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "Why is it fifth gear that whines?"
     a: "Fifth is the outermost pair in the gearbox, furthest from the main oil flow, and it works at the highest shaft speeds when cruising. The combination of the worst lubrication, the highest rotational speed and constant sustained load makes its bearings and teeth the first candidates for wear."

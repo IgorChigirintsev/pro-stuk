@@ -4,7 +4,10 @@ title: "Signs of worn timing belt idlers"
 metaTitle: "Worn timing belt idlers: sound and diagnosis | Stuk"
 description: "How worn timing idlers sound: rustling, whistling and hum from behind the cover. What a seized idler risks and how to tell it from accessory noise."
 pubDate: "2026-07-05"
-related: []
+related:
+  - signs-of-a-worn-alternator-bearing
+  - alternator-decoupler-pulley-failure-signs
+  - alternator-belt-squeal-causes
 faq:
   - q: "Can one idler be replaced without touching the timing belt?"
     a: "Technically yes, economically pointless: most of the cost is the labour of stripping the drive, and that is the same either way. A belt that has run with a worn idler has already been damaged. So idlers and belt are replaced as one kit."

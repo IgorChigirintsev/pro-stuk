@@ -4,7 +4,10 @@ title: "Signs of worn tie rods"
 metaTitle: "Worn tie rods: knock, play, pulling | Stuk"
 description: "How to recognise worn tie rods: knocking over small bumps, steering play, the car pulling. Checks you can do yourself and what the repair involves."
 pubDate: "2026-07-17"
-related: []
+related:
+  - steering-rack-fault-signs
+  - steering-rack-knock-adjust-or-replace
+  - power-steering-whine-when-turning
 faq:
   - q: "What is the difference between a tie rod and a track rod end?"
     a: "The tie rod is the bar with an inner axial joint screwed straight into the rack and hidden under its bellows. The track rod end is the outer joint at the end of that bar, attached to the steering knuckle. They wear independently, so both are checked during a diagnosis."

@@ -4,7 +4,10 @@ title: "Rear differential whine at speed"
 metaTitle: "Rear differential whine at speed: causes | Stuk"
 description: "A whine from the rear that changes on power and on the overrun is the classic handwriting of the rear differential. How to tell it from bearings."
 pubDate: "2026-07-27"
-related: []
+related:
+  - signs-of-a-failing-dual-mass-flywheel
+  - noise-only-under-load-on-a-climb
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "How do I tell differential whine from wheel bearing hum?"
     a: "By the reaction to the throttle. The differential changes pitch and volume depending on whether the engine is pulling or the car is coasting — often two different sounds at the same speed. A wheel bearing barely reacts to the throttle but changes noticeably as you weave left and right."

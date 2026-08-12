@@ -4,7 +4,10 @@ title: "Hyundai Solaris steering rack knock"
 metaTitle: "Hyundai Solaris steering rack knock: causes | Stuk"
 description: "Why a knock appears in the wheel of a Hyundai Solaris on small bumps, and how to tell the rack from the track rod ends and anti-roll bar links."
 pubDate: "2026-06-23"
-related: []
+related:
+  - engine-knock-at-idle
+  - signs-of-a-stretched-timing-chain
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Does adjusting the rack solve the problem for good?"
     a: "No, it is a postponement. The adjustment takes up the clearance between the bar and the pressure bush, and at an early stage of wear it really does remove the knock. But the wear itself has not gone anywhere, so after a while the sound returns. Over-tightening is dangerous: the steering becomes stiff and returns to centre poorly."

@@ -4,7 +4,10 @@ title: "A dull knock from the front over potholes"
 metaTitle: "Dull knock from the front over potholes: causes | Stuk"
 description: "What a dull knock from the front over potholes means: which suspension parts sound like that, how to separate the dangerous causes from the tolerable ones."
 pubDate: "2026-07-10"
-related: []
+related:
+  - single-clunk-when-pulling-away-and-braking
+  - suspension-knock-in-cold-weather
+  - finding-a-suspension-knock-without-a-lift
 faq:
   - q: "Why is the knock dull rather than sharp?"
     a: "A dull sound means the impact passes through rubber: control arm bushes, anti-roll bar bushes, top mounts. That is the signature of rubber-and-metal joints and dampers. A sharp metallic clang means metal touching metal — a joint worn dry or a loose undertray fastener."

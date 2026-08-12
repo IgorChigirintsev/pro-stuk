@@ -4,7 +4,10 @@ title: "Signs of worn track rod ends"
 metaTitle: "Signs of worn track rod ends: the sound | Stuk"
 description: "Knocking over small bumps, steering play, wandering in a straight line — how to recognise worn track rod ends and check them yourself."
 pubDate: "2026-08-02"
-related: []
+related:
+  - knock-when-steering-while-parked
+  - knock-ball-joint-or-suspension-bush
+  - finding-a-suspension-knock-without-a-lift
 faq:
   - q: "What does a worn track rod end sound like?"
     a: "A short dry knock from below, on the wheel side. It is most often heard over small bumps, when steering while parked and when the steering changes direction — the loose joint shifts under load. It resembles a ball joint knock, but follows the steering more than the bumps."

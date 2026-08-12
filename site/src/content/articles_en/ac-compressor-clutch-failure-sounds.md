@@ -4,7 +4,10 @@ title: "A/C compressor clutch: the sounds of failure"
 metaTitle: "A/C compressor clutch: sounds of failure | Stuk"
 description: "Chattering, whining or grinding that appears exactly when the air conditioning comes on — how a worn electromagnetic clutch sounds and what a workshop checks."
 pubDate: "2026-06-10"
-related: []
+related:
+  - fuel-pump-whine-normal-or-failing
+  - signs-of-a-worn-idler-pulley
+  - engine-knock-at-idle
 faq:
   - q: "How do I know it is the clutch and not the compressor itself?"
     a: "Go by when the sound appears. Noise from the clutch pulley bearing is there whenever the belt turns and does not depend on the a/c button. The compressor's own sound only appears after you switch on, when the clutch has engaged and the shaft starts turning."

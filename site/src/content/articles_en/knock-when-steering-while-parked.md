@@ -4,7 +4,10 @@ title: "A knock when steering while parked"
 metaTitle: "A knock when steering while parked: causes | Stuk"
 description: "Knocking, crunching or clicking when you turn the wheel with the car parked: top mounts, track rod ends, the rack, the power steering — how to tell them apart."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-worn-track-rod-ends
+  - signs-of-worn-strut-top-mount-bearings
+  - power-steering-whine-when-turning
 faq:
   - q: "Why does it knock only when steering parked and stay quiet on the move?"
     a: "With the car stationary the wheel turns without rolling, and the load on every part of the steering chain is at its maximum — the tyres resist with their whole contact patch. Play and worn joints are taken up under that load with a knock or crunch. On the move the forces are far lower and the same play may be silent."

@@ -4,7 +4,10 @@ title: "Rattling under the car when accelerating"
 metaTitle: "Rattling under the car when accelerating | Stuk"
 description: "Heat shields, an exhaust touching the body, knocking or a broken catalytic converter: why a rattle appears under acceleration and how to tell harmless from serious."
 pubDate: "2026-07-15"
-related: []
+related:
+  - exhaust-has-become-louder-causes
+  - exhaust-roars-when-cold
+  - signs-of-worn-suspension-bushes
 faq:
   - q: "How do I tell a heat shield rattle from engine knocking?"
     a: "A shield rattles from underneath the car and can be reproduced with the car standing still by raising the revs. Knocking rings out of the engine bay, only under load — on a climb, when overtaking, at low revs in a high gear — and disappears the moment you lift off."

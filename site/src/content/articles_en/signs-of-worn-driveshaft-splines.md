@@ -4,7 +4,10 @@ title: "Signs of worn driveshaft splines"
 metaTitle: "Worn driveshaft splines: how to tell | Stuk"
 description: "A click as you swap throttle and brake, a knock when pulling away and axle play: how to recognise worn driveshaft splines and tell them from a CV joint."
 pubDate: "2026-06-05"
-related: []
+related:
+  - what-a-stretched-timing-chain-sounds-like
+  - what-big-end-bearing-knock-sounds-like
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "How do worn splines differ from a worn CV joint?"
     a: "A CV joint gives itself away with rattling in a tight turn under power — a characteristic chatter that grows with steering angle. Splines give a single click or knock exactly at the moment the load changes, most often in a straight line when pulling away or swapping between throttle and brake."

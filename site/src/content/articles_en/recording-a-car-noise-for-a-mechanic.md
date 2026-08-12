@@ -4,7 +4,10 @@ title: "Recording a car noise for a mechanic"
 metaTitle: "How to record a car noise for a mechanic | Stuk"
 description: "How to record a car noise on a phone so it can actually be heard: where to hold the phone, what to say, which regimes to capture and what to avoid."
 pubDate: "2026-06-20"
-related: []
+related:
+  - the-neutral-throttle-blip-test
+  - suspension-diagnosis-by-ear-checklist
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Why can't I hear on the recording what is obvious in the car?"
     a: "Usually three things get in the way: wind on the microphone, music and the blower running, and the phone's automatic noise suppression, which treats an even hum as background and removes it. Closed windows, the climate control off and recording in video mode — where audio processing is usually gentler — all help."

@@ -4,7 +4,10 @@ title: "Cold knock: timing chain or cam phasers"
 metaTitle: "Cold knock: timing chain or cam phasers | Stuk"
 description: "A rattle in the first seconds after a cold start comes from both a stretched timing chain and the cam phasers. How to tell them apart by duration."
 pubDate: "2026-06-12"
-related: []
+related:
+  - brake-squeal-pads-or-discs
+  - squeal-belt-or-idler-bearing
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "How many seconds of cold knock counts as normal?"
     a: "One or two seconds right after starting is considered normal on many engines with cam phasers: the oil has not reached the top of the engine yet. A rattle longer than three to five seconds, and especially one that grows from start to start, is a reason for a diagnosis."

@@ -4,7 +4,10 @@ title: "Diesel-like clatter: injectors or valve clearances"
 metaTitle: "Diesel clatter: injectors or valve clearances | Stuk"
 description: "A petrol engine has started clattering like a diesel: when the injectors are to blame, when it is valve clearances, and how to tell them apart by ear."
 pubDate: "2026-06-14"
-related: []
+related:
+  - braking-knock-pads-or-caliper
+  - noise-underneath-exhaust-or-undertray
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Why does a petrol engine sound like a diesel?"
     a: "Most often because the mechanical noises at the top of the engine have grown louder: valve clearances have widened, or direct-injection injectors are clicking. Less often the cause is knocking — and then the sound follows load and fuel quality rather than idle."

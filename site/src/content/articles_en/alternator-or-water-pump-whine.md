@@ -4,7 +4,10 @@ title: "Alternator or water pump: telling the whine apart"
 metaTitle: "Alternator or water pump whine: which is it | Stuk"
 description: "The alternator and the water pump sit on the same belt and whine alike. The checks that separate them in ten minutes and what each version risks."
 pubDate: "2026-06-15"
-related: []
+related:
+  - can-you-drive-with-a-broken-catalytic-converter
+  - how-far-a-wheel-bearing-lasts-after-the-hum-starts
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "How do I tell alternator whine from water pump whine without dismantling anything?"
     a: "Load the alternator: switch on main beam, the rear screen heater and the blower at maximum. If the whine grows, it is the alternator. A water pump does not react to electrical load at all, but it almost always leaves coolant traces on its housing."

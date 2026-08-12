@@ -4,7 +4,10 @@ title: "Signs of a seized brake caliper"
 metaTitle: "Signs of a seized brake caliper | Stuk"
 description: "How to tell a brake caliper has seized: pulling to one side, a hot wheel, a burning smell, grinding. Simple checks without a lift and what servicing involves."
 pubDate: "2026-08-02"
-related: []
+related:
+  - brake-judder-when-braking
+  - brake-pad-wear-by-ear
+  - brake-squeal-after-rain
 faq:
   - q: "What exactly seizes in a caliper?"
     a: "Two things: the slide pins the carrier moves on, and the piston in its bore. The pins seize more often — a torn boot and winter dirt are enough. A seized piston is more serious: it stops returning and the pad rubs the disc constantly."

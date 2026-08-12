@@ -4,7 +4,10 @@ title: "What a failing wheel bearing sounds like"
 metaTitle: "What a failing wheel bearing sounds like | Stuk"
 description: "From a faint hum at 60 km/h to a roar and vibration in the wheel — how a wheel bearing changes its sound stage by stage, and where you can no longer wait."
 pubDate: "2026-06-02"
-related: []
+related:
+  - checking-anti-roll-bar-links-for-knocking
+  - front-control-arm-bush-wear-symptoms
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "At what speed is a bearing audible at the very start?"
     a: "The hum usually shows up first between 50 and 80 km/h: below that it drowns in road noise, above it is masked by wind and tyres. That is why early wear is often noticed on the motorway while the same car seems quiet in town for months."

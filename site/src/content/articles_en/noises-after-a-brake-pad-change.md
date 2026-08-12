@@ -4,7 +4,10 @@ title: "Noises after a brake pad change: what is normal"
 metaTitle: "Noises after a brake pad change: what is normal | Stuk"
 description: "New pads almost always make noise for the first few hundred kilometres. Which sounds belong to bedding in and which point to a fitting error."
 pubDate: "2026-07-21"
-related: []
+related:
+  - brake-squeal-after-standing
+  - can-you-drive-with-grinding-brakes
+  - brake-pad-wear-by-ear
 faq:
   - q: "How long can new pads make noise?"
     a: "Bedding in takes 200 to 500 km of ordinary town driving. In that time the friction material takes the shape of the disc and an even transfer layer forms on its surface. If the sound has not changed after 500–700 km, it is no longer about bedding in."

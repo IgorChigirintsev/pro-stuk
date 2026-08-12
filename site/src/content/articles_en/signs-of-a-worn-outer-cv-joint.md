@@ -4,7 +4,10 @@ title: "Signs of a worn outer CV joint"
 metaTitle: "Worn outer CV joint: clicking in turns | Stuk"
 description: "How a worn outer CV joint clicks, how it differs from the inner one, simple checks without a lift and what decides between a boot and a new joint."
 pubDate: "2026-08-02"
-related: []
+related:
+  - how-long-a-cv-joint-lasts-after-clicking-starts
+  - hum-wheel-bearing-or-tyres
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Why does a CV joint click specifically in a turn?"
     a: "At an angle the balls roll over worn tracks with impacts — each impact is a click. In a straight line the joint angle is almost zero, the balls work on an unworn part of the tracks, and there is no sound. So clicking appears when three conditions coincide: steering turned, throttle applied and the car moving."

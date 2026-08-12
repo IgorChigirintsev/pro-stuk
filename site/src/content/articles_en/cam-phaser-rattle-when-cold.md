@@ -4,7 +4,10 @@ title: "Cam phaser rattle when cold"
 metaTitle: "Cam phaser rattle when cold: causes and repair | Stuk"
 description: "Why cam phasers rattle for the first seconds after a cold start: a worn actuator, the OCV valve, the oil. How to check it yourself and what follows."
 pubDate: "2026-07-08"
-related: []
+related:
+  - vvt-actuator-failure-signs
+  - ticking-injectors-normal-or-not
+  - knock-that-goes-away-with-warm-up
 faq:
   - q: "How many seconds of rattle after starting is normal?"
     a: "One or two seconds of light chatter on a high-mileage engine is common, and many manufacturers consider it acceptable. What should worry you is a rattle longer than three to five seconds, at every start, and one that appears on a warm engine."

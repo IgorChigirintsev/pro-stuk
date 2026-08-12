@@ -4,7 +4,10 @@ title: "CR-V all-wheel-drive coupling whine"
 metaTitle: "CR-V AWD coupling whine: causes and servicing | Stuk"
 description: "Whining from the rear coupling of a CR-V during tight turns and at low speed: why the fluid is usually to blame and how to tell it from a wheel bearing."
 pubDate: "2026-06-27"
-related: []
+related:
+  - mitsubishi-4b12-lifter-noise
+  - turbo-whistle-on-diesel-vans
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "A whine when turning around in a car park — is that the coupling?"
     a: "Very likely. The rear coupling is loaded hardest exactly in tight turns at low speed, when the front and rear wheels travel different distances. A wheel bearing, by contrast, is barely audible in those conditions."

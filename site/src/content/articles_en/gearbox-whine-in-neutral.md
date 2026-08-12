@@ -4,7 +4,10 @@ title: "Gearbox whine in neutral"
 metaTitle: "Gearbox whine in neutral: causes and checks | Stuk"
 description: "A whine in neutral with the clutch up usually points to the input shaft bearing or the oil level. How to tell it from the release bearing in one pedal test."
 pubDate: "2026-07-23"
-related: []
+related:
+  - gearbox-whine-at-a-particular-speed
+  - crunching-when-selecting-a-gear
+  - signs-of-a-worn-clutch-release-bearing
 faq:
   - q: "The whine in neutral goes away when I press the clutch. What does that mean?"
     a: "That is the classic picture of an input shaft bearing. With the clutch up, the shaft turns with the engine and whines; press the clutch and the link to the engine is broken, the shaft stops and the sound disappears."

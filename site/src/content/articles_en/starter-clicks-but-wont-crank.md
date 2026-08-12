@@ -4,7 +4,10 @@ title: "The starter clicks but will not crank"
 metaTitle: "Starter clicks but will not crank: causes | Stuk"
 description: "Turning the key gives a click or a rapid chatter but the engine does not turn. What a single click and a rapid one mean, and how to tell battery from starter."
 pubDate: "2026-06-10"
-related: []
+related:
+  - ac-compressor-clutch-failure-sounds
+  - fuel-pump-whine-normal-or-failing
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "What is the difference between a single click and rapid chatter?"
     a: "Rapid chatter almost always means a shortage of current: the solenoid pulls in, the voltage sags, the solenoid drops out — and the cycle repeats dozens of times a second. A single loud click means the solenoid pulled in and held, but no rotation followed."

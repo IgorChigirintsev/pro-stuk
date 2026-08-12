@@ -4,7 +4,10 @@ title: "Top 10 noises you should not drive with"
 metaTitle: "Top 10 noises you should not drive with | Stuk"
 description: "Ten car noises after which driving on is unwise: what is breaking in each case and how to tell them from harmless sounds."
 pubDate: "2026-07-31"
-related: []
+related:
+  - finding-interior-rattles-and-squeaks
+  - interior-creaking-over-bumps
+  - suspension-creaking-over-bumps
 faq:
   - q: "Why is ordinary brake squeal not on the list?"
     a: "Squealing at low speed and after standing is most often caused by surface rust or the pad compound and goes after a few stops. What is dangerous is not the squeal but grinding — the sound of metal on metal, which means there is no friction material left."

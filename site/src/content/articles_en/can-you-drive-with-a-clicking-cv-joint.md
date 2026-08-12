@@ -4,7 +4,10 @@ title: "Can you drive with a clicking CV joint"
 metaTitle: "Can you drive with a clicking CV joint? | Stuk"
 description: "CV joint clicking in turns is not an instant breakdown, but not something to live with for years. How much time you have and when you must not drive."
 pubDate: "2026-07-25"
-related: []
+related:
+  - signs-of-a-worn-inner-cv-joint
+  - torn-cv-boot-how-far-can-you-drive
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "How many kilometres can I drive with a clicking CV joint?"
     a: "In practice we are talking about hundreds, occasionally thousands, of kilometres of calm town driving. There is no exact figure: it all depends on how much grease is left inside and how long dirt has been getting in through the torn boot."

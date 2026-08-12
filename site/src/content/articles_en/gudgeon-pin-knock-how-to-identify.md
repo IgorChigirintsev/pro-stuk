@@ -4,7 +4,10 @@ title: "Gudgeon pin knock: how to identify it"
 metaTitle: "Gudgeon pin knock: how to identify it | Stuk"
 description: "How gudgeon pin knock sounds, how it differs from detonation and valve noise, which tests confirm it and what the repair involves."
 pubDate: "2026-07-02"
-related: []
+related:
+  - signs-of-cylinder-bore-scoring
+  - engine-knock-only-when-cold
+  - engine-knock-when-hot
 faq:
   - q: "Is “piston slap” under acceleration really the pins?"
     a: "Usually not. Pinging under acceleration is in the vast majority of cases detonation — explosive combustion of the fuel — and “pin knock” is only its colloquial name. Genuine pin wear is noticeably rarer and sounds when the load changes, not only under it."

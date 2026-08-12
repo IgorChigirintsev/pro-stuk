@@ -4,7 +4,10 @@ title: "The exhaust has become louder: the causes"
 metaTitle: "The exhaust has become louder: causes and fixes | Stuk"
 description: "A burnt-through silencer, a torn flex pipe, joints and gaskets: why the exhaust got louder, what it threatens and how the repair is decided."
 pubDate: "2026-07-15"
-related: []
+related:
+  - exhaust-roars-when-cold
+  - signs-of-worn-suspension-springs
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "Why do silencers burn through from the inside?"
     a: "The main enemy is condensation: on short journeys the water does not have time to evaporate from the boxes, and together with acidic combustion products it eats the metal from within. So silencers rot faster on cars doing 10–15 minute trips than on long-distance ones."

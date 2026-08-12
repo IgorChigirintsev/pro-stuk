@@ -4,7 +4,10 @@ title: "Signs of engine detonation"
 metaTitle: "Signs of engine detonation: how to spot it | Stuk"
 description: "How to recognise engine detonation: pinging under acceleration, loss of power, rising fuel consumption. The causes, from fuel to carbon deposits."
 pubDate: "2026-08-02"
-related: []
+related:
+  - pinking-under-acceleration-causes
+  - engine-knock-under-load
+  - can-you-drive-with-engine-knock
 faq:
   - q: "How does detonation differ in sound from big-end knock?"
     a: "Detonation is a sharp high ticking that appears under load and disappears when you lift off or after filling with proper fuel. Big-end knock is dull and low, from deep in the block; it ignores a change of filling station and only grows with time. A sharp sound can wait for a fuel test; a dull one is a reason to go straight for a diagnosis."

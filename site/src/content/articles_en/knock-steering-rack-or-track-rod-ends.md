@@ -4,7 +4,10 @@ title: "A knock: steering rack or track rod ends"
 metaTitle: "Steering knock: rack or track rod ends | Stuk"
 description: "A knock felt through the wheel over bumps comes from both the steering rack and the track rod ends. How to separate them with simple checks."
 pubDate: "2026-06-14"
-related: []
+related:
+  - diesel-clatter-injectors-or-valve-clearances
+  - braking-knock-pads-or-caliper
+  - engine-knock-at-idle
 faq:
   - q: "The knock comes through the wheel — is it definitely the steering?"
     a: "Not necessarily. Anti-roll bar links, strut top mounts and ball joints also send knocks into the wheel — they sit close to the steering and the vibration travels along the rods. Hence the rule: separate the steering parts from the suspension first, then hunt for the specific component."

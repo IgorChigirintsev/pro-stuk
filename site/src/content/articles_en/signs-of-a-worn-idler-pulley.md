@@ -4,7 +4,10 @@ title: "Signs of a worn idler pulley"
 metaTitle: "Worn idler pulley: sounds and how to check | Stuk"
 description: "Whistling, whining and rustling from under the bonnet at idle often come from accessory belt idlers. How to tell an idler from the belt and the alternator."
 pubDate: "2026-06-11"
-related: []
+related:
+  - valve-clatter-or-hydraulic-lifters
+  - cold-knock-timing-chain-or-cam-phasers
+  - brake-pad-wear-by-ear
 faq:
   - q: "What is the difference between an idler and a tensioner pulley?"
     a: "An idler simply routes the belt and turns on a bearing; a tensioner also sits on a sprung arm and maintains tension. Both wear the same way — through the bearing — so they sound alike and are usually replaced as a set."

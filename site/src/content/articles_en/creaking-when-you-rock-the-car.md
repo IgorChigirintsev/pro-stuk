@@ -4,7 +4,10 @@ title: "Creaking when you rock the car"
 metaTitle: "Creaking when you rock the car: causes and repair | Stuk"
 description: "Why the body creaks when rocked by hand and over undulations: anti-roll bar bushes, control arm bushes, strut top mounts. How to find the creaking point."
 pubDate: "2026-07-12"
-related: []
+related:
+  - metallic-clatter-under-the-car-over-bumps
+  - can-you-drive-with-a-knocking-suspension
+  - front-suspension-knock-over-small-bumps
 faq:
   - q: "Why is the creak worse after rain, a wash or in frost?"
     a: "Water washes the remaining grease and the dust that acted as a dry separator off the rubber, and frost makes rubber stiffer. Either way friction between rubber and metal rises, and bushes start creaking louder. That is the classic signature of rubber components."

@@ -4,7 +4,10 @@ title: "Grinding noise when starting the engine"
 metaTitle: "Grinding at startup: starter, ring gear, chain | Stuk"
 description: "Grinding when starting the engine: the starter pinion, the flywheel ring gear, the timing chain. How to find the source from when the sound occurs."
 pubDate: "2026-07-07"
-related: []
+related:
+  - starter-chatters-but-will-not-crank
+  - cam-phaser-rattle-when-cold
+  - signs-of-engine-detonation
 faq:
   - q: "Why does the grinding not happen at every start?"
     a: "An engine stops in the same few positions, so the flywheel ring gear teeth wear in patches. The grinding appears when the starter pinion lands on a chewed section and stays silent on the intact ones."

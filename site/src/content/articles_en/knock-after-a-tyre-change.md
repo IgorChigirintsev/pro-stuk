@@ -4,7 +4,10 @@ title: "A knock after a tyre change: what to check"
 metaTitle: "A knock after a tyre change: causes and checks | Stuk"
 description: "Where a knock after a tyre change comes from: wheel torque, balance weights, stones in the tread, a bent rim. What to check yourself and when to go back."
 pubDate: "2026-08-02"
-related: []
+related:
+  - hum-wheel-bearing-or-tyres
+  - signs-of-a-worn-wheel-bearing
+  - signs-of-worn-anti-roll-bar-links
 faq:
   - q: "Why re-torque the wheels after 50–100 km?"
     a: "After fitting, a wheel beds in: the mating faces of the rim and hub settle together and the torque can drop, especially on alloy wheels. A check re-torque after 50–100 km takes five minutes and closes the most dangerous cause of a knock. Most tyre shops do it free."

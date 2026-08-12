@@ -4,7 +4,10 @@ title: "Checking track rod ends for play"
 metaTitle: "Checking track rod ends for play | Stuk"
 description: "How to find play in track rod ends yourself: the 3 and 9 o'clock grip, feeling the joint by hand, telling them from the rack, and what the repair needs."
 pubDate: "2026-06-18"
-related: []
+related:
+  - checking-a-cv-joint-by-driving-circles
+  - checking-timing-chain-tension-by-ear
+  - signs-of-a-worn-clutch
 faq:
   - q: "How do I tell track rod end play from steering rack play?"
     a: "Put a hand on the joint itself while a helper rocks the steering wheel. A knock felt directly in your palm belongs to the track rod end; if your hand feels nothing and the knock is heard closer to the centre, suspicion moves to the inner tie rod or the rack."

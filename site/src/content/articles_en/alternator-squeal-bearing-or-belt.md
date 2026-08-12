@@ -4,7 +4,10 @@ title: "Alternator squeal: bearing or belt"
 metaTitle: "Alternator squeal: bearing or belt | Stuk"
 description: "How to tell a slipping belt from a whining alternator bearing: the difference in sound, three tests without dismantling anything."
 pubDate: "2026-08-02"
-related: []
+related:
+  - alternator-belt-squeal-causes
+  - signs-of-a-failing-water-pump
+  - belt-squeal-after-a-belt-change
 faq:
   - q: "Can I drive with a whining alternator bearing?"
     a: "For a while, yes — bearings degrade gradually. But the ending is predictable: play, a misaligned pulley and in the worst case a seizure that tears the drive belt. The water pump usually stops along with the belt, so this should not be dragged out for months — the sensible horizon here is weeks."

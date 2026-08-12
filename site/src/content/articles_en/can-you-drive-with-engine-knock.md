@@ -4,7 +4,10 @@ title: "Can you drive with engine knock"
 metaTitle: "Can you drive with engine knock: the risks | Stuk"
 description: "Which engine knocks let you drive to a workshop and which mean switching off and calling a tow truck. The rules of a gentle regime and what not to do."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-big-end-bearing-knock
+  - engine-knock-when-hot
+  - signs-of-low-oil-pressure
 faq:
   - q: "Can I drive to a workshop if the knock is quiet?"
     a: "Loudness is a poor guide: early big-end knock is quieter than harmless injector ticking. The character of the sound and what comes with it matter more. Sharp ticking from the top with no oil pressure light usually allows a calm drive to a workshop; a dull knock from deep in the block does not, even if it is still quiet."

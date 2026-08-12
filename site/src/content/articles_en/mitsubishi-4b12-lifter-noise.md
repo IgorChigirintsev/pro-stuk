@@ -4,7 +4,10 @@ title: "Mitsubishi 4B12 top-end noise: hydraulic lifters"
 metaTitle: "Mitsubishi 4B12 lifter noise from the top end | Stuk"
 description: "Ticking from the top of a 4B12: how hydraulic lifters behave, why the oil is usually to blame, and how the sound differs from the chain."
 pubDate: "2026-06-27"
-related: []
+related:
+  - turbo-whistle-on-diesel-vans
+  - ep6-balance-shaft-knock-peugeot-citroen
+  - brake-pad-wear-by-ear
 faq:
   - q: "The ticking goes away a minute after starting — is that normal?"
     a: "That is an early stage rather than normal. It is how lifters behave when they fill with oil slowly after standing. While the sound goes and does not return on a warm engine, there is time for a calm decision."

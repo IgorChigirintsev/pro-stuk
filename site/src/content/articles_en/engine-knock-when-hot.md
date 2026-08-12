@@ -4,7 +4,10 @@ title: "An engine knock when hot"
 metaTitle: "An engine knock when hot: causes and what to do | Stuk"
 description: "Why an engine starts knocking after warming up: oil, hydraulic lifters, bearings or detonation. How to narrow the cause down by the behaviour of the sound."
 pubDate: "2026-08-02"
-related: []
+related:
+  - engine-knock-under-load
+  - signs-of-big-end-bearing-knock
+  - engine-knock-at-idle
 faq:
   - q: "Why does the engine knock only after warming up?"
     a: "At operating temperature the oil becomes noticeably thinner: the pressure in the lubrication system falls and the oil film in the friction pairs gets thinner. Worn clearances that thick cold oil was hiding start to speak up when hot. So a hot knock is most often connected with lubrication — bearings, hydraulic lifters or the oil itself."

@@ -4,7 +4,10 @@ title: "Noises after an engine bay wash"
 metaTitle: "Noises after an engine bay wash: why and how long | Stuk"
 description: "A squeal, a rattle or shaking at idle after washing the engine bay. Which noises clear by themselves in a couple of days and which mean a soaked part."
 pubDate: "2026-07-09"
-related: []
+related:
+  - engine-rattle-at-startup
+  - grinding-noise-when-starting-the-engine
+  - knock-that-goes-away-with-warm-up
 faq:
   - q: "How long does belt squeal last after a wash?"
     a: "Usually one or two drives: the water evaporates from the pulley grooves and the belt's grip is restored. If the squeal lasts more than three days or appears every morning, it is no longer the water but a worn belt or a weak tensioner."

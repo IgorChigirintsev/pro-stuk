@@ -4,7 +4,10 @@ title: "The sound changes when you select neutral"
 metaTitle: "The sound changes in neutral: what it means | Stuk"
 description: "You selected neutral on the move and the sound changed. What that tells you about the source, how to run the test properly and what it rules out."
 pubDate: "2026-06-01"
-related: []
+related:
+  - knock-only-audible-with-the-window-open
+  - cold-automatic-gearbox-noises-in-winter
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Is it safe to select neutral on the move?"
     a: "Briefly and on a level road, yes — it is a normal state for both a manual and an automatic. What matters is not switching the engine off, not doing it on a mountain descent, and checking in advance that nobody is behind you, because the car will slow differently from usual."

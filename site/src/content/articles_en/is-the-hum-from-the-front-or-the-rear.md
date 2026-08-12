@@ -4,7 +4,10 @@ title: "Working out where a hum comes from: front or rear"
 metaTitle: "Where is the hum from: front or rear axle | Stuk"
 description: "Simple tests that identify the axle and the side a hum comes from: lane changes, coasting, swapping wheels and a drive with a passenger."
 pubDate: "2026-06-20"
-related: []
+related:
+  - recording-a-car-noise-for-a-mechanic
+  - the-neutral-throttle-blip-test
+  - engine-knock-at-idle
 faq:
   - q: "Why does a hum from the rear seem to come from the front?"
     a: "The cabin acts as a resonator: the sound arrives through the body and floor, reflects off the glass and panels, and the brain places its origin inaccurately. So the axle is almost never guessed correctly by ear — it is more reliable to identify it by how the sound reacts to manoeuvres and speed."

@@ -4,7 +4,10 @@ title: "Signs of seized caliper slide pins"
 metaTitle: "Seized caliper slide pins: the signs | Stuk"
 description: "One wheel running hot, the car pulling under braking, pads worn unevenly — how to recognise seized caliper slide pins and what a workshop does about it."
 pubDate: "2026-06-10"
-related: []
+related:
+  - starter-clicks-but-wont-crank
+  - ac-compressor-clutch-failure-sounds
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "How do I quickly check whether a caliper is sticking?"
     a: "After ordinary town driving without heavy braking, walk round the car and judge the heat coming off the wheels with a hand held near them. One wheel noticeably hotter than the other on the same axle is almost always a sign of a sticking mechanism."

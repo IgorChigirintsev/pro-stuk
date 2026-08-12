@@ -4,7 +4,10 @@ title: "Signs of an electric power steering fault"
 metaTitle: "Electric power steering fault: the signs | Stuk"
 description: "How to recognise an electric power steering fault: heavy steering, uneven assistance, the EPS light, knocks and clicks. What to check before the workshop."
 pubDate: "2026-07-18"
-related: []
+related:
+  - squeal-when-steering-to-full-lock
+  - humming-when-turning-left
+  - power-steering-whine-when-turning
 faq:
   - q: "Can I drive with the electric power steering not working?"
     a: "The mechanical link between the wheel and the road wheels remains, so you can drive to a workshop — the steering simply becomes noticeably heavier, especially when parking. Do not drive like that permanently: a sharp manoeuvre with heavy steering takes unfamiliar effort, and the cause of the failure can progress."

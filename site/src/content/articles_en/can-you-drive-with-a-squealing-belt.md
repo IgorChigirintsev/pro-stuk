@@ -4,7 +4,10 @@ title: "Can you drive with a squealing belt"
 metaTitle: "Can you drive with a squealing belt? | Stuk"
 description: "A squealing accessory belt: how long you can drive, what a snapped belt risks, how to tell belt wear from an idler bearing and how the repair is decided."
 pubDate: "2026-07-28"
-related: []
+related:
+  - can-you-drive-with-a-clicking-cv-joint
+  - signs-of-a-worn-inner-cv-joint
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "How long can I drive with a squealing belt?"
     a: "If the squeal only appears cold and goes away after warm-up, the belt usually has weeks left. But a squeal already signals that the tension or the belt's condition is outside normal, so plan the replacement for the next service rather than putting it off until winter."

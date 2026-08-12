@@ -4,7 +4,10 @@ title: "Front control arm bush wear: the symptoms"
 metaTitle: "Front control arm bush wear: the symptoms | Stuk"
 description: "Dull thumps in potholes, steering that wanders and a car that follows ruts — the typical signs of worn control arm bushes, and how to check them."
 pubDate: "2026-06-03"
-related: []
+related:
+  - how-to-tell-shock-absorbers-are-dead
+  - strut-top-mount-bearing-noise-symptoms
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "How do I know it is the bushes and not a ball joint?"
     a: "A bush gives a dull thump in potholes and spoils straight-line stability: the car follows ruts and the steering needs constant corrections. A ball joint more often gives itself away with a single click as you change steering direction and coming off a kerb."

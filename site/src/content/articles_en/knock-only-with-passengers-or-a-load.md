@@ -4,7 +4,10 @@ title: "A knock only with passengers or a load"
 metaTitle: "A knock only with passengers or a load: causes | Stuk"
 description: "Empty, the car is quiet; with people and luggage a knock appears. What changes under load and which parts give themselves away exactly this way."
 pubDate: "2026-06-01"
-related: []
+related:
+  - the-sound-changes-when-you-select-neutral
+  - knock-only-audible-with-the-window-open
+  - engine-knock-at-idle
 faq:
   - q: "Why is the car quiet empty and knocking with passengers?"
     a: "Under load the body sits lower and the suspension works in a different part of its travel, closer to the bump stops. Clearances that are never taken up on an empty car are passed right through under weight — and you get an impact."

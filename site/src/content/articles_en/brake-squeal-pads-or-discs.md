@@ -4,7 +4,10 @@ title: "Brake squeal: pads or discs"
 metaTitle: "Brake squeal: pads or discs — telling them apart | Stuk"
 description: "Brakes squeal because of the pads and because of the discs. How the conditions in which the sound appears tell you which one to replace."
 pubDate: "2026-06-12"
-related: []
+related:
+  - squeal-belt-or-idler-bearing
+  - humming-gearbox-or-wheel-bearing
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "Is a brake squeal in the morning a fault?"
     a: "Usually not. Overnight a thin film of rust forms on the discs, and the first two or three stops squeal until the pad wipes it off. The concerning version is a sound that does not go after several stops and stays all day."

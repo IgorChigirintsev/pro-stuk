@@ -4,7 +4,10 @@ title: "Signs of worn strut top mount bearings"
 metaTitle: "Worn strut top mount bearings: the signs | Stuk"
 description: "Crunching and knocking as you turn the wheel, dull thumps over bumps — how to recognise worn strut top mount bearings and what decides the repair."
 pubDate: "2026-08-02"
-related: []
+related:
+  - knock-when-steering-while-parked
+  - signs-of-worn-shock-absorbers
+  - signs-of-worn-anti-roll-bar-links
 faq:
   - q: "How do I know it is the top mount bearing and not the damper?"
     a: "A top mount bearing gives itself away by sound when you turn the wheel parked or at low speed — crunching, clicking or creaking from above, from under the bonnet. A damper cannot do that: it only knocks over bumps. Put a hand on the spring or the strut tower and have a helper turn the wheel — a worn mount's crunch is felt through the palm."

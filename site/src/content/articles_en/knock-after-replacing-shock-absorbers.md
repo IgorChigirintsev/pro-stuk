@@ -4,7 +4,10 @@ title: "A knock after replacing shock absorbers"
 metaTitle: "A knock after replacing shock absorbers: causes | Stuk"
 description: "Why a knock appeared after new dampers: torque mistakes, old mounts and bump stops, a faulty part. How to find the cause and who pays to fix it."
 pubDate: "2026-07-11"
-related: []
+related:
+  - knock-after-suspension-repair
+  - creaking-when-you-rock-the-car
+  - finding-a-suspension-knock-without-a-lift
 faq:
   - q: "Can a knock from new dampers bed in and go away?"
     a: "No. For the first days new dampers can feel slightly firmer while things settle, but a healthy unit should never knock at any stage. If the knock is there from the first kilometres, there is a specific cause and it needs finding."

@@ -4,7 +4,10 @@ title: "A broken catalytic converter: the sound"
 metaTitle: "Broken catalytic converter: what it sounds like | Stuk"
 description: "A pouring rustle under the floor and a rattle at idle — how a collapsed catalytic converter ceramic sounds, how to check it and what it risks for the engine."
 pubDate: "2026-06-08"
-related: []
+related:
+  - signs-of-a-rotten-silencer
+  - finding-a-rattling-heat-shield
+  - brake-pad-wear-by-ear
 faq:
   - q: "What does a collapsed catalytic converter sound like?"
     a: "Like sand or fine gravel pouring inside a tin can: a dry rustle with a metallic edge coming from under the floor. It appears over bumps, when pulling away and when braking — the moments when the fragments roll about inside the housing."

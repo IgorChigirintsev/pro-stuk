@@ -4,7 +4,10 @@ title: "Camry strut knock: the typical problem"
 metaTitle: "Camry strut knock: causes and what to replace | Stuk"
 description: "A Camry front strut knock over small bumps: why the dampers are not always to blame, how to check the mounts and links, and how the repair is decided."
 pubDate: "2026-06-26"
-related: []
+related:
+  - front-strut-knock-over-small-bumps
+  - cr-v-awd-coupling-whine
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Is a Camry front suspension knock always the dampers?"
     a: "No, and that is the main trap. More often it is the anti-roll bar links and the strut top mounts, while the damper itself is still doing its job. So before replacing expensive parts it makes sense to check the cheap ones."

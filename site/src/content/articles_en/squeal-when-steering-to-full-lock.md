@@ -4,7 +4,10 @@ title: "A squeal when steering to full lock"
 metaTitle: "A squeal when steering to full lock: causes | Stuk"
 description: "Why a car squeals when the wheel is turned to full lock: the belt, the power steering pump or a low fluid level. When it is normal and when not."
 pubDate: "2026-07-18"
-related: []
+related:
+  - humming-when-turning-left
+  - humming-when-turning-right
+  - signs-of-worn-track-rod-ends
 faq:
   - q: "Is it harmful to hold the wheel at full lock?"
     a: "Yes: at full lock the pressure in the power steering system is at its maximum and the pump works in its hardest state. The rule is simple: once you reach the stop, ease back slightly and do not hold it there for more than a few seconds. That noticeably extends the pump's life."

@@ -4,7 +4,10 @@ title: "Brake squeal at low speed"
 metaTitle: "Brake squeal at low speed: causes explained | Stuk"
 description: "A brake squeal at 5–20 km/h can be harmless pad vibration or the wear indicator doing its job. How to tell them apart and what the repair depends on."
 pubDate: "2026-07-21"
-related: []
+related:
+  - knock-felt-through-the-brake-pedal
+  - noises-after-a-brake-pad-change
+  - brake-judder-when-braking
 faq:
   - q: "Why do the brakes squeal only at low speed?"
     a: "Above 40 km/h the pad is pressed harder and vibrates differently, and road noise masks the high frequencies. Under light braking from 10–20 km/h the force is small, the pad chatters against the disc and produces a squeak at the edge of audibility."

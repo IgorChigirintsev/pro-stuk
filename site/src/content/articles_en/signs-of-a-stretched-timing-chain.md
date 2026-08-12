@@ -4,7 +4,10 @@ title: "Signs of a stretched timing chain"
 metaTitle: "Stretched timing chain: sound, codes, checks | Stuk"
 description: "How a stretched timing chain sounds, which fault codes it produces, how the stretch is measured without stripping the engine and how the job is decided."
 pubDate: "2026-08-02"
-related: []
+related:
+  - can-you-drive-with-a-stretched-timing-chain
+  - hydraulic-lifters-ticking-when-cold
+  - knock-that-goes-away-with-warm-up
 faq:
   - q: "What is the very first sign of a stretched timing chain?"
     a: "A metallic rumble or rustle in the first seconds after a cold start that then fades. Until the tensioner builds oil pressure, the slack chain has time to make a noise. Over time that sound lasts longer and starts appearing on a warm engine."

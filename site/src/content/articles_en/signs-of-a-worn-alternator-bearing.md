@@ -4,7 +4,10 @@ title: "Signs of a worn alternator bearing"
 metaTitle: "Worn alternator bearing: sound and tests | Stuk"
 description: "How a worn alternator bearing sounds, how to check it without dismantling and how to tell it from idlers and the decoupler pulley."
 pubDate: "2026-07-06"
-related: []
+related:
+  - alternator-decoupler-pulley-failure-signs
+  - timing-chain-tensioner-failure-signs
+  - signs-of-a-failing-water-pump
 faq:
   - q: "Can I drive with a humming alternator bearing?"
     a: "For a short while, yes, but understand the scenario: a worn bearing eventually seizes, the belt snaps or burns through, and the car is left without charging and often without a water pump. A sensible horizon is weeks, not months, after a steady hum appears."

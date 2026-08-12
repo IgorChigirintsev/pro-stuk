@@ -4,7 +4,10 @@ title: "Backfiring through the intake: causes"
 metaTitle: "Intake backfire: causes and diagnosis | Stuk"
 description: "Backfiring into the intake manifold: a lean mixture, misfires, timing out of phase. How to find the cause and how it differs from banging out of the exhaust."
 pubDate: "2026-07-09"
-related: []
+related:
+  - gurgling-in-engine-after-shutdown
+  - hissing-under-the-bonnet-after-shutdown
+  - knock-that-goes-away-with-warm-up
 faq:
   - q: "Is backfiring through the intake dangerous?"
     a: "An engine survives a single bang, but systematic flashes tear the intake hose, damage the airflow sensor and overheat the valves — a lean mixture burns hot. It is a symptom of a fault worth finding within weeks, not months."

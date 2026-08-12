@@ -4,7 +4,10 @@ title: "A hum after changing tyres"
 metaTitle: "Hum after changing tyres: what to check | Stuk"
 description: "A hum at speed appeared after a tyre change. When the tread is to blame, when it is balancing or wheel rotation, and when the tyres are innocent."
 pubDate: "2026-07-19"
-related: []
+related:
+  - highway-hum-that-disappears-in-town
+  - clicking-from-a-wheel-while-driving
+  - brake-pad-wear-by-ear
 faq:
   - q: "Do new tyres always hum at first?"
     a: "Some increase in noise when moving to a different model is normal: different tread patterns have different acoustic characters, and winter tyres are almost always louder than summer ones. But that noise is even, the same in corners, and it does not grow week by week."

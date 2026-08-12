@@ -4,7 +4,10 @@ title: "Rear suspension knock over bumps"
 metaTitle: "Rear suspension knock over bumps: causes | Stuk"
 description: "What knocks in the rear suspension over bumps: dampers, beam bushes, springs or luggage in the boot. Checks without a lift and how repairs are chosen."
 pubDate: "2026-08-02"
-related: []
+related:
+  - front-suspension-knock-over-small-bumps
+  - signs-of-worn-shock-absorbers
+  - finding-a-suspension-knock-without-a-lift
 faq:
   - q: "Why is a knock at the rear so hard to locate?"
     a: "The rear of the body works as a resonator: sound from the suspension, the exhaust and the luggage in the boot travels through the metal and is heard as coming from 'somewhere behind'. The driver also sits a long way from the source. Simple techniques help: empty the boot, secure the spare, sit a helper on the back seat and drive over bumps you know."

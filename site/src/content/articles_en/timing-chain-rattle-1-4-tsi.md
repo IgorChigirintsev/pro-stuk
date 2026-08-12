@@ -4,7 +4,10 @@ title: "1.4 TSI timing chain rattle: the fault and the fix"
 metaTitle: "1.4 TSI timing chain rattle: causes and the fix | Stuk"
 description: "Why early chain-driven 1.4 TSI engines rattle on a cold start, how to tell a stretched chain from other knocks, and what the repair involves."
 pubDate: "2026-06-22"
-related: []
+related:
+  - signs-of-a-worn-ball-joint
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "Why does the chain rattle only for the first seconds after starting?"
     a: "With the engine stopped the oil pressure falls and the hydraulic tensioner gradually loses its push. At start-up the chain stays slack for a second or two, slapping against the guides and dampers — hence the short rattle. Once pressure is restored the tensioner takes up the slack and the sound goes."

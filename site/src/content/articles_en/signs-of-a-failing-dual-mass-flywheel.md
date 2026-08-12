@@ -4,7 +4,10 @@ title: "Signs of a failing dual-mass flywheel"
 metaTitle: "Failing dual-mass flywheel: the signs | Stuk"
 description: "Rattling at idle, noise with the clutch pressed, a thump when switching off — how to read the symptoms of a tired dual-mass flywheel."
 pubDate: "2026-07-27"
-related: []
+related:
+  - noise-only-under-load-on-a-climb
+  - can-you-drive-with-a-squealing-belt
+  - how-long-a-cv-joint-lasts-after-clicking-starts
 faq:
   - q: "What does a dual-mass flywheel actually do?"
     a: "It absorbs the pulses the engine sends into the gearbox with every firing stroke. The flywheel is split into two parts joined by springs and a damper: one turns with the crankshaft, the other with the clutch, and the springs smooth out the difference. The car drives more smoothly and the gearbox gears last longer."

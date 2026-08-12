@@ -4,7 +4,10 @@ title: "A knock you only hear with the window open"
 metaTitle: "A knock only audible with the window open | Stuk"
 description: "Window shut — silence; window down — a clear knock. Why that happens, what it tells you about the source, and how to use the effect for diagnosis."
 pubDate: "2026-06-01"
-related: []
+related:
+  - cold-automatic-gearbox-noises-in-winter
+  - what-a-failing-wheel-bearing-sounds-like
+  - brake-pad-wear-by-ear
 faq:
   - q: "Why is the knock inaudible with the window closed?"
     a: "Glass and door seals absorb high frequencies first, and those are exactly what makes clicks, grinding and ticking. A low rumble reaches the cabin through the body, while a bright knock outside stays almost entirely behind the glass."

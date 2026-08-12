@@ -4,7 +4,10 @@ title: "Hydraulic lifters ticking when cold: normal or not"
 metaTitle: "Lifters ticking when cold: normal or not | Stuk"
 description: "Why hydraulic lifters tick after a cold start, how many seconds of ticking counts as normal, and when it is time to change the oil or the lifters themselves."
 pubDate: "2026-08-02"
-related: []
+related:
+  - knock-that-goes-away-with-warm-up
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "How many seconds of lifter ticking is normal?"
     a: "As a guide, up to 10–30 seconds after a cold start, and up to a minute or two in hard frost. In that time oil rises to the cylinder head and fills the plungers. If it lasts more than five minutes, or is audible on a warm engine, that is a reason to get it diagnosed."

@@ -4,7 +4,10 @@ title: "A click when you start reversing"
 metaTitle: "A click when moving off in reverse: causes | Stuk"
 description: "One dry click as you pull away in reverse is almost always play being taken up. Where it accumulates: pads, joints, universal joint, engine mounts."
 pubDate: "2026-07-26"
-related: []
+related:
+  - signs-of-a-worn-propshaft-universal-joint
+  - signs-of-a-worn-propshaft-centre-bearing
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "Why is the click only heard in reverse and not going forward?"
     a: "Because when the direction changes, parts with clearance shift from one bearing face to the other, and that jump is heard as a click. The car goes forward most of the time, so the part already sits in its usual position and the shift when pulling away forward is quieter or unnoticed."

@@ -4,7 +4,10 @@ title: "Can you drive with a humming wheel bearing"
 metaTitle: "Can you drive with a humming wheel bearing? | Stuk"
 description: "How far you can drive with a humming wheel bearing, what each stage of wear risks, how to reduce the risk on the road and how the repair is decided."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-worn-wheel-bearing
+  - hum-wheel-bearing-or-tyres
+  - how-long-a-cv-joint-lasts-after-clicking-starts
 faq:
   - q: "How many kilometres can I drive with a humming bearing?"
     a: "There is no universal figure: from the first light hum to dangerous play is usually thousands of kilometres, but one hard pothole strike can cut that to hundreds. Go by the trend: if the hum has grown noticeably in a week or two, or vibration has joined it, the margin is almost gone."

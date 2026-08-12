@@ -4,7 +4,10 @@ title: "A hum that grows with speed"
 metaTitle: "Hum that grows with speed: bearing or tyres | Stuk"
 description: "A hum that rises with road speed almost always comes from the wheels. How to separate a wheel bearing from tyres and the transmission in a single drive."
 pubDate: "2026-07-19"
-related: []
+related:
+  - hum-after-changing-tyres
+  - highway-hum-that-disappears-in-town
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "The hum grows with speed — is that definitely a bearing?"
     a: "Not necessarily, but the list of suspects is short. Wheel bearings, unevenly worn tyres and transmission parts all behave this way. The coasting test and the lane-change test separate them: a bearing ignores the throttle but follows which side is loaded."

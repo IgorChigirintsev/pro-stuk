@@ -4,7 +4,10 @@ title: "Suspension knock over speed humps"
 metaTitle: "Suspension knock over speed humps: causes | Stuk"
 description: "Why the suspension knocks over speed humps specifically, which parts are usually to blame and how to narrow the search without a lift."
 pubDate: "2026-07-10"
-related: []
+related:
+  - dull-knock-from-the-front-over-potholes
+  - single-clunk-when-pulling-away-and-braking
+  - front-suspension-knock-over-small-bumps
 faq:
   - q: "Why does the suspension knock over speed humps but stay silent over potholes?"
     a: "A speed hump pushes the suspension through nearly its full travel and then immediately releases it into rebound, while the body leans and loads the anti-roll bar. Parts with a small amount of play never take up that clearance on small bumps, but on a long wave they knock clearly."

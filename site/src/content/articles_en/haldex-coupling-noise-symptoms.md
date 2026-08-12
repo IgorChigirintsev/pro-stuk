@@ -4,7 +4,10 @@ title: "Haldex coupling noise: the symptoms"
 metaTitle: "Haldex coupling noise: symptoms and diagnosis | Stuk"
 description: "How a struggling Haldex coupling sounds, why the crunch appears during low-speed manoeuvres and how it differs from a CV joint clicking."
 pubDate: "2026-06-23"
-related: []
+related:
+  - signs-of-a-worn-outer-cv-joint
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "How does coupling noise differ from a CV joint?"
     a: "By location and conditions. A CV joint clicks at the front from one particular wheel, only on lock and under power, and the sound is clearly rhythmic with wheel speed. The coupling shows itself closer to the centre and the rear axle, often as jerks during a turn, and is not tied so strictly to the steering angle."

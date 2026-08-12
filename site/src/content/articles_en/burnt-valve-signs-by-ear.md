@@ -4,7 +4,10 @@ title: "Signs of a burnt valve by ear"
 metaTitle: "Signs of a burnt valve by ear | Stuk"
 description: "Rhythmic popping in the exhaust, misfiring and hissing at idle: how to recognise a burnt valve by sound and which tests confirm the theory."
 pubDate: "2026-06-07"
-related: []
+related:
+  - turbo-whistle-normal-or-a-fault
+  - burnt-exhaust-manifold-gasket-signs
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "How does a burnt valve differ by ear from a misfire?"
     a: "The sound is similar: both give rhythmic popping and a rough idle. The difference is persistence — with a burnt valve the cylinder's compression is gone for good, so the symptom does not disappear after new plugs and coils and does not move when parts are swapped between cylinders."

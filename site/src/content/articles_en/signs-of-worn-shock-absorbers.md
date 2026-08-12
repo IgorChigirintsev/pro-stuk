@@ -4,7 +4,10 @@ title: "Signs of worn shock absorbers"
 metaTitle: "Worn shock absorbers: 8 symptoms | Stuk"
 description: "Eight signs of worn dampers: floating, nose-diving, knocking, patchy tyre wear. How to check them yourself and what the replacement involves."
 pubDate: "2026-08-02"
-related: []
+related:
+  - checking-shock-absorbers-with-the-bounce-test
+  - signs-of-worn-anti-roll-bar-links
+  - not-replacing-anti-roll-bar-links
 faq:
   - q: "Why is damper wear hard to notice?"
     a: "Dampers lose their effectiveness gradually, over tens of thousands of kilometres, and the driver adapts to the changing behaviour. There is rarely a sharp “fine yesterday, gone today” line. So it is safer to go by objective signs: floating, patchy tyre wear, oil weeping."

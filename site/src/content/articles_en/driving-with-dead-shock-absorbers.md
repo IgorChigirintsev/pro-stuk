@@ -4,7 +4,10 @@ title: "What driving with dead shock absorbers leads to"
 metaTitle: "Driving with dead shock absorbers: the results | Stuk"
 description: "Dead dampers lengthen your stopping distance, destroy the suspension and chew through tyres. What breaks next, how to spot it and what the repair involves."
 pubDate: "2026-06-16"
-related: []
+related:
+  - is-a-cold-knock-that-goes-away-dangerous
+  - how-to-check-a-wheel-bearing-yourself
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "How much do dead dampers affect stopping distance?"
     a: "Substantially: under braking a wheel with a dead damper leaves the surface over bumps, and during those moments it is not braking at all. It shows most on broken tarmac and in emergency stops, where the difference is measured in metres."

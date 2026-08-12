@@ -4,7 +4,10 @@ title: "Checking engine mounts under load"
 metaTitle: "Checking engine mounts under load | Stuk"
 description: "The load test for engine mounts: selecting gears against the brake, what movement to look for, and how to tell mounts from other knocks."
 pubDate: "2026-06-19"
-related: []
+related:
+  - how-to-check-a-brake-caliper-for-sticking
+  - is-the-hum-from-the-front-or-the-rear
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "How much should the engine move at all?"
     a: "A small movement under load is normal: mounts are rubber precisely to absorb jerks. The worrying sign is a jerk of several centimetres with an impact and a springy return. A healthy mount takes the load softly and without a metallic sound."

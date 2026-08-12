@@ -4,7 +4,10 @@ title: "Hissing under the bonnet after shutdown"
 metaTitle: "Hissing under the bonnet after shutdown: causes | Stuk"
 description: "Hissing under the bonnet with the engine off can be harmless or serious. How to tell a cooling exhaust from a coolant or vacuum leak and what to do."
 pubDate: "2026-07-09"
-related: []
+related:
+  - noises-after-an-engine-bay-wash
+  - engine-rattle-at-startup
+  - engine-ticking-dangerous-or-not
 faq:
   - q: "Is hissing right after shutdown dangerous?"
     a: "In itself no: a hot exhaust manifold and a cooling system settling down hiss and tick on most cars. It becomes concerning if the hissing lasts longer than five to seven minutes, comes with a smell, or the coolant level in the tank falls from trip to trip."

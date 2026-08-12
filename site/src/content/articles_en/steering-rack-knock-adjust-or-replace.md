@@ -4,7 +4,10 @@ title: "A steering rack knock: adjust or replace"
 metaTitle: "Steering rack knock: adjust or replace it | Stuk"
 description: "When a knocking steering rack can simply be adjusted and when it needs a rebuild or replacement: the criteria, and the risk of over-tightening."
 pubDate: "2026-07-18"
-related: []
+related:
+  - electric-power-steering-fault-signs
+  - squeal-when-steering-to-full-lock
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "How long does a rack adjustment last?"
     a: "If the clearance was small and even, the adjustment lives for tens of thousands of kilometres. If the knock comes back within a month or two, the wear inside the mechanism is uneven and only a rebuild will help. Adjusting again in that situation just accelerates the wear."

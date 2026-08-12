@@ -4,7 +4,10 @@ title: "Crunching when selecting a gear"
 metaTitle: "Crunching when selecting a gear: causes | Stuk"
 description: "Crunching as a gear engages usually comes from synchros or a clutch that does not fully disengage. How to tell them apart by how the lever behaves."
 pubDate: "2026-07-23"
-related: []
+related:
+  - knock-when-releasing-the-clutch
+  - crackling-when-pressing-the-clutch
+  - signs-of-a-worn-clutch
 faq:
   - q: "It only crunches in second. Is that the synchro?"
     a: "Most likely yes. Second is selected more often than any other gear and with the biggest difference in shaft speeds, so its synchro wears first. If one particular gear crunches while the rest engage cleanly, it is almost certainly that one."

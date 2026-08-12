@@ -4,7 +4,10 @@ title: "Signs of worn suspension bushes"
 metaTitle: "Worn suspension bushes: sound, tests, repair | Stuk"
 description: "How worn control arm bushes show themselves: knocking, creaking, the car pulling and uneven tyre wear. Simple checks and what the repair involves."
 pubDate: "2026-08-02"
-related: []
+related:
+  - knock-ball-joint-or-suspension-bush
+  - suspension-creaking-over-bumps
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "What is the first sign of worn bushes?"
     a: "Most often a dull single knock over small bumps and speed humps that was not there before. It is softer and more rubbery than the metallic knock of a ball joint, and usually comes from one side. Creaking over bumps and a slight pull to one side follow later."

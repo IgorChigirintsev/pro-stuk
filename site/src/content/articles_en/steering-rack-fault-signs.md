@@ -4,7 +4,10 @@ title: "Signs of a faulty steering rack"
 metaTitle: "Faulty steering rack: the full list of signs | Stuk"
 description: "Knocking, play, notchy steering, leaks and pump whine — the signs of a faulty steering rack, how to check it and when adjustment can still save it."
 pubDate: "2026-07-17"
-related: []
+related:
+  - steering-rack-knock-adjust-or-replace
+  - electric-power-steering-fault-signs
+  - signs-of-worn-track-rod-ends
 faq:
   - q: "The rack is weeping fluid — can I just top it up?"
     a: "For a while, yes, but it is a one-way street. Escaping fluid takes the seals' lubrication with it, the pump starts drawing air and whining, and its own wear accelerates. Rebuilding the rack with new seals is almost always cheaper than later replacing the pump as well."

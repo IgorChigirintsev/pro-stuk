@@ -4,7 +4,10 @@ title: "Whining with the clutch pressed"
 metaTitle: "Whine when the clutch is pressed: what it is | Stuk"
 description: "A whine that appears when you press the clutch pedal almost always means the release bearing. How to confirm it in a minute and what the repair involves."
 pubDate: "2026-07-24"
-related: []
+related:
+  - the-noise-stops-when-you-press-the-clutch
+  - automatic-gearbox-jolts-and-clunks-when-shifting
+  - signs-of-a-worn-clutch
 faq:
   - q: "Is a whine with the clutch pressed definitely the release bearing?"
     a: "In most cases yes: the bearing only starts turning when the pedal is down, which is exactly when it makes its noise. Less often the fork or the guide sleeve behave this way, but they usually give a creak or a click rather than an even whine."

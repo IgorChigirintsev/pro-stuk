@@ -4,7 +4,10 @@ title: "Front strut knock over small bumps"
 metaTitle: "Front strut knock over small bumps: what to check | Stuk"
 description: "A dry knock from the front struts on small bumps: how to tell the damper from the top mounts and the anti-roll bar, and which checks to do yourself."
 pubDate: "2026-06-26"
-related: []
+related:
+  - cr-v-awd-coupling-whine
+  - mitsubishi-4b12-lifter-noise
+  - engine-knock-at-idle
 faq:
   - q: "Why is the knock only heard on small bumps?"
     a: "On big potholes the suspension travel is long and the damper works in its normal range. A small bump gives a short sharp movement, and that is when worn bushes, mounts and valves answer with an impact."

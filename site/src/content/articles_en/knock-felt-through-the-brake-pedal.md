@@ -4,7 +4,10 @@ title: "A knock felt through the brake pedal"
 metaTitle: "A knock felt through the brake pedal: causes | Stuk"
 description: "Knocking and feedback through the brake pedal can be normal ABS operation, or play in the caliper or the running gear. How to tell them apart."
 pubDate: "2026-07-21"
-related: []
+related:
+  - noises-after-a-brake-pad-change
+  - brake-squeal-after-standing
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "The pedal knocks and vibrates under hard braking — is that a fault?"
     a: "Probably not. That is the ABS: the system drops and restores pressure dozens of times a second, and the pedal pulses noticeably underfoot with a characteristic chatter. It is normal behaviour on a slippery surface or during an emergency stop."

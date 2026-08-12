@@ -4,7 +4,10 @@ title: "Sagging springs: the symptoms"
 metaTitle: "Sagging springs: symptoms, checks, replacement | Stuk"
 description: "How to tell that springs have sagged: ride height measurements, how the car behaves, indirect signs. What sagging risks and what replacement involves."
 pubDate: "2026-07-13"
-related: []
+related:
+  - signs-of-worn-bump-stops
+  - signs-of-worn-engine-mounts
+  - signs-of-worn-suspension-bushes
 faq:
   - q: "Why do springs sag?"
     a: "The main reason is metal fatigue: over its life a spring is compressed millions of times and the steel gradually loses its springiness. Constant overloading, broken roads and corrosion from water and road salt all speed it up."

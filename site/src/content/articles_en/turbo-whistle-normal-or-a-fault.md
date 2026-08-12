@@ -4,7 +4,10 @@ title: "Turbo whistle: normal or a fault"
 metaTitle: "Turbo whistle: normal or a fault | Stuk"
 description: "When a turbocharger's whistle is a standard sound and when it signals a leak or wear: how to tell boost whistle from belt squeal and what to check first."
 pubDate: "2026-06-07"
-related: []
+related:
+  - burnt-exhaust-manifold-gasket-signs
+  - signs-of-a-blocked-catalytic-converter
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Does a turbo always whistle, or is it a sign of a fault?"
     a: "A turbocharger is noisy by nature: the wheel spins at very high speed, and a light whistle under acceleration is normal on many engines. What becomes worrying is a change in the sound — a siren, a howl or a grinding note appearing, or growing volume with unchanged driving."

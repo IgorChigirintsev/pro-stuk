@@ -4,7 +4,10 @@ title: "Signs of a failing automatic transmission"
 metaTitle: "Signs of a failing automatic transmission | Stuk"
 description: "An automatic rarely fails overnight: slipping, whining and delays come first. The early signs of wear and what to do at each stage."
 pubDate: "2026-07-25"
-related: []
+related:
+  - knock-when-changing-gear
+  - gearbox-whine-in-neutral
+  - signs-of-a-worn-clutch
 faq:
   - q: "Which sign of a failing automatic is the most alarming?"
     a: "Slipping: the engine revs rise while the car accelerates weakly or not at all. That means the clutch packs no longer hold the torque, and every trip adds wear debris to the fluid, accelerating the damage."

@@ -4,7 +4,10 @@ title: "Signs of main bearing knock"
 metaTitle: "Signs of main bearing knock in an engine | Stuk"
 description: "A heavy low knock from the bottom of the block, falling oil pressure and vibration: how to recognise worn main bearings and how they differ from big ends."
 pubDate: "2026-06-06"
-related: []
+related:
+  - burnt-valve-signs-by-ear
+  - turbo-whistle-normal-or-a-fault
+  - alternator-belt-squeal-causes
 faq:
   - q: "How does main bearing knock differ from big-end knock?"
     a: "Mains sound lower and duller, are heard at the bottom of the block near the sump, and grow noticeably when the revs are raised sharply at idle. Big ends are sharper, come from the middle of the block and weaken when a specific cylinder is cut — mains barely react to that test."

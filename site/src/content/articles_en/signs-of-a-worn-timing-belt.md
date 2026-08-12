@@ -4,7 +4,10 @@ title: "Signs of a worn timing belt"
 metaTitle: "Worn timing belt: inspection, sound, intervals | Stuk"
 description: "How to tell a timing belt is worn: cracks, fraying, ticking and idler whine. Why a break is fatal for the engine and when the belt must be replaced."
 pubDate: "2026-07-05"
-related: []
+related:
+  - signs-of-worn-timing-belt-idlers
+  - signs-of-a-worn-alternator-bearing
+  - hydraulic-lifters-ticking-when-cold
 faq:
   - q: "What happens if the timing belt snaps while driving?"
     a: "The engine stalls instantly, and on most modern engines the pistons strike the stopped valves and bend them. The repair means removing the cylinder head, new valves, sometimes pistons too. That is why the belt is replaced strictly to schedule."

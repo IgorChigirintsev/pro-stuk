@@ -4,7 +4,10 @@ title: "A driveline clunk on and off the throttle"
 metaTitle: "A driveline clunk on and off the throttle | Stuk"
 description: "A dull thump the moment you lift off or get back on the throttle is driveline clearance being taken up. Which parts knock and how to tell them apart."
 pubDate: "2026-06-01"
-related: []
+related:
+  - knock-only-with-passengers-or-a-load
+  - the-sound-changes-when-you-select-neutral
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Why is the knock only heard in traffic?"
     a: "In traffic the throttle and brake alternate every few seconds, and the torque keeps changing sign. It is at the moment of that transition that the parts pass right through their clearances and strike. At a steady speed the load does not change, so the sound disappears."

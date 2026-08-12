@@ -4,7 +4,10 @@ title: "A knock in the door over bumps"
 metaTitle: "A knock in the door over bumps: what to check | Stuk"
 description: "The door knocks over bumps: the window regulator, the check strap, the latch — or the suspension after all. How to localise it in one drive."
 pubDate: "2026-07-29"
-related: []
+related:
+  - rattling-dashboard
+  - can-you-drive-with-a-whining-gearbox
+  - suspension-creaking-over-bumps
 faq:
   - q: "Why does the door knock stop if I lower the window slightly?"
     a: "It means the window regulator itself is knocking: in a lowered or raised position the glass changes its bearing point in the runs, and the loose mechanism stops hitting the door. That is a reliable sign that the search belongs inside the door, not in the suspension."

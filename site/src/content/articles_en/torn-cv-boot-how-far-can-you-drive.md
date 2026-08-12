@@ -4,7 +4,10 @@ title: "A torn CV boot: how far can you drive"
 metaTitle: "Torn CV boot: how far can you drive? | Stuk"
 description: "A torn CV boot does not destroy the joint at once, but it starts a countdown. How many kilometres are really left, what it depends on and what is cheaper."
 pubDate: "2026-07-26"
-related: []
+related:
+  - click-when-reversing
+  - signs-of-a-worn-propshaft-universal-joint
+  - alternator-belt-squeal-causes
 faq:
   - q: "How far will a car go with a torn CV boot?"
     a: "From a few hundred to a few thousand kilometres — a huge spread that depends on how much grease has been thrown out and how much dirt has got in. A fresh tear in dry weather is almost harmless; a two-month-old tear after a wet spring usually means the joint is already eaten."

@@ -4,7 +4,10 @@ title: "A broken timing chain: consequences by engine"
 metaTitle: "Broken timing chain: consequences by engine | Stuk"
 description: "What happens to an engine when the timing chain breaks or jumps, why some engines only need a new chain and others a cylinder head rebuild."
 pubDate: "2026-06-16"
-related: []
+related:
+  - driving-with-dead-shock-absorbers
+  - is-a-cold-knock-that-goes-away-dangerous
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "Do all engines bend valves when the chain breaks?"
     a: "No, but most modern ones do. Designs where the piston simply cannot reach an open valve are rare today, and assuming your engine is one of them without checking is not wise."

@@ -4,7 +4,10 @@ title: "Interior creaks in winter"
 metaTitle: "Interior creaks in winter: why the cold brings them | Stuk"
 description: "Why the interior creaks more in winter: what happens to plastic and rubber in the cold, which sounds clear after warm-up and which need checking."
 pubDate: "2026-07-29"
-related: []
+related:
+  - door-knocking-over-bumps
+  - rattling-dashboard
+  - can-you-drive-with-engine-knock
 faq:
   - q: "Why does the interior creak only in the first minutes after setting off?"
     a: "Cold plastic is stiffer and slightly smaller, so the parts gain freedom for micro-movement. As the cabin warms the plastic expands, the clearances close up and the sound goes. That creak is not a fault in itself."

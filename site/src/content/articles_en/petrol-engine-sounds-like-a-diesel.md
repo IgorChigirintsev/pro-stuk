@@ -4,7 +4,10 @@ title: "Why a petrol engine starts to sound like a diesel"
 metaTitle: "Petrol engine sounding like a diesel: causes | Stuk"
 description: "Why a petrol engine starts clattering like a diesel: valve clearances, a stretched timing chain, knocking, direct injection. What to check first, and in what order."
 pubDate: "2026-08-02"
-related: []
+related:
+  - engine-ticking-dangerous-or-not
+  - signs-of-valve-clatter
+  - knock-that-goes-away-with-warm-up
 faq:
   - q: "What does it mean when a petrol engine sounds like a diesel?"
     a: "It describes the moment a petrol engine loses its usual smoothness and starts to clatter like a diesel. It is not a fault in itself but an umbrella symptom: wide valve clearances, a stretched timing chain, noisy direct injection or knocking can all sound like this."

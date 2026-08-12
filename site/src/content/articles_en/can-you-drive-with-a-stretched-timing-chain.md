@@ -4,7 +4,10 @@ title: "Can you drive with a stretched timing chain"
 metaTitle: "Can you drive with a stretched timing chain? | Stuk"
 description: "What a stretched timing chain risks, when driving to a workshop yourself is acceptable, when you need a tow truck, and what delay actually costs."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-stretched-timing-chain
+  - knock-that-goes-away-with-warm-up
+  - engine-knock-at-idle
 faq:
   - q: "How far can I drive with a stretched timing chain?"
     a: "There is no guaranteed margin. If the chain only rattles for the first seconds after a cold start and there are no fault codes, the count is usually in thousands of kilometres. Once camshaft correlation codes and constant rumbling appear, it is hundreds, and the replacement should be planned at once."

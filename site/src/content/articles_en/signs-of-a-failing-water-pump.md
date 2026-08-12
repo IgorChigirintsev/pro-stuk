@@ -4,7 +4,10 @@ title: "Signs of a failing water pump"
 metaTitle: "Failing water pump: noise, leaks, overheating | Stuk"
 description: "Coolant leaks, a whining bearing, pulley play and overheating: the signs of a dying water pump by stage, simple checks and what the replacement involves."
 pubDate: "2026-08-02"
-related: []
+related:
+  - water-pump-whine-how-to-check
+  - alternator-belt-squeal-causes
+  - alternator-squeal-bearing-or-belt
 faq:
   - q: "How long does a water pump last?"
     a: "The guide is 60,000–120,000 km, which is why on timing-belt engines the pump is replaced with the belt kit. The life depends heavily on the coolant: old fluid, or fluid diluted with water, loses its lubricating and protective properties and the seal and bearing wear noticeably faster."

@@ -4,7 +4,10 @@ title: "Ticking: valves or hydraulic lifters"
 metaTitle: "Ticking: valve clearances or lifters — telling them apart | Stuk"
 description: "Ticking from under the rocker cover comes from both misadjusted valve clearances and worn hydraulic lifters. How to separate them by ear."
 pubDate: "2026-06-11"
-related: []
+related:
+  - cold-knock-timing-chain-or-cam-phasers
+  - brake-squeal-pads-or-discs
+  - signs-of-a-worn-clutch
 faq:
   - q: "Does lifter noise go away after warm-up?"
     a: "Often it does: the oil thins, system pressure rises and the lifter fills. Ticking that clears one to three minutes after a cold start is the typical picture. Constant ticking on a warm engine points at more serious wear."

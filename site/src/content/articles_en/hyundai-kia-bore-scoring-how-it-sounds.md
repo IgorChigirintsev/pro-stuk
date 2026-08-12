@@ -4,7 +4,10 @@ title: "Hyundai/Kia bore scoring: how it sounds"
 metaTitle: "Hyundai/Kia bore scoring: how it sounds | Stuk"
 description: "How to recognise cylinder bore scoring by ear on Hyundai and Kia engines: the character of the knock, its link to warm-up and load, and how it is confirmed."
 pubDate: "2026-06-24"
-related: []
+related:
+  - signs-of-a-worn-clutch
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "Does bore scoring knock when cold or when hot?"
     a: "At an early stage the knock is more noticeable on a cold engine and fades as it warms — the clearances shrink with thermal expansion. The worrying sign is the opposite picture: the sound not going on a warm engine and becoming clearer under load. That already indicates substantial wear."

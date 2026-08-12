@@ -4,7 +4,10 @@ title: "Noise underneath: exhaust or undertray"
 metaTitle: "Noise from below: exhaust or undertray | Stuk"
 description: "Metallic rattling from below comes from either the exhaust system or the undertray. How to separate them by ear and by hand in ten minutes."
 pubDate: "2026-06-15"
-related: []
+related:
+  - engine-or-accessory-knock-how-to-localise
+  - alternator-or-water-pump-whine
+  - signs-of-a-worn-clutch
 faq:
   - q: "How do I quickly tell the undertray from the exhaust?"
     a: "The undertray rattles over bumps and when a door is slammed, but is silent with the car standing and idling. The exhaust, conversely, follows the revs: blip the throttle in neutral and the rattle appears or changes with the engine speed."

@@ -4,7 +4,10 @@ title: "A noise that only appears under load on a climb"
 metaTitle: "A noise only on a climb under load: causes | Stuk"
 description: "Why a stray noise is only heard on a climb under power, which parts behave that way, and how to tell the belt from a CV joint and detonation."
 pubDate: "2026-07-28"
-related: []
+related:
+  - can-you-drive-with-a-squealing-belt
+  - can-you-drive-with-a-clicking-cv-joint
+  - alternator-belt-squeal-causes
 faq:
   - q: "Why does the noise disappear the moment I lift off?"
     a: "It means the sound is born where torque is transmitted: in the drive, the transmission or the cylinders. Under load the parts are pressed together harder, the clearances are taken up, and the weak point starts to speak; coasting, the load disappears and the sound goes with it."

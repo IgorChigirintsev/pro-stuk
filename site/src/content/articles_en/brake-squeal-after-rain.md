@@ -4,7 +4,10 @@ title: "Brake squeal after rain: normal or not"
 metaTitle: "Brake squeal after rain: normal or not | Stuk"
 description: "Why brakes squeal after rain and an overnight stand, when it is harmless rust on the discs and when it is a sign of worn pads."
 pubDate: "2026-08-02"
-related: []
+related:
+  - brake-pad-wear-by-ear
+  - signs-of-worn-shock-absorbers
+  - knock-after-a-tyre-change
 faq:
   - q: "How many stops does it take for a squeal after rain to clear?"
     a: "Usually 5–10 moderate stops: the pads wipe the thin rust film off the discs and the sound disappears. If a squeal survives 10–15 stops in dry weather, moisture is not the cause and the pads and calipers deserve a look."

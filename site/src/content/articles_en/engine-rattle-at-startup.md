@@ -4,7 +4,10 @@ title: "Engine rattle at start-up"
 metaTitle: "Engine rattle at start-up: causes and what to do | Stuk"
 description: "Why an engine rattles at start-up: the starter, cam phasers, the chain tensioner or the alternator decoupler. How to tell them apart by the moment."
 pubDate: "2026-07-07"
-related: []
+related:
+  - grinding-noise-when-starting-the-engine
+  - starter-chatters-but-will-not-crank
+  - knock-that-goes-away-with-warm-up
 faq:
   - q: "Is a rattle in the first seconds after starting dangerous?"
     a: "Most often that is the cam phasers or the chain tensioner left without oil pressure while the car stood. The sound is not considered an emergency, but it is an early sign of wear: freshen the oil and plan a diagnosis."

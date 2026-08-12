@@ -4,7 +4,10 @@ title: "Humming: the gearbox or a wheel bearing"
 metaTitle: "Humming at speed: gearbox or wheel bearing | Stuk"
 description: "A hum at speed comes from both wheel bearings and gearboxes. Three tests that separate them in a single drive, and what each answer means for the repair."
 pubDate: "2026-06-13"
-related: []
+related:
+  - clicking-cv-joint-or-brakes
+  - vibration-wheel-balance-or-suspension
+  - alternator-belt-squeal-causes
 faq:
   - q: "What is the quickest way to tell gearbox hum from wheel bearing hum?"
     a: "Accelerate to the speed where the hum is audible and shift into neutral while coasting. Wheel bearing hum stays exactly the same, because the wheel keeps turning. Gearbox hum usually changes pitch or fades noticeably."

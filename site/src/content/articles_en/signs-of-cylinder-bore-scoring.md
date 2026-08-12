@@ -4,7 +4,10 @@ title: "Signs of cylinder bore scoring"
 metaTitle: "Cylinder bore scoring: noise, oil use, signs | Stuk"
 description: "Five signs of scored cylinder bores: a cold knock, oil consumption, lost power. Which engines are at risk, how the diagnosis is confirmed and what follows."
 pubDate: "2026-07-02"
-related: []
+related:
+  - engine-knock-only-when-cold
+  - knock-at-start-after-long-standing
+  - can-you-drive-with-engine-knock
 faq:
   - q: "How is scoring finally confirmed?"
     a: "With an endoscope: a flexible camera goes into the cylinder through the spark plug hole and the walls are inspected. Vertical scratches and matt streaks on the bore are visible at once. It is an inexpensive procedure well worth doing when buying a car from a risk group."

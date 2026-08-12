@@ -4,7 +4,10 @@ title: "Can you drive with a broken catalytic converter"
 metaTitle: "Can you drive with a broken catalytic converter? | Stuk"
 description: "Collapsed converter ceramic rustles and chokes the engine. When you can drive to a workshop, when you cannot, and what it risks for the engine."
 pubDate: "2026-06-16"
-related: []
+related:
+  - how-far-a-wheel-bearing-lasts-after-the-hum-starts
+  - timing-chain-failure-consequences-by-engine
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "What does a collapsed catalytic converter sound like?"
     a: "The giveaway is a dry rustle, as though gravel were pouring inside a metal can. It is audible when you blip the throttle and over bumps, and often disappears at idle; over time a loss of power joins it."

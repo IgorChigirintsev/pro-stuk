@@ -4,7 +4,10 @@ title: "Cold knock on a Škoda Rapid / Octavia 1.4 TSI"
 metaTitle: "Cold knock on Škoda Rapid and Octavia 1.4 TSI | Stuk"
 description: "Cold knocks on Škoda Rapid and Octavia with the 1.4 TSI: chain and tensioner, hydraulic lifters, accessories. How to tell them apart."
 pubDate: "2026-06-22"
-related: []
+related:
+  - alternator-belt-squeal-causes
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "The knock goes a minute after starting — is that normal?"
     a: "A small change in sound during warm-up is natural: clearances in cold metal are larger and the oil is thicker. What should concern you is the trend. If the engine used to be quiet and now knocks consistently for the first seconds, and the sound is getting longer, that is wear rather than a design feature."

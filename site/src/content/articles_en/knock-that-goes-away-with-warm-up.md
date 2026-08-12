@@ -4,7 +4,10 @@ title: "An engine knock that goes away with warm-up"
 metaTitle: "Knock that goes away with warm-up: what it means | Stuk"
 description: "Why an engine knocks when cold and goes quiet once warm: hydraulic lifters, piston slap, the chain tensioner. Where normal ends."
 pubDate: "2026-08-02"
-related: []
+related:
+  - hydraulic-lifters-ticking-when-cold
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "Is a cold knock always a fault?"
     a: "No. A short tick or rustle in the first seconds after starting is present on many healthy engines: the oil needs time to reach the top of the engine and fill the lifters and the chain tensioner. Worry if the knock lasts more than a couple of minutes, grows louder week by week, or does not disappear completely after warm-up."

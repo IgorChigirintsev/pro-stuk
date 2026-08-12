@@ -4,7 +4,10 @@ title: "Checking timing chain tension by ear"
 metaTitle: "Checking timing chain tension by ear | Stuk"
 description: "How to hear a stretched timing chain: the conditions where it gives itself away, how it differs from lifters and injectors, and what a cold start shows."
 pubDate: "2026-06-18"
-related: []
+related:
+  - how-to-check-hydraulic-lifters
+  - diy-mechanics-stethoscope
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "Why is the timing chain loudest on a cold start?"
     a: "The hydraulic tensioner holds the chain with oil pressure. After the car stands, oil drains into the sump, the tensioner partly discharges, and for the first seconds the chain runs slack. A stretched chain slaps the guides at that moment — hence the short rattle at startup."

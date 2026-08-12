@@ -4,7 +4,10 @@ title: "Anti-roll bar links knocking: how to check"
 metaTitle: "Anti-roll bar links knocking: how to check | Stuk"
 description: "Rattling over small bumps is the most common anti-roll bar link complaint. How to check them by hand in ten minutes and not overpay for new arms."
 pubDate: "2026-06-02"
-related: []
+related:
+  - front-control-arm-bush-wear-symptoms
+  - how-to-tell-shock-absorbers-are-dead
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "How do I tell an anti-roll bar link knock from the others?"
     a: "It is fine and frequent, appears on washboard surfaces, joints and speed humps at low speed, and disappears entirely on smooth tarmac. Control arm and damper knocks, by contrast, are dull, single and noticeable on larger potholes."

@@ -4,7 +4,10 @@ title: "A noisy strut top mount bearing: symptoms"
 metaTitle: "Noisy strut top mount bearing: symptoms | Stuk"
 description: "Clicking and crunching as you turn the wheel parked, knocking over small potholes, heavy steering — how to spot a worn strut top mount bearing."
 pubDate: "2026-06-03"
-related: []
+related:
+  - ball-joint-failure-danger
+  - noisy-release-bearing-can-you-drive
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "How do I tell a top mount bearing from a CV joint?"
     a: "A top mount bearing clicks as you turn the wheel even with the car standing still; a CV joint is silent when parked and only crunches when driving in a circle under power. That division works almost every time."

@@ -4,7 +4,10 @@ title: "A mechanic's stethoscope you can make yourself"
 metaTitle: "DIY mechanic's stethoscope: how to make one | Stuk"
 description: "How to build a car stethoscope from a screwdriver, a hose or a tube, where to listen on the engine and accessories, and the safety rules to follow."
 pubDate: "2026-06-19"
-related: []
+related:
+  - checking-engine-mounts-under-load
+  - how-to-check-a-brake-caliper-for-sticking
+  - alternator-belt-squeal-causes
 faq:
   - q: "Does a screwdriver really work instead of a stethoscope?"
     a: "It does, and rather well: the metal shaft carries vibration from the part's casing to the handle, and you press the handle to your ear or cheekbone. It is less precise than a stethoscope with a diaphragm, but for answering “is it this unit or the one next to it” that is usually enough."

@@ -4,7 +4,10 @@ title: "A knock when steering on the move"
 metaTitle: "A knock when steering on the move: causes | Stuk"
 description: "What knocks when you turn the wheel while driving: CV joint, ball joint, strut top mount or the rack. How to separate the causes by sound."
 pubDate: "2026-07-17"
-related: []
+related:
+  - signs-of-worn-tie-rods
+  - steering-rack-fault-signs
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Are clicks in a turn under power definitely the CV joint?"
     a: "Almost always. An outer CV joint clicks precisely under load with the wheels turned, and the harder the throttle and the greater the angle, the louder the rattle. The quick check is a slow circle on an empty car park at full lock: a worn joint will rattle on the first lap."

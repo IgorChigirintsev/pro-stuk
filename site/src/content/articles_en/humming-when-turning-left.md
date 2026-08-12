@@ -4,7 +4,10 @@ title: "Humming when turning left"
 metaTitle: "Humming when turning left: which bearing hums | Stuk"
 description: "A hum when turning left usually means the right wheel bearing is worn. Why that is, how to confirm it in one drive and how urgent the replacement is."
 pubDate: "2026-07-18"
-related: []
+related:
+  - humming-when-turning-right
+  - knock-felt-in-the-steering-wheel-on-rough-roads
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "Humming when turning left — which bearing do I replace?"
     a: "Most likely the right one: turning left transfers the car's weight onto the outer, right-hand side, and the loaded bearing hums louder. But that is a guide, not a verdict — the side is confirmed on a lift by spinning the raised wheels."

@@ -4,7 +4,10 @@ title: "What happens if you keep driving with noisy hydraulic lifters"
 metaTitle: "Noisy hydraulic lifters: driving on with them | Stuk"
 description: "A ticking hydraulic lifter will not destroy an engine in a day, but it hammers the camshaft lobe and the valve. The scenarios, the timescales and what to check first."
 pubDate: "2026-07-31"
-related: []
+related:
+  - noises-that-mean-stop-driving-now
+  - top-10-noises-you-should-not-drive-with
+  - water-pump-whine-how-to-check
 faq:
   - q: "The lifter noise disappears once the engine warms up. Is that normal?"
     a: "That is the most common and the most harmless picture: thick cold oil does not fill the lifter straight away, so for the first tens of seconds it works with a gap. If there is silence after warm-up, the situation is kept under observation and usually solved with the right oil viscosity."

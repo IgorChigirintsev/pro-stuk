@@ -4,7 +4,10 @@ title: "Signs of a worn propshaft universal joint"
 metaTitle: "Worn propshaft universal joint: the signs | Stuk"
 description: "A clunk when pulling away, vibration at speed, metallic ringing under the floor — how to read universal joint wear by stage and when to replace it."
 pubDate: "2026-07-27"
-related: []
+related:
+  - signs-of-a-worn-propshaft-centre-bearing
+  - rear-differential-whine-at-speed
+  - how-long-a-cv-joint-lasts-after-clicking-starts
 faq:
   - q: "How do I tell a universal joint from the centre bearing?"
     a: "A universal joint gives short thumps when the load changes — pulling away, lifting off, selecting reverse. The centre bearing, by contrast, hums and vibrates constantly within a speed range and barely reacts to the throttle. If the sound is tied to a moment rather than a speed, it is the universal joint."

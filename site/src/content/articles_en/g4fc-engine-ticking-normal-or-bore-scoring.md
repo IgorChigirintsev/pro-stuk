@@ -4,7 +4,10 @@ title: "G4FC ticking on Solaris/Rio: normal or bore scoring"
 metaTitle: "G4FC ticking: normal or bore scoring | Stuk"
 description: "The G4FC ticks at idle: where the standard injector chatter ends and a worrying sound begins. How to tell normal from scoring and what to check."
 pubDate: "2026-06-24"
-related: []
+related:
+  - brake-pad-wear-by-ear
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "Is ticking on a G4FC normal?"
     a: "An even, rapid chatter audible with the bonnet open, unchanged by warm-up and not coming through into the cabin, is ordinary texture for this engine: that is how the injectors and the valve train sound. The sound becomes worrying when it is louder when cold, grows under load, or starts to sound like a distinct single impact."

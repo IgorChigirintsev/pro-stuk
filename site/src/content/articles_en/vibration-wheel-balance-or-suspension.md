@@ -4,7 +4,10 @@ title: "Vibration: wheel balance or suspension"
 metaTitle: "Vibration at speed: wheel balance or suspension | Stuk"
 description: "Vibration in the wheel and body comes from both wheel imbalance and worn suspension. How to separate the versions by speed and conditions."
 pubDate: "2026-06-13"
-related: []
+related:
+  - knock-steering-rack-or-track-rod-ends
+  - diesel-clatter-injectors-or-valve-clearances
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "At what speed does wheel imbalance show itself?"
     a: "Most often in the 80–120 km/h band: the vibration builds towards a particular speed, peaks, and can weaken above it. That clear link to a narrow window of speeds is almost the calling card of imbalance."

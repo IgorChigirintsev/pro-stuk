@@ -4,7 +4,10 @@ title: "A noisy release bearing: can you drive?"
 metaTitle: "A noisy release bearing: can you drive, and how far | Stuk"
 description: "Release bearing noise when the clutch pedal is pressed: how to tell it from other sounds, how long you can drive and what decides the repair."
 pubDate: "2026-06-04"
-related: []
+related:
+  - what-a-worn-dual-mass-flywheel-sounds-like
+  - engine-mount-failure-symptoms
+  - engine-knock-at-idle
 faq:
   - q: "How long can I drive with a noisy release bearing?"
     a: "While the noise is even and only appears with the pedal down, the car usually runs for months. The danger is not the hum itself but that a bearing breaking up can damage the fingers of the pressure plate diaphragm spring — and an inexpensive part then drags an expensive kit with it."

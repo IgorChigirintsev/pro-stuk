@@ -4,7 +4,10 @@ title: "Signs of worn engine mounts"
 metaTitle: "Signs of worn engine mounts: vibration, jolts | Stuk"
 description: "Vibration at idle, a jolt when selecting a gear, a knock under acceleration: how to recognise dead engine mounts and what decides the repair."
 pubDate: "2026-07-14"
-related: []
+related:
+  - clattering-under-the-car-over-bumps
+  - rattling-under-the-floor-at-speed
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "How many mounts does an engine have?"
     a: "Usually three or four: two main load-bearing ones at the sides and one or two torque links that stop the engine rocking under acceleration and braking. They wear unevenly — the loaded torque link is usually the first to give up."

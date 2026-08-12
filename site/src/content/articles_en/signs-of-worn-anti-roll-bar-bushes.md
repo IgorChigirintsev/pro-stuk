@@ -4,7 +4,10 @@ title: "Signs of worn anti-roll bar bushes"
 metaTitle: "Worn anti-roll bar bushes: sound and checks | Stuk"
 description: "How worn anti-roll bar bushes sound, how they differ from the links, how to check them yourself and what the replacement involves."
 pubDate: "2026-07-13"
-related: []
+related:
+  - suspension-knock-over-speed-humps
+  - dull-knock-from-the-front-over-potholes
+  - front-suspension-knock-over-small-bumps
 faq:
   - q: "Can I drive with worn anti-roll bar bushes?"
     a: "Yes: the bushes govern body roll, not wheel location, so safety is not directly affected. But a loose bar gradually wears its own mounting points and rubs itself away. Given how cheap the replacement is, there is no sense stretching it beyond a month or two."

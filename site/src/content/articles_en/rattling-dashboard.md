@@ -4,7 +4,10 @@ title: "A rattling dashboard"
 metaTitle: "Rattling dashboard: finding the source | Stuk"
 description: "A rattling dashboard annoys more than it harms. Why the plastic starts buzzing, how to find the contact point in ten minutes and when the dash is not to blame."
 pubDate: "2026-07-30"
-related: []
+related:
+  - can-you-drive-with-a-whining-gearbox
+  - can-you-drive-with-a-whining-water-pump
+  - water-pump-whine-how-to-check
 faq:
   - q: "Is a rattling dashboard dangerous?"
     a: "In itself, almost never: plastic taps against plastic and nothing is destroyed by it. The danger is different — when the rattle turns out not to be the dash at all but vibration from the engine or the chassis that has simply found a resonator in the cabin."

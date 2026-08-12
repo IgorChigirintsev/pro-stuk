@@ -4,7 +4,10 @@ title: "A knock felt in the wheel on rough roads"
 metaTitle: "A knock felt in the wheel on rough roads | Stuk"
 description: "Where a knock felt through the steering wheel comes from: the rack, track rod ends, tie rods or the anti-roll bar. Simple checks without a lift."
 pubDate: "2026-07-16"
-related: []
+related:
+  - how-to-identify-a-steering-rack-knock
+  - knock-when-steering-on-the-move
+  - power-steering-whine-when-turning
 faq:
   - q: "How do I know it is the steering and not the suspension?"
     a: "The main sign is feedback in your palms: impacts from the steering gear reach your hands with almost no loss. Knocks from anti-roll bar links and bushes are usually just heard under the car while the wheel stays calm. An extra check is rocking the wheel while parked: the suspension does not answer that."

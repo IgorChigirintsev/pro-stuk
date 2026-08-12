@@ -4,7 +4,10 @@ title: "Is a cold knock that goes away dangerous"
 metaTitle: "Cold start knock that goes away: dangerous? | Stuk"
 description: "A knock at a cold start that disappears after warm-up can be harmless or the warning of an expensive repair. How to tell them apart by timing and character."
 pubDate: "2026-06-17"
-related: []
+related:
+  - how-to-check-a-wheel-bearing-yourself
+  - checking-wheel-bearing-play-with-the-wheel-raised
+  - engine-knock-at-idle
 faq:
   - q: "How many seconds of cold-start knock counts as normal?"
     a: "The guide is two or three seconds: that is how long the oil pump takes to fill the galleries and the tensioner to build pressure. If the sound lasts longer than ten seconds, or stretches across minutes of warm-up, it is no longer starting but a symptom."

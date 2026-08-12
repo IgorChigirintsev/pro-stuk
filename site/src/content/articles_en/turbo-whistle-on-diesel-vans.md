@@ -4,7 +4,10 @@ title: "Turbo whistle on diesel vans: Sprinter, Transit"
 metaTitle: "Turbo whistle on diesel Sprinter and Transit vans | Stuk"
 description: "Turbo whistle on diesel Sprinter and Transit vans: where normal ends and an air leak or shaft wear begins, and how to check the hoses."
 pubDate: "2026-06-27"
-related: []
+related:
+  - ep6-balance-shaft-knock-peugeot-citroen
+  - ford-focus-clutch-fork-knock
+  - signs-of-a-worn-clutch
 faq:
   - q: "A turbo always whistles a bit — is that normal?"
     a: "Yes, a light even whistle under boost is the standard sound of a working turbocharger. What should worry you is not the whistle itself but a change in it: growing volume, a siren-like or howling note, and a loss of pull along with the sound."

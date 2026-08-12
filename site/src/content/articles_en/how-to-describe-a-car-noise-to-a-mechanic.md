@@ -4,7 +4,10 @@ title: "What to tell a mechanic: describing a noise properly"
 metaTitle: "How to describe a car noise to a mechanic | Stuk"
 description: "How to describe a noise so a mechanic gets it first time: the five things that matter, wording that works, common mistakes and what not to say."
 pubDate: "2026-06-21"
-related: []
+related:
+  - avoiding-being-upsold-at-a-workshop
+  - timing-chain-rattle-1-4-tsi
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "Should I name the part I suspect?"
     a: "You can offer a theory, but after the facts and as a theory, not as an order. Start with “replace my anti-roll bar links” and the visit turns into order fulfilment, with nobody looking for the real cause. Facts first, theory second."

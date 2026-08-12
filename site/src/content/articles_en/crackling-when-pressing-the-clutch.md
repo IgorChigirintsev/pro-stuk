@@ -4,7 +4,10 @@ title: "Crackling when pressing the clutch"
 metaTitle: "Crackling when pressing the clutch: causes | Stuk"
 description: "Crackling as the clutch pedal goes down usually comes from the fork, the guide sleeve or a dry pivot. How to tell a cheap cause from a gearbox-out job."
 pubDate: "2026-07-24"
-related: []
+related:
+  - whine-with-the-clutch-pressed
+  - the-noise-stops-when-you-press-the-clutch
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "Is crackling on the pedal the release bearing?"
     a: "Not necessarily. A release bearing usually whines or rustles at an even pitch while the pedal is held down. A dry, intermittent crackle more often comes from the fork, its pivot or the plastic bushes of the pedal mechanism."

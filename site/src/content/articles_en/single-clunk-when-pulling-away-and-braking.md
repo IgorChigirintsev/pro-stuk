@@ -4,7 +4,10 @@ title: "A single clunk when pulling away and braking"
 metaTitle: "Single clunk when pulling away and braking | Stuk"
 description: "Where a single clunk when moving off and stopping comes from: pads, calipers, engine mounts, propshaft. How to check it and how the repair is decided."
 pubDate: "2026-07-10"
-related: []
+related:
+  - suspension-knock-in-cold-weather
+  - knock-after-replacing-shock-absorbers
+  - signs-of-worn-anti-roll-bar-links
 faq:
   - q: "Why is the clunk single rather than a series?"
     a: "Because the source is play that shifts when the direction of force changes. Pulling away presses the parts one way, braking the other, and the clearance is taken up once, with a single click. Over bumps such a component may stay completely silent."

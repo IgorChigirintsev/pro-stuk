@@ -4,7 +4,10 @@ title: "Metallic pinging in the engine under acceleration"
 metaTitle: "Metallic pinging under acceleration: causes | Stuk"
 description: "Pinging like coins in a tin under acceleration is usually detonation. The causes — fuel, carbon, plugs, knock sensor — the risk and what to check first."
 pubDate: "2026-07-01"
-related: []
+related:
+  - engine-misfires-and-knocks
+  - gudgeon-pin-knock-how-to-identify
+  - can-you-drive-with-engine-knock
 faq:
   - q: "Why does the pinging appear specifically under acceleration?"
     a: "Under acceleration the pressure and temperature in the cylinders are at their highest, and those are the main conditions for detonation — explosive burning of the fuel. At idle and at a steady cruise the same cylinders have an easier time, so the pinging stops. The higher the load and the lower the revs, the clearer it is."

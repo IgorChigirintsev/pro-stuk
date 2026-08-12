@@ -4,7 +4,10 @@ title: "Checking shock absorbers with the bounce test"
 metaTitle: "Shock absorber bounce test: step by step | Stuk"
 description: "The bounce test step by step: how to push on the body, how to count the movements, what the test cannot show and when a proper rig is needed."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-worn-shock-absorbers
+  - not-replacing-anti-roll-bar-links
+  - signs-of-worn-anti-roll-bar-links
 faq:
   - q: "How reliable is the bounce test?"
     a: "It confidently identifies only a badly worn or dead damper. One that has lost 30–50 per cent of its effectiveness usually damps a hand-driven bounce almost like new, even though the car already behaves worse at speed. So the bounce test is a filter for gross faults, not a substitute for rig testing."

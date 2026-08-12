@@ -4,7 +4,10 @@ title: "Engine whine under acceleration"
 metaTitle: "Engine whine under acceleration: causes | Stuk"
 description: "Where a whine under acceleration comes from: the alternator, power steering pump, idlers, water pump or gearbox. Simple tests to find the source."
 pubDate: "2026-07-04"
-related: []
+related:
+  - humming-under-the-bonnet-at-idle
+  - timing-chain-rustle-what-it-sounds-like
+  - hydraulic-lifters-ticking-when-cold
 faq:
   - q: "How do I tell an engine whine from a gearbox whine?"
     a: "Check the sound while parked: raise the revs in neutral to 2500–3000. If the whine appears, the source is in the engine or its accessories. If it is silent while parked and only whines on the move under load, suspect the gearbox or the transmission."

@@ -4,7 +4,10 @@ title: "Metallic clatter under the car over bumps"
 metaTitle: "Metallic clatter under the car over bumps | Stuk"
 description: "Metallic clatter from underneath on bumps: undertray, heat shields, exhaust or anti-roll bar links. How to find the source in five minutes."
 pubDate: "2026-07-12"
-related: []
+related:
+  - can-you-drive-with-a-knocking-suspension
+  - signs-of-worn-anti-roll-bar-bushes
+  - finding-a-suspension-knock-without-a-lift
 faq:
   - q: "Why is the clatter only there on bumps and quiet on smooth roads?"
     a: "What clatters is a part that has lost its rigid mounting and hangs free: on a smooth road nothing shakes it, on a bump it jumps and hits the metal next to it. So clatter almost always means a loose fastener or a joint worn dry, not wear in a loaded component."

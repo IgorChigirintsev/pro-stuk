@@ -4,7 +4,10 @@ title: "The noise stops when you press the clutch"
 metaTitle: "The noise stops when you press the clutch: why | Stuk"
 description: "If a stray hum disappears when the clutch is pressed, the source is in the gearbox. How to narrow the list of suspects and what to check first."
 pubDate: "2026-07-24"
-related: []
+related:
+  - automatic-gearbox-jolts-and-clunks-when-shifting
+  - signs-of-a-failing-automatic-transmission
+  - signs-of-a-worn-clutch-release-bearing
 faq:
   - q: "Why does the noise disappear exactly when the clutch is pressed?"
     a: "A pressed pedal breaks the connection between the engine and the gearbox: the input shaft and the gears stop turning. Everything that was humming because of that rotation falls silent — which means the source is in the gearbox, not the engine."

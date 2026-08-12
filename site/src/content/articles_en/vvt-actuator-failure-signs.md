@@ -4,7 +4,10 @@ title: "Signs of a failing VVT actuator"
 metaTitle: "Failing VVT actuator: sound and symptoms | Stuk"
 description: "Signs of a faulty VVT actuator: a rattle after starting, rough idle, higher consumption, P0010–P0017 codes. How to tell it from other noises."
 pubDate: "2026-07-08"
-related: []
+related:
+  - ticking-injectors-normal-or-not
+  - intake-backfire-causes
+  - signs-of-engine-detonation
 faq:
   - q: "What is a VVT actuator in simple terms?"
     a: "It is a hydraulic mechanism on the camshaft that uses oil pressure to rotate the shaft and change when the valves open. That gives the engine solid pull at low revs and power at high revs at the same time."

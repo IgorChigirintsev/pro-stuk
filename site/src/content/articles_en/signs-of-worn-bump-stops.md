@@ -4,7 +4,10 @@ title: "Signs of worn bump stops"
 metaTitle: "Worn bump stops: signs and replacement | Stuk"
 description: "Dull thumps in potholes, crumbs in the strut tower, the suspension bottoming out: how to recognise worn bump stops and why they are replaced with dampers."
 pubDate: "2026-07-14"
-related: []
+related:
+  - signs-of-worn-engine-mounts
+  - clattering-under-the-car-over-bumps
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "What is a bump stop and what is it for?"
     a: "A bump stop is a springy element of polyurethane or microcellular foam on the damper rod. It takes the impact at the end of the compression stroke, when the suspension has run out of travel, and protects the damper and the body from hard metal-to-metal contact."

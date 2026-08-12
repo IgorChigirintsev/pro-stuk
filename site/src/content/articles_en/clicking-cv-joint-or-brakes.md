@@ -4,7 +4,10 @@ title: "Clicking: CV joint or brakes"
 metaTitle: "Clicking while driving: CV joint or brakes | Stuk"
 description: "Clicking in turns and when pulling away comes from both the outer CV joint and the brakes. How to separate the theories by the conditions."
 pubDate: "2026-06-13"
-related: []
+related:
+  - vibration-wheel-balance-or-suspension
+  - knock-steering-rack-or-track-rod-ends
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "Clicking only in a tight turn — is that definitely the CV joint?"
     a: "That is the most likely theory. The outer constant velocity joint is most heavily loaded at a large steering angle with drive applied, so it clicks on car parks and roundabouts. A straight road usually does not give it away."

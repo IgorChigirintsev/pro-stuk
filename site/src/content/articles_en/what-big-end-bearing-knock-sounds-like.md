@@ -4,7 +4,10 @@ title: "What big end bearing knock sounds like"
 metaTitle: "What big end bearing knock sounds like | Stuk"
 description: "A hard metallic knock from the middle of the block that grows under load: how worn big end bearings sound, how they are localised and what they threaten."
 pubDate: "2026-06-06"
-related: []
+related:
+  - signs-of-main-bearing-knock
+  - burnt-valve-signs-by-ear
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "Can I drive to a workshop under my own power with a big end knock?"
     a: "If the knock is clear and grows under load, it is better not to risk it and to call a recovery truck. Every kilometre increases the wear, and in the worst case the con rod destroys the block — and the conversation moves from repairing the engine to replacing it."

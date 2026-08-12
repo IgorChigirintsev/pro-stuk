@@ -47,7 +47,7 @@ const alts = { ru: `/stati/${article.data.ru}/`, en: `/en/articles/${article.id}
   headings={headings}
   related={related}
   alts={alts}
-  ogImage={v('/og/en.png')}
+  ogImage={v(`/og/en/${article.id}.png`)}
 >
   <Content />
 </Article>

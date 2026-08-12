@@ -4,7 +4,10 @@ title: "How to check a brake caliper for sticking"
 metaTitle: "How to check a brake caliper for sticking | Stuk"
 description: "The signs of a seized brake caliper: the coasting test, checking wheel temperature, pulling under braking and the smell. What a workshop does about it."
 pubDate: "2026-06-20"
-related: []
+related:
+  - is-the-hum-from-the-front-or-the-rear
+  - recording-a-car-noise-for-a-mechanic
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "How hot can a disc normally be?"
     a: "After calm town driving a disc is usually warm — you can hold a hand near it. What is concerning is one wheel noticeably hotter than the rest, a smell coming off it, and the disc hissing at splashed water. That means a pad permanently pressed against it."

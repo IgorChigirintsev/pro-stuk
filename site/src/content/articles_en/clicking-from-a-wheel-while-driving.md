@@ -4,7 +4,10 @@ title: "Clicking from a wheel while driving"
 metaTitle: "Clicking from a wheel while driving: causes | Stuk"
 description: "Rhythmic clicking in time with wheel rotation: a stone in the tread, a screw, a wheel trim or the brake disc. How to find the source and when not to drive."
 pubDate: "2026-07-20"
-related: []
+related:
+  - rustling-from-a-wheel-at-low-speed
+  - brake-squeal-at-low-speed
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "The clicking speeds up with road speed — what does that tell me?"
     a: "That the source rotates with the wheel. That behaviour comes from a foreign object in the tread, something touching the brake mechanism, or tyre damage. A sound unconnected with wheel speed usually comes from the suspension or the exhaust."

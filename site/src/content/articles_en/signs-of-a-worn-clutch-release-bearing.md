@@ -4,7 +4,10 @@ title: "Signs of a worn clutch release bearing"
 metaTitle: "Worn clutch release bearing: the sound | Stuk"
 description: "How a worn release bearing sounds, how to check it with the clutch pedal in a minute, what the rustle gets confused with and how the repair is decided."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-worn-clutch
+  - engine-knock-at-idle
+  - hydraulic-lifters-ticking-when-cold
 faq:
   - q: "What does a worn release bearing sound like?"
     a: "A rustle, a shuffling or a quiet hum that appears when you press the clutch pedal and fades when you release it. At a late stage it turns into rattling and grinding. The key sign is that the sound is rigidly tied to the pedal."

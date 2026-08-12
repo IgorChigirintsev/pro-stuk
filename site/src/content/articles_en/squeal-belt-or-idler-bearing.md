@@ -4,7 +4,10 @@ title: "A squeal: the belt or an idler bearing"
 metaTitle: "Squeal under the bonnet: belt or idler bearing | Stuk"
 description: "A squeal under the bonnet comes from both a slipping belt and a dying idler bearing. How to tell them apart by the conditions in which the sound appears."
 pubDate: "2026-06-12"
-related: []
+related:
+  - humming-gearbox-or-wheel-bearing
+  - clicking-cv-joint-or-brakes
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "Why does the belt squeal only in damp weather?"
     a: "Water in the pulley grooves reduces friction, and the belt slips where it held in the dry. Such a squeal lasts from a few seconds to a couple of minutes and goes as the moisture evaporates. If it appeared for the first time in the rain, the belt has already lost some of its tension."

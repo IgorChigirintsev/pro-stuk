@@ -4,7 +4,10 @@ title: "Suspension creaking over bumps"
 metaTitle: "Suspension creaking over bumps: causes and cures | Stuk"
 description: "Why a suspension creaks over bumps: anti-roll bar bushes, control arm bushes, ball joints. When grease is enough and when replacement is needed."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-worn-suspension-bushes
+  - signs-of-worn-anti-roll-bar-links
+  - front-suspension-knock-over-small-bumps
 faq:
   - q: "Is a creaking suspension dangerous?"
     a: "In most cases a creak is an acoustic rather than a technical problem: dry bush rubber rubs on metal, but the joint still works. The exception is a ball joint or track rod end left without grease: there metal rubs on metal, wear is fast, and critical ball joint play is dangerous. So the source is worth establishing rather than getting used to."

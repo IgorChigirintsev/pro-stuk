@@ -4,7 +4,10 @@ title: "How dangerous a ball joint failure really is"
 metaTitle: "Ball joint failure: what happens to the car | Stuk"
 description: "What physically happens when a ball joint pulls out of its seat, which noises warn you weeks in advance and how to judge whether you can still drive."
 pubDate: "2026-06-04"
-related: []
+related:
+  - noisy-release-bearing-can-you-drive
+  - what-a-worn-dual-mass-flywheel-sounds-like
+  - signs-of-a-worn-wheel-bearing
 faq:
   - q: "What happens to the car when a ball joint lets go?"
     a: "The wheel loses its link to the control arm and folds into the arch. The car pulls hard towards that wheel, the steering no longer controls it, and the body drops onto the wheel arch liner or the brake disc. At parking speed it ends with a tow truck; at speed it means losing control."

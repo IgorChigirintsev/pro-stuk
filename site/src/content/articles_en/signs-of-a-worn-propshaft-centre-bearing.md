@@ -4,7 +4,10 @@ title: "Signs of a worn propshaft centre bearing"
 metaTitle: "Worn propshaft centre bearing: the signs | Stuk"
 description: "A hum from under the centre of the floor, vibration from a certain speed, a jolt when pulling away — how to recognise a worn propshaft centre bearing."
 pubDate: "2026-07-27"
-related: []
+related:
+  - rear-differential-whine-at-speed
+  - signs-of-a-failing-dual-mass-flywheel
+  - alternator-belt-squeal-causes
 faq:
   - q: "Where is the centre bearing and what is it for?"
     a: "It is a support in the middle of the propshaft, fixed to the body through a rubber mount. It splits a long shaft into two parts so it does not flex and whip at high speed. The bearing lets the shaft turn, and the rubber damps vibration and lets the support move slightly as the suspension works."

@@ -4,7 +4,10 @@ title: "Cold automatic gearbox noises in winter"
 metaTitle: "Cold automatic gearbox noises in winter | Stuk"
 description: "In winter a cold automatic hums, jolts and clicks, then quietens after ten minutes. Where normal ends and which sounds remain after warm-up."
 pubDate: "2026-06-02"
-related: []
+related:
+  - what-a-failing-wheel-bearing-sounds-like
+  - checking-anti-roll-bar-links-for-knocking
+  - signs-of-a-worn-clutch
 faq:
   - q: "Is a hum from a cold automatic in frost normal?"
     a: "In the first minutes, as a rule yes. Thick cold fluid creates increased resistance in the pump and valve body, and the unit sounds louder than usual. It is worrying when the hum persists on a warm gearbox and grows with speed."

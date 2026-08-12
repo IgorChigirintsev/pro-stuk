@@ -4,7 +4,10 @@ title: "A knock after suspension work: who is to blame"
 metaTitle: "A knock after suspension work: who is to blame | Stuk"
 description: "A knock appeared after suspension work: a fitting mistake, a faulty part or a neighbouring component? How to separate the three versions calmly."
 pubDate: "2026-07-11"
-related: []
+related:
+  - creaking-when-you-rock-the-car
+  - metallic-clatter-under-the-car-over-bumps
+  - signs-of-worn-anti-roll-bar-links
 faq:
   - q: "Is it normal to re-torque a suspension after a repair?"
     a: "Yes, a check re-torque after 300–1,000 km following major work is standard practice, not a sign of a bad workshop. Rubber-to-metal joints settle under load and fasteners can loosen. A good workshop invites you back for that check itself."

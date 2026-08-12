@@ -4,7 +4,10 @@ title: "Engine knock after an oil change"
 metaTitle: "Engine knock after an oil change: causes | Stuk"
 description: "Why an engine started knocking after an oil change: viscosity, level, filter, flushing. When the sound clears itself and when to go back."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-low-oil-pressure
+  - hydraulic-lifters-ticking-when-cold
+  - engine-ticking-dangerous-or-not
 faq:
   - q: "The engine ticks for the first seconds after an oil change — is that normal?"
     a: "Yes, if it is the first start. The new filter and the galleries are empty and the pump needs a few seconds to fill the system and build pressure — during which the hydraulic lifters run without oil and tick. If the sound went within half a minute and did not return, there is nothing to worry about."

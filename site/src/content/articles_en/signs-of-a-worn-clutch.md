@@ -4,7 +4,10 @@ title: "Signs of a worn clutch"
 metaTitle: "Signs of a worn clutch: tests and the repair | Stuk"
 description: "How to recognise clutch wear: slipping, a burning smell, a high pedal, jerking. A one-minute test, the stages of wear and how the job is decided."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-worn-clutch-release-bearing
+  - engine-knock-at-idle
+  - can-you-drive-with-engine-knock
 faq:
   - q: "What is the first sign of clutch wear?"
     a: "The bite point moves upwards: you have to release the pedal almost fully before the car moves, where it used to pull away mid-travel. That follows from the friction material on the disc thinning. The symptom develops over months, so it is easy to miss."

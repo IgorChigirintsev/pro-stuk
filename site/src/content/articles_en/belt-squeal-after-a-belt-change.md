@@ -4,7 +4,10 @@ title: "Squealing after a belt change: why and what to do"
 metaTitle: "Squealing after a belt change: causes and fixes | Stuk"
 description: "The belt was replaced but the squeal stayed or came back: tension errors, misalignment, idlers, decoupler pulley. How to find the cause."
 pubDate: "2026-08-02"
-related: []
+related:
+  - alternator-belt-squeal-causes
+  - alternator-squeal-bearing-or-belt
+  - water-pump-whine-how-to-check
 faq:
   - q: "A new belt squeals for the first few days — is that normal?"
     a: "A light rustle for the first few dozen kilometres, while the ribs bed into the pulleys, is acceptable. A bright squeal is not: a healthy drive with a new belt should not squeal, cold or under load. The phrase 'it will bed in' usually means the cause simply was not found."

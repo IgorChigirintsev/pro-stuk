@@ -4,7 +4,10 @@ title: "Diagnosing a suspension by ear: the full checklist"
 metaTitle: "Suspension diagnosis by ear: a checklist | Stuk"
 description: "A step-by-step suspension check with no lift: the bounce test, small bumps, big bumps, steering while parked, a slalom. Plus a table of noises and parts."
 pubDate: "2026-06-21"
-related: []
+related:
+  - how-to-describe-a-car-noise-to-a-mechanic
+  - avoiding-being-upsold-at-a-workshop
+  - signs-of-a-worn-clutch
 faq:
   - q: "Can I identify a suspension fault without a lift?"
     a: "You can identify the direction; you usually cannot make the final call. Road tests and the bounce test point confidently to the axle, the side and the group of parts. Play in a ball joint or a bush is still confirmed with a pry bar on a raised wheel."

@@ -4,7 +4,10 @@ title: "A knock when braking: pads or caliper"
 metaTitle: "A knock when braking: pads or caliper | Stuk"
 description: "A knock as you press the pedal comes from both moving pads and a loose caliper. How to tell them apart by the character of the sound."
 pubDate: "2026-06-14"
-related: []
+related:
+  - noise-underneath-exhaust-or-undertray
+  - engine-or-accessory-knock-how-to-localise
+  - brake-pad-wear-by-ear
 faq:
   - q: "Why is the knock heard only at the first braking?"
     a: "A pad has a fitting clearance in the carrier and shifts within it when the direction of travel changes, striking its seat. The first braking after pulling away is when that happens, so a single click or knock at that moment is typical and often harmless."

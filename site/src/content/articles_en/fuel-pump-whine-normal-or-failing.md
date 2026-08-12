@@ -4,7 +4,10 @@ title: "Fuel pump whine: normal or about to fail"
 metaTitle: "Fuel pump whine: normal or about to fail | Stuk"
 description: "Where the line runs between an ordinary fuel pump hum and the whine of a dying one: which signs are harmless and which need a quick response."
 pubDate: "2026-06-11"
-related: []
+related:
+  - signs-of-a-worn-idler-pulley
+  - valve-clatter-or-hydraulic-lifters
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "The pump buzzes for a couple of seconds when I turn the ignition on. Is that normal?"
     a: "Yes, that is how it is meant to work. When you turn the key the control unit runs the pump to build pressure in the fuel rail before starting, then switches it off after two or three seconds. The absence of that sound is a far more worrying sign than its presence."

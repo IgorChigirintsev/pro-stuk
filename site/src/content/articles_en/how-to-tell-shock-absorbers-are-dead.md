@@ -4,7 +4,10 @@ title: "How to tell your shock absorbers are dead"
 metaTitle: "How to tell shock absorbers are dead: checks | Stuk"
 description: "Body wallowing, bottoming out over potholes, longer stopping distances and oil leaks — how to judge damper condition in a few minutes without a test rig."
 pubDate: "2026-06-03"
-related: []
+related:
+  - strut-top-mount-bearing-noise-symptoms
+  - ball-joint-failure-danger
+  - alternator-belt-squeal-causes
 faq:
   - q: "Does the bounce test actually work?"
     a: "As a rough test, yes. A healthy suspension returns to its position within one or two movements after you press on a wing. Three or more says damping has been lost, but only a test rig or a side-by-side comparison on a lift gives the exact picture."

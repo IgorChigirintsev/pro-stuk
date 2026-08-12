@@ -4,7 +4,10 @@ title: "Rattling under the floor at speed"
 metaTitle: "Rattling under the floor at speed: what to check | Stuk"
 description: "Heat shields, the flexible section, exhaust hangers: why something rattles under the floor at speed, how to find the source and what it leads to if ignored."
 pubDate: "2026-07-14"
-related: []
+related:
+  - ringing-under-the-car-at-idle
+  - rattle-under-car-when-accelerating
+  - signs-of-a-worn-ball-joint
 faq:
   - q: "Why does the rattle appear only at a certain speed?"
     a: "It is resonance: every loose part has a frequency at which it vibrates with maximum amplitude. Road speed and engine revs set the frequency of the vibration, so the rattle switches on within a narrow band — only at 90–100 km/h, for example."

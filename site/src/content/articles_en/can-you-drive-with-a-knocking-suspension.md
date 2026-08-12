@@ -4,7 +4,10 @@ title: "Can you drive with a knocking suspension"
 metaTitle: "Can you drive with a knocking suspension? | Stuk"
 description: "Which knocking suspension parts you can drive with and which you cannot: anti-roll bar, dampers, bushes, ball joints. Judging urgency by the sound."
 pubDate: "2026-07-12"
-related: []
+related:
+  - signs-of-worn-anti-roll-bar-bushes
+  - suspension-knock-over-speed-humps
+  - signs-of-worn-anti-roll-bar-links
 faq:
   - q: "How long can I drive with a knocking anti-roll bar link?"
     a: "From a safety point of view, a long time: the anti-roll bar controls body roll, not wheel location. Cars run with that knock for months. But a worn joint gradually damages its mounting, and a cheap link can turn into a new bar. A sensible horizon is a repair within the month."

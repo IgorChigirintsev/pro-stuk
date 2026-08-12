@@ -4,7 +4,10 @@ title: "Engine ticking at idle"
 metaTitle: "Engine ticking at idle: causes and what to do | Stuk"
 description: "Why an engine ticks at idle: valves, hydraulic lifters, injectors, the timing chain. How to tell harmless ticking from the worrying kind."
 pubDate: "2026-07-01"
-related: []
+related:
+  - metallic-pinging-under-acceleration
+  - engine-misfires-and-knocks
+  - engine-knock-when-hot
 faq:
   - q: "Is ticking at idle always a fault?"
     a: "No. Direct injection injectors tick as standard, and hydraulic lifters can make a noise for a few seconds after long standing. The worrying sign is ticking that has appeared recently, got louder, or does not go after warm-up and an oil change."

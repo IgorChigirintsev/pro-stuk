@@ -4,7 +4,10 @@ title: "How to check a wheel bearing yourself"
 metaTitle: "How to check a wheel bearing yourself | Stuk"
 description: "Five checks that identify a worn wheel bearing and its side without a lift: tests on the move, raising the wheel, checking play and hub temperature."
 pubDate: "2026-06-17"
-related: []
+related:
+  - checking-wheel-bearing-play-with-the-wheel-raised
+  - checking-track-rod-ends-for-play
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Can I identify the side without a lift?"
     a: "Yes, with the lane-change test: if the hum grows when you ease left, the right bearing is the suspect; easing right points at the left, because weight transfers to the outer wheel. It is a reliable guide, but the side is finally confirmed by spinning the raised wheel."

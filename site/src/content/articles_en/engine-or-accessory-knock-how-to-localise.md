@@ -4,7 +4,10 @@ title: "Engine or accessory knock: how to localise it"
 metaTitle: "Engine or accessory knock: how to find it | Stuk"
 description: "A knock from the engine bay does not always come from the engine. A few checks separate the belt-driven accessories from the engine's own mechanics."
 pubDate: "2026-06-15"
-related: []
+related:
+  - alternator-or-water-pump-whine
+  - can-you-drive-with-a-broken-catalytic-converter
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "How do I know an accessory is knocking rather than the engine?"
     a: "The main technique is to load the accessories. Switch the air conditioning on and off, add electrical load with the headlights and heated screen, and listen for the difference. If the sound changes noticeably, the source hangs on the accessory belt rather than living inside the engine."

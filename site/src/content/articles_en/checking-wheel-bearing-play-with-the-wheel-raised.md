@@ -4,7 +4,10 @@ title: "Checking hub play with the wheel raised"
 metaTitle: "Checking hub play with the wheel raised | Stuk"
 description: "How to raise a wheel safely and check for play: the 12–6 and 3–9 grips, how to separate the bearing from the ball joint and steering, and what to do next."
 pubDate: "2026-06-17"
-related: []
+related:
+  - checking-track-rod-ends-for-play
+  - checking-a-cv-joint-by-driving-circles
+  - brake-pad-wear-by-ear
 faq:
   - q: "How much wheel play counts as normal?"
     a: "There should be no perceptible play on a healthy hub: the wheel moves by fractions of a millimetre at most, with no audible knock. Any movement you can clearly feel, with a distinct click, is a reason to work out which part is producing it."

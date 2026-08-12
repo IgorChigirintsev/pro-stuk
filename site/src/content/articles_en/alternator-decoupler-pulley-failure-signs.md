@@ -4,7 +4,10 @@ title: "Signs of a failing alternator decoupler pulley"
 metaTitle: "Alternator decoupler pulley: signs of failure | Stuk"
 description: "Why an alternator needs a decoupler pulley and how its wear sounds: a whistle at startup, rattling after shutdown, belt vibration. Checks you can do yourself."
 pubDate: "2026-07-06"
-related: []
+related:
+  - timing-chain-tensioner-failure-signs
+  - squeal-under-the-bonnet-at-startup
+  - hydraulic-lifters-ticking-when-cold
 faq:
   - q: "How does a decoupler pulley differ from a normal alternator pulley?"
     a: "A normal pulley is rigidly connected to the rotor shaft. A decoupler transmits drive in one direction only: the belt can accelerate the rotor but not slow it. That absorbs the drive's pulses and reduces load on the belt, the tensioner and the bearings."

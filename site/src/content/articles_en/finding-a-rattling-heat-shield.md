@@ -4,7 +4,10 @@ title: "How to find a rattling heat shield"
 metaTitle: "Rattling heat shield: how to find it | Stuk"
 description: "A metallic rattle in a narrow band of engine speeds is usually a loose heat shield. How to find it in ten minutes and how it is secured properly."
 pubDate: "2026-06-08"
-related: []
+related:
+  - signs-of-a-torn-exhaust-flex-pipe
+  - signs-of-an-intake-air-leak
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "Why does a shield rattle only at certain engine speeds?"
     a: "Because it is resonance. A thin sheet starts vibrating when the frequency from the engine and the exhaust matches its own. Below and above that band the shield is silent, so the noise appears in a narrow range — usually 1,500–2,500 rpm."

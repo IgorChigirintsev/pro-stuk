@@ -4,7 +4,10 @@ title: "The exhaust roars when cold"
 metaTitle: "Exhaust roars when cold: causes and fixes | Stuk"
 description: "Why the exhaust roars after a cold start and quietens as it warms: manifold gasket, cracks, flex pipe. The checks and how the repair is decided."
 pubDate: "2026-07-16"
-related: []
+related:
+  - signs-of-worn-suspension-springs
+  - sagging-springs-symptoms
+  - signs-of-worn-shock-absorbers
 faq:
   - q: "Why is the roar only there when cold and gone after warm-up?"
     a: "The exhaust metal expands as it heats and the micro-gap — in a manifold gasket or a crack — closes. While the engine is cold, gases escape through the gap with a roar; five or ten minutes later the sound fades until the next cold start."

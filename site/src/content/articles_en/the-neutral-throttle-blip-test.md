@@ -4,7 +4,10 @@ title: "The neutral throttle test: what it shows"
 metaTitle: "The neutral throttle test: what it shows | Stuk"
 description: "What raising the revs in neutral tells you: how to separate engine noise from wheel and transmission noise, and how to run the test properly."
 pubDate: "2026-06-21"
-related: []
+related:
+  - suspension-diagnosis-by-ear-checklist
+  - how-to-describe-a-car-noise-to-a-mechanic
+  - brake-pad-wear-by-ear
 faq:
   - q: "Is revving in neutral harmful?"
     a: "Short rises in revs on a warm engine up to 2500–3000 do no harm. What is harmful is something else: spinning a cold engine to the limiter and holding high revs for a long time. For diagnosis, a smooth rise of two or three seconds and an equally smooth return is enough."

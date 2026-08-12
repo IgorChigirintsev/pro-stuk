@@ -4,7 +4,9 @@ title: "Chinese SUVs: common noises on Chery, Haval and Geely"
 metaTitle: "Chinese SUV noises: Chery, Haval, Geely | Stuk"
 description: "Which noises show up most often on Chinese SUVs in their first years, what lies behind them and which check it makes sense to start from."
 pubDate: "2026-06-29"
-related: []
+related:
+  - haval-jolion-suspension-knock-what-to-check-first
+  - alternator-belt-squeal-causes
 faq:
   - q: "Do Chinese SUVs make more noise than others?"
     a: "It is more accurate to say they have a different age profile. The fleet is young, so the common complaints are small things — suspension, plastics, fasteners — rather than worn-out engines. The set of parts and the physics of the sounds are the same as on any modern car."

@@ -4,7 +4,10 @@ title: "Interior creaking over bumps"
 metaTitle: "Interior creaking over bumps: causes and search | Stuk"
 description: "Interior creaks over bumps: why the body flexes and provokes the sound, how to tell trim from suspension, and what you can fix yourself."
 pubDate: "2026-07-29"
-related: []
+related:
+  - interior-creaks-in-winter
+  - door-knocking-over-bumps
+  - water-pump-whine-how-to-check
 faq:
   - q: "Is interior creaking over bumps dangerous?"
     a: "In itself no: what creaks is plastic, not structural parts. But a dry control arm bush or a worn strut top mount can hide behind a similar sound, so one inspection on a lift is worth doing, especially if the creak appeared suddenly."

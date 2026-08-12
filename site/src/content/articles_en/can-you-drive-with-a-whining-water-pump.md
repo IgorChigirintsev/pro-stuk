@@ -4,7 +4,10 @@ title: "Can you drive with a whining water pump"
 metaTitle: "Can you drive with a whining water pump? | Stuk"
 description: "A whining water pump means a worn bearing. What it risks on timing-belt and belt-driven engines, how to check it in five minutes and how the repair is decided."
 pubDate: "2026-07-30"
-related: []
+related:
+  - driving-with-noisy-hydraulic-lifters
+  - noises-that-mean-stop-driving-now
+  - suspension-creaking-over-bumps
 faq:
   - q: "How far can I drive with a whining water pump?"
     a: "On an engine where the accessory belt drives the pump, the margin is usually measured in thousands of kilometres and the main risk is a gradual leak. On an engine with a timing belt the logic is different: a seized pulley snaps the belt, so the sensible horizon is weeks, not months."

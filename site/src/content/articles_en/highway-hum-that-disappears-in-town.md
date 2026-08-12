@@ -4,7 +4,10 @@ title: "A hum on the motorway that vanishes in town"
 metaTitle: "Motorway hum that disappears in town: causes | Stuk"
 description: "Why a hum is only audible above 80 km/h and disappears around town: wheel bearings, tyres, aerodynamics and the order of checks you can do yourself."
 pubDate: "2026-07-20"
-related: []
+related:
+  - clicking-from-a-wheel-while-driving
+  - rustling-from-a-wheel-at-low-speed
+  - brake-judder-when-braking
 faq:
   - q: "Why is there no hum in town but plenty on the motorway?"
     a: "Two things: frequency and background. At 40–60 km/h a wheel turns half as fast, and the sound of a failing part falls into a low range where engine and city noise mask it. Above 80 km/h the frequency rises, the hum reaches an audible level and nothing covers it any more."

@@ -4,7 +4,10 @@ title: "Signs of a burnt exhaust manifold gasket"
 metaTitle: "Burnt exhaust manifold gasket: the signs | Stuk"
 description: "Ticking and hissing at a cold start, exhaust smell in the cabin, black soot at the joint — how to recognise a burnt exhaust manifold gasket."
 pubDate: "2026-06-07"
-related: []
+related:
+  - signs-of-a-blocked-catalytic-converter
+  - broken-catalytic-converter-rattle
+  - engine-knock-at-idle
 faq:
   - q: "Why is the ticking heard when cold and gone after warm-up?"
     a: "Cold manifold metal is contracted and the gap at the damaged joint is at its largest — gases escape with a characteristic tick. As it warms the parts expand, the gap partly closes and the sound fades. Over time the gap grows and the ticking stops going away at all."

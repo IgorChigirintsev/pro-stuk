@@ -4,7 +4,10 @@ title: "EP6 balance shaft knock on Peugeot and Citroën"
 metaTitle: "EP6 balance shaft knock: what really knocks | Stuk"
 description: "What actually knocks in an EP6 engine when owners talk about balance shafts: the chain, the tensioner, the cam phasers and the oil. The checks."
 pubDate: "2026-06-28"
-related: []
+related:
+  - ford-focus-clutch-fork-knock
+  - chevrolet-cruze-alternator-bearing-whine
+  - signs-of-a-stretched-timing-chain
 faq:
   - q: "Does the EP6 have balance shafts?"
     a: "The phrase “balance shaft knock” on these engines is more colloquial than technical: it is how owners describe a vibrating knock from the lower front of the engine. Before hunting for the exotic, the timing drive and the oil are checked — on this family they produce a similar sound far more often."

@@ -4,7 +4,10 @@ title: "Signs of low oil pressure"
 metaTitle: "Signs of low oil pressure: symptoms, causes | Stuk"
 description: "How to spot low oil pressure before serious damage: the warning light, lifter ticking, bearing knock. The causes of a pressure drop and how it is checked."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-big-end-bearing-knock
+  - knock-after-an-oil-change
+  - hydraulic-lifters-ticking-when-cold
 faq:
   - q: "Why does the oil pressure light come on at hot idle?"
     a: "That is the lubrication system's most vulnerable regime: at minimum revs the pump delivers least, and hot oil is at its thinnest. If the pressure is marginal, hot idle is where it first drops below the sensor's threshold. A light that flickers in warm traffic and goes out when you press the throttle is the classic early sign."

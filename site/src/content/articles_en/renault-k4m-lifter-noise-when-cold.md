@@ -4,7 +4,10 @@ title: "Renault K4M hydraulic lifters: ticking when cold"
 metaTitle: "Renault K4M lifter noise when cold: causes | Stuk"
 description: "The K4M engine ticks on a cold start: how hydraulic lifters work, why they rattle, when an oil change is enough and when the lifters themselves need replacing."
 pubDate: "2026-06-25"
-related: []
+related:
+  - nissan-qashqai-cam-phaser-knock
+  - nissan-timing-chain-stretch-symptoms
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "Why do the lifters only tick for the first few seconds after starting?"
     a: "Overnight some oil drains out of the lifter and air is left inside. Until the pump builds pressure and refills the plunger, the clearance in the valve train remains — hence the ticking. Once the lifter is full, the sound goes. A few seconds after a cold start is considered normal."

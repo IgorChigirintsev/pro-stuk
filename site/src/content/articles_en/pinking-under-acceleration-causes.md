@@ -4,7 +4,10 @@ title: "Pinking under acceleration: the causes"
 metaTitle: "Pinking under acceleration: causes and fixes | Stuk"
 description: "Why an engine pinks under acceleration: detonation, fuel, carbon, spark plugs. How to tell harmless pinking from worn gudgeon pins."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-engine-detonation
+  - engine-knock-under-load
+  - engine-knock-when-hot
 faq:
   - q: "Is pinking really about the gudgeon pins?"
     a: "Almost never. In the overwhelming majority of cases what rings is detonation — explosive combustion of the mixture, whose pressure waves hammer the cylinder walls. The old name stuck from carburettor days, when any ringing was blamed on the pins. Genuine gudgeon pin wear is rare and sounds different — a bright double knock regardless of where you fill up."

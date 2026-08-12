@@ -4,7 +4,10 @@ title: "Humming under the bonnet at idle"
 metaTitle: "Humming under the bonnet at idle: find the source | Stuk"
 description: "What hums under the bonnet at idle: the cooling fan, alternator, A/C compressor, water pump or idlers. Simple switch tests that locate the source."
 pubDate: "2026-07-05"
-related: []
+related:
+  - timing-chain-rustle-what-it-sounds-like
+  - signs-of-a-worn-timing-belt
+  - alternator-belt-squeal-causes
 faq:
   - q: "Is it normal for a hum to appear when the air conditioning comes on?"
     a: "A slight change in engine sound when the compressor engages is normal: the load has grown and the idle adjusts. What is not normal is a distinct hum or whine arriving with the air conditioning. That points to wear in the compressor or its clutch bearing."

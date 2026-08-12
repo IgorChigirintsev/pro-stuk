@@ -4,7 +4,10 @@ title: "Renault Duster transfer case whine"
 metaTitle: "Renault Duster transfer case whine: checks | Stuk"
 description: "A whine from under a four-wheel-drive Duster: how to tell the transfer case and rear differential from a wheel bearing and tyres, and what gets checked."
 pubDate: "2026-06-26"
-related: []
+related:
+  - camry-front-strut-knock
+  - front-strut-knock-over-small-bumps
+  - signs-of-a-worn-outer-cv-joint
 faq:
   - q: "The whine only exists above 60 km/h. Is that the transfer case?"
     a: "Not necessarily. That description fits a wheel bearing, tyres and transmission components equally well. What separates them is behaviour in corners and while coasting: transmission whine follows drive, bearing hum follows which side is loaded."

@@ -4,7 +4,10 @@ title: "How to check a ball joint yourself"
 metaTitle: "How to check a ball joint yourself | Stuk"
 description: "A step-by-step ball joint check: the bounce test, the 12–6 play test on a raised wheel, the brake-pedal trick and what a torn boot really means."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-worn-ball-joint
+  - finding-a-suspension-knock-without-a-lift
+  - checking-shock-absorbers-with-the-bounce-test
 faq:
   - q: "Can a ball joint be checked without a jack?"
     a: "Partly. Rocking the car by a wing above the wheel reveals creaking and knocking in the joint, and the boot can be inspected through the wheel arch with the steering on full lock right in a car park. But the main criterion — play — is only reliably checked with the wheel raised."

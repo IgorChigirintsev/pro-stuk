@@ -4,7 +4,10 @@ title: "How not to be upsold during a workshop diagnosis"
 metaTitle: "How not to be upsold at a workshop | Stuk"
 description: "What an honest diagnosis includes, which phrases should make you ask a question, and how to check the work you have been quoted without knowing cars."
 pubDate: "2026-06-22"
-related: []
+related:
+  - hum-wheel-bearing-or-tyres
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "Is a free diagnosis normal?"
     a: "Yes, it is common practice: the workshop does not charge for the inspection because it expects the repair. The problem is not the free part but the incentive it creates to find work. Treat a free inspection as a first opinion, not a final verdict."

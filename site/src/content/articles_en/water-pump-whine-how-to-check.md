@@ -4,7 +4,10 @@ title: "A whining water pump: how to check it"
 metaTitle: "Whining water pump: how to check it yourself | Stuk"
 description: "Why a water pump whines, how to tell its noise from the alternator and idler pulleys, simple checks without dismantling anything, and how the repair is decided."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-a-failing-water-pump
+  - alternator-belt-squeal-causes
+  - hum-wheel-bearing-or-tyres
 faq:
   - q: "How do I know it is the water pump and not the alternator or an idler?"
     a: "The most reliable home method is to remove the accessory belt and turn each pulley it drives by hand. A healthy bearing spins quietly and smoothly; a worn one rustles, catches or has play. If turning pulleys feels awkward, a mechanic's stethoscope works: pump noise localises on its housing."

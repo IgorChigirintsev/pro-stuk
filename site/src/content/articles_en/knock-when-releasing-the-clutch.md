@@ -4,7 +4,10 @@ title: "A knock when releasing the clutch"
 metaTitle: "A knock when releasing the clutch: causes | Stuk"
 description: "A knock as the clutch pedal comes up comes from the disc damper, the flywheel, the engine mounts and the driveshaft joints. How to tell them apart."
 pubDate: "2026-07-23"
-related: []
+related:
+  - crackling-when-pressing-the-clutch
+  - whine-with-the-clutch-pressed
+  - signs-of-a-worn-clutch-release-bearing
 faq:
   - q: "Does a knock as the pedal comes up mean a new clutch?"
     a: "Not necessarily. The same sound comes from a torn engine mount and play in the driveshafts, and both are far cheaper. The clutch is suspected when the knock comes from the bellhousing area and is accompanied by vibration when pulling away."

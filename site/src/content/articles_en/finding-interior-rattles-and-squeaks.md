@@ -4,7 +4,10 @@ title: "Interior squeaks: how to find the source"
 metaTitle: "Interior squeaks: how to find the source | Stuk"
 description: "A step-by-step method for hunting interior squeaks: locating them by hand, what a passenger adds, and when the sound is really the suspension."
 pubDate: "2026-07-28"
-related: []
+related:
+  - interior-creaking-over-bumps
+  - interior-creaks-in-winter
+  - suspension-creaking-over-bumps
 faq:
   - q: "Why does a squeak disappear the moment you start looking for it?"
     a: "A squeak arises at a particular combination of load and body temperature, and in searching you inevitably change your posture, press on panels and open doors. It is more reliable to search in pairs: one drives normally while the other presses on the suspect places in turn."

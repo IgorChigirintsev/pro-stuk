@@ -4,7 +4,10 @@ title: "Kia Rio steering rack knock: adjust or rebuild"
 metaTitle: "Kia Rio steering rack knock: adjust or rebuild | Stuk"
 description: "A Kia Rio steering rack knock over small bumps: why it appears, how to tell it from the anti-roll bar links, and when an adjustment is enough."
 pubDate: "2026-06-23"
-related: []
+related:
+  - signs-of-worn-shock-absorbers
+  - signs-of-a-stretched-timing-chain
+  - engine-knock-at-idle
 faq:
   - q: "Is a rack knock on a Kia Rio dangerous?"
     a: "A knock in the rack and pinion does not cause a sudden loss of control: the rack does not fall apart on the move. The danger is different — the same sound comes from worn track rod ends and tie rods, and their failure is critical. So a knock is always worth showing to a mechanic to separate the harmless from the serious."

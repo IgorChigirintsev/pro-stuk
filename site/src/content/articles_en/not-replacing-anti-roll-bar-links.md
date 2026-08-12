@@ -4,7 +4,10 @@ title: "What happens if you never replace anti-roll bar links"
 metaTitle: "Worn anti-roll bar links: what driving on does | Stuk"
 description: "Where driving on worn anti-roll bar links leads: more body roll, a snapped link, wear on neighbouring parts. How long you can leave it and why waiting costs more."
 pubDate: "2026-08-02"
-related: []
+related:
+  - signs-of-worn-anti-roll-bar-links
+  - signs-of-worn-shock-absorbers
+  - checking-shock-absorbers-with-the-bounce-test
 faq:
   - q: "Is it dangerous to drive with knocking anti-roll bar links?"
     a: "In calm town driving it is tolerable: the wheel is not going to fall off and the brakes still work. The risk shows up in sudden manoeuvres at speed, where body roll is greater than designed and the car answers the steering late. So you can drive, but do not stretch it out."

@@ -4,7 +4,10 @@ title: "Suspension knock in cold weather"
 metaTitle: "Suspension knock in cold weather: what to do | Stuk"
 description: "Why the suspension knocks in frost and quietens once warm: stiffened rubber, thick damper oil, plastic. What is dangerous and what is not."
 pubDate: "2026-07-11"
-related: []
+related:
+  - knock-after-replacing-shock-absorbers
+  - knock-after-suspension-repair
+  - front-suspension-knock-over-small-bumps
 faq:
   - q: "The knock goes after warming up — can I ignore it?"
     a: "Not entirely. Most often that is how early wear in the rubber joints sounds: in frost the rubber stiffens and stops damping the play. There is no danger right now, but the clearance already exists and it will grow by summer. The sensible plan is an unhurried diagnosis."
