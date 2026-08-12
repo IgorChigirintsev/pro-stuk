@@ -1,0 +1,88 @@
+---
+/**
+ * Схема узла без надписей: номера поверх картинки и расшифровка списком снизу.
+ *
+ * Русские страницы показывают схему с готовыми подписями прямо на картинке.
+ * Для других языков такой картинки нет и не будет — рисовать 32 схемы на
+ * каждый язык дорого, — поэтому берётся та же схема без надписей, а подписи
+ * приходят из общего файла переводов, того же, что и в приложении.
+ */
+import plainParts from '../../../shared/schemes-parts.json';
+
+interface Props {
+  /** Ключ схемы: «shemy/porshen», «uzly/dvigatel». */
+  schemaKey: string;
+  lang: string;
+  /** Подпись под картинкой: «Diagram: piston and connecting rod». */
+  captionWord: string;
+  class?: string;
+}
+
+const { schemaKey, lang, captionWord, class: cls = '' } = Astro.props;
+
+const PLAIN = plainParts as unknown as Record<
+  string,
+  { title: string; parts: { n: number; label: string; x: number; y: number; r: number }[] }
+>;
+
+const LABEL_FILES = import.meta.glob<{
+  parts: Record<string, string>;
+  titles: Record<string, string>;
+}>('../../../shared/parts_i18n/*.json', { eager: true, import: 'default' });
+
+const [sub, slug] = schemaKey.split('/');
+const entry = PLAIN[`${sub}-${slug}`];
+const dict = LABEL_FILES[`../../../shared/parts_i18n/${lang}.json`];
+const label = (ru: string) => dict?.parts[ru] ?? ru;
+const title = entry ? (dict?.titles[entry.title] ?? entry.title) : '';
+---
+
+{
+  /* Нет схемы без надписей — честнее не показывать ничего, чем русские
+     надписи на английской странице. */
+  entry && (
+    <figure class={cls}>
+      <div class="relative">
+        <img
+          src={`/${sub}/${slug}.svg`}
+          alt={`${captionWord}: ${title}`}
+          width="400"
+          height="240"
+          loading="lazy"
+          class="w-full rounded-card"
+        />
+        <svg
+          viewBox="0 0 400 240"
+          class="pointer-events-none absolute inset-0 h-full w-full"
+          aria-hidden="true"
+        >
+          {entry.parts.map((p) => (
+            <>
+              <circle cx={p.x} cy={p.y} r="9" fill="#0E7C7B" />
+              <text
+                x={p.x}
+                y={p.y + 3.4}
+                text-anchor="middle"
+                font-size="10"
+                font-weight="700"
+                fill="#FFFFFF"
+              >
+                {p.n}
+              </text>
+            </>
+          ))}
+        </svg>
+      </div>
+      <figcaption class="mt-3 text-s text-ink-soft">
+        {captionWord}: {title}
+      </figcaption>
+      <ul class="mt-2 grid grid-cols-2 gap-x-4 gap-y-1 text-s text-ink-soft sm:grid-cols-3">
+        {entry.parts.map((p) => (
+          <li>
+            <span class="font-bold text-accent">{p.n}</span> {label(p.label)}
+          </li>
+        ))}
+      </ul>
+    </figure>
+  )
+}

@@ -1,0 +1,181 @@
+---
+/** Раздел по узлу: схема, вводный текст, симптом-страницы и все статьи раздела. */
+import AppCtaCard from '../AppCtaCard.astro';
+import KartaZvuka, { type Zone } from '../KartaZvuka.astro';
+import SchemeNumbered from '../SchemeNumbered.astro';
+import Base from '../../layouts/Base.astro';
+import { v } from '../../data/assetVersion';
+import { HUBS } from '../../data/hubs';
+import { hubEn } from '../../data/hubs_en';
+import { SYMPTOMS, SYMPTOMS_TR, hasSymptoms } from '../../data/types';
+import { ARTICLE_UI, articlesBase, hubsBase } from '../../i18n/articles';
+import { symptomPath, t } from '../../i18n';
+import { SITE_URL } from '../../../site.config.mjs';
+
+interface Props {
+  lang: string;
+  /** Слаг русского раздела: он же ключ классификации статей. */
+  ruSlug: string;
+  articles: { slug: string; title: string; description: string }[];
+  alts: Record<string, string> | null;
+  ogImage?: string;
+}
+
+const { lang, ruSlug, articles, alts, ogImage } = Astro.props;
+const U = ARTICLE_UI[lang]!;
+const isRu = lang === 'ru';
+const hubRu = HUBS.find((h) => h.slug === ruSlug)!;
+const hub = isRu
+  ? { slug: hubRu.slug, h1: hubRu.h1, short: hubRu.short, metaTitle: hubRu.metaTitle, description: hubRu.description, intro: hubRu.intro }
+  : hubEn(hubRu);
+
+const symptomPages = hubRu.symptoms
+  .map((s) => SYMPTOMS.find((x) => x.slug === s))
+  .filter(Boolean);
+const symptomsShown = isRu || hasSymptoms(lang);
+/** Заголовок разбора на языке страницы: русский H1 здесь был бы чужим. */
+const symptomTitle = (slug: string, ruTitle: string) =>
+  isRu ? ruTitle : (SYMPTOMS_TR[lang]?.[slug]?.h1 ?? ruTitle);
+
+const ZONE_BY_HUB: Record<string, Zone> = {
+  dvigatel: 'motor',
+  podveska: 'koleso',
+  tormoza: 'koleso',
+  transmissiya: 'dnishche',
+  vyhlop: 'zad',
+  salon: 'salon',
+};
+const zone = ZONE_BY_HUB[ruSlug] ?? 'motor';
+const zoneCaption = U.zones[ruSlug] ?? U.zones.dvigatel!;
+
+const brand = t(lang).brand;
+const canonical = `${SITE_URL}${hubsBase(lang)}/${hub.slug}/`;
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: hub.h1,
+    description: hub.description,
+    url: canonical,
+    inLanguage: lang,
+    hasPart: articles.slice(0, 50).map((a) => ({
+      '@type': 'Article',
+      headline: a.title,
+      url: `${SITE_URL}${articlesBase(lang)}/${a.slug}/`,
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: brand, item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: U.sections, item: `${SITE_URL}${articlesBase(lang)}/` },
+      { '@type': 'ListItem', position: 3, name: hub.short, item: canonical },
+    ],
+  },
+];
+---
+
+<Base
+  title={hub.metaTitle}
+  description={hub.description}
+  schema={schema}
+  ogImage={ogImage}
+  lang={lang}
+  alts={alts}
+  wide
+>
+  <div class="lg:grid lg:grid-cols-[minmax(0,50rem)_18rem] lg:justify-center lg:gap-8">
+    <div>
+      <nav class="text-s text-ink-soft" aria-label={U.sections}>
+        <a href={isRu ? '/' : `/${lang}/`} class="no-underline hover:text-accent">{brand}</a> ·
+        <a href={`${articlesBase(lang)}/`} class="no-underline hover:text-accent">{U.articles}</a>
+      </nav>
+
+      {isRu ? (
+        <>
+          <img
+            src={v(`/uzly/podpisi-m/${ruSlug}.svg`)}
+            alt={`${U.scheme}: ${hub.h1.toLowerCase()}`}
+            width="400"
+            height="438"
+            class="mt-4 w-full rounded-card sm:hidden"
+          />
+          <img
+            src={v(`/uzly/podpisi/${ruSlug}.svg`)}
+            alt={`${U.scheme}: ${hub.h1.toLowerCase()}`}
+            width="790"
+            height="384"
+            class="mt-4 hidden w-full max-w-2xl rounded-card sm:block"
+          />
+        </>
+      ) : (
+        <SchemeNumbered
+          schemaKey={`uzly/${ruSlug}`}
+          lang={lang}
+          captionWord={U.scheme}
+          class="mt-4 max-w-2xl"
+        />
+      )}
+
+      <h1 class="mt-5 text-2xl font-bold sm:text-3xl">{hub.h1}</h1>
+      <p class="mt-2 text-s text-ink-soft">{U.hubCount.replace('{n}', String(articles.length))}</p>
+
+      {hub.intro.map((p) => <p class="mt-4 text-ink-soft">{p}</p>)}
+
+      <KartaZvuka zone={zone} caption={zoneCaption} class="mt-8 max-w-2xl" lang={lang} />
+
+      {symptomsShown && symptomPages.length > 0 && (
+        <>
+          <h2 class="mt-10 text-xl font-bold">{U.hubQuizH2}</h2>
+          <p class="mt-2 text-ink-soft">{U.hubQuizSub}</p>
+          <ul class="mt-4 grid gap-3 sm:grid-cols-2">
+            {symptomPages.map((s) => (
+              <li>
+                <a
+                  href={symptomPath(s!.slug, lang)}
+                  class="block h-full rounded-card border border-line bg-surface p-4 text-ink no-underline hover:border-accent"
+                >
+                  {symptomTitle(s!.slug, s!.h1)}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      <h2 class="mt-10 text-xl font-bold">{U.inThisSection}</h2>
+      <ul class="mt-4 grid gap-3 sm:grid-cols-2">
+        {articles.map((a) => (
+          <li>
+            <a
+              href={`${articlesBase(lang)}/${a.slug}/`}
+              class="block h-full rounded-card border border-line bg-surface p-4 no-underline hover:border-accent"
+            >
+              <span class="font-semibold text-ink">{a.title}</span>
+              <span class="mt-1 block text-s text-ink-soft">{a.description}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+
+      <h2 class="mt-10 text-xl font-bold">{U.hubOther}</h2>
+      <nav class="mt-4 flex flex-wrap gap-3 text-s">
+        {HUBS.filter((h) => h.slug !== ruSlug).map((h) => (
+          <a
+            href={`${hubsBase(lang)}/${isRu ? h.slug : hubEn(h).slug}/`}
+            class="rounded-btn border border-line bg-surface px-3 py-2 text-accent no-underline hover:border-accent"
+          >
+            {isRu ? h.short : hubEn(h).short}
+          </a>
+        ))}
+      </nav>
+
+      <div class="mt-12 lg:hidden"><AppCtaCard lang={lang} /></div>
+    </div>
+
+    <aside class="hidden lg:block">
+      <div class="sticky top-6"><AppCtaCard lang={lang} /></div>
+    </aside>
+  </div>
+</Base>

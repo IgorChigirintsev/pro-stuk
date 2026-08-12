@@ -17,6 +17,7 @@ import {
   type PageId,
 } from '../i18n';
 import { hasSymptoms } from '../data/types';
+import { ARTICLE_UI, articlesBase } from '../i18n/articles';
 
 interface Props {
   title: string;
@@ -36,6 +37,9 @@ interface Props {
   page?: PageId;
   /** Разбор симптома: адреса у него свои на каждом языке. */
   symptomSlug?: string;
+  /** Готовая карта «язык → адрес» для страниц со своими правилами адресов
+   *  (статьи и разделы по узлам: слаги там переводятся вместе с текстом). */
+  alts?: Record<string, string> | null;
 }
 
 const {
@@ -47,14 +51,18 @@ const {
   lang = DEFAULT_LANG,
   page,
   symptomSlug,
+  alts: altsProp,
 } = Astro.props;
 
 const og = ogImage ?? v(`/og/${lang}.png`);
 const d = t(lang);
+/** Статьи есть по-русски (оригинал) и по-английски (pSEO); остальным языкам
+ *  показывать вкладку нечего. */
+const hasArticles = ARTICLE_UI[lang] !== undefined;
 const isRu = lang === DEFAULT_LANG;
 const canonical = new URL(Astro.url.pathname, SITE_URL).href;
 // Есть перевод — есть и альтернативы; у статьи их нет, и трогать её нельзя.
-const alts = symptomSlug ? symptomAlts(symptomSlug) : page ? altsFor(page) : null;
+const alts = altsProp ?? (symptomSlug ? symptomAlts(symptomSlug) : page ? altsFor(page) : null);
 const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
 ---
 
@@ -182,9 +190,9 @@ const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
             </svg>
           </a>
           {
-            isRu && (
+            hasArticles && (
               <a
-                href="/stati/"
+                href={articlesBase(lang) + '/'}
                 class="p-1 text-ink-soft hover:text-accent"
                 aria-label={d.nav.articles}
                 title={d.nav.articles}
@@ -251,9 +259,14 @@ const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
           <a href={pathFor('how', lang)} class="hover:text-accent">{d.footer.how}</a>
           <a href={pathFor('privacy', lang)} class="hover:text-accent">{d.footer.privacy}</a>
           {
-            /* Разборы и статьи пока только на русском — честно говорим об этом,
-               вместо того чтобы молча уводить на непонятный язык. */
-            !isRu && (
+            /* Есть свои статьи — ведём в них. Нет — честно говорим, что раздел
+               русский, вместо того чтобы молча уводить на непонятный язык. */
+            hasArticles && !isRu && (
+              <a href={articlesBase(lang) + '/'} class="hover:text-accent">{d.nav.articles}</a>
+            )
+          }
+          {
+            !isRu && !hasArticles && (
               <a href="/simptomy/" class="hover:text-accent" hreflang="ru" lang="ru">
                 {hasSymptoms(lang) ? d.footer.ruArticles : d.footer.ruOnly}
               </a>

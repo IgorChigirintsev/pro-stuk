@@ -19,4 +19,22 @@ const articles = defineCollection({
   }),
 });
 
-export const collections = { articles };
+// Английские версии тех же статей: собственные слаги (их читает поиск),
+// ссылка на русский оригинал в поле ru — по ней строится hreflang и перелинковка.
+const articlesEn = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/articles_en' }),
+  schema: z.object({
+    ru: z.string(),
+    title: z.string(),
+    metaTitle: z.string().max(70),
+    description: z.string().min(100).max(180),
+    pubDate: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+    updated: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
+    /** Слаги похожих английских статей. */
+    related: z.array(z.string()).default([]),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).min(3),
+    sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
+  }),
+});
+
+export const collections = { articles, articlesEn };

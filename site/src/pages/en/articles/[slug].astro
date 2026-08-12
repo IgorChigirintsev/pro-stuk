@@ -1,0 +1,53 @@
+---
+import { getCollection, render } from 'astro:content';
+
+import Article from '../../../components/pages/Article.astro';
+import { v } from '../../../data/assetVersion';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articlesEn');
+  const ru = await getCollection('articles');
+  const ruIds = new Set(ru.map((a) => [a.id]).flat());
+  const byId = new Map(articles.map((a) => [a.id, a]));
+  for (const a of articles) {
+    // Оригинал должен существовать: по нему подбираются раздел, схема и hreflang.
+    if (!ruIds.has(a.data.ru)) {
+      throw new Error(`Английская статья «${a.id}»: нет русского оригинала «${a.data.ru}»`);
+    }
+    for (const r of a.data.related) {
+      if (!byId.has(r)) {
+        throw new Error(`Английская статья «${a.id}»: related-слаг «${r}» не существует`);
+      }
+    }
+  }
+  return articles.map((article) => ({
+    params: { slug: article.id },
+    props: { article, all: articles },
+  }));
+}
+
+const { article, all } = Astro.props;
+const { Content, headings } = await render(article);
+
+const byId = new Map(all.map((a) => [a.id, a]));
+const related = article.data.related
+  .map((id) => byId.get(id))
+  .filter(Boolean)
+  .slice(0, 4)
+  .map((r) => ({ title: r!.data.title, href: `/en/articles/${r!.id}/` }));
+
+const alts = { ru: `/stati/${article.data.ru}/`, en: `/en/articles/${article.id}/` };
+---
+
+<Article
+  lang="en"
+  slug={article.id}
+  ruSlug={article.data.ru}
+  data={article.data}
+  headings={headings}
+  related={related}
+  alts={alts}
+  ogImage={v('/og/en.png')}
+>
+  <Content />
+</Article>

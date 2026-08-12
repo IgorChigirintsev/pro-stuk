@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+
+import Hub from '../../../components/pages/Hub.astro';
+import { v } from '../../../data/assetVersion';
+import { HUBS, hubForArticle } from '../../../data/hubs';
+import { hubEn } from '../../../data/hubs_en';
+import { hubsBase } from '../../../i18n/articles';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articlesEn');
+  return HUBS.map((hub) => ({
+    params: { slug: hubEn(hub).slug },
+    props: {
+      ruSlug: hub.slug,
+      articles: articles
+        .filter((a) => hubForArticle(a.data.ru).slug === hub.slug)
+        .sort((a, b) => a.data.title.localeCompare(b.data.title, 'en'))
+        .map((a) => ({ slug: a.id, title: a.data.title, description: a.data.description })),
+    },
+  }));
+}
+
+const { ruSlug, articles } = Astro.props;
+const hub = HUBS.find((h) => h.slug === ruSlug)!;
+const alts = {
+  ru: `${hubsBase('ru')}/${ruSlug}/`,
+  en: `${hubsBase('en')}/${hubEn(hub).slug}/`,
+};
+---
+
+<Hub lang="en" ruSlug={ruSlug} articles={articles} alts={alts} ogImage={v('/og/en.png')} />

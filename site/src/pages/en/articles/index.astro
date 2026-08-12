@@ -1,0 +1,18 @@
+---
+import { getCollection } from 'astro:content';
+
+import ArticleIndex from '../../../components/pages/ArticleIndex.astro';
+
+const articles = await getCollection('articlesEn');
+const items = articles.map((a) => ({
+  slug: a.id,
+  ruSlug: a.data.ru,
+  title: a.data.title,
+  description: a.data.description,
+  date: a.data.updated ?? a.data.pubDate,
+}));
+
+const alts = { ru: '/stati/', en: '/en/articles/' };
+---
+
+<ArticleIndex lang="en" items={items} alts={alts} />

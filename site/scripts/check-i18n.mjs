@@ -5,7 +5,7 @@
  *
  *   node --experimental-strip-types scripts/check-i18n.mjs
  */
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
 
 import { ru } from '../src/i18n/ru.ts';
 
@@ -224,6 +224,57 @@ for (const lang of LANGS) {
       fail(`${lang} (${where}): нет ${rules.needs.what} в «${text.slice(0, 50)}…»`);
     }
   }
+}
+
+/**
+ * Английские статьи: ссылки внутри текста должны вести на существующие
+ * английские страницы. Битая перелинковка в pSEO — это и 404 для читателя,
+ * и потерянный вес для поиска, а заметить её глазами в 240 файлах нельзя.
+ */
+{
+  const dir = new URL('../src/content/articles_en/', import.meta.url);
+  let files = [];
+  try {
+    files = readdirSync(dir).filter((f) => f.endsWith('.md'));
+  } catch {}
+  const slugs = new Set(files.map((f) => f.replace(/\.md$/, '')));
+
+  const symptomSlugs = new Set(
+    [...readFileSync(new URL('../src/data/types.ts', import.meta.url), 'utf8').matchAll(
+      /'[a-z-]+':\s*'([a-z-]+)'/g
+    )].map((m) => m[1])
+  );
+  const hubSlugs = new Set(
+    [...readFileSync(new URL('../src/data/hubs_en.ts', import.meta.url), 'utf8').matchAll(
+      /slug:\s*'([a-z-]+)'/g
+    )].map((m) => m[1])
+  );
+  const staticPages = new Set(['', 'how-it-works', 'privacy', 'symptoms', 'articles']);
+
+  for (const file of files) {
+    const src = readFileSync(new URL(file, dir), 'utf8');
+    const id = file.replace(/\.md$/, '');
+    for (const [, href] of src.matchAll(/\]\((\/[^)\s]*)\)/g)) {
+      const path = href.split('#')[0].replace(/\/$/, '');
+      const parts = path.split('/').filter(Boolean);
+      if (parts[0] !== 'en') {
+        fail(`en/${id}: ссылка «${href}» ведёт на русскую версию сайта`);
+        continue;
+      }
+      const [, section, slug] = parts;
+      if (section === undefined) continue; // сама главная /en/
+      if (section === 'articles' && slug) {
+        if (!slugs.has(slug)) fail(`en/${id}: нет английской статьи «${slug}» (ссылка ${href})`);
+      } else if (section === 'symptoms' && slug) {
+        if (!symptomSlugs.has(slug)) fail(`en/${id}: нет разбора «${slug}» (ссылка ${href})`);
+      } else if (section === 'parts' && slug) {
+        if (!hubSlugs.has(slug)) fail(`en/${id}: нет раздела «${slug}» (ссылка ${href})`);
+      } else if (!staticPages.has(section)) {
+        fail(`en/${id}: непонятная ссылка «${href}»`);
+      }
+    }
+  }
+  if (files.length) console.log(`Английские статьи: ${files.length}, ссылки на месте.`);
 }
 
 // Картинка для соцсетей есть на каждом языке: её человек видит раньше сайта,

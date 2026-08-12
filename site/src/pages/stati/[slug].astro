@@ -1,12 +1,9 @@
 ---
 import { getCollection, render } from 'astro:content';
-import Base from '../../layouts/Base.astro';
-import AppCtaCard from '../../components/AppCtaCard.astro';
-import { hubForArticle } from '../../data/hubs';
-import { schemaForArticle } from '../../data/schemas';
-import KartaZvuka, { type Zone } from '../../components/KartaZvuka.astro';
+
+import Article from '../../components/pages/Article.astro';
 import { v } from '../../data/assetVersion';
-import { SITE_URL } from '../../../site.config.mjs';
+import { articlesBase } from '../../i18n/articles';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -19,229 +16,38 @@ export async function getStaticPaths() {
       }
     }
   }
+  const en = await getCollection('articlesEn');
+  const enByRu = new Map(en.map((a) => [a.data.ru, a.id]));
   return articles.map((article) => ({
     params: { slug: article.id },
-    props: { article, all: articles },
+    props: { article, all: articles, enSlug: enByRu.get(article.id) ?? null },
   }));
 }
 
-const { article, all } = Astro.props;
+const { article, all, enSlug } = Astro.props;
 const { Content, headings } = await render(article);
-const toc = headings.filter((h) => h.depth === 2);
 
 const byId = new Map(all.map((a) => [a.id, a]));
 const related = article.data.related
   .map((id) => byId.get(id))
   .filter(Boolean)
-  .slice(0, 4);
+  .slice(0, 4)
+  .map((r) => ({ title: r!.data.title, href: `/stati/${r!.id}/` }));
 
-function fmtDate(iso: string) {
-  const months = [
-    'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
-    'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
-  ];
-  const [y, m, d] = iso.split('-').map(Number);
-  return `${d} ${months[(m ?? 1) - 1]} ${y}`;
-}
-
-const hub = hubForArticle(article.id);
-const schemaHit = schemaForArticle(article.id);
-// Нет схемы узла — показываем схему раздела: лучше, чем пустое место.
-const schemaImg = schemaHit
-  ? {
-      src: v(`/shemy/podpisi/${schemaHit.file}.svg`),
-      // На узком экране подписи сбоку нечитаемы — там вертикальная раскладка с легендой снизу.
-      srcMobile: v(`/shemy/podpisi-m/${schemaHit.file}.svg`),
-      label: schemaHit.label,
-    }
-  : {
-      src: v(`/uzly/podpisi/${hub.slug}.svg`),
-      srcMobile: v(`/uzly/podpisi-m/${hub.slug}.svg`),
-      label: hub.h1.toLowerCase(),
-    };
-
-/**
- * Зона источника звука для карты. Берём из раздела статьи —
- * это единственное, что известно достоверно, поэтому срочность здесь не показываем.
- */
-const ZONE_BY_HUB: Record<string, { zone: Zone; caption: string }> = {
-  dvigatel: { zone: 'motor', caption: 'моторный отсек' },
-  podveska: { zone: 'koleso', caption: 'подвеска, зона колеса' },
-  tormoza: { zone: 'koleso', caption: 'тормозной механизм колеса' },
-  transmissiya: { zone: 'dnishche', caption: 'трансмиссия, под днищем' },
-  vyhlop: { zone: 'zad', caption: 'выхлопная система, вдоль днища к корме' },
-  salon: { zone: 'salon', caption: 'салон' },
-};
-const zoneHit = ZONE_BY_HUB[hub.slug] ?? ZONE_BY_HUB.dvigatel;
-const canonical = `${SITE_URL}/stati/${article.id}/`;
-const schema = [
-  {
-    '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: article.data.title,
-    description: article.data.description,
-    datePublished: article.data.pubDate,
-    dateModified: article.data.updated ?? article.data.pubDate,
-    mainEntityOfPage: canonical,
-    inLanguage: 'ru',
-    author: { '@type': 'Organization', name: 'Стук', url: SITE_URL },
-    publisher: { '@type': 'Organization', name: 'Стук', url: SITE_URL },
-  },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: article.data.faq.map((f) => ({
-      '@type': 'Question',
-      name: f.q,
-      acceptedAnswer: { '@type': 'Answer', text: f.a },
-    })),
-  },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Стук', item: SITE_URL },
-      { '@type': 'ListItem', position: 2, name: 'Статьи', item: `${SITE_URL}/stati/` },
-      { '@type': 'ListItem', position: 3, name: hub.short, item: `${SITE_URL}/uzly/${hub.slug}/` },
-      { '@type': 'ListItem', position: 4, name: article.data.title, item: canonical },
-    ],
-  },
-];
+const alts = enSlug
+  ? { ru: `/stati/${article.id}/`, en: `${articlesBase('en')}/${enSlug}/` }
+  : null;
 ---
 
-<Base title={article.data.metaTitle} description={article.data.description} schema={schema} ogImage={v(`/og/stati/${article.id}.png`)} wide>
-  <div class="lg:grid lg:grid-cols-[16rem_minmax(0,42rem)_18rem] lg:justify-center lg:gap-8">
-    <!-- Слева: похожие статьи (липкая, только desktop) -->
-    <aside class="hidden lg:block">
-      {related.length > 0 && (
-        <div class="sticky top-6 rounded-card border border-line bg-surface p-5">
-          <p class="font-bold">Похожие статьи</p>
-          <ul class="mt-3 space-y-3">
-            {related.map((r) => (
-              <li>
-                <a href={`/stati/${r!.id}/`} class="text-s text-accent no-underline hover:underline">
-                  {r!.data.title}
-                </a>
-              </li>
-            ))}
-          </ul>
-          <a href={`/uzly/${hub.slug}/`} class="mt-4 block text-s text-accent no-underline hover:underline">
-            Все о разделе «{hub.short}» →
-          </a>
-          <a href="/stati/" class="mt-2 block text-s text-ink-soft no-underline hover:text-accent">
-            Все статьи →
-          </a>
-        </div>
-      )}
-    </aside>
-
-    <!-- Центр: статья -->
-    <article>
-      <nav class="text-s text-ink-soft" aria-label="Хлебные крошки">
-        <a href="/" class="no-underline hover:text-accent">Стук</a> ·
-        <a href="/stati/" class="no-underline hover:text-accent">Статьи</a> ·
-        <a href={`/uzly/${hub.slug}/`} class="no-underline hover:text-accent">{hub.short}</a>
-      </nav>
-
-      <h1 class="mt-3 text-2xl font-bold sm:text-3xl">{article.data.title}</h1>
-      <p class="mt-2 text-s text-ink-soft">
-        Обновлено {fmtDate(article.data.updated ?? article.data.pubDate)}
-      </p>
-
-      <KartaZvuka zone={zoneHit.zone} caption={zoneHit.caption} class="mt-6" />
-
-      {toc.length > 1 && (
-        <nav class="mt-6 rounded-card border border-line bg-surface p-5" aria-label="Содержание">
-          <p class="font-bold">Содержание</p>
-          <ol class="mt-3 list-decimal space-y-1.5 pl-5 text-s">
-            {toc.map((h) => (
-              <li>
-                <a href={`#${h.slug}`} class="text-accent no-underline hover:underline">{h.text}</a>
-              </li>
-            ))}
-            {article.data.faq.length > 0 && (
-              <li><a href="#faq" class="text-accent no-underline hover:underline">Частые вопросы</a></li>
-            )}
-          </ol>
-        </nav>
-      )}
-
-      <figure class="mt-8">
-          <img
-            src={schemaImg.srcMobile}
-            alt={`Схема: ${schemaImg.label}`}
-            width="400"
-            height="438"
-            loading="lazy"
-            class="w-full rounded-card sm:hidden"
-          />
-          <img
-            src={schemaImg.src}
-            alt={`Схема: ${schemaImg.label}`}
-            width="790"
-            height="384"
-            loading="lazy"
-            class="hidden w-full max-w-2xl rounded-card sm:block"
-          />
-        <figcaption class="mt-2 text-s text-ink-soft">
-          Схема: {schemaImg.label}
-        </figcaption>
-      </figure>
-
-      <div class="article-body">
-        <Content />
-      </div>
-
-      <h2 id="faq" class="mt-10 text-xl font-bold" style="scroll-margin-top:1rem">Частые вопросы</h2>
-      <div class="mt-4 space-y-4">
-        {article.data.faq.map((f) => (
-          <details class="rounded-card border border-line bg-surface p-4">
-            <summary class="cursor-pointer font-semibold">{f.q}</summary>
-            <p class="mt-2 text-ink-soft">{f.a}</p>
-          </details>
-        ))}
-      </div>
-
-      {article.data.sources.length > 0 && (
-        <>
-          <h2 class="mt-10 text-xl font-bold">Источники</h2>
-          <ul class="mt-3 list-disc space-y-1 pl-5 text-s">
-            {article.data.sources.map((s) => (
-              <li>
-                <a href={s.url} rel="nofollow noopener" target="_blank" class="text-accent">
-                  {s.title}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </>
-      )}
-    </article>
-
-    <!-- Справа: CTA приложения (липкая, только desktop) -->
-    <aside class="hidden lg:block">
-      <div class="sticky top-6">
-        <AppCtaCard />
-      </div>
-    </aside>
-  </div>
-
-  <!-- Мобильная версия карточек: после статьи -->
-  <div class="mt-10 space-y-6 lg:hidden">
-    <AppCtaCard />
-    {related.length > 0 && (
-      <div class="rounded-card border border-line bg-surface p-5">
-        <p class="font-bold">Похожие статьи</p>
-        <ul class="mt-3 space-y-3">
-          {related.map((r) => (
-            <li>
-              <a href={`/stati/${r!.id}/`} class="text-accent no-underline hover:underline">
-                {r!.data.title}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-    )}
-  </div>
-</Base>
+<Article
+  lang="ru"
+  slug={article.id}
+  ruSlug={article.id}
+  data={article.data}
+  headings={headings}
+  related={related}
+  alts={alts}
+  ogImage={v(`/og/stati/${article.id}.png`)}
+>
+  <Content />
+</Article>

@@ -1,0 +1,91 @@
+---
+/** Список всех статей, сгруппированный по разделам. Один на русский и английский. */
+import Base from '../../layouts/Base.astro';
+import { HUBS, hubForArticle } from '../../data/hubs';
+import { hubEn } from '../../data/hubs_en';
+import { ARTICLE_UI, articlesBase, fmtDate, hubsBase } from '../../i18n/articles';
+import { SITE_URL } from '../../../site.config.mjs';
+
+interface Props {
+  lang: string;
+  /** Статьи этого языка: слаг, тексты и слаг русского оригинала. */
+  items: {
+    slug: string;
+    ruSlug: string;
+    title: string;
+    description: string;
+    date: string;
+  }[];
+  alts: Record<string, string> | null;
+}
+
+const { lang, items, alts } = Astro.props;
+const U = ARTICLE_UI[lang]!;
+const isRu = lang === 'ru';
+
+const sorted = [...items].sort((a, b) => b.date.localeCompare(a.date));
+const grouped = HUBS.map((h) => ({
+  slug: isRu ? h.slug : hubEn(h).slug,
+  short: isRu ? h.short : hubEn(h).short,
+  items: sorted.filter((a) => hubForArticle(a.ruSlug).slug === h.slug),
+})).filter((g) => g.items.length > 0);
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: U.indexTitle,
+  url: `${SITE_URL}${articlesBase(lang)}/`,
+  inLanguage: lang,
+  hasPart: grouped.map((g) => ({
+    '@type': 'CollectionPage',
+    name: g.short,
+    url: `${SITE_URL}${hubsBase(lang)}/${g.slug}/`,
+  })),
+};
+---
+
+<Base
+  title={U.indexTitle}
+  description={U.indexDescription}
+  schema={schema}
+  lang={lang}
+  alts={alts}
+>
+  <h1 class="text-2xl font-bold sm:text-3xl">{U.indexH1}</h1>
+  <p class="mt-4 max-w-2xl text-ink-soft">{U.indexSub}</p>
+
+  <nav class="mt-6 flex flex-wrap gap-3 text-s" aria-label={U.sections}>
+    {grouped.map((g) => (
+      <a
+        href={`${hubsBase(lang)}/${g.slug}/`}
+        class="rounded-btn border border-line bg-surface px-3 py-2 text-accent no-underline hover:border-accent"
+      >
+        {g.short} <span class="tnum text-ink-soft">{g.items.length}</span>
+      </a>
+    ))}
+  </nav>
+
+  {grouped.map((g) => (
+    <section class="mt-10">
+      <h2 class="text-xl font-bold">
+        <a href={`${hubsBase(lang)}/${g.slug}/`} class="text-ink no-underline hover:text-accent">
+          {g.short}
+        </a>
+      </h2>
+      <ul class="mt-4 grid gap-4 sm:grid-cols-2">
+        {g.items.map((a) => (
+          <li>
+            <a
+              href={`${articlesBase(lang)}/${a.slug}/`}
+              class="block h-full rounded-card border border-line bg-surface p-5 no-underline hover:border-accent"
+            >
+              <p class="font-bold text-l text-ink">{a.title}</p>
+              <p class="mt-2 text-s text-ink-soft">{a.description}</p>
+              <p class="mt-3 text-s text-ink-soft">{fmtDate(a.date, lang)}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>
