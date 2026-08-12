@@ -24,6 +24,7 @@ const U = ARTICLE_UI[lang]!;
 const isRu = lang === 'ru';
 
 const sorted = [...items].sort((a, b) => b.date.localeCompare(a.date));
+/** Разделы без статей на этом языке в список не попадают. */
 const grouped = HUBS.map((h) => ({
   slug: isRu ? h.slug : hubEn(h).slug,
   short: isRu ? h.short : hubEn(h).short,

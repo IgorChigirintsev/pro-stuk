@@ -19,9 +19,11 @@ interface Props {
   articles: { slug: string; title: string; description: string }[];
   alts: Record<string, string> | null;
   ogImage?: string;
+  /** Разделы, у которых на этом языке уже есть статьи: пустые не показываем. */
+  otherHubs?: string[];
 }
 
-const { lang, ruSlug, articles, alts, ogImage } = Astro.props;
+const { lang, ruSlug, articles, alts, ogImage, otherHubs = [] } = Astro.props;
 const U = ARTICLE_UI[lang]!;
 const isRu = lang === 'ru';
 const hubRu = HUBS.find((h) => h.slug === ruSlug)!;
@@ -161,7 +163,7 @@ const schema = [
 
       <h2 class="mt-10 text-xl font-bold">{U.hubOther}</h2>
       <nav class="mt-4 flex flex-wrap gap-3 text-s">
-        {HUBS.filter((h) => h.slug !== ruSlug).map((h) => (
+        {HUBS.filter((h) => h.slug !== ruSlug && (isRu || otherHubs.includes(h.slug))).map((h) => (
           <a
             href={`${hubsBase(lang)}/${isRu ? h.slug : hubEn(h).slug}/`}
             class="rounded-btn border border-line bg-surface px-3 py-2 text-accent no-underline hover:border-accent"

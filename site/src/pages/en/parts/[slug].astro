@@ -9,10 +9,17 @@ import { hubsBase } from '../../../i18n/articles';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articlesEn');
-  return HUBS.map((hub) => ({
+  // Пустой раздел не показываем: страница без статей не нужна ни читателю,
+  // ни поиску. Появится сама, как только в разделе переведут первую статью.
+  return HUBS.filter((hub) =>
+    articles.some((a) => hubForArticle(a.data.ru).slug === hub.slug)
+  ).map((hub) => ({
     params: { slug: hubEn(hub).slug },
     props: {
       ruSlug: hub.slug,
+      otherHubs: HUBS.filter((h) =>
+        articles.some((a) => hubForArticle(a.data.ru).slug === h.slug)
+      ).map((h) => h.slug),
       articles: articles
         .filter((a) => hubForArticle(a.data.ru).slug === hub.slug)
         .sort((a, b) => a.data.title.localeCompare(b.data.title, 'en'))
@@ -21,7 +28,7 @@ export async function getStaticPaths() {
   }));
 }
 
-const { ruSlug, articles } = Astro.props;
+const { ruSlug, articles, otherHubs } = Astro.props;
 const hub = HUBS.find((h) => h.slug === ruSlug)!;
 const alts = {
   ru: `${hubsBase('ru')}/${ruSlug}/`,
@@ -29,4 +36,4 @@ const alts = {
 };
 ---
 
-<Hub lang="en" ruSlug={ruSlug} articles={articles} alts={alts} ogImage={v('/og/en.png')} />
+<Hub lang="en" ruSlug={ruSlug} articles={articles} alts={alts} otherHubs={otherHubs} ogImage={v("/og/en.png")} />
