@@ -47,7 +47,10 @@ const articlesI18n = defineCollection({
   schema: z.object({
     title: z.string(),
     metaTitle: z.string().max(70),
-    description: z.string().min(100).max(180),
+    // Нижняя граница ниже, чем у русской и английской версий: иероглиф и
+    // арабская вязь укладывают ту же мысль в заметно меньшее число знаков.
+    // Порог по языку проверяет scripts/check-i18n.mjs — там известен язык.
+    description: z.string().min(40).max(180),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).min(3),
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
   }),

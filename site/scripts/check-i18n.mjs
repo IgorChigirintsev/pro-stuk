@@ -309,12 +309,23 @@ for (const lang of LANGS) {
     const langFiles = readdirSync(langDir).filter((f) => f.endsWith('.md'));
     const has = new Set(langFiles.map((f) => f.replace(/\.md$/, '')));
 
+    // Длина сниппета меряется в пикселях, а не в знаках: иероглиф вдвое шире
+    // латиницы, поэтому у иероглифических языков тот же смысл укладывается
+    // в меньшее число знаков, и общий порог в 100 знаков им не подходит.
+    const minDescription = { zh: 45, ja: 45, ko: 45, ar: 90 }[lang] ?? 100;
+
     for (const file of langFiles) {
       const id = file.replace(/\.md$/, '');
       if (!slugs.has(id)) {
         fail(`${lang}/${id}: нет английской версии — слаг статьи общий для всех языков`);
       }
       const src = readFileSync(new URL(file, langDir), 'utf8');
+      const description = src.match(/^description: *"(.+?)" *$/m)?.[1];
+      if (description && description.length < minDescription) {
+        fail(
+          `${lang}/${id}: описание ${description.length} знаков, нужно от ${minDescription} — сниппет в выдаче будет коротким`
+        );
+      }
       for (const [, href] of src.matchAll(/\]\((\/[^)\s]*)\)/g)) {
         const path = href.split('#')[0].replace(/\/$/, '');
         const parts = path.split('/').filter(Boolean);
