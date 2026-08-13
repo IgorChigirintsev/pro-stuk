@@ -37,4 +37,20 @@ const articlesEn = defineCollection({
   }),
 });
 
-export const collections = { articles, articlesEn };
+// Остальные языки: файл лежит в articles_i18n/<язык>/<английский слаг>.md.
+// Слаг общий для всех нерусских языков — так же устроены разборы симптомов,
+// и это избавляет от карты «слаг на языке X → слаг на языке Y» в перелинковке.
+// Дата, related и русский оригинал берутся у английской версии: дублировать их
+// в двенадцати файлах значит однажды получить двенадцать разных значений.
+const articlesI18n = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/articles_i18n' }),
+  schema: z.object({
+    title: z.string(),
+    metaTitle: z.string().max(70),
+    description: z.string().min(100).max(180),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).min(3),
+    sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
+  }),
+});
+
+export const collections = { articles, articlesEn, articlesI18n };

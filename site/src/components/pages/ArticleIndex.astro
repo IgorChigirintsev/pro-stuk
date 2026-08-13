@@ -2,7 +2,7 @@
 /** Список всех статей, сгруппированный по разделам. Один на русский и английский. */
 import Base from '../../layouts/Base.astro';
 import { HUBS, hubForArticle } from '../../data/hubs';
-import { hubEn } from '../../data/hubs_en';
+import { hubText } from '../../data/hubs_i18n';
 import { ARTICLE_UI, articlesBase, fmtDate, hubsBase } from '../../i18n/articles';
 import { SITE_URL } from '../../../site.config.mjs';
 
@@ -26,8 +26,8 @@ const isRu = lang === 'ru';
 const sorted = [...items].sort((a, b) => b.date.localeCompare(a.date));
 /** Разделы без статей на этом языке в список не попадают. */
 const grouped = HUBS.map((h) => ({
-  slug: isRu ? h.slug : hubEn(h).slug,
-  short: isRu ? h.short : hubEn(h).short,
+  slug: hubText(lang, h).slug,
+  short: hubText(lang, h).short,
   items: sorted.filter((a) => hubForArticle(a.ruSlug).slug === h.slug),
 })).filter((g) => g.items.length > 0);
 

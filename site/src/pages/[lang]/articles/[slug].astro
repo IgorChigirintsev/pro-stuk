@@ -1,0 +1,83 @@
+---
+/**
+ * Статья на любом языке, кроме русского и английского: те живут в /stati/
+ * и /en/articles/ со своими коллекциями. Слаг общий с английским, поэтому
+ * дата, related и русский оригинал берутся у английской версии.
+ */
+import { getCollection, render } from 'astro:content';
+
+import Article from '../../../components/pages/Article.astro';
+import { ARTICLE_LANGS, articlesBase } from '../../../i18n/articles';
+
+export async function getStaticPaths() {
+  const tr = await getCollection('articlesI18n');
+  const en = await getCollection('articlesEn');
+  const enById = new Map(en.map((a) => [a.id, a]));
+
+  // Языки статей: те, для которых есть подписи интерфейса. Русский и английский
+  // собираются своими маршрутами.
+  const langs = new Set(ARTICLE_LANGS.filter((l) => l !== 'ru' && l !== 'en'));
+  /** Все переводы одной статьи: по ним строится hreflang. */
+  const byslug = new Map<string, string[]>();
+  for (const a of tr) {
+    const [lang, slug] = a.id.split('/');
+    if (!lang || !slug || !langs.has(lang)) continue;
+    byslug.set(slug, [...(byslug.get(slug) ?? []), lang]);
+  }
+
+  return tr.flatMap((article) => {
+    const [lang, slug] = article.id.split('/');
+    if (!lang || !slug || !langs.has(lang)) return [];
+    const source = enById.get(slug);
+    if (!source) {
+      throw new Error(`Статья «${article.id}»: нет английской версии «${slug}»`);
+    }
+    return [{
+      params: { lang, slug },
+      props: { article, source, langs: byslug.get(slug) ?? [] },
+    }];
+  });
+}
+
+const { article, source, langs } = Astro.props;
+const { lang } = Astro.params;
+const { Content, headings } = await render(article);
+
+// related и дата — общие для всех языков: слаги совпадают, а перевод заголовка
+// берётся из статьи того же языка, если она уже есть.
+const tr = await getCollection('articlesI18n');
+const titleIn = new Map(
+  tr.filter((a) => a.id.startsWith(`${lang}/`)).map((a) => [a.id.slice(lang!.length + 1), a.data.title])
+);
+const en = await getCollection('articlesEn');
+const enTitle = new Map(en.map((a) => [a.id, a.data.title]));
+const related = source.data.related
+  .filter((id) => titleIn.has(id))
+  .slice(0, 4)
+  .map((id) => ({ title: titleIn.get(id)!, href: `${articlesBase(lang!)}/${id}/` }));
+
+const alts: Record<string, string> = {
+  ru: `/stati/${source.data.ru}/`,
+  en: `/en/articles/${source.id}/`,
+};
+for (const l of langs) alts[l] = `${articlesBase(l)}/${source.id}/`;
+
+const data = {
+  ...article.data,
+  pubDate: source.data.pubDate,
+  updated: source.data.updated,
+  related: [],
+};
+---
+
+<Article
+  lang={lang!}
+  slug={source.id}
+  ruSlug={source.data.ru}
+  data={data}
+  headings={headings}
+  related={related}
+  alts={alts}
+>
+  <Content />
+</Article>

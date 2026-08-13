@@ -1,0 +1,43 @@
+---
+/** Список статей языка: тот же индекс, что у русской и английской версий. */
+import { getCollection } from 'astro:content';
+
+import ArticleIndex from '../../../components/pages/ArticleIndex.astro';
+import { ARTICLE_LANGS, articlesBase } from '../../../i18n/articles';
+
+export async function getStaticPaths() {
+  const tr = await getCollection('articlesI18n');
+  const en = await getCollection('articlesEn');
+  const enById = new Map(en.map((a) => [a.id, a]));
+  const langs = ARTICLE_LANGS.filter((l) => l !== 'ru' && l !== 'en');
+
+  return langs
+    .map((lang) => ({
+      lang,
+      items: tr
+        .filter((a) => a.id.startsWith(`${lang}/`))
+        .map((a) => {
+          const slug = a.id.slice(lang.length + 1);
+          const source = enById.get(slug)!;
+          return {
+            slug,
+            title: a.data.title,
+            description: a.data.description,
+            date: source.data.pubDate,
+            ruSlug: source.data.ru,
+          };
+        }),
+    }))
+    // Пустой список не страница: появится, когда переведут первую статью.
+    .filter((x) => x.items.length > 0)
+    .map(({ lang, items }) => ({ params: { lang }, props: { items } }));
+}
+
+const { lang } = Astro.params;
+const { items } = Astro.props;
+
+const alts: Record<string, string> = { ru: '/stati/', en: '/en/articles/' };
+alts[lang!] = `${articlesBase(lang!)}/`;
+---
+
+<ArticleIndex lang={lang!} items={items} alts={alts} />

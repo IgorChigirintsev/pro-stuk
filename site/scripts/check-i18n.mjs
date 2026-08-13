@@ -289,6 +289,55 @@ for (const lang of LANGS) {
   }
 
   if (files.length) console.log(`Английские статьи: ${files.length}, ссылки на месте.`);
+
+  /**
+   * Статьи на остальных языках: слаг общий с английским, поэтому у каждой
+   * должен быть английский оригинал, а ссылки в тексте — вести на страницы
+   * своего языка и только на уже существующие.
+   */
+  const trDir = new URL('../src/content/articles_i18n/', import.meta.url);
+  let trLangs = [];
+  try {
+    trLangs = readdirSync(trDir, { withFileTypes: true })
+      .filter((e) => e.isDirectory())
+      .map((e) => e.name);
+  } catch {}
+
+  const counts = [];
+  for (const lang of trLangs) {
+    const langDir = new URL(`${lang}/`, trDir);
+    const langFiles = readdirSync(langDir).filter((f) => f.endsWith('.md'));
+    const has = new Set(langFiles.map((f) => f.replace(/\.md$/, '')));
+
+    for (const file of langFiles) {
+      const id = file.replace(/\.md$/, '');
+      if (!slugs.has(id)) {
+        fail(`${lang}/${id}: нет английской версии — слаг статьи общий для всех языков`);
+      }
+      const src = readFileSync(new URL(file, langDir), 'utf8');
+      for (const [, href] of src.matchAll(/\]\((\/[^)\s]*)\)/g)) {
+        const path = href.split('#')[0].replace(/\/$/, '');
+        const parts = path.split('/').filter(Boolean);
+        if (parts[0] !== lang) {
+          fail(`${lang}/${id}: ссылка «${href}» ведёт на чужую языковую версию`);
+          continue;
+        }
+        const [, section, slug] = parts;
+        if (section === undefined) continue;
+        if (section === 'articles' && slug) {
+          if (!has.has(slug)) fail(`${lang}/${id}: нет статьи «${slug}» на этом языке (ссылка ${href})`);
+        } else if (section === 'symptoms' && slug) {
+          if (!symptomSlugs.has(slug)) fail(`${lang}/${id}: нет разбора «${slug}» (ссылка ${href})`);
+        } else if (section === 'parts' && slug) {
+          if (!hubSlugs.has(slug)) fail(`${lang}/${id}: нет раздела «${slug}» (ссылка ${href})`);
+        } else if (!staticPages.has(section)) {
+          fail(`${lang}/${id}: непонятная ссылка «${href}»`);
+        }
+      }
+    }
+    counts.push(`${lang} ${langFiles.length}`);
+  }
+  if (counts.length) console.log(`Статьи на других языках: ${counts.join(', ')}.`);
 }
 
 // Картинка для соцсетей есть на каждом языке: её человек видит раньше сайта,

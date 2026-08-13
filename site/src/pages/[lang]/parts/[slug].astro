@@ -1,0 +1,50 @@
+---
+/** Раздел по узлу на языке кроме русского и английского. */
+import { getCollection } from 'astro:content';
+
+import Hub from '../../../components/pages/Hub.astro';
+import { HUBS, hubForArticle } from '../../../data/hubs';
+import { hubSlug, hubText } from '../../../data/hubs_i18n';
+import { ARTICLE_LANGS, hubsBase } from '../../../i18n/articles';
+
+export async function getStaticPaths() {
+  const tr = await getCollection('articlesI18n');
+  const en = await getCollection('articlesEn');
+  const ruOf = new Map(en.map((a) => [a.id, a.data.ru]));
+  const langs = ARTICLE_LANGS.filter((l) => l !== 'ru' && l !== 'en');
+
+  return langs.flatMap((lang) => {
+    const items = tr
+      .filter((a) => a.id.startsWith(`${lang}/`))
+      .map((a) => {
+        const slug = a.id.slice(lang.length + 1);
+        return { slug, title: a.data.title, description: a.data.description, ru: ruOf.get(slug)! };
+      });
+    // Пустой раздел не показываем: страница без статей не нужна ни читателю,
+    // ни поиску. Появится сама, как только в разделе переведут первую статью.
+    const filled = HUBS.filter((h) => items.some((i) => hubForArticle(i.ru).slug === h.slug));
+    return filled.map((hub) => ({
+      params: { lang, slug: hubSlug(lang, hub) },
+      props: {
+        ruSlug: hub.slug,
+        otherHubs: filled.map((h) => h.slug),
+        articles: items
+          .filter((i) => hubForArticle(i.ru).slug === hub.slug)
+          .sort((a, b) => a.title.localeCompare(b.title, lang))
+          .map(({ slug, title, description }) => ({ slug, title, description })),
+      },
+    }));
+  });
+}
+
+const { lang } = Astro.params;
+const { ruSlug, articles, otherHubs } = Astro.props;
+const hub = HUBS.find((h) => h.slug === ruSlug)!;
+const alts = {
+  ru: `/uzly/${ruSlug}/`,
+  en: `/en/parts/${hubText('en', hub).slug}/`,
+  [lang!]: `${hubsBase(lang!)}/${hubSlug(lang!, hub)}/`,
+};
+---
+
+<Hub lang={lang!} ruSlug={ruSlug} articles={articles} alts={alts} otherHubs={otherHubs} />

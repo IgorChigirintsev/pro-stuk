@@ -6,7 +6,7 @@ import SchemeNumbered from '../SchemeNumbered.astro';
 import Base from '../../layouts/Base.astro';
 import { v } from '../../data/assetVersion';
 import { HUBS } from '../../data/hubs';
-import { hubEn } from '../../data/hubs_en';
+import { hubText } from '../../data/hubs_i18n';
 import { SYMPTOMS, SYMPTOMS_TR, hasSymptoms } from '../../data/types';
 import { ARTICLE_UI, articlesBase, hubsBase } from '../../i18n/articles';
 import { symptomPath, t } from '../../i18n';
@@ -27,9 +27,7 @@ const { lang, ruSlug, articles, alts, ogImage, otherHubs = [] } = Astro.props;
 const U = ARTICLE_UI[lang]!;
 const isRu = lang === 'ru';
 const hubRu = HUBS.find((h) => h.slug === ruSlug)!;
-const hub = isRu
-  ? { slug: hubRu.slug, h1: hubRu.h1, short: hubRu.short, metaTitle: hubRu.metaTitle, description: hubRu.description, intro: hubRu.intro }
-  : hubEn(hubRu);
+const hub = hubText(lang, hubRu);
 
 const symptomPages = hubRu.symptoms
   .map((s) => SYMPTOMS.find((x) => x.slug === s))
@@ -165,10 +163,10 @@ const schema = [
       <nav class="mt-4 flex flex-wrap gap-3 text-s">
         {HUBS.filter((h) => h.slug !== ruSlug && (isRu || otherHubs.includes(h.slug))).map((h) => (
           <a
-            href={`${hubsBase(lang)}/${isRu ? h.slug : hubEn(h).slug}/`}
+            href={`${hubsBase(lang)}/${hubText(lang, h).slug}/`}
             class="rounded-btn border border-line bg-surface px-3 py-2 text-accent no-underline hover:border-accent"
           >
-            {isRu ? h.short : hubEn(h).short}
+            {hubText(lang, h).short}
           </a>
         ))}
       </nav>

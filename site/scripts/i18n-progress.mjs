@@ -96,5 +96,31 @@ const count = (dir) => {
 const ruArt = count('../src/content/articles/');
 const enArt = count('../src/content/articles_en/');
 console.log(
-  `  Статьи: ${bar(enArt, ruArt)} ${enArt} из ${ruArt} переведено на английский.\n`
+  `  Статьи: ${bar(enArt, ruArt)} ${enArt} из ${ruArt} переведено на английский.`
 );
+
+// Остальные языки: слаг общий с английским, файлы лежат по папке на язык.
+let trLangs = [];
+try {
+  trLangs = readdirSync(new URL('../src/content/articles_i18n/', import.meta.url), {
+    withFileTypes: true,
+  })
+    .filter((e) => e.isDirectory())
+    .map((e) => e.name)
+    .sort();
+} catch {}
+
+let trTotal = 0;
+for (const lang of trLangs) {
+  const n = count(`../src/content/articles_i18n/${lang}/`);
+  trTotal += n;
+  const name = pad(`${NAMES[lang] ?? lang} (${lang})`, 16);
+  console.log(`    ${name}${bar(n, ruArt)} ${String(n).padStart(3)}/${ruArt}`);
+}
+if (trLangs.length) {
+  const target = ruArt * (LANGS.length - 2); // без русского оригинала и английского
+  console.log(
+    `  Остальные языки: ${trTotal} из ${target} страниц, ${trLangs.length} из ${LANGS.length - 2} языков начаты.`
+  );
+}
+console.log('');

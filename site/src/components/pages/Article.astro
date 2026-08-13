@@ -11,7 +11,7 @@ import SchemeNumbered from '../SchemeNumbered.astro';
 import Base from '../../layouts/Base.astro';
 import { v } from '../../data/assetVersion';
 import { hubForArticle } from '../../data/hubs';
-import { hubEn } from '../../data/hubs_en';
+import { hubText } from '../../data/hubs_i18n';
 import { schemaForArticle } from '../../data/schemas';
 import { ARTICLE_UI, articlesBase, fmtDate, hubsBase } from '../../i18n/articles';
 import { SITE_URL } from '../../../site.config.mjs';
@@ -45,9 +45,7 @@ const isRu = lang === 'ru';
 const toc = headings.filter((h) => h.depth === 2);
 
 const hubRu = hubForArticle(ruSlug);
-const hub = isRu
-  ? { slug: hubRu.slug, h1: hubRu.h1, short: hubRu.short }
-  : { slug: hubEn(hubRu).slug, h1: hubEn(hubRu).h1, short: hubEn(hubRu).short };
+const hub = hubText(lang, hubRu);
 const hubHref = `${hubsBase(lang)}/${hub.slug}/`;
 const indexHref = `${articlesBase(lang)}/`;
 const canonical = `${SITE_URL}${articlesBase(lang)}/${slug}/`;
