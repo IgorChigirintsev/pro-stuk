@@ -274,6 +274,20 @@ for (const lang of LANGS) {
       }
     }
   }
+  // У английской статьи и раздела картинка для соцсетей своя, с заголовком:
+  // без неё ссылка уедет в мессенджер с чужой обложкой.
+  // Пересобрать: node --experimental-strip-types scripts/gen-og-en.mjs
+  for (const slug of slugs) {
+    if (!existsSync(new URL(`../public/og/en/${slug}.png`, import.meta.url))) {
+      fail(`en/${slug}: нет картинки public/og/en/${slug}.png (scripts/gen-og-en.mjs)`);
+    }
+  }
+  for (const slug of hubSlugs) {
+    if (!existsSync(new URL(`../public/og/en/parts/${slug}.png`, import.meta.url))) {
+      fail(`en-раздел «${slug}»: нет картинки public/og/en/parts/${slug}.png (scripts/gen-og-en.mjs)`);
+    }
+  }
+
   if (files.length) console.log(`Английские статьи: ${files.length}, ссылки на месте.`);
 }
 

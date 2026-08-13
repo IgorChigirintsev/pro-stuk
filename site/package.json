@@ -8,6 +8,7 @@
     "preview": "astro preview",
     "check": "node --experimental-strip-types scripts/check-i18n.mjs",
     "og": "node --experimental-strip-types scripts/gen-og.mjs",
+    "og:en": "node --experimental-strip-types scripts/gen-og-en.mjs",
     "progress": "node scripts/i18n-progress.mjs"
   },
   "dependencies": {
