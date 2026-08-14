@@ -1,7 +1,7 @@
 ---
 title: "Les signes d'un étrier de frein grippé"
 metaTitle: "Les signes d'un étrier de frein grippé | Stuk"
-description: "Comment reconnaître un étrier de frein grippé : la voiture tire d'un côté, une roue chaude, une odeur de brûlé, un raclement. Contrôles simples sans pont et ce que vaut une réfection."
+description: "Comment reconnaître un étrier de frein grippé : la voiture tire d'un côté, une roue chaude, une odeur de brûlé. Contrôles simples sans pont et ce que vaut une réfection."
 faq:
   - q: "Qu'est-ce qui grippe exactement dans un étrier ?"
     a: "Deux choses : les colonnettes de guidage sur lesquelles coulisse la chape, et le piston dans son alésage. Ce sont les colonnettes qui grippent le plus souvent — un soufflet déchiré et la saleté de l'hiver suffisent. Un piston grippé est plus grave : il ne revient plus et la plaquette frotte le disque en permanence."
