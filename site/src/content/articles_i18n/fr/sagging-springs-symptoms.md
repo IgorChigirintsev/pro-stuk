@@ -1,7 +1,7 @@
 ---
 title: "Ressorts affaissés : les symptômes"
 metaTitle: "Ressorts affaissés : symptômes et contrôles | Stuk"
-description: "Comment savoir que les ressorts se sont affaissés : mesures de hauteur de caisse, comportement de la voiture, signes indirects. Ce que l'affaissement coûte et ce qu'implique le remplacement."
+description: "Comment savoir que les ressorts se sont affaissés : mesures de hauteur de caisse, comportement de la voiture, signes indirects. Ce qu'implique le remplacement."
 faq:
   - q: "Pourquoi les ressorts s'affaissent-ils ?"
     a: "La raison principale, c'est la fatigue du métal : au cours de sa vie un ressort est comprimé des millions de fois et l'acier perd progressivement son élasticité. Les surcharges permanentes, les mauvaises routes et la corrosion due à l'eau et au sel de déneigement accélèrent le processus."

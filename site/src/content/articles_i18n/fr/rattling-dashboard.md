@@ -1,7 +1,7 @@
 ---
 title: "Une planche de bord qui vibre"
 metaTitle: "Planche de bord qui vibre : trouver la source | Stuk"
-description: "Une planche de bord qui vibre agace plus qu'elle ne nuit. Pourquoi le plastique se met à grésiller, comment trouver le point de contact en dix minutes et quand la planche n'y est pour rien."
+description: "Une planche de bord qui vibre agace plus qu'elle ne nuit. Pourquoi le plastique grésille, comment trouver le point de contact en dix minutes et quand elle n'y est pour rien."
 faq:
   - q: "Une planche de bord qui vibre, est-ce dangereux ?"
     a: "En soi, presque jamais : du plastique tape contre du plastique et rien n'en est détruit. Le danger est ailleurs — quand le bruit se révèle ne pas venir de la planche du tout, mais d'une vibration du moteur ou du train roulant qui a simplement trouvé un résonateur dans l'habitacle."

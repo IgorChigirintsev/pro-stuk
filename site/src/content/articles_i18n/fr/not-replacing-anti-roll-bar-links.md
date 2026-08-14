@@ -1,7 +1,7 @@
 ---
 title: "Ce qui arrive si on ne change jamais les biellettes de barre stabilisatrice"
 metaTitle: "Biellettes de barre stabilisatrice usées : risques | Stuk"
-description: "Où mène le fait de rouler avec des biellettes usées : plus de roulis, une biellette qui casse, l'usure des pièces voisines. Combien de temps attendre et pourquoi cela coûte plus cher."
+description: "Où mène le fait de rouler avec des biellettes usées : plus de roulis, une biellette qui casse, l'usure des pièces voisines. Combien de temps attendre et ce que cela coûte."
 faq:
   - q: "Est-ce dangereux de rouler avec des biellettes qui claquent ?"
     a: "En conduite urbaine tranquille, c'est supportable : la roue ne va pas tomber et les freins fonctionnent toujours. Le risque apparaît dans les manœuvres brusques à vitesse élevée, où le roulis dépasse ce qui était prévu et où la voiture répond en retard à la direction. On peut donc rouler, mais sans faire traîner."

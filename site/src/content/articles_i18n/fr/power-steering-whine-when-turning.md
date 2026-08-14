@@ -1,7 +1,7 @@
 ---
 title: "Direction assistée qui siffle en virage : les causes"
 metaTitle: "Direction assistée qui siffle en virage | Stuk"
-description: "Pourquoi une direction assistée hydraulique siffle en virage : niveau de fluide, air dans le circuit, pompe, courroie. Comment distinguer le normal de l'usure et par quoi commencer."
+description: "Pourquoi une direction assistée hydraulique siffle en virage : niveau de fluide, air dans le circuit, pompe, courroie. Distinguer le normal de l'usure et par quoi commencer."
 faq:
   - q: "Ça ne siffle qu'en butée de braquage. Est-ce une panne ?"
     a: "Un sifflement bref volant maintenu en butée fait partie du fonctionnement : le clapet de décharge de la pompe s'ouvre et la pression du circuit est au maximum. Ce n'est pas le signe d'un défaut, mais ne restez pas en butée plus de deux secondes — c'est précisément le moment où la pompe travaille le plus dur."

@@ -1,7 +1,7 @@
 ---
 title: "Bruit de haut moteur sur Mitsubishi 4B12 : les poussoirs hydrauliques"
 metaTitle: "Bruit de poussoirs hydrauliques Mitsubishi 4B12 | Stuk"
-description: "Un cliquetis venant du haut d'un 4B12 : comment se comportent les poussoirs hydrauliques, pourquoi l'huile est presque toujours en cause et comment distinguer ce bruit de la chaîne."
+description: "Un cliquetis venant du haut d'un 4B12 : comment se comportent les poussoirs hydrauliques, pourquoi l'huile est presque toujours en cause et comment le distinguer de la chaîne."
 faq:
   - q: "Le cliquetis disparaît une minute après le démarrage, est-ce normal ?"
     a: "C'est plutôt un stade précoce qu'une normalité. C'est ainsi que se comportent les poussoirs qui se remplissent lentement d'huile après un arrêt prolongé. Tant que le bruit s'en va et ne revient pas moteur chaud, vous avez le temps de décider calmement."
