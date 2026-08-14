@@ -1,7 +1,7 @@
 ---
 title: "Wat gebeurt er als u stabilisatorstangen nooit vervangt"
 metaTitle: "Versleten stabilisatorstangen: gevolgen | Stuk"
-description: "Waar doorrijden op versleten stabilisatorstangen toe leidt: meer overhelling, een gebroken stang, slijtage aan buren. Hoelang u kunt wachten en waarom wachten duurder is."
+description: "Waar doorrijden op versleten stabilisatorstangen toe leidt: meer overhelling, een gebroken stang, slijtage aan buren. Hoelang u kunt wachten en waarom uitstel duurder is."
 faq:
   - q: "Is rijden met klapperende stabilisatorstangen gevaarlijk?"
     a: "In rustig stadsverkeer valt het mee: er valt geen wiel af en de remmen werken gewoon. Het risico komt bij plotselinge manoeuvres op snelheid, waar de auto verder overhelt dan bedoeld en laat op het stuur reageert. Rijden kan dus, maar rek het niet op."
