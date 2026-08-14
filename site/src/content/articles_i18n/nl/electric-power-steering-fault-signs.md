@@ -1,7 +1,7 @@
 ---
 title: "Signalen van een defecte elektrische stuurbekrachtiging"
 metaTitle: "Elektrische stuurbekrachtiging stuk: signalen | Stuk"
-description: "Hoe u een storing in de elektrische stuurbekrachtiging herkent: zwaar sturen, ongelijke ondersteuning, het EPS-lampje, kloppen en klikken. Wat u zelf controleert voor de werkplaats."
+description: "Hoe u een storing in de elektrische stuurbekrachtiging herkent: zwaar sturen, ongelijke ondersteuning, het EPS-lampje, kloppen. Wat u zelf controleert voor de werkplaats."
 faq:
   - q: "Kan ik rijden als de elektrische stuurbekrachtiging niet werkt?"
     a: "De mechanische verbinding tussen stuurwiel en wielen blijft bestaan, dus naar de werkplaats rijden kan — het stuur wordt alleen merkbaar zwaarder, vooral bij het parkeren. Rijd zo niet permanent: een plotselinge uitwijkmanoeuvre kost met een zwaar stuur ongewoon veel kracht, en de oorzaak van de uitval kan verergeren."
