@@ -44,7 +44,7 @@ fren ıslığındakiyle aynıdır — balata–disk çiftinin rezonansı — ve
 |---|---|
 | İlk 2–3 frende ıslık, sonra sessizlik | Bekleme sonrası film, normal |
 | Yağmurdan sonra ve nemde daha kötü ıslık | Aynı film, nemin büyüttüğü hâli |
-| ıslık yolculuk boyunca sürüyor | Yenmiş balata veya sıkışmış kaliper |
+| Islık yolculuk boyunca sürüyor | Yenmiş balata veya sıkışmış kaliper |
 | Islığa metalik taşlama eklenmiş | Malzeme bitmiş, disk kesiliyor |
 | Tek tekerden ıslık, o disk ısınıyor | Yapışan balata |
 | Bir ay bekledikten sonra ıslık ve yapışma | Derin korozyon, disk kontrol edilmeli |
