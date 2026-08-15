@@ -1,0 +1,98 @@
+---
+title: "Zunido do câmbio em ponto morto"
+metaTitle: "Zunido do câmbio em ponto morto: causas | Stuk"
+description: "Zunido em ponto morto com o pedal solto aponta para o rolamento do eixo primário ou o nível de óleo. Como separar isso do rolamento de liberação."
+faq:
+  - q: "O zunido em ponto morto some quando piso na embreagem. O que isso significa?"
+    a: "É o quadro clássico de rolamento do eixo primário. Com o pedal solto, o eixo gira junto com o motor e zune; ao pisar na embreagem a ligação com o motor se rompe, o eixo para e o som desaparece."
+  - q: "O óleo pode causar zunido em ponto morto?"
+    a: "Pode, e é a mais barata das causas. Nível baixo, ou óleo que não é trocado há muito tempo, piora a lubrificação dos rolamentos, e o câmbio zune de forma mais perceptível, principalmente frio. Confira o nível antes de desmontar qualquer coisa."
+  - q: "Qual a urgência de trocar o rolamento do eixo primário?"
+    a: "Um zunido uniforme e baixo costuma durar meses. Os sinais preocupantes são ronco, aspereza metálica no som e limalha no ímã do bujão de dreno: significam que o rolamento está se desfazendo e os detritos estão se espalhando pelo câmbio inteiro."
+sources:
+  - title: "Schaeffler: rolamentos e componentes de transmissão"
+    url: "https://www.schaeffler.com"
+  - title: "SKF: análise de falhas em rolamentos"
+    url: "https://www.skf.com"
+---
+
+O carro está parado, o câmbio em ponto morto, o pedal da embreagem solto —
+e vem um zunido uniforme do cofre do motor que antes não existia. Você
+pisa na embreagem e o zunido some. O quadro é tão característico que
+sozinho já identifica a peça com alta confiança: na esmagadora maioria dos
+casos é o rolamento do eixo primário do câmbio manual. Aqui está por que
+ele zune exatamente assim, o que mais soa parecido e como se decide o
+reparo.
+
+## Por que o câmbio zune em ponto morto
+
+Em ponto morto com o pedal solto, o eixo primário do câmbio está travado
+ao motor pelo disco de embreagem e gira junto com ele. As engrenagens
+rodam sem carga, nenhum torque é transmitido, mas os rolamentos do eixo
+estão trabalhando. Um rolamento gasto — com pistas danificadas ou roletes
+que perderam a forma — produz um zunido grave e uniforme naquela rotação.
+
+No instante em que você pisa na embreagem, o disco se separa do volante do
+motor e o eixo primário perde o acionamento e para. Não sobra o que zunir,
+e o som vai embora. Essa relação «pedal solto: zunido, pedal pisado:
+silêncio» é a pista principal. O quadro invertido, em que o som aparece ao
+pisar no pedal, aponta para o rolamento de liberação — assunto próximo ao
+de
+[estalos ao pisar na embreagem](/pt/articles/crackling-when-pressing-the-clutch/).
+
+## O que mais soa parecido
+
+| Origem | Como se comporta | A diferença |
+|---|---|---|
+| Rolamento do eixo primário | Zune em ponto morto, some no pedal | Segue o pedal da embreagem |
+| Rolamento de liberação | Calado em ponto morto, uiva no pedal | A imagem espelhada |
+| Óleo do câmbio baixo | Zunido cresce a frio e no calor | Checado pelo nível em dez minutos |
+| Rolamento do alternador, tensor | Zune independente de pedal e marcha | Se ouve com a correia removida |
+| Bomba d'água | Zunido uniforme, muitas vezes com vestígios de líquido | Nenhuma ligação com a embreagem |
+
+Os dois últimos casos têm um caminho pronto de separação em
+[zunido: alternador ou bomba d'água](/pt/articles/alternator-or-water-pump-whine/).
+Daí a ordem de checagens que economiza dinheiro: primeiro o pedal da
+embreagem, depois o nível de óleo, e só então qualquer conversa sobre
+abrir o câmbio. Vale também escutar o carro em movimento: se um zunido
+preso a uma faixa de velocidade se juntar ao de parado, o quadro muda.
+
+## Conferindo você mesmo
+
+1. **Teste do pedal.** Com o motor quente e o câmbio em ponto morto, pise
+   e solte a embreagem devagar, várias vezes, prestando atenção à mudança.
+   Uma ligação clara com o pedal é praticamente um diagnóstico.
+2. **Frio e quente.** Escute logo depois da partida e de novo depois de
+   vinte minutos rodando. Zunido causado por óleo costuma enfraquecer com
+   o câmbio quente; desgaste mecânico, não.
+3. **Nível de óleo.** Desligue o motor, deixe o carro no plano e confira o
+   nível pela vareta ou pelo bujão de abastecimento. Essa é a causa mais
+   barata possível.
+4. **Teste da correia.** A oficina remove a correia de acessórios por
+   alguns minutos: se o zunido continuar, os acessórios estão descartados.
+   O quadro geral de ruídos em movimento está na página de sintoma
+   [zumbido andando](/pt/symptoms/humming-while-driving/).
+
+## Como se decide o reparo
+
+O fato determinante desse serviço é que o câmbio precisa sair. Esse único
+ponto governa todo o resto, e produz uma recomendação clara: se a caixa
+está sendo removida por causa de um rolamento, o kit de embreagem se troca
+junto. A embreagem está bem ali, a mão de obra já foi paga, e fazer isso
+separado daqui a um ano significa pagar essa mão de obra duas vezes.
+
+A mesma lógica cobre o retentor traseiro do virabrequim e o rolamento de
+liberação — peças pequenas que só ficam acessíveis com o câmbio fora. Uma
+oficina que lista isso no orçamento não está inflando a conta; a que não
+menciona merece a pergunta.
+
+Um zunido uniforme e baixo não pede parar o carro: as pessoas rodam assim
+por meses. Planeje o reparo quando o som virar ronco, aparecer vibração ou
+surgir limalha no ímã do bujão de dreno — isso significa que o rolamento
+já está se desfazendo. Sobre o prazo realista, veja
+[dá para rodar com o câmbio zunindo](/pt/articles/can-you-drive-with-a-whining-gearbox/).
+
+Se o zunido é baixo e você não tem certeza se ele segue o pedal, grave-o
+no aplicativo Stuk nos dois estados: pedal solto e pedal pisado. O
+aplicativo compara as gravações com suas respostas e mostra as causas
+prováveis com porcentagens, junto com o que checar antes da visita.
