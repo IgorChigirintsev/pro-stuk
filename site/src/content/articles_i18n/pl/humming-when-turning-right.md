@@ -40,15 +40,15 @@ wspomaganie kierownicy.
 
 Potrzebna jest pusta, równa droga i dziesięć minut.
 
-1. Rozpędź się do 60–80 km/h i zapamiętaj punkt odniesienia: czy buczenie
-   jest słychać na prostej?
-2. Zjedź łagodnie w prawo, potem w lewo. Zanotuj, na którym łuku buczenie
-   rośnie, a na którym cichnie.
-3. Przy prędkości, na której buczy, włącz luz i jedź wybiegiem: jeśli
+1. Rozpędzić się do 60–80 km/h i zapamiętać punkt odniesienia: czy
+   buczenie słychać na prostej?
+2. Zjechać łagodnie w prawo, potem w lewo. Zanotować, na którym łuku
+   buczenie rośnie, a na którym cichnie.
+3. Przy prędkości, na której buczy, włączyć luz i jechać wybiegiem: jeśli
    buczenie zostaje, silnik i skrzynia są poza podejrzeniem.
-4. Powtórz ten sam odcinek na innej nawierzchni: jeśli buczenie się nie
+4. Powtórzyć ten sam odcinek na innej nawierzchni: jeśli buczenie się nie
    zmienia, to nie opony.
-5. Po jeździe ostrożnie zbliż dłoń do kół: piasta wyraźnie ciepła po
+5. Po jeździe ostrożnie zbliżyć dłoń do kół: piasta wyraźnie ciepła po
    jednej stronie to dodatkowa poszlaka.
 
 Wynik warto zapisać w dwóch zdaniach: „buczy od 60, rośnie w prawo,
@@ -77,10 +77,10 @@ dźwiękowy zużytej piasty jest na stronie
 
 ## Jak decyduje się o naprawie
 
-Dwie rzeczy trzymają rachunek w ryzach. Po pierwsze, nie zgadzaj się na
-„parę, skoro już jesteśmy w środku”, jeśli po drugiej stronie nie ma luzu
-ani hałasu: łożyska wymienia się pojedynczo. Po drugie, przed rozpoczęciem
-pracy ustal konstrukcję swojego auta — osobne łożysko jest tańsze jako
+Dwie rzeczy trzymają rachunek w ryzach. Po pierwsze, nie należy zgadzać
+się na „parę, skoro już jesteśmy w środku”, jeśli po drugiej stronie nie
+ma luzu ani hałasu: łożyska wymienia się pojedynczo. Po drugie, przed
+rozpoczęciem pracy warto ustalić konstrukcję auta — osobne łożysko jest tańsze jako
 część, ale wymaga prasy, natomiast kompletny zespół piasty kosztuje więcej
 i idzie szybciej, bez ryzyka błędu przy wciskaniu.
 
@@ -91,7 +91,8 @@ dynamometryczny, a nie klucz udarowy. W wielu nowszych autach czujnik ABS
 siedzi wewnątrz zespołu piasty — dlatego padające łożysko potrafi
 przyprowadzić ze sobą kontrolki na desce.
 
-Nie ma pewności, czy uszy wskazują właściwą stronę? Nagraj buczenie w
-aplikacji Stuk podczas zmian pasa: aplikacja zestawia nagranie z
-odpowiedziami i pokazuje prawdopodobne przyczyny w procentach oraz poziom
-pilności — dzięki temu przyjeżdżasz z hipotezą, a nie z „coś buczy”.
+Nie ma pewności, czy uszy wskazują właściwą stronę? Wystarczy nagrać
+buczenie w aplikacji Stuk podczas zmian pasa: aplikacja zestawia nagranie
+z odpowiedziami i pokazuje prawdopodobne przyczyny w procentach oraz
+poziom pilności — dzięki temu do warsztatu jedzie się z hipotezą, a nie z
+„coś buczy”.

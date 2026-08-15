@@ -96,6 +96,6 @@ tysiącach kilometrów. Zamknięcie sprawy w pierwszych tygodniach jest
 tańsze i spokojniejsze.
 
 Jeśli buczenie jest jeszcze ciche, a chcą Państwo mieć pewność, że to nie
-wyobraźnia, nagrajcie dźwięk w aplikacji Stuk podczas testu zmiany pasa.
+wyobraźnia, warto nagrać dźwięk w aplikacji Stuk podczas testu zmiany pasa.
 Aplikacja zestawia nagranie z odpowiedziami i pokazuje prawdopodobne
 przyczyny w procentach — oraz podpowiada, od której strony zacząć.
