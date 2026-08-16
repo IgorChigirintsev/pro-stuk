@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 
+import { articleAlts, langsBySlug } from '../../../i18n/altMaps';
 import Article from '../../../components/pages/Article.astro';
 import { v } from '../../../data/assetVersion';
 
@@ -36,7 +37,7 @@ const related = article.data.related
   .slice(0, 4)
   .map((r) => ({ title: r!.data.title, href: `/en/articles/${r!.id}/` }));
 
-const alts = { ru: `/stati/${article.data.ru}/`, en: `/en/articles/${article.id}/` };
+const alts = articleAlts(article.id, article.data.ru, (await langsBySlug()).get(article.id) ?? []);
 ---
 
 <Article

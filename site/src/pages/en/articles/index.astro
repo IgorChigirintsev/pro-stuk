@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 
+import { articleIndexAlts, langsWithArticles } from '../../../i18n/altMaps';
 import ArticleIndex from '../../../components/pages/ArticleIndex.astro';
 
 const articles = await getCollection('articlesEn');
@@ -12,7 +13,7 @@ const items = articles.map((a) => ({
   date: a.data.updated ?? a.data.pubDate,
 }));
 
-const alts = { ru: '/stati/', en: '/en/articles/' };
+const alts = articleIndexAlts(await langsWithArticles());
 ---
 
 <ArticleIndex lang="en" items={items} alts={alts} />

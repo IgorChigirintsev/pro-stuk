@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 
+import { hubAlts, hubLangsBySlug } from '../../../i18n/altMaps';
 import Hub from '../../../components/pages/Hub.astro';
 import { v } from '../../../data/assetVersion';
 import { HUBS, hubForArticle } from '../../../data/hubs';
@@ -30,10 +31,7 @@ export async function getStaticPaths() {
 
 const { ruSlug, articles, otherHubs } = Astro.props;
 const hub = HUBS.find((h) => h.slug === ruSlug)!;
-const alts = {
-  ru: `${hubsBase('ru')}/${ruSlug}/`,
-  en: `${hubsBase('en')}/${hubEn(hub).slug}/`,
-};
+const alts = hubAlts(ruSlug, (await hubLangsBySlug()).get(ruSlug) ?? []);
 ---
 
 <Hub lang="en" ruSlug={ruSlug} articles={articles} alts={alts} otherHubs={otherHubs} ogImage={v(`/og/en/parts/${hubEn(hub).slug}.png`)} />

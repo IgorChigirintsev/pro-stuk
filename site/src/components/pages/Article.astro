@@ -73,6 +73,7 @@ const schema = [
     '@type': 'Article',
     headline: data.title,
     description: data.description,
+    image: new URL(ogImage ?? `/og/${lang}.png`, SITE_URL).href,
     datePublished: data.pubDate,
     dateModified: data.updated ?? data.pubDate,
     mainEntityOfPage: canonical,
@@ -80,15 +81,18 @@ const schema = [
     author: { '@type': 'Organization', name: brand, url: SITE_URL },
     publisher: { '@type': 'Organization', name: brand, url: SITE_URL },
   },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: data.faq.map((f) => ({
-      '@type': 'Question',
-      name: f.q,
-      acceptedAnswer: { '@type': 'Answer', text: f.a },
-    })),
-  },
+  ...(data.faq.length
+    ? [{
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        inLanguage: lang,
+        mainEntity: data.faq.map((f) => ({
+          '@type': 'Question',
+          name: f.q,
+          acceptedAnswer: { '@type': 'Answer', text: f.a },
+        })),
+      }]
+    : []),
   {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -109,6 +113,8 @@ const schema = [
   ogImage={ogImage}
   lang={lang}
   alts={alts}
+  published={data.pubDate}
+  modified={data.updated ?? data.pubDate}
   wide
 >
   <div class="lg:grid lg:grid-cols-[16rem_minmax(0,42rem)_18rem] lg:justify-center lg:gap-8">
@@ -192,15 +198,19 @@ const schema = [
         <slot />
       </div>
 
-      <h2 id="faq" class="mt-10 text-xl font-bold" style="scroll-margin-top:1rem">{U.faq}</h2>
-      <div class="mt-4 space-y-4">
-        {data.faq.map((f) => (
-          <details class="rounded-card border border-line bg-surface p-4">
-            <summary class="cursor-pointer font-semibold">{f.q}</summary>
-            <p class="mt-2 text-ink-soft">{f.a}</p>
-          </details>
-        ))}
-      </div>
+      {data.faq.length > 0 && (
+        <>
+          <h2 id="faq" class="mt-10 text-xl font-bold" style="scroll-margin-top:1rem">{U.faq}</h2>
+          <div class="mt-4 space-y-4">
+            {data.faq.map((f) => (
+              <details class="rounded-card border border-line bg-surface p-4">
+                <summary class="cursor-pointer font-semibold">{f.q}</summary>
+                <p class="mt-2 text-ink-soft">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </>
+      )}
 
       {data.sources.length > 0 && (
         <>

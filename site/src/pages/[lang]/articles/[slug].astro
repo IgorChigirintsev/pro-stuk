@@ -8,6 +8,7 @@ import { getCollection, render } from 'astro:content';
 
 import Article from '../../../components/pages/Article.astro';
 import { ARTICLE_LANGS, articlesBase } from '../../../i18n/articles';
+import { articleAlts } from '../../../i18n/altMaps';
 
 export async function getStaticPaths() {
   const tr = await getCollection('articlesI18n');
@@ -56,11 +57,7 @@ const related = source.data.related
   .slice(0, 4)
   .map((id) => ({ title: titleIn.get(id)!, href: `${articlesBase(lang!)}/${id}/` }));
 
-const alts: Record<string, string> = {
-  ru: `/stati/${source.data.ru}/`,
-  en: `/en/articles/${source.id}/`,
-};
-for (const l of langs) alts[l] = `${articlesBase(l)}/${source.id}/`;
+const alts = articleAlts(source.id, source.data.ru, langs);
 
 const data = {
   ...article.data,

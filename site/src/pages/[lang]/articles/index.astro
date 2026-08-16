@@ -2,6 +2,7 @@
 /** Список статей языка: тот же индекс, что у русской и английской версий. */
 import { getCollection } from 'astro:content';
 
+import { articleIndexAlts, langsWithArticles } from '../../../i18n/altMaps';
 import ArticleIndex from '../../../components/pages/ArticleIndex.astro';
 import { ARTICLE_LANGS, articlesBase } from '../../../i18n/articles';
 
@@ -36,8 +37,7 @@ export async function getStaticPaths() {
 const { lang } = Astro.params;
 const { items } = Astro.props;
 
-const alts: Record<string, string> = { ru: '/stati/', en: '/en/articles/' };
-alts[lang!] = `${articlesBase(lang!)}/`;
+const alts = articleIndexAlts(await langsWithArticles());
 ---
 
 <ArticleIndex lang={lang!} items={items} alts={alts} />

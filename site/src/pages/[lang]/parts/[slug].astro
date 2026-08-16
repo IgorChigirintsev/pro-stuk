@@ -3,6 +3,7 @@
 import { getCollection } from 'astro:content';
 
 import Hub from '../../../components/pages/Hub.astro';
+import { hubAlts, hubLangsBySlug } from '../../../i18n/altMaps';
 import { HUBS, hubForArticle } from '../../../data/hubs';
 import { hubSlug, hubText } from '../../../data/hubs_i18n';
 import { ARTICLE_LANGS, hubsBase } from '../../../i18n/articles';
@@ -40,11 +41,7 @@ export async function getStaticPaths() {
 const { lang } = Astro.params;
 const { ruSlug, articles, otherHubs } = Astro.props;
 const hub = HUBS.find((h) => h.slug === ruSlug)!;
-const alts = {
-  ru: `/uzly/${ruSlug}/`,
-  en: `/en/parts/${hubText('en', hub).slug}/`,
-  [lang!]: `${hubsBase(lang!)}/${hubSlug(lang!, hub)}/`,
-};
+const alts = hubAlts(ruSlug, (await hubLangsBySlug()).get(ruSlug) ?? []);
 ---
 
 <Hub lang={lang!} ruSlug={ruSlug} articles={articles} alts={alts} otherHubs={otherHubs} />
