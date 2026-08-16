@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "npm run check && astro build && node scripts/check-detect.mjs",
+    "build": "npm run check && astro build && node scripts/sitemap-alias.mjs && node scripts/check-detect.mjs",
     "preview": "astro preview",
     "check": "node --experimental-strip-types scripts/check-i18n.mjs",
     "og": "node --experimental-strip-types scripts/gen-og.mjs",
