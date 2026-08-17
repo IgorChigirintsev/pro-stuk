@@ -9,7 +9,7 @@
   }
  },
  "q_start_char": {
-  "text": "Quʼentendez-vous en tournant la clé ou en appuyant sur le bouton de démarrage ?",
+  "text": "Qu’entendez-vous en tournant la clé ou en appuyant sur le bouton de démarrage ?",
   "options": {
    "o1": "Des claquements, le moteur ne tourne pas",
    "o2": "Un crissement métallique pendant que le démarreur tourne",
@@ -45,14 +45,14 @@
   "options": {
    "o1": "Un froissement ou un crépitement qui change avec la vitesse du ventilateur",
    "o2": "Un sifflement ou un hurlement sous la planche de bord",
-   "o3": "Une série de claquements derrière la planche de bord quand on change la température ou la répartition dʼair",
+   "o3": "Une série de claquements derrière la planche de bord quand on change la température ou la répartition d’air",
    "o4": "Un gargouillis derrière la planche de bord"
   }
  },
  "q_ac": {
   "text": "Qu'entend-on quand on met la climatisation ?",
   "options": {
-   "o1": "Un sifflement au moment de lʼenclenchement",
+   "o1": "Un sifflement au moment de l’enclenchement",
    "o2": "Un crissement ou un grondement pendant que la clim fonctionne",
    "o3": "Un bref chuintement à l'enclenchement ou à l'arrêt, et ça refroidit bien"
   }
@@ -60,10 +60,10 @@
  "q_clutch_idle": {
   "text": "Comment le bruit est-il lié à la pédale d'embrayage ?",
   "options": {
-   "o1": "Un bruissement ou un bourdonnement pédale relâchée ; en débrayant, il sʼatténue",
+   "o1": "Un bruissement ou un bourdonnement pédale relâchée ; en débrayant, il s’atténue",
    "o2": "Il apparaît ou augmente quand la pédale est enfoncée",
    "o3": "Un cliquetis au ralenti qui change quand on débraye",
-   "o4": "Un grincement à lʼappui, audible même moteur coupé"
+   "o4": "Un grincement à l’appui, audible même moteur coupé"
   }
  },
  "q_wheel_pedal": {

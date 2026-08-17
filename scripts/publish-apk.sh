@@ -41,6 +41,23 @@ cat > "$OUT_DIR/version.json" <<EOF
 {"version":"$VERSION","size_mb":$SIZE_MB,"updated":"$(date +%F)"}
 EOF
 
+# Версия в двух местах: version.json на сайте (кнопка «Скачать») и
+# LATEST_APP_VERSION в бэкенде (по нему приложение предлагает обновиться).
+# Раньше вторую правили руками и забывали: API отдавал 1.0.0 при опубликованной
+# 1.10.1, и обновление не предлагалось никому. Теперь пишем обе отсюда.
+ENV_FILE="$ROOT/backend/.env"
+if [ -f "$ENV_FILE" ]; then
+  if grep -q '^LATEST_APP_VERSION=' "$ENV_FILE"; then
+    sed -i "s/^LATEST_APP_VERSION=.*/LATEST_APP_VERSION=$VERSION/" "$ENV_FILE"
+  else
+    printf '\nLATEST_APP_VERSION=%s\n' "$VERSION" >> "$ENV_FILE"
+  fi
+  echo "==> backend/.env: LATEST_APP_VERSION=$VERSION"
+  echo "    чтобы это доехало до API, нужен деплой бэкенда"
+else
+  echo "ПРЕДУПРЕЖДЕНИЕ: нет backend/.env — LATEST_APP_VERSION не обновлён" >&2
+fi
+
 echo "==> Готово:"
 ls -la "$OUT_DIR"
 cat "$OUT_DIR/version.json"
