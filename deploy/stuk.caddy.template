@@ -23,7 +23,9 @@ ${STUK_DOMAIN} {
 	# HTML перевыкладывается целиком при каждой сборке, поэтому браузер должен
 	# спрашивать сервер, а не решать за него: без заголовка он кэширует по
 	# собственной эвристике и может показать вчерашнюю страницу.
-	@html path *.html /
+	# Адреса страниц идут без расширения (/zh/articles/slug/), поэтому ловим
+	# их от обратного — всё, что не файл известного типа.
+	@html not path *.png *.jpg *.webp *.svg *.ico *.woff2 *.css *.js *.json *.xml *.txt *.apk
 	header @html Cache-Control "public, max-age=0, must-revalidate"
 
 	header {
