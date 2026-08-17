@@ -5,6 +5,7 @@ import { HUBS, hubForArticle } from '../../data/hubs';
 import { hubText } from '../../data/hubs_i18n';
 import { ARTICLE_UI, articlesBase, fmtDate, hubsBase } from '../../i18n/articles';
 import { SITE_URL } from '../../../site.config.mjs';
+import { pathFor, t } from '../../i18n';
 
 interface Props {
   lang: string;
@@ -21,6 +22,7 @@ interface Props {
 
 const { lang, items, alts } = Astro.props;
 const U = ARTICLE_UI[lang]!;
+const brand = t(lang).brand;
 const isRu = lang === 'ru';
 
 const sorted = [...items].sort((a, b) => b.date.localeCompare(a.date));
@@ -31,18 +33,39 @@ const grouped = HUBS.map((h) => ({
   items: sorted.filter((a) => hubForArticle(a.ruSlug).slug === h.slug),
 })).filter((g) => g.items.length > 0);
 
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'CollectionPage',
-  name: U.indexTitle,
-  url: `${SITE_URL}${articlesBase(lang)}/`,
-  inLanguage: lang,
-  hasPart: grouped.map((g) => ({
+const schema = [
+  {
+    '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: g.short,
-    url: `${SITE_URL}${hubsBase(lang)}/${g.slug}/`,
-  })),
-};
+    name: U.indexTitle,
+    url: `${SITE_URL}${articlesBase(lang)}/`,
+    inLanguage: lang,
+    hasPart: grouped.map((g) => ({
+      '@type': 'CollectionPage',
+      name: g.short,
+      url: `${SITE_URL}${hubsBase(lang)}/${g.slug}/`,
+    })),
+  },
+  // Цепочка «Стук → Статьи»: на самих статьях она есть, на их списке не было.
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: brand,
+        item: `${SITE_URL}${pathFor('home', lang)}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: U.articles,
+        item: `${SITE_URL}${articlesBase(lang)}/`,
+      },
+    ],
+  },
+];
 ---
 
 <Base
