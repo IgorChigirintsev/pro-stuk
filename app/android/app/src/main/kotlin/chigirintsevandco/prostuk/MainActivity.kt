@@ -1,4 +1,4 @@
-package kz.stuk.stuk
+package chigirintsevandco.prostuk
 
 import android.content.Intent
 import android.net.Uri
@@ -12,7 +12,7 @@ import io.flutter.plugin.common.MethodChannel
 class MainActivity : FlutterActivity() {
     override fun configureFlutterEngine(flutterEngine: FlutterEngine) {
         super.configureFlutterEngine(flutterEngine)
-        MethodChannel(flutterEngine.dartExecutor.binaryMessenger, "kz.stuk.app/system")
+        MethodChannel(flutterEngine.dartExecutor.binaryMessenger, "chigirintsevandco.prostuk/system")
             .setMethodCallHandler { call, result ->
                 if (call.method == "openAppSettings") {
                     val intent = Intent(

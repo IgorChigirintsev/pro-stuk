@@ -17,7 +17,7 @@ import '../wav.dart';
 import '../widgets.dart';
 import 'analyze.dart';
 
-const _channel = MethodChannel('kz.stuk.app/system');
+const _channel = MethodChannel('chigirintsevandco.prostuk/system');
 const _maxSeconds = 30;
 const _minSeconds = 5;
 
