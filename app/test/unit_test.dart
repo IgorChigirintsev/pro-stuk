@@ -7,6 +7,7 @@ import 'package:stuk/site_links.dart';
 import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';
 
+import 'package:stuk/data/cars.dart';
 import 'package:stuk/data/service.dart';
 import 'package:stuk/l10n/parts_i18n.dart';
 import 'package:stuk/l10n/locale_service.dart';
@@ -258,5 +259,34 @@ void main() {
     LocaleService.current.value = 'zh';
     expect(SiteLinks.symptom(slug), endsWith('/zh/symptoms/belt-squeal/'));
     LocaleService.current.value = 'ru';
+  });
+
+  // Годы выпуска в форме добавления машины ограничиваются поколением, а сам
+  // диапазон разбирается из названия: отдельного поля в справочнике нет.
+  // Сменится формат названий — фильтр молча перестанет работать.
+  test('годы поколения разбираются из названия', () async {
+    expect(const Generation('1', 'V (N28) (2009–2013)').yearFrom, 2009);
+    expect(const Generation('1', 'V (N28) (2009–2013)').yearTo, 2013);
+    // «н.в.» — модель ещё выпускают, верхняя граница это текущий год.
+    expect(const Generation('2', 'VI (2024–н.в.)').yearTo, DateTime.now().year);
+    // Без диапазона в названии фильтровать нечем — тогда null и весь список.
+    expect(const Generation('3', 'Просто поколение').yearFrom, isNull);
+  });
+
+  test('во всём справочнике годы распознаются', () async {
+    final raw = jsonDecode(await File('../shared/cars-generations.json').readAsString())
+        as Map<String, dynamic>;
+    var total = 0, parsed = 0;
+    for (final models in raw.values) {
+      for (final gens in (models as Map).values) {
+        for (final g in gens as List) {
+          total++;
+          final gen = Generation('', (g as Map)['label'] as String);
+          if (gen.yearFrom != null && gen.yearTo != null) parsed++;
+        }
+      }
+    }
+    expect(total, greaterThan(5000));
+    expect(parsed, total, reason: 'у ${total - parsed} поколений не разобрался диапазон');
   });
 }

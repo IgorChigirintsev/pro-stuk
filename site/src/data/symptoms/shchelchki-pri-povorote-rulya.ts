@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'shchelchki-pri-povorote-rulya',
   h1: 'Щелчки при повороте руля',
-  metaTitle: 'Щелчки при повороте руля: ШРУС или опорный подшипник | Стук',
+  metaTitle: 'Щелчки при повороте руля: ШРУС или опорный подшипник | Pro-Stuk',
   description:
     'Почему щёлкает при повороте руля: наружный ШРУС, опорный подшипник стойки или рулевой карданчик. Как различить их по звуку и что проверить без разборки.',
   group: 'tormoza-rul',

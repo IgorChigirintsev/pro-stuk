@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'tikanie-dvigatelya',
   h1: 'Тиканье двигателя',
-  metaTitle: 'Тиканье двигателя: норма или износ, причины | Стук',
+  metaTitle: 'Тиканье двигателя: норма или износ, причины | Pro-Stuk',
   description:
     'Откуда тиканье в двигателе: клапанные зазоры, гидрокомпенсаторы, штатный цокот форсунок или выпускной коллектор. Как отличить норму от износа мотора.',
   group: 'dvigatel',

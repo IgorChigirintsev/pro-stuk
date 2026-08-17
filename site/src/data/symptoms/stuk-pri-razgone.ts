@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'stuk-pri-razgone',
   h1: 'Стук при разгоне',
-  metaTitle: 'Стук при разгоне и сбросе газа: причины и что делать | Стук',
+  metaTitle: 'Стук при разгоне и сбросе газа: причины и что делать | Pro-Stuk',
   description:
     'Почему стучит при нажатии или сбросе газа: опоры двигателя, ШРУС, люфт в трансмиссии или коробка. Как отличить безобидный люфт от стука в самом моторе.',
   group: 'dvizhenie',

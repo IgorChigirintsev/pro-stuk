@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'skrezhet-pri-tormozhenii',
   h1: 'Скрежет при торможении',
-  metaTitle: 'Скрежет при торможении: стёртые колодки, что делать | Стук',
+  metaTitle: 'Скрежет при торможении: стёртые колодки, что делать | Pro-Stuk',
   description:
     'Скрежет при торможении чаще всего означает стёртые до металла колодки — с этим не ездят. Реже виноват камешек за кожухом диска. Как отличить и что делать.',
   group: 'tormoza-rul',

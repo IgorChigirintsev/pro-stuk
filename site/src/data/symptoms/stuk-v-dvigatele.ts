@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'stuk-v-dvigatele',
   h1: 'Стук в двигателе',
-  metaTitle: 'Стук в двигателе: причины, опасность, что делать | Стук',
+  metaTitle: 'Стук в двигателе: причины, опасность, что делать | Pro-Stuk',
   description:
     'Почему стучит двигатель: от безобидного тиканья клапанов до износа вкладышей. Как отличить опасный стук, можно ли ехать и что проверить самому.',
   group: 'dvigatel',

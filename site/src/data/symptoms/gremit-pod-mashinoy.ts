@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'gremit-pod-mashinoy',
   h1: 'Гремит под машиной',
-  metaTitle: 'Гремит под машиной: что дребезжит и опасно ли это | Стук',
+  metaTitle: 'Гремит под машиной: что дребезжит и опасно ли это | Pro-Stuk',
   description:
     'Гремит и дребезжит под машиной: крепления глушителя, теплозащитный экран, защита картера или катализатор. Как найти источник звука и когда это серьёзно.',
   group: 'dvizhenie',

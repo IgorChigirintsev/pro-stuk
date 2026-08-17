@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'hlopki-v-glushitele',
   h1: 'Хлопки в глушителе',
-  metaTitle: 'Хлопки в глушителе: причины и что делать | Стук',
+  metaTitle: 'Хлопки в глушителе: причины и что делать | Pro-Stuk',
   description:
     'Почему из глушителя слышны хлопки: пропуски зажигания, прогоревший выпуск, состав смеси или настройки ГБО. Чем хлопки грозят катализатору и когда в сервис.',
   group: 'dvigatel',

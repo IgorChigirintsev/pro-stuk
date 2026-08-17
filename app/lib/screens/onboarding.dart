@@ -91,9 +91,30 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
     }
   }
 
+  /// Годы для выпадающего списка. Поколение выбрано и годы в нём разобраны —
+  /// показываем только их, иначе весь диапазон.
+  List<int> _yearsForGeneration() {
+    const first = 1990;
+    final now = DateTime.now().year;
+    if (_generation.isNotEmpty) {
+      final make = (_makeFieldCtrl?.text ?? _initialMake).trim();
+      final model = (_modelFieldCtrl?.text ?? _modelCtrl.text).trim();
+      for (final g in CarsCatalog.generationsFor(make, model)) {
+        if (g.label != _generation) continue;
+        final from = g.yearFrom, to = g.yearTo;
+        if (from == null || to == null || to < from) break;
+        return [for (var y = to.clamp(first, now); y >= from.clamp(first, now); y--) y];
+      }
+    }
+    return [for (var y = now; y >= first; y--) y];
+  }
+
   @override
   Widget build(BuildContext context) {
-    final years = [for (var y = 2026; y >= 1990; y--) y];
+    // Годы выпуска ограничиваем выбранным поколением: предлагать 2005-й
+    // для машины, которую выпускали с 2015-го, значит собирать заведомо
+    // неверные данные — а по ним потом строится диагноз.
+    final years = _yearsForGeneration();
     return Scaffold(
       appBar: widget.firstRun ? null : AppBar(title: Text(S.carFormTitle)),
       body: SafeArea(
@@ -175,7 +196,14 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
                       for (final g in gens)
                         DropdownMenuItem(value: g.label, child: Text(g.label)),
                     ],
-                    onChanged: (v) => setState(() => _generation = v ?? ''),
+                    onChanged: (v) => setState(() {
+                      _generation = v ?? '';
+                      // Год мог остаться от прежнего поколения и выпасть из
+                      // нового диапазона — тогда список его не покажет,
+                      // а DropdownButton с чужим value падает.
+                      final ys = _yearsForGeneration();
+                      if (!ys.contains(_year)) _year = ys.first;
+                    }),
                   ),
                 ],
               );

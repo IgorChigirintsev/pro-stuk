@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'gul-pri-povorote',
   h1: 'Гул при повороте',
-  metaTitle: 'Гул при повороте: ступичный подшипник или ГУР | Стук',
+  metaTitle: 'Гул при повороте: ступичный подшипник или ГУР | Pro-Stuk',
   description:
     'Откуда гул при повороте: изношенный ступичный подшипник, воющий насос гидроусилителя или шум резины. Как определить сторону и понять, опасно ли это.',
   group: 'tormoza-rul',

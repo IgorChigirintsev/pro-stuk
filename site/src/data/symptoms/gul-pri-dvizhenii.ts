@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'gul-pri-dvizhenii',
   h1: 'Гул при движении',
-  metaTitle: 'Гул при движении: подшипник, шины или коробка | Стук',
+  metaTitle: 'Гул при движении: подшипник, шины или коробка | Pro-Stuk',
   description:
     'Ровный гул на скорости: ступичный подшипник, шины, коробка или редуктор. Простые проверки без сервиса — нейтраль-тест и плавные повороты — сужают причину.',
   group: 'dvizhenie',

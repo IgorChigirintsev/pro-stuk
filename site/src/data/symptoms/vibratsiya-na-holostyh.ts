@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'vibratsiya-na-holostyh',
   h1: 'Вибрация на холостых',
-  metaTitle: 'Вибрация на холостых: причины дрожи и что делать | Стук',
+  metaTitle: 'Вибрация на холостых: причины дрожи и что делать | Pro-Stuk',
   description:
     'Почему машина дрожит на холостых оборотах: опоры двигателя, пропуски зажигания, подсос воздуха или грязный дроссель. Что проверить и можно ли ездить.',
   group: 'dvigatel',

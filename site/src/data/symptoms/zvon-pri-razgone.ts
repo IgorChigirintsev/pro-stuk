@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'zvon-pri-razgone',
   h1: 'Звон при разгоне',
-  metaTitle: 'Звон при разгоне: детонация или нет, что делать | Стук',
+  metaTitle: 'Звон при разгоне: детонация или нет, что делать | Pro-Stuk',
   description:
     'Металлический звон при разгоне — чаще всего детонация из-за топлива. Как проверить это сменой заправки и когда виноват не двигатель, а экран или катализатор.',
   group: 'dvizhenie',

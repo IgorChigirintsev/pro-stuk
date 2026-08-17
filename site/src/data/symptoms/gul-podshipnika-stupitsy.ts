@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'gul-podshipnika-stupitsy',
   h1: 'Гул подшипника ступицы',
-  metaTitle: 'Гул ступичного подшипника: как распознать | Стук',
+  metaTitle: 'Гул ступичного подшипника: как распознать | Pro-Stuk',
   description:
     'Как звучит изношенный ступичный подшипник, как отличить его от шума резины, каким колесом он гудит и сколько с ним можно ездить.',
   group: 'dvizhenie',

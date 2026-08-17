@@ -80,4 +80,23 @@ class Generation {
   final String v;
   final String label;
   const Generation(this.v, this.label);
+
+  /// Годы выпуска зашиты в название: «V (N28) (2009–2013)» или «VI (2024–н.в.)».
+  /// Отдельного поля в справочнике нет, поэтому достаём разбором — формат
+  /// единый во всех 5121 поколении, проверено по файлу.
+  static final _years = RegExp(r'\((\d{4})\s*[–—-]\s*(\d{4}|н\.в\.)\)');
+
+  /// Первый год выпуска или null, если в названии диапазона нет.
+  int? get yearFrom {
+    final m = _years.firstMatch(label);
+    return m == null ? null : int.tryParse(m.group(1)!);
+  }
+
+  /// Последний год выпуска. «н.в.» — модель ещё выпускается, значит текущий год.
+  int? get yearTo {
+    final m = _years.firstMatch(label);
+    if (m == null) return null;
+    final end = m.group(2)!;
+    return end.startsWith('н') ? DateTime.now().year : int.tryParse(end);
+  }
 }

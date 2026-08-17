@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'stuk-na-nerovnostyah',
   h1: 'Стук на неровностях',
-  metaTitle: 'Стук на неровностях: причины, что проверить самому | Стук',
+  metaTitle: 'Стук на неровностях: причины, что проверить самому | Pro-Stuk',
   description:
     'Стук на неровностях и кочках: частый на мелкой ряби, одиночные удары на ямах или стук в руль. Какие узлы виноваты, что проверить самому и можно ли ехать.',
   group: 'podveska',

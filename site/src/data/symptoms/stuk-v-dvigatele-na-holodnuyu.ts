@@ -3,7 +3,7 @@ import type { SymptomPage } from '../types';
 export const page: SymptomPage = {
   slug: 'stuk-v-dvigatele-na-holodnuyu',
   h1: 'Стук в двигателе на холодную',
-  metaTitle: 'Стук в двигателе на холодную: причины и что делать | Стук',
+  metaTitle: 'Стук в двигателе на холодную: причины и что делать | Pro-Stuk',
   description:
     'Почему двигатель стучит на холодную и замолкает после прогрева: гидрокомпенсаторы, поршневая группа, цепь ГРМ. Когда это норма, а когда пора в сервис.',
   group: 'dvigatel',
