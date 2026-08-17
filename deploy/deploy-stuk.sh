@@ -92,6 +92,29 @@ docker compose -f docker-compose.prod.yml up -d caddy
 docker compose -f docker-compose.prod.yml exec -T caddy caddy validate --config /etc/caddy/Caddyfile
 REMOTE
 
+# Cloudflare держит HTML на edge (правило «HTML на edge», Edge TTL 2 часа).
+# Без сброса свежая выкладка доезжала бы до посетителей эти два часа.
+# Токен и зона берутся из backend/.env; нет их — просто предупреждаем, выкладка
+# от этого не ломается.
+echo "==> Сброс кэша Cloudflare"
+CF_TOKEN="$(grep -E '^CF_CACHE_PURGE_TOKEN=' "$ROOT/backend/.env" | cut -d= -f2- | tr -d '"' || true)"
+CF_ZONE="$(grep -E '^CF_ZONE_ID=' "$ROOT/backend/.env" | cut -d= -f2- | tr -d '"' || true)"
+if [ -n "${CF_TOKEN:-}" ] && [ -n "${CF_ZONE:-}" ]; then
+  CF_RESP="$(curl -s -X POST \
+    "https://api.cloudflare.com/client/v4/zones/$CF_ZONE/purge_cache" \
+    -H "Authorization: Bearer $CF_TOKEN" \
+    -H "Content-Type: application/json" \
+    --data '{"purge_everything":true}')"
+  case "$CF_RESP" in
+    *'"success":true'*) echo "кэш сброшен" ;;
+    *) echo "ВНИМАНИЕ: сбросить кэш не вышло: $CF_RESP" ;;
+  esac
+else
+  echo "пропущено: в backend/.env нет CF_CACHE_PURGE_TOKEN и CF_ZONE_ID"
+  echo "  до сброса вручную (Caching → Configuration → Purge Everything)"
+  echo "  правки будут видны посетителям с задержкой до двух часов"
+fi
+
 echo "==> Проверка"
 sleep 3
 curl -sI "https://$STUK_DOMAIN" | head -1
