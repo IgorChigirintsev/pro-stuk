@@ -346,6 +346,19 @@ for (const lang of LANGS) {
         }
       }
     }
+    // Своя картинка для соцсетей у каждой статьи: без неё в мессенджер уходит
+    // общая картинка языка, одинаковая на все 240 статей.
+    // Пересобрать: node --experimental-strip-types scripts/gen-og-i18n.mjs
+    const noOg = langFiles.filter(
+      (f) => !existsSync(new URL(`../public/og/${lang}/${f.replace(/\.md$/, '')}.png`, import.meta.url))
+    );
+    if (noOg.length) {
+      fail(
+        `${lang}: нет картинок для соцсетей у ${noOg.length} статей, первая — ` +
+          `public/og/${lang}/${noOg[0].replace(/\.md$/, '')}.png (scripts/gen-og-i18n.mjs)`
+      );
+    }
+
     counts.push(`${lang} ${langFiles.length}`);
   }
   if (counts.length) console.log(`Статьи на других языках: ${counts.join(', ')}.`);

@@ -15,6 +15,16 @@ ${STUK_DOMAIN} {
 	# APK и version.json не кэшировать надолго: они обновляются публикацией.
 	@app path /app/*
 	header @app Cache-Control "public, max-age=300"
+	# Картинки и схемы подставляются в разметку с ?v=<хэш содержимого>: меняется
+	# файл — меняется адрес. Значит их можно держать в кэше долго; четыре часа
+	# по умолчанию заставляли браузер перекачивать одно и то же.
+	@static path /og/* /shemy/* /uzly/* /simptomy/* *.svg *.woff2 *.ico
+	header @static Cache-Control "public, max-age=2592000"
+	# HTML перевыкладывается целиком при каждой сборке, поэтому браузер должен
+	# спрашивать сервер, а не решать за него: без заголовка он кэширует по
+	# собственной эвристике и может показать вчерашнюю страницу.
+	@html path *.html /
+	header @html Cache-Control "public, max-age=0, must-revalidate"
 
 	header {
 		Strict-Transport-Security "max-age=31536000; includeSubDomains"

@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 
 import Hub from '../../../components/pages/Hub.astro';
 import { hubAlts, hubLangsBySlug } from '../../../i18n/altMaps';
+import { v } from '../../../data/assetVersion';
 import { HUBS, hubForArticle } from '../../../data/hubs';
 import { hubSlug, hubText } from '../../../data/hubs_i18n';
 import { ARTICLE_LANGS, hubsBase } from '../../../i18n/articles';
@@ -44,4 +45,11 @@ const hub = HUBS.find((h) => h.slug === ruSlug)!;
 const alts = hubAlts(ruSlug, (await hubLangsBySlug()).get(ruSlug) ?? []);
 ---
 
-<Hub lang={lang!} ruSlug={ruSlug} articles={articles} alts={alts} otherHubs={otherHubs} />
+<Hub
+  lang={lang!}
+  ruSlug={ruSlug}
+  articles={articles}
+  alts={alts}
+  otherHubs={otherHubs}
+  ogImage={v(`/og/${lang}/parts/${hubText('en', hub).slug}.png`)}
+/>

@@ -9,6 +9,7 @@ import { getCollection, render } from 'astro:content';
 import Article from '../../../components/pages/Article.astro';
 import { ARTICLE_LANGS, articlesBase } from '../../../i18n/articles';
 import { articleAlts } from '../../../i18n/altMaps';
+import { v } from '../../../data/assetVersion';
 
 export async function getStaticPaths() {
   const tr = await getCollection('articlesI18n');
@@ -75,6 +76,7 @@ const data = {
   headings={headings}
   related={related}
   alts={alts}
+  ogImage={v(`/og/${lang}/${source.id}.png`)}
 >
   <Content />
 </Article>
