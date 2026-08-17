@@ -34,6 +34,7 @@ const Map<String, String> nl = {
   'verdictRefine': 'Verfijnen met geluid — volledig rapport',
   'verdictRefineNote': 'Voorlopig gratis, tot 3 rapporten per dag',
   'verdictEnough': 'Zo is het genoeg',
+  'verdictSite': 'Volledig artikel op de website',
   'urgOk': 'Je kunt doorrijden',
   'urgWarn': 'Deze week naar de garage',
   'urgStop': 'Stop',

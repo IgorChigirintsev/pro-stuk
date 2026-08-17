@@ -32,6 +32,7 @@ const Map<String, String> ko = {
   'verdictRefine': '소리로 더 좁히기 — 상세 리포트',
   'verdictRefineNote': '당분간 무료, 하루 최대 3건',
   'verdictEnough': '이 정도면 충분',
+  'verdictSite': '사이트에서 자세히 보기',
   'urgOk': '계속 주행 가능',
   'urgWarn': '이번 주에 정비소로',
   'urgStop': '즉시 정차',

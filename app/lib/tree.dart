@@ -25,6 +25,9 @@ class TreeNode {
   final String urgency;
   final String explanation;
   final String advice;
+  /// Русский слаг разбора на сайте: по нему строится ссылка на подробный
+  /// текст на языке приложения. Не переводится — это ключ, а не текст.
+  final String siteSlug;
 
   const TreeNode.question(this.id, this.text, this.options)
       : isLeaf = false,
@@ -32,7 +35,8 @@ class TreeNode {
         altCauses = const [],
         urgency = '',
         explanation = '',
-        advice = '';
+        advice = '',
+        siteSlug = '';
 
   const TreeNode.leaf(
     this.id, {
@@ -41,6 +45,7 @@ class TreeNode {
     required this.urgency,
     required this.explanation,
     required this.advice,
+    this.siteSlug = '',
   })  : isLeaf = true,
         text = '',
         options = const [];
@@ -87,6 +92,7 @@ class DecisionTree {
           urgency: n['urgency'] as String,
           explanation: n['explanation'] as String,
           advice: n['advice'] as String,
+          siteSlug: (n['site_slug'] as String?) ?? '',
         );
       } else {
         nodes[id] = TreeNode.question(

@@ -31,6 +31,7 @@ const Map<String, String> ru = {
   'verdictRefine': 'Уточнить по звуку — точный отчёт',
   'verdictRefineNote': 'Пока бесплатно, до 3 отчётов в день',
   'verdictEnough': 'Достаточно',
+  'verdictSite': 'Подробный разбор на сайте',
   'urgOk': 'Можно ехать',
   'urgWarn': 'В сервис на неделе',
   'urgStop': 'Остановиться',

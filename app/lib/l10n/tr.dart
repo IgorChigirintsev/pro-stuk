@@ -34,6 +34,7 @@ const Map<String, String> tr = {
   'verdictRefine': 'Sesle netleştir — tam rapor',
   'verdictRefineNote': 'Şimdilik ücretsiz, günde 3 rapora kadar',
   'verdictEnough': 'Bu kadarı yeter',
+  'verdictSite': 'Sitedeki ayrıntılı rehber',
   'urgOk': 'Yola devam edilebilir',
   'urgWarn': 'Bu hafta servise',
   'urgStop': 'Durun',

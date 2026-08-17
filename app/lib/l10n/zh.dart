@@ -32,6 +32,7 @@ const Map<String, String> zh = {
   'verdictRefine': '用声音进一步确认——完整报告',
   'verdictRefineNote': '目前免费，每天最多 3 份报告',
   'verdictEnough': '够了',
+  'verdictSite': '在网站上查看详细解析',
   'urgOk': '可以继续开',
   'urgWarn': '本周去修理厂',
   'urgStop': '立即停车',

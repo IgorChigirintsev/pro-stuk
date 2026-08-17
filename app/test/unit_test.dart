@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:stuk/api.dart';
 import 'package:stuk/main.dart' show reloadTree, tree, watchLocaleForTree;
+import 'package:stuk/site_links.dart';
 import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';
 
@@ -224,4 +225,38 @@ void main() {
       expect(left, isEmpty, reason: 'остались русскими: ${left.take(5)}');
     });
   }
+
+  // Ссылка из вердикта ведёт на разбор симптома на языке приложения.
+  // Карта слагов продублирована в Dart, поэтому её надо сверять с сайтом:
+  // разойдутся молча — из приложения будут вести ссылки в 404.
+  test('адреса разборов совпадают с сайтом и покрывают все листья', () async {
+    final ts = await File('../site/src/data/types.ts').readAsString();
+    final block = RegExp(r'SYMPTOM_SLUGS: Record<string, string> = \{(.*?)\};',
+            dotAll: true)
+        .firstMatch(ts)!
+        .group(1)!;
+    final site = {
+      for (final m in RegExp(r"'([^']+)':\s*'([^']+)'").allMatches(block))
+        m.group(1)!: m.group(2)!
+    };
+    expect(site.length, 18, reason: 'разборов на сайте стало другое число');
+
+    // Каждый лист дерева ссылается на существующий разбор.
+    LocaleService.current.value = 'ru';
+    final t = await DecisionTree.load();
+    final leaves = t.nodes.values.where((n) => n.isLeaf).toList();
+    final missing = leaves
+        .where((n) => n.siteSlug.isEmpty || !site.containsKey(n.siteSlug))
+        .map((n) => '${n.id}:${n.siteSlug}')
+        .toList();
+    expect(missing, isEmpty, reason: 'листья без разбора на сайте: $missing');
+
+    // Адрес строится по языку и совпадает с тем, что отдаёт сайт.
+    const slug = 'svist-remnya';
+    LocaleService.current.value = 'ru';
+    expect(SiteLinks.symptom(slug), endsWith('/simptomy/$slug/'));
+    LocaleService.current.value = 'zh';
+    expect(SiteLinks.symptom(slug), endsWith('/zh/symptoms/belt-squeal/'));
+    LocaleService.current.value = 'ru';
+  });
 }

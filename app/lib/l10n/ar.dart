@@ -32,6 +32,7 @@ const Map<String, String> ar = {
   'verdictRefine': 'تدقيق بالصوت — تقرير كامل',
   'verdictRefineNote': 'مجاني حاليًا، حتى ٣ تقارير يوميًا',
   'verdictEnough': 'هذا يكفي',
+  'verdictSite': 'الشرح الكامل على الموقع',
   'urgOk': 'يمكنك المتابعة',
   'urgWarn': 'إلى الورشة هذا الأسبوع',
   'urgStop': 'توقّف',

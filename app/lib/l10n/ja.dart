@@ -32,6 +32,7 @@ const Map<String, String> ja = {
   'verdictRefine': '音で絞り込む — 詳細レポート',
   'verdictRefineNote': '当面は無料、1日3件まで',
   'verdictEnough': 'ここまでで十分',
+  'verdictSite': 'サイトの詳しい解説',
   'urgOk': 'そのまま走れます',
   'urgWarn': '今週中に整備工場へ',
   'urgStop': '停車してください',

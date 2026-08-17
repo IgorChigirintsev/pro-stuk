@@ -34,6 +34,7 @@ const Map<String, String> pt = {
   'verdictRefine': 'Precisar pelo som — relatório completo',
   'verdictRefineNote': 'Grátis por agora, até 3 relatórios por dia',
   'verdictEnough': 'É suficiente',
+  'verdictSite': 'Guia completo no site',
   'urgOk': 'Pode circular',
   'urgWarn': 'À oficina esta semana',
   'urgStop': 'Pare',

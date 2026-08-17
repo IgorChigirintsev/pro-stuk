@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import '../site_links.dart';
 import '../api.dart';
 import '../l10n/device_locale.dart';
 import '../l10n/locale_service.dart';
@@ -120,12 +121,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
             ),
             const SizedBox(height: 24),
             OutlinedButton(
-              onPressed: () => _open(siteUrl),
+              onPressed: () => _open(SiteLinks.home),
               child: Text(S.setSite),
             ),
             const SizedBox(height: 12),
             OutlinedButton(
-              onPressed: () => _open('$siteUrl/politika/'),
+              onPressed: () => _open(SiteLinks.privacy),
               child: Text(S.setPolicy),
             ),
             const SizedBox(height: 24),

@@ -34,6 +34,7 @@ const Map<String, String> en = {
   'verdictRefine': 'Refine by sound — full report',
   'verdictRefineNote': 'Free for now, up to 3 reports a day',
   'verdictEnough': 'That’s enough',
+  'verdictSite': 'Full guide on the website',
   'urgOk': 'Safe to drive',
   'urgWarn': 'Shop this week',
   'urgStop': 'Pull over',

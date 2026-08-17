@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
+
 import '../schema_pick.dart';
+import '../site_links.dart';
 import '../widgets/schema_view.dart';
 
 import '../models.dart';
@@ -59,6 +62,20 @@ class VerdictScreen extends StatelessWidget {
                       );
                     },
                   ),
+                  // Подробный разбор на сайте — на языке приложения.
+                  // Ссылки нет, если разбора на этом языке не существует.
+                  if (SiteLinks.symptom(leaf.siteSlug) != null)
+                    Align(
+                      alignment: AlignmentDirectional.centerStart,
+                      child: TextButton.icon(
+                        onPressed: () => launchUrl(
+                          Uri.parse(SiteLinks.symptom(leaf.siteSlug)!),
+                          mode: LaunchMode.externalApplication,
+                        ),
+                        icon: const Icon(Icons.open_in_new, size: 18),
+                        label: Text(S.verdictSite),
+                      ),
+                    ),
                 ],
               ),
             ),

@@ -34,6 +34,7 @@ class S {
   static String get verdictRefine => L.t('verdictRefine');
   static String get verdictRefineNote => L.t('verdictRefineNote');
   static String get verdictEnough => L.t('verdictEnough');
+  static String get verdictSite => L.t('verdictSite');
   static String get urgOk => L.t('urgOk');
   static String get urgWarn => L.t('urgWarn');
   static String get urgStop => L.t('urgStop');

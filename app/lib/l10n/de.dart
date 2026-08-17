@@ -34,6 +34,7 @@ const Map<String, String> de = {
   'verdictRefine': 'Per Geräusch präzisieren — voller Bericht',
   'verdictRefineNote': 'Vorerst kostenlos, bis zu 3 Berichte pro Tag',
   'verdictEnough': 'Das genügt',
+  'verdictSite': 'Ausführlicher Beitrag auf der Website',
   'urgOk': 'Weiterfahren möglich',
   'urgWarn': 'Diese Woche in die Werkstatt',
   'urgStop': 'Anhalten',
