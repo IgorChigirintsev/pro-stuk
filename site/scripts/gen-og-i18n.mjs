@@ -116,8 +116,8 @@ function html({ title, kicker, scheme, lang }) {
     font-family: ${family}, ${LATIN}, sans-serif; font-feature-settings: normal;
     display: flex; flex-direction: column;
   }
-  .brand { display: flex; align-items: center; gap: 16px; }
-  .mark { width: 44px; height: 44px; border-radius: 12px; display: block; }
+  .brand { display: flex; align-items: center; gap: 22px; }
+  .mark { width: 84px; height: 84px; border-radius: 22px; display: block; }
   .name { font-family: ${LATIN}, sans-serif; font-size: 34px; font-weight: 800; letter-spacing: -0.01em; }
   main { flex: 1 1 auto; display: flex; align-items: center; gap: 56px; padding-bottom: 60px; }
   .col { flex: 1 1 0; min-width: 0; }

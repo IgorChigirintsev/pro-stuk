@@ -87,8 +87,8 @@ function html(lang, d) {
   }
   .col { flex: 1 1 0; min-width: 0; }
   .brand { display: flex; align-items: center; gap: 16px; margin-bottom: 40px; }
-  .mark { width: 44px; height: 44px; border-radius: 12px; display: block; }
-  .name { font-size: 34px; font-weight: 800; letter-spacing: -0.01em; }
+  .mark { width: 84px; height: 84px; border-radius: 22px; display: block; }
+  .name { font-size: 44px; font-weight: 800; letter-spacing: -0.01em; }
   h1 {
     font-size: ${size}px; line-height: 1.15; font-weight: 800; letter-spacing: -0.02em;
     text-wrap: balance;
