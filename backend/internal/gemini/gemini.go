@@ -131,10 +131,10 @@ var responseSchema = map[string]any{
 	"required": []string{"audio_is_car", "audio_note", "causes", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
 }
 
-func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Features, audioWav []byte) (report.Report, error) {
+func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Features, audioWav []byte) (report.Report, report.Usage, error) {
 	userText, err := buildUserText(meta, features)
 	if err != nil {
-		return report.Report{}, fmt.Errorf("сборка запроса: %w", err)
+		return report.Report{}, report.Usage{}, fmt.Errorf("сборка запроса: %w", err)
 	}
 
 	body := map[string]any{
@@ -159,24 +159,24 @@ func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Fea
 	}
 	raw, err := json.Marshal(body)
 	if err != nil {
-		return report.Report{}, err
+		return report.Report{}, report.Usage{}, err
 	}
 
 	req, err := http.NewRequestWithContext(ctx, http.MethodPost, fmt.Sprintf(endpoint, c.model), bytes.NewReader(raw))
 	if err != nil {
-		return report.Report{}, err
+		return report.Report{}, report.Usage{}, err
 	}
 	req.Header.Set("Content-Type", "application/json")
 	req.Header.Set("x-goog-api-key", c.apiKey)
 
 	resp, err := c.httpc.Do(req)
 	if err != nil {
-		return report.Report{}, fmt.Errorf("запрос к Gemini: %w", err)
+		return report.Report{}, report.Usage{}, fmt.Errorf("запрос к Gemini: %w", err)
 	}
 	defer resp.Body.Close()
 	respBody, _ := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
 	if resp.StatusCode != http.StatusOK {
-		return report.Report{}, fmt.Errorf("Gemini ответил %d: %s", resp.StatusCode, truncate(string(respBody), 400))
+		return report.Report{}, report.Usage{}, fmt.Errorf("Gemini ответил %d: %s", resp.StatusCode, truncate(string(respBody), 400))
 	}
 
 	var parsed struct {
@@ -188,12 +188,34 @@ func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Fea
 			} `json:"content"`
 			FinishReason string `json:"finishReason"`
 		} `json:"candidates"`
+		UsageMetadata struct {
+			PromptTokenCount     int `json:"promptTokenCount"`
+			CandidatesTokenCount int `json:"candidatesTokenCount"`
+			TotalTokenCount      int `json:"totalTokenCount"`
+			// Разбивка по типам: звук тарифицируется отдельно от текста.
+			PromptTokensDetails []struct {
+				Modality   string `json:"modality"`
+				TokenCount int    `json:"tokenCount"`
+			} `json:"promptTokensDetails"`
+		} `json:"usageMetadata"`
 	}
 	if err := json.Unmarshal(respBody, &parsed); err != nil {
-		return report.Report{}, fmt.Errorf("ответ Gemini не разобрался: %w", err)
+		return report.Report{}, report.Usage{}, fmt.Errorf("ответ Gemini не разобрался: %w", err)
 	}
 	if len(parsed.Candidates) == 0 || len(parsed.Candidates[0].Content.Parts) == 0 {
-		return report.Report{}, fmt.Errorf("в ответе Gemini нет кандидатов: %s", truncate(string(respBody), 400))
+		return report.Report{}, report.Usage{}, fmt.Errorf("в ответе Gemini нет кандидатов: %s", truncate(string(respBody), 400))
+	}
+
+	usage := report.Usage{
+		PromptTokens: parsed.UsageMetadata.PromptTokenCount,
+		OutputTokens: parsed.UsageMetadata.CandidatesTokenCount,
+		Total:        parsed.UsageMetadata.TotalTokenCount,
+	}
+	for _, d := range parsed.UsageMetadata.PromptTokensDetails {
+		if d.Modality == "AUDIO" {
+			usage.AudioTokens = d.TokenCount
+			usage.PromptTokens -= d.TokenCount // в promptTokenCount звук уже учтён
+		}
 	}
 
 	var full struct {
@@ -203,21 +225,21 @@ func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Fea
 	}
 	text := parsed.Candidates[0].Content.Parts[0].Text
 	if err := json.Unmarshal([]byte(text), &full); err != nil {
-		return report.Report{}, fmt.Errorf("отчёт не соответствует схеме: %w", err)
+		return report.Report{}, report.Usage{}, fmt.Errorf("отчёт не соответствует схеме: %w", err)
 	}
 	rep := full.Report
 	// Запись не про автомобиль и анкеты нет — честный отказ вместо
 	// выдуманного диагноза; хендлер вернёт 422 и попытку лимита.
 	if full.AudioIsCar != nil && !*full.AudioIsCar && len(meta.Answers) == 0 {
-		return report.Report{}, &ErrAudioNotCar{Note: full.AudioNote}
+		return report.Report{}, report.Usage{}, &ErrAudioNotCar{Note: full.AudioNote}
 	}
 	if err := validate(rep); err != nil {
-		return report.Report{}, err
+		return report.Report{}, report.Usage{}, err
 	}
 	if rep.Disclaimer == "" {
 		rep.Disclaimer = report.Disclaimer
 	}
-	return rep, nil
+	return rep, usage, nil
 }
 
 func validate(r report.Report) error {

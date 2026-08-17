@@ -23,6 +23,13 @@ type dayCounts struct {
 	// Скачивания приложения: сколько и с каких страниц нажали кнопку.
 	Downloads     int            `json:"downloads,omitempty"`
 	DownloadPages map[string]int `json:"download_pages,omitempty"`
+	// Анализы звука и их себестоимость: тариф Gemini зависит от модели,
+	// а модель задана как «latest» и меняется без нашего участия. Считаем
+	// токены по типам — звук тарифицируется отдельно и дороже текста.
+	Analyses     int `json:"analyses,omitempty"`
+	PromptTokens int `json:"prompt_tokens,omitempty"`
+	AudioTokens  int `json:"audio_tokens,omitempty"`
+	OutputTokens int `json:"output_tokens,omitempty"`
 }
 
 type Store struct {
@@ -92,6 +99,18 @@ func (s *Store) HitDownload(page string) {
 }
 
 // HitBot фиксирует отфильтрованный заход бота (без страницы — только счёт).
+// Analysis учитывает один разбор звука и его расход токенов.
+func (s *Store) Analysis(promptTokens, audioTokens, outputTokens int) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	d := s.day()
+	d.Analyses++
+	d.PromptTokens += promptTokens
+	d.AudioTokens += audioTokens
+	d.OutputTokens += outputTokens
+	s.dirty = true
+}
+
 func (s *Store) HitBot() {
 	s.mu.Lock()
 	defer s.mu.Unlock()
@@ -116,6 +135,9 @@ type PeriodStats struct {
 	Bots          int            `json:"bots"`
 	Downloads     int            `json:"downloads"`
 	DownloadPages map[string]int `json:"download_pages"`
+	// Разборы звука и их себестоимость в долларах по тарифам Gemini Flash.
+	Analyses int     `json:"analyses"`
+	CostUSD  float64 `json:"cost_usd"`
 }
 
 type Summary struct {
@@ -125,6 +147,20 @@ type Summary struct {
 	Days28    PeriodStats `json:"days28"` // последние 28 дней, включая сегодня
 }
 
+// Тарифы Gemini Flash за миллион токенов. Звук дороже текста, поэтому
+// считаем раздельно. Меняется тариф — меняются эти три числа.
+const (
+	priceTextInPerM  = 0.30
+	priceAudioInPerM = 1.00
+	priceOutPerM     = 2.50
+)
+
+func costUSD(promptTok, audioTok, outTok int) float64 {
+	return (float64(promptTok)*priceTextInPerM +
+		float64(audioTok)*priceAudioInPerM +
+		float64(outTok)*priceOutPerM) / 1e6
+}
+
 func (s *Store) rangeStats(from, to time.Time) PeriodStats {
 	out := PeriodStats{Pages: map[string]int{}, DownloadPages: map[string]int{}}
 	for d := from; !d.After(to); d = d.AddDate(0, 0, 1) {
@@ -132,6 +168,8 @@ func (s *Store) rangeStats(from, to time.Time) PeriodStats {
 			out.Total += dc.Total
 			out.Bots += dc.Bots
 			out.Downloads += dc.Downloads
+			out.Analyses += dc.Analyses
+			out.CostUSD += costUSD(dc.PromptTokens, dc.AudioTokens, dc.OutputTokens)
 			for p, n := range dc.Pages {
 				out.Pages[p] += n
 			}

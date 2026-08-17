@@ -149,7 +149,7 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 
 	features := dsp.Analyze(samples)
 
-	rep, err := s.analyzer.Analyze(ctx, meta, features, audio)
+	rep, usage, err := s.analyzer.Analyze(ctx, meta, features, audio)
 	if err != nil {
 		s.store.Refund(meta.DeviceID)
 		var notCar *gemini.ErrAudioNotCar
@@ -167,6 +167,8 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	// Расход токенов: по нему считается себестоимость одного разбора.
+	s.stats.Analysis(usage.PromptTokens, usage.AudioTokens, usage.OutputTokens)
 
 	// Схема узла для подсветки в клиенте: берём по названиям причин отчёта.
 	causes := make([]string, 0, len(rep.Causes))

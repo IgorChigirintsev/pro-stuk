@@ -62,16 +62,27 @@ type Meta struct {
 const Disclaimer = "Это вероятностная оценка по звуку и симптомам, а не диагноз. " +
 	"Итоговое решение о ремонте принимает механик после осмотра автомобиля."
 
-// Analyzer строит отчёт по анкете, DSP-фичам и аудио.
+// Usage — расход токенов на один запрос. Нужен, чтобы себестоимость анализа
+// была измеренной, а не оценённой: тариф зависит от модели, а модель задана
+// как «latest» и меняется без нашего участия.
+type Usage struct {
+	PromptTokens int // текст промпта и метаданные
+	AudioTokens  int // звук: тарифицируется отдельно и дороже текста
+	OutputTokens int
+	Total        int
+}
+
+// Analyzer строит отчёт по анкете, DSP-фичам и аудио и сообщает,
+// во сколько токенов обошёлся запрос.
 type Analyzer interface {
-	Analyze(ctx context.Context, meta Meta, features dsp.Features, audioWav []byte) (Report, error)
+	Analyze(ctx context.Context, meta Meta, features dsp.Features, audioWav []byte) (Report, Usage, error)
 }
 
 // Mock — анализатор фазы 1: возвращает правдоподобный отчёт по схеме,
 // не обращаясь к LLM. Нужен для разработки приложения и интеграционных тестов.
 type Mock struct{}
 
-func (Mock) Analyze(_ context.Context, meta Meta, f dsp.Features, _ []byte) (Report, error) {
+func (Mock) Analyze(_ context.Context, meta Meta, f dsp.Features, _ []byte) (Report, Usage, error) {
 	carLine := "автомобиль не указан"
 	if meta.Car.Make != "" {
 		carLine = fmt.Sprintf("%s %s %d, пробег %d км", meta.Car.Make, meta.Car.Model, meta.Car.Year, meta.Car.MileageKm)
@@ -119,5 +130,5 @@ func (Mock) Analyze(_ context.Context, meta Meta, f dsp.Features, _ []byte) (Rep
 			"Звук резко усилился или машина потеряла управляемость — остановиться.",
 		},
 		Disclaimer: Disclaimer,
-	}, nil
+	}, Usage{}, nil
 }
