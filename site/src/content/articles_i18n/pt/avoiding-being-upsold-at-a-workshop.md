@@ -1,6 +1,6 @@
 ---
 title: "Como não aceitar serviços desnecessários no diagnóstico da oficina"
-metaTitle: "Como não ser empurrado a serviços na oficina | Stuk"
+metaTitle: "Como não ser empurrado a serviços na oficina | Pro-Stuk"
 description: "O que um diagnóstico honesto inclui, quais frases merecem uma pergunta de volta e como conferir os serviços orçados sem entender de mecânica."
 faq:
   - q: "Diagnóstico gratuito é normal?"
@@ -92,7 +92,7 @@ quais são conforto — um mecânico decente separa isso sem hesitar, porque
 é assim que ele mesmo pensa sobre o carro.
 
 Por fim, ajuda chegar com o som em si, e não com uma descrição dele.
-Grave-o no aplicativo Stuk na situação em que ele fica mais claro. O
+Grave-o no aplicativo Pro-Stuk na situação em que ele fica mais claro. O
 aplicativo compara a gravação com as suas respostas e mostra as causas
 prováveis com porcentagens, de modo que a conversa começa a partir de
 uma hipótese concreta, e não de uma folha em branco.

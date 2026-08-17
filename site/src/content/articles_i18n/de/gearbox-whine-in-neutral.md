@@ -1,6 +1,6 @@
 ---
 title: "Getriebeheulen im Leerlauf"
-metaTitle: "Getriebeheulen im Leerlauf: Ursachen und Test | Stuk"
+metaTitle: "Getriebeheulen im Leerlauf: Ursachen und Test | Pro-Stuk"
 description: "Ein Heulen im Leerlauf bei losgelassener Kupplung zeigt meist auf das Eingangswellenlager oder den Ölstand. Trennung vom Ausrücklager mit einem Pedaltest."
 faq:
   - q: "Das Heulen im Leerlauf verschwindet, wenn ich die Kupplung trete. Was heißt das?"

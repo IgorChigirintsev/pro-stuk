@@ -5,7 +5,7 @@ export const it: Record<string, HubText> = {
   dvigatel: {
     h1: 'Rumori e battiti del motore',
     short: 'Motore',
-    metaTitle: 'Rumori e battiti del motore: la guida | Stuk',
+    metaTitle: 'Rumori e battiti del motore: la guida | Pro-Stuk',
     description:
       'Tutti i rumori del motore in un solo posto: battiti, ticchettio, sferragliamento, tintinnio, fischi. Come separare l’innocuo dal pericoloso e cosa controllare da soli.',
     intro: [
@@ -16,7 +16,7 @@ export const it: Record<string, HubText> = {
   podveska: {
     h1: 'Colpi e cigolii delle sospensioni',
     short: 'Sospensioni e sterzo',
-    metaTitle: 'Colpi e cigolii delle sospensioni: la guida | Stuk',
+    metaTitle: 'Colpi e cigolii delle sospensioni: la guida | Pro-Stuk',
     description:
       'Colpi sulle asperità, cigolii, gioco nello sterzo: come individuare l’origine nelle sospensioni e nello sterzo e cosa potete controllare da soli.',
     intro: [
@@ -27,7 +27,7 @@ export const it: Record<string, HubText> = {
   tormoza: {
     h1: 'Fischi e raschio dei freni',
     short: 'Freni e ruote',
-    metaTitle: 'Fischi e raschio dei freni: la guida | Stuk',
+    metaTitle: 'Fischi e raschio dei freni: la guida | Pro-Stuk',
     description:
       'Fischio, stridio, raschio e vibrazione in frenata: cosa significa ogni suono, quando non si deve proseguire e come controllare pastiglie e pinza da soli.',
     intro: [
@@ -38,7 +38,7 @@ export const it: Record<string, HubText> = {
   transmissiya: {
     h1: 'Rumori del cambio e della trasmissione',
     short: 'Trasmissione',
-    metaTitle: 'Rumori del cambio e della trasmissione: la guida | Stuk',
+    metaTitle: 'Rumori del cambio e della trasmissione: la guida | Pro-Stuk',
     description:
       'Ululato del cambio, scatti dei semiassi, colpi al cambio marcia e ronzio della frizione: come individuare l’origine sotto il pianale.',
     intro: [
@@ -49,7 +49,7 @@ export const it: Record<string, HubText> = {
   vyhlop: {
     h1: 'Rumori dello scarico',
     short: 'Scarico',
-    metaTitle: 'Rumori dello scarico: la guida completa | Stuk',
+    metaTitle: 'Rumori dello scarico: la guida completa | Pro-Stuk',
     description:
       'Rombo, scoppi nel silenziatore, sferragliamento sotto il pianale e lamiera termica che tintinna: cosa indicano i rumori dello scarico e perché contano.',
     intro: [
@@ -60,7 +60,7 @@ export const it: Record<string, HubText> = {
   salon: {
     h1: 'Cigolii e rumori dell’abitacolo',
     short: 'Abitacolo e carrozzeria',
-    metaTitle: 'Cigolii dell’abitacolo: trovare l’origine | Stuk',
+    metaTitle: 'Cigolii dell’abitacolo: trovare l’origine | Pro-Stuk',
     description:
       'Grilli in abitacolo, plancia che cigola, portiere che battono: come trovare l’origine da soli e distinguerla da un difetto del sottoscocca.',
     intro: [

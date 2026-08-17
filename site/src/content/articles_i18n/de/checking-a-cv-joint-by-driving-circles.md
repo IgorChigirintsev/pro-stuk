@@ -1,6 +1,6 @@
 ---
 title: "Gleichlaufgelenk mit Kreisen auf dem Parkplatz prüfen"
-metaTitle: "Gleichlaufgelenk mit Kreisen prüfen | Stuk"
+metaTitle: "Gleichlaufgelenk mit Kreisen prüfen | Pro-Stuk"
 description: "Schritt-für-Schritt-Test des äußeren Gleichlaufgelenks auf einem leeren Parkplatz: wie Sie die Kreise fahren, was knacken muss und wann der Test täuscht."
 faq:
   - q: "Warum knackt ein Gleichlaufgelenk nur im engen Bogen?"

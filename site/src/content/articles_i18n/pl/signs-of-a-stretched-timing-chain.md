@@ -1,6 +1,6 @@
 ---
 title: "Objawy rozciągniętego łańcucha rozrządu"
-metaTitle: "Rozciągnięty łańcuch rozrządu: objawy | Stuk"
+metaTitle: "Rozciągnięty łańcuch rozrządu: objawy | Pro-Stuk"
 description: "Jak brzmi rozciągnięty łańcuch rozrządu, jakie daje kody błędów, jak mierzy się wydłużenie bez rozbierania silnika i jak planuje się wymianę."
 faq:
   - q: "Jaki jest pierwszy objaw rozciągniętego łańcucha rozrządu?"
@@ -151,5 +151,5 @@ Po robocie warto poprosić o pokazanie starego łańcucha obok nowego — przy
 zużytym komplecie różnicę długości widać gołym okiem.
 
 Jeśli nie ma pewności, czy to łańcuch, czy coś innego, proszę zacząć od
-nagrania: aplikacja Stuk analizuje pracę silnika razem z odpowiedziami i
+nagrania: aplikacja Pro-Stuk analizuje pracę silnika razem z odpowiedziami i
 pokazuje prawdopodobne przyczyny z procentami.

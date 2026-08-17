@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const pt: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Sintomas',
     how: 'Como funciona',
@@ -11,7 +11,7 @@ export const pt: Dict = {
   },
   footer: {
     disclaimer:
-      'O Stuk dá uma estimativa de probabilidades a partir das suas respostas e do ruído, ' +
+      'O Pro-Stuk dá uma estimativa de probabilidades a partir das suas respostas e do ruído, ' +
       'não um diagnóstico. A decisão final sobre o reparo é do mecânico, depois de ver o carro.',
     how: 'Como funciona',
     privacy: 'Política de privacidade',
@@ -19,7 +19,7 @@ export const pt: Dict = {
     ruOnly: 'Guias por sintoma e artigos (em russo)',
   },
   home: {
-    title: 'Stuk — diagnóstico do carro pelo som',
+    title: 'Pro-Stuk — diagnóstico do carro pelo som',
     description:
       'Grave o ruído e descubra o que o carro tem. Um questionário curto, análise da ' +
       'gravação e um relatório: causas prováveis com percentuais, semáforo de urgência ' +
@@ -52,7 +52,7 @@ export const pt: Dict = {
     faq: [
       {
         q: 'Isso é um diagnóstico exato?',
-        a: 'Não. O Stuk dá uma estimativa de probabilidades: uma lista de causas possíveis com percentuais e o nível de urgência. O diagnóstico exato quem faz é o mecânico depois de examinar o carro — o relatório serve para você chegar preparado.',
+        a: 'Não. O Pro-Stuk dá uma estimativa de probabilidades: uma lista de causas possíveis com percentuais e o nível de urgência. O diagnóstico exato quem faz é o mecânico depois de examinar o carro — o relatório serve para você chegar preparado.',
       },
       {
         q: 'Quanto custa?',
@@ -85,7 +85,7 @@ export const pt: Dict = {
     schemaWhole: 'O conjunto inteiro.',
   },
   symptoms: {
-    indexTitle: 'Ruídos e sintomas do carro explicados | Stuk',
+    indexTitle: 'Ruídos e sintomas do carro explicados | Pro-Stuk',
     indexDescription: 'Batida, zumbido, apito, rangido: o que significa cada ruído do carro, o quanto é perigoso e o que você pode conferir sozinho. Guias por sintoma com árvore de diagnóstico.',
     h1: 'Sintomas pelo som',
     sub: 'Escolha o ruído mais parecido com o seu. Em cada guia: causas prováveis, semáforo de perigo, conferências seguras por conta própria e uma árvore de diagnóstico interativa.',
@@ -117,7 +117,7 @@ export const pt: Dict = {
   },
   download: {
     h2: 'O aplicativo para Android',
-    sub: 'O questionário, a gravação do ruído e o relatório completo com probabilidades estão no aplicativo Stuk.',
+    sub: 'O questionário, a gravação do ruído e o relatório completo com probabilidades estão no aplicativo Pro-Stuk.',
     btn: 'Baixar para Android',
     meta: 'Versão {version} · APK {size} MB · atualizado em {date}',
     installH: 'Como instalar o APK',
@@ -130,7 +130,7 @@ export const pt: Dict = {
     playNote: 'Quando o aplicativo chegar à Google Play, esta página será atualizada.',
   },
   how: {
-    title: 'Como funciona o diagnóstico pelo som | Stuk',
+    title: 'Como funciona o diagnóstico pelo som | Pro-Stuk',
     description:
       'Sem enfeites: o questionário como ferramenta principal, a análise espectral da ' +
       'gravação, um modelo de linguagem e os defeitos típicos de cada modelo. Por que o ' +
@@ -142,7 +142,7 @@ export const pt: Dict = {
       'Todo diagnóstico começa com perguntas: quando o ruído apareceu, com o que se parece, ' +
       'se depende da velocidade, da rotação, da frenagem, das curvas. As respostas eliminam ' +
       'grupos inteiros de causas — isso vale mais do que qualquer algoritmo aplicado a uma ' +
-      'gravação ruim. Por isso o questionário vem primeiro no Stuk, e sua lógica é uma árvore ' +
+      'gravação ruim. Por isso o questionário vem primeiro no Pro-Stuk, e sua lógica é uma árvore ' +
       'de decisão: cada resposta leva à pergunta seguinte, mais precisa.',
     recH2: 'O que acontece com a gravação',
     recP: [
@@ -162,7 +162,7 @@ export const pt: Dict = {
       'Falhas diferentes soam igual: o zumbido de um rolamento de roda se confunde facilmente ' +
         'com o barulho dos pneus, e a batida das bieletas da barra estabilizadora, com peças ' +
         'bem mais sérias da suspensão. Separar uma coisa da outra com certeza só no elevador. ' +
-        'Por isso o Stuk não dá diagnóstico nem promete exatidão — ele distribui as ' +
+        'Por isso o Pro-Stuk não dá diagnóstico nem promete exatidão — ele distribui as ' +
         'probabilidades com honestidade e diz o que verificar primeiro.',
       'Uma boa gravação melhora a estimativa, mas não substitui o mecânico. Encare o relatório ' +
         'como uma segunda opinião antes da oficina: a conversa fica objetiva e fica mais ' +
@@ -176,13 +176,13 @@ export const pt: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Política de privacidade | Stuk',
+    title: 'Política de privacidade | Pro-Stuk',
     description:
-      'O que acontece com os seus dados no aplicativo Stuk: o áudio é processado no servidor ' +
+      'O que acontece com os seus dados no aplicativo Pro-Stuk: o áudio é processado no servidor ' +
       'e não fica guardado após a análise, não há contas nem ferramentas de análise.',
     h1: 'Política de privacidade',
     intro:
-      'O aplicativo Stuk coleta o mínimo de dados — exatamente o que o diagnóstico exige.',
+      'O aplicativo Pro-Stuk coleta o mínimo de dados — exatamente o que o diagnóstico exige.',
     items: [
       {
         strong: 'A gravação',
@@ -214,7 +214,7 @@ export const pt: Dict = {
     tagline: 'Descubra o defeito pelo som',
   },
   notFound: {
-    title: 'Página não encontrada — Stuk',
+    title: 'Página não encontrada — Pro-Stuk',
     description:
       'Esta página não existe no site. Volte ao início ou abra os guias de sintomas por som.',
     h1: 'Página não encontrada',

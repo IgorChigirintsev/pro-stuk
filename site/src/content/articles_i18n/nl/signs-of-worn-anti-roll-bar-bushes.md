@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten stabilisatorrubbers"
-metaTitle: "Versleten stabilisatorrubbers: geluid en controle | Stuk"
+metaTitle: "Versleten stabilisatorrubbers: geluid en controle | Pro-Stuk"
 description: "Hoe versleten stabilisatorrubbers klinken, wat ze onderscheidt van de stabilisatorstangen, hoe u ze zelf controleert en wat vervangen inhoudt."
 faq:
   - q: "Kan ik rijden met versleten stabilisatorrubbers?"

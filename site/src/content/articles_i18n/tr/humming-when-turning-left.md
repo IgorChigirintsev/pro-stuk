@@ -1,6 +1,6 @@
 ---
 title: "Sola dönerken uğultu"
-metaTitle: "Sola dönünce uğultu: hangi rulman | Stuk"
+metaTitle: "Sola dönünce uğultu: hangi rulman | Pro-Stuk"
 description: "Sola dönerken çıkan uğultu genellikle sağ teker rulmanının aşındığını söyler. Nedeni, tek sürüşte nasıl doğrulanacağı ve değişimin ne kadar acil olduğu."
 faq:
   - q: "Sola dönerken uğultu var, hangi rulmanı değiştireyim?"
@@ -95,6 +95,6 @@ daha sakindir; sınırlar için
 [uğuldayan teker rulmanıyla araç kullanmak](/tr/articles/can-you-drive-with-a-humming-wheel-bearing/).
 
 Uğultu hâlâ kısıksa ve kulağınıza yalan söylemediğinden emin olmak
-istiyorsanız, şerit değiştirme testi sırasında sesi Stuk uygulamasına
+istiyorsanız, şerit değiştirme testi sırasında sesi Pro-Stuk uygulamasına
 kaydedin. Uygulama kaydı cevaplarınızla eşleştirir, muhtemel sebepleri
 yüzdesiyle gösterir — ve hangi taraftan başlanacağını önerir.

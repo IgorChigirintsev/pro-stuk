@@ -1,6 +1,6 @@
 ---
 title: "Objawy niesprawnego napinacza łańcucha rozrządu"
-metaTitle: "Napinacz łańcucha rozrządu: objawy usterki | Stuk"
+metaTitle: "Napinacz łańcucha rozrządu: objawy usterki | Pro-Stuk"
 description: "Jak poznać, że napinacz łańcucha rozrządu osłabł: klekot na zimnym starcie, szelest na wolnych obrotach, stuk przy dodaniu gazu i ryzyko przeskoku."
 faq:
   - q: "Dlaczego łańcuch grzechocze tylko przy zimnym starcie?"
@@ -100,5 +100,5 @@ prowadnice i koła, bo robocizna jest wspólna, a zużyte prowadnice szybko
 niszczą nowy łańcuch.
 
 Najłatwiej pokazać warsztatowi problem dźwiękiem. Nagraj zimny start w
-aplikacji Stuk — zestawia ona nagranie z typowymi dźwiękami usterek,
+aplikacji Pro-Stuk — zestawia ona nagranie z typowymi dźwiękami usterek,
 uwzględnia twoje odpowiedzi i ocenia, jak pilnie potrzebny jest mechanik.

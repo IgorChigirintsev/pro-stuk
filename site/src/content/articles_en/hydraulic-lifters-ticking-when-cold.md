@@ -1,7 +1,7 @@
 ---
 ru: "gidrokompensatory-stuchat-na-holodnuyu"
 title: "Hydraulic lifters ticking when cold: normal or not"
-metaTitle: "Lifters ticking when cold: normal or not | Stuk"
+metaTitle: "Lifters ticking when cold: normal or not | Pro-Stuk"
 description: "Why hydraulic lifters tick after a cold start, how many seconds of ticking counts as normal, and when it is time to change the oil or the lifters themselves."
 pubDate: "2026-08-02"
 related:
@@ -133,7 +133,7 @@ lobes are inspected while the engine is open, because a lifter that has
 been ticking for months leaves marks on the lobe.
 
 If you are unsure whether it is the lifters or something more serious,
-record the cold start in the Stuk app. It matches the recording with your
+record the cold start in the Pro-Stuk app. It matches the recording with your
 answers and shows the likely causes with percentages and an urgency
 level — which makes it easier to decide between going for a diagnosis now
 and waiting calmly for the next service.

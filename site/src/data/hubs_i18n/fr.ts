@@ -5,7 +5,7 @@ export const fr: Record<string, HubText> = {
   dvigatel: {
     h1: 'Bruits et cognements du moteur',
     short: 'Moteur',
-    metaTitle: 'Bruits et cognements du moteur : le guide | Stuk',
+    metaTitle: 'Bruits et cognements du moteur : le guide | Pro-Stuk',
     description:
       'Tous les bruits du moteur au même endroit : cognement, tic-tac, cliquetis, sifflement. Comment séparer l’anodin du dangereux et ce que vous pouvez vérifier.',
     intro: [
@@ -16,7 +16,7 @@ export const fr: Record<string, HubText> = {
   podveska: {
     h1: 'Bruits et grincements du train roulant',
     short: 'Train roulant et direction',
-    metaTitle: 'Bruits et grincements du train roulant : guide | Stuk',
+    metaTitle: 'Bruits et grincements du train roulant : guide | Pro-Stuk',
     description:
       'Cognement sur les bosses, grincement, jeu dans la direction : comment localiser la source dans le train roulant et la direction et que vérifier soi-même.',
     intro: [
@@ -27,7 +27,7 @@ export const fr: Record<string, HubText> = {
   tormoza: {
     h1: 'Grincement et frottement des freins',
     short: 'Freins et roues',
-    metaTitle: 'Grincement et frottement des freins : guide | Stuk',
+    metaTitle: 'Grincement et frottement des freins : guide | Pro-Stuk',
     description:
       'Grincement, sifflement, frottement métallique et vibration au freinage : ce que signifie chaque bruit, quand il ne faut plus rouler et comment vérifier les plaquettes.',
     intro: [
@@ -38,7 +38,7 @@ export const fr: Record<string, HubText> = {
   transmissiya: {
     h1: 'Bruits de boîte et de transmission',
     short: 'Transmission',
-    metaTitle: 'Bruits de boîte et de transmission : guide | Stuk',
+    metaTitle: 'Bruits de boîte et de transmission : guide | Pro-Stuk',
     description:
       'Hurlement de la boîte, claquements des cardans, à-coups au passage des rapports et ronflement de l’embrayage : comment localiser la source sous le plancher.',
     intro: [
@@ -49,7 +49,7 @@ export const fr: Record<string, HubText> = {
   vyhlop: {
     h1: 'Bruits de la ligne d’échappement',
     short: 'Échappement',
-    metaTitle: 'Bruits de l’échappement : le guide | Stuk',
+    metaTitle: 'Bruits de l’échappement : le guide | Pro-Stuk',
     description:
       'Grondement, détonations au silencieux, cliquetis sous le plancher et tôle thermique qui vibre : ce que signalent les bruits d’échappement et pourquoi ils comptent.',
     intro: [
@@ -60,7 +60,7 @@ export const fr: Record<string, HubText> = {
   salon: {
     h1: 'Grincements et bruits d’habitacle',
     short: 'Habitacle et carrosserie',
-    metaTitle: 'Grincements d’habitacle : trouver la source | Stuk',
+    metaTitle: 'Grincements d’habitacle : trouver la source | Pro-Stuk',
     description:
       'Grillons dans l’habitacle, planche de bord qui grince, portes qui claquent : comment trouver la source soi-même et la distinguer d’un défaut du train roulant.',
     intro: [

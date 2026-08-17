@@ -1,6 +1,6 @@
 ---
 title: "Les signes de colonnettes d'étrier grippées"
-metaTitle: "Colonnettes d'étrier grippées : les signes | Stuk"
+metaTitle: "Colonnettes d'étrier grippées : les signes | Pro-Stuk"
 description: "Une roue qui chauffe, la voiture qui tire au freinage, des plaquettes usées de travers : comment reconnaître des colonnettes d'étrier grippées et ce que fait un garage."
 faq:
   - q: "Comment vérifier rapidement si un étrier colle ?"
@@ -108,7 +108,7 @@ cette habitude est la plus vite rentabilisée — la corrosion des colonnettes
 commence par un soufflet abîmé, pas par un kilométrage.
 
 Si la voiture donne l'impression de ne plus rouler librement et que vous
-entendez un son venu d'une roue, enregistrez-le dans l'application Stuk en
+entendez un son venu d'une roue, enregistrez-le dans l'application Pro-Stuk en
 roue libre puis en freinage léger. L'application confronte l'enregistrement
 à vos réponses sur la chaleur et le tirage et propose ce qu'il faut faire
 contrôler en premier — le mécanisme de frein ou le train roulant.

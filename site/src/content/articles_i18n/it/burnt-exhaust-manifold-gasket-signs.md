@@ -1,6 +1,6 @@
 ---
 title: "Segni di una guarnizione del collettore di scarico bruciata"
-metaTitle: "Guarnizione collettore bruciata: i segni | Stuk"
+metaTitle: "Guarnizione collettore bruciata: i segni | Pro-Stuk"
 description: "Ticchettio e sibilo all'avviamento a freddo, odore di scarico in abitacolo, fuliggine nera sulla giunzione: come riconoscere una guarnizione del collettore bruciata."
 faq:
   - q: "Perché il ticchettio si sente a freddo e sparisce dopo il riscaldamento?"
@@ -110,7 +110,7 @@ plastica. E la fessura cresce mentre i prigionieri continuano a bruciare,
 così un semplice cambio di guarnizione diventa una saga di forature.
 
 Se il ticchettio compare solo a freddo e non è sicura che non siano le
-valvole, registri con l'app Stuk i primi trenta secondi dopo un avviamento
+valvole, registri con l'app Pro-Stuk i primi trenta secondi dopo un avviamento
 a freddo, poi lo stesso frammento a motore caldo. L'app confronta le
 registrazioni e mostra le cause probabili in percentuale: questo guasto si
 riconosce particolarmente bene proprio dalla differenza tra freddo e

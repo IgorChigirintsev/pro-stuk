@@ -1,7 +1,7 @@
 ---
 ru: "stuk-pri-tormozhenii-kolodki-ili-support"
 title: "A knock when braking: pads or caliper"
-metaTitle: "A knock when braking: pads or caliper | Stuk"
+metaTitle: "A knock when braking: pads or caliper | Pro-Stuk"
 description: "A knock as you press the pedal comes from both moving pads and a loose caliper. How to tell them apart by the character of the sound."
 pubDate: "2026-06-14"
 related:
@@ -99,7 +99,7 @@ rather than done up by feel — some are single-use, and a bolt that works
 loose is exactly the version of this fault that matters.
 
 Brake knocks are rarely reproducible on demand at a workshop. Record the
-sound in the Stuk app twice — at the first braking after pulling away and
+sound in the Pro-Stuk app twice — at the first braking after pulling away and
 during a gentle stop from 60 km/h. From the difference between the
 recordings the app shows the likely causes with percentages and suggests
 which part to have looked at first.

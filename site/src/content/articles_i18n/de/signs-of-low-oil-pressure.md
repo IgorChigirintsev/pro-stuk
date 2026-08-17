@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für zu niedrigen Öldruck"
-metaTitle: "Zu niedriger Öldruck: Zeichen und Ursachen | Stuk"
+metaTitle: "Zu niedriger Öldruck: Zeichen und Ursachen | Pro-Stuk"
 description: "Wie Sie zu niedrigen Öldruck vor dem Schaden erkennen: Warnleuchte, tickende Hydrostößel, Lagerklopfen. Die Ursachen und wie geprüft wird."
 faq:
   - q: "Warum kommt die Öldruckleuchte im warmen Leerlauf?"

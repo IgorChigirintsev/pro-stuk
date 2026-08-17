@@ -1,6 +1,6 @@
 ---
 title: "Señales de un volante bimasa averiado"
-metaTitle: "Volante bimasa averiado: las señales | Stuk"
+metaTitle: "Volante bimasa averiado: las señales | Pro-Stuk"
 description: "Traqueteo al ralentí, ruido con el embrague pisado, un golpe al apagar el motor: cómo leer los síntomas de un volante bimasa cansado."
 faq:
   - q: "¿Para qué sirve realmente un volante bimasa?"
@@ -96,6 +96,6 @@ orden sensato es descartar primero lo sencillo: soportes, fallos de
 encendido, cojinete de empuje.
 
 Si el traqueteo al ralentí ya se oye y quiere saber a qué grupo pertenece,
-grábelo dos veces en la aplicación Stuk: con el pedal del embrague suelto
+grábelo dos veces en la aplicación Pro-Stuk: con el pedal del embrague suelto
 y pisado. La aplicación compara las grabaciones con sus respuestas a unas
 pocas preguntas y muestra las causas probables con porcentajes.

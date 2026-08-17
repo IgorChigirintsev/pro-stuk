@@ -1,9 +1,9 @@
 ---
 title: "Co będzie, jeśli jeździć ze stukiem popychaczy hydraulicznych"
-metaTitle: "Stuk popychaczy hydraulicznych: czy jeździć | Stuk"
+metaTitle: "Pro-Stuk popychaczy hydraulicznych: czy jeździć | Pro-Stuk"
 description: "Tykający popychacz hydrauliczny nie zniszczy silnika w jeden dzień, ale kuje krzywkę wałka i zawór. Scenariusze, terminy i co sprawdzić najpierw."
 faq:
-  - q: "Stuk popychaczy znika po nagrzaniu silnika. Czy to normalne?"
+  - q: "Pro-Stuk popychaczy znika po nagrzaniu silnika. Czy to normalne?"
     a: "To najczęstszy i najbardziej niegroźny obraz: gęsty zimny olej nie wypełnia popychacza od razu, więc przez pierwsze kilkadziesiąt sekund pracuje on z luzem. Jeśli po nagrzaniu jest cisza, sytuację trzyma się pod obserwacją i zwykle rozwiązuje właściwą lepkością oleju."
   - q: "Czy dodatki do popychaczy pomagają?"
     a: "Czasem, jeśli przyczyną jest brud w kanałach olejowych i zapiekający się tłoczek. Ale dodatek nie odtworzy zużytej pary ciernej ani nie oczyści zatkanej siatki smoka, więc proszę traktować go jako krok diagnostyczny, a nie naprawę."
@@ -94,7 +94,7 @@ i samą głowicę — a wtedy silnik zwykle stracił już moc, bo zużyta
 krzywka nie otwiera zaworu do końca.
 
 Jeśli tykanie pojawia się tylko na zimno i chce Pan wiedzieć, czy mieści
-się w normie, proszę nagrać dźwięk aplikacją Stuk zaraz po rozruchu
+się w normie, proszę nagrać dźwięk aplikacją Pro-Stuk zaraz po rozruchu
 i ponownie po pięciu minutach pracy. Aplikacja porównuje oba nagrania
 z Pana odpowiedziami o silniku i przebiegu i pokazuje prawdopodobne
 przyczyny z procentami.

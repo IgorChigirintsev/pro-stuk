@@ -19,7 +19,7 @@ export const it: ArticleUi = {
   hubQuizSub:
     'Un albero diagnostico interattivo: poche domande e l’elenco delle cause si accorcia molto.',
   hubOther: 'Altre sezioni',
-  indexTitle: 'Articoli sui rumori dell’auto | Stuk',
+  indexTitle: 'Articoli sui rumori dell’auto | Pro-Stuk',
   indexDescription:
     'Guide ai rumori dell’auto: battiti, cigolii, ronzii, fischi e vibrazioni. Che cosa significa ogni rumore, che cosa potete controllare da soli e quanto è urgente.',
   indexH1: 'Articoli',

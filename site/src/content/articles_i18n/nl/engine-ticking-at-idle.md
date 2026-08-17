@@ -1,6 +1,6 @@
 ---
 title: "Tikken van de motor bij stationair toerental"
-metaTitle: "Tikken stationair: oorzaken en aanpak | Stuk"
+metaTitle: "Tikken stationair: oorzaken en aanpak | Pro-Stuk"
 description: "Waarom een motor stationair tikt: kleppen, hydraulische klepstoters, injectoren, de distributieketting. Hoe u onschuldig getik onderscheidt van het zorgelijke soort."
 faq:
   - q: "Is tikken stationair altijd een mankement?"

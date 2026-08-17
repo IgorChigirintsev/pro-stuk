@@ -1,6 +1,6 @@
 ---
 title: "Hałas skrzyni w Ładzie: wycie piątego biegu"
-metaTitle: "Hałas skrzyni w Ładzie: wycie piątego biegu | Stuk"
+metaTitle: "Hałas skrzyni w Ładzie: wycie piątego biegu | Pro-Stuk"
 description: "Wycie na piątym biegu w skrzyni Łady: dlaczego pada akurat najwyższy bieg, jak odróżnić hałas skrzyni od łożyska koła i co sprawdzić najpierw."
 faq:
   - q: "Dlaczego wyje akurat piąty bieg?"
@@ -96,7 +96,7 @@ tekście
 [czy można jeździć z wyjącą skrzynią](/pl/articles/can-you-drive-with-a-whining-gearbox/).
 
 Żeby nie zgadywać między skrzynią a piastą, warto nagrać dźwięk w aplikacji
-Stuk dwa razy: pod obciążeniem na piątce i na luzie przy tej samej
+Pro-Stuk dwa razy: pod obciążeniem na piątce i na luzie przy tej samej
 prędkości. Aplikacja zestawi nagrania z odpowiedziami i pokaże
 prawdopodobne przyczyny z procentami — na tyle konkretnie, by przyjechać do
 warsztatu z pytaniem, a nie z «coś buczy».

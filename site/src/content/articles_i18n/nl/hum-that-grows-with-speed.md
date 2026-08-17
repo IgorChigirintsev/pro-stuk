@@ -1,6 +1,6 @@
 ---
 title: "Gebrom dat toeneemt met de snelheid"
-metaTitle: "Gebrom bij snelheid: lager of banden | Stuk"
+metaTitle: "Gebrom bij snelheid: lager of banden | Pro-Stuk"
 description: "Gebrom dat met de rijsnelheid meegroeit komt bijna altijd van de wielen. Zo scheidt u in één rit het wiellager van banden en aandrijflijn."
 faq:
   - q: "Het gebrom groeit met de snelheid — is dat zeker een lager?"

@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com o câmbio zunindo"
-metaTitle: "Dá para rodar com o câmbio zunindo? | Stuk"
+metaTitle: "Dá para rodar com o câmbio zunindo? | Pro-Stuk"
 description: "Câmbio zunindo raramente para o carro na hora, mas a margem depende do caráter do som. O que zune, quais sinais são urgentes e o que fazer."
 faq:
   - q: "Quantos quilômetros dá para rodar com o câmbio zunindo?"
@@ -95,7 +95,7 @@ tudo. É exatamente por isso que um zunido pego cedo custa uma fração do mesmo
 zunido pego tarde.
 
 Se o zunido ainda é uniforme e você quer saber se é rolamento de eixo ou
-apenas ruído comum de pneu, grave o som com o aplicativo Stuk em marchas
+apenas ruído comum de pneu, grave o som com o aplicativo Pro-Stuk em marchas
 diferentes e também em banguela. O aplicativo compara as gravações entre si e
 mostra as causas prováveis em porcentagem — o que facilita a visita de
 diagnóstico.

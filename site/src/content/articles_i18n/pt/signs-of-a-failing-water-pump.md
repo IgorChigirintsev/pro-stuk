@@ -1,6 +1,6 @@
 ---
 title: "Sinais de bomba d'água com defeito"
-metaTitle: "Bomba d'água: ruído, vazamento, superaquecer | Stuk"
+metaTitle: "Bomba d'água: ruído, vazamento, superaquecer | Pro-Stuk"
 description: "Vazamento de líquido, rolamento zunindo, folga na polia e superaquecimento: os sinais de uma bomba d'água morrendo e o que envolve a troca."
 faq:
   - q: "Quanto dura uma bomba d'água?"
@@ -128,5 +128,5 @@ a bomba zunindo está em
 [dá para andar com a bomba d'água zunindo](/pt/articles/can-you-drive-with-a-whining-water-pump/).
 
 Na dúvida se é a bomba que está zumbindo ou outra coisa na correia? Grave o
-som no aplicativo Stuk: ele cruza a gravação com as suas respostas e mostra
+som no aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas e mostra
 as causas prováveis com uma nota de urgência.

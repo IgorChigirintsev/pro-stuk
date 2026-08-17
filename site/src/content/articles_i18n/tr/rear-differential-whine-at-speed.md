@@ -1,6 +1,6 @@
 ---
 title: "Hızda arka diferansiyel uğultusu"
-metaTitle: "Hızda arka diferansiyel uğultusu: nedenleri | Stuk"
+metaTitle: "Hızda arka diferansiyel uğultusu: nedenleri | Pro-Stuk"
 description: "Arkadan gelen ve gazda ile boşta değişen uğultu klasik arka diferansiyel el yazısıdır. Rulman seslerinden nasıl ayırt edilir."
 faq:
   - q: "Diferansiyel uğultusunu teker rulmanı uğultusundan nasıl ayırırım?"
@@ -90,7 +90,7 @@ boşluğu ile temas izi, hisle değil işaretleme boyasıyla ayarlanmalıdır:
 revizyonların en sık başarısızlık sebebi budur.
 
 Uğultu hâlâ sessizse ve gerçekten gazla değiştiğini doğrulamak
-istiyorsanız, Stuk uygulamasında aynı hızda iki kısa kayıt alın: biri
+istiyorsanız, Pro-Stuk uygulamasında aynı hızda iki kısa kayıt alın: biri
 gazdayken, biri boştayken. Uygulama kayıtları birkaç soruya
 verdiğiniz cevaplarla eşleştirir ve muhtemel nedenleri yüzdelerle
 gösterir.

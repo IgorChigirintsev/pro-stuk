@@ -1,6 +1,6 @@
 ---
 title: "Ticken im Motor: gefährlich oder nicht"
-metaTitle: "Ticken im Motor: gefährlich oder nicht? | Stuk"
+metaTitle: "Ticken im Motor: gefährlich oder nicht? | Pro-Stuk"
 description: "Warum ein Motor tickt: wann es normaler Injektorbetrieb ist und wann verschlissene Hydrostößel oder Ventile. Harmlosen Ton vom ernsten trennen."
 faq:
   - q: "Der Motor tickt im Leerlauf — ist das gefährlich?"

@@ -1,6 +1,6 @@
 ---
 title: "Comprobar de oído la tensión de la cadena de distribución"
-metaTitle: "Comprobar de oído la tensión de la cadena | Stuk"
+metaTitle: "Comprobar de oído la tensión de la cadena | Pro-Stuk"
 description: "Cómo oír una cadena de distribución estirada: en qué condiciones se delata, en qué se diferencia de taqués e inyectores y qué muestra un arranque en frío."
 faq:
   - q: "¿Por qué la cadena de distribución suena más fuerte en un arranque en frío?"
@@ -96,7 +96,7 @@ Si el traqueteo ya se oye con el motor caliente, no lo aplace: una cadena
 que salta acaba, en la mayoría de motores modernos, con los pistones
 encontrándose con las válvulas.
 
-Grabar un arranque en frío es de lo más sencillo con la aplicación Stuk:
+Grabar un arranque en frío es de lo más sencillo con la aplicación Pro-Stuk:
 empiece a grabar antes de girar la llave y sostenga el teléfono cerca de la
 rejilla del radiador. La aplicación compara el sonido con sus respuestas
 sobre duración y condiciones y muestra las causas probables con porcentajes,

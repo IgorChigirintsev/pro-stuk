@@ -1,6 +1,6 @@
 ---
 title: "Combien de temps tient un cardan après les premiers claquements"
-metaTitle: "Cardan qui claque : combien de temps il tient | Stuk"
+metaTitle: "Cardan qui claque : combien de temps il tient | Pro-Stuk"
 description: "Des repères honnêtes sur la durée de vie d'un cardan après les premiers claquements : de quoi dépend la marge, ce qui accélère la fin et quand remplacer."
 faq:
   - q: "Un cardan peut-il se bloquer en roulant ?"
@@ -148,7 +148,7 @@ soufflet sont du type serti correct. Deux petits détails qui décident si
 la réparation tient des années ou des mois.
 
 Si vous voulez savoir à quel stade se trouve votre cardan, enregistrez le
-son dans l'application Stuk pendant un cercle lent braqué à fond.
+son dans l'application Pro-Stuk pendant un cercle lent braqué à fond.
 L'application croise l'enregistrement avec vos réponses à quelques
 questions et affiche les causes probables avec un niveau d'urgence — ce
 qui rend plus facile le choix entre y aller demain et caler tranquillement

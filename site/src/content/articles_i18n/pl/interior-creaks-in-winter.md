@@ -1,6 +1,6 @@
 ---
 title: "Skrzypienie w kabinie zimą"
-metaTitle: "Skrzypienie w kabinie zimą: skąd bierze się na mrozie | Stuk"
+metaTitle: "Skrzypienie w kabinie zimą: skąd bierze się na mrozie | Pro-Stuk"
 description: "Dlaczego zimą kabina skrzypi bardziej: co dzieje się z plastikiem i gumą na mrozie, które dźwięki znikają po nagrzaniu, a które trzeba sprawdzić."
 faq:
   - q: "Dlaczego kabina skrzypi tylko przez pierwsze minuty jazdy?"
@@ -96,7 +96,7 @@ temperaturach, więc zimowego stukania z kolumny nie warto odkładać do
 wiosny.
 
 Odróżnienie skrzypienia sezonowego od prawdziwego najłatwiej idzie przez
-porównanie. Wystarczy nagrać dźwięk w aplikacji Stuk w pierwszej minucie po
+porównanie. Wystarczy nagrać dźwięk w aplikacji Pro-Stuk w pierwszej minucie po
 ruszeniu, a potem powtórzyć to samo nagranie pół godziny później, na
 nagrzanym aucie. Jeśli drugie nagranie jest czyste, to mróz; jeśli dźwięk
 nadal jest, aplikacja podpowie, które elementy sprawdzić w pierwszej

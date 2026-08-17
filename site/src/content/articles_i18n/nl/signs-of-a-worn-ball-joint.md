@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een versleten fuseekogel"
-metaTitle: "Versleten fuseekogel: geluid, speling, controle | Stuk"
+metaTitle: "Versleten fuseekogel: geluid, speling, controle | Pro-Stuk"
 description: "Kloppen over kleine oneffenheden, kraken bij het sturen, speling op het wiel — zo herkent en controleert u een versleten fuseekogel en hoe dringend het is."
 faq:
   - q: "Hoe klinkt een versleten fuseekogel?"

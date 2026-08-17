@@ -1,6 +1,6 @@
 ---
 title: "Segni di un cuscinetto dell'alternatore consumato"
-metaTitle: "Cuscinetto alternatore consumato: i segni | Stuk"
+metaTitle: "Cuscinetto alternatore consumato: i segni | Pro-Stuk"
 description: "Come suona un cuscinetto dell'alternatore consumato, come controllarlo senza smontare nulla e come distinguerlo dai galoppini e dalla puleggia disaccoppiatrice."
 faq:
   - q: "Si può guidare con il cuscinetto dell'alternatore che ronza?"
@@ -114,6 +114,6 @@ molti motori anche la pompa dell'acqua e il servosterzo. Quella che era una
 riparazione programmata diventa un carro attrezzi.
 
 Se sotto il cofano è comparso un ronzio o un fischio e vuole identificarne
-l'origine prima dell'officina, registri il suono con l'app Stuk: confronta
+l'origine prima dell'officina, registri il suono con l'app Pro-Stuk: confronta
 la registrazione con i suoni tipici dei guasti e mostra le cause probabili
 con un livello di urgenza.

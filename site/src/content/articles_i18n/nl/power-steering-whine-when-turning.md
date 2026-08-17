@@ -1,6 +1,6 @@
 ---
 title: "Stuurbekrachtiging zoemt bij sturen: de oorzaken"
-metaTitle: "Stuurbekrachtiging zoemt bij sturen: oorzaken | Stuk"
+metaTitle: "Stuurbekrachtiging zoemt bij sturen: oorzaken | Pro-Stuk"
 description: "Waarom hydraulische stuurbekrachtiging zoemt in bochten: vloeistofpeil, lucht in het systeem, de pomp, de riem. Wat u eerst controleert."
 faq:
   - q: "Hij zoemt alleen bij volledig ingestuurd stuur. Is dat een defect?"

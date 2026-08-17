@@ -1,6 +1,6 @@
 ---
 title: "Rechinar al arrancar el motor"
-metaTitle: "Rechinar al arrancar: motor de arranque, corona, cadena | Stuk"
+metaTitle: "Rechinar al arrancar: motor de arranque, corona, cadena | Pro-Stuk"
 description: "Rechinar al arrancar el motor: el piñón del motor de arranque, la corona del volante, la cadena. Cómo hallar el origen por el momento del sonido."
 faq:
   - q: "¿Por qué el rechinar no se produce en cada arranque?"
@@ -125,6 +125,6 @@ escenarios se desarrollan a lo largo de semanas y meses, y los dos salen mucho
 más baratos si se cortan al principio.
 
 Si no está seguro de en qué momento vive el rechinar, grabe el arranque con la
-aplicación Stuk: el algoritmo compara el sonido con sus respuestas y muestra
+aplicación Pro-Stuk: el algoritmo compara el sonido con sus respuestas y muestra
 las causas probables con un nivel de urgencia, de modo que pueda llegar al
 taller con una teoría de trabajo y no con una suposición.

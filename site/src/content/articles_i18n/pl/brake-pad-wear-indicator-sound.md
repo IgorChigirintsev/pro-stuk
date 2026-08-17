@@ -1,6 +1,6 @@
 ---
 title: "Czujnik zużycia klocków hamulcowych: jak brzmi"
-metaTitle: "Czujnik zużycia klocków: jak brzmi sygnał | Stuk"
+metaTitle: "Czujnik zużycia klocków: jak brzmi sygnał | Pro-Stuk"
 description: "Cienki metaliczny pisk w jeździe, który milknie w chwili hamowania, to mechaniczny czujnik zużycia klocków. Jak go rozpoznać i ile jeszcze zostało czasu."
 faq:
   - q: "Dlaczego pisk milknie po naciśnięciu pedału?"
@@ -91,6 +91,6 @@ unikać hamowań awaryjnych i długich zjazdów trzymanych na pedale, żeby
 materiał cierny dotarł się równomiernie.
 
 Jeśli dźwięk się pojawił, a nie ma Pan pewności, czy to czujnik, czy coś
-innego, proszę nagrać go w aplikacji Stuk — najpierw podczas toczenia się,
+innego, proszę nagrać go w aplikacji Pro-Stuk — najpierw podczas toczenia się,
 potem przy lekkim hamowaniu. Aplikacja zestawi nagrania z Pana
 odpowiedziami i pokaże prawdopodobne przyczyny z procentami.

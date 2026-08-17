@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych odbojników zawieszenia"
-metaTitle: "Zużyte odbojniki: objawy i wymiana | Stuk"
+metaTitle: "Zużyte odbojniki: objawy i wymiana | Pro-Stuk"
 description: "Głuche uderzenia na dziurach, okruchy w miejscu mocowania kolumny, dobijanie zawieszenia: jak rozpoznać zużyte odbojniki i kiedy je wymieniać."
 faq:
   - q: "Czym jest odbojnik i po co jest potrzebny?"
@@ -36,7 +36,7 @@ naprawie.
 - **Okruchy w miejscu mocowania kolumny.** Pod maską, wokół górnego
   mocowania, pojawiają się żółtoszare okruchy pianki — resztki
   rozsypanego odbojnika.
-- **Stuk zrobił się ostrzejszy.** Bez bufora koniec zwoju sprężyny albo
+- **Pro-Stuk zrobił się ostrzejszy.** Bez bufora koniec zwoju sprężyny albo
   tłoczysko twardo styka się z mocowaniem, a nierówności nabierają
   metalicznego posmaku — ogólny przegląd takich dźwięków jest na stronie
   [stukanie na nierównościach](/pl/symptoms/knocking-over-bumps/).
@@ -59,7 +59,7 @@ w tym wieku ich stan warto sprawdzić z zasady.
 | Twarde uderzenie tylko w głębokich dziurach | Tak, typowe | Zmęczone sprężyny — ale z utratą prześwitu |
 | Stałe stukanie na drobnych nierównościach | Nietypowe | Łączniki stabilizatora, tuleje wahaczy |
 | Kołysanie nadwozia po nierówności | Nie | Amortyzatory |
-| Stuk przy skręcaniu na postoju | Nie | Łożysko górnego mocowania, sworzeń wahacza |
+| Pro-Stuk przy skręcaniu na postoju | Nie | Łożysko górnego mocowania, sworzeń wahacza |
 | Okruchy w miejscu mocowania kolumny | Objaw rozstrzygający | — |
 
 Osobno warto wspomnieć sworzeń wahacza — przegub łączący wahacz ze
@@ -121,7 +121,7 @@ w jeden sezon. Zestawy dużych producentów amortyzatorów zawierają odbojnik
 i osłonę o właściwej geometrii.
 
 Nie ma Pan pewności, że głuche uderzenia na dziurach to naprawdę
-odbojniki? Proszę nagrać dźwięk w aplikacji Stuk: zestawia ona nagranie z
+odbojniki? Proszę nagrać dźwięk w aplikacji Pro-Stuk: zestawia ona nagranie z
 Pana odpowiedziami o zachowaniu auta i pokazuje prawdopodobne przyczyny z
 procentami oraz poziomem pilności — dzięki temu trafia Pan do warsztatu z
 roboczą hipotezą.

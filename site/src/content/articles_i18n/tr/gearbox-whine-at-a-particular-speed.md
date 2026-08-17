@@ -1,6 +1,6 @@
 ---
 title: "Belirli bir hızda şanzıman uğultusu"
-metaTitle: "Belirli bir hızda şanzıman uğultusu: sebepleri | Stuk"
+metaTitle: "Belirli bir hızda şanzıman uğultusu: sebepleri | Pro-Stuk"
 description: "Dar bir hız aralığında ortaya çıkan ve gaza göre değişen uğultu genelde şanzımandan ya da diferansiyelden gelir. Diğer seslerden nasıl ayrılır."
 faq:
   - q: "Uğultu neden yalnızca 60–80 km/s arasında duyuluyor da üstünde kayboluyor?"
@@ -103,6 +103,6 @@ daha önemlidir: şanzıman yağları birbirinin yerine geçmez ve yanlış sür
 katkısı tam da gidermeye çalıştığınız sesi üretir.
 
 Uğultu hafifse ve şanzımandan mı tekerlerden mi geldiğinden emin değilseniz,
-en net duyulduğu hızda Stuk uygulamasıyla kaydedin, sonra kaydı başka bir
+en net duyulduğu hızda Pro-Stuk uygulamasıyla kaydedin, sonra kaydı başka bir
 viteste tekrarlayın. Uygulama iki kaydı da cevaplarınızla karşılaştırır ve
 olası sebepleri yüzdeyle gösterir.

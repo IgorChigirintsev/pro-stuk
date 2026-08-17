@@ -1,6 +1,6 @@
 ---
 title: "Cykanie od koła podczas jazdy"
-metaTitle: "Cykanie koła podczas jazdy: przyczyny | Stuk"
+metaTitle: "Cykanie koła podczas jazdy: przyczyny | Pro-Stuk"
 description: "Rytmiczne cykanie w rytm obrotu koła: kamyk w bieżniku, wkręt, kołpak albo tarcza hamulcowa. Jak znaleźć źródło i kiedy nie wolno jechać."
 faq:
   - q: "Cykanie przyspiesza wraz z prędkością — co to mówi?"
@@ -94,7 +94,7 @@ dwóch, a jeśli po tygodniu cykanie nadal jest, teoria „to tylko kamyczek”
 przestaje działać — czas na podnośnik.
 
 Jeśli nie udało się znaleźć źródła wzrokiem, a dźwięk słychać tylko w ruchu,
-proszę nagrać go w aplikacji Stuk podczas przejazdu przez ciche podwórko z
+proszę nagrać go w aplikacji Pro-Stuk podczas przejazdu przez ciche podwórko z
 opuszczoną szybą. Aplikacja zestawia nagranie z odpowiedziami o prędkość i
 reakcję na hamulce i pokazuje prawdopodobne przyczyny w procentach — a także
 podpowiada, które koło obejrzeć najpierw.

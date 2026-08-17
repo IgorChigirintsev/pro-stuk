@@ -1,6 +1,6 @@
 ---
 title: "Een lawaaiig veerpootlager: de symptomen"
-metaTitle: "Lawaaiig veerpootlager: de symptomen | Stuk"
+metaTitle: "Lawaaiig veerpootlager: de symptomen | Pro-Stuk"
 description: "Klikken en knersen bij sturen op de plaats, kloppen over kleine kuilen, zwaar stuur — zo herkent u een versleten veerpootlager boven in de veerpoot."
 faq:
   - q: "Hoe onderscheid ik een veerpootlager van een homokineet?"

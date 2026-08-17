@@ -1,6 +1,6 @@
 ---
 title: "Colpo nella scatola guida: come riconoscerlo"
-metaTitle: "Colpo nella scatola guida: come riconoscerlo | Stuk"
+metaTitle: "Colpo nella scatola guida: come riconoscerlo | Pro-Stuk"
 description: "Come capire se batte la scatola guida e non le testine o i tiranti: i segni caratteristici, una prova in due persone e da cosa dipende la riparazione."
 faq:
   - q: "Si può guidare con la scatola guida che batte?"
@@ -147,7 +147,7 @@ i soffietti nuovi: montare una scatola revisionata dietro soffietti vecchi
 e lacerati manda sprecato tutto il lavoro.
 
 Per mettere alla prova i propri sospetti prima dell’officina, si registra
-il colpo nell’app Stuk: si percorre un tratto sconnesso con la
+il colpo nell’app Pro-Stuk: si percorre un tratto sconnesso con la
 registrazione attiva e si risponde a poche domande; l’app confronta il
 suono con i profili tipici dei guasti e mostra le cause probabili con un
 livello di urgenza.

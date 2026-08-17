@@ -1,6 +1,6 @@
 ---
 title: "Metaliczne dzwonienie w silniku przy przyspieszaniu"
-metaTitle: "Metaliczne dzwonienie przy przyspieszaniu: przyczyny | Stuk"
+metaTitle: "Metaliczne dzwonienie przy przyspieszaniu: przyczyny | Pro-Stuk"
 description: "Dzwonienie jak monety w puszce przy przyspieszaniu to zwykle spalanie stukowe. Przyczyny — paliwo, nagar, świece, czujnik — ryzyko i co sprawdzić najpierw."
 faq:
   - q: "Dlaczego dzwonienie pojawia się właśnie przy przyspieszaniu?"
@@ -127,7 +127,7 @@ interwały wymiany oleju i przeciekający wtryskiwacz odbudują ten sam nagar
 w rok, a czyszczenie bez usunięcia przyczyny to pieniądze wydane dwa razy.
 
 Jeśli nie ma pewności, czy to spalanie stukowe, czy coś mechanicznego,
-warto nagrać przyspieszanie w aplikacji Stuk: zestawia ona nagranie z
+warto nagrać przyspieszanie w aplikacji Pro-Stuk: zestawia ona nagranie z
 odpowiedziami o tym, kiedy dzwonienie się pojawia, i pokazuje
 prawdopodobne przyczyny z procentami oraz poziom pilności — wygodny punkt
 wyjścia przed wizytą w warsztacie.

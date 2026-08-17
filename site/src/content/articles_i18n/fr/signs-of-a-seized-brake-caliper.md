@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un étrier de frein grippé"
-metaTitle: "Les signes d'un étrier de frein grippé | Stuk"
+metaTitle: "Les signes d'un étrier de frein grippé | Pro-Stuk"
 description: "Comment reconnaître un étrier de frein grippé : la voiture tire d'un côté, une roue chaude, une odeur de brûlé. Contrôles simples sans pont et ce que vaut une réfection."
 faq:
   - q: "Qu'est-ce qui grippe exactement dans un étrier ?"
@@ -148,7 +148,7 @@ chaque changement de plaquettes : cela ajoute peu au travail et repousse
 le grippage de plusieurs années.
 
 Si les freins se sont mis à sonner d'une façon inhabituelle et que la
-cause n'est pas évidente, enregistrez le son dans l'application Stuk en
+cause n'est pas évidente, enregistrez le son dans l'application Pro-Stuk en
 roulant. L'application confronte l'enregistrement à vos réponses sur le
 moment où le bruit apparaît et propose les causes probables avec leur
 degré d'urgence.

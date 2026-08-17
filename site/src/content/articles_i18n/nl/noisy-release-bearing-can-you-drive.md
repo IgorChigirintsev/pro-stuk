@@ -1,6 +1,6 @@
 ---
 title: "Druklager maakt lawaai: kunt u er nog mee rijden?"
-metaTitle: "Druklager maakt lawaai: kunt u nog rijden? | Stuk"
+metaTitle: "Druklager maakt lawaai: kunt u nog rijden? | Pro-Stuk"
 description: "Geluid van het druklager bij ingetrapt koppelingspedaal: hoe u het herkent, hoe lang u nog kunt rijden en wat de omvang van de reparatie bepaalt."
 faq:
   - q: "Hoe lang kan ik rijden met een druklager dat lawaai maakt?"

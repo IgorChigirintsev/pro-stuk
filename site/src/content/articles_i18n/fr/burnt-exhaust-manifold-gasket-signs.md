@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un joint de collecteur d'échappement percé"
-metaTitle: "Joint de collecteur percé : les signes | Stuk"
+metaTitle: "Joint de collecteur percé : les signes | Pro-Stuk"
 description: "Cliquetis et sifflement à froid, odeur d'échappement dans l'habitacle, suie noire au raccord : reconnaître un joint de collecteur d'échappement percé."
 faq:
   - q: "Pourquoi le cliquetis s'entend à froid et disparaît une fois chaud ?"
@@ -116,7 +116,7 @@ transforme en séance de perçage.
 
 Si le cliquetis n'apparaît qu'à froid et que vous n'êtes pas sûr que ce
 ne soient pas les soupapes, enregistrez les trente premières secondes
-après un départ à froid dans l'application Stuk, puis le même passage
+après un départ à froid dans l'application Pro-Stuk, puis le même passage
 moteur chaud. L'application compare les enregistrements et affiche les
 causes probables avec des pourcentages — ce défaut se reconnaît
 particulièrement bien à la différence entre froid et chaud.

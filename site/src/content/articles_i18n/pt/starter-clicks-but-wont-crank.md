@@ -1,6 +1,6 @@
 ---
 title: "O motor de arranque clica mas não gira"
-metaTitle: "Arranque clica e não gira: causas | Stuk"
+metaTitle: "Arranque clica e não gira: causas | Pro-Stuk"
 description: "Girar a chave dá um clique ou uma matraca rápida e o motor não vira. O que significa cada um e como separar bateria de motor de arranque."
 faq:
   - q: "Qual a diferença entre um clique único e a matraca rápida?"
@@ -92,7 +92,7 @@ Outros sons embaixo do capô na partida estão reunidos na página do sintoma
 [chiado na partida](/pt/symptoms/squeal-on-startup/).
 
 Se o clique vai e volta e o carro traiçoeiramente pega de primeira na
-oficina, grave uma tentativa de partida no aplicativo Stuk. O aplicativo
+oficina, grave uma tentativa de partida no aplicativo Pro-Stuk. O aplicativo
 cruza o caráter dos cliques com suas respostas sobre como os instrumentos
 se comportaram e sugere o que mostrar ao mecânico — a bateria, a fiação ou
 o arranque.

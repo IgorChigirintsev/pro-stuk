@@ -1,7 +1,7 @@
 ---
 ru: "tresk-v-dvigatele-pri-zapuske"
 title: "Engine rattle at start-up"
-metaTitle: "Engine rattle at start-up: causes and what to do | Stuk"
+metaTitle: "Engine rattle at start-up: causes and what to do | Pro-Stuk"
 description: "Why an engine rattles at start-up: the starter, cam phasers, the chain tensioner or the alternator decoupler. How to tell them apart by the moment."
 pubDate: "2026-07-07"
 related:
@@ -139,7 +139,7 @@ dampers go with the chain: they are the plastic parts the chain actually
 beats against.
 
 If you cannot pin the rattle to a moment of the start by ear, record the
-sound in the Stuk app: it matches the recording with your answers about
+sound in the Pro-Stuk app: it matches the recording with your answers about
 when and how the sound appears and shows the likely causes with
 percentages and a level of urgency — an easier list to arrive at a
 workshop with.

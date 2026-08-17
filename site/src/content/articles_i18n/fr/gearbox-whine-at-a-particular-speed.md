@@ -1,6 +1,6 @@
 ---
 title: "Hurlement de boîte à une vitesse précise"
-metaTitle: "Hurlement de boîte à une vitesse précise : causes | Stuk"
+metaTitle: "Hurlement de boîte à une vitesse précise : causes | Pro-Stuk"
 description: "Un hurlement qui apparaît dans une bande de vitesse étroite et change avec les gaz vient en général de la boîte ou du couple final. Comment le distinguer."
 faq:
   - q: "Pourquoi le hurlement ne s'entend-il qu'entre 60 et 80 km/h et disparaît-il au-dessus ?"
@@ -103,7 +103,7 @@ modificateur de friction produit exactement le bruit que vous cherchiez à
 faire disparaître.
 
 Si le hurlement est discret et que vous ne savez pas s'il vient de la
-boîte ou des roues, enregistrez-le dans l'application Stuk exactement à la
+boîte ou des roues, enregistrez-le dans l'application Pro-Stuk exactement à la
 vitesse où il est le plus net, puis refaites l'enregistrement sur un autre
 rapport. L'application compare les deux enregistrements avec vos réponses
 et affiche les causes probables avec leurs pourcentages.

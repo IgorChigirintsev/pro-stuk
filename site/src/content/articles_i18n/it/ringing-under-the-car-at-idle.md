@@ -1,6 +1,6 @@
 ---
 title: "Tintinnio sotto l'auto al minimo"
-metaTitle: "Tintinnio sotto l'auto al minimo: cause e rimedi | Stuk"
+metaTitle: "Tintinnio sotto l'auto al minimo: cause e rimedi | Pro-Stuk"
 description: "Una paratia termica, un catalizzatore rotto, lo scarico che tocca la scocca: da dove viene un tintinnio sotto l'auto al minimo e come controllarlo in dieci minuti."
 faq:
   - q: "Perché il tintinnio si sente a freddo e sparisce dopo il riscaldamento?"
@@ -129,6 +129,6 @@ arriva ora al pianale e ai tubi del carburante: una fascetta costa meno di
 quello scambio.
 
 Un tintinnio è uno di quei suoni difficili da descrivere al meccanico per
-telefono. È più facile registrarlo: avvii l'app Stuk accanto all'auto al
+telefono. È più facile registrarlo: avvii l'app Pro-Stuk accanto all'auto al
 minimo, risponda a un paio di domande sulle condizioni e ottenga un elenco
 di cause probabili con un livello di urgenza da portare in officina.

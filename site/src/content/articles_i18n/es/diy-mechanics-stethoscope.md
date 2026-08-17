@@ -1,6 +1,6 @@
 ---
 title: "Un estetoscopio de mecánico hecho por uno mismo"
-metaTitle: "Estetoscopio de mecánico casero: cómo hacerlo | Stuk"
+metaTitle: "Estetoscopio de mecánico casero: cómo hacerlo | Pro-Stuk"
 description: "Cómo montar un estetoscopio de coche con un destornillador, una manguera o un tubo, dónde escuchar en el motor y los accesorios y qué reglas de seguridad seguir."
 faq:
   - q: "¿De verdad sirve un destornillador en lugar de un estetoscopio?"
@@ -112,6 +112,6 @@ esos se comprueban con el método de
 Un estetoscopio comprado con diafragma no es caro y oye con más limpieza que
 uno casero, pero la versión casera responde igualmente a la pregunta
 principal: este conjunto o el de al lado. Y para no tener que fiarse solo de
-la memoria, ponga a grabar la aplicación Stuk mientras escucha. La aplicación
+la memoria, ponga a grabar la aplicación Pro-Stuk mientras escucha. La aplicación
 compara el sonido con sus respuestas sobre el régimen y la ubicación y
 muestra las causas probables con porcentajes.

@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-dvigatele-na-goryachuyu"
 title: "An engine knock when hot"
-metaTitle: "An engine knock when hot: causes and what to do | Stuk"
+metaTitle: "An engine knock when hot: causes and what to do | Pro-Stuk"
 description: "Why an engine starts knocking after warming up: oil, hydraulic lifters, bearings or detonation. How to narrow the cause down by the behaviour of the sound."
 pubDate: "2026-08-02"
 related:
@@ -159,7 +159,7 @@ way. The general breakdown of engine knocks is on the symptom page
 [knocking in the engine](/en/symptoms/knocking-in-engine/).
 
 If you want something specific before the workshop visit, record the sound
-of the warmed engine in the Stuk app. It matches the recording with
+of the warmed engine in the Pro-Stuk app. It matches the recording with
 typical knocks, asks a few clarifying questions and shows the likely
 causes with a level of urgency — with that list the conversation with a
 mechanic goes faster.

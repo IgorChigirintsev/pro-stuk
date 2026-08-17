@@ -1,6 +1,6 @@
 ---
 title: "Señales de una bomba de agua averiada"
-metaTitle: "Bomba de agua averiada: ruido y fugas | Stuk"
+metaTitle: "Bomba de agua averiada: ruido y fugas | Pro-Stuk"
 description: "Fugas de refrigerante, rodamiento que zumba, juego en la polea y recalentamientos: las señales de una bomba de agua que se muere y qué implica cambiarla."
 faq:
   - q: "¿Cuánto dura una bomba de agua?"
@@ -131,5 +131,5 @@ circulando con la bomba zumbando se detalla en
 [se puede circular con la bomba de agua zumbando](/es/articles/can-you-drive-with-a-whining-water-pump/).
 
 ¿No tiene claro si lo que zumba es la bomba u otra cosa de la correa?
-Grabe el sonido en la aplicación Stuk: compara la grabación con sus
+Grabe el sonido en la aplicación Pro-Stuk: compara la grabación con sus
 respuestas y muestra las causas probables con un nivel de urgencia.

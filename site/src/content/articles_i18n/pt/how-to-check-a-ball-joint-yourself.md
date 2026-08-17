@@ -1,6 +1,6 @@
 ---
 title: "Como testar o pivô de suspensão você mesmo"
-metaTitle: "Como testar o pivô de suspensão | Stuk"
+metaTitle: "Como testar o pivô de suspensão | Pro-Stuk"
 description: "Teste do pivô passo a passo: balançar o carro, folga às 12 e 6 horas com a roda no ar, o truque do pedal de freio e o que significa a coifa rasgada."
 faq:
   - q: "Dá para testar o pivô sem macaco?"
@@ -137,7 +137,7 @@ O alinhamento depois da troca faz parte do serviço, não é opcional, porque
 o pivô define a geometria.
 
 Se depois de todos os testes você ainda estiver em dúvida — tem batida e o
-culpado não é óbvio — grave o som no aplicativo Stuk. Ele cruza a gravação
+culpado não é óbvio — grave o som no aplicativo Pro-Stuk. Ele cruza a gravação
 com as suas respostas sobre quando e em que tipo de piso o ruído aparece e
 mostra as causas prováveis com o nível de urgência.
 </content>

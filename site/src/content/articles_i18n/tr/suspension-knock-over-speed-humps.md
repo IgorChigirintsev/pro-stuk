@@ -1,6 +1,6 @@
 ---
 title: "Kasislerde süspansiyon tıkırtısı"
-metaTitle: "Kasislerde süspansiyon tıkırtısı: nedenleri | Stuk"
+metaTitle: "Kasislerde süspansiyon tıkırtısı: nedenleri | Pro-Stuk"
 description: "Süspansiyon neden tam da kasislerde tıkırdar, genelde hangi parçalar suçludur ve aramayı lift olmadan nasıl daraltırsınız."
 faq:
   - q: "Süspansiyon neden kasiste tıkırdıyor da çukurda sessiz?"
@@ -133,6 +133,6 @@ aracın bir tarafa çekmesi ya da direksiyonda boşluk eşlik ediyorsa daha
 erken.
 
 Tariflerle tahmin yürütmemek için engeli geçerken sesi telefonunuza
-kaydedin: Stuk uygulaması kaydı yanıtlarınızla eşleştirir ve olası nedenleri
+kaydedin: Pro-Stuk uygulaması kaydı yanıtlarınızla eşleştirir ve olası nedenleri
 yüzdelerle ve aciliyet seviyesiyle gösterir — bu listeyle serviste konuşma
 somutlaşır.

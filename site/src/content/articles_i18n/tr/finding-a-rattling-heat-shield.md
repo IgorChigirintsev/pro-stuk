@@ -1,6 +1,6 @@
 ---
 title: "Çıngırdayan ısı kalkanı nasıl bulunur"
-metaTitle: "Çıngırdayan ısı kalkanı: nasıl bulunur | Stuk"
+metaTitle: "Çıngırdayan ısı kalkanı: nasıl bulunur | Pro-Stuk"
 description: "Dar bir devir aralığında duyulan metalik çıngırağın sebebi genelde gevşemiş ısı kalkanıdır. On dakikada nasıl bulunur ve düzgün nasıl sabitlenir."
 faq:
   - q: "Kalkan neden sadece belirli devirlerde çıngırdıyor?"
@@ -102,7 +102,7 @@ yolları
 yazısında.
 
 Çıngırağı duyup da park hâlindeyken tekrarlatamıyorsanız — örneğin yalnızca
-giderken çıkıyorsa — sesi giderken Stuk uygulamasıyla kaydedin. Uygulama
+giderken çıkıyorsa — sesi giderken Pro-Stuk uygulamasıyla kaydedin. Uygulama
 kaydı, gürültünün neyi takip ettiğine dair cevaplarınızla eşleştirir ve önce
 neye bakılması gerektiğini söyler; böylece kimse körlemesine aramaya para
 ödemez.

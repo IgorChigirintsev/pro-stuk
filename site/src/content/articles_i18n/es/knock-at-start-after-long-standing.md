@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo al arrancar tras semanas parado"
-metaTitle: "Golpeteo al arrancar tras un parón largo: causas | Stuk"
+metaTitle: "Golpeteo al arrancar tras un parón largo: causas | Pro-Stuk"
 description: "Por qué un motor golpea los primeros segundos tras semanas parado: el aceite que baja, los taqués, el tensor, los variadores. Dónde acaba lo normal."
 faq:
   - q: "El motor golpea un par de segundos tras arrancar, ¿es normal?"
@@ -109,6 +109,6 @@ midiendo y no de oído, así que pregunte qué se midió antes de aceptar
 cualquiera de ellas.
 
 La forma más rápida de saber si su caso es inofensivo es grabar el primer
-arranque con la aplicación Stuk: compara el sonido con sus respuestas sobre
+arranque con la aplicación Pro-Stuk: compara el sonido con sus respuestas sobre
 cuánto tiempo estuvo parado el coche y muestra las causas probables con
 porcentajes y un nivel de urgencia.

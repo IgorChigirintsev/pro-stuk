@@ -1,6 +1,6 @@
 ---
 title: "Grillos en el habitáculo: cómo encontrar el origen"
-metaTitle: "Grillos en el habitáculo: cómo encontrar el origen | Stuk"
+metaTitle: "Grillos en el habitáculo: cómo encontrar el origen | Pro-Stuk"
 description: "Un método paso a paso para cazar grillos en el habitáculo: localizarlos a mano, qué aporta un acompañante y cuándo el sonido es en realidad la suspensión."
 faq:
   - q: "¿Por qué un grillo desaparece justo cuando se pone uno a buscarlo?"
@@ -105,7 +105,7 @@ grillo que solo existe por debajo de cero pocas veces justifica desmontar
 nada.
 
 Cazar un grillo es mucho más fácil cuando el sonido está grabado. Ponga a
-grabar la aplicación Stuk, pase por su tramo malo de siempre y pida a un
+grabar la aplicación Pro-Stuk, pase por su tramo malo de siempre y pida a un
 acompañante que apriete los paneles por turnos: la grabación mostrará el
 momento en que el grillo se cortó. La aplicación le dirá además si el sonido
 es realmente del habitáculo o si la búsqueda corresponde a la suspensión.

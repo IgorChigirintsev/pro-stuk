@@ -1,6 +1,6 @@
 ---
 title: "Señales de una junta homocinética interior gastada"
-metaTitle: "Junta homocinética interior gastada: señales | Stuk"
+metaTitle: "Junta homocinética interior gastada: señales | Pro-Stuk"
 description: "La junta homocinética interior no chasquea al girar: golpea al acelerar y vibra. Sus síntomas, en qué se diferencia de la exterior y cómo se repara."
 faq:
   - q: "¿En qué se diferencian por el sonido la junta interior y la exterior?"
@@ -108,7 +108,7 @@ explica en
 [se puede circular con una junta homocinética que chasquea](/es/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 Si el golpe es tenue y no está claro si es el palier o la suspensión,
-grábelo con la aplicación Stuk dos veces: dando gas y rodando sin gas por
+grábelo con la aplicación Pro-Stuk dos veces: dando gas y rodando sin gas por
 el mismo tramo. La aplicación compara las grabaciones, tiene en cuenta sus
 respuestas sobre cuándo aparece exactamente el sonido y muestra las causas
 probables con porcentajes.

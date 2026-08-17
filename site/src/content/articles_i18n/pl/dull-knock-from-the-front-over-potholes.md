@@ -1,6 +1,6 @@
 ---
 title: "Głuchy stuk z przodu przy przejeżdżaniu dziur"
-metaTitle: "Głuchy stuk z przodu na dziurach: przyczyny | Stuk"
+metaTitle: "Głuchy stuk z przodu na dziurach: przyczyny | Pro-Stuk"
 description: "Co oznacza głuchy stuk z przodu na dziurach: które części zawieszenia tak brzmią i jak oddzielić przyczyny groźne od tych, które mogą poczekać."
 faq:
   - q: "Dlaczego stuk jest głuchy, a nie ostry?"
@@ -105,7 +105,7 @@ jest opcją — te części ustawiają geometrię, a pominięcie jej wychodzi
 oponami zjedzonymi w ciągu kilku tysięcy kilometrów.
 
 Nie ma Pan pewności, który scenariusz jest Pana? Proszę nagrać stuk na
-nierównym odcinku aplikacją Stuk: zestawia ona dźwięk z odpowiedziami na
+nierównym odcinku aplikacją Pro-Stuk: zestawia ona dźwięk z odpowiedziami na
 kilka pytań doprecyzowujących i pokazuje prawdopodobne przyczyny wraz
 z poziomem pilności — łatwiej wtedy zdecydować między wyjazdem jutro
 a spokojnym zaplanowaniem wizyty.

@@ -1,6 +1,6 @@
 ---
 title: "Sinais de barras de direção gastas"
-metaTitle: "Barra de direção gasta: batida e folga | Stuk"
+metaTitle: "Barra de direção gasta: batida e folga | Pro-Stuk"
 description: "Como reconhecer barra de direção gasta: batida em ondulações pequenas, folga no volante, carro puxando. Testes caseiros e o que envolve o reparo."
 faq:
   - q: "Qual a diferença entre barra de direção e terminal de direção?"
@@ -107,6 +107,6 @@ temporada, e é por isso que olhar as coifas faz parte de qualquer
 diagnóstico de trem de rodagem.
 
 Se a batida na direção é audível mas o diagnóstico não está claro, grave o
-som no aplicativo Stuk num trecho representativo de asfalto. O aplicativo
+som no aplicativo Pro-Stuk num trecho representativo de asfalto. O aplicativo
 cruza a gravação com suas respostas e mostra as causas prováveis com um
 grau de urgência — assim você chega à oficina com uma hipótese pronta.

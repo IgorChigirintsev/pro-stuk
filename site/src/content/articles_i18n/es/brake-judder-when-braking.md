@@ -1,6 +1,6 @@
 ---
 title: "Vibración del volante al frenar"
-metaTitle: "Vibración del volante al frenar: causas | Stuk"
+metaTitle: "Vibración del volante al frenar: causas | Pro-Stuk"
 description: "Por qué tiembla el volante al frenar: espesor desigual del disco, pinza agarrotada, holgura en el buje. Cómo distinguirlo de la vibración de ruedas."
 faq:
   - q: "¿Por qué el volante solo vibra al frenar y el coche va suave a velocidad?"
@@ -126,7 +126,7 @@ discos duran bastante más antes de que vuelva cualquier vibración.
 
 Si no está seguro de lo que nota —vibración de los discos, temblor de las
 ruedas o el ABS haciendo su trabajo—, grabe el sonido y describa la
-situación en la aplicación Stuk. Cruza la grabación con sus respuestas
+situación en la aplicación Pro-Stuk. Cruza la grabación con sus respuestas
 —cuándo aparece el temblor, dónde se siente, si estaba frenando— y
 muestra las causas probables con un nivel de urgencia. Así llega al
 taller con un cuadro claro en lugar de un vago «algo tiembla».

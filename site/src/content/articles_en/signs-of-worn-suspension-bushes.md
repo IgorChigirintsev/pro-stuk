@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-sajlentblokov"
 title: "Signs of worn suspension bushes"
-metaTitle: "Worn suspension bushes: sound, tests, repair | Stuk"
+metaTitle: "Worn suspension bushes: sound, tests, repair | Pro-Stuk"
 description: "How worn control arm bushes show themselves: knocking, creaking, the car pulling and uneven tyre wear. Simple checks and what the repair involves."
 pubDate: "2026-08-02"
 related:
@@ -139,6 +139,6 @@ is on the symptom page
 [knocking in the suspension](/en/symptoms/knocking-in-suspension/).
 
 If a knock has appeared but it is unclear whether it is the bushes, a ball
-joint or something else, record the sound in the Stuk app. It matches the
+joint or something else, record the sound in the Pro-Stuk app. It matches the
 recording with your answers and shows the likely causes with an urgency
 level — with that list the conversation at the workshop gets specific.

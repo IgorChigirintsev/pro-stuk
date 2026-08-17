@@ -1,6 +1,6 @@
 ---
 title: "Zumbido na estrada que some na cidade"
-metaTitle: "Zumbido na estrada que some na cidade | Stuk"
+metaTitle: "Zumbido na estrada que some na cidade | Pro-Stuk"
 description: "Por que o zumbido só aparece acima de 80 km/h e some na cidade: rolamento de roda, pneus, aerodinâmica e a ordem dos testes que você faz sozinho."
 faq:
   - q: "Por que não tem zumbido na cidade e na estrada tem?"
@@ -92,7 +92,7 @@ parafusadeira de impacto. Vale conferir também
 zumbido](/pt/symptoms/wheel-bearing-hum/).
 
 A maior dificuldade desse tipo de zumbido é que você não consegue mostrar
-para o mecânico: ele só existe na estrada. Grave no aplicativo Stuk
+para o mecânico: ele só existe na estrada. Grave no aplicativo Pro-Stuk
 rodando na velocidade em que ele vive e durante as mudanças de faixa — o
 app cruza a gravação com suas respostas e mostra as causas prováveis em
 porcentagem, e a própria gravação pode simplesmente ser tocada para o

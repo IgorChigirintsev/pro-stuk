@@ -1,6 +1,6 @@
 ---
 title: "Jak sprawdzić popychacze hydrauliczne"
-metaTitle: "Jak sprawdzić popychacze hydrauliczne na słuch | Stuk"
+metaTitle: "Jak sprawdzić popychacze hydrauliczne na słuch | Pro-Stuk"
 description: "Jak rozpoznać, że źródłem stukotu są popychacze hydrauliczne: testy na zimno i na ciepło, różnice wobec luzów zaworowych i wtryskiwaczy oraz co dalej."
 faq:
   - q: "Stukot znika po nagrzaniu. Czy to normalne?"
@@ -94,7 +94,7 @@ silniku ogląda się krzywki wałka — popychacz stukający od miesięcy zostaw
 na krzywce ślady, a dowiadywanie się o tym później jest drogą kosztowną.
 
 Żeby nie zgadywać, czy naprawdę ucichło, proszę nagrać zimny rozruch w
-aplikacji Stuk przed wymianą oleju i po niej. Aplikacja rozkłada dźwięk na
+aplikacji Pro-Stuk przed wymianą oleju i po niej. Aplikacja rozkłada dźwięk na
 części, dopasowuje go do Pana odpowiedzi i pokazuje prawdopodobne przyczyny
 z procentami — a dwa nagrania obok siebie uczciwie odpowiadają, czy naprawa
 pomogła.

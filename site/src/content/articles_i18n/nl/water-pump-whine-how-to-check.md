@@ -1,6 +1,6 @@
 ---
 title: "Zoemende waterpomp: hoe u dat controleert"
-metaTitle: "Zoemende waterpomp: zelf controleren | Stuk"
+metaTitle: "Zoemende waterpomp: zelf controleren | Pro-Stuk"
 description: "Waarom een waterpomp zoemt, hoe u dat geluid scheidt van dynamo en spanrollen, eenvoudige controles zonder demontage en hoe de reparatie wordt besloten."
 faq:
   - q: "Hoe weet ik dat het de waterpomp is en niet de dynamo of een spanrol?"

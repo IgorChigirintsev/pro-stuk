@@ -1,6 +1,6 @@
 ---
 title: "Segni di un supporto centrale dell'albero cardanico consumato"
-metaTitle: "Supporto centrale del cardano consumato | Stuk"
+metaTitle: "Supporto centrale del cardano consumato | Pro-Stuk"
 description: "Un ronzio da sotto il centro del pavimento, vibrazioni da una certa velocità, un tonfo in partenza: come riconoscere un supporto centrale dell'albero cardanico consumato."
 faq:
   - q: "Dove si trova il supporto centrale e a che cosa serve?"
@@ -96,7 +96,7 @@ non tutte le officine lo offrono, ed è la differenza fra eliminare la
 vibrazione ed eliminare solo il rumore.
 
 Se il ronzio è ancora sommesso e non è chiaro se venga dal centro sotto
-l'auto o da una ruota, lo registri con l'app Stuk su un'autostrada liscia e
+l'auto o da una ruota, lo registri con l'app Pro-Stuk su un'autostrada liscia e
 ripeta la registrazione durante cambi di corsia dolci. L'app confronta le
 registrazioni con le sue risposte a poche domande e mostra le cause probabili
 in percentuale.

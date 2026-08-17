@@ -1,6 +1,6 @@
 ---
 title: "Knarzen im Innenraum über Unebenheiten"
-metaTitle: "Knarzen im Innenraum über Unebenheiten | Stuk"
+metaTitle: "Knarzen im Innenraum über Unebenheiten | Pro-Stuk"
 description: "Knarzen im Innenraum über Unebenheiten: warum sich die Karosserie verwindet, wie Sie Verkleidung von Fahrwerk trennen und was Sie selbst beheben können."
 faq:
   - q: "Ist Knarzen im Innenraum über Unebenheiten gefährlich?"

@@ -1,6 +1,6 @@
 ---
 title: "Piepend onderstel over oneffenheden"
-metaTitle: "Piepend onderstel over oneffenheden: oorzaken | Stuk"
+metaTitle: "Piepend onderstel over oneffenheden: oorzaken | Pro-Stuk"
 description: "Waarom een onderstel piept over oneffenheden: stabilisatorrubbers, draagarmrubbers, fuseekogels. Wanneer vet volstaat en wanneer vervangen moet."
 faq:
   - q: "Is een piepend onderstel gevaarlijk?"

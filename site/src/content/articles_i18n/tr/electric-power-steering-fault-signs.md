@@ -1,6 +1,6 @@
 ---
 title: "Elektrikli direksiyon arızasının belirtileri"
-metaTitle: "Elektrikli direksiyon arızası: belirtileri | Stuk"
+metaTitle: "Elektrikli direksiyon arızası: belirtileri | Pro-Stuk"
 description: "Elektrikli direksiyon arızası nasıl anlaşılır: ağırlaşan direksiyon, dengesiz destek, EPS lambası, tıkırtı ve tıklama. Servise gitmeden önce nelere bakılır."
 faq:
   - q: "Elektrikli direksiyon çalışmazken araç kullanılır mı?"
@@ -100,7 +100,7 @@ denge kontrolü olan çoğu araçta bunun atlanması, desteğin merkezden kaymı
 kalması ve panelde yanan uyarılar demektir.
 
 Direksiyondaki sesin destek sistemine mi ait olduğundan emin değilseniz,
-sesi Stuk uygulamasıyla kaydedin: biri araç dururken manevra sırasında, biri
+sesi Pro-Stuk uygulamasıyla kaydedin: biri araç dururken manevra sırasında, biri
 yolda olmak üzere iki kayıt alın, birkaç soruyu cevaplayın; uygulama tabloyu
 tipik arıza profilleriyle eşleştirip olası sebebi ve ziyaretin ne kadar acil
 olduğunu söyler.

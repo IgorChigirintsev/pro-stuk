@@ -1,6 +1,6 @@
 ---
 title: "Un claquement : rotule de suspension ou silentbloc"
-metaTitle: "Claquement : rotule ou silentbloc, comment trancher | Stuk"
+metaTitle: "Claquement : rotule ou silentbloc, comment trancher | Pro-Stuk"
 description: "Un claquement de suspension sur les bosses : distinguer une rotule usée d'un silentbloc usé au caractère du son, par des tests simples et sur un pont."
 faq:
   - q: "En quoi un claquement de rotule diffère-t-il d'un claquement de silentbloc à l'oreille ?"
@@ -149,7 +149,7 @@ serrez-les suspension pendante et le caoutchouc vit en torsion, puis se
 déchire en quelques mois.
 
 Si le claquement est déjà là et que vous n'êtes pas sûr, enregistrez le
-son dans l'application Stuk. Elle croisera l'enregistrement avec vos
+son dans l'application Pro-Stuk. Elle croisera l'enregistrement avec vos
 réponses sur le moment où ça claque — sur les bosses, au freinage ou en
 courbe — et affichera les causes probables avec un niveau d'urgence. Avec
 ça, vous pouvez aller au garage et faire contrôler des pièces précises au

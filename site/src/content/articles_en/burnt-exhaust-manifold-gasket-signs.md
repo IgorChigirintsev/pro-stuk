@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-progorevshej-prokladki-vypusknogo-kollektora"
 title: "Signs of a burnt exhaust manifold gasket"
-metaTitle: "Burnt exhaust manifold gasket: the signs | Stuk"
+metaTitle: "Burnt exhaust manifold gasket: the signs | Pro-Stuk"
 description: "Ticking and hissing at a cold start, exhaust smell in the cabin, black soot at the joint — how to recognise a burnt exhaust manifold gasket."
 pubDate: "2026-06-07"
 related:
@@ -115,7 +115,7 @@ grows while the studs burn further, so a simple gasket change becomes a
 drilling saga.
 
 If the ticking appears only when cold and you are not sure it is not the
-valves, record the first thirty seconds after a cold start in the Stuk
+valves, record the first thirty seconds after a cold start in the Pro-Stuk
 app, then the same fragment on a warm engine. The app compares the
 recordings and shows the likely causes with percentages — this fault is
 recognised especially well by the cold-versus-hot difference.

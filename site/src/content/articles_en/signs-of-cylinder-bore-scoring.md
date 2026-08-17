@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-zadirov-v-tsilindrah"
 title: "Signs of cylinder bore scoring"
-metaTitle: "Cylinder bore scoring: noise, oil use, signs | Stuk"
+metaTitle: "Cylinder bore scoring: noise, oil use, signs | Pro-Stuk"
 description: "Five signs of scored cylinder bores: a cold knock, oil consumption, lost power. Which engines are at risk, how the diagnosis is confirmed and what follows."
 pubDate: "2026-07-02"
 related:
@@ -110,7 +110,7 @@ different and more urgent question —
 [signs of big-end bearing knock](/en/articles/signs-of-big-end-bearing-knock/).
 
 If the engine has started knocking when cold and you suspect the worst,
-record the sound in the Stuk app. It matches the recording with your
+record the sound in the Pro-Stuk app. It matches the recording with your
 answers about the conditions and shows the likely causes with percentages
 and urgency: with that picture the decision about an endoscopy and a
 repair is easier and calmer.

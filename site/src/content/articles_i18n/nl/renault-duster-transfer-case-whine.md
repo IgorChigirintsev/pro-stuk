@@ -1,6 +1,6 @@
 ---
 title: "Gezoem uit de tussenbak van de Renault Duster"
-metaTitle: "Renault Duster: gezoem uit de tussenbak | Stuk"
+metaTitle: "Renault Duster: gezoem uit de tussenbak | Pro-Stuk"
 description: "Gezoem van onderen bij een Duster met vierwielaandrijving: hoe u tussenbak en achterdifferentieel scheidt van een wiellager en banden."
 faq:
   - q: "Het gezoem is er alleen boven 60 km/u. Is dat de tussenbak?"

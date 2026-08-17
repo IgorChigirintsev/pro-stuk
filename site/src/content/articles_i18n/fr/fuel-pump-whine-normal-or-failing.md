@@ -1,6 +1,6 @@
 ---
 title: "Bourdonnement de pompe à carburant : normal ou fin de vie"
-metaTitle: "Pompe à carburant qui bourdonne : normal ou pas | Stuk"
+metaTitle: "Pompe à carburant qui bourdonne : normal ou pas | Pro-Stuk"
 description: "Où passe la limite entre le bourdonnement ordinaire d'une pompe à carburant et le hurlement d'une pompe en fin de vie, et quels signes imposent d'agir."
 faq:
   - q: "La pompe bourdonne deux secondes quand je mets le contact. Est-ce normal ?"
@@ -108,7 +108,7 @@ l'intervalle recommandé. Ce sont les façons les plus légères de prolonger
 la vie d'une pompe.
 
 Si vous ne savez pas si le son a réellement grossi ou si vous vous faites
-des idées, enregistrez-le dans l'application Stuk — au moment du contact
+des idées, enregistrez-le dans l'application Pro-Stuk — au moment du contact
 puis au ralenti. Un mois plus tard, faites un second enregistrement dans
 les mêmes conditions et comparez : l'application les croise avec vos
 réponses et indique s'il s'agit d'un fond normal ou d'une panne qui se

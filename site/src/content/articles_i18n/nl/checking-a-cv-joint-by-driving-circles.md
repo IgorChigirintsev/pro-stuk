@@ -1,6 +1,6 @@
 ---
 title: "Een homokineet controleren door rondjes te rijden op een parkeerplaats"
-metaTitle: "Homokineet testen met rondjes rijden | Stuk"
+metaTitle: "Homokineet testen met rondjes rijden | Pro-Stuk"
 description: "Stap voor stap de buitenste homokineet testen op een leeg parkeerterrein: hoe u de rondjes rijdt, wat er moet klikken en waarom de test soms niets laat horen."
 faq:
   - q: "Waarom klikt een homokineet alleen bij een scherpe bocht?"

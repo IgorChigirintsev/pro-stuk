@@ -1,6 +1,6 @@
 ---
 title: "Fren pedalına vuran tıkırtı"
-metaTitle: "Fren pedalına vuran tıkırtı: sebepleri | Stuk"
+metaTitle: "Fren pedalına vuran tıkırtı: sebepleri | Pro-Stuk"
 description: "Fren pedalındaki tıkırtı ve geri tepme normal ABS çalışması olabilir, kaliperdeki ya da ön düzendeki boşluk da. Hangisi olduğu nasıl ayrılır."
 faq:
   - q: "Sert frende pedal tıkırdıyor ve titriyor, arıza mı?"
@@ -103,6 +103,6 @@ engelleyen şey odur.
 
 Kaliperin mi salıncağın mı tıkırdadığını kulakla söylemek tecrübeli bir
 sürücü için bile zordur: ses gövde üzerinden gelir ve adresini kaybeder.
-Bir dizi frenleme sırasında Stuk uygulamasında yapılan kayıt, kısa
+Bir dizi frenleme sırasında Pro-Stuk uygulamasında yapılan kayıt, kısa
 soruların cevaplarıyla birlikte olası sebepleri yüzdeyle veren bir liste
 çıkarır.

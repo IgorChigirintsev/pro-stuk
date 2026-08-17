@@ -1,6 +1,6 @@
 ---
 title: "Il suono cambia quando si mette in folle"
-metaTitle: "Il suono cambia in folle: che significa | Stuk"
+metaTitle: "Il suono cambia in folle: che significa | Pro-Stuk"
 description: "Ha messo in folle in movimento e il suono è cambiato. Che cosa dice sulla fonte, come eseguire la prova per bene e che cosa permette di escludere."
 faq:
   - q: "È sicuro mettere in folle in movimento?"
@@ -101,6 +101,6 @@ e l'insieme completo dei rumori di marcia sta nella pagina sintomo
 [ronzio in marcia](/it/symptoms/humming-while-driving/).
 
 Registrare entrambi i passaggi — con la marcia e in folle — è comodo
-nell'app Stuk: confronta le clip, le incrocia con le sue risposte su
+nell'app Pro-Stuk: confronta le clip, le incrocia con le sue risposte su
 velocità e condizioni e mostra le cause probabili in percentuale. In
 officina arriva con un'ipotesi invece che con un vago «fa un ronzio».

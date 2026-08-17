@@ -1,6 +1,6 @@
 ---
 title: "Chiado embaixo do capô depois de desligar"
-metaTitle: "Chiado embaixo do capô depois de desligar | Stuk"
+metaTitle: "Chiado embaixo do capô depois de desligar | Pro-Stuk"
 description: "Chiado embaixo do capô com o motor desligado pode ser inofensivo ou grave. Como separar escapamento esfriando de vazamento de água ou de vácuo."
 faq:
   - q: "Chiado logo depois de desligar é perigoso?"
@@ -94,7 +94,7 @@ funcionando está na página do sintoma
 
 Separar de ouvido um alívio normal de pressão de um vazamento não é fácil:
 a diferença não está no tom, e sim na duração e na repetição. Grave o som
-no aplicativo Stuk logo depois de desligar — ele cruza a gravação com suas
+no aplicativo Pro-Stuk logo depois de desligar — ele cruza a gravação com suas
 respostas sobre cheiro, nível de líquido e temperatura e mostra as causas
 prováveis em porcentagem, para você saber se vai à oficina amanhã ou apenas
 observa por uma semana.

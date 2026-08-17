@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura dei rulli della distribuzione"
-metaTitle: "Rulli distribuzione usurati: suoni e diagnosi | Stuk"
+metaTitle: "Rulli distribuzione usurati: suoni e diagnosi | Pro-Stuk"
 description: "Come suonano i rulli della distribuzione consumati: fruscio, fischio e ronzio da dietro il carter. Cosa rischia un rullo grippato e come distinguerlo dai rumori degli accessori."
 faq:
   - q: "Si può sostituire un solo rullo senza toccare la cinghia?"
@@ -115,5 +115,5 @@ stessa sede si consuma allo stesso modo.
 
 Se dalla parte anteriore del motore si sente un fischio o un fruscio e non è
 chiaro se siano i rulli, l'alternatore o la pompa, registri il suono con
-l'app Stuk: confronta la registrazione con i suoni tipici dei guasti e
+l'app Pro-Stuk: confronta la registrazione con i suoni tipici dei guasti e
 indica la fonte probabile e con quanta urgenza serve l'officina.

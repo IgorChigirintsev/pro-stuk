@@ -1,6 +1,6 @@
 ---
 title: "Supap tıkırtısının belirtileri"
-metaTitle: "Supap tıkırtısı: sesi ve ne yapmalı | Stuk"
+metaTitle: "Supap tıkırtısı: sesi ve ne yapmalı | Pro-Stuk"
 description: "Supap tıkırtısı nasıl duyulur, supap boşlukları neden kaçar, diğer motor seslerinden farkı ve boşluk ayarı ne kadar iş demektir."
 faq:
   - q: "Supap tıkırtısı nasıl bir sestir?"
@@ -126,7 +126,7 @@ Yani supaplarda «sessizse sorun yok» geçerli değildir: takvime bağlı bir
 kontrol, iki senaryodan da ucuzdur.
 
 Motor tıkırdamaya başladıysa ve bunun supaplar mı, külbütörler mi yoksa
-enjektörler mi olduğunu öğrenmek istiyorsanız, sesi Stuk uygulamasında
+enjektörler mi olduğunu öğrenmek istiyorsanız, sesi Pro-Stuk uygulamasında
 kaydedin. Uygulama kaydı cevaplarınızla eşleştirir ve olası nedenleri
 aciliyet seviyesiyle gösterir — ustayla konuşmadan önce elverişli bir
 başlangıç noktası.

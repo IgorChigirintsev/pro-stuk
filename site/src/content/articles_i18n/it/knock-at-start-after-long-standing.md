@@ -1,6 +1,6 @@
 ---
 title: "Battito all'avviamento dopo settimane di sosta"
-metaTitle: "Battito all'avvio dopo lunga sosta: cause | Stuk"
+metaTitle: "Battito all'avvio dopo lunga sosta: cause | Pro-Stuk"
 description: "Perché il motore batte nei primi secondi dopo settimane di sosta: olio sceso in coppa, punterie, tenditore della catena, variatori di fase. Dove finisce il normale."
 faq:
   - q: "Il motore batte per un paio di secondi dopo l'avviamento: è normale?"
@@ -106,6 +106,6 @@ i casi la decisione si prende con le misure e non a orecchio: chiedi che
 cosa è stato misurato prima di dare il via libera.
 
 Il modo più rapido per sapere se il tuo caso è innocuo è registrare il
-primo avviamento con l'app Stuk: confronta il suono con le tue risposte su
+primo avviamento con l'app Pro-Stuk: confronta il suono con le tue risposte su
 quanto è rimasta ferma l'auto e mostra le cause probabili in percentuale
 con il livello di urgenza.

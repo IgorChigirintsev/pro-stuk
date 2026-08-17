@@ -1,6 +1,6 @@
 ---
 title: "Piepen bij sturen tot de aanslag"
-metaTitle: "Piepen bij sturen tot de aanslag: oorzaken | Stuk"
+metaTitle: "Piepen bij sturen tot de aanslag: oorzaken | Pro-Stuk"
 description: "Waarom een auto piept als u het stuur tot de aanslag draait: de multiriem, de stuurbekrachtigingspomp of te weinig olie. Wanneer het normaal is en wanneer niet."
 faq:
   - q: "Is het schadelijk om het stuur tegen de aanslag te houden?"

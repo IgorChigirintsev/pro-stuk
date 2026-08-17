@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura delle testine dello sterzo"
-metaTitle: "Testine dello sterzo usurate: il rumore | Stuk"
+metaTitle: "Testine dello sterzo usurate: il rumore | Pro-Stuk"
 description: "Colpi sulle piccole asperità, gioco al volante, auto che vaga in rettilineo: come riconoscere le testine dello sterzo consumate e come controllarle da soli."
 faq:
   - q: "Come suona una testina dello sterzo usurata?"
@@ -137,6 +137,6 @@ accoppiamenti e i pezzi vicini, trasformando una riparazione economica in
 una costosa.
 
 Se qualcosa batte in basso e non è sicuro della diagnosi, registri il suono
-con l'app Stuk. L'app confronta la registrazione con le sue risposte su
+con l'app Pro-Stuk. L'app confronta la registrazione con le sue risposte su
 quando compare il colpo — sulle asperità, sterzando, in frenata — e mostra
 le cause probabili con un livello di urgenza.

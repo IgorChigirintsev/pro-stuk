@@ -1,6 +1,6 @@
 ---
 title: "Perché un motore a benzina comincia a suonare come un diesel"
-metaTitle: "Motore a benzina che sembra un diesel: cause | Stuk"
+metaTitle: "Motore a benzina che sembra un diesel: cause | Pro-Stuk"
 description: "Perché un motore a benzina comincia a battere come un diesel: gioco valvole, catena allungata, detonazione, iniezione diretta. Cosa controllare prima e in che ordine."
 faq:
   - q: "Cosa vuol dire che un motore a benzina sembra un diesel?"
@@ -134,7 +134,7 @@ ordinate una per una: ecco perché lo stesso lavoro pesa in modo molto
 diverso su due auto di taglia simile.
 
 Se vuole capirci qualcosa prima del viaggio in officina, registri il motore
-con l'app Stuk: al minimo e, se si può fare in sicurezza, sotto carico.
+con l'app Pro-Stuk: al minimo e, se si può fare in sicurezza, sotto carico.
 L'app confronta la registrazione con le sue risposte e mostra le cause
 probabili con un livello di urgenza: diventa più chiaro se si tratta di una
 registrazione di routine o del tipo di detonazione che non va rimandato.

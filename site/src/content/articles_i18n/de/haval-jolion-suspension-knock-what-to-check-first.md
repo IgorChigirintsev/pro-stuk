@@ -1,6 +1,6 @@
 ---
 title: "Haval Jolion: Fahrwerksklopfen — was zuerst zu prüfen ist"
-metaTitle: "Haval Jolion: Fahrwerksklopfen, Prüfreihenfolge | Stuk"
+metaTitle: "Haval Jolion: Fahrwerksklopfen, Prüfreihenfolge | Pro-Stuk"
 description: "Eine sinnvolle Reihenfolge zur Prüfung eines Klopfens im Vorderfahrwerk des Haval Jolion: von den Koppelstangen bis zu Federbeinlagern und Querlenkerbuchsen."
 faq:
   - q: "Ist ein Fahrwerksklopfen beim Jolion ein Garantiefall?"

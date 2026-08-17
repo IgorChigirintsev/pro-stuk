@@ -1,6 +1,6 @@
 ---
 title: "Heulen bei getretener Kupplung"
-metaTitle: "Heulen bei getretener Kupplung: was es ist | Stuk"
+metaTitle: "Heulen bei getretener Kupplung: was es ist | Pro-Stuk"
 description: "Ein Heulen, das beim Treten des Kupplungspedals auftritt, bedeutet fast immer das Ausrücklager. So bestätigen Sie es in einer Minute und das bedeutet die Reparatur."
 faq:
   - q: "Ist ein Heulen bei getretener Kupplung sicher das Ausrücklager?"

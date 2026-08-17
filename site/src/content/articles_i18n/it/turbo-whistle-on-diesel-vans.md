@@ -1,6 +1,6 @@
 ---
 title: "Fischio del turbo sui furgoni diesel: Sprinter, Transit"
-metaTitle: "Fischio del turbo su Sprinter e Transit diesel | Stuk"
+metaTitle: "Fischio del turbo su Sprinter e Transit diesel | Pro-Stuk"
 description: "Fischio del turbo sui furgoni diesel Sprinter e Transit: dove finisce la normalità e comincia una perdita d'aria o l'usura dell'albero, e come controllare i manicotti."
 faq:
   - q: "Un turbo fischia sempre un po': è normale?"
@@ -102,7 +102,7 @@ e in
 [segni di frizione consumata](/it/articles/signs-of-a-worn-clutch/).
 
 Se non è sicuro che il suono del suo turbo sia cambiato, lo registri
-nell'app Stuk: in accelerazione sotto carico e al minimo. L'app incrocia le
+nell'app Pro-Stuk: in accelerazione sotto carico e al minimo. L'app incrocia le
 registrazioni con le sue risposte e mostra le cause probabili in
 percentuale, e la registrazione stessa è utile come punto di riferimento:
 fra un mese avrà qualcosa con cui confrontarla.

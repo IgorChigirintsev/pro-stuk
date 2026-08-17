@@ -1,6 +1,6 @@
 ---
 title: "Cómo suena el golpeteo de los cojinetes de biela"
-metaTitle: "Golpeteo de cojinetes de biela: cómo suena | Stuk"
+metaTitle: "Golpeteo de cojinetes de biela: cómo suena | Pro-Stuk"
 description: "Un golpe metálico y duro en la mitad del bloque que crece bajo carga: cómo suenan los cojinetes de biela gastados, cómo se localizan y qué ponen en juego."
 faq:
   - q: "¿Puedo ir al taller por mi propio pie con golpeteo de biela?"
@@ -125,6 +125,6 @@ el uso urbano y hacer caso al testigo de presión.
 
 Si el sonido acaba de aparecer y no está seguro de que venga realmente de lo
 hondo del bloque, grabe un acelerón corto en punto muerto con la aplicación
-Stuk. La aplicación cruza la grabación con sus respuestas sobre las
+Pro-Stuk. La aplicación cruza la grabación con sus respuestas sobre las
 condiciones y muestra las causas probables con porcentajes, y le dice si el
 motor debería arrancarse siquiera antes de un diagnóstico.

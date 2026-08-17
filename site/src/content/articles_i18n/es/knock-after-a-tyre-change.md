@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo tras un cambio de neumáticos: qué comprobar"
-metaTitle: "Golpeteo tras un cambio de neumáticos: causas | Stuk"
+metaTitle: "Golpeteo tras un cambio de neumáticos: causas | Pro-Stuk"
 description: "De dónde sale un golpeteo tras un cambio de neumáticos: apriete de las ruedas, contrapesos, piedras en el dibujo, una llanta doblada. Qué comprobar uno mismo."
 faq:
   - q: "¿Por qué hay que reapretar las ruedas a los 50–100 km?"
@@ -132,6 +132,6 @@ Las páginas de síntoma
 causas por carácter y condiciones.
 
 Si el golpeteo sigue sin dar su nombre, grábelo: ponga a grabar la aplicación
-Stuk y pase por un tramo malo conocido. La aplicación compara el sonido con
+Pro-Stuk y pase por un tramo malo conocido. La aplicación compara el sonido con
 sus respuestas —cuándo apareció, dónde golpea, qué se cambió— y muestra las
 causas probables con porcentajes.

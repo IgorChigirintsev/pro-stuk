@@ -1,7 +1,7 @@
 ---
 ru: "gul-akpp-pervye-simptomy"
 title: "Automatic transmission whine: the early signs"
-metaTitle: "Automatic transmission whine: early signs | Stuk"
+metaTitle: "Automatic transmission whine: early signs | Pro-Stuk"
 description: "Whine from an automatic gearbox at an early stage: what it sounds like, how it differs from wheel bearing and tyre noise, and what gets checked first."
 pubDate: "2026-06-05"
 related:
@@ -104,6 +104,6 @@ book figure, and to count towing and long wheelspin in snow as a separate
 load on the gearbox rather than a detail.
 
 If the whine is quiet and you want to know whether it follows speed or the
-gear, record two short clips in the Stuk app: accelerating under power,
+gear, record two short clips in the Pro-Stuk app: accelerating under power,
 and the same speed while coasting. The app compares the recordings and
 suggests which direction — transmission or chassis — to look in first.

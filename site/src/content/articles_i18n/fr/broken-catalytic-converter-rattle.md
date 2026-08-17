@@ -1,6 +1,6 @@
 ---
 title: "Catalyseur cassé : le bruit qu'il fait"
-metaTitle: "Catalyseur cassé : à quoi ça ressemble | Stuk"
+metaTitle: "Catalyseur cassé : à quoi ça ressemble | Pro-Stuk"
 description: "Un bruissement de gravier sous le plancher et un cliquetis au ralenti : comment sonne une céramique de catalyseur cassée, comment vérifier et ce que ça risque."
 faq:
   - q: "Quel bruit fait un catalyseur dont la céramique s'est cassée ?"
@@ -106,7 +106,7 @@ sera gérée. Un devis qui répond seulement « on va supprimer le bruit »
 mérite une question de plus.
 
 Si vous entendez le bruissement mais que vous n'êtes pas sûr qu'il vienne
-de l'échappement, enregistrez-le dans l'application Stuk sur une route
+de l'échappement, enregistrez-le dans l'application Pro-Stuk sur une route
 dégradée et au démarrage. L'application compare l'enregistrement avec vos
 réponses à quelques questions et affiche les origines probables avec des
 pourcentages — ce qui aide à trancher entre passer à l'atelier en urgence

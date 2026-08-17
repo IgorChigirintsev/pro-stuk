@@ -1,6 +1,6 @@
 ---
 title: "Salıncak burçlarının aşınma belirtileri"
-metaTitle: "Aşınmış salıncak burcu: ses, test, onarım | Stuk"
+metaTitle: "Aşınmış salıncak burcu: ses, test, onarım | Pro-Stuk"
 description: "Aşınmış salıncak burcu nasıl belli olur: tıkırtı, gıcırtı, aracın çekmesi ve düzensiz lastik aşınması. Basit kontroller ve onarımda önemli noktalar."
 faq:
   - q: "Aşınmış burcun ilk belirtisi nedir?"
@@ -131,6 +131,6 @@ ucuz bir burç yerine grubun tamamı değişmek zorunda kalır. Genel bağlam
 sayfasında.
 
 Tıkırtı çıktı ama burçlar mı, rotil mi, başka bir şey mi belli değilse, sesi
-Stuk uygulamasında kaydedin. Kaydı verdiğiniz cevaplarla eşleştirir ve olası
+Pro-Stuk uygulamasında kaydedin. Kaydı verdiğiniz cevaplarla eşleştirir ve olası
 nedenleri aciliyet seviyesiyle gösterir — o listeyle serviste konuşma
 somutlaşır.

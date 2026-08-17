@@ -1,6 +1,6 @@
 ---
 title: "EP6: Klopfen der Ausgleichswellen bei Peugeot und Citroën"
-metaTitle: "EP6: was wirklich klopft, nicht die Wellen | Stuk"
+metaTitle: "EP6: was wirklich klopft, nicht die Wellen | Pro-Stuk"
 description: "Was im EP6-Motor tatsächlich klopft, wenn Besitzer von Ausgleichswellen sprechen: Kette, Spanner, Nockenwellenversteller und das Öl. Die Prüfungen."
 faq:
   - q: "Hat der EP6 überhaupt Ausgleichswellen?"

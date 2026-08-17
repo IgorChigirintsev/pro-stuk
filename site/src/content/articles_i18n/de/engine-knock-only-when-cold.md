@@ -1,6 +1,6 @@
 ---
 title: "Klopfen nur im kalten Motor: das ganze Bild"
-metaTitle: "Klopfen nur im Kalten: das ganze Bild | Stuk"
+metaTitle: "Klopfen nur im Kalten: das ganze Bild | Pro-Stuk"
 description: "Warum ein Motor nach dem Start klopft und mit dem Warmwerden verstummt: Stößel, Kolbenhemd, Kette, Versteller. Wo das Normale endet und Riefen beginnen."
 faq:
   - q: "Warum verschwindet das Klopfen genau mit dem Warmwerden?"

@@ -1,6 +1,6 @@
 ---
 title: "Poussoirs hydrauliques du Renault K4M : cliquetis à froid"
-metaTitle: "Bruit de poussoirs K4M Renault à froid | Stuk"
+metaTitle: "Bruit de poussoirs K4M Renault à froid | Pro-Stuk"
 description: "Le moteur K4M cliquette au démarrage à froid : comment fonctionnent les poussoirs hydrauliques, pourquoi ils claquent, quand une vidange suffit et quand il faut les remplacer."
 faq:
   - q: "Pourquoi les poussoirs ne cliquettent-ils que les premières secondes après le démarrage ?"
@@ -100,7 +100,7 @@ sont détaillés dans
 [rouler avec des poussoirs hydrauliques bruyants](/fr/articles/driving-with-noisy-hydraulic-lifters/).
 
 Pour juger si votre cliquetis reste dans la norme, enregistrez le son dans
-l'application Stuk juste après un démarrage à froid, puis de nouveau moteur
+l'application Pro-Stuk juste après un démarrage à froid, puis de nouveau moteur
 chaud. L'application compare les enregistrements à vos réponses sur le
 kilométrage et la dernière vidange et affiche les causes probables en
 pourcentages — avec une indication sur l'opportunité d'aller au garage

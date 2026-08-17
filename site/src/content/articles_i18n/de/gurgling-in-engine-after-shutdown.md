@@ -1,6 +1,6 @@
 ---
 title: "Gluckern im Motor nach dem Abstellen"
-metaTitle: "Gluckern nach dem Abstellen: die Ursachen | Stuk"
+metaTitle: "Gluckern nach dem Abstellen: die Ursachen | Pro-Stuk"
 description: "Gluckern nach dem Abstellen: wann es normales Abkühlen ist und wann Luft im System, ein müder Deckel oder die Kopfdichtung. Prüfungen in fünf Minuten."
 faq:
   - q: "Heißt Gluckern nach dem Abstellen immer, dass etwas kocht?"

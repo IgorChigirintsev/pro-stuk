@@ -1,6 +1,6 @@
 ---
 title: "Trillingen en gezoem bij 100 km/u"
-metaTitle: "Trillingen en gezoem bij 100 km/u: de oorzaken | Stuk"
+metaTitle: "Trillingen en gezoem bij 100 km/u: de oorzaken | Pro-Stuk"
 description: "Waar trillingen en gezoem bij 100 km/u vandaan komen: balanceren, een kromme velg, een wiellager of bandengeluid. Zelftests binnen één rit."
 faq:
   - q: "Waarom komen de trillingen juist rond 100 km/u?"

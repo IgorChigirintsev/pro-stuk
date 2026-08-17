@@ -1,6 +1,6 @@
 ---
 title: "Chevrolet Cruze: ronco do rolamento do alternador"
-metaTitle: "Cruze: ronco do rolamento do alternador | Stuk"
+metaTitle: "Cruze: ronco do rolamento do alternador | Pro-Stuk"
 description: "Assobio embaixo do capô do Cruze que sobe com o giro: como separar o rolamento do alternador das polias, da bomba d'água e da polia livre."
 faq:
   - q: "O assobio embaixo do capô sobe com o giro. É o alternador?"
@@ -86,7 +86,7 @@ quilômetros, troque-as junto com o serviço do alternador. O acesso é o
 mesmo, e uma segunda visita pelo mesmo motivo em seis meses custa mais do
 que as peças custam agora.
 
-Para não checar tudo no chute, grave o som com o aplicativo Stuk com o
+Para não checar tudo no chute, grave o som com o aplicativo Pro-Stuk com o
 capô aberto: primeiro em marcha lenta, depois com o giro subindo
 suavemente. O app cruza as gravações com as suas respostas a algumas
 perguntas e mostra as causas prováveis com percentuais — assim fica claro

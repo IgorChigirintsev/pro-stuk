@@ -1,6 +1,6 @@
 ---
 title: "Crujido al balancear el coche"
-metaTitle: "Crujido al balancear el coche: causas y reparación | Stuk"
+metaTitle: "Crujido al balancear el coche: causas y reparación | Pro-Stuk"
 description: "Por qué cruje la carrocería al balancearla a mano y en ondulaciones: casquillos de la barra, silentblocks, copelas. Cómo encontrar el punto que cruje."
 faq:
   - q: "¿Por qué el crujido empeora tras la lluvia, un lavado o con helada?"
@@ -103,7 +103,7 @@ crujido suele bastar, porque el origen se encuentra en minutos balanceando y
 mirando la goma.
 
 Si quiere decidir antes de ir al taller, grabe el crujido con la aplicación
-Stuk mientras balancea el coche o al pasar por una ondulación característica.
+Pro-Stuk mientras balancea el coche o al pasar por una ondulación característica.
 El algoritmo compara la grabación con sus respuestas y muestra los orígenes
 probables con un nivel de urgencia: queda claro si la visita puede esperar o
 es mejor pedirla esta misma semana.

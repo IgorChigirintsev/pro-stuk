@@ -1,6 +1,6 @@
 ---
 title: "Comprobar una junta homocinética dando círculos en un aparcamiento"
-metaTitle: "Comprobar una junta homocinética dando círculos | Stuk"
+metaTitle: "Comprobar una junta homocinética dando círculos | Pro-Stuk"
 description: "Prueba paso a paso de la junta homocinética exterior en un aparcamiento vacío: cómo dar los círculos, qué debe sonar y por qué a veces no revela nada."
 faq:
   - q: "¿Por qué una junta homocinética solo suena en giro cerrado?"
@@ -105,6 +105,6 @@ sino en el régimen concreto en el que la avería está obligada a
 manifestarse.
 
 Si oye chasquidos pero no está seguro de que sea el sonido correcto, ponga a
-grabar la aplicación Stuk mientras da el círculo. La aplicación compara el
+grabar la aplicación Pro-Stuk mientras da el círculo. La aplicación compara el
 sonido con sus respuestas sobre el régimen y el lado, y muestra las causas
 probables con porcentajes.

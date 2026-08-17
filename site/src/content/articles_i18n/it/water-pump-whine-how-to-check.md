@@ -1,6 +1,6 @@
 ---
 title: "La pompa dell'acqua ronza: come verificarla"
-metaTitle: "Pompa acqua che ronza: come controllarla | Stuk"
+metaTitle: "Pompa acqua che ronza: come controllarla | Pro-Stuk"
 description: "Perché la pompa dell'acqua ronza, come distinguere il suo rumore da alternatore e pulegge folli, controlli semplici senza smontare nulla e come si decide la riparazione."
 faq:
   - q: "Come faccio a capire che è la pompa e non l'alternatore o una puleggia folle?"
@@ -122,7 +122,7 @@ sostituzione programmata. Andando in officina tenga d'occhio
 l'indicatore della temperatura e non tiri il motore.
 
 Se non è sicuro che sia la pompa, registri il rumore sotto il cofano con
-l'app Stuk: confronta la registrazione con le sue risposte su quando e
+l'app Pro-Stuk: confronta la registrazione con le sue risposte su quando e
 come compare il rumore e mostra le cause probabili con un livello di
 urgenza — così arriva con una teoria precisa invece che con un generico
 «c'è qualcosa che ronza».

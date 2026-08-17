@@ -1,7 +1,7 @@
 ---
 ru: "svist-pri-tormozhenii-na-maloj-skorosti"
 title: "Brake squeal at low speed"
-metaTitle: "Brake squeal at low speed: causes explained | Stuk"
+metaTitle: "Brake squeal at low speed: causes explained | Pro-Stuk"
 description: "A brake squeal at 5–20 km/h can be harmless pad vibration or the wear indicator doing its job. How to tell them apart and what the repair depends on."
 pubDate: "2026-07-21"
 related:
@@ -118,7 +118,7 @@ see
 [can you drive with grinding brakes](/en/articles/can-you-drive-with-grinding-brakes/).
 
 If you want to know what is actually sounding before booking anything,
-record the squeal in the Stuk app while rolling up to a light. The app
+record the squeal in the Pro-Stuk app while rolling up to a light. The app
 breaks the recording down by frequency, matches it with your answers to a
 few questions about the conditions and shows the likely causes with
 percentages — usually enough to decide between going now and waiting for

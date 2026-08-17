@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con la bomba de agua zumbando?"
-metaTitle: "¿Se puede circular con la bomba de agua zumbando? | Stuk"
+metaTitle: "¿Se puede circular con la bomba de agua zumbando? | Pro-Stuk"
 description: "El zumbido de la bomba de agua delata un rodamiento gastado. Qué arriesga según el tipo de arrastre, cómo comprobarla en cinco minutos y cómo se decide la reparación."
 faq:
   - q: "¿Cuánto se puede circular con la bomba de agua zumbando?"
@@ -110,7 +110,7 @@ que hacen ruido. Y hay sonidos que obligan a parar el motor en el sitio, sin
 intentar llegar a ningún lado.
 
 Si oye un zumbido bajo el capó pero no sabe de quién es —la bomba, el
-alternador o una polea tensora—, grábelo en la aplicación Stuk a ralentí y
+alternador o una polea tensora—, grábelo en la aplicación Pro-Stuk a ralentí y
 dando un acelerón. La aplicación compara la grabación con sus respuestas
 sobre el motor y muestra los orígenes probables con porcentajes, para que
 el taller mire en el sitio correcto desde el principio.

@@ -1,6 +1,6 @@
 ---
 title: "Emme sisteminde hava kaçağının belirtileri"
-metaTitle: "Emmede hava kaçağı: belirtiler ve arama | Stuk"
+metaTitle: "Emmede hava kaçağı: belirtiler ve arama | Pro-Stuk"
 description: "Rölanti dalgalanması, kaputun altından ıslık ya da tıslama, fakir karışım ve yakıt düzeltme kodları — hava kaçağı nasıl tanınır, servis nasıl bulur."
 faq:
   - q: "Hava kaçağı rölantiyi neden dalgalandırır?"
@@ -99,7 +99,7 @@ rölantinin dalgalanmasını asıl durduran şey, aynı anda yapılan bu
 temizliktir.
 
 Kaputun altından tıslama duyuluyor ama kulakla yerini koyamıyorsanız, sesi
-Stuk uygulamasında önce rölantide, sonra devri biraz yükselterek kaydedin.
+Pro-Stuk uygulamasında önce rölantide, sonra devri biraz yükselterek kaydedin.
 Uygulama kaydı, rölantinin nasıl davrandığına dair cevaplarınızla
 eşleştirir ve olası nedenleri yüzdeleriyle gösterir — bu listeyle, körü
 körüne sensör değiştirmek yerine duman testi istemek daha kolaydır. Emmeye

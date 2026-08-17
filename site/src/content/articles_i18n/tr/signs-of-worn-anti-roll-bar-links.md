@@ -1,6 +1,6 @@
 ---
 title: "Viraj demiri rotlarının aşınma belirtileri"
-metaTitle: "Viraj demiri rotu: tıkırtı ve testler | Stuk"
+metaTitle: "Viraj demiri rotu: tıkırtı ve testler | Pro-Stuk"
 description: "Aşınmış viraj demiri rotu nasıl tıkırdar, sesi amortisör ve rotilden nasıl ayrılır, basit kontroller ve değişimde belirleyici olan noktalar."
 faq:
   - q: "Aşınmış viraj demiri rotunun en tipik belirtisi nedir?"
@@ -122,6 +122,6 @@ bitirir, tıkırtı süspansiyondaki başka arızaları maskeler ve kopmuş rotl
 araç sert bir manevrada çizgisini belirgin şekilde daha kötü tutar. Parça bu
 kadar ucuzken değişimden kısmak nadiren mantıklıdır.
 
-Tıkırdayanın rotlar olduğundan emin değilseniz sesi Stuk uygulamasında
+Tıkırdayanın rotlar olduğundan emin değilseniz sesi Pro-Stuk uygulamasında
 kaydedin: kaydı verdiğiniz cevaplarla eşleştirir ve olası nedenleri aciliyet
 derecesiyle gösterir — o listeyle ustayla konuşma somutlaşır.

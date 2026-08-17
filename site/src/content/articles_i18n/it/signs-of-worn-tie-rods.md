@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura dei tiranti dello sterzo"
-metaTitle: "Tiranti sterzo usurati: colpi, giochi, deriva | Stuk"
+metaTitle: "Tiranti sterzo usurati: colpi, giochi, deriva | Pro-Stuk"
 description: "Come riconoscere i tiranti dello sterzo usurati: colpi sulle piccole asperità, gioco al volante, auto che tira. Verifiche da fare da soli e cosa comporta la riparazione."
 faq:
   - q: "Che differenza c'è fra tirante dello sterzo e testina dello sterzo?"
@@ -109,6 +109,6 @@ una stagione, ed è per questo che l'ispezione delle cuffie fa parte di
 qualsiasi diagnosi del telaio.
 
 Se si sente un colpo nello sterzo ma la diagnosi non è chiara, registri il
-suono con l'app Stuk su un tratto rappresentativo. L'app confronta la
+suono con l'app Pro-Stuk su un tratto rappresentativo. L'app confronta la
 registrazione con le sue risposte e mostra le cause probabili con un
 livello di urgenza, così arriva in officina con un'ipotesi già pronta.

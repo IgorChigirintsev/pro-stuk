@@ -1,6 +1,6 @@
 ---
 title: "Un claquement ressenti dans la pédale de frein"
-metaTitle: "Claquement ressenti dans la pédale de frein : causes | Stuk"
+metaTitle: "Claquement ressenti dans la pédale de frein : causes | Pro-Stuk"
 description: "Claquements et retours dans la pédale de frein : fonctionnement normal de l'ABS, jeu dans l'étrier ou usure du train roulant. Comment les distinguer."
 faq:
   - q: "La pédale claque et vibre au freinage appuyé, est-ce une panne ?"
@@ -107,6 +107,6 @@ puisque c'est lui qui empêche la plaquette de bouger.
 
 Dire à l'oreille si c'est un étrier ou un bras qui claque est difficile
 même pour un conducteur expérimenté : le son arrive par la caisse et perd
-son adresse. Un enregistrement fait dans l'application Stuk pendant une
+son adresse. Un enregistrement fait dans l'application Pro-Stuk pendant une
 série d'arrêts, avec les réponses à de courtes questions, donne une liste
 de causes probables avec leurs pourcentages.

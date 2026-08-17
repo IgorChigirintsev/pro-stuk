@@ -1,6 +1,6 @@
 ---
 title: "Golpe al soltar el acelerador"
-metaTitle: "Golpe al soltar el acelerador: soportes y transmisión | Stuk"
+metaTitle: "Golpe al soltar el acelerador: soportes y transmisión | Pro-Stuk"
 description: "Un golpe seco justo al levantar el pie del acelerador: soportes de motor gastados, holguras en la transmisión, cadena de distribución o escape. Cómo localizar el origen."
 faq:
   - q: "¿Por qué el golpe se oye al soltar el gas y no de forma continua?"
@@ -113,6 +113,6 @@ y el mapa general de ruidos de motor está en
 [todos los golpes de motor por su sonido](/es/articles/engine-knock-all-causes-by-sound/).
 
 Acortar la lista más deprisa es justo para lo que sirve la aplicación
-Stuk: grabe el sonido en el momento de soltar el gas, responda a unas
+Pro-Stuk: grabe el sonido en el momento de soltar el gas, responda a unas
 preguntas sobre las condiciones y obtendrá las causas probables con
 porcentajes y un nivel de urgencia.

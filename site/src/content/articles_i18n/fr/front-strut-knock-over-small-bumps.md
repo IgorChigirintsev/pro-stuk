@@ -1,6 +1,6 @@
 ---
 title: "Claquement des jambes de force avant sur les petites bosses"
-metaTitle: "Claquement des jambes avant : quoi contrôler | Stuk"
+metaTitle: "Claquement des jambes avant : quoi contrôler | Pro-Stuk"
 description: "Un claquement sec des jambes de force avant sur les petites bosses : séparer l'amortisseur des coupelles et de la barre, et les contrôles à faire soi-même."
 faq:
   - q: "Pourquoi le claquement ne s'entend-il que sur les petites bosses ?"
@@ -112,7 +112,7 @@ presque entièrement, et un second passage demande presque autant que le
 premier.
 
 Pour éviter de deviner ce qui claque exactement, enregistrez le son dans
-l'application Stuk en roulant sur une portion dégradée que vous
+l'application Pro-Stuk en roulant sur une portion dégradée que vous
 connaissez. L'application compare l'enregistrement avec vos réponses à
 quelques questions et affiche les causes probables avec leurs
 pourcentages — avec cette liste, il est plus facile de convenir avec un

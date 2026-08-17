@@ -1,6 +1,6 @@
 ---
 title: "Rumori dopo il lavaggio del vano motore"
-metaTitle: "Rumori dopo il lavaggio del motore: perché | Stuk"
+metaTitle: "Rumori dopo il lavaggio del motore: perché | Pro-Stuk"
 description: "Fischio, sferragliamento o scuotimento al minimo dopo aver lavato il vano motore. Quali rumori passano da soli in un paio di giorni e quali indicano un pezzo bagnato."
 faq:
   - q: "Quanto dura il fischio della cinghia dopo un lavaggio?"
@@ -102,7 +102,7 @@ pressione. Questo elimina gran parte degli scenari descritti qui.
 
 La parte difficile è capire se il rumore sta davvero calando. L'orecchio
 ricorda male i volumi, ma coglie bene le differenze in un confronto
-diretto. Registri l'avviamento mattutino con l'app Stuk il primo giorno e
+diretto. Registri l'avviamento mattutino con l'app Pro-Stuk il primo giorno e
 lo ripeta il terzo: l'app confronta le registrazioni con le sue risposte e
 mostra se la situazione sta rientrando o se è ora di prenotare una
 diagnosi.

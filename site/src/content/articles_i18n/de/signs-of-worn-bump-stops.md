@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Anschlagpuffer"
-metaTitle: "Anschlagpuffer verschlissen: Zeichen und Tausch | Stuk"
+metaTitle: "Anschlagpuffer verschlissen: Zeichen und Tausch | Pro-Stuk"
 description: "Dumpfe Schläge in Schlaglöchern, Krümel im Federbeindom, durchschlagendes Fahrwerk: so erkennen Sie verschlissene Anschlagpuffer und warum sie mitgehen."
 faq:
   - q: "Was ist ein Anschlagpuffer und wozu dient er?"

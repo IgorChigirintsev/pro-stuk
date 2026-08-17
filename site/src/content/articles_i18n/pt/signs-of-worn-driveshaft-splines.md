@@ -1,6 +1,6 @@
 ---
 title: "Sinais de estrias do semieixo gastas"
-metaTitle: "Estrias do semieixo gastas: como reconhecer | Stuk"
+metaTitle: "Estrias do semieixo gastas: como reconhecer | Pro-Stuk"
 description: "Estalo ao alternar acelerador e freio, batida na saída e folga no semieixo: como reconhecer estrias gastas e separar da junta homocinética."
 faq:
   - q: "Como as estrias gastas diferem de uma junta homocinética gasta?"
@@ -103,6 +103,6 @@ semana.
 
 Se o som é ocasional e você não tem certeza de que ele se repete
 especificamente na mudança de tração, grave duas ou três saídas no
-aplicativo Stuk. Ele cruza o som com a descrição do regime e mostra as
+aplicativo Pro-Stuk. Ele cruza o som com a descrição do regime e mostra as
 causas prováveis com porcentagens — e ajuda você a explicar ao mecânico
 exatamente quando aquilo acontece.

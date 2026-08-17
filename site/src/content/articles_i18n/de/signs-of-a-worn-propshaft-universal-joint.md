@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein verschlissenes Kreuzgelenk der Kardanwelle"
-metaTitle: "Kreuzgelenk der Kardanwelle: die Zeichen | Stuk"
+metaTitle: "Kreuzgelenk der Kardanwelle: die Zeichen | Pro-Stuk"
 description: "Ein Schlag beim Anfahren, Vibration bei Tempo, metallisches Klingen unter dem Boden — so lesen Sie den Verschleiß eines Kreuzgelenks nach Stadien."
 faq:
   - q: "Wie unterscheide ich ein Kreuzgelenk vom Mittellager?"

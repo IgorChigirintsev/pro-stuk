@@ -1,6 +1,6 @@
 ---
 title: "Como achar um protetor térmico chacoalhando"
-metaTitle: "Protetor térmico chacoalhando: como achar | Stuk"
+metaTitle: "Protetor térmico chacoalhando: como achar | Pro-Stuk"
 description: "Um chacoalho metálico numa faixa estreita de rotação costuma ser protetor térmico solto. Como achar em dez minutos e como se fixa direito."
 faq:
   - q: "Por que a chapa só chacoalha em certas rotações?"
@@ -101,6 +101,6 @@ e vale perguntar isso antes de aceitar. O panorama dos vazamentos está em
 
 Se você ouve o chacoalho mas não consegue reproduzi-lo com o carro parado
 — porque ele só aparece andando, por exemplo — grave o som no aplicativo
-Stuk durante a viagem. O aplicativo cruza a gravação com as suas respostas
+Pro-Stuk durante a viagem. O aplicativo cruza a gravação com as suas respostas
 sobre o que o barulho acompanha e sugere o que inspecionar primeiro, para
 que ninguém pague por uma busca às cegas.

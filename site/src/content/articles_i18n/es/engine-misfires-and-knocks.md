@@ -1,6 +1,6 @@
 ---
 title: "El motor falla y golpea"
-metaTitle: "El motor falla y golpea: causas y qué hacer | Stuk"
+metaTitle: "El motor falla y golpea: causas y qué hacer | Pro-Stuk"
 description: "El motor tiembla, el ralentí baila y hay un golpeteo: causas desde bujías y bobinas hasta cilindros rayados. Cómo hallar el cilindro muerto y qué cuesta esperar."
 faq:
   - q: "¿Puedo circular mientras el motor falla?"
@@ -109,7 +109,7 @@ un fallo de encendido de larga duración, sustituirlo sin arreglar antes el
 fallo simplemente destruye el nuevo. Cualquier taller que ofrezca un
 catalizador antes de curar el fallo tiene el orden equivocado.
 
-Para llegar preparado, grabe el motor en marcha con la aplicación Stuk:
+Para llegar preparado, grabe el motor en marcha con la aplicación Pro-Stuk:
 analiza el sonido, hace unas cuantas preguntas sobre las condiciones y muestra
 las causas probables con porcentajes y urgencia. Con ese cuadro por adelantado
 es más fácil vigilar a la vez el diagnóstico y el presupuesto.

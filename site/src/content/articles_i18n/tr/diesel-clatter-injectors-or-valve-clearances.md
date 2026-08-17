@@ -1,6 +1,6 @@
 ---
 title: "Dizel gibi takırtı: enjektörler mi, supap boşlukları mı"
-metaTitle: "Dizel gibi takırtı: enjektör mü supap mı | Stuk"
+metaTitle: "Dizel gibi takırtı: enjektör mü supap mı | Pro-Stuk"
 description: "Benzinli motor dizel gibi takırdamaya başladı: ne zaman enjektörler, ne zaman supap boşlukları suçludur ve ikisi kulakla nasıl ayrılır."
 faq:
   - q: "Benzinli motor neden dizel gibi ses verir?"
@@ -96,7 +96,7 @@ külbütör kapağı contası da değişsin. Küçük bir parçadır, sonraya b�
 aynı sökme işini iki kez ödemek demektir.
 
 Dizel gibi takırtı, kelimeyle anlatmanın neredeyse imkânsız, kaydetmenin ise
-kolay olduğu bir durumdur. Stuk uygulamasına iki kayıt alın: soğuk
+kolay olduğu bir durumdur. Pro-Stuk uygulamasına iki kayıt alın: soğuk
 çalıştırmadan hemen sonra ve on dakikalık çalışmadan sonra. Uygulama bunları
 frekans ve karaktere göre inceler, muhtemel nedenleri yüzdeleriyle gösterir
 ve servise somut bir teoriyle gitmenizi sağlar.

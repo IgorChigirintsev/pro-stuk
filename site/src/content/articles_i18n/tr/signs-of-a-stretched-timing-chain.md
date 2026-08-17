@@ -1,6 +1,6 @@
 ---
 title: "Uzamış triger zincirinin belirtileri"
-metaTitle: "Uzamış triger zinciri: ses, kodlar, kontrol | Stuk"
+metaTitle: "Uzamış triger zinciri: ses, kodlar, kontrol | Pro-Stuk"
 description: "Uzamış triger zincirinin sesi nasıldır, hangi arıza kodlarını verir, uzama motor sökülmeden nasıl ölçülür ve iş nasıl planlanır."
 faq:
   - q: "Uzamış triger zincirinin en ilk işareti nedir?"
@@ -149,5 +149,5 @@ olduğu anda yakalayan adım budur.
 aşınmış bir sette uzunluk farkı çıplak gözle görülür.
 
 Zincir mi başka bir şey mi olduğundan emin değilseniz bir kayıtla
-başlayın: Stuk uygulaması çalışan motoru yanıtlarınızla birlikte analiz
+başlayın: Pro-Stuk uygulaması çalışan motoru yanıtlarınızla birlikte analiz
 eder ve olası nedenleri yüzdeleriyle gösterir.

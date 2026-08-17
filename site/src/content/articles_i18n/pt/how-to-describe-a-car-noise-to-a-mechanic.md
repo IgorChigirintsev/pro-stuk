@@ -1,6 +1,6 @@
 ---
 title: "O que dizer ao mecânico: como descrever o ruído direito"
-metaTitle: "Como descrever um ruído do carro ao mecânico | Stuk"
+metaTitle: "Como descrever um ruído do carro ao mecânico | Pro-Stuk"
 description: "Como descrever o ruído para o mecânico entender de primeira: as cinco coisas que importam, frases que funcionam, erros comuns e o que não dizer."
 faq:
   - q: "Devo dizer qual peça eu suspeito?"
@@ -103,7 +103,7 @@ ruído deve dizer isso com todas as letras, em vez de trocar peças por
 suspeita. «Não conseguimos reproduzir, volte quando estiver constante» é
 uma resposta honesta e mais barata que uma lista de serviços no chute.
 
-Se juntar tudo isso na hora parece difícil, o aplicativo Stuk faz
+Se juntar tudo isso na hora parece difícil, o aplicativo Pro-Stuk faz
 exatamente essas perguntas em ordem e junta as respostas com a gravação
 num único cartão: caráter, localização, condições, o que acompanha e as
 causas prováveis com percentuais. Mostrar esse cartão ao mecânico já

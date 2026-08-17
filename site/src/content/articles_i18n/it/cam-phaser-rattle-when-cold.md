@@ -1,6 +1,6 @@
 ---
 title: "Battito dei variatori di fase a freddo"
-metaTitle: "Battito dei variatori di fase a freddo | Stuk"
+metaTitle: "Battito dei variatori di fase a freddo | Pro-Stuk"
 description: "Perché i variatori di fase battono nei primi secondi dopo un avviamento a freddo: attuatore consumato, elettrovalvola OCV, olio. Come controllare e cosa segue."
 faq:
   - q: "Quanti secondi di battito dopo l'avviamento sono normali?"
@@ -104,6 +104,6 @@ l'usura della catena, il motore perde potenza e comincia a consumare di
 più.
 
 Non è sicura che a battere siano i variatori di fase? Registri un
-avviamento a freddo con l'app Stuk: l'algoritmo confronta il suono con i
+avviamento a freddo con l'app Pro-Stuk: l'algoritmo confronta il suono con i
 profili tipici, tiene conto delle sue risposte sul momento e sulla durata
 del battito e mostra le cause probabili con un livello di urgenza.

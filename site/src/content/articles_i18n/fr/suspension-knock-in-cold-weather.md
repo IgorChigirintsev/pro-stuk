@@ -1,6 +1,6 @@
 ---
 title: "Cognement de la suspension par grand froid"
-metaTitle: "Cognement de suspension par grand froid | Stuk"
+metaTitle: "Cognement de suspension par grand froid | Pro-Stuk"
 description: "Pourquoi la suspension cogne au froid et se tait une fois chaude : caoutchouc raidi, huile d'amortisseur épaissie, plastique. Ce qui est grave et ce qui ne l'est pas."
 faq:
   - q: "Le bruit part une fois chaud : puis-je l'ignorer ?"
@@ -107,7 +107,7 @@ polyuréthane gagne sa place là où les pièces d'origine ne tiennent pas une
 saison.
 
 Si vous hésitez entre normal et usure, enregistrez le cognement du matin en
-roulant dans l'application Stuk. L'algorithme recoupe le son avec vos
+roulant dans l'application Pro-Stuk. L'algorithme recoupe le son avec vos
 réponses sur la température et les conditions et montre les causes
 probables avec un niveau d'urgence : il est plus facile de décider entre y
 aller tout de suite et attendre calmement un rendez-vous planifié.

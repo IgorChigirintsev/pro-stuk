@@ -1,6 +1,6 @@
 ---
 title: "Ein Mechanikerstethoskop selbst bauen"
-metaTitle: "Mechanikerstethoskop selbst bauen: Anleitung | Stuk"
+metaTitle: "Mechanikerstethoskop selbst bauen: Anleitung | Pro-Stuk"
 description: "Wie Sie ein Autostethoskop aus Schraubendreher, Schlauch oder Rohr bauen, wo Sie am Motor und den Nebenaggregaten abhören und welche Sicherheitsregeln gelten."
 faq:
   - q: "Funktioniert ein Schraubendreher wirklich statt eines Stethoskops?"

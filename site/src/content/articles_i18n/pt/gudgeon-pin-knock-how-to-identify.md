@@ -1,6 +1,6 @@
 ---
 title: "Batida do pino do pistão: como identificar"
-metaTitle: "Batida do pino do pistão: como identificar | Stuk"
+metaTitle: "Batida do pino do pistão: como identificar | Pro-Stuk"
 description: "Como soa a batida do pino do pistão, no que difere da detonação e do ruído das válvulas, quais testes confirmam e o que o reparo envolve."
 faq:
   - q: "A «batida de pino» ao acelerar é mesmo o pino do pistão?"
@@ -112,5 +112,5 @@ giro alto, sem carga cheia. A folga cresce em ritmo acelerado, e cada
 quilômetro sob carga empurra o reparo para a versão mais cara.
 
 Se você não tem certeza do diagnóstico — e com batida de motor ninguém tem
-—, grave o som no aplicativo Stuk: ele cruza a gravação com suas respostas
+—, grave o som no aplicativo Pro-Stuk: ele cruza a gravação com suas respostas
 sobre as condições e mostra as causas prováveis com porcentagens.

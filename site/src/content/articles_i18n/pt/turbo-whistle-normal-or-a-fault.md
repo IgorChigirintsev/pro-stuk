@@ -1,6 +1,6 @@
 ---
 title: "Assobio do turbo: normal ou defeito"
-metaTitle: "Assobio do turbo: normal ou defeito? | Stuk"
+metaTitle: "Assobio do turbo: normal ou defeito? | Pro-Stuk"
 description: "Quando o assobio do turbo é som de fábrica e quando indica vazamento ou desgaste: como diferenciar assobio de pressão de chiado de correia e o que checar primeiro."
 faq:
   - q: "Turbo sempre assobia, ou isso é sinal de defeito?"
@@ -106,7 +106,7 @@ marcha lenta antes de desligar depois de um trecho puxado não custa nada e
 aumenta bastante a durabilidade.
 
 Se a voz do turbo mudou e você não consegue dizer quanto só de ouvido,
-grave dois trechos no aplicativo Stuk: aceleração sob carga e marcha lenta
+grave dois trechos no aplicativo Pro-Stuk: aceleração sob carga e marcha lenta
 com motor quente. O app compara os dois e mostra as causas prováveis com
 porcentagens — assim a conversa na oficina começa não com um «tá
 assobiando» genérico, mas com uma condição de funcionamento específica.

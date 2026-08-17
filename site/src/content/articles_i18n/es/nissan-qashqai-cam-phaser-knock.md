@@ -1,6 +1,6 @@
 ---
 title: "Golpe del desfasador en el Nissan Qashqai"
-metaTitle: "Golpe del desfasador en Nissan Qashqai: causas | Stuk"
+metaTitle: "Golpe del desfasador en Nissan Qashqai: causas | Pro-Stuk"
 description: "Un traqueteo corto al arrancar en frío en un Qashqai suele venir del desfasador. Cómo distinguirlo de la cadena de distribución y qué comprueba un taller."
 faq:
   - q: "¿Es peligroso un traqueteo corto al arrancar en un Qashqai?"
@@ -105,6 +105,6 @@ los primeros metros, y cómo comprobarlas está en
 [cómo comprobar una rótula usted mismo](/es/articles/how-to-check-a-ball-joint-yourself/).
 
 Si quiere entender qué traquetea antes de hablar con un mecánico, grabe el
-sonido con la aplicación Stuk en el momento del arranque en frío, de pie
+sonido con la aplicación Pro-Stuk en el momento del arranque en frío, de pie
 junto al capó abierto. La aplicación cruza la grabación con sus respuestas
 a unas pocas preguntas y muestra las causas probables con porcentajes.

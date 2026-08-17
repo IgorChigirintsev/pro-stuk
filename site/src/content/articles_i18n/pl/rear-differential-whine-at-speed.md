@@ -1,6 +1,6 @@
 ---
 title: "Wycie tylnego mostu na prędkości"
-metaTitle: "Wycie tylnego mostu na prędkości: przyczyny | Stuk"
+metaTitle: "Wycie tylnego mostu na prędkości: przyczyny | Pro-Stuk"
 description: "Wycie z tyłu, które zmienia się przy gazie i na hamowaniu silnikiem, to klasyczny charakter tylnego mostu. Jak odróżnić je od łożysk kół."
 faq:
   - q: "Jak odróżnić wycie mostu od buczenia łożyska koła?"
@@ -95,7 +95,7 @@ nie na wyczucie: most złożony „na ucho” zaczyna wyć ponownie w ciągu kil
 miesięcy i to najczęstszy powód nieudanej regeneracji.
 
 Jeśli wycie jest jeszcze ciche, a chcesz potwierdzić, że naprawdę zmienia się
-od gazu, nagraj w aplikacji Stuk dwa krótkie fragmenty: jeden pod gazem,
+od gazu, nagraj w aplikacji Pro-Stuk dwa krótkie fragmenty: jeden pod gazem,
 drugi na luzie, przy tej samej prędkości. Aplikacja zestawia nagrania z
 twoimi odpowiedziami na kilka pytań i pokazuje prawdopodobne przyczyny z
 procentami.

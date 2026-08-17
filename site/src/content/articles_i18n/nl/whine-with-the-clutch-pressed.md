@@ -1,6 +1,6 @@
 ---
 title: "Gezoem met de koppeling ingetrapt"
-metaTitle: "Gezoem bij ingetrapte koppeling: wat is het | Stuk"
+metaTitle: "Gezoem bij ingetrapte koppeling: wat is het | Pro-Stuk"
 description: "Gezoem dat opkomt zodra u het koppelingspedaal intrapt betekent bijna altijd het druklager. Hoe u dat in een minuut bevestigt en wat de reparatie inhoudt."
 faq:
   - q: "Is gezoem met de koppeling ingetrapt zeker het druklager?"

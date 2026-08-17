@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com a junta homocinética estalando"
-metaTitle: "Dá para rodar com a homocinética estalando? | Stuk"
+metaTitle: "Dá para rodar com a homocinética estalando? | Pro-Stuk"
 description: "Estalo nas curvas não é pane imediata, mas também não é para conviver por anos. Quanto tempo você tem e a partir de quando não se deve rodar."
 faq:
   - q: "Quantos quilômetros dá para rodar com a homocinética estalando?"
@@ -91,7 +91,7 @@ entrar. Juntas homocinéticas usam graxa específica à base de molibdênio, e a
 errada encurta a vida de um reparo que seria bom.
 
 Se o estalo está quase inaudível e é difícil dizer se o estágio é inicial ou
-intermediário, grave o som com o aplicativo Stuk durante um círculo lento em
+intermediário, grave o som com o aplicativo Pro-Stuk durante um círculo lento em
 esterço total. O aplicativo cruza a gravação com suas respostas a algumas
 perguntas e mostra o quanto a situação pode esperar e se convém já planejar
 o guincho.

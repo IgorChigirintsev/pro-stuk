@@ -1,6 +1,6 @@
 ---
 title: "Klop bij het loslaten van het gas"
-metaTitle: "Klop bij gas loslaten: steunen, aandrijflijn, ketting | Stuk"
+metaTitle: "Klop bij gas loslaten: steunen, aandrijflijn, ketting | Pro-Stuk"
 description: "Eén klop als u het gas loslaat: versleten motorsteunen, speling in de aandrijflijn, de distributieketting, de uitlaat. Zo lokaliseert u de bron."
 faq:
   - q: "Waarom hoor ik de klop bij het loslaten van het gas en niet steeds?"

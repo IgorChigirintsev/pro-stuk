@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış teker rulmanının belirtileri"
-metaTitle: "Aşınmış teker rulmanı: ses ve testler | Stuk"
+metaTitle: "Aşınmış teker rulmanı: ses ve testler | Pro-Stuk"
 description: "Aşınmış teker rulmanı nasıl ses verir, lastik uğultusundan nasıl ayrılır, kendiniz hangi testleri yaparsınız ve değişime neye göre karar verilir."
 faq:
   - q: "Aşınmış teker rulmanının ilk belirtisi nedir?"
@@ -134,6 +134,6 @@ sıkışabilir. Buraya gelmek genelde uzun sürer — ama gelmenin bir anlamı d
 yok: bozuk bir rulman ne kadar uzun çalışırsa, yuvasının hasar görüp
 poyranın ya da komple aksın değişmesi ihtimali o kadar artar.
 
-Uğuldayanın gerçekten rulman olduğundan emin değil misiniz? Sesi Stuk
+Uğuldayanın gerçekten rulman olduğundan emin değil misiniz? Sesi Pro-Stuk
 uygulamasında kaydedin — uygulama kaydı cevaplarınızla eşleştirir ve
 olası nedenleri yüzdeleriyle ve aciliyet seviyesiyle gösterir.

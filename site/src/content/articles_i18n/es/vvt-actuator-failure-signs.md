@@ -1,6 +1,6 @@
 ---
 title: "Señales de un desfasador VVT averiado"
-metaTitle: "Desfasador VVT averiado: sonido y síntomas | Stuk"
+metaTitle: "Desfasador VVT averiado: sonido y síntomas | Pro-Stuk"
 description: "Señales de un desfasador VVT averiado: traqueteo al arrancar, ralentí inestable, más consumo, códigos P0010–P0017. Cómo separarlo de otros ruidos del motor."
 faq:
   - q: "¿Qué es un desfasador VVT en palabras sencillas?"
@@ -115,6 +115,6 @@ acelera el desgaste de la cadena, y un desfase muy desviado se convierte en
 un riesgo para válvulas y pistones.
 
 Si no tiene claro que los ruidos de su motor sean el desfasador, grabe un
-arranque en frío con la aplicación Stuk: el algoritmo cruza la grabación con
+arranque en frío con la aplicación Pro-Stuk: el algoritmo cruza la grabación con
 sus respuestas y devuelve las causas probables con porcentajes y un nivel de
 urgencia, un buen punto de partida para hablar con el taller.

@@ -1,6 +1,6 @@
 ---
 title: "Szelest łańcucha rozrządu: jak brzmi"
-metaTitle: "Szelest łańcucha rozrządu: dźwięk i ryzyko | Stuk"
+metaTitle: "Szelest łańcucha rozrządu: dźwięk i ryzyko | Pro-Stuk"
 description: "Jak brzmi rozciągnięty łańcuch rozrządu, kiedy szelest po odpaleniu jest normą, a kiedy oznacza warsztat. Etapy zużycia i ryzyko przeskoku o ząb."
 faq:
   - q: "Ile sekund szelestu po odpaleniu to norma?"
@@ -125,5 +125,5 @@ zapytanie, czy jest w zakresie, oszczędza dwukrotne robienie tej samej
 rozbiórki.
 
 Nie masz pewności, czy to, co słyszysz, to łańcuch? Nagraj silnik przy
-otwartej masce w aplikacji Stuk — zestawia ona nagranie z typowymi dźwiękami
+otwartej masce w aplikacji Pro-Stuk — zestawia ona nagranie z typowymi dźwiękami
 usterek i pokazuje prawdopodobne przyczyny wraz z poziomem pilności.

@@ -1,6 +1,6 @@
 ---
 title: "Ticchettio: valvole o punterie idrauliche"
-metaTitle: "Ticchettio: gioco valvole o punterie? | Stuk"
+metaTitle: "Ticchettio: gioco valvole o punterie? | Pro-Stuk"
 description: "Il ticchettio da sotto il coperchio punterie arriva sia da giochi valvole mal registrati sia da punterie idrauliche consumate. Come separare i due casi a orecchio."
 faq:
   - q: "Il rumore delle punterie idrauliche sparisce dopo il riscaldamento?"
@@ -103,6 +103,6 @@ punterie alimentato attraverso gallerie ostruite ricomincia a ticchettare
 nel giro di mesi.
 
 Se sente un ticchettio ma non è sicuro di quale caso si tratti, registri il
-suono nell'app Stuk due volte: subito dopo un avviamento a freddo e dopo
+suono nell'app Pro-Stuk due volte: subito dopo un avviamento a freddo e dopo
 dieci minuti di funzionamento. La differenza fra le due registrazioni è la
 chiave della risposta, e l'app mostra a quale ipotesi punta.

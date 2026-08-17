@@ -4,7 +4,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Batida no motor',
-    metaTitle: 'Motor batendo: causas, gravidade e o que fazer | Stuk',
+    metaTitle: 'Motor batendo: causas, gravidade e o que fazer | Pro-Stuk',
     description:
       'Por que o motor bate: do tiquetaque inofensivo das válvulas às bronzinas gastas. Como reconhecer uma batida perigosa, se dá para rodar e o que conferir sozinho.',
     intro: [
@@ -30,7 +30,7 @@ export const pages: Record<string, SymptomTr> = {
       'Verificar se a luz de pressão de óleo está acesa: a lanterninha vermelha junto com a batida significa desligar o motor imediatamente.',
     ],
     appHelp:
-      'O aplicativo Stuk conduz pelas mesmas perguntas que um motorista de oficina faz, grava o som e avalia seu espectro e ritmo: com que frequência vêm as batidas e como isso se relaciona com a rotação — nas válvulas e no virabrequim essa relação é diferente. No relatório vêm causas prováveis com percentuais, o semáforo de urgência e frases para a conversa na oficina.',
+      'O aplicativo Pro-Stuk conduz pelas mesmas perguntas que um motorista de oficina faz, grava o som e avalia seu espectro e ritmo: com que frequência vêm as batidas e como isso se relaciona com a rotação — nas válvulas e no virabrequim essa relação é diferente. No relatório vêm causas prováveis com percentuais, o semáforo de urgência e frases para a conversa na oficina.',
     faq: [
       {
         q: 'Por que o motor bate só frio?',
@@ -49,7 +49,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Freio chiando',
-    metaTitle: 'Freios chiando: é perigoso ou não, causas e o que fazer | Stuk',
+    metaTitle: 'Freios chiando: é perigoso ou não, causas e o que fazer | Pro-Stuk',
     description:
       'Por que os freios chiam: a película de ferrugem da manhã, o sensor de desgaste das pastilhas ou um problema nos discos. Como distinguir um chiado inofensivo de um aviso.',
     intro: [
@@ -74,7 +74,7 @@ export const pages: Record<string, SymptomTr> = {
       'Prestar atenção ao pedal e à trajetória: puxar para um lado ao frear, pedal pulsando ou «longo» são coisas mais sérias que o chiado e significam oficina sem adiar.',
     ],
     appHelp:
-      'O aplicativo Stuk separa o cenário inofensivo do preocupante com as mesmas perguntas — quando chia e se o som some — e a gravação ajuda a distinguir o guincho agudo do sensor do rangido metálico. No relatório vêm causas prováveis com percentuais e um semáforo: pode circular, à oficina esta semana ou pare.',
+      'O aplicativo Pro-Stuk separa o cenário inofensivo do preocupante com as mesmas perguntas — quando chia e se o som some — e a gravação ajuda a distinguir o guincho agudo do sensor do rangido metálico. No relatório vêm causas prováveis com percentuais e um semáforo: pode circular, à oficina esta semana ou pare.',
     faq: [
       {
         q: 'Por que os freios chiam de manhã e na chuva?',
@@ -93,7 +93,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Zumbido em movimento',
-    metaTitle: 'Zumbido em movimento: rolamento, pneus ou câmbio | Stuk',
+    metaTitle: 'Zumbido em movimento: rolamento, pneus ou câmbio | Pro-Stuk',
     description:
       'Zumbido constante em velocidade: rolamento de roda, pneus, câmbio ou diferencial. Testes simples sem oficina — o teste em ponto morto e curvas suaves — para estreitar a causa.',
     intro: [
@@ -119,7 +119,7 @@ export const pages: Record<string, SymptomTr> = {
       'No câmbio manual, verificar se o uivo muda em marchas diferentes na mesma velocidade; na tração traseira, se junto com o zumbido aparece um tremor no assoalho numa faixa estreita de velocidade.',
     ],
     appHelp:
-      'O aplicativo Stuk conduz pelas mesmas perguntas — o zumbido continua em ponto morto, muda em curva e com o piso — e ajuda a gravar o som para comparar seu caráter com casos típicos. No relatório vêm causas prováveis com percentuais e uma conclusão: siga tranquilo, planeje a oficina ou verifique sem adiar.',
+      'O aplicativo Pro-Stuk conduz pelas mesmas perguntas — o zumbido continua em ponto morto, muda em curva e com o piso — e ajuda a gravar o som para comparar seu caráter com casos típicos. No relatório vêm causas prováveis com percentuais e uma conclusão: siga tranquilo, planeje a oficina ou verifique sem adiar.',
     faq: [
       {
         q: 'Como distinguir o zumbido do rolamento do ruído dos pneus?',
@@ -138,7 +138,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Batida na suspensão',
-    metaTitle: 'Batida na suspensão: o que bate e dá para rodar | Stuk',
+    metaTitle: 'Batida na suspensão: o que bate e dá para rodar | Pro-Stuk',
     description:
       'O que bate na suspensão: bieletas da barra estabilizadora, buchas, caixa de direção ou mola quebrada. Como distinguir as batidas pelo caráter e quando ir à oficina.',
     intro: [
@@ -164,7 +164,7 @@ export const pages: Record<string, SymptomTr> = {
       'Olhar por trás da roda, de baixo, sem desmontar nada: uma espira quebrada muitas vezes se vê a olho nu, e de quebra dá para notar se um canto do carro está mais baixo.',
     ],
     appHelp:
-      'O aplicativo Stuk percorre as mesmas bifurcações que um mecânico na primeira inspeção: que som é, em quais irregularidades, na frente ou atrás, se sobe no volante. A gravação evita perder detalhes até a visita, e no relatório vêm causas prováveis com percentuais e um semáforo claro: pode rodar, mostre esta semana ou verifique com urgência.',
+      'O aplicativo Pro-Stuk percorre as mesmas bifurcações que um mecânico na primeira inspeção: que som é, em quais irregularidades, na frente ou atrás, se sobe no volante. A gravação evita perder detalhes até a visita, e no relatório vêm causas prováveis com percentuais e um semáforo claro: pode rodar, mostre esta semana ou verifique com urgência.',
     faq: [
       {
         q: 'É perigoso rodar com batida na suspensão?',
@@ -183,7 +183,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Zumbido do rolamento de roda',
-    metaTitle: 'Rolamento de roda zumbindo: como reconhecer | Stuk',
+    metaTitle: 'Rolamento de roda zumbindo: como reconhecer | Pro-Stuk',
     description:
       'Como soa um rolamento de roda gasto, como distingui-lo do ruído dos pneus, qual roda está zumbindo e por quanto tempo dá para rodar assim.',
     intro: [
@@ -208,7 +208,7 @@ export const pages: Record<string, SymptomTr> = {
       'Depois da viagem, aproximar com cuidado a mão dos cubos (sem tocar no disco de freio, que está quente): um cubo bem mais quente de um lado é um indício a mais.',
     ],
     appHelp:
-      'O aplicativo Stuk faz as mesmas perguntas de controle — sobre o piso, as curvas e o rolar em ponto morto —, grava o zumbido e avalia seu caráter: o ruído de banda larga dos pneus e o zumbido de um rolamento aparecem diferentes no espectro. No relatório vêm as probabilidades das causas, a urgência e uma dica de qual lado citar ao mecânico.',
+      'O aplicativo Pro-Stuk faz as mesmas perguntas de controle — sobre o piso, as curvas e o rolar em ponto morto —, grava o zumbido e avalia seu caráter: o ruído de banda larga dos pneus e o zumbido de um rolamento aparecem diferentes no espectro. No relatório vêm as probabilidades das causas, a urgência e uma dica de qual lado citar ao mecânico.',
     faq: [
       {
         q: 'Por que o zumbido muda nas curvas?',
@@ -227,7 +227,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Batidas em irregularidades',
-    metaTitle: 'Batidas em buracos e ondulações: causas e o que conferir | Stuk',
+    metaTitle: 'Batidas em buracos e ondulações: causas e o que conferir | Pro-Stuk',
     description:
       'Batidas em irregularidades: batida frequente em piso ondulado, batidas isoladas nos buracos ou batida no volante. Quais peças são culpadas e se dá para rodar.',
     intro: [
@@ -253,7 +253,7 @@ export const pages: Record<string, SymptomTr> = {
       'Descartar o simples: tirar os objetos soltos do porta-malas, conferir a fixação do estepe e do macaco, apertar o capô fechado — uma trava com folga bate parecido com a suspensão.',
     ],
     appHelp:
-      'O aplicativo Stuk faz as mesmas perguntas desta página, só que passo a passo: que batida exatamente, onde se ouve, como se comporta em diferentes irregularidades. Com as respostas e a gravação monta um relatório com causas prováveis e semáforo de urgência — com ele fica mais fácil decidir entre ir à oficina amanhã ou quando der.',
+      'O aplicativo Pro-Stuk faz as mesmas perguntas desta página, só que passo a passo: que batida exatamente, onde se ouve, como se comporta em diferentes irregularidades. Com as respostas e a gravação monta um relatório com causas prováveis e semáforo de urgência — com ele fica mais fácil decidir entre ir à oficina amanhã ou quando der.',
     faq: [
       {
         q: 'Por que a batida só se ouve nas irregularidades e no asfalto liso não?',
@@ -272,7 +272,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Motor tiquetaqueando',
-    metaTitle: 'Motor tiquetaqueando: normal ou desgaste, causas | Stuk',
+    metaTitle: 'Motor tiquetaqueando: normal ou desgaste, causas | Pro-Stuk',
     description:
       'De onde vem o tiquetaque do motor: folga de válvulas, tuchos hidráulicos, estalido normal dos bicos ou coletor de escape. Como distinguir o normal do desgaste.',
     intro: [
@@ -298,7 +298,7 @@ export const pages: Record<string, SymptomTr> = {
       'Cheirar junto ao capô aberto: cheiro de escapamento junto com estalido frequente é sinal do coletor — com isso, oficina em uma ou duas semanas.',
     ],
     appHelp:
-      'O aplicativo Stuk esclarece o essencial — se o tiquetaque ficou mais alto com o tempo e como se comporta frio e quente — e a gravação permite compará-lo com exemplos típicos. No relatório vêm causas prováveis com percentuais e uma conclusão em forma de semáforo: normal, agendar esta semana ou diagnóstico sem adiar.',
+      'O aplicativo Pro-Stuk esclarece o essencial — se o tiquetaque ficou mais alto com o tempo e como se comporta frio e quente — e a gravação permite compará-lo com exemplos típicos. No relatório vêm causas prováveis com percentuais e uma conclusão em forma de semáforo: normal, agendar esta semana ou diagnóstico sem adiar.',
     faq: [
       {
         q: 'Por que diesel e motores de injeção direta tiquetaqueiam sempre?',
@@ -317,7 +317,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Correia chiando',
-    metaTitle: 'Correia chiando: causas, dá para rodar e o que fazer | Stuk',
+    metaTitle: 'Correia chiando: causas, dá para rodar e o que fazer | Pro-Stuk',
     description:
       'A correia de acessórios chia: desgaste, tensão baixa, roldanas ou embreagem do compressor do ar. Como estreitar a causa pelas circunstâncias e quando o chiado pede oficina.',
     intro: [
@@ -343,7 +343,7 @@ export const pages: Record<string, SymptomTr> = {
       'Ouvir se junto do chiado há um zumbido ou sussurro constante que muda com a rotação — assim soa o rolamento de uma das roldanas.',
     ],
     appHelp:
-      'O aplicativo Stuk esclarece o caráter do som e as circunstâncias — chiado ou zumbido, a frio ou sob carga, ligado ou não ao ar-condicionado — e pela gravação ajuda a separar o guincho da correia do sussurro de uma roldana. No relatório vêm causas prováveis com percentuais e um semáforo: pode rodar, à oficina esta semana ou pare.',
+      'O aplicativo Pro-Stuk esclarece o caráter do som e as circunstâncias — chiado ou zumbido, a frio ou sob carga, ligado ou não ao ar-condicionado — e pela gravação ajuda a separar o guincho da correia do sussurro de uma roldana. No relatório vêm causas prováveis com percentuais e um semáforo: pode rodar, à oficina esta semana ou pare.',
     faq: [
       {
         q: 'O que acontece se a correia arrebentar na estrada?',
@@ -362,7 +362,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Chacoalho embaixo do carro',
-    metaTitle: 'Chacoalho embaixo do carro: o que treme e é perigoso | Stuk',
+    metaTitle: 'Chacoalho embaixo do carro: o que treme e é perigoso | Pro-Stuk',
     description:
       'Chacoalho e tremeliques embaixo do carro: coxins do escapamento, protetor térmico, protetor de cárter ou catalisador. Como achar a fonte do ruído e quando a coisa é séria.',
     intro: [
@@ -388,7 +388,7 @@ export const pages: Record<string, SymptomTr> = {
       'Olhar debaixo do carro sem se enfiar embaixo: um escapamento pendurado, uma borda solta do protetor de cárter ou uma chapa entortada muitas vezes se veem já pela roda.',
     ],
     appHelp:
-      'O aplicativo Stuk ajuda a ligar o chacoalho à sua fonte: de onde vem o som, se acompanha a rotação do motor ou os buracos, o que acontece com a força. Com as respostas e a gravação mostra causas prováveis com percentuais e um semáforo de urgência — útil para separar uma lata inofensiva do catalisador antes mesmo da oficina.',
+      'O aplicativo Pro-Stuk ajuda a ligar o chacoalho à sua fonte: de onde vem o som, se acompanha a rotação do motor ou os buracos, o que acontece com a força. Com as respostas e a gravação mostra causas prováveis com percentuais e um semáforo de urgência — útil para separar uma lata inofensiva do catalisador antes mesmo da oficina.',
     faq: [
       {
         q: 'É perigoso rodar se algo chacoalha embaixo do carro?',
@@ -407,7 +407,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Rangido ao frear',
-    metaTitle: 'Rangido ao frear: pastilhas no metal, o que fazer | Stuk',
+    metaTitle: 'Rangido ao frear: pastilhas no metal, o que fazer | Pro-Stuk',
     description:
       'O rangido ao frear quase sempre significa pastilhas gastas até o metal: com isso não se roda. Mais raramente a culpa é de uma pedrinha atrás da capa do disco. Como distinguir.',
     intro: [
@@ -432,7 +432,7 @@ export const pages: Record<string, SymptomTr> = {
       'Examinar o disco pela roda: sulcos profundos e um tom azulado no metal dizem que o rangido já dura e os discos sofreram.',
     ],
     appHelp:
-      'O aplicativo Stuk percorre as mesmas perguntas — o rangido é constante, a roda esquenta, o som some depois das primeiras freadas — e pela gravação ajuda a distinguir o rangido do guincho do sensor de desgaste. No relatório vêm causas prováveis e um semáforo: pode rodar, mostre esta semana ou vá só até a oficina.',
+      'O aplicativo Pro-Stuk percorre as mesmas perguntas — o rangido é constante, a roda esquenta, o som some depois das primeiras freadas — e pela gravação ajuda a distinguir o rangido do guincho do sensor de desgaste. No relatório vêm causas prováveis e um semáforo: pode rodar, mostre esta semana ou vá só até a oficina.',
     faq: [
       {
         q: 'Qual a diferença entre rangido e chiado dos freios?',
@@ -451,7 +451,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-pri-razgone': {
     h1: 'Batida ao acelerar',
-    metaTitle: 'Batida ao acelerar e ao tirar o pé: causas e o que fazer | Stuk',
+    metaTitle: 'Batida ao acelerar e ao tirar o pé: causas e o que fazer | Pro-Stuk',
     description:
       'Por que bate ao pisar ou tirar o pé do acelerador: coxins do motor, junta homocinética, folga na transmissão ou câmbio automático. Como distinguir folga inofensiva de batida dentro do motor.',
     intro: [
@@ -476,7 +476,7 @@ export const pages: Record<string, SymptomTr> = {
       'Fazer o teste suave: se com pisada e alívio suaves a batida some e com movimento brusco volta, é folga clássica, e até o conserto basta dirigir com suavidade.',
     ],
     appHelp:
-      'O aplicativo Stuk faz as mesmas perguntas de precisão — quando exatamente bate, se o som muda com a rotação e as marchas — e pela gravação ajuda a separar o estalo de uma folga de uma batida profunda do motor. No relatório vêm causas prováveis com percentuais e uma conclusão clara: pode rodar, planeje a oficina ou pare.',
+      'O aplicativo Pro-Stuk faz as mesmas perguntas de precisão — quando exatamente bate, se o som muda com a rotação e as marchas — e pela gravação ajuda a separar o estalo de uma folga de uma batida profunda do motor. No relatório vêm causas prováveis com percentuais e uma conclusão clara: pode rodar, planeje a oficina ou pare.',
     faq: [
       {
         q: 'Por que bate justamente ao pisar e tirar o pé do acelerador?',
@@ -495,7 +495,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Tinido ao acelerar',
-    metaTitle: 'Tinido ao acelerar: detonação ou não, o que fazer | Stuk',
+    metaTitle: 'Tinido ao acelerar: detonação ou não, o que fazer | Pro-Stuk',
     description:
       'Tinido metálico ao acelerar quase sempre é detonação por causa do combustível. Como testar trocando de posto e quando a culpa não é do motor, e sim do protetor térmico ou do catalisador.',
     intro: [
@@ -520,7 +520,7 @@ export const pages: Record<string, SymptomTr> = {
       'Prestar atenção à força e aos sons embaixo: chiado e tinido vindos de baixo junto com aceleração mais fraca são motivo para checar o catalisador sem adiar.',
     ],
     appHelp:
-      'O aplicativo Stuk ajuda com as mesmas perguntas — quando tine, se o som acompanha a carga ou a rotação — e a gravação permite separar o tinido metálico da detonação do chacoalho de uma chapa. No relatório vêm causas prováveis com percentuais e uma conclusão: pode rodar, vale planejar a oficina ou melhor parar.',
+      'O aplicativo Pro-Stuk ajuda com as mesmas perguntas — quando tine, se o som acompanha a carga ou a rotação — e a gravação permite separar o tinido metálico da detonação do chacoalho de uma chapa. No relatório vêm causas prováveis com percentuais e uma conclusão: pode rodar, vale planejar a oficina ou melhor parar.',
     faq: [
       {
         q: 'O que significa «bater pino»?',
@@ -539,7 +539,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Zumbido nas curvas',
-    metaTitle: 'Zumbido na curva: rolamento de roda ou direção hidráulica | Stuk',
+    metaTitle: 'Zumbido na curva: rolamento de roda ou direção hidráulica | Pro-Stuk',
     description:
       'De onde vem o zumbido nas curvas: rolamento de roda gasto, bomba da direção hidráulica uivando ou ruído dos pneus. Como descobrir o lado e se é perigoso.',
     intro: [
@@ -565,7 +565,7 @@ export const pages: Record<string, SymptomTr> = {
       'Olhar a banda de rodagem: desgaste «em serra» (degraus nas bordas) ou em manchas aumenta o zumbido dos pneus e sugere alinhamento fora ou amortecedores cansados.',
     ],
     appHelp:
-      'O aplicativo Stuk faz as mesmas perguntas que o mecânico na recepção: onde se ouve o zumbido, se muda em curva, se está ligado a girar o volante parado. A gravação ajuda a comparar o som com exemplos típicos, e no relatório vêm causas prováveis e uma recomendação clara: siga tranquilo, agende para esta semana ou verifique sem adiar.',
+      'O aplicativo Pro-Stuk faz as mesmas perguntas que o mecânico na recepção: onde se ouve o zumbido, se muda em curva, se está ligado a girar o volante parado. A gravação ajuda a comparar o som com exemplos típicos, e no relatório vêm causas prováveis e uma recomendação clara: siga tranquilo, agende para esta semana ou verifique sem adiar.',
     faq: [
       {
         q: 'Por que o zumbido cresce só para um lado da curva?',
@@ -584,7 +584,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Estalos ao girar o volante',
-    metaTitle: 'Estalos ao virar o volante: homocinética ou rolamento | Stuk',
+    metaTitle: 'Estalos ao virar o volante: homocinética ou rolamento | Pro-Stuk',
     description:
       'Por que estala ao girar o volante: junta homocinética externa, rolamento do amortecedor ou cruzeta da coluna. Como distingui-los pelo som e o que conferir sem desmontar.',
     intro: [
@@ -610,7 +610,7 @@ export const pages: Record<string, SymptomTr> = {
       'Guardar de qual roda vem o estalo em movimento e em qual curva ele é mais forte — esses detalhes encurtam bastante a busca na oficina.',
     ],
     appHelp:
-      'No aplicativo Stuk essas bifurcações estão reunidas numa árvore curta de perguntas: o carro anda ou está parado, de onde vem o som, como estão as coifas. O estalo pode ser gravado no celular e comparado com exemplos. No relatório vêm causas prováveis com avaliação e uma recomendação de prazo: sem pânico, mas sem estalos esquecidos por um mês.',
+      'No aplicativo Pro-Stuk essas bifurcações estão reunidas numa árvore curta de perguntas: o carro anda ou está parado, de onde vem o som, como estão as coifas. O estalo pode ser gravado no celular e comparado com exemplos. No relatório vêm causas prováveis com avaliação e uma recomendação de prazo: sem pânico, mas sem estalos esquecidos por um mês.',
     faq: [
       {
         q: 'O que é a junta homocinética e por que ela estala?',
@@ -629,7 +629,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Batida no motor frio',
-    metaTitle: 'Motor batendo a frio: causas e o que fazer | Stuk',
+    metaTitle: 'Motor batendo a frio: causas e o que fazer | Pro-Stuk',
     description:
       'Por que o motor bate a frio e cala depois de aquecer: tuchos hidráulicos, conjunto de pistões, corrente de comando. Quando é normal e quando é hora da oficina.',
     intro: [
@@ -655,7 +655,7 @@ export const pages: Record<string, SymptomTr> = {
       'Desligar o motor quente por dez minutos e dar partida de novo: uma batida «de frio» de verdade não volta depois de uma pausa tão curta.',
     ],
     appHelp:
-      'O aplicativo Stuk percorre as mesmas bifurcações — é tiquetaque, batida surda ou sussurro e com que rapidez o som some — e a gravação do celular ajuda a captar um caráter difícil de descrever com palavras. No relatório vêm causas prováveis com percentuais e uma conclusão clara: rode tranquilo, agende esta semana ou não adie a oficina.',
+      'O aplicativo Pro-Stuk percorre as mesmas bifurcações — é tiquetaque, batida surda ou sussurro e com que rapidez o som some — e a gravação do celular ajuda a captar um caráter difícil de descrever com palavras. No relatório vêm causas prováveis com percentuais e uma conclusão clara: rode tranquilo, agende esta semana ou não adie a oficina.',
     faq: [
       {
         q: 'A batida some depois de aquecer — dá para ignorar?',
@@ -674,7 +674,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Chiado ao dar partida',
-    metaTitle: 'Chiado ao dar partida no motor: causas e o que fazer | Stuk',
+    metaTitle: 'Chiado ao dar partida no motor: causas e o que fazer | Pro-Stuk',
     description:
       'Por que o motor chia ao dar partida: correia de acessórios patinando, roldanas ou bomba d’água. Quando o chiado é inofensivo e quando é hora de agendar a oficina.',
     intro: [
@@ -700,7 +700,7 @@ export const pages: Record<string, SymptomTr> = {
       'Ver se há gotas ou marcas esbranquiçadas de líquido de arrefecimento perto das polias: apontam para a bomba d’água, e então é melhor não adiar a oficina.',
     ],
     appHelp:
-      'O aplicativo Stuk faz as mesmas perguntas que o mecânico na recepção: quando o chiado aparece, se some depois de aquecer, o que se ouve enquanto o arranque trabalha. A gravação ajuda a separar o guincho da correia do rangido do arranque, e no relatório vêm causas prováveis com percentuais e uma conclusão clara: pode rodar, à oficina esta semana ou pare.',
+      'O aplicativo Pro-Stuk faz as mesmas perguntas que o mecânico na recepção: quando o chiado aparece, se some depois de aquecer, o que se ouve enquanto o arranque trabalha. A gravação ajuda a separar o guincho da correia do rangido do arranque, e no relatório vêm causas prováveis com percentuais e uma conclusão clara: pode rodar, à oficina esta semana ou pare.',
     faq: [
       {
         q: 'Por que o motor chia só a frio e na umidade?',
@@ -719,7 +719,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Vibração na marcha lenta',
-    metaTitle: 'Vibração na marcha lenta: causas do tremor e o que fazer | Stuk',
+    metaTitle: 'Vibração na marcha lenta: causas do tremor e o que fazer | Pro-Stuk',
     description:
       'Por que o carro treme na marcha lenta: coxins do motor, falhas de ignição, entrada de ar falso ou corpo de borboleta sujo. O que conferir e se dá para rodar.',
     intro: [
@@ -744,7 +744,7 @@ export const pages: Record<string, SymptomTr> = {
       'Lembrar quando as velas foram trocadas: quilometragem muito além do intervalo faz delas o primeiro suspeito nas falhas. Se a luz de injeção está acesa, comece pela leitura dos códigos: eles estreitam a busca.',
     ],
     appHelp:
-      'O aplicativo Stuk faz as mesmas perguntas — o tremor aumenta com marcha engatada, a rotação se mantém firme, a luz de injeção está acesa — e distribui as causas prováveis em percentuais. No relatório vem uma conclusão clara: siga tranquilo, agende esta semana ou mostre o carro nos próximos dias.',
+      'O aplicativo Pro-Stuk faz as mesmas perguntas — o tremor aumenta com marcha engatada, a rotação se mantém firme, a luz de injeção está acesa — e distribui as causas prováveis em percentuais. No relatório vem uma conclusão clara: siga tranquilo, agende esta semana ou mostre o carro nos próximos dias.',
     faq: [
       {
         q: 'Por que treme só na marcha lenta e andando o carro vai liso?',
@@ -763,7 +763,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Estouros no escapamento',
-    metaTitle: 'Estouros no escapamento: causas e o que fazer | Stuk',
+    metaTitle: 'Estouros no escapamento: causas e o que fazer | Pro-Stuk',
     description:
       'Por que o escapamento estoura: falhas de ignição, escapamento furado, mistura incorreta ou regulagem do GNV. O que os estouros fazem ao catalisador e quando ir à oficina.',
     intro: [
@@ -789,7 +789,7 @@ export const pages: Record<string, SymptomTr> = {
       'Num carro com GNV, comparar o funcionamento no gás e na gasolina: estouros só no gás são pergunta para quem regulou o sistema.',
     ],
     appHelp:
-      'O aplicativo Stuk esclarece as circunstâncias — estouros ou ronco, no gás ou na gasolina, com ou sem perda de força — e ajuda a separar problemas de ignição, um furo no escape e uma embreagem patinando, que de ouvido se parecem. No relatório vêm causas prováveis com percentuais e uma recomendação clara sobre a urgência da oficina.',
+      'O aplicativo Pro-Stuk esclarece as circunstâncias — estouros ou ronco, no gás ou na gasolina, com ou sem perda de força — e ajuda a separar problemas de ignição, um furo no escape e uma embreagem patinando, que de ouvido se parecem. No relatório vêm causas prováveis com percentuais e uma recomendação clara sobre a urgência da oficina.',
     faq: [
       {
         q: 'Por que estoura no escapamento se o problema está no motor?',

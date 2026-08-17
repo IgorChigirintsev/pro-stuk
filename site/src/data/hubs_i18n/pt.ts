@@ -5,7 +5,7 @@ export const pt: Record<string, HubText> = {
   dvigatel: {
     h1: 'Ruídos e batidas do motor',
     short: 'Motor',
-    metaTitle: 'Ruídos e batidas do motor: guia completo | Stuk',
+    metaTitle: 'Ruídos e batidas do motor: guia completo | Pro-Stuk',
     description:
       'Todos os sons do motor num só lugar: batidas, tiquetaque, chocalho, tilintar e assobio. Como separar o inofensivo do perigoso e o que verificar sozinho.',
     intro: [
@@ -16,7 +16,7 @@ export const pt: Record<string, HubText> = {
   podveska: {
     h1: 'Batidas e rangidos da suspensão',
     short: 'Suspensão e direção',
-    metaTitle: 'Batidas e rangidos da suspensão: guia | Stuk',
+    metaTitle: 'Batidas e rangidos da suspensão: guia | Pro-Stuk',
     description:
       'Batidas em lombas, rangidos, folga na direção: como localizar a origem na suspensão e na direção e o que pode verificar sozinho.',
     intro: [
@@ -27,7 +27,7 @@ export const pt: Record<string, HubText> = {
   tormoza: {
     h1: 'Chiadeira e raspagem dos travões',
     short: 'Travões e rodas',
-    metaTitle: 'Chiadeira e raspagem dos travões: guia | Stuk',
+    metaTitle: 'Chiadeira e raspagem dos travões: guia | Pro-Stuk',
     description:
       'Chiadeira, assobio, raspagem e trepidação ao travar: o que significa cada som, quando não se deve seguir viagem e como verificar pastilhas e pinça.',
     intro: [
@@ -38,7 +38,7 @@ export const pt: Record<string, HubText> = {
   transmissiya: {
     h1: 'Ruídos da caixa e da transmissão',
     short: 'Transmissão',
-    metaTitle: 'Ruídos da caixa e da transmissão: guia | Stuk',
+    metaTitle: 'Ruídos da caixa e da transmissão: guia | Pro-Stuk',
     description:
       'Uivo da caixa, estalidos dos semieixos, solavancos na mudança e zumbido da embraiagem: como localizar a origem por baixo do piso.',
     intro: [
@@ -49,7 +49,7 @@ export const pt: Record<string, HubText> = {
   vyhlop: {
     h1: 'Ruídos do escape',
     short: 'Escape',
-    metaTitle: 'Ruídos do escape: guia completo | Stuk',
+    metaTitle: 'Ruídos do escape: guia completo | Pro-Stuk',
     description:
       'Ronco, estouros no silenciador, chocalho sob o piso e chapa térmica a tilintar: o que significam os ruídos do escape e porque importam.',
     intro: [
@@ -60,7 +60,7 @@ export const pt: Record<string, HubText> = {
   salon: {
     h1: 'Rangidos e ruídos do habitáculo',
     short: 'Habitáculo e carroçaria',
-    metaTitle: 'Rangidos do habitáculo: encontrar a origem | Stuk',
+    metaTitle: 'Rangidos do habitáculo: encontrar a origem | Pro-Stuk',
     description:
       'Grilos no habitáculo, tablier a ranger, portas a bater: como encontrar a origem sozinho e distingui-la de uma avaria do trem rodante.',
     intro: [

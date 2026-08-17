@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de los amortiguadores delanteros en baches pequeños"
-metaTitle: "Golpeteo de amortiguadores delanteros: qué mirar | Stuk"
+metaTitle: "Golpeteo de amortiguadores delanteros: qué mirar | Pro-Stuk"
 description: "Un golpe seco de los amortiguadores delanteros en baches pequeños: cómo separar el amortiguador de las copelas y la barra, y qué comprobar uno mismo."
 faq:
   - q: "¿Por qué el golpeteo solo se oye en baches pequeños?"
@@ -106,7 +106,7 @@ crece despacio: la mano de obra se solapa casi por completo, y una segunda
 visita cuesta casi lo mismo que la primera.
 
 Para no tener que adivinar qué es exactamente lo que golpea, grabe el sonido
-con la aplicación Stuk mientras pasa por un tramo malo que conozca. La
+con la aplicación Pro-Stuk mientras pasa por un tramo malo que conozca. La
 aplicación compara la grabación con sus respuestas a unas cuantas preguntas y
 muestra las causas probables con porcentajes: con esa lista es más fácil
 acordar con un mecánico qué mirar primero.

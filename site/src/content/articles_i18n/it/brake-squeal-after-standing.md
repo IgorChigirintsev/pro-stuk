@@ -1,6 +1,6 @@
 ---
 title: "Fischio dei freni dopo la sosta: normale o no"
-metaTitle: "Fischio dei freni dopo la sosta | Stuk"
+metaTitle: "Fischio dei freni dopo la sosta | Pro-Stuk"
 description: "Il fischio dei freni al mattino dopo una notte all'aperto è di solito un velo di ruggine sul disco. Come distinguerlo dall'usura e quando andare in officina."
 faq:
   - q: "Perché i freni fischiano solo al mattino?"
@@ -100,7 +100,7 @@ stampigliato, ed è quel valore, non un parere, a decidere se resta.
 Il confine tra «normale fischio mattutino» e «è ora di andare in officina»
 passa per il carattere del suono, e quelle sfumature si ricordano male: un
 mese dopo è difficile dire se fischiava uguale o un po' più forte. Una
-registrazione fatta oggi con l'app Stuk e ripetuta qualche settimana dopo
+registrazione fatta oggi con l'app Pro-Stuk e ripetuta qualche settimana dopo
 mostra quella differenza in modo oggettivo, insieme a una lista di cause
 probabili e a una valutazione di quanto sia urgente prenotare una
 diagnosi.

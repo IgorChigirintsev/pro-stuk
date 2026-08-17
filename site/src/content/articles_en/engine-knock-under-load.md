@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-dvigatele-pri-nagruzke"
 title: "An engine knock under load"
-metaTitle: "An engine knock under load: causes and danger | Stuk"
+metaTitle: "An engine knock under load: causes and danger | Pro-Stuk"
 description: "A knock under load: how to tell detonation from bearing knock, where the timing chain comes in, and when driving on becomes dangerous."
 pubDate: "2026-08-02"
 related:
@@ -154,7 +154,7 @@ is the difference between an early and a late diagnosis, so a knock under
 load is not something to sit on.
 
 If you are unsure which scenario yours resembles, record the sound of
-acceleration in the Stuk app: it compares the recording with typical
+acceleration in the Pro-Stuk app: it compares the recording with typical
 knocks, asks a few clarifying questions and shows the likely causes with a
 level of urgency. With that prepared at home the workshop visit goes
 faster.

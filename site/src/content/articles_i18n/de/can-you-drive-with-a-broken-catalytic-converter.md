@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit zerbröseltem Katalysator fahren"
-metaTitle: "Mit zerbröseltem Katalysator fahren? | Stuk"
+metaTitle: "Mit zerbröseltem Katalysator fahren? | Pro-Stuk"
 description: "Zerfallene Katalysatorkeramik raschelt und würgt den Motor. Wann Sie noch in die Werkstatt fahren dürfen, wann nicht und was dem Motor droht."
 faq:
   - q: "Wie klingt ein zerbröselter Katalysator?"

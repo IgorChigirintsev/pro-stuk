@@ -1,6 +1,6 @@
 ---
 title: "Viraj demiri rotlarını hiç değiştirmezseniz ne olur"
-metaTitle: "Aşınmış viraj demiri rotu: değiştirmezseniz ne olur | Stuk"
+metaTitle: "Aşınmış viraj demiri rotu: değiştirmezseniz ne olur | Pro-Stuk"
 description: "Aşınmış viraj demiri rotlarıyla sürmeye devam etmek nereye götürür: artan yalpa, kopan rot, komşu parçaların aşınması ve beklemenin bedeli."
 faq:
   - q: "Tıkırdayan viraj demiri rotlarıyla araç kullanmak tehlikeli mi?"
@@ -123,7 +123,7 @@ virajda dış tekerin üstüne daha sert yaslanır ve sırtın omuz blokları
 daha hızlı aşınır. Etki dramatik değil ama bir çift rotun fiyatının
 yanında beklememek için bir gerekçe daha.
 
-Tıkırtı var ama teşhisten emin değilseniz, sesi Stuk uygulamasında
+Tıkırtı var ama teşhisten emin değilseniz, sesi Pro-Stuk uygulamasında
 kaydedin. Uygulama kaydı tıkırtının karakteriyle ilgili cevaplarınızla
 eşleştirir ve muhtemel nedenleri aciliyet derecesiyle gösterir: bunun
 ucuz bir çift rot mu, yoksa daha ciddi bir şey mi olduğunu anlarsınız.

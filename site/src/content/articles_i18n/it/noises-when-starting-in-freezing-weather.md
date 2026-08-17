@@ -1,6 +1,6 @@
 ---
 title: "Rumori all'avviamento con il gelo"
-metaTitle: "Avviamento a freddo: fischio, battito, raschio | Stuk"
+metaTitle: "Avviamento a freddo: fischio, battito, raschio | Pro-Stuk"
 description: "Fischio della cinghia, battito dell'olio denso, raschio del motorino: i suoni dell'avviamento con il gelo. Cosa è normale d'inverno e cosa richiede l'officina."
 faq:
   - q: "Perché con il gelo il motore suona più forte e più ruvido?"
@@ -126,7 +126,7 @@ quattro anni: una batteria sostituita in autunno costa quanto una
 sostituita a gennaio, meno il traino.
 
 Se il concerto mattutino le lascia dubbi, registri l'avviamento a freddo
-con l'app Stuk, all'aperto e con il cofano alzato. L'app confronta la
+con l'app Pro-Stuk, all'aperto e con il cofano alzato. L'app confronta la
 registrazione con le sue risposte su temperatura e condizioni e mostra le
 cause probabili in percentuale, con un livello di urgenza: è più facile
 decidere cosa mettere in conto all'inverno e cosa portare in officina.

@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć z piszczącym paskiem"
-metaTitle: "Czy można jeździć z piszczącym paskiem? | Stuk"
+metaTitle: "Czy można jeździć z piszczącym paskiem? | Pro-Stuk"
 description: "Piszczący pasek wielorowkowy: ile można jeździć, czym grozi zerwanie, jak odróżnić zużycie paska od łożyska rolki i jak decyduje się o naprawie."
 faq:
   - q: "Jak długo można jeździć z piszczącym paskiem?"
@@ -95,7 +95,7 @@ mieści się jeszcze w zakresie. Warsztat, który nie wspomina o żadnej z tych
 rzeczy, zgaduje.
 
 Jeśli nie ma Pan pewności, czy piszczy pasek, czy wyje łożysko wewnątrz
-osprzętu, proszę nagrać dźwięk w aplikacji Stuk przy zimnym rozruchu i
+osprzętu, proszę nagrać dźwięk w aplikacji Pro-Stuk przy zimnym rozruchu i
 powtórzyć nagranie na rozgrzanym silniku. Różnica między nagraniami mówi o
 przyczynie więcej niż jakikolwiek opis słowami — a aplikacja zestawi ją z
 odpowiedziami na kilka pytań i pokaże prawdopodobne wersje.

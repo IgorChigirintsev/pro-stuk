@@ -1,6 +1,6 @@
 ---
 title: "Tıkırtı: rotil mi salıncak burcu mu"
-metaTitle: "Tıkırtı: rotil mi salıncak burcu mu | Stuk"
+metaTitle: "Tıkırtı: rotil mi salıncak burcu mu | Pro-Stuk"
 description: "Tümseklerde süspansiyon tıkırtısı: aşınmış rotil ile yorulmuş burç sesin karakterinden, basit testlerden ve liftteki kontrolden nasıl ayrılır."
 faq:
   - q: "Rotil tıkırtısı burç tıkırtısından kulakla nasıl ayrılır?"
@@ -133,7 +133,7 @@ son sıkması da aracın ağırlığı tekerlerin üzerindeyken yapılmalıdır;
 süspansiyon havadayken sıkarsanız kauçuk burulmuş hâlde yaşar ve aylar
 içinde yırtılır.
 
-Tıkırtı zaten varsa ve emin değilseniz sesi Stuk uygulamasında kaydedin.
+Tıkırtı zaten varsa ve emin değilseniz sesi Pro-Stuk uygulamasında kaydedin.
 Uygulama kaydı, ne zaman tıkırdadığına dair cevaplarınızla — tümsekte mi,
 frende mi, virajda mı — eşleştirip olası sebepleri aciliyet düzeyiyle
 gösterir. Bununla servise gidip körlemesine aramak yerine belirli

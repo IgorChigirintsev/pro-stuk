@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für klopfende Verbrennung"
-metaTitle: "Klopfende Verbrennung: die Anzeichen | Stuk"
+metaTitle: "Klopfende Verbrennung: die Anzeichen | Pro-Stuk"
 description: "Wie Sie klopfende Verbrennung erkennen: Klingeln beim Beschleunigen, Leistungsverlust, steigender Verbrauch. Die Ursachen von Kraftstoff bis Ölkohle."
 faq:
   - q: "Wie unterscheidet sich klopfende Verbrennung im Ton von Pleuellagerklopfen?"

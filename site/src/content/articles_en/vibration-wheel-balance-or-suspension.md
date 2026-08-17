@@ -1,7 +1,7 @@
 ---
 ru: "vibratsiya-balansirovka-ili-podveska"
 title: "Vibration: wheel balance or suspension"
-metaTitle: "Vibration at speed: wheel balance or suspension | Stuk"
+metaTitle: "Vibration at speed: wheel balance or suspension | Pro-Stuk"
 description: "Vibration in the wheel and body comes from both wheel imbalance and worn suspension. How to separate the versions by speed and conditions."
 pubDate: "2026-06-13"
 related:
@@ -104,7 +104,7 @@ machining is not an option, and a shop that does it anyway is selling you
 a disc that will warp again within months.
 
 Vibration is hard to describe in words but records well: make short
-recordings in the Stuk app at a steady speed, under braking and over
+recordings in the Pro-Stuk app at a steady speed, under braking and over
 bumps. The app matches them with your answers to a few questions and shows
 the likely causes with percentages, so at the workshop you name the
 conditions rather than just the fact of the shake.

@@ -1,6 +1,6 @@
 ---
 title: "Chirrido de frenos: pastillas o discos"
-metaTitle: "Chirrido de frenos: pastillas o discos | Stuk"
+metaTitle: "Chirrido de frenos: pastillas o discos | Pro-Stuk"
 description: "Los frenos chirrían tanto por las pastillas como por los discos. Cómo las condiciones en las que aparece el sonido indican cuál de los dos hay que cambiar."
 faq:
   - q: "¿Un chirrido de frenos por la mañana es una avería?"
@@ -99,7 +99,7 @@ alta temperatura correcta son lo que impide que un juego nuevo chirríe
 desde el primer día.
 
 Si el sonido no aparece siempre y es difícil de reproducir en el elevador,
-se puede grabar con la aplicación Stuk mientras se conduce, con el pedal y
+se puede grabar con la aplicación Pro-Stuk mientras se conduce, con el pedal y
 sin él. La aplicación cruza la grabación con las condiciones en las que
 aparece y muestra las causas probables con porcentajes, de modo que la
 conversación con el mecánico empieza a partir de hechos.

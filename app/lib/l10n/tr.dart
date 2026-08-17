@@ -2,7 +2,7 @@
 const Map<String, String> tr = {
   'hiwBody':
       '\n1. Sorular. Kısa bir anket olası nedenleri daraltır: ses ne zaman duyuluyor, neye benziyor, neye bağlı. Değerlendirmenin ana dayanağı budur — usta da aynı şekilde başlar.\n\n2. Ses. 15–30 saniyelik bir kayıt sunucuya gider. Algoritmalar spektrumu, vuruşların ritmini ve devri ölçer; bir dil modeli tüm bunları yanıtlarınızla ve modelinizin bilinen zayıf noktalarıyla karşılaştırır.\n\n3. Rapor. Yüzdelerle olası nedenler, aciliyet için trafik ışığı ve ipuçları: serviste ne söylemeli, kendiniz neyi kontrol edebilirsiniz.\n\nSonuç bir olasılık tahminidir, teşhis değildir. Doğruluk, kaydın kalitesine ve yanıtların dürüstlüğüne bağlıdır. Onarım kararını, aracı inceledikten sonra usta verir.',
-  'appName': 'Stuk',
+  'appName': 'Pro-Stuk',
   'appTagline': 'sesle teşhis',
   'carTitle': 'Arabanız hangisi?',
   'carSubtitle':
@@ -116,7 +116,7 @@ const Map<String, String> tr = {
   'histEmpty': 'Şimdilik boş — ilk analiz burada görünecek.',
   'histFull': 'ses analizi',
   'histQuick': 'hızlı karar',
-  'shareText': 'Ses analizi — «Stuk» uygulaması, pro-stuk.com',
+  'shareText': 'Ses analizi — «Pro-Stuk» uygulaması, pro-stuk.com',
   'langTitle': 'Dil',
   'langHint':
       'Varsayılan olarak cihazın dili. Henüz çevrilmemiş metinler Rusça görünür.',

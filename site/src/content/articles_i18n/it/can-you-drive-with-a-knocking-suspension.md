@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con colpi nelle sospensioni"
-metaTitle: "Si può guidare con colpi nelle sospensioni? | Stuk"
+metaTitle: "Si può guidare con colpi nelle sospensioni? | Pro-Stuk"
 description: "Con quali pezzi che battono si può guidare e con quali no: barra stabilizzatrice, ammortizzatori, silent block, giunti sferici. Valutare l'urgenza dal suono."
 faq:
   - q: "Per quanto posso guidare con una biellette della barra stabilizzatrice che batte?"
@@ -102,7 +102,7 @@ salta fuori che a battere era il paramotore. E non rimandi la diagnosi al
 prossimo tagliando se il suono cambia di settimana in settimana: un colpo
 stabile può aspettare, uno in crescita no.
 
-Se vuole stabilire oggi l'urgenza, registri il colpo con l'app Stuk su un
+Se vuole stabilire oggi l'urgenza, registri il colpo con l'app Pro-Stuk su un
 tratto di strada rappresentativo. L'algoritmo confronta la registrazione
 con le sue risposte e mostra le cause probabili in percentuale con un
 livello di urgenza: abbastanza per sapere se programmare la riparazione

@@ -1,6 +1,6 @@
 ---
 title: "Chiado: correia ou rolamento do rolete"
-metaTitle: "Chiado no motor: correia ou rolete | Stuk"
+metaTitle: "Chiado no motor: correia ou rolete | Pro-Stuk"
 description: "Chiado embaixo do capô vem tanto de correia patinando quanto de rolamento de rolete morrendo. Como separar os dois pelas condições em que o som aparece."
 faq:
   - q: "Por que a correia só chia com tempo úmido?"
@@ -98,7 +98,7 @@ dias, como está descrito em
 [chiado depois de trocar a correia](/pt/articles/belt-squeal-after-a-belt-change/).
 
 Chiado embaixo do capô é um dos sons que gravam bem no celular. Faça duas
-gravações no aplicativo Stuk: uma em marcha lenta sem carga e outra com
+gravações no aplicativo Pro-Stuk: uma em marcha lenta sem carga e outra com
 ar-condicionado e luzes ligados. O aplicativo compara as duas e mostra para
 qual versão o quadro pende — antes de você estar em pé no balcão da
 oficina.

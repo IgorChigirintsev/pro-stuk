@@ -1,6 +1,6 @@
 ---
 title: "Estalo metálico embaixo do carro ao passar em buracos"
-metaTitle: "Estalo metálico embaixo do carro em buracos | Stuk"
+metaTitle: "Estalo metálico embaixo do carro em buracos | Pro-Stuk"
 description: "Estalo metálico embaixo do carro em buracos: protetor de cárter, blindagens térmicas, escapamento ou bieletas. Como achar a origem em cinco minutos."
 faq:
   - q: "Por que o estalo só aparece em buracos e some no asfalto liso?"
@@ -107,7 +107,7 @@ silencioso balançando arranca os coxins que ainda restam e fica pendurado
 no tubo.
 
 Na dúvida entre estalo e batida? Grave o som num trecho representativo no
-aplicativo Stuk — o algoritmo cruza a gravação com as suas respostas e
+aplicativo Pro-Stuk — o algoritmo cruza a gravação com as suas respostas e
 mostra as origens prováveis com um nível de urgência. Muitas vezes o
 resultado já indica o protetor de cárter, e dá para ir à oficina sem
 preocupação.

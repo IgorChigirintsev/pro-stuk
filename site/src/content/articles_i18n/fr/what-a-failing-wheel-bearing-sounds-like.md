@@ -1,6 +1,6 @@
 ---
 title: "Le bruit d'un roulement de roue en fin de vie"
-metaTitle: "Le bruit d'un roulement de roue en fin de vie | Stuk"
+metaTitle: "Le bruit d'un roulement de roue en fin de vie | Pro-Stuk"
 description: "Du ronflement discret à 60 km/h au grondement avec vibrations dans le volant : comment un roulement de roue change de voix, et à partir d'où on ne peut plus attendre."
 faq:
   - q: "À quelle vitesse entend-on un roulement au tout début ?"
@@ -110,7 +110,7 @@ vibration qui reste après la réparation surprend.
 
 Si le ronflement est encore discret et que vous n'êtes pas sûr de ne pas
 l'imaginer, enregistrez un trajet sur autoroute avec des changements de
-file dans l'application Stuk. Elle confronte l'enregistrement à vos
+file dans l'application Pro-Stuk. Elle confronte l'enregistrement à vos
 réponses sur la vitesse, le revêtement et le sens de la manœuvre, et
 affiche les causes probables avec leur pourcentage — y compris une
 indication sur la roue par laquelle commencer.

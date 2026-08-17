@@ -1,6 +1,6 @@
 ---
 title: "Aks kama dişlerinin aşınma belirtileri"
-metaTitle: "Aks kama dişi aşınması nasıl anlaşılır | Stuk"
+metaTitle: "Aks kama dişi aşınması nasıl anlaşılır | Pro-Stuk"
 description: "Gazla fren arasında geçişte tıklama, kalkışta tıkırtı ve aksta boşluk: kama dişi aşınması nasıl anlaşılır, aks kafasından nasıl ayrılır."
 faq:
   - q: "Aşınmış kama dişi, bozuk aks kafasından nasıl ayrılır?"
@@ -98,6 +98,6 @@ darbe boşluğu büyüttüğü için aşınma kendi kendini hızlandırır. Sars
 gelen belirgin çift tıkırtı ise bu hafta servise gitmek için sebeptir.
 
 Ses ara sıra çıkıyorsa ve tam olarak tahrik değişiminde tekrarlandığından
-emin değilseniz, birkaç kalkışı Stuk uygulamasında kaydedin. Sesi, durumun
+emin değilseniz, birkaç kalkışı Pro-Stuk uygulamasında kaydedin. Sesi, durumun
 tarifiyle eşleştirip olası nedenleri yüzdeyle gösterir — ve ustaya tam olarak
 ne zaman olduğunu anlatmanıza yardım eder.

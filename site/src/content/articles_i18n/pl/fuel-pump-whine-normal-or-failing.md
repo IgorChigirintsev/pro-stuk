@@ -1,6 +1,6 @@
 ---
 title: "Buczenie pompy paliwa: norma czy zbliżająca się awaria"
-metaTitle: "Buczenie pompy paliwa: norma czy zbliżająca się awaria | Stuk"
+metaTitle: "Buczenie pompy paliwa: norma czy zbliżająca się awaria | Pro-Stuk"
 description: "Gdzie przebiega granica między zwykłym buczeniem pompy paliwa a wyciem umierającej: które objawy są niegroźne, a które wymagają szybkiej reakcji."
 faq:
   - q: "Pompa buczy przez dwie sekundy po przekręceniu kluczyka. Czy to normalne?"
@@ -100,7 +100,7 @@ kontrolki i wymieniać filtr paliwa w zalecanym interwale. To najtańsze
 sposoby na przedłużenie życia pompy.
 
 Jeśli nie ma pewności, czy dźwięk naprawdę urósł, czy tylko tak się
-wydaje, nagraj go w aplikacji Stuk — przy włączonym zapłonie i na wolnych
+wydaje, nagraj go w aplikacji Pro-Stuk — przy włączonym zapłonie i na wolnych
 obrotach. Za miesiąc zrób drugie nagranie w tych samych warunkach i
 porównaj: aplikacja zestawia je z odpowiedziami i pokazuje, czy to
 normalne tło, czy rozwijająca się usterka.

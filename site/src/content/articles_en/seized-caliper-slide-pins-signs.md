@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-klina-napravlyayushchih-supporta"
 title: "Signs of seized caliper slide pins"
-metaTitle: "Seized caliper slide pins: the signs | Stuk"
+metaTitle: "Seized caliper slide pins: the signs | Pro-Stuk"
 description: "One wheel running hot, the car pulling under braking, pads worn unevenly — how to recognise seized caliper slide pins and what a workshop does about it."
 pubDate: "2026-06-10"
 related:
@@ -103,7 +103,7 @@ of life, that habit pays for itself fastest — pin corrosion starts with a
 damaged boot, not with mileage.
 
 If the car feels like it is not rolling freely and you hear a sound from
-one wheel, record it in the Stuk app while coasting and under light
+one wheel, record it in the Pro-Stuk app while coasting and under light
 braking. The app matches the recording with your answers about heat and
 pulling and suggests what to have checked first — the brake mechanism or
 the running gear.

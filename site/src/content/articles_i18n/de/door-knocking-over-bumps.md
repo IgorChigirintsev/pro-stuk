@@ -1,6 +1,6 @@
 ---
 title: "Klopfen in der Tür auf Unebenheiten"
-metaTitle: "Klopfen in der Tür: was zu prüfen ist | Stuk"
+metaTitle: "Klopfen in der Tür: was zu prüfen ist | Pro-Stuk"
 description: "Die Tür klopft über Unebenheiten: Fensterheber, Türfeststeller, Schloss — oder doch das Fahrwerk. Wie Sie das in einer Fahrt eingrenzen."
 faq:
   - q: "Warum hört das Türklopfen auf, wenn ich das Fenster leicht öffne?"

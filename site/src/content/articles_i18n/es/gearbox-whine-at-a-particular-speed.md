@@ -1,6 +1,6 @@
 ---
 title: "Aullido de la caja de cambios a una velocidad concreta"
-metaTitle: "Aullido de la caja a cierta velocidad: causas | Stuk"
+metaTitle: "Aullido de la caja a cierta velocidad: causas | Pro-Stuk"
 description: "Un aullido que aparece en una banda estrecha de velocidades y cambia con el acelerador suele venir de la caja de cambios o del grupo final. Cómo separarlo."
 faq:
   - q: "¿Por qué el aullido solo se oye a 60–80 km/h y desaparece por encima?"
@@ -105,7 +105,7 @@ intercambiables, y un modificador de fricción equivocado produce exactamente
 el ruido que se quería curar.
 
 Si el aullido es flojo y no está seguro de si viene de la caja o de las
-ruedas, grábelo con la aplicación Stuk justo a la velocidad en la que se oye
+ruedas, grábelo con la aplicación Pro-Stuk justo a la velocidad en la que se oye
 mejor, y después repita la grabación en otra marcha. La aplicación compara las
 dos grabaciones con sus respuestas y muestra las causas probables con
 porcentajes.

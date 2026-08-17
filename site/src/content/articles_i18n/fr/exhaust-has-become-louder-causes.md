@@ -1,6 +1,6 @@
 ---
 title: "L'échappement est devenu plus bruyant : les causes"
-metaTitle: "Échappement plus bruyant : causes et remèdes | Stuk"
+metaTitle: "Échappement plus bruyant : causes et remèdes | Pro-Stuk"
 description: "Silencieux percé, flexible déchiré, joints et raccords : pourquoi l'échappement est devenu plus bruyant, ce que ça menace et comment on répare."
 faq:
   - q: "Pourquoi les silencieux se percent-ils de l'intérieur ?"
@@ -123,7 +123,7 @@ consommation monte — plus la fuite est refermée tôt, moins l'ensemble
 pèse, carburant compris.
 
 Vous n'êtes pas sûr que ce soit l'échappement qui ait changé de voix ?
-Enregistrez la voiture en marche dans l'application Stuk : elle croise
+Enregistrez la voiture en marche dans l'application Pro-Stuk : elle croise
 l'enregistrement avec vos réponses sur les moments où le son est plus fort
 et affiche les causes probables avec un niveau d'urgence — ce qui rend
 plus facile le choix d'un garage et évite de payer trop cher la recherche.

@@ -1,6 +1,6 @@
 ---
 title: "Klacken von einem Rad während der Fahrt"
-metaTitle: "Klacken von einem Rad: die Ursachen | Stuk"
+metaTitle: "Klacken von einem Rad: die Ursachen | Pro-Stuk"
 description: "Rhythmisches Klacken im Takt der Raddrehung: ein Stein im Profil, eine Schraube, eine Radkappe oder die Bremsscheibe. Wie Sie die Quelle finden."
 faq:
   - q: "Das Klacken wird mit dem Tempo schneller — was sagt mir das?"

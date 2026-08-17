@@ -1,6 +1,6 @@
 ---
 title: "Buczenie sprzęgła napędu na tył w CR-V"
-metaTitle: "Buczenie sprzęgła 4x4 w CR-V: przyczyny | Stuk"
+metaTitle: "Buczenie sprzęgła 4x4 w CR-V: przyczyny | Pro-Stuk"
 description: "Buczenie tylnego sprzęgła CR-V przy ciasnych zakrętach i małej prędkości: dlaczego zwykle winny jest olej i jak odróżnić to od łożyska koła."
 faq:
   - q: "Buczy przy zawracaniu na parkingu — to sprzęgło?"
@@ -91,6 +91,6 @@ otwarciem zespołu a życiem z hałasem, a warsztat, który mówi to wprost,
 jest bardziej wiarygodny niż taki, który sprzedaje trzecią wymianę.
 
 Jeśli chce Pan przyjechać z hipotezą, a nie z ogólnym „coś buczy”,
-proszę nagrać dźwięk aplikacją Stuk podczas zawracania na pustym placu.
+proszę nagrać dźwięk aplikacją Pro-Stuk podczas zawracania na pustym placu.
 Aplikacja zestawia nagranie z kilkoma odpowiedziami i pokazuje
 prawdopodobne przyczyny z procentami — co zauważalnie skraca diagnostykę.

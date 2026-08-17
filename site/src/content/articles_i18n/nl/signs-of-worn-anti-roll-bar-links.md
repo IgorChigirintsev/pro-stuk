@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten stabilisatorstangen"
-metaTitle: "Versleten stabilisatorstangen: geklop | Stuk"
+metaTitle: "Versleten stabilisatorstangen: geklop | Pro-Stuk"
 description: "Zo klinken versleten stabilisatorstangen: waar het geklop vandaan komt, hoe u het onderscheidt van schokdempers en wat de vervanging inhoudt."
 faq:
   - q: "Wat is het meest kenmerkende teken van versleten stabilisatorstangen?"

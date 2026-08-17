@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein gerissenes Flexrohr"
-metaTitle: "Flexrohr gerissen: die Anzeichen | Stuk"
+metaTitle: "Flexrohr gerissen: die Anzeichen | Pro-Stuk"
 description: "Plötzliches Dröhnen unter den Füßen, Vibrationen im Leerlauf und Abgasgeruch im Innenraum — so erkennen Sie ein gerissenes Flexrohr und was die Reparatur umfasst."
 faq:
   - q: "Wie lange kann ich mit einem gerissenen Flexrohr fahren?"

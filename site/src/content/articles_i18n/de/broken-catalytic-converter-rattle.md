@@ -1,6 +1,6 @@
 ---
 title: "Zerbröselter Katalysator: der Klang"
-metaTitle: "Zerbröselter Katalysator: wie er klingt | Stuk"
+metaTitle: "Zerbröselter Katalysator: wie er klingt | Pro-Stuk"
 description: "Ein rieselndes Rascheln unter dem Boden und Rasseln im Leerlauf — wie zerfallene Katalysatorkeramik klingt, wie Sie es prüfen und was dem Motor droht."
 faq:
   - q: "Wie klingt ein zerfallener Katalysator?"

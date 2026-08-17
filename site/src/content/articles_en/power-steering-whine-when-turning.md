@@ -1,7 +1,7 @@
 ---
 ru: "gudit-gur-pri-povorote"
 title: "Power steering whine when turning: causes"
-metaTitle: "Power steering whine when turning: causes | Stuk"
+metaTitle: "Power steering whine when turning: causes | Pro-Stuk"
 description: "Why hydraulic power steering whines in corners: fluid level, air in the system, the pump, the belt. How to tell normal from wear and what to check first."
 pubDate: "2026-08-02"
 related:
@@ -125,7 +125,7 @@ which finishes off the rack seals — and the rack is the most expensive
 part of the steering. So treat a whine as a reason to look in the
 reservoir within a day or two, not to “watch it for a month”.
 
-If you are not sure it is the power steering, record the sound in the Stuk
+If you are not sure it is the power steering, record the sound in the Pro-Stuk
 app while turning the wheel. The app matches the recording with your
 answers about when the sound appears and shows the likely causes with an
 urgency level.

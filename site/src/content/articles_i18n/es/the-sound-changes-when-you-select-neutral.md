@@ -1,6 +1,6 @@
 ---
 title: "El sonido cambia al poner punto muerto"
-metaTitle: "El sonido cambia en punto muerto: qué significa | Stuk"
+metaTitle: "El sonido cambia en punto muerto: qué significa | Pro-Stuk"
 description: "Puso punto muerto en marcha y el sonido cambió. Qué dice eso del origen, cómo hacer bien la prueba y qué causas permite descartar de entrada."
 faq:
   - q: "¿Es seguro poner punto muerto en marcha?"
@@ -102,6 +102,6 @@ y el conjunto completo de ruidos de marcha está en la página del síntoma
 [zumbido al circular](/es/symptoms/humming-while-driving/).
 
 Grabar ambas pasadas —con marcha metida y en punto muerto— es cómodo con
-la aplicación Stuk: compara los clips, los cruza con sus respuestas sobre
+la aplicación Pro-Stuk: compara los clips, los cruza con sus respuestas sobre
 velocidad y condiciones y muestra las causas probables con porcentajes.
 Llegará al taller con una hipótesis y no con un vago «hace un zumbido».

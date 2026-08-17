@@ -1,7 +1,7 @@
 ---
 ru: "stuk-sharovaya-ili-sajlentblok"
 title: "A knock: ball joint or bush — how to tell"
-metaTitle: "Knock: ball joint or bush — how to tell them apart | Stuk"
+metaTitle: "Knock: ball joint or bush — how to tell them apart | Pro-Stuk"
 description: "A suspension knock over bumps: how to tell a worn ball joint from a worn bush by the character of the sound, simple tests and a check on a lift."
 pubDate: "2026-08-02"
 related:
@@ -148,7 +148,7 @@ the suspension hanging and the rubber lives twisted, then tears within
 months.
 
 If the knock is already there and you are not sure, record the sound in
-the Stuk app. It will match the recording with your answers about when it
+the Pro-Stuk app. It will match the recording with your answers about when it
 knocks — over bumps, under braking or in bends — and show the likely causes
 with a level of urgency. With that you can go to a workshop and have
 specific parts checked instead of searching blindly.

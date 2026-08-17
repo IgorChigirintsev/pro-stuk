@@ -19,7 +19,7 @@ export const ko: ArticleUi = {
   hubQuizSub:
     '대화형 진단 트리: 몇 가지 질문에 답하면 원인 후보가 크게 줄어듭니다.',
   hubOther: '다른 분야',
-  indexTitle: '자동차 소음에 관한 글 | Stuk',
+  indexTitle: '자동차 소음에 관한 글 | Pro-Stuk',
   indexDescription:
     '자동차 소음 해설: 두드림, 삐걱임, 웅웅거림, 휘파람 소리, 덜컹거림. 각 소리의 의미와 직접 확인할 수 있는 것, 그리고 시급성.',
   indexH1: '글',

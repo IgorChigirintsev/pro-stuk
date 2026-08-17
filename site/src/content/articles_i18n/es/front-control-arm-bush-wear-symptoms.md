@@ -1,6 +1,6 @@
 ---
 title: "Silentblocks de los brazos delanteros gastados: los síntomas"
-metaTitle: "Silentblocks de brazos delanteros: los síntomas | Stuk"
+metaTitle: "Silentblocks de brazos delanteros: los síntomas | Pro-Stuk"
 description: "Golpes sordos en los baches, dirección que se va y un coche que sigue las roderas: los signos típicos de silentblocks gastados y cómo comprobarlos."
 faq:
   - q: "¿Cómo sé si son los silentblocks y no una rótula?"
@@ -112,7 +112,7 @@ rápido de rótulas y terminales de dirección, y un comportamiento impreciso a
 velocidad.
 
 Si los golpes en los baches ya se oyen pero no sabe de dónde vienen, grabe una
-pasada por un tramo roto conocido con la aplicación Stuk. Compara el carácter
+pasada por un tramo roto conocido con la aplicación Pro-Stuk. Compara el carácter
 del impacto con sus respuestas sobre la velocidad y el comportamiento de la
 dirección y muestra las causas probables con porcentajes, dejando solo la
 confirmación para hacerla en el elevador.

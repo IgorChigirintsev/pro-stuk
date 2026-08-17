@@ -1,7 +1,7 @@
 ---
 ru: "gudit-pompa-kak-proverit"
 title: "A whining water pump: how to check it"
-metaTitle: "Whining water pump: how to check it yourself | Stuk"
+metaTitle: "Whining water pump: how to check it yourself | Pro-Stuk"
 description: "Why a water pump whines, how to tell its noise from the alternator and idler pulleys, simple checks without dismantling anything, and how the repair is decided."
 pubDate: "2026-08-02"
 related:
@@ -124,7 +124,7 @@ planned replacement. On the way to the workshop, keep an eye on the
 temperature gauge and do not work the engine hard.
 
 If you are not sure it is the pump, record the sound under the bonnet in
-the Stuk app: it matches the recording against your answers about when and
+the Pro-Stuk app: it matches the recording against your answers about when and
 how the noise appears and shows the likely causes with an urgency rating —
 so you arrive with a specific theory rather than a general “something is
 humming”.

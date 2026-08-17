@@ -1,6 +1,6 @@
 ---
 title: "Barulho só com passageiros ou com carga"
-metaTitle: "Barulho só com passageiros ou carga: causas | Stuk"
+metaTitle: "Barulho só com passageiros ou carga: causas | Pro-Stuk"
 description: "Vazio, o carro é silencioso; com gente e bagagem aparece um barulho. O que muda sob carga e quais peças se entregam exatamente desse jeito."
 faq:
   - q: "Por que o carro é silencioso vazio e bate com passageiros?"
@@ -103,7 +103,7 @@ custa no dia a dia está em
 [rodando com amortecedores mortos](/pt/articles/driving-with-dead-shock-absorbers/).
 
 Se você quer entender o que está soando antes de ir à oficina, tente
-gravar o som no aplicativo Stuk percorrendo o mesmo trecho duas vezes —
+gravar o som no aplicativo Pro-Stuk percorrendo o mesmo trecho duas vezes —
 vazio e carregado. A diferença entre as gravações já é informativa, e o
 app cruza ela com as suas respostas e mostra as causas prováveis com
 porcentagens.

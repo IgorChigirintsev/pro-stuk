@@ -1,6 +1,6 @@
 ---
 title: "Kloppend stuurhuis bij de Hyundai Solaris"
-metaTitle: "Hyundai Solaris: kloppend stuurhuis, oorzaken | Stuk"
+metaTitle: "Hyundai Solaris: kloppend stuurhuis, oorzaken | Pro-Stuk"
 description: "Waarom er bij een Hyundai Solaris een tik in het stuur komt op kleine oneffenheden, en hoe u het stuurhuis onderscheidt van rotkogels en stangen."
 faq:
   - q: "Lost afstellen van het stuurhuis het probleem definitief op?"

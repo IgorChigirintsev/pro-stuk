@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec des freins qui grincent"
-metaTitle: "Rouler avec des freins qui grincent ? | Stuk"
+metaTitle: "Rouler avec des freins qui grincent ? | Pro-Stuk"
 description: "Un grincement métallique au freinage signifie que la garniture est partie et que le métal taille le disque. Jusqu'où rouler et ce qu'il ne faut pas faire."
 faq:
   - q: "Combien de kilomètres puis-je faire avec des freins qui grincent ?"
@@ -113,7 +113,7 @@ grincement a commencé un vendredi, il revient moins cher d'y consacrer le
 samedi que de le laisser courir un mois.
 
 Quand le son est là mais qu'on ne sait pas s'il s'agit du témoin d'usure
-ou du support de plaquette, un enregistrement aide : l'application Stuk
+ou du support de plaquette, un enregistrement aide : l'application Pro-Stuk
 analyse les fréquences, les croise avec vos réponses à quelques questions
 sur le moment où le son apparaît et affiche les causes probables avec
 leurs pourcentages — y compris une évaluation de la question de savoir si

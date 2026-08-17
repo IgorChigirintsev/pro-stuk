@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura dei tamponi di fine corsa"
-metaTitle: "Tamponi di fine corsa usurati: segnali | Stuk"
+metaTitle: "Tamponi di fine corsa usurati: segnali | Pro-Stuk"
 description: "Tonfi sordi nelle buche, briciole nel duomo, sospensione che va a pacco: come riconoscere i tamponi di fine corsa consumati e perché si cambiano con gli ammortizzatori."
 faq:
   - q: "Cos'è il tampone di fine corsa e a cosa serve?"
@@ -126,7 +126,7 @@ stagione. I kit dei grandi produttori di ammortizzatori includono tampone e
 soffietto con la geometria corretta.
 
 Non è sicuro che i tonfi sordi nelle buche siano davvero i tamponi?
-Registri il suono con l'app Stuk: confronta la registrazione con le sue
+Registri il suono con l'app Pro-Stuk: confronta la registrazione con le sue
 risposte sul comportamento dell'auto e mostra le cause probabili in
 percentuale con un livello di urgenza, così arriva in officina con
 un'ipotesi di lavoro.

@@ -1,6 +1,6 @@
 ---
 title: "Fren ıslığı: balata mı disk mi"
-metaTitle: "Fren ıslığı: balata mı disk mi ayırmak | Stuk"
+metaTitle: "Fren ıslığı: balata mı disk mi ayırmak | Pro-Stuk"
 description: "Frenler hem balata hem disk yüzünden öter. Sesin ortaya çıktığı koşullar hangisinin değişmesi gerektiğini nasıl anlatır, adım adım anlatıyoruz."
 faq:
   - q: "Sabah duyulan fren ıslığı arıza mı?"
@@ -92,6 +92,6 @@ kitinin balatayla birlikte takılması: plakalar, yaylar ve doğru yüksek
 sıcaklık gresi, yeni takımın ilk günden ötmesini engelleyen şeydir.
 
 Ses her seferinde çıkmıyorsa ve lift üstünde yakalanması zorsa, giderken
-Stuk uygulamasında kaydedin — pedala basarak ve basmadan. Uygulama kaydı
+Pro-Stuk uygulamasında kaydedin — pedala basarak ve basmadan. Uygulama kaydı
 ortaya çıktığı koşullarla eşleştirir ve olası nedenleri yüzdeyle gösterir;
 böylece ustayla konuşma gerçeklerden başlar.

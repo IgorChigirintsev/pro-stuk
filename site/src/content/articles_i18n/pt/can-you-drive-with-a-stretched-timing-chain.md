@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com a corrente de comando esticada"
-metaTitle: "Dá para rodar com a corrente de comando esticada? | Stuk"
+metaTitle: "Dá para rodar com a corrente de comando esticada? | Pro-Stuk"
 description: "O que uma corrente de comando esticada ameaça, quando dá para ir à oficina por conta própria, quando é caso de guincho e quanto custa a demora."
 faq:
   - q: "Quanto dá para rodar com a corrente de comando esticada?"
@@ -137,7 +137,7 @@ São medidas de redução de risco, não um jeito de adiar o reparo: corrente
 gasta não se recupera e não fica mais barata com o tempo.
 
 Se você não tem certeza de que é a corrente fazendo barulho, grave o motor
-com o aplicativo Stuk: ele cruza a gravação com suas respostas a algumas
+com o aplicativo Pro-Stuk: ele cruza a gravação com suas respostas a algumas
 perguntas e mostra as causas prováveis com um grau de urgência. Assim fica
 mais fácil decidir entre ir dirigindo até a oficina e chamar o guincho de
 uma vez.

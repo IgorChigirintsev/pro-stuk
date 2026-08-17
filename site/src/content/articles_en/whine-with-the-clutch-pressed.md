@@ -1,7 +1,7 @@
 ---
 ru: "gul-pri-vyzhatom-stseplenii"
 title: "Whining with the clutch pressed"
-metaTitle: "Whine when the clutch is pressed: what it is | Stuk"
+metaTitle: "Whine when the clutch is pressed: what it is | Pro-Stuk"
 description: "A whine that appears when you press the clutch pedal almost always means the release bearing. How to confirm it in a minute and what the repair involves."
 pubDate: "2026-07-24"
 related:
@@ -102,6 +102,6 @@ a bearing that breaks up can damage the pressure plate fingers and turn an
 ordinary repair into an expensive one.
 
 If the whine is quiet and you are not sure it is linked to the pedal,
-record the sound in the Stuk app — first at idle with the pedal up, then
+record the sound in the Pro-Stuk app — first at idle with the pedal up, then
 with it down. The app compares the recordings, matches them with a few
 answers and shows the likely causes with percentages.

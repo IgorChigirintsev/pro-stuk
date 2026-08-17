@@ -1,6 +1,6 @@
 ---
 title: "Un claquement : crémaillère ou rotules de direction"
-metaTitle: "Claquement de direction : crémaillère ou rotules | Stuk"
+metaTitle: "Claquement de direction : crémaillère ou rotules | Pro-Stuk"
 description: "Un claquement ressenti dans le volant sur les bosses vient aussi bien de la crémaillère que des rotules de direction. Les séparer par des contrôles simples."
 faq:
   - q: "Le claquement arrive dans le volant, est-ce forcément la direction ?"
@@ -108,7 +108,7 @@ de vous le décrire.
 
 Les claquements de direction s'enregistrent bien quand on sait où
 regarder. Parcourez une surface finement ondulée en enregistrant le son
-dans l'application Stuk, puis faites un second enregistrement sur un
+dans l'application Pro-Stuk, puis faites un second enregistrement sur un
 parking en secouant le volant. L'application les compare et affiche les
 causes probables avec leurs pourcentages — et suggère par quel plan de jeu
 commencer les contrôles.

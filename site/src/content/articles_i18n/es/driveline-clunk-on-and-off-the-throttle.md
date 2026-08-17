@@ -1,6 +1,6 @@
 ---
 title: "Un golpe en la transmisión al soltar y volver a dar gas"
-metaTitle: "Golpe en la transmisión al soltar y dar gas | Stuk"
+metaTitle: "Golpe en la transmisión al soltar y dar gas | Pro-Stuk"
 description: "Un golpe sordo justo al levantar el pie o volver a dar gas es la holgura de la transmisión recogiéndose. Qué piezas golpean y cómo distinguirlas."
 faq:
   - q: "¿Por qué el golpe solo se oye en ciudad?"
@@ -100,7 +100,7 @@ encontrado ahora, antes de que empiecen los chasquidos, es la reparación más
 barata de toda esta lista.
 
 Si el golpe todavía es raro y no está seguro ni de que exista, grabe un
-trayecto urbano con la aplicación Stuk: el tramo más útil es uno con varias
+trayecto urbano con la aplicación Pro-Stuk: el tramo más útil es uno con varias
 aceleraciones y paradas seguidas. La aplicación compara la grabación con sus
 respuestas sobre cuándo ocurre exactamente el golpe y muestra las causas
 probables con porcentajes, para que la conversación en el taller empiece por

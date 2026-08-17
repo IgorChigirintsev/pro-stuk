@@ -1,6 +1,6 @@
 ---
 title: "Summen der Kraftstoffpumpe: normal oder bald defekt"
-metaTitle: "Kraftstoffpumpe summt: normal oder Defekt? | Stuk"
+metaTitle: "Kraftstoffpumpe summt: normal oder Defekt? | Pro-Stuk"
 description: "Wo die Grenze zwischen einem gewöhnlichen Summen der Kraftstoffpumpe und dem Heulen einer sterbenden verläuft: welche Zeichen harmlos sind und welche eilen."
 faq:
   - q: "Die Pumpe summt beim Einschalten der Zündung ein paar Sekunden. Ist das normal?"

@@ -1,6 +1,6 @@
 ---
 title: "Zumbido de la caja automática: los primeros signos"
-metaTitle: "Zumbido de la caja automática: primeros signos | Stuk"
+metaTitle: "Zumbido de la caja automática: primeros signos | Pro-Stuk"
 description: "Zumbido de la caja de cambios automática en fase inicial: cómo suena, en qué se diferencia del rodamiento de rueda y de los neumáticos, y qué se revisa primero."
 faq:
   - q: "¿El zumbido de la caja sigue a la velocidad o a las revoluciones?"
@@ -101,7 +101,7 @@ cifra del manual, y contar el remolque o los patinazos largos en la nieve
 como una carga aparte para la caja, no como un detalle.
 
 Si el zumbido es discreto y quiere saber si sigue a la velocidad o a la
-marcha, grabe dos clips cortos en la aplicación Stuk: acelerando con gas y
+marcha, grabe dos clips cortos en la aplicación Pro-Stuk: acelerando con gas y
 la misma velocidad dejando rodar el coche. La aplicación compara las
 grabaciones y sugiere en qué dirección mirar primero: transmisión o tren
 de rodaje.

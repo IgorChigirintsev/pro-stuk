@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Spurstangen"
-metaTitle: "Spurstangen verschlissen: Klopfen und Spiel | Stuk"
+metaTitle: "Spurstangen verschlissen: Klopfen und Spiel | Pro-Stuk"
 description: "So erkennen Sie verschlissene Spurstangen: Klopfen auf kleinen Unebenheiten, Spiel in der Lenkung, ein ziehendes Auto. Prüfungen und was die Reparatur bedeutet."
 faq:
   - q: "Was ist der Unterschied zwischen Spurstange und Spurstangenkopf?"

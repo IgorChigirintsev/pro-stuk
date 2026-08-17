@@ -1,6 +1,6 @@
 ---
 title: "Combien de kilomètres tient un roulement de roue après l'apparition du bourdonnement"
-metaTitle: "Roulement de roue qui bourdonne : combien de km | Stuk"
+metaTitle: "Roulement de roue qui bourdonne : combien de km | Pro-Stuk"
 description: "Du premier bourdonnement d'un roulement de roue au jeu dangereux, il y a en général des milliers de kilomètres. De quoi dépend la marge et ce qui l'annule."
 faq:
   - q: "Combien de kilomètres puis-je faire avec un roulement qui bourdonne ?"
@@ -99,7 +99,7 @@ une voiture est détaillé dans
 [ce qu'entraîne de rouler avec des amortisseurs morts](/fr/articles/driving-with-dead-shock-absorbers/).
 
 Si vous voulez suivre la tendance plutôt que deviner, enregistrez le son
-dans l'application Stuk toutes les deux semaines sur la même portion de
+dans l'application Pro-Stuk toutes les deux semaines sur la même portion de
 route et à la même vitesse. L'application croise les enregistrements avec
 vos réponses et affiche les causes probables avec leurs pourcentages, et
 comparer les enregistrements entre eux répond honnêtement à la question de

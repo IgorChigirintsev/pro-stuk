@@ -1,6 +1,6 @@
 ---
 title: "Piepen onder de motorkap bij koude motor"
-metaTitle: "Piepen onder de motorkap bij koude start | Stuk"
+metaTitle: "Piepen onder de motorkap bij koude start | Pro-Stuk"
 description: "Waarom een koude motor onder de kap piept en het geluid na opwarmen verdwijnt: de multiriem, spanrollen, de waterpomp. Zo vindt u zelf de bron."
 faq:
   - q: "Waarom verdwijnt het piepen zodra de motor warm is?"

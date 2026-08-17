@@ -1,6 +1,6 @@
 ---
 title: "O motor falha e bate"
-metaTitle: "Motor falhando e batendo: causas e o que fazer | Stuk"
+metaTitle: "Motor falhando e batendo: causas e o que fazer | Pro-Stuk"
 description: "O motor treme, a marcha lenta oscila e há batida: causas das velas e bobinas até cilindro riscado. Como achar o cilindro morto e por que esperar custa caro."
 faq:
   - q: "Posso rodar com o motor falhando?"
@@ -99,7 +99,7 @@ danificado por uma falha antiga, trocá-lo sem resolver a falha antes
 simplesmente destrói o novo. Qualquer oficina que ofereça catalisador
 antes de curar a falha está com a ordem errada.
 
-Para chegar preparado, grave o motor funcionando no aplicativo Stuk: ele
+Para chegar preparado, grave o motor funcionando no aplicativo Pro-Stuk: ele
 analisa o som, faz algumas perguntas sobre as condições e mostra as causas
 prováveis com percentuais e urgência. Com esse quadro em mãos, fica mais
 fácil acompanhar tanto o diagnóstico quanto o orçamento.

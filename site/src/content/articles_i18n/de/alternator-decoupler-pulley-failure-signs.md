@@ -1,6 +1,6 @@
 ---
 title: "Freilaufriemenscheibe der Lichtmaschine: Defektzeichen"
-metaTitle: "Freilaufriemenscheibe: Zeichen für einen Defekt | Stuk"
+metaTitle: "Freilaufriemenscheibe: Zeichen für einen Defekt | Pro-Stuk"
 description: "Warum die Lichtmaschine eine Freilaufriemenscheibe braucht und wie ihr Verschleiß klingt: Pfeifen beim Start, Rasseln nach dem Abstellen, Riemenflattern."
 faq:
   - q: "Worin unterscheidet sich eine Freilaufriemenscheibe von einer normalen?"

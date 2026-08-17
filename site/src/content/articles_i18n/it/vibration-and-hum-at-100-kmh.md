@@ -1,6 +1,6 @@
 ---
 title: "Vibrazione e ronzio a 100 km/h"
-metaTitle: "Vibrazione e ronzio a 100 km/h: le cause | Stuk"
+metaTitle: "Vibrazione e ronzio a 100 km/h: le cause | Pro-Stuk"
 description: "Da dove arrivano vibrazione e ronzio a 100 km/h: equilibratura, cerchio storto, cuscinetto ruota o rumore delle gomme. Controlli da fare in un solo viaggio."
 faq:
   - q: "Perché la vibrazione compare intorno ai 100 km/h?"
@@ -123,7 +123,7 @@ permette di piantare il solo cuscinetto o se si sostituisce tutto il mozzo:
 quella sola risposta cambia completamente la portata del lavoro.
 
 Se dopo il viaggio non le è ancora chiaro se sia vibrazione, ronzio o
-entrambi, registri il suono nell'app Stuk mentre è in strada. L'app incrocia
+entrambi, registri il suono nell'app Pro-Stuk mentre è in strada. L'app incrocia
 la registrazione con le sue risposte — a che velocità compare, se cambia in
 curva, che cosa è stato fatto di recente alle ruote — e mostra le cause
 probabili con un livello di urgenza. Con quella registrazione non dovrà

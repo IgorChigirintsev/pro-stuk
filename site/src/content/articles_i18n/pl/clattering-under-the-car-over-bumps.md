@@ -1,6 +1,6 @@
 ---
 title: "Grzechocze pod autem na nierównościach"
-metaTitle: "Grzechot pod autem na nierównościach: przyczyny | Stuk"
+metaTitle: "Grzechot pod autem na nierównościach: przyczyny | Pro-Stuk"
 description: "Łączniki stabilizatora, osłona silnika, mocowania wydechu: dlaczego coś grzechocze pod autem na nierównościach i kiedy sprawa jest poważna."
 faq:
   - q: "Dlaczego grzechocze na drobnych nierównościach, a w dużych dziurach jest cicho?"
@@ -58,7 +58,7 @@ Kolejną wskazówką jest prędkość. Jeśli hałas rośnie z prędkością i p
 nawet na gładkiej drodze, bardziej podejrzany jest wydech i jego osłony — w
 tym również rozsypujący się katalizator, opisany w
 [grzechocie zepsutego katalizatora](/pl/articles/broken-catalytic-converter-rattle/).
-Stuk ściśle na nierównościach, który znika na gładkim asfalcie, to prawie
+Pro-Stuk ściśle na nierównościach, który znika na gładkim asfalcie, to prawie
 zawsze zawieszenie albo mocowania; proszę porównać swój opis ze stroną
 [stukanie na nierównościach](/pl/symptoms/knocking-over-bumps/).
 
@@ -119,7 +119,7 @@ jeśli winna jest tuleja wahacza, warto zapytać, czy da się wycisnąć samą
 tuleję, czy w tym aucie potrzebny jest cały wahacz: odpowiedź zmienia i cenę,
 i czas, a pytanie jest uczciwe, nie podejrzliwe.
 
-Jeśli grzechot nie daje się przyszpilić, proszę nagrać go w aplikacji Stuk
+Jeśli grzechot nie daje się przyszpilić, proszę nagrać go w aplikacji Pro-Stuk
 podczas jazdy po swojej znanej połamanej drodze: aplikacja zestawia dźwięk z
 odpowiedziami o to, kiedy się pojawia, i pokazuje prawdopodobne przyczyny wraz
 z poziomem pilności — warsztatowi zostaje tylko potwierdzić hipotezę na

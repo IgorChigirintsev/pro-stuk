@@ -1,6 +1,6 @@
 ---
 title: "Señales de una correa de distribución gastada"
-metaTitle: "Correa de distribución gastada: cómo verla | Stuk"
+metaTitle: "Correa de distribución gastada: cómo verla | Pro-Stuk"
 description: "Cómo saber que la correa de distribución está gastada: grietas, deshilachado, tictac y zumbido de rodillos. Por qué la rotura es fatal y cuándo cambiarla."
 faq:
   - q: "¿Qué pasa si la correa de distribución se rompe en marcha?"
@@ -113,7 +113,7 @@ Un trabajo hecho sin esos pasos puede tener un aspecto impecable y estar
 mal igualmente.
 
 Si desde la zona de la distribución ya se oyen tictac, susurros o
-silbidos, capture el sonido: una grabación en la aplicación Stuk junto con
+silbidos, capture el sonido: una grabación en la aplicación Pro-Stuk junto con
 sus respuestas a unas cuantas preguntas ayuda a averiguar si son los
 rodillos, la bomba o algo más serio, y con qué información acudir al
 taller.

@@ -1,6 +1,6 @@
 ---
 title: "Wibracje i buczenie przy 100 km/h"
-metaTitle: "Wibracje i buczenie przy 100 km/h: przyczyny | Stuk"
+metaTitle: "Wibracje i buczenie przy 100 km/h: przyczyny | Pro-Stuk"
 description: "Skąd biorą się wibracje i buczenie przy 100 km/h: wyważenie, krzywa felga, łożysko koła czy hałas opon. Samodzielne testy do zrobienia w jednej jeździe."
 faq:
   - q: "Dlaczego wibracje pojawiają się mniej więcej przy 100 km/h?"
@@ -118,7 +118,7 @@ Oraz, jeśli zdiagnozowano łożysko, czy konstrukcja pozwala wcisnąć samo
 zmienia skalę pracy.
 
 Jeśli po przejażdżce nadal nie wiadomo, czy to wibracje, buczenie, czy
-jedno i drugie, nagraj dźwięk w aplikacji Stuk w trasie. Aplikacja
+jedno i drugie, nagraj dźwięk w aplikacji Pro-Stuk w trasie. Aplikacja
 zestawia nagranie z odpowiedziami — przy jakiej prędkości się pojawia, czy
 zmienia się w łukach, co ostatnio robiono przy kołach — i pokazuje
 prawdopodobne przyczyny wraz ze stopniem pilności. Z takim nagraniem nie

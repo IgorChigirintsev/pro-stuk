@@ -1,7 +1,7 @@
 ---
 ru: "svist-iz-pod-kapota-pri-zapuske"
 title: "A squeal under the bonnet at start-up"
-metaTitle: "A squeal under the bonnet at start-up: causes | Stuk"
+metaTitle: "A squeal under the bonnet at start-up: causes | Pro-Stuk"
 description: "Why there is a squeal under the bonnet in the first seconds after starting: the belt, tensioner, idlers or the alternator decoupler pulley."
 pubDate: "2026-07-04"
 related:
@@ -144,5 +144,5 @@ to the idlers with a stethoscope takes ten to fifteen minutes, and many
 workshops do that check free when you book the repair.
 
 If you want to understand the cause before the trip, record the squeal at
-the moment of starting in the Stuk app: it matches the sound with your
+the moment of starting in the Pro-Stuk app: it matches the sound with your
 answers and shows the likely causes with a level of urgency.

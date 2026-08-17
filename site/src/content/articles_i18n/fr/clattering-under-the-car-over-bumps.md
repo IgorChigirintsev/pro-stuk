@@ -1,6 +1,6 @@
 ---
 title: "Ça cliquette sous la voiture sur les bosses"
-metaTitle: "Cliquetis sous la voiture sur les bosses | Stuk"
+metaTitle: "Cliquetis sous la voiture sur les bosses | Pro-Stuk"
 description: "Biellettes, protection sous moteur, silentblocs d'échappement : pourquoi ça cliquette sous la voiture sur les bosses et comment trouver la source."
 faq:
   - q: "Pourquoi ça cliquette sur les petites bosses et pas dans les gros nids-de-poule ?"
@@ -133,7 +133,7 @@ voiture : la réponse change à la fois l'ampleur et la durée du travail, et
 c'est une question légitime, pas de la vente forcée.
 
 Si le cliquetis refuse de se laisser cerner, enregistrez-le dans
-l'application Stuk en roulant sur votre mauvaise route habituelle :
+l'application Pro-Stuk en roulant sur votre mauvaise route habituelle :
 l'application confronte le son à vos réponses sur le moment où il apparaît
 et affiche les causes probables avec un niveau d'urgence — il ne reste
 plus au garage qu'à confirmer la théorie sur le pont.

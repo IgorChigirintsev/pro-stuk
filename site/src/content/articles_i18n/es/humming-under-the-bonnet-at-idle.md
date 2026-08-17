@@ -1,6 +1,6 @@
 ---
 title: "Zumbido bajo el capó a ralentí"
-metaTitle: "Zumbido bajo el capó a ralentí: hallar el origen | Stuk"
+metaTitle: "Zumbido bajo el capó a ralentí: hallar el origen | Pro-Stuk"
 description: "Qué zumba bajo el capó a ralentí: el ventilador, el alternador, el compresor, la bomba de agua o las poleas. Pruebas con interruptores que localizan el origen."
 faq:
   - q: "¿Es normal que aparezca un zumbido al conectar el aire acondicionado?"
@@ -135,5 +135,5 @@ y estirada es un arreglo de vida corta.
 
 Un zumbido a ralentí es fácil de grabar: el coche está quieto y el ruido de
 fondo es mínimo. Haga una grabación con el capó abierto con la aplicación
-Stuk: compara el sonido con sus respuestas y muestra las causas probables con
+Pro-Stuk: compara el sonido con sus respuestas y muestra las causas probables con
 una valoración de urgencia.

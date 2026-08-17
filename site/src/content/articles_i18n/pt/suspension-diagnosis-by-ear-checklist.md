@@ -1,6 +1,6 @@
 ---
 title: "Diagnóstico da suspensão de ouvido: checklist completo"
-metaTitle: "Diagnóstico da suspensão de ouvido: checklist | Stuk"
+metaTitle: "Diagnóstico da suspensão de ouvido: checklist | Pro-Stuk"
 description: "Roteiro de testes da suspensão sem elevador: balanço, ondulações pequenas, buracos grandes, esterçar parado e slalom, com tabela de ruídos e peças."
 faq:
   - q: "Dá para identificar defeito de suspensão sem elevador?"
@@ -97,7 +97,7 @@ cinco testes, e descrever nesses termos —
 traz as palavras que funcionam.
 
 Passar pelo checklist fica mais fácil com uma gravação: comece a gravar no
-aplicativo Stuk rodando sobre piso irregular e responda as perguntas sobre
+aplicativo Pro-Stuk rodando sobre piso irregular e responda as perguntas sobre
 velocidade e condições. O app cruza o som com as suas respostas e mostra
 as causas prováveis com porcentagem — a lista que você leva ao mecânico
 sai curta e objetiva.

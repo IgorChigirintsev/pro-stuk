@@ -1,6 +1,6 @@
 ---
 title: "Claquement de l'essieu arrière sur Polo Sedan et Rapid"
-metaTitle: "Claquement du train arrière Polo Sedan et Rapid | Stuk"
+metaTitle: "Claquement du train arrière Polo Sedan et Rapid | Pro-Stuk"
 description: "Pourquoi une Polo Sedan ou une Rapid claque à l'arrière : silentblocs d'essieu, amortisseurs, butées et fixations. Comment localiser la source et de quoi dépend la réparation."
 faq:
   - q: "Peut-on changer seulement les silentblocs sans remplacer l'essieu ?"
@@ -105,7 +105,7 @@ vérifier —
 [un claquement après une réparation de suspension](/fr/articles/knock-after-suspension-repair/).
 
 Si le claquement n'apparaît que sur une portion de route précise et ne se
-reproduit pas au garage, enregistrez le son dans l'application Stuk en
+reproduit pas au garage, enregistrez le son dans l'application Pro-Stuk en
 passant à cet endroit. L'application confronte l'enregistrement à vos
 réponses et affiche les causes probables en pourcentages, pour que la
 conversation avec le mécanicien commence par une pièce précise.

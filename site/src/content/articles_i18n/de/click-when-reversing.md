@@ -1,6 +1,6 @@
 ---
 title: "Ein Klacken beim Anfahren im Rückwärtsgang"
-metaTitle: "Klacken beim Anfahren rückwärts: Ursachen | Stuk"
+metaTitle: "Klacken beim Anfahren rückwärts: Ursachen | Pro-Stuk"
 description: "Ein trockenes Klacken beim Anfahren rückwärts ist fast immer aufgenommenes Spiel. Wo es sich sammelt: Beläge, Gelenke, Kardangelenk, Motorlager."
 faq:
   - q: "Warum hört man das Klacken nur rückwärts und nicht vorwärts?"

@@ -1,6 +1,6 @@
 ---
 title: "Volante che vibra in frenata"
-metaTitle: "Volante che vibra in frenata: le cause | Stuk"
+metaTitle: "Volante che vibra in frenata: le cause | Pro-Stuk"
 description: "Perché il volante trema quando si frena: spessore irregolare dei dischi, pinza che si impunta, gioco al mozzo. Come distinguerlo dallo squilibrio e cosa fare."
 faq:
   - q: "Perché il volante vibra solo in frenata, mentre in velocità l'auto è tranquilla?"
@@ -125,7 +125,7 @@ torni.
 
 Se non è sicura di cosa stia sentendo, vibrazione dai dischi, squilibrio
 delle ruote o ABS che lavora, registri il suono e descriva la situazione
-nell'app Stuk. Confronta la registrazione con le sue risposte, quando
+nell'app Pro-Stuk. Confronta la registrazione con le sue risposte, quando
 compare il tremolio, dove lo sente, se stava frenando, e mostra le cause
 probabili con un livello di urgenza. Arriva in officina con un quadro
 chiaro invece che con un vago «trema qualcosa».

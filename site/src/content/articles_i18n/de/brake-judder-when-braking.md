@@ -1,6 +1,6 @@
 ---
 title: "Lenkradschlagen beim Bremsen"
-metaTitle: "Lenkradschlagen beim Bremsen: Ursachen | Stuk"
+metaTitle: "Lenkradschlagen beim Bremsen: Ursachen | Pro-Stuk"
 description: "Warum das Lenkrad beim Bremsen schlägt: ungleiche Scheibendicke, klemmender Sattel, Spiel im Radlager. Wie Sie es von Radvibrationen unterscheiden."
 faq:
   - q: "Warum schlägt das Lenkrad nur beim Bremsen, während der Wagen bei Tempo ruhig läuft?"

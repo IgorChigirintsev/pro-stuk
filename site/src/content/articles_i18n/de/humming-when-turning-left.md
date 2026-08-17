@@ -1,6 +1,6 @@
 ---
 title: "Brummen beim Linksabbiegen"
-metaTitle: "Brummen beim Linkskurve: welches Lager? | Stuk"
+metaTitle: "Brummen beim Linkskurve: welches Lager? | Pro-Stuk"
 description: "Ein Brummen in der Linkskurve heißt meist, dass das rechte Radlager verschlissen ist. Warum das so ist, wie Sie es in einer Fahrt bestätigen und wie dringend es ist."
 faq:
   - q: "Brummen beim Linksabbiegen — welches Lager tausche ich?"

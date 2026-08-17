@@ -1,6 +1,6 @@
 ---
 title: "Batida a frio que some é perigosa?"
-metaTitle: "Batida a frio que some: é perigosa? | Stuk"
+metaTitle: "Batida a frio que some: é perigosa? | Pro-Stuk"
 description: "Batida na partida a frio que some depois de aquecer pode ser inofensiva ou aviso de reparo caro. Como separar pelo tempo de duração e pelo caráter do som."
 faq:
   - q: "Quantos segundos de batida na partida a frio são normais?"
@@ -104,7 +104,7 @@ e
 [checando folga do cubo com a roda suspensa](/pt/articles/checking-wheel-bearing-play-with-the-wheel-raised/).
 
 Para acompanhar a tendência sem depender da memória, grave os primeiros
-segundos de uma partida a frio no aplicativo Stuk uma vez por mês. O
+segundos de uma partida a frio no aplicativo Pro-Stuk uma vez por mês. O
 aplicativo cruza a gravação com as suas respostas e mostra as causas
 prováveis em porcentagem, e comparar as gravações entre si responde à
 pergunta principal: está piorando ou não.

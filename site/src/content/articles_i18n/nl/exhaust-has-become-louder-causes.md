@@ -1,6 +1,6 @@
 ---
 title: "De uitlaat is luider geworden: de oorzaken"
-metaTitle: "Uitlaat luider geworden: oorzaken en aanpak | Stuk"
+metaTitle: "Uitlaat luider geworden: oorzaken en aanpak | Pro-Stuk"
 description: "Een doorgeroeste demper, een gescheurde flexpijp, verbindingen en pakkingen: waarom de uitlaat luider werd, wat het risico is en hoe de reparatie wordt gekozen."
 faq:
   - q: "Waarom roesten dempers van binnenuit door?"

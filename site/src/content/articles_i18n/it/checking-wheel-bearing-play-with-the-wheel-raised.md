@@ -1,6 +1,6 @@
 ---
 title: "Controllare il gioco del mozzo a ruota sollevata"
-metaTitle: "Controllare il gioco del mozzo a ruota sollevata | Stuk"
+metaTitle: "Controllare il gioco del mozzo a ruota sollevata | Pro-Stuk"
 description: "Come sollevare una ruota in sicurezza e controllare il gioco: le prese 12–6 e 3–9, come separare il cuscinetto dal giunto sferico e dallo sterzo."
 faq:
   - q: "Quanto gioco della ruota si considera normale?"
@@ -99,6 +99,6 @@ cambia il carattere: ci si arriva con una teoria precisa e sapendo cosa
 deve essere confermato sul ponte.
 
 Se ha trovato del gioco ma non capisce quale pezzo lo produca, registri il
-suono con l'app Stuk su un tratto di strada sconnesso. L'app confronta la
+suono con l'app Pro-Stuk su un tratto di strada sconnesso. L'app confronta la
 registrazione con le sue risposte e mostra le cause probabili in
 percentuale: un'assicurazione utile contro le voci in più sul conto.

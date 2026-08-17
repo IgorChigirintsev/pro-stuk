@@ -1,6 +1,6 @@
 ---
 title: "Trzask przy wciskaniu sprzęgła"
-metaTitle: "Trzask przy wciskaniu sprzęgła: przyczyny | Stuk"
+metaTitle: "Trzask przy wciskaniu sprzęgła: przyczyny | Pro-Stuk"
 description: "Trzask w chwili wciskania pedału sprzęgła zwykle daje widełki, tuleja prowadząca albo sucha oś. Jak odróżnić tanią usterkę od zdejmowania skrzyni."
 faq:
   - q: "Czy trzask na pedale to łożysko oporowe?"
@@ -93,7 +93,7 @@ ocenia się przy tej samej okazji, bo to jedyna pozycja, która potrafi
 podwoić rachunek.
 
 Jeśli trudno rozstrzygnąć, skąd dochodzi dźwięk — z kabiny czy spod
-maski — proszę nagrać go aplikacją Stuk dwa razy: przy zgaszonym
+maski — proszę nagrać go aplikacją Pro-Stuk dwa razy: przy zgaszonym
 i przy pracującym silniku. Aplikacja porównuje nagrania z Pana
 odpowiedziami i pokazuje prawdopodobne przyczyny z procentami, dzięki
 czemu rozmowa w warsztacie zaczyna się od właściwego końca.

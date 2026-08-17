@@ -1,6 +1,6 @@
 ---
 title: "Segni di un flessibile di scarico rotto"
-metaTitle: "Flessibile di scarico rotto: i segni | Stuk"
+metaTitle: "Flessibile di scarico rotto: i segni | Pro-Stuk"
 description: "Un rombo improvviso sotto i piedi, vibrazioni al minimo e gas di scarico in abitacolo: come riconoscere un flessibile di scarico strappato e cosa comporta la riparazione."
 faq:
   - q: "Quanto si può guidare con il flessibile strappato?"
@@ -96,7 +96,7 @@ saldato con lo scarico tirato di lato, il tratto nuovo comincia la sua vita
 già precaricato.
 
 Se il rombo è arrivato ma non è sicuro se sia il flessibile o un tubo
-corroso, registri il suono con l'app Stuk al minimo e alzando i giri in modo
+corroso, registri il suono con l'app Pro-Stuk al minimo e alzando i giri in modo
 graduale. L'app confronta la registrazione con le sue risposte su dove il
 suono è più forte e come cambia, e suggerisce quale parte dell'impianto
 ispezionare per prima.

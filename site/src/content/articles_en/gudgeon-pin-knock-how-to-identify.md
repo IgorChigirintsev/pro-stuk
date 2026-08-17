@@ -1,7 +1,7 @@
 ---
 ru: "stuk-porshnevyh-paltsev"
 title: "Gudgeon pin knock: how to identify it"
-metaTitle: "Gudgeon pin knock: how to identify it | Stuk"
+metaTitle: "Gudgeon pin knock: how to identify it | Pro-Stuk"
 description: "How gudgeon pin knock sounds, how it differs from detonation and valve noise, which tests confirm it and what the repair involves."
 pubDate: "2026-07-02"
 related:
@@ -111,6 +111,6 @@ no full loads. The play grows at an accelerating rate, and every kilometre
 under load moves the repair towards the more expensive version.
 
 If you are not certain of the diagnosis — and with engine knocks nobody
-ever is — record the sound in the Stuk app: it matches the recording with
+ever is — record the sound in the Pro-Stuk app: it matches the recording with
 your answers about the conditions and shows the likely causes with
 percentages.

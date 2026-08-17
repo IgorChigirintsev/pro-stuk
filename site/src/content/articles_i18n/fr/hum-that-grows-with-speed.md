@@ -1,6 +1,6 @@
 ---
 title: "Un bourdonnement qui grossit avec la vitesse"
-metaTitle: "Bourdonnement qui grossit : roulement ou pneus | Stuk"
+metaTitle: "Bourdonnement qui grossit : roulement ou pneus | Pro-Stuk"
 description: "Un bourdonnement qui monte avec la vitesse vient presque toujours des roues. Séparer un roulement des pneus et de la transmission en un seul trajet."
 faq:
   - q: "Le bourdonnement grossit avec la vitesse, est-ce forcément un roulement ?"
@@ -108,7 +108,7 @@ deux semaines qui suivent le moment où le son devient permanent.
 
 La difficulté, c'est que tous ces tests se font à l'oreille en roulant, et
 que la mémoire humaine des sons est courte. Enregistrez le bourdonnement
-dans l'application Stuk à différentes vitesses et pendant les changements
+dans l'application Pro-Stuk à différentes vitesses et pendant les changements
 de file : elle croise les enregistrements avec vos réponses et affiche les
 causes probables avec leurs pourcentages, pour que la conversation au
 garage démarre sur une théorie précise.

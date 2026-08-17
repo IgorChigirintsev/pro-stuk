@@ -1,6 +1,6 @@
 ---
 title: "Cykanie wtryskiwaczy: norma czy nie"
-metaTitle: "Cykanie wtryskiwaczy: norma czy usterka | Stuk"
+metaTitle: "Cykanie wtryskiwaczy: norma czy usterka | Pro-Stuk"
 description: "Cykanie wtryskiwaczy: skąd się bierze, kiedy jest normą dla silnika, a kiedy sygnalizuje usterkę. Jak odróżnić je od popychaczy hydraulicznych."
 faq:
   - q: "Dlaczego wtryskiwacze słychać tylko na wolnych obrotach?"
@@ -108,6 +108,6 @@ wtryskiwaczy tego nie ruszy — to osobna robota i warto ją potwierdzić albo
 wykluczyć, zanim zapłaci się za tę niewłaściwą.
 
 Jeśli cykanie budzi wątpliwości — jest głośniejsze, mniej równe, dołączyła do
-niego wibracja — nagraj silnik na wolnych obrotach w aplikacji Stuk: algorytm
+niego wibracja — nagraj silnik na wolnych obrotach w aplikacji Pro-Stuk: algorytm
 zestawia dźwięk z typowymi profilami i twoimi odpowiedziami i pokazuje, czy
 przypomina to normalną pracę wtryskiwaczy, czy powód do wizyty w warsztacie.

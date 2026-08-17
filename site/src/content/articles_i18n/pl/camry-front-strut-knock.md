@@ -1,7 +1,7 @@
 ---
-title: "Stuk amortyzatorów w Camry: typowy problem"
-metaTitle: "Stuk amortyzatorów w Camry: co wymienić | Stuk"
-description: "Stuk przednich amortyzatorów w Camry na drobnych nierównościach: dlaczego nie zawsze winne są amortyzatory i jak sprawdzić poduszki oraz łączniki."
+title: "Pro-Stuk amortyzatorów w Camry: typowy problem"
+metaTitle: "Pro-Stuk amortyzatorów w Camry: co wymienić | Pro-Stuk"
+description: "Pro-Stuk przednich amortyzatorów w Camry na drobnych nierównościach: dlaczego nie zawsze winne są amortyzatory i jak sprawdzić poduszki oraz łączniki."
 faq:
   - q: "Czy stuk przedniego zawieszenia w Camry to zawsze amortyzatory?"
     a: "Nie i to jest główna pułapka. Częściej winne są łączniki stabilizatora i poduszki amortyzatorów, podczas gdy sam amortyzator nadal robi swoje. Dlatego przed wymianą drogich części warto sprawdzić te tanie."
@@ -28,7 +28,7 @@ naprawdę stuka i w jakiej kolejności to sprawdzać.
 
 Przednia kolumna to nie jedna część, lecz zespół: amortyzator, sprężyna,
 poduszka z łożyskiem, odbojnik i osłona. Obok pracują łączniki
-stabilizatora i tuleje wahaczy. Stuk może narodzić się w każdym z tych
+stabilizatora i tuleje wahaczy. Pro-Stuk może narodzić się w każdym z tych
 miejsc, a dźwięk będzie bardzo podobny.
 
 - **Łączniki stabilizatora.** Najczęstsza przyczyna suchego grzechoczącego
@@ -54,7 +54,7 @@ Portret dźwiękowy całej tej grupy znajdzie Pan na stronie objawu
 | Skręcanie w miejscu | Obrócić kierownicę do oporu na parkingu | Kliknięcie lub chrupnięcie — łożysko poduszki |
 | Oględziny kolumny | Spojrzeć na korpus amortyzatora | Pocenie olejem — kolumna do wymiany |
 | Stabilizator | Pobujać kołem i posłuchać | Grzechot — łączniki |
-| Próg zwalniający | Przejechać powoli | Stuk pojawiający się i znikający — poduszka albo odbojnik |
+| Próg zwalniający | Przejechać powoli | Pro-Stuk pojawiający się i znikający — poduszka albo odbojnik |
 
 Te sprawdzenia nie zastąpią podnośnika, ale są darmowe i w dziesięć minut
 eliminują najtańsze teorie. Jeśli podejrzenie nadal pada na amortyzatory,
@@ -87,7 +87,7 @@ buczenie i stuk często przychodzą razem, a diagnoza wychodzi wtedy pełna
 za jedną wizytę.
 
 Jeśli stuk wciąż pojawia się sporadycznie i nie da się go powtórzyć przy
-mechaniku, proszę nagrać go aplikacją Stuk podczas przejazdu przez znaną
+mechaniku, proszę nagrać go aplikacją Pro-Stuk podczas przejazdu przez znaną
 nierówność. Aplikacja zestawi nagranie z Pana odpowiedziami i pokaże
 prawdopodobne przyczyny z procentami — co najmniej stanie się jasne, od
 czego zacząć szukanie.

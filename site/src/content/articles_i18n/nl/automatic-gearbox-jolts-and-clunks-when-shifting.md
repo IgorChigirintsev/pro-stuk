@@ -1,6 +1,6 @@
 ---
 title: "Schokken en klappen van de automaat bij het schakelen"
-metaTitle: "Automaat: schokken en klappen bij schakelen | Stuk"
+metaTitle: "Automaat: schokken en klappen bij schakelen | Pro-Stuk"
 description: "Schokken en een doffe klap terwijl de automaat schakelt kunnen onschuldig zijn of het eerste teken van dure reparatie. Zo houdt u ze uit elkaar."
 faq:
   - q: "Is een schok bij het kiezen van D vanuit P normaal?"

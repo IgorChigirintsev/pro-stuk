@@ -1,6 +1,6 @@
 ---
 title: "Un claquement dans la portière sur les bosses"
-metaTitle: "Claquement dans la portière sur les bosses | Stuk"
+metaTitle: "Claquement dans la portière sur les bosses | Pro-Stuk"
 description: "La portière claque sur les bosses : lève-vitre, arrêt de porte, serrure — ou finalement la suspension. Comment localiser la source en un seul trajet."
 faq:
   - q: "Pourquoi le claquement de portière s'arrête-t-il si je descends un peu la vitre ?"
@@ -106,7 +106,7 @@ transmission —
 
 La façon la plus simple de trancher ce genre de claquement, c'est de
 comparer deux enregistrements. Lancez l'enregistrement dans l'application
-Stuk et parcourez une portion dégradée que vous connaissez, d'abord vitre
+Pro-Stuk et parcourez une portion dégradée que vous connaissez, d'abord vitre
 fermée, puis vitre légèrement descendue. L'application croise les
 enregistrements avec vos réponses à quelques questions et indique ce qui
 est le plus probable — la portière, la caisse ou la suspension.

@@ -1,6 +1,6 @@
 ---
 title: "Krekels in het interieur: zo vindt u de bron"
-metaTitle: "Krakend interieur: zo vindt u de bron | Stuk"
+metaTitle: "Krakend interieur: zo vindt u de bron | Pro-Stuk"
 description: "Een stapsgewijze methode om interieurkrekels op te jagen: lokaliseren met de hand, wat een bijrijder toevoegt, en wanneer het geluid toch het onderstel is."
 faq:
   - q: "Waarom verdwijnt een krekel juist als u ernaar gaat zoeken?"

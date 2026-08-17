@@ -1,7 +1,7 @@
 ---
-title: "Stuk przy puszczaniu sprzęgła"
-metaTitle: "Stuk przy puszczaniu sprzęgła: przyczyny | Stuk"
-description: "Stuk w chwili puszczania pedału sprzęgła daje tłumik tarczy, koło zamachowe, poduszki silnika i przeguby półosi. Jak je od siebie odróżnić."
+title: "Pro-Stuk przy puszczaniu sprzęgła"
+metaTitle: "Pro-Stuk przy puszczaniu sprzęgła: przyczyny | Pro-Stuk"
+description: "Pro-Stuk w chwili puszczania pedału sprzęgła daje tłumik tarczy, koło zamachowe, poduszki silnika i przeguby półosi. Jak je od siebie odróżnić."
 faq:
   - q: "Czy stuk przy puszczaniu pedału oznacza nowe sprzęgło?"
     a: "Niekoniecznie. Ten sam dźwięk daje pęknięta poduszka silnika i luz w półosiach, a jedno i drugie jest znacznie tańsze. Sprzęgło podejrzewa się wtedy, gdy stuk dochodzi z okolic dzwonu skrzyni i towarzyszą mu drgania przy ruszaniu."
@@ -46,9 +46,9 @@ zużyte tuleje — potrafią stukać po prostu w reakcji na szarpnięcie nadwozi
 
 | Źródło | Gdzie słychać | Objawy towarzyszące |
 |---|---|---|
-| Tłumik tarczy sprzęgła | Z okolic dzwonu skrzyni | Stuk przy ruszaniu i puszczaniu gazu |
+| Tłumik tarczy sprzęgła | Z okolic dzwonu skrzyni | Pro-Stuk przy ruszaniu i puszczaniu gazu |
 | Koło dwumasowe | To samo miejsce, bardziej głucho | Trzęsienie na wolnych obrotach, szarpnięcie przy gaszeniu |
-| Poduszka silnika lub skrzyni | Czuć w podłodze i w dźwigni | Stuk przy przygazie na luzie |
+| Poduszka silnika lub skrzyni | Czuć w podłodze i w dźwigni | Pro-Stuk przy przygazie na luzie |
 | Przeguby półosi | Z boku, bliżej koła | Chrzęst na łuku pod obciążeniem |
 | Zawieszenie, łączniki stabilizatora | Z dołu, po jednej stronie | Ten sam stuk na nierównościach |
 
@@ -66,7 +66,7 @@ wciskaniu opisano osobno w tekście
 
 1. **Przygaz na luzie** — oddziela poduszki od sprzęgła, zajmuje minutę.
 2. **Ruszanie bez gazu.** Na równym placu puścić pedał na wolnych obrotach.
-   Stuk dokładnie w punkcie chwytu wskazuje na tłumik tarczy albo koło
+   Pro-Stuk dokładnie w punkcie chwytu wskazuje na tłumik tarczy albo koło
    zamachowe.
 3. **Puszczać powoli.** Powtórzyć trzy razy wolniej. Jeśli stuk znika,
    chodzi o gwałtowność narastania momentu — czyli luz istnieje, ale jest
@@ -94,6 +94,6 @@ wyjętej skrzyni: łożysko oporowe, tylny simmering wału korbowego, a przy
 kole dwumasowym pomiar, który rozstrzyga, czy koło zostaje.
 
 Jeśli stuk zdarza się jeszcze sporadycznie i nie ma pewności, skąd
-dochodzi, warto nagrać go w aplikacji Stuk dwa razy: przy przygazie na
+dochodzi, warto nagrać go w aplikacji Pro-Stuk dwa razy: przy przygazie na
 luzie i przy ruszaniu. Aplikacja porówna nagrania z odpowiedziami i pokaże
 prawdopodobne przyczyny z procentami.

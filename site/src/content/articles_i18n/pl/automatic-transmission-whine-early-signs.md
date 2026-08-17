@@ -1,6 +1,6 @@
 ---
 title: "Buczenie automatycznej skrzyni: pierwsze objawy"
-metaTitle: "Buczenie automatycznej skrzyni: objawy | Stuk"
+metaTitle: "Buczenie automatycznej skrzyni: objawy | Pro-Stuk"
 description: "Buczenie skrzyni automatycznej we wczesnym stadium: jak brzmi, czym różni się od hałasu łożyska koła i opon oraz co sprawdza się w pierwszej kolejności."
 faq:
   - q: "Czy buczenie skrzyni idzie za prędkością, czy za obrotami silnika?"
@@ -98,7 +98,7 @@ interwału względem wartości książkowej, a holowanie i długie buksowanie w
 śniegu warto liczyć jako osobne obciążenie skrzyni, a nie drobiazg.
 
 Jeśli buczenie jest ciche, a chce Pan wiedzieć, czy podąża za prędkością,
-czy za biegiem, proszę nagrać w aplikacji Stuk dwa krótkie fragmenty:
+czy za biegiem, proszę nagrać w aplikacji Pro-Stuk dwa krótkie fragmenty:
 przyspieszanie pod obciążeniem i tę samą prędkość przy zdjętym gazie.
 Aplikacja porówna nagrania i podpowie, w którą stronę — układu napędowego
 czy podwozia — szukać najpierw.

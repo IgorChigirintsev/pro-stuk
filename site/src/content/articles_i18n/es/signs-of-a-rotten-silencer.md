@@ -1,6 +1,6 @@
 ---
 title: "Señales de un silenciador podrido"
-metaTitle: "Señales de un silenciador podrido | Stuk"
+metaTitle: "Señales de un silenciador podrido | Pro-Stuk"
 description: "El coche suena más, retumba y petardea bajo el piso, entran gases al habitáculo: las señales de un silenciador podrido y cómo se decide la reparación."
 faq:
   - q: "¿Un silenciador podrido quita potencia?"
@@ -98,6 +98,6 @@ y carga las costuras, así que una caja nueva sobre gomas viejas se pudre
 antes de tiempo.
 
 Si oye que el coche suena más fuerte pero no sabe por dónde ha cedido el
-sistema, grabe el sonido en la aplicación Stuk: al ralentí y subiendo las
+sistema, grabe el sonido en la aplicación Pro-Stuk: al ralentí y subiendo las
 vueltas con suavidad. La aplicación compara la grabación con sus
 respuestas y sugiere qué partes del sistema inspeccionar primero.

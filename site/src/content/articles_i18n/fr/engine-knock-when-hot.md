@@ -1,6 +1,6 @@
 ---
 title: "Un claquement moteur à chaud"
-metaTitle: "Claquement moteur à chaud : causes et conduite | Stuk"
+metaTitle: "Claquement moteur à chaud : causes et conduite | Pro-Stuk"
 description: "Pourquoi un moteur se met à claquer une fois chaud : huile, poussoirs hydrauliques, coussinets ou détonation. Comment cerner la cause par le comportement."
 faq:
   - q: "Pourquoi le moteur ne claque-t-il qu'après la chauffe ?"
@@ -154,7 +154,7 @@ des claquements moteur est sur la page du symptôme
 [claquement dans le moteur](/fr/symptoms/knocking-in-engine/).
 
 Si vous voulez quelque chose de concret avant la visite au garage,
-enregistrez le son du moteur chaud dans l'application Stuk. Elle croise
+enregistrez le son du moteur chaud dans l'application Pro-Stuk. Elle croise
 l'enregistrement avec des claquements typiques, pose quelques questions de
 précision et affiche les causes probables avec un niveau d'urgence — avec
 cette liste, la conversation avec un mécanicien va plus vite.

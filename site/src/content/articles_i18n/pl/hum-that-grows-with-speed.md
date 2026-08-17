@@ -1,6 +1,6 @@
 ---
 title: "Buczenie narastające z prędkością"
-metaTitle: "Buczenie rosnące z prędkością: łożysko czy opony | Stuk"
+metaTitle: "Buczenie rosnące z prędkością: łożysko czy opony | Pro-Stuk"
 description: "Buczenie rosnące z prędkością jazdy prawie zawsze pochodzi od kół. Jak w jednym przejeździe oddzielić łożysko koła od opon i układu napędowego."
 faq:
   - q: "Buczenie rośnie z prędkością — czy to na pewno łożysko?"
@@ -98,6 +98,6 @@ momentu, gdy dźwięk stał się stały.
 
 Trudność polega na tym, że wszystkie te testy robi się uchem w czasie jazdy,
 a ludzka pamięć do dźwięków jest krótka. Proszę nagrać buczenie w aplikacji
-Stuk przy różnych prędkościach i podczas zmian pasa: dopasuje nagrania do
+Pro-Stuk przy różnych prędkościach i podczas zmian pasa: dopasuje nagrania do
 Pana odpowiedzi i pokaże prawdopodobne przyczyny z procentami, żeby rozmowa
 w warsztacie zaczynała się od konkretnej hipotezy.

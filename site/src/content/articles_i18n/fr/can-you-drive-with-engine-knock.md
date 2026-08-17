@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec un claquement moteur"
-metaTitle: "Rouler avec un claquement moteur : les risques | Stuk"
+metaTitle: "Rouler avec un claquement moteur : les risques | Pro-Stuk"
 description: "Quels claquements moteur permettent d'aller au garage et lesquels imposent de couper et d'appeler une dépanneuse. Les règles du régime doux et les erreurs."
 faq:
   - q: "Puis-je aller au garage si le claquement est discret ?"
@@ -141,7 +141,7 @@ grandeur. Le catalogue général des sons moteur est sur la page du symptôme
 [claquement dans le moteur](/fr/symptoms/knocking-in-engine/).
 
 Vous entendez un claquement sans savoir d'où il vient ? Enregistrez le
-moteur en marche dans l'application Stuk. Elle compare l'enregistrement
+moteur en marche dans l'application Pro-Stuk. Elle compare l'enregistrement
 avec les claquements typiques, pose quelques questions de précision et
 indique de quelle zone votre cas se rapproche et avec quelle urgence il
 faut passer au garage. La décision reste la vôtre, mais elle se prend plus

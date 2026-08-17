@@ -1,6 +1,6 @@
 ---
 title: "Embrayage du compresseur de clim : les bruits de la panne"
-metaTitle: "Embrayage de compresseur de clim : les bruits | Stuk"
+metaTitle: "Embrayage de compresseur de clim : les bruits | Pro-Stuk"
 description: "Claquement, sifflement ou grincement qui arrivent pile quand la clim s'enclenche : comment sonne un embrayage électromagnétique usé et ce que l'atelier contrôle."
 faq:
   - q: "Comment savoir si c'est l'embrayage et pas le compresseur lui-même ?"
@@ -102,7 +102,7 @@ compresseur sans trouver la fuite, c'est mettre le neuf à travailler dans
 les conditions exactes qui ont tué l'ancien.
 
 Si le bruit n'apparaît que par forte chaleur et qu'il est impossible de
-le reproduire à l'atelier, enregistrez-le dans l'application Stuk —
+le reproduire à l'atelier, enregistrez-le dans l'application Pro-Stuk —
 d'abord climatisation coupée, puis juste après l'avoir enclenchée.
 L'application recoupe les deux enregistrements avec vos réponses et
 montre ce qui est le plus probable : l'embrayage, un galet d'accessoires

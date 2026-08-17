@@ -1,6 +1,6 @@
 ---
 title: "Der Motor läuft unrund und klopft"
-metaTitle: "Motor läuft unrund und klopft: Ursachen | Stuk"
+metaTitle: "Motor läuft unrund und klopft: Ursachen | Pro-Stuk"
 description: "Der Motor zittert, der Leerlauf wandert und es klopft: Ursachen von Kerzen und Zündspulen bis zu Zylinderriefen. Wie man den toten Zylinder findet."
 faq:
   - q: "Kann ich fahren, während der Motor unrund läuft?"

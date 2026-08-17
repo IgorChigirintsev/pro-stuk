@@ -1,6 +1,6 @@
 ---
 title: "Egzoz sesi arttı: sebepleri"
-metaTitle: "Egzoz sesi arttı: sebepleri ve çözümü | Stuk"
+metaTitle: "Egzoz sesi arttı: sebepleri ve çözümü | Pro-Stuk"
 description: "Delinmiş susturucu, kopmuş flex boru, flanşlar ve contalar: egzoz neden gürültülendi, bu neyi tehdit eder ve onarıma nasıl karar verilir."
 faq:
   - q: "Susturucular neden içeriden delinir?"
@@ -121,7 +121,7 @@ de katalizöre yakın bir delinme oksijen sensörünün okumalarını bozar, yak
 tüketimi yükselir — yani kaçak ne kadar erken kapatılırsa, yakıt dahil tüm
 hesap o kadar ucuza gelir.
 
-Sesini değiştirenin egzoz olduğundan emin değil misiniz? Çalışan aracı Stuk
+Sesini değiştirenin egzoz olduğundan emin değil misiniz? Çalışan aracı Pro-Stuk
 uygulamasıyla kaydedin: uygulama kaydı, sesin ne zaman yükseldiğine dair
 cevaplarınızla eşleştirir ve olası sebepleri aciliyet düzeyiyle birlikte
 gösterir — böylece servis seçmek kolaylaşır, arama işine fazladan para

@@ -1,6 +1,6 @@
 ---
 title: "Guincho do alternador: rolamento ou correia"
-metaTitle: "Guincho do alternador: rolamento ou correia | Stuk"
+metaTitle: "Guincho do alternador: rolamento ou correia | Pro-Stuk"
 description: "Como diferenciar uma correia patinando de um rolamento do alternador zumbindo: a diferença no som e três testes sem desmontar nada do carro."
 faq:
   - q: "Dá para rodar com o rolamento do alternador zumbindo?"
@@ -121,7 +121,7 @@ caso à parte é o guincho que apareceu logo depois de uma visita à
 oficina: aí erros de montagem devem ser descartados primeiro.
 
 Se depois de todos os testes você ainda estiver em dúvida, grave o som
-no aplicativo Stuk: ele compara a gravação com as suas respostas sobre
+no aplicativo Pro-Stuk: ele compara a gravação com as suas respostas sobre
 quando o guincho aparece e mostra as origens prováveis com um nível de
 urgência — assim você chega à oficina com uma hipótese de trabalho, e
 não com um genérico "está guinchando alguma coisa".

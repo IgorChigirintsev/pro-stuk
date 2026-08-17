@@ -1,6 +1,6 @@
 ---
 title: "Vibrazione: equilibratura o sospensione"
-metaTitle: "Vibrazione: equilibratura o sospensione? | Stuk"
+metaTitle: "Vibrazione: equilibratura o sospensione? | Pro-Stuk"
 description: "La vibrazione nel volante e nella scocca arriva sia dallo squilibrio delle ruote sia da una sospensione consumata. Come separare le ipotesi per velocità e condizioni."
 faq:
   - q: "A che velocità si manifesta lo squilibrio delle ruote?"
@@ -101,7 +101,7 @@ sul disco la rettifica non è un'opzione, e un'officina che la fa lo stesso
 le sta vendendo un disco che si deformerà di nuovo nel giro di mesi.
 
 La vibrazione è difficile da descrivere a parole ma si registra bene: faccia
-brevi registrazioni nell'app Stuk a velocità costante, in frenata e sulle
+brevi registrazioni nell'app Pro-Stuk a velocità costante, in frenata e sulle
 asperità. L'app le incrocia con le sue risposte a poche domande e mostra le
 cause probabili in percentuale, così in officina non descrive solo il fatto
 dello scuotimento ma le condizioni in cui compare.

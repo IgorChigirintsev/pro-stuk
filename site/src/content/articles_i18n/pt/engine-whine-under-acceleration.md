@@ -1,6 +1,6 @@
 ---
 title: "Zunido do motor na aceleração"
-metaTitle: "Zunido do motor na aceleração: causas | Stuk"
+metaTitle: "Zunido do motor na aceleração: causas | Pro-Stuk"
 description: "De onde vem o zunido na aceleração: alternador, bomba da direção, polias, bomba d'água ou câmbio. Testes simples para achar a origem do som."
 faq:
   - q: "Como distinguir zunido de motor de zunido de câmbio?"
@@ -127,6 +127,6 @@ obra duas vezes.
 
 O zunido é conveniente para diagnóstico acústico: tem tonalidade marcada e
 os algoritmos distinguem esse tipo de som com mais confiança que muitos
-outros. Grave o zunido durante a aceleração no aplicativo Stuk — ele cruza
+outros. Grave o zunido durante a aceleração no aplicativo Pro-Stuk — ele cruza
 a gravação com as suas respostas e mostra as causas prováveis com nível de
 urgência para cada uma.

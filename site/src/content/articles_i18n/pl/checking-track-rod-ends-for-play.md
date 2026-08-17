@@ -1,10 +1,10 @@
 ---
 title: "Jak sprawdzić końcówki drążków kierowniczych na luz"
-metaTitle: "Luz w końcówkach drążków: jak sprawdzić | Stuk"
+metaTitle: "Luz w końcówkach drążków: jak sprawdzić | Pro-Stuk"
 description: "Jak samemu znaleźć luz w końcówkach drążków kierowniczych: chwyt na 3 i 9, wyczuwanie przegubu dłonią, odróżnienie od przekładni i co obejmuje naprawa."
 faq:
   - q: "Jak odróżnić luz końcówki od luzu w przekładni kierowniczej?"
-    a: "Trzeba położyć dłoń na samym przegubie, gdy pomocnik porusza kierownicą. Stuk czuć bezpośrednio w dłoni — to końcówka drążka; jeśli ręka nic nie czuje, a stuk słychać bliżej środka, podejrzenie przenosi się na drążek wewnętrzny albo przekładnię."
+    a: "Trzeba położyć dłoń na samym przegubie, gdy pomocnik porusza kierownicą. Pro-Stuk czuć bezpośrednio w dłoni — to końcówka drążka; jeśli ręka nic nie czuje, a stuk słychać bliżej środka, podejrzenie przenosi się na drążek wewnętrzny albo przekładnię."
   - q: "Czy zużyta końcówka drążka jest niebezpieczna?"
     a: "Tak, to element układu kierowniczego: jeśli przegub rozleci się do końca, koło traci połączenie z kierownicą. Zdarza się to rzadko, ale nawet etap pośredni psuje precyzję prowadzenia i nierówno zjada opony, więc wymiany nie warto odkładać."
   - q: "Czy po wymianie potrzebna jest geometria?"
@@ -46,7 +46,7 @@ pod progiem, zaciągnięty hamulec ręczny. Dalej technika wygląda tak:
    płaszczyźnie poziomej krótkimi, energicznymi ruchami.
 2. Luz i stuk w tym chwycie wskazują na układ kierowniczy: końcówkę, drążek
    albo samą przekładnię.
-3. Nie przerywając ruchu, położyć dłoń na przegubie końcówki. Stuk czuć
+3. Nie przerywając ruchu, położyć dłoń na przegubie końcówki. Pro-Stuk czuć
    przez palce — to jej wyrok.
 4. Przenieść rękę na wewnętrzny przegub drążka i powtórzyć. To oddziela
    element zewnętrzny od wewnętrznego.
@@ -89,7 +89,7 @@ półosie sprawdza się, jeżdżąc powolne kółka po parkingu, a napęd rozrz�
 ocenia się na słuch przy zimnym rozruchu.
 
 Jeśli słychać stuk, ale nie udaje się go wyczuć ręką — co na wczesnym etapie
-zużycia jest normalne — proszę nagrać dźwięk w aplikacji Stuk podczas jazdy
+zużycia jest normalne — proszę nagrać dźwięk w aplikacji Pro-Stuk podczas jazdy
 po drobnych nierównościach. Aplikacja zestawia nagranie z Pana odpowiedziami
 i pokazuje prawdopodobne przyczyny w procentach, dzięki czemu sprawdzenie na
 podnośniku celuje w konkretną hipotezę, a nie w całe przednie zawieszenie.

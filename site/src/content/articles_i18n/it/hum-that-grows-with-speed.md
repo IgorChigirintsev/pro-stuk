@@ -1,6 +1,6 @@
 ---
 title: "Ronzio che cresce con la velocità"
-metaTitle: "Ronzio che cresce con la velocità: cuscinetto o gomme | Stuk"
+metaTitle: "Ronzio che cresce con la velocità: cuscinetto o gomme | Pro-Stuk"
 description: "Un ronzio che sale con la velocità dell’auto viene quasi sempre dalle ruote. Come separare cuscinetto ruota, gomme e trasmissione in un solo giro di prova."
 faq:
   - q: "Il ronzio cresce con la velocità: è sicuramente un cuscinetto?"
@@ -103,7 +103,7 @@ un’ispezione entro due settimane da quando il suono diventa permanente.
 
 La difficoltà è che tutte queste prove si fanno a orecchio mentre si
 guida, e la memoria umana per i suoni è corta. Si registra il ronzio
-nell’app Stuk a velocità diverse e durante i cambi di corsia: l’app
+nell’app Pro-Stuk a velocità diverse e durante i cambi di corsia: l’app
 confronta le registrazioni con le risposte date e mostra le cause probabili
 in percentuale, così la conversazione in officina parte da un’ipotesi
 precisa.

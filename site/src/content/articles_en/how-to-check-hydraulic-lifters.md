@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-gidrokompensatory"
 title: "How to check hydraulic lifters"
-metaTitle: "How to check hydraulic lifters by ear | Stuk"
+metaTitle: "How to check hydraulic lifters by ear | Pro-Stuk"
 description: "How to tell that hydraulic lifters are the source of the ticking: cold and warm tests, how they differ from valve clearances and injectors, and what to do."
 pubDate: "2026-06-19"
 related:
@@ -100,7 +100,7 @@ been ticking for months leaves marks on the lobe, and finding that out
 afterwards is the expensive route.
 
 To avoid guessing whether it really got quieter, record the cold start in
-the Stuk app before the oil change and after. The app breaks the sound
+the Pro-Stuk app before the oil change and after. The app breaks the sound
 down, matches it with your answers and shows the likely causes with
 percentages — and two recordings side by side answer honestly whether the
 repair helped.

@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-podshipnika-generatora"
 title: "Signs of a worn alternator bearing"
-metaTitle: "Worn alternator bearing: sound and tests | Stuk"
+metaTitle: "Worn alternator bearing: sound and tests | Pro-Stuk"
 description: "How a worn alternator bearing sounds, how to check it without dismantling and how to tell it from idlers and the decoupler pulley."
 pubDate: "2026-07-06"
 related:
@@ -122,6 +122,6 @@ water pump and the power steering too. What was a booked repair becomes a
 tow truck.
 
 If a whine or hum has appeared under the bonnet and you want to identify
-the source before the workshop, record the sound in the Stuk app — it
+the source before the workshop, record the sound in the Pro-Stuk app — it
 matches the recording with typical fault sounds and shows the likely
 causes with an urgency rating.

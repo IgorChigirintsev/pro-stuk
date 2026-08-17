@@ -1,6 +1,6 @@
 ---
 title: "Un craquement au passage d'un rapport"
-metaTitle: "Craquement au passage d'un rapport : causes | Stuk"
+metaTitle: "Craquement au passage d'un rapport : causes | Pro-Stuk"
 description: "Un craquement quand un rapport s'engage vient des synchros ou d'un embrayage qui ne débraye pas complètement. Comment les séparer d'après le levier."
 faq:
   - q: "Ça ne craque qu'en deuxième. C'est le synchro ?"
@@ -102,7 +102,7 @@ les passages sont devenus durs, faites regarder la voiture sous quelques
 jours.
 
 Si vous voulez savoir ce qui craque avant la visite, enregistrez le son
-deux fois dans l'application Stuk : en engageant la première à l'arrêt,
+deux fois dans l'application Pro-Stuk : en engageant la première à l'arrêt,
 puis sur le rapport problématique en roulant. L'application croise les
 enregistrements avec vos réponses et affiche les causes probables avec
 leurs pourcentages.

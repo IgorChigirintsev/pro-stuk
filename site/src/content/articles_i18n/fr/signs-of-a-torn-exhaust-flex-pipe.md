@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un flexible d'échappement déchiré"
-metaTitle: "Flexible d'échappement déchiré : les signes | Stuk"
+metaTitle: "Flexible d'échappement déchiré : les signes | Pro-Stuk"
 description: "Un rugissement soudain sous les pieds, des vibrations au ralenti et une odeur de gaz dans l'habitacle : reconnaître un flexible d'échappement déchiré et ce que vaut la réparation."
 faq:
   - q: "Combien de temps peut-on rouler avec un flexible déchiré ?"
@@ -100,7 +100,7 @@ pendant que la soudure refroidit — soudée avec l'échappement tiré d'un
 côté, la pièce neuve commence sa vie déjà précontrainte.
 
 Si le rugissement est apparu mais que vous ne savez pas s'il s'agit du
-flexible ou d'un tube percé, enregistrez le son dans l'application Stuk
+flexible ou d'un tube percé, enregistrez le son dans l'application Pro-Stuk
 au ralenti puis en montant les tours doucement. L'application confronte
 l'enregistrement à vos réponses sur l'endroit où le son est le plus fort
 et sur la façon dont il change, et indique quelle partie de la ligne

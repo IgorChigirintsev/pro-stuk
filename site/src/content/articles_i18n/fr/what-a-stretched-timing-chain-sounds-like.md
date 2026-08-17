@@ -1,6 +1,6 @@
 ---
 title: "Le bruit d'une chaîne de distribution détendue"
-metaTitle: "Le bruit d'une chaîne de distribution détendue | Stuk"
+metaTitle: "Le bruit d'une chaîne de distribution détendue | Pro-Stuk"
 description: "Cliquetis au démarrage à froid, bruissement derrière le carter, réaction au lever de pied : reconnaître une chaîne de distribution détendue et la distinguer des autres cognements."
 faq:
   - q: "Pourquoi la chaîne cliquette-t-elle le plus fort dans les premières secondes après un départ à froid ?"
@@ -101,7 +101,7 @@ intervalles d'entretien étirés accélèrent l'usure de la chaîne plus que le
 kilométrage seul.
 
 Si le cliquetis est court et que vous n'êtes pas sûr de l'entendre
-vraiment, enregistrez un départ à froid dans l'application Stuk — les cinq
+vraiment, enregistrez un départ à froid dans l'application Pro-Stuk — les cinq
 premières secondes à partir du coup de clé. L'application confronte
 l'enregistrement à vos réponses et affiche les causes probables avec leur
 pourcentage : vous arrivez avec une hypothèse prête plutôt qu'un vague

@@ -1,6 +1,6 @@
 ---
 title: "Een klop die u alleen met het raam open hoort"
-metaTitle: "Klop alleen hoorbaar met het raam open | Stuk"
+metaTitle: "Klop alleen hoorbaar met het raam open | Pro-Stuk"
 description: "Raam dicht: stilte. Raam open: een duidelijke klop. Waarom dat gebeurt, wat het over de bron zegt en hoe u dit effect gebruikt bij de diagnose."
 faq:
   - q: "Waarom is de klop met het raam dicht niet te horen?"

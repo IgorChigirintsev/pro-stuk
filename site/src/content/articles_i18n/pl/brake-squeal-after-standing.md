@@ -1,6 +1,6 @@
 ---
 title: "Pisk hamulców po postoju: norma czy nie"
-metaTitle: "Pisk hamulców po postoju: norma czy nie | Stuk"
+metaTitle: "Pisk hamulców po postoju: norma czy nie | Pro-Stuk"
 description: "Poranny pisk hamulców po nocy na dworze to zwykle nalot rdzy na tarczy. Jak odróżnić go od zużytego materiału ciernego i kiedy jechać do warsztatu."
 faq:
   - q: "Dlaczego hamulce piszczą tylko rano?"
@@ -97,6 +97,6 @@ czy zostaje.
 Granica między „normalnym porannym piskiem” a „czas do warsztatu” przebiega
 przez charakter dźwięku, a te odcienie kiepsko się pamięta: po miesiącu
 trudno powiedzieć, czy piszczało tak samo, czy nieco mocniej. Nagranie
-zrobione dziś w aplikacji Stuk i powtórzone kilka tygodni później pokazuje
+zrobione dziś w aplikacji Pro-Stuk i powtórzone kilka tygodni później pokazuje
 tę różnicę obiektywnie — razem z listą prawdopodobnych przyczyn i oceną
 tego, jak pilnie umówić diagnostykę.

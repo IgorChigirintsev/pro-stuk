@@ -1,6 +1,6 @@
 ---
 title: "Sinais de buchas da barra estabilizadora gastas"
-metaTitle: "Buchas da barra estabilizadora gastas: sinais | Stuk"
+metaTitle: "Buchas da barra estabilizadora gastas: sinais | Pro-Stuk"
 description: "Como soam as buchas da barra estabilizadora gastas, como diferenciar das bieletas, como checar sozinho e o que envolve a troca."
 faq:
   - q: "Dá para rodar com as buchas da barra estabilizadora gastas?"
@@ -106,7 +106,7 @@ como os próprios pontos de fixação, e trocar a barra é outro patamar de
 custo.
 
 Não tem certeza de que são as buchas batendo? Grave o som num trecho
-representativo com o aplicativo Stuk: o algoritmo cruza a gravação com as
+representativo com o aplicativo Pro-Stuk: o algoritmo cruza a gravação com as
 suas respostas e mostra as causas prováveis com porcentagens e um nível de
 urgência — assim você chega à oficina com uma teoria de trabalho em vez de
 um palpite.

@@ -1,6 +1,6 @@
 ---
 title: "Piepen in het interieur op oneffenheden"
-metaTitle: "Piepen in het interieur op oneffenheden | Stuk"
+metaTitle: "Piepen in het interieur op oneffenheden | Pro-Stuk"
 description: "Piepen in het interieur op oneffenheden: waarom de carrosserie meebuigt, hoe u bekleding van ophanging scheidt en wat u zelf kunt verhelpen."
 faq:
   - q: "Is piepen in het interieur op oneffenheden gevaarlijk?"

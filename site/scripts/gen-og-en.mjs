@@ -101,7 +101,7 @@ function html({ title, kicker, scheme }) {
   .art > svg { width: 360px; height: auto; display: block; }
   .bar { position: fixed; left: 0; right: 0; bottom: 0; height: 14px; background: #0e7c7b; }
 </style>
-<div class="brand"><div class="mark"></div><div class="name">Stuk</div></div>
+<div class="brand"><div class="mark"></div><div class="name">Pro-Stuk</div></div>
 <main>
   <div class="col">
     <h1>${esc(title)}</h1>

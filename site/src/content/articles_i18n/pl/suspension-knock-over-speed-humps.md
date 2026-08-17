@@ -1,6 +1,6 @@
 ---
-title: "Stuk zawieszenia na progach zwalniających"
-metaTitle: "Stuk zawieszenia na progach zwalniających | Stuk"
+title: "Pro-Stuk zawieszenia na progach zwalniających"
+metaTitle: "Pro-Stuk zawieszenia na progach zwalniających | Pro-Stuk"
 description: "Dlaczego zawieszenie stuka właśnie na progach zwalniających, które części zwykle za to odpowiadają i jak zawęzić poszukiwania bez podnośnika."
 faq:
   - q: "Dlaczego zawieszenie stuka na progach, a na dziurach milczy?"
@@ -54,7 +54,7 @@ osłony podwozia na stojącym aucie.
 | Łączniki stabilizatora | Głuchy, klekoczący stuk | Słychać też na drobnej tarce |
 | Tuleje stabilizatora | Miękki stuk, czasem ze skrzypieniem | Skrzypienie przy kołysaniu nadwozia ręką |
 | Amortyzator | Pojedyncze uderzenie na odboju | Auto kołysze się po fali |
-| Łożysko oporowe amortyzatora | Stuk „z góry”, spod maski | Słychać też przy skręcie na postoju |
+| Łożysko oporowe amortyzatora | Pro-Stuk „z góry”, spod maski | Słychać też przy skręcie na postoju |
 | Rozpadnięty odbój | Twarde uderzenie na ugięciu | Tylko przy prędkości, czuć przez nadwozie |
 
 Statystycznie prowadzą łączniki i tuleje stabilizatora: są tanie, pracują w
@@ -68,11 +68,11 @@ każdej drobnej tarce, warto zacząć od tekstu
 Kilka obserwacji, które naprawdę pomagają mechanikowi szybciej postawić
 diagnozę:
 
-1. **Prędkość przejazdu.** Stuk tylko przy szybkim przejeździe wygląda na
+1. **Prędkość przejazdu.** Pro-Stuk tylko przy szybkim przejeździe wygląda na
    dobijanie zawieszenia do odboju; stuk już przy 10–15 km/h oznacza luz w
    przegubach albo stabilizatorze.
 2. **Kołysanie w miejscu.** Naciśnij kilka razy błotnik i puść gwałtownie.
-   Stuk albo skrzypienie w trakcie kołysania wskazują na stabilizator lub
+   Pro-Stuk albo skrzypienie w trakcie kołysania wskazują na stabilizator lub
    łożysko oporowe, a więcej niż jedno swobodne wahnięcie nadwozia — na słaby
    amortyzator,
    [sprawdzanie amortyzatorów testem kołysania](/pl/articles/checking-shock-absorbers-with-the-bounce-test/).
@@ -80,7 +80,7 @@ diagnozę:
    luz jest wybierany ciężarem — prawdopodobne są tuleje stabilizatora albo
    mocowania, a przypadek opisano w tekście
    [stuk tylko z pasażerami albo z ładunkiem](/pl/articles/knock-only-with-passengers-or-a-load/).
-4. **Kierownica.** Pokręć kierownicą na stojącym aucie. Stuk spod maski w
+4. **Kierownica.** Pokręć kierownicą na stojącym aucie. Pro-Stuk spod maski w
    rytm ruchu to pismo łożyska oporowego amortyzatora.
 5. **Strony.** Poproś pasażera, żeby otworzył okno i posłuchał, z której
    strony jest głośniej: elementy stabilizatora prawie zawsze stukają z jednej
@@ -131,6 +131,6 @@ powód, żeby umówić diagnostykę w ciągu najbliższego tygodnia lub dwóch. 
 dźwiękowi towarzyszy ściąganie auta na bok albo luz na kierownicy — szybciej.
 
 Żeby nie zgadywać z opisów, nagraj dźwięk telefonem podczas pokonywania
-przeszkody: aplikacja Stuk zestawia nagranie z twoimi odpowiedziami i pokazuje
+przeszkody: aplikacja Pro-Stuk zestawia nagranie z twoimi odpowiedziami i pokazuje
 prawdopodobne przyczyny z procentami i poziomem pilności — z taką listą
 rozmowa w warsztacie robi się konkretna.

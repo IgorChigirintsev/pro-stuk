@@ -1,6 +1,6 @@
 ---
 title: "Sinais de tensor e roletes da correia dentada gastos"
-metaTitle: "Rolete da correia dentada gasto: sons | Stuk"
+metaTitle: "Rolete da correia dentada gasto: sons | Pro-Stuk"
 description: "Como soa rolete de correia dentada gasto: chiado, assobio e zumbido atrás da tampa. O risco de travar e como separar do ruído da correia de acessórios."
 faq:
   - q: "Dá para trocar só um rolete sem mexer na correia dentada?"
@@ -110,6 +110,6 @@ atrás dele não estava certo, e um rolete novo no mesmo lugar se desgasta do
 mesmo jeito.
 
 Se dá para ouvir um assobio ou chiado na frente do motor e não está claro
-se é rolete, alternador ou bomba, grave o som no aplicativo Stuk — ele
+se é rolete, alternador ou bomba, grave o som no aplicativo Pro-Stuk — ele
 cruza a gravação com sons típicos de defeito e sugere a origem provável e a
 urgência de procurar uma oficina.

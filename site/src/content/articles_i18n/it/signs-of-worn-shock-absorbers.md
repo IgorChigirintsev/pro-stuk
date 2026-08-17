@@ -1,6 +1,6 @@
 ---
 title: "Segnali di ammortizzatori usurati"
-metaTitle: "Ammortizzatori usurati: 8 sintomi | Stuk"
+metaTitle: "Ammortizzatori usurati: 8 sintomi | Pro-Stuk"
 description: "Otto segnali di ammortizzatori finiti: galleggiamento, affondamenti, colpi, usura a chiazze delle gomme. Come controllarli da soli e cosa comporta la sostituzione."
 faq:
   - q: "Perché l'usura degli ammortizzatori è difficile da notare?"
@@ -137,5 +137,5 @@ Abbinare l'ammortizzatore all'auto e al modo in cui la si usa conta più del
 marchio.
 
 Se la sospensione batte e la fonte non è ovvia, registri il suono con
-l'app Stuk: confronta la registrazione con le sue risposte su quando e come
+l'app Pro-Stuk: confronta la registrazione con le sue risposte su quando e come
 compare il rumore e mostra le cause probabili con un livello di urgenza.

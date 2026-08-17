@@ -1,6 +1,6 @@
 ---
 title: "Vites takarken gelen hırıltı"
-metaTitle: "Vites takarken hırıltı: nedenleri | Stuk"
+metaTitle: "Vites takarken hırıltı: nedenleri | Pro-Stuk"
 description: "Vites geçerken duyulan hırıltı genelde senkromeçten ya da tam ayrılmayan debriyajdan gelir. Kolun davranışına bakarak ikisi nasıl ayrılır."
 faq:
   - q: "Sadece ikinci viteste hırdıyor. Senkromeç mi?"
@@ -90,7 +90,7 @@ ve bir gün vites hiç girmemeye başlar. Tek vites hırdıyorsa tamiri sakin
 sakin planlayın. Hırıltı birkaç vitese yayıldıysa ve geçişler zorlaştıysa
 aracı birkaç gün içinde baktırın.
 
-Ziyaretten önce neyin hırdadığını öğrenmek isterseniz, Stuk uygulamasına iki
+Ziyaretten önce neyin hırdadığını öğrenmek isterseniz, Pro-Stuk uygulamasına iki
 kayıt alın: araç dururken birinciye takarken ve yolda sorunlu vitese
 geçerken. Uygulama kayıtları cevaplarınızla eşleştirir ve muhtemel nedenleri
 yüzdeleriyle gösterir.

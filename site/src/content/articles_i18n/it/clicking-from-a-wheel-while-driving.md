@@ -1,6 +1,6 @@
 ---
 title: "Clic da una ruota mentre si guida"
-metaTitle: "Clic da una ruota in marcia: le cause | Stuk"
+metaTitle: "Clic da una ruota in marcia: le cause | Pro-Stuk"
 description: "Clic ritmici a tempo con la rotazione della ruota: un sasso nel battistrada, una vite, un copriruota o il disco freno. Come trovare la sorgente."
 faq:
   - q: "I clic accelerano con la velocità: cosa mi dice?"
@@ -98,7 +98,7 @@ due, e se i clic sono ancora lì una settimana dopo la teoria del «è solo un
 sassolino» non regge più: è ora del ponte.
 
 Se non ha trovato la sorgente a vista e il suono si sente solo in
-movimento, lo registri con l'app Stuk mentre attraversa un cortile
+movimento, lo registri con l'app Pro-Stuk mentre attraversa un cortile
 tranquillo con il finestrino abbassato. L'app confronta la registrazione
 con le sue risposte su velocità e reazione ai freni e mostra le cause
 probabili in percentuale, suggerendo quale ruota ispezionare per prima.

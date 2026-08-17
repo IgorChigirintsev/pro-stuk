@@ -1,6 +1,6 @@
 ---
 title: "Un golpe: ¿cremallera de dirección o terminales?"
-metaTitle: "Golpe en la dirección: cremallera o terminales | Stuk"
+metaTitle: "Golpe en la dirección: cremallera o terminales | Pro-Stuk"
 description: "El golpe que se nota en el volante al pasar baches puede venir de la cremallera de dirección o de los terminales. Cómo separarlos con comprobaciones sencillas."
 faq:
   - q: "El golpe llega al volante, ¿es seguro que sea la dirección?"
@@ -119,7 +119,7 @@ por qué, está en
 [el peligro de una rótula rota](/es/articles/ball-joint-failure-danger/).
 
 Los golpes de dirección se graban bien si se sabe dónde buscar. Recorra
-una superficie ondulada fina y grabe el sonido con la aplicación Stuk;
+una superficie ondulada fina y grabe el sonido con la aplicación Pro-Stuk;
 después haga una segunda grabación en un aparcamiento moviendo el
 volante. La aplicación compara ambas y muestra las causas probables con
 porcentajes, además de sugerir en qué plano de holgura empezar a mirar.

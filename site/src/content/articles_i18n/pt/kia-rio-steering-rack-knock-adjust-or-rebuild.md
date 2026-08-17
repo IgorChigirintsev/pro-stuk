@@ -1,6 +1,6 @@
 ---
 title: "Batida na caixa de direção do Kia Rio: regular ou reparar"
-metaTitle: "Batida na caixa do Kia Rio: regular ou reparar | Stuk"
+metaTitle: "Batida na caixa do Kia Rio: regular ou reparar | Pro-Stuk"
 description: "Batida na caixa de direção do Kia Rio em ondulações pequenas: por que aparece, como separar das bieletas e quando uma regulagem já resolve."
 faq:
   - q: "Batida na caixa de direção do Kia Rio é perigosa?"
@@ -98,7 +98,7 @@ reparo, não aperto. E se vai ter alinhamento depois: qualquer serviço que
 mexa nas barras de direção altera a convergência.
 
 Se você não tem certeza do que bate — a caixa, as bieletas ou os terminais
-—, grave o som no aplicativo Stuk rodando por uma ondulação fina e repita
+—, grave o som no aplicativo Pro-Stuk rodando por uma ondulação fina e repita
 a gravação balançando o volante com o carro parado. O aplicativo cruza as
 gravações com as suas respostas e mostra as causas prováveis em
 porcentagem, para você chegar à oficina com uma hipótese.

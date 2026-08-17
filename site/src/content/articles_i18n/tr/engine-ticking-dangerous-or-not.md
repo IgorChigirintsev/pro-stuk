@@ -1,6 +1,6 @@
 ---
 title: "Motorun tıkırdaması: tehlikeli mi, değil mi"
-metaTitle: "Motor tıkırtısı tehlikeli mi: nasıl anlaşılır | Stuk"
+metaTitle: "Motor tıkırtısı tehlikeli mi: nasıl anlaşılır | Pro-Stuk"
 description: "Motor neden tıkırdar: ne zaman normal enjektör çalışmasıdır, ne zaman aşınmış külbütör ya da supap. Zararsız ses ciddi olandan nasıl ayrılır."
 faq:
   - q: "Motor rölantide tıkırdıyor, bu tehlikeli mi?"
@@ -136,7 +136,7 @@ yüzden fiyatları karşılaştırmadan önce sizinkinin hangisi olduğunu sorun
 yıllarca ilgilenilmeyen tıkırtılı bir supap mekanizması kamları aşındırır — o
 zaman ayar yerine fatura eksantrik milleri için gelir.
 
-Durumunuzun zararsız olan cinsten olup olmadığından emin değilseniz, motoru Stuk
+Durumunuzun zararsız olan cinsten olup olmadığından emin değilseniz, motoru Pro-Stuk
 uygulamasıyla kaydedin: uygulama kaydı netleştirici sorulara verdiğiniz
 cevaplarla eşleştirip olası sebepleri aciliyet düzeyiyle gösterir. Bununla bu
 hafta gitmekle sadece izlemek arasında karar vermek kolaylaşır.

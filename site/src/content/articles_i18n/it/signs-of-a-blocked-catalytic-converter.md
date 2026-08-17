@@ -1,6 +1,6 @@
 ---
 title: "Segni di un catalizzatore intasato"
-metaTitle: "Segni di un catalizzatore intasato | Stuk"
+metaTitle: "Segni di un catalizzatore intasato | Pro-Stuk"
 description: "Un catalizzatore intasato soffoca il motore: l'auto non accelera, si spegne sotto carico, consuma di più. Come distinguerlo dalle altre cause di perdita di potenza."
 faq:
   - q: "Un catalizzatore può intasarsi all'improvviso?"
@@ -104,7 +104,7 @@ Fin dove sia ancora accettabile guidarci è trattato in
 [si può guidare con il catalizzatore rotto](/it/articles/can-you-drive-with-a-broken-catalytic-converter/).
 
 Se la potenza sta svanendo poco a poco e non è sicuro che la colpa sia dello
-scarico, registri motore e scarico con l'app Stuk: al minimo e con una
+scarico, registri motore e scarico con l'app Pro-Stuk: al minimo e con una
 sgassata secca. L'app confronta la registrazione con la sua descrizione dei
 sintomi e mostra le cause probabili in percentuale, così arriva con
 un'ipotesi pronta invece che con «l'auto non va».

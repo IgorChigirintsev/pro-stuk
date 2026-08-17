@@ -1,7 +1,7 @@
 ---
 ru: "kak-stuchit-dvuhmassovyj-mahovik"
 title: "What a worn dual-mass flywheel sounds like"
-metaTitle: "Worn dual-mass flywheel: what it sounds like | Stuk"
+metaTitle: "Worn dual-mass flywheel: what it sounds like | Pro-Stuk"
 description: "Clatter at startup and shutdown, rattling at idle, vibration when pulling away — how a worn dual-mass flywheel sounds and what it gets confused with."
 pubDate: "2026-06-04"
 related:
@@ -108,6 +108,6 @@ keeping the revs slightly higher and changing down before the engine
 starts to strain noticeably spares the damper.
 
 If you want to know whether the sound really is tied to starting and
-stopping, record both moments in the Stuk app. It matches the character of
+stopping, record both moments in the Pro-Stuk app. It matches the character of
 the sound with the regime it appeared in and shows the likely causes with
 percentages.

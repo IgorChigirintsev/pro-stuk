@@ -1,7 +1,7 @@
 ---
 ru: "kak-ponyat-chto-amortizatory-umerli"
 title: "How to tell your shock absorbers are dead"
-metaTitle: "How to tell shock absorbers are dead: checks | Stuk"
+metaTitle: "How to tell shock absorbers are dead: checks | Pro-Stuk"
 description: "Body wallowing, bottoming out over potholes, longer stopping distances and oil leaks — how to judge damper condition in a few minutes without a test rig."
 pubDate: "2026-06-03"
 related:
@@ -98,7 +98,7 @@ an axle. And wheel alignment afterwards is a required step rather than an
 option, because replacing struts changes the geometry.
 
 If you are torn between “the suspension is tired” and “something specific
-has broken”, record a drive over undulations and potholes in the Stuk app.
+has broken”, record a drive over undulations and potholes in the Pro-Stuk app.
 It relates the character of the impacts to your answers about how the body
 behaves and shows the likely causes with percentages — noticeably more
 precise than trying to describe wallowing in words.

@@ -1,6 +1,6 @@
 ---
 title: "Pisk spod maski na zimnym silniku"
-metaTitle: "Pisk spod maski na zimno: przyczyny | Stuk"
+metaTitle: "Pisk spod maski na zimno: przyczyny | Pro-Stuk"
 description: "Dlaczego spod maski piszczy na zimnym silniku i milknie po nagrzaniu: pasek, rolki, pompa wody. Jak samodzielnie znaleźć źródło dźwięku."
 faq:
   - q: "Dlaczego pisk znika po nagrzaniu silnika?"
@@ -140,6 +140,6 @@ mechanik odróżnia poślizg od łożyska w kilka sekund, a Tobie oszczędza
 to drugiej wizyty.
 
 Jeśli nie masz pewności, czy to pasek, czy łożysko, nagraj poranny pisk w
-aplikacji Stuk: porównuje ona nagranie z typowymi dźwiękami usterek,
+aplikacji Pro-Stuk: porównuje ona nagranie z typowymi dźwiękami usterek,
 uwzględnia Twoje odpowiedzi i pokazuje prawdopodobne przyczyny wraz z
 poziomem pilności.

@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein verschlissenes Generatorlager"
-metaTitle: "Generatorlager verschlissen: Geräusch und Tests | Stuk"
+metaTitle: "Generatorlager verschlissen: Geräusch und Tests | Pro-Stuk"
 description: "So klingt ein verschlissenes Generatorlager, wie Sie es ohne Ausbau prüfen und wie Sie es von Umlenkrolle und Freilaufriemenscheibe unterscheiden."
 faq:
   - q: "Kann ich mit einem heulenden Generatorlager weiterfahren?"

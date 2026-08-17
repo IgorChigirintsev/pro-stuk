@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-amortizatory-raskachkoy"
 title: "Checking shock absorbers with the bounce test"
-metaTitle: "Shock absorber bounce test: step by step | Stuk"
+metaTitle: "Shock absorber bounce test: step by step | Pro-Stuk"
 description: "The bounce test step by step: how to push on the body, how to count the movements, what the test cannot show and when a proper rig is needed."
 pubDate: "2026-08-02"
 related:
@@ -139,6 +139,6 @@ stiff aftermarket damper on one axle with the original on the other
 produces a car that behaves differently front and rear.
 
 If the bounce test gave an ambiguous answer and there is a noise in the
-suspension that is hard to describe, record it in the Stuk app while
+suspension that is hard to describe, record it in the Pro-Stuk app while
 driving. The app matches the recording with your answers and shows the
 likely causes with an urgency level.

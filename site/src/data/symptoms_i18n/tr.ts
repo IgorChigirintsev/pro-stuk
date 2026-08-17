@@ -4,7 +4,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Motorda vuruntu',
-    metaTitle: 'Motor vuruyor: nedenleri, tehlikesi, ne yapmalı | Stuk',
+    metaTitle: 'Motor vuruyor: nedenleri, tehlikesi, ne yapmalı | Pro-Stuk',
     description:
       'Motor neden vurur: zararsız supap tıkırtısından aşınmış kol yataklarına kadar. Tehlikeli vuruntuyu nasıl ayırt edersiniz, yola devam edilir mi ve kendiniz neyi kontrol edebilirsiniz.',
     intro: [
@@ -30,7 +30,7 @@ export const pages: Record<string, SymptomTr> = {
       'Yağ basıncı lambasının yanıp yanmadığına bakın: kırmızı yağdanlık ile birlikte vuruntu, motoru derhal durdurmak demektir.',
     ],
     appHelp:
-      'Stuk uygulaması sizi bir motor ustasının sorduğu soruların aynısından geçirir, sesi kaydeder ve spektrumu ile ritmini değerlendirir: darbeler hangi sıklıkta geliyor ve bu devirle nasıl ilişkileniyor — supap vuruntusunda ve krank vuruntusunda bu oran farklıdır. Raporda yüzdeleriyle olası nedenler, aciliyet ışığı ve serviste kullanacağınız ifadeler yer alır.',
+      'Pro-Stuk uygulaması sizi bir motor ustasının sorduğu soruların aynısından geçirir, sesi kaydeder ve spektrumu ile ritmini değerlendirir: darbeler hangi sıklıkta geliyor ve bu devirle nasıl ilişkileniyor — supap vuruntusunda ve krank vuruntusunda bu oran farklıdır. Raporda yüzdeleriyle olası nedenler, aciliyet ışığı ve serviste kullanacağınız ifadeler yer alır.',
     faq: [
       {
         q: 'Motor neden yalnızca soğukken vuruyor?',
@@ -49,7 +49,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Fren gıcırtısı',
-    metaTitle: 'Frenler gıcırdıyor: tehlikeli mi, nedenleri ve çözümü | Stuk',
+    metaTitle: 'Frenler gıcırdıyor: tehlikeli mi, nedenleri ve çözümü | Pro-Stuk',
     description:
       'Frenler neden gıcırdar: sabahki pas tabakası, balata aşınma göstergesi ya da disklerdeki sorun. Zararsız gıcırtıyı uyarıdan nasıl ayırt edersiniz.',
     intro: [
@@ -74,7 +74,7 @@ export const pages: Record<string, SymptomTr> = {
       'Pedala ve aracın izlediği çizgiye dikkat edin: frenlerken bir tarafa çekme, pedalın titremesi ya da «uzaması» gıcırtıdan daha ciddidir ve gecikmeden servis demektir.',
     ],
     appHelp:
-      'Stuk uygulaması zararsız senaryoyu endişe vericiden aynı sorularla ayırır — ne zaman gıcırdıyor ve ses geçiyor mu — kayıt ise aşınma göstergesinin tiz ciyaklamasını metal metale sürtmeden ayırmaya yardım eder. Raporda yüzdeleriyle olası nedenler ve bir ışık vardır: yola devam edilebilir, bu hafta servise ya da durun.',
+      'Pro-Stuk uygulaması zararsız senaryoyu endişe vericiden aynı sorularla ayırır — ne zaman gıcırdıyor ve ses geçiyor mu — kayıt ise aşınma göstergesinin tiz ciyaklamasını metal metale sürtmeden ayırmaya yardım eder. Raporda yüzdeleriyle olası nedenler ve bir ışık vardır: yola devam edilebilir, bu hafta servise ya da durun.',
     faq: [
       {
         q: 'Frenler neden sabahları ve yağmurda gıcırdar?',
@@ -93,7 +93,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Seyir hâlinde uğultu',
-    metaTitle: 'Seyirde uğultu: rulman, lastikler mi şanzıman mı | Stuk',
+    metaTitle: 'Seyirde uğultu: rulman, lastikler mi şanzıman mı | Pro-Stuk',
     description:
       'Hızla birlikte gelen düzgün uğultu: poyra rulmanı, lastikler, şanzıman veya diferansiyel. Servise gitmeden yapılacak basit testler — boşa alma testi ve yumuşak virajlar — nedeni daraltır.',
     intro: [
@@ -119,7 +119,7 @@ export const pages: Record<string, SymptomTr> = {
       'Manuel şanzımanda aynı hızda farklı viteslerde uğultunun değişip değişmediğine bakın; arkadan çekişte, dar bir hız aralığında uğultuya tabandan gelen titremenin eşlik edip etmediğini kontrol edin.',
     ],
     appHelp:
-      'Stuk uygulaması sizi aynı sorulardan geçirir — uğultu boşta kalıyor mu, virajlarda ve zemine göre değişiyor mu — ve karakterini tipik örneklerle karşılaştırmak için sesi kaydetmenize yardım eder. Raporda yüzdeleriyle olası nedenler ve bir sonuç yer alır: rahat gidin, servisi planlayın ya da geciktirmeden kontrol ettirin.',
+      'Pro-Stuk uygulaması sizi aynı sorulardan geçirir — uğultu boşta kalıyor mu, virajlarda ve zemine göre değişiyor mu — ve karakterini tipik örneklerle karşılaştırmak için sesi kaydetmenize yardım eder. Raporda yüzdeleriyle olası nedenler ve bir sonuç yer alır: rahat gidin, servisi planlayın ya da geciktirmeden kontrol ettirin.',
     faq: [
       {
         q: 'Rulman uğultusunu lastik gürültüsünden nasıl ayırırım?',
@@ -138,7 +138,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Süspansiyonda takırtı',
-    metaTitle: 'Süspansiyonda takırtı: ne takırdıyor, gidilir mi | Stuk',
+    metaTitle: 'Süspansiyonda takırtı: ne takırdıyor, gidilir mi | Pro-Stuk',
     description:
       'Süspansiyonda ne takırdar: viraj demiri rotilleri, salıncak burçları, direksiyon kutusu ya da kırık yay. Sesleri karakterine göre ayırma ve servise ne zaman gitme.',
     intro: [
@@ -164,7 +164,7 @@ export const pages: Record<string, SymptomTr> = {
       'Hiçbir şeyi sökmeden tekerleğin arkasına alttan bakın: kırılmış yay sarımı çoğu zaman gözle görülür, aynı anda aracın bir köşesinin çöküp çökmediği de fark edilir.',
     ],
     appHelp:
-      'Stuk uygulaması, ustanın ilk muayenede izlediği yol ayrımlarının aynısını izler: nasıl bir ses, hangi tümseklerde, önde mi arkada mı, direksiyona vuruyor mu. Ses kaydı ayrıntıların servise kadar kaybolmasını önler; raporda ise yüzdeleriyle olası nedenler ve anlaşılır bir ışık vardır: gidilebilir, bu hafta gösterin ya da acilen kontrol ettirin.',
+      'Pro-Stuk uygulaması, ustanın ilk muayenede izlediği yol ayrımlarının aynısını izler: nasıl bir ses, hangi tümseklerde, önde mi arkada mı, direksiyona vuruyor mu. Ses kaydı ayrıntıların servise kadar kaybolmasını önler; raporda ise yüzdeleriyle olası nedenler ve anlaşılır bir ışık vardır: gidilebilir, bu hafta gösterin ya da acilen kontrol ettirin.',
     faq: [
       {
         q: 'Süspansiyonda takırtıyla gitmek tehlikeli mi?',
@@ -183,7 +183,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Poyra rulmanı uğultusu',
-    metaTitle: 'Poyra rulmanı uğulduyor: nasıl anlaşılır | Stuk',
+    metaTitle: 'Poyra rulmanı uğulduyor: nasıl anlaşılır | Pro-Stuk',
     description:
       'Aşınmış poyra rulmanı nasıl duyulur, lastik gürültüsünden nasıl ayrılır, hangi tekerlek uğulduyor ve bu hâlde ne kadar gidilebilir.',
     intro: [
@@ -208,7 +208,7 @@ export const pages: Record<string, SymptomTr> = {
       'Yolculuktan sonra elinizi dikkatle poyralara yaklaştırın (fren diskine dokunmadan — sıcaktır): bir taraftaki belirgin daha sıcak poyra ek bir ipucudur.',
     ],
     appHelp:
-      'Stuk uygulaması aynı kontrol sorularını sorar — zemin, virajlar ve boşta süzülme — uğultuyu kaydeder ve karakterini değerlendirir: lastiklerin düzgün geniş bantlı gürültüsü ile rulman uğultusu spektrumda farklı görünür. Raporda nedenlerin olasılıkları, aciliyet ve ustaya hangi tarafı söyleyeceğinize dair bir ipucu yer alır.',
+      'Pro-Stuk uygulaması aynı kontrol sorularını sorar — zemin, virajlar ve boşta süzülme — uğultuyu kaydeder ve karakterini değerlendirir: lastiklerin düzgün geniş bantlı gürültüsü ile rulman uğultusu spektrumda farklı görünür. Raporda nedenlerin olasılıkları, aciliyet ve ustaya hangi tarafı söyleyeceğinize dair bir ipucu yer alır.',
     faq: [
       {
         q: 'Uğultu virajlarda neden değişir?',
@@ -227,7 +227,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Tümseklerde takırtı',
-    metaTitle: 'Tümseklerde takırtı: nedenleri ve kendi kontrolleriniz | Stuk',
+    metaTitle: 'Tümseklerde takırtı: nedenleri ve kendi kontrolleriniz | Pro-Stuk',
     description:
       'Tümseklerde ve çukurlarda takırtı: küçük dalgalanmalarda sık takırtı, çukurlarda tek darbeler ya da direksiyona vuran takırtı. Hangi parçalar suçlu ve yola devam edilir mi.',
     intro: [
@@ -253,7 +253,7 @@ export const pages: Record<string, SymptomTr> = {
       'Basit olanı eleyin: bagajdan sabit olmayan eşyaları çıkarın, stepne ve krikonun bağlantısını kontrol edin, kapalı kaputa bastırın — oynayan kaput kilidi süspansiyona benzer şekilde tıkırdar.',
     ],
     appHelp:
-      'Stuk uygulaması bu sayfadaki soruların aynısını, yalnızca adım adım sorar: tam olarak nasıl bir takırtı, nerede duyuluyor, farklı tümseklerde nasıl davranıyor. Yanıtlardan ve ses kaydından olası nedenleri ve aciliyet ışığını içeren bir rapor çıkarır — böylece yarın mı yoksa fırsat bulunca mı servise gideceğinize karar vermek kolaylaşır.',
+      'Pro-Stuk uygulaması bu sayfadaki soruların aynısını, yalnızca adım adım sorar: tam olarak nasıl bir takırtı, nerede duyuluyor, farklı tümseklerde nasıl davranıyor. Yanıtlardan ve ses kaydından olası nedenleri ve aciliyet ışığını içeren bir rapor çıkarır — böylece yarın mı yoksa fırsat bulunca mı servise gideceğinize karar vermek kolaylaşır.',
     faq: [
       {
         q: 'Takırtı neden yalnızca tümseklerde duyuluyor, düz yolda sessiz?',
@@ -272,7 +272,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Motorun tıkırtısı',
-    metaTitle: 'Motor tıkırdıyor: normal mi aşınma mı, nedenleri | Stuk',
+    metaTitle: 'Motor tıkırdıyor: normal mi aşınma mı, nedenleri | Pro-Stuk',
     description:
       'Motor tıkırtısı nereden gelir: supap boşlukları, hidrolik kaldıraçlar, enjektörlerin normal tıkırtısı ya da egzoz manifoldu. Normali aşınmadan nasıl ayırt edersiniz.',
     intro: [
@@ -298,7 +298,7 @@ export const pages: Record<string, SymptomTr> = {
       'Açık kaputun yanında koklayın: sık tıkırtıyla birlikte egzoz kokusu manifold işaretidir — bununla bir–iki hafta içinde servise.',
     ],
     appHelp:
-      'Stuk uygulaması en önemlisini netleştirir — tıkırtı zamanla gürleşti mi ve soğukken/sıcakken nasıl davranıyor — kayıt ise onu tipik örneklerle karşılaştırmayı sağlar. Raporda yüzdeleriyle olası nedenler ve ışık biçiminde bir sonuç yer alır: normal, bu hafta randevu ya da gecikmeden arıza tespiti.',
+      'Pro-Stuk uygulaması en önemlisini netleştirir — tıkırtı zamanla gürleşti mi ve soğukken/sıcakken nasıl davranıyor — kayıt ise onu tipik örneklerle karşılaştırmayı sağlar. Raporda yüzdeleriyle olası nedenler ve ışık biçiminde bir sonuç yer alır: normal, bu hafta randevu ya da gecikmeden arıza tespiti.',
     faq: [
       {
         q: 'Dizeller ve direkt enjeksiyonlu motorlar neden hep tıkırdar?',
@@ -317,7 +317,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Kayış ıslığı',
-    metaTitle: 'Kayış ötüyor: nedenleri, gidilir mi ve ne yapmalı | Stuk',
+    metaTitle: 'Kayış ötüyor: nedenleri, gidilir mi ve ne yapmalı | Pro-Stuk',
     description:
       'Aksesuar kayışı ötüyor: aşınma, gevşek gerginlik, rulmanlar ya da klima kompresörü kavraması. Nedeni koşullardan nasıl daraltırsınız ve ıslık ne zaman servis ister.',
     intro: [
@@ -343,7 +343,7 @@ export const pages: Record<string, SymptomTr> = {
       'Islığın yanında motor deviriyle değişen düzgün bir uğultu ya da hışırtı olup olmadığını dinleyin — rulmanlardan birinin sesi böyledir.',
     ],
     appHelp:
-      'Stuk uygulaması sesin karakterini ve koşulları netleştirir — ıslık mı uğultu mu, soğukta mı yük altında mı, klimayla bağlantılı mı — ve kayıt sayesinde kayışın ciyaklamasını rulmanın hışırtısından ayırmaya yardım eder. Raporda yüzdeleriyle olası nedenler ve bir ışık vardır: yola devam edilebilir, bu hafta servise ya da durun.',
+      'Pro-Stuk uygulaması sesin karakterini ve koşulları netleştirir — ıslık mı uğultu mu, soğukta mı yük altında mı, klimayla bağlantılı mı — ve kayıt sayesinde kayışın ciyaklamasını rulmanın hışırtısından ayırmaya yardım eder. Raporda yüzdeleriyle olası nedenler ve bir ışık vardır: yola devam edilebilir, bu hafta servise ya da durun.',
     faq: [
       {
         q: 'Kayış yolda koparsa ne olur?',
@@ -362,7 +362,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Aracın altından zangırtı',
-    metaTitle: 'Aracın altından zangırtı: ne titriyor, tehlikeli mi | Stuk',
+    metaTitle: 'Aracın altından zangırtı: ne titriyor, tehlikeli mi | Pro-Stuk',
     description:
       'Aracın altından gelen zangırtı ve titreşim: egzoz askıları, ısı kalkanı, karter koruması ya da katalizör. Sesin kaynağını nasıl bulursunuz ve ne zaman iş ciddiye biner.',
     intro: [
@@ -388,7 +388,7 @@ export const pages: Record<string, SymptomTr> = {
       'Altına girmeden aracın altına bakın: sarkmış egzoz, karter korumasının sallanan kenarı ya da bükülmüş kalkan çoğu zaman tekerleğin yanından bile görünür.',
     ],
     appHelp:
-      'Stuk uygulaması zangırtıyı kaynağına bağlamaya yardım eder: ses nereden geliyor, motor devrine mi tümseklere mi bağlı, güce ne oluyor. Yanıtlardan ve kayıttan yüzdeleriyle olası nedenleri ve aciliyet ışığını gösterir — zararsız bir sacı katalizörden daha servise gitmeden ayırmak için elverişlidir.',
+      'Pro-Stuk uygulaması zangırtıyı kaynağına bağlamaya yardım eder: ses nereden geliyor, motor devrine mi tümseklere mi bağlı, güce ne oluyor. Yanıtlardan ve kayıttan yüzdeleriyle olası nedenleri ve aciliyet ışığını gösterir — zararsız bir sacı katalizörden daha servise gitmeden ayırmak için elverişlidir.',
     faq: [
       {
         q: 'Aracın altında bir şey zangırdıyorsa gitmek tehlikeli mi?',
@@ -407,7 +407,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Frenlerde metal sesi',
-    metaTitle: 'Frenlerde metal sesi: balatalar bitti, ne yapmalı | Stuk',
+    metaTitle: 'Frenlerde metal sesi: balatalar bitti, ne yapmalı | Pro-Stuk',
     description:
       'Frenlerde metal metale sürtme çoğunlukla metale kadar aşınmış balata demektir — bununla yola devam edilmez. Daha seyrek suçlu, disk muhafazasının arkasındaki taştır.',
     intro: [
@@ -432,7 +432,7 @@ export const pages: Record<string, SymptomTr> = {
       'Diski jantın içinden inceleyin: derin oyuklar ve metalde mavimsi renk, metal sesinin uzun süredir devam ettiğini ve disklerin zarar gördüğünü söyler.',
     ],
     appHelp:
-      'Stuk uygulaması aynı sorulardan geçirir — ses sürekli mi, tekerlek ısınıyor mu, ilk frenlemelerden sonra geçiyor mu — kayıt ise metal sesini aşınma göstergesinin ciyaklamasından ayırmaya yardım eder. Raporda olası nedenler ve bir ışık vardır: gidilebilir, bu hafta gösterin ya da yalnızca servise kadar sürün.',
+      'Pro-Stuk uygulaması aynı sorulardan geçirir — ses sürekli mi, tekerlek ısınıyor mu, ilk frenlemelerden sonra geçiyor mu — kayıt ise metal sesini aşınma göstergesinin ciyaklamasından ayırmaya yardım eder. Raporda olası nedenler ve bir ışık vardır: gidilebilir, bu hafta gösterin ya da yalnızca servise kadar sürün.',
     faq: [
       {
         q: 'Metal sesi ile fren gıcırtısının farkı nedir?',
@@ -451,7 +451,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-pri-razgone': {
     h1: 'Hızlanırken vuruntu',
-    metaTitle: 'Gaz verip keserken vuruntu: nedenleri ve çözümü | Stuk',
+    metaTitle: 'Gaz verip keserken vuruntu: nedenleri ve çözümü | Pro-Stuk',
     description:
       'Gaza basınca ya da gazı kesince neden vuruyor: motor takozları, aks körüğü, aktarma organlarındaki boşluk veya otomatik şanzıman. Zararsız boşluğu motorun içindeki vuruntudan nasıl ayırırsınız.',
     intro: [
@@ -476,7 +476,7 @@ export const pages: Record<string, SymptomTr> = {
       'Yumuşak testi yapın: gaza yumuşak basıp bırakınca vuruntu kayboluyor, sert yapınca dönüyorsa bu klasik boşluktur ve onarıma kadar yumuşak sürüş yeter.',
     ],
     appHelp:
-      'Stuk uygulaması aynı netleştirici soruları sorar — tam olarak ne zaman vuruyor, ses devirle ve viteslerle değişiyor mu — ve kayıt sayesinde boşluğun takırtısını derin motor vuruntusundan ayırmaya yardım eder. Raporda yüzdeleriyle olası nedenler ve anlaşılır bir sonuç yer alır: gidilebilir, servisi planlayın ya da durun.',
+      'Pro-Stuk uygulaması aynı netleştirici soruları sorar — tam olarak ne zaman vuruyor, ses devirle ve viteslerle değişiyor mu — ve kayıt sayesinde boşluğun takırtısını derin motor vuruntusundan ayırmaya yardım eder. Raporda yüzdeleriyle olası nedenler ve anlaşılır bir sonuç yer alır: gidilebilir, servisi planlayın ya da durun.',
     faq: [
       {
         q: 'Neden tam olarak gaza basıp keserken vuruyor?',
@@ -495,7 +495,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Hızlanırken çınlama',
-    metaTitle: 'Hızlanırken çınlama: detonasyon mu değil mi | Stuk',
+    metaTitle: 'Hızlanırken çınlama: detonasyon mu değil mi | Pro-Stuk',
     description:
       'Hızlanırken duyulan metalik çınlama çoğunlukla yakıttan kaynaklanan detonasyondur. İstasyon değiştirerek nasıl sınarsınız ve ne zaman suçlu motor değil, ısı kalkanı ya da katalizördür.',
     intro: [
@@ -520,7 +520,7 @@ export const pages: Record<string, SymptomTr> = {
       'Güce ve tabandan gelen seslere dikkat edin: alttan hışırtı ve çınlama ile birlikte zayıflayan hızlanma, katalizörü geciktirmeden kontrol ettirmek için nedendir.',
     ],
     appHelp:
-      'Stuk uygulaması aynı sorularla yol gösterir — ne zaman çınlıyor, ses yüke mi devre mi bağlı — kayıt ise detonasyonun çınlayan tıkırtısını sac kalkanın zangırtısından ayırmayı sağlar. Raporda yüzdeleriyle olası nedenler ve bir sonuç yer alır: gidilebilir, servisi planlamak gerekir ya da durmak daha doğru.',
+      'Pro-Stuk uygulaması aynı sorularla yol gösterir — ne zaman çınlıyor, ses yüke mi devre mi bağlı — kayıt ise detonasyonun çınlayan tıkırtısını sac kalkanın zangırtısından ayırmayı sağlar. Raporda yüzdeleriyle olası nedenler ve bir sonuç yer alır: gidilebilir, servisi planlamak gerekir ya da durmak daha doğru.',
     faq: [
       {
         q: '«Vuruntu yapıyor» ne demek?',
@@ -539,7 +539,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Virajda uğultu',
-    metaTitle: 'Virajda uğultu: poyra rulmanı mı hidrolik direksiyon mu | Stuk',
+    metaTitle: 'Virajda uğultu: poyra rulmanı mı hidrolik direksiyon mu | Pro-Stuk',
     description:
       'Virajdaki uğultu nereden gelir: aşınmış poyra rulmanı, uğuldayan hidrolik direksiyon pompası ya da lastik gürültüsü. Tarafı nasıl belirlersiniz ve tehlikeli mi.',
     intro: [
@@ -565,7 +565,7 @@ export const pages: Record<string, SymptomTr> = {
       'Sırtı inceleyin: «testere» aşınması (blok kenarlarındaki basamaklar) ya da lekeli aşınma lastik uğultusunu artırır ve aynı zamanda bozuk rot balansa veya yorulmuş amortisörlere işaret eder.',
     ],
     appHelp:
-      'Stuk uygulaması, ustanın araç kabulünde sorduğu soruların aynısını sorar: uğultu nerede duyuluyor, virajlarda değişiyor mu, direksiyonu yerinde çevirmekle ilgili mi. Kayıt sesi tipik örneklerle karşılaştırmayı sağlar, raporda ise olası nedenler ve anlaşılır bir öneri olur: rahat gidin, bu hafta randevu alın ya da geciktirmeden kontrol ettirin.',
+      'Pro-Stuk uygulaması, ustanın araç kabulünde sorduğu soruların aynısını sorar: uğultu nerede duyuluyor, virajlarda değişiyor mu, direksiyonu yerinde çevirmekle ilgili mi. Kayıt sesi tipik örneklerle karşılaştırmayı sağlar, raporda ise olası nedenler ve anlaşılır bir öneri olur: rahat gidin, bu hafta randevu alın ya da geciktirmeden kontrol ettirin.',
     faq: [
       {
         q: 'Uğultu neden yalnızca bir dönüş yönünde artıyor?',
@@ -584,7 +584,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Direksiyon çevirirken tıkırtı',
-    metaTitle: 'Direksiyonda tıkırtı: aks mafsalı mı kule rulmanı mı | Stuk',
+    metaTitle: 'Direksiyonda tıkırtı: aks mafsalı mı kule rulmanı mı | Pro-Stuk',
     description:
       'Direksiyon çevirirken neden tıkırdar: dış aks mafsalı, amortisör kule rulmanı ya da direksiyon mili kardanı. Sese göre nasıl ayırt edilir ve sökmeden ne kontrol edilir.',
     intro: [
@@ -610,7 +610,7 @@ export const pages: Record<string, SymptomTr> = {
       'Hareket hâlinde çıtırtının hangi tekerlek tarafından geldiğini ve hangi virajda daha gür olduğunu aklınızda tutun — bu ayrıntılar serviste aramayı belirgin biçimde kısaltır.',
     ],
     appHelp:
-      'Stuk uygulamasında bu yol ayrımları kısa bir soru ağacında toplanmıştır: araç gidiyor mu duruyor mu, ses nereden geliyor, körüklerin durumu nasıl. Çıtırtıyı telefonla kaydedip örneklerle karşılaştırabilirsiniz. Raporda değerlendirmesiyle olası nedenler ve süre önerisi olur: paniğe gerek yok, ama bir ay unutulmuş tıkırtı da olmasın.',
+      'Pro-Stuk uygulamasında bu yol ayrımları kısa bir soru ağacında toplanmıştır: araç gidiyor mu duruyor mu, ses nereden geliyor, körüklerin durumu nasıl. Çıtırtıyı telefonla kaydedip örneklerle karşılaştırabilirsiniz. Raporda değerlendirmesiyle olası nedenler ve süre önerisi olur: paniğe gerek yok, ama bir ay unutulmuş tıkırtı da olmasın.',
     faq: [
       {
         q: 'Aks mafsalı nedir ve neden tıkırdar?',
@@ -629,7 +629,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Soğukta motor vuruntusu',
-    metaTitle: 'Motor soğukken vuruyor: nedenleri ve ne yapmalı | Stuk',
+    metaTitle: 'Motor soğukken vuruyor: nedenleri ve ne yapmalı | Pro-Stuk',
     description:
       'Motor neden soğukken vurur ve ısınınca susar: hidrolik kaldıraçlar, piston grubu, triger zinciri. Ne zaman normal, ne zaman servis vakti.',
     intro: [
@@ -655,7 +655,7 @@ export const pages: Record<string, SymptomTr> = {
       'Isınmış motoru on dakika durdurup yeniden çalıştırın: gerçek «soğuk» vuruntu bu kadar kısa bir duraklamadan sonra geri gelmez.',
     ],
     appHelp:
-      'Stuk uygulaması aynı yol ayrımlarından geçer — tıkırtı mı, boğuk vuruntu mu, hışırtı mı ve ses ne kadar çabuk geçiyor — telefonla kayıt ise kelimelerle anlatması güç karakteri yakalamaya yardım eder. Raporda yüzdeleriyle olası nedenler ve anlaşılır bir sonuç olur: rahat gidin, bu hafta randevu alın ya da servisi geciktirmeyin.',
+      'Pro-Stuk uygulaması aynı yol ayrımlarından geçer — tıkırtı mı, boğuk vuruntu mu, hışırtı mı ve ses ne kadar çabuk geçiyor — telefonla kayıt ise kelimelerle anlatması güç karakteri yakalamaya yardım eder. Raporda yüzdeleriyle olası nedenler ve anlaşılır bir sonuç olur: rahat gidin, bu hafta randevu alın ya da servisi geciktirmeyin.',
     faq: [
       {
         q: 'Vuruntu ısınınca geçiyor — dikkate almayabilir miyim?',
@@ -674,7 +674,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Çalıştırırken ıslık',
-    metaTitle: 'Motoru çalıştırırken ıslık: nedenleri ve çözümü | Stuk',
+    metaTitle: 'Motoru çalıştırırken ıslık: nedenleri ve çözümü | Pro-Stuk',
     description:
       'Motor çalıştırırken neden öter: kayan aksesuar kayışı, rulmanlar ya da devirdaim. Islık ne zaman zararsız, ne zaman randevu almanın vakti.',
     intro: [
@@ -700,7 +700,7 @@ export const pages: Record<string, SymptomTr> = {
       'Kasnakların yanında damla ya da beyazımsı antifriz izi olup olmadığına bakın: devirdaimi gösterirler, o zaman servisi ertelememek gerekir.',
     ],
     appHelp:
-      'Stuk uygulaması ustanın araç kabulündeki sorularının aynısını sorar: ıslık ne zaman çıkıyor, ısınınca geçiyor mu, marş çalışırken ne duyuluyor. Kayıt kayışın ciyaklamasını marşın metal sesinden ayırmaya yardım eder, raporda ise yüzdeleriyle olası nedenler ve anlaşılır bir sonuç olur: gidilebilir, bu hafta servise ya da durun.',
+      'Pro-Stuk uygulaması ustanın araç kabulündeki sorularının aynısını sorar: ıslık ne zaman çıkıyor, ısınınca geçiyor mu, marş çalışırken ne duyuluyor. Kayıt kayışın ciyaklamasını marşın metal sesinden ayırmaya yardım eder, raporda ise yüzdeleriyle olası nedenler ve anlaşılır bir sonuç olur: gidilebilir, bu hafta servise ya da durun.',
     faq: [
       {
         q: 'Motor neden yalnızca soğukta ve rutubette öter?',
@@ -719,7 +719,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Rölantide titreşim',
-    metaTitle: 'Rölantide titreşim: titremenin nedenleri ve çözümü | Stuk',
+    metaTitle: 'Rölantide titreşim: titremenin nedenleri ve çözümü | Pro-Stuk',
     description:
       'Araç rölantide neden titrer: motor takozları, ateşleme atlamaları, kaçak hava ya da kirli gaz kelebeği. Ne kontrol edilir ve yola devam edilir mi.',
     intro: [
@@ -744,7 +744,7 @@ export const pages: Record<string, SymptomTr> = {
       'Bujilerin ne zaman değiştiğini hatırlayın: bakım aralığını çoktan aşmış kilometre, ateşleme atlamalarında ilk adaydır. Motor lambası yanıyorsa arıza kodlarını okutarak başlayın: kodlar aramayı daraltır.',
     ],
     appHelp:
-      'Stuk uygulaması aynı soruları sorar — vites takılıyken titreme artıyor mu, devir sabit duruyor mu, motor lambası yanıyor mu — ve yanıtlara göre olası nedenleri yüzdelere ayırır. Raporda anlaşılır bir sonuç olur: rahat gidin, bu hafta randevu alın ya da aracı önümüzdeki günlerde gösterin.',
+      'Pro-Stuk uygulaması aynı soruları sorar — vites takılıyken titreme artıyor mu, devir sabit duruyor mu, motor lambası yanıyor mu — ve yanıtlara göre olası nedenleri yüzdelere ayırır. Raporda anlaşılır bir sonuç olur: rahat gidin, bu hafta randevu alın ya da aracı önümüzdeki günlerde gösterin.',
     faq: [
       {
         q: 'Neden yalnızca rölantide titriyor da yolda araç düzgün gidiyor?',
@@ -763,7 +763,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Egzozda patlamalar',
-    metaTitle: 'Egzozda patlama sesleri: nedenleri ve çözümü | Stuk',
+    metaTitle: 'Egzozda patlama sesleri: nedenleri ve çözümü | Pro-Stuk',
     description:
       'Egzozdan neden patlama sesi gelir: ateşleme atlamaları, delinmiş egzoz, karışım ya da LPG ayarları. Patlamaların katalizöre ne yaptığı ve ne zaman servise gitmek gerektiği.',
     intro: [
@@ -789,7 +789,7 @@ export const pages: Record<string, SymptomTr> = {
       'LPG’li araçta gaz ve benzin çalışmasını karşılaştırın: patlamalar yalnızca gazdaysa bu, sistemi ayarlayan servise sorulacak bir sorudur.',
     ],
     appHelp:
-      'Stuk uygulaması koşulları netleştirir — patlama mı gürleme mi, gazla mı benzinle mi, güç kaybı var mı — ve kulakla benzeyen üç şeyi ayırmaya yardım eder: ateşleme sorunları, egzozdaki delik ve kayan debriyaj. Raporda yüzdeleriyle olası nedenler ve servisin ne kadar acil olduğuna dair anlaşılır bir öneri yer alır.',
+      'Pro-Stuk uygulaması koşulları netleştirir — patlama mı gürleme mi, gazla mı benzinle mi, güç kaybı var mı — ve kulakla benzeyen üç şeyi ayırmaya yardım eder: ateşleme sorunları, egzozdaki delik ve kayan debriyaj. Raporda yüzdeleriyle olası nedenler ve servisin ne kadar acil olduğuna dair anlaşılır bir öneri yer alır.',
     faq: [
       {
         q: 'Sorun motordaysa neden egzozda patlıyor?',

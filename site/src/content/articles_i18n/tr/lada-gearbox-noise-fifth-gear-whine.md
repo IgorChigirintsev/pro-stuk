@@ -1,6 +1,6 @@
 ---
 title: "Lada şanzıman sesi: beşinci vitesteki uğultu"
-metaTitle: "Lada şanzıman sesi: beşinci viteste uğultu | Stuk"
+metaTitle: "Lada şanzıman sesi: beşinci viteste uğultu | Pro-Stuk"
 description: "Lada şanzımanında beşinci viteste uğultu: neden en üst vites bozulur, şanzıman sesi teker rulmanından nasıl ayrılır ve neye bakılır."
 faq:
   - q: "Neden uğultu tam beşinci viteste çıkıyor?"
@@ -92,7 +92,7 @@ rulmanların gösterilmesini isteyin. «Devam et» ile «dur» arasındaki
 [uğuldayan şanzımanla araç kullanılır mı](/tr/articles/can-you-drive-with-a-whining-gearbox/)
 yazısında anlatılıyor.
 
-Şanzımanla poyra arasında tahmin yürütmemek için sesi Stuk uygulamasıyla
+Şanzımanla poyra arasında tahmin yürütmemek için sesi Pro-Stuk uygulamasıyla
 iki kez kaydedin: beşinci viteste yük altında ve aynı hızda boşta
 süzülürken. Uygulama kayıtları verdiğiniz yanıtlarla eşleştirip olası
 sebepleri yüzdeleriyle gösterir — servise «bir şeyler uğulduyor» yerine

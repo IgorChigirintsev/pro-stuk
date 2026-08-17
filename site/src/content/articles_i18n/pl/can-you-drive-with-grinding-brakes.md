@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć, gdy hamulce zgrzytają"
-metaTitle: "Czy można jeździć ze zgrzytem hamulców? | Stuk"
+metaTitle: "Czy można jeździć ze zgrzytem hamulców? | Pro-Stuk"
 description: "Metaliczny zgrzyt przy hamowaniu znaczy, że okładzina się skończyła i metal tnie tarczę. Ile kilometrów jeszcze można przejechać i czego nie robić."
 faq:
   - q: "Ile kilometrów da się przejechać ze zgrzytającymi hamulcami?"
@@ -100,7 +100,7 @@ w stronę drugiej. Jeśli zgrzyt zaczął się w piątek, taniej wyjdzie
 poświęcić sobotę na warsztat niż jeździć tak przez miesiąc.
 
 Kiedy dźwięk jest, ale nie wiadomo, czy to czujnik zużycia, czy płytka
-nośna, pomaga nagranie: aplikacja Stuk analizuje częstotliwości, zestawia
+nośna, pomaga nagranie: aplikacja Pro-Stuk analizuje częstotliwości, zestawia
 je z odpowiedziami na kilka pytań o to, kiedy dźwięk się pojawia, i pokazuje
 prawdopodobne przyczyny w procentach — razem z oceną, czy autem w ogóle
 wolno jechać przed oględzinami.

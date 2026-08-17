@@ -1,7 +1,7 @@
 ---
 ru: "kak-zvuchit-rastyanutaya-tsep-grm"
 title: "What a stretched timing chain sounds like"
-metaTitle: "What a stretched timing chain sounds like | Stuk"
+metaTitle: "What a stretched timing chain sounds like | Pro-Stuk"
 description: "Rattle at a cold start, rustling from behind the cover, a change on lift-off — how to recognise a stretched timing chain and tell it from other knocks."
 pubDate: "2026-06-06"
 related:
@@ -101,7 +101,7 @@ One more observation from practice: oil starvation and stretched service
 intervals accelerate chain wear more than mileage alone.
 
 If the rattle is short and you are not sure you are really hearing it,
-record a cold start in the Stuk app — the first five seconds from turning
+record a cold start in the Pro-Stuk app — the first five seconds from turning
 the key. The app matches the recording with your answers and shows the
 likely causes with percentages, so you arrive with a ready theory rather
 than a general “something is rattling”.

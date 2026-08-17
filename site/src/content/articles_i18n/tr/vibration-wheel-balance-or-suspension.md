@@ -1,6 +1,6 @@
 ---
 title: "Titreşim: balans mı, süspansiyon mu"
-metaTitle: "Hızda titreşim: balans mı, süspansiyon mu | Stuk"
+metaTitle: "Hızda titreşim: balans mı, süspansiyon mu | Pro-Stuk"
 description: "Direksiyondaki ve gövdedeki titreşim hem teker balanssızlığından hem aşınmış süspansiyondan gelir. İhtimaller hıza ve koşullara göre nasıl ayrılır."
 faq:
   - q: "Teker balanssızlığı hangi hızda kendini gösterir?"
@@ -96,7 +96,7 @@ kalmadığını sorun: diskin üzerine basılmış asgari değerin altında torn
 seçenek değildir ve buna rağmen yapan bir servis, size aylar içinde yine
 eğrilecek bir disk satıyor demektir.
 
-Titreşimi kelimelerle anlatmak zordur ama kaydı iyi çıkar: Stuk
+Titreşimi kelimelerle anlatmak zordur ama kaydı iyi çıkar: Pro-Stuk
 uygulamasında sabit hızda, fren yaparken ve tümseklerde kısa kayıtlar alın.
 Uygulama bunları birkaç soruya verdiğiniz cevaplarla eşleştirir ve olası
 sebepleri yüzdeleriyle gösterir; böylece serviste sadece titreme olduğunu

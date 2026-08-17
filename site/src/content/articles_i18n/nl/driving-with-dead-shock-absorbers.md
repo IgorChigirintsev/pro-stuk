@@ -1,6 +1,6 @@
 ---
 title: "Waar rijden met dode schokdempers toe leidt"
-metaTitle: "Rijden met dode schokdempers: gevolgen | Stuk"
+metaTitle: "Rijden met dode schokdempers: gevolgen | Pro-Stuk"
 description: "Dode schokdempers verlengen uw remweg, slopen de vering en vreten banden op. Wat er daarna kapotgaat, hoe u het opmerkt en wat de reparatie inhoudt."
 faq:
   - q: "Hoeveel invloed hebben dode schokdempers op de remweg?"

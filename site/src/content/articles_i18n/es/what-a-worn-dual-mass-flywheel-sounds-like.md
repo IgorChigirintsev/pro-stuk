@@ -1,6 +1,6 @@
 ---
 title: "Cómo suena un volante bimasa gastado"
-metaTitle: "Volante bimasa gastado: cómo suena | Stuk"
+metaTitle: "Volante bimasa gastado: cómo suena | Pro-Stuk"
 description: "Castañeteo al arrancar y al parar el motor, traqueteo al ralentí, vibración al salir: cómo suena un volante bimasa gastado y con qué se confunde."
 faq:
   - q: "¿Por qué un volante bimasa suena más fuerte justo al apagar el motor?"
@@ -106,6 +106,6 @@ un poco más altas y reducir antes de que el motor empiece a esforzarse de
 forma evidente le ahorra trabajo al amortiguador.
 
 Si quiere saber si el sonido está de verdad ligado al arranque y a la
-parada, grabe los dos momentos con la aplicación Stuk. Cruza el carácter del
+parada, grabe los dos momentos con la aplicación Pro-Stuk. Cruza el carácter del
 sonido con el régimen en que apareció y muestra las causas probables con
 porcentajes.

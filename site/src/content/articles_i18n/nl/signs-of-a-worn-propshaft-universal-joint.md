@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een versleten cardankruis"
-metaTitle: "Versleten cardankruis: de kenmerken | Stuk"
+metaTitle: "Versleten cardankruis: de kenmerken | Pro-Stuk"
 description: "Een klap bij wegrijden, trillingen bij snelheid, metalig gerinkel onder de vloer: zo leest u slijtage van het cardankruis per stadium af."
 faq:
   - q: "Hoe onderscheid ik een cardankruis van het steunlager?"

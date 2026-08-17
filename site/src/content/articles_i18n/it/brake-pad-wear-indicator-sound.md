@@ -1,6 +1,6 @@
 ---
 title: "Indicatore di usura delle pastiglie: come suona"
-metaTitle: "Indicatore di usura pastiglie: come suona | Stuk"
+metaTitle: "Indicatore di usura pastiglie: come suona | Pro-Stuk"
 description: "Un fischio metallico sottile in marcia che sparisce appena si frena è l'indicatore meccanico di usura delle pastiglie. Come riconoscerlo e quanto tempo resta."
 faq:
   - q: "Perché il fischio si ferma quando premo il pedale?"
@@ -94,6 +94,6 @@ d'emergenza e lunghe discese tenute sul pedale, così il materiale
 d'attrito si assesta in modo uniforme.
 
 Se il suono è comparso e non è sicura che sia l'indicatore o qualcos'altro,
-lo registri con l'app Stuk: prima in rilascio, poi con una frenata
+lo registri con l'app Pro-Stuk: prima in rilascio, poi con una frenata
 leggera. L'app confronta le registrazioni con le sue risposte e mostra le
 cause probabili in percentuale.

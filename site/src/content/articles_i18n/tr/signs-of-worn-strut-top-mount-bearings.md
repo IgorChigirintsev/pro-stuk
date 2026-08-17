@@ -1,6 +1,6 @@
 ---
 title: "Amortisör üst takoz rulmanının aşınma belirtileri"
-metaTitle: "Aşınmış üst takoz rulmanı: belirtiler | Stuk"
+metaTitle: "Aşınmış üst takoz rulmanı: belirtiler | Pro-Stuk"
 description: "Direksiyon kırarken çıtırtı ve tıkırtı, tümseklerde boğuk küt sesler: aşınmış üst takoz rulmanı nasıl anlaşılır ve onarımda neler belirleyici olur."
 faq:
   - q: "Üst takoz rulmanı mı, amortisör mü olduğunu nasıl anlarım?"
@@ -132,6 +132,6 @@ ve direksiyonu zorla çevirmek gerekir. Onarım yalnızca pahalılaşır, bu yü
 işi birkaç haftadan fazla uzatmanın anlamı yoktur.
 
 Yukarıdan bir çıtırtı ya da tıkırtı geliyor ve suçlusu belli değilse, sesi
-Stuk uygulamasında kaydedin. Kaydı verdiğiniz cevaplarla eşleştirir ve olası
+Pro-Stuk uygulamasında kaydedin. Kaydı verdiğiniz cevaplarla eşleştirir ve olası
 nedenleri aciliyet seviyesiyle gösterir; böylece serviste her şeye değil,
 belirli parçalara bakılır.

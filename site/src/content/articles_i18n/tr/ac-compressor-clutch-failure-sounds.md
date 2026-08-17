@@ -1,6 +1,6 @@
 ---
 title: "Klima kompresörü kavraması: arıza sesleri"
-metaTitle: "Klima kompresörü kavraması: arıza sesleri | Stuk"
+metaTitle: "Klima kompresörü kavraması: arıza sesleri | Pro-Stuk"
 description: "Klima devreye girdiği anda başlayan tıkırtı, uğultu veya taşlama sesi: aşınmış elektromanyetik kavrama nasıl duyulur ve serviste neye bakılır."
 faq:
   - q: "Sesin kavramadan mı yoksa kompresörün kendisinden mi geldiğini nasıl anlarım?"
@@ -90,7 +90,7 @@ sistem kavramayı sürekli devreye sokup çıkarır ve sürtünme yüzeylerini
 yakan tam da bu döngüdür. Kaçağı bulmadan kompresör değiştirmek, yenisini
 eskisini öldüren koşullara teslim etmek demektir.
 
-Ses yalnızca sıcak havada çıkıyor ve serviste tekrarlatılamıyorsa, Stuk
+Ses yalnızca sıcak havada çıkıyor ve serviste tekrarlatılamıyorsa, Pro-Stuk
 uygulamasına kaydedin: önce klima kapalıyken, hemen ardından açtıktan
 sonra. Uygulama iki kaydı cevaplarınızla eşleştirir ve neyin daha olası
 olduğunu gösterir: kavrama, bir gergi rulmanı ya da kompresörün kendisi.

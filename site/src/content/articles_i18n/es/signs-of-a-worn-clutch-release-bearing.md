@@ -1,6 +1,6 @@
 ---
 title: "Señales de un collarín de embrague gastado"
-metaTitle: "Collarín de embrague gastado: el ruido | Stuk"
+metaTitle: "Collarín de embrague gastado: el ruido | Pro-Stuk"
 description: "Cómo suena un collarín de embrague gastado, cómo comprobarlo con el pedal en un minuto, con qué se confunde ese susurro y cómo se decide la reparación."
 faq:
   - q: "¿Cómo suena un collarín gastado?"
@@ -140,6 +140,6 @@ volante se mide con todo desmontado, y es la medición, no una corazonada,
 la que decide si se queda.
 
 ¿No tiene claro si el sonido reacciona al pedal, o si lo que suena es otra
-cosa? Grabe el motor con la aplicación Stuk: primero en punto muerto y
+cosa? Grabe el motor con la aplicación Pro-Stuk: primero en punto muerto y
 después con el pedal pisado. La aplicación cruza las grabaciones con sus
 respuestas y muestra los orígenes probables con un nivel de urgencia.

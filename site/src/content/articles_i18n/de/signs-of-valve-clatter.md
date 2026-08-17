@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für klappernde Ventile"
-metaTitle: "Klappernde Ventile: Ton und was zu tun ist | Stuk"
+metaTitle: "Klappernde Ventile: Ton und was zu tun ist | Pro-Stuk"
 description: "Wie klappernde Ventile klingen, warum das Ventilspiel wandert, wie es sich von anderen Motorgeräuschen unterscheidet und was eine Einstellung bedeutet."
 faq:
   - q: "Wie klingen klappernde Ventile?"

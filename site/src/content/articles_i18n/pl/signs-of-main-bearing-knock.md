@@ -1,6 +1,6 @@
 ---
 title: "Objawy stuku panewek głównych"
-metaTitle: "Objawy stuku panewek głównych silnika | Stuk"
+metaTitle: "Objawy stuku panewek głównych silnika | Pro-Stuk"
 description: "Ciężki, niski stuk od dołu bloku, spadające ciśnienie oleju i drgania: jak rozpoznać zużyte panewki główne i czym różnią się od korbowodowych."
 faq:
   - q: "Czym stuk panewek głównych różni się od korbowodowego?"
@@ -25,7 +25,7 @@ usterka wymaga natychmiastowego zatrzymania, a nie obserwacji.
 
 ## Jak to brzmi
 
-Stuk panewek głównych jest **głuchy, niski i ciężki**, jakby ktoś uderzał
+Pro-Stuk panewek głównych jest **głuchy, niski i ciężki**, jakby ktoś uderzał
 w metal od środka przez poduszkę. Dochodzi z dołu silnika, od strony
 miski olejowej, i dobrze niesie się po nadwoziu. Znaki rozpoznawcze:
 
@@ -102,6 +102,6 @@ lekceważyć pierwszych mrugnięć kontrolki ciśnienia.
 
 Jeśli stuk pojawił się niedawno, a nie ma Pan pewności, z której części
 silnika dochodzi, proszę nagrać krótki fragment na biegu jałowym i przy
-kopnięciu gazem w aplikacji Stuk. Porównuje ona dźwięk z Pana odpowiedziami
+kopnięciu gazem w aplikacji Pro-Stuk. Porównuje ona dźwięk z Pana odpowiedziami
 o warunkach i pokazuje prawdopodobne przyczyny z procentami — na tyle, by
 zdecydować między samodzielnym dojazdem a wezwaniem lawety od razu.

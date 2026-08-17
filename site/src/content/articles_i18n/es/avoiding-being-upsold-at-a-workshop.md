@@ -1,6 +1,6 @@
 ---
 title: "Cómo evitar que le vendan de más en el diagnóstico del taller"
-metaTitle: "Cómo evitar que le vendan de más en el taller | Stuk"
+metaTitle: "Cómo evitar que le vendan de más en el taller | Pro-Stuk"
 description: "Qué incluye un diagnóstico honesto, qué frases deben hacerle preguntar y cómo comprobar el trabajo presupuestado sin saber de coches."
 faq:
   - q: "¿Es normal un diagnóstico gratuito?"
@@ -94,7 +94,7 @@ críticas para la seguridad y cuáles son de confort: un mecánico decente
 las separa sin dudar, porque así es como piensa él mismo en el coche.
 
 Por último, ayuda llegar con el sonido en sí y no con un relato de él.
-Grábelo con la aplicación Stuk en la situación en que se oiga con más
+Grábelo con la aplicación Pro-Stuk en la situación en que se oiga con más
 claridad. La aplicación cruza la grabación con sus respuestas y muestra
 las causas probables con porcentajes, de modo que la conversación empieza
 desde una hipótesis concreta y no desde una hoja en blanco.

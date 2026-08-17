@@ -1,7 +1,7 @@
 ---
 ru: "zvuki-pri-zapuske-v-moroz"
 title: "Noises when starting in freezing weather"
-metaTitle: "Noises starting in frost: squeal, knock, grinding | Stuk"
+metaTitle: "Noises starting in frost: squeal, knock, grinding | Pro-Stuk"
 description: "Belt squeal, the knock of thick oil, starter grinding: the sounds of a cold start in frost. What counts as normal in winter and what needs a workshop."
 pubDate: "2026-07-03"
 related:
@@ -131,7 +131,7 @@ for the price of a scheduled oil change. And have the battery tested if it
 is past four years: a battery replaced in autumn costs the same as one
 replaced in January, minus the tow.
 
-If the morning concert raises doubts, record the cold start in the Stuk
+If the morning concert raises doubts, record the cold start in the Pro-Stuk
 app — outside, at the open bonnet. It matches the recording with your
 answers about temperature and conditions and shows the likely causes with
 percentages and a level of urgency: it is easier to decide what to write

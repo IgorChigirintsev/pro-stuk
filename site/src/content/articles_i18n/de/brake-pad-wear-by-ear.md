@@ -1,6 +1,6 @@
 ---
 title: "Bremsbelagverschleiß nach Gehör erkennen"
-metaTitle: "Bremsbelagverschleiß nach Gehör erkennen | Stuk"
+metaTitle: "Bremsbelagverschleiß nach Gehör erkennen | Pro-Stuk"
 description: "Die Geräusche verschlissener Bremsbeläge: das Zirpen des Verschleißanzeigers, Quietschen, Schleifen. Wie Sie sie vom Radlagerbrummen unterscheiden."
 faq:
   - q: "Warum hört das Zirpen des Verschleißanzeigers beim Bremsen auf?"

@@ -1,6 +1,6 @@
 ---
 title: "Rölantide motorun tıkırdaması"
-metaTitle: "Rölantide motor tıkırtısı: sebep ve çözüm | Stuk"
+metaTitle: "Rölantide motor tıkırtısı: sebep ve çözüm | Pro-Stuk"
 description: "Motor rölantide neden tıkırdar: supaplar, hidrolik külbütörler, enjektörler, triger zinciri. Zararsız tıkırtı endişe vericisinden nasıl ayrılır."
 faq:
   - q: "Rölantideki tıkırtı her zaman arıza mıdır?"
@@ -129,6 +129,6 @@ yağ rejiminin de değişmesi gerekir: aynı ihmal edilmiş yağla beslenen yeni
 parçalar bir yıl içinde yine tıkırdar.
 
 Randevu almadan önce hangi tarafa bakacağınızı bilmek istiyorsanız, tıkırtıyı
-Stuk uygulamasıyla kaydedin. Uygulama sesi koşullarla ilgili birkaç soruya
+Pro-Stuk uygulamasıyla kaydedin. Uygulama sesi koşullarla ilgili birkaç soruya
 verdiğiniz cevaplarla eşleştirip olası sebepleri yüzdesiyle gösterir: bu
 listeyle hem servis seçmek hem verilen fiyatı tartmak daha kolaydır.

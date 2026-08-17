@@ -1,6 +1,6 @@
 ---
 title: "Sıkışmış fren kaliperinin belirtileri"
-metaTitle: "Sıkışmış fren kaliperinin belirtileri | Stuk"
+metaTitle: "Sıkışmış fren kaliperinin belirtileri | Pro-Stuk"
 description: "Fren kaliperinin sıkıştığı nasıl anlaşılır: yana çekme, ısınan tekerlek, yanık kokusu, taşlama sesi. Lift olmadan kontroller ve bakımın kapsamı."
 faq:
   - q: "Kaliperde tam olarak ne sıkışır?"
@@ -131,6 +131,6 @@ Ucuz önlem, her balata değişiminde kızak pimlerinin greslenmesini
 istemektir: işe pek bir şey eklemez ama sıkışmayı yıllarca erteler.
 
 Frenler tanımadık sesler çıkarmaya başladıysa ve nedeni belli değilse,
-sürüş sırasında sesi Stuk uygulamasına kaydedin. Uygulama kaydı, sesin ne
+sürüş sırasında sesi Pro-Stuk uygulamasına kaydedin. Uygulama kaydı, sesin ne
 zaman ortaya çıktığına dair yanıtlarınızla eşleştirir ve olası nedenleri
 aciliyetleriyle birlikte önerir.

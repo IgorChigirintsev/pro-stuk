@@ -1,6 +1,6 @@
 ---
 title: "Alternatör cıyaklaması: rulman mı, kayış mı"
-metaTitle: "Alternatör cıyaklaması: rulman mı kayış mı | Stuk"
+metaTitle: "Alternatör cıyaklaması: rulman mı kayış mı | Pro-Stuk"
 description: "Patinaj yapan kayışı uğuldayan alternatör rulmanından nasıl ayırırsınız: sesteki fark ve hiçbir şey sökmeden yapılan üç test."
 faq:
   - q: "Uğuldayan alternatör rulmanıyla araç kullanılabilir mi?"
@@ -114,7 +114,7 @@ sonuçlar aynıdır, üstüne bir de hasarlı alternatör eklenir. Ayrı bir dur
 da servise gittikten kısa süre sonra ortaya çıkan cıyaklamadır; o zaman
 önce montaj hataları elenmelidir.
 
-Bütün testlerden sonra hâlâ emin değilseniz, sesi Stuk uygulamasına
+Bütün testlerden sonra hâlâ emin değilseniz, sesi Pro-Stuk uygulamasına
 kaydedin: uygulama kaydı, sesin ne zaman çıktığına dair cevaplarınızla
 eşleştirir ve olası kaynakları aciliyet derecesiyle gösterir. Böylece
 servise "bir şeyler cıyaklıyor" yerine işleyen bir tezle gidersiniz.

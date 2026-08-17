@@ -1,6 +1,6 @@
 ---
 title: "Borrelen in de motor nadat u hem afzet"
-metaTitle: "Borrelen in de motor na afzetten: oorzaken | Stuk"
+metaTitle: "Borrelen in de motor na afzetten: oorzaken | Pro-Stuk"
 description: "Borrelen na het afzetten: wanneer het normaal afkoelen is en wanneer het lucht in het systeem, een versleten dop of de koppakking is. Checks van vijf minuten."
 faq:
   - q: "Betekent borrelen na het afzetten altijd dat er iets kookt?"

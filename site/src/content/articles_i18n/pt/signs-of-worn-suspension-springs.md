@@ -1,6 +1,6 @@
 ---
 title: "Sinais de molas de suspensão cansadas"
-metaTitle: "Molas cansadas: como identificar | Stuk"
+metaTitle: "Molas cansadas: como identificar | Pro-Stuk"
 description: "Carro baixo, rolagem nas curvas, batendo em buracos: como saber que as molas cansaram, como checar sem elevador e o que envolve a troca."
 faq:
   - q: "Dá para trocar só uma mola?"
@@ -123,6 +123,6 @@ terra existem versões reforçadas — elas seguram a altura por mais tempo,
 embora deixem a rodagem um pouco mais firme nas imperfeições pequenas.
 
 Se você não tem certeza se é a mola ou outra coisa, grave o ruído da
-suspensão nas ondulações com o aplicativo Stuk: ele cruza a gravação com
+suspensão nas ondulações com o aplicativo Pro-Stuk: ele cruza a gravação com
 suas respostas e mostra as causas prováveis com um grau de urgência — com
 essa lista, a conversa na oficina fica mais curta e mais concreta.

@@ -1,6 +1,6 @@
 ---
 title: "Un clic quand vous partez en marche arrière"
-metaTitle: "Clic au démarrage en marche arrière : causes | Stuk"
+metaTitle: "Clic au démarrage en marche arrière : causes | Pro-Stuk"
 description: "Un clic sec quand la voiture s'ébranle en marche arrière, c'est presque toujours un jeu qui se rattrape. Où il s'accumule : plaquettes, cardans, supports."
 faq:
   - q: "Pourquoi le clic ne s'entend-il qu'en marche arrière et pas en avant ?"
@@ -97,6 +97,6 @@ charge. Et que la piste des freins soit écartée en premier, parce que
 c'est la réponse la plus légère et la plus fréquente.
 
 Si vous voulez réduire la liste avant le passage au garage, enregistrez le
-son dans l'application Stuk pendant un départ en marche arrière :
+son dans l'application Pro-Stuk pendant un départ en marche arrière :
 l'application croise l'enregistrement avec vos réponses à quelques
 questions et affiche les causes probables avec leurs pourcentages.

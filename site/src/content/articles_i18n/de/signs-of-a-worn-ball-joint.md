@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein verschlissenes Traggelenk"
-metaTitle: "Traggelenk verschlissen: Geräusch, Spiel, Test | Stuk"
+metaTitle: "Traggelenk verschlissen: Geräusch, Spiel, Test | Pro-Stuk"
 description: "Klopfen auf kleinen Unebenheiten, Knarzen beim Lenken, Spiel am Rad — so erkennen Sie ein verschlissenes Traggelenk und wie eilig der Wechsel ist."
 faq:
   - q: "Wie klingt ein verschlissenes Traggelenk?"

@@ -1,12 +1,12 @@
 ---
-title: "Stuk czuć w pedale hamulca"
-metaTitle: "Stuk w pedale hamulca: przyczyny | Stuk"
+title: "Pro-Stuk czuć w pedale hamulca"
+metaTitle: "Pro-Stuk w pedale hamulca: przyczyny | Pro-Stuk"
 description: "Stukanie i drgania w pedale hamulca mogą być normalną pracą ABS albo luzem w zacisku lub podwoziu. Jak odróżnić jedno od drugiego."
 faq:
   - q: "Pedał stuka i wibruje przy ostrym hamowaniu — czy to usterka?"
     a: "Raczej nie. To ABS: układ dziesiątki razy na sekundę zrzuca i przywraca ciśnienie, a pedał wyraźnie pulsuje pod stopą z charakterystycznym stukotem. Na śliskiej nawierzchni albo przy hamowaniu awaryjnym to normalne zachowanie."
   - q: "Czym stuk różni się od bicia przy hamowaniu?"
-    a: "Bicie to płynne, rytmiczne pulsowanie powiązane z prędkością obrotową kół: im szybciej jedzie auto, tym szybsze drgania. Stuk jest ostry i pojedynczy, zwykle na samym początku wciśnięcia albo przy puszczaniu pedału, i prawie nie zależy od prędkości."
+    a: "Bicie to płynne, rytmiczne pulsowanie powiązane z prędkością obrotową kół: im szybciej jedzie auto, tym szybsze drgania. Pro-Stuk jest ostry i pojedynczy, zwykle na samym początku wciśnięcia albo przy puszczaniu pedału, i prawie nie zależy od prędkości."
   - q: "Czy można jeździć, gdy pedał stuka raz na początku hamowania?"
     a: "Krótko tak, jeśli droga hamowania się nie wydłużyła, a pedał trzyma ciśnienie. Ale pojedynczy stuk często oznacza luz w prowadnicach klocków albo zużyty przegub zawieszenia, a takie elementy zużywają się dalej. Diagnostyka w ciągu dwóch tygodni jest rozsądna."
 sources:
@@ -16,7 +16,7 @@ sources:
     url: "https://www.nhtsa.gov/"
 ---
 
-Stuk, który nie tylko słychać, ale i czuć podeszwą buta, niepokoi bardziej
+Pro-Stuk, który nie tylko słychać, ale i czuć podeszwą buta, niepokoi bardziej
 niż większość dźwięków w aucie: hamulce to ostatni układ, w którym chce się
 usłyszeć coś nowego. A jednak sprzężenie w pedale bynajmniej nie zawsze
 oznacza usterkę. Ma ono trzy zupełnie różne źródła: normalną pracę ABS, luz
@@ -50,10 +50,10 @@ stronie objawu
 |---|---|
 | Tylko przy hamowaniu awaryjnym, pedał szybko drga | Praca ABS, norma |
 | Pojedyncze kliknięcie na początku i końcu hamowania | Luz klocka w zacisku |
-| Stuk przy hamowaniu na nierównościach | Zawieszenie: łączniki, tuleje |
-| Stuk przy hamowaniu na wstecznym | Prowadnice zacisku, klocki |
+| Pro-Stuk przy hamowaniu na nierównościach | Zawieszenie: łączniki, tuleje |
+| Pro-Stuk przy hamowaniu na wstecznym | Prowadnice zacisku, klocki |
 | Rytmiczne pulsowanie, częstotliwość rośnie z prędkością | Geometria tarczy, a nie stuk |
-| Stuk przy zapadającym się pedale | Pilne sprawdzenie obwodu |
+| Pro-Stuk przy zapadającym się pedale | Pilne sprawdzenie obwodu |
 
 Ostatni wiersz to jedyny, którego nie można odkładać. Jeśli pedał zmiękł,
 zapada się albo wymaga drugiego wciśnięcia, nie chodzi już o dźwięk, lecz o
@@ -70,7 +70,7 @@ ciśnienie, i rozsądnie jest przerwać jazdę.
 3. **Oddzielić hamulce od zawieszenia.** Hamowanie na równym i hamowanie na
    nierówności. Jeśli stuk pojawia się tylko razem z ruchem zawieszenia,
    mechanizm hamulcowy nie ma z tym nic wspólnego.
-4. **Sprawdzić kierownicę.** Stuk z drganiem kierownicy wskazuje na tarczę i
+4. **Sprawdzić kierownicę.** Pro-Stuk z drganiem kierownicy wskazuje na tarczę i
    piastę; rozróżnianie dźwięków od kół opisano w tekście
    [buczenie: łożysko koła czy opony](/pl/articles/hum-wheel-bearing-or-tyres/),
    a samo bicie — w
@@ -98,6 +98,6 @@ pozwala klockowi się ruszać.
 
 Rozpoznanie na słuch, czy stuka zacisk, czy wahacz, jest trudne nawet dla
 doświadczonego kierowcy: dźwięk dociera przez nadwozie i traci adres.
-Nagranie zrobione w aplikacji Stuk podczas serii hamowań, razem z
+Nagranie zrobione w aplikacji Pro-Stuk podczas serii hamowań, razem z
 odpowiedziami na krótkie pytania, daje listę prawdopodobnych przyczyn z
 procentami.

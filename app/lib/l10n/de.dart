@@ -2,7 +2,7 @@
 const Map<String, String> de = {
   'hiwBody':
       '\n1. Fragen. Ein kurzer Fragebogen grenzt die Ursachen ein: wann das Geräusch auftritt, wonach es klingt, wovon es abhängt. Das ist die wichtigste Grundlage der Einschätzung — eine Werkstatt beginnt genauso.\n\n2. Geräusch. Eine Aufnahme von 15–30 Sekunden geht an den Server. Algorithmen messen das Spektrum, den Rhythmus der Schläge und die Drehzahl; ein Sprachmodell gleicht alles mit Ihren Antworten und den bekannten Schwachstellen Ihres Modells ab.\n\n3. Bericht. Wahrscheinliche Ursachen mit Prozentwerten, eine Dringlichkeitsampel und Hinweise: was Sie in der Werkstatt sagen und was Sie selbst prüfen können.\n\nDas Ergebnis ist eine Wahrscheinlichkeitsschätzung, keine Diagnose. Die Genauigkeit hängt von der Qualität der Aufnahme und der Ehrlichkeit der Antworten ab. Über die Reparatur entscheidet die Werkstatt nach der Sichtprüfung.',
-  'appName': 'Stuk',
+  'appName': 'Pro-Stuk',
   'appTagline': 'Diagnose per Geräusch',
   'carTitle': 'Welches Auto fahren Sie?',
   'carSubtitle':
@@ -116,7 +116,7 @@ const Map<String, String> de = {
   'histEmpty': 'Noch leer — die erste Auswertung erscheint hier.',
   'histFull': 'Geräuschauswertung',
   'histQuick': 'schnelles Urteil',
-  'shareText': 'Geräuschauswertung — App „Stuk“, pro-stuk.com',
+  'shareText': 'Geräuschauswertung — App „Pro-Stuk“, pro-stuk.com',
   'langTitle': 'Sprache',
   'langHint':
       'Standard ist die Sprache des Geräts. Noch nicht Übersetztes wird auf Russisch angezeigt.',

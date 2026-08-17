@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi 4B12, geluid van bovenaf: de hydraulische klepstoters"
-metaTitle: "Mitsubishi 4B12: getik van de klepstoters | Stuk"
+metaTitle: "Mitsubishi 4B12: getik van de klepstoters | Pro-Stuk"
 description: "Getik van bovenaf bij een 4B12: hoe hydraulische klepstoters zich gedragen, waarom de olie meestal de schuldige is en hoe u het van de ketting scheidt."
 faq:
   - q: "Het getik verdwijnt een minuut na het starten — is dat normaal?"

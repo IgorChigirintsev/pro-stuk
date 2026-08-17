@@ -1,6 +1,6 @@
 ---
 title: "Klapperndes Hitzeschild: wie man es findet"
-metaTitle: "Klapperndes Hitzeschild: wie man es findet | Stuk"
+metaTitle: "Klapperndes Hitzeschild: wie man es findet | Pro-Stuk"
 description: "Ein metallisches Klappern in einem engen Drehzahlband ist meist ein loses Hitzeschild. Wie Sie es in zehn Minuten finden und wie es richtig befestigt wird."
 faq:
   - q: "Warum klappert ein Schild nur bei bestimmten Drehzahlen?"

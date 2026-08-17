@@ -1,6 +1,6 @@
 ---
 title: "Comprobar la holgura de los terminales de dirección"
-metaTitle: "Comprobar los terminales de dirección | Stuk"
+metaTitle: "Comprobar los terminales de dirección | Pro-Stuk"
 description: "Cómo encontrar uno mismo holgura en los terminales de dirección: el agarre a las 3 y las 9, palpar la rótula, separarlos de la cremallera y qué pide la reparación."
 faq:
   - q: "¿Cómo distingo la holgura de un terminal de la de la cremallera de dirección?"
@@ -93,7 +93,7 @@ aparcamiento, y la distribución se juzga de oído en un arranque en frío,
 escuchando el traqueteo de los primeros segundos.
 
 Si oye el golpe pero no consigue cogerlo con la mano —algo normal en las
-fases tempranas del desgaste—, grabe el sonido con la aplicación Stuk
+fases tempranas del desgaste—, grabe el sonido con la aplicación Pro-Stuk
 pasando por baches pequeños. La aplicación compara la grabación con sus
 respuestas y muestra las causas probables con porcentajes, para que la
 revisión en el elevador vaya a una teoría concreta y no a toda la suspensión

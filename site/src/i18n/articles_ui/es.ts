@@ -19,7 +19,7 @@ export const es: ArticleUi = {
   hubQuizSub:
     'Un árbol de diagnóstico interactivo: unas pocas preguntas y la lista de causas se reduce mucho.',
   hubOther: 'Otras secciones',
-  indexTitle: 'Artículos sobre ruidos del coche | Stuk',
+  indexTitle: 'Artículos sobre ruidos del coche | Pro-Stuk',
   indexDescription:
     'Guías de ruidos del coche: golpeteo, chirrido, zumbido, aullido y traqueteo. Qué significa cada sonido, qué puede comprobar usted mismo y con qué urgencia.',
   indexH1: 'Artículos',

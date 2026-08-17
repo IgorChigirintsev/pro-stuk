@@ -1,6 +1,6 @@
 ---
 title: "Balata aşınma göstergesi: nasıl bir ses çıkarır"
-metaTitle: "Balata aşınma göstergesi nasıl ses çıkarır | Stuk"
+metaTitle: "Balata aşınma göstergesi nasıl ses çıkarır | Pro-Stuk"
 description: "Giderken duyulan ince metalik ıslık, frene basınca kesiliyorsa mekanik balata aşınma göstergesi devrede demektir. Nasıl anlaşılır, ne kadar süreniz var."
 faq:
   - q: "Pedala basınca ıslık neden kesiliyor?"
@@ -89,6 +89,6 @@ tutarak inilen uzun yokuşlardan kaçının ki sürtünme malzemesi eşit
 otursun.
 
 Ses ortaya çıktıysa ve göstergeden mi başka bir şeyden mi olduğundan emin
-değilseniz, Stuk uygulamasında kaydedin — önce boşta giderken, sonra
+değilseniz, Pro-Stuk uygulamasında kaydedin — önce boşta giderken, sonra
 hafif fren yaparken. Uygulama kayıtları verdiğiniz cevaplarla eşleştirir
 ve olası nedenleri yüzdeyle gösterir.

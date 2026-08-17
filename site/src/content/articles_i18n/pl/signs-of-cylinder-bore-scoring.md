@@ -1,6 +1,6 @@
 ---
 title: "Objawy zatarcia cylindrów"
-metaTitle: "Zatarcia w cylindrach: hałas, olej, objawy | Stuk"
+metaTitle: "Zatarcia w cylindrach: hałas, olej, objawy | Pro-Stuk"
 description: "Pięć objawów zatarć w cylindrach: stuk na zimno, zużycie oleju, spadek mocy. Które silniki są zagrożone i jak potwierdza się diagnozę."
 faq:
   - q: "Jak ostatecznie potwierdza się zatarcia?"
@@ -40,7 +40,7 @@ spotyka się ze ścianą, i metal trze o metal. Przyczyn jest kilka:
 
 ## Pięć objawów zatarć
 
-1. **Stuk na zimno.** Najwcześniejszy i najbardziej charakterystyczny
+1. **Pro-Stuk na zimno.** Najwcześniejszy i najbardziej charakterystyczny
    objaw: głuchy, dieslowaty stuk przez pierwsze minuty po rozruchu,
    cichnący w miarę nagrzewania. Tłok z wytartą prowadnicą kiwa się w
    cylindrze, póki nie rozszerzy się od ciepła.
@@ -63,8 +63,8 @@ powód do endoskopii bez zwłoki.
 | Etap | Co słychać i widać | Co robić |
 |---|---|---|
 | Wczesny | Lekki stuk na zimno przez 1–3 minuty | Endoskopia, kontrola oleju |
-| Średni | Stuk trwa dłużej, olej dolewany między przeglądami | Przygotować budżet na naprawę |
-| Zaawansowany | Stuk także na ciepło, gubienie zapłonów, dym | Naprawa w najbliższym czasie |
+| Średni | Pro-Stuk trwa dłużej, olej dolewany między przeglądami | Przygotować budżet na naprawę |
+| Zaawansowany | Pro-Stuk także na ciepło, gubienie zapłonów, dym | Naprawa w najbliższym czasie |
 | Krytyczny | Stały stuk, opiłki w oleju | Przerwać użytkowanie auta |
 
 Tempo postępu jest nieprzewidywalne, ale kierunek zawsze ten sam. Im
@@ -107,7 +107,7 @@ krótki. Jeśli doszedł do tego głuchy stuk z głębi bloku, to inne i
 pilniejsze pytanie — o stuk panewek korbowodowych.
 
 Jeśli silnik zaczął stukać na zimno, a Pan podejrzewa najgorsze, proszę
-nagrać dźwięk w aplikacji Stuk. Zestawia ona nagranie z Pana odpowiedziami
+nagrać dźwięk w aplikacji Pro-Stuk. Zestawia ona nagranie z Pana odpowiedziami
 o warunkach i pokazuje prawdopodobne przyczyny z procentami oraz
 pilnością: z takim obrazem decyzja o endoskopii i naprawie jest łatwiejsza
 i spokojniejsza.

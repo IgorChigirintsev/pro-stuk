@@ -1,6 +1,6 @@
 ---
 title: "Cosa succede se si continua a guidare con le punterie idrauliche rumorose"
-metaTitle: "Punterie idrauliche rumorose: guidare così | Stuk"
+metaTitle: "Punterie idrauliche rumorose: guidare così | Pro-Stuk"
 description: "Una punteria idraulica che ticchetta non distrugge il motore in un giorno, ma martella la camma e la valvola. Gli scenari, i tempi e cosa controllare prima."
 faq:
   - q: "Il rumore delle punterie sparisce quando il motore si scalda. È normale?"
@@ -103,7 +103,7 @@ perso anche potenza, perché una camma consumata non apre più del tutto la
 valvola.
 
 Se il ticchettio compare solo a freddo e vuole capire se rientri nella
-norma, registri il suono con l'app Stuk subito dopo l'avviamento e di
+norma, registri il suono con l'app Pro-Stuk subito dopo l'avviamento e di
 nuovo dopo cinque minuti di funzionamento. L'app confronta le due
 registrazioni con le sue risposte sul motore e sul chilometraggio e mostra
 le cause probabili in percentuale.

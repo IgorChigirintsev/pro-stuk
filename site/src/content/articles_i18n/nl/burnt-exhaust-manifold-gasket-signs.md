@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een doorgebrande uitlaatspruitstukpakking"
-metaTitle: "Doorgebrande spruitstukpakking: kenmerken | Stuk"
+metaTitle: "Doorgebrande spruitstukpakking: kenmerken | Pro-Stuk"
 description: "Tikken en sissen bij een koude start, uitlaatlucht in het interieur, zwarte roet bij de flens: zo herkent u een doorgebrande uitlaatspruitstukpakking."
 faq:
   - q: "Waarom hoor ik het tikken koud en is het na het warmdraaien weg?"

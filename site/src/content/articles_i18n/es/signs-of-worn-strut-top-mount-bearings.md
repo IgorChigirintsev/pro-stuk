@@ -1,6 +1,6 @@
 ---
 title: "Señales de rodamientos de copela gastados"
-metaTitle: "Rodamiento de copela gastado: las señales | Stuk"
+metaTitle: "Rodamiento de copela gastado: las señales | Pro-Stuk"
 description: "Crujidos y golpes al girar el volante y golpes sordos en los baches: cómo reconocer un rodamiento de copela gastado y qué decide la reparación."
 faq:
   - q: "¿Cómo sé que es el rodamiento de la copela y no el amortiguador?"
@@ -140,6 +140,6 @@ tirones, de modo que hay que forzar el volante. La reparación solo se
 encarece, así que no tiene sentido estirarlo más de unas semanas.
 
 Si algo cruje o golpea arriba y el culpable no está claro, grabe el sonido
-con la aplicación Stuk. Compara la grabación con sus respuestas y muestra
+con la aplicación Pro-Stuk. Compara la grabación con sus respuestas y muestra
 las causas probables con un nivel de urgencia, de forma que el taller pueda
 revisar piezas concretas en lugar de todo a la vez.

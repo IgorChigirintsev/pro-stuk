@@ -1,6 +1,6 @@
 ---
 title: "Verschleißanzeiger der Bremsbeläge: wie er klingt"
-metaTitle: "Verschleißanzeiger der Bremsbeläge: der Klang | Stuk"
+metaTitle: "Verschleißanzeiger der Bremsbeläge: der Klang | Pro-Stuk"
 description: "Ein dünnes metallisches Pfeifen während der Fahrt, das beim Bremsen aufhört, ist der mechanische Verschleißanzeiger. Wie Sie ihn erkennen und wie viel Zeit bleibt."
 faq:
   - q: "Warum hört das Pfeifen auf, wenn ich das Pedal trete?"

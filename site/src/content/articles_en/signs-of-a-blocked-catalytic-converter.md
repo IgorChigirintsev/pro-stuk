@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-zabitogo-katalizatora"
 title: "Signs of a blocked catalytic converter"
-metaTitle: "Signs of a blocked catalytic converter | Stuk"
+metaTitle: "Signs of a blocked catalytic converter | Pro-Stuk"
 description: "A blocked converter chokes the engine: the car will not accelerate, stalls under load, uses more fuel. How to tell it from other causes of lost power."
 pubDate: "2026-06-08"
 related:
@@ -108,7 +108,7 @@ Where driving with it is still acceptable is covered in
 [can you drive with a broken catalytic converter](/en/articles/can-you-drive-with-a-broken-catalytic-converter/).
 
 If power is fading gradually and you are not sure the exhaust is to blame,
-record the engine and exhaust in the Stuk app — at idle and with the
+record the engine and exhaust in the Pro-Stuk app — at idle and with the
 throttle pressed sharply. The app matches the recording with your
 description of the symptoms and shows the likely causes with percentages,
 so you arrive with a ready theory rather than “the car will not go”.

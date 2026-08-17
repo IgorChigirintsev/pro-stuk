@@ -1,7 +1,7 @@
 ---
 ru: "stuk-posle-shinomontazha"
 title: "A knock after a tyre change: what to check"
-metaTitle: "A knock after a tyre change: causes and checks | Stuk"
+metaTitle: "A knock after a tyre change: causes and checks | Pro-Stuk"
 description: "Where a knock after a tyre change comes from: wheel torque, balance weights, stones in the tread, a bent rim. What to check yourself and when to go back."
 pubDate: "2026-08-02"
 related:
@@ -123,6 +123,6 @@ The symptom pages
 causes out by character and conditions.
 
 If the knock still will not name itself, record it: start a recording in
-the Stuk app and drive over a familiar rough stretch. The app matches the
+the Pro-Stuk app and drive over a familiar rough stretch. The app matches the
 sound with your answers — when it appeared, where it knocks, what was
 changed — and shows the likely causes with percentages.

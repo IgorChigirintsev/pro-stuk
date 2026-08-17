@@ -1,6 +1,6 @@
 ---
 title: "Een klap bij het sturen op de plaats"
-metaTitle: "Klap bij sturen op de plaats: oorzaken | Stuk"
+metaTitle: "Klap bij sturen op de plaats: oorzaken | Pro-Stuk"
 description: "Kloppen, knersen of tikken als u met stilstaande auto stuurt: veerpootlagers, spoorstangkogels, stuurhuis, stuurbekrachtiging — zo houdt u ze uit elkaar."
 faq:
   - q: "Waarom klopt het alleen bij sturen op de plaats en niet onderweg?"

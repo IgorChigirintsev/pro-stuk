@@ -1,6 +1,6 @@
 ---
 title: "Ticchettio del motore al minimo"
-metaTitle: "Ticchettio del motore al minimo: cause e rimedi | Stuk"
+metaTitle: "Ticchettio del motore al minimo: cause e rimedi | Pro-Stuk"
 description: "Perché il motore ticchetta al minimo: valvole, punterie idrauliche, iniettori, catena di distribuzione. Come distinguere un ticchettio innocuo da quello che preoccupa."
 faq:
   - q: "Un ticchettio al minimo è sempre un guasto?"
@@ -133,7 +133,7 @@ provocato l'usura: pezzi nuovi alimentati dallo stesso olio trascurato
 ricominciano a ticchettare entro un anno.
 
 Se vuole capire da che parte guardare prima di prenotare qualsiasi cosa,
-registri il ticchettio nell'app Stuk. Confronta il suono con le sue risposte a
+registri il ticchettio nell'app Pro-Stuk. Confronta il suono con le sue risposte a
 qualche domanda sulle condizioni e mostra le cause probabili con percentuali:
 con quella lista è più facile sia scegliere l'officina sia valutare il prezzo
 che le viene proposto.

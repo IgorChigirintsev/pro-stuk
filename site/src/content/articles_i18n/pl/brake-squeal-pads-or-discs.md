@@ -1,6 +1,6 @@
 ---
 title: "Pisk hamulców: klocki czy tarcze"
-metaTitle: "Pisk hamulców: klocki czy tarcze — rozróżnienie | Stuk"
+metaTitle: "Pisk hamulców: klocki czy tarcze — rozróżnienie | Pro-Stuk"
 description: "Hamulce piszczą i przez klocki, i przez tarcze. Jak po warunkach, w których pojawia się dźwięk, poznać, którą z tych części trzeba wymienić."
 faq:
   - q: "Czy poranny pisk hamulców to usterka?"
@@ -92,7 +92,7 @@ wysokotemperaturowy to elementy, dzięki którym świeży komplet nie piszczy
 od pierwszego dnia.
 
 Jeśli dźwięk nie pojawia się za każdym razem i trudno go złapać na
-podnośniku, proszę nagrać go w aplikacji Stuk podczas jazdy — z pedałem i
+podnośniku, proszę nagrać go w aplikacji Pro-Stuk podczas jazdy — z pedałem i
 bez. Aplikacja zestawi nagranie z warunkami, w których dźwięk występuje, i
 pokaże prawdopodobne przyczyny z procentami, dzięki czemu rozmowa z
 mechanikiem zacznie się od faktów.

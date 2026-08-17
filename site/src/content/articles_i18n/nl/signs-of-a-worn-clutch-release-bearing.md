@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een versleten druklager"
-metaTitle: "Versleten druklager koppeling: het geluid | Stuk"
+metaTitle: "Versleten druklager koppeling: het geluid | Pro-Stuk"
 description: "Hoe een versleten druklager klinkt, hoe u het met het koppelingspedaal in een minuut controleert en waarmee het geritsel verward wordt."
 faq:
   - q: "Hoe klinkt een versleten druklager?"

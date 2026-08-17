@@ -1,6 +1,6 @@
 ---
 title: "Ruido del variador de distribución en frío"
-metaTitle: "Ruido del variador de distribución en frío | Stuk"
+metaTitle: "Ruido del variador de distribución en frío | Pro-Stuk"
 description: "Por qué los variadores de distribución suenan los primeros segundos tras un arranque en frío: desgaste, válvula OCV y aceite. Cómo comprobarlo."
 faq:
   - q: "¿Cuántos segundos de traqueteo al arrancar se consideran normales?"
@@ -108,7 +108,7 @@ el desgaste de la cadena, el motor pierde potencia y empieza a gastar más
 combustible.
 
 ¿No hay seguridad de que sea el variador el que suena? Se puede grabar un
-arranque en frío con la aplicación Stuk: el algoritmo compara el sonido
+arranque en frío con la aplicación Pro-Stuk: el algoritmo compara el sonido
 con perfiles típicos, tiene en cuenta las respuestas sobre el momento y la
 duración del ruido y muestra las causas probables con un nivel de
 urgencia.

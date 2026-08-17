@@ -1,6 +1,6 @@
 ---
 title: "Segnali di battito delle valvole"
-metaTitle: "Battito valvole: come suona e cosa fare | Stuk"
+metaTitle: "Battito valvole: come suona e cosa fare | Pro-Stuk"
 description: "Come suona il battito delle valvole, perché il gioco valvole si sposta, come distinguerlo dagli altri rumori del motore e cosa comporta la registrazione del gioco."
 faq:
   - q: "Come suona il battito delle valvole?"
@@ -132,7 +132,7 @@ rifacimento delle sedi. Quindi «se è silenzioso va bene» con le valvole non
 vale: un controllo programmato costa meno di entrambi gli scenari.
 
 Se il motore ha cominciato a ticchettare e vuole sapere se sono le valvole,
-le punterie o gli iniettori, registri il suono con l'app Stuk. L'app
+le punterie o gli iniettori, registri il suono con l'app Pro-Stuk. L'app
 confronta la registrazione con le sue risposte e mostra le cause probabili
 con un livello di urgenza: un punto di partenza comodo prima di parlare con
 il meccanico.

@@ -1,6 +1,6 @@
 ---
 title: "Pisk spod maski przy uruchamianiu"
-metaTitle: "Pisk spod maski przy uruchamianiu: przyczyny | Stuk"
+metaTitle: "Pisk spod maski przy uruchamianiu: przyczyny | Pro-Stuk"
 description: "Dlaczego spod maski piszczy w pierwszych sekundach po uruchomieniu: pasek, napinacz, rolki albo sprzęgło jednokierunkowe alternatora."
 faq:
   - q: "Czy pisk, który milknie parę sekund po uruchomieniu, jest groźny?"
@@ -135,6 +135,6 @@ rolek stetoskopem zajmuje kilkanaście minut, a wiele warsztatów robi to
 za darmo przy zleceniu naprawy.
 
 Jeśli chcesz zrozumieć przyczynę jeszcze przed wyjazdem, nagraj pisk w
-momencie uruchamiania w aplikacji Stuk: zestawia ona dźwięk z Twoimi
+momencie uruchamiania w aplikacji Pro-Stuk: zestawia ona dźwięk z Twoimi
 odpowiedziami i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności.

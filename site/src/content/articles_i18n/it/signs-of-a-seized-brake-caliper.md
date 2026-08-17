@@ -1,6 +1,6 @@
 ---
 title: "Segni di una pinza freno bloccata"
-metaTitle: "Pinza freno bloccata: i segni | Stuk"
+metaTitle: "Pinza freno bloccata: i segni | Pro-Stuk"
 description: "Come capire che una pinza freno si è bloccata: tiro da un lato, ruota rovente, odore di bruciato, raschiamenti. Controlli senza ponte e cosa comporta la revisione."
 faq:
   - q: "Che cosa si blocca esattamente in una pinza?"
@@ -136,6 +136,6 @@ ingrassati a ogni cambio pastiglie: aggiunge pochissimo al lavoro e rimanda
 il grippaggio di anni.
 
 Se i freni hanno cominciato a suonare in modo insolito e la causa non è
-evidente, registri il suono con l'app Stuk mentre guida. L'app confronta la
+evidente, registri il suono con l'app Pro-Stuk mentre guida. L'app confronta la
 registrazione con le sue risposte su quando compare il suono e suggerisce le
 cause probabili e la loro urgenza.

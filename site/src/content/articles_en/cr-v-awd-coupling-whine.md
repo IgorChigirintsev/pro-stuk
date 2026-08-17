@@ -1,7 +1,7 @@
 ---
 ru: "gul-mufty-polnogo-privoda-cr-v"
 title: "CR-V all-wheel-drive coupling whine"
-metaTitle: "CR-V AWD coupling whine: causes and servicing | Stuk"
+metaTitle: "CR-V AWD coupling whine: causes and servicing | Pro-Stuk"
 description: "Whining from the rear coupling of a CR-V during tight turns and at low speed: why the fluid is usually to blame and how to tell it from a wheel bearing."
 pubDate: "2026-06-27"
 related:
@@ -95,6 +95,6 @@ and living with the noise, and a shop that says so plainly is more
 trustworthy than one that sells a third change.
 
 If you want to arrive with a theory rather than a general “something is
-whining”, record the sound with the Stuk app while turning around on an
+whining”, record the sound with the Pro-Stuk app while turning around on an
 empty area. The app matches the recording with a few answers and shows the
 likely causes with percentages — which noticeably shortens the diagnosis.

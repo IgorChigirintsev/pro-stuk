@@ -1,6 +1,6 @@
 ---
 title: "Skrzypienie w kabinie na nierównościach"
-metaTitle: "Skrzypienie w kabinie na nierównościach | Stuk"
+metaTitle: "Skrzypienie w kabinie na nierównościach | Pro-Stuk"
 description: "Skrzypienie w kabinie na nierównościach: dlaczego nadwozie pracuje i wywołuje dźwięk, jak odróżnić plastik od zawieszenia i co da się naprawić samemu."
 faq:
   - q: "Czy skrzypienie w kabinie na nierównościach jest groźne?"
@@ -90,7 +90,7 @@ choćby w weekend. Warto jednak przygotować się przed zimą: na mrozie lista
 skrzypiących miejsc zwykle rośnie.
 
 Najpewniejszy sposób, by przestać spierać się samemu ze sobą o źródło
-dźwięku, to go nagrać. Wystarczy włączyć nagrywanie w aplikacji Stuk przed
+dźwięku, to go nagrać. Wystarczy włączyć nagrywanie w aplikacji Pro-Stuk przed
 znanym nierównym odcinkiem i przejechać go dwa razy: z zamkniętymi i z
 otwartymi oknami. Aplikacja zestawi nagrania z odpowiedziami i pokaże,
 gdzie szukać — w kabinie czy pod autem.

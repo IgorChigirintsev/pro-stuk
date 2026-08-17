@@ -1,6 +1,6 @@
 ---
 title: "Un zumbido en autovía que desaparece en ciudad"
-metaTitle: "Zumbido en autovía que no está en ciudad: causas | Stuk"
+metaTitle: "Zumbido en autovía que no está en ciudad: causas | Pro-Stuk"
 description: "Por qué un zumbido solo se oye por encima de 80 km/h y desaparece en ciudad: rodamientos, neumáticos, aerodinámica y el orden de comprobaciones propias."
 faq:
   - q: "¿Por qué en ciudad no hay zumbido y en autovía sí?"
@@ -101,7 +101,7 @@ pistola de impacto.
 
 La dificultad principal con este tipo de zumbido es que no se le puede
 demostrar a un mecánico: solo existe en autovía. Grábelo con la aplicación
-Stuk circulando a la velocidad en la que vive y durante los cambios de carril:
+Pro-Stuk circulando a la velocidad en la que vive y durante los cambios de carril:
 la aplicación compara la grabación con sus respuestas y muestra las causas
 probables con porcentajes, y la propia grabación se le puede poner sin más al
 mecánico.

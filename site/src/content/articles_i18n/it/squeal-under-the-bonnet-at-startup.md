@@ -1,6 +1,6 @@
 ---
 title: "Fischio nel vano motore all’avviamento"
-metaTitle: "Fischio nel vano motore all’avviamento: cause | Stuk"
+metaTitle: "Fischio nel vano motore all’avviamento: cause | Pro-Stuk"
 description: "Perché si sente un fischio nel vano motore nei primi secondi dopo l’avviamento: cinghia, tenditore, rulli o puleggia disaccoppiatrice dell’alternatore."
 faq:
   - q: "Un fischio che smette un paio di secondi dopo l’avviamento è pericoloso?"
@@ -146,5 +146,5 @@ dieci o quindici minuti, e molte officine fanno questo controllo
 gratuitamente quando si prenota l’intervento.
 
 Se vuoi capire la causa prima di partire, registra il fischio nel momento
-dell’avviamento con l’app Stuk: confronta il rumore con le tue risposte e
+dell’avviamento con l’app Pro-Stuk: confronta il rumore con le tue risposte e
 mostra le cause probabili con un livello di urgenza.

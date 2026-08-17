@@ -1,6 +1,6 @@
 ---
-title: "Stuk silnika, który znika po rozgrzaniu"
-metaTitle: "Stuk znikający po rozgrzaniu: co oznacza | Stuk"
+title: "Pro-Stuk silnika, który znika po rozgrzaniu"
+metaTitle: "Pro-Stuk znikający po rozgrzaniu: co oznacza | Pro-Stuk"
 description: "Dlaczego silnik stuka na zimno i milknie po rozgrzaniu: popychacze hydrauliczne, klapanie tłoka, napinacz łańcucha. Gdzie kończy się norma."
 faq:
   - q: "Czy stuk na zimno zawsze oznacza usterkę?"
@@ -10,7 +10,7 @@ faq:
   - q: "Czy lepkość oleju wpływa na stuk na zimno?"
     a: "Bezpośrednio. Olej zbyt gęsty na zimę tłoczy się po rozruchu wolno i zimny stuk trwa dłużej; zbyt rzadki gorzej trzyma luzy w zużytym silniku. Punktem odniesienia jest specyfikacja producenta z poprawką na klimat: przy ostrych zimach odpowiednie są klasy 0W lub 5W."
   - q: "Ile minut stuku na zimno jest dopuszczalne?"
-    a: "Uniwersalnej liczby nie ma, ale praktyczna wskazówka brzmi tak: kilka sekund to w wielu silnikach norma, do minuty lub dwóch przy silnym mrozie to granica warta obserwacji. Stuk żyjący aż do pełnego rozgrzania albo ignorujący temperaturę to powód do diagnostyki. Liczy się też trend: jeśli miesiąc temu stukało pięć sekund, a teraz minutę, sam ten trend jest objawem."
+    a: "Uniwersalnej liczby nie ma, ale praktyczna wskazówka brzmi tak: kilka sekund to w wielu silnikach norma, do minuty lub dwóch przy silnym mrozie to granica warta obserwacji. Pro-Stuk żyjący aż do pełnego rozgrzania albo ignorujący temperaturę to powód do diagnostyki. Liczy się też trend: jeśli miesiąc temu stukało pięć sekund, a teraz minutę, sam ten trend jest objawem."
 sources:
   - title: "Schaeffler Aftermarket (INA): popychacze hydrauliczne i układy rozrządu"
     url: "https://aftermarket.schaeffler.com/"
@@ -19,7 +19,7 @@ sources:
 ---
 
 Silnik odpala z cykaniem albo głuchym stukiem, a po minucie czy dwóch
-dźwięk się rozpływa — obraz znajomy, zwłaszcza zimą. Stuk znikający po
+dźwięk się rozpływa — obraz znajomy, zwłaszcza zimą. Pro-Stuk znikający po
 rozgrzaniu to osobna klasa objawów: prawie zawsze wiąże się z zimnym,
 gęstym olejem i większymi luzami na zimno, i w większości przypadków jest
 najmniej groźnym ze wszystkich stuków silnika. Ma jednak swoje nieprzyjemne
@@ -130,7 +130,7 @@ rozrządu: co właściwie zmierzono — rozciągnięcie łańcucha, przesunięci
 luz popychaczy — oraz czy historia oleju tłumaczy zużycie, bo świeży komplet
 części karmiony tym samym zaniedbanym olejem znów zacznie cykać.
 
-Dobrym nawykiem jest nagranie zimnego rozruchu w aplikacji Stuk i
+Dobrym nawykiem jest nagranie zimnego rozruchu w aplikacji Pro-Stuk i
 powtórzenie nagrania miesiąc później. Aplikacja dopasowuje dźwięk do
 typowych przyczyn, pokazuje prawdopodobieństwa i pilność, a porównanie
 nagrań mówi, czy problem narasta — bez presji i dodatkowych wizyt w

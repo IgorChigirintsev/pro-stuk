@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const es: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Síntomas',
     how: 'Cómo funciona',
@@ -11,7 +11,7 @@ export const es: Dict = {
   },
   footer: {
     disclaimer:
-      'Stuk da una estimación de probabilidades a partir de tus respuestas y del sonido, ' +
+      'Pro-Stuk da una estimación de probabilidades a partir de tus respuestas y del sonido, ' +
       'no un diagnóstico. La decisión final sobre la reparación la toma el mecánico ' +
       'después de revisar el coche.',
     how: 'Cómo funciona',
@@ -20,7 +20,7 @@ export const es: Dict = {
     ruOnly: 'Guías por síntomas y artículos (en ruso)',
   },
   home: {
-    title: 'Stuk — diagnóstico del coche por el sonido',
+    title: 'Pro-Stuk — diagnóstico del coche por el sonido',
     description:
       'Graba el ruido y descubre qué le pasa al coche. Un cuestionario breve, análisis de ' +
       'la grabación y un informe: causas probables con porcentajes, semáforo de urgencia ' +
@@ -53,7 +53,7 @@ export const es: Dict = {
     faq: [
       {
         q: '¿Es un diagnóstico exacto?',
-        a: 'No. Stuk da una estimación de probabilidades: una lista de causas posibles con porcentajes y el nivel de urgencia. El diagnóstico exacto lo hace el mecánico tras revisar el coche; el informe sirve para llegar preparado.',
+        a: 'No. Pro-Stuk da una estimación de probabilidades: una lista de causas posibles con porcentajes y el nivel de urgencia. El diagnóstico exacto lo hace el mecánico tras revisar el coche; el informe sirve para llegar preparado.',
       },
       {
         q: '¿Cuánto cuesta?',
@@ -86,7 +86,7 @@ export const es: Dict = {
     schemaWhole: 'El conjunto completo.',
   },
   symptoms: {
-    indexTitle: 'Ruidos y síntomas del coche explicados | Stuk',
+    indexTitle: 'Ruidos y síntomas del coche explicados | Pro-Stuk',
     indexDescription: 'Golpeteo, zumbido, chirrido, rechinar: qué significa cada ruido del coche, cuán peligroso es y qué puedes comprobar tú mismo. Guías por síntoma con árbol de diagnóstico.',
     h1: 'Síntomas por el sonido',
     sub: 'Elige el ruido más parecido al tuyo. En cada guía: causas probables, semáforo de peligro, comprobaciones seguras por tu cuenta y un árbol de diagnóstico interactivo.',
@@ -118,7 +118,7 @@ export const es: Dict = {
   },
   download: {
     h2: 'La aplicación para Android',
-    sub: 'El cuestionario, la grabación del ruido y el informe completo con probabilidades están en la aplicación Stuk.',
+    sub: 'El cuestionario, la grabación del ruido y el informe completo con probabilidades están en la aplicación Pro-Stuk.',
     btn: 'Descargar para Android',
     meta: 'Versión {version} · APK {size} MB · actualizado el {date}',
     installH: 'Cómo instalar el APK',
@@ -131,7 +131,7 @@ export const es: Dict = {
     playNote: 'Cuando la aplicación esté en Google Play, esta página se actualizará.',
   },
   how: {
-    title: 'Cómo funciona el diagnóstico por sonido | Stuk',
+    title: 'Cómo funciona el diagnóstico por sonido | Pro-Stuk',
     description:
       'Sin adornos: el cuestionario como herramienta principal, el análisis espectral de la ' +
       'grabación, un modelo de lenguaje y los fallos típicos de cada modelo. Por qué el ' +
@@ -143,7 +143,7 @@ export const es: Dict = {
       'Cualquier diagnóstico empieza con preguntas: cuándo apareció el ruido, a qué se ' +
       'parece, si depende de la velocidad, de las revoluciones, del frenado o de los giros. ' +
       'Las respuestas descartan grupos enteros de causas y aportan más que cualquier ' +
-      'algoritmo aplicado a una grabación mala. Por eso en Stuk el cuestionario va primero, ' +
+      'algoritmo aplicado a una grabación mala. Por eso en Pro-Stuk el cuestionario va primero, ' +
       'y su lógica es un árbol de decisiones: cada respuesta lleva a la siguiente pregunta, ' +
       'más precisa.',
     recH2: 'Qué pasa con la grabación',
@@ -164,7 +164,7 @@ export const es: Dict = {
       'Averías distintas suenan igual: el zumbido de un rodamiento de rueda se confunde ' +
         'fácilmente con el ruido de los neumáticos, y el golpeteo de las bieletas de la barra ' +
         'estabilizadora, con piezas de la suspensión mucho más serias. Distinguirlas con ' +
-        'seguridad solo se puede en el elevador. Por eso Stuk no diagnostica ni promete ' +
+        'seguridad solo se puede en el elevador. Por eso Pro-Stuk no diagnostica ni promete ' +
         'precisión: reparte las probabilidades con honestidad y dice qué conviene comprobar ' +
         'primero.',
       'Una buena grabación mejora la estimación, pero no sustituye al mecánico. Toma el ' +
@@ -179,13 +179,13 @@ export const es: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Política de privacidad | Stuk',
+    title: 'Política de privacidad | Pro-Stuk',
     description:
-      'Qué pasa con tus datos en la aplicación Stuk: el audio se procesa en el servidor y no ' +
+      'Qué pasa con tus datos en la aplicación Pro-Stuk: el audio se procesa en el servidor y no ' +
       'se guarda tras el análisis, no hay cuentas ni analíticas.',
     h1: 'Política de privacidad',
     intro:
-      'La aplicación Stuk recoge lo mínimo: exactamente lo que hace falta para el diagnóstico.',
+      'La aplicación Pro-Stuk recoge lo mínimo: exactamente lo que hace falta para el diagnóstico.',
     items: [
       {
         strong: 'La grabación',
@@ -217,7 +217,7 @@ export const es: Dict = {
     tagline: 'Encuentra la avería por el sonido',
   },
   notFound: {
-    title: 'Página no encontrada — Stuk',
+    title: 'Página no encontrada — Pro-Stuk',
     description:
       'Esta página no existe en el sitio. Vuelve al inicio o abre las guías de síntomas por sonido.',
     h1: 'Página no encontrada',

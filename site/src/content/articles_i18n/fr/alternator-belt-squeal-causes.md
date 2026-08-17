@@ -1,6 +1,6 @@
 ---
 title: "Sifflement de la courroie d'alternateur : les causes"
-metaTitle: "Sifflement de courroie d'accessoires : causes | Stuk"
+metaTitle: "Sifflement de courroie d'accessoires : causes | Pro-Stuk"
 description: "Pourquoi une courroie d'accessoires siffle : tension molle, usure, huile sur les poulies, galets. Trouver la cause à partir du moment où le sifflement apparaît."
 faq:
   - q: "Est-ce qu'on peut rouler avec une courroie d'accessoires qui siffle ?"
@@ -152,6 +152,6 @@ lourdes.
 
 Quand on n'arrive pas à dire à l'oreille si c'est la courroie, un galet
 ou un roulement dans l'un des organes, enregistrez le son dans
-l'application Stuk : elle recoupe l'enregistrement avec vos réponses et
+l'application Pro-Stuk : elle recoupe l'enregistrement avec vos réponses et
 affiche les causes probables avec un niveau d'urgence — ce qui rend la
 conversation à l'atelier beaucoup plus concrète.

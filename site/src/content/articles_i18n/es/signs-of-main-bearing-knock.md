@@ -1,6 +1,6 @@
 ---
 title: "Señales de golpeteo de los cojinetes de bancada"
-metaTitle: "Golpeteo de bancada: señales en el motor | Stuk"
+metaTitle: "Golpeteo de bancada: señales en el motor | Pro-Stuk"
 description: "Un golpe grave y pesado desde la parte baja del bloque, presión de aceite que cae y vibración: cómo reconocer los cojinetes de bancada gastados y separarlos de la biela."
 faq:
   - q: "¿En qué se diferencia el golpeteo de bancada del de biela?"
@@ -110,6 +110,6 @@ nivel y no ignorar los primeros parpadeos del testigo de presión.
 
 Si el golpeteo ha aparecido hace poco y no tiene claro de qué parte del
 motor sale, grabe un fragmento corto al ralentí y en un acelerón con la
-aplicación Stuk. Compara el sonido con sus respuestas sobre el régimen y
+aplicación Pro-Stuk. Compara el sonido con sus respuestas sobre el régimen y
 muestra las causas probables con porcentajes: suficiente para decidir entre
 ir por su propio pie o llamar directamente a la grúa.

@@ -1,6 +1,6 @@
 ---
 title: "Un tintement sous la voiture au ralenti"
-metaTitle: "Tintement sous la voiture au ralenti : causes | Stuk"
+metaTitle: "Tintement sous la voiture au ralenti : causes | Pro-Stuk"
 description: "Écran thermique, catalyseur cassé, échappement qui touche la caisse : d'où vient un tintement sous la voiture au ralenti et comment le contrôler soi-même."
 faq:
   - q: "Pourquoi le tintement s'entend-il à froid et disparaît-il une fois chaud ?"
@@ -130,7 +130,7 @@ arrêtait atteint désormais le plancher et les conduites de carburant ; un
 collier coûte moins cher que ce marché-là.
 
 Un tintement fait partie de ces sons difficiles à décrire au téléphone. Il
-est plus simple de l'enregistrer : lancez l'application Stuk à côté de la
+est plus simple de l'enregistrer : lancez l'application Pro-Stuk à côté de la
 voiture au ralenti, répondez à deux ou trois questions sur les conditions,
 et repartez avec une liste de causes probables et un niveau d'urgence à
 présenter au garage.

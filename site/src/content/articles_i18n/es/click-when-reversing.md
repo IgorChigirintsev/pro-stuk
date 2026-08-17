@@ -1,6 +1,6 @@
 ---
 title: "Un chasquido al empezar a moverse marcha atrás"
-metaTitle: "Chasquido al arrancar marcha atrás: causas | Stuk"
+metaTitle: "Chasquido al arrancar marcha atrás: causas | Pro-Stuk"
 description: "Un chasquido seco al arrancar marcha atrás es casi siempre holgura que se recoge. Dónde se acumula: pastillas, juntas, cruceta y soportes de motor."
 faq:
   - q: "¿Por qué el chasquido solo se oye marcha atrás y no hacia delante?"
@@ -97,6 +97,6 @@ que se descarte primero la parte de los frenos, porque es la respuesta más
 barata y más habitual.
 
 Si quiere acotar la lista antes de ir al taller, grabe el sonido con la
-aplicación Stuk durante un arranque marcha atrás: la aplicación compara la
+aplicación Pro-Stuk durante un arranque marcha atrás: la aplicación compara la
 grabación con sus respuestas a unas cuantas preguntas y muestra las causas
 probables con porcentajes.

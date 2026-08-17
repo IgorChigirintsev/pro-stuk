@@ -1,6 +1,6 @@
 ---
 title: "Wycie reduktora w Renault Duster"
-metaTitle: "Wycie reduktora Renault Duster: kontrole | Stuk"
+metaTitle: "Wycie reduktora Renault Duster: kontrole | Pro-Stuk"
 description: "Wycie spod Dustera z napędem 4x4: jak odróżnić reduktor tylnej osi i mechanizm różnicowy od łożyska koła i opon oraz co sprawdza warsztat."
 faq:
   - q: "Wycie jest tylko powyżej 60 km/h. Czy to reduktor?"
@@ -95,7 +95,7 @@ tej klasy buczenie i stuk często przychodzą razem, a zużyte amortyzatory
 same z siebie zmieniają obraz akustyczny — objawy zebrano w tekście o tym,
 [jak rozpoznać zajechane amortyzatory](/pl/articles/how-to-tell-shock-absorbers-are-dead/).
 
-Jeśli chcesz przyjechać z konkretną hipotezą, nagraj wycie w aplikacji Stuk
+Jeśli chcesz przyjechać z konkretną hipotezą, nagraj wycie w aplikacji Pro-Stuk
 na równym odcinku — najpierw pod gazem, potem na luzie. Aplikacja zestawia
 nagrania z twoimi odpowiedziami i pokazuje prawdopodobne przyczyny z
 procentami, a mechanikowi od razu powiesz, co już zostało wykluczone.

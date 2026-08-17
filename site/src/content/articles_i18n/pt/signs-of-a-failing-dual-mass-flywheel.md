@@ -1,6 +1,6 @@
 ---
 title: "Sinais de volante bimassa com defeito"
-metaTitle: "Volante bimassa com defeito: os sinais | Stuk"
+metaTitle: "Volante bimassa com defeito: os sinais | Pro-Stuk"
 description: "Chacoalho em marcha lenta, ruído com a embreagem pisada, tranco ao desligar — como ler os sintomas de um volante bimassa cansado."
 faq:
   - q: "Para que serve o volante bimassa?"
@@ -93,6 +93,6 @@ descartar antes o que é simples: coxins, falha de combustão, rolamento de
 embreagem.
 
 Se o chacoalho em marcha lenta já está audível e você quer saber a que
-grupo ele pertence, grave duas vezes no aplicativo Stuk — com o pedal da
+grupo ele pertence, grave duas vezes no aplicativo Pro-Stuk — com o pedal da
 embreagem solto e pisado. O app cruza as gravações com suas respostas a
 algumas perguntas e mostra as causas prováveis com porcentagens.

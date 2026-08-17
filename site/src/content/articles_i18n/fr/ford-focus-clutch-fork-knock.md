@@ -1,6 +1,6 @@
 ---
 title: "Claquement de fourchette d'embrayage sur Ford Focus"
-metaTitle: "Focus : claquement de fourchette d'embrayage | Stuk"
+metaTitle: "Focus : claquement de fourchette d'embrayage | Pro-Stuk"
 description: "Clics et claquements quand on appuie sur la pédale d'embrayage d'une Focus : contrôler la fourchette et la butée, et ce que fait un garage."
 faq:
   - q: "Le claquement ne s'entend qu'en actionnant la pédale, est-ce forcément l'embrayage ?"
@@ -102,7 +102,7 @@ bourdonnement entendu en roulant et sans lien avec la pédale, c'est le
 train roulant ou les pneus.
 
 Si le claquement est encore occasionnel et que vous voulez savoir s'il
-faut déposer la boîte, enregistrez-le dans l'application Stuk en appuyant
+faut déposer la boîte, enregistrez-le dans l'application Pro-Stuk en appuyant
 lentement sur la pédale moteur tournant. L'application croise
 l'enregistrement avec vos réponses à quelques questions et affiche les
 causes probables avec leurs pourcentages — assez pour arriver chez le

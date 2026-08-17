@@ -1,6 +1,6 @@
 ---
 title: "Syczenie pod maską po zgaszeniu silnika"
-metaTitle: "Syczenie pod maską po zgaszeniu: przyczyny | Stuk"
+metaTitle: "Syczenie pod maską po zgaszeniu: przyczyny | Pro-Stuk"
 description: "Syczenie pod maską przy zgaszonym silniku bywa nieszkodliwe albo groźne. Jak odróżnić stygnący wydech od wycieku płynu chłodzącego i co z tym zrobić."
 faq:
   - q: "Czy syczenie zaraz po zgaszeniu jest groźne?"
@@ -90,7 +90,7 @@ silnika jest na stronie objawu
 
 Odróżnienie normalnego upustu ciśnienia od wycieku na słuch nie jest łatwe:
 różnica leży nie w tonie, lecz w czasie trwania i powtarzalności. Proszę
-nagrać dźwięk w aplikacji Stuk zaraz po zgaszeniu — dopasuje nagranie do
+nagrać dźwięk w aplikacji Pro-Stuk zaraz po zgaszeniu — dopasuje nagranie do
 Pana odpowiedzi o zapachu, poziomie płynu i temperaturze i pokaże
 prawdopodobne przyczyny z procentami, żeby wiadomo było, czy jechać jutro,
 czy po prostu obserwować przez tydzień.

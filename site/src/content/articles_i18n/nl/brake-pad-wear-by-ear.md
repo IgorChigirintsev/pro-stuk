@@ -1,6 +1,6 @@
 ---
 title: "Slijtage van remblokken op gehoor herkennen"
-metaTitle: "Slijtage van remblokken op gehoor | Stuk"
+metaTitle: "Slijtage van remblokken op gehoor | Pro-Stuk"
 description: "De geluiden van versleten remblokken: het tsjilpen van de slijtage-indicator, piepen, schuren. Hoe u ze scheidt van wiellagergebrom en wat u nakijkt."
 faq:
   - q: "Waarom stopt het tsjilpen van de indicator zodra ik rem?"

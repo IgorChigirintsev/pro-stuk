@@ -1,6 +1,6 @@
 ---
 title: "Klop in de vooras over kleine oneffenheden"
-metaTitle: "Klop vooras op kleine oneffenheden | Stuk"
+metaTitle: "Klop vooras op kleine oneffenheden | Pro-Stuk"
 description: "Waarom de vooras juist op kleine oneffenheden klopt: stabilisatorstangen, rubbers, veerpootlagers, spoorstangkogels. Hoe u de lijst zelf smaller maakt."
 faq:
   - q: "Waarom klopt het onderstel op kleine oneffenheden maar zwijgt het in grote kuilen?"

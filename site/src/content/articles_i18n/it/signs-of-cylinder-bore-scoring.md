@@ -1,6 +1,6 @@
 ---
 title: "Segni di rigature nei cilindri"
-metaTitle: "Rigature nei cilindri: rumore e consumo olio | Stuk"
+metaTitle: "Rigature nei cilindri: rumore e consumo olio | Pro-Stuk"
 description: "Cinque segni delle rigature nei cilindri: battito a freddo, consumo d'olio, perdita di potenza. Quali motori rischiano, come si conferma e che cosa segue."
 faq:
   - q: "Come si conferma definitivamente una rigatura?"
@@ -113,7 +113,7 @@ la questione è diversa e più urgente: sono i segni del battito delle bronzine
 di biella, e in quel caso non si guida più.
 
 Se il motore ha iniziato a battere a freddo e sospetta il peggio, registri il
-suono con l'app Stuk. Confronta la registrazione con le sue risposte sulle
+suono con l'app Pro-Stuk. Confronta la registrazione con le sue risposte sulle
 condizioni e mostra le cause probabili con le percentuali e l'urgenza: con
 quel quadro la decisione su endoscopia e riparazione è più facile e più
 serena.

@@ -1,6 +1,6 @@
 ---
 title: "A cosa porta guidare con ammortizzatori morti"
-metaTitle: "Guidare con ammortizzatori morti: le conseguenze | Stuk"
+metaTitle: "Guidare con ammortizzatori morti: le conseguenze | Pro-Stuk"
 description: "Ammortizzatori morti allungano lo spazio di arresto, distruggono la sospensione e mangiano le gomme. Cosa si rompe dopo e come accorgersene per tempo."
 faq:
   - q: "Quanto incidono gli ammortizzatori morti sullo spazio di arresto?"
@@ -109,7 +109,7 @@ intorno al montante entrino nello stesso conto è in
 [colpi agli ammortizzatori anteriori della Camry](/it/articles/camry-front-strut-knock/).
 
 Se non è sicura che la sospensione stia battendo o che sia semplicemente
-il normale comportamento della sua auto, registri il suono con l'app Stuk
+il normale comportamento della sua auto, registri il suono con l'app Pro-Stuk
 su un tratto sconnesso che conosce. L'app confronta la registrazione con
 le sue risposte e mostra le cause probabili in percentuale: di solito
 basta per decidere tra andare subito a fare una diagnosi e aspettare il

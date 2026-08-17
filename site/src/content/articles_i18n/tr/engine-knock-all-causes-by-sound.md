@@ -1,6 +1,6 @@
 ---
 title: "Motorda vuruntu: sesin türüne göre bütün sebepler"
-metaTitle: "Motorda vuruntu: sese göre bütün sebepler | Stuk"
+metaTitle: "Motorda vuruntu: sese göre bütün sebepler | Pro-Stuk"
 description: "Motor seslerinin haritası: tıkırtı, tıklama, metalik çınlama, boğuk tok vuruşlar. Her birinin ne anlama geldiği ve ne kadar acil olduğu."
 faq:
   - q: "Sebep yalnızca sesten kesin olarak bulunabilir mi?"
@@ -144,7 +144,7 @@ yoksa araç hızına mı bağlı; yük altında mı yoksa rölantide mi çıkıy
 cevap ustanın teşhis süresinin yarısını, sizin de o sürenin parasını
 kurtarır.
 
-Tariflerden tahmin yürütmemek için çalışan motoru Stuk uygulamasıyla
+Tariflerden tahmin yürütmemek için çalışan motoru Pro-Stuk uygulamasıyla
 kaydedin: uygulama kaydı koşullara verdiğiniz cevaplarla eşleştirip olası
 sebepleri yüzdesi ve aciliyet düzeyiyle gösterir — bu listeyle serviste
 konuşma somutlaşır.

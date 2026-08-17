@@ -1,6 +1,6 @@
 ---
 title: "Les signes de rayures dans les cylindres"
-metaTitle: "Rayures dans les cylindres : bruit et signes | Stuk"
+metaTitle: "Rayures dans les cylindres : bruit et signes | Pro-Stuk"
 description: "Cinq signes de cylindres rayés : cognement à froid, consommation d'huile, perte de puissance. Quels moteurs sont à risque et comment on confirme le diagnostic."
 faq:
   - q: "Comment les rayures sont-elles confirmées définitivement ?"
@@ -117,7 +117,7 @@ du bloc s'y est ajouté, c'est une question différente et plus urgente,
 celle des coussinets de bielle.
 
 Si le moteur s'est mis à cogner à froid et que vous craignez le pire,
-enregistrez le son dans l'application Stuk. Elle recoupe l'enregistrement
+enregistrez le son dans l'application Pro-Stuk. Elle recoupe l'enregistrement
 avec vos réponses sur les conditions et affiche les causes probables avec
 des pourcentages et une urgence : avec ce tableau, la décision sur une
 endoscopie et une réparation se prend plus facilement et plus calmement.

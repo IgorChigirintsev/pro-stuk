@@ -1,7 +1,7 @@
 ---
 ru: "gul-na-trasse-kotorogo-net-v-gorode"
 title: "A hum on the motorway that vanishes in town"
-metaTitle: "Motorway hum that disappears in town: causes | Stuk"
+metaTitle: "Motorway hum that disappears in town: causes | Pro-Stuk"
 description: "Why a hum is only audible above 80 km/h and disappears around town: wheel bearings, tyres, aerodynamics and the order of checks you can do yourself."
 pubDate: "2026-07-20"
 related:
@@ -95,7 +95,7 @@ kilometres, so a torque wrench rather than an impact gun is what you want
 to see.
 
 The main difficulty with this kind of hum is that you cannot demonstrate
-it to a mechanic: it only exists on the motorway. Record it in the Stuk
+it to a mechanic: it only exists on the motorway. Record it in the Pro-Stuk
 app while driving at the speed where it lives and during lane changes —
 the app matches the recording with your answers and shows the likely
 causes with percentages, and the recording itself can simply be played to

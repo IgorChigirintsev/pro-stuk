@@ -1,6 +1,6 @@
 ---
 title: "Che cosa dire al meccanico: descrivere bene un rumore"
-metaTitle: "Come descrivere un rumore dell’auto al meccanico | Stuk"
+metaTitle: "Come descrivere un rumore dell’auto al meccanico | Pro-Stuk"
 description: "Come descrivere un rumore perché il meccanico lo capisca al primo colpo: le cinque cose che contano, le formule che funzionano e gli errori più comuni."
 faq:
   - q: "Conviene nominare il pezzo che si sospetta?"
@@ -106,7 +106,7 @@ onesta, e più economica di una lista di lavori a indovinare. Come non
 farsi caricare di interventi inutili è raccontato in
 [evitare che l’officina vi venda più del necessario](/it/articles/avoiding-being-upsold-at-a-workshop/).
 
-Se mettere insieme tutto questo sul momento risulta scomodo, l’app Stuk
+Se mettere insieme tutto questo sul momento risulta scomodo, l’app Pro-Stuk
 pone esattamente queste domande in ordine e unisce le risposte alla
 registrazione in un’unica scheda: carattere, posizione, condizioni, che
 cosa segue e le cause probabili in percentuale. Mostrare quella scheda al

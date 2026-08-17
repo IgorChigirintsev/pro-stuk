@@ -1,6 +1,6 @@
 ---
 title: "Hydrostößel ticken im Kalten: normal oder nicht"
-metaTitle: "Stößel ticken kalt: normal oder nicht? | Stuk"
+metaTitle: "Stößel ticken kalt: normal oder nicht? | Pro-Stuk"
 description: "Warum Hydrostößel nach einem Kaltstart ticken, wie viele Sekunden Ticken als normal gelten und wann es Zeit für Öl- oder Stößeltausch ist."
 faq:
   - q: "Wie viele Sekunden Stößelticken sind normal?"

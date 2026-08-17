@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein verschlissenes Mittellager der Kardanwelle"
-metaTitle: "Mittellager der Kardanwelle: die Zeichen | Stuk"
+metaTitle: "Mittellager der Kardanwelle: die Zeichen | Pro-Stuk"
 description: "Ein Summen aus der Mitte des Bodens, Vibration ab einem bestimmten Tempo, ein Schlag beim Anfahren — so erkennen Sie ein verschlissenes Mittellager."
 faq:
   - q: "Wo sitzt das Mittellager und wozu dient es?"

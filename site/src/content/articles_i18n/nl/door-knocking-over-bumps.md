@@ -1,6 +1,6 @@
 ---
 title: "Kloppen in het portier over oneffenheden"
-metaTitle: "Kloppen in het portier op hobbels: check dit | Stuk"
+metaTitle: "Kloppen in het portier op hobbels: check dit | Pro-Stuk"
 description: "Het portier klopt over hobbels: de raammechaniek, de deurvanger, het slot — of toch de vering. Zo lokaliseert u het in één rit."
 faq:
   - q: "Waarom stopt het kloppen in het portier als ik het raam een stukje open zet?"

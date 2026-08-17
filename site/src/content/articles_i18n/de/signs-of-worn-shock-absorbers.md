@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Stoßdämpfer"
-metaTitle: "Stoßdämpfer verschlissen: 8 Symptome | Stuk"
+metaTitle: "Stoßdämpfer verschlissen: 8 Symptome | Pro-Stuk"
 description: "Acht Zeichen verschlissener Dämpfer: Nachschwingen, Eintauchen, Klopfen, fleckiger Reifenverschleiß. Wie Sie selbst prüfen und was der Tausch bedeutet."
 faq:
   - q: "Warum ist Dämpferverschleiß schwer zu bemerken?"

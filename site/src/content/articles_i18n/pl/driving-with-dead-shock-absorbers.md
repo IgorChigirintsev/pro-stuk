@@ -1,6 +1,6 @@
 ---
 title: "Do czego prowadzi jazda z martwymi amortyzatorami"
-metaTitle: "Jazda z martwymi amortyzatorami: skutki | Stuk"
+metaTitle: "Jazda z martwymi amortyzatorami: skutki | Pro-Stuk"
 description: "Martwe amortyzatory wydłużają drogę hamowania, niszczą zawieszenie i zjadają opony. Co psuje się dalej, jak to rozpoznać i na czym polega naprawa."
 faq:
   - q: "Jak bardzo martwe amortyzatory wpływają na drogę hamowania?"
@@ -98,7 +98,7 @@ z przodu i z tyłu zachowuje się inaczej, a z tym żyje się gorzej niż ze
 zmęczonym kompletem, od którego się zaczynało.
 
 Jeśli nie ma Pan pewności, czy zawieszenie stuka, czy to po prostu norma
-dla tego auta, proszę nagrać dźwięk aplikacją Stuk na znanym sobie
+dla tego auta, proszę nagrać dźwięk aplikacją Pro-Stuk na znanym sobie
 nierównym odcinku. Aplikacja zestawia nagranie z Pana odpowiedziami
 i pokazuje prawdopodobne przyczyny z procentami — zwykle wystarcza to,
 żeby zdecydować między diagnostyką teraz a poczekaniem do najbliższego

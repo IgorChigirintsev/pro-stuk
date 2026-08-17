@@ -1,7 +1,7 @@
 ---
 ru: "shum-kpp-lada-gul-pyatoj-peredachi"
 title: "Lada gearbox noise: fifth gear whine"
-metaTitle: "Lada gearbox noise: fifth gear whine explained | Stuk"
+metaTitle: "Lada gearbox noise: fifth gear whine explained | Pro-Stuk"
 description: "A whine in fifth gear on a Lada gearbox: why the top gear is the one that goes, how to tell gearbox noise from a wheel bearing, and what to check."
 pubDate: "2026-06-24"
 related:
@@ -99,7 +99,7 @@ well — and for the old bearings to be shown afterwards. Where the line
 runs between “drive on” and “stop” is set out in
 [can you drive with a whining gearbox](/en/articles/can-you-drive-with-a-whining-gearbox/).
 
-To avoid guessing between gearbox and hub, record the sound in the Stuk
+To avoid guessing between gearbox and hub, record the sound in the Pro-Stuk
 app twice: under load in fifth, and coasting in neutral at the same speed.
 The app matches the recordings with your answers and shows the likely
 causes with percentages — enough to arrive at the workshop with a specific

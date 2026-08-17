@@ -1,6 +1,6 @@
 ---
 title: "Comment contrôler soi-même un roulement de roue"
-metaTitle: "Contrôler soi-même un roulement de roue | Stuk"
+metaTitle: "Contrôler soi-même un roulement de roue | Pro-Stuk"
 description: "Cinq contrôles qui identifient un roulement de roue usé et son côté sans pont : tests en roulant, roue levée, contrôle du jeu et de la température du moyeu."
 faq:
   - q: "Peut-on identifier le côté sans pont ?"
@@ -105,7 +105,7 @@ proche de la fin, vous pouvez planifier la dépense plutôt que la découvrir
 dans un mois.
 
 Si les contrôles se contredisent — ce qui arrive souvent — enregistrez le
-bourdonnement dans l'application Stuk pendant le test du changement de
+bourdonnement dans l'application Pro-Stuk pendant le test du changement de
 file. L'application croise l'enregistrement avec vos réponses et affiche
 les causes probables avec leurs pourcentages, y compris le côté par lequel
 commencer l'inspection.

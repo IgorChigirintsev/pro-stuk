@@ -1,6 +1,6 @@
 ---
 title: "Un bourdonnement sur voie rapide qui disparaît en ville"
-metaTitle: "Bourdonnement sur voie rapide, absent en ville | Stuk"
+metaTitle: "Bourdonnement sur voie rapide, absent en ville | Pro-Stuk"
 description: "Pourquoi un bourdonnement ne s'entend qu'au-delà de 80 km/h et disparaît en ville : roulements, pneus, aérodynamique, et l'ordre des contrôles maison."
 faq:
   - q: "Pourquoi n'y a-t-il pas de bourdonnement en ville et beaucoup sur voie rapide ?"
@@ -97,7 +97,7 @@ clé dynamométrique et non une clé à chocs que vous voulez voir.
 
 La principale difficulté avec ce genre de bourdonnement, c'est qu'on ne
 peut pas le montrer à un mécanicien : il n'existe que sur voie rapide.
-Enregistrez-le dans l'application Stuk en roulant à la vitesse où il vit
+Enregistrez-le dans l'application Pro-Stuk en roulant à la vitesse où il vit
 et pendant les changements de file — l'application croise l'enregistrement
 avec vos réponses et affiche les causes probables avec leurs pourcentages,
 et l'enregistrement lui-même peut simplement être passé au mécanicien.

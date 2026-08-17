@@ -1,6 +1,6 @@
 ---
 title: "Tıkanmış katalizörün belirtileri"
-metaTitle: "Tıkanmış katalizörün belirtileri | Stuk"
+metaTitle: "Tıkanmış katalizörün belirtileri | Pro-Stuk"
 description: "Tıkanmış katalizör motoru boğar: araç hızlanmaz, yük altında stop eder, daha çok yakar. Güç kaybının diğer nedenlerinden nasıl ayrılır."
 faq:
   - q: "Katalizör aniden tıkanabilir mi?"
@@ -103,7 +103,7 @@ Onunla sürmenin hâlâ kabul edilebilir olduğu durumlar
 yazısında ele alınıyor.
 
 Güç yavaş yavaş eriyorsa ve suçun egzozda olduğundan emin değilseniz,
-motoru ve egzozu Stuk uygulamasına kaydedin — rölantide ve gaza sertçe
+motoru ve egzozu Pro-Stuk uygulamasına kaydedin — rölantide ve gaza sertçe
 basarken. Uygulama kaydı belirtilere dair anlattıklarınızla eşleştirir ve
 olası nedenleri yüzdeleriyle gösterir, böylece servise «araç gitmiyor»
 diye değil, hazır bir teoriyle gidersiniz.

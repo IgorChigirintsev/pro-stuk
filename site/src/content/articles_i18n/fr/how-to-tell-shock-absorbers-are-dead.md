@@ -1,6 +1,6 @@
 ---
 title: "Comment savoir que vos amortisseurs sont morts"
-metaTitle: "Savoir que les amortisseurs sont morts : contrôles | Stuk"
+metaTitle: "Savoir que les amortisseurs sont morts : contrôles | Pro-Stuk"
 description: "Caisse qui flotte, talonnage dans les nids-de-poule, distance de freinage allongée et fuites d'huile : juger l'état des amortisseurs sans banc, en cinq minutes."
 faq:
   - q: "Le test de balancement fonctionne-t-il vraiment ?"
@@ -102,7 +102,7 @@ force modifie les angles de train.
 
 Si vous hésitez entre « la suspension est fatiguée » et « quelque chose de
 précis a cassé », enregistrez un trajet sur des ondulations et des
-nids-de-poule dans l'application Stuk. Elle relie le caractère des impacts
+nids-de-poule dans l'application Pro-Stuk. Elle relie le caractère des impacts
 à vos réponses sur le comportement de la caisse et affiche les causes
 probables avec leurs pourcentages — nettement plus précis que d'essayer de
 décrire un flottement avec des mots.

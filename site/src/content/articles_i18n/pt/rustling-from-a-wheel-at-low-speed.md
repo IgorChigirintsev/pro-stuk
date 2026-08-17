@@ -1,6 +1,6 @@
 ---
 title: "Sussurro vindo de uma roda em baixa velocidade"
-metaTitle: "Sussurro de uma roda em baixa velocidade: causas | Stuk"
+metaTitle: "Sussurro de uma roda em baixa velocidade: causas | Pro-Stuk"
 description: "Um sussurro de roda a 10–30 km/h quase sempre vem dos freios ou do espelho de proteção. Como separar um roçar inofensivo do desgaste e o que checar."
 faq:
   - q: "O sussurro só se ouve abaixo de 30 km/h — isso é normal?"
@@ -96,7 +96,7 @@ ainda tinham anos de vida.
 
 Separar de ouvido um roçar inofensivo do começo do desgaste não é fácil —
 a diferença entre «raspando» e «raspando com metal dentro» mal sobrevive à
-tentativa de virar palavra. É mais simples gravar o som no aplicativo Stuk
+tentativa de virar palavra. É mais simples gravar o som no aplicativo Pro-Stuk
 enquanto sai do estacionamento: ele cruza a gravação com suas respostas a
 algumas perguntas e mostra as causas prováveis em porcentagem, e aí fica
 claro se você vai à oficina no fim de semana ou espera com calma a próxima

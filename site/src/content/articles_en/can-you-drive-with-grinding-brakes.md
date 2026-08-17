@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-pri-skrezhete-tormozov"
 title: "Can you drive with grinding brakes"
-metaTitle: "Can you drive with grinding brakes? | Stuk"
+metaTitle: "Can you drive with grinding brakes? | Pro-Stuk"
 description: "Metallic grinding when braking means the friction material is gone and metal is cutting the disc. How far you can drive, what not to do and what it costs."
 pubDate: "2026-07-22"
 related:
@@ -112,7 +112,7 @@ the first option towards the second. If the grinding started on a Friday,
 it is cheaper to spend Saturday at a workshop than to run it for a month.
 
 When the sound is there but it is unclear whether it is the wear indicator
-or the backing plate, a recording helps: the Stuk app analyses the
+or the backing plate, a recording helps: the Pro-Stuk app analyses the
 frequencies, matches them with your answers to a few questions about when
 the sound appears and shows the likely causes with percentages — including
 an assessment of whether the car should be driven at all before it is

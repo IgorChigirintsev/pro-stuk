@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi 4B12 üst kapak sesi: hidrolik külbütörler"
-metaTitle: "Mitsubishi 4B12 hidrolik külbütör sesi | Stuk"
+metaTitle: "Mitsubishi 4B12 hidrolik külbütör sesi | Pro-Stuk"
 description: "4B12 motorun üstünden gelen tıkırtı: hidrolik külbütörler nasıl davranır, neden genelde yağ suçludur ve ses zincirden nasıl ayrılır."
 faq:
   - q: "Tıkırtı çalıştırdıktan bir dakika sonra geçiyor, bu normal mi?"
@@ -93,7 +93,7 @@ olun; onların dili
 [balata aşınmasını kulakla anlamak](/tr/articles/brake-pad-wear-by-ear/)
 yazısında anlatılıyor.
 
-Yarın servise gitmeli mi diye merak ediyorsanız, sesi Stuk uygulamasıyla
+Yarın servise gitmeli mi diye merak ediyorsanız, sesi Pro-Stuk uygulamasıyla
 kaydedin: bir kez soğuk çalıştırmanın hemen ardından, bir kez de ısınmış
 motorda rölantide. Uygulama kayıtları verdiğiniz yanıtlarla eşleştirip
 olası sebepleri yüzdeleriyle gösterir; iki kayıt arasındaki fark zaten tek

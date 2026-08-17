@@ -1,6 +1,6 @@
 ---
 title: "Lichtmaschine pfeift: Lager oder Riemen"
-metaTitle: "Lichtmaschine pfeift: Lager oder Riemen | Stuk"
+metaTitle: "Lichtmaschine pfeift: Lager oder Riemen | Pro-Stuk"
 description: "Wie Sie einen rutschenden Riemen von einem heulenden Lichtmaschinenlager unterscheiden: der Unterschied im Klang und drei Tests ohne Demontage."
 faq:
   - q: "Kann ich mit einem heulenden Lichtmaschinenlager fahren?"

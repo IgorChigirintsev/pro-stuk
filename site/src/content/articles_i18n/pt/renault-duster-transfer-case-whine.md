@@ -1,6 +1,6 @@
 ---
 title: "Zunido da caixa de transferência do Renault Duster"
-metaTitle: "Zunido da transferência do Duster: checagens | Stuk"
+metaTitle: "Zunido da transferência do Duster: checagens | Pro-Stuk"
 description: "Zunido embaixo do Duster com tração 4x4: como separar a transferência e o diferencial traseiro do rolamento de roda e dos pneus, e o que se verifica."
 faq:
   - q: "O zunido só existe acima de 60 km/h. É a caixa de transferência?"
@@ -92,7 +92,7 @@ amortecedores: em carros dessa categoria zumbido e batida costumam chegar
 juntos, e amortecedores gastos por si só mudam o quadro acústico.
 
 Se quiser chegar com uma hipótese concreta, grave o zunido no aplicativo
-Stuk num trecho plano — primeiro tracionando, depois de banguela. O
+Pro-Stuk num trecho plano — primeiro tracionando, depois de banguela. O
 aplicativo cruza as gravações com suas respostas e mostra as causas
 prováveis em porcentagem, e você já pode dizer ao mecânico o que
 descartou.

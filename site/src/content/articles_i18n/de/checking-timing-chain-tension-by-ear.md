@@ -1,6 +1,6 @@
 ---
 title: "Steuerkettenspannung nach Gehör prüfen"
-metaTitle: "Steuerkettenspannung nach Gehör prüfen | Stuk"
+metaTitle: "Steuerkettenspannung nach Gehör prüfen | Pro-Stuk"
 description: "Wie man eine gelängte Steuerkette hört: die Bedingungen, unter denen sie sich verrät, der Unterschied zu Hydrostößeln und Injektoren, und was der Kaltstart zeigt."
 faq:
   - q: "Warum ist die Steuerkette beim Kaltstart am lautesten?"

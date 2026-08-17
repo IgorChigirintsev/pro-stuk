@@ -1,6 +1,6 @@
 ---
 title: "Zumbido embaixo do capô em marcha lenta"
-metaTitle: "Zumbido embaixo do capô em marcha lenta | Stuk"
+metaTitle: "Zumbido embaixo do capô em marcha lenta | Pro-Stuk"
 description: "O que zumbe embaixo do capô parado: eletroventilador, alternador, compressor do ar, bomba d'água ou tensor. Testes simples para achar a fonte."
 faq:
   - q: "É normal aparecer um zumbido quando ligo o ar-condicionado?"
@@ -116,5 +116,5 @@ conserto de vida curta.
 
 Zumbido em marcha lenta é fácil de gravar: o carro está parado e o ruído
 de fundo é mínimo. Faça uma gravação com o capô aberto no aplicativo
-Stuk — ele compara o som com as suas respostas e mostra as causas mais
+Pro-Stuk — ele compara o som com as suas respostas e mostra as causas mais
 prováveis com um grau de urgência.

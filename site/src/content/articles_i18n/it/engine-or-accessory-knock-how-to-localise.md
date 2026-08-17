@@ -1,6 +1,6 @@
 ---
 title: "Battito del motore o degli organi accessori: come localizzarlo"
-metaTitle: "Battito motore o organi accessori: come capirlo | Stuk"
+metaTitle: "Battito motore o organi accessori: come capirlo | Pro-Stuk"
 description: "Un battito dal vano motore non viene sempre dal motore. Poche verifiche separano gli organi trascinati dalla cinghia servizi dalla meccanica interna."
 faq:
   - q: "Come capisco che a battere è un organo accessorio e non il motore?"
@@ -91,7 +91,7 @@ pressione dell'olio. Lì continuare a guidare trasforma la riparazione in una
 revisione, e la mossa giusta non è arrivare «fino a lunedì» ma fermarsi.
 
 Se vuole catturare il suono prima della visita in officina, lo registri
-nell'app Stuk in due condizioni: al minimo senza carichi, e subito dopo aver
+nell'app Pro-Stuk in due condizioni: al minimo senza carichi, e subito dopo aver
 acceso climatizzatore e luci. La differenza tra le due registrazioni è
 esattamente quello che cerca, e l'app le confronta con le sue risposte e mostra
 le cause probabili con percentuali.

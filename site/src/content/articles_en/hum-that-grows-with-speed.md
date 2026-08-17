@@ -1,7 +1,7 @@
 ---
 ru: "gul-narastaet-so-skorostyu"
 title: "A hum that grows with speed"
-metaTitle: "Hum that grows with speed: bearing or tyres | Stuk"
+metaTitle: "Hum that grows with speed: bearing or tyres | Pro-Stuk"
 description: "A hum that rises with road speed almost always comes from the wheels. How to separate a wheel bearing from tyres and the transmission in a single drive."
 pubDate: "2026-07-19"
 related:
@@ -104,7 +104,7 @@ cage breaks up and the wheel develops play. A sensible horizon is an
 inspection within two weeks of the sound becoming permanent.
 
 The difficulty is that all these tests are done by ear while driving, and
-human memory for sound is short. Record the hum in the Stuk app at
+human memory for sound is short. Record the hum in the Pro-Stuk app at
 different speeds and during lane changes: it matches the recordings with
 your answers and shows the likely causes with percentages, so the
 conversation at the workshop starts with a specific theory.

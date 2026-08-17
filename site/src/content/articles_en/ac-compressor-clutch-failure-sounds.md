@@ -1,7 +1,7 @@
 ---
 ru: "mufta-kompressora-konditsionera-zvuki-neispravnosti"
 title: "A/C compressor clutch: the sounds of failure"
-metaTitle: "A/C compressor clutch: sounds of failure | Stuk"
+metaTitle: "A/C compressor clutch: sounds of failure | Pro-Stuk"
 description: "Chattering, whining or grinding that appears exactly when the air conditioning comes on — how a worn electromagnetic clutch sounds and what a workshop checks."
 pubDate: "2026-06-10"
 related:
@@ -101,7 +101,7 @@ friction faces. Replacing a compressor without finding the leak means the
 new one works under the same conditions that killed the old one.
 
 If the sound only appears in hot weather and cannot be reproduced at the
-workshop, record it in the Stuk app — first with the air conditioning off,
+workshop, record it in the Pro-Stuk app — first with the air conditioning off,
 then immediately after switching it on. The app matches the two recordings
 with your answers and shows what is more likely: the clutch, an accessory
 idler or the compressor itself.

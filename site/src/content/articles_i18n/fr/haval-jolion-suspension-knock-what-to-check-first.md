@@ -1,6 +1,6 @@
 ---
 title: "Claquement de suspension sur Haval Jolion : quoi contrôler en premier"
-metaTitle: "Haval Jolion : claquement avant, quoi contrôler | Stuk"
+metaTitle: "Haval Jolion : claquement avant, quoi contrôler | Pro-Stuk"
 description: "Un ordre raisonnable pour contrôler un claquement de suspension avant sur Haval Jolion : des biellettes aux coupelles et aux silentblocs de bras."
 faq:
   - q: "Un claquement de suspension sur Jolion relève-t-il de la garantie ?"
@@ -97,7 +97,7 @@ les voitures de ce segment est dans
 Il est utile d'arriver avec une description plutôt qu'avec le seul mot
 « ça claque » : la vitesse, le type de bosse, voiture froide ou chaude, un
 claquement isolé ou un crépitement. Enregistrer le son et le décomposer
-selon ces conditions, c'est ce que fait l'application Stuk — elle croise
+selon ces conditions, c'est ce que fait l'application Pro-Stuk — elle croise
 l'enregistrement avec vos réponses à de courtes questions et affiche les
 causes probables avec leurs pourcentages, pour que la conversation au
 garage démarre sur du concret.

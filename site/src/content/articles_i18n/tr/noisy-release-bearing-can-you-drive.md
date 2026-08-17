@@ -1,6 +1,6 @@
 ---
 title: "Debriyaj bilyası ses yapıyor: araç kullanılır mı?"
-metaTitle: "Debriyaj bilyası ses yapıyor: sürülür mü, ne kadar | Stuk"
+metaTitle: "Debriyaj bilyası ses yapıyor: sürülür mü, ne kadar | Pro-Stuk"
 description: "Debriyaj pedalına basınca gelen rulman sesi: başka seslerden nasıl ayrılır, ne kadar sürülür ve tamir kararını ne belirler."
 faq:
   - q: "Ses yapan debriyaj bilyasıyla ne kadar araç kullanabilirim?"
@@ -100,7 +100,7 @@ faturayı ikiye katlayabilir ve bir kanaat değil, bir ölçüm olmalıdır.
 Yeni debriyaj da oturması için ilk birkaç yüz kilometrede nazik bir
 kullanım ister: çekme yok, sert kalkış yok.
 
-Sesin gerçekten pedala bağlı olup olmadığından emin değilseniz, Stuk
+Sesin gerçekten pedala bağlı olup olmadığından emin değilseniz, Pro-Stuk
 uygulamasıyla kaydedin: biri debriyaj basılıyken, biri serbestken iki
 kısa kayıt. Uygulama kayıtları karşılaştırır ve servise varmadan önce
 hangi yöne bakılacağını önerir.

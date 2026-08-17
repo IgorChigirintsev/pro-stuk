@@ -1,6 +1,6 @@
 ---
 title: "Ruidos al arrancar con mucho frío"
-metaTitle: "Arranque en frío extremo: chirridos, golpes, rascado | Stuk"
+metaTitle: "Arranque en frío extremo: chirridos, golpes, rascado | Pro-Stuk"
 description: "Chirrido de correa, golpeteo por el aceite espeso, rascado del motor de arranque: los sonidos del frío. Qué es normal en invierno y qué exige pasar por el taller."
 faq:
   - q: "¿Por qué el motor suena más fuerte y más basto con frío?"
@@ -127,7 +127,7 @@ si pasa de cuatro años: una batería cambiada en otoño cuesta lo mismo que
 una cambiada en enero, menos la grúa.
 
 Si el concierto matinal le genera dudas, grabe el arranque en frío con la
-aplicación Stuk, fuera y con el capó abierto. Cruza la grabación con sus
+aplicación Pro-Stuk, fuera y con el capó abierto. Cruza la grabación con sus
 respuestas sobre temperatura y condiciones y muestra las causas probables
 con porcentajes y un nivel de urgencia: así es más fácil decidir qué
 apuntar al invierno y qué llevar al taller.

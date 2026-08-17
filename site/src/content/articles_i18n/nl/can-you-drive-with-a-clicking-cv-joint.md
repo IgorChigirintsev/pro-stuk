@@ -1,6 +1,6 @@
 ---
 title: "Kunt u rijden met een klikkende homokineet"
-metaTitle: "Rijden met een klikkende homokineet? | Stuk"
+metaTitle: "Rijden met een klikkende homokineet? | Pro-Stuk"
 description: "Een klikkende homokineet in bochten is geen directe pech, maar ook niets om jaren mee te leven. Hoeveel tijd u hebt en wanneer u niet meer mag rijden."
 faq:
   - q: "Hoeveel kilometer kan ik rijden met een klikkende homokineet?"

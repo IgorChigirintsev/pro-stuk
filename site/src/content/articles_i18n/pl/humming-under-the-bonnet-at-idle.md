@@ -1,6 +1,6 @@
 ---
 title: "Buczenie spod maski na biegu jałowym"
-metaTitle: "Buczenie spod maski na biegu jałowym: źródło | Stuk"
+metaTitle: "Buczenie spod maski na biegu jałowym: źródło | Pro-Stuk"
 description: "Co buczy pod maską na biegu jałowym: wentylator chłodnicy, alternator, sprężarka klimatyzacji, pompa wody albo rolki. Proste testy włącznikami."
 faq:
   - q: "Czy to normalne, że buczenie pojawia się po włączeniu klimatyzacji?"
@@ -116,6 +116,6 @@ płaci, a nowa rolka na starym, rozciągniętym pasku to naprawa krótkiego
 życia.
 
 Buczenie na biegu jałowym łatwo nagrać: auto stoi, a hałasu tła jest
-minimalnie. Proszę zrobić nagranie przy otwartej masce w aplikacji Stuk —
+minimalnie. Proszę zrobić nagranie przy otwartej masce w aplikacji Pro-Stuk —
 zestawi dźwięk z Pana odpowiedziami i pokaże prawdopodobne przyczyny wraz z
 oceną pilności.

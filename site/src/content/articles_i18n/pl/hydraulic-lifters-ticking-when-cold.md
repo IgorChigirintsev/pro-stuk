@@ -1,6 +1,6 @@
 ---
 title: "Popychacze hydrauliczne stukają na zimno: norma czy usterka"
-metaTitle: "Popychacze stukają na zimno: norma czy usterka | Stuk"
+metaTitle: "Popychacze stukają na zimno: norma czy usterka | Pro-Stuk"
 description: "Dlaczego popychacze hydrauliczne stukają po zimnym rozruchu, ile sekund stukania mieści się w normie i kiedy pora na wymianę oleju albo samych popychaczy."
 faq:
   - q: "Ile sekund stukania popychaczy to norma?"
@@ -126,7 +126,7 @@ silniku ogląda się krzywki wałka, bo popychacz stukający od miesięcy
 zostawia na krzywce ślady.
 
 Jeśli nie ma pewności, czy to popychacze, czy coś poważniejszego, warto
-nagrać zimny rozruch w aplikacji Stuk. Zestawia ona nagranie z
+nagrać zimny rozruch w aplikacji Pro-Stuk. Zestawia ona nagranie z
 odpowiedziami i pokazuje prawdopodobne przyczyny w procentach oraz poziom
 pilności — łatwiej wtedy zdecydować między diagnostyką od razu a spokojnym
 czekaniem do najbliższego przeglądu.

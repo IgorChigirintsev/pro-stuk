@@ -1,7 +1,7 @@
 ---
 ru: "kak-zapisat-zvuk-neispravnosti-dlya-mehanika"
 title: "Recording a car noise for a mechanic"
-metaTitle: "How to record a car noise for a mechanic | Stuk"
+metaTitle: "How to record a car noise for a mechanic | Pro-Stuk"
 description: "How to record a car noise on a phone so it can actually be heard: where to hold the phone, what to say, which regimes to capture and what to avoid."
 pubDate: "2026-06-20"
 related:
@@ -99,7 +99,7 @@ A note on the suspension: if the knock only appears on particular bumps,
 record that specific stretch of road rather than driving in general.
 
 If fiddling with settings is not appealing, the recording can be made in
-the Stuk app: it prompts the regimes, asks about the conditions and, after
+the Pro-Stuk app: it prompts the regimes, asks about the conditions and, after
 matching them, shows the likely causes with percentages. The finished card
 with the recording is easy to show to a mechanic — the conversation starts
 straight at the point.

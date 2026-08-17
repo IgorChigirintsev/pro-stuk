@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych końcówek drążków kierowniczych"
-metaTitle: "Zużyte końcówki drążków: jaki dźwięk | Stuk"
+metaTitle: "Zużyte końcówki drążków: jaki dźwięk | Pro-Stuk"
 description: "Stukanie na drobnych nierównościach, luz na kierownicy, pływanie na prostej — jak rozpoznać zużyte końcówki drążków i sprawdzić je samodzielnie."
 faq:
   - q: "Jak brzmi zużyta końcówka drążka?"
@@ -34,7 +34,7 @@ pokrywają.
   dołu, od strony jednego przedniego koła, na dylatacjach, tarce i małych
   dziurach. Ogólny opis znajdziesz na stronie
   [stukanie na nierównościach](/pl/symptoms/knocking-over-bumps/).
-- **Stuk przy kręceniu kierownicą na postoju.** Luźny przegub przeskakuje
+- **Pro-Stuk przy kręceniu kierownicą na postoju.** Luźny przegub przeskakuje
   przy zmianie kierunku skrętu — pojedyncze „tok”.
 - **Luz na kierownicy.** Jałowy ruch na obręczy wyraźnie urósł: kierownicą
   da się poruszyć o kilka centymetrów, zanim koła zareagują.
@@ -133,6 +133,6 @@ argument ekonomiczny: jazda z luzem zużywa współpracujące powierzchnie i
 sąsiednie części, zamieniając tanią naprawę w drogą.
 
 Jeśli coś stuka pod autem, a rozpoznanie jest niepewne, nagraj dźwięk w
-aplikacji Stuk. Zestawia ona nagranie z Twoimi odpowiedziami na pytania o
+aplikacji Pro-Stuk. Zestawia ona nagranie z Twoimi odpowiedziami na pytania o
 to, kiedy stuk się pojawia — na nierównościach, przy skręcaniu, przy
 hamowaniu — i pokazuje prawdopodobne przyczyny wraz z poziomem pilności.

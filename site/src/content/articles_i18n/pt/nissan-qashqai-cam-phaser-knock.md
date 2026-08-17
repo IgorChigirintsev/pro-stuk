@@ -1,6 +1,6 @@
 ---
 title: "Batida do variador de fase no Nissan Qashqai"
-metaTitle: "Batida do variador de fase no Qashqai: causas | Stuk"
+metaTitle: "Batida do variador de fase no Qashqai: causas | Pro-Stuk"
 description: "Um chocalho curto na partida fria do Qashqai costuma vir do variador de fase. Como diferenciar da corrente de comando e o que a oficina checa."
 faq:
   - q: "Um chocalho curto na partida do Qashqai é perigoso?"
@@ -96,6 +96,6 @@ verificar isso está em
 [como checar um pivô de suspensão você mesmo](/pt/articles/how-to-check-a-ball-joint-yourself/).
 
 Se quiser entender o que chacoalha antes de falar com o mecânico, grave o
-som com o aplicativo Stuk no momento da partida fria, em pé ao lado do capô
+som com o aplicativo Pro-Stuk no momento da partida fria, em pé ao lado do capô
 aberto. O aplicativo cruza a gravação com as suas respostas a algumas
 perguntas e mostra as causas prováveis com percentuais.

@@ -1,6 +1,6 @@
 ---
 title: "Bourdonnement de boîte au point mort"
-metaTitle: "Bourdonnement de boîte au point mort : causes | Stuk"
+metaTitle: "Bourdonnement de boîte au point mort : causes | Pro-Stuk"
 description: "Un bourdonnement au point mort pédale relâchée désigne en général le roulement d'arbre primaire ou l'huile. Un test à la pédale suffit à trancher."
 faq:
   - q: "Le bourdonnement au point mort disparaît quand j'appuie sur l'embrayage. Qu'est-ce que ça signifie ?"
@@ -93,7 +93,7 @@ métalliques se montrent sur l'aimant du bouchon de vidange — cela signifie
 que le roulement se désagrège déjà.
 
 Si le bourdonnement est discret et que vous n'êtes pas sûr qu'il suive la
-pédale, enregistrez-le dans l'application Stuk dans les deux états :
+pédale, enregistrez-le dans l'application Pro-Stuk dans les deux états :
 pédale relâchée et pédale enfoncée. L'application compare les
 enregistrements avec vos réponses et affiche les causes probables avec
 leurs pourcentages, ainsi que ce qu'il faut contrôler avant la visite.

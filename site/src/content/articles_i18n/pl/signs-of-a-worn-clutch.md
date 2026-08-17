@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego sprzęgła"
-metaTitle: "Zużyte sprzęgło: testy i zakres wymiany | Stuk"
+metaTitle: "Zużyte sprzęgło: testy i zakres wymiany | Pro-Stuk"
 description: "Jak rozpoznać zużyte sprzęgło: ślizganie, zapach spalenizny, wysoki punkt chwytania, szarpanie. Test na minutę, etapy zużycia i zakres wymiany."
 faq:
   - q: "Jaki jest pierwszy objaw zużycia sprzęgła?"
@@ -141,6 +141,6 @@ rachunek wygląda tak, a gdy przegrzewanie dosięgnie koła zamachowego — już
 inaczej.
 
 Jeśli nie ma pewności, czy wibracja albo hałas to naprawdę sprzęgło, proszę
-nagrać dźwięk w aplikacji Stuk: na biegu jałowym, z wciśniętym pedałem i
+nagrać dźwięk w aplikacji Pro-Stuk: na biegu jałowym, z wciśniętym pedałem i
 przy ruszaniu. Aplikacja zestawi nagrania z odpowiedziami i pokaże
 prawdopodobne przyczyny wraz z oceną pilności.

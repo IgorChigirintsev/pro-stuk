@@ -1,6 +1,6 @@
 ---
 title: "Controllare il giunto omocinetico facendo cerchi in un piazzale"
-metaTitle: "Controllare il giunto omocinetico a cerchi | Stuk"
+metaTitle: "Controllare il giunto omocinetico a cerchi | Pro-Stuk"
 description: "Prova passo passo del giunto omocinetico esterno in un piazzale vuoto: come fare i cerchi, cosa deve cliccare e perché a volte la prova non mostra nulla."
 faq:
   - q: "Perché un giunto omocinetico clicca solo nelle curve strette?"
@@ -106,6 +106,6 @@ funziona anche per il motore: il suono non si cerca «in generale» ma nel
 regime preciso in cui il guasto è costretto a rivelarsi.
 
 Se sente dei clic ma non è sicura che siano il suono giusto, avvii una
-registrazione con l'app Stuk mentre fa il cerchio. L'app confronta il
+registrazione con l'app Pro-Stuk mentre fa il cerchio. L'app confronta il
 suono con le sue risposte sul regime e sul lato e mostra le cause
 probabili in percentuale.

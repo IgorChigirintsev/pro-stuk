@@ -1,6 +1,6 @@
 ---
 title: "Szelest od koła przy małej prędkości"
-metaTitle: "Szelest od koła przy małej prędkości | Stuk"
+metaTitle: "Szelest od koła przy małej prędkości | Pro-Stuk"
 description: "Szelest od koła przy 10–30 km/h najczęściej pochodzi od hamulców albo osłony tarczy. Jak odróżnić niegroźne muśnięcie od zużycia i co sprawdzić."
 faq:
   - q: "Szelest słychać tylko poniżej 30 km/h — czy to normalne?"
@@ -98,7 +98,7 @@ szeleści za darmo, a wina spada na klocki, którym zostało jeszcze parę lat.
 
 Odróżnienie nieszkodliwego muśnięcia od początku zużycia na słuch nie jest
 łatwe — różnica między „szurnięciem” a „szurnięciem z metalem w środku”
-ledwo przeżywa ubranie w słowa. Prościej nagrać dźwięk w aplikacji Stuk
+ledwo przeżywa ubranie w słowa. Prościej nagrać dźwięk w aplikacji Pro-Stuk
 przy wyjeżdżaniu z parkingu: aplikacja zestawia nagranie z twoimi
 odpowiedziami na kilka pytań i pokazuje prawdopodobne przyczyny z
 procentami, więc staje się jasne, czy jechać w weekend, czy spokojnie

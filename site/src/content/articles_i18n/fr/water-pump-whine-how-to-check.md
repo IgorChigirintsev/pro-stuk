@@ -1,6 +1,6 @@
 ---
 title: "Pompe à eau qui ronfle : comment la contrôler"
-metaTitle: "Pompe à eau qui ronfle : comment la contrôler | Stuk"
+metaTitle: "Pompe à eau qui ronfle : comment la contrôler | Pro-Stuk"
 description: "Pourquoi une pompe à eau ronfle, comment distinguer son bruit de celui de l'alternateur et des galets, quels contrôles faire sans rien démonter et comment se décide la réparation."
 faq:
   - q: "Comment savoir si c'est la pompe à eau et pas l'alternateur ou un galet ?"
@@ -126,7 +126,7 @@ qu'un remplacement planifié. Sur le trajet vers l'atelier, gardez un œil
 sur la jauge de température et ne sollicitez pas le moteur.
 
 Si vous n'êtes pas sûr qu'il s'agisse de la pompe, enregistrez le son sous
-le capot dans l'application Stuk : elle confronte l'enregistrement à vos
+le capot dans l'application Pro-Stuk : elle confronte l'enregistrement à vos
 réponses sur le moment et la façon dont le bruit apparaît et affiche les
 causes probables avec un niveau d'urgence — vous arrivez ainsi avec une
 hypothèse précise plutôt qu'un vague « ça ronfle ».

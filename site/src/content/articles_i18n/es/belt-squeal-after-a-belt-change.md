@@ -1,6 +1,6 @@
 ---
 title: "Chirrido después de cambiar la correa: por qué pasa y qué hacer"
-metaTitle: "Chirrido tras cambiar la correa: causas | Stuk"
+metaTitle: "Chirrido tras cambiar la correa: causas | Pro-Stuk"
 description: "Se cambió la correa pero el chirrido siguió o volvió: errores de tensión, desalineación, rodillos, polea de rueda libre. Cómo dar con la causa."
 faq:
   - q: "Una correa nueva chirría los primeros días, ¿es normal?"
@@ -131,7 +131,7 @@ fuga: una correa nueva montada sobre una fuga sin reparar es dinero
 gastado dos veces.
 
 Si quiere llegar con una teoría ya hecha, grabe el sonido en la
-aplicación Stuk: compara la grabación con casos típicos, tiene en cuenta
+aplicación Pro-Stuk: compara la grabación con casos típicos, tiene en cuenta
 sus respuestas sobre cuándo aparece el chirrido y muestra las causas
 probables con un nivel de urgencia, lo que facilita distinguir una
 cuestión de garantía de un trabajo nuevo.

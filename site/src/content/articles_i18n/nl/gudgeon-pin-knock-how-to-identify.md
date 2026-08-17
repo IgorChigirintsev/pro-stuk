@@ -1,6 +1,6 @@
 ---
 title: "Kloppende zuigerpen: zo herkent u hem"
-metaTitle: "Kloppende zuigerpen herkennen | Stuk"
+metaTitle: "Kloppende zuigerpen herkennen | Pro-Stuk"
 description: "Hoe een versleten zuigerpen klinkt, waarin hij verschilt van pingelen en klepgeluid, welke tests het bevestigen en wat de reparatie inhoudt."
 faq:
   - q: "Is het „pingelen” bij optrekken echt de zuigerpen?"

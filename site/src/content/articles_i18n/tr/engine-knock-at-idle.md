@@ -1,6 +1,6 @@
 ---
 title: "Rölantide motorda vuruntu"
-metaTitle: "Rölantide motor vuruntusu: sebepleri ve çözümü | Stuk"
+metaTitle: "Rölantide motor vuruntusu: sebepleri ve çözümü | Pro-Stuk"
 description: "Motor rölantide neden vurur: hidrolik külbütörler, triger zinciri, supaplar ya da yardımcı ekipman. Sebepler sese göre nasıl ayırt edilir."
 faq:
   - q: "Vuruntu neden rölantide duyuluyor da devir artınca kayboluyor?"
@@ -141,7 +141,7 @@ randevusu almak ve sesin değişip değişmediğini izlemek yeterlidir. Motor
 vuruntularının genel dökümü
 [motorda tıkırtı](/tr/symptoms/knocking-in-engine/) belirti sayfasında.
 
-Servise gitmeden önce ne olduğunu anlamak istiyorsanız, çalışan motoru Stuk
+Servise gitmeden önce ne olduğunu anlamak istiyorsanız, çalışan motoru Pro-Stuk
 uygulamasıyla kaydedin. Uygulama kaydı birkaç netleştirici soruya verdiğiniz
 cevaplarla eşleştirip olası sebepleri aciliyet düzeyiyle gösterir: bu
 listeyle ustayla konuşma somutlaşır.

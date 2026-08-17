@@ -1,6 +1,6 @@
 ---
 title: "Heulen aus dem Verteilergetriebe beim Renault Duster"
-metaTitle: "Duster: Verteilergetriebe heult, Prüfungen | Stuk"
+metaTitle: "Duster: Verteilergetriebe heult, Prüfungen | Pro-Stuk"
 description: "Ein Heulen unter dem Allrad-Duster: wie Sie Winkelgetriebe und Hinterachsdifferenzial von Radlager und Reifen unterscheiden und was geprüft wird."
 faq:
   - q: "Das Heulen kommt erst ab 60 km/h. Ist das das Verteilergetriebe?"

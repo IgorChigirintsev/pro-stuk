@@ -1,6 +1,6 @@
 ---
 title: "Volant qui vibre au freinage"
-metaTitle: "Volant qui vibre au freinage : les causes | Stuk"
+metaTitle: "Volant qui vibre au freinage : les causes | Pro-Stuk"
 description: "Pourquoi le volant tremble quand vous freinez : épaisseur inégale des disques, étrier grippé, jeu de moyeu. Comment le distinguer d'une vibration de roue."
 faq:
   - q: "Pourquoi le volant ne vibre-t-il qu'au freinage, alors que la voiture est saine à vitesse stabilisée ?"
@@ -128,7 +128,7 @@ tiennent nettement plus longtemps avant que les vibrations ne reviennent.
 
 Si vous n'êtes pas sûr de ce que vous ressentez — des vibrations venues des
 disques, une vibration des roues ou l'ABS qui fait son travail —
-enregistrez le bruit et décrivez la situation dans l'application Stuk. Elle
+enregistrez le bruit et décrivez la situation dans l'application Pro-Stuk. Elle
 confronte l'enregistrement à vos réponses — quand le tremblement apparaît,
 où vous le sentez, si vous étiez en train de freiner — et affiche les
 causes probables avec un niveau d'urgence. Vous arrivez au garage avec une

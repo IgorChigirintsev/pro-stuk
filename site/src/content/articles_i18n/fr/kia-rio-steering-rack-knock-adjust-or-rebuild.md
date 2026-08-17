@@ -1,6 +1,6 @@
 ---
 title: "Claquement de crémaillère sur Kia Rio : réglage ou réfection"
-metaTitle: "Kia Rio : claquement de crémaillère, réglage ou non | Stuk"
+metaTitle: "Kia Rio : claquement de crémaillère, réglage ou non | Pro-Stuk"
 description: "Un claquement de crémaillère de Kia Rio sur les petites bosses : pourquoi il apparaît, comment le séparer des biellettes, et quand un réglage suffit."
 faq:
   - q: "Un claquement de crémaillère sur Kia Rio est-il dangereux ?"
@@ -102,7 +102,7 @@ réfection, pas un ajustement. Et si une géométrie suit : toute
 intervention touchant aux biellettes modifie le pincement.
 
 Si vous ne savez pas ce qui claque — la crémaillère, les biellettes ou les
-rotules — enregistrez le son dans l'application Stuk en roulant sur une
+rotules — enregistrez le son dans l'application Pro-Stuk en roulant sur une
 petite bosse et refaites l'enregistrement en secouant le volant voiture à
 l'arrêt. L'application croise les enregistrements avec vos réponses et
 affiche les causes probables avec leurs pourcentages, pour que vous

@@ -1,6 +1,6 @@
 ---
 title: "Kayış değişiminden sonra cıyaklama: nedeni ve çözümü"
-metaTitle: "Kayış değişiminden sonra cıyaklama: nedenleri | Stuk"
+metaTitle: "Kayış değişiminden sonra cıyaklama: nedenleri | Pro-Stuk"
 description: "Kayış değişti ama ses kaldı ya da geri geldi: gerginlik hataları, eksen kaçıklığı, gergi rulmanları, serbest kasnak. Nedeni nasıl bulursunuz."
 faq:
   - q: "Yeni kayış ilk birkaç gün cıyaklıyor, bu normal mi?"
@@ -119,7 +119,7 @@ Yalnızca kayışı içeren bir teklif, geri dönen bir tekliftir. Kayış
 kirlenmişse de önce kaçak bulunmalıdır: giderilmemiş bir kaçağın üzerine
 takılan yeni kayış, iki kez ödenen paradır.
 
-Servise hazır bir tezle gitmek isterseniz sesi Stuk uygulamasına kaydedin:
+Servise hazır bir tezle gitmek isterseniz sesi Pro-Stuk uygulamasına kaydedin:
 uygulama kaydı tipik durumlarla karşılaştırır, sesin ne zaman çıktığına
 dair cevaplarınızı hesaba katar ve olası nedenleri aciliyet derecesiyle
 gösterir. Bu da garanti konusunu yeni işten ayırmayı kolaylaştırır.

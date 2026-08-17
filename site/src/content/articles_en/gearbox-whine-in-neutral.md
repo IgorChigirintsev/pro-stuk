@@ -1,7 +1,7 @@
 ---
 ru: "gul-korobki-peredach-na-nejtrali"
 title: "Gearbox whine in neutral"
-metaTitle: "Gearbox whine in neutral: causes and checks | Stuk"
+metaTitle: "Gearbox whine in neutral: causes and checks | Pro-Stuk"
 description: "A whine in neutral with the clutch up usually points to the input shaft bearing or the oil level. How to tell it from the release bearing in one pedal test."
 pubDate: "2026-07-23"
 related:
@@ -95,6 +95,6 @@ appears, or metal debris shows up on the drain plug magnet — that means
 the bearing is already breaking up.
 
 If the whine is quiet and you are not sure whether it follows the pedal,
-record it in the Stuk app in both states: clutch up and clutch down. The
+record it in the Pro-Stuk app in both states: clutch up and clutch down. The
 app compares the recordings with your answers and shows the likely causes
 with percentages, along with what to check before the visit.

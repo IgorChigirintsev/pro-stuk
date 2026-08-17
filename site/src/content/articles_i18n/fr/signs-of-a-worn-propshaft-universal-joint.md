@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un croisillon de cardan usé"
-metaTitle: "Croisillon de cardan usé : les signes | Stuk"
+metaTitle: "Croisillon de cardan usé : les signes | Pro-Stuk"
 description: "Un choc au démarrage, des vibrations à vitesse, un tintement métallique sous le plancher : comment lire l'usure d'un croisillon stade par stade et quand le remplacer."
 faq:
   - q: "Comment distinguer un croisillon du palier de transmission ?"
@@ -108,6 +108,6 @@ vibrations qui suivent une réparation.
 
 Si le claquement est encore occasionnel et que vous voulez savoir s'il
 vient vraiment de sous le plancher et non de la suspension,
-enregistrez-le dans l'application Stuk au moment du démarrage.
+enregistrez-le dans l'application Pro-Stuk au moment du démarrage.
 L'application confronte l'enregistrement à vos réponses à quelques
 questions et affiche les causes probables avec un pourcentage.

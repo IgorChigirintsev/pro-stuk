@@ -1,6 +1,6 @@
 ---
 title: "Ronzio del cambio a una certa velocità"
-metaTitle: "Ronzio del cambio a una certa velocità | Stuk"
+metaTitle: "Ronzio del cambio a una certa velocità | Pro-Stuk"
 description: "Un ronzio che compare in una finestra stretta di velocità e cambia con il gas viene di solito dal cambio o dal gruppo finale. Come riconoscerlo con sicurezza."
 faq:
   - q: "Perché il ronzio si sente solo tra 60 e 80 km/h e sopra sparisce?"
@@ -103,7 +103,7 @@ modificatore d’attrito sbagliato produce esattamente il rumore che
 volevate eliminare.
 
 Se il ronzio è debole e non siete sicuri che venga dal cambio o dalle
-ruote, registratelo nell’app Stuk proprio alla velocità in cui è più
+ruote, registratelo nell’app Pro-Stuk proprio alla velocità in cui è più
 chiaro, poi ripetete la registrazione con una marcia diversa. L’app
 confronta le due registrazioni con le vostre risposte e mostra le cause
 probabili in percentuale.

@@ -1,6 +1,6 @@
 ---
 title: "Rumore metallico sotto l'auto in accelerazione"
-metaTitle: "Rumore sotto l'auto in accelerazione | Stuk"
+metaTitle: "Rumore sotto l'auto in accelerazione | Pro-Stuk"
 description: "Paratie termiche, scarico che tocca la scocca, detonazione o catalizzatore rotto: perché in accelerazione compare un rumore metallico sotto l'auto e come distinguere l'innocuo."
 faq:
   - q: "Come distinguo il vibrare di una paratia termica dalla detonazione del motore?"
@@ -127,7 +127,7 @@ riga, e il senso dell'ispezione è accertarsi che sia davvero questo il
 caso — e non la detonazione travestita da innocuo tintinnio.
 
 Non è sicuro se sia un rumore meccanico o il suono della detonazione?
-Registri un'accelerazione con l'app Stuk: confronta lo spettro del suono
+Registri un'accelerazione con l'app Pro-Stuk: confronta lo spettro del suono
 con le sue risposte su quando compare e mostra le cause probabili con un
 livello di urgenza. Con quella registrazione, il meccanico non dovrà
 girare con lei per mezz'ora a caccia del rumore.

@@ -1,6 +1,6 @@
 ---
 title: "Uğuldayan şanzımanla araç kullanılır mı"
-metaTitle: "Uğuldayan şanzımanla araç kullanılır mı? | Stuk"
+metaTitle: "Uğuldayan şanzımanla araç kullanılır mı? | Pro-Stuk"
 description: "Uğuldayan şanzıman aracı hemen durdurmaz ama kalan pay sesin karakterine bağlıdır. Neyin uğuldadığı, hangi belirtiler acil ve ne yapmak gerekir."
 faq:
   - q: "Uğuldayan şanzımanla kaç kilometre gidebilirim?"
@@ -103,7 +103,7 @@ inceleniyor:
 [otomatik şanzımanda vites değişiminde sarsıntı ve gümbürtü](/tr/articles/automatic-gearbox-jolts-and-clunks-when-shifting/).
 
 Uğultu hâlâ düzgünse ve arkasında bir mil rulmanı mı yoksa sıradan lastik
-gürültüsü mü olduğunu öğrenmek istiyorsanız, sesi Stuk uygulamasında farklı
+gürültüsü mü olduğunu öğrenmek istiyorsanız, sesi Pro-Stuk uygulamasında farklı
 viteslerde ve rölövede kaydedin. Uygulama kayıtları birbiriyle karşılaştırır
 ve olası sebepleri yüzdelerle gösterir — bu da teşhis ziyaretini
 kolaylaştırır.

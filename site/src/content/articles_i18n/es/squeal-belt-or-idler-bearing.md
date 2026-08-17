@@ -1,6 +1,6 @@
 ---
 title: "Un chirrido: ¿la correa o el rodamiento de un rodillo?"
-metaTitle: "Chirrido en el vano motor: correa o rodillo | Stuk"
+metaTitle: "Chirrido en el vano motor: correa o rodillo | Pro-Stuk"
 description: "Un chirrido bajo el capó lo produce tanto una correa que patina como el rodamiento de un rodillo agonizando. Cómo separarlos por las condiciones en que aparece el sonido."
 faq:
   - q: "¿Por qué la correa chirría solo con humedad?"
@@ -103,7 +103,7 @@ contaminadas repite la historia en días, como se cuenta en
 [chirridos después de cambiar la correa](/es/articles/belt-squeal-after-a-belt-change/).
 
 Un chirrido bajo el capó es de los sonidos que se graban bien con el móvil.
-Haga dos grabaciones con la aplicación Stuk: una al ralentí sin carga y
+Haga dos grabaciones con la aplicación Pro-Stuk: una al ralentí sin carga y
 otra con el aire acondicionado y las luces encendidos. La aplicación las
 compara y muestra hacia qué versión se inclina la estampa, antes de que
 esté usted delante del mostrador del taller.

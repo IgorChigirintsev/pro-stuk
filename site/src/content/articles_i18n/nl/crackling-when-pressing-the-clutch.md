@@ -1,6 +1,6 @@
 ---
 title: "Geknetter bij het intrappen van de koppeling"
-metaTitle: "Geknetter bij intrappen koppeling: oorzaken | Stuk"
+metaTitle: "Geknetter bij intrappen koppeling: oorzaken | Pro-Stuk"
 description: "Geknetter terwijl het koppelingspedaal omlaaggaat komt meestal van de vork, de geleidebus of een droog scharnier. Zo scheidt u een goedkope oorzaak van bak-eruit werk."
 faq:
   - q: "Is geknetter op het pedaal het druklager?"

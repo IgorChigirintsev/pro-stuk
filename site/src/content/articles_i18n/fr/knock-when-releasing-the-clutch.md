@@ -1,6 +1,6 @@
 ---
 title: "Un claquement au relâchement de l'embrayage"
-metaTitle: "Claquement au relâchement de l'embrayage : causes | Stuk"
+metaTitle: "Claquement au relâchement de l'embrayage : causes | Pro-Stuk"
 description: "Un claquement quand la pédale d'embrayage remonte vient de l'amortisseur du disque, du volant, des supports moteur et des cardans. Comment trier."
 faq:
   - q: "Un claquement quand la pédale remonte signifie-t-il un embrayage neuf ?"
@@ -94,7 +94,7 @@ inclus tant que la boîte est déposée : la butée, le joint spi de sortie
 et, sur un volant bimasse, la mesure qui décide s'il reste en place.
 
 Si le claquement est encore occasionnel et que vous ne savez pas d'où il
-vient, enregistrez-le deux fois dans l'application Stuk : sur un coup
+vient, enregistrez-le deux fois dans l'application Pro-Stuk : sur un coup
 d'accélérateur au point mort, puis au démarrage. L'application compare les
 enregistrements avec vos réponses et affiche les causes probables avec
 leurs pourcentages.

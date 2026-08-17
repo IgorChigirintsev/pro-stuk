@@ -1,6 +1,6 @@
 ---
 title: "Serviste teşhis sırasında fazla iş satılmasını nasıl önlersiniz"
-metaTitle: "Serviste fazla iş satılmasını nasıl önlersiniz | Stuk"
+metaTitle: "Serviste fazla iş satılmasını nasıl önlersiniz | Pro-Stuk"
 description: "Dürüst bir teşhis neleri içerir, hangi cümleler soru sormanızı gerektirir ve arabadan anlamadan size çıkarılan iş listesini nasıl kontrol edersiniz."
 faq:
   - q: "Ücretsiz teşhis normal mi?"
@@ -90,6 +90,6 @@ kalemlerin konfor olduğunu sorun. Düzgün bir usta bunları tereddütsüz
 ayırır, çünkü araca kendisi de böyle bakar.
 
 Son olarak, sesi anlatmak yerine sesin kendisiyle gitmek işe yarar. En net
-duyulduğu durumda Stuk uygulamasına kaydedin. Uygulama kaydı
+duyulduğu durumda Pro-Stuk uygulamasına kaydedin. Uygulama kaydı
 cevaplarınızla eşleştirir ve olası nedenleri yüzdelerle gösterir; böylece
 konuşma boş bir sayfadan değil, somut bir tezden başlar.

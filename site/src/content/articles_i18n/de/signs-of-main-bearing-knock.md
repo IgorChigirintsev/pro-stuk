@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für Hauptlagerklopfen"
-metaTitle: "Anzeichen für Hauptlagerklopfen im Motor | Stuk"
+metaTitle: "Anzeichen für Hauptlagerklopfen im Motor | Pro-Stuk"
 description: "Ein schweres tiefes Klopfen vom Boden des Blocks, fallender Öldruck und Vibration: so erkennen Sie verschlissene Hauptlager und grenzen sie ab."
 faq:
   - q: "Wie unterscheidet sich Hauptlagerklopfen von Pleuellagerklopfen?"

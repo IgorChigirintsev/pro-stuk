@@ -1,7 +1,7 @@
 ---
 ru: "stuk-fazovrashchatelej-na-holodnuyu"
 title: "Cam phaser rattle when cold"
-metaTitle: "Cam phaser rattle when cold: causes and repair | Stuk"
+metaTitle: "Cam phaser rattle when cold: causes and repair | Pro-Stuk"
 description: "Why cam phasers rattle for the first seconds after a cold start: a worn actuator, the OCV valve, the oil. How to check it yourself and what follows."
 pubDate: "2026-07-08"
 related:
@@ -108,7 +108,7 @@ rattles exactly like the old one.
 Dragging it out for years is not sensible: a hammered actuator accelerates
 chain wear, the engine loses power and starts using more fuel.
 
-Not sure it is the phaser rattling? Record a cold start in the Stuk app —
+Not sure it is the phaser rattling? Record a cold start in the Pro-Stuk app —
 the algorithm compares the sound with typical profiles, takes your answers
 about the moment and duration of the rattle into account and shows the
 likely causes with an urgency level.

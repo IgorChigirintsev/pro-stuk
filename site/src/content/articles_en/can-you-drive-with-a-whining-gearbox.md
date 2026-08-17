@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-s-voyushchej-korobkoj"
 title: "Can you drive with a whining gearbox"
-metaTitle: "Can you drive with a whining gearbox? | Stuk"
+metaTitle: "Can you drive with a whining gearbox? | Pro-Stuk"
 description: "A whining gearbox rarely stops the car at once, but the margin depends on the character of the sound. What whines, which signs are urgent and what to do."
 pubDate: "2026-07-30"
 related:
@@ -113,7 +113,7 @@ and ticking lifters, whose cost of delay is set out in
 [what happens if you drive with noisy hydraulic lifters](/en/articles/driving-with-noisy-hydraulic-lifters/).
 
 If the whine is still even and you want to know whether a shaft bearing is
-behind it or it is ordinary tyre noise, record the sound in the Stuk app in
+behind it or it is ordinary tyre noise, record the sound in the Pro-Stuk app in
 different gears and while coasting. The app compares the recordings with
 each other and shows the likely causes with percentages — which makes the
 diagnostic visit easier.

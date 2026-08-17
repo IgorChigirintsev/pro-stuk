@@ -1,6 +1,6 @@
 ---
-title: "Stuk wałków wyrównoważających EP6 w Peugeocie i Citroënie"
-metaTitle: "Stuk wałków wyrównoważających EP6: co stuka | Stuk"
+title: "Pro-Stuk wałków wyrównoważających EP6 w Peugeocie i Citroënie"
+metaTitle: "Pro-Stuk wałków wyrównoważających EP6: co stuka | Pro-Stuk"
 description: "Co naprawdę stuka w silniku EP6, gdy właściciele mówią o wałkach wyrównoważających: łańcuch, napinacz, fazy rozrządu i olej. Kontrole po kolei."
 faq:
   - q: "Czy EP6 ma wałki wyrównoważające?"
@@ -102,7 +102,7 @@ one są powodem grzechotu faz, a świeży regulator karmiony przez zapchane
 sitko zachowuje się dokładnie tak jak stary.
 
 Jeżeli warto uchwycić dźwięk, zanim się zmieni, proszę nagrać go
-aplikacją Stuk w pierwszych sekundach po zimnym rozruchu. Aplikacja
+aplikacją Pro-Stuk w pierwszych sekundach po zimnym rozruchu. Aplikacja
 zestawia nagranie z odpowiedziami na kilka pytań i pokazuje prawdopodobne
 przyczyny z procentami — a zapisane nagranie przydaje się miesiąc później,
 żeby stwierdzić, czy zrobiło się gorzej.

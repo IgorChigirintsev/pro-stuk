@@ -1,6 +1,6 @@
 ---
 title: "Lo scarico è diventato più rumoroso: le cause"
-metaTitle: "Scarico diventato più rumoroso: cause e rimedi | Stuk"
+metaTitle: "Scarico diventato più rumoroso: cause e rimedi | Pro-Stuk"
 description: "Silenziatore forato, flessibile strappato, giunti e guarnizioni: perché lo scarico è diventato più rumoroso, cosa rischia e come si decide la riparazione."
 faq:
   - q: "Perché i silenziatori si forano dall'interno?"
@@ -121,6 +121,6 @@ i consumi salgono — il che significa che prima si chiude la perdita, meno cost
 tutto l'insieme, carburante compreso.
 
 Non è sicuro che sia lo scarico ad aver cambiato voce? Registri l'auto in moto
-nell'app Stuk: confronta la registrazione con le sue risposte su quando il suono
+nell'app Pro-Stuk: confronta la registrazione con le sue risposte su quando il suono
 è più forte e mostra le cause probabili con un livello di urgenza — così è più
 facile scegliere l'officina e non pagare troppo per la ricerca.

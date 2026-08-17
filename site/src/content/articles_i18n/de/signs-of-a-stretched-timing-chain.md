@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen einer gelängten Steuerkette"
-metaTitle: "Steuerkette gelängt: Geräusch und Prüfung | Stuk"
+metaTitle: "Steuerkette gelängt: Geräusch und Prüfung | Pro-Stuk"
 description: "Wie eine gelängte Steuerkette klingt, welche Fehlercodes sie erzeugt, wie die Längung ohne Motorzerlegung gemessen wird und wie die Reparatur entschieden wird."
 faq:
   - q: "Was ist das allererste Anzeichen einer gelängten Steuerkette?"

@@ -1,6 +1,6 @@
 ---
 title: "Bremsenquietschen nach Regen: normal oder nicht"
-metaTitle: "Bremsenquietschen nach Regen: normal oder nicht | Stuk"
+metaTitle: "Bremsenquietschen nach Regen: normal oder nicht | Pro-Stuk"
 description: "Warum Bremsen nach Regen und nach dem Stehen quietschen, wann es harmloser Rostfilm auf der Scheibe ist und wann ein Zeichen verschlissener Beläge."
 faq:
   - q: "Wie viele Bremsungen braucht es, bis ein Quietschen nach Regen weg ist?"

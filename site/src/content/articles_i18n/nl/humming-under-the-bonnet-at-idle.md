@@ -1,6 +1,6 @@
 ---
 title: "Gebrom onder de motorkap bij stationair draaien"
-metaTitle: "Gebrom onder de kap stationair: de bron | Stuk"
+metaTitle: "Gebrom onder de kap stationair: de bron | Pro-Stuk"
 description: "Wat bromt er stationair onder de kap: koelventilator, dynamo, aircocompressor, waterpomp of spanrollen. Simpele schakeltests die de bron aanwijzen."
 faq:
   - q: "Is het normaal dat er gebrom komt als de airco aangaat?"

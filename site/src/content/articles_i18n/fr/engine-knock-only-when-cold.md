@@ -1,6 +1,6 @@
 ---
 title: "Un claquement moteur seulement à froid : le tableau complet"
-metaTitle: "Claquement moteur seulement à froid : tout savoir | Stuk"
+metaTitle: "Claquement moteur seulement à froid : tout savoir | Pro-Stuk"
 description: "Pourquoi un moteur claque après le démarrage puis se tait en chauffant : poussoirs, jupes de piston, chaîne, déphaseurs. Où s'arrête le normal."
 faq:
   - q: "Pourquoi le claquement disparaît-il précisément quand le moteur chauffe ?"
@@ -115,7 +115,7 @@ peine d'être demandées pour les voir de vos propres yeux — c'est le seul
 constat qui tranche entre une réparation et une réfection.
 
 Pour éviter de deviner par quelle ligne du devis commencer, enregistrez un
-démarrage à froid dans l'application Stuk — au petit matin, devant le
+démarrage à froid dans l'application Pro-Stuk — au petit matin, devant le
 capot. Elle confronte le son à vos réponses sur les conditions et affiche
 les causes probables avec leurs pourcentages et un niveau d'urgence : avec
 ça, vous pouvez avoir une conversation concrète avec un garage.

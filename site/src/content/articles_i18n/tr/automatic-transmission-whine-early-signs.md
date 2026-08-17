@@ -1,6 +1,6 @@
 ---
 title: "Otomatik şanzıman uğultusu: ilk belirtiler"
-metaTitle: "Otomatik şanzıman uğultusu: ilk belirtiler | Stuk"
+metaTitle: "Otomatik şanzıman uğultusu: ilk belirtiler | Pro-Stuk"
 description: "Erken evrede otomatik şanzıman uğultusu: nasıl duyulur, teker rulmanı ve lastik sesinden nasıl ayrılır ve ilk olarak neler kontrol edilir."
 faq:
   - q: "Şanzıman uğultusu yol hızını mı, motor devrini mi takip eder?"
@@ -95,7 +95,7 @@ göre kısaltmak mantıklıdır; çekme ve karda uzun süre patinaj yapmayı da
 ayrıntı değil, şanzımana binen ayrı bir yük olarak saymak gerekir.
 
 Uğultu hafifse ve hızı mı yoksa vitesi mi takip ettiğini öğrenmek
-istiyorsanız, Stuk uygulamasına iki kısa kayıt alın: biri gaz altında
+istiyorsanız, Pro-Stuk uygulamasına iki kısa kayıt alın: biri gaz altında
 hızlanırken, diğeri aynı hızda ayağınız gazdan çekilmişken. Uygulama
 kayıtları karşılaştırır ve önce hangi yöne bakmanız gerektiğini söyler:
 aktarma organları mı, alt takım mı.

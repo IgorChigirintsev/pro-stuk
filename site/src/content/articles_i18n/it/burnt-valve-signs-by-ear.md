@@ -1,6 +1,6 @@
 ---
 title: "Segni di una valvola bruciata riconoscibili a orecchio"
-metaTitle: "Valvola bruciata: i segni a orecchio | Stuk"
+metaTitle: "Valvola bruciata: i segni a orecchio | Pro-Stuk"
 description: "Scoppiettii ritmici allo scarico, mancate accensioni e sibilo al minimo: come riconoscere una valvola bruciata dal suono e quali prove confermano l'ipotesi."
 faq:
   - q: "In cosa differisce a orecchio una valvola bruciata da una mancata accensione?"
@@ -104,7 +104,7 @@ scoppiettii ritmici e mancate accensioni porta direttamente a un
 catalizzatore surriscaldato e a un cilindro rovinato.
 
 Se gli scoppiettii sono saltuari e non è sicura che siano ritmici,
-registri il minimo e un breve colpo di gas con l'app Stuk. Valuta la
+registri il minimo e un breve colpo di gas con l'app Pro-Stuk. Valuta la
 periodicità del suono e il suo legame con il regime, mostra le cause
 probabili in percentuale, e lei arriva alla diagnosi con un'ipotesi che
 serve solo verificare.

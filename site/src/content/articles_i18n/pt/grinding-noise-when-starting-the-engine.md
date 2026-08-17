@@ -1,6 +1,6 @@
 ---
 title: "Barulho de raspagem ao dar partida no motor"
-metaTitle: "Raspagem na partida: arranque, cremalheira, corrente | Stuk"
+metaTitle: "Raspagem na partida: arranque, cremalheira, corrente | Pro-Stuk"
 description: "Raspagem ao dar partida: pinhão do motor de arranque, cremalheira do volante, corrente de comando. Como achar a origem pelo momento em que o som ocorre."
 faq:
   - q: "Por que a raspagem não acontece em toda partida?"
@@ -118,6 +118,6 @@ válvula encontrar o pistão. Os dois cenários se desenvolvem ao longo de
 semanas e meses, e os dois são bem mais baratos de estancar no começo.
 
 Se você não sabe em que momento a raspagem mora, grave a partida no
-aplicativo Stuk: o algoritmo cruza o som com suas respostas e mostra as
+aplicativo Pro-Stuk: o algoritmo cruza o som com suas respostas e mostra as
 causas prováveis com um nível de urgência — assim você chega à oficina com
 uma teoria de trabalho em vez de um palpite.

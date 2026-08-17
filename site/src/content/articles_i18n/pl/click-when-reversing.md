@@ -1,6 +1,6 @@
 ---
 title: "Kliknięcie przy ruszaniu na wstecznym biegu"
-metaTitle: "Kliknięcie przy ruszaniu na wstecznym | Stuk"
+metaTitle: "Kliknięcie przy ruszaniu na wstecznym | Pro-Stuk"
 description: "Jedno suche kliknięcie przy ruszaniu na wstecznym to prawie zawsze wybieranie luzu. Gdzie się gromadzi: klocki, przeguby, krzyżak, poduszki silnika."
 faq:
   - q: "Dlaczego kliknięcie słychać tylko na wstecznym, a do przodu nie?"
@@ -44,7 +44,7 @@ rośnie.
 |---|---|
 | Klocek w zacisku | Kliknięcie przy pierwszym hamowaniu po ruszeniu, dźwięk przy kole |
 | Zewnętrzny przegub napędowy | Chrupanie w zakręcie pod gazem, ślady smaru |
-| Wewnętrzny przegub napędowy | Stuk przez nadwozie przy ruszaniu, drgania przy przyspieszaniu |
+| Wewnętrzny przegub napędowy | Pro-Stuk przez nadwozie przy ruszaniu, drgania przy przyspieszaniu |
 | Krzyżak wału napędowego | Kliknięcie spod środka podłogi, drgania przy prędkości |
 | Poduszka silnika | Silnik widocznie kiwa się przy zmianie z D na R |
 | Łącznik stabilizatora | Kliknięcie powtarza się na nierównościach, nie tylko przy ruszaniu |
@@ -99,6 +99,6 @@ najpierw wykluczono stronę hamulcową, bo to najtańsza i najczęstsza
 odpowiedź.
 
 Jeśli chce Pan zawęzić listę jeszcze przed wizytą w warsztacie, proszę nagrać
-dźwięk w aplikacji Stuk podczas ruszania na wstecznym: aplikacja zestawia
+dźwięk w aplikacji Pro-Stuk podczas ruszania na wstecznym: aplikacja zestawia
 nagranie z odpowiedziami na kilka pytań i pokazuje prawdopodobne przyczyny w
 procentach.

@@ -1,6 +1,6 @@
 ---
 title: "El salpicadero traquetea"
-metaTitle: "Salpicadero que traquetea: cómo hallar el origen | Stuk"
+metaTitle: "Salpicadero que traquetea: cómo hallar el origen | Pro-Stuk"
 description: "Un salpicadero que traquetea molesta más de lo que daña. Por qué zumba el plástico, cómo encontrar el punto de contacto en diez minutos y cuándo no es el salpicadero."
 faq:
   - q: "¿Es peligroso que traquetee el salpicadero?"
@@ -112,7 +112,7 @@ ya ha encontrado el panel que silencia el ruido al presionarlo, dígalo lo
 primero.
 
 Si no consigue averiguar si traquetea el tablero o algo detrás de él,
-grabe el sonido en la aplicación Stuk desde dentro del habitáculo, al
+grabe el sonido en la aplicación Pro-Stuk desde dentro del habitáculo, al
 ralentí y en marcha. La aplicación cruza la grabación con unas pocas
 respuestas y muestra los orígenes probables con porcentajes, para que
 nadie tenga que desmontar el salpicadero a ciegas.

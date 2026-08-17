@@ -1,6 +1,6 @@
 ---
 title: "El motor de arranque chasquea pero no gira"
-metaTitle: "El arranque chasquea pero no gira: causas | Stuk"
+metaTitle: "El arranque chasquea pero no gira: causas | Pro-Stuk"
 description: "Al girar la llave suena un chasquido o un castañeteo rápido, pero el motor no gira. Qué significa cada uno y cómo separar la batería del motor de arranque."
 faq:
   - q: "¿Qué diferencia hay entre un chasquido único y un castañeteo rápido?"
@@ -95,7 +95,7 @@ Otros sonidos del vano motor al arrancar están reunidos en la página de
 síntoma [chirrido al arrancar](/es/symptoms/squeal-on-startup/).
 
 Si los chasquidos van y vienen y el coche arranca a la primera justo en el
-taller, grabe un intento de arranque con la aplicación Stuk. La aplicación
+taller, grabe un intento de arranque con la aplicación Pro-Stuk. La aplicación
 compara el carácter de los chasquidos con sus respuestas sobre cómo se
 comportaron los instrumentos y sugiere qué enseñarle al mecánico: la
 batería, el cableado o el motor de arranque.

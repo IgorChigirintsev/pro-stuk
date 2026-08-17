@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć z rozciągniętym łańcuchem rozrządu"
-metaTitle: "Jazda z rozciągniętym łańcuchem rozrządu | Stuk"
+metaTitle: "Jazda z rozciągniętym łańcuchem rozrządu | Pro-Stuk"
 description: "Czym grozi rozciągnięty łańcuch rozrządu, kiedy wolno dojechać do warsztatu samemu, kiedy potrzebna jest laweta i ile naprawdę kosztuje zwłoka."
 faq:
   - q: "Ile przejadę z rozciągniętym łańcuchem rozrządu?"
@@ -139,6 +139,6 @@ To środki zmniejszające ryzyko, a nie sposób na odłożenie naprawy: zużyty
 łańcuch się nie regeneruje i z czasem nie tanieje.
 
 Jeśli nie ma Pan pewności, że hałasuje łańcuch, proszę nagrać silnik w
-aplikacji Stuk: zestawi nagranie z odpowiedziami na kilka pytań i pokaże
+aplikacji Pro-Stuk: zestawi nagranie z odpowiedziami na kilka pytań i pokaże
 prawdopodobne przyczyny wraz z oceną pilności. Łatwiej wtedy zdecydować
 między dojazdem do warsztatu a wezwaniem lawety od razu.

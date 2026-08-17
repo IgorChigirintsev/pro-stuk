@@ -1,6 +1,6 @@
 ---
 title: "Amortisör üst yatak rulmanı ses yapıyor: belirtiler"
-metaTitle: "Amortisör üst yatak rulmanı sesi: belirtiler | Stuk"
+metaTitle: "Amortisör üst yatak rulmanı sesi: belirtiler | Pro-Stuk"
 description: "Park hâlinde direksiyon çevirirken tıklama ve çıtırtı, küçük çukurlarda tıkırtı, ağır direksiyon — aşınmış üst yatak rulmanı nasıl anlaşılır."
 faq:
   - q: "Üst yatak rulmanını aks kafasından nasıl ayırırım?"
@@ -94,7 +94,7 @@ yayın aynı konumda geri takılıp takılmayacağı — toplarken yanlış otur
 yay, onarımdan hemen sonra beliren yeni tıkırtıların sık görülen kaynağıdır.
 
 Çıtırtı belirsizse ve nereden geldiğinden emin değilseniz, önce araç park
-hâlindeyken direksiyonu çevirişinizi, sonra da otoparkta bir turu Stuk
+hâlindeyken direksiyonu çevirişinizi, sonra da otoparkta bir turu Pro-Stuk
 uygulamasıyla kaydedin. Uygulama iki parçayı karşılaştırır, yanıtlarınızla
 eşleştirir ve olası nedenleri yüzdelerle gösterir — tam da amortisör boş yere
 sökülmesin diye.

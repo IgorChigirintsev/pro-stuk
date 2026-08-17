@@ -1,6 +1,6 @@
 ---
 title: "Takoz (tampon) aşınmasının belirtileri"
-metaTitle: "Aşınmış amortisör takozu: belirtiler | Stuk"
+metaTitle: "Aşınmış amortisör takozu: belirtiler | Pro-Stuk"
 description: "Çukurlarda küt darbeler, kule içinde köpük kırıntıları, süspansiyonun dibe vurması: aşınmış takozlar nasıl anlaşılır ve neden amortisörle değişir."
 faq:
   - q: "Amortisör takozu nedir, ne işe yarar?"
@@ -119,6 +119,6 @@ amortisör üreticilerinin setlerinde doğru geometride takoz ve körük birlikt
 gelir.
 
 Çukurlardaki küt darbelerin gerçekten takozlardan geldiğinden emin değil
-misiniz? Sesi Stuk uygulamasında kaydedin: kaydı, aracın nasıl davrandığına
+misiniz? Sesi Pro-Stuk uygulamasında kaydedin: kaydı, aracın nasıl davrandığına
 dair cevaplarınızla eşleştirir ve olası nedenleri yüzdeyle, aciliyet
 seviyesiyle gösterir — servise çalışan bir teoriyle gidersiniz.

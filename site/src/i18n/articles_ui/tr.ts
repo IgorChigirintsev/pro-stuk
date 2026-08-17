@@ -19,7 +19,7 @@ export const tr: ArticleUi = {
   hubQuizSub:
     'Etkileşimli teşhis ağacı: birkaç soru ve olası nedenler listesi belirgin şekilde kısalır.',
   hubOther: 'Diğer bölümler',
-  indexTitle: 'Araba sesleri üzerine makaleler | Stuk',
+  indexTitle: 'Araba sesleri üzerine makaleler | Pro-Stuk',
   indexDescription:
     'Araba sesleri rehberi: tıkırtı, gıcırtı, uğultu, ıslık ve takırtı. Her sesin anlamı, kendiniz neyi kontrol edebilirsiniz ve ne kadar acil.',
   indexH1: 'Makaleler',

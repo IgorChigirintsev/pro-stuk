@@ -1,7 +1,7 @@
 ---
 ru: "stuk-dvigatelya-ili-navesnogo-kak-lokalizovat"
 title: "Engine or accessory knock: how to localise it"
-metaTitle: "Engine or accessory knock: how to find it | Stuk"
+metaTitle: "Engine or accessory knock: how to find it | Pro-Stuk"
 description: "A knock from the engine bay does not always come from the engine. A few checks separate the belt-driven accessories from the engine's own mechanics."
 pubDate: "2026-06-15"
 related:
@@ -100,7 +100,7 @@ There, driving on turns the repair into a rebuild, and the right move is
 not to make it “until Monday” but to stop.
 
 If you want to capture the sound before the workshop visit, record it in
-the Stuk app in two regimes: at idle with no load, and immediately after
+the Pro-Stuk app in two regimes: at idle with no load, and immediately after
 switching on the air conditioning and the lights. The difference between
 the two recordings is exactly what you are looking for, and the app
 matches them with your answers and shows the likely causes with

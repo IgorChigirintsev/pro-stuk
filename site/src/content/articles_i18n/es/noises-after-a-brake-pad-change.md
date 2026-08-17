@@ -1,6 +1,6 @@
 ---
 title: "Ruidos tras cambiar las pastillas: qué es normal"
-metaTitle: "Ruidos tras cambiar pastillas: qué es normal | Stuk"
+metaTitle: "Ruidos tras cambiar pastillas: qué es normal | Pro-Stuk"
 description: "Unas pastillas nuevas casi siempre hacen ruido los primeros cientos de kilómetros. Qué sonidos son del asentado y cuáles delatan un fallo de montaje."
 faq:
   - q: "¿Cuánto tiempo pueden sonar unas pastillas nuevas?"
@@ -111,7 +111,7 @@ taller de inmediato en lugar de rodar para asentarlas:
 [¿se puede circular con los frenos rascando?](/es/articles/can-you-drive-with-grinding-brakes/).
 
 Para no adivinar si el ruido está dentro de lo normal, grábelo en la
-aplicación Stuk el primer día tras el cambio y otra vez dos semanas
+aplicación Pro-Stuk el primer día tras el cambio y otra vez dos semanas
 después. Comparar las dos grabaciones muestra la tendencia mejor que
 cualquier impresión: el ruido de asentado se debilita de forma clara en
 ese plazo, mientras que una avería se queda igual o crece.

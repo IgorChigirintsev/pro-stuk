@@ -1,6 +1,6 @@
 ---
 title: "Piepende remmen na stilstaan: normaal of niet"
-metaTitle: "Piepende remmen na stilstaan: normaal of niet | Stuk"
+metaTitle: "Piepende remmen na stilstaan: normaal of niet | Pro-Stuk"
 description: "Een ochtendpiep van de remmen na een nacht buiten is meestal roestaanslag op de schijf. Zo scheidt u het van versleten materiaal en wanneer u naar de garage moet."
 faq:
   - q: "Waarom piepen de remmen alleen 's ochtends?"

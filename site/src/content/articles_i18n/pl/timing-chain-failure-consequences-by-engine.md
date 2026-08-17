@@ -1,6 +1,6 @@
 ---
 title: "Zerwany łańcuch rozrządu: skutki według silników"
-metaTitle: "Zerwany łańcuch rozrządu: skutki wg silnika | Stuk"
+metaTitle: "Zerwany łańcuch rozrządu: skutki wg silnika | Pro-Stuk"
 description: "Co dzieje się z silnikiem, gdy łańcuch rozrządu pęka albo przeskakuje, i dlaczego jedne silniki wymagają tylko łańcucha, a inne remontu głowicy."
 faq:
   - q: "Czy we wszystkich silnikach zerwanie łańcucha gnie zawory?"
@@ -97,7 +97,7 @@ Co oznacza grzechot, dopóki jest jeszcze tylko grzechotem, opisano w tekście
 [czy można jeździć z rozciągniętym łańcuchem rozrządu](/pl/articles/can-you-drive-with-a-stretched-timing-chain/).
 
 Jeśli grzechot pojawił się przy zimnym starcie i nie masz pewności, czy to
-łańcuch, czy coś nieszkodliwego, nagraj w aplikacji Stuk pierwsze pięć sekund
+łańcuch, czy coś nieszkodliwego, nagraj w aplikacji Pro-Stuk pierwsze pięć sekund
 pracy silnika. Aplikacja zestawia nagranie z twoimi odpowiedziami i pokazuje
 prawdopodobne przyczyny z procentami — na tym etapie różnica w decyzji mierzy
 się kosztem całego silnika.

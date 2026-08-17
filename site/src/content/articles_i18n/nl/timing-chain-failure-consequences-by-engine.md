@@ -1,6 +1,6 @@
 ---
 title: "Gebroken distributieketting: de gevolgen per motor"
-metaTitle: "Distributieketting gebroken: gevolgen per motor | Stuk"
+metaTitle: "Distributieketting gebroken: gevolgen per motor | Pro-Stuk"
 description: "Wat er met een motor gebeurt als de distributieketting breekt of overslaat, en waarom de ene motor alleen een ketting nodig heeft en de andere een nieuwe kop."
 faq:
   - q: "Buigen bij elke motor de kleppen krom als de ketting breekt?"

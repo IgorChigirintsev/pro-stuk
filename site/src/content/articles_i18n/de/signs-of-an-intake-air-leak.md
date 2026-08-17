@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für Falschluft am Ansaugtrakt"
-metaTitle: "Falschluft am Ansaugtrakt: so finden Sie sie | Stuk"
+metaTitle: "Falschluft am Ansaugtrakt: so finden Sie sie | Pro-Stuk"
 description: "Schwankender Leerlauf, Pfeifen oder Zischen unter der Haube, mageres Gemisch und Gemischadaptionen — so erkennen Sie Falschluft und so wird sie gefunden."
 faq:
   - q: "Warum lässt Falschluft den Leerlauf schwanken?"

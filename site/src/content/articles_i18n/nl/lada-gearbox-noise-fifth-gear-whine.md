@@ -1,6 +1,6 @@
 ---
 title: "Lawaai uit de Lada-versnellingsbak: gejank in de vijfde"
-metaTitle: "Lada-bak: gejank in de vijfde versnelling | Stuk"
+metaTitle: "Lada-bak: gejank in de vijfde versnelling | Pro-Stuk"
 description: "Gejank in de vijfde van een Lada-bak: waarom juist de hoogste versnelling het begeeft, hoe u baklawaai van een wiellager scheidt en wat u controleert."
 faq:
   - q: "Waarom jankt juist de vijfde versnelling?"

@@ -1,6 +1,6 @@
 ---
 title: "¿Es peligroso un golpeteo en frío que se va?"
-metaTitle: "Golpeteo en frío que se va: ¿es peligroso? | Stuk"
+metaTitle: "Golpeteo en frío que se va: ¿es peligroso? | Pro-Stuk"
 description: "Un golpeteo en un arranque en frío que desaparece al calentarse puede ser inofensivo o el aviso de una reparación cara. Cómo separarlos por duración y carácter."
 faq:
   - q: "¿Cuántos segundos de golpeteo en un arranque en frío se consideran normales?"
@@ -117,7 +117,7 @@ y
 [comprobar la holgura del buje levantando la rueda](/es/articles/checking-wheel-bearing-play-with-the-wheel-raised/).
 
 Para seguir la tendencia en lugar de fiarse de la memoria, grabe los primeros
-segundos de un arranque en frío con la aplicación Stuk una vez al mes. La
+segundos de un arranque en frío con la aplicación Pro-Stuk una vez al mes. La
 aplicación compara la grabación con sus respuestas y muestra las causas
 probables con porcentajes, y comparar las grabaciones entre sí responde a la
 pregunta principal: si va a peor o no.

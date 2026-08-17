@@ -1,6 +1,6 @@
 ---
 title: "Versleten draagarmrubbers voor: de symptomen"
-metaTitle: "Versleten draagarmrubbers: de symptomen | Stuk"
+metaTitle: "Versleten draagarmrubbers: de symptomen | Pro-Stuk"
 description: "Doffe klappen in kuilen, stuurwerk dat zwerft en een auto die sporen volgt — de typische tekenen van versleten draagarmrubbers en hoe u ze controleert."
 faq:
   - q: "Hoe weet ik dat het de rubbers zijn en niet een fuseekogel?"

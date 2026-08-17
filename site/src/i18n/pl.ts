@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const pl: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Objawy',
     how: 'Jak to działa',
@@ -11,7 +11,7 @@ export const pl: Dict = {
   },
   footer: {
     disclaimer:
-      'Stuk podaje ocenę prawdopodobieństwa na podstawie odpowiedzi i dźwięku, a nie ' +
+      'Pro-Stuk podaje ocenę prawdopodobieństwa na podstawie odpowiedzi i dźwięku, a nie ' +
       'diagnozę. O naprawie decyduje mechanik po obejrzeniu samochodu.',
     how: 'Jak to działa',
     privacy: 'Polityka prywatności',
@@ -19,7 +19,7 @@ export const pl: Dict = {
     ruOnly: 'Poradniki według objawów i artykuły (po rosyjsku)',
   },
   home: {
-    title: 'Stuk — diagnoza samochodu po dźwięku',
+    title: 'Pro-Stuk — diagnoza samochodu po dźwięku',
     description:
       'Nagraj dźwięk i dowiedz się, co dzieje się z autem. Krótka ankieta, analiza ' +
       'nagrania i raport: prawdopodobne przyczyny z procentami, sygnalizacja pilności ' +
@@ -52,7 +52,7 @@ export const pl: Dict = {
     faq: [
       {
         q: 'Czy to dokładna diagnoza?',
-        a: 'Nie. Stuk daje ocenę prawdopodobieństwa: listę możliwych przyczyn z procentami i poziom pilności. Dokładną diagnozę stawia mechanik po oględzinach — raport sprawia tylko, że przyjeżdżasz przygotowany.',
+        a: 'Nie. Pro-Stuk daje ocenę prawdopodobieństwa: listę możliwych przyczyn z procentami i poziom pilności. Dokładną diagnozę stawia mechanik po oględzinach — raport sprawia tylko, że przyjeżdżasz przygotowany.',
       },
       {
         q: 'Ile to kosztuje?',
@@ -85,7 +85,7 @@ export const pl: Dict = {
     schemaWhole: 'Cały układ.',
   },
   symptoms: {
-    indexTitle: 'Dźwięki i objawy usterek samochodu — poradniki | Stuk',
+    indexTitle: 'Dźwięki i objawy usterek samochodu — poradniki | Pro-Stuk',
     indexDescription: 'Stukanie, buczenie, pisk, zgrzyt: co oznacza każdy dźwięk samochodu, jak bardzo jest groźny i co sprawdzisz samodzielnie. Poradniki według objawów z drzewem diagnostycznym.',
     h1: 'Objawy według dźwięku',
     sub: 'Wybierz dźwięk najbliższy twojemu. W każdym poradniku: prawdopodobne przyczyny, sygnalizacja zagrożenia, bezpieczne samodzielne sprawdzenia i interaktywne drzewo diagnostyczne.',
@@ -117,7 +117,7 @@ export const pl: Dict = {
   },
   download: {
     h2: 'Aplikacja na Androida',
-    sub: 'Ankieta, nagranie dźwięku i pełny raport z prawdopodobieństwami są w aplikacji Stuk.',
+    sub: 'Ankieta, nagranie dźwięku i pełny raport z prawdopodobieństwami są w aplikacji Pro-Stuk.',
     btn: 'Pobierz na Androida',
     meta: 'Wersja {version} · APK {size} MB · zaktualizowano {date}',
     installH: 'Jak zainstalować APK',
@@ -130,7 +130,7 @@ export const pl: Dict = {
     playNote: 'Gdy aplikacja trafi do Google Play, ta strona zostanie zaktualizowana.',
   },
   how: {
-    title: 'Jak działa diagnoza po dźwięku | Stuk',
+    title: 'Jak działa diagnoza po dźwięku | Pro-Stuk',
     description:
       'Bez upiększeń: ankieta jako główne narzędzie, analiza widmowa nagrania, model ' +
       'językowy i typowe bolączki poszczególnych modeli. Dlaczego wynik jest ' +
@@ -142,7 +142,7 @@ export const pl: Dict = {
       'Każda diagnostyka zaczyna się od pytań: kiedy pojawił się dźwięk, do czego jest ' +
       'podobny, czy zależy od prędkości, obrotów, hamowania, skręcania. Odpowiedzi odcinają ' +
       'całe grupy przyczyn — to daje więcej niż jakikolwiek algorytm nałożony na kiepskie ' +
-      'nagranie. Dlatego w Stuku ankieta jest pierwsza, a jej logika to drzewo decyzyjne: ' +
+      'nagranie. Dlatego w Pro-Stuku ankieta jest pierwsza, a jej logika to drzewo decyzyjne: ' +
       'każda odpowiedź prowadzi do kolejnego, węższego pytania.',
     recH2: 'Co dzieje się z nagraniem',
     recP: [
@@ -160,7 +160,7 @@ export const pl: Dict = {
     probP: [
       'Te same dźwięki wydają różne usterki: buczenie łożyska koła łatwo pomylić z szumem ' +
         'opon, a stukot łączników stabilizatora — z dużo poważniejszymi elementami ' +
-        'zawieszenia. Na pewno rozróżnia je dopiero oględziny na podnośniku. Dlatego Stuk nie ' +
+        'zawieszenia. Na pewno rozróżnia je dopiero oględziny na podnośniku. Dlatego Pro-Stuk nie ' +
         'stawia diagnozy i nie obiecuje dokładności — uczciwie rozkłada prawdopodobieństwa ' +
         'i mówi, co sprawdzić w pierwszej kolejności.',
       'Dobre nagranie poprawia ocenę, ale nie zastępuje mechanika. Traktuj raport jak drugą ' +
@@ -175,13 +175,13 @@ export const pl: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Polityka prywatności | Stuk',
+    title: 'Polityka prywatności | Pro-Stuk',
     description:
-      'Co dzieje się z danymi w aplikacji Stuk: dźwięk jest przetwarzany na serwerze i nie ' +
+      'Co dzieje się z danymi w aplikacji Pro-Stuk: dźwięk jest przetwarzany na serwerze i nie ' +
       'jest przechowywany po analizie, nie ma kont ani statystyk.',
     h1: 'Polityka prywatności',
     intro:
-      'Aplikacja Stuk zbiera minimum danych — dokładnie tyle, ile potrzeba do diagnozy.',
+      'Aplikacja Pro-Stuk zbiera minimum danych — dokładnie tyle, ile potrzeba do diagnozy.',
     items: [
       {
         strong: 'Nagranie',
@@ -213,7 +213,7 @@ export const pl: Dict = {
     tagline: 'Znajdź usterkę po dźwięku',
   },
   notFound: {
-    title: 'Nie znaleziono strony — Stuk',
+    title: 'Nie znaleziono strony — Pro-Stuk',
     description:
       'Takiej strony tu nie ma. Wróć na stronę główną albo otwórz poradniki objawów po dźwięku.',
     h1: 'Nie znaleziono strony',

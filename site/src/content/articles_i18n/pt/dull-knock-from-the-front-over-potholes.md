@@ -1,6 +1,6 @@
 ---
 title: "Batida surda na frente ao passar em buracos"
-metaTitle: "Batida surda na frente em buracos: causas | Stuk"
+metaTitle: "Batida surda na frente em buracos: causas | Pro-Stuk"
 description: "O que significa uma batida surda na frente em buracos: quais peças da suspensão soam assim e como separar as causas perigosas das que podem esperar."
 faq:
   - q: "Por que a batida é surda e não seca?"
@@ -103,6 +103,6 @@ essas peças definem a geometria, e pular essa etapa aparece na forma de
 pneus acabados em poucos milhares de quilômetros.
 
 Não sabe qual cenário é o seu? Grave a batida num trecho ruim pelo
-aplicativo Stuk: ele cruza o som com as suas respostas a algumas perguntas
+aplicativo Pro-Stuk: ele cruza o som com as suas respostas a algumas perguntas
 e mostra as causas prováveis com um nível de urgência — o que facilita
 decidir entre ir amanhã e planejar a visita com calma.

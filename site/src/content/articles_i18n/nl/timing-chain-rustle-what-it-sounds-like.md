@@ -1,6 +1,6 @@
 ---
 title: "Ritselende distributieketting: hoe dat klinkt"
-metaTitle: "Ritselende distributieketting: geluid en risico | Stuk"
+metaTitle: "Ritselende distributieketting: geluid en risico | Pro-Stuk"
 description: "Hoe een opgerekte distributieketting klinkt, wanneer geritsel na het starten normaal is en wanneer het de werkplaats betekent. De stadia van slijtage."
 faq:
   - q: "Hoeveel seconden geritsel na het starten is normaal?"

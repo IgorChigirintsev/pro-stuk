@@ -1,6 +1,6 @@
 ---
 title: "Segni di una scatola guida difettosa"
-metaTitle: "Scatola guida difettosa: tutti i segni | Stuk"
+metaTitle: "Scatola guida difettosa: tutti i segni | Pro-Stuk"
 description: "Colpi, gioco, sterzo che si muove a scatti, perdite e ronzio della pompa: i segni di una scatola guida difettosa, come controllarla e quando basta ancora una registrazione."
 faq:
   - q: "La scatola guida trasuda olio: posso limitarmi a rabboccare?"
@@ -120,7 +120,7 @@ questione diretta di sicurezza: uno sterzo che gira a scatti ostacola una
 manovra precisa nel momento critico.
 
 Se per ora hai solo il rumore e dubiti che la colpa sia della scatola
-guida, registra il colpo con l’app Stuk su un tratto di strada
+guida, registra il colpo con l’app Pro-Stuk su un tratto di strada
 rappresentativo. L’app confronta la registrazione con le tue risposte e
 mostra le cause probabili in percentuale: con quell’ipotesi in mano la
 diagnosi in officina richiede meno tempo.

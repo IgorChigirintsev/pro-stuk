@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Fahrwerk bei Frost"
-metaTitle: "Klopfen im Fahrwerk bei Frost: was tun | Stuk"
+metaTitle: "Klopfen im Fahrwerk bei Frost: was tun | Pro-Stuk"
 description: "Warum das Fahrwerk bei Frost klopft und nach dem Warmwerden leiser wird: versteifter Gummi, zähes Dämpferöl, Kunststoff. Was gefährlich ist und was nicht."
 faq:
   - q: "Das Klopfen geht nach dem Warmwerden weg — kann ich es ignorieren?"

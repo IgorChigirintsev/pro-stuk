@@ -1,6 +1,6 @@
 ---
 title: "Een uiteengevallen katalysator: het geluid"
-metaTitle: "Kapotte katalysator: zo klinkt hij | Stuk"
+metaTitle: "Kapotte katalysator: zo klinkt hij | Pro-Stuk"
 description: "Een rijselend geruis onder de vloer en gerammel bij stationair toerental: zo klinkt uiteengevallen keramiek in de katalysator en wat het voor de motor betekent."
 faq:
   - q: "Hoe klinkt een uiteengevallen katalysator?"

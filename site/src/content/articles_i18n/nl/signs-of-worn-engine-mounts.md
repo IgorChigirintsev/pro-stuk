@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten motorsteunen"
-metaTitle: "Versleten motorsteunen: trillingen, schokken | Stuk"
+metaTitle: "Versleten motorsteunen: trillingen, schokken | Pro-Stuk"
 description: "Trillingen bij stationair draaien, een schok bij het inschakelen, geklop bij optrekken: zo herkent u dode motorsteunen en wat de reparatie bepaalt."
 faq:
   - q: "Hoeveel steunen heeft een motor?"

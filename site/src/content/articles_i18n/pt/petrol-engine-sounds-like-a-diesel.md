@@ -1,6 +1,6 @@
 ---
 title: "Por que um motor a gasolina começa a soar como diesel"
-metaTitle: "Motor a gasolina soando como diesel: causas | Stuk"
+metaTitle: "Motor a gasolina soando como diesel: causas | Pro-Stuk"
 description: "Por que um motor a gasolina passa a matraquear como diesel: folga de válvulas, corrente esticada, detonação, injeção direta. O que checar primeiro."
 faq:
   - q: "O que significa um motor a gasolina soar como diesel?"
@@ -126,7 +126,7 @@ folga de válvulas se ajusta com pastilhas calibradas que precisam ser medidas e
 pedidas individualmente — por isso o mesmo serviço custa valores muito
 diferentes em dois carros de tamanho parecido.
 
-Se quiser entender antes de sair de casa, grave o motor no aplicativo Stuk — em
+Se quiser entender antes de sair de casa, grave o motor no aplicativo Pro-Stuk — em
 marcha lenta e, se der para fazer com segurança, sob carga. O aplicativo cruza
 a gravação com as suas respostas e mostra as causas prováveis com um nível de
 urgência: fica mais claro se é uma regulagem de rotina ou o tipo de detonação

@@ -1,6 +1,6 @@
 ---
 title: "Butée de suspension bruyante : les symptômes"
-metaTitle: "Butée de suspension bruyante : symptômes | Stuk"
+metaTitle: "Butée de suspension bruyante : symptômes | Pro-Stuk"
 description: "Claquements et craquements quand on braque à l'arrêt, cognement sur les petites bosses, direction dure : reconnaître une butée d'amortisseur usée."
 faq:
   - q: "Comment distinguer une butée de suspension d'un cardan ?"
@@ -101,7 +101,7 @@ orientation — un ressort mal assis au remontage est une source classique
 de nouveau cognement juste après la réparation.
 
 Si le craquement est confus et que vous ne savez pas d'où il vient,
-enregistrez le braquage voiture à l'arrêt dans l'application Stuk, puis un
+enregistrez le braquage voiture à l'arrêt dans l'application Pro-Stuk, puis un
 tour de parking. L'application compare les deux fragments, les recoupe avec
 vos réponses et montre les causes probables en pourcentages — précisément
 pour qu'on ne démonte pas une jambe pour rien.

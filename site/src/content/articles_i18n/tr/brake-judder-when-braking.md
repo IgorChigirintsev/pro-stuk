@@ -1,6 +1,6 @@
 ---
 title: "Fren yaparken direksiyonun titremesi"
-metaTitle: "Fren yaparken direksiyon titremesi: nedenleri | Stuk"
+metaTitle: "Fren yaparken direksiyon titremesi: nedenleri | Pro-Stuk"
 description: "Fren yapınca direksiyon neden titrer: disk kalınlığındaki düzensizlik, sıkışan kaliper, poyra boşluğu. Teker titreşiminden nasıl ayrılır ve ne yapılır."
 faq:
   - q: "Araç hızda düzgün giderken direksiyon neden yalnızca fren yapınca titriyor?"
@@ -117,7 +117,7 @@ diskler, titreme geri gelmeden belirgin biçimde daha uzun dayanır.
 
 Hissettiğiniz şeyin ne olduğundan emin değilseniz (disklerden gelen
 titreme mi, tekerlerden gelen titreşim mi, yoksa ABS'in çalışması mı) sesi
-kaydedip durumu Stuk uygulamasında anlatın. Uygulama kaydı cevaplarınızla
+kaydedip durumu Pro-Stuk uygulamasında anlatın. Uygulama kaydı cevaplarınızla
 eşleştirir (titreme ne zaman çıkıyor, nerede hissediliyor, fren yapıyor
 muydunuz) ve olası nedenleri aciliyet derecesiyle gösterir. Servise
 belirsiz bir "bir şeyler sallanıyor" yerine net bir tabloyla gidersiniz.

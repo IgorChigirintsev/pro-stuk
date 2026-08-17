@@ -1,6 +1,6 @@
 ---
 title: "Contrôler les supports moteur en charge"
-metaTitle: "Contrôler les supports moteur en charge | Stuk"
+metaTitle: "Contrôler les supports moteur en charge | Pro-Stuk"
 description: "Le test en charge des supports moteur : enclencher les rapports pied sur le frein, quel débattement observer et comment ne pas confondre avec d'autres bruits."
 faq:
   - q: "Le moteur doit-il bouger un peu, au fond ?"
@@ -112,6 +112,6 @@ mois qui suivent l'apparition du coup sourd.
 
 Vous ne savez pas si l'impact est vraiment métallique ou s'il s'agit
 simplement d'un démarrage brutal ? Enregistrez le moment où la voiture
-s'ébranle dans l'application Stuk. L'application croise l'enregistrement
+s'ébranle dans l'application Pro-Stuk. L'application croise l'enregistrement
 avec vos réponses sur le régime et affiche les causes probables avec leurs
 pourcentages.

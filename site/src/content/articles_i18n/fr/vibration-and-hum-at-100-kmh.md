@@ -1,6 +1,6 @@
 ---
 title: "Vibrations et ronflement à 100 km/h"
-metaTitle: "Vibrations et ronflement à 100 km/h : causes | Stuk"
+metaTitle: "Vibrations et ronflement à 100 km/h : causes | Pro-Stuk"
 description: "D'où viennent les vibrations et le ronflement à 100 km/h : équilibrage, jante voilée, roulement de roue ou bruit de pneus. Des autocontrôles à faire en un seul trajet."
 faq:
   - q: "Pourquoi la vibration apparaît-elle vers 100 km/h ?"
@@ -126,7 +126,7 @@ roulement seul ou s'il faut remplacer le moyeu complet — cette seule
 réponse change entièrement l'ampleur du travail.
 
 Si après le trajet vous ne savez toujours pas s'il s'agit d'une vibration,
-d'un ronflement ou des deux, enregistrez le son dans l'application Stuk
+d'un ronflement ou des deux, enregistrez le son dans l'application Pro-Stuk
 sur la route. L'application confronte l'enregistrement à vos réponses — à
 quelle vitesse ça apparaît, si ça change en virage, ce qui a été fait
 récemment sur les roues — et affiche les causes probables avec un niveau

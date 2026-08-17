@@ -1,6 +1,6 @@
 ---
 title: "Chiado da corrente de comando: como soa"
-metaTitle: "Chiado da corrente de comando: som e risco | Stuk"
+metaTitle: "Chiado da corrente de comando: som e risco | Pro-Stuk"
 description: "Como soa a corrente de comando esticada, quando o chiado depois da partida é normal e quando é caso de oficina. Os estágios do desgaste e o risco de pular dente."
 faq:
   - q: "Quantos segundos de chiado depois da partida são normais?"
@@ -130,5 +130,5 @@ estão em
 perguntar se ela está inclusa evita fazer a mesma desmontagem duas vezes.
 
 Na dúvida se o que você ouve é a corrente? Grave o motor com o capô aberto
-no aplicativo Stuk — ele cruza a gravação com os sons típicos de defeito e
+no aplicativo Pro-Stuk — ele cruza a gravação com os sons típicos de defeito e
 mostra as causas prováveis com nível de urgência.

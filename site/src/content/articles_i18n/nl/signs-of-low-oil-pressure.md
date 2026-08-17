@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van lage oliedruk"
-metaTitle: "Lage oliedruk: kenmerken en oorzaken | Stuk"
+metaTitle: "Lage oliedruk: kenmerken en oorzaken | Pro-Stuk"
 description: "Zo ziet u lage oliedruk vóór er echte schade is: het lampje, tikkende klepstoters, lagerklop. De oorzaken en hoe de druk gemeten wordt."
 faq:
   - q: "Waarom gaat het oliedruklampje branden bij warm stationair draaien?"

@@ -1,7 +1,7 @@
 ---
-title: "Stuk przy zmianie biegów"
-metaTitle: "Stuk przy zmianie biegów: przyczyny | Stuk"
-description: "Stuk w chwili zmiany biegu bierze się z luzów mechanizmu, zużytych poduszek silnika i przegubów półosi. Jak rozdzielić te przyczyny."
+title: "Pro-Stuk przy zmianie biegów"
+metaTitle: "Pro-Stuk przy zmianie biegów: przyczyny | Pro-Stuk"
+description: "Pro-Stuk w chwili zmiany biegu bierze się z luzów mechanizmu, zużytych poduszek silnika i przegubów półosi. Jak rozdzielić te przyczyny."
 faq:
   - q: "Czy stuk przy zmianie biegów to zawsze skrzynia?"
     a: "Nie, częściej odwrotnie. Sam mechanizm zmiany biegów stuka rzadko; znacznie częściej dźwięk pochodzi od poduszki silnika, która pozwala jednostce szarpnąć przy zmianie ciągu. Wnętrze skrzyni zwykle milczy."
@@ -16,7 +16,7 @@ sources:
     url: "https://www.sae.org/"
 ---
 
-Stuk pojawiający się dokładnie w chwili zmiany biegu wprowadza w błąd: ręka
+Pro-Stuk pojawiający się dokładnie w chwili zmiany biegu wprowadza w błąd: ręka
 jest na dźwigni, więc winna musi być skrzynia. W praktyce skrzynia stuka
 rzadko — znacznie częściej dźwięk rodzi się tam, gdzie zmienia się ciąg: w
 poduszkach silnika, w przegubach półosi, w mocowaniach. Zmiana biegu jest
@@ -46,7 +46,7 @@ jedzie pod obciążeniem, czy toczy się na luzie.
 | Poduszka silnika lub skrzyni | Głuche uderzenie w podłogę, czuć w nadwoziu | Jedynka, wsteczny, ostre puszczenie gazu |
 | Wewnętrzny przegub napędowy, półoś | Metaliczny stuk, czasem z szarpnięciem | Ruszanie, start pod obciążeniem |
 | Mechanizm i linki zmiany biegów | Grzechot i kliknięcia pod ręką | Przy ruchu dźwigni |
-| Luzy zawieszenia, łączniki stabilizatora | Stuk zgodny z kołysaniem nadwozia | Na nierównościach i przy przygazie |
+| Luzy zawieszenia, łączniki stabilizatora | Pro-Stuk zgodny z kołysaniem nadwozia | Na nierównościach i przy przygazie |
 | Układ wydechowy | Dzwoniący klekot z dołu | Każda zmiana ciągu |
 
 Najczęściej wygrywa poduszka silnika: blok gumowo-metalowy z czasem
@@ -94,7 +94,7 @@ ponowne ich użycie to znana przyczyna, dla której świeża poduszka znów pęk
 po kilku miesiącach.
 
 Jeśli stuk zdarza się jeszcze sporadycznie, a nie ma pewności, czy dochodzi
-spod maski, czy spod podłogi, warto nagrać go w aplikacji Stuk podczas
+spod maski, czy spod podłogi, warto nagrać go w aplikacji Pro-Stuk podczas
 przygazu i przy ruszaniu. Aplikacja zestawi nagranie z odpowiedziami i
 pokaże prawdopodobne przyczyny z procentami — co zauważalnie skraca rozmowę
 w warsztacie.

@@ -1,6 +1,6 @@
 ---
 title: "Slijtage-indicator van remblokken: zo klinkt hij"
-metaTitle: "Slijtage-indicator remblokken: zo klinkt hij | Stuk"
+metaTitle: "Slijtage-indicator remblokken: zo klinkt hij | Pro-Stuk"
 description: "Een dunne metalige piep tijdens het rijden die stopt zodra u remt, is de mechanische slijtage-indicator van de remblokken. Zo herkent u hem en hoeveel tijd u hebt."
 faq:
   - q: "Waarom stopt de piep zodra ik het pedaal intrap?"

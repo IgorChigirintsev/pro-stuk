@@ -1,7 +1,7 @@
 ---
 ru: "gul-podshipnika-generatora-chevrolet-cruze"
 title: "Chevrolet Cruze alternator bearing whine"
-metaTitle: "Chevrolet Cruze alternator bearing whine: checks | Stuk"
+metaTitle: "Chevrolet Cruze alternator bearing whine: checks | Pro-Stuk"
 description: "A whine under the bonnet of a Cruze that rises with revs: how to tell the alternator bearing from idlers, the water pump and the one-way pulley."
 pubDate: "2026-06-28"
 related:
@@ -85,7 +85,7 @@ thousand kilometres, replace them along with the alternator work. The
 access is the same, and a second visit for the same reason in six months
 costs more than the parts do now.
 
-To avoid checking everything at random, record the sound with the Stuk app
+To avoid checking everything at random, record the sound with the Pro-Stuk app
 at the open bonnet: first at idle, then with the revs raised smoothly. The
 app matches the recordings with your answers to a few questions and shows
 the likely causes with percentages — so it becomes clear which unit to

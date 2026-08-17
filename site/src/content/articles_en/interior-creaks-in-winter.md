@@ -1,7 +1,7 @@
 ---
 ru: "skripy-v-salone-zimoj"
 title: "Interior creaks in winter"
-metaTitle: "Interior creaks in winter: why the cold brings them | Stuk"
+metaTitle: "Interior creaks in winter: why the cold brings them | Pro-Stuk"
 description: "Why the interior creaks more in winter: what happens to plastic and rubber in the cold, which sounds clear after warm-up and which need checking."
 pubDate: "2026-07-29"
 related:
@@ -99,7 +99,7 @@ winter knock from a strut is worth taking seriously rather than waiting
 for spring.
 
 Telling a seasonal creak from a real one is easiest by comparison. Record
-the sound in the Stuk app in the first minute after setting off, and
+the sound in the Pro-Stuk app in the first minute after setting off, and
 repeat the same recording half an hour later on a warm car. If the second
 recording is clean, it is the frost; if the sound is still there, the app
 suggests which components to check first. The over-bumps version of the

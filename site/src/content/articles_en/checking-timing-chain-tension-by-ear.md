@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-natyazhenie-tsepi-grm-na-sluh"
 title: "Checking timing chain tension by ear"
-metaTitle: "Checking timing chain tension by ear | Stuk"
+metaTitle: "Checking timing chain tension by ear | Pro-Stuk"
 description: "How to hear a stretched timing chain: the conditions where it gives itself away, how it differs from lifters and injectors, and what a cold start shows."
 pubDate: "2026-06-18"
 related:
@@ -102,7 +102,7 @@ If the rattle is already audible on a warm engine, do not postpone — a
 chain that jumps on most modern engines ends with the pistons meeting the
 valves.
 
-Recording a cold start is easiest in the Stuk app: start the recording
+Recording a cold start is easiest in the Pro-Stuk app: start the recording
 before you turn the key and hold the phone near the radiator grille. The
 app compares the sound with your answers about duration and conditions and
 shows the likely causes with percentages — and the recording stays, to be

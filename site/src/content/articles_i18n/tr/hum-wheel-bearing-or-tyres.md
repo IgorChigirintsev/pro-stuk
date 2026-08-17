@@ -1,6 +1,6 @@
 ---
 title: "Uğultu: teker rulmanı mı lastikler mi"
-metaTitle: "Uğultu: rulman mı lastik mi, nasıl ayrılır | Stuk"
+metaTitle: "Uğultu: rulman mı lastik mi, nasıl ayrılır | Pro-Stuk"
 description: "Teker rulmanı uğultusunu lastik sesinden ayırmak: tek sürüşte yapılan testler, işaretlerin karşılaştırma tablosu ve paraya mal olan hatalar."
 faq:
   - q: "Uğultu farklı tekerler takılınca hemen çıktı. Bu nedir?"
@@ -129,6 +129,6 @@ aktarma organları da — belirti sayfalarında:
 [teker rulmanı uğultusu](/tr/symptoms/wheel-bearing-hum/).
 
 Servise gitmeden ikinci bir görüş isterseniz, sürüş sırasındaki uğultuyu
-Stuk uygulamasına kaydedin: uygulama kaydı analiz eder, birkaç
+Pro-Stuk uygulamasına kaydedin: uygulama kaydı analiz eder, birkaç
 netleştirici soru sorar — kaplama, virajlar, sesin nasıl çıktığı — ve
 muhtemel sebepleri yüzdesiyle gösterir.

@@ -1,6 +1,6 @@
 ---
 title: "Grincements d'habitacle sur les irrégularités"
-metaTitle: "Grincements d'habitacle sur les bosses : causes | Stuk"
+metaTitle: "Grincements d'habitacle sur les bosses : causes | Pro-Stuk"
 description: "Grincements d'habitacle sur les bosses : pourquoi la caisse se vrille et provoque le son, comment séparer les garnitures de la suspension, et quoi réparer."
 faq:
   - q: "Un grincement d'habitacle sur les bosses est-il dangereux ?"
@@ -97,7 +97,7 @@ temps de gel, la liste des endroits qui grincent s'allonge généralement.
 
 La façon la plus fiable d'arrêter de discuter avec soi-même sur l'origine
 du son, c'est de l'enregistrer. Lancez un enregistrement dans
-l'application Stuk avant une portion dégradée familière et parcourez-la
+l'application Pro-Stuk avant une portion dégradée familière et parcourez-la
 deux fois : vitres fermées puis ouvertes. L'application croise les
 enregistrements avec vos réponses et indique où regarder — dans
 l'habitacle ou sous la voiture.

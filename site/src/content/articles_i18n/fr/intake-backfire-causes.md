@@ -1,6 +1,6 @@
 ---
 title: "Détonations dans l'admission : les causes"
-metaTitle: "Détonations dans l'admission : causes et diagnostic | Stuk"
+metaTitle: "Détonations dans l'admission : causes et diagnostic | Pro-Stuk"
 description: "Des détonations dans le collecteur d'admission : mélange pauvre, ratés, calage décalé. Comment trouver la cause et la distinguer des claquements à l'échappement."
 faq:
   - q: "Des détonations dans l'admission sont-elles dangereuses ?"
@@ -107,7 +107,7 @@ Une détonation en soi n'est pas une catastrophe, mais elle n'apparaît pas
 sur un moteur sain.
 
 Si les détonations sont rares et difficiles à montrer à un mécanicien,
-lancez un enregistrement dans l'application Stuk à votre prochain départ à
+lancez un enregistrement dans l'application Pro-Stuk à votre prochain départ à
 froid ou à votre prochaine accélération : elle capture le son, le croise
 avec vos réponses et affiche les causes probables avec un niveau
 d'urgence — vous arrivez ainsi avec du concret.

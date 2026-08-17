@@ -5,7 +5,7 @@ export const zh: Record<string, HubText> = {
   dvigatel: {
     h1: '发动机异响与敲击',
     short: '发动机',
-    metaTitle: '发动机异响与敲击：完整指南 | Stuk',
+    metaTitle: '发动机异响与敲击：完整指南 | Pro-Stuk',
     description:
       '发动机的各种声音集中在一处：敲击、嘀嗒、咔啦、爆震和啸叫。如何区分无害与危险，以及自己能检查什么。',
     intro: [
@@ -16,7 +16,7 @@ export const zh: Record<string, HubText> = {
   podveska: {
     h1: '悬架的异响与吱嘎声',
     short: '悬架与转向',
-    metaTitle: '悬架异响与吱嘎声：完整指南 | Stuk',
+    metaTitle: '悬架异响与吱嘎声：完整指南 | Pro-Stuk',
     description:
       '过坎时的敲击、颠簸中的吱嘎、方向盘旷量：如何判断悬架和转向系统的异响来源，以及自己能检查什么。',
     intro: [
@@ -27,7 +27,7 @@ export const zh: Record<string, HubText> = {
   tormoza: {
     h1: '刹车的尖叫与摩擦声',
     short: '制动与车轮',
-    metaTitle: '刹车尖叫与摩擦声：完整指南 | Stuk',
+    metaTitle: '刹车尖叫与摩擦声：完整指南 | Pro-Stuk',
     description:
       '刹车时的尖叫、哨声、金属摩擦和抖动：每种声音意味着什么，什么时候不能继续开，以及如何自己检查刹车片和卡钳。',
     intro: [
@@ -38,7 +38,7 @@ export const zh: Record<string, HubText> = {
   transmissiya: {
     h1: '变速箱与传动系统的异响',
     short: '传动系统',
-    metaTitle: '变速箱与传动异响：完整指南 | Stuk',
+    metaTitle: '变速箱与传动异响：完整指南 | Pro-Stuk',
     description:
       '变速箱啸叫、等速万向节咔嗒、换挡冲击和离合器嗡鸣：如何判断底板下面的异响来源。',
     intro: [
@@ -49,7 +49,7 @@ export const zh: Record<string, HubText> = {
   vyhlop: {
     h1: '排气系统的异响',
     short: '排气系统',
-    metaTitle: '排气系统异响：完整指南 | Stuk',
+    metaTitle: '排气系统异响：完整指南 | Pro-Stuk',
     description:
       '轰鸣、消音器放炮、底板下的咔啦声和隔热板的叮当声：排气异响意味着什么，为什么不能不管。',
     intro: [
@@ -60,7 +60,7 @@ export const zh: Record<string, HubText> = {
   salon: {
     h1: '车厢内的吱嘎与异响',
     short: '车厢与车身',
-    metaTitle: '车厢异响：如何找到源头 | Stuk',
+    metaTitle: '车厢异响：如何找到源头 | Pro-Stuk',
     description:
       '车厢里的“蟋蟀”声、吱嘎作响的仪表台、敲打的车门：如何自己找到源头，并把它与底盘故障区分开。',
     intro: [

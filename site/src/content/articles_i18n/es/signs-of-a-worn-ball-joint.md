@@ -1,6 +1,6 @@
 ---
 title: "Señales de una rótula gastada"
-metaTitle: "Rótula gastada: ruido, holgura y pruebas | Stuk"
+metaTitle: "Rótula gastada: ruido, holgura y pruebas | Pro-Stuk"
 description: "Golpeteo en baches pequeños, crujidos al girar el volante, juego en la rueda: cómo reconocer una rótula gastada, cómo comprobarla y con qué urgencia cambiarla."
 faq:
   - q: "¿Cómo suena una rótula gastada?"
@@ -131,6 +131,6 @@ afloja la dirección y añade ruidos que se confunden fácilmente con otros
 problemas de suspensión.
 
 Si algo golpea abajo y no está claro de dónde viene, grabe el sonido con
-la aplicación Stuk. Cruza la grabación con sus respuestas sobre cuándo y
+la aplicación Pro-Stuk. Cruza la grabación con sus respuestas sobre cuándo y
 cómo aparece el ruido y muestra las causas probables con un nivel de
 urgencia.

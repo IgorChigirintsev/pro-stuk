@@ -1,6 +1,6 @@
 ---
 title: "Piepende dynamoriem: de oorzaken"
-metaTitle: "Piepende dynamoriem: oorzaken en aanpak | Stuk"
+metaTitle: "Piepende dynamoriem: oorzaken en aanpak | Pro-Stuk"
 description: "Waarom een aandrijfriem piept: te weinig spanning, slijtage, olie op de poelies, spanrollen. Zo vindt u de oorzaak aan het moment waarop de piep komt."
 faq:
   - q: "Kan ik rijden met een piepende aandrijfriem?"

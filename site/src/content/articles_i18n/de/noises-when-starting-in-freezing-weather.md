@@ -1,6 +1,6 @@
 ---
 title: "Geräusche beim Starten bei strengem Frost"
-metaTitle: "Geräusche beim Kaltstart im Frost: was normal ist | Stuk"
+metaTitle: "Geräusche beim Kaltstart im Frost: was normal ist | Pro-Stuk"
 description: "Riemenquietschen, Klopfen von zähem Öl, Mahlen vom Anlasser: Welche Geräusche beim Kaltstart im Frost normal sind und welche in die Werkstatt gehören."
 faq:
   - q: "Warum klingt ein Motor bei Frost lauter und rauer?"

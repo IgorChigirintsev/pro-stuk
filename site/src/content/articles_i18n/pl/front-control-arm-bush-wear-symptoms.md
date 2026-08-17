@@ -1,6 +1,6 @@
 ---
 title: "Zużycie tulei przednich wahaczy: objawy"
-metaTitle: "Zużyte tuleje wahaczy przednich: objawy | Stuk"
+metaTitle: "Zużyte tuleje wahaczy przednich: objawy | Pro-Stuk"
 description: "Głuche uderzenia w dziurach, błądząca kierownica i auto ciągnące w koleiny — typowe objawy zużytych tulei wahaczy i sposoby na ich sprawdzenie."
 faq:
   - q: "Jak poznać, że to tuleje, a nie sworzeń wahacza?"
@@ -106,7 +106,7 @@ końcówek drążków kierowniczych oraz nieprecyzyjnym zachowaniem przy
 prędkości.
 
 Jeśli uderzenia w dziurach są już słyszalne, ale nie wiadomo, skąd
-dochodzą, nagraj przejazd po znanym, dziurawym odcinku w aplikacji Stuk.
+dochodzą, nagraj przejazd po znanym, dziurawym odcinku w aplikacji Pro-Stuk.
 Zestawia ona charakter uderzenia z odpowiedziami o prędkości i zachowaniu
 kierownicy i pokazuje prawdopodobne przyczyny w procentach — do
 potwierdzenia zostaje tylko podnośnik.

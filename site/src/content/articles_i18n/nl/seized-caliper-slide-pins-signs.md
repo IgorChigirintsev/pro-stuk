@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van vastgelopen geleidepennen van de remklauw"
-metaTitle: "Vastgelopen geleidepennen remklauw: tekenen | Stuk"
+metaTitle: "Vastgelopen geleidepennen remklauw: tekenen | Pro-Stuk"
 description: "Eén heet wiel, trekken bij het remmen, ongelijk versleten remblokken — zo herkent u vastgelopen geleidepennen en zo pakt de werkplaats het aan."
 faq:
   - q: "Hoe controleer ik snel of een remklauw blijft hangen?"

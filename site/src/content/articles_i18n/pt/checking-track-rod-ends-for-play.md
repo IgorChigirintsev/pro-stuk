@@ -1,6 +1,6 @@
 ---
 title: "Como checar folga nos terminais de direção"
-metaTitle: "Terminal de direção: como checar a folga | Stuk"
+metaTitle: "Terminal de direção: como checar a folga | Pro-Stuk"
 description: "Como achar folga no terminal de direção sozinho: a pegada às 3 e 9 horas, sentir a articulação com a mão e separar do que vem da caixa de direção."
 faq:
   - q: "Como diferenciar folga de terminal de folga da caixa de direção?"
@@ -90,7 +90,7 @@ peças: semieixo se checa fazendo círculos lentos num estacionamento, e o
 acionamento de distribuição se julga de ouvido numa partida a frio.
 
 Se você ouve a batida mas não consegue pegá-la com a mão — normal nos
-estágios iniciais de desgaste —, grave o som no aplicativo Stuk enquanto
+estágios iniciais de desgaste —, grave o som no aplicativo Pro-Stuk enquanto
 passa por irregularidades pequenas. O app cruza a gravação com as suas
 respostas e mostra as causas prováveis com percentuais, para que a
 checagem no elevador mire uma teoria específica em vez de toda a

@@ -1,6 +1,6 @@
 ---
 title: "Dźwięki nierozgrzanej skrzyni automatycznej zimą"
-metaTitle: "Dźwięki zimnego automatu zimą | Stuk"
+metaTitle: "Dźwięki zimnego automatu zimą | Pro-Stuk"
 description: "Zimą nierozgrzany automat buczy, szarpie i klika, a po dziesięciu minutach cichnie. Gdzie kończy się norma i które dźwięki zostają po rozgrzaniu."
 faq:
   - q: "Czy buczenie zimnego automatu na mrozie jest normalne?"
@@ -42,7 +42,7 @@ dochodzą do wartości projektowych, a zespół cichnie.
 | Dźwięk | Norma, jeśli | Niepokoi, jeśli |
 |---|---|---|
 | Buczenie na wolnych obrotach | Mija po 5–10 minutach jazdy | Zostaje na ciepło, rośnie z prędkością |
-| Stuk przy P → D | Pojedynczy, cichy | Twardy stuk z opóźnieniem przed włączeniem |
+| Pro-Stuk przy P → D | Pojedynczy, cichy | Twardy stuk z opóźnieniem przed włączeniem |
 | Twarde zmiany biegów | Tylko pierwsze kilometry | Zostają na gorącej skrzyni |
 | Wycie przy przyspieszaniu | Nie — wycia nie powinno być | Każde stałe wycie pod obciążeniem |
 | Ślizganie obrotów | Nie | Obroty rosną, a auto nie przyspiesza |
@@ -96,7 +96,7 @@ kilkaset kilometrów — więc prośba o powrót na drugie sprawdzenie to normal
 praktyka, a nie próba naciągnięcia rachunku.
 
 Jeśli nie ma Pan pewności, czy Pana dźwięk mieści się w normie, proszę nagrać
-dwa przejazdy w aplikacji Stuk — pierwsze minuty po zimnym rozruchu i tę samą
+dwa przejazdy w aplikacji Pro-Stuk — pierwsze minuty po zimnym rozruchu i tę samą
 drogę dwadzieścia minut później. Różnica między nagraniami jest odpowiedzią:
 aplikacja zestawia je z odpowiedziami o temperaturę i warunki jazdy i pokazuje
 prawdopodobne przyczyny w procentach.

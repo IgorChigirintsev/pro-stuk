@@ -1,6 +1,6 @@
 ---
 title: "Trillingen: balancering of onderstel"
-metaTitle: "Trillingen bij snelheid: balancering of onderstel | Stuk"
+metaTitle: "Trillingen bij snelheid: balancering of onderstel | Pro-Stuk"
 description: "Trillingen in stuur en carrosserie komen zowel van wielonbalans als van een versleten onderstel. Hoe u de versies scheidt op snelheid en omstandigheden."
 faq:
   - q: "Bij welke snelheid laat wielonbalans zich zien?"

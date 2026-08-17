@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego łożyska oporowego sprzęgła"
-metaTitle: "Zużyte łożysko oporowe sprzęgła: dźwięk | Stuk"
+metaTitle: "Zużyte łożysko oporowe sprzęgła: dźwięk | Pro-Stuk"
 description: "Jak brzmi zużyte łożysko oporowe sprzęgła, jak sprawdzić je pedałem w minutę, z czym myli się ten szelest i jak planuje się naprawę."
 faq:
   - q: "Jak brzmi zużyte łożysko oporowe?"
@@ -134,6 +134,6 @@ z kołem dwumasowym mierzy się przy okazji jego luz swobodny, a o tym, czy
 koło zostaje, decyduje pomiar, nie domysł.
 
 Nie ma pewności, czy dźwięk reaguje na pedał, czy hałasuje coś innego?
-Proszę nagrać silnik w aplikacji Stuk — najpierw na luzie, potem z
+Proszę nagrać silnik w aplikacji Pro-Stuk — najpierw na luzie, potem z
 wciśniętym pedałem. Aplikacja zestawi nagrania z odpowiedziami i pokaże
 prawdopodobne źródła wraz z oceną pilności.

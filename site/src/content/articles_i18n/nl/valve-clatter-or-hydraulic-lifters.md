@@ -1,6 +1,6 @@
 ---
 title: "Getik: kleppen of hydraulische klepstoters"
-metaTitle: "Getik: klepspeling of klepstoters onderscheiden | Stuk"
+metaTitle: "Getik: klepspeling of klepstoters onderscheiden | Pro-Stuk"
 description: "Getik onder de klepdeksel komt zowel van verkeerde klepspeling als van versleten hydraulische klepstoters. Hoe u die twee op het gehoor uit elkaar houdt."
 faq:
   - q: "Verdwijnt het geluid van klepstoters na het opwarmen?"

@@ -1,6 +1,6 @@
 ---
 title: "Het geluid verdwijnt als u de koppeling intrapt"
-metaTitle: "Geluid weg bij intrappen koppeling: waarom | Stuk"
+metaTitle: "Geluid weg bij intrappen koppeling: waarom | Pro-Stuk"
 description: "Verdwijnt een vreemd gebrom zodra u de koppeling intrapt, dan zit de bron in de versnellingsbak. Zo kort u de lijst verdachten in en dit checkt u eerst."
 faq:
   - q: "Waarom verdwijnt het geluid juist bij het intrappen van de koppeling?"

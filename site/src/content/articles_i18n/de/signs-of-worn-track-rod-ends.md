@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Spurstangenköpfe"
-metaTitle: "Verschlissene Spurstangenköpfe: der Ton | Stuk"
+metaTitle: "Verschlissene Spurstangenköpfe: der Ton | Pro-Stuk"
 description: "Klopfen auf kleinen Unebenheiten, Spiel in der Lenkung, Wandern in der Geraden — so erkennen Sie verschlissene Spurstangenköpfe und prüfen sie selbst."
 faq:
   - q: "Wie klingt ein verschlissener Spurstangenkopf?"

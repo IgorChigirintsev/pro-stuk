@@ -1,6 +1,6 @@
 ---
 title: "Wie gefährlich ein ausgerissenes Traggelenk wirklich ist"
-metaTitle: "Traggelenk ausgerissen: was mit dem Auto passiert | Stuk"
+metaTitle: "Traggelenk ausgerissen: was mit dem Auto passiert | Pro-Stuk"
 description: "Was physisch passiert, wenn ein Traggelenk aus seinem Sitz reißt, welche Geräusche wochenlang vorher warnen und ob man noch fahren darf."
 faq:
   - q: "Was passiert mit dem Auto, wenn das Traggelenk loslässt?"

@@ -1,6 +1,6 @@
 ---
 title: "Piston pimi vuruntusu nasıl anlaşılır"
-metaTitle: "Piston pimi vuruntusu nasıl anlaşılır | Stuk"
+metaTitle: "Piston pimi vuruntusu nasıl anlaşılır | Pro-Stuk"
 description: "Piston pimi vuruntusu nasıl ses verir, vuruntudan ve supap sesinden nasıl ayrılır, hangi testler doğrular ve onarım neleri kapsar."
 faq:
   - q: "Gaza basınca gelen «pim sesi» gerçekten pimler mi?"
@@ -104,5 +104,5 @@ tam yük yok. Boşluk hızlanan bir tempoyla büyür ve yük altındaki her
 kilometre onarımı daha pahalı sürüme yaklaştırır.
 
 Teşhisten emin değilseniz — ki motor vuruntularında kimse tam emin olmaz —
-sesi Stuk uygulamasına kaydedin: kaydı koşullarla ilgili cevaplarınızla
+sesi Pro-Stuk uygulamasına kaydedin: kaydı koşullarla ilgili cevaplarınızla
 eşleştirir ve muhtemel sebepleri yüzdesiyle gösterir.

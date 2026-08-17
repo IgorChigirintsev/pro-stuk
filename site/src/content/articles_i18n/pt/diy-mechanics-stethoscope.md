@@ -1,6 +1,6 @@
 ---
 title: "Estetoscópio de mecânico feito por você mesmo"
-metaTitle: "Estetoscópio de mecânico caseiro: como fazer | Stuk"
+metaTitle: "Estetoscópio de mecânico caseiro: como fazer | Pro-Stuk"
 description: "Como montar um estetoscópio automotivo com chave de fenda, mangueira ou tubo, onde encostar no motor e nos acessórios e as regras de segurança."
 faq:
   - q: "Chave de fenda funciona mesmo no lugar do estetoscópio?"
@@ -106,6 +106,6 @@ pelo método descrito em
 Um estetoscópio comprado, com diafragma, não é caro e escuta mais limpo que
 o caseiro, mas a versão de garagem ainda responde à pergunta principal:
 esta peça ou a do lado. E para você não depender só da memória, deixe uma
-gravação rodando no aplicativo Stuk enquanto escuta. O app cruza o som com
+gravação rodando no aplicativo Pro-Stuk enquanto escuta. O app cruza o som com
 as suas respostas sobre o regime e o local e mostra as causas prováveis com
 porcentagens.

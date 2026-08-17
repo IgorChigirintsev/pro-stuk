@@ -1,6 +1,6 @@
 ---
 title: "Zunido da bomba de combustível: normal ou prestes a falhar"
-metaTitle: "Zunido da bomba de combustível: normal ou não | Stuk"
+metaTitle: "Zunido da bomba de combustível: normal ou não | Pro-Stuk"
 description: "Onde fica a linha entre o zumbido comum da bomba de combustível e o zunido de uma bomba morrendo: quais sinais são inofensivos e quais pedem pressa."
 faq:
   - q: "A bomba zumbe por dois segundos quando ligo a ignição. Isso é normal?"
@@ -101,7 +101,7 @@ troque o filtro de combustível no intervalo recomendado. São as maneiras
 mais baratas de esticar a vida de uma bomba.
 
 Se você não tem certeza se o som cresceu mesmo ou se é impressão sua,
-grave-o no aplicativo Stuk — na ignição ligada e em marcha lenta. Daqui a
+grave-o no aplicativo Pro-Stuk — na ignição ligada e em marcha lenta. Daqui a
 um mês faça uma segunda gravação nas mesmas condições e compare: o
 aplicativo cruza as duas com suas respostas e mostra se aquilo é ruído
 normal de fundo ou um defeito se desenvolvendo.

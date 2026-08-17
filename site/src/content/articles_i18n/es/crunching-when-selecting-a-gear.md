@@ -1,6 +1,6 @@
 ---
 title: "Crujido al meter una marcha"
-metaTitle: "Crujido al meter una marcha: causas | Stuk"
+metaTitle: "Crujido al meter una marcha: causas | Pro-Stuk"
 description: "El crujido al entrar una marcha suele venir de los sincronizadores o de un embrague que no desembraga del todo. Cómo separarlos por cómo va la palanca."
 faq:
   - q: "Solo cruje en segunda. ¿Es el sincronizador?"
@@ -103,6 +103,6 @@ varias marchas y cambiar se ha vuelto duro, haga que revisen el coche en unos
 días.
 
 Si quiere saber qué es lo que cruje antes de la visita, grabe el sonido dos
-veces con la aplicación Stuk: metiendo primera con el coche parado y metiendo
+veces con la aplicación Pro-Stuk: metiendo primera con el coche parado y metiendo
 la marcha problemática en marcha. La aplicación compara las grabaciones con
 sus respuestas y muestra las causas probables con porcentajes.

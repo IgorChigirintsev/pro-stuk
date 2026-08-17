@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-podveske-na-lezhachih-politsejskih"
 title: "Suspension knock over speed humps"
-metaTitle: "Suspension knock over speed humps: causes | Stuk"
+metaTitle: "Suspension knock over speed humps: causes | Pro-Stuk"
 description: "Why the suspension knocks over speed humps specifically, which parts are usually to blame and how to narrow the search without a lift."
 pubDate: "2026-07-10"
 related:
@@ -143,6 +143,6 @@ sound comes with the car pulling to one side or play in the steering,
 sooner.
 
 To avoid guessing from descriptions, record the sound on your phone as you
-cross the obstacle: the Stuk app matches the recording with your answers
+cross the obstacle: the Pro-Stuk app matches the recording with your answers
 and shows the likely causes with percentages and a level of urgency — with
 that list the conversation at the workshop turns specific.

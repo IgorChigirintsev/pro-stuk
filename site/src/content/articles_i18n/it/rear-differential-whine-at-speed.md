@@ -1,6 +1,6 @@
 ---
 title: "Ronzio del differenziale posteriore in velocità"
-metaTitle: "Ronzio del differenziale posteriore: le cause | Stuk"
+metaTitle: "Ronzio del differenziale posteriore: le cause | Pro-Stuk"
 description: "Un ronzio da dietro che cambia in tiro e in rilascio è la firma classica del differenziale posteriore. Come distinguerlo dai cuscinetti e cosa controlla l'officina."
 faq:
   - q: "Come distinguo il ronzio del differenziale da quello di un cuscinetto ruota?"
@@ -95,6 +95,6 @@ orecchio» ronza di nuovo entro pochi mesi, ed è la ragione più comune per
 cui una revisione fallisce.
 
 Se il ronzio è ancora sommesso e vuole confermare che cambi davvero con
-l'acceleratore, registri due brevi clip con l'app Stuk: una in tiro, una in
+l'acceleratore, registri due brevi clip con l'app Pro-Stuk: una in tiro, una in
 rilascio, alla stessa velocità. L'app confronta le registrazioni con le sue
 risposte a poche domande e mostra le cause probabili in percentuale.

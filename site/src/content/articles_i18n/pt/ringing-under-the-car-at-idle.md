@@ -1,6 +1,6 @@
 ---
 title: "Tilintar embaixo do carro em marcha lenta"
-metaTitle: "Tilintar embaixo do carro parado: causas | Stuk"
+metaTitle: "Tilintar embaixo do carro parado: causas | Pro-Stuk"
 description: "Blindagem térmica, catalisador quebrado, escapamento encostando na carroceria: de onde vem o tilintar embaixo do carro em marcha lenta e como checar."
 faq:
   - q: "Por que o tilintar se ouve a frio e some depois de aquecer?"
@@ -125,6 +125,6 @@ assoalho e às linhas de combustível; uma abraçadeira custa menos do que
 essa troca.
 
 O tilintar é um daqueles sons difíceis de descrever ao mecânico por
-telefone. É mais fácil gravar: abra o aplicativo Stuk ao lado do carro em
+telefone. É mais fácil gravar: abra o aplicativo Pro-Stuk ao lado do carro em
 marcha lenta, responda a duas perguntas sobre as condições e leve para a
 oficina uma lista de causas prováveis com nível de urgência.

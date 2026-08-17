@@ -1,6 +1,6 @@
 ---
 title: "Tuchos hidráulicos do Renault K4M: tique-taque a frio"
-metaTitle: "Ruído de tuchos no Renault K4M a frio: causas | Stuk"
+metaTitle: "Ruído de tuchos no Renault K4M a frio: causas | Pro-Stuk"
 description: "O motor K4M tiqueteia na partida a frio: como funcionam os tuchos hidráulicos, por que batem, quando basta trocar o óleo e quando é preciso trocá-los."
 faq:
   - q: "Por que os tuchos só tiqueteiam nos primeiros segundos depois da partida?"
@@ -92,7 +92,7 @@ Sobre rodar assim enquanto decide, vale ler
 [dá para rodar com tuchos hidráulicos barulhentos](/pt/articles/driving-with-noisy-hydraulic-lifters/).
 
 Para avaliar se o seu tique-taque está dentro do normal, grave o som no
-aplicativo Stuk logo depois de uma partida a frio e de novo com o motor
+aplicativo Pro-Stuk logo depois de uma partida a frio e de novo com o motor
 quente. O aplicativo compara as gravações com suas respostas sobre
 quilometragem e última troca de óleo e mostra as causas prováveis em
 porcentagem — junto com uma dica sobre ir à oficina agora ou trocar o óleo

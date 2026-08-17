@@ -1,6 +1,6 @@
 ---
 title: "Motor ısındıktan sonra vuruntu"
-metaTitle: "Sıcak motorda vuruntu: sebepleri ve çözümü | Stuk"
+metaTitle: "Sıcak motorda vuruntu: sebepleri ve çözümü | Pro-Stuk"
 description: "Motor ısındıktan sonra neden vurmaya başlar: yağ, hidrolik külbütörler, yataklar ya da detonasyon. Sesin davranışına göre sebep nasıl daraltılır."
 faq:
   - q: "Motor neden sadece ısındıktan sonra vuruyor?"
@@ -140,7 +140,7 @@ hâllerde önümüzdeki birkaç gün içinde teşhis randevusu almak ve yolda mo
 yüklememek yeterlidir. Motor vuruntularının genel dökümü
 [motorda tıkırtı](/tr/symptoms/knocking-in-engine/) belirti sayfasında.
 
-Servise gitmeden önce somut bir şey istiyorsanız, ısınmış motorun sesini Stuk
+Servise gitmeden önce somut bir şey istiyorsanız, ısınmış motorun sesini Pro-Stuk
 uygulamasıyla kaydedin. Uygulama kaydı tipik vuruntularla eşleştirir, birkaç
 netleştirici soru sorar ve olası sebepleri aciliyet düzeyiyle gösterir — bu
 listeyle ustayla konuşma daha hızlı ilerler.

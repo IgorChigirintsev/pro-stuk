@@ -1,6 +1,6 @@
 ---
 title: "Motor hem tekliyor hem vuruyor"
-metaTitle: "Motor tekliyor ve vuruyor: sebepleri ve sırası | Stuk"
+metaTitle: "Motor tekliyor ve vuruyor: sebepleri ve sırası | Pro-Stuk"
 description: "Motor titriyor, rölanti geziniyor, vuruntu var: bujiden bobine, çizilmiş silindire kadar sebepler. Ölü silindir nasıl bulunur, beklemek neden pahalıya patlar."
 faq:
   - q: "Motor teklerken araç kullanılır mı?"
@@ -100,7 +100,7 @@ Tamirle ilgili pratik bir not: katalizör uzun süren bir teklemeden zarar
 gördüyse, önce teklemeyi düzeltmeden onu değiştirmek yeni katalizörü de bitirir.
 Tekleme çözülmeden katalizör öneren bir servis sıralamayı yanlış kurmuştur.
 
-Hazırlıklı gitmek için çalışan motoru Stuk uygulamasıyla kaydedin: uygulama sesi
+Hazırlıklı gitmek için çalışan motoru Pro-Stuk uygulamasıyla kaydedin: uygulama sesi
 analiz eder, koşullarla ilgili birkaç soru sorar ve olası sebepleri yüzdesi ve
 aciliyetiyle gösterir. Bu tabloyu önceden elinizde tutmak, hem teşhisi hem
 fiyat teklifini takip etmenizi kolaylaştırır.

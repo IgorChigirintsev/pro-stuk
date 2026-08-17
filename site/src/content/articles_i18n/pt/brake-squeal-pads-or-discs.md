@@ -1,6 +1,6 @@
 ---
 title: "Chiado no freio: pastilhas ou disco"
-metaTitle: "Chiado no freio: pastilhas ou disco | Stuk"
+metaTitle: "Chiado no freio: pastilhas ou disco | Pro-Stuk"
 description: "O freio chia por causa das pastilhas e também por causa do disco. Como as condições em que o som aparece mostram qual das duas peças trocar."
 faq:
   - q: "Chiado de freio pela manhã é defeito?"
@@ -94,7 +94,7 @@ pastilhas: chapinhas, molas e a graxa de alta temperatura correta são o
 que impede um jogo novo de chiar desde o primeiro dia.
 
 Se o som não aparece toda vez e é difícil de reproduzir no elevador, grave
-com o aplicativo Stuk enquanto dirige — com e sem o pedal. O aplicativo
+com o aplicativo Pro-Stuk enquanto dirige — com e sem o pedal. O aplicativo
 cruza a gravação com as condições em que ela aparece e mostra as causas
 prováveis em porcentagem, de modo que a conversa com o mecânico já começa
 a partir de fatos.

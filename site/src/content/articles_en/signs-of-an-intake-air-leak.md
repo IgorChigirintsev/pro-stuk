@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-podsosa-vozduha-na-vpuske"
 title: "Signs of an intake air leak"
-metaTitle: "Signs of an intake air leak: how to find it | Stuk"
+metaTitle: "Signs of an intake air leak: how to find it | Pro-Stuk"
 description: "Hunting idle, whistling or hissing under the bonnet, a lean mixture and fuel trim codes — how to recognise an intake air leak and how workshops find it."
 pubDate: "2026-06-09"
 related:
@@ -103,7 +103,7 @@ passages are usually sooted up, and cleaning them at the same time is what
 stops the idle hunting after the leak itself is cured.
 
 If a hiss is audible under the bonnet but you cannot place it by ear,
-record the sound in the Stuk app at idle and then with the revs raised
+record the sound in the Pro-Stuk app at idle and then with the revs raised
 slightly. The app matches the recording with your answers about how the
 idle behaves and shows the likely causes with percentages — with that list
 it is easier to ask for a smoke test rather than sensors replaced on

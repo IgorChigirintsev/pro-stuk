@@ -1,6 +1,6 @@
 ---
 title: "Señales de un tensor de cadena de distribución averiado"
-metaTitle: "Tensor de cadena: señales de que está fallando | Stuk"
+metaTitle: "Tensor de cadena: señales de que está fallando | Pro-Stuk"
 description: "Cómo saber que el tensor de la cadena ha perdido fuerza: traqueteo al arrancar en frío, susurro al ralentí, golpe al dar gas y el riesgo de salto de diente."
 faq:
   - q: "¿Por qué la cadena traquetea solo en el arranque en frío?"
@@ -104,6 +104,6 @@ y piñones, porque la mano de obra es compartida y unas guías gastadas se
 cargan rápido una cadena nueva.
 
 La forma más fácil de enseñarle el problema a un taller es con el sonido.
-Grabe un arranque en frío con la aplicación Stuk: cruza la grabación con
+Grabe un arranque en frío con la aplicación Pro-Stuk: cruza la grabación con
 sonidos típicos de avería, tiene en cuenta sus respuestas y valora con
 qué urgencia hace falta un mecánico.

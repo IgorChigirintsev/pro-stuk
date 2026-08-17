@@ -1,6 +1,6 @@
 ---
 title: "Buscar un golpeteo de suspensión sin elevador"
-metaTitle: "Buscar un golpeteo de suspensión sin elevador | Stuk"
+metaTitle: "Buscar un golpeteo de suspensión sin elevador | Pro-Stuk"
 description: "Un plan paso a paso para localizar un golpeteo de suspensión sin foso ni elevador: retrato del sonido, prueba de rebote, comprobaciones a mano y prueba en marcha."
 faq:
   - q: "¿De verdad se puede encontrar el origen sin foso ni elevador?"
@@ -159,7 +159,7 @@ hace poco, desde el apriete de los tornillos de rueda hasta cómo se volvieron a
 montar las piezas desmontadas.
 
 Si el golpeteo sigue negándose a dejarse localizar, queda una herramienta más:
-grabar el sonido en marcha con la aplicación Stuk. Compara la grabación con
+grabar el sonido en marcha con la aplicación Pro-Stuk. Compara la grabación con
 sus respuestas sobre cuándo y sobre qué firmes aparece el golpeteo y muestra
 las causas probables con un nivel de urgencia: un punto de partida cómodo
 tanto para la comprobación en el garaje como para la conversación con un

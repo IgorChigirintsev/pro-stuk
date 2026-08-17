@@ -1,6 +1,6 @@
 ---
 title: "Ein Klopfen, das man nur bei offenem Fenster hört"
-metaTitle: "Klopfen nur bei offenem Fenster hörbar | Stuk"
+metaTitle: "Klopfen nur bei offenem Fenster hörbar | Pro-Stuk"
 description: "Fenster zu — Stille; Fenster runter — ein deutliches Klopfen. Warum das so ist, was es über die Quelle sagt und wie man den Effekt zur Diagnose nutzt."
 faq:
   - q: "Warum ist das Klopfen bei geschlossenem Fenster nicht hörbar?"

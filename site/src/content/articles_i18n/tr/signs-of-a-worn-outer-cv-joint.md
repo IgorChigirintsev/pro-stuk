@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış dış aks kafasının belirtileri"
-metaTitle: "Aşınmış dış aks kafası: dönüşte tıklama | Stuk"
+metaTitle: "Aşınmış dış aks kafası: dönüşte tıklama | Pro-Stuk"
 description: "Aşınmış dış aks kafası nasıl tıklar, iç kafadan farkı ne, liftsiz basit kontroller ve körük mü yeni kafa mı sorusuna neye göre karar verilir."
 faq:
   - q: "Aks kafası neden özellikle dönüşte tıklar?"
@@ -131,7 +131,7 @@ sıkma kelepçe olduğundan emin olun. İkisi de onarımın kalıcı olup
 olmayacağına karar veren küçük ayrıntılardır.
 
 Tıklayanın gerçekten aks kafası olduğundan emin değil misiniz? Direksiyon
-sonuna kadar kırıkken yavaş bir daire çizerken sesi Stuk uygulamasında
+sonuna kadar kırıkken yavaş bir daire çizerken sesi Pro-Stuk uygulamasında
 kaydedin — uygulama kaydı cevaplarınızla eşleştirir ve olası nedenleri
 yüzdeleriyle ve aciliyet seviyesiyle gösterir. Bu sonuçla servise gitmeyi
 planlamak daha kolaydır.

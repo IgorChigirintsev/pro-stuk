@@ -1,6 +1,6 @@
 ---
 title: "Wie ein verschlissenes Zweimassenschwungrad klingt"
-metaTitle: "Verschlissenes Zweimassenschwungrad: der Ton | Stuk"
+metaTitle: "Verschlissenes Zweimassenschwungrad: der Ton | Pro-Stuk"
 description: "Scheppern beim Starten und Abstellen, Rasseln im Leerlauf, Vibration beim Anfahren — wie ein verschlissenes Zweimassenschwungrad klingt und was man verwechselt."
 faq:
   - q: "Warum ist ein Zweimassenschwungrad beim Abstellen des Motors am lautesten?"

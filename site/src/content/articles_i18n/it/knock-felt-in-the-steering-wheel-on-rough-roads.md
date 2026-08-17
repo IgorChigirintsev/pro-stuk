@@ -1,6 +1,6 @@
 ---
 title: "Colpi che si sentono nel volante sulle strade dissestate"
-metaTitle: "Colpi nel volante sulle strade dissestate | Stuk"
+metaTitle: "Colpi nel volante sulle strade dissestate | Pro-Stuk"
 description: "Da dove arrivano i colpi che si sentono nel volante: scatola guida, testine dello sterzo, tiranti o barra stabilizzatrice. Controlli semplici senza ponte."
 faq:
   - q: "Come faccio a capire se è lo sterzo e non la sospensione?"
@@ -126,7 +126,7 @@ molto più in fretta del dovuto, e un treno di pneumatici può costare più
 della riparazione stessa.
 
 Se non è sicuro di quale pezzo sia in causa, registri il colpo con l'app
-Stuk: percorra un tratto sconnesso tipico con la registrazione attiva,
+Pro-Stuk: percorra un tratto sconnesso tipico con la registrazione attiva,
 risponda a qualche domanda di chiarimento, e l'app confronterà il suono con
 i profili di guasto tipici mostrando le cause probabili con un livello di
 urgenza.

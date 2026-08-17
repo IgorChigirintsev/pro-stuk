@@ -1,6 +1,6 @@
 ---
 title: "Claquement à froid : chaîne de distribution ou déphaseurs"
-metaTitle: "Claquement à froid : chaîne ou déphaseurs | Stuk"
+metaTitle: "Claquement à froid : chaîne ou déphaseurs | Pro-Stuk"
 description: "Un cliquetis dans les premières secondes après un départ à froid vient d'une chaîne détendue comme des déphaseurs. Comment les séparer par la durée."
 faq:
   - q: "Combien de secondes de claquement à froid peut-on considérer comme normales ?"
@@ -95,7 +95,7 @@ usé, et le nettoyage ne représente qu'une fraction du travail de
 remplacement.
 
 Si vous ne savez pas si votre son entre dans la normale, enregistrez le
-démarrage à froid dans l'application Stuk plusieurs jours de suite.
+démarrage à froid dans l'application Pro-Stuk plusieurs jours de suite.
 L'application décompose l'enregistrement par caractère et par durée et
 affiche les causes probables avec leurs pourcentages — et comparer les
 enregistrements entre eux montre à soi seul si le son est stable ou s'il

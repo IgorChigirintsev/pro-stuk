@@ -1,6 +1,6 @@
 ---
 title: "Chirrido de la correa del alternador: las causas"
-metaTitle: "Chirrido de la correa del alternador: causas | Stuk"
+metaTitle: "Chirrido de la correa del alternador: causas | Pro-Stuk"
 description: "Por qué chirría la correa de accesorios: tensión floja, desgaste, aceite en las poleas, rodillos. Cómo hallar la causa según el momento en que aparece el chirrido."
 faq:
   - q: "¿Se puede circular con la correa de accesorios chirriando?"
@@ -149,7 +149,7 @@ motores, es que un trozo de la correa de accesorios se meta bajo la tapa
 de la distribución, y ahí las consecuencias sí se vuelven caras de verdad.
 
 Cuando de oído no queda claro si es la correa, un rodillo o un rodamiento
-de alguno de los elementos, grabe el sonido con la aplicación Stuk:
+de alguno de los elementos, grabe el sonido con la aplicación Pro-Stuk:
 compara la grabación con sus respuestas y muestra las causas probables con
 un nivel de urgencia, lo que hace que la conversación en el taller sea
 concreta.

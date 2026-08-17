@@ -1,6 +1,6 @@
 ---
 title: "Brummen: das Getriebe oder ein Radlager"
-metaTitle: "Brummen bei Tempo: Getriebe oder Radlager | Stuk"
+metaTitle: "Brummen bei Tempo: Getriebe oder Radlager | Pro-Stuk"
 description: "Ein Brummen bei Tempo kommt sowohl von Radlagern als auch von Getrieben. Drei Tests, die sie in einer Fahrt trennen, und was jede Antwort für die Reparatur heißt."
 faq:
   - q: "Wie trenne ich Getriebebrummen am schnellsten von Radlagerbrummen?"

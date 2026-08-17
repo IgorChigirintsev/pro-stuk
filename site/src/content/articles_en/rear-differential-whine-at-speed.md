@@ -1,7 +1,7 @@
 ---
 ru: "voj-zadnego-reduktora"
 title: "Rear differential whine at speed"
-metaTitle: "Rear differential whine at speed: causes | Stuk"
+metaTitle: "Rear differential whine at speed: causes | Pro-Stuk"
 description: "A whine from the rear that changes on power and on the overrun is the classic handwriting of the rear differential. How to tell it from bearings."
 pubDate: "2026-07-27"
 related:
@@ -101,7 +101,7 @@ rather than by feel: a differential assembled "by ear" whines again within
 months, and that is the commonest reason a rebuild fails.
 
 If the whine is still quiet and you want to confirm that it really does
-change with the throttle, record two short clips in the Stuk app: one on
+change with the throttle, record two short clips in the Pro-Stuk app: one on
 power, one coasting, at the same speed. The app matches the recordings
 with your answers to a few questions and shows the likely causes with
 percentages.

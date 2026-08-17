@@ -1,6 +1,6 @@
 ---
 title: "G4FC-Ticken bei Solaris/Rio: normal oder Zylinderriefen"
-metaTitle: "G4FC-Ticken: normal oder Zylinderriefen? | Stuk"
+metaTitle: "G4FC-Ticken: normal oder Zylinderriefen? | Pro-Stuk"
 description: "Der G4FC tickt im Leerlauf: wo das serienmäßige Injektorklappern endet und ein bedenklicher Ton beginnt. Wie Sie normal von Riefen trennen."
 faq:
   - q: "Ist Ticken beim G4FC normal?"

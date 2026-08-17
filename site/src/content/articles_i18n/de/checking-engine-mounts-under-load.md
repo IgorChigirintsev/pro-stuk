@@ -1,6 +1,6 @@
 ---
 title: "Motorlager unter Last prüfen"
-metaTitle: "Motorlager unter Last prüfen | Stuk"
+metaTitle: "Motorlager unter Last prüfen | Pro-Stuk"
 description: "Der Lasttest für Motorlager: Gänge gegen die Bremse einlegen, auf welche Bewegung Sie achten und wie Sie Lager von anderen Klopfgeräuschen unterscheiden."
 faq:
   - q: "Wie stark darf sich der Motor überhaupt bewegen?"

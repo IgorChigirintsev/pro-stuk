@@ -1,6 +1,6 @@
 ---
 title: "Ce qui arrive si on ne change jamais les biellettes de barre stabilisatrice"
-metaTitle: "Biellettes de barre stabilisatrice usées : risques | Stuk"
+metaTitle: "Biellettes de barre stabilisatrice usées : risques | Pro-Stuk"
 description: "Où mène le fait de rouler avec des biellettes usées : plus de roulis, une biellette qui casse, l'usure des pièces voisines. Combien de temps attendre et ce que cela coûte."
 faq:
   - q: "Est-ce dangereux de rouler avec des biellettes qui claquent ?"
@@ -140,7 +140,7 @@ pas dramatique, mais à côté du prix d'une paire de biellettes, c'est un
 argument de plus contre l'attente.
 
 Si le claquement est là mais que le diagnostic reste incertain, enregistrez
-le bruit dans l'application Stuk. Elle confronte l'enregistrement à vos
+le bruit dans l'application Pro-Stuk. Elle confronte l'enregistrement à vos
 réponses sur le caractère du claquement et affiche les causes probables
 avec un niveau d'urgence : vous saurez s'il s'agit d'une paire de
 biellettes bon marché ou de quelque chose de plus sérieux.

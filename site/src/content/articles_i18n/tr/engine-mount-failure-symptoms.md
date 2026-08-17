@@ -1,6 +1,6 @@
 ---
 title: "Motor takozu dağıldığında görülen belirtiler"
-metaTitle: "Motor takozu arızası: belirtileri | Stuk"
+metaTitle: "Motor takozu arızası: belirtileri | Pro-Stuk"
 description: "Kalkışta sarsıntı, rölantide titreşim, vitesi D'den R'ye alırken boğuk tok ses — dağılmış motor takozu nasıl anlaşılır ve nelere yol açar."
 faq:
   - q: "Kopmuş motor takozuyla araç kullanmak tehlikeli mi?"
@@ -94,6 +94,6 @@ yaklaşım her şeyi değiştirmeye koşmamak ama işi birkaç aydan fazla da
 bekletmemektir, özellikle vites takarken duyulan tok ses netleştikten sonra.
 
 Sarsıntının nereden geldiğinden emin değilseniz — motor bölmesinden mi, tekerlek
-altından mı — kalkış anını Stuk uygulamasıyla kaydedin. Uygulama kaydı, sesin
+altından mı — kalkış anını Pro-Stuk uygulamasıyla kaydedin. Uygulama kaydı, sesin
 hangi rejimde çıktığına dair cevaplarınızla eşleştirip olası sebepleri yüzdesiyle
 gösterir; böylece serviste konuşma somut bir teoriden başlar.

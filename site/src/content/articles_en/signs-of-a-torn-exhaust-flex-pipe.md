@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-porvannoj-gofry-glushitelya"
 title: "Signs of a torn exhaust flex pipe"
-metaTitle: "Signs of a torn exhaust flex pipe | Stuk"
+metaTitle: "Signs of a torn exhaust flex pipe | Pro-Stuk"
 description: "A sudden roar under your feet, vibration at idle and exhaust fumes in the cabin — how to recognise a torn flex pipe and what the repair involves."
 pubDate: "2026-06-09"
 related:
@@ -102,7 +102,7 @@ welded up with the exhaust pulled to one side, the new section starts its
 life pre-loaded.
 
 If the roar has appeared but you are not sure whether it is the flex pipe
-or a rotten pipe, record the sound in the Stuk app at idle and while
+or a rotten pipe, record the sound in the Pro-Stuk app at idle and while
 raising the revs smoothly. The app matches the recording with your answers
 about where the sound is loudest and how it changes, and suggests which
 part of the system to inspect first.

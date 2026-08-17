@@ -1,7 +1,7 @@
 ---
 ru: "stuk-amortizatorov-camry-tipovaya-problema"
 title: "Camry strut knock: the typical problem"
-metaTitle: "Camry strut knock: causes and what to replace | Stuk"
+metaTitle: "Camry strut knock: causes and what to replace | Pro-Stuk"
 description: "A Camry front strut knock over small bumps: why the dampers are not always to blame, how to check the mounts and links, and how the repair is decided."
 pubDate: "2026-06-26"
 related:
@@ -98,7 +98,7 @@ arrive together, and the signs of that part's wear are in
 [signs of a worn wheel bearing](/en/articles/signs-of-a-worn-wheel-bearing/).
 
 If the knock is still occasional and cannot be reproduced for the
-mechanic, record it with the Stuk app while driving over a familiar bump.
+mechanic, record it with the Pro-Stuk app while driving over a familiar bump.
 The app matches the recording with your answers and shows the likely
 causes with percentages — at the very least it becomes clear where to
 start looking.

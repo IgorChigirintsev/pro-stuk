@@ -1,6 +1,6 @@
 ---
 title: "Ein Klopfen beim Gangwechsel"
-metaTitle: "Klopfen beim Gangwechsel: die Ursachen | Stuk"
+metaTitle: "Klopfen beim Gangwechsel: die Ursachen | Pro-Stuk"
 description: "Ein Klopfen im Moment des Schaltens kommt von Spiel in der Schaltmechanik, verschlissenen Motorlagern und Antriebswellengelenken. Wie man die Ursachen trennt."
 faq:
   - q: "Ist ein Klopfen beim Schalten immer das Getriebe?"

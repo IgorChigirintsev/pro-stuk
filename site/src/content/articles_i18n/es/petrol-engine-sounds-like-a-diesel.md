@@ -1,6 +1,6 @@
 ---
 title: "Por qué un motor de gasolina empieza a sonar como un diésel"
-metaTitle: "Motor de gasolina que suena a diésel: causas | Stuk"
+metaTitle: "Motor de gasolina que suena a diésel: causas | Pro-Stuk"
 description: "Por qué un motor de gasolina empieza a castañetear como un diésel: taqués, cadena estirada, detonación, inyección directa. Qué revisar primero y en qué orden."
 faq:
   - q: "¿Qué significa que un motor de gasolina suene como un diésel?"
@@ -139,7 +139,7 @@ calibradas que hay que medir y pedir una a una, y por eso el mismo trabajo
 cuesta cosas muy distintas en dos coches de tamaño parecido.
 
 Si quiere entenderlo antes del viaje al taller, grabe el motor en la
-aplicación Stuk: al ralentí y, si se puede hacer con seguridad, bajo
+aplicación Pro-Stuk: al ralentí y, si se puede hacer con seguridad, bajo
 carga. La aplicación cruza la grabación con sus respuestas y muestra las
 causas probables con un nivel de urgencia: queda más claro si esto es un
 ajuste rutinario o la clase de detonación que no conviene aplazar.

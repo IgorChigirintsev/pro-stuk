@@ -1,6 +1,6 @@
 ---
 title: "Metalen gerinkel in de motor bij het optrekken"
-metaTitle: "Metalen gerinkel bij optrekken: oorzaken | Stuk"
+metaTitle: "Metalen gerinkel bij optrekken: oorzaken | Pro-Stuk"
 description: "Gerinkel als muntjes in een blikje bij optrekken is meestal pingelen. De oorzaken — brandstof, koolaanslag, bougies, klopsensor — en wat u eerst nakijkt."
 faq:
   - q: "Waarom komt het gerinkel juist bij het optrekken?"

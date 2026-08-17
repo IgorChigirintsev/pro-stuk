@@ -1,6 +1,6 @@
 ---
 title: "Silindir çizilmesinin belirtileri"
-metaTitle: "Silindir çizilmesi: ses ve belirtiler | Stuk"
+metaTitle: "Silindir çizilmesi: ses ve belirtiler | Pro-Stuk"
 description: "Silindir çizilmesinin beş belirtisi: soğukta vuruntu, yağ eksiltme, güç kaybı. Hangi motorlar riskli, teşhis nasıl doğrulanır ve sonrasında ne olur."
 faq:
   - q: "Çizilme kesin olarak nasıl doğrulanır?"
@@ -103,7 +103,7 @@ Bloğun derininden gelen boğuk bir vuruntu da eklendiyse, o daha acil ve
 başka bir konudur.
 
 Motor soğukta vurmaya başladıysa ve en kötüsünden şüpheleniyorsanız sesi
-Stuk uygulamasında kaydedin. Uygulama kaydı, koşullara dair
+Pro-Stuk uygulamasında kaydedin. Uygulama kaydı, koşullara dair
 cevaplarınızla eşleştirir ve olası nedenleri yüzdeleriyle ve aciliyetiyle
 gösterir: bu tabloyla endoskopi ve onarım kararı daha kolay ve daha sakin
 verilir.

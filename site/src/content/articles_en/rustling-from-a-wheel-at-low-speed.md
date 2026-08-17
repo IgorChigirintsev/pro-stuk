@@ -1,7 +1,7 @@
 ---
 ru: "shelest-ot-kolesa-na-maloj-skorosti"
 title: "Rustling from a wheel at low speed"
-metaTitle: "Rustling from a wheel at low speed: causes | Stuk"
+metaTitle: "Rustling from a wheel at low speed: causes | Pro-Stuk"
 description: "A rustle from a wheel at 10–30 km/h most often comes from the brakes or the dust shield. How to tell a harmless touch from wear, and what to check."
 pubDate: "2026-07-20"
 related:
@@ -103,7 +103,7 @@ for free and gets blamed on pads that had years left.
 Telling a harmless touch from the start of wear by ear is not easy — the
 difference between “swishing” and “swishing with metal in it” barely
 survives being put into words. It is simpler to record the sound in the
-Stuk app while pulling out of the car park: the app matches the recording
+Pro-Stuk app while pulling out of the car park: the app matches the recording
 with your answers to a few questions and shows the likely causes with
 percentages, so it becomes clear whether to go in at the weekend or wait
 calmly for the next service.

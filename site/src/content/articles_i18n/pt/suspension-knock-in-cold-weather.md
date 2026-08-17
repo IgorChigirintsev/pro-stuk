@@ -1,6 +1,6 @@
 ---
 title: "Batida na suspensão no frio"
-metaTitle: "Batida na suspensão no frio: o que fazer | Stuk"
+metaTitle: "Batida na suspensão no frio: o que fazer | Pro-Stuk"
 description: "Por que a suspensão bate no frio e se aquieta depois de aquecer: borracha enrijecida, óleo grosso no amortecedor, plástico. O que é grave e o que não é."
 faq:
   - q: "A batida some depois que esquenta — dá para ignorar?"
@@ -101,7 +101,7 @@ variação de temperatura. O poliuretano ganha lugar onde a peça original
 não sobrevive a uma temporada.
 
 Se você está na dúvida entre normal e desgaste, grave a batida da manhã no
-aplicativo Stuk enquanto dirige. O algoritmo cruza o som com as suas
+aplicativo Pro-Stuk enquanto dirige. O algoritmo cruza o som com as suas
 respostas sobre temperatura e condições e mostra as causas prováveis com
 nível de urgência: fica mais fácil decidir entre ir agora ou esperar
 tranquilo a próxima revisão.

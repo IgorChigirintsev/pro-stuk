@@ -1,6 +1,6 @@
 ---
 title: "Un claquement qu'on n'entend que vitre ouverte"
-metaTitle: "Claquement audible seulement vitre ouverte | Stuk"
+metaTitle: "Claquement audible seulement vitre ouverte | Pro-Stuk"
 description: "Vitre fermée, silence ; vitre baissée, un claquement net. Pourquoi cela arrive, ce que cela dit de la source et comment s'en servir pour le diagnostic."
 faq:
   - q: "Pourquoi le claquement est-il inaudible vitre fermée ?"
@@ -112,7 +112,7 @@ tôt que le kilométrage ne le laisserait penser.
 Un tel son est presque impossible à transmettre à un mécanicien avec des
 mots : dans la travée, la voiture est à l'arrêt, les vitres sont ouvertes,
 et c'est justement la combinaison de vitesse et de virage qui manque.
-Enregistrez donc un passage vitre baissée dans l'application Stuk — elle
+Enregistrez donc un passage vitre baissée dans l'application Pro-Stuk — elle
 analyse l'enregistrement, le croise avec vos réponses sur la vitesse et
 les conditions, et affiche les causes probables avec leurs pourcentages,
 en donnant au garage un extrait précis à écouter.

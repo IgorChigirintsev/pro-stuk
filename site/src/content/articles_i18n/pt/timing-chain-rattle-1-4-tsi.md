@@ -1,6 +1,6 @@
 ---
 title: "Chocalho da corrente no 1.4 TSI: o defeito e a solução"
-metaTitle: "Chocalho da corrente no 1.4 TSI: causas e solução | Stuk"
+metaTitle: "Chocalho da corrente no 1.4 TSI: causas e solução | Pro-Stuk"
 description: "Por que os 1.4 TSI antigos de corrente chocalham na partida fria, como separar corrente esticada de outras batidas e o que o reparo envolve."
 faq:
   - q: "Por que a corrente só chocalha nos primeiros segundos depois da partida?"
@@ -105,7 +105,7 @@ funcionamento do conjunto depende diretamente da rapidez com que o sistema
 cria pressão.
 
 Se o chocalho da partida apareceu há pouco e você quer saber se é esse
-som, grave no aplicativo Stuk logo depois da partida fria, antes de
+som, grave no aplicativo Pro-Stuk logo depois da partida fria, antes de
 aquecer. O app cruza a gravação com as suas respostas e mostra as causas
 prováveis com porcentagem — o bastante para chegar à oficina com uma
 hipótese objetiva em vez de ansiedade genérica.

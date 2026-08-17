@@ -1,6 +1,6 @@
 ---
 title: "Tirones y golpes de la caja automática al cambiar de marcha"
-metaTitle: "Tirones y golpes de la caja automática al cambiar | Stuk"
+metaTitle: "Tirones y golpes de la caja automática al cambiar | Pro-Stuk"
 description: "Los tirones y el golpe sordo al cambiar de marcha pueden ser inofensivos o el primer aviso de una reparación cara. Cómo distinguirlos y qué comprobar."
 faq:
   - q: "¿Es normal un tirón al pasar de P a D?"
@@ -105,7 +105,7 @@ un cambio de aceite, eso suele ser prudencia y no pereza: el aceite
 fresco arrastra los depósitos que mantenían unidos unos embragues ya
 agotados.
 
-Mientras lo aclara, grabe el sonido en la aplicación Stuk en el momento
+Mientras lo aclara, grabe el sonido en la aplicación Pro-Stuk en el momento
 de un cambio, primero en frío y luego con el coche caliente. La
 aplicación cruza las grabaciones con sus respuestas y muestra dónde
 mirar primero: en los soportes, en el aceite, o dentro de la caja

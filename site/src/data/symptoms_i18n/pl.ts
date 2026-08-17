@@ -4,7 +4,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Stukanie w silniku',
-    metaTitle: 'Silnik stuka: przyczyny, zagrożenie, co robić | Stuk',
+    metaTitle: 'Silnik stuka: przyczyny, zagrożenie, co robić | Pro-Stuk',
     description:
       'Dlaczego silnik stuka: od niegroźnego tykania zaworów po zużyte panewki wału. Jak rozpoznać groźne stukanie, czy można jechać i co sprawdzić samemu.',
     intro: [
@@ -30,7 +30,7 @@ export const pages: Record<string, SymptomTr> = {
       'Sprawdzić, czy nie świeci kontrolka ciśnienia oleju: czerwona oliwiarka razem ze stukiem oznacza natychmiastowe zgaszenie silnika.',
     ],
     appHelp:
-      'Aplikacja Stuk przeprowadzi cię przez te same pytania, które zadaje mechanik silnikowy, nagra dźwięk i oceni jego widmo oraz rytm: jak często idą uderzenia i jak to się ma do obrotów — przy stuku zaworów i stuku wału ta zależność jest inna. W raporcie znajdziesz prawdopodobne przyczyny z procentami, sygnalizację pilności i zwroty przydatne w rozmowie w warsztacie.',
+      'Aplikacja Pro-Stuk przeprowadzi cię przez te same pytania, które zadaje mechanik silnikowy, nagra dźwięk i oceni jego widmo oraz rytm: jak często idą uderzenia i jak to się ma do obrotów — przy stuku zaworów i stuku wału ta zależność jest inna. W raporcie znajdziesz prawdopodobne przyczyny z procentami, sygnalizację pilności i zwroty przydatne w rozmowie w warsztacie.',
     faq: [
       {
         q: 'Dlaczego silnik stuka tylko na zimno?',
@@ -49,7 +49,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Piszczenie hamulców',
-    metaTitle: 'Hamulce piszczą: groźne czy nie, przyczyny i co robić | Stuk',
+    metaTitle: 'Hamulce piszczą: groźne czy nie, przyczyny i co robić | Pro-Stuk',
     description:
       'Dlaczego hamulce piszczą: poranna warstewka rdzy, czujnik zużycia klocków albo problem z tarczami. Jak odróżnić niegroźny pisk od ostrzeżenia.',
     intro: [
@@ -74,7 +74,7 @@ export const pages: Record<string, SymptomTr> = {
       'Zwrócić uwagę na pedał i tor jazdy: ściąganie na bok przy hamowaniu, pulsujący albo „długi” pedał są poważniejsze niż pisk i oznaczają warsztat bez zwłoki.',
     ],
     appHelp:
-      'Aplikacja Stuk oddziela scenariusz niegroźny od niepokojącego tymi samymi pytaniami — kiedy piszczy i czy dźwięk znika — a nagranie pomaga odróżnić wysoki pisk czujnika od zgrzytu. W raporcie znajdziesz prawdopodobne przyczyny z procentami i sygnalizację: można jechać, do warsztatu w tym tygodniu albo zatrzymaj się.',
+      'Aplikacja Pro-Stuk oddziela scenariusz niegroźny od niepokojącego tymi samymi pytaniami — kiedy piszczy i czy dźwięk znika — a nagranie pomaga odróżnić wysoki pisk czujnika od zgrzytu. W raporcie znajdziesz prawdopodobne przyczyny z procentami i sygnalizację: można jechać, do warsztatu w tym tygodniu albo zatrzymaj się.',
     faq: [
       {
         q: 'Dlaczego hamulce piszczą rano i w deszczu?',
@@ -93,7 +93,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Buczenie podczas jazdy',
-    metaTitle: 'Buczenie podczas jazdy: łożysko, opony czy skrzynia | Stuk',
+    metaTitle: 'Buczenie podczas jazdy: łożysko, opony czy skrzynia | Pro-Stuk',
     description:
       'Równe buczenie przy prędkości: łożysko koła, opony, skrzynia biegów albo dyferencjał. Proste testy bez warsztatu — test na luzie i łagodne zakręty — zawężają przyczynę.',
     intro: [
@@ -119,7 +119,7 @@ export const pages: Record<string, SymptomTr> = {
       'W skrzyni manualnej sprawdzić, czy wycie zmienia się na różnych biegach przy tej samej prędkości; przy napędzie na tył — czy razem z buczeniem pojawia się drżenie podłogi w wąskim zakresie prędkości.',
     ],
     appHelp:
-      'Aplikacja Stuk przeprowadzi cię przez te same pytania — czy buczenie zostaje na luzie, czy zmienia się w zakrętach i z nawierzchnią — i pomoże nagrać dźwięk, by porównać jego charakter z typowymi przypadkami. W raporcie znajdziesz prawdopodobne przyczyny z procentami i wniosek: jedź spokojnie, zaplanuj warsztat albo sprawdź bez zwłoki.',
+      'Aplikacja Pro-Stuk przeprowadzi cię przez te same pytania — czy buczenie zostaje na luzie, czy zmienia się w zakrętach i z nawierzchnią — i pomoże nagrać dźwięk, by porównać jego charakter z typowymi przypadkami. W raporcie znajdziesz prawdopodobne przyczyny z procentami i wniosek: jedź spokojnie, zaplanuj warsztat albo sprawdź bez zwłoki.',
     faq: [
       {
         q: 'Jak odróżnić buczenie łożyska od hałasu opon?',
@@ -138,12 +138,12 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Stukanie w zawieszeniu',
-    metaTitle: 'Stuk w zawieszeniu: co stuka i czy można jechać | Stuk',
+    metaTitle: 'Pro-Stuk w zawieszeniu: co stuka i czy można jechać | Pro-Stuk',
     description:
       'Co stuka w zawieszeniu: łączniki stabilizatora, tuleje metalowo-gumowe, przekładnia kierownicza albo pęknięta sprężyna. Jak rozróżnić stuki po charakterze i kiedy do warsztatu.',
     intro: [
       'Zawieszenie samochodu osobowego to kilkadziesiąt przegubów, tulei gumowych i poduszek, a z wiekiem luz — swobodny ruch — w którymś z nich jest prawie nieunikniony. Poluzowany element odpowiada na każdą nierówność stukiem: zawieszenie ugina się i prostuje, a zużyta część bije w swoim mocowaniu. Dobra wiadomość jest taka, że pierwsze poddają się zwykle tanie części — łączniki stabilizatora, niewielkie drążki z przegubami, które w zawieszeniu zużywają się przed wszystkim innym.',
-      'Charakter dźwięku mówi wiele jeszcze przed podnośnikiem. Częsty głuchy stukot na drobnych falach i szczelinach to podpis łączników stabilizatora. Pojedyncze uderzenia na dziurach i progach zwalniających wskazują na tuleje metalowo-gumowe — gumowe przeguby, przez które wahacze mocowane są do nadwozia — albo na zmęczone amortyzatory. Stuk, który przechodzi prosto na kierownicę i czuć go w dłoniach, to luz w przekładni kierowniczej. A skrzypienie „jak stare łóżko” to wcale nie stuk, tylko sucha guma tulei: najbardziej niegroźna historia z wymienionych.',
+      'Charakter dźwięku mówi wiele jeszcze przed podnośnikiem. Częsty głuchy stukot na drobnych falach i szczelinach to podpis łączników stabilizatora. Pojedyncze uderzenia na dziurach i progach zwalniających wskazują na tuleje metalowo-gumowe — gumowe przeguby, przez które wahacze mocowane są do nadwozia — albo na zmęczone amortyzatory. Pro-Stuk, który przechodzi prosto na kierownicę i czuć go w dłoniach, to luz w przekładni kierowniczej. A skrzypienie „jak stare łóżko” to wcale nie stuk, tylko sucha guma tulei: najbardziej niegroźna historia z wymienionych.',
     ],
     causes: [
       { name: 'Łączniki stabilizatora', likelihood: 'Najczęściej — częsty głuchy stukot na drobnych nierównościach' },
@@ -154,7 +154,7 @@ export const pages: Record<string, SymptomTr> = {
     ],
     canRide: [
       'Z większością stuków w zawieszeniu można jeździć: łączniki stabilizatora, tuleje i gumy nie odmawiają nagle. Odkładać diagnostyki na miesiące jednak nie warto — rozbity element przekazuje uderzenia dalej i przyspiesza zużycie sąsiadów, a podobnie na słuch mogą stukać rzeczy poważniejsze. Rozsądny termin to przegląd w ciągu tygodnia–dwóch, a do tego czasu wolniejsze pokonywanie dużych dziur.',
-      'Dwa scenariusze wymagają więcej uwagi. Stuk przechodzący na kierownicę dotyczy układu kierowniczego, zespołu bezpieczeństwa: kontrola w najbliższych dniach, a jeśli kierownica zrobiła się „pusta” w położeniu centralnym albo auto pływa po pasie — bez zwłoki. Łomot, który pojawił się nagle po uderzeniu w dziurę, razem z osiadłym rogiem nadwozia, to typowy obraz pękniętej sprężyny: do warsztatu jedź łagodnie, bo ułamany zwój może się przesunąć i uszkodzić oponę.',
+      'Dwa scenariusze wymagają więcej uwagi. Pro-Stuk przechodzący na kierownicę dotyczy układu kierowniczego, zespołu bezpieczeństwa: kontrola w najbliższych dniach, a jeśli kierownica zrobiła się „pusta” w położeniu centralnym albo auto pływa po pasie — bez zwłoki. Łomot, który pojawił się nagle po uderzeniu w dziurę, razem z osiadłym rogiem nadwozia, to typowy obraz pękniętej sprężyny: do warsztatu jedź łagodnie, bo ułamany zwój może się przesunąć i uszkodzić oponę.',
     ],
     checks: [
       'Pobujać stojące auto ręką za błotnik nad każdym kołem: skrzypienie gum i tulei często odtwarza się już na miejscu.',
@@ -164,7 +164,7 @@ export const pages: Record<string, SymptomTr> = {
       'Zajrzeć za koło od dołu, niczego nie rozbierając: ułamany zwój sprężyny często widać gołym okiem, a przy okazji widać, czy jeden róg auta nie osiadł.',
     ],
     appHelp:
-      'Aplikacja Stuk prowadzi przez te same rozwidlenia co mechanik przy pierwszych oględzinach: jaki to dźwięk, na jakich nierównościach, z przodu czy z tyłu, czy przechodzi na kierownicę. Nagranie pozwala nie zgubić szczegółów do wizyty, a w raporcie są prawdopodobne przyczyny z procentami i czytelna sygnalizacja: można jechać, pokaż w tym tygodniu albo sprawdź pilnie.',
+      'Aplikacja Pro-Stuk prowadzi przez te same rozwidlenia co mechanik przy pierwszych oględzinach: jaki to dźwięk, na jakich nierównościach, z przodu czy z tyłu, czy przechodzi na kierownicę. Nagranie pozwala nie zgubić szczegółów do wizyty, a w raporcie są prawdopodobne przyczyny z procentami i czytelna sygnalizacja: można jechać, pokaż w tym tygodniu albo sprawdź pilnie.',
     faq: [
       {
         q: 'Czy jazda ze stukiem w zawieszeniu jest groźna?',
@@ -183,7 +183,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Buczenie łożyska koła',
-    metaTitle: 'Łożysko koła buczy: jak je rozpoznać | Stuk',
+    metaTitle: 'Łożysko koła buczy: jak je rozpoznać | Pro-Stuk',
     description:
       'Jak brzmi zużyte łożysko koła, jak odróżnić je od hałasu opon, które koło buczy i jak długo można tak jeździć.',
     intro: [
@@ -208,7 +208,7 @@ export const pages: Record<string, SymptomTr> = {
       'Po jeździe ostrożnie zbliżyć rękę do piast (nie dotykając tarczy hamulcowej — jest gorąca): wyraźnie cieplejsza piasta z jednej strony to dodatkowa poszlaka.',
     ],
     appHelp:
-      'Aplikacja Stuk zada te same pytania kontrolne — o nawierzchnię, zakręty i toczenie na luzie — nagra buczenie i oceni jego charakter: równy szerokopasmowy szum opon i buczenie łożyska wyglądają w widmie inaczej. W raporcie będą prawdopodobieństwa przyczyn, pilność i podpowiedź, którą stronę wskazać mechanikowi.',
+      'Aplikacja Pro-Stuk zada te same pytania kontrolne — o nawierzchnię, zakręty i toczenie na luzie — nagra buczenie i oceni jego charakter: równy szerokopasmowy szum opon i buczenie łożyska wyglądają w widmie inaczej. W raporcie będą prawdopodobieństwa przyczyn, pilność i podpowiedź, którą stronę wskazać mechanikowi.',
     faq: [
       {
         q: 'Dlaczego buczenie zmienia się w zakrętach?',
@@ -227,11 +227,11 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Stukanie na nierównościach',
-    metaTitle: 'Stuki na nierównościach: przyczyny i co sprawdzić samemu | Stuk',
+    metaTitle: 'Stuki na nierównościach: przyczyny i co sprawdzić samemu | Pro-Stuk',
     description:
       'Stukanie na nierównościach: częste na drobnych falach, pojedyncze uderzenia na dziurach albo stuk na kierownicę. Które elementy zawiniły i czy można jechać.',
     intro: [
-      'Stuk, który pojawia się tylko na nierównościach — szczelinach, kostce, progach zwalniających — prawie zawsze pochodzi z podwozia. Przy pokonywaniu wyboju zawieszenie ugina się i prostuje, a jeśli w którymś przegubie pojawił się luz, element przy każdym skoku bije w swoim mocowaniu. W autach starszych niż pięć–siedem lat to zwyczajna sprawa, a winne są najczęściej tanie części eksploatacyjne, a nie duże zespoły.',
+      'Pro-Stuk, który pojawia się tylko na nierównościach — szczelinach, kostce, progach zwalniających — prawie zawsze pochodzi z podwozia. Przy pokonywaniu wyboju zawieszenie ugina się i prostuje, a jeśli w którymś przegubie pojawił się luz, element przy każdym skoku bije w swoim mocowaniu. W autach starszych niż pięć–siedem lat to zwyczajna sprawa, a winne są najczęściej tanie części eksploatacyjne, a nie duże zespoły.',
       'Rysunek stuku zawęża listę podejrzanych. Częsty głuchy stukot na drobnych falach z przodu to klasyk łączników stabilizatora; ten sam rysunek z tyłu to łączniki tylnego stabilizatora albo tuleje belki (gumowe tuleje, przez które belka mocowana jest do nadwozia). Pojedyncze uderzenia na dziurach to tuleje wahaczy albo zmęczone amortyzatory. Osobny przypadek — stuk w takt obrotu koła, który pojawił się po niedawnej wymianie opon: to mogą być niedokręcone śruby koła i tę wersję sprawdza się pierwszą.',
     ],
     causes: [
@@ -243,7 +243,7 @@ export const pages: Record<string, SymptomTr> = {
     ],
     canRide: [
       'Z typowym stukiem łączników stabilizatora albo tulei można jeździć: te elementy nie odmawiają nagle, a tydzień–dwa do diagnostyki niczego nie zmienią, jeśli duże dziury pokonujesz wolno. Sama diagnostyka zawieszenia jest szybka: mechanik poruszy przegubami na podnośniku i znajdzie luz w kilka minut. Ciągnąć miesiącami mimo wszystko nie warto: zużyty przegub przekazuje uderzenia sąsiednim częściom i przyspiesza ich zużycie.',
-      'Inaczej wygląda rytmiczny stuk w takt obrotu koła w pierwszych dniach po wymianie opon: to powód, by zatrzymać się przy pierwszej okazji i sprawdzić dokręcenie śrub wszystkich kół kluczem. Koło na poluzowanych śrubach rozbija otwory felgi, a w najgorszym razie może się odkręcić w ruchu. Stuk przechodzący na kierownicę też nie znosi zwłoki: układ kierowniczy to zespół bezpieczeństwa, sprawdza się go w najbliższych dniach.',
+      'Inaczej wygląda rytmiczny stuk w takt obrotu koła w pierwszych dniach po wymianie opon: to powód, by zatrzymać się przy pierwszej okazji i sprawdzić dokręcenie śrub wszystkich kół kluczem. Koło na poluzowanych śrubach rozbija otwory felgi, a w najgorszym razie może się odkręcić w ruchu. Pro-Stuk przechodzący na kierownicę też nie znosi zwłoki: układ kierowniczy to zespół bezpieczeństwa, sprawdza się go w najbliższych dniach.',
     ],
     checks: [
       'Jeśli koła były niedawno zdejmowane albo przekładane — najpierw sprawdź dokręcenie śrub wszystkich kół kluczem, zanim rozważysz inne wersje.',
@@ -253,7 +253,7 @@ export const pages: Record<string, SymptomTr> = {
       'Wykluczyć proste rzeczy: wyjąć luźne przedmioty z bagażnika, sprawdzić mocowanie koła zapasowego i podnośnika, nacisnąć zamkniętą maskę — luźny zamek maski stuka podobnie do zawieszenia.',
     ],
     appHelp:
-      'Aplikacja Stuk zadaje te same pytania co ta strona, tylko krok po kroku: jaki dokładnie stuk, gdzie go słychać, jak zachowuje się na różnych nierównościach. Z odpowiedzi i nagrania układa raport z prawdopodobnymi przyczynami i sygnalizacją pilności — z nim łatwiej zdecydować, czy jechać do warsztatu jutro, czy przy okazji.',
+      'Aplikacja Pro-Stuk zadaje te same pytania co ta strona, tylko krok po kroku: jaki dokładnie stuk, gdzie go słychać, jak zachowuje się na różnych nierównościach. Z odpowiedzi i nagrania układa raport z prawdopodobnymi przyczynami i sygnalizacją pilności — z nim łatwiej zdecydować, czy jechać do warsztatu jutro, czy przy okazji.',
     faq: [
       {
         q: 'Dlaczego stuk słychać tylko na nierównościach, a na gładkiej drodze jest cicho?',
@@ -272,7 +272,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Tykanie silnika',
-    metaTitle: 'Silnik tyka: norma czy zużycie, przyczyny | Stuk',
+    metaTitle: 'Silnik tyka: norma czy zużycie, przyczyny | Pro-Stuk',
     description:
       'Skąd bierze się tykanie silnika: luzy zaworowe, hydrauliczne popychacze, normalne klekotanie wtryskiwaczy albo kolektor wydechowy. Jak odróżnić normę od zużycia.',
     intro: [
@@ -298,7 +298,7 @@ export const pages: Record<string, SymptomTr> = {
       'Powąchać przy otwartej masce: zapach spalin razem z częstym klekotem to znak kolektora — z tym do warsztatu w ciągu tygodnia–dwóch.',
     ],
     appHelp:
-      'Aplikacja Stuk doprecyzuje najważniejsze — czy tykanie stało się z czasem głośniejsze i jak zachowuje się na zimno i na ciepło — a nagranie pozwoli porównać je z typowymi przykładami. W raporcie będą prawdopodobne przyczyny z procentami i wniosek w formie sygnalizacji: norma, wizyta w tym tygodniu albo diagnostyka bez zwłoki.',
+      'Aplikacja Pro-Stuk doprecyzuje najważniejsze — czy tykanie stało się z czasem głośniejsze i jak zachowuje się na zimno i na ciepło — a nagranie pozwoli porównać je z typowymi przykładami. W raporcie będą prawdopodobne przyczyny z procentami i wniosek w formie sygnalizacji: norma, wizyta w tym tygodniu albo diagnostyka bez zwłoki.',
     faq: [
       {
         q: 'Dlaczego diesle i silniki z bezpośrednim wtryskiem zawsze tykają?',
@@ -317,7 +317,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Pisk paska',
-    metaTitle: 'Pasek piszczy: przyczyny, czy można jechać i co robić | Stuk',
+    metaTitle: 'Pasek piszczy: przyczyny, czy można jechać i co robić | Pro-Stuk',
     description:
       'Pasek osprzętu piszczy: zużycie, słabe napięcie, rolki albo sprzęgło sprężarki klimatyzacji. Jak zawęzić przyczynę po okolicznościach i kiedy pisk wymaga warsztatu.',
     intro: [
@@ -343,7 +343,7 @@ export const pages: Record<string, SymptomTr> = {
       'Wsłuchać się, czy obok pisku nie ma równego buczenia albo szelestu zmieniającego się z obrotami silnika — tak brzmi łożysko jednej z rolek.',
     ],
     appHelp:
-      'Aplikacja Stuk doprecyzuje charakter dźwięku i okoliczności — pisk czy buczenie, na zimno czy pod obciążeniem, czy dźwięk wiąże się z klimatyzacją — a po nagraniu pomoże odróżnić pisk paska od szelestu rolki. W raporcie będą prawdopodobne przyczyny z procentami i sygnalizacja: można jechać, do warsztatu w tym tygodniu albo zatrzymaj się.',
+      'Aplikacja Pro-Stuk doprecyzuje charakter dźwięku i okoliczności — pisk czy buczenie, na zimno czy pod obciążeniem, czy dźwięk wiąże się z klimatyzacją — a po nagraniu pomoże odróżnić pisk paska od szelestu rolki. W raporcie będą prawdopodobne przyczyny z procentami i sygnalizacja: można jechać, do warsztatu w tym tygodniu albo zatrzymaj się.',
     faq: [
       {
         q: 'Co się stanie, jeśli pasek zerwie się w drodze?',
@@ -362,7 +362,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Grzechot pod samochodem',
-    metaTitle: 'Grzechot pod samochodem: co brzęczy i czy to groźne | Stuk',
+    metaTitle: 'Grzechot pod samochodem: co brzęczy i czy to groźne | Pro-Stuk',
     description:
       'Grzechot i brzęczenie pod samochodem: mocowania tłumika, osłona termiczna, osłona silnika albo katalizator. Jak znaleźć źródło dźwięku i kiedy sprawa jest poważna.',
     intro: [
@@ -388,7 +388,7 @@ export const pages: Record<string, SymptomTr> = {
       'Zajrzeć pod samochód, nie wchodząc pod niego: zwisający tłumik, obluzowana krawędź osłony silnika albo odgięta blacha często widać już od koła.',
     ],
     appHelp:
-      'Aplikacja Stuk pomaga powiązać grzechot ze źródłem: skąd dźwięk, czy zależy od obrotów silnika czy od nierówności, co dzieje się z mocą. Z odpowiedzi i nagrania pokazuje prawdopodobne przyczyny z procentami i sygnalizację pilności — wygodnie, żeby odróżnić niegroźną blachę od katalizatora jeszcze przed warsztatem.',
+      'Aplikacja Pro-Stuk pomaga powiązać grzechot ze źródłem: skąd dźwięk, czy zależy od obrotów silnika czy od nierówności, co dzieje się z mocą. Z odpowiedzi i nagrania pokazuje prawdopodobne przyczyny z procentami i sygnalizację pilności — wygodnie, żeby odróżnić niegroźną blachę od katalizatora jeszcze przed warsztatem.',
     faq: [
       {
         q: 'Czy jazda jest groźna, jeśli coś grzechocze pod samochodem?',
@@ -407,7 +407,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Zgrzyt przy hamowaniu',
-    metaTitle: 'Zgrzyt przy hamowaniu: klocki do metalu, co robić | Stuk',
+    metaTitle: 'Zgrzyt przy hamowaniu: klocki do metalu, co robić | Pro-Stuk',
     description:
       'Zgrzyt przy hamowaniu najczęściej oznacza klocki starte do metalu — z tym się nie jeździ. Rzadziej winny jest kamyk za osłoną tarczy. Jak to odróżnić i co robić.',
     intro: [
@@ -432,7 +432,7 @@ export const pages: Record<string, SymptomTr> = {
       'Obejrzeć tarczę przez felgę: głębokie rowki i niebieskawy odcień metalu mówią, że zgrzyt trwa od dawna i tarcze już ucierpiały.',
     ],
     appHelp:
-      'Aplikacja Stuk przeprowadzi przez te same pytania — czy zgrzyt jest stały, czy koło się nagrzewa, czy dźwięk znika po pierwszych hamowaniach — a po nagraniu pomoże odróżnić zgrzyt od pisku czujnika zużycia. W raporcie będą prawdopodobne przyczyny i sygnalizacja: jechać można, pokazać w tym tygodniu albo dojechać tylko do warsztatu.',
+      'Aplikacja Pro-Stuk przeprowadzi przez te same pytania — czy zgrzyt jest stały, czy koło się nagrzewa, czy dźwięk znika po pierwszych hamowaniach — a po nagraniu pomoże odróżnić zgrzyt od pisku czujnika zużycia. W raporcie będą prawdopodobne przyczyny i sygnalizacja: jechać można, pokazać w tym tygodniu albo dojechać tylko do warsztatu.',
     faq: [
       {
         q: 'Czym zgrzyt różni się od pisku hamulców?',
@@ -450,19 +450,19 @@ export const pages: Record<string, SymptomTr> = {
   },
 
   'stuk-pri-razgone': {
-    h1: 'Stuk przy przyspieszaniu',
-    metaTitle: 'Stuk przy dodaniu i puszczeniu gazu: przyczyny | Stuk',
+    h1: 'Pro-Stuk przy przyspieszaniu',
+    metaTitle: 'Pro-Stuk przy dodaniu i puszczeniu gazu: przyczyny | Pro-Stuk',
     description:
       'Dlaczego stuka przy naciśnięciu albo puszczeniu gazu: poduszki silnika, przegub napędowy, luz w napędzie albo automatyczna skrzynia. Jak odróżnić niegroźny luz od stuku w samym silniku.',
     intro: [
-      'Stuk, który pojawia się dokładnie w chwili naciśnięcia albo puszczenia gazu, rodzi się najczęściej nie w samym silniku, tylko w łańcuchu przekazującym napęd na koła. Z wiekiem w jego elementach narasta luz: gumowe poduszki silnika osiadają i pozwalają mu szarpać przy zmianie obciążenia, zużywa się wewnętrzny przegub napędowy (przegub półosi biegnącej od skrzyni do koła), rozklekotują się krzyżaki wału napędowego i mocowania wózka. Za każdym razem, gdy napęd zmienia kierunek, luz kasuje się z uderzeniem — stąd pojedynczy stuk albo łomot.',
+      'Pro-Stuk, który pojawia się dokładnie w chwili naciśnięcia albo puszczenia gazu, rodzi się najczęściej nie w samym silniku, tylko w łańcuchu przekazującym napęd na koła. Z wiekiem w jego elementach narasta luz: gumowe poduszki silnika osiadają i pozwalają mu szarpać przy zmianie obciążenia, zużywa się wewnętrzny przegub napędowy (przegub półosi biegnącej od skrzyni do koła), rozklekotują się krzyżaki wału napędowego i mocowania wózka. Za każdym razem, gdy napęd zmienia kierunek, luz kasuje się z uderzeniem — stąd pojedynczy stuk albo łomot.',
       'Osobna historia to automatyczna skrzynia: szarpnięcie z łomotem przy przekładaniu wybieraka między D i R albo przy zmianach biegów zwykle mówi o starym oleju albo zużyciu. I zupełnie inny przypadek to głuchy stuk z głębi silnika, który przyspiesza wraz z obrotami i staje się głośniejszy pod obciążeniem: tak stukają panewki wału korbowego. To rzadki, ale najpoważniejszy wariant i ważne, żeby go nie przeoczyć.',
     ],
     causes: [
       { name: 'Poduszki silnika albo wewnętrzny przegub napędowy', likelihood: 'Najczęściej — pojedynczy stuk przy dodaniu i puszczeniu gazu' },
       { name: 'Luz w napędzie: krzyżaki wału, mocowania wózka', likelihood: 'Często przy napędzie na tył i na cztery koła — łomot pod podłogą przy ruszaniu' },
       { name: 'Automatyczna skrzynia: stary olej albo zużycie', likelihood: 'Jeśli szarpnięcie i łomot pokrywają się ze zmianami biegów' },
-      { name: 'Stuk panewek z głębi silnika', likelihood: 'Rzadko — przyspiesza z obrotami, głośniejszy pod obciążeniem' },
+      { name: 'Pro-Stuk panewek z głębi silnika', likelihood: 'Rzadko — przyspiesza z obrotami, głośniejszy pod obciążeniem' },
     ],
     canRide: [
       'Z większością przyczyn z tabeli można jeździć: luz w poduszkach, przegubach albo napędzie nie unieruchomi auta nagle, dopóki stuk jest pojedynczy i cichy. Ale odkładanie diagnostyki na miesiące nie ma sensu: rozbity krzyżak albo zużyty przegub z czasem się rozsypują, a dzieje się to już w ruchu. Rozsądny termin wizyty to tydzień–dwa; do tego czasu ruszaj i operuj gazem łagodniej.',
@@ -476,7 +476,7 @@ export const pages: Record<string, SymptomTr> = {
       'Zrobić łagodny test: jeśli przy miękkim dodaniu i puszczeniu gazu stuk znika, a przy gwałtownym wraca — to klasyczny luz, i do naprawy wystarczy spokojna jazda.',
     ],
     appHelp:
-      'Aplikacja Stuk zada te same pytania uściślające — kiedy dokładnie stuka, czy dźwięk zmienia się z obrotami i biegami — a po nagraniu pomoże odróżnić łomot luzu od głębokiego stuku silnikowego. W raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można jechać, zaplanować warsztat albo zatrzymać się.',
+      'Aplikacja Pro-Stuk zada te same pytania uściślające — kiedy dokładnie stuka, czy dźwięk zmienia się z obrotami i biegami — a po nagraniu pomoże odróżnić łomot luzu od głębokiego stuku silnikowego. W raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można jechać, zaplanować warsztat albo zatrzymać się.',
     faq: [
       {
         q: 'Dlaczego stuka właśnie przy dodaniu i puszczeniu gazu?',
@@ -495,7 +495,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Dzwonienie przy przyspieszaniu',
-    metaTitle: 'Dzwonienie przy przyspieszaniu: spalanie stukowe czy nie | Stuk',
+    metaTitle: 'Dzwonienie przy przyspieszaniu: spalanie stukowe czy nie | Pro-Stuk',
     description:
       'Metaliczne dzwonienie przy przyspieszaniu to najczęściej spalanie stukowe przez paliwo. Jak sprawdzić to zmianą stacji i kiedy winny jest nie silnik, a osłona termiczna albo katalizator.',
     intro: [
@@ -520,7 +520,7 @@ export const pages: Record<string, SymptomTr> = {
       'Zwrócić uwagę na moc i dźwięki spod podwozia: szelest i pobrzękiwanie od dołu razem ze słabszym przyspieszaniem to powód, by sprawdzić katalizator bez zwłoki.',
     ],
     appHelp:
-      'Aplikacja Stuk pomaga rozeznać się tymi samymi pytaniami — kiedy dzwoni, czy dźwięk wiąże się z obciążeniem czy z obrotami — a nagranie pozwala odróżnić dźwięczny klekot spalania stukowego od brzęczenia blaszanej osłony. W raporcie będą prawdopodobne przyczyny z procentami i wniosek: można jechać, warto zaplanować warsztat albo lepiej się zatrzymać.',
+      'Aplikacja Pro-Stuk pomaga rozeznać się tymi samymi pytaniami — kiedy dzwoni, czy dźwięk wiąże się z obciążeniem czy z obrotami — a nagranie pozwala odróżnić dźwięczny klekot spalania stukowego od brzęczenia blaszanej osłony. W raporcie będą prawdopodobne przyczyny z procentami i wniosek: można jechać, warto zaplanować warsztat albo lepiej się zatrzymać.',
     faq: [
       {
         q: 'Co znaczy „stukają sworznie”?',
@@ -539,7 +539,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Buczenie na zakręcie',
-    metaTitle: 'Buczenie na zakręcie: łożysko koła czy wspomaganie | Stuk',
+    metaTitle: 'Buczenie na zakręcie: łożysko koła czy wspomaganie | Pro-Stuk',
     description:
       'Skąd buczenie na zakręcie: zużyte łożysko koła, wyjąca pompa wspomagania albo hałas opon. Jak ustalić stronę i czy to groźne.',
     intro: [
@@ -565,7 +565,7 @@ export const pages: Record<string, SymptomTr> = {
       'Obejrzeć bieżnik: zużycie „piłokształtne” (stopnie na krawędziach) albo plamami wzmaga hałas opon i przy okazji wskazuje na rozregulowaną geometrię lub zmęczone amortyzatory.',
     ],
     appHelp:
-      'Aplikacja Stuk zadaje te same pytania co mechanik przy przyjęciu auta: gdzie słychać buczenie, czy zmienia się w zakrętach, czy wiąże się z kręceniem kierownicą w miejscu. Nagranie pomoże porównać dźwięk z typowymi przykładami, a w raporcie będą prawdopodobne przyczyny i czytelne zalecenie: jedź spokojnie, umów wizytę w tym tygodniu albo sprawdź bez zwłoki.',
+      'Aplikacja Pro-Stuk zadaje te same pytania co mechanik przy przyjęciu auta: gdzie słychać buczenie, czy zmienia się w zakrętach, czy wiąże się z kręceniem kierownicą w miejscu. Nagranie pomoże porównać dźwięk z typowymi przykładami, a w raporcie będą prawdopodobne przyczyny i czytelne zalecenie: jedź spokojnie, umów wizytę w tym tygodniu albo sprawdź bez zwłoki.',
     faq: [
       {
         q: 'Dlaczego buczenie wzmaga się tylko w jedną stronę zakrętu?',
@@ -584,7 +584,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Trzaski przy kręceniu kierownicą',
-    metaTitle: 'Trzaski przy skręcaniu: przegub czy łożysko amortyzatora | Stuk',
+    metaTitle: 'Trzaski przy skręcaniu: przegub czy łożysko amortyzatora | Pro-Stuk',
     description:
       'Dlaczego trzeszczy przy kręceniu kierownicą: zewnętrzny przegub napędowy, łożysko górnego mocowania amortyzatora albo krzyżak kolumny. Jak je odróżnić po dźwięku.',
     intro: [
@@ -610,7 +610,7 @@ export const pages: Record<string, SymptomTr> = {
       'Zapamiętać, od strony którego koła słychać trzask w ruchu i w którym zakręcie jest głośniejszy — te szczegóły zauważalnie skrócą poszukiwania w warsztacie.',
     ],
     appHelp:
-      'W aplikacji Stuk te rozwidlenia zebrano w krótkie drzewo pytań: auto jedzie czy stoi, skąd dochodzi dźwięk, w jakim stanie są osłony. Trzask można nagrać telefonem i porównać z przykładami. W raporcie będą prawdopodobne przyczyny z oceną i zalecenie co do terminów: bez paniki, ale i bez trzasków zapomnianych na miesiąc.',
+      'W aplikacji Pro-Stuk te rozwidlenia zebrano w krótkie drzewo pytań: auto jedzie czy stoi, skąd dochodzi dźwięk, w jakim stanie są osłony. Trzask można nagrać telefonem i porównać z przykładami. W raporcie będą prawdopodobne przyczyny z oceną i zalecenie co do terminów: bez paniki, ale i bez trzasków zapomnianych na miesiąc.',
     faq: [
       {
         q: 'Czym jest przegub napędowy i dlaczego trzeszczy?',
@@ -629,11 +629,11 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Stukanie silnika na zimno',
-    metaTitle: 'Silnik stuka na zimno: przyczyny i co robić | Stuk',
+    metaTitle: 'Silnik stuka na zimno: przyczyny i co robić | Pro-Stuk',
     description:
       'Dlaczego silnik stuka na zimno i milknie po rozgrzaniu: hydrauliczne popychacze, grupa tłokowa, łańcuch rozrządu. Kiedy to norma, a kiedy pora do warsztatu.',
     intro: [
-      'Stuk słyszalny tylko przez pierwsze minuty po zimnym rozruchu i znikający w miarę rozgrzewania to jedna z najczęstszych skarg w autach z przebiegiem. Dobra wiadomość: najpowszechniejsza przyczyna jest tu zarazem najbardziej niegroźna. Częste tykanie u góry silnika wydają zwykle hydrauliczne popychacze — małe elementy, które ciśnieniem oleju kasują nadmiarowy luz w układzie rozrządu. Dopóki silnik jest zimny, olej jest gęsty i nie dociera do nich od razu, więc przez parę minut klekoczą. Rozgrzał się — ucichły.',
+      'Pro-Stuk słyszalny tylko przez pierwsze minuty po zimnym rozruchu i znikający w miarę rozgrzewania to jedna z najczęstszych skarg w autach z przebiegiem. Dobra wiadomość: najpowszechniejsza przyczyna jest tu zarazem najbardziej niegroźna. Częste tykanie u góry silnika wydają zwykle hydrauliczne popychacze — małe elementy, które ciśnieniem oleju kasują nadmiarowy luz w układzie rozrządu. Dopóki silnik jest zimny, olej jest gęsty i nie dociera do nich od razu, więc przez parę minut klekoczą. Rozgrzał się — ucichły.',
       'Charakter dźwięku dużo podpowiada. Głuchy stuk z głębi silnika częściej daje zużycie grupy tłokowej: zimny tłok ma nieco więcej swobody w cylindrze i postukuje, dopóki nie rozszerzy się od ciepła. Szelest albo terkot z przodu to podpis rozciągniętego łańcucha rozrządu — łańcucha wewnątrz silnika, który każe zaworom otwierać się w porę — albo jego osłabionego napinacza. A klekot głośniejszy na zewnątrz niż w kabinie, do tego z zapachem spalin pod maską, to oznaka przepalonej uszczelki kolektora wydechowego: gazy uciekają szczeliną, dopóki metal się nie rozszerzy i jej nie zamknie.',
     ],
     causes: [
@@ -655,10 +655,10 @@ export const pages: Record<string, SymptomTr> = {
       'Zgasić rozgrzany silnik na dziesięć minut i uruchomić ponownie: prawdziwy „zimny” stuk po tak krótkim postoju nie wraca.',
     ],
     appHelp:
-      'Aplikacja Stuk przejdzie przez te same rozwidlenia — czy to tykanie, głuchy stuk czy szelest i jak szybko dźwięk znika — a nagranie z telefonu pomoże uchwycić charakter, który trudno opisać słowami. W raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można spokojnie jeździć, umówić wizytę w tym tygodniu albo nie zwlekać z warsztatem.',
+      'Aplikacja Pro-Stuk przejdzie przez te same rozwidlenia — czy to tykanie, głuchy stuk czy szelest i jak szybko dźwięk znika — a nagranie z telefonu pomoże uchwycić charakter, który trudno opisać słowami. W raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można spokojnie jeździć, umówić wizytę w tym tygodniu albo nie zwlekać z warsztatem.',
     faq: [
       {
-        q: 'Stuk znika po rozgrzaniu — można nie zwracać uwagi?',
+        q: 'Pro-Stuk znika po rozgrzaniu — można nie zwracać uwagi?',
         a: 'Najczęściej tak: tykanie popychaczy na zimno to zwykła sprawa i nie wymaga naprawy. Ale warto obserwować: jeśli dźwięk zaczął trzymać się dłużej niż parę minut, został na rozgrzanym silniku albo pojawił się pod obciążeniem — to już powód do diagnostyki.',
       },
       {
@@ -674,7 +674,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Pisk przy uruchamianiu silnika',
-    metaTitle: 'Pisk przy uruchamianiu silnika: przyczyny i co robić | Stuk',
+    metaTitle: 'Pisk przy uruchamianiu silnika: przyczyny i co robić | Pro-Stuk',
     description:
       'Dlaczego silnik piszczy przy uruchamianiu: ślizgający się pasek osprzętu, rolki albo pompa wody. Kiedy pisk jest niegroźny, a kiedy pora umówić warsztat.',
     intro: [
@@ -700,7 +700,7 @@ export const pages: Record<string, SymptomTr> = {
       'Sprawdzić, czy przy kołach pasowych nie ma zacieków albo białawych śladów płynu chłodzącego: wskazują na pompę wody, a wtedy wizyty w warsztacie lepiej nie odkładać.',
     ],
     appHelp:
-      'Aplikacja Stuk zada te same pytania co mechanik przy przyjęciu auta: kiedy pojawia się pisk, czy znika po rozgrzaniu, co słychać podczas pracy rozrusznika. Nagranie pomoże odróżnić pisk paska od zgrzytu rozrusznika, a w raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można jechać, do warsztatu w tym tygodniu albo zatrzymać się.',
+      'Aplikacja Pro-Stuk zada te same pytania co mechanik przy przyjęciu auta: kiedy pojawia się pisk, czy znika po rozgrzaniu, co słychać podczas pracy rozrusznika. Nagranie pomoże odróżnić pisk paska od zgrzytu rozrusznika, a w raporcie będą prawdopodobne przyczyny z procentami i czytelny wniosek: można jechać, do warsztatu w tym tygodniu albo zatrzymać się.',
     faq: [
       {
         q: 'Dlaczego silnik piszczy tylko na zimno i przy wilgoci?',
@@ -719,7 +719,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Wibracje na biegu jałowym',
-    metaTitle: 'Wibracje na biegu jałowym: przyczyny drgań i co robić | Stuk',
+    metaTitle: 'Wibracje na biegu jałowym: przyczyny drgań i co robić | Pro-Stuk',
     description:
       'Dlaczego auto drży na biegu jałowym: poduszki silnika, wypadanie zapłonu, nieszczelność układu dolotowego albo brudna przepustnica. Co sprawdzić i czy można jeździć.',
     intro: [
@@ -744,7 +744,7 @@ export const pages: Record<string, SymptomTr> = {
       'Przypomnieć sobie, kiedy wymieniano świece: przebieg daleko poza zaleceniami czyni je pierwszym kandydatem przy wypadaniu zapłonu. Jeśli świeci kontrolka silnika, zacząć od diagnostyki komputerowej: kody błędów zawężą poszukiwania.',
     ],
     appHelp:
-      'Aplikacja Stuk zada te same pytania — czy drżenie nasila się z włączonym biegiem, czy obroty trzymają się równo, czy świeci kontrolka silnika — i po odpowiedziach rozłoży prawdopodobne przyczyny na procenty. W raporcie będzie czytelny wniosek: jedź spokojnie, umów wizytę w tym tygodniu albo pokaż auto w najbliższych dniach.',
+      'Aplikacja Pro-Stuk zada te same pytania — czy drżenie nasila się z włączonym biegiem, czy obroty trzymają się równo, czy świeci kontrolka silnika — i po odpowiedziach rozłoży prawdopodobne przyczyny na procenty. W raporcie będzie czytelny wniosek: jedź spokojnie, umów wizytę w tym tygodniu albo pokaż auto w najbliższych dniach.',
     faq: [
       {
         q: 'Dlaczego trzęsie tylko na biegu jałowym, a w jeździe auto idzie równo?',
@@ -763,7 +763,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Strzały w tłumiku',
-    metaTitle: 'Strzały w tłumiku: przyczyny i co robić | Stuk',
+    metaTitle: 'Strzały w tłumiku: przyczyny i co robić | Pro-Stuk',
     description:
       'Dlaczego z tłumika słychać strzały: wypadanie zapłonu, przepalony wydech, skład mieszanki albo ustawienia instalacji gazowej. Czym strzały grożą katalizatorowi.',
     intro: [
@@ -789,7 +789,7 @@ export const pages: Record<string, SymptomTr> = {
       'W aucie z instalacją gazową porównać pracę na gazie i na benzynie: strzały tylko na gazie to pytanie do serwisu instalacji.',
     ],
     appHelp:
-      'Aplikacja Stuk doprecyzuje okoliczności — strzały czy ryk, na gazie czy na benzynie, czy jest utrata mocy — i pomoże rozdzielić problemy zapłonu, dziurę w wydechu i ślizgające się sprzęgło, które na słuch są podobne. W raporcie będą prawdopodobne przyczyny z procentami i czytelne zalecenie, jak pilnie potrzebny jest warsztat.',
+      'Aplikacja Pro-Stuk doprecyzuje okoliczności — strzały czy ryk, na gazie czy na benzynie, czy jest utrata mocy — i pomoże rozdzielić problemy zapłonu, dziurę w wydechu i ślizgające się sprzęgło, które na słuch są podobne. W raporcie będą prawdopodobne przyczyny z procentami i czytelne zalecenie, jak pilnie potrzebny jest warsztat.',
     faq: [
       {
         q: 'Dlaczego strzela w tłumiku, jeśli problem jest w silniku?',

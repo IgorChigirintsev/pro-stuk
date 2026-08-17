@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit klopfendem Fahrwerk fahren"
-metaTitle: "Mit klopfendem Fahrwerk fahren? | Stuk"
+metaTitle: "Mit klopfendem Fahrwerk fahren? | Pro-Stuk"
 description: "Mit welchen klopfenden Fahrwerksteilen Sie fahren dürfen und mit welchen nicht: Stabilisator, Dämpfer, Buchsen, Traggelenke. Dringlichkeit am Klang beurteilen."
 faq:
   - q: "Wie lange darf ich mit klopfender Koppelstange fahren?"

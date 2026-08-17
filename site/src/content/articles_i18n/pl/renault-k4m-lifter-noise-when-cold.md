@@ -1,6 +1,6 @@
 ---
 title: "Popychacze hydrauliczne K4M: stukanie na zimno"
-metaTitle: "Popychacze K4M: stuk na zimno w Renault | Stuk"
+metaTitle: "Popychacze K4M: stuk na zimno w Renault | Pro-Stuk"
 description: "Silnik K4M stuka na zimnym rozruchu: jak działają popychacze hydrauliczne, dlaczego terkoczą, kiedy wystarczy wymiana oleju, a kiedy wymiana popychaczy."
 faq:
   - q: "Dlaczego popychacze stukają tylko przez pierwsze sekundy po rozruchu?"
@@ -54,7 +54,7 @@ Rozstrzygającym znacznikiem jest nagrzanie. Stukanie, które uczciwie znika
 po dojściu silnika do temperatury, rzadko wymaga natychmiastowej
 interwencji — pisze o tym tekst o
 [stuku, który znika po nagrzaniu](/pl/articles/knock-that-goes-away-with-warm-up/).
-Stuk, który zostaje na gorącym silniku, warto pokazać mechanikowi. Portrety
+Pro-Stuk, który zostaje na gorącym silniku, warto pokazać mechanikowi. Portrety
 dźwiękowe tej grupy i jej sąsiadów są na stronie objawu
 [stuk silnika na zimno](/pl/symptoms/engine-knock-when-cold/).
 
@@ -91,7 +91,7 @@ wałka — popychacz stukający od miesięcy zostawia na krzywce ślady, a
 dowiedzenie się o tym później to droga wersja.
 
 Żeby ocenić, czy twoje stukanie mieści się w normie, nagraj dźwięk w
-aplikacji Stuk zaraz po zimnym rozruchu i ponownie na ciepłym silniku.
+aplikacji Pro-Stuk zaraz po zimnym rozruchu i ponownie na ciepłym silniku.
 Aplikacja porównuje nagrania z twoimi odpowiedziami o przebiegu i ostatniej
 wymianie oleju i pokazuje prawdopodobne przyczyny z procentami — razem z
 podpowiedzią, czy jechać do warsztatu teraz, czy wymienić olej i posłuchać

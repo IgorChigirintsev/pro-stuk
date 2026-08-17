@@ -1,7 +1,7 @@
 ---
 ru: "starter-treshchit-no-ne-krutit"
 title: "The starter chatters but will not crank"
-metaTitle: "Starter chatters but will not crank: causes | Stuk"
+metaTitle: "Starter chatters but will not crank: causes | Pro-Stuk"
 description: "The starter chatters but the engine does not turn: battery, terminals, solenoid. Simple checks on the spot and a table of causes."
 pubDate: "2026-07-07"
 related:
@@ -114,6 +114,6 @@ page [squeal on startup](/en/symptoms/squeal-on-startup/) — that is belt
 territory rather than the starter.
 
 If the cause will not be found and the chatter comes and goes, record the
-start attempt in the Stuk app: the algorithm matches the recording with
+start attempt in the Pro-Stuk app: the algorithm matches the recording with
 your answers — do the lights dim, is there grinding — and suggests the
 likely causes with an urgency level.

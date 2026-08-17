@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış avara rulmanının belirtileri"
-metaTitle: "Aşınmış avara rulmanı: ses ve kontrol | Stuk"
+metaTitle: "Aşınmış avara rulmanı: ses ve kontrol | Pro-Stuk"
 description: "V kayışı avara rulmanı bozulunca kaputun altından ıslık, uğultu ve hışırtı gelir. Avara rulmanını kayıştan ve alternatörden nasıl ayırt edersiniz."
 faq:
   - q: "Avara rulmanı ile gergi rulmanı arasındaki fark nedir?"
@@ -99,7 +99,7 @@ kayışın neye mal olduğu
 [ıslık çalan kayışla yola devam edilir mi](/tr/articles/can-you-drive-with-a-squealing-belt/)
 yazısında.
 
-Servise gitmeden önce tahmininizi sınamak isterseniz, sesi Stuk
+Servise gitmeden önce tahmininizi sınamak isterseniz, sesi Pro-Stuk
 uygulamasında rölantide ve devri yumuşakça yükseltirken kaydedin:
 uygulama kaydı birkaç soruya verdiğiniz cevaplarla eşleştirir ve olası
 kaynakları yüzdeleriyle gösterir — önce neye bakılması gerektiğine dair

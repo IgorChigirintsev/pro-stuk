@@ -1,6 +1,6 @@
 ---
 title: "Kabindeki gıcırtılar: kaynağı nasıl bulunur"
-metaTitle: "Kabindeki gıcırtı: kaynağı nasıl bulunur | Stuk"
+metaTitle: "Kabindeki gıcırtı: kaynağı nasıl bulunur | Pro-Stuk"
 description: "Kabindeki gıcırtıları avlamak için adım adım yöntem: elle yer tespiti, yolcunun katkısı ve sesin aslında süspansiyondan geldiği durumlar."
 faq:
   - q: "Gıcırtı neden aramaya başladığınız anda kayboluyor?"
@@ -98,7 +98,7 @@ faturadır. Bir de mevsimsellik kendi başına bir konudur: soğukta plastik
 sertleşir ve yazın sessiz olan yerlerde bile gıcırdamaya başlar — yalnızca
 sıfırın altında var olan bir gıcırtı nadiren bir şey sökmeyi hak eder.
 
-Gıcırtı avı, ses kaydedilince çok daha kolaylaşır. Stuk uygulamasında kaydı
+Gıcırtı avı, ses kaydedilince çok daha kolaylaşır. Pro-Stuk uygulamasında kaydı
 başlatın, her zamanki bozuk yol parçanızdan geçin ve yolcudan panellere
 sırayla bastırmasını isteyin — kayıt, gıcırtının kesildiği anı gösterecek.
 Uygulama ayrıca sesin gerçekten kabinden mi geldiğini, yoksa aramanın

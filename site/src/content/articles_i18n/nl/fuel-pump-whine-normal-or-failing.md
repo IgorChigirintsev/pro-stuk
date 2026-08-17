@@ -1,6 +1,6 @@
 ---
 title: "Zoemende brandstofpomp: normaal of bijna kapot"
-metaTitle: "Zoemende brandstofpomp: normaal of niet | Stuk"
+metaTitle: "Zoemende brandstofpomp: normaal of niet | Pro-Stuk"
 description: "Waar de grens ligt tussen het gewone gezoem van een brandstofpomp en het gejank van een stervende: welke tekenen onschuldig zijn en welke haast vragen."
 faq:
   - q: "De pomp zoemt een paar seconden als ik het contact aanzet. Is dat normaal?"

@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een vastgelopen remklauw"
-metaTitle: "Tekenen van een vastgelopen remklauw | Stuk"
+metaTitle: "Tekenen van een vastgelopen remklauw | Pro-Stuk"
 description: "Zo herkent u een vastgelopen remklauw: trekken naar één kant, een heet wiel, brandlucht, knarsen. Eenvoudige controles zonder brug en de reparatie."
 faq:
   - q: "Wat loopt er precies vast in een remklauw?"

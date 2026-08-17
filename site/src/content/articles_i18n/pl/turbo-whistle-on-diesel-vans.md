@@ -1,6 +1,6 @@
 ---
 title: "Świst turbiny w dostawczych dieslach: Sprinter, Transit"
-metaTitle: "Świst turbiny w dieslach Sprinter i Transit | Stuk"
+metaTitle: "Świst turbiny w dieslach Sprinter i Transit | Pro-Stuk"
 description: "Świst turbiny w dostawczych dieslach: gdzie kończy się norma, a zaczyna nieszczelność dolotu albo zużycie wału, i jak sprawdzić przewody."
 faq:
   - q: "Turbina zawsze trochę świszczy — czy to normalne?"
@@ -101,7 +101,7 @@ oraz
 [objawy zużytego sprzęgła](/pl/articles/signs-of-a-worn-clutch/).
 
 Jeśli nie masz pewności, czy dźwięk turbiny się zmienił, nagraj go w
-aplikacji Stuk — przy przyspieszaniu pod obciążeniem i na biegu jałowym.
+aplikacji Pro-Stuk — przy przyspieszaniu pod obciążeniem i na biegu jałowym.
 Aplikacja zestawia nagrania z odpowiedziami i pokazuje prawdopodobne
 przyczyny z procentami, a samo nagranie przydaje się jako punkt
 odniesienia: za miesiąc będzie do czego porównać.

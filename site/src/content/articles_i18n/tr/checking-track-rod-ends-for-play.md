@@ -1,6 +1,6 @@
 ---
 title: "Rot başlarını boşluk için kontrol etmek"
-metaTitle: "Rot başlarını boşluk için kontrol etmek | Stuk"
+metaTitle: "Rot başlarını boşluk için kontrol etmek | Pro-Stuk"
 description: "Rot başlarındaki boşluğu kendiniz nasıl bulursunuz: saat 3 ve 9 tutuşu, mafsalı elle hissetmek, direksiyon kutusundan ayırmak ve onarımın gerektirdikleri."
 faq:
   - q: "Rot başı boşluğunu direksiyon kutusu boşluğundan nasıl ayırırım?"
@@ -93,7 +93,7 @@ kaldırmadığı
 yazısında ayrıca anlatılıyor.
 
 Takırtıyı duyuyor ama elle yakalayamıyorsanız — aşınmanın erken
-aşamalarında bu normaldir — küçük tümseklerden geçerken sesi Stuk
+aşamalarında bu normaldir — küçük tümseklerden geçerken sesi Pro-Stuk
 uygulamasında kaydedin. Uygulama kaydı cevaplarınızla eşleştirir ve olası
 sebepleri yüzdelerle gösterir; böylece lift üzerindeki kontrol bütün ön
 süspansiyonu değil, belirli bir varsayımı hedefler.

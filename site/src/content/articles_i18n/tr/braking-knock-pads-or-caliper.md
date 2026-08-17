@@ -1,6 +1,6 @@
 ---
 title: "Fren yaparken tıkırtı: balata mı kaliper mi"
-metaTitle: "Fren yaparken tıkırtı: balata mı kaliper mi | Stuk"
+metaTitle: "Fren yaparken tıkırtı: balata mı kaliper mi | Pro-Stuk"
 description: "Pedala basınca gelen tıkırtı hem oynayan balatadan hem gevşemiş kaliperden çıkar. Sesin karakterine bakarak bu ikisini nasıl ayırt edersiniz."
 faq:
   - q: "Tıkırtı neden sadece ilk frende duyuluyor?"
@@ -90,7 +90,7 @@ sıkça kutuda unutulur. Bir de kaliper ve yatak cıvatalarının el hissiyle
 değil, tork anahtarıyla sıkılması — bazıları tek kullanımlıktır ve
 kendiliğinden gevşeyen bir cıvata bu arızanın tam da önemli olan hâlidir.
 
-Fren tıkırtıları serviste istendiği anda nadiren tekrarlanır. Sesi Stuk
+Fren tıkırtıları serviste istendiği anda nadiren tekrarlanır. Sesi Pro-Stuk
 uygulamasında iki kez kaydedin — kalkıştan sonraki ilk frende ve 60 km/s
 hızdan yumuşak bir duruşta. Uygulama kayıtlar arasındaki farktan olası
 nedenleri yüzdeyle gösterir ve önce hangi parçaya baktırmanız gerektiğini

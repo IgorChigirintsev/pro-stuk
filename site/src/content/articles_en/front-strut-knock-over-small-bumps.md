@@ -1,7 +1,7 @@
 ---
 ru: "stuk-teleskopov-largus-na-kochkah"
 title: "Front strut knock over small bumps"
-metaTitle: "Front strut knock over small bumps: what to check | Stuk"
+metaTitle: "Front strut knock over small bumps: what to check | Pro-Stuk"
 description: "A dry knock from the front struts on small bumps: how to tell the damper from the top mounts and the anti-roll bar, and which checks to do yourself."
 pubDate: "2026-06-26"
 related:
@@ -112,7 +112,7 @@ the whole front end at once rather than driving with a slowly growing
 list: the labour overlaps almost completely, and a second visit costs
 nearly as much as the first.
 
-To avoid guessing what exactly is knocking, record the sound in the Stuk
+To avoid guessing what exactly is knocking, record the sound in the Pro-Stuk
 app while driving over a rough stretch you know. The app compares the
 recording with your answers to a few questions and shows the likely causes
 with percentages — with that list it is easier to agree with a mechanic on

@@ -1,6 +1,6 @@
 ---
 title: "Stukanie przekładni w Kii Rio: regulacja czy regeneracja"
-metaTitle: "Stuk przekładni Kia Rio: regulacja czy remont | Stuk"
+metaTitle: "Pro-Stuk przekładni Kia Rio: regulacja czy remont | Pro-Stuk"
 description: "Stukanie przekładni kierowniczej w Kii Rio na drobnych nierównościach: skąd się bierze, jak odróżnić je od łączników stabilizatora i kiedy wystarczy regulacja."
 faq:
   - q: "Czy stukanie przekładni w Kii Rio jest niebezpieczne?"
@@ -96,7 +96,7 @@ regeneracja, a nie poprawka. I czy po pracy następuje ustawienie
 geometrii: każda ingerencja w drążki zmienia zbieżność.
 
 Jeśli nie ma pewności, co stuka — przekładnia, łączniki czy końcówki —
-warto nagrać dźwięk w aplikacji Stuk podczas jazdy po drobnej nierówności i
+warto nagrać dźwięk w aplikacji Pro-Stuk podczas jazdy po drobnej nierówności i
 powtórzyć nagranie przy bujaniu kierownicą na postoju. Aplikacja zestawi
 nagrania z odpowiedziami i pokaże prawdopodobne przyczyny w procentach,
 dzięki czemu do warsztatu przyjeżdża się z hipotezą.

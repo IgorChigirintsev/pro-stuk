@@ -1,6 +1,6 @@
 ---
 title: "Cliquetis sous la voiture à l'accélération"
-metaTitle: "Cliquetis sous la voiture à l'accélération | Stuk"
+metaTitle: "Cliquetis sous la voiture à l'accélération | Pro-Stuk"
 description: "Écrans thermiques, échappement qui touche la caisse, cliquetis de combustion ou catalyseur cassé : pourquoi un bruit apparaît à l'accélération et comment trier l'anodin du sérieux."
 faq:
   - q: "Comment distinguer un écran thermique d'un cliquetis de combustion ?"
@@ -133,7 +133,7 @@ est bien dans ce cas — et non face à un cliquetis de combustion déguisé
 en bruit de ferraille anodin.
 
 Pas sûr de distinguer une vibration de tôle d'une résonance de cliquetis ?
-Enregistrez une phase d'accélération dans l'application Stuk — elle
+Enregistrez une phase d'accélération dans l'application Pro-Stuk — elle
 confronte le spectre du son à vos réponses sur les conditions
 d'apparition et affiche les causes probables avec un niveau d'urgence.
 Avec cet enregistrement, le mécanicien n'aura pas besoin de rouler une

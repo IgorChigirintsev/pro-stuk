@@ -1,6 +1,6 @@
 ---
 title: "Lawaai van onderen: uitlaat of bodemplaat"
-metaTitle: "Lawaai van onderen: uitlaat of bodemplaat | Stuk"
+metaTitle: "Lawaai van onderen: uitlaat of bodemplaat | Pro-Stuk"
 description: "Metalig geratel van onderen komt of van het uitlaatsysteem of van de bodemplaat. Zo scheidt u ze in tien minuten met uw oren en uw handen."
 faq:
   - q: "Hoe onderscheid ik snel de bodemplaat van de uitlaat?"

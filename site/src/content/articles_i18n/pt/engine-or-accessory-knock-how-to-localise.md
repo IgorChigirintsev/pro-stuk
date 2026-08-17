@@ -1,6 +1,6 @@
 ---
 title: "Batida do motor ou dos acessórios: como localizar"
-metaTitle: "Batida do motor ou dos acessórios: como achar | Stuk"
+metaTitle: "Batida do motor ou dos acessórios: como achar | Pro-Stuk"
 description: "Uma batida no cofre do motor nem sempre vem do motor. Algumas verificações separam os acessórios da correia da mecânica interna do motor."
 faq:
   - q: "Como saber se quem bate é um acessório e não o motor?"
@@ -88,7 +88,7 @@ reage a nenhuma das verificações acima, ainda mais combinada com queda de
 pressão do óleo. Ali, continuar rodando transforma o conserto em retífica,
 e o certo não é tentar chegar "até segunda", é parar.
 
-Se quiser registrar o som antes de ir à oficina, grave no aplicativo Stuk
+Se quiser registrar o som antes de ir à oficina, grave no aplicativo Pro-Stuk
 em dois regimes: em marcha lenta sem carga, e logo depois de ligar o
 ar-condicionado e os faróis. A diferença entre as duas gravações é
 exatamente o que se procura, e o aplicativo cruza isso com as suas

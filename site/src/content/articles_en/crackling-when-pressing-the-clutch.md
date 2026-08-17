@@ -1,7 +1,7 @@
 ---
 ru: "tresk-pri-vyzhime-stsepleniya"
 title: "Crackling when pressing the clutch"
-metaTitle: "Crackling when pressing the clutch: causes | Stuk"
+metaTitle: "Crackling when pressing the clutch: causes | Pro-Stuk"
 description: "Crackling as the clutch pedal goes down usually comes from the fork, the guide sleeve or a dry pivot. How to tell a cheap cause from a gearbox-out job."
 pubDate: "2026-07-24"
 related:
@@ -103,7 +103,7 @@ at the same time, since it is the one item that can double the bill —
 [signs of a failing dual mass flywheel](/en/articles/signs-of-a-failing-dual-mass-flywheel/).
 
 If it is hard to tell where the sound comes from — the cabin or under the
-bonnet — record it in the Stuk app twice: with the engine off and with it
+bonnet — record it in the Pro-Stuk app twice: with the engine off and with it
 running. The app compares the recordings with your answers and shows the
 likely causes with percentages, so the conversation at the workshop starts
 from the right end.

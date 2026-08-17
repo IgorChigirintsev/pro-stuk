@@ -1,6 +1,6 @@
 ---
 title: "Embreagem do compressor do ar-condicionado: os sons da falha"
-metaTitle: "Embreagem do compressor do ar: sons de falha | Stuk"
+metaTitle: "Embreagem do compressor do ar: sons de falha | Pro-Stuk"
 description: "Trepidação, zumbido ou raspagem que aparece exatamente quando o ar-condicionado liga: como soa uma embreagem eletromagnética gasta e o que a oficina verifica."
 faq:
   - q: "Como saber se é a embreagem e não o compressor em si?"
@@ -98,7 +98,7 @@ achar o vazamento significa que o novo vai trabalhar nas mesmas
 condições que mataram o antigo.
 
 Se o som só aparece no calor e não pode ser reproduzido na oficina,
-grave-o no aplicativo Stuk — primeiro com o ar-condicionado desligado,
+grave-o no aplicativo Pro-Stuk — primeiro com o ar-condicionado desligado,
 depois imediatamente após ligá-lo. O aplicativo compara as duas
 gravações com as suas respostas e mostra o que é mais provável: a
 embreagem, uma polia dos acessórios ou o próprio compressor.

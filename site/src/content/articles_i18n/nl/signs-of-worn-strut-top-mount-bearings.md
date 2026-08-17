@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten veerpootlagers"
-metaTitle: "Versleten veerpootlagers: de kenmerken | Stuk"
+metaTitle: "Versleten veerpootlagers: de kenmerken | Pro-Stuk"
 description: "Knerpen en kloppen bij sturen, doffe klappen over oneffenheden — zo herkent u versleten veerpootlagers en wat de reparatie bepaalt."
 faq:
   - q: "Hoe weet ik of het het veerpootlager is en niet de schokdemper?"

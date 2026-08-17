@@ -1,6 +1,6 @@
 ---
 title: "Batida na suspensão do Haval Jolion: o que olhar primeiro"
-metaTitle: "Batida na suspensão do Haval Jolion: por onde começar | Stuk"
+metaTitle: "Batida na suspensão do Haval Jolion: por onde começar | Pro-Stuk"
 description: "Uma ordem sensata para checar batida na suspensão dianteira do Haval Jolion: das bieletas aos coxins superiores e às buchas das bandejas."
 faq:
   - q: "Batida na suspensão do Jolion é caso de garantia?"
@@ -98,6 +98,6 @@ honesto. A lógica de diagnóstico geral para carros desse segmento está em
 Ajuda chegar com uma descrição em vez da palavra solta «batendo»: a
 velocidade, o tipo de irregularidade, carro frio ou quente, batida única ou
 matraca. Gravar o som e destrinchá-lo por essas condições é o que o
-aplicativo Stuk faz — ele cruza a gravação com suas respostas a perguntas
+aplicativo Pro-Stuk faz — ele cruza a gravação com suas respostas a perguntas
 curtas e mostra as causas prováveis com porcentagens, para que a conversa
 na oficina comece pelo concreto.

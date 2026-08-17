@@ -1,6 +1,6 @@
 ---
 title: "Klop van de nokkenasversteller bij de Nissan Qashqai"
-metaTitle: "Nissan Qashqai: klop van de nokkenasversteller | Stuk"
+metaTitle: "Nissan Qashqai: klop van de nokkenasversteller | Pro-Stuk"
 description: "Kort geratel bij een koude start van een Qashqai komt vaak van de nokkenasversteller. Hoe u het van de distributieketting scheidt en wat men nakijkt."
 faq:
   - q: "Is kort geratel bij het starten van een Qashqai gevaarlijk?"

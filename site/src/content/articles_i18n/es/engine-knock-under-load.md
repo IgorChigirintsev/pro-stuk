@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo en el motor con carga"
-metaTitle: "Golpeteo en el motor con carga: causas y peligro | Stuk"
+metaTitle: "Golpeteo en el motor con carga: causas y peligro | Pro-Stuk"
 description: "Un golpeteo con carga: cómo distinguir la detonación del golpeteo de casquillos, dónde entra la cadena y cuándo seguir circulando se vuelve peligroso."
 faq:
   - q: "¿Cómo distingo la detonación del golpeteo de casquillos?"
@@ -145,7 +145,7 @@ diferencia entre un diagnóstico temprano y uno tardío, así que un golpeteo co
 carga no es algo sobre lo que sentarse a esperar.
 
 Si no está seguro de a qué escenario se parece el suyo, grabe el sonido de una
-aceleración con la aplicación Stuk: compara la grabación con golpeteos
+aceleración con la aplicación Pro-Stuk: compara la grabación con golpeteos
 típicos, hace unas cuantas preguntas de aclaración y muestra las causas
 probables con un nivel de urgencia. Con eso preparado en casa, la visita al
 taller va más rápida.

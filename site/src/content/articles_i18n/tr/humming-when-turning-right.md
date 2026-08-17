@@ -1,6 +1,6 @@
 ---
 title: "Sağa dönerken uğultu"
-metaTitle: "Sağa dönünce uğultu: sebepler ve kontrol | Stuk"
+metaTitle: "Sağa dönünce uğultu: sebepler ve kontrol | Pro-Stuk"
 description: "Uğultu sağa dönüşlerde büyüyorsa şüpheli sol teker rulmanıdır. Liftsiz adım adım kontrol, benzeyen sesler ve onarımın neleri kapsadığı."
 faq:
   - q: "Sağa dönmek neden sol rulmanı uğuldatır?"
@@ -92,7 +92,7 @@ rulmanın gürültüyle birlikte bazen uyarı lambası da getirmesinin sebebi
 budur.
 
 Kulağınızın doğru yönü gösterdiğinden emin değil misiniz? Şerit
-değişimleri sırasında uğultuyu Stuk uygulamasına kaydedin: uygulama kaydı
+değişimleri sırasında uğultuyu Pro-Stuk uygulamasına kaydedin: uygulama kaydı
 cevaplarınızla eşleştirir ve muhtemel sebepleri yüzdesiyle, aciliyet
 seviyesiyle birlikte gösterir — böylece servise «bir şey uğulduyor» diye
 değil, elinizde bir tezle gidersiniz.

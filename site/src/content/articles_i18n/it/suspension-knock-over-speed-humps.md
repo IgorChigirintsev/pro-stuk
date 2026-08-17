@@ -1,6 +1,6 @@
 ---
 title: "Colpi nella sospensione sui dossi rallentatori"
-metaTitle: "Colpi nella sospensione sui dossi: le cause | Stuk"
+metaTitle: "Colpi nella sospensione sui dossi: le cause | Pro-Stuk"
 description: "Perché la sospensione batte proprio sui dossi rallentatori, quali componenti sono di solito responsabili e come restringere la ricerca senza ponte."
 faq:
   - q: "Perché la sospensione batte sui dossi ma tace sulle buche?"
@@ -142,7 +142,7 @@ settimane. Se al rumore si aggiungono l’auto che tira da un lato o gioco
 nello sterzo, prima.
 
 Per non tirare a indovinare con le descrizioni, registra il rumore con il
-telefono mentre passi l’ostacolo: l’app Stuk confronta la registrazione
+telefono mentre passi l’ostacolo: l’app Pro-Stuk confronta la registrazione
 con le tue risposte e mostra le cause probabili in percentuale con un
 livello di urgenza, e con quella lista il discorso in officina diventa
 concreto.

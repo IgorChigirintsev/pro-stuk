@@ -1,7 +1,7 @@
 ---
 ru: "diagnostika-podveski-na-sluh-polnyj-chek-list"
 title: "Diagnosing a suspension by ear: the full checklist"
-metaTitle: "Suspension diagnosis by ear: a checklist | Stuk"
+metaTitle: "Suspension diagnosis by ear: a checklist | Pro-Stuk"
 description: "A step-by-step suspension check with no lift: the bounce test, small bumps, big bumps, steering while parked, a slalom. Plus a table of noises and parts."
 pubDate: "2026-06-21"
 related:
@@ -103,7 +103,7 @@ which of the five tests, and to describe it in those terms —
 covers the wording that works.
 
 Going through the checklist is easier with a recording: start one in the
-Stuk app while driving over bumps and answer the questions about speed
+Pro-Stuk app while driving over bumps and answer the questions about speed
 and conditions. The app matches the sound against your answers and shows
 the likely causes with percentages — the list you bring to the mechanic
 comes out short and specific.

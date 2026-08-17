@@ -1,7 +1,7 @@
 ---
 ru: "zvuk-propadaet-pri-nazhatii-stsepleniya"
 title: "The noise stops when you press the clutch"
-metaTitle: "The noise stops when you press the clutch: why | Stuk"
+metaTitle: "The noise stops when you press the clutch: why | Pro-Stuk"
 description: "If a stray hum disappears when the clutch is pressed, the source is in the gearbox. How to narrow the list of suspects and what to check first."
 pubDate: "2026-07-24"
 related:
@@ -111,7 +111,7 @@ wrong one can produce exactly the noise you are trying to cure. Ask what
 is going in and against which specification it was chosen.
 
 If you are unsure whether the sound really disappears when the clutch goes
-down, make two recordings in the Stuk app — with the pedal up and with it
+down, make two recordings in the Pro-Stuk app — with the pedal up and with it
 pressed. The app compares them, shows the difference and offers versions
 with percentages, so you arrive at the workshop with a specific
 description rather than "something hums".

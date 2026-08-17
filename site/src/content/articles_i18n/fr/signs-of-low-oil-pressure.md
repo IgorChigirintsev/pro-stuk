@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une pression d'huile basse"
-metaTitle: "Pression d'huile basse : signes et causes | Stuk"
+metaTitle: "Pression d'huile basse : signes et causes | Pro-Stuk"
 description: "Repérer une pression d'huile basse avant les gros dégâts : voyant, cliquetis des poussoirs, claquement de coussinets. Les causes d'une chute et comment on la contrôle."
 faq:
   - q: "Pourquoi le voyant de pression d'huile s'allume-t-il au ralenti à chaud ?"
@@ -146,7 +146,7 @@ tués par le manque de lubrification avaient signalé le problème bien avant
 le voyant — personne n'avait sorti la jauge.
 
 Si le moteur s'est mis à sonner différemment alors que le voyant est
-encore muet, enregistrez le son dans l'application Stuk. Elle recoupe
+encore muet, enregistrez le son dans l'application Pro-Stuk. Elle recoupe
 l'enregistrement avec des bruits moteur typiques, pose des questions de
 précision et indique si cela ressemble à un problème de lubrification et à
 quel point il est urgent de montrer la voiture à un mécanicien. Ce que

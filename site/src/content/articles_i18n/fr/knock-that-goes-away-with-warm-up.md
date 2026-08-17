@@ -1,6 +1,6 @@
 ---
 title: "Un claquement moteur qui disparaît avec la chauffe"
-metaTitle: "Claquement qui part avec la chauffe : ce que ça veut dire | Stuk"
+metaTitle: "Claquement qui part avec la chauffe : ce que ça veut dire | Pro-Stuk"
 description: "Pourquoi un moteur claque à froid et se tait une fois chaud : poussoirs hydrauliques, claquement de jupe, tendeur de chaîne. Où s'arrête le normal."
 faq:
   - q: "Un claquement à froid est-il toujours une panne ?"
@@ -134,7 +134,7 @@ l'historique de l'huile explique l'usure, parce qu'un jeu de pièces neuves
 nourri par le même régime négligé recliquette.
 
 Une bonne habitude, c'est d'enregistrer un départ à froid dans
-l'application Stuk et de refaire l'enregistrement un mois plus tard.
+l'application Pro-Stuk et de refaire l'enregistrement un mois plus tard.
 L'application confronte le son à des causes typiques, affiche des
 probabilités et une urgence, et comparer les enregistrements montre si le
 problème grandit — sans pression ni allers-retours au garage.

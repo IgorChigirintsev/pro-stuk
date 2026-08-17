@@ -1,6 +1,6 @@
 ---
 title: "Een klap bij het sturen tijdens het rijden"
-metaTitle: "Klap bij sturen tijdens het rijden: oorzaken | Stuk"
+metaTitle: "Klap bij sturen tijdens het rijden: oorzaken | Pro-Stuk"
 description: "Wat klopt er als u tijdens het rijden stuurt: homokineet, fuseekogel, veerpootlager of stuurhuis. Zo scheidt u de oorzaken op gehoor van elkaar."
 faq:
   - q: "Is tikken in de bocht onder gas altijd de homokineet?"

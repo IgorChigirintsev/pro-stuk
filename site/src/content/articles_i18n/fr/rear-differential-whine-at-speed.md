@@ -1,6 +1,6 @@
 ---
 title: "Sifflement du pont arrière à vitesse"
-metaTitle: "Sifflement du pont arrière à vitesse : causes | Stuk"
+metaTitle: "Sifflement du pont arrière à vitesse : causes | Pro-Stuk"
 description: "Un sifflement à l'arrière qui change entre les gaz et le lever de pied, c'est la signature classique du pont arrière. Comment le distinguer des roulements."
 faq:
   - q: "Comment distinguer le sifflement du pont d'un ronflement de roulement de roue ?"
@@ -101,6 +101,6 @@ plus fréquente d'une réfection ratée.
 
 Si le sifflement est encore discret et que vous voulez confirmer qu'il
 change bien avec l'accélérateur, enregistrez deux courtes séquences dans
-l'application Stuk : une en tirant, une en roue libre, à la même vitesse.
+l'application Pro-Stuk : une en tirant, une en roue libre, à la même vitesse.
 L'application confronte les enregistrements à vos réponses à quelques
 questions et affiche les causes probables en pourcentages.

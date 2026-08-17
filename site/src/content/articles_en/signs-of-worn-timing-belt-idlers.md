@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-rolikov-grm"
 title: "Signs of worn timing belt idlers"
-metaTitle: "Worn timing belt idlers: sound and diagnosis | Stuk"
+metaTitle: "Worn timing belt idlers: sound and diagnosis | Pro-Stuk"
 description: "How worn timing idlers sound: rustling, whistling and hum from behind the cover. What a seized idler risks and how to tell it from accessory noise."
 pubDate: "2026-07-05"
 related:
@@ -115,5 +115,5 @@ the same place wears the same way.
 
 If a whistle or rustle can be heard from the front of the engine and it is
 unclear whether it is the idlers, the alternator or the pump, record the
-sound in the Stuk app — it matches the recording with typical fault sounds
+sound in the Pro-Stuk app — it matches the recording with typical fault sounds
 and suggests the likely source and how urgently a workshop is needed.

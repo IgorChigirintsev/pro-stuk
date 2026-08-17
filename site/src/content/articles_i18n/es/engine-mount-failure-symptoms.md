@@ -1,6 +1,6 @@
 ---
 title: "Soporte de motor roto: los síntomas"
-metaTitle: "Soporte de motor roto: los síntomas | Stuk"
+metaTitle: "Soporte de motor roto: los síntomas | Pro-Stuk"
 description: "Un tirón al arrancar, vibración a ralentí, un golpe sordo al pasar de D a R: cómo reconocer un soporte de motor roto y a qué lleva dejarlo así."
 faq:
   - q: "¿Es peligroso circular con un soporte de motor roto?"
@@ -102,7 +102,7 @@ un par de meses, sobre todo cuando el golpe al meter una marcha ya se ha
 vuelto claro.
 
 Si no está seguro de dónde viene el tirón —del vano motor o de debajo de una
-rueda—, grabe el momento de ponerse en marcha con la aplicación Stuk. Compara
+rueda—, grabe el momento de ponerse en marcha con la aplicación Pro-Stuk. Compara
 la grabación con sus respuestas sobre el régimen en el que aparece el sonido y
 muestra las causas probables con porcentajes, para que la conversación en el
 taller empiece desde una teoría concreta.

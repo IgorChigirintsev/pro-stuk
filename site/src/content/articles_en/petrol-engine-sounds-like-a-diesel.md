@@ -1,7 +1,7 @@
 ---
 ru: "dizelenie-benzinovogo-dvigatelya"
 title: "Why a petrol engine starts to sound like a diesel"
-metaTitle: "Petrol engine sounding like a diesel: causes | Stuk"
+metaTitle: "Petrol engine sounding like a diesel: causes | Pro-Stuk"
 description: "Why a petrol engine starts clattering like a diesel: valve clearances, a stretched timing chain, knocking, direct injection. What to check first, and in what order."
 pubDate: "2026-08-02"
 related:
@@ -133,7 +133,7 @@ individually — which is why the same job costs very differently on two
 cars of similar size.
 
 If you want to understand it before the trip, record the engine in the
-Stuk app — at idle and, if it can be done safely, under load. The app
+Pro-Stuk app — at idle and, if it can be done safely, under load. The app
 matches the recording against your answers and shows the likely causes
 with an urgency rating: it becomes clearer whether this is a routine
 adjustment or the kind of knocking you should not put off.

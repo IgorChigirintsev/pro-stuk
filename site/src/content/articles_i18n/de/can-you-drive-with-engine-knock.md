@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit klopfendem Motor fahren"
-metaTitle: "Mit klopfendem Motor fahren: die Risiken | Stuk"
+metaTitle: "Mit klopfendem Motor fahren: die Risiken | Pro-Stuk"
 description: "Welche Motorgeräusche eine Fahrt in die Werkstatt erlauben und welche Abstellen und Abschleppwagen bedeuten. Regeln des Schonbetriebs und was Sie lassen sollten."
 faq:
   - q: "Darf ich in die Werkstatt fahren, wenn das Klopfen leise ist?"

@@ -1,6 +1,6 @@
 ---
 title: "Sintomi di un variatore di fase difettoso"
-metaTitle: "Variatore di fase guasto: rumore e sintomi | Stuk"
+metaTitle: "Variatore di fase guasto: rumore e sintomi | Pro-Stuk"
 description: "Sintomi del variatore di fase difettoso: rumore metallico dopo l'avvio, minimo irregolare, consumi in aumento, codici P0010–P0017. Come distinguerlo da altri rumori."
 faq:
   - q: "Che cos'è il variatore di fase, in parole semplici?"
@@ -115,7 +115,7 @@ catena, e una fasatura molto sballata diventa un rischio per valvole e
 pistoni.
 
 Se non è sicuro che i rumori del suo motore siano il variatore, registri
-un avvio a freddo con l'app Stuk: l'algoritmo confronta la registrazione
+un avvio a freddo con l'app Pro-Stuk: l'algoritmo confronta la registrazione
 con le sue risposte e restituisce le cause probabili in percentuale e un
 livello di urgenza — un buon punto di partenza per parlare con
 l'officina.

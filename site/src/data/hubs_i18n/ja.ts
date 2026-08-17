@@ -5,7 +5,7 @@ export const ja: Record<string, HubText> = {
   dvigatel: {
     h1: 'エンジンの異音と打音',
     short: 'エンジン',
-    metaTitle: 'エンジンの異音と打音：総合ガイド | Stuk',
+    metaTitle: 'エンジンの異音と打音：総合ガイド | Pro-Stuk',
     description:
       'エンジンのあらゆる音を一か所に：打音、カチカチ音、ガラガラ音、ノッキング、笛のような音。無害なものと危険なものの見分け方と、自分でできる確認。',
     intro: [
@@ -16,7 +16,7 @@ export const ja: Record<string, HubText> = {
   podveska: {
     h1: '足まわりの打音ときしみ',
     short: '足まわりとステアリング',
-    metaTitle: '足まわりの打音ときしみ：総合ガイド | Stuk',
+    metaTitle: '足まわりの打音ときしみ：総合ガイド | Pro-Stuk',
     description:
       '段差での打音、きしみ、ステアリングのガタ：足まわりとステアリングのどこが鳴っているかを見極める方法と、自分でできる確認。',
     intro: [
@@ -27,7 +27,7 @@ export const ja: Record<string, HubText> = {
   tormoza: {
     h1: 'ブレーキの鳴きと擦れ音',
     short: 'ブレーキとホイール',
-    metaTitle: 'ブレーキの鳴きと擦れ音：総合ガイド | Stuk',
+    metaTitle: 'ブレーキの鳴きと擦れ音：総合ガイド | Pro-Stuk',
     description:
       'ブレーキ時の鳴き、笛音、金属の擦れ、ジャダー：それぞれの音の意味、走行を止めるべき場面、パッドとキャリパーの確認方法。',
     intro: [
@@ -38,7 +38,7 @@ export const ja: Record<string, HubText> = {
   transmissiya: {
     h1: 'ミッションと駆動系の異音',
     short: '駆動系',
-    metaTitle: 'ミッションと駆動系の異音：総合ガイド | Stuk',
+    metaTitle: 'ミッションと駆動系の異音：総合ガイド | Pro-Stuk',
     description:
       'ミッションのうなり、ドライブシャフトのカチカチ音、変速時のショック、クラッチのうなり：フロア下の音源を突き止める方法。',
     intro: [
@@ -49,7 +49,7 @@ export const ja: Record<string, HubText> = {
   vyhlop: {
     h1: '排気系の異音',
     short: '排気系',
-    metaTitle: '排気系の異音：総合ガイド | Stuk',
+    metaTitle: '排気系の異音：総合ガイド | Pro-Stuk',
     description:
       '重い排気音、マフラーからの破裂音、フロア下のガタつき、鳴るヒートシールド：排気の音が何を示し、なぜ放置できないのか。',
     intro: [
@@ -60,7 +60,7 @@ export const ja: Record<string, HubText> = {
   salon: {
     h1: '室内のきしみとビビリ音',
     short: '室内とボディ',
-    metaTitle: '室内のきしみ：音源の見つけ方 | Stuk',
+    metaTitle: '室内のきしみ：音源の見つけ方 | Pro-Stuk',
     description:
       '室内の「虫の音」、きしむダッシュボード、当たるドア：音源を自分で見つける方法と、足まわりの不具合との見分け方。',
     intro: [

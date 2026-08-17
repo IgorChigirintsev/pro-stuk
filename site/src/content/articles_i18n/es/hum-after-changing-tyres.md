@@ -1,6 +1,6 @@
 ---
 title: "Un zumbido después de cambiar los neumáticos"
-metaTitle: "Zumbido tras cambiar los neumáticos: qué mirar | Stuk"
+metaTitle: "Zumbido tras cambiar los neumáticos: qué mirar | Pro-Stuk"
 description: "Apareció un zumbido a velocidad tras un cambio de neumáticos. Cuándo tiene la culpa el dibujo, cuándo el equilibrado y cuándo los neumáticos son inocentes."
 faq:
   - q: "¿Los neumáticos nuevos siempre zumban al principio?"
@@ -100,6 +100,6 @@ se explica en
 
 Si no está seguro de si el sonido cambió tras rotar las ruedas, no se fíe de
 la memoria: un par de decibelios es casi imposible de juzgar de oído. Grabe el
-zumbido con la aplicación Stuk antes y después del intercambio: compara las
+zumbido con la aplicación Pro-Stuk antes y después del intercambio: compara las
 grabaciones con sus respuestas y muestra las causas probables con porcentajes,
 para que nadie cambie neumáticos donde la culpa es de un rodamiento.

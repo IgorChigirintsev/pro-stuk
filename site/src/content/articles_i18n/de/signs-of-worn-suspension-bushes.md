@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Querlenkerbuchsen"
-metaTitle: "Querlenkerbuchsen verschlissen: Ton und Test | Stuk"
+metaTitle: "Querlenkerbuchsen verschlissen: Ton und Test | Pro-Stuk"
 description: "Wie sich verschlissene Querlenkerbuchsen zeigen: Klopfen, Knarzen, ein ziehendes Auto und ungleicher Reifenverschleiß. Prüfungen und was die Reparatur bedeutet."
 faq:
   - q: "Was ist das erste Zeichen für verschlissene Buchsen?"

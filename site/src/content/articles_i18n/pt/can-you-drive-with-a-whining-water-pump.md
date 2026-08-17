@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com a bomba d'água zunindo"
-metaTitle: "Dá para rodar com a bomba d'água zunindo? | Stuk"
+metaTitle: "Dá para rodar com a bomba d'água zunindo? | Pro-Stuk"
 description: "Bomba d'água zunindo é rolamento gasto. O que ela ameaça em motores de correia dentada, como conferir em cinco minutos e como se decide o reparo."
 faq:
   - q: "Quanto dá para rodar com a bomba d'água zunindo?"
@@ -97,7 +97,7 @@ zunindo não é adiada em motores com comando acionado por correia. É o caso
 em que uma peça pequena arrasta consequências desproporcionais atrás de si.
 
 Se você ouve um zunido sob o capô mas não consegue dizer de quem é — a bomba,
-o alternador ou uma roldana tensora —, grave com o aplicativo Stuk em marcha
+o alternador ou uma roldana tensora —, grave com o aplicativo Pro-Stuk em marcha
 lenta e acelerando. O aplicativo cruza a gravação com suas respostas sobre o
 motor e mostra as origens prováveis em porcentagem, para que a oficina olhe
 no lugar certo desde o começo.

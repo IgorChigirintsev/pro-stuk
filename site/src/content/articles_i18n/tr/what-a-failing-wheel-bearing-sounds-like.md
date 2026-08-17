@@ -1,6 +1,6 @@
 ---
 title: "Ölmekte olan teker rulmanı nasıl ses verir"
-metaTitle: "Ölmekte olan teker rulmanı nasıl ses verir | Stuk"
+metaTitle: "Ölmekte olan teker rulmanı nasıl ses verir | Pro-Stuk"
 description: "60 km/s'te zar zor duyulan uğultudan gümbürtüye ve direksiyondaki titreşime: teker rulmanı sesini aşama aşama nasıl değiştirir ve nerede beklenmez."
 faq:
   - q: "Rulman en başta hangi hızda duyulur?"
@@ -100,7 +100,7 @@ rulman çoğu zaman balanssız bir tekeri gizler ve onarımdan sonra kalan
 titreşim insanları şaşırtır.
 
 Uğultu hâlâ hafifse ve kulağınıza mı geliyor diye emin olamıyorsanız, şerit
-değiştirmeler içeren bir otoyol sürüşünü Stuk uygulamasında kaydedin.
+değiştirmeler içeren bir otoyol sürüşünü Pro-Stuk uygulamasında kaydedin.
 Uygulama kaydı hız, kaplama ve manevranın yönü hakkındaki cevaplarınızla
 eşleştirir ve olası sebepleri yüzdeleriyle gösterir — hangi tekerden
 başlanacağına dair bir ipucuyla birlikte.

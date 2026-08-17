@@ -1,6 +1,6 @@
 ---
 title: "Klop in het onderstel over verkeersdrempels"
-metaTitle: "Klop over verkeersdrempels: de oorzaken | Stuk"
+metaTitle: "Klop over verkeersdrempels: de oorzaken | Pro-Stuk"
 description: "Waarom het onderstel juist over verkeersdrempels klopt, welke onderdelen meestal de schuldige zijn en hoe u de zoektocht inkort zonder brug."
 faq:
   - q: "Waarom klopt het onderstel over drempels maar blijft het stil in kuilen?"

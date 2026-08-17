@@ -1,6 +1,6 @@
 ---
 title: "Rot başlarının aşınma belirtileri"
-metaTitle: "Aşınmış rot başı belirtileri: sesi | Stuk"
+metaTitle: "Aşınmış rot başı belirtileri: sesi | Pro-Stuk"
 description: "Küçük tümseklerde tıkırtı, direksiyon boşluğu, düz giderken gezinme — aşınmış rot başı nasıl anlaşılır ve kendiniz nasıl kontrol edersiniz."
 faq:
   - q: "Aşınmış rot başı nasıl ses verir?"
@@ -131,7 +131,7 @@ düzeltmelerle sizi yormaya başlar. Ekonomik bir gerekçe de var: boşlukla
 sürmek eşleşen yüzeyleri ve komşu parçaları aşındırır, ucuz bir onarımı
 pahalı hale getirir.
 
-Aşağıdan bir tıkırtı geliyor ve teşhisten emin değilseniz, sesi Stuk
+Aşağıdan bir tıkırtı geliyor ve teşhisten emin değilseniz, sesi Pro-Stuk
 uygulamasında kaydedin. Kaydı, tıkırtının ne zaman çıktığına dair
 cevaplarınızla — tümseklerde mi, direksiyon kırarken mi, frende mi —
 eşleştirir ve olası nedenleri aciliyet seviyesiyle gösterir.

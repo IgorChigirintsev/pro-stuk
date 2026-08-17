@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un cardan extérieur usé"
-metaTitle: "Cardan extérieur usé : le craquement en virage | Stuk"
+metaTitle: "Cardan extérieur usé : le craquement en virage | Pro-Stuk"
 description: "Comment craque un cardan extérieur usé, ce qui le distingue du cardan intérieur, les contrôles simples sans pont et ce qui décide entre un soufflet et un joint neuf."
 faq:
   - q: "Pourquoi un cardan craque-t-il précisément en virage ?"
@@ -145,7 +145,7 @@ serti et non des colliers plastique. Ces deux petits détails décident de
 la tenue de la réparation.
 
 Pas certain que ce soit le cardan qui craque ? Enregistrez le son dans
-l'application Stuk pendant un cercle lent à fond de braquage — elle
+l'application Pro-Stuk pendant un cercle lent à fond de braquage — elle
 confronte l'enregistrement à vos réponses et affiche les causes probables
 avec un pourcentage et un degré d'urgence. Avec ce résultat, il est plus
 facile de planifier le passage au garage.

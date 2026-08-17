@@ -1,6 +1,6 @@
 ---
 title: "Barulho do variador de fase com o motor frio"
-metaTitle: "Barulho do variador de fase a frio: causas | Stuk"
+metaTitle: "Barulho do variador de fase a frio: causas | Pro-Stuk"
 description: "Por que o variador de fase chacoalha nos primeiros segundos após a partida fria: desgaste, válvula OCV, óleo. Como conferir sozinho e o que vem depois."
 faq:
   - q: "Quantos segundos de barulho depois da partida são normais?"
@@ -99,6 +99,6 @@ Empurrar isso por anos não é sensato: um atuador batido acelera o desgaste
 da corrente, o motor perde força e passa a beber mais.
 
 Não tem certeza de que é o variador que chacoalha? Grave uma partida fria
-com o aplicativo Stuk — o algoritmo compara o som com perfis típicos, leva
+com o aplicativo Pro-Stuk — o algoritmo compara o som com perfis típicos, leva
 em conta suas respostas sobre o momento e a duração do ruído e mostra as
 causas prováveis com um nível de urgência.

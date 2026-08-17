@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de la cremallera en el Kia Rio: ¿ajustar o reparar?"
-metaTitle: "Cremallera del Kia Rio: ¿ajustar o reparar? | Stuk"
+metaTitle: "Cremallera del Kia Rio: ¿ajustar o reparar? | Pro-Stuk"
 description: "Golpeteo de la cremallera de un Kia Rio en baches pequeños: por qué aparece, cómo distinguirlo de las bieletas y cuándo basta con un ajuste."
 faq:
   - q: "¿Es peligroso un golpeteo de cremallera en un Kia Rio?"
@@ -109,7 +109,7 @@ reacondicionamiento, no un retoque. Y si después viene una alineación de
 dirección: cualquier trabajo que implique las barras cambia la convergencia.
 
 Si no está seguro de qué golpea —la cremallera, las bieletas o los
-terminales—, grabe el sonido con la aplicación Stuk pasando por un bache fino
+terminales—, grabe el sonido con la aplicación Pro-Stuk pasando por un bache fino
 y repita la grabación moviendo el volante con el coche parado. La aplicación
 compara las grabaciones con sus respuestas y muestra las causas probables con
 porcentajes, para que llegue al taller con una hipótesis.

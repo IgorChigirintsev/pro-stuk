@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Motor im Leerlauf"
-metaTitle: "Klopfen im Leerlauf: Ursachen und Vorgehen | Stuk"
+metaTitle: "Klopfen im Leerlauf: Ursachen und Vorgehen | Pro-Stuk"
 description: "Warum ein Motor im Leerlauf klopft: Hydrostößel, Steuerkette, Ventile oder Nebenaggregate. Wie Sie die Ursachen am Klang unterscheiden."
 faq:
   - q: "Warum ist das Klopfen im Leerlauf hörbar und bei höherer Drehzahl weg?"

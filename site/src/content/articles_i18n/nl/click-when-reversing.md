@@ -1,6 +1,6 @@
 ---
 title: "Een tik bij het wegrijden in de achteruit"
-metaTitle: "Tik bij wegrijden in achteruit: oorzaken | Stuk"
+metaTitle: "Tik bij wegrijden in achteruit: oorzaken | Pro-Stuk"
 description: "Eén droge tik als u achteruit wegrijdt is bijna altijd speling die wordt opgenomen. Waar die speling zit: remblokken, homokineten, kruiskoppeling, motorsteunen."
 faq:
   - q: "Waarom hoor ik de tik alleen achteruit en niet vooruit?"

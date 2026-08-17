@@ -1,6 +1,6 @@
 ---
 title: "Piepen na een riemwissel: waarom en wat nu"
-metaTitle: "Piepen na een riemwissel: oorzaken en oplossing | Stuk"
+metaTitle: "Piepen na een riemwissel: oorzaken en oplossing | Pro-Stuk"
 description: "De riem is vervangen maar de piep bleef of kwam terug: fouten in de spanning, scheefstand, spanrollen, vrijlooppoelie. Zo vindt u de oorzaak."
 faq:
   - q: "Een nieuwe riem piept de eerste dagen — is dat normaal?"

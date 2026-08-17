@@ -1,6 +1,6 @@
 ---
 title: "Motor tiquetaqueando em marcha lenta"
-metaTitle: "Motor tiquetaqueando em marcha lenta: causas | Stuk"
+metaTitle: "Motor tiquetaqueando em marcha lenta: causas | Pro-Stuk"
 description: "Por que o motor tiquetaqueia em marcha lenta: válvulas, tuchos hidráulicos, bicos, corrente de comando. Como separar o tique inofensivo do preocupante."
 faq:
   - q: "Tique-taque em marcha lenta é sempre defeito?"
@@ -133,7 +133,7 @@ peças novas alimentadas pelo mesmo descuido voltam a tiquetaquear dentro
 de um ano.
 
 Se quiser saber para que lado olhar antes de agendar qualquer coisa, grave
-o tique-taque no aplicativo Stuk. Ele cruza o som com as suas respostas a
+o tique-taque no aplicativo Pro-Stuk. Ele cruza o som com as suas respostas a
 algumas perguntas sobre as condições e mostra as causas prováveis com
 percentuais: com essa lista fica mais fácil tanto escolher a oficina
 quanto avaliar o preço que ela cobra.

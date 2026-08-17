@@ -1,6 +1,6 @@
 ---
 title: "Sifflement de boîte automatique : les premiers signes"
-metaTitle: "Sifflement de boîte auto : premiers signes | Stuk"
+metaTitle: "Sifflement de boîte auto : premiers signes | Pro-Stuk"
 description: "Le sifflement d'une boîte automatique au tout début : à quoi ça ressemble, comment le distinguer d'un roulement de roue ou des pneus, et ce qu'on vérifie en premier."
 faq:
   - q: "Le sifflement de boîte suit-il la vitesse ou le régime moteur ?"
@@ -109,6 +109,6 @@ un détail.
 
 Si le sifflement est discret et que vous voulez savoir s'il suit la
 vitesse ou le rapport engagé, enregistrez deux courts extraits dans
-l'application Stuk : une accélération en charge, puis la même vitesse en
+l'application Pro-Stuk : une accélération en charge, puis la même vitesse en
 levé de pied. L'application compare les enregistrements et vous indique
 la direction — transmission ou train roulant — à explorer en premier.

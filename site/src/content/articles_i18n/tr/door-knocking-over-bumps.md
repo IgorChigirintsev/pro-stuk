@@ -1,6 +1,6 @@
 ---
 title: "Tümsekte kapıdan gelen vuruntu"
-metaTitle: "Kapıdan vuruntu: neye bakmalı | Stuk"
+metaTitle: "Kapıdan vuruntu: neye bakmalı | Pro-Stuk"
 description: "Tümsekte kapı vuruyor: cam krikosu, kapı tutucu, kilit — yoksa yine de süspansiyon mu. Tek sürüşte kaynağı nasıl yerinden belirlersiniz."
 faq:
   - q: "Camı biraz indirince kapıdaki vuruntu neden kesiliyor?"
@@ -90,7 +90,7 @@ Vuruntuya tümseklerden bağımsız bir uğultu ya da ıslık eklendiyse kaynağ
 aktarma organlarında aramakta fayda var —
 [uğuldayan şanzımanla araç kullanılır mı](/tr/articles/can-you-drive-with-a-whining-gearbox/).
 
-Bu tip vuruntuyu çözmenin en kolay yolu iki kaydı karşılaştırmaktır. Stuk
+Bu tip vuruntuyu çözmenin en kolay yolu iki kaydı karşılaştırmaktır. Pro-Stuk
 uygulamasında kaydı başlatın ve bildiğiniz bozuk bir yol parçasından önce
 cam kapalıyken, sonra cam biraz inikken geçin. Uygulama kayıtları birkaç
 soruya verdiğiniz cevaplarla eşleştirir ve hangisinin daha olası olduğunu

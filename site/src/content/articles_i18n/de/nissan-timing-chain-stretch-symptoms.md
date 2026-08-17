@@ -1,6 +1,6 @@
 ---
 title: "Nissan Almera/Qashqai: Symptome einer gelängten Steuerkette"
-metaTitle: "Nissan: Symptome der gelängten Steuerkette | Stuk"
+metaTitle: "Nissan: Symptome der gelängten Steuerkette | Pro-Stuk"
 description: "Wie eine gelängte Steuerkette bei Almera und Qashqai klingt, wie sie sich von anderen Motorgeräuschen unterscheidet und wie die Reparatur entschieden wird."
 faq:
   - q: "Wie lange hält die Steuerkette bei diesen Motoren?"

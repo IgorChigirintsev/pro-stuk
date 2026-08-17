@@ -1,6 +1,6 @@
 ---
 title: "Servopumpe jault beim Lenken: die Ursachen"
-metaTitle: "Servopumpe jault beim Lenken: Ursachen | Stuk"
+metaTitle: "Servopumpe jault beim Lenken: Ursachen | Pro-Stuk"
 description: "Warum die Hydrolenkung beim Einschlagen jault: Ölstand, Luft im System, Pumpe, Riemen. Wie Sie Normalzustand von Verschleiß trennen und was zuerst zu prüfen ist."
 faq:
   - q: "Es jault nur am vollen Anschlag. Ist das ein Fehler?"

@@ -1,6 +1,6 @@
 ---
 title: "Segnali di molle delle sospensioni stanche"
-metaTitle: "Molle sospensioni stanche: come verificarle | Stuk"
+metaTitle: "Molle sospensioni stanche: come verificarle | Pro-Stuk"
 description: "Auto abbassata, rollio, colpi a fine corsa nelle buche: come capire che le molle delle sospensioni sono stanche, come controllarle senza ponte e cosa comporta la sostituzione."
 faq:
   - q: "Si può sostituire una molla sola?"
@@ -129,6 +129,6 @@ strade bianche esistono versioni rinforzate: tengono l'altezza più a lungo,
 anche se rendono l'assetto un filo più secco sulle piccole asperità.
 
 Se non è sicuro che siano le molle o altro, registri il rumore della
-sospensione sulle asperità con l'app Stuk: confronta la registrazione con
+sospensione sulle asperità con l'app Pro-Stuk: confronta la registrazione con
 le sue risposte e mostra le cause probabili con un livello di urgenza. Con
 quell'elenco il discorso in officina è più corto e più concreto.

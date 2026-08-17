@@ -1,7 +1,7 @@
 ---
 ru: "skrip-tormozov-posle-stoyanki"
 title: "Brake squeal after standing: normal or not"
-metaTitle: "Brake squeal after standing: normal or not | Stuk"
+metaTitle: "Brake squeal after standing: normal or not | Pro-Stuk"
 description: "A morning brake squeal after a night outside is usually rust film on the disc. How to tell it from worn friction material and when to go to a workshop."
 pubDate: "2026-07-22"
 related:
@@ -104,6 +104,6 @@ opinion, decides whether it stays.
 The boundary between “normal morning squeal” and “time for a workshop”
 runs through the character of the sound, and those shades are poorly
 remembered: a month later it is hard to say whether it squealed the same
-or slightly harder. A recording made in the Stuk app today and repeated a
+or slightly harder. A recording made in the Pro-Stuk app today and repeated a
 few weeks later shows that difference objectively — along with a list of
 likely causes and an assessment of how urgently to book a diagnosis.

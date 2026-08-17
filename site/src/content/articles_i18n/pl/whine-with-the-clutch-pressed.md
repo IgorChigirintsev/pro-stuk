@@ -1,6 +1,6 @@
 ---
 title: "Buczenie przy wciśniętym sprzęgle"
-metaTitle: "Buczenie przy wciśniętym sprzęgle: co to jest | Stuk"
+metaTitle: "Buczenie przy wciśniętym sprzęgle: co to jest | Pro-Stuk"
 description: "Buczenie pojawiające się po wciśnięciu pedału sprzęgła to niemal zawsze łożysko oporowe. Jak potwierdzić to w minutę i na czym polega naprawa."
 faq:
   - q: "Czy buczenie przy wciśniętym sprzęgle to na pewno łożysko oporowe?"
@@ -102,6 +102,6 @@ się skok pedału, a rozsypujące się łożysko potrafi uszkodzić palce docisk
 i zamienić zwykłą naprawę w kosztowną.
 
 Jeśli buczenie jest ciche i nie ma pewności, czy wiąże się z pedałem,
-nagraj dźwięk w aplikacji Stuk — najpierw na biegu jałowym z puszczonym
+nagraj dźwięk w aplikacji Pro-Stuk — najpierw na biegu jałowym z puszczonym
 pedałem, potem z wciśniętym. Aplikacja porówna nagrania, zestawi je z
 kilkoma odpowiedziami i pokaże prawdopodobne przyczyny z procentami.

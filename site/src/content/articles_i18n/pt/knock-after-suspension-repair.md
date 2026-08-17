@@ -1,6 +1,6 @@
 ---
 title: "Barulho depois de mexer na suspensão: de quem é a culpa"
-metaTitle: "Barulho após reparo da suspensão: causas | Stuk"
+metaTitle: "Barulho após reparo da suspensão: causas | Pro-Stuk"
 description: "Apareceu barulho depois do reparo da suspensão: erro de montagem, peça ruim ou componente vizinho? Como separar as três versões com calma."
 faq:
   - q: "É normal reapertar a suspensão depois do reparo?"
@@ -98,7 +98,7 @@ empurrado, veja
 [como não aceitar serviço empurrado na oficina](/pt/articles/avoiding-being-upsold-at-a-workshop/).
 
 O argumento mais forte nessa conversa é o próprio som. Grave ele no
-aplicativo Stuk num trecho representativo de rua: o algoritmo cruza a
+aplicativo Pro-Stuk num trecho representativo de rua: o algoritmo cruza a
 gravação com as suas respostas e mostra as origens prováveis com um nível
 de urgência. Com esse resultado fica mais fácil tanto falar com a oficina
 quanto avaliar se a pressa é real.

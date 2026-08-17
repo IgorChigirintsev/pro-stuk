@@ -1,6 +1,6 @@
 ---
 title: "Nissan Qashqai eksantrik ayarlayıcı tak sesi"
-metaTitle: "Nissan Qashqai eksantrik ayarlayıcı sesi | Stuk"
+metaTitle: "Nissan Qashqai eksantrik ayarlayıcı sesi | Pro-Stuk"
 description: "Qashqai soğuk çalıştırmada gelen kısa takırtı çoğu zaman eksantrik ayarlayıcıdan gelir. Triger zincirinden nasıl ayrılır, serviste neye bakılır."
 faq:
   - q: "Qashqai çalıştırmada gelen kısa takırtı tehlikeli mi?"
@@ -98,6 +98,6 @@ belirtileri
 yazısında.
 
 Ustayla konuşmadan önce neyin takırdadığını anlamak isterseniz, sesi soğuk
-çalıştırma anında, kaput açık halde yanında dururken Stuk uygulamasıyla
+çalıştırma anında, kaput açık halde yanında dururken Pro-Stuk uygulamasıyla
 kaydedin. Uygulama kaydı birkaç soruya verdiğiniz yanıtlarla eşleştirip
 olası sebepleri yüzdeleriyle gösterir.

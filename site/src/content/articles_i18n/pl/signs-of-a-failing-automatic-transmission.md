@@ -1,6 +1,6 @@
 ---
 title: "Objawy umierającej skrzyni automatycznej"
-metaTitle: "Objawy umierającej skrzyni automatycznej | Stuk"
+metaTitle: "Objawy umierającej skrzyni automatycznej | Pro-Stuk"
 description: "Automat rzadko pada z dnia na dzień: najpierw są poślizgi, wycie i opóźnienia. Wczesne objawy zużycia i co robić na każdym etapie."
 faq:
   - q: "Który objaw umierającego automatu jest najbardziej alarmujący?"
@@ -52,7 +52,7 @@ tekście o [odgłosach zimnego automatu](/pl/articles/cold-automatic-gearbox-noi
 | Tryb awaryjny (tylko trzeci bieg) | Usterka w module sterującym, ochrona skrzyni |
 | Drgania przy 60–80 km/h | Sprzęgło hydrokinetyczne, blokada konwertera |
 | Ciemny olej o zapachu spalenizny | Przegrzewanie i zużycie okładzin ciernych |
-| Stuk w momencie zmiany biegu | Często poduszki, a nie skrzynia |
+| Pro-Stuk w momencie zmiany biegu | Często poduszki, a nie skrzynia |
 
 Ostatni wiersz ma znaczenie: nie wszystko, co wygląda na śmierć automatu,
 nią jest. Zużyte poduszki silnika zamieniają normalny skok momentu
@@ -103,7 +103,7 @@ wraca do warsztatu, i to najczęstszy powód, dla którego regeneracja nie
 przeżywa roku.
 
 Jeśli jesteś na wczesnym etapie i nie masz pewności, czy dźwięk skrzyni
-zmienił się przez ostatnie miesiące, nagrywaj go w aplikacji Stuk co kilka
+zmienił się przez ostatnie miesiące, nagrywaj go w aplikacji Pro-Stuk co kilka
 tygodni — na biegu jałowym, na luzie i przy przyspieszaniu. Aplikacja
 przechowuje historię, porównuje nagrania i pokazuje, czy jest coraz gorzej,
 czy dźwięk po prostu zawsze taki był.

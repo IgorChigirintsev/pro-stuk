@@ -1,6 +1,6 @@
 ---
 title: "Automatik: Rucken und Schlag beim Schalten"
-metaTitle: "Automatik ruckt und schlägt beim Schalten | Stuk"
+metaTitle: "Automatik ruckt und schlägt beim Schalten | Pro-Stuk"
 description: "Rucken und ein dumpfer Schlag beim Gangwechsel der Automatik können harmlos sein oder das erste Signal einer teuren Reparatur. Wie man beides trennt."
 faq:
   - q: "Ist ein Ruck beim Einlegen von D aus P normal?"

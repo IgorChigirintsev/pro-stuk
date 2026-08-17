@@ -1,6 +1,6 @@
 ---
 title: "Un claquement ressenti dans le volant sur mauvaise route"
-metaTitle: "Claquement ressenti dans le volant : les causes | Stuk"
+metaTitle: "Claquement ressenti dans le volant : les causes | Pro-Stuk"
 description: "D'où vient un claquement ressenti dans le volant : crémaillère, rotules de direction, biellettes ou barre stabilisatrice. Des contrôles simples sans pont."
 faq:
   - q: "Comment savoir si c'est la direction et non la suspension ?"
@@ -132,7 +132,7 @@ domestique — les pneus : une voiture avec du jeu dans la direction use sa
 bande de roulement nettement plus vite qu'elle ne le devrait.
 
 Si vous ne savez pas quelle pièce est en cause, enregistrez le claquement
-dans l'application Stuk : parcourez une portion dégradée caractéristique
+dans l'application Pro-Stuk : parcourez une portion dégradée caractéristique
 avec l'enregistrement en marche, répondez à quelques questions de
 précision, et l'application confrontera le son à des profils de pannes
 typiques puis affichera les causes probables avec un niveau d'urgence.

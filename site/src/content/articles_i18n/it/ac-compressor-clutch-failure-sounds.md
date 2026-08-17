@@ -1,6 +1,6 @@
 ---
 title: "Frizione del compressore del clima: i suoni del guasto"
-metaTitle: "Frizione compressore clima: i suoni | Stuk"
+metaTitle: "Frizione compressore clima: i suoni | Pro-Stuk"
 description: "Ticchettio, fischio o graffio che compare esattamente quando si accende il clima: come suona una frizione elettromagnetica usurata e cosa controlla l'officina."
 faq:
   - q: "Come capisco se è la frizione e non il compressore stesso?"
@@ -98,7 +98,7 @@ attrito. Sostituire il compressore senza trovare la perdita significa far
 lavorare quello nuovo nelle stesse condizioni che hanno ucciso il vecchio.
 
 Se il rumore compare solo con il caldo e in officina non si riesce a
-riprodurlo, lo registri con l'app Stuk: prima con il climatizzatore
+riprodurlo, lo registri con l'app Pro-Stuk: prima con il climatizzatore
 spento, poi subito dopo averlo acceso. L'app confronta le due
 registrazioni con le sue risposte e mostra cosa è più probabile: la
 frizione, un rullo della cinghia o il compressore stesso.

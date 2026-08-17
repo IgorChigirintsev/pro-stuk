@@ -1,6 +1,6 @@
 ---
 title: "Scricchiolii nell'abitacolo sulle asperità"
-metaTitle: "Scricchiolii in abitacolo sulle buche: cause | Stuk"
+metaTitle: "Scricchiolii in abitacolo sulle buche: cause | Pro-Stuk"
 description: "Scricchiolii nell'abitacolo sulle asperità: perché la scocca flette e provoca il suono, come distinguere i rivestimenti dalle sospensioni e cosa puoi sistemare da solo."
 faq:
   - q: "Uno scricchiolio nell'abitacolo sulle asperità è pericoloso?"
@@ -96,7 +96,7 @@ Conviene però prepararsi prima dell'inverno: con il gelo l'elenco dei
 punti che scricchiolano di solito si allunga.
 
 Il modo più affidabile per smettere di discutere con te stesso su da dove
-arriva il suono è registrarlo. Avvia una registrazione con l'app Stuk
+arriva il suono è registrarlo. Avvia una registrazione con l'app Pro-Stuk
 prima di un tratto sconnesso che conosci e percorrilo due volte: con i
 finestrini chiusi e aperti. L'app confronta le registrazioni con le tue
 risposte e mostra dove cercare, dentro l'abitacolo o sotto l'auto.

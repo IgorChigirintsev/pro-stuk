@@ -1,6 +1,6 @@
 ---
 title: "Yakıt pompası uğultusu: normal mi, yoksa bitiyor mu"
-metaTitle: "Yakıt pompası uğultusu: normal mi, arıza mı | Stuk"
+metaTitle: "Yakıt pompası uğultusu: normal mi, arıza mı | Pro-Stuk"
 description: "Sıradan bir yakıt pompası uğultusuyla ölmekte olan pompanın iniltisi arasındaki sınır nerede: hangi işaretler zararsız, hangileri hızlı yanıt ister."
 faq:
   - q: "Kontağı açınca pompa birkaç saniye vızıldıyor, bu normal mi?"
@@ -101,6 +101,6 @@ depoyu tüketmeyin ve yakıt filtresini önerilen aralıkta değiştirin. Bunlar
 bir pompanın ömrünü uzatmanın en ucuz yollarıdır.
 
 Sesin gerçekten büyüyüp büyümediğinden mi emin değilsiniz? Kontak açıkken ve
-rölantide Stuk uygulamasıyla kaydedin. Bir ay sonra aynı koşullarda ikinci
+rölantide Pro-Stuk uygulamasıyla kaydedin. Bir ay sonra aynı koşullarda ikinci
 bir kayıt alıp karşılaştırın: uygulama kayıtları cevaplarınızla eşleştirir ve
 bunun normal bir fon mu, yoksa gelişen bir arıza mı olduğunu gösterir.

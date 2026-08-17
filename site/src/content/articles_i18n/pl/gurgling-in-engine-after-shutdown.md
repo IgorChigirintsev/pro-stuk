@@ -1,6 +1,6 @@
 ---
 title: "Bulgotanie w silniku po zgaszeniu"
-metaTitle: "Bulgotanie w silniku po zgaszeniu: przyczyny | Stuk"
+metaTitle: "Bulgotanie w silniku po zgaszeniu: przyczyny | Pro-Stuk"
 description: "Bulgotanie po zgaszeniu silnika: kiedy to normalne stygnięcie, a kiedy powietrze w układzie, zmęczony korek albo uszczelka głowicy. Sprawdzenia na pięć minut."
 faq:
   - q: "Czy bulgotanie po zgaszeniu zawsze oznacza, że coś się gotuje?"
@@ -116,6 +116,6 @@ po pełnym cyklu grzania i stygnięcia. Powietrze, które zostało w środku,
 objawia się dokładnie tym bulgotaniem, z którym się przyjechało.
 
 Jeśli nie ma pewności, czy to norma, nagraj dźwięk po zgaszeniu w
-aplikacji Stuk: zestawia ona nagranie z odpowiedziami — kiedy bulgocze,
+aplikacji Pro-Stuk: zestawia ona nagranie z odpowiedziami — kiedy bulgocze,
 czy płyn znika, czy nagrzewnica działa — i pokazuje prawdopodobne
 przyczyny wraz z poziomem pilności.

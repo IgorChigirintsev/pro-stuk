@@ -1,6 +1,6 @@
 ---
 title: "Stoßdämpfer mit dem Wipptest prüfen"
-metaTitle: "Wipptest für Stoßdämpfer: Schritt für Schritt | Stuk"
+metaTitle: "Wipptest für Stoßdämpfer: Schritt für Schritt | Pro-Stuk"
 description: "Der Wipptest Schritt für Schritt: wie Sie auf die Karosserie drücken, die Bewegungen zählen, was der Test nicht zeigt und wann ein Prüfstand nötig ist."
 faq:
   - q: "Wie zuverlässig ist der Wipptest?"

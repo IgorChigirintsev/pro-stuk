@@ -1,6 +1,6 @@
 ---
-title: "Stuk przy rozruchu po kilku tygodniach postoju"
-metaTitle: "Stuk przy rozruchu po długim postoju: przyczyny | Stuk"
+title: "Pro-Stuk przy rozruchu po kilku tygodniach postoju"
+metaTitle: "Pro-Stuk przy rozruchu po długim postoju: przyczyny | Pro-Stuk"
 description: "Dlaczego silnik stuka przez pierwsze sekundy po tygodniach postoju: spływ oleju, popychacze, napinacz łańcucha, faza rozrządu. Gdzie kończy się norma."
 faq:
   - q: "Silnik stuka przez dwie sekundy po odpaleniu — czy to normalne?"
@@ -61,7 +61,7 @@ dla nich najbardziej niszczące.
 
 ## Norma czy usterka: trzy pytania
 
-Pierwsze pytanie — **po jak długim postoju**. Stuk po dwóch tygodniach
+Pierwsze pytanie — **po jak długim postoju**. Pro-Stuk po dwóch tygodniach
 parkowania da się wytłumaczyć; ten sam stuk każdego ranka już nie, i to
 powód, by sprawdzić olej, filtr i popychacze.
 
@@ -97,6 +97,6 @@ popychaczy albo zestawu rozrządu — a o obu decyduje pomiar, nie ucho, więc
 warto zapytać, co zmierzono, zanim zgodzimy się na którykolwiek.
 
 Najszybszy sposób, by dowiedzieć się, czy przypadek jest niegroźny, to
-nagrać pierwszy rozruch w aplikacji Stuk: dopasuje ona dźwięk do odpowiedzi
+nagrać pierwszy rozruch w aplikacji Pro-Stuk: dopasuje ona dźwięk do odpowiedzi
 o tym, jak długo auto stało, i pokaże prawdopodobne przyczyny z procentami
 oraz poziomem pilności.

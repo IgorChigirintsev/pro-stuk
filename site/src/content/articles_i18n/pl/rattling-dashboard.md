@@ -1,6 +1,6 @@
 ---
 title: "Grzechocząca deska rozdzielcza"
-metaTitle: "Grzechocząca deska rozdzielcza: szukanie źródła | Stuk"
+metaTitle: "Grzechocząca deska rozdzielcza: szukanie źródła | Pro-Stuk"
 description: "Grzechocząca deska rozdzielcza bardziej irytuje, niż szkodzi. Dlaczego plastik zaczyna brzęczeć, jak w dziesięć minut znaleźć miejsce styku."
 faq:
   - q: "Czy grzechocząca deska rozdzielcza jest groźna?"
@@ -103,7 +103,7 @@ skraca poszukiwania. Jeśli już znalazłeś element, który po dociśnięciu
 wycisza hałas, powiedz o tym na wstępie.
 
 Jeśli nie potrafisz rozstrzygnąć, czy grzechocze deska, czy coś za nią,
-nagraj dźwięk w aplikacji Stuk z wnętrza kabiny — na biegu jałowym i
+nagraj dźwięk w aplikacji Pro-Stuk z wnętrza kabiny — na biegu jałowym i
 podczas jazdy. Aplikacja zestawia nagranie z kilkoma odpowiedziami i
 pokazuje prawdopodobne źródła z procentami, żeby nikt nie musiał rozbierać
 deski na wyczucie.

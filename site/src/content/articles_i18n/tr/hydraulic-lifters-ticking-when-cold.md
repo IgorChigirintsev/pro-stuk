@@ -1,6 +1,6 @@
 ---
 title: "Hidrolik külbütörler soğukta tıkırdıyor: normal mi değil mi"
-metaTitle: "Soğukta külbütör tıkırtısı: normal mi | Stuk"
+metaTitle: "Soğukta külbütör tıkırtısı: normal mi | Pro-Stuk"
 description: "Hidrolik külbütörler soğuk çalıştırmadan sonra neden tıkırdar, kaç saniye tıkırtı normal sayılır ve yağı ya da külbütörleri değiştirme vakti ne zaman gelir."
 faq:
   - q: "Kaç saniyelik külbütör tıkırtısı normaldir?"
@@ -126,7 +126,7 @@ Bu arada sürüş sınırı için
 yazısına bakın.
 
 Külbütörler mi yoksa daha ciddi bir şey mi olduğundan emin değilseniz,
-soğuk çalıştırmayı Stuk uygulamasına kaydedin. Uygulama kaydı
+soğuk çalıştırmayı Pro-Stuk uygulamasına kaydedin. Uygulama kaydı
 cevaplarınızla eşleştirir ve muhtemel sebepleri yüzdesiyle, aciliyet
 seviyesiyle gösterir — hemen teşhise gitmekle bir sonraki bakımı sakince
 beklemek arasında karar vermek böylece kolaylaşır.

@@ -1,6 +1,6 @@
 ---
 title: "Klop na een onderstelreparatie: wie is schuldig"
-metaTitle: "Klop na een onderstelreparatie: wie is schuldig? | Stuk"
+metaTitle: "Klop na een onderstelreparatie: wie is schuldig? | Pro-Stuk"
 description: "Klop na een onderstelreparatie: montagefout, ondeugdelijk onderdeel of een naastgelegen deel? Zo scheidt u de drie versies rustig van elkaar."
 faq:
   - q: "Is natrekken van het onderstel na een reparatie normaal?"

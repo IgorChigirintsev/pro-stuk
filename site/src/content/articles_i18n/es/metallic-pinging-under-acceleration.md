@@ -1,6 +1,6 @@
 ---
 title: "Cascabeleo metálico en el motor al acelerar"
-metaTitle: "Cascabeleo metálico al acelerar: causas | Stuk"
+metaTitle: "Cascabeleo metálico al acelerar: causas | Pro-Stuk"
 description: "Un tintineo como de monedas en una lata al acelerar suele ser detonación. Causas —combustible, carbonilla, bujías, sensor de picado—, riesgo y qué revisar antes."
 faq:
   - q: "¿Por qué el cascabeleo aparece justo al acelerar?"
@@ -141,7 +141,7 @@ vuelven a formar la misma carbonilla en un año, y limpiar sin curar la
 causa es pagar dos veces.
 
 Si no está seguro de si se trata de detonación o de algo mecánico, grabe
-la aceleración con la aplicación Stuk: cruza la grabación con sus
+la aceleración con la aplicación Pro-Stuk: cruza la grabación con sus
 respuestas sobre cuándo aparece el cascabeleo y muestra las causas
 probables con porcentajes y un nivel de urgencia, un buen punto de partida
 antes de ir al taller.

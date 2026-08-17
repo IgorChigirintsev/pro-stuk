@@ -1,6 +1,6 @@
 ---
 title: "Un cliquetis moteur au ralenti"
-metaTitle: "Cliquetis moteur au ralenti : causes et suite | Stuk"
+metaTitle: "Cliquetis moteur au ralenti : causes et suite | Pro-Stuk"
 description: "Pourquoi un moteur cliquette au ralenti : soupapes, poussoirs hydrauliques, injecteurs, chaîne. Distinguer le cliquetis anodin de celui qui inquiète."
 faq:
   - q: "Un cliquetis au ralenti est-il toujours une panne ?"
@@ -137,7 +137,7 @@ pièces neuves nourries par la même négligence recliquettent en moins d'un
 an.
 
 Si vous voulez savoir de quel côté regarder avant de prendre rendez-vous,
-enregistrez le cliquetis dans l'application Stuk. Elle croise le son avec
+enregistrez le cliquetis dans l'application Pro-Stuk. Elle croise le son avec
 vos réponses à quelques questions sur les conditions et affiche les causes
 probables avec leurs pourcentages : avec cette liste, il est plus facile à
 la fois de choisir un garage et de vérifier la cohérence du devis proposé.

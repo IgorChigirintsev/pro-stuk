@@ -1,6 +1,6 @@
 ---
 title: "Claquement à froid sur Škoda Rapid / Octavia 1.4 TSI"
-metaTitle: "Claquement à froid : Škoda Rapid et Octavia 1.4 TSI | Stuk"
+metaTitle: "Claquement à froid : Škoda Rapid et Octavia 1.4 TSI | Pro-Stuk"
 description: "Les claquements à froid sur Škoda Rapid et Octavia 1.4 TSI : chaîne et tendeur, poussoirs hydrauliques, accessoires. Comment les distinguer les uns des autres."
 faq:
   - q: "Le claquement part une minute après le démarrage, est-ce normal ?"
@@ -101,7 +101,7 @@ sursis plus court que le propriétaire ne l'imagine.
 
 Si le claquement n'apparaît qu'au premier démarrage de la journée, il est
 difficile à attraper au garage : le temps d'y arriver, le moteur est chaud.
-Enregistrez le bruit dans l'application Stuk le matin, dans les premières
+Enregistrez le bruit dans l'application Pro-Stuk le matin, dans les premières
 secondes après le démarrage. L'application croise l'enregistrement avec vos
 réponses et affiche les causes probables avec des pourcentages, ce qui donne
 au mécanicien de quoi travailler.

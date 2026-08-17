@@ -1,6 +1,6 @@
 ---
 title: "Boştayken şanzıman uğultusu"
-metaTitle: "Boşta şanzıman uğultusu: sebepleri ve kontrolü | Stuk"
+metaTitle: "Boşta şanzıman uğultusu: sebepleri ve kontrolü | Pro-Stuk"
 description: "Debriyaj kalkıkken boşta duyulan uğultu genelde giriş mili rulmanını ya da yağ seviyesini gösterir. Tek pedal testiyle bilyadan nasıl ayrılır."
 faq:
   - q: "Boştaki uğultu debriyaja basınca kesiliyor, bu ne demek?"
@@ -96,6 +96,6 @@ yazısında; uğultuya vites geçerken çıtırtı eklenirse
 yazısına bakın.
 
 Uğultu hafifse ve pedalı takip edip etmediğinden emin değilseniz, iki durumda
-da Stuk uygulamasıyla kaydedin: debriyaj kalkıkken ve basılıyken. Uygulama
+da Pro-Stuk uygulamasıyla kaydedin: debriyaj kalkıkken ve basılıyken. Uygulama
 kayıtları cevaplarınızla karşılaştırır, olası sebepleri yüzdeyle ve servise
 gitmeden önce nelere bakılacağıyla birlikte gösterir.

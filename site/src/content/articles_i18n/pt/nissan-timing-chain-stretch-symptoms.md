@@ -1,6 +1,6 @@
 ---
 title: "Corrente de comando esticada no Nissan Almera/Qashqai: sintomas"
-metaTitle: "Corrente de comando esticada no Nissan: sintomas | Stuk"
+metaTitle: "Corrente de comando esticada no Nissan: sintomas | Pro-Stuk"
 description: "Como soa a corrente de comando esticada no Almera e no Qashqai, como diferenciar de outras batidas do motor e como se decide o reparo."
 faq:
   - q: "Quanto dura a corrente de comando nesses motores?"
@@ -102,6 +102,6 @@ estão em
 [chiado da correia do alternador: as causas](/pt/articles/alternator-belt-squeal-causes/).
 
 Se não estiver claro em qual estágio está o seu caso, grave o som no
-aplicativo Stuk na partida fria e uma segunda vez com o motor quente. O
+aplicativo Pro-Stuk na partida fria e uma segunda vez com o motor quente. O
 aplicativo compara as gravações com as suas respostas e mostra as causas
 prováveis com percentuais: um bom jeito de entender se você tem tempo.

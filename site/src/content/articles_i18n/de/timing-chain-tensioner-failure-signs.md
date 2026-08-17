@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für einen defekten Kettenspanner"
-metaTitle: "Kettenspanner: Anzeichen für einen Defekt | Stuk"
+metaTitle: "Kettenspanner: Anzeichen für einen Defekt | Pro-Stuk"
 description: "Woran Sie einen schwach gewordenen Kettenspanner erkennen: Scheppern beim Kaltstart, Rascheln im Leerlauf, ein Schlag beim Gasstoß und das Risiko des Überspringens."
 faq:
   - q: "Warum rasselt die Kette nur beim Kaltstart?"

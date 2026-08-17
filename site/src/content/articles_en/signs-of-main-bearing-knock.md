@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-stuka-korennyh-vkladyshej"
 title: "Signs of main bearing knock"
-metaTitle: "Signs of main bearing knock in an engine | Stuk"
+metaTitle: "Signs of main bearing knock in an engine | Pro-Stuk"
 description: "A heavy low knock from the bottom of the block, falling oil pressure and vibration: how to recognise worn main bearings and how they differ from big ends."
 pubDate: "2026-06-06"
 related:
@@ -111,6 +111,6 @@ not ignore the first flickers of the pressure light.
 
 If the knock appeared recently and you are not sure which part of the
 engine it comes from, record a short fragment at idle and on a throttle
-blip in the Stuk app. It compares the sound with your answers about the
+blip in the Pro-Stuk app. It compares the sound with your answers about the
 regime and shows the likely causes with percentages — enough to decide
 between driving yourself and calling a tow truck straight away.

@@ -1,6 +1,6 @@
 ---
 title: "Klap in de aandrijflijn bij gas geven en loslaten"
-metaTitle: "Klap in de aandrijflijn bij gas en loslaten | Stuk"
+metaTitle: "Klap in de aandrijflijn bij gas en loslaten | Pro-Stuk"
 description: "Een doffe dreun op het moment dat u het gas loslaat of er weer op gaat is speling in de aandrijflijn die wordt opgenomen. Welke onderdelen kloppen en hoe u ze onderscheidt."
 faq:
   - q: "Waarom hoor ik de klap alleen in stadsverkeer?"

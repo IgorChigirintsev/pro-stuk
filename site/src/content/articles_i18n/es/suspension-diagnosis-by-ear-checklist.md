@@ -1,6 +1,6 @@
 ---
 title: "Diagnosticar la suspensión de oído: la lista completa"
-metaTitle: "Diagnóstico de suspensión de oído: la lista | Stuk"
+metaTitle: "Diagnóstico de suspensión de oído: la lista | Pro-Stuk"
 description: "Revisión de la suspensión paso a paso y sin elevador: prueba de rebote, baches pequeños, baches grandes, volante parado y eslalon. Con tabla de ruidos y piezas."
 faq:
   - q: "¿Se puede identificar una avería de suspensión sin elevador?"
@@ -100,7 +100,7 @@ pruebas, y describirlo en esos términos:
 recoge las formulaciones que funcionan.
 
 Recorrer la lista es más fácil con una grabación: ponga a grabar la
-aplicación Stuk mientras pasa por baches y responda a las preguntas sobre
+aplicación Pro-Stuk mientras pasa por baches y responda a las preguntas sobre
 velocidad y condiciones. La aplicación cruza el sonido con sus respuestas y
 muestra las causas probables con porcentajes, y la lista que le lleva al
 mecánico sale corta y concreta.

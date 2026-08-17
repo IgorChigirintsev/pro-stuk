@@ -1,6 +1,6 @@
 ---
 title: "Un golpe que se nota en el volante en carretera rota"
-metaTitle: "Un golpe que llega al volante en carretera rota | Stuk"
+metaTitle: "Un golpe que llega al volante en carretera rota | Pro-Stuk"
 description: "De dónde viene un golpe que se nota en el volante: la cremallera, los terminales, las barras o la barra estabilizadora. Comprobaciones sin elevador."
 faq:
   - q: "¿Cómo sé si es la dirección y no la suspensión?"
@@ -137,7 +137,7 @@ deprisa de lo que debería, y un juego de neumáticos puede costar más que la
 propia reparación.
 
 Si no está seguro de qué pieza tiene la culpa, grabe el golpeteo con la
-aplicación Stuk: pase por un tramo malo característico con la grabación en
+aplicación Pro-Stuk: pase por un tramo malo característico con la grabación en
 marcha, responda unas cuantas preguntas de aclaración, y la aplicación
 comparará el sonido con perfiles típicos de avería y mostrará las causas
 probables con un nivel de urgencia.

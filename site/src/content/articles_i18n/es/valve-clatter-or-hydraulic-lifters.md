@@ -1,6 +1,6 @@
 ---
 title: "Tictac: ¿válvulas o taqués hidráulicos?"
-metaTitle: "Tictac: ¿holgura de válvulas o taqués? Cómo saberlo | Stuk"
+metaTitle: "Tictac: ¿holgura de válvulas o taqués? Cómo saberlo | Pro-Stuk"
 description: "El tictac que sale de la tapa de balancines puede venir de una holgura de válvulas mal reglada o de taqués hidráulicos gastados. Cómo separarlos de oído."
 faq:
   - q: "¿El ruido de los taqués desaparece al calentar el motor?"
@@ -105,7 +105,7 @@ de aceite en un motor con taqués: un juego nuevo alimentado por galerías
 obstruidas vuelve a tictaquear en unos meses.
 
 Si oye un tictac pero no sabe de qué caso se trata, grabe el sonido dos
-veces con la aplicación Stuk: justo tras un arranque en frío y a los diez
+veces con la aplicación Pro-Stuk: justo tras un arranque en frío y a los diez
 minutos de funcionamiento. La diferencia entre ambas grabaciones es la
 clave de la respuesta, y la aplicación le muestra hacia qué hipótesis
 apunta.

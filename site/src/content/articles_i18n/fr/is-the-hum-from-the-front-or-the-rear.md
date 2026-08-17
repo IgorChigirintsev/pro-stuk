@@ -1,6 +1,6 @@
 ---
 title: "Savoir d'où vient un bourdonnement : avant ou arrière"
-metaTitle: "Bourdonnement : train avant ou arrière ? | Stuk"
+metaTitle: "Bourdonnement : train avant ou arrière ? | Pro-Stuk"
 description: "Des tests simples qui identifient l'essieu et le côté d'où vient un bourdonnement : changements de file, roue libre, permutation des roues, essai à deux."
 faq:
   - q: "Pourquoi un bourdonnement venu de l'arrière semble-t-il venir de l'avant ?"
@@ -95,7 +95,7 @@ amortisseurs fatigués — parce qu'un jeu neuf sur une voiture non corrigée
 s'use pareil.
 
 La façon la plus simple, c'est de faire les quatre tests avec un
-enregistrement en cours dans l'application Stuk : vous répondez aux
+enregistrement en cours dans l'application Pro-Stuk : vous répondez aux
 questions sur la vitesse, le côté et la réaction à la roue libre, et
 l'application les confronte au son puis affiche les causes probables avec
 leurs pourcentages, ainsi que la roue à contrôler en premier. Et pour

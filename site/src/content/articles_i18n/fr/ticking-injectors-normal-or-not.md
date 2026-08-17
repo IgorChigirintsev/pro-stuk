@@ -1,6 +1,6 @@
 ---
 title: "Injecteurs qui claquent : normal ou pas"
-metaTitle: "Injecteurs qui claquent : normal ou pas | Stuk"
+metaTitle: "Injecteurs qui claquent : normal ou pas | Pro-Stuk"
 description: "Le cliquetis des injecteurs : d'où il vient, quand il est normal pour un moteur et quand il signale une panne. Comment le distinguer des poussoirs hydrauliques."
 faq:
   - q: "Pourquoi n'entend-on les injecteurs qu'au ralenti ?"
@@ -114,7 +114,7 @@ nettoyage d'injecteurs n'y touche — c'est un travail à part, à confirmer ou
 à écarter avant de payer pour le mauvais.
 
 Si le cliquetis fait douter — plus fort, moins régulier, accompagné de
-vibrations — enregistrez le moteur au ralenti dans l'application Stuk :
+vibrations — enregistrez le moteur au ralenti dans l'application Pro-Stuk :
 l'algorithme recoupe le son avec des profils types et vos réponses et
 indique s'il ressemble à un fonctionnement normal d'injecteurs ou à une
 raison d'aller à l'atelier.

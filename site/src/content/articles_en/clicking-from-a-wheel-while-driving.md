@@ -1,7 +1,7 @@
 ---
 ru: "tsokane-kolesa-pri-dvizhenii"
 title: "Clicking from a wheel while driving"
-metaTitle: "Clicking from a wheel while driving: causes | Stuk"
+metaTitle: "Clicking from a wheel while driving: causes | Pro-Stuk"
 description: "Rhythmic clicking in time with wheel rotation: a stone in the tread, a screw, a wheel trim or the brake disc. How to find the source and when not to drive."
 pubDate: "2026-07-20"
 related:
@@ -106,7 +106,7 @@ within a day or two, and if the clicking is still there a week later the
 "just a pebble" theory no longer works — time for a lift.
 
 If you could not find the source by eye and the sound is only audible on
-the move, record it in the Stuk app while driving through a quiet
+the move, record it in the Pro-Stuk app while driving through a quiet
 courtyard with the window down. The app matches the recording with your
 answers about speed and the reaction to the brakes and shows the likely
 causes with percentages — and suggests which wheel to inspect first.

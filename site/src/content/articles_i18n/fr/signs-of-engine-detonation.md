@@ -1,6 +1,6 @@
 ---
 title: "Les signes de détonation du moteur"
-metaTitle: "Détonation moteur : les signes du cliquetis | Stuk"
+metaTitle: "Détonation moteur : les signes du cliquetis | Pro-Stuk"
 description: "Reconnaître la détonation du moteur : cliquetis à l'accélération, perte de puissance, consommation en hausse. Les causes, du carburant à la calamine."
 faq:
   - q: "Comment distinguer au son la détonation d'un claquement de bielle ?"
@@ -148,7 +148,7 @@ Chacune de ces étapes coûte incomparablement moins que les conséquences :
 des pistons et des segments abîmés, c'est une réfection.
 
 Si vous ne savez pas s'il s'agit de détonation ou d'un cognement
-mécanique, enregistrez une accélération dans l'application Stuk. Elle
+mécanique, enregistrez une accélération dans l'application Pro-Stuk. Elle
 recoupe l'enregistrement avec des bruits moteur typiques, pose quelques
 questions de précision et affiche les causes probables avec un niveau
 d'urgence — avec cela en main, la conversation à l'atelier est plus courte

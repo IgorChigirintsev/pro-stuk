@@ -1,6 +1,6 @@
 ---
 title: "Direction assistée qui siffle en virage : les causes"
-metaTitle: "Direction assistée qui siffle en virage | Stuk"
+metaTitle: "Direction assistée qui siffle en virage | Pro-Stuk"
 description: "Pourquoi une direction assistée hydraulique siffle en virage : niveau de fluide, air dans le circuit, pompe, courroie. Distinguer le normal de l'usure et par quoi commencer."
 faq:
   - q: "Ça ne siffle qu'en butée de braquage. Est-ce une panne ?"
@@ -138,7 +138,7 @@ dans le bocal sous un jour ou deux, pas comme quelque chose « à
 surveiller pendant un mois ».
 
 Si vous n'êtes pas sûr qu'il s'agisse de la direction assistée,
-enregistrez le son dans l'application Stuk en tournant le volant.
+enregistrez le son dans l'application Pro-Stuk en tournant le volant.
 L'application confronte l'enregistrement à vos réponses sur les
 conditions d'apparition et affiche les causes probables avec un niveau
 d'urgence.

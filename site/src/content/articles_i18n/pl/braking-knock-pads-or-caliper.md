@@ -1,7 +1,7 @@
 ---
-title: "Stuk przy hamowaniu: klocki czy zacisk"
-metaTitle: "Stuk przy hamowaniu: klocki czy zacisk | Stuk"
-description: "Stuk po naciśnięciu pedału bierze się i z ruchu klocka, i z luzu zacisku. Jak rozróżnić te dwie przyczyny po charakterze dźwięku."
+title: "Pro-Stuk przy hamowaniu: klocki czy zacisk"
+metaTitle: "Pro-Stuk przy hamowaniu: klocki czy zacisk | Pro-Stuk"
+description: "Pro-Stuk po naciśnięciu pedału bierze się i z ruchu klocka, i z luzu zacisku. Jak rozróżnić te dwie przyczyny po charakterze dźwięku."
 faq:
   - q: "Dlaczego stuk słychać tylko przy pierwszym hamowaniu?"
     a: "Klocek ma w jarzmie luz montażowy i przesuwa się w nim przy zmianie kierunku jazdy, uderzając o swoje gniazdo. Pierwsze hamowanie po ruszeniu to właśnie ten moment, więc pojedyncze kliknięcie albo stuknięcie jest typowe i zwykle nieszkodliwe."
@@ -92,7 +92,7 @@ jednorazowa, a odkręcająca się śruba to dokładnie ta wersja usterki,
 która naprawdę ma znaczenie.
 
 Stuki hamulcowe rzadko udaje się powtórzyć na życzenie w warsztacie.
-Proszę nagrać dźwięk w aplikacji Stuk dwa razy — przy pierwszym hamowaniu
+Proszę nagrać dźwięk w aplikacji Pro-Stuk dwa razy — przy pierwszym hamowaniu
 po ruszeniu i podczas spokojnego zatrzymywania z 60 km/h. Z różnicy
 między nagraniami aplikacja pokaże prawdopodobne przyczyny z procentami i
 podpowie, którą część obejrzeć w pierwszej kolejności.

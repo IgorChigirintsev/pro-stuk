@@ -1,6 +1,6 @@
 ---
 title: "Vibración: equilibrado o suspensión"
-metaTitle: "Vibración a velocidad: equilibrado o suspensión | Stuk"
+metaTitle: "Vibración a velocidad: equilibrado o suspensión | Pro-Stuk"
 description: "La vibración en el volante y la carrocería viene tanto del desequilibrio de las ruedas como de la suspensión gastada. Cómo separar las versiones por velocidad y condiciones."
 faq:
   - q: "¿A qué velocidad se manifiesta el desequilibrio de rueda?"
@@ -101,7 +101,7 @@ opción, y un taller que lo haga igualmente le está vendiendo un disco que se
 volverá a deformar en unos meses.
 
 La vibración es difícil de describir con palabras, pero se graba bien: haga
-grabaciones cortas con la aplicación Stuk a velocidad constante, frenando y
+grabaciones cortas con la aplicación Pro-Stuk a velocidad constante, frenando y
 pasando baches. La aplicación las cruza con sus respuestas a unas pocas
 preguntas y muestra las causas probables con porcentajes, de modo que en el
 taller usted nombre las condiciones y no solo el hecho del temblor.

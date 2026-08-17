@@ -1,6 +1,6 @@
 ---
 title: "Sinais de entrada de ar falso na admissão"
-metaTitle: "Ar falso na admissão: sinais e como achar | Stuk"
+metaTitle: "Ar falso na admissão: sinais e como achar | Pro-Stuk"
 description: "Marcha lenta oscilando, assobio ou chiado no cofre, mistura pobre e correções de combustível — como reconhecer entrada de ar falso na admissão."
 faq:
   - q: "Por que ar falso faz a marcha lenta oscilar?"
@@ -102,7 +102,7 @@ hora é o que faz a marcha lenta parar de oscilar depois que a fresta em si
 foi resolvida.
 
 Se dá para ouvir um chiado no cofre mas você não consegue localizar de
-ouvido, grave o som no aplicativo Stuk em marcha lenta e depois com o giro
+ouvido, grave o som no aplicativo Pro-Stuk em marcha lenta e depois com o giro
 um pouco levantado. O app cruza a gravação com as suas respostas sobre como
 a marcha lenta se comporta e mostra as causas prováveis com porcentagens —
 com essa lista fica mais fácil pedir teste de fumaça em vez de troca de

@@ -1,6 +1,6 @@
 ---
 title: "Kloppende stabilisatorstangen: hoe u ze controleert"
-metaTitle: "Kloppende stabilisatorstangen controleren | Stuk"
+metaTitle: "Kloppende stabilisatorstangen controleren | Pro-Stuk"
 description: "Rammelen over kleine oneffenheden is de meest voorkomende klacht over stabilisatorstangen. Hoe u ze in tien minuten met de hand controleert zonder te veel te betalen."
 faq:
   - q: "Hoe onderscheid ik het kloppen van een stabilisatorstang van de rest?"

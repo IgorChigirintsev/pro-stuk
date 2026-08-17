@@ -1,6 +1,6 @@
 ---
 title: "Hydraulische klepstoters tikken bij koude start: normaal of niet"
-metaTitle: "Klepstoters tikken koud: normaal of niet | Stuk"
+metaTitle: "Klepstoters tikken koud: normaal of niet | Pro-Stuk"
 description: "Waarom hydraulische klepstoters tikken na een koude start, hoeveel seconden nog normaal is, en wanneer olie of de stoters zelf toe zijn aan vervanging."
 faq:
   - q: "Hoeveel seconden tikken van de klepstoters is normaal?"

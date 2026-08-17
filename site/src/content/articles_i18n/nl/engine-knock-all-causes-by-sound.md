@@ -1,6 +1,6 @@
 ---
 title: "Kloppen in de motor: alle oorzaken op geluid"
-metaTitle: "Kloppen in de motor: alle oorzaken op geluid | Stuk"
+metaTitle: "Kloppen in de motor: alle oorzaken op geluid | Pro-Stuk"
 description: "Een kaart van motorgeluiden op karakter: tikken, klikken, rinkelen, doffe bonken. Wat elk geluid betekent en hoe dringend het is om er iets aan te doen."
 faq:
   - q: "Kun je de oorzaak precies vaststellen op alleen het geluid?"

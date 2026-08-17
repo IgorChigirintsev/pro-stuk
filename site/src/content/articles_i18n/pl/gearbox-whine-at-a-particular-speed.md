@@ -1,6 +1,6 @@
 ---
 title: "Wycie skrzyni biegów przy określonej prędkości"
-metaTitle: "Wycie skrzyni biegów przy określonej prędkości | Stuk"
+metaTitle: "Wycie skrzyni biegów przy określonej prędkości | Pro-Stuk"
 description: "Wycie pojawiające się w wąskim zakresie prędkości i zmieniające się z gazem zwykle pochodzi ze skrzyni albo przekładni głównej. Jak je rozpoznać."
 faq:
   - q: "Dlaczego wycie słychać tylko przy 60–80 km/h, a wyżej znika?"
@@ -100,7 +100,7 @@ zamienne, a niewłaściwy modyfikator tarcia daje dokładnie ten hałas, który
 chciało się wyleczyć.
 
 Jeśli wycie jest ciche i nie ma pewności, czy pochodzi ze skrzyni, czy z
-kół, nagraj je w aplikacji Stuk dokładnie przy tej prędkości, przy której
+kół, nagraj je w aplikacji Pro-Stuk dokładnie przy tej prędkości, przy której
 jest najwyraźniejsze, a potem powtórz nagranie na innym biegu. Aplikacja
 porównuje oba nagrania z odpowiedziami i pokazuje prawdopodobne przyczyny
 w procentach.

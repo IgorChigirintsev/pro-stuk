@@ -1,6 +1,6 @@
 ---
 title: "Susurro de la cadena de distribución: cómo suena"
-metaTitle: "Susurro de cadena: cómo suena y qué riesgo tiene | Stuk"
+metaTitle: "Susurro de cadena: cómo suena y qué riesgo tiene | Pro-Stuk"
 description: "Cómo suena una cadena de distribución estirada, cuándo un susurro tras arrancar es normal y cuándo toca taller. Las fases del desgaste y el riesgo de salto."
 faq:
   - q: "¿Cuántos segundos de susurro tras arrancar son normales?"
@@ -134,6 +134,6 @@ señales de desgaste están en
 preguntar si va incluida evita hacer dos veces el mismo desmontaje.
 
 ¿No está seguro de que lo que oye sea la cadena? Grabe el motor con el
-capó abierto en la aplicación Stuk: cruza la grabación con sonidos
+capó abierto en la aplicación Pro-Stuk: cruza la grabación con sonidos
 típicos de avería y muestra las causas probables con un nivel de
 urgencia.

@@ -1,6 +1,6 @@
 ---
 title: "Kliknięcia rozrusznika bez rozruchu"
-metaTitle: "Rozrusznik klika, ale nie kręci: przyczyny | Stuk"
+metaTitle: "Rozrusznik klika, ale nie kręci: przyczyny | Pro-Stuk"
 description: "Po kluczyku słychać kliknięcie albo terkotanie, a silnik nie rusza. Co znaczy pojedynczy klik, a co seria, i jak odróżnić akumulator od rozrusznika."
 faq:
   - q: "Czym różni się pojedyncze kliknięcie od szybkiego terkotania?"
@@ -92,7 +92,7 @@ Inne dźwięki spod maski przy rozruchu zebrano na stronie objawu
 [pisk przy rozruchu](/pl/symptoms/squeal-on-startup/).
 
 Jeśli kliknięcia pojawiają się i znikają, a w warsztacie auto podstępnie
-odpala za pierwszym razem, nagraj próbę rozruchu w aplikacji Stuk.
+odpala za pierwszym razem, nagraj próbę rozruchu w aplikacji Pro-Stuk.
 Aplikacja zestawia charakter kliknięć z Twoimi odpowiedziami o
 zachowaniu wskaźników i podpowiada, co pokazać mechanikowi — akumulator,
 instalację czy rozrusznik.

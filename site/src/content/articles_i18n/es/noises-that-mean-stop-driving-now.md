@@ -1,6 +1,6 @@
 ---
 title: "Ruidos que obligan a parar de inmediato"
-metaTitle: "Ruidos del coche que obligan a parar ya | Stuk"
+metaTitle: "Ruidos del coche que obligan a parar ya | Pro-Stuk"
 description: "Casi todos los ruidos del coche pueden esperar al taller, pero unos pocos significan apagar el motor ahora. Las señales, cómo parar con seguridad y qué hacer luego."
 faq:
   - q: "¿Cómo sé que un ruido obliga a parar ya mismo?"
@@ -96,7 +96,7 @@ no hay prisa: esas cosas se buscan con calma, con el coche parado y un
 acompañante presionando los embellecedores.
 
 Cuando no tenga claro a qué categoría pertenece lo que ha oído, grabe el
-sonido en la aplicación Stuk antes de arrancar. La aplicación cruza la
+sonido en la aplicación Pro-Stuk antes de arrancar. La aplicación cruza la
 grabación con sus respuestas a unas preguntas y muestra las causas
 probables con porcentajes: suele bastar para decidir entre seguir
 conduciendo y esperar a la grúa.

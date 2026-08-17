@@ -1,7 +1,7 @@
 ---
 ru: "stuk-pri-tormozhenii-v-pedal"
 title: "A knock felt through the brake pedal"
-metaTitle: "A knock felt through the brake pedal: causes | Stuk"
+metaTitle: "A knock felt through the brake pedal: causes | Pro-Stuk"
 description: "Knocking and feedback through the brake pedal can be normal ABS operation, or play in the caliper or the running gear. How to tell them apart."
 pubDate: "2026-07-21"
 related:
@@ -108,6 +108,6 @@ because it is what stops the pad moving in the first place.
 
 Telling by ear whether a caliper or a control arm is knocking is hard even
 for an experienced driver: the sound arrives through the body and loses
-its address. A recording made in the Stuk app during a series of stops,
+its address. A recording made in the Pro-Stuk app during a series of stops,
 together with answers to short questions, gives a list of likely causes
 with percentages.

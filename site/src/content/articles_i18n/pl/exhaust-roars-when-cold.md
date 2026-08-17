@@ -1,6 +1,6 @@
 ---
 title: "Wydech ryczy na zimno"
-metaTitle: "Wydech ryczy na zimno: przyczyny i naprawa | Stuk"
+metaTitle: "Wydech ryczy na zimno: przyczyny i naprawa | Pro-Stuk"
 description: "Dlaczego wydech ryczy po zimnym rozruchu i cichnie po nagrzaniu: uszczelka kolektora, pęknięcia, elastyczna wstawka. Próby i decyzja o naprawie."
 faq:
   - q: "Dlaczego ryk jest tylko na zimno i znika po nagrzaniu?"
@@ -72,7 +72,7 @@ węża ogrodowego, jednym końcem przy uchu, drugim przy podejrzanych
 miejscach układu (wyłącznie na zimnym silniku), działa jak stetoskop i
 namierza nieszczelność z dokładnością do centymetrów.
 
-Jeden niuans: zimny silnik daje nie tylko ryk wydechu. Stuk w pierwszych
+Jeden niuans: zimny silnik daje nie tylko ryk wydechu. Pro-Stuk w pierwszych
 sekundach po rozruchu może pochodzić z samego silnika — od popychaczy po
 łańcuch rozrządu; sobowtóry zebrano na stronie
 [stuk silnika na zimno](/pl/symptoms/engine-knock-when-cold/).
@@ -108,7 +108,7 @@ porze, zawsze jest łatwiejsza: osprzętowanie jeszcze się odkręca, zamiast
 być wycinane razem z zapieczonymi śrubami.
 
 Jeżeli nie wiadomo, skąd dokładnie bierze się ryk, proszę nagrać zimny
-rozruch w aplikacji Stuk: zestawia ona nagranie z odpowiedziami o tym,
+rozruch w aplikacji Pro-Stuk: zestawia ona nagranie z odpowiedziami o tym,
 kiedy dźwięk się pojawia i kiedy gaśnie, i pokazuje prawdopodobne przyczyny
 wraz z poziomem pilności — do warsztatu przyjeżdża się wtedy z roboczą
 hipotezą, a nie z „coś rano ryczy”.

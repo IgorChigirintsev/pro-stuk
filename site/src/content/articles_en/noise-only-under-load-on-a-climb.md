@@ -1,7 +1,7 @@
 ---
 ru: "zvuk-pod-nagruzkoj-v-gorku"
 title: "A noise that only appears under load on a climb"
-metaTitle: "A noise only on a climb under load: causes | Stuk"
+metaTitle: "A noise only on a climb under load: causes | Pro-Stuk"
 description: "Why a stray noise is only heard on a climb under power, which parts behave that way, and how to tell the belt from a CV joint and detonation."
 pubDate: "2026-07-28"
 related:
@@ -109,7 +109,7 @@ things that let an engine detonate silently, and neither shows up on a
 test drive.
 
 Catching such a sound on a voice recorder is hard: it only lives at the
-moment of maximum load, when you are busy driving. The Stuk app records in
+moment of maximum load, when you are busy driving. The Pro-Stuk app records in
 the background — start it before the climb, drive the section as usual and
 stop at the top. Analysing the recording together with your answers to a
 few questions shows which part is speaking up under power.

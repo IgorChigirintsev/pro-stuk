@@ -1,6 +1,6 @@
 ---
 title: "Ein Fahrwerksklopfen ohne Hebebühne finden"
-metaTitle: "Fahrwerksklopfen ohne Hebebühne finden | Stuk"
+metaTitle: "Fahrwerksklopfen ohne Hebebühne finden | Pro-Stuk"
 description: "Ein Plan Schritt für Schritt, um ein Fahrwerksklopfen ohne Grube und Hebebühne zu orten: Klangbild, Wipptest, Prüfungen von Hand und eine gezielte Fahrt."
 faq:
   - q: "Findet man die Quelle wirklich ohne Grube oder Hebebühne?"

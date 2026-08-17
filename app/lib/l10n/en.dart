@@ -2,7 +2,7 @@
 const Map<String, String> en = {
   'hiwBody':
       '\n1. Questions. A short questionnaire narrows down the causes: when you hear the noise, what it sounds like, what it depends on. This is the main source of the diagnosis — a mechanic starts the same way.\n\n2. Sound. A 15–30 second recording goes to the server. Algorithms measure the spectrum, the rhythm of the knocks and the engine speed, and a language model matches all of it against your answers and the known weak spots of your model.\n\n3. Report. Likely causes with percentages, an urgency traffic light and prompts: what to tell the shop and what you can check yourself.\n\nThe result is a probability estimate, not a diagnosis. Accuracy depends on the quality of the recording and how honest the answers are. The final repair decision is made by a mechanic after an inspection.',
-  'appName': 'Stuk',
+  'appName': 'Pro-Stuk',
   'appTagline': 'diagnosis by sound',
   'carTitle': 'What car do you drive?',
   'carSubtitle':
@@ -115,7 +115,7 @@ const Map<String, String> en = {
   'histEmpty': 'Empty for now — your first analysis will appear here.',
   'histFull': 'sound analysis',
   'histQuick': 'quick verdict',
-  'shareText': 'Sound analysis — the Stuk app, pro-stuk.com',
+  'shareText': 'Sound analysis — the Pro-Stuk app, pro-stuk.com',
   'langTitle': 'Language',
   'langHint':
       'Defaults to your device language. Anything not translated yet is shown in Russian.',

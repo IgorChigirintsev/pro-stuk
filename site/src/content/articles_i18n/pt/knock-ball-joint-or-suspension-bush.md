@@ -1,6 +1,6 @@
 ---
 title: "Barulho: pivô de suspensão ou bucha — como distinguir"
-metaTitle: "Barulho: pivô ou bucha da bandeja? Como saber | Stuk"
+metaTitle: "Barulho: pivô ou bucha da bandeja? Como saber | Pro-Stuk"
 description: "Barulho de suspensão em ondulações: como diferenciar pivô gasto de bucha detonada pelo caráter do som, testes simples e conferência no elevador."
 faq:
   - q: "Como o barulho de pivô difere do de bucha só de ouvido?"
@@ -137,7 +137,7 @@ sobre as rodas — apertadas com a suspensão pendurada, a borracha vive
 torcida e rasga em poucos meses.
 
 Se o barulho já está aí e você não tem certeza, grave o som no aplicativo
-Stuk. Ele cruza a gravação com as suas respostas sobre quando bate — em
+Pro-Stuk. Ele cruza a gravação com as suas respostas sobre quando bate — em
 ondulações, na frenagem ou nas curvas — e mostra as causas prováveis com um
 nível de urgência. Com isso dá para ir à oficina e pedir a conferência de
 peças específicas em vez de procurar às cegas.

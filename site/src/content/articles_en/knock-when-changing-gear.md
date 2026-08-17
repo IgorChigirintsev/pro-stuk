@@ -1,7 +1,7 @@
 ---
 ru: "stuk-pri-pereklyuchenii-peredach"
 title: "A knock when changing gear"
-metaTitle: "A knock when changing gear: the causes | Stuk"
+metaTitle: "A knock when changing gear: the causes | Pro-Stuk"
 description: "A knock at the moment of a gear change comes from linkage play, worn engine mounts and driveshaft joints. How to separate the causes."
 pubDate: "2026-07-22"
 related:
@@ -94,7 +94,7 @@ single-use stretch bolts, which many are: reusing them is a known reason a
 fresh mount tears again within months.
 
 If the knock is still occasional and you are unsure whether it comes from
-under the bonnet or under the floor, record it in the Stuk app during a
+under the bonnet or under the floor, record it in the Pro-Stuk app during a
 throttle blip and while pulling away. The app matches the recording with
 your answers and shows the likely causes with percentages — which makes
 the conversation at a workshop noticeably shorter.

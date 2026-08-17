@@ -1,6 +1,6 @@
 ---
 title: "Wie Pleuellagerklopfen klingt"
-metaTitle: "Wie Pleuellagerklopfen klingt | Stuk"
+metaTitle: "Wie Pleuellagerklopfen klingt | Pro-Stuk"
 description: "Ein hartes metallisches Klopfen aus der Mitte des Blocks, das unter Last wächst: wie verschlissene Pleuellager klingen, wie sie geortet werden und was droht."
 faq:
   - q: "Kann ich mit Pleuellagerklopfen auf eigener Achse in die Werkstatt fahren?"

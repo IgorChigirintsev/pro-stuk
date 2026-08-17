@@ -1,6 +1,6 @@
 ---
 title: "Klopfen nach dem Reifenwechsel: was zu prüfen ist"
-metaTitle: "Klopfen nach dem Reifenwechsel: Ursachen | Stuk"
+metaTitle: "Klopfen nach dem Reifenwechsel: Ursachen | Pro-Stuk"
 description: "Woher ein Klopfen nach dem Reifenwechsel kommt: Anzugsmoment, Auswuchtgewichte, Steine im Profil, eine verzogene Felge. Was Sie selbst prüfen."
 faq:
   - q: "Warum die Räder nach 50–100 km nachziehen?"

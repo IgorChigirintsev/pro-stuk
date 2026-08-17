@@ -1,6 +1,6 @@
 ---
 title: "Ruído de câmbio Lada: zumbido da quinta marcha"
-metaTitle: "Ruído de câmbio Lada: zumbido da quinta | Stuk"
+metaTitle: "Ruído de câmbio Lada: zumbido da quinta | Pro-Stuk"
 description: "Zumbido em quinta no câmbio Lada: por que a marcha mais alta é a que vai embora, como separar ruído de câmbio de rolamento e o que conferir."
 faq:
   - q: "Por que é justamente a quinta que zumbe?"
@@ -96,7 +96,7 @@ Onde fica a linha entre «pode rodar» e «pare» está em
 [dá para rodar com câmbio zumbindo?](/pt/articles/can-you-drive-with-a-whining-gearbox/).
 
 Para não ficar chutando entre câmbio e cubo, grave o som no aplicativo
-Stuk duas vezes: sob carga em quinta e em ponto morto na mesma velocidade.
+Pro-Stuk duas vezes: sob carga em quinta e em ponto morto na mesma velocidade.
 O app cruza as gravações com as suas respostas e mostra as causas prováveis
 com porcentagens — o suficiente para chegar à oficina com uma pergunta
 específica em vez de «alguma coisa está zumbindo».

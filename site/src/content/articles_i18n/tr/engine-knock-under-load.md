@@ -1,6 +1,6 @@
 ---
 title: "Yük altında motorda vuruntu"
-metaTitle: "Yük altında motor vuruntusu: sebep ve tehlike | Stuk"
+metaTitle: "Yük altında motor vuruntusu: sebep ve tehlike | Pro-Stuk"
 description: "Yük altında vuruntu: detonasyon yatak vuruntusundan nasıl ayrılır, triger zinciri işin neresinde ve yola devam etmek ne zaman tehlikeli olur."
 faq:
   - q: "Detonasyonu yatak vuruntusundan nasıl ayırırım?"
@@ -137,7 +137,7 @@ zincirin dövdüğü plastik parçalar onlardır.
 geç teşhis arasındaki farktır; o yüzden yük altındaki vuruntunun üzerine
 oturulmaz.
 
-Hangi senaryoya benzediğinizden emin değilseniz, hızlanma sesini Stuk
+Hangi senaryoya benzediğinizden emin değilseniz, hızlanma sesini Pro-Stuk
 uygulamasıyla kaydedin: uygulama kaydı tipik vuruntularla karşılaştırır, birkaç
 netleştirici soru sorar ve olası sebepleri aciliyet düzeyiyle gösterir. Bunu
 evde hazırlayınca servis ziyareti daha hızlı geçer.

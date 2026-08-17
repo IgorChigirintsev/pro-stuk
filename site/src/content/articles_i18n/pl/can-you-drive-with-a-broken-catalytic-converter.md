@@ -1,6 +1,6 @@
 ---
 title: "Czy można jechać z rozsypanym katalizatorem"
-metaTitle: "Czy można jechać z rozsypanym katalizatorem? | Stuk"
+metaTitle: "Czy można jechać z rozsypanym katalizatorem? | Pro-Stuk"
 description: "Rozsypana ceramika katalizatora szeleści i dławi silnik. Kiedy da się dojechać do warsztatu, kiedy nie wolno i czym to grozi samemu silnikowi."
 faq:
   - q: "Jak brzmi rozsypany katalizator?"
@@ -98,7 +98,7 @@ nie przeszkadza jechać, ma Pan tygodnie; gdy tylko zaczyna wpływać na
 zachowanie samochodu, liczy się dni.
 
 Jeśli szelest dopiero się pojawił i chce Pan wiedzieć, czy to właśnie on,
-proszę nagrać dźwięk w aplikacji Stuk przy dodawaniu gazu i powtórzyć
+proszę nagrać dźwięk w aplikacji Pro-Stuk przy dodawaniu gazu i powtórzyć
 nagranie po krótkiej jeździe. Aplikacja zestawi nagrania z Pana
 odpowiedziami i pokaże prawdopodobne przyczyny z procentami — razem z
 podpowiedzią, czy to sprawa pilna, czy można spokojnie umówić się na jeden

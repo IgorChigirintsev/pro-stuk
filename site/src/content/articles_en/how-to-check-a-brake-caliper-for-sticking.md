@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-support-na-podklinivanie"
 title: "How to check a brake caliper for sticking"
-metaTitle: "How to check a brake caliper for sticking | Stuk"
+metaTitle: "How to check a brake caliper for sticking | Pro-Stuk"
 description: "The signs of a seized brake caliper: the coasting test, checking wheel temperature, pulling under braking and the smell. What a workshop does about it."
 pubDate: "2026-06-20"
 related:
@@ -110,7 +110,7 @@ wheel bearing and seal suffer as heat travels into the hub. A rebuild
 costs less than replacing disc, pads and caliper together later.
 
 If a new noise appeared alongside all this and you want to capture it
-before the visit, start a recording in the Stuk app and drive a test lap.
+before the visit, start a recording in the Pro-Stuk app and drive a test lap.
 The app matches the sound with your answers about the conditions and shows
 the likely causes with percentages — and the recording stays with the
 mechanic instead of a verbal description.

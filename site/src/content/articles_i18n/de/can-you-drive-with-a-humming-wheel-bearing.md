@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit brummendem Radlager fahren"
-metaTitle: "Mit brummendem Radlager fahren? | Stuk"
+metaTitle: "Mit brummendem Radlager fahren? | Pro-Stuk"
 description: "Wie weit man mit brummendem Radlager fahren kann, was jedes Verschleißstadium riskiert und wie das Risiko unterwegs kleiner wird."
 faq:
   - q: "Wie viele Kilometer kann ich mit brummendem Lager fahren?"

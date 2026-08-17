@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein verschlissenes inneres Gleichlaufgelenk"
-metaTitle: "Inneres Gleichlaufgelenk verschlissen: Zeichen | Stuk"
+metaTitle: "Inneres Gleichlaufgelenk verschlissen: Zeichen | Pro-Stuk"
 description: "Ein inneres Gleichlaufgelenk klickt nicht in Kurven — es schlägt beim Beschleunigen und vibriert. Symptome, Abgrenzung zum äußeren Gelenk und Reparatur."
 faq:
   - q: "Wie unterscheidet sich das innere Gleichlaufgelenk vom äußeren im Klang?"

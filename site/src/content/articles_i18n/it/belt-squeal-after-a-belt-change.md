@@ -1,6 +1,6 @@
 ---
 title: "Fischio dopo il cambio della cinghia: perché e cosa fare"
-metaTitle: "Fischio dopo il cambio cinghia: cause | Stuk"
+metaTitle: "Fischio dopo il cambio cinghia: cause | Pro-Stuk"
 description: "La cinghia è stata sostituita ma il fischio è rimasto o è tornato: errori di tensione, disallineamento, rulli, ruota libera. Come trovare la causa."
 faq:
   - q: "Una cinghia nuova fischia nei primi giorni: è normale?"
@@ -129,7 +129,7 @@ trovata per prima: una cinghia nuova montata sopra una perdita non
 risolta sono soldi spesi due volte.
 
 Se vuole arrivare con una teoria già pronta, registri il rumore con l'app
-Stuk: confronta la registrazione con i casi tipici, tiene conto delle sue
+Pro-Stuk: confronta la registrazione con i casi tipici, tiene conto delle sue
 risposte su quando compare il fischio e mostra le cause probabili con un
 livello di urgenza, il che rende più facile distinguere una questione di
 garanzia da un lavoro nuovo.

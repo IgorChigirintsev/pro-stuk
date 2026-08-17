@@ -1,6 +1,6 @@
 ---
 title: "Bruit de boîte Lada : le hurlement de cinquième"
-metaTitle: "Boîte Lada : le hurlement de cinquième expliqué | Stuk"
+metaTitle: "Boîte Lada : le hurlement de cinquième expliqué | Pro-Stuk"
 description: "Un hurlement en cinquième sur une boîte Lada : pourquoi c'est le rapport le plus haut qui lâche et comment le distinguer d'un roulement de roue."
 faq:
   - q: "Pourquoi est-ce la cinquième qui hurle ?"
@@ -98,7 +98,7 @@ roulements après coup. Où passe la limite entre « roulez encore » et
 [peut-on rouler avec une boîte qui hurle](/fr/articles/can-you-drive-with-a-whining-gearbox/).
 
 Pour éviter de deviner entre boîte et moyeu, enregistrez le son deux fois
-dans l'application Stuk : en charge en cinquième, puis en roue libre au
+dans l'application Pro-Stuk : en charge en cinquième, puis en roue libre au
 point mort à la même vitesse. L'application croise les enregistrements
 avec vos réponses et affiche les causes probables avec leurs pourcentages
 — assez pour arriver au garage avec une question précise plutôt qu'avec

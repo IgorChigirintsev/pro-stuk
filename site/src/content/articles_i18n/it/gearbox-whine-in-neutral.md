@@ -1,6 +1,6 @@
 ---
 title: "Ronzio del cambio in folle"
-metaTitle: "Ronzio del cambio in folle: cause e verifiche | Stuk"
+metaTitle: "Ronzio del cambio in folle: cause e verifiche | Pro-Stuk"
 description: "Un ronzio in folle a frizione rilasciata punta di solito al cuscinetto dell’albero primario o al livello dell’olio. Come distinguerlo con una prova sul pedale."
 faq:
   - q: "Il ronzio in folle sparisce quando premo la frizione. Cosa significa?"
@@ -100,7 +100,7 @@ sbriciolando. Le conseguenze del rimandare sono raccolte in
 [si può guidare con il cambio che ronza](/it/articles/can-you-drive-with-a-whining-gearbox/).
 
 Se il ronzio è debole e non siete sicuri che segua il pedale,
-registratelo nell’app Stuk in entrambi gli stati: frizione rilasciata e
+registratelo nell’app Pro-Stuk in entrambi gli stati: frizione rilasciata e
 frizione premuta. L’app confronta le registrazioni con le vostre risposte
 e mostra le cause probabili in percentuale, insieme a cosa controllare
 prima di andare in officina.

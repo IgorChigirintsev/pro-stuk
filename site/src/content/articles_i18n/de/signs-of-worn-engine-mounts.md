@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Motorlager"
-metaTitle: "Motorlager verschlissen: Vibration und Schläge | Stuk"
+metaTitle: "Motorlager verschlissen: Vibration und Schläge | Pro-Stuk"
 description: "Vibration im Leerlauf, ein Ruck beim Einlegen des Gangs, ein Schlag beim Beschleunigen: so erkennen Sie tote Motorlager und was die Reparatur bestimmt."
 faq:
   - q: "Wie viele Lager hat ein Motor?"

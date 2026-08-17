@@ -1,6 +1,6 @@
 ---
 title: "Le bruit d'un coussinet de bielle qui cogne"
-metaTitle: "Le bruit d'un coussinet de bielle qui cogne | Stuk"
+metaTitle: "Le bruit d'un coussinet de bielle qui cogne | Pro-Stuk"
 description: "Un cognement métallique dur venant du milieu du bloc et qui grossit sous charge : comment sonnent des coussinets de bielle usés, comment on les localise et ce qu'ils menacent."
 faq:
   - q: "Peut-on rejoindre l'atelier par ses propres moyens avec un cognement de bielle ?"
@@ -131,7 +131,7 @@ pression au sérieux.
 
 Si le son vient juste d'apparaître et que vous n'êtes pas sûr qu'il vienne
 du fond du bloc, enregistrez un bref coup d'accélérateur au point mort
-dans l'application Stuk. L'application confronte l'enregistrement à vos
+dans l'application Pro-Stuk. L'application confronte l'enregistrement à vos
 réponses sur les conditions et affiche les causes probables avec leur
 pourcentage — et vous dit s'il faut seulement démarrer le moteur avant un
 diagnostic.

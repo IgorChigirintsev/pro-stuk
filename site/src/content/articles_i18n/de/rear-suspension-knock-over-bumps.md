@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Hinterachsfahrwerk auf Unebenheiten"
-metaTitle: "Klopfen hinten auf Unebenheiten: Ursachen | Stuk"
+metaTitle: "Klopfen hinten auf Unebenheiten: Ursachen | Pro-Stuk"
 description: "Was hinten auf Unebenheiten klopft: Dämpfer, Achsbuchsen, Federn oder Gepäck im Kofferraum. Prüfungen ohne Bühne und wie die Reparatur gewählt wird."
 faq:
   - q: "Warum ist ein Klopfen hinten so schwer zu orten?"

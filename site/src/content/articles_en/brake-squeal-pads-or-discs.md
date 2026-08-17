@@ -1,7 +1,7 @@
 ---
 ru: "skrip-kolodki-ili-diski"
 title: "Brake squeal: pads or discs"
-metaTitle: "Brake squeal: pads or discs — telling them apart | Stuk"
+metaTitle: "Brake squeal: pads or discs — telling them apart | Pro-Stuk"
 description: "Brakes squeal because of the pads and because of the discs. How the conditions in which the sound appears tell you which one to replace."
 pubDate: "2026-06-12"
 related:
@@ -101,7 +101,7 @@ goes in with the pads: shims, springs and the correct high-temperature
 grease are what stop a fresh set squealing from day one.
 
 If the sound does not appear every time and is hard to catch on the ramp,
-record it in the Stuk app while driving — with and without the pedal. The
+record it in the Pro-Stuk app while driving — with and without the pedal. The
 app matches the recording with the conditions in which it appears and
 shows the likely causes with percentages, so the conversation with a
 mechanic starts from facts.

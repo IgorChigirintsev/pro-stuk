@@ -1,6 +1,6 @@
 ---
 title: "Brommende versnellingsbak in de vrijstand"
-metaTitle: "Bak bromt in de vrijstand: oorzaken | Stuk"
+metaTitle: "Bak bromt in de vrijstand: oorzaken | Pro-Stuk"
 description: "Gebrom in de vrijstand met de koppeling omhoog wijst meestal op het lager van de ingaande as of het oliepeil. Onderscheid het van het druklager met één pedaaltest."
 faq:
   - q: "Het gebrom in de vrijstand verdwijnt als ik de koppeling intrap. Wat betekent dat?"

@@ -1,6 +1,6 @@
 ---
 title: "Cliquetis du G4FC sur Solaris et Rio : normal ou rayures"
-metaTitle: "Cliquetis du G4FC : normal ou rayures de cylindre | Stuk"
+metaTitle: "Cliquetis du G4FC : normal ou rayures de cylindre | Pro-Stuk"
 description: "Le G4FC cliquette au ralenti : où s'arrête le crépitement normal des injecteurs et où commence le son inquiétant. Séparer le normal des rayures."
 faq:
   - q: "Un cliquetis sur un G4FC est-il normal ?"
@@ -96,7 +96,7 @@ impressions ne valent rien. Et une inspection à l'endoscope pèse peu face
 à tout ce qu'elle permet d'écarter : demandez donc les photos des
 cylindres plutôt qu'un verdict oral.
 
-L'application Stuk aide pour la première étape : enregistrez le cliquetis
+L'application Pro-Stuk aide pour la première étape : enregistrez le cliquetis
 moteur froid puis moteur chaud, répondez à quelques questions sur la
 charge et la consommation d'huile, et obtenez une liste de causes
 probables avec leurs pourcentages. Elle ne remplace pas un test de

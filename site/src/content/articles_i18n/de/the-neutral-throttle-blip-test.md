@@ -1,6 +1,6 @@
 ---
 title: "Der Gastest in Neutral: was er zeigt"
-metaTitle: "Der Gastest in Neutral: was er zeigt | Stuk"
+metaTitle: "Der Gastest in Neutral: was er zeigt | Pro-Stuk"
 description: "Was das Anheben der Drehzahl in Neutral verrät: wie Sie Motorgeräusche von Rad- und Getriebegeräuschen trennen und wie Sie den Test richtig durchführen."
 faq:
   - q: "Ist Gasgeben in Neutral schädlich?"

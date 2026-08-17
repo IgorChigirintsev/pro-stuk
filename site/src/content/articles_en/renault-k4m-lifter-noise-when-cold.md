@@ -1,7 +1,7 @@
 ---
 ru: "gidrokompensatory-k4m-renault-stuk-na-holodnuyu"
 title: "Renault K4M hydraulic lifters: ticking when cold"
-metaTitle: "Renault K4M lifter noise when cold: causes | Stuk"
+metaTitle: "Renault K4M lifter noise when cold: causes | Pro-Stuk"
 description: "The K4M engine ticks on a cold start: how hydraulic lifters work, why they rattle, when an oil change is enough and when the lifters themselves need replacing."
 pubDate: "2026-06-25"
 related:
@@ -94,7 +94,7 @@ months leaves marks on the lobe, and finding that out afterwards is the
 expensive way.
 
 To judge whether your ticking falls within normal, record the sound in the
-Stuk app right after a cold start and again on a warm engine. The app
+Pro-Stuk app right after a cold start and again on a warm engine. The app
 compares the recordings with your answers about mileage and the last oil
 change and shows the likely causes with percentages — along with a hint on
 whether to go to a workshop now or change the oil and listen again.

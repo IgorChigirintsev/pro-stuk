@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-neispravnosti-pompy"
 title: "Signs of a failing water pump"
-metaTitle: "Failing water pump: noise, leaks, overheating | Stuk"
+metaTitle: "Failing water pump: noise, leaks, overheating | Pro-Stuk"
 description: "Coolant leaks, a whining bearing, pulley play and overheating: the signs of a dying water pump by stage, simple checks and what the replacement involves."
 pubDate: "2026-08-02"
 related:
@@ -133,5 +133,5 @@ with a whining pump risks is set out in
 [can you drive with a whining water pump](/en/articles/can-you-drive-with-a-whining-water-pump/).
 
 Not sure whether it is the pump humming or something else on the belt?
-Record the sound in the Stuk app: it matches the recording with your
+Record the sound in the Pro-Stuk app: it matches the recording with your
 answers and shows the likely causes with an urgency rating.

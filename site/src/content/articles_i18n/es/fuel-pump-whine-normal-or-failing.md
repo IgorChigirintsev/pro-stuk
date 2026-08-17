@@ -1,6 +1,6 @@
 ---
 title: "Zumbido de la bomba de gasolina: ¿normal o a punto de fallar?"
-metaTitle: "Zumbido de la bomba de gasolina: ¿normal o fallo? | Stuk"
+metaTitle: "Zumbido de la bomba de gasolina: ¿normal o fallo? | Pro-Stuk"
 description: "Dónde está la línea entre el zumbido normal de una bomba de gasolina y el de una que se muere: qué señales son inofensivas y cuáles piden reacción rápida."
 faq:
   - q: "La bomba zumba un par de segundos al dar contacto. ¿Es normal?"
@@ -105,7 +105,7 @@ reserva, y cambie el filtro de combustible en el intervalo recomendado. Son
 las formas más baratas de alargar la vida de una bomba.
 
 Si no está seguro de si el sonido ha crecido de verdad o son imaginaciones,
-grábelo con la aplicación Stuk: al dar contacto y a ralentí. Dentro de un mes
+grábelo con la aplicación Pro-Stuk: al dar contacto y a ralentí. Dentro de un mes
 haga una segunda grabación en las mismas condiciones y compare: la aplicación
 las compara con sus respuestas y muestra si esto es fondo normal o una avería
 que se está desarrollando.

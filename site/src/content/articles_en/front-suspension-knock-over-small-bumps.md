@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-perednej-podveske-na-melkih-kochkah"
 title: "Front suspension knock over small bumps"
-metaTitle: "Front suspension knock over small bumps: causes | Stuk"
+metaTitle: "Front suspension knock over small bumps: causes | Pro-Stuk"
 description: "Why the front suspension knocks on small bumps specifically: anti-roll bar links, bushes, top mounts, track rod ends. How to narrow it down yourself."
 pubDate: "2026-08-02"
 related:
@@ -139,6 +139,6 @@ off": a knock masks the arrival of new faults, and a worn part accelerates
 the wear of its neighbours.
 
 If you want to arrive at the workshop with a theory ready, record the
-knock in the Stuk app: it matches the sound with your answers about when
+knock in the Pro-Stuk app: it matches the sound with your answers about when
 it appears and shows the likely causes with a level of urgency — the
 conversation with a mechanic becomes specific straight away.

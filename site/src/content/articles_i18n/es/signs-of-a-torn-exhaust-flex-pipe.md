@@ -1,6 +1,6 @@
 ---
 title: "Señales de un flexible de escape roto"
-metaTitle: "Flexible de escape roto: señales y arreglo | Stuk"
+metaTitle: "Flexible de escape roto: señales y arreglo | Pro-Stuk"
 description: "Un rugido repentino bajo los pies, vibración al ralentí y olor a escape dentro del coche: cómo reconocer un flexible de escape roto y qué implica la reparación."
 faq:
   - q: "¿Cuánto tiempo puedo circular con el flexible roto?"
@@ -97,7 +97,7 @@ enfría la soldadura: soldado con el escape tirado hacia un lado, el tramo
 nuevo empieza su vida ya precargado.
 
 Si ha aparecido el rugido pero no tiene claro si es el flexible o un tubo
-podrido, grabe el sonido con la aplicación Stuk al ralentí y subiendo
+podrido, grabe el sonido con la aplicación Pro-Stuk al ralentí y subiendo
 vueltas despacio. La aplicación cruza la grabación con sus respuestas
 sobre dónde suena más fuerte y cómo cambia, y le sugiere qué parte del
 sistema inspeccionar primero.

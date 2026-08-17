@@ -1,6 +1,6 @@
 ---
 title: "Amortisör aşınmasının belirtileri"
-metaTitle: "Aşınmış amortisör: 8 belirti | Stuk"
+metaTitle: "Aşınmış amortisör: 8 belirti | Pro-Stuk"
 description: "Amortisör aşınmasının sekiz belirtisi: salınma, öne dalma, tıkırtı, lastikte benek benek aşınma. Kendiniz nasıl kontrol edersiniz ve değişimde neler önemli."
 faq:
   - q: "Amortisör aşınmasını fark etmek neden zordur?"
@@ -126,6 +126,6 @@ ayrılır; uyumsuz bir çift ya da ağır bir araçta çok yumuşak bir yan sana
 ürünü, bir sezon içinde yine salınmaya başlar. Amortisörün araca ve kullanım
 şekline uyması, markadan daha önemlidir.
 
-Süspansiyon tıkırdıyor ve kaynak belli değilse, sesi Stuk uygulamasında
+Süspansiyon tıkırdıyor ve kaynak belli değilse, sesi Pro-Stuk uygulamasında
 kaydedin: kaydı, sesin ne zaman ve nasıl çıktığına dair cevaplarınızla
 eşleştirir ve olası nedenleri aciliyet derecesiyle gösterir.

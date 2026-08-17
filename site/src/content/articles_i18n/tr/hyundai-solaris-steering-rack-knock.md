@@ -1,6 +1,6 @@
 ---
 title: "Hyundai Solaris direksiyon kutusu tıkırtısı"
-metaTitle: "Hyundai Solaris direksiyon kutusu tıkırtısı | Stuk"
+metaTitle: "Hyundai Solaris direksiyon kutusu tıkırtısı | Pro-Stuk"
 description: "Hyundai Solaris'te küçük tümseklerde direksiyona vuran tıkırtı neden çıkar ve direksiyon kutusu rot başlarından, viraj demiri rotlarından nasıl ayrılır."
 faq:
   - q: "Kutuyu ayarlamak sorunu temelli çözer mi?"
@@ -99,7 +99,7 @@ direksiyona yapılan her müdahale rot balansla biter: atlarsanız ön
 lastikler birkaç bin kilometrede kenarlarından yenir.
 
 Tıkırtı her seferinde çıkmıyorsa ve serviste tekrarlanamıyorsa, ince
-tümsekler üzerinde giderken sesi Stuk uygulamasına kaydedin. Uygulama
+tümsekler üzerinde giderken sesi Pro-Stuk uygulamasına kaydedin. Uygulama
 kaydı cevaplarınızla karşılaştırır ve muhtemel sebepleri yüzdesiyle
 gösterir — bu da sizi «işte, bir tür tıkırdıyor» türünden bir konuşmadan
 kurtarır.

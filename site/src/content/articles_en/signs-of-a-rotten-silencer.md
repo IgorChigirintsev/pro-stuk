@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-progorevshego-glushitelya"
 title: "Signs of a rotten silencer"
-metaTitle: "Signs of a rotten silencer: how to tell | Stuk"
+metaTitle: "Signs of a rotten silencer: how to tell | Pro-Stuk"
 description: "The car has got louder, a rumble and popping come from under the floor, exhaust fumes reach the cabin — the signs of a rotten silencer and the repair."
 pubDate: "2026-06-08"
 related:
@@ -99,6 +99,6 @@ sound — a sagging system rubs the body and loads the seams, so a new box
 on old rubber rots ahead of its time.
 
 If you can hear that the car has got louder but cannot tell where the
-system has failed, record the sound in the Stuk app — at idle and while
+system has failed, record the sound in the Pro-Stuk app — at idle and while
 raising the revs smoothly. The app matches the recording with your answers
 and suggests which parts of the system to inspect first.

@@ -1,6 +1,6 @@
 ---
 title: "Un chirrido bajo el capó al arrancar"
-metaTitle: "Chirrido bajo el capó al arrancar: causas | Stuk"
+metaTitle: "Chirrido bajo el capó al arrancar: causas | Pro-Stuk"
 description: "Por qué aparece un chirrido bajo el capó en los primeros segundos tras arrancar: la correa, el tensor, los rodillos o la polea desacopladora del alternador."
 faq:
   - q: "¿Es peligroso un chirrido que se calla a los dos segundos de arrancar?"
@@ -142,5 +142,5 @@ muchos talleres hacen esa revisión sin cargo cuando se reserva la
 reparación.
 
 Si quiere entender la causa antes del viaje, grabe el chirrido en el
-momento del arranque con la aplicación Stuk: compara el sonido con sus
+momento del arranque con la aplicación Pro-Stuk: compara el sonido con sus
 respuestas y muestra las causas probables con un nivel de urgencia.

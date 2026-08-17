@@ -1,10 +1,10 @@
 ---
 title: "Objawy spalania stukowego w silniku"
-metaTitle: "Spalanie stukowe: objawy i rozpoznanie | Stuk"
+metaTitle: "Spalanie stukowe: objawy i rozpoznanie | Pro-Stuk"
 description: "Jak rozpoznać spalanie stukowe: dzwonienie przy przyspieszaniu, spadek mocy, rosnące spalanie. Przyczyny, od paliwa po nagar w komorach."
 faq:
   - q: "Czym spalanie stukowe różni się dźwiękiem od stuku korbowodowego?"
-    a: "Spalanie stukowe to ostre, wysokie dzwonienie, które pojawia się pod obciążeniem i znika po puszczeniu gazu albo po zatankowaniu właściwego paliwa. Stuk korbowodowy jest głuchy i niski, z głębi bloku; nie reaguje na zmianę stacji i z czasem tylko rośnie. Ostry dźwięk może poczekać na próbę z paliwem, głuchy to powód, żeby jechać wprost na diagnostykę."
+    a: "Spalanie stukowe to ostre, wysokie dzwonienie, które pojawia się pod obciążeniem i znika po puszczeniu gazu albo po zatankowaniu właściwego paliwa. Pro-Stuk korbowodowy jest głuchy i niski, z głębi bloku; nie reaguje na zmianę stacji i z czasem tylko rośnie. Ostry dźwięk może poczekać na próbę z paliwem, głuchy to powód, żeby jechać wprost na diagnostykę."
   - q: "Czy spalanie stukowe może wziąć się z jednego złego tankowania?"
     a: "Tak, to najczęstszy scenariusz: benzyna o niższej liczbie oktanowej niż deklarowana dzwoni już przy pierwszym przyspieszeniu pod obciążeniem. Jednorazowy epizod nie jest wyrokiem — sterownik opóźnia zapłon i chroni silnik. Właściwa reakcja to spokojna jazda bez wysokich obrotów i zatankowanie gdzie indziej."
   - q: "Dlaczego w nowym aucie spalania stukowego prawie nie słychać?"
@@ -142,7 +142,7 @@ Każdy z tych kroków kosztuje nieporównanie mniej niż konsekwencje:
 uszkodzenie tłoków i pierścieni to remont.
 
 Jeśli nie ma Pan pewności, czy to spalanie stukowe, czy stuk mechaniczny,
-proszę nagrać przyspieszanie w aplikacji Stuk. Zestawia ona nagranie z
+proszę nagrać przyspieszanie w aplikacji Pro-Stuk. Zestawia ona nagranie z
 typowymi odgłosami silnika, zadaje kilka pytań uzupełniających i pokazuje
 prawdopodobne przyczyny z poziomem pilności — z tym w ręku rozmowa w
 warsztacie jest krótsza i bardziej konkretna.

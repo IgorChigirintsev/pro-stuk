@@ -1,6 +1,6 @@
 ---
 title: "Barulho ao girar o volante com o carro parado"
-metaTitle: "Barulho ao girar o volante parado: causas | Stuk"
+metaTitle: "Barulho ao girar o volante parado: causas | Pro-Stuk"
 description: "Batida, estalo ou rangido ao girar o volante com o carro parado: coxins, terminais, caixa de direção, hidráulica — como distinguir cada um."
 faq:
   - q: "Por que bate só ao esterçar parado e fica quieto rodando?"
@@ -133,6 +133,6 @@ vez de ajuste. Então barulho ao esterçar parado é motivo para um
 diagnóstico calmo, porém não adiado.
 
 Se você não tem certeza do que exatamente está soando, grave o rangido ou
-a batida enquanto gira o volante no aplicativo Stuk. Ele cruza a gravação
+a batida enquanto gira o volante no aplicativo Pro-Stuk. Ele cruza a gravação
 com as suas respostas sobre quando o som aparece e mostra as causas
 prováveis com um nível de urgência.

@@ -1,6 +1,6 @@
 ---
 title: "Metallisches Klingeln im Motor beim Beschleunigen"
-metaTitle: "Metallisches Klingeln beim Beschleunigen | Stuk"
+metaTitle: "Metallisches Klingeln beim Beschleunigen | Pro-Stuk"
 description: "Klingeln wie Münzen in einer Dose beim Beschleunigen ist meist klopfende Verbrennung. Die Ursachen — Kraftstoff, Ablagerungen, Kerzen, Klopfsensor."
 faq:
   - q: "Warum tritt das Klingeln gerade beim Beschleunigen auf?"

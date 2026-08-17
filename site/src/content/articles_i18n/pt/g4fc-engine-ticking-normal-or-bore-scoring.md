@@ -1,6 +1,6 @@
 ---
 title: "Tiquetaque do motor G4FC: normal ou risco no cilindro"
-metaTitle: "Tiquetaque do G4FC: normal ou risco no cilindro | Stuk"
+metaTitle: "Tiquetaque do G4FC: normal ou risco no cilindro | Pro-Stuk"
 description: "O G4FC tiquetaqueia em marcha lenta: onde acaba a matraca normal dos bicos e começa o som preocupante. Como separar normal de risco no cilindro."
 faq:
   - q: "Tiquetaque no G4FC é normal?"
@@ -100,7 +100,7 @@ quilometragem entre as conferências anotada; impressão não vale nada. E a
 inspeção por endoscópio é barata perto de tudo o que ela descarta, então
 peça as fotos dos cilindros em vez de um veredicto falado.
 
-O aplicativo Stuk ajuda no primeiro passo: grave o tiquetaque com o motor
+O aplicativo Pro-Stuk ajuda no primeiro passo: grave o tiquetaque com o motor
 frio e com o motor quente, responda algumas perguntas sobre carga e
 consumo de óleo e receba uma lista de causas prováveis com porcentagens.
 Ele não substitui um teste de compressão, mas evita pânico à toa e gasto à

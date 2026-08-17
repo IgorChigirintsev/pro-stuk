@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-s-rassypavshimsya-katalizatorom"
 title: "Can you drive with a broken catalytic converter"
-metaTitle: "Can you drive with a broken catalytic converter? | Stuk"
+metaTitle: "Can you drive with a broken catalytic converter? | Pro-Stuk"
 description: "Collapsed converter ceramic rustles and chokes the engine. When you can drive to a workshop, when you cannot, and what it risks for the engine."
 pubDate: "2026-06-16"
 related:
@@ -103,7 +103,7 @@ makes noise but does not stop the car driving, you have weeks; as soon as
 it starts affecting how the car behaves, the count is in days.
 
 If the rustle has just appeared and you want to know whether that is what
-it is, record the sound in the Stuk app with the throttle blipped, and
+it is, record the sound in the Pro-Stuk app with the throttle blipped, and
 repeat the recording after a short drive. The app matches the recordings
 with your answers and shows the likely causes with percentages — along
 with a hint as to whether it is urgent or you can calmly book a day this

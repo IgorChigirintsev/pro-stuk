@@ -1,6 +1,6 @@
 ---
 title: "Gejank van het dynamolager bij de Chevrolet Cruze"
-metaTitle: "Cruze: gejank van het dynamolager | Stuk"
+metaTitle: "Cruze: gejank van het dynamolager | Pro-Stuk"
 description: "Gejank onder de motorkap van een Cruze dat oploopt met het toerental: hoe u het dynamolager onderscheidt van spanrollen, waterpomp en vrijlooppoelie."
 faq:
   - q: "Het gejank onder de motorkap loopt op met het toerental. Is dat de dynamo?"

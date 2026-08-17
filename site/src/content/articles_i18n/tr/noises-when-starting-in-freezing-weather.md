@@ -1,6 +1,6 @@
 ---
 title: "Dondurucu soğukta çalıştırma sesleri"
-metaTitle: "Soğukta çalıştırma sesleri: ıslık, tıkırtı, gıcırtı | Stuk"
+metaTitle: "Soğukta çalıştırma sesleri: ıslık, tıkırtı, gıcırtı | Pro-Stuk"
 description: "Kayış ıslığı, koyulaşan yağın tıkırtısı, marş gıcırtısı: dondurucu soğukta ilk çalıştırma sesleri. Kışın normal olan ne, servis isteyen ne."
 faq:
   - q: "Motor soğukta neden daha gürültülü ve daha kaba çalışıyor?"
@@ -119,7 +119,7 @@ sabah tıkırtılarının büyük bölümünü normal bir yağ değişimi fiyat�
 kapatır. Akü dört yılı geçtiyse test ettirin: sonbaharda değişen akü,
 ocakta değişenle aynı, üstüne çekici masrafı yok.
 
-Sabahki konser şüphe uyandırıyorsa, soğuk çalıştırmayı Stuk
+Sabahki konser şüphe uyandırıyorsa, soğuk çalıştırmayı Pro-Stuk
 uygulamasında kaydedin — dışarıda, kaput açıkken. Uygulama kaydı
 sıcaklık ve koşullarla ilgili cevaplarınızla eşleştirir, muhtemel
 nedenleri yüzdelerle ve aciliyet düzeyiyle gösterir: neyin kışa

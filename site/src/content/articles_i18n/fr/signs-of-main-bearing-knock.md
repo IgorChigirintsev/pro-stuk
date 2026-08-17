@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un claquement de coussinets de ligne"
-metaTitle: "Coussinets de ligne : signes du claquement | Stuk"
+metaTitle: "Coussinets de ligne : signes du claquement | Pro-Stuk"
 description: "Un claquement grave et lourd venu du bas du bloc, une pression d'huile qui chute et des vibrations : reconnaître des coussinets de ligne usés et les distinguer des bielles."
 faq:
   - q: "Comment distinguer un claquement de ligne d'un claquement de bielle ?"
@@ -111,7 +111,7 @@ pression.
 
 Si le claquement est apparu récemment et que vous ne savez pas de quelle
 partie du moteur il vient, enregistrez un court extrait au ralenti et sur
-un coup d'accélérateur dans l'application Stuk. Elle compare le son avec
+un coup d'accélérateur dans l'application Pro-Stuk. Elle compare le son avec
 vos réponses sur le régime et affiche les causes probables avec des
 pourcentages — assez pour décider entre conduire vous-même et appeler tout
 de suite une dépanneuse.

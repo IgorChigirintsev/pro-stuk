@@ -1,6 +1,6 @@
 ---
 title: "Stetoskop mechanika zrobiony samodzielnie"
-metaTitle: "Stetoskop mechanika własnej roboty: jak zrobić | Stuk"
+metaTitle: "Stetoskop mechanika własnej roboty: jak zrobić | Pro-Stuk"
 description: "Jak zbudować stetoskop samochodowy z wkrętaka, węża albo rurki, gdzie przykładać go w komorze silnika i jakich zasad bezpieczeństwa przestrzegać."
 faq:
   - q: "Czy wkrętak naprawdę zastąpi stetoskop?"
@@ -108,6 +108,6 @@ Sam pasek osprzętu ma własny zestaw objawów —
 Kupiony stetoskop z membraną nie jest drogi i słyszy czyściej niż
 domowy, ale wersja domowa i tak odpowiada na główne pytanie: ten zespół
 czy ten obok. A żeby nie polegać wyłącznie na pamięci, proszę włączyć
-nagrywanie w aplikacji Stuk już podczas słuchania. Aplikacja zestawia
+nagrywanie w aplikacji Pro-Stuk już podczas słuchania. Aplikacja zestawia
 dźwięk z Pana odpowiedziami o warunkach i miejscu i pokazuje
 prawdopodobne przyczyny z procentami.

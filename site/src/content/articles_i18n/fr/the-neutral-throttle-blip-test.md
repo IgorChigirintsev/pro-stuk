@@ -1,6 +1,6 @@
 ---
 title: "Le test d'accélération au point mort : ce qu'il montre"
-metaTitle: "Test d'accélération au point mort : ce qu'il montre | Stuk"
+metaTitle: "Test d'accélération au point mort : ce qu'il montre | Pro-Stuk"
 description: "Ce que révèle une montée en régime au point mort : séparer les bruits du moteur de ceux des roues et de la transmission, et faire le test correctement."
 faq:
   - q: "Est-ce mauvais de monter en régime au point mort ?"
@@ -116,6 +116,6 @@ apparaissait à la montée ou au lâcher de gaz, car c'est au lâcher que la
 distribution se trahit.
 
 Le test est commode à faire avec l'enregistrement lancé dans l'application
-Stuk : elle capte précisément le changement de son avec le régime, le
+Pro-Stuk : elle capte précisément le changement de son avec le régime, le
 recoupe avec vos réponses et montre les causes probables en pourcentages —
 avec une indication de la pièce à contrôler en premier.

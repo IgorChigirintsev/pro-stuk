@@ -1,6 +1,6 @@
 ---
 title: "Señales de golpeteo de biela"
-metaTitle: "Golpeteo de biela: cómo suena y qué hacer | Stuk"
+metaTitle: "Golpeteo de biela: cómo suena y qué hacer | Pro-Stuk"
 description: "Cómo suena el golpeteo de los cojinetes de biela, qué señales lo acompañan, con qué se confunde y cómo se confirma el diagnóstico en el taller."
 faq:
   - q: "¿En qué se diferencia el golpeteo de biela del ruido de los taqués hidráulicos?"
@@ -161,7 +161,7 @@ La economía es sencilla: cuanto antes pare y compruebe, más probabilidades
 tiene de salir del asunto con unos cojinetes y dejar el cigüeñal en paz.
 
 Si no tiene claro si es golpeteo de biela o uno de sus imitadores, grabe
-el motor con la aplicación Stuk: compara la grabación con golpeteos
+el motor con la aplicación Pro-Stuk: compara la grabación con golpeteos
 típicos, hace preguntas de aclaración y muestra las causas probables con
 un nivel de urgencia. Eso no sustituye a un desmontaje, pero ayuda a
 juzgar con qué urgencia hace falta un taller.

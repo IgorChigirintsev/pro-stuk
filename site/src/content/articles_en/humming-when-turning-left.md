@@ -1,7 +1,7 @@
 ---
 ru: "gul-pri-povorote-nalevo"
 title: "Humming when turning left"
-metaTitle: "Humming when turning left: which bearing hums | Stuk"
+metaTitle: "Humming when turning left: which bearing hums | Pro-Stuk"
 description: "A hum when turning left usually means the right wheel bearing is worn. Why that is, how to confirm it in one drive and how urgent the replacement is."
 pubDate: "2026-07-18"
 related:
@@ -100,6 +100,6 @@ no longer in thousands of kilometres. Closing the question within the
 first weeks is cheaper and calmer.
 
 If the hum is still quiet and you want to be sure you are not imagining
-it, record the sound in the Stuk app during the lane-change test. The app
+it, record the sound in the Pro-Stuk app during the lane-change test. The app
 matches the recording with your answers and shows the likely causes with
 percentages — and suggests which side to start with.

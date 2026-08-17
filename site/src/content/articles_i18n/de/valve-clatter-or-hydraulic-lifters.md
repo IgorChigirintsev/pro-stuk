@@ -1,6 +1,6 @@
 ---
 title: "Ticken: Ventile oder Hydrostößel"
-metaTitle: "Ticken: Ventilspiel oder Hydrostößel trennen | Stuk"
+metaTitle: "Ticken: Ventilspiel oder Hydrostößel trennen | Pro-Stuk"
 description: "Ticken unter der Ventilhaube kommt sowohl von falsch eingestelltem Ventilspiel als auch von verschlissenen Hydrostößeln. So trennen Sie beides nach Gehör."
 faq:
   - q: "Verschwindet das Geräusch der Hydrostößel nach dem Warmlaufen?"

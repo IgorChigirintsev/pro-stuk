@@ -1,6 +1,6 @@
 ---
 title: "Un colpo sordo dall'avantreno sulle buche"
-metaTitle: "Colpo sordo davanti sulle buche: le cause | Stuk"
+metaTitle: "Colpo sordo davanti sulle buche: le cause | Pro-Stuk"
 description: "Cosa significa un colpo sordo dall'avantreno sulle buche: quali pezzi suonano così e come separare le cause pericolose da quelle che possono aspettare."
 faq:
   - q: "Perché il colpo è sordo e non secco?"
@@ -107,7 +107,7 @@ geometria, e saltarlo si manifesta con gomme finite entro qualche migliaio
 di chilometri.
 
 Non è sicura di quale sia il suo scenario? Registri il colpo su un tratto
-sconnesso con l'app Stuk: confronta il suono con le sue risposte a qualche
+sconnesso con l'app Pro-Stuk: confronta il suono con le sue risposte a qualche
 domanda di chiarimento e mostra le cause probabili con un livello di
 urgenza, il che rende più facile decidere tra andarci domani e programmare
 la visita con calma.

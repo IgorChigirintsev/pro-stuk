@@ -1,6 +1,6 @@
 ---
 title: "Un bruit de diesel : injecteurs ou jeu aux soupapes"
-metaTitle: "Bruit de diesel : injecteurs ou jeu aux soupapes | Stuk"
+metaTitle: "Bruit de diesel : injecteurs ou jeu aux soupapes | Pro-Stuk"
 description: "Un moteur essence s'est mis à claquer comme un diesel : quand ce sont les injecteurs, quand c'est le jeu aux soupapes, et comment les séparer à l'oreille."
 faq:
   - q: "Pourquoi un moteur essence sonne-t-il comme un diesel ?"
@@ -105,7 +105,7 @@ fois le même démontage.
 
 Le bruit de diesel est typiquement le cas où décrire le son avec des mots
 est presque impossible et où l'enregistrer est facile. Faites deux
-enregistrements dans l'application Stuk : juste après un départ à froid,
+enregistrements dans l'application Pro-Stuk : juste après un départ à froid,
 puis après dix minutes de fonctionnement. L'application les examine par
 fréquence et par caractère et affiche les causes probables avec leurs
 pourcentages, pour que vous arriviez au garage avec une théorie précise.

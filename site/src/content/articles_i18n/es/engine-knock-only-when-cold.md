@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo en el motor solo en frío: el cuadro completo"
-metaTitle: "Golpeteo solo en frío: el cuadro completo | Stuk"
+metaTitle: "Golpeteo solo en frío: el cuadro completo | Pro-Stuk"
 description: "Por qué golpea un motor tras arrancar y se calla al calentarse: taqués, faldas de pistón, la cadena, los variadores. Dónde acaba lo normal y empiezan las rayaduras."
 faq:
   - q: "¿Por qué el golpeteo desaparece justo cuando el motor se calienta?"
@@ -117,7 +117,7 @@ pedirlas para verlas con los propios ojos: es el único hallazgo que decide
 entre una reparación y una reconstrucción.
 
 Para no tener que adivinar por qué línea del presupuesto empezar, grabe un
-arranque en frío con la aplicación Stuk, a primera hora de la mañana y junto
+arranque en frío con la aplicación Pro-Stuk, a primera hora de la mañana y junto
 al capó. Compara el sonido con sus respuestas sobre las condiciones y muestra
 las causas probables con porcentajes y un nivel de urgencia: con eso se puede
 mantener una conversación concreta con un taller.

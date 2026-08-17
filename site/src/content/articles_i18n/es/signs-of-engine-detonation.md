@@ -1,6 +1,6 @@
 ---
 title: "Señales de detonación en el motor"
-metaTitle: "Detonación del motor: señales para detectarla | Stuk"
+metaTitle: "Detonación del motor: señales para detectarla | Pro-Stuk"
 description: "Cómo reconocer la detonación del motor: picado al acelerar, pérdida de potencia y más consumo. Las causas, desde el combustible hasta la carbonilla."
 faq:
   - q: "¿En qué se diferencia por el sonido la detonación del golpeteo de biela?"
@@ -143,7 +143,7 @@ Cualquiera de estos pasos cuesta incomparablemente menos que las
 consecuencias: dañar pistones y segmentos significa abrir el motor.
 
 Si no tiene claro si es detonación o un golpeteo mecánico, grabe una
-aceleración con la aplicación Stuk. Compara la grabación con sonidos
+aceleración con la aplicación Pro-Stuk. Compara la grabación con sonidos
 típicos de motor, hace unas preguntas de aclaración y muestra las causas
 probables con un nivel de urgencia: con eso en la mano, la conversación en
 el taller es más corta y más concreta.

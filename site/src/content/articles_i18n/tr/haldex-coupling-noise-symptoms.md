@@ -1,6 +1,6 @@
 ---
 title: "Haldex kavramasının ses belirtileri"
-metaTitle: "Haldex kavraması sesi: belirtiler ve teşhis | Stuk"
+metaTitle: "Haldex kavraması sesi: belirtiler ve teşhis | Pro-Stuk"
 description: "Zorlanan bir Haldex kavraması nasıl ses verir, düşük hızdaki manevralarda çıtırtı neden çıkar ve aks kafası tıkırtısından nasıl ayrılır."
 faq:
   - q: "Kavrama sesi aks kafasından nasıl ayrılır?"
@@ -100,6 +100,6 @@ olduğunu kontrol ettirin: oradaki bir uyumsuzluk sağlam bir ünitede tam da
 bu belirtileri üretir.
 
 Dönüşlerdeki çıtırtı yeni başladıysa ve önden mi arkadan mı geldiği belli
-değilse, boş bir otoparkta manevra yaparken sesi Stuk uygulamasına kaydedin.
+değilse, boş bir otoparkta manevra yaparken sesi Pro-Stuk uygulamasına kaydedin.
 Uygulama kaydı verdiğiniz cevaplarla eşleştirir ve muhtemel sebepleri
 yüzdesiyle gösterir — bu da aramayı hemen tek bir aksa daraltır.

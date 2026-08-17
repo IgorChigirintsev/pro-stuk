@@ -1,6 +1,6 @@
 ---
 title: "Pisk po wymianie paska: dlaczego i co zrobić"
-metaTitle: "Pisk po wymianie paska: przyczyny i naprawa | Stuk"
+metaTitle: "Pisk po wymianie paska: przyczyny i naprawa | Pro-Stuk"
 description: "Pasek wymieniony, a pisk został albo wrócił: błędy napięcia, przekoszenie, rolki, sprzęgło jednokierunkowe. Jak znaleźć prawdziwą przyczynę dźwięku."
 faq:
   - q: "Nowy pasek piszczy przez pierwsze dni — czy to normalne?"
@@ -123,7 +123,7 @@ nowy pasek założony na nieusuniętą nieszczelność to pieniądze wydane dwa
 razy.
 
 Jeśli chce Pan przyjechać z gotową hipotezą, proszę nagrać dźwięk w
-aplikacji Stuk: porówna nagranie z typowymi przypadkami, uwzględni Pana
+aplikacji Pro-Stuk: porówna nagranie z typowymi przypadkami, uwzględni Pana
 odpowiedzi o tym, kiedy pisk się pojawia, i pokaże prawdopodobne przyczyny
 wraz ze stopniem pilności — dzięki temu łatwiej odróżnić sprawę
 gwarancyjną od nowej roboty.

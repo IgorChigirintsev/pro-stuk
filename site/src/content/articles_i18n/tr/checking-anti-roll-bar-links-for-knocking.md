@@ -1,6 +1,6 @@
 ---
 title: "Viraj demiri rotları takırdıyor: nasıl kontrol edilir"
-metaTitle: "Viraj demiri rotu takırtısı: nasıl kontrol edilir | Stuk"
+metaTitle: "Viraj demiri rotu takırtısı: nasıl kontrol edilir | Pro-Stuk"
 description: "Küçük tümseklerde takırtı, viraj demiri rotlarının en sık şikâyetidir. On dakikada elle nasıl kontrol edilir, yeni salıncağa fazla para verilmeden."
 faq:
   - q: "Viraj demiri rotu takırtısını diğerlerinden nasıl ayırırım?"
@@ -94,7 +94,7 @@ aracı bozar, onarım ise diğer süspansiyon işlerinden belirgin şekilde ucuz
 gelir — yani uzatmanın anlamı yok.
 
 Takırtı duyuluyor ama boşluğu elle yakalayamıyorsanız, dalgalı zeminden
-geçişi Stuk uygulamasında kaydedin. Uygulama darbelerin karakterini ve
+geçişi Pro-Stuk uygulamasında kaydedin. Uygulama darbelerin karakterini ve
 frekansını hız ve zemin hakkındaki cevaplarınızla eşleştirir ve olası
 sebepleri yüzdelerle gösterir — serviste «önden bir şeyler takırdıyor»
 demekten daha kolay konuşulur.

@@ -1,6 +1,6 @@
 ---
 title: "Un bourdonnement en tournant à gauche"
-metaTitle: "Bourdonnement en tournant à gauche : quel roulement | Stuk"
+metaTitle: "Bourdonnement en tournant à gauche : quel roulement | Pro-Stuk"
 description: "Un bourdonnement en tournant à gauche désigne en général le roulement de roue droit. Pourquoi, comment le confirmer en un trajet et à quel point c'est urgent."
 faq:
   - q: "Bourdonnement en tournant à gauche : quel roulement je remplace ?"
@@ -104,7 +104,7 @@ milliers de kilomètres. Refermer la question dans les premières semaines
 est plus léger et plus serein.
 
 Si le bourdonnement est encore discret et que vous voulez être sûr de ne
-pas l'imaginer, enregistrez le son dans l'application Stuk pendant le test
+pas l'imaginer, enregistrez le son dans l'application Pro-Stuk pendant le test
 du changement de file. L'application croise l'enregistrement avec vos
 réponses et affiche les causes probables avec leurs pourcentages — et
 suggère par quel côté commencer.

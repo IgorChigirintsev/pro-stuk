@@ -1,6 +1,6 @@
 ---
 title: "Yırtılmış egzoz flexinin belirtileri"
-metaTitle: "Yırtılmış egzoz flexinin belirtileri | Stuk"
+metaTitle: "Yırtılmış egzoz flexinin belirtileri | Pro-Stuk"
 description: "Ayakların altından gelen ani bir gürültü, rölantide titreşim ve kabinde egzoz kokusu — yırtılmış flex nasıl tanınır ve onarımı neyi kapsar."
 faq:
   - q: "Yırtılmış flexle ne kadar sürülebilir?"
@@ -94,7 +94,7 @@ yana çekilmiş hâlde kaynatılırsa yeni bölüm hayatına ön yüklemeyle
 başlar.
 
 Gürültü ortaya çıktı ama flex mi yoksa çürümüş bir boru mu olduğundan emin
-değilseniz, sesi rölantide ve devri yumuşakça yükseltirken Stuk
+değilseniz, sesi rölantide ve devri yumuşakça yükseltirken Pro-Stuk
 uygulamasına kaydedin. Uygulama kaydı, sesin nerede en yüksek olduğu ve
 nasıl değiştiğine dair yanıtlarınızla eşleştirir ve sistemin önce hangi
 bölümünün gözden geçirilmesi gerektiğini önerir.

@@ -1,6 +1,6 @@
 ---
 title: "Hoe ver komt een wiellager nog nadat het gaat brommen"
-metaTitle: "Hoe ver komt een brommend wiellager nog | Stuk"
+metaTitle: "Hoe ver komt een brommend wiellager nog | Pro-Stuk"
 description: "Van het eerste gebrom van een wiellager tot gevaarlijke speling zitten meestal duizenden kilometers. Waar die marge van afhangt en welke tekenen hem opheffen."
 faq:
   - q: "Hoeveel kilometer kan ik rijden met een brommend wiellager?"

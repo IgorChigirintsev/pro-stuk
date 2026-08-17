@@ -1,6 +1,6 @@
 ---
 title: "Zumbido de la caja de transferencia en el Renault Duster"
-metaTitle: "Zumbido de la transfer del Duster: qué mirar | Stuk"
+metaTitle: "Zumbido de la transfer del Duster: qué mirar | Pro-Stuk"
 description: "Zumbido bajo un Duster 4x4: cómo separar la caja de transferencia y el diferencial trasero de un rodamiento de rueda y de los neumáticos, y qué se revisa."
 faq:
   - q: "El zumbido solo aparece por encima de 60 km/h. ¿Es la caja de transferencia?"
@@ -94,7 +94,7 @@ en coches de esta clase el zumbido y el golpeteo suelen llegar juntos, y
 unos amortiguadores gastados cambian por sí solos el cuadro acústico.
 
 Si quiere llegar al taller con una teoría concreta, grabe el zumbido con
-la aplicación Stuk en un tramo llano: primero tirando y luego en
+la aplicación Pro-Stuk en un tramo llano: primero tirando y luego en
 retención. La aplicación compara las grabaciones con sus respuestas y
 muestra las causas probables con porcentajes, y así podrá decirle al
 mecánico desde el principio qué ha descartado ya.

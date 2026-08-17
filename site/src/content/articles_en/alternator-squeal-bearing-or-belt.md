@@ -1,7 +1,7 @@
 ---
 ru: "svistit-generator-podshipnik-ili-remen"
 title: "Alternator squeal: bearing or belt"
-metaTitle: "Alternator squeal: bearing or belt | Stuk"
+metaTitle: "Alternator squeal: bearing or belt | Pro-Stuk"
 description: "How to tell a slipping belt from a whining alternator bearing: the difference in sound, three tests without dismantling anything."
 pubDate: "2026-08-02"
 related:
@@ -134,7 +134,7 @@ a workshop visit: then installation errors should be ruled out first, and
 they are covered in
 [squealing after a belt change](/en/articles/belt-squeal-after-a-belt-change/).
 
-If after all the tests you are still unsure, record the sound in the Stuk
+If after all the tests you are still unsure, record the sound in the Pro-Stuk
 app: it matches the recording with your answers about when the squeal
 appears and shows the likely sources with a level of urgency — so you
 arrive at the workshop with a working theory rather than a general

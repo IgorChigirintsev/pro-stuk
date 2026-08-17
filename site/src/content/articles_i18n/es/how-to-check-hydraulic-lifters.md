@@ -1,6 +1,6 @@
 ---
 title: "Cómo comprobar los taqués hidráulicos"
-metaTitle: "Cómo comprobar los taqués hidráulicos de oído | Stuk"
+metaTitle: "Cómo comprobar los taqués hidráulicos de oído | Pro-Stuk"
 description: "Cómo saber que los taqués hidráulicos son el origen del tableteo: pruebas en frío y en caliente, en qué se diferencian de holguras e inyectores, y qué hacer."
 faq:
   - q: "El tableteo se va tras calentarse. ¿Es normal?"
@@ -109,7 +109,7 @@ inspeccionan con el motor abierto: un taqué que lleva meses tableteando deja
 marcas en la leva, y enterarse después es el camino caro.
 
 Para no tener que adivinar si de verdad ha quedado más silencioso, grabe el
-arranque en frío con la aplicación Stuk antes del cambio de aceite y después.
+arranque en frío con la aplicación Pro-Stuk antes del cambio de aceite y después.
 La aplicación desglosa el sonido, lo compara con sus respuestas y muestra las
 causas probables con porcentajes, y dos grabaciones una al lado de la otra
 responden con honradez a si la reparación ayudó.

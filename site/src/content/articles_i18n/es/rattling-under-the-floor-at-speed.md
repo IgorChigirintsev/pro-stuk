@@ -1,6 +1,6 @@
 ---
 title: "Traqueteo bajo el piso a velocidad"
-metaTitle: "Traqueteo bajo el piso a velocidad: qué revisar | Stuk"
+metaTitle: "Traqueteo bajo el piso a velocidad: qué revisar | Pro-Stuk"
 description: "Deflectores térmicos, el flexible, las gomas del escape: por qué algo traquetea bajo el piso a velocidad, cómo encontrar el origen y a qué lleva ignorarlo."
 faq:
   - q: "¿Por qué el traqueteo solo aparece a cierta velocidad?"
@@ -133,7 +133,7 @@ dentro, pregunte si se suelda el sistema o se cambia la caja: soldar es
 más barato, pero la corrosión que lo provocó no suele ser local.
 
 Si aun así no encuentra el origen, grabe el traqueteo en la aplicación
-Stuk exactamente a la velocidad a la que aparece: la aplicación cruza la
+Pro-Stuk exactamente a la velocidad a la que aparece: la aplicación cruza la
 grabación con sus respuestas sobre las condiciones y muestra las causas
 probables con un nivel de urgencia. Con esa teoría en la mano, la búsqueda
 en el taller lleva minutos y no una hora.

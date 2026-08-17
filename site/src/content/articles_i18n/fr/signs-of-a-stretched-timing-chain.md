@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une chaîne de distribution détendue"
-metaTitle: "Chaîne de distribution détendue : les signes | Stuk"
+metaTitle: "Chaîne de distribution détendue : les signes | Pro-Stuk"
 description: "Comment sonne une chaîne de distribution détendue, quels codes défaut elle génère, comment mesurer son allongement sans démonter le moteur et comment se décide le remplacement."
 faq:
   - q: "Quel est le tout premier signe d'une chaîne de distribution détendue ?"
@@ -163,6 +163,6 @@ Après le travail, demandez à voir l'ancienne chaîne à côté de la neuve —
 sur un ensemble usé, la différence de longueur se voit à l'œil nu.
 
 Si vous n'êtes pas sûr qu'il s'agisse de la chaîne ou d'autre chose,
-commencez par un enregistrement : l'application Stuk analyse le moteur en
+commencez par un enregistrement : l'application Pro-Stuk analyse le moteur en
 marche avec vos réponses et affiche les causes probables avec un
 pourcentage.

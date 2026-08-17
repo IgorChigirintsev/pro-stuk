@@ -1,6 +1,6 @@
 ---
 title: "Assobio do turbo em vans a diesel: Sprinter, Transit"
-metaTitle: "Assobio do turbo em vans a diesel | Stuk"
+metaTitle: "Assobio do turbo em vans a diesel | Pro-Stuk"
 description: "Assobio do turbo em vans a diesel Sprinter e Transit: onde termina o normal e começa o vazamento de ar ou o desgaste do eixo, e como checar as mangueiras."
 faq:
   - q: "Turbo sempre assobia um pouco — isso é normal?"
@@ -100,7 +100,7 @@ e
 [sinais de embreagem gasta](/pt/articles/signs-of-a-worn-clutch/).
 
 Se você está em dúvida se o som do seu turbo mudou, grave no aplicativo
-Stuk — acelerando sob carga e em marcha lenta. O app cruza as gravações
+Pro-Stuk — acelerando sob carga e em marcha lenta. O app cruza as gravações
 com suas respostas e mostra as causas prováveis com porcentagens, e a
 própria gravação serve como ponto de referência: daqui a um mês você terá
 com o que comparar.

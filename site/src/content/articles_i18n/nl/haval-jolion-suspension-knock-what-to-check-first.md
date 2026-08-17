@@ -1,6 +1,6 @@
 ---
 title: "Klopgeluid uit de vering van de Haval Jolion: wat eerst controleren"
-metaTitle: "Haval Jolion klopt voorin: wat eerst checken | Stuk"
+metaTitle: "Haval Jolion klopt voorin: wat eerst checken | Pro-Stuk"
 description: "Een verstandige volgorde voor het opsporen van een klopgeluid vooraan bij een Haval Jolion: van stabilisatorstangen tot veerpootlagers en draagarmrubbers."
 faq:
   - q: "Valt een klopgeluid in de vering van de Jolion onder garantie?"

@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een verstopte katalysator"
-metaTitle: "Verstopte katalysator: de tekenen | Stuk"
+metaTitle: "Verstopte katalysator: de tekenen | Pro-Stuk"
 description: "Een verstopte katalysator smoort de motor: de auto trekt niet door, slaat af onder belasting, verbruikt meer. Zo onderscheidt u dit van ander vermogensverlies."
 faq:
   - q: "Kan een katalysator plotseling verstoppen?"

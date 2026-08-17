@@ -1,6 +1,6 @@
 ---
 title: "Aullido del motor al acelerar"
-metaTitle: "Aullido del motor al acelerar: causas | Stuk"
+metaTitle: "Aullido del motor al acelerar: causas | Pro-Stuk"
 description: "De dónde viene un aullido al acelerar: alternador, bomba de dirección, poleas, bomba de agua o caja de cambios. Pruebas sencillas para hallar el origen."
 faq:
   - q: "¿Cómo distingo un aullido del motor de uno de la caja de cambios?"
@@ -136,6 +136,6 @@ mano de obra.
 
 Un aullido es cómodo para el diagnóstico acústico: tiene una tonalidad marcada
 y los algoritmos distinguen esos sonidos con más seguridad que muchos otros.
-Grabe el aullido al acelerar con la aplicación Stuk: compara la grabación y
+Grabe el aullido al acelerar con la aplicación Pro-Stuk: compara la grabación y
 sus respuestas y muestra las causas probables con un nivel de urgencia para
 cada una.

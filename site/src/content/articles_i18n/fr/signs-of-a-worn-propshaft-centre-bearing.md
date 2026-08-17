@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un palier de transmission usé"
-metaTitle: "Palier de transmission usé : les signes | Stuk"
+metaTitle: "Palier de transmission usé : les signes | Pro-Stuk"
 description: "Un ronflement venu du milieu du plancher, des vibrations à partir d'une certaine vitesse, une secousse au démarrage : comment reconnaître un palier d'arbre de transmission usé."
 faq:
   - q: "Où se trouve le palier et à quoi sert-il ?"
@@ -106,7 +106,7 @@ entre supprimer la vibration et ne supprimer que le bruit.
 
 Si le ronflement est encore discret et que vous ne savez pas s'il vient
 du centre en dessous ou d'une roue, enregistrez-le dans l'application
-Stuk sur une voie rapide lisse, puis refaites l'enregistrement pendant
+Pro-Stuk sur une voie rapide lisse, puis refaites l'enregistrement pendant
 des changements de file doux. L'application confronte les enregistrements
 à vos réponses à quelques questions et affiche les causes probables avec
 un pourcentage.

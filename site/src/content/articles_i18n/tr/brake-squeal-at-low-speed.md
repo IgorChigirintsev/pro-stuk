@@ -1,6 +1,6 @@
 ---
 title: "Düşük hızda fren ıslığı"
-metaTitle: "Düşük hızda fren ıslığı: nedenleri | Stuk"
+metaTitle: "Düşük hızda fren ıslığı: nedenleri | Pro-Stuk"
 description: "5–20 km/s hızda duyulan fren ıslığı zararsız balata titreşimi de olabilir, işini yapan aşınma göstergesi de. Nasıl ayrılır ve onarım neye bağlıdır."
 faq:
   - q: "Frenler neden sadece düşük hızda ötüyor?"
@@ -101,7 +101,7 @@ artık konu gürültü değildir:
 bakın.
 
 Randevu almadan önce gerçekte neyin ses verdiğini bilmek isterseniz, ışığa
-yanaşırken ıslığı Stuk uygulamasında kaydedin. Uygulama kaydı frekanslara
+yanaşırken ıslığı Pro-Stuk uygulamasında kaydedin. Uygulama kaydı frekanslara
 ayırır, koşullara dair birkaç soruya verdiğiniz cevaplarla eşleştirir ve
 olası nedenleri yüzdeyle gösterir — genelde hemen gitmekle bir sonraki
 bakımı beklemek arasında karar vermeye yeter.

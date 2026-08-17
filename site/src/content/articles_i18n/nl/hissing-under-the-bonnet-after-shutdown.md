@@ -1,6 +1,6 @@
 ---
 title: "Sissen onder de motorkap nadat u de motor afzet"
-metaTitle: "Sissen onder de motorkap na afzetten: oorzaken | Stuk"
+metaTitle: "Sissen onder de motorkap na afzetten: oorzaken | Pro-Stuk"
 description: "Sissen onder de kap bij een stilstaande motor kan onschuldig of ernstig zijn. Zo scheidt u een afkoelende uitlaat van een koelvloeistof- of luchtlek."
 faq:
   - q: "Is sissen vlak na het afzetten gevaarlijk?"

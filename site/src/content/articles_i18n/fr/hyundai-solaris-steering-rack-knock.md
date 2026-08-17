@@ -1,6 +1,6 @@
 ---
 title: "Claquement de crémaillère de direction sur Hyundai Solaris"
-metaTitle: "Solaris : claquement de crémaillère, les causes | Stuk"
+metaTitle: "Solaris : claquement de crémaillère, les causes | Pro-Stuk"
 description: "Pourquoi un claquement remonte dans le volant d'une Hyundai Solaris sur les petites bosses, et comment séparer la crémaillère des rotules et des biellettes."
 faq:
   - q: "Un réglage de crémaillère règle-t-il le problème définitivement ?"
@@ -105,7 +105,7 @@ direction se termine par une géométrie : la sauter, ce sont des pneus
 avant usés sur les bords en quelques milliers de kilomètres.
 
 Si le claquement n'apparaît pas à chaque fois et que l'atelier n'arrive
-pas à le reproduire, enregistrez le son dans l'application Stuk en roulant
+pas à le reproduire, enregistrez le son dans l'application Pro-Stuk en roulant
 sur de petites bosses. L'application compare l'enregistrement avec vos
 réponses et affiche les causes probables avec leurs pourcentages — ce qui
 vous épargne une conversation du genre « eh bien, ça claque un peu ».

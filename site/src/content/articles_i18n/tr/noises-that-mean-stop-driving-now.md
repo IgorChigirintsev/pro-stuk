@@ -1,6 +1,6 @@
 ---
 title: "Hemen durmayı gerektiren sesler"
-metaTitle: "Hemen durmayı gerektiren araç sesleri | Stuk"
+metaTitle: "Hemen durmayı gerektiren araç sesleri | Pro-Stuk"
 description: "Araç seslerinin çoğu servisi bekleyebilir, ama birkaçı hemen kontağı kapatmak demektir. Sinyaller, güvenli durma ve sonrasında ne yapılacağı."
 faq:
   - q: "Bir sesin hemen durmayı gerektirdiğini nasıl anlarım?"
@@ -100,6 +100,6 @@ bastırırken sakin sakin bulunur —
 [kabin takırtı ve gıcırtılarını bulmak](/tr/articles/finding-interior-rattles-and-squeaks/).
 
 Duyduğunuz sesin hangi kategoriye girdiğinden emin değilseniz, hareket
-etmeden önce Stuk uygulamasıyla kaydedin. Uygulama kaydı birkaç soruya
+etmeden önce Pro-Stuk uygulamasıyla kaydedin. Uygulama kaydı birkaç soruya
 verdiğiniz yanıtlarla eşleştirip olası sebepleri yüzdeleriyle gösterir —
 genelde yola devam etmekle çekici beklemek arasında karar vermeye yeter.

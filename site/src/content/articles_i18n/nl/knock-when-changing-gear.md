@@ -1,6 +1,6 @@
 ---
 title: "Een klop bij het schakelen"
-metaTitle: "Klop bij het schakelen: de oorzaken | Stuk"
+metaTitle: "Klop bij het schakelen: de oorzaken | Pro-Stuk"
 description: "Een klop op het moment van schakelen komt van speling in de schakeling, versleten motorsteunen en aandrijfasscharnieren. Zo scheidt u de oorzaken."
 faq:
   - q: "Is een klop bij het schakelen altijd de versnellingsbak?"

@@ -1,6 +1,6 @@
 ---
 title: "Rölantide aracın altından gelen çınlama"
-metaTitle: "Rölantide araç altından çınlama: nedenleri | Stuk"
+metaTitle: "Rölantide araç altından çınlama: nedenleri | Pro-Stuk"
 description: "Isı kalkanı, dağılan katalizör, egzozun karoseriye teması: rölantide aracın altından gelen çınlama nereden çıkar ve nasıl kontrol edilir."
 faq:
   - q: "Çınlama neden soğukken duyuluyor, ısındıktan sonra kayboluyor?"
@@ -125,6 +125,6 @@ yerine sökülüp atılırsa, koruduğu ısı artık zemine ve yakıt hatlarına
 ulaşır; bir kelepçe bu takastan ucuzdur.
 
 Çınlama, ustaya telefonda anlatması zor seslerden biridir. Kaydetmek daha
-kolay: aracın yanında rölantideyken Stuk uygulamasını başlatın, koşullarla
+kolay: aracın yanında rölantideyken Pro-Stuk uygulamasını başlatın, koşullarla
 ilgili birkaç soruyu yanıtlayın ve servise götürebileceğiniz, aciliyet
 seviyesiyle birlikte olası nedenler listesini alın.

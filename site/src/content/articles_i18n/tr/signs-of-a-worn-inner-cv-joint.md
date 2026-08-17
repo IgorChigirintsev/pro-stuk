@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış iç aks kafasının belirtileri"
-metaTitle: "Aşınmış iç aks kafası: nasıl tanınır | Stuk"
+metaTitle: "Aşınmış iç aks kafası: nasıl tanınır | Pro-Stuk"
 description: "İç aks kafası dönüşte tıklamaz — gaz verirken tokurdar ve titretir. Belirtileri, dış aks kafasından farkı ve onarımın nasıl kararlaştırıldığı."
 faq:
   - q: "İç aks kafası sesiyle dıştan nasıl ayrılır?"
@@ -99,7 +99,7 @@ bekleme faturadaki bir satırı üçe çıkarır. Tıklama başladıysa
 [tıklayan aks kafasıyla yola devam edilir mi](/tr/articles/can-you-drive-with-a-clicking-cv-joint/)
 yazısındaki ölçüler geçerlidir.
 
-Tokurtu hafifse ve aks mı süspansiyon mu belli değilse, Stuk
+Tokurtu hafifse ve aks mı süspansiyon mu belli değilse, Pro-Stuk
 uygulamasında aynı yol parçasında iki kez kaydedin: bir kez gaz altında,
 bir kez gaz kesikken. Uygulama kayıtları karşılaştırır, sesin tam olarak
 ne zaman çıktığına dair cevaplarınızı hesaba katar ve olası nedenleri

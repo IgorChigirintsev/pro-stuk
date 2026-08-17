@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-stuka-klapanov"
 title: "Signs of valve clatter"
-metaTitle: "Valve clatter: what it sounds like, what to do | Stuk"
+metaTitle: "Valve clatter: what it sounds like, what to do | Pro-Stuk"
 description: "How valve clatter sounds, why valve clearances drift, how it differs from other engine noises and what a clearance adjustment involves."
 pubDate: "2026-08-02"
 related:
@@ -138,7 +138,7 @@ valve and seat work. So “quiet means fine” does not apply to valves: a
 scheduled check is cheaper than either scenario.
 
 If the engine has started ticking and you want to know whether it is the
-valves, the lifters or the injectors, record the sound in the Stuk app. It
+valves, the lifters or the injectors, record the sound in the Pro-Stuk app. It
 matches the recording with your answers and shows the likely causes with
 an urgency level — a convenient starting point before talking to a
 mechanic.

@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-umirayushchej-akpp"
 title: "Signs of a failing automatic transmission"
-metaTitle: "Signs of a failing automatic transmission | Stuk"
+metaTitle: "Signs of a failing automatic transmission | Pro-Stuk"
 description: "An automatic rarely fails overnight: slipping, whining and delays come first. The early signs of wear and what to do at each stage."
 pubDate: "2026-07-25"
 related:
@@ -104,7 +104,7 @@ an unopened torque converter full of the old debris comes back, and that
 is the most common reason a rebuild fails within a year.
 
 If you are at an early stage and unsure whether the gearbox's sound has
-changed over recent months, record it in the Stuk app every few weeks — at
+changed over recent months, record it in the Pro-Stuk app every few weeks — at
 idle, in neutral and under acceleration. The app keeps the history,
 compares the recordings and shows whether things are getting worse or the
 sound was simply always like that.

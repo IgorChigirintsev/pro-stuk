@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un déphaseur d'arbre à cames défaillant"
-metaTitle: "Déphaseur VVT HS : bruit et symptômes | Stuk"
+metaTitle: "Déphaseur VVT HS : bruit et symptômes | Pro-Stuk"
 description: "Les signes d'un déphaseur VVT défaillant : un claquement après le démarrage, un ralenti instable, des codes P0010–P0017. Comment le distinguer des autres bruits."
 faq:
   - q: "Qu'est-ce qu'un déphaseur VVT, en clair ?"
@@ -116,7 +116,7 @@ accélère l'usure de la chaîne, et un calage très décalé devient un risque
 pour les soupapes et les pistons.
 
 Si vous n'êtes pas sûr que les bruits de votre moteur viennent du
-déphaseur, enregistrez un départ à froid dans l'application Stuk :
+déphaseur, enregistrez un départ à froid dans l'application Pro-Stuk :
 l'algorithme confronte l'enregistrement à vos réponses et renvoie les
 causes probables avec leur pourcentage et un niveau d'urgence — un point
 de départ commode pour la conversation avec l'atelier.

@@ -1,6 +1,6 @@
 ---
 title: "Een fuseekogel zelf controleren"
-metaTitle: "Een fuseekogel zelf controleren | Stuk"
+metaTitle: "Een fuseekogel zelf controleren | Pro-Stuk"
 description: "Stap voor stap een fuseekogel controleren: de veertest, de speling op 12 en 6 uur met het wiel omhoog, de truc met het rempedaal en wat een gescheurde hoes betekent."
 faq:
   - q: "Kun je een fuseekogel controleren zonder krik?"

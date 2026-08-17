@@ -1,6 +1,6 @@
 ---
 title: "Ruído da embreagem Haldex: os sintomas"
-metaTitle: "Ruído da Haldex: sintomas e diagnóstico | Stuk"
+metaTitle: "Ruído da Haldex: sintomas e diagnóstico | Pro-Stuk"
 description: "Como soa uma embreagem Haldex penando, por que o estalo aparece em manobras de baixa velocidade e como diferenciar isso de junta homocinética."
 faq:
   - q: "Como o ruído da embreagem difere do de uma junta homocinética?"
@@ -110,7 +110,7 @@ profundidade de sulco entre os eixos: uma diferença ali produz exatamente
 esses sintomas num conjunto saudável.
 
 Se o estalo em curva apareceu há pouco e não está claro se vem da frente ou
-de trás, grave o som no aplicativo Stuk durante uma manobra num
+de trás, grave o som no aplicativo Pro-Stuk durante uma manobra num
 estacionamento vazio. O aplicativo cruza a gravação com suas respostas e
 mostra as causas prováveis com porcentagens — o que já estreita a busca a
 um único eixo.

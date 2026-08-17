@@ -1,6 +1,6 @@
 ---
 title: "Bozuk yolda direksiyona vuran tıkırtı"
-metaTitle: "Bozuk yolda direksiyona vuran tıkırtı | Stuk"
+metaTitle: "Bozuk yolda direksiyona vuran tıkırtı | Pro-Stuk"
 description: "Direksiyona kadar gelen tıkırtı nereden çıkar: direksiyon kutusu, rot başı, rot veya viraj demiri. Lift olmadan yapılabilecek basit kontroller."
 faq:
   - q: "Direksiyon mu süspansiyon mu olduğunu nasıl anlarım?"
@@ -119,7 +119,7 @@ argümanı var: direksiyonunda boşluk olan araç dişleri olması gerekenden
 belirgin şekilde hızlı yer ve bir takım lastik tamirin kendisinden pahalıya
 gelebilir.
 
-Hangi parçanın suçlu olduğundan emin değilseniz tıkırtıyı Stuk
+Hangi parçanın suçlu olduğundan emin değilseniz tıkırtıyı Pro-Stuk
 uygulamasında kaydedin: kayıt açıkken karakteristik bozuk bir yoldan geçin,
 birkaç kısa soruyu cevaplayın; uygulama sesi tipik arıza profilleriyle
 eşleştirip olası sebepleri aciliyet düzeyiyle gösterir.

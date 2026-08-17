@@ -1,6 +1,6 @@
 ---
 title: "Controllare gli ammortizzatori con la prova di rimbalzo"
-metaTitle: "Prova di rimbalzo degli ammortizzatori | Stuk"
+metaTitle: "Prova di rimbalzo degli ammortizzatori | Pro-Stuk"
 description: "La prova di rimbalzo passo per passo: come spingere sulla scocca, come contare le oscillazioni, cosa la prova non può mostrare e quando serve un banco."
 faq:
   - q: "Quanto è affidabile la prova di rimbalzo?"
@@ -146,6 +146,6 @@ affrontata in
 [si può guidare con colpi nelle sospensioni](/it/articles/can-you-drive-with-a-knocking-suspension/).
 
 Se la prova di rimbalzo ha dato una risposta ambigua e nella sospensione
-c'è un rumore difficile da descrivere, lo registri con l'app Stuk mentre
+c'è un rumore difficile da descrivere, lo registri con l'app Pro-Stuk mentre
 guida. L'app confronta la registrazione con le sue risposte e mostra le
 cause probabili con un livello di urgenza.

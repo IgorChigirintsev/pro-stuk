@@ -1,6 +1,6 @@
 ---
 title: "Chiado ao esterçar até o fim do curso"
-metaTitle: "Chiado ao esterçar até o fim: causas | Stuk"
+metaTitle: "Chiado ao esterçar até o fim: causas | Pro-Stuk"
 description: "Por que o carro chia quando o volante vai até o fim do curso: correia, bomba da direção hidráulica ou nível baixo de fluido. Quando é normal e quando não é."
 faq:
   - q: "Faz mal segurar o volante no fim do curso?"
@@ -106,7 +106,7 @@ descarregada e risco de superaquecimento, então correia trincada se troca
 sem esperar a ruptura —
 [dá para rodar com correia chiando](/pt/articles/can-you-drive-with-a-squealing-belt/).
 
-Sem certeza se é correia ou bomba? Grave o chiado no aplicativo Stuk: faça
+Sem certeza se é correia ou bomba? Grave o chiado no aplicativo Pro-Stuk: faça
 a gravação com o volante no fim do curso e responda algumas perguntas — o
 aplicativo cruza o som com perfis típicos de defeito e mostra as causas
 prováveis com um grau de urgência.

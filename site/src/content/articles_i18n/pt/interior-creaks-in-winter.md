@@ -1,6 +1,6 @@
 ---
 title: "Rangidos no interior no frio"
-metaTitle: "Rangidos no interior no frio: por que aparecem | Stuk"
+metaTitle: "Rangidos no interior no frio: por que aparecem | Pro-Stuk"
 description: "Por que o interior range mais no frio: o que acontece com plástico e borracha, quais sons somem depois de aquecer e quais precisam de checagem."
 faq:
   - q: "Por que o interior só range nos primeiros minutos depois de sair?"
@@ -97,7 +97,7 @@ primeiro em temperatura baixa, então batida de amortecedor no inverno
 merece ser levada a sério, não empurrada para a primavera.
 
 Separar rangido sazonal de rangido real é mais fácil por comparação. Grave
-o som no aplicativo Stuk no primeiro minuto depois de sair e repita a
+o som no aplicativo Pro-Stuk no primeiro minuto depois de sair e repita a
 mesma gravação meia hora depois, com o carro quente. Se a segunda gravação
 estiver limpa, era o frio; se o som continuar lá, o aplicativo sugere
 quais peças conferir primeiro.

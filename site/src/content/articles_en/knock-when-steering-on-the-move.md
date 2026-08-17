@@ -1,7 +1,7 @@
 ---
 ru: "stuk-pri-povorote-rulya-v-dvizhenii"
 title: "A knock when steering on the move"
-metaTitle: "A knock when steering on the move: causes | Stuk"
+metaTitle: "A knock when steering on the move: causes | Pro-Stuk"
 description: "What knocks when you turn the wheel while driving: CV joint, ball joint, strut top mount or the rack. How to separate the causes by sound."
 pubDate: "2026-07-17"
 related:
@@ -106,6 +106,6 @@ to get on a lift within days. The general breakdown of running gear knocks
 is on the symptom page
 [knocking in the suspension](/en/symptoms/knocking-in-suspension/).
 
-Cannot describe the sound confidently in words? Record it in the Stuk app
+Cannot describe the sound confidently in words? Record it in the Pro-Stuk app
 during the manoeuvre itself: the app matches the recording with your
 answers and shows the likely causes with percentages and an urgency level.

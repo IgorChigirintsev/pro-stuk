@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten draagarmrubbers"
-metaTitle: "Versleten draagarmrubbers: geluid en test | Stuk"
+metaTitle: "Versleten draagarmrubbers: geluid en test | Pro-Stuk"
 description: "Zo laten versleten draagarmrubbers zich horen: kloppen, kraken, trekkende auto en ongelijke bandenslijtage. Eenvoudige controles en wat de reparatie inhoudt."
 faq:
   - q: "Wat is het eerste teken van versleten draagarmrubbers?"

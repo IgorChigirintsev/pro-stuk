@@ -1,7 +1,7 @@
 ---
 ru: "gul-podshipnik-ili-rezina"
 title: "Humming: wheel bearing or tyres — telling them apart"
-metaTitle: "Hum: wheel bearing or tyres — how to tell | Stuk"
+metaTitle: "Hum: wheel bearing or tyres — how to tell | Pro-Stuk"
 description: "How to tell wheel bearing hum from tyre noise: tests you can do in one drive, a comparison table of the signs, and the mistakes that cost money."
 pubDate: "2026-08-02"
 related:
@@ -134,6 +134,6 @@ transmission too — is on the symptom pages
 [wheel bearing hum](/en/symptoms/wheel-bearing-hum/).
 
 And if you want a second opinion before the trip, record the hum while
-driving in the Stuk app: it analyses the recording, asks a few clarifying
+driving in the Pro-Stuk app: it analyses the recording, asks a few clarifying
 questions — about the surface, corners, how the sound appeared — and shows
 the likely causes with percentages.

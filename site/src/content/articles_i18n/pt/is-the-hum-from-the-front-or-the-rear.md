@@ -1,6 +1,6 @@
 ---
 title: "De onde vem o zumbido: da frente ou de trás"
-metaTitle: "Zumbido: vem do eixo dianteiro ou traseiro? | Stuk"
+metaTitle: "Zumbido: vem do eixo dianteiro ou traseiro? | Pro-Stuk"
 description: "Testes simples que apontam o eixo e o lado de onde vem o zumbido: mudança de faixa, inércia, rodízio de rodas e uma volta com passageiro ouvindo."
 faq:
   - q: "Por que um zumbido de trás parece vir da frente?"
@@ -92,6 +92,6 @@ alinhamento ou amortecedores cansados — porque um jogo novo num carro não
 corrigido gasta do mesmo jeito.
 
 O caminho mais fácil é rodar os quatro testes com uma gravação aberta no
-aplicativo Stuk: você responde perguntas sobre velocidade, lado e reação à
+aplicativo Pro-Stuk: você responde perguntas sobre velocidade, lado e reação à
 inércia, e o aplicativo cruza tudo com o som e mostra as causas prováveis
 em porcentagem, junto com a roda por onde começar.

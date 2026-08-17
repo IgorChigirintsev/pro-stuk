@@ -1,6 +1,6 @@
 ---
 title: "Sinais de batida das bronzinas de mancal"
-metaTitle: "Batida das bronzinas de mancal: sinais | Stuk"
+metaTitle: "Batida das bronzinas de mancal: sinais | Pro-Stuk"
 description: "Batida grave e pesada no fundo do bloco, pressão de óleo caindo e vibração: como reconhecer bronzinas de mancal gastas e diferenciar da biela."
 faq:
   - q: "Qual a diferença entre batida de mancal e batida de biela?"
@@ -105,6 +105,6 @@ ignorar as primeiras piscadas da luz de pressão.
 
 Se a batida apareceu há pouco e você não tem certeza de que parte do motor
 ela vem, grave um trecho curto em marcha lenta e numa acelerada seca no
-aplicativo Stuk. Ele compara o som com as suas respostas sobre o regime e
+aplicativo Pro-Stuk. Ele compara o som com as suas respostas sobre o regime e
 mostra as causas prováveis com porcentagens — o suficiente para decidir
 entre ir dirigindo e chamar guincho na hora.

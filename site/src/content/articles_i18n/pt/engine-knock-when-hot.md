@@ -1,6 +1,6 @@
 ---
 title: "Batida no motor quente"
-metaTitle: "Batida no motor quente: causas e o que fazer | Stuk"
+metaTitle: "Batida no motor quente: causas e o que fazer | Pro-Stuk"
 description: "Por que o motor passa a bater depois de aquecer: óleo, tuchos hidráulicos, bronzinas ou detonação. Como estreitar a causa pelo comportamento do som."
 faq:
   - q: "Por que o motor só bate depois de aquecer?"
@@ -144,6 +144,6 @@ de som em
 [batida no motor: todas as causas pelo som](/pt/articles/engine-knock-all-causes-by-sound/).
 
 Se quiser algo concreto antes da oficina, grave o som do motor quente no
-aplicativo Stuk. Ele compara a gravação com batidas típicas, faz algumas
+aplicativo Pro-Stuk. Ele compara a gravação com batidas típicas, faz algumas
 perguntas e mostra as causas prováveis com nível de urgência — com essa
 lista, a conversa com o mecânico rende mais.

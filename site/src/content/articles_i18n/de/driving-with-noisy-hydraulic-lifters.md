@@ -1,6 +1,6 @@
 ---
 title: "Was passiert, wenn man mit klappernden Hydrostößeln weiterfährt"
-metaTitle: "Klappernde Hydrostößel: weiterfahren? | Stuk"
+metaTitle: "Klappernde Hydrostößel: weiterfahren? | Pro-Stuk"
 description: "Ein tickender Hydrostößel zerstört keinen Motor an einem Tag, hämmert aber auf Nocken und Ventil. Die Szenarien, die Zeiträume und was zuerst zu prüfen ist."
 faq:
   - q: "Das Stößelgeräusch verschwindet, wenn der Motor warm wird. Ist das normal?"

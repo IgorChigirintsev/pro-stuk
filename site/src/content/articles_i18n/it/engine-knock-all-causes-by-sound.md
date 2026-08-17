@@ -1,6 +1,6 @@
 ---
 title: "Battito nel motore: tutte le cause per tipo di suono"
-metaTitle: "Battito nel motore: tutte le cause per suono | Stuk"
+metaTitle: "Battito nel motore: tutte le cause per suono | Pro-Stuk"
 description: "Una mappa dei battiti del motore per carattere del suono: ticchettii, clic, tintinnii, botte sorde. Cosa significa ciascuno e quanto è urgente."
 faq:
   - q: "La causa si può individuare con precisione dal solo suono?"
@@ -155,6 +155,6 @@ risposte fanno risparmiare al meccanico metà del tempo di diagnosi, e a
 lei il suo costo.
 
 Per non tirare a indovinare partendo da descrizioni, registri il motore in
-funzione con l'app Stuk: confronta la registrazione con le sue risposte
+funzione con l'app Pro-Stuk: confronta la registrazione con le sue risposte
 sulle condizioni e mostra le cause probabili in percentuale con un livello
 di urgenza, e con quella lista il discorso in officina diventa concreto.

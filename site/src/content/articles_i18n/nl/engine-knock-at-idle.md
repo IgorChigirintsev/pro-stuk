@@ -1,6 +1,6 @@
 ---
 title: "Kloppen in de motor bij stationair toerental"
-metaTitle: "Kloppen stationair: oorzaken en oplossing | Stuk"
+metaTitle: "Kloppen stationair: oorzaken en oplossing | Pro-Stuk"
 description: "Waarom een motor stationair klopt: hydraulische klepstoters, de distributieketting, kleppen of de hulpapparatuur. Hoe u de oorzaken op het geluid uit elkaar houdt."
 faq:
   - q: "Waarom hoor ik de klop stationair en is hij weg bij hogere toeren?"

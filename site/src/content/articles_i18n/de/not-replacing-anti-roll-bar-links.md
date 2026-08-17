@@ -1,6 +1,6 @@
 ---
 title: "Was passiert, wenn man die Koppelstangen nie wechselt"
-metaTitle: "Koppelstangen nicht wechseln: die Folgen | Stuk"
+metaTitle: "Koppelstangen nicht wechseln: die Folgen | Pro-Stuk"
 description: "Wohin es führt, wenn man ausgeschlagene Koppelstangen weiterfährt: mehr Wanken, gerissene Stange, Verschleiß an Nachbarteilen. Wie lange das gutgeht."
 faq:
   - q: "Ist es gefährlich, mit klopfenden Koppelstangen zu fahren?"

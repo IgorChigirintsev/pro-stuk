@@ -1,6 +1,6 @@
 ---
 title: "Un claquement unique quand on démarre et quand on freine"
-metaTitle: "Claquement unique en démarrant et en freinant | Stuk"
+metaTitle: "Claquement unique en démarrant et en freinant | Pro-Stuk"
 description: "D'où vient un claquement unique au moment de partir et de s'arrêter : plaquettes, étrier, supports moteur, transmission. Comment le vérifier et ce qui décide la réparation."
 faq:
   - q: "Pourquoi le claquement est-il unique et non répété ?"
@@ -109,7 +109,7 @@ la page symptôme
 [claquements dans la suspension](/fr/symptoms/knocking-in-suspension/).
 
 Un bruit unique est difficile à attraper pendant un diagnostic : il est trop
-court. Enregistrez-le dans l'application Stuk directement dans la voiture ;
+court. Enregistrez-le dans l'application Pro-Stuk directement dans la voiture ;
 quelques départs et quelques arrêts fournissent assez de matière, et
 l'algorithme croise l'enregistrement avec vos réponses puis affiche les
 causes probables avec un niveau d'urgence, avant même le passage au garage.

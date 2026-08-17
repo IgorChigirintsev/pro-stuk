@@ -1,6 +1,6 @@
 ---
 title: "Cuffia del giunto omocinetico rotta: quanti chilometri restano"
-metaTitle: "Cuffia rotta: quanti chilometri si possono fare | Stuk"
+metaTitle: "Cuffia rotta: quanti chilometri si possono fare | Pro-Stuk"
 description: "Una cuffia rotta non distrugge subito il giunto, ma fa partire il conto alla rovescia. Quanti chilometri restano davvero, da che cosa dipende e che cosa costa meno."
 faq:
   - q: "Quanto cammina un'auto con la cuffia del giunto rotta?"
@@ -103,6 +103,6 @@ quando lo schiocco è già comparso è spiegato in
 [si può guidare con un giunto omocinetico che schiocca](/it/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 E se il suono è già comparso e vuole sapere se è il giunto esterno o
-qualcos'altro, lo registri nell'app Stuk mentre parte a sterzo tutto
+qualcos'altro, lo registri nell'app Pro-Stuk mentre parte a sterzo tutto
 girato: l'app incrocia la registrazione con le sue risposte a poche domande
 e mostra le cause probabili in percentuale.

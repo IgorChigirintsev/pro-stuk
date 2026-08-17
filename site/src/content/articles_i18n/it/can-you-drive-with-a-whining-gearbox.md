@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con il cambio che ronza"
-metaTitle: "Si può guidare con il cambio che ronza? | Stuk"
+metaTitle: "Si può guidare con il cambio che ronza? | Pro-Stuk"
 description: "Un cambio che ronza raramente ferma l'auto subito, ma il margine dipende dal carattere del suono. Cosa ronza, quali segni sono urgenti e cosa fare."
 faq:
   - q: "Quanti chilometri posso fare con il cambio che ronza?"
@@ -101,6 +101,6 @@ frazione dello stesso ronzio preso tardi.
 
 Se il ronzio è ancora uniforme e vuole capire se dietro ci sia un
 cuscinetto d'albero o sia normale rumore delle gomme, registri il suono
-con l'app Stuk in marce diverse e in rilascio. L'app confronta le
+con l'app Pro-Stuk in marce diverse e in rilascio. L'app confronta le
 registrazioni tra loro e mostra le cause probabili in percentuale, il che
 rende più facile la visita diagnostica.

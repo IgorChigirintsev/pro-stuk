@@ -1,7 +1,7 @@
 ---
 ru: "svist-turbiny-dizelnogo-sprinter-transit"
 title: "Turbo whistle on diesel vans: Sprinter, Transit"
-metaTitle: "Turbo whistle on diesel Sprinter and Transit vans | Stuk"
+metaTitle: "Turbo whistle on diesel Sprinter and Transit vans | Pro-Stuk"
 description: "Turbo whistle on diesel Sprinter and Transit vans: where normal ends and an air leak or shaft wear begins, and how to check the hoses."
 pubDate: "2026-06-27"
 related:
@@ -105,7 +105,7 @@ and
 [signs of a worn clutch](/en/articles/signs-of-a-worn-clutch/).
 
 If you are unsure whether your turbo's sound has changed, record it in the
-Stuk app — accelerating under load and at idle. The app matches the
+Pro-Stuk app — accelerating under load and at idle. The app matches the
 recordings with your answers and shows the likely causes with percentages,
 and the recording itself is useful as a reference point: in a month you
 will have something to compare against.

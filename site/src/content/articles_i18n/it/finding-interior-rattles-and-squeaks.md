@@ -1,6 +1,6 @@
 ---
 title: "Grilli nell'abitacolo: come trovare la fonte"
-metaTitle: "Grilli nell'abitacolo: come trovare la fonte | Stuk"
+metaTitle: "Grilli nell'abitacolo: come trovare la fonte | Pro-Stuk"
 description: "Un metodo passo per passo per dare la caccia ai grilli dell'abitacolo: localizzarli con le mani, cosa aggiunge un passeggero e quando il rumore è davvero la sospensione."
 faq:
   - q: "Perché un grillo sparisce proprio quando lo si cerca?"
@@ -99,7 +99,7 @@ e comincia a cigolare anche dove d'estate era tutto zitto — un grillo che esis
 solo sottozero raramente giustifica lo smontaggio di qualcosa.
 
 Dare la caccia a un grillo è molto più facile quando il suono è registrato.
-Avvii la registrazione nell'app Stuk, percorra il suo solito tratto sconnesso e
+Avvii la registrazione nell'app Pro-Stuk, percorra il suo solito tratto sconnesso e
 chieda al passeggero di premere i pannelli a turno: la registrazione mostrerà il
 momento in cui il cigolio si è interrotto. L'app le dirà anche se il suono viene
 davvero dall'abitacolo o se la ricerca appartiene alla sospensione.

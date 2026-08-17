@@ -1,6 +1,6 @@
 ---
 title: "Sifflement sous le capot à froid"
-metaTitle: "Sifflement sous le capot à froid : causes | Stuk"
+metaTitle: "Sifflement sous le capot à froid : causes | Pro-Stuk"
 description: "Pourquoi ça siffle sous le capot moteur froid et pourquoi ça part une fois chaud : la courroie, les galets, la pompe à eau. Comment trouver la source soi-même."
 faq:
   - q: "Pourquoi le sifflement disparaît-il une fois le moteur chaud ?"
@@ -145,6 +145,6 @@ et montrez l'enregistrement. Un mécanicien expérimenté distingue un patinage
 d'un roulement en quelques secondes, et cela vous évite une seconde visite.
 
 Si vous ne savez pas s'il s'agit de la courroie ou d'un roulement,
-enregistrez le sifflement du matin dans l'application Stuk : elle compare
+enregistrez le sifflement du matin dans l'application Pro-Stuk : elle compare
 l'enregistrement avec les bruits de panne typiques, tient compte de vos
 réponses et affiche les causes probables avec un niveau d'urgence.

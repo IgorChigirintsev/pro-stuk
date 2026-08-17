@@ -1,7 +1,7 @@
 ---
 ru: "bienie-rulya-pri-tormozhenii"
 title: "Steering wheel judder when braking"
-metaTitle: "Steering wheel judder when braking: causes | Stuk"
+metaTitle: "Steering wheel judder when braking: causes | Pro-Stuk"
 description: "Why the steering wheel shakes when you brake: uneven disc thickness, a sticking caliper, hub play. How to tell it apart from wheel vibration and what to do."
 pubDate: "2026-08-12"
 faq:
@@ -122,7 +122,7 @@ markedly longer before any judder comes back.
 
 If you are not sure what you are feeling — judder from the discs,
 vibration from the wheels or the ABS doing its job — record the sound and
-describe the situation in the Stuk app. It matches the recording against
+describe the situation in the Pro-Stuk app. It matches the recording against
 your answers — when the shaking appears, where you feel it, whether you
 were braking — and shows the likely causes with an urgency level. You
 arrive at the workshop with a clear picture instead of a vague “something

@@ -1,6 +1,6 @@
 ---
 title: "Geratel onder de auto bij accelereren"
-metaTitle: "Geratel onder de auto bij accelereren | Stuk"
+metaTitle: "Geratel onder de auto bij accelereren | Pro-Stuk"
 description: "Hitteschilden, een uitlaat die de bodem raakt, pingelen of een kapotte katalysator: waarom er iets ratelt bij accelereren en hoe ernstig dat is."
 faq:
   - q: "Hoe onderscheid ik geratel van een hitteschild van pingelen?"

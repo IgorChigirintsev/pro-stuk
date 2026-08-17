@@ -1,6 +1,6 @@
 ---
 title: "Hızlanırken tıngırtı: nedenleri"
-metaTitle: "Hızlanırken tıngırtı: nedenleri ve çözümleri | Stuk"
+metaTitle: "Hızlanırken tıngırtı: nedenleri ve çözümleri | Pro-Stuk"
 description: "Motor hızlanırken neden tıngırdar: detonasyon, yakıt, kurum, bujiler. Zararsız tıngırtıyı aşınmış piston pimlerinden nasıl ayırırsınız."
 faq:
   - q: "Tıngırtı gerçekten piston pimlerinden mi gelir?"
@@ -126,7 +126,7 @@ ve pistonlara zarar veren versiyon budur. Kurum temizliği önerilirse,
 kurumun kanıtı nedir diye sorun: buji durumu ve piston tepelerine
 endoskopla bakış dürüst cevaptır, kilometreden yapılan tahmin değildir.
 
-Servise gitmeden önce dayanacak bir şey isterseniz, hızlanma sesini Stuk
+Servise gitmeden önce dayanacak bir şey isterseniz, hızlanma sesini Pro-Stuk
 uygulamasında kaydedin. Uygulama kaydı tipik seslerle karşılaştırır,
 tıngırtının ne zaman ve nasıl çıktığına dair birkaç soru sorar ve
 muhtemel nedenleri aciliyet derecesiyle gösterir. Böylece servise «bir

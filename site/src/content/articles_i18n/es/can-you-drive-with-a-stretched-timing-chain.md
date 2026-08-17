@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con la cadena de distribución estirada?"
-metaTitle: "¿Se puede circular con la cadena estirada? | Stuk"
+metaTitle: "¿Se puede circular con la cadena estirada? | Pro-Stuk"
 description: "Qué se arriesga con una cadena de distribución estirada, cuándo es aceptable ir al taller por su cuenta, cuándo hace falta grúa y cuánto cuesta de verdad la demora."
 faq:
   - q: "¿Cuántos kilómetros se pueden hacer con la cadena de distribución estirada?"
@@ -147,7 +147,7 @@ reparación: una cadena gastada no se recupera ni sale más barata con el
 tiempo.
 
 Si no está seguro de que sea la cadena la que suena, grabe el motor con la
-aplicación Stuk: cruza la grabación con sus respuestas a unas pocas
+aplicación Pro-Stuk: cruza la grabación con sus respuestas a unas pocas
 preguntas y muestra las causas probables con una valoración de urgencia.
 Así es más fácil decidir entre ir conduciendo al taller o llamar
 directamente a la grúa.

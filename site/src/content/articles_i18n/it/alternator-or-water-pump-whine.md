@@ -1,6 +1,6 @@
 ---
 title: "Alternatore o pompa acqua: distinguere il ronzio"
-metaTitle: "Ronzio: alternatore o pompa acqua? | Stuk"
+metaTitle: "Ronzio: alternatore o pompa acqua? | Pro-Stuk"
 description: "Alternatore e pompa acqua stanno sulla stessa cinghia e ronzano uguale. I controlli che li separano in dieci minuti e cosa rischia ciascuna ipotesi."
 faq:
   - q: "Come distinguo il ronzio dell'alternatore da quello della pompa acqua senza smontare nulla?"
@@ -93,7 +93,7 @@ viene smontata dopo un lungo servizio. È un pezzo piccolo accanto alla
 manodopera che si sta già pagando.
 
 Il modo più semplice per catturare la differenza è una registrazione:
-faccia due file brevi nell'app Stuk, al minimo senza carico e mezzo minuto
+faccia due file brevi nell'app Pro-Stuk, al minimo senza carico e mezzo minuto
 dopo aver acceso fari e riscaldatore. L'app li confronta con le sue
 risposte e mostra le cause probabili in percentuale, così arriva con una
 teoria invece che con un generico «ronza qualcosa».

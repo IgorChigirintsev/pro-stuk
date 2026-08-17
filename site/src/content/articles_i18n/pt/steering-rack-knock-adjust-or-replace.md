@@ -1,6 +1,6 @@
 ---
 title: "Batida na caixa de direção: ajustar ou trocar"
-metaTitle: "Batida na caixa de direção: ajustar ou trocar | Stuk"
+metaTitle: "Batida na caixa de direção: ajustar ou trocar | Pro-Stuk"
 description: "Quando a caixa de direção que bate só precisa de ajuste e quando pede recondicionamento ou troca: os critérios e o risco de apertar demais o guia."
 faq:
   - q: "Quanto tempo dura o ajuste da caixa?"
@@ -99,6 +99,6 @@ caminho de diagnóstico e reparo completamente diferente —
 A lista completa de sintomas do próprio mecanismo vale conferir à parte.
 
 Se a decisão ainda está em aberto e você quer uma segunda opinião
-independente, grave a batida no aplicativo Stuk num trecho de rua que você
+independente, grave a batida no aplicativo Pro-Stuk num trecho de rua que você
 sabe que é ruim. O app cruza o som com as suas respostas, mostra as causas
 prováveis e o nível de urgência — e a conversa na oficina fica objetiva.

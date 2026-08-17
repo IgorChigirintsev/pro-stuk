@@ -1,6 +1,6 @@
 ---
 title: "Geräusche der Haldex-Kupplung: die Symptome"
-metaTitle: "Haldex-Kupplung: Geräusche und Diagnose | Stuk"
+metaTitle: "Haldex-Kupplung: Geräusche und Diagnose | Pro-Stuk"
 description: "Wie eine kämpfende Haldex-Kupplung klingt, warum das Knirschen bei langsamen Manövern auftritt und wie es sich vom Knacken eines Gleichlaufgelenks unterscheidet."
 faq:
   - q: "Wie unterscheidet sich das Kupplungsgeräusch von einem Gleichlaufgelenk?"

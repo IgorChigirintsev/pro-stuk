@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de la cremallera de dirección: cómo identificarlo"
-metaTitle: "Golpeteo de la cremallera: cómo identificarlo | Stuk"
+metaTitle: "Golpeteo de la cremallera: cómo identificarlo | Pro-Stuk"
 description: "Cómo saber que golpea la cremallera de dirección y no los terminales o las barras: los signos característicos, una prueba entre dos y de qué depende el arreglo."
 faq:
   - q: "¿Puedo circular con la cremallera golpeando?"
@@ -152,6 +152,6 @@ cremallera reacondicionada detrás de unos fuelles viejos rotos tira a la
 basura todo el trabajo.
 
 Si quiere poner a prueba sus sospechas antes del taller, grabe el golpeteo con
-la aplicación Stuk: pase por un tramo malo con la grabación en marcha y
+la aplicación Pro-Stuk: pase por un tramo malo con la grabación en marcha y
 responda unas cuantas preguntas; la aplicación compara el sonido con perfiles
 típicos de avería y muestra las causas probables con un nivel de urgencia.

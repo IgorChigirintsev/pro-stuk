@@ -1,7 +1,7 @@
 ---
 ru: "drebezzhit-pod-dnishchem-na-skorosti"
 title: "Rattling under the floor at speed"
-metaTitle: "Rattling under the floor at speed: what to check | Stuk"
+metaTitle: "Rattling under the floor at speed: what to check | Pro-Stuk"
 description: "Heat shields, the flexible section, exhaust hangers: why something rattles under the floor at speed, how to find the source and what it leads to if ignored."
 pubDate: "2026-07-14"
 related:
@@ -130,7 +130,7 @@ choice affects how long the repair lasts. If the silencer has broken up
 inside, ask whether the system is being welded or the box replaced —
 welding is cheaper but the corrosion that caused it is usually not local.
 
-If you still cannot find the source, record the rattle in the Stuk app at
+If you still cannot find the source, record the rattle in the Pro-Stuk app at
 exactly the speed where it appears: the app matches the recording against
 your answers about the conditions and shows the likely causes with an
 urgency level. With that theory in hand, the search at the workshop takes

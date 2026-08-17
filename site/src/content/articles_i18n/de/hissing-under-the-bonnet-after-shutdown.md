@@ -1,6 +1,6 @@
 ---
 title: "Zischen unter der Haube nach dem Abstellen"
-metaTitle: "Zischen unter der Haube nach dem Abstellen | Stuk"
+metaTitle: "Zischen unter der Haube nach dem Abstellen | Pro-Stuk"
 description: "Zischen unter der Haube bei abgestelltem Motor kann harmlos oder ernst sein. Wie Sie einen abkühlenden Auspuff von einer Kühlmittel- oder Falschluftleckage trennen."
 faq:
   - q: "Ist Zischen direkt nach dem Abstellen gefährlich?"

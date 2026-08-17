@@ -1,6 +1,6 @@
 ---
 title: "Çift kütleli volanın arıza belirtileri"
-metaTitle: "Çift kütleli volan arızası: belirtileri | Stuk"
+metaTitle: "Çift kütleli volan arızası: belirtileri | Pro-Stuk"
 description: "Rölantide takırtı, debriyaja basınca değişen ses, kontak kapanırken gümbürtü — yorulmuş çift kütleli volanın belirtileri nasıl okunur."
 faq:
   - q: "Çift kütleli volan tam olarak ne yapar?"
@@ -94,6 +94,6 @@ değiştirmek bir o kadar can yakar. Mantıklı sıra, önce basit olanları
 elemektir: takozlar, tekleme, debriyaj bilyası.
 
 Rölantideki takırtı çoktan duyuluyorsa ve hangi gruba ait olduğunu
-öğrenmek istiyorsanız, Stuk uygulamasına iki kez kaydedin — debriyaj
+öğrenmek istiyorsanız, Pro-Stuk uygulamasına iki kez kaydedin — debriyaj
 pedalı serbestken ve basılıyken. Uygulama kayıtları birkaç soruya
 verdiğiniz yanıtlarla eşleştirir ve olası nedenleri yüzdeleriyle gösterir.

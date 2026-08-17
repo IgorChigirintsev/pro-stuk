@@ -1,6 +1,6 @@
 ---
 title: "Usura dei silent block dei bracci anteriori: i sintomi"
-metaTitle: "Silent block dei bracci anteriori: sintomi | Stuk"
+metaTitle: "Silent block dei bracci anteriori: sintomi | Pro-Stuk"
 description: "Colpi sordi nelle buche, sterzo che vaga e auto che segue i solchi: i segni tipici dei silent block consumati e come si controllano davvero."
 faq:
   - q: "Come capisco se sono i silent block e non un giunto sferico?"
@@ -110,6 +110,6 @@ comportamento impreciso alle velocità autostradali.
 
 Se i tonfi nelle buche si sentono già ma non capite da dove arrivino,
 registrate un passaggio su un tratto rotto che conoscete bene con l’app
-Stuk. L’app confronta il carattere dell’impatto con le vostre risposte su
+Pro-Stuk. L’app confronta il carattere dell’impatto con le vostre risposte su
 velocità e comportamento dello sterzo e mostra le cause probabili in
 percentuale: resta solo la conferma da fare sul ponte.

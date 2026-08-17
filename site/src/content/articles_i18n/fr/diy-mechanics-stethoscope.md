@@ -1,6 +1,6 @@
 ---
 title: "Un stéthoscope de mécanicien fait maison"
-metaTitle: "Stéthoscope de mécanicien fait maison | Stuk"
+metaTitle: "Stéthoscope de mécanicien fait maison | Pro-Stuk"
 description: "Comment fabriquer un stéthoscope auto avec un tournevis, une durite ou un tube, où écouter sur le moteur et les accessoires, et les règles de sécurité."
 faq:
   - q: "Un tournevis fonctionne-t-il vraiment à la place d'un stéthoscope ?"
@@ -115,6 +115,6 @@ Un stéthoscope du commerce à membrane reste modeste à l'achat et entend
 plus proprement qu'un modèle fait maison, mais la version maison répond
 déjà à la question principale : cet organe-ci ou celui d'à côté. Et pour
 ne pas avoir à vous fier à votre seule mémoire, lancez un enregistrement
-dans l'application Stuk pendant que vous écoutez. L'application croise le
+dans l'application Pro-Stuk pendant que vous écoutez. L'application croise le
 son avec vos réponses sur le régime et l'emplacement et affiche les causes
 probables avec leurs pourcentages.

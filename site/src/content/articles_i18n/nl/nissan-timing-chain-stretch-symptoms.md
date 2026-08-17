@@ -1,6 +1,6 @@
 ---
 title: "Nissan Almera en Qashqai: symptomen van een opgerekte distributieketting"
-metaTitle: "Nissan: opgerekte distributieketting, symptomen | Stuk"
+metaTitle: "Nissan: opgerekte distributieketting, symptomen | Pro-Stuk"
 description: "Hoe een opgerekte distributieketting klinkt op de Almera en Qashqai, waarin het van andere motorklop verschilt en hoe de reparatie wordt bepaald."
 faq:
   - q: "Hoe lang gaat de distributieketting op deze motoren mee?"

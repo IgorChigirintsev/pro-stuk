@@ -1,6 +1,6 @@
 ---
 title: "Comprobar la holgura del buje levantando la rueda"
-metaTitle: "Comprobar la holgura del buje con la rueda en el aire | Stuk"
+metaTitle: "Comprobar la holgura del buje con la rueda en el aire | Pro-Stuk"
 description: "Cómo levantar una rueda con seguridad y comprobar la holgura: los agarres 12–6 y 3–9, cómo separar el rodamiento de la rótula y de la dirección."
 faq:
   - q: "¿Cuánta holgura en la rueda se considera normal?"
@@ -92,6 +92,6 @@ carácter: se llega con una teoría concreta y sabiendo qué debería
 confirmarse en el elevador.
 
 Si ha encontrado holgura pero no sabe qué pieza la produce, grabe el sonido
-con la aplicación Stuk en un tramo de firme malo. La aplicación compara la
+con la aplicación Pro-Stuk en un tramo de firme malo. La aplicación compara la
 grabación con sus respuestas y muestra las causas probables con porcentajes:
 un seguro útil contra las líneas de más en la factura.

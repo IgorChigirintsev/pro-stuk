@@ -1,6 +1,6 @@
 ---
 title: "Vibração e zumbido a 100 km/h"
-metaTitle: "Vibração e zumbido a 100 km/h: as causas | Stuk"
+metaTitle: "Vibração e zumbido a 100 km/h: as causas | Pro-Stuk"
 description: "De onde vêm vibração e zumbido a 100 km/h: balanceamento, roda empenada, rolamento de roda ou barulho de pneu. Testes que você faz num único trajeto."
 faq:
   - q: "Por que a vibração aparece perto de 100 km/h?"
@@ -120,7 +120,7 @@ cubo inteiro é trocado — essa única resposta muda todo o tamanho do
 serviço.
 
 Se depois do trajeto ainda não estiver claro se é vibração, zumbido ou os
-dois, grave o som no aplicativo Stuk na estrada. O app cruza a gravação com
+dois, grave o som no aplicativo Pro-Stuk na estrada. O app cruza a gravação com
 suas respostas — em que velocidade aparece, se muda em curva, o que foi
 mexido nas rodas recentemente — e mostra as causas prováveis com um nível
 de urgência. Com essa gravação você não vai precisar reproduzir o problema

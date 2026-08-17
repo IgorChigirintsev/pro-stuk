@@ -1,6 +1,6 @@
 ---
 title: "Sadece yolcu veya yük varken çıkan tıkırtı"
-metaTitle: "Yolcu veya yükle çıkan tıkırtı: sebepleri | Stuk"
+metaTitle: "Yolcu veya yükle çıkan tıkırtı: sebepleri | Pro-Stuk"
 description: "Araç boşken sessiz, insan ve bagajla birlikte tıkırtı çıkıyor. Yük altında ne değişir ve hangi parçalar kendini tam da böyle ele verir."
 faq:
   - q: "Araç boşken sessiz, yolcuyla neden tıkırdıyor?"
@@ -102,7 +102,7 @@ amortisörlerle gitmenin bedeli
 [ölmüş amortisörlerle araç kullanmak](/tr/articles/driving-with-dead-shock-absorbers/)
 yazısında.
 
-Servise gitmeden önce neyin ses çıkardığını anlamak isterseniz sesi Stuk
+Servise gitmeden önce neyin ses çıkardığını anlamak isterseniz sesi Pro-Stuk
 uygulamasında kaydetmeyi deneyin: aynı yolu iki kez gidin, bir kez boş bir
 kez yüklü. Kayıtlar arasındaki fark tek başına bilgi vericidir; uygulama
 da bunu cevaplarınızla eşleştirip olası sebepleri yüzdeyle gösterir.

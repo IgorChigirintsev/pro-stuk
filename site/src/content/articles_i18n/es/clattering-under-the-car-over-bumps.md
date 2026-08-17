@@ -1,6 +1,6 @@
 ---
 title: "Traqueteo bajo el coche al pasar baches"
-metaTitle: "Traqueteo bajo el coche al pasar baches: causas | Stuk"
+metaTitle: "Traqueteo bajo el coche al pasar baches: causas | Pro-Stuk"
 description: "Bieletas, cubrecárter, soportes del escape: por qué traquetea algo bajo el coche al pasar baches, cómo encontrar el origen y cuándo es realmente serio."
 faq:
   - q: "¿Por qué traquetea en baches pequeños y se calla en los grandes?"
@@ -125,7 +125,7 @@ entero: la respuesta cambia el trabajo y el tiempo, y es una pregunta
 legítima y no una venta forzada.
 
 Si el traqueteo se resiste a dejarse localizar, grábelo con la aplicación
-Stuk pasando por su carretera rota de siempre: la aplicación compara el
+Pro-Stuk pasando por su carretera rota de siempre: la aplicación compara el
 sonido con sus respuestas sobre cuándo aparece y muestra las causas probables
 con un nivel de urgencia, dejando al taller solo la tarea de confirmar la
 teoría en el elevador.

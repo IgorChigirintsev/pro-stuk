@@ -1,7 +1,7 @@
 ---
 ru: "stuk-slyshen-tolko-s-otkrytym-oknom"
 title: "A knock you only hear with the window open"
-metaTitle: "A knock only audible with the window open | Stuk"
+metaTitle: "A knock only audible with the window open | Pro-Stuk"
 description: "Window shut — silence; window down — a clear knock. Why that happens, what it tells you about the source, and how to use the effect for diagnosis."
 pubDate: "2026-06-01"
 related:
@@ -113,6 +113,6 @@ suggests, as covered in
 Such a sound is almost impossible to convey to a mechanic in words: in the
 workshop bay the car is standing, the windows are open, and the very
 combination of speed and cornering is missing. So record a run with the
-window down in the Stuk app — it analyses the recording, matches it with
+window down in the Pro-Stuk app — it analyses the recording, matches it with
 your answers about speed and conditions, and shows the likely causes with
 percentages, giving the workshop a specific clip to listen to.

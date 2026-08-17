@@ -1,6 +1,6 @@
 ---
 title: "Een monteursstethoscoop die u zelf maakt"
-metaTitle: "Zelf een monteursstethoscoop maken | Stuk"
+metaTitle: "Zelf een monteursstethoscoop maken | Pro-Stuk"
 description: "Hoe u een autostethoscoop bouwt uit een schroevendraaier, een slang of een buisje, waar u op de motor en de hulpaandrijving luistert, en welke veiligheidsregels gelden."
 faq:
   - q: "Werkt een schroevendraaier echt in plaats van een stethoscoop?"

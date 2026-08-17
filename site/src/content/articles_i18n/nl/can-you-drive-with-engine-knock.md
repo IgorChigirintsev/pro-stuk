@@ -1,6 +1,6 @@
 ---
 title: "Kun je rijden met een kloppende motor"
-metaTitle: "Rijden met motorgeklop: de risico's | Stuk"
+metaTitle: "Rijden met motorgeklop: de risico's | Pro-Stuk"
 description: "Bij welk motorgeklop u nog naar de werkplaats kunt rijden en wanneer u de motor uitzet en een sleepwagen belt. De regels van een rustig regime en wat u vooral niet doet."
 faq:
   - q: "Kan ik naar de werkplaats rijden als het kloppen zacht is?"

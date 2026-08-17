@@ -1,6 +1,6 @@
 ---
 title: "Ressorts affaissés : les symptômes"
-metaTitle: "Ressorts affaissés : symptômes et contrôles | Stuk"
+metaTitle: "Ressorts affaissés : symptômes et contrôles | Pro-Stuk"
 description: "Comment savoir que les ressorts se sont affaissés : mesures de hauteur de caisse, comportement de la voiture, signes indirects. Ce qu'implique le remplacement."
 faq:
   - q: "Pourquoi les ressorts s'affaissent-ils ?"
@@ -139,7 +139,7 @@ même temps, voyez
 [comment savoir que les amortisseurs sont morts](/fr/articles/how-to-tell-shock-absorbers-are-dead/).
 
 Si la voiture s'est affaissée et que des claquements inexpliqués sont
-apparus avec, commencez par un enregistrement dans l'application Stuk :
+apparus avec, commencez par un enregistrement dans l'application Pro-Stuk :
 elle confronte le son à vos réponses sur le comportement de la voiture et
 affiche les causes probables avec un niveau d'urgence — ce qui facilite la
 décision sur ce qu'il faut remplacer en premier.

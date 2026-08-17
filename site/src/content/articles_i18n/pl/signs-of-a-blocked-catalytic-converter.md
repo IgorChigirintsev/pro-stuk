@@ -1,6 +1,6 @@
 ---
 title: "Objawy zapchanego katalizatora"
-metaTitle: "Objawy zapchanego katalizatora | Stuk"
+metaTitle: "Objawy zapchanego katalizatora | Pro-Stuk"
 description: "Zapchany katalizator dusi silnik: auto nie przyspiesza, gaśnie pod obciążeniem, więcej pali. Jak odróżnić to od innych przyczyn utraty mocy."
 faq:
   - q: "Czy katalizator może zapchać się nagle?"
@@ -104,7 +104,7 @@ a jeśli podejrzewasz rozrząd, pomaga porównanie z tekstem o
 [jeździe z rozciągniętym łańcuchem](/pl/articles/can-you-drive-with-a-stretched-timing-chain/).
 
 Jeśli moc gaśnie stopniowo, a nie masz pewności, że winny jest wydech,
-nagraj silnik i wydech w aplikacji Stuk — na biegu jałowym i przy ostrym
+nagraj silnik i wydech w aplikacji Pro-Stuk — na biegu jałowym i przy ostrym
 dodaniu gazu. Aplikacja zestawia nagranie z twoim opisem objawów i pokazuje
 prawdopodobne przyczyny z procentami, więc przyjeżdżasz z gotową hipotezą, a
 nie z „auto nie jedzie”.

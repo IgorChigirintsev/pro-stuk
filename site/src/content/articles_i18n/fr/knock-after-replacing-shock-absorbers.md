@@ -1,6 +1,6 @@
 ---
 title: "Un claquement après un remplacement d'amortisseurs"
-metaTitle: "Claquement après remplacement d'amortisseurs | Stuk"
+metaTitle: "Claquement après remplacement d'amortisseurs | Pro-Stuk"
 description: "Pourquoi un claquement est apparu après des amortisseurs neufs : erreurs de serrage, coupelles et butées anciennes, pièce défectueuse. Qui paie la remise en état."
 faq:
   - q: "Un claquement d'amortisseurs neufs peut-il se roder et disparaître ?"
@@ -106,7 +106,7 @@ réparation et un historique clair : ce qui a été remplacé, quand le son
 est apparu.
 
 Pour rester concret, capturez le claquement lui-même : enregistrez-le dans
-l'application Stuk sur la portion de route où il s'entend le mieux.
+l'application Pro-Stuk sur la portion de route où il s'entend le mieux.
 L'algorithme croise l'enregistrement avec vos réponses et affiche les
 causes probables avec un niveau d'urgence — avec un enregistrement, il est
 plus difficile pour un atelier de dire « tout va bien ».

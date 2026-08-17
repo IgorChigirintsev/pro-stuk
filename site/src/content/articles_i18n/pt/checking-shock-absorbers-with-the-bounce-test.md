@@ -1,6 +1,6 @@
 ---
 title: "Como checar os amortecedores com o teste de balanço"
-metaTitle: "Teste de balanço do amortecedor, passo a passo | Stuk"
+metaTitle: "Teste de balanço do amortecedor, passo a passo | Pro-Stuk"
 description: "O teste de balanço passo a passo: como empurrar a carroceria, como contar os movimentos, o que ele não mostra e quando é preciso banco de teste."
 faq:
   - q: "O teste de balanço é confiável?"
@@ -139,6 +139,6 @@ original no outro produz um carro que se comporta de um jeito na frente e
 de outro atrás.
 
 Se o teste de balanço deu resposta ambígua e há na suspensão um barulho
-difícil de descrever, grave-o no aplicativo Stuk enquanto dirige. O app
+difícil de descrever, grave-o no aplicativo Pro-Stuk enquanto dirige. O app
 cruza a gravação com as suas respostas e mostra as causas prováveis com
 nível de urgência.

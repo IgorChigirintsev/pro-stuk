@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit gelängter Steuerkette fahren"
-metaTitle: "Mit gelängter Steuerkette fahren? | Stuk"
+metaTitle: "Mit gelängter Steuerkette fahren? | Pro-Stuk"
 description: "Was eine gelängte Steuerkette riskiert, wann die eigene Fahrt in die Werkstatt vertretbar ist, wann ein Abschleppwagen nötig ist und was Aufschieben kostet."
 faq:
   - q: "Wie weit kann ich mit gelängter Steuerkette fahren?"

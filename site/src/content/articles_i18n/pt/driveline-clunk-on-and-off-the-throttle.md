@@ -1,6 +1,6 @@
 ---
 title: "Trepidada na transmissão ao tirar e pôr o pé"
-metaTitle: "Batida na transmissão ao tirar e pôr o pé | Stuk"
+metaTitle: "Batida na transmissão ao tirar e pôr o pé | Pro-Stuk"
 description: "A pancada surda no instante em que você tira ou volta o pé do acelerador é folga da transmissão. Quais peças batem e como diferenciar cada uma delas."
 faq:
   - q: "Por que a batida só aparece no trânsito?"
@@ -95,7 +95,7 @@ agora, antes de o estalo começar, é o reparo mais barato de toda esta
 lista.
 
 Se a batida ainda é rara e você nem tem certeza de que existe, grave um
-trajeto urbano no aplicativo Stuk: o trecho mais útil é um com várias
+trajeto urbano no aplicativo Pro-Stuk: o trecho mais útil é um com várias
 acelerações e paradas seguidas. O app cruza a gravação com as suas
 respostas sobre quando exatamente a pancada acontece e mostra as causas
 prováveis com porcentagens, para a conversa na oficina começar por uma peça

@@ -1,6 +1,6 @@
 ---
 title: "Bicos injetores tiquetaqueando: normal ou não"
-metaTitle: "Bico injetor tiquetaqueando: normal ou não | Stuk"
+metaTitle: "Bico injetor tiquetaqueando: normal ou não | Pro-Stuk"
 description: "Tique dos bicos injetores: por que acontece, quando é normal do motor e quando indica defeito. Como separar isso do ruído dos tuchos hidráulicos."
 faq:
   - q: "Por que os bicos só se ouvem em marcha lenta?"
@@ -108,6 +108,6 @@ de bico encosta nisso — é serviço à parte, e vale confirmar ou descartar
 antes de pagar pelo errado.
 
 Se o tique levanta dúvida — mais alto, menos parelho, acompanhado de
-vibração — grave o motor em marcha lenta no aplicativo Stuk: o algoritmo
+vibração — grave o motor em marcha lenta no aplicativo Pro-Stuk: o algoritmo
 cruza o som com perfis típicos e com as suas respostas e mostra se aquilo
 lembra funcionamento normal de bico ou motivo para ir à oficina.

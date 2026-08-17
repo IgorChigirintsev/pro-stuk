@@ -1,6 +1,6 @@
 ---
 title: "Barulho de diesel: bicos ou folga de válvulas"
-metaTitle: "Barulho de diesel: bicos ou válvulas | Stuk"
+metaTitle: "Barulho de diesel: bicos ou válvulas | Pro-Stuk"
 description: "Motor a gasolina começou a soar como diesel: quando a culpa é dos bicos injetores, quando é a folga das válvulas e como separar os dois de ouvido."
 faq:
   - q: "Por que um motor a gasolina soa como diesel?"
@@ -96,7 +96,7 @@ válvulas seja trocada enquanto a tampa está fora. É uma peça pequena, e
 fazer isso depois é pagar a mesma desmontagem duas vezes.
 
 Barulho de diesel é um caso em que descrever o som em palavras é quase
-impossível e gravar é fácil. Faça duas gravações no aplicativo Stuk: logo
+impossível e gravar é fácil. Faça duas gravações no aplicativo Pro-Stuk: logo
 depois da partida fria e depois de dez minutos rodando. O app examina as
 duas por frequência e caráter e mostra as causas prováveis com
 porcentagens, para você chegar à oficina com uma tese concreta.

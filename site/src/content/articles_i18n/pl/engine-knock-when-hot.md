@@ -1,6 +1,6 @@
 ---
-title: "Stuk w silniku na gorąco"
-metaTitle: "Stuk silnika na gorąco: przyczyny i co robić | Stuk"
+title: "Pro-Stuk w silniku na gorąco"
+metaTitle: "Pro-Stuk silnika na gorąco: przyczyny i co robić | Pro-Stuk"
 description: "Dlaczego silnik zaczyna stukać po nagrzaniu: olej, popychacze hydrauliczne, panewki czy spalanie stukowe. Jak zawęzić przyczynę po zachowaniu dźwięku."
 faq:
   - q: "Dlaczego silnik stuka dopiero po nagrzaniu?"
@@ -69,7 +69,7 @@ niepokojąco, a kosztuje tyle co nic.
 | Głuchy stuk z głębi, rośnie pod obciążeniem | Panewki wału | Natychmiast do warsztatu |
 | Jasne dzwonienie przy przyspieszaniu | Spalanie stukowe | Sprawdzić paliwo i chłodzenie |
 | Blaszany grzechot w części zakresu obrotów | Osłona termiczna wydechu | Niegroźne, przy okazji |
-| Stuk plus lampka oleju na biegu jałowym | Ciśnienie oleju | Zgasić silnik, laweta |
+| Pro-Stuk plus lampka oleju na biegu jałowym | Ciśnienie oleju | Zgasić silnik, laweta |
 
 ## Rola oleju: lepkość, poziom, wiek
 
@@ -102,10 +102,10 @@ oddzielają konkretną wizytę w warsztacie od zgadywania. Najlepiej zrobić
 je w cichym miejscu, przy otwartej masce, na w pełni nagrzanym silniku.
 
 1. **Obroty.** Na ciepłym silniku proszę płynnie podnieść obroty do 2000.
-   Stuk zniknął — prawdopodobne są popychacze albo ciśnienie oleju;
+   Pro-Stuk zniknął — prawdopodobne są popychacze albo ciśnienie oleju;
    przyspieszył razem z obrotami — źródło jest w układzie korbowym.
 2. **Obciążenie.** Warto zauważyć, czy dźwięk rośnie przy przyspieszaniu i
-   pod górę. Stuk „na gazie” przemawia za panewkami albo spalaniem
+   pod górę. Pro-Stuk „na gazie” przemawia za panewkami albo spalaniem
    stukowym.
 3. **Miejsce.** Z góry — napęd zaworów; z głębi i z dołu — wał korbowy;
    z tyłu i od spodu — możliwe, że wydech.
@@ -145,7 +145,7 @@ stronie objawu
 [stukanie w silniku](/pl/symptoms/knocking-in-engine/).
 
 Jeśli przed wizytą w warsztacie przydałoby się coś konkretnego, proszę
-nagrać dźwięk nagrzanego silnika w aplikacji Stuk. Zestawia ona nagranie z
+nagrać dźwięk nagrzanego silnika w aplikacji Pro-Stuk. Zestawia ona nagranie z
 typowymi stukami, zadaje kilka pytań doprecyzowujących i pokazuje
 prawdopodobne przyczyny wraz z poziomem pilności — z taką listą rozmowa z
 mechanikiem idzie szybciej.

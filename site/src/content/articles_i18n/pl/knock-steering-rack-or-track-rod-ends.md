@@ -1,9 +1,9 @@
 ---
-title: "Stuk: przekładnia kierownicza czy końcówki drążków"
-metaTitle: "Stuk w kierownicy: przekładnia czy końcówki | Stuk"
-description: "Stuk przenoszony na kierownicę na nierównościach daje i przekładnia kierownicza, i końcówki drążków. Jak je rozdzielić prostymi sprawdzeniami."
+title: "Pro-Stuk: przekładnia kierownicza czy końcówki drążków"
+metaTitle: "Pro-Stuk w kierownicy: przekładnia czy końcówki | Pro-Stuk"
+description: "Pro-Stuk przenoszony na kierownicę na nierównościach daje i przekładnia kierownicza, i końcówki drążków. Jak je rozdzielić prostymi sprawdzeniami."
 faq:
-  - q: "Stuk idzie w kierownicę — czyli to na pewno układ kierowniczy?"
+  - q: "Pro-Stuk idzie w kierownicę — czyli to na pewno układ kierowniczy?"
     a: "Niekoniecznie. Łączniki stabilizatora, górne mocowania amortyzatorów i sworznie wahaczy też posyłają stuk w kierownicę — siedzą blisko układu kierowniczego, a drgania biegną wzdłuż drążków. Stąd zasada: najpierw oddzielić elementy kierownicze od zawieszenia, a dopiero potem szukać konkretnej części."
   - q: "Czy regulacja przekładni pomaga?"
     a: "Pomaga, jeśli zużycie mieści się jeszcze w zakresie śruby regulacyjnej. To tani sposób, by na jakiś czas usunąć stuk. Przy zużytej tulei albo wytartych zębach regulacja daje krótkotrwały efekt i dokłada ciężką kierownicę, więc robi się ją świadomie."
@@ -16,7 +16,7 @@ sources:
     url: "https://www.trwaftermarket.com"
 ---
 
-Stuk, który na drobnych nierównościach idzie prosto w kierownicę, to
+Pro-Stuk, który na drobnych nierównościach idzie prosto w kierownicę, to
 zgłoszenie, po którym w warsztacie prawie zawsze padają dwa słowa:
 przekładnia i końcówki. Przekładnia kierownicza zamienia obrót kierownicy
 na ruch drążków w bok. Końcówki to przeguby kulowe na końcach tych drążków,
@@ -51,7 +51,7 @@ zlokalizowane po jednej stronie. Zużytej końcówce prawie zawsze towarzyszy
 
 Pierwsze wymaga pomocnika. Auto stoi, silnik wyłączony, kierownicą porusza
 się w lewo i w prawo w zakresie luzu, a dłoń trzyma się na drążku przy
-mieszku przekładni. Stuk odczuwany w dłoni jako uderzenie z wnętrza korpusu
+mieszku przekładni. Pro-Stuk odczuwany w dłoni jako uderzenie z wnętrza korpusu
 wskazuje na przekładnię — szczegółowo opisano to w tekście
 [stuk przekładni kierowniczej: jak go rozpoznać](/pl/articles/how-to-identify-a-steering-rack-knock/).
 
@@ -100,7 +100,7 @@ przy przekładni odsuwa się na nieokreślony czas. Warto poprosić mechanika,
 by luz na każdej części pokazał, a nie opisał.
 
 Stuki układu kierowniczego dobrze się nagrywają, jeśli wie się, gdzie
-szukać. Przejechać drobną falkę i nagrać dźwięk w aplikacji Stuk, a potem
+szukać. Przejechać drobną falkę i nagrać dźwięk w aplikacji Pro-Stuk, a potem
 zrobić drugie nagranie na parkingu, poruszając kierownicą. Aplikacja
 porówna oba i pokaże prawdopodobne przyczyny z procentami — a także
 podpowie, od której płaszczyzny luzu zacząć sprawdzanie.

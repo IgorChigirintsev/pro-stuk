@@ -1,6 +1,6 @@
 ---
 title: "Cruscotto che vibra"
-metaTitle: "Cruscotto che vibra: trovare la fonte | Stuk"
+metaTitle: "Cruscotto che vibra: trovare la fonte | Pro-Stuk"
 description: "Un cruscotto che vibra dà più fastidio che danno. Perché la plastica si mette a ronzare, come trovare il punto di contatto in dieci minuti e quando la colpa non è del cruscotto."
 faq:
   - q: "Un cruscotto che vibra è pericoloso?"
@@ -105,7 +105,7 @@ accorcia quella ricerca. Se ha già trovato il pannello che, premuto, fa
 tacere il rumore, lo dica per primo.
 
 Se non riesce a capire se vibri la plancia o qualcosa dietro, registri il
-suono con l'app Stuk dall'interno dell'abitacolo: al minimo e in
+suono con l'app Pro-Stuk dall'interno dell'abitacolo: al minimo e in
 movimento. L'app confronta la registrazione con alcune risposte e mostra
 le fonti probabili in percentuale, così nessuno deve smontare il cruscotto
 tirando a indovinare.

@@ -1,6 +1,6 @@
 ---
 title: "Skrzypienie zawieszenia na nierównościach"
-metaTitle: "Skrzypienie zawieszenia na nierównościach | Stuk"
+metaTitle: "Skrzypienie zawieszenia na nierównościach | Pro-Stuk"
 description: "Dlaczego zawieszenie skrzypi na nierównościach: tuleje stabilizatora, tuleje wahaczy, sworznie. Kiedy wystarczy smar, a kiedy trzeba wymieniać części."
 faq:
   - q: "Czy skrzypiące zawieszenie jest niebezpieczne?"
@@ -119,7 +119,7 @@ do średnicy drążka. Za duża tuleja to klasyczny powód, dla którego skrzypi
 przeżywa naprawę.
 
 Jeśli dźwięk nie mówi ci, czy to nieszkodliwe skrzypienie, czy zużyty przegub,
-nagraj go w aplikacji Stuk: zestawia nagranie z twoimi odpowiedziami o tym,
+nagraj go w aplikacji Pro-Stuk: zestawia nagranie z twoimi odpowiedziami o tym,
 kiedy dźwięk się pojawia, i pokazuje prawdopodobne przyczyny wraz z oceną
 pilności.
 

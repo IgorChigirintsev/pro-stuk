@@ -1,6 +1,6 @@
 ---
 title: "Rumore in testata sul Mitsubishi 4B12: le punterie idrauliche"
-metaTitle: "Punterie idrauliche rumorose Mitsubishi 4B12 | Stuk"
+metaTitle: "Punterie idrauliche rumorose Mitsubishi 4B12 | Pro-Stuk"
 description: "Ticchettio dalla parte alta del 4B12: come si comportano le punterie idrauliche, perché la colpa è quasi sempre dell'olio e come distinguerlo dalla catena."
 faq:
   - q: "Il ticchettio sparisce un minuto dopo l'avviamento: è normale?"
@@ -95,7 +95,7 @@ non stare sentendo i freni — il loro linguaggio è spiegato in
 [riconoscere a orecchio l'usura delle pastiglie](/it/articles/brake-pad-wear-by-ear/).
 
 Se vuole capire se andare in officina domani, registri il rumore con
-l'app Stuk: una volta subito dopo l'avviamento a freddo, una volta a
+l'app Pro-Stuk: una volta subito dopo l'avviamento a freddo, una volta a
 motore caldo al minimo. L'app confronta le registrazioni con le sue
 risposte e mostra le cause probabili in percentuale; e la differenza fra le
 due registrazioni, da sola, dice già molto a un meccanico.

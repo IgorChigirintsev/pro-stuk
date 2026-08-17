@@ -1,6 +1,6 @@
 ---
 title: "Alternateur ou pompe à eau : reconnaître le sifflement"
-metaTitle: "Alternateur ou pompe à eau : d'où vient le bruit | Stuk"
+metaTitle: "Alternateur ou pompe à eau : d'où vient le bruit | Pro-Stuk"
 description: "L'alternateur et la pompe à eau tournent sur la même courroie et sifflent pareil. Les tests qui les séparent en dix minutes et ce que chacun risque."
 faq:
   - q: "Comment distinguer le sifflement de l'alternateur de celui de la pompe à eau sans rien démonter ?"
@@ -98,7 +98,7 @@ qu'elle est déposée après un long service. C'est une petite pièce à côté
 de la main-d'œuvre déjà payée.
 
 Le plus simple pour saisir la différence, c'est un enregistrement : faites
-deux courts fichiers dans l'application Stuk — au ralenti sans charge,
+deux courts fichiers dans l'application Pro-Stuk — au ralenti sans charge,
 puis une demi-minute après avoir allumé les phares et le dégivrage.
 L'application compare les deux avec vos réponses et affiche les causes
 probables avec un pourcentage, pour que vous arriviez avec une hypothèse

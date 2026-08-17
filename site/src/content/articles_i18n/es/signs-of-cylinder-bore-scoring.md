@@ -1,6 +1,6 @@
 ---
 title: "Señales de rayado en los cilindros"
-metaTitle: "Rayado de cilindros: ruido y consumo de aceite | Stuk"
+metaTitle: "Rayado de cilindros: ruido y consumo de aceite | Pro-Stuk"
 description: "Cinco señales de cilindros rayados: golpeteo en frío, consumo de aceite y pérdida de potencia. Qué motores están en riesgo y cómo se confirma con endoscopio."
 faq:
   - q: "¿Cómo se confirma definitivamente un rayado?"
@@ -107,7 +107,7 @@ lo hondo del bloque, esa es otra pregunta y más urgente:
 [señales de golpeteo de biela](/es/articles/signs-of-big-end-bearing-knock/).
 
 Si el motor ha empezado a golpetear en frío y sospecha lo peor, grabe el
-sonido con la aplicación Stuk. Compara la grabación con sus respuestas
+sonido con la aplicación Pro-Stuk. Compara la grabación con sus respuestas
 sobre las condiciones y muestra las causas probables con porcentajes y un
 nivel de urgencia: con esa foto delante, decidir sobre una endoscopia y una
 reparación resulta más fácil y más tranquilo.

@@ -1,6 +1,6 @@
 ---
 title: "Motor takozlarını yük altında kontrol etmek"
-metaTitle: "Motor takozlarını yük altında kontrol etmek | Stuk"
+metaTitle: "Motor takozlarını yük altında kontrol etmek | Pro-Stuk"
 description: "Motor takozları için yük testi: fren basılıyken vites seçmek, hangi harekete bakılır ve takozlar diğer takırtılardan nasıl ayırt edilir."
 faq:
   - q: "Motor genel olarak ne kadar oynamalı?"
@@ -96,6 +96,6 @@ fazla oynayan motor hortumları, tesisatı ve aksları zorlar. Makul aralık,
 gümbürtü ortaya çıktıktan sonraki bir iki ay içinde halletmektir.
 
 Darbenin gerçekten metalik mi olduğundan yoksa sadece sert bir kalkış mı
-olduğundan emin değilseniz, kalkış anını Stuk uygulamasında kaydedin.
+olduğundan emin değilseniz, kalkış anını Pro-Stuk uygulamasında kaydedin.
 Uygulama kaydı rejim hakkındaki cevaplarınızla eşleştirir ve olası sebepleri
 yüzdelerle gösterir.

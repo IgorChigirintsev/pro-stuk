@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com batida no motor"
-metaTitle: "Dá para rodar com batida no motor? | Stuk"
+metaTitle: "Dá para rodar com batida no motor? | Pro-Stuk"
 description: "Quais batidas no motor deixam você chegar à oficina e quais exigem desligar e chamar o guincho. Regras do modo suave e o que nunca fazer no caminho."
 faq:
   - q: "Dá para ir até a oficina se a batida é baixinha?"
@@ -131,7 +131,7 @@ do motor está na página de sintoma
 [batida no motor](/pt/symptoms/knocking-in-engine/).
 
 Se você ouve uma batida mas não tem certeza de onde ela vem, grave o
-motor funcionando no aplicativo Stuk. Ele compara a gravação com batidas
+motor funcionando no aplicativo Pro-Stuk. Ele compara a gravação com batidas
 típicas, faz algumas perguntas de esclarecimento e mostra de qual faixa o
 seu caso está mais perto e com que urgência a oficina é necessária. A
 decisão continua sendo sua, mas fica mais fácil de tomar com um ponto de

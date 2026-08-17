@@ -1,6 +1,6 @@
 ---
 title: "Come non farsi vendere lavori inutili durante la diagnosi"
-metaTitle: "Come non farsi vendere lavori inutili | Stuk"
+metaTitle: "Come non farsi vendere lavori inutili | Pro-Stuk"
 description: "Cosa comprende una diagnosi onesta, quali frasi devono farle fare una domanda e come verificare i lavori proposti senza essere esperti di auto."
 faq:
   - q: "La diagnosi gratuita è normale?"
@@ -92,7 +92,7 @@ riguardano la sicurezza e quali il comfort: un meccanico serio le separa
 senza esitare, perché è così che ragiona lui stesso sull'auto.
 
 Infine, aiuta arrivare con il suono stesso invece che con il suo racconto.
-Lo registri con l'app Stuk nella situazione in cui è più netto. L'app
+Lo registri con l'app Pro-Stuk nella situazione in cui è più netto. L'app
 confronta la registrazione con le sue risposte e mostra le cause probabili
 in percentuale, così la conversazione parte da una teoria concreta invece
 che da un foglio bianco.

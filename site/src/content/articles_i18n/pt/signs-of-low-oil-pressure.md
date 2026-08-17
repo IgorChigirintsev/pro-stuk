@@ -1,6 +1,6 @@
 ---
 title: "Sinais de pressão de óleo baixa"
-metaTitle: "Pressão de óleo baixa: sinais e causas | Stuk"
+metaTitle: "Pressão de óleo baixa: sinais e causas | Pro-Stuk"
 description: "Como notar pressão de óleo baixa antes do estrago: luz no painel, tique dos tuchos, batida de bronzina. As causas da queda e como se mede."
 faq:
   - q: "Por que a luz de óleo acende em marcha lenta com o motor quente?"
@@ -135,7 +135,7 @@ falta de lubrificação sinalizou o problema muito antes da luz — ninguém
 puxou a vareta.
 
 Se o motor começou a soar diferente enquanto a luz continua calada, grave o
-som no aplicativo Stuk. Ele cruza a gravação com sons típicos de motor, faz
+som no aplicativo Pro-Stuk. Ele cruza a gravação com sons típicos de motor, faz
 perguntas de esclarecimento e sugere se aquilo parece problema de
 lubrificação e com que pressa mostrar o carro a um mecânico. O que
 significa um barulho só a frio está em

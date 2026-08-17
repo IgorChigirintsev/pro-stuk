@@ -1,6 +1,6 @@
 ---
 title: "Sinais de batentes do amortecedor gastos"
-metaTitle: "Batentes do amortecedor gastos: sinais | Stuk"
+metaTitle: "Batentes do amortecedor gastos: sinais | Pro-Stuk"
 description: "Baques secos em buracos, farelo na torre do amortecedor, suspensão batendo no fim de curso: como reconhecer batentes gastos e quando trocar."
 faq:
   - q: "O que é o batente e para que ele serve?"
@@ -123,7 +123,7 @@ destruindo em uma temporada. Os kits dos grandes fabricantes de
 amortecedores trazem batente e coifa com a geometria correta.
 
 Não tem certeza de que os baques secos nos buracos são mesmo os batentes?
-Grave o som no aplicativo Stuk: ele cruza a gravação com as suas respostas
+Grave o som no aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas
 sobre como o carro se comporta e mostra as causas prováveis com
 porcentagens e um nível de urgência — assim você chega à oficina com uma
 teoria de trabalho.

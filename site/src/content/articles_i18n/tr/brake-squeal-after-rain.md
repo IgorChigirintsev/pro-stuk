@@ -1,6 +1,6 @@
 ---
 title: "Yağmurdan sonra fren ıslığı: normal mi değil mi"
-metaTitle: "Yağmurdan sonra fren ıslığı: normal mi | Stuk"
+metaTitle: "Yağmurdan sonra fren ıslığı: normal mi | Pro-Stuk"
 description: "Yağmurdan ve gece bekledikten sonra frenler neden öter, ne zaman zararsız disk pası, ne zaman yenmiş balata işaretidir — kulakla ayırmanın yolu."
 faq:
   - q: "Yağmur sonrası ıslık kaç frende geçer?"
@@ -130,7 +130,7 @@ kurutmak için birkaç sakin fren yapın ve ıslak kampana frenlerde el frenini
 uzun bekleme için çekili bırakmayın. Sabah ıslığını tamamen ortadan
 kaldırmaz — pas yine oluşur — ama ses daha kısık ve daha kısa olur.
 
-Sesi nasıl sınıflandıracağınızdan emin değilseniz, Stuk uygulamasında
+Sesi nasıl sınıflandıracağınızdan emin değilseniz, Pro-Stuk uygulamasında
 kaydedin — en iyisi sabah, ilk basışlarda, ıslığın en yüksek olduğu anda.
 Uygulama kaydı verdiğiniz cevaplarla eşleştirir ve olası nedenleri aciliyet
 derecesiyle gösterir.

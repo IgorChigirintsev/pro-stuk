@@ -1,6 +1,6 @@
 ---
 title: "Como soa um rolamento de roda morrendo"
-metaTitle: "Como soa um rolamento de roda morrendo | Stuk"
+metaTitle: "Como soa um rolamento de roda morrendo | Pro-Stuk"
 description: "De um zumbido fraco a 60 km/h até ronco e vibração no volante: como o rolamento de roda muda de som etapa por etapa e a partir de onde não dá mais para esperar."
 faq:
   - q: "Em que velocidade o rolamento se ouve logo no começo?"
@@ -102,6 +102,6 @@ vibração que sobra depois do conserto pega o dono de surpresa.
 
 Se o zumbido ainda está baixo e você não tem certeza de que não é
 impressão, grave um trecho de rodovia com mudanças de faixa no aplicativo
-Stuk. Ele cruza a gravação com suas respostas sobre velocidade, piso e
+Pro-Stuk. Ele cruza a gravação com suas respostas sobre velocidade, piso e
 direção da manobra e mostra as causas prováveis com porcentagens —
 inclusive uma dica de por qual roda começar.

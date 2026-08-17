@@ -1,6 +1,6 @@
 ---
 title: "Geluiden waarbij u onmiddellijk moet stoppen"
-metaTitle: "Autogeluiden waarbij u direct moet stoppen | Stuk"
+metaTitle: "Autogeluiden waarbij u direct moet stoppen | Pro-Stuk"
 description: "De meeste autogeluiden kunnen op een werkplaats wachten, maar een paar betekenen: nu afzetten. De signalen, veilig stoppen en wat u daarna doet."
 faq:
   - q: "Hoe weet ik dat een geluid betekent dat ik nu moet stoppen?"

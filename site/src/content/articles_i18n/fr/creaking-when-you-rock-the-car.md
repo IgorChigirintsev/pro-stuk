@@ -1,6 +1,6 @@
 ---
 title: "Un grincement quand on fait balancer la voiture"
-metaTitle: "Grincement quand on balance la voiture : causes | Stuk"
+metaTitle: "Grincement quand on balance la voiture : causes | Pro-Stuk"
 description: "Pourquoi la caisse grince quand on la pousse à la main et sur les ondulations : silentblocs de barre, silentblocs de bras, coupelles d'amortisseur."
 faq:
   - q: "Pourquoi le grincement empire après la pluie, un lavage ou par temps de gel ?"
@@ -104,7 +104,7 @@ se trouve en quelques minutes en faisant balancer la voiture et en
 regardant le caoutchouc.
 
 Si vous voulez trancher avant le garage, enregistrez le grincement dans
-l'application Stuk en faisant balancer la voiture ou en passant sur une
+l'application Pro-Stuk en faisant balancer la voiture ou en passant sur une
 ondulation caractéristique. L'algorithme croise l'enregistrement avec vos
 réponses et affiche les sources probables avec un niveau d'urgence : on
 voit alors si la visite peut attendre ou s'il vaut mieux la caler cette

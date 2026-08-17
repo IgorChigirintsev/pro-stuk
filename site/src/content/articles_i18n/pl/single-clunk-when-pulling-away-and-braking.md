@@ -1,6 +1,6 @@
 ---
 title: "Pojedynczy stuk przy ruszaniu i hamowaniu"
-metaTitle: "Pojedynczy stuk przy ruszaniu i hamowaniu | Stuk"
+metaTitle: "Pojedynczy stuk przy ruszaniu i hamowaniu | Pro-Stuk"
 description: "Skąd bierze się pojedynczy stuk przy ruszaniu i zatrzymywaniu: klocki, zaciski, poduszki silnika, wał napędowy. Jak to sprawdzić i od czego zależy naprawa."
 faq:
   - q: "Dlaczego stuk jest pojedynczy, a nie seryjny?"
@@ -72,7 +72,7 @@ Jeśli test hamulcowy nic nie daje, krąg się poszerza:
 | Poduszka silnika | Ruszanie, D–R, ostry gaz | Kiwnięcie silnika przy przygazowaniu |
 | Krzyżak | Ruszanie, dźwięk spod podłogi | Luz wału ręką na podnośniku |
 | Tuleje wahaczy | Ruszanie i hamowanie plus dziury | Oględziny gumy węzła |
-| Śruby koła | Stuk od jednego konkretnego koła | Sprawdzenie momentu kluczem |
+| Śruby koła | Pro-Stuk od jednego konkretnego koła | Sprawdzenie momentu kluczem |
 
 ## Od czego zależy naprawa
 
@@ -104,7 +104,7 @@ stały stuk na każdej nierówności, to już profil strony objawu
 [stukanie w zawieszeniu](/pl/symptoms/knocking-in-suspension/).
 
 Pojedynczy dźwięk trudno złapać w trakcie diagnostyki — jest za krótki.
-Nagraj go w aplikacji Stuk wprost w aucie: kilka ruszeń i zatrzymań daje
+Nagraj go w aplikacji Pro-Stuk wprost w aucie: kilka ruszeń i zatrzymań daje
 wystarczający materiał, a algorytm zestawia nagranie z Twoimi
 odpowiedziami i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności, jeszcze zanim pojedziesz do warsztatu.

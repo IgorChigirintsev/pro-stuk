@@ -1,6 +1,6 @@
 ---
 title: "Segni di una cinghia di distribuzione consumata"
-metaTitle: "Cinghia di distribuzione consumata: i segni | Stuk"
+metaTitle: "Cinghia di distribuzione consumata: i segni | Pro-Stuk"
 description: "Come capire che la cinghia di distribuzione è consumata: crepe, sfilacciature, ticchettii e ronzio dei galoppini. Perché la rottura è fatale e quando va sostituita."
 faq:
   - q: "Che cosa succede se la cinghia di distribuzione si spezza in marcia?"
@@ -112,6 +112,6 @@ tensione, e alcune viti dell'albero motore sono monouso. Un lavoro fatto
 senza quei passaggi può sembrare perfetto ed essere comunque sbagliato.
 
 Se dalla zona della distribuzione si sentono già ticchettii, fruscii o
-fischi, catturi il suono: una registrazione con l'app Stuk insieme alle
+fischi, catturi il suono: una registrazione con l'app Pro-Stuk insieme alle
 risposte a poche domande aiuta a capire se siano i galoppini, la pompa o
 qualcosa di più serio — e che cosa portare in officina.

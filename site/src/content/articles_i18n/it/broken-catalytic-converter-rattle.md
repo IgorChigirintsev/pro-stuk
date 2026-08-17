@@ -1,6 +1,6 @@
 ---
 title: "Catalizzatore sbriciolato: il rumore"
-metaTitle: "Catalizzatore rotto: che rumore fa | Stuk"
+metaTitle: "Catalizzatore rotto: che rumore fa | Pro-Stuk"
 description: "Un fruscio come di sabbia che scorre sotto il pianale e un sonaglio al minimo: come suona la ceramica del catalizzatore sbriciolata e cosa rischia il motore."
 faq:
   - q: "Come suona un catalizzatore sbriciolato?"
@@ -103,7 +103,7 @@ preventivo che risponde solo «le togliamo il rumore» merita una domanda di
 rimando.
 
 Se sente il fruscio ma non è sicura che arrivi dallo scarico, lo registri
-con l'app Stuk su una strada sconnessa e in partenza. L'app confronta la
+con l'app Pro-Stuk su una strada sconnessa e in partenza. L'app confronta la
 registrazione con le sue risposte a qualche domanda e mostra le sorgenti
 probabili in percentuale, il che rende più facile decidere tra andarci
 d'urgenza e prenotare un giorno comodo.

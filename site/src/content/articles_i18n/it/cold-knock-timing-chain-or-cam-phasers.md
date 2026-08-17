@@ -1,6 +1,6 @@
 ---
 title: "Battito a freddo: catena di distribuzione o variatori di fase"
-metaTitle: "Battito a freddo: catena o variatori di fase | Stuk"
+metaTitle: "Battito a freddo: catena o variatori di fase | Pro-Stuk"
 description: "Uno sferragliamento nei primi secondi dopo l'avviamento a freddo arriva sia da una catena allungata sia dai variatori di fase. Come distinguerli dalla durata."
 faq:
   - q: "Quanti secondi di battito a freddo si considerano normali?"
@@ -97,7 +97,7 @@ sferraglia esattamente come uno consumato, e la pulizia pesa una frazione
 del pezzo.
 
 Se non è sicura che il suo suono rientri nella norma, registri
-l'avviamento a freddo con l'app Stuk per diversi giorni di fila. L'app
+l'avviamento a freddo con l'app Pro-Stuk per diversi giorni di fila. L'app
 scompone la registrazione per carattere e durata e mostra le cause
 probabili in percentuale, e il confronto delle registrazioni tra loro dice
 da solo se il suono è stabile o in crescita.

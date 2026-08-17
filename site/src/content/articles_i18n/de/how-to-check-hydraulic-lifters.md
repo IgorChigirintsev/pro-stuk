@@ -1,6 +1,6 @@
 ---
 title: "Hydrostößel prüfen"
-metaTitle: "Hydrostößel nach Gehör prüfen | Stuk"
+metaTitle: "Hydrostößel nach Gehör prüfen | Pro-Stuk"
 description: "Wie Sie feststellen, dass die Hydrostößel die Tickquelle sind: Kalt- und Warmtests, Abgrenzung zu Ventilspiel und Injektoren, und was zu tun ist."
 faq:
   - q: "Das Ticken verschwindet nach dem Warmlaufen. Ist das normal?"

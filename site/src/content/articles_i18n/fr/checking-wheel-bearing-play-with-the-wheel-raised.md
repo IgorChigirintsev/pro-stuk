@@ -1,6 +1,6 @@
 ---
 title: "Contrôler le jeu de moyeu roue levée"
-metaTitle: "Contrôler le jeu de moyeu roue levée | Stuk"
+metaTitle: "Contrôler le jeu de moyeu roue levée | Pro-Stuk"
 description: "Comment lever une roue en sécurité et chercher du jeu : les prises 12–6 et 3–9, séparer le roulement de la rotule et de la direction, et la suite."
 faq:
   - q: "Quel jeu de roue peut être considéré comme normal ?"
@@ -98,7 +98,7 @@ la nature : vous arrivez avec une théorie précise et vous savez ce qui
 doit être confirmé sur le pont.
 
 Si vous avez trouvé du jeu sans pouvoir dire quelle pièce le produit,
-enregistrez le son dans l'application Stuk sur une portion de route
+enregistrez le son dans l'application Pro-Stuk sur une portion de route
 dégradée. L'application croise l'enregistrement avec vos réponses et
 affiche les causes probables avec leurs pourcentages — une assurance utile
 contre les lignes en trop sur la facture.

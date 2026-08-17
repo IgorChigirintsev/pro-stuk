@@ -1,6 +1,6 @@
 ---
 title: "Camry: Klopfen der Federbeine — das typische Problem"
-metaTitle: "Camry: Klopfen der Federbeine — was tauschen | Stuk"
+metaTitle: "Camry: Klopfen der Federbeine — was tauschen | Pro-Stuk"
 description: "Klopfen der vorderen Federbeine beim Camry über kleine Unebenheiten: warum nicht immer die Dämpfer schuld sind und wie die Reparatur entschieden wird."
 faq:
   - q: "Ist ein Klopfen der Camry-Vorderachse immer der Dämpfer?"

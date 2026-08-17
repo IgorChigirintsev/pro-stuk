@@ -1,6 +1,6 @@
 ---
 title: "Un battito nel motore solo a freddo: il quadro completo"
-metaTitle: "Battito solo a freddo: il quadro completo | Stuk"
+metaTitle: "Battito solo a freddo: il quadro completo | Pro-Stuk"
 description: "Perché il motore batte dopo l'avviamento e tace scaldandosi: punterie, mantelli dei pistoni, catena, variatori. Dove finisce il normale e iniziano le rigature."
 faq:
   - q: "Perché il battito sparisce proprio quando il motore si scalda?"
@@ -120,7 +120,7 @@ caldo, il ragionamento cambia, come in
 [un battito nel motore al minimo](/it/articles/engine-knock-at-idle/).
 
 Per non tirare a indovinare da quale voce del preventivo partire, registri
-un avviamento a freddo con l'app Stuk, la mattina presto, vicino al
+un avviamento a freddo con l'app Pro-Stuk, la mattina presto, vicino al
 cofano. Confronta il suono con le sue risposte sulle condizioni e mostra
 le cause probabili in percentuale con un livello di urgenza: con quello si
 può fare un discorso concreto con un'officina.

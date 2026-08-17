@@ -1,7 +1,7 @@
 ---
 ru: "zadiry-v-tsilindrah-hyundai-kia-kak-zvuchat"
 title: "Hyundai/Kia bore scoring: how it sounds"
-metaTitle: "Hyundai/Kia bore scoring: how it sounds | Stuk"
+metaTitle: "Hyundai/Kia bore scoring: how it sounds | Pro-Stuk"
 description: "How to recognise cylinder bore scoring by ear on Hyundai and Kia engines: the character of the knock, its link to warm-up and load, and how it is confirmed."
 pubDate: "2026-06-24"
 related:
@@ -102,7 +102,7 @@ ask for the endoscope photographs rather than a verbal verdict: the
 difference between light honing marks and deep grooves is what decides
 between watching and opening the engine, and it is visible in a picture.
 
-The first step is convenient with the Stuk app: record the sound on a cold
+The first step is convenient with the Pro-Stuk app: record the sound on a cold
 and a warm engine, note whether it changes under load, and answer the
 questions about oil top-ups. The app shows the likely causes with
 percentages and suggests which measurements are worth ordering at a

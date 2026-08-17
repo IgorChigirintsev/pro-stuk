@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een versleten vertanding op de aandrijfas"
-metaTitle: "Versleten vertanding aandrijfas herkennen | Stuk"
+metaTitle: "Versleten vertanding aandrijfas herkennen | Pro-Stuk"
 description: "Een tik bij wisselen van gas en rem, geklop bij wegrijden, speling op de as: zo herkent u een versleten vertanding van de aandrijfas."
 faq:
   - q: "Hoe verschilt een versleten vertanding van een versleten homokineet?"

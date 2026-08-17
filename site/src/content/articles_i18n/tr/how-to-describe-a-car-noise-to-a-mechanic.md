@@ -1,6 +1,6 @@
 ---
 title: "Ustaya ne söylemeli: sesi doğru anlatmak"
-metaTitle: "Araç sesini ustaya nasıl anlatmalı | Stuk"
+metaTitle: "Araç sesini ustaya nasıl anlatmalı | Pro-Stuk"
 description: "Ustanın ilk seferde anlaması için sesi nasıl anlatmalı: önemli olan beş şey, işe yarayan cümleler, sık yapılan hatalar ve söylenmemesi gerekenler."
 faq:
   - q: "Şüphelendiğim parçayı söylemeli miyim?"
@@ -101,7 +101,7 @@ Bilmeye değer bir şey daha: bir sesi tekrar oluşturamayan servis, şüphe
 oluşturamadık, ses sürekli hâle gelince gelin» cümlesi dürüst bir cevaptır
 ve tahmine dayalı bir iş listesinden ucuza gelir.
 
-Bütün bunları orada toparlamak zor geliyorsa, Stuk uygulaması tam da bu
+Bütün bunları orada toparlamak zor geliyorsa, Pro-Stuk uygulaması tam da bu
 soruları sırayla sorar ve cevapları kayıtla birlikte tek bir karta koyar:
 karakter, yer, koşullar, neyi takip ettiği ve muhtemel sebepler yüzdesiyle.
 Ustaya o kartı göstermek yeterli — tarif çoktan yazılmış olur.

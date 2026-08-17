@@ -1,6 +1,6 @@
 ---
 title: "CR-V dört çeker kavramasının uğultusu"
-metaTitle: "CR-V dört çeker kavrama uğultusu: bakımı | Stuk"
+metaTitle: "CR-V dört çeker kavrama uğultusu: bakımı | Pro-Stuk"
 description: "CR-V'nin arka kavramasından keskin virajda ve düşük hızda gelen uğultu: neden genelde yağ suçludur ve teker rulmanından nasıl ayrılır."
 faq:
   - q: "Otoparkta dönerken gelen uğultu kavrama mıdır?"
@@ -90,6 +90,6 @@ arasındadır ve bunu açıkça söyleyen bir servis, üçüncü değişimi sata
 serviste daha güvenilirdir.
 
 Servise «bir şeyler uğulduyor» diye değil, bir teoriyle gitmek isterseniz,
-boş bir alanda dönerken sesi Stuk uygulamasına kaydedin. Uygulama kaydı
+boş bir alanda dönerken sesi Pro-Stuk uygulamasına kaydedin. Uygulama kaydı
 birkaç cevapla eşleştirir ve muhtemel nedenleri yüzdeleriyle gösterir — bu
 da teşhisi belirgin şekilde kısaltır.

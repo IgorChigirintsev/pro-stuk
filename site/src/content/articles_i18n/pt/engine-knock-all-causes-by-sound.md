@@ -1,6 +1,6 @@
 ---
 title: "Batida no motor: todas as causas pelo tipo de som"
-metaTitle: "Batida no motor: todas as causas pelo som | Stuk"
+metaTitle: "Batida no motor: todas as causas pelo som | Pro-Stuk"
 description: "Um mapa das batidas do motor pelo caráter do som: tique, estalo, tinido, pancada surda. O que cada uma significa e qual é a urgência de cada caso."
 faq:
   - q: "Dá para identificar a causa só pelo som?"
@@ -147,6 +147,6 @@ três respostas poupam metade do tempo de diagnóstico do mecânico — e poupam
 o seu dinheiro.
 
 Para não ficar adivinhando por descrições, grave o motor girando no
-aplicativo Stuk: ele cruza a gravação com as suas respostas sobre as
+aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas sobre as
 condições e mostra as causas prováveis com porcentagens e um nível de
 urgência — com essa lista, a conversa na oficina fica concreta.

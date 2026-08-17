@@ -1,6 +1,6 @@
 ---
 title: "Colpo nello sterzo: scatola guida o testine?"
-metaTitle: "Colpo nello sterzo: scatola guida o testine | Stuk"
+metaTitle: "Colpo nello sterzo: scatola guida o testine | Pro-Stuk"
 description: "Il colpo che arriva nel volante sulle asperità può venire sia dalla scatola guida sia dalle testine dello sterzo. Come separarli con controlli semplici."
 faq:
   - q: "Il colpo arriva nel volante: è sicuramente lo sterzo?"
@@ -104,7 +104,7 @@ tempo indeterminato. Chieda al meccanico di mostrarle il gioco su ogni
 pezzo, non di descriverglielo.
 
 I colpi dello sterzo si registrano bene se si sa dove cercare. Percorra un
-fondo finemente ondulato registrando il suono con l'app Stuk, poi faccia
+fondo finemente ondulato registrando il suono con l'app Pro-Stuk, poi faccia
 una seconda registrazione in un parcheggio muovendo il volante. L'app le
 confronta e mostra le cause probabili con le percentuali, suggerendo su
 quale piano di gioco iniziare a controllare.

@@ -1,6 +1,6 @@
 ---
 title: "Como soa uma corrente de comando esticada"
-metaTitle: "Como soa uma corrente de comando esticada | Stuk"
+metaTitle: "Como soa uma corrente de comando esticada | Pro-Stuk"
 description: "Chocalho na partida a frio, farfalhar atrás da tampa, mudança ao tirar o pé: como reconhecer uma corrente de comando esticada e separá-la de outras batidas."
 faq:
   - q: "Por que a corrente chacoalha mais alto nos primeiros segundos após a partida a frio?"
@@ -97,7 +97,7 @@ esticados aceleram o desgaste da corrente mais do que a quilometragem
 sozinha.
 
 Se o chocalho é curto e você não tem certeza de que está ouvindo mesmo,
-grave uma partida a frio no aplicativo Stuk — os primeiros cinco segundos a
+grave uma partida a frio no aplicativo Pro-Stuk — os primeiros cinco segundos a
 partir da chave. O app cruza a gravação com suas respostas e mostra as
 causas prováveis com porcentagens, para você chegar com uma teoria pronta
 em vez de um «tem algo chacoalhando».

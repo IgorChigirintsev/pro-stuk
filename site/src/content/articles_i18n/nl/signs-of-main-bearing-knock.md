@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van hoofdlagerklop"
-metaTitle: "Kenmerken van hoofdlagerklop in de motor | Stuk"
+metaTitle: "Kenmerken van hoofdlagerklop in de motor | Pro-Stuk"
 description: "Een zware lage klop onderin het blok, dalende oliedruk en trillingen: zo herkent u versleten hoofdlagers en het verschil met drijfstanglagers."
 faq:
   - q: "Hoe verschilt hoofdlagerklop van drijfstangklop?"

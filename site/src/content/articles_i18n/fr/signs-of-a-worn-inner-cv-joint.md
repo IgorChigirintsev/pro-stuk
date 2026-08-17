@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un cardan intérieur usé"
-metaTitle: "Cardan intérieur usé : le reconnaître | Stuk"
+metaTitle: "Cardan intérieur usé : le reconnaître | Pro-Stuk"
 description: "Un cardan intérieur ne craque pas en virage : il claque à l'accélération et vibre. Ses symptômes, ce qui le distingue du cardan extérieur et comment se décide la réparation."
 faq:
   - q: "Quelle différence de bruit entre cardan intérieur et cardan extérieur ?"
@@ -108,7 +108,7 @@ s'appliquent.
 
 Si le claquement est discret et que vous ne savez pas s'il vient de la
 transmission ou de la suspension, enregistrez-le deux fois dans
-l'application Stuk : sous les gaz, puis sur l'élan, sur la même portion
+l'application Pro-Stuk : sous les gaz, puis sur l'élan, sur la même portion
 de route. L'application compare les enregistrements, tient compte de vos
 réponses sur le moment exact où le son apparaît et affiche les causes
 probables avec un pourcentage.

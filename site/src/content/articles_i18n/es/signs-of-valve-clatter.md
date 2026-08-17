@@ -1,6 +1,6 @@
 ---
 title: "Señales de golpeteo de válvulas"
-metaTitle: "Golpeteo de válvulas: cómo suena y qué hacer | Stuk"
+metaTitle: "Golpeteo de válvulas: cómo suena y qué hacer | Pro-Stuk"
 description: "Cómo suena el golpeteo de válvulas, por qué se desajusta la holgura, en qué se diferencia de otros ruidos del motor y qué implica un reglaje de taqués."
 faq:
   - q: "¿Cómo suena el golpeteo de válvulas?"
@@ -133,7 +133,7 @@ asientos. Así que aquí no vale el «si está callado, está bien»: una
 revisión programada sale más barata que cualquiera de los dos escenarios.
 
 Si el motor ha empezado a hacer tictac y quiere saber si son las válvulas,
-los taqués o los inyectores, grabe el sonido con la aplicación Stuk.
+los taqués o los inyectores, grabe el sonido con la aplicación Pro-Stuk.
 Compara la grabación con sus respuestas y muestra las causas probables con
 un nivel de urgencia: un buen punto de partida antes de hablar con un
 mecánico.

@@ -1,6 +1,6 @@
 ---
 title: "Ölmüş amortisörlerle sürmek neye yol açar"
-metaTitle: "Ölmüş amortisörle sürmenin sonuçları | Stuk"
+metaTitle: "Ölmüş amortisörle sürmenin sonuçları | Pro-Stuk"
 description: "Bitmiş amortisörler fren mesafesini uzatır, süspansiyonu bitirir ve lastikleri yer. Sırada ne kırılır, nasıl fark edilir ve tamir neyi kapsar."
 faq:
   - q: "Ölmüş amortisörler fren mesafesini ne kadar etkiler?"
@@ -94,7 +94,7 @@ davranan bir araç üretir; bununla yaşamak, yola çıktığınız yorgun takı
 daha zordur.
 
 Süspansiyonun gerçekten vurup vurmadığından ya da bunun aracınız için normal
-olup olmadığından emin değilseniz, bildiğiniz bozuk bir yolda sesi Stuk
+olup olmadığından emin değilseniz, bildiğiniz bozuk bir yolda sesi Pro-Stuk
 uygulamasına kaydedin. Uygulama kaydı cevaplarınızla eşleştirir ve muhtemel
 nedenleri yüzdeleriyle gösterir — hemen arıza tespitine gitmekle bir sonraki
 bakımı beklemek arasında karar vermeye genelde bu yeter.

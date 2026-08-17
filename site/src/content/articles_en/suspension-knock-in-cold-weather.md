@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-podveske-na-moroze"
 title: "Suspension knock in cold weather"
-metaTitle: "Suspension knock in cold weather: what to do | Stuk"
+metaTitle: "Suspension knock in cold weather: what to do | Pro-Stuk"
 description: "Why the suspension knocks in frost and quietens once warm: stiffened rubber, thick damper oil, plastic. What is dangerous and what is not."
 pubDate: "2026-07-11"
 related:
@@ -107,7 +107,7 @@ behaves more predictably across temperature swings. Polyurethane earns its
 place where the factory parts do not survive a single season.
 
 If you are unsure whether it is normal or wear, record the morning knock
-in the Stuk app while driving. The algorithm matches the sound with your
+in the Pro-Stuk app while driving. The algorithm matches the sound with your
 answers about temperature and conditions and shows the likely causes with
 a level of urgency: it is easier to decide whether to go now or calmly
 wait for a scheduled visit.

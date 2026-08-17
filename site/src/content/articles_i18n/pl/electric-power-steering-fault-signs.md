@@ -1,6 +1,6 @@
 ---
 title: "Objawy usterki elektrycznego wspomagania kierownicy"
-metaTitle: "Usterka elektrycznego wspomagania: objawy | Stuk"
+metaTitle: "Usterka elektrycznego wspomagania: objawy | Pro-Stuk"
 description: "Jak rozpoznać usterkę elektrycznego wspomagania kierownicy: ciężka kierownica, nierówne wspomaganie, kontrolka EPS, stuki. Co sprawdzić przed warsztatem."
 faq:
   - q: "Czy można jeździć z niedziałającym elektrycznym wspomaganiem?"
@@ -106,7 +106,7 @@ skrętu: w większości aut z EPS i kontrolą stabilności pominięcie tego
 zostawia wspomaganie przesunięte względem środka, a kontrolki zapalone.
 
 Jeśli nie ma Pan pewności, czy dźwięk w układzie kierowniczym należy do
-wspomagania, proszę nagrać go aplikacją Stuk: jedno nagranie przy
+wspomagania, proszę nagrać go aplikacją Pro-Stuk: jedno nagranie przy
 manewrze na postoju, drugie w jeździe, kilka odpowiedzi — a aplikacja
 zestawia obraz z typowymi profilami usterek i podpowiada prawdopodobną
 przyczynę oraz to, jak pilna jest wizyta.

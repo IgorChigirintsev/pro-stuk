@@ -1,6 +1,6 @@
 ---
 title: "Janken van de versnellingsbak bij een bepaalde snelheid"
-metaTitle: "Bak jankt bij één snelheid: oorzaken | Stuk"
+metaTitle: "Bak jankt bij één snelheid: oorzaken | Pro-Stuk"
 description: "Gejank dat in een smal snelheidsbereik opkomt en verandert met het gaspedaal komt meestal uit de bak of het eindaandrijfwiel. Hoe u het onderscheidt."
 faq:
   - q: "Waarom hoor ik het gejank alleen bij 60–80 km/u en daarboven niet meer?"

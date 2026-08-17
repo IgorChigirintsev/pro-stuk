@@ -1,6 +1,6 @@
 ---
 title: "Motoru çalıştırırken gelen takırtı"
-metaTitle: "Çalıştırırken motor takırtısı: sebep ve çözüm | Stuk"
+metaTitle: "Çalıştırırken motor takırtısı: sebep ve çözüm | Pro-Stuk"
 description: "Motor çalıştırılırken neden takırdar: marş, eksantrik ayarlayıcılar, zincir gergisi ya da alternatör kasnağı. Sesin çıktığı ana göre nasıl ayrılırlar."
 faq:
   - q: "Çalıştıktan sonraki ilk saniyelerdeki takırtı tehlikeli mi?"
@@ -116,6 +116,6 @@ tahriki değişecekse kızak ve gergiler zincirle birlikte gitmelidir: zincirin
 fiilen dövdüğü plastik parçalar onlardır.
 
 Takırtıyı çalıştırmanın hangi anına bağlayacağınızı kulakla çıkaramıyorsanız,
-sesi Stuk uygulamasıyla kaydedin: uygulama kaydı, sesin ne zaman ve nasıl
+sesi Pro-Stuk uygulamasıyla kaydedin: uygulama kaydı, sesin ne zaman ve nasıl
 çıktığına dair cevaplarınızla eşleştirip olası sebepleri yüzdesi ve aciliyet
 düzeyiyle gösterir — servise böyle bir listeyle gitmek daha kolaydır.

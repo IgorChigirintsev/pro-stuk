@@ -1,6 +1,6 @@
 ---
 title: "Come controllare se una pinza freno resta bloccata"
-metaTitle: "Come capire se la pinza freno è bloccata | Stuk"
+metaTitle: "Come capire se la pinza freno è bloccata | Pro-Stuk"
 description: "I segnali di una pinza freno grippata: prova in folle, temperatura delle ruote, tiraggio in frenata e odore. Che cosa fa l’officina per risolverlo."
 faq:
   - q: "Quanto può essere caldo un disco normalmente?"
@@ -109,7 +109,7 @@ raschiano lo spiega
 [si può guidare con i freni che raschiano](/it/articles/can-you-drive-with-grinding-brakes/).
 
 Se insieme a tutto questo è comparso un rumore nuovo e lo si vuole
-catturare prima della visita, si avvia una registrazione nell’app Stuk e
+catturare prima della visita, si avvia una registrazione nell’app Pro-Stuk e
 si fa un giro di prova. L’app confronta il suono con le risposte sulle
 condizioni e mostra le cause probabili in percentuale, e la registrazione
 resta al meccanico al posto di una descrizione a voce.

@@ -1,6 +1,6 @@
 ---
 title: "Zeichen eines sterbenden Automatikgetriebes"
-metaTitle: "Sterbendes Automatikgetriebe: die Zeichen | Stuk"
+metaTitle: "Sterbendes Automatikgetriebe: die Zeichen | Pro-Stuk"
 description: "Ein Automatikgetriebe stirbt selten über Nacht: erst Rutschen, Heulen und Verzögerungen. Die frühen Verschleißzeichen und was in jeder Phase zu tun ist."
 faq:
   - q: "Welches Zeichen einer sterbenden Automatik ist das alarmierendste?"

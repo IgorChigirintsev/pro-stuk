@@ -1,7 +1,7 @@
 ---
 ru: "gul-korobka-ili-stupitsa"
 title: "Humming: the gearbox or a wheel bearing"
-metaTitle: "Humming at speed: gearbox or wheel bearing | Stuk"
+metaTitle: "Humming at speed: gearbox or wheel bearing | Pro-Stuk"
 description: "A hum at speed comes from both wheel bearings and gearboxes. Three tests that separate them in a single drive, and what each answer means for the repair."
 pubDate: "2026-06-13"
 related:
@@ -98,7 +98,7 @@ thousands of kilometres. A workshop using a torque wrench there rather
 than an impact gun is doing it right.
 
 If the hum is quiet and the workshop “cannot hear it”, record it in the
-Stuk app during all three tests in turn — in neutral, in different gears
+Pro-Stuk app during all three tests in turn — in neutral, in different gears
 and during lane changes. The app matches the recordings with your answers
 and shows the likely causes with percentages, so the conversation does not
 start with guesswork.

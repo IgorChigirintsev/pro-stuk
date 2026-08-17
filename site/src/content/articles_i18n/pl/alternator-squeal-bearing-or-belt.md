@@ -1,6 +1,6 @@
 ---
 title: "Piszczy alternator: łożysko czy pasek"
-metaTitle: "Pisk alternatora: łożysko czy pasek | Stuk"
+metaTitle: "Pisk alternatora: łożysko czy pasek | Pro-Stuk"
 description: "Jak odróżnić ślizgający się pasek od wyjącego łożyska alternatora: różnica w brzmieniu i trzy testy do zrobienia bez demontażu czegokolwiek."
 faq:
   - q: "Czy można jeździć z wyjącym łożyskiem alternatora?"
@@ -119,7 +119,7 @@ który pojawił się wkrótce po wizycie w warsztacie: wtedy najpierw wyklucza
 się błędy montażu.
 
 Jeśli po wszystkich testach nadal nie ma pewności, proszę nagrać dźwięk w
-aplikacji Stuk: zestawi ona nagranie z Pana odpowiedziami o tym, kiedy
+aplikacji Pro-Stuk: zestawi ona nagranie z Pana odpowiedziami o tym, kiedy
 pisk się pojawia, i pokaże prawdopodobne źródła wraz ze stopniem
 pilności — dzięki temu przyjedzie Pan do warsztatu z roboczą hipotezą, a
 nie z ogólnym „coś piszczy”.

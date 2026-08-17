@@ -1,6 +1,6 @@
 ---
 title: "Cascabeleo al acelerar: las causas"
-metaTitle: "Cascabeleo al acelerar: causas y soluciones | Stuk"
+metaTitle: "Cascabeleo al acelerar: causas y soluciones | Pro-Stuk"
 description: "Por qué el motor cascabelea al acelerar: detonación, combustible, carbonilla, bujías. Cómo distinguir un cascabeleo inofensivo del desgaste de los bulones."
 faq:
   - q: "¿El cascabeleo es realmente cosa de los bulones de pistón?"
@@ -135,7 +135,7 @@ una mirada con boroscopio a las cabezas de pistón son la respuesta honesta;
 una suposición basada en el kilometraje, no.
 
 Si quiere apoyarse en algo antes del taller, grabe el sonido de una
-aceleración en la aplicación Stuk. Compara la grabación con sonidos
+aceleración en la aplicación Pro-Stuk. Compara la grabación con sonidos
 típicos, hace unas preguntas de aclaración sobre cuándo y cómo aparece el
 cascabeleo y muestra las causas probables con un nivel de urgencia. Así
 llega con una hipótesis concreta y no con un «algo tintinea».

@@ -1,6 +1,6 @@
 ---
 title: "Wat gebeurt er als u blijft rijden met tikkende hydraulische klepstoters"
-metaTitle: "Tikkende klepstoters: doorrijden of niet | Stuk"
+metaTitle: "Tikkende klepstoters: doorrijden of niet | Pro-Stuk"
 description: "Een tikkende hydraulische klepstoter sloopt uw motor niet in één dag, maar hij hamert wel op de nokkenas en de klep. De scenario's, de termijnen en wat u als eerste controleert."
 faq:
   - q: "Het getik verdwijnt zodra de motor warm is. Is dat normaal?"

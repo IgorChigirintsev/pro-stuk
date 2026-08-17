@@ -1,6 +1,6 @@
 ---
 title: "Trepidação do volante ao frear"
-metaTitle: "Trepidação do volante ao frear: causas | Stuk"
+metaTitle: "Trepidação do volante ao frear: causas | Pro-Stuk"
 description: "Por que o volante treme ao frear: espessura irregular do disco, pinça travada, folga no cubo. Como diferenciar de vibração de roda e o que fazer."
 faq:
   - q: "Por que o volante só treme na frenagem, mas o carro é liso em velocidade?"
@@ -122,7 +122,7 @@ trepidação volte.
 
 Se você não tem certeza do que está sentindo — trepidação dos discos,
 vibração das rodas ou o ABS trabalhando —, grave o som e descreva a
-situação no aplicativo Stuk. Ele compara a gravação com as suas
+situação no aplicativo Pro-Stuk. Ele compara a gravação com as suas
 respostas — quando o tremor aparece, onde você o sente, se estava
 freando — e mostra as causas prováveis com um nível de urgência. Você
 chega à oficina com um quadro claro em vez de um vago "está tremendo

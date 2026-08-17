@@ -1,6 +1,6 @@
 ---
 title: "Segni di una crociera del cardano consumata"
-metaTitle: "Crociera del cardano consumata: i segni | Stuk"
+metaTitle: "Crociera del cardano consumata: i segni | Pro-Stuk"
 description: "Un tonfo in partenza, vibrazioni a velocità, tintinnii metallici sotto il pavimento: come leggere per stadi l'usura di una crociera e quando sostituirla."
 faq:
   - q: "Come distinguo una crociera dal supporto centrale?"
@@ -104,6 +104,6 @@ orientamento — solo questo previene la maggior parte delle vibrazioni dopo
 l'intervento.
 
 Se il colpo è ancora saltuario e vuole capire se venga davvero da sotto il
-pavimento e non dalla sospensione, lo registri con l'app Stuk nel momento
+pavimento e non dalla sospensione, lo registri con l'app Pro-Stuk nel momento
 della partenza. L'app confronta la registrazione con le sue risposte a poche
 domande e mostra le cause probabili in percentuale.

@@ -1,6 +1,6 @@
 ---
 title: "Ronzio del cambio automatico: i primi segni"
-metaTitle: "Ronzio del cambio automatico: primi segni | Stuk"
+metaTitle: "Ronzio del cambio automatico: primi segni | Pro-Stuk"
 description: "Il ronzio del cambio automatico allo stadio iniziale: come suona, in cosa differisce dal rumore di cuscinetti ruota e gomme, e cosa si controlla per primo."
 faq:
   - q: "Il ronzio del cambio segue la velocità o i giri del motore?"
@@ -101,7 +101,7 @@ da libretto, e considerare il traino e le lunghe pattinate sulla neve come
 un carico a sé per il cambio, non come un dettaglio.
 
 Se il ronzio è leggero e vuole capire se segue la velocità o la marcia,
-registri due clip brevi con l'app Stuk: in accelerazione sotto tiro, e
+registri due clip brevi con l'app Pro-Stuk: in accelerazione sotto tiro, e
 alla stessa velocità in rilascio. L'app confronta le registrazioni e
 suggerisce in quale direzione guardare per prima, trasmissione o
 sospensioni.

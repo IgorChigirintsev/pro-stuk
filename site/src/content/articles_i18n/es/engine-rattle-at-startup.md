@@ -1,6 +1,6 @@
 ---
 title: "Traqueteo en el motor al arrancar"
-metaTitle: "Traqueteo en el motor al arrancar: causas y qué hacer | Stuk"
+metaTitle: "Traqueteo en el motor al arrancar: causas y qué hacer | Pro-Stuk"
 description: "Por qué traquetea un motor al arrancar: el motor de arranque, los variadores, el tensor de la cadena o la polea desacopladora. Cómo separarlos por el momento."
 faq:
   - q: "¿Es peligroso un traqueteo en los primeros segundos tras arrancar?"
@@ -131,7 +131,7 @@ distribución, las guías y los patines van con la cadena: son las piezas de
 plástico contra las que golpea realmente la cadena.
 
 Si no consigue asociar el traqueteo a un momento del arranque de oído, grabe
-el sonido con la aplicación Stuk: compara la grabación con sus respuestas
+el sonido con la aplicación Pro-Stuk: compara la grabación con sus respuestas
 sobre cuándo y cómo aparece el sonido y muestra las causas probables con
 porcentajes y un nivel de urgencia. Es una lista más fácil con la que
 presentarse en un taller.

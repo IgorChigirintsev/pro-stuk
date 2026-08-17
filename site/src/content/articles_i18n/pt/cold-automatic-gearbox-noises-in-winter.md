@@ -1,6 +1,6 @@
 ---
 title: "Ruídos do câmbio automático frio no inverno"
-metaTitle: "Ruídos do câmbio automático frio | Stuk"
+metaTitle: "Ruídos do câmbio automático frio | Pro-Stuk"
 description: "No frio o câmbio automático zumbe, dá trancos e estala, e silencia após dez minutos. Onde acaba o normal e quais ruídos ficam depois de aquecer."
 faq:
   - q: "Zumbido do câmbio automático frio é normal?"
@@ -98,6 +98,6 @@ esticar a conta.
 
 Se você não tem certeza se o seu ruído está dentro do normal, grave dois
 trajetos — os primeiros minutos após a partida fria e a mesma rua vinte
-minutos depois — no aplicativo Stuk. A diferença entre as gravações é a
+minutos depois — no aplicativo Pro-Stuk. A diferença entre as gravações é a
 resposta: o app cruza as duas com o que você responde sobre temperatura e
 condições de uso e mostra as causas prováveis com porcentagens.

@@ -1,6 +1,6 @@
 ---
 title: "Frenler gıcırdarken araç kullanılır mı"
-metaTitle: "Frenler gıcırdarken araç kullanılır mı? | Stuk"
+metaTitle: "Frenler gıcırdarken araç kullanılır mı? | Pro-Stuk"
 description: "Fren yaparken metalik gıcırtı, balata malzemesinin bittiği ve metalin diski kestiği anlamına gelir. Ne kadar gidilir, ne yapılmaz ve neye mal olur."
 faq:
   - q: "Frenler gıcırdarken kaç kilometre gidebilirim?"
@@ -106,7 +106,7 @@ doğru kaydırır. Gıcırtı cuma günü başladıysa, cumartesiyi serviste
 geçirmek onu bir ay kullanmaktan ucuzdur.
 
 Ses var ama aşınma göstergesi mi yoksa sırt plakası mı olduğu belli değilse
-kayıt işe yarar: Stuk uygulaması frekansları analiz eder, sesin ne zaman
+kayıt işe yarar: Pro-Stuk uygulaması frekansları analiz eder, sesin ne zaman
 çıktığına dair birkaç sorunun cevaplarıyla eşleştirir ve olası sebepleri
 yüzdelerle gösterir — araç muayene edilmeden önce kullanılmalı mı sorusunun
 değerlendirmesi de dahil.

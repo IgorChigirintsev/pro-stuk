@@ -1,7 +1,7 @@
 ---
 ru: "opasen-li-stuk-na-holodnuyu-kotoryj-prohodit"
 title: "Is a cold knock that goes away dangerous"
-metaTitle: "Cold start knock that goes away: dangerous? | Stuk"
+metaTitle: "Cold start knock that goes away: dangerous? | Pro-Stuk"
 description: "A knock at a cold start that disappears after warm-up can be harmless or the warning of an expensive repair. How to tell them apart by timing and character."
 pubDate: "2026-06-17"
 related:
@@ -110,7 +110,7 @@ and
 [checking hub play with the wheel raised](/en/articles/checking-wheel-bearing-play-with-the-wheel-raised/).
 
 To track the trend rather than rely on memory, record the first seconds of
-a cold start in the Stuk app once a month. The app matches the recording
+a cold start in the Pro-Stuk app once a month. The app matches the recording
 with your answers and shows the likely causes with percentages, and
 comparing the recordings with each other answers the main question: is it
 getting worse or not.

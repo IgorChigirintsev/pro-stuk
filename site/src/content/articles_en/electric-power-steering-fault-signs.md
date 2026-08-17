@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-neispravnosti-eur"
 title: "Signs of an electric power steering fault"
-metaTitle: "Electric power steering fault: the signs | Stuk"
+metaTitle: "Electric power steering fault: the signs | Pro-Stuk"
 description: "How to recognise an electric power steering fault: heavy steering, uneven assistance, the EPS light, knocks and clicks. What to check before the workshop."
 pubDate: "2026-07-18"
 related:
@@ -110,7 +110,7 @@ most cars with EPS and stability control, skipping that leaves the
 assistance off-centre and the warning lights on.
 
 If you are unsure whether a noise in the steering belongs to the
-assistance, record it in the Stuk app: make a recording during a
+assistance, record it in the Pro-Stuk app: make a recording during a
 stationary manoeuvre and one on the move, answer a few questions, and the
 app matches the picture with typical fault profiles and suggests the
 likely cause and how urgent a visit is.

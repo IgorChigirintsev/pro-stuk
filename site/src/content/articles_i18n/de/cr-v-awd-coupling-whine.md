@@ -1,6 +1,6 @@
 ---
 title: "CR-V: Heulen der Allradkupplung"
-metaTitle: "CR-V: Heulen der Allradkupplung, Ursachen | Stuk"
+metaTitle: "CR-V: Heulen der Allradkupplung, Ursachen | Pro-Stuk"
 description: "Heulen der hinteren Kupplung eines CR-V in engen Kurven und bei niedrigem Tempo: warum meist das Öl schuld ist und wie man es vom Radlager trennt."
 faq:
   - q: "Heulen beim Wenden auf dem Parkplatz — ist das die Kupplung?"

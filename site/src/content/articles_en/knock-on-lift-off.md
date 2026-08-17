@@ -1,7 +1,7 @@
 ---
 ru: "stuk-pri-sbrose-gaza"
 title: "A knock on lift-off"
-metaTitle: "A knock on lift-off: mounts, driveline, chain | Stuk"
+metaTitle: "A knock on lift-off: mounts, driveline, chain | Pro-Stuk"
 description: "A single knock as you release the throttle: worn engine mounts, driveline play, the timing chain, the exhaust. How to localise the source."
 pubDate: "2026-07-03"
 related:
@@ -106,6 +106,6 @@ Those five steps are usually enough to arrive at a workshop with a
 specific theory rather than “something knocks” — which saves both
 diagnosis time and money.
 
-Narrowing the list faster is what the Stuk app is for: record the sound at
+Narrowing the list faster is what the Pro-Stuk app is for: record the sound at
 the moment of lift-off, answer a few questions about the conditions, and
 get the likely causes with percentages and an urgency level.

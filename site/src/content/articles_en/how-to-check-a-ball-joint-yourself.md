@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-sharovuyu-oporu"
 title: "How to check a ball joint yourself"
-metaTitle: "How to check a ball joint yourself | Stuk"
+metaTitle: "How to check a ball joint yourself | Pro-Stuk"
 description: "A step-by-step ball joint check: the bounce test, the 12–6 play test on a raised wheel, the brake-pedal trick and what a torn boot really means."
 pubDate: "2026-08-02"
 related:
@@ -141,6 +141,6 @@ Wheel alignment after the replacement is part of the job rather than an
 option, because the joint defines the geometry.
 
 If after all the tests you are still unsure — there is a knock and the
-culprit is not obvious — record the sound in the Stuk app. It matches the
+culprit is not obvious — record the sound in the Pro-Stuk app. It matches the
 recording with your answers about when and on which roads the sound
 appears and shows the likely causes with an urgency level.

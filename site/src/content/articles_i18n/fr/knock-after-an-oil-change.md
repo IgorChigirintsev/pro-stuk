@@ -1,6 +1,6 @@
 ---
 title: "Un claquement moteur après une vidange"
-metaTitle: "Claquement moteur après une vidange : causes | Stuk"
+metaTitle: "Claquement moteur après une vidange : causes | Pro-Stuk"
 description: "Pourquoi un moteur s'est mis à claquer après une vidange : viscosité, niveau, filtre, nettoyage. Quand le son part tout seul et quand il faut revenir."
 faq:
   - q: "Le moteur cliquette les premières secondes après une vidange, est-ce normal ?"
@@ -126,7 +126,7 @@ réparation à laquelle mène le fait de rouler avec un claquement
 inexpliqué.
 
 Si vous ne savez pas s'il s'agit du même son qu'avant la vidange ou d'un
-son nouveau, enregistrez le moteur dans l'application Stuk et refaites
+son nouveau, enregistrez le moteur dans l'application Pro-Stuk et refaites
 l'enregistrement quelques jours plus tard. L'application confronte le son
 à des causes typiques, affiche des probabilités et une urgence, et
 comparer les enregistrements aide à repérer la tendance.

@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'usure des amortisseurs"
-metaTitle: "Amortisseurs usés : 8 symptômes à connaître | Stuk"
+metaTitle: "Amortisseurs usés : 8 symptômes à connaître | Pro-Stuk"
 description: "Huit signes d'amortisseurs usés : flottement, plongée au freinage, cognement, usure des pneus par plaques. Les contrôles à faire soi-même et le remplacement."
 faq:
   - q: "Pourquoi l'usure des amortisseurs est-elle difficile à remarquer ?"
@@ -141,6 +141,6 @@ une saison. Adapter l'amortisseur à la voiture et à son usage compte plus
 que la marque.
 
 Si la suspension cogne et que la source n'est pas évidente, enregistrez le
-son dans l'application Stuk : elle recoupe l'enregistrement avec vos
+son dans l'application Pro-Stuk : elle recoupe l'enregistrement avec vos
 réponses sur le moment et la façon dont le son apparaît, et affiche les
 causes probables avec un niveau d'urgence.

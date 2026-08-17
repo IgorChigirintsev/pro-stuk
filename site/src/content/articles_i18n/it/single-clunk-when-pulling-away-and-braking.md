@@ -1,6 +1,6 @@
 ---
 title: "Un colpo secco singolo in partenza e in frenata"
-metaTitle: "Colpo singolo in partenza e in frenata | Stuk"
+metaTitle: "Colpo singolo in partenza e in frenata | Pro-Stuk"
 description: "Da dove nasce il colpo secco singolo quando si parte e ci si ferma: pastiglie, pinze, supporti motore, albero di trasmissione. Come verificarlo e come si decide la riparazione."
 faq:
   - q: "Perché il colpo è singolo e non una serie di rumori?"
@@ -110,7 +110,7 @@ il quadro è quello della pagina sintomo
 [rumori nelle sospensioni](/it/symptoms/knocking-in-suspension/).
 
 Un rumore singolo è difficile da cogliere durante una diagnosi: è troppo
-breve. Lo si registra con l’app Stuk direttamente in auto: bastano alcune
+breve. Lo si registra con l’app Pro-Stuk direttamente in auto: bastano alcune
 partenze e alcuni arresti per avere materiale a sufficienza, e
 l’algoritmo confronta la registrazione con le risposte date e mostra le
 cause probabili con un livello di urgenza ancora prima di andare in

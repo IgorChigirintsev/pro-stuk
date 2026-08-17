@@ -1,6 +1,6 @@
 ---
 title: "Sinais de riscos nos cilindros"
-metaTitle: "Cilindro riscado: barulho, óleo e sinais | Stuk"
+metaTitle: "Cilindro riscado: barulho, óleo e sinais | Pro-Stuk"
 description: "Cinco sinais de riscos nos cilindros: batida a frio, consumo de óleo, perda de força. Quais motores são de risco e como se confirma."
 faq:
   - q: "Como se confirma o risco no cilindro em definitivo?"
@@ -106,7 +106,7 @@ mais urgente, e ela merece diagnóstico imediato com estetoscópio e medição
 de pressão de óleo.
 
 Se o motor começou a bater a frio e você suspeita do pior, grave o som no
-aplicativo Stuk. Ele cruza a gravação com as suas respostas sobre as
+aplicativo Pro-Stuk. Ele cruza a gravação com as suas respostas sobre as
 condições e mostra as causas prováveis com porcentagens e urgência: com
 esse quadro, decidir sobre endoscopia e conserto fica mais fácil e mais
 tranquilo.

@@ -1,6 +1,6 @@
 ---
 title: "Ruidos después de lavar el vano motor"
-metaTitle: "Ruidos tras lavar el motor: por qué y cuánto duran | Stuk"
+metaTitle: "Ruidos tras lavar el motor: por qué y cuánto duran | Pro-Stuk"
 description: "Chirridos, traqueteos o temblor al ralentí después de lavar el vano motor. Qué ruidos se van solos en un par de días y cuáles indican una pieza mojada."
 faq:
   - q: "¿Cuánto dura el chirrido de la correa después de un lavado?"
@@ -100,7 +100,7 @@ presión. Eso elimina la mayoría de los escenarios descritos aquí.
 
 Lo más difícil es saber si el ruido se está debilitando de verdad. El oído
 recuerda mal el volumen, pero capta muy bien las diferencias en
-comparación directa. Grabe el arranque matinal en la aplicación Stuk el
+comparación directa. Grabe el arranque matinal en la aplicación Pro-Stuk el
 primer día y repítalo al tercero: la aplicación compara las grabaciones
 con sus respuestas y muestra si la cosa vuelve a la normalidad o toca
 pedir cita para un diagnóstico.

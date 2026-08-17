@@ -1,6 +1,6 @@
 ---
 title: "Schokdempers controleren met de wiptest"
-metaTitle: "Wiptest voor schokdempers: stap voor stap | Stuk"
+metaTitle: "Wiptest voor schokdempers: stap voor stap | Pro-Stuk"
 description: "De wiptest stap voor stap: hoe u op het koetswerk drukt, hoe u de bewegingen telt, wat de test niet kan laten zien en wanneer een testbank nodig is."
 faq:
   - q: "Hoe betrouwbaar is de wiptest?"

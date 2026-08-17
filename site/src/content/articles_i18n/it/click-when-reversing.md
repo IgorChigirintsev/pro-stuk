@@ -1,6 +1,6 @@
 ---
 title: "Un clic quando si parte in retromarcia"
-metaTitle: "Clic partendo in retromarcia: le cause | Stuk"
+metaTitle: "Clic partendo in retromarcia: le cause | Pro-Stuk"
 description: "Un clic secco quando si parte in retromarcia è quasi sempre un gioco che si azzera. Dove si accumula: pastiglie, giunti, crociera, supporti motore."
 faq:
   - q: "Perché il clic si sente solo in retromarcia e non andando avanti?"
@@ -98,6 +98,6 @@ parte freni venga esclusa per prima, perché è la risposta più economica e
 più comune.
 
 Se vuole restringere la lista prima della visita in officina, registri il
-suono con l'app Stuk durante una partenza in retromarcia: l'app confronta
+suono con l'app Pro-Stuk durante una partenza in retromarcia: l'app confronta
 la registrazione con le sue risposte a qualche domanda e mostra le cause
 probabili in percentuale.

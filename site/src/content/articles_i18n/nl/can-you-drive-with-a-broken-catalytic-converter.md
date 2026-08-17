@@ -1,6 +1,6 @@
 ---
 title: "Kunt u rijden met een uiteengevallen katalysator"
-metaTitle: "Rijden met een kapotte katalysator? | Stuk"
+metaTitle: "Rijden met een kapotte katalysator? | Pro-Stuk"
 description: "Uiteengevallen keramiek ruist en smoort de motor. Wanneer u nog naar de garage kunt rijden, wanneer niet, en wat het risico voor de motor is."
 faq:
   - q: "Hoe klinkt een uiteengevallen katalysator?"

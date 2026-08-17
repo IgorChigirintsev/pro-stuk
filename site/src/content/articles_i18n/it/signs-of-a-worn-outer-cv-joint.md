@@ -1,6 +1,6 @@
 ---
 title: "Segni di un giunto omocinetico esterno consumato"
-metaTitle: "Giunto omocinetico esterno: clic in curva | Stuk"
+metaTitle: "Giunto omocinetico esterno: clic in curva | Pro-Stuk"
 description: "Come fa clic un giunto omocinetico esterno consumato, in cosa differisce da quello interno, i controlli senza ponte e cosa decide fra cuffia nuova e giunto nuovo."
 faq:
   - q: "Perché un giunto omocinetico fa clic proprio in curva?"
@@ -137,7 +137,7 @@ corrette e non fascette di plastica. Sono due dettagli piccoli che decidono
 se la riparazione durerà.
 
 Non è sicuro che a fare clic sia il giunto omocinetico? Registri il suono con
-l'app Stuk durante un cerchio lento a sterzo tutto girato: l'app confronta la
+l'app Pro-Stuk durante un cerchio lento a sterzo tutto girato: l'app confronta la
 registrazione con le sue risposte e mostra le cause probabili in percentuale
 e con un livello di urgenza. Con quel risultato è più facile programmare il
 passaggio in officina.

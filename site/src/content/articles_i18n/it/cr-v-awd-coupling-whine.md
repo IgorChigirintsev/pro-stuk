@@ -1,6 +1,6 @@
 ---
 title: "Ronzio del giunto della trazione integrale sulla CR-V"
-metaTitle: "Ronzio della frizione AWD della CR-V | Stuk"
+metaTitle: "Ronzio della frizione AWD della CR-V | Pro-Stuk"
 description: "Ronzio dal giunto posteriore della CR-V nelle curve strette e a bassa velocità: perché di solito la colpa è dell'olio e come distinguerlo da un cuscinetto."
 faq:
   - q: "Un ronzio girando in un parcheggio: è il giunto?"
@@ -96,6 +96,6 @@ d'olio fatto correttamente, altro olio non aiuterà. A quel punto la scelta
 dice apertamente merita più fiducia di una che le vende un terzo cambio.
 
 Se vuole arrivare con una teoria invece che con un generico «ronza
-qualcosa», registri il suono con l'app Stuk mentre gira in un'area vuota.
+qualcosa», registri il suono con l'app Pro-Stuk mentre gira in un'area vuota.
 L'app confronta la registrazione con qualche risposta e mostra le cause
 probabili in percentuale, il che accorcia sensibilmente la diagnosi.

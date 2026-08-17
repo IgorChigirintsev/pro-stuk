@@ -1,6 +1,6 @@
 ---
 title: "Borboteo en el motor después de apagarlo"
-metaTitle: "Borboteo en el motor tras apagarlo: causas | Stuk"
+metaTitle: "Borboteo en el motor tras apagarlo: causas | Pro-Stuk"
 description: "Borboteo tras apagar: cuándo es enfriamiento normal y cuándo es aire en el circuito, un tapón cansado o la junta de culata. Comprobaciones en cinco minutos."
 faq:
   - q: "¿Un borboteo tras apagar significa siempre que algo está hirviendo?"
@@ -122,6 +122,6 @@ comprobarlo una vez que haya pasado por un ciclo térmico completo. El aire que
 quedó dentro se manifiesta exactamente como el borboteo con el que llegó.
 
 Si no está seguro de si el suyo es normal o no, grabe el sonido tras apagar
-con la aplicación Stuk: compara la grabación con sus respuestas —cuándo
+con la aplicación Pro-Stuk: compara la grabación con sus respuestas —cuándo
 borbotea, si desaparece refrigerante, si funciona la calefacción— y muestra
 las causas probables con un nivel de urgencia.

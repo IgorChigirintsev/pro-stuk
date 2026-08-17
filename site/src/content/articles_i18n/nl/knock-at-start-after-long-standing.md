@@ -1,6 +1,6 @@
 ---
 title: "Klop bij het starten na weken stilstand"
-metaTitle: "Klop bij starten na lange stilstand: oorzaken | Stuk"
+metaTitle: "Klop bij starten na lange stilstand: oorzaken | Pro-Stuk"
 description: "Waarom een motor de eerste seconden klopt na weken stilstand: teruggelopen olie, klepstoters, kettingspanner, nokkenasverstellers."
 faq:
   - q: "De motor klopt een paar seconden na het starten — is dat normaal?"

@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec une courroie qui siffle"
-metaTitle: "Peut-on rouler avec une courroie qui siffle ? | Stuk"
+metaTitle: "Peut-on rouler avec une courroie qui siffle ? | Pro-Stuk"
 description: "Courroie d'accessoires qui siffle : combien de temps on peut rouler, ce que risque une courroie cassée, usure ou roulement de galet, et comment se décide la réparation."
 faq:
   - q: "Combien de temps peut-on rouler avec une courroie qui siffle ?"
@@ -104,7 +104,7 @@ un repère d'usure qui dit s'il est encore dans la plage. Un garage qui
 ne parle ni de l'un ni de l'autre travaille au jugé.
 
 Si vous ne savez pas si c'est la courroie qui siffle ou un roulement
-d'accessoire qui hurle, enregistrez le son dans l'application Stuk au
+d'accessoire qui hurle, enregistrez le son dans l'application Pro-Stuk au
 démarrage à froid, puis refaites-le moteur chaud. La différence entre
 les deux enregistrements en dit plus sur la cause que n'importe quelle
 description — et l'application la recoupe avec vos réponses à quelques

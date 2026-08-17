@@ -1,6 +1,6 @@
 ---
 title: "O que acontece se você nunca trocar as bieletas"
-metaTitle: "Bieletas gastas: o que rodar assim provoca | Stuk"
+metaTitle: "Bieletas gastas: o que rodar assim provoca | Pro-Stuk"
 description: "Onde vai dar rodar com bieletas gastas: mais rolagem, bieleta quebrada, desgaste nas peças vizinhas. Quanto dá para adiar e por que esperar sai mais caro."
 faq:
   - q: "É perigoso rodar com as bieletas batendo?"
@@ -127,6 +127,6 @@ começou a balançar depois dos buracos, vale checar também os amortecedores �
 [teste do balanço para checar amortecedores](/pt/articles/checking-shock-absorbers-with-the-bounce-test/).
 
 Se a batida está aí mas você não tem certeza do diagnóstico, grave o som no
-aplicativo Stuk. Ele cruza a gravação com as suas respostas sobre o caráter da
+aplicativo Pro-Stuk. Ele cruza a gravação com as suas respostas sobre o caráter da
 batida e mostra as causas prováveis com um nível de urgência: você vai saber se
 é um par barato de bieletas ou algo mais sério.

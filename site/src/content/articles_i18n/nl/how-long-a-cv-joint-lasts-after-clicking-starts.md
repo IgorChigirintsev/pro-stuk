@@ -1,6 +1,6 @@
 ---
 title: "Hoe lang gaat een homokineet mee nadat hij begint te tikken"
-metaTitle: "Hoe lang gaat een tikkende homokineet mee | Stuk"
+metaTitle: "Hoe lang gaat een tikkende homokineet mee | Pro-Stuk"
 description: "Eerlijke richtlijnen voor de levensduur van een homokineet na de eerste tikken: waar de marge van afhangt, wat het einde versnelt en wanneer vervangen moet."
 faq:
   - q: "Kan een homokineet tijdens het rijden vastlopen?"

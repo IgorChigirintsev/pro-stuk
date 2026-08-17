@@ -1,6 +1,6 @@
 ---
 title: "Jak sprawdzić luz piasty na podniesionym kole"
-metaTitle: "Sprawdzanie luzu piasty na podniesionym kole | Stuk"
+metaTitle: "Sprawdzanie luzu piasty na podniesionym kole | Pro-Stuk"
 description: "Jak bezpiecznie podnieść koło i sprawdzić luz: chwyty 12–6 i 3–9, jak odróżnić łożysko od sworznia i układu kierowniczego oraz co dalej."
 faq:
   - q: "Jaki luz koła jest jeszcze normalny?"
@@ -94,7 +94,7 @@ charakter: przyjeżdża Pan z konkretną hipotezą i wie, co ma zostać
 potwierdzone na podnośniku.
 
 Jeśli znalazł Pan luz, ale nie potrafi wskazać części, która go daje, proszę
-nagrać dźwięk w aplikacji Stuk na odcinku złej nawierzchni. Aplikacja
+nagrać dźwięk w aplikacji Pro-Stuk na odcinku złej nawierzchni. Aplikacja
 zestawia nagranie z odpowiedziami i pokazuje prawdopodobne przyczyny w
 procentach — to przydatne zabezpieczenie przed dodatkowymi pozycjami na
 rachunku.

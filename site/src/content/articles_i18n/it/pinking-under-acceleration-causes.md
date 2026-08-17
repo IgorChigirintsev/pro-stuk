@@ -1,6 +1,6 @@
 ---
 title: "Battito in testa in accelerazione: le cause"
-metaTitle: "Battito in testa in accelerazione: cause e rimedi | Stuk"
+metaTitle: "Battito in testa in accelerazione: cause e rimedi | Pro-Stuk"
 description: "Perché il motore batte in testa accelerando: detonazione, carburante, depositi, candele. Come distinguere un battito innocuo dall'usura degli spinotti."
 faq:
   - q: "Il battito in testa riguarda davvero gli spinotti dei pistoni?"
@@ -136,7 +136,7 @@ candele e un'occhiata con l'endoscopio ai cieli dei pistoni sono la
 risposta onesta, una supposizione basata sui chilometri no.
 
 Se vuole avere un appiglio prima dell'officina, registri il suono
-dell'accelerazione con l'app Stuk. L'app confronta la registrazione con
+dell'accelerazione con l'app Pro-Stuk. L'app confronta la registrazione con
 suoni tipici, fa qualche domanda su quando e come compare il battito e
 mostra le cause probabili con un livello di urgenza. Così arriva con
 un'ipotesi precisa invece che con «qualcosa tintinna».

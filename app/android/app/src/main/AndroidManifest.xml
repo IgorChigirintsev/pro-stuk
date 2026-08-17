@@ -1,8 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <!-- Покупки внутри приложения: пакеты аудиопроверок и места в гараже.
+         Библиотека биллинга объявляет разрешение и сама, но явная строка
+         не даёт ему пропасть при смене версии плагина. -->
+    <uses-permission android:name="com.android.vending.BILLING"/>
     <application
-        android:label="Стук"
+        android:label="Pro-Stuk"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

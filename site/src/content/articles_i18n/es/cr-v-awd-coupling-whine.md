@@ -1,6 +1,6 @@
 ---
 title: "Zumbido del acoplamiento de tracción total en el CR-V"
-metaTitle: "CR-V: zumbido del acoplamiento de tracción total | Stuk"
+metaTitle: "CR-V: zumbido del acoplamiento de tracción total | Pro-Stuk"
 description: "Zumbido del acoplamiento trasero de un CR-V en giros cerrados y a poca velocidad: por qué suele tener la culpa el líquido y cómo distinguirlo de un rodamiento."
 faq:
   - q: "Un zumbido al dar la vuelta en un aparcamiento, ¿es el acoplamiento?"
@@ -97,7 +97,7 @@ y convivir con el ruido, y un taller que lo dice claramente es más de fiar
 que uno que vende un tercer cambio.
 
 Si quiere llegar con una teoría en lugar de con un «algo zumba» genérico,
-grabe el sonido con la aplicación Stuk mientras da la vuelta en una zona
+grabe el sonido con la aplicación Pro-Stuk mientras da la vuelta en una zona
 despejada. La aplicación compara la grabación con unas cuantas respuestas y
 muestra las causas probables con porcentajes, lo que acorta bastante el
 diagnóstico.

@@ -1,6 +1,6 @@
 ---
 title: "Aks körüğü yırtıldı: daha ne kadar gidilir"
-metaTitle: "Yırtık aks körüğü: daha ne kadar gidilir? | Stuk"
+metaTitle: "Yırtık aks körüğü: daha ne kadar gidilir? | Pro-Stuk"
 description: "Yırtık aks körüğü mafsalı bir anda bitirmez ama geri sayımı başlatır. Gerçekte kaç kilometre kaldığı neye bağlı ve hangisi daha ucuza gelir."
 faq:
   - q: "Yırtık körükle araç ne kadar gider?"
@@ -97,6 +97,6 @@ ne olduğu
 yazısında anlatılıyor.
 
 Ses zaten çıktıysa ve dış mafsal mı yoksa başka bir şey mi olduğunu
-öğrenmek istiyorsanız, direksiyon sonuna kırıkken kalkarken Stuk
+öğrenmek istiyorsanız, direksiyon sonuna kırıkken kalkarken Pro-Stuk
 uygulamasında kaydedin: uygulama kaydı birkaç soruya verdiğiniz cevaplarla
 eşleştirir ve olası sebepleri yüzdeleriyle gösterir.

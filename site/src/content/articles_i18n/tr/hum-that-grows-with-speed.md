@@ -1,6 +1,6 @@
 ---
 title: "Hızla birlikte artan uğultu"
-metaTitle: "Hızla artan uğultu: rulman mı lastik mi | Stuk"
+metaTitle: "Hızla artan uğultu: rulman mı lastik mi | Pro-Stuk"
 description: "Yol hızıyla yükselen uğultu neredeyse her zaman tekerlerden gelir. Teker rulmanını lastiklerden ve şanzımandan tek bir sürüşte nasıl ayırırsınız?"
 faq:
   - q: "Uğultu hızla artıyor, bu kesin rulman mıdır?"
@@ -98,7 +98,7 @@ kafesin dağılması ve tekerde boşluktur. Makul ufuk, ses kalıcı hâle
 geldikten sonraki iki hafta içinde kontrole gitmektir.
 
 Zorluk şu ki bütün bu testler sürüş sırasında kulakla yapılır ve insanın
-ses hafızası kısadır. Uğultuyu farklı hızlarda ve şerit değiştirirken Stuk
+ses hafızası kısadır. Uğultuyu farklı hızlarda ve şerit değiştirirken Pro-Stuk
 uygulamasına kaydedin: uygulama kayıtları cevaplarınızla eşleştirir ve
 muhtemel sebepleri yüzdesiyle gösterir, böylece serviste konuşma somut bir
 tezle başlar.

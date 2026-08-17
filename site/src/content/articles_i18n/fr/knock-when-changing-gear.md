@@ -1,6 +1,6 @@
 ---
 title: "Un claquement au passage des rapports"
-metaTitle: "Claquement au passage des rapports : les causes | Stuk"
+metaTitle: "Claquement au passage des rapports : les causes | Pro-Stuk"
 description: "Un claquement au moment d'un changement de rapport vient du jeu de la timonerie, de supports moteur usés et des cardans. Comment séparer les causes."
 faq:
   - q: "Un claquement au passage des rapports vient-il toujours de la boîte ?"
@@ -93,7 +93,7 @@ nouveau en quelques mois.
 
 Si le claquement est encore occasionnel et que vous ne savez pas s'il
 vient de sous le capot ou de sous le plancher, enregistrez-le dans
-l'application Stuk pendant un coup d'accélérateur puis pendant un
+l'application Pro-Stuk pendant un coup d'accélérateur puis pendant un
 démarrage. L'application croise l'enregistrement avec vos réponses et
 affiche les causes probables avec leurs pourcentages — ce qui raccourcit
 nettement la conversation au garage.

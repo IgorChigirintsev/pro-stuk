@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-shrus-krugami-na-parkovke"
 title: "Checking a CV joint by driving circles in a car park"
-metaTitle: "Checking a CV joint by driving circles | Stuk"
+metaTitle: "Checking a CV joint by driving circles | Pro-Stuk"
 description: "A step-by-step outer CV joint test on an empty car park: how to drive the circles, what should click, and why the test sometimes shows nothing."
 pubDate: "2026-06-18"
 related:
@@ -110,6 +110,6 @@ built: the sound is caught not “in general” but in the specific regime
 where the fault has to reveal itself.
 
 If you hear clicking but are not sure it is the right sound, start a
-recording in the Stuk app while driving the circle. The app matches the
+recording in the Pro-Stuk app while driving the circle. The app matches the
 sound with your answers about the regime and the side and shows the likely
 causes with percentages.

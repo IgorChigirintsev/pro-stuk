@@ -1,7 +1,7 @@
 ---
 ru: "gul-generatora-ili-pompy-kak-razlichit"
 title: "Alternator or water pump: telling the whine apart"
-metaTitle: "Alternator or water pump whine: which is it | Stuk"
+metaTitle: "Alternator or water pump whine: which is it | Pro-Stuk"
 description: "The alternator and the water pump sit on the same belt and whine alike. The checks that separate them in ten minutes and what each version risks."
 pubDate: "2026-06-15"
 related:
@@ -96,7 +96,7 @@ comes off after long service. It is a small part next to the labour
 already being paid for.
 
 The easiest way to capture the difference is a recording: make two short
-files in the Stuk app — at idle with no load, and half a minute after
+files in the Pro-Stuk app — at idle with no load, and half a minute after
 switching on the lights and the heater. The app compares them with your
 answers and shows the likely causes with percentages, so you arrive with a
 theory rather than a general “something is humming”.

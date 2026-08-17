@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit quietschendem Riemen fahren"
-metaTitle: "Mit quietschendem Riemen fahren? | Stuk"
+metaTitle: "Mit quietschendem Riemen fahren? | Pro-Stuk"
 description: "Quietschender Keilrippenriemen: wie lange Sie fahren können, was ein Riemenriss bedeutet und wie die Reparatur entschieden wird."
 faq:
   - q: "Wie lange kann ich mit quietschendem Riemen fahren?"

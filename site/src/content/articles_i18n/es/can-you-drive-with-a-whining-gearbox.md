@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con la caja de cambios aullando?"
-metaTitle: "¿Se puede circular con la caja aullando? | Stuk"
+metaTitle: "¿Se puede circular con la caja aullando? | Pro-Stuk"
 description: "Una caja de cambios que aúlla rara vez deja el coche parado de golpe, pero el margen depende del carácter del sonido. Qué aúlla, qué señales son urgentes y qué hacer."
 faq:
   - q: "¿Cuántos kilómetros se pueden hacer con la caja de cambios aullando?"
@@ -111,6 +111,6 @@ cada mes.
 
 Si el aullido sigue siendo parejo y quiere saber si detrás hay un
 rodamiento de eje o es simple ruido de neumáticos, grabe el sonido con la
-aplicación Stuk en distintas marchas y en punto muerto rodando. La
+aplicación Pro-Stuk en distintas marchas y en punto muerto rodando. La
 aplicación compara las grabaciones entre sí y muestra las causas probables
 con porcentajes, lo que facilita la visita al taller.

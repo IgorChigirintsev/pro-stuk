@@ -1,6 +1,6 @@
 ---
-title: "Stuk przy skręcaniu kierownicą w ruchu"
-metaTitle: "Stuk przy skręcaniu w ruchu: przyczyny | Stuk"
+title: "Pro-Stuk przy skręcaniu kierownicą w ruchu"
+metaTitle: "Pro-Stuk przy skręcaniu w ruchu: przyczyny | Pro-Stuk"
 description: "Co stuka przy skręcaniu kierownicą podczas jazdy: przegub napędowy, sworzeń wahacza, górne mocowanie, przekładnia. Jak rozdzielić przyczyny."
 faq:
   - q: "Czy kliknięcia na łuku pod gazem to na pewno przegub napędowy?"
@@ -16,7 +16,7 @@ sources:
     url: "https://www.trwaftermarket.com"
 ---
 
-Stuk pojawiający się dokładnie w chwili skręcania kierownicą podczas jazdy
+Pro-Stuk pojawiający się dokładnie w chwili skręcania kierownicą podczas jazdy
 to objaw o dużej wartości diagnostycznej: od razu odpada połowa
 podejrzanych. Jeśli na wprost auto jedzie cicho, a dźwięk pojawia się przy
 skręcie, trzeba patrzeć na elementy, które w tym momencie albo zmieniają
@@ -31,7 +31,7 @@ podejmuje się decyzję o naprawie.
 | Głośne kliknięcia, klekot | Skręt pod gazem, koła w pełnym skręcie | Zewnętrzny przegub napędowy |
 | Pojedynczy głuchy stuk | Początek skrętu, zejście z nierówności | Sworzeń wahacza |
 | Chrzęst, skrzypienie z góry | Kręcenie kierownicą, także w miejscu | Łożysko górnego mocowania amortyzatora |
-| Stuk prosto w dłonie | Skręt plus nierówność | Końcówki, drążki, przekładnia |
+| Pro-Stuk prosto w dłonie | Skręt plus nierówność | Końcówki, drążki, przekładnia |
 | Stukot z boku | Skręt na tarce | Łączniki stabilizatora |
 
 Zewnętrzny przegub napędowy zużywa się pierwszy, bo pracuje pod
@@ -57,7 +57,7 @@ przeguby kierownicze. Sworzeń stuka głucho i z dołu —
 — a przeguby drążków posyłają w kierownicę drobny stukot, opisany w
 [sprawdzanie luzu końcówek drążków](/pl/articles/checking-track-rod-ends-for-play/).
 
-**Test na postoju.** Poruszyć kierownicą przy pracującym silniku. Stuk
+**Test na postoju.** Poruszyć kierownicą przy pracującym silniku. Pro-Stuk
 słyszalny bez ruszania z miejsca wskazuje na mechanizm kierowniczy — luz w
 zazębieniu albo w tulejach przekładni; pełną listę objawów zebrano w
 [stuk przekładni kierowniczej: jak go rozpoznać](/pl/articles/how-to-identify-a-steering-rack-knock/).
@@ -107,5 +107,5 @@ Ogólny przegląd stuków podwozia jest na stronie objawu
 [stukanie w zawieszeniu](/pl/symptoms/knocking-in-suspension/).
 
 Nie da się pewnie opisać dźwięku słowami? Wystarczy nagrać go w aplikacji
-Stuk podczas samego manewru: aplikacja zestawi nagranie z odpowiedziami i
+Pro-Stuk podczas samego manewru: aplikacja zestawi nagranie z odpowiedziami i
 pokaże prawdopodobne przyczyny z procentami oraz poziomem pilności.

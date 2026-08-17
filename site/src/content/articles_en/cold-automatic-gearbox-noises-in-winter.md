@@ -1,7 +1,7 @@
 ---
 ru: "zvuki-neprogretoj-akpp-zimoj"
 title: "Cold automatic gearbox noises in winter"
-metaTitle: "Cold automatic gearbox noises in winter | Stuk"
+metaTitle: "Cold automatic gearbox noises in winter | Pro-Stuk"
 description: "In winter a cold automatic hums, jolts and clicks, then quietens after ten minutes. Where normal ends and which sounds remain after warm-up."
 pubDate: "2026-06-02"
 related:
@@ -111,6 +111,6 @@ check is normal practice, not an attempt to stretch the bill.
 
 If you are unsure whether your sound falls within normal, record two
 drives — the first minutes after a cold start and the same road twenty
-minutes later — in the Stuk app. The difference between the recordings is
+minutes later — in the Pro-Stuk app. The difference between the recordings is
 the answer: the app matches them with your answers about temperature and
 driving conditions and shows the likely causes with percentages.

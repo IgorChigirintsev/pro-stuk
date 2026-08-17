@@ -1,6 +1,6 @@
 ---
 title: "Top 10 barulhos com os quais você não deve rodar"
-metaTitle: "Top 10 barulhos com os quais não rodar | Stuk"
+metaTitle: "Top 10 barulhos com os quais não rodar | Pro-Stuk"
 description: "Dez barulhos do carro depois dos quais seguir rodando é imprudente: o que está quebrando em cada caso e como diferenciá-los de sons inofensivos."
 faq:
   - q: "Por que o chiado comum de freio não está na lista?"
@@ -98,7 +98,7 @@ a temperatura ou o ângulo da direção mudam, e é exatamente assim que eles
 são ignorados até o estágio caro.
 
 Se apareceu um barulho desta lista e você não tem certeza, grave ele no
-aplicativo Stuk ali mesmo, antes de sair. O app cruza a gravação com suas
+aplicativo Pro-Stuk ali mesmo, antes de sair. O app cruza a gravação com suas
 respostas a algumas perguntas e mostra as causas prováveis com
 porcentagens — o que facilita decidir entre seguir rodando e chamar o
 guincho.

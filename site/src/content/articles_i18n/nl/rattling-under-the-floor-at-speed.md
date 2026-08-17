@@ -1,6 +1,6 @@
 ---
 title: "Geratel onder de bodem op snelheid"
-metaTitle: "Geratel onder de bodem op snelheid: wat nakijken | Stuk"
+metaTitle: "Geratel onder de bodem op snelheid: wat nakijken | Pro-Stuk"
 description: "Hitteschilden, de flexibele koppeling, uitlaatophangingen: waarom er op snelheid iets ratelt onder de bodem en hoe u de bron zelf vindt."
 faq:
   - q: "Waarom komt het geratel alleen bij een bepaalde snelheid op?"

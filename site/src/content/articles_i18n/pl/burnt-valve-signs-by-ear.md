@@ -1,6 +1,6 @@
 ---
 title: "Objawy przepalonego zaworu na słuch"
-metaTitle: "Objawy przepalonego zaworu na słuch | Stuk"
+metaTitle: "Objawy przepalonego zaworu na słuch | Pro-Stuk"
 description: "Rytmiczne strzały w wydechu, wypadanie zapłonów i syczenie na wolnych obrotach: jak rozpoznać przepalony zawór po dźwięku i czym potwierdzić teorię."
 faq:
   - q: "Czym przepalony zawór różni się na słuch od wypadania zapłonu?"
@@ -102,7 +102,7 @@ rytmicznymi strzałami i wypadaniem zapłonów prowadzi prostą drogą do
 przegrzanego katalizatora i uszkodzonego cylindra.
 
 Jeśli strzały pojawiają się sporadycznie i nie ma Pan pewności, czy są
-rytmiczne, proszę nagrać w aplikacji Stuk wolne obroty i krótkie dodanie
+rytmiczne, proszę nagrać w aplikacji Pro-Stuk wolne obroty i krótkie dodanie
 gazu. Aplikacja oceni okresowość dźwięku i jego związek z obrotami, pokaże
 prawdopodobne przyczyny z procentami — i przyjedzie Pan do warsztatu z
 hipotezą, którą wystarczy sprawdzić.

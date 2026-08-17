@@ -1,6 +1,6 @@
 ---
 title: "Gezoem van het achterste differentieel op snelheid"
-metaTitle: "Gezoem achterste differentieel op snelheid | Stuk"
+metaTitle: "Gezoem achterste differentieel op snelheid | Pro-Stuk"
 description: "Gezoem van achteren dat verandert onder gas en bij uitrollen is het klassieke handschrift van het achterste differentieel. Hoe u het van lagers onderscheidt."
 faq:
   - q: "Hoe onderscheid ik gezoem van het differentieel van gebrom van een wiellager?"

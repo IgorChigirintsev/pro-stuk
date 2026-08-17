@@ -1,6 +1,6 @@
 ---
 title: "Geluiden bij het starten in de vrieskou"
-metaTitle: "Starten in de vorst: piepen, kloppen, knarsen | Stuk"
+metaTitle: "Starten in de vorst: piepen, kloppen, knarsen | Pro-Stuk"
 description: "Piepende riem, klop van dikke olie, knarsende startmotor: de geluiden van een koude start in de vorst. Wat normaal is en wat naar de werkplaats moet."
 faq:
   - q: "Waarom klinkt een motor in de vorst luider en ruwer?"

@@ -1,6 +1,6 @@
 ---
 title: "Battito dopo il cambio gomme: cosa controllare"
-metaTitle: "Battito dopo il cambio gomme: cause e controlli | Stuk"
+metaTitle: "Battito dopo il cambio gomme: cause e controlli | Pro-Stuk"
 description: "Da dove nasce un battito dopo il cambio gomme: serraggio delle ruote, contrappesi, sassi nel battistrada, cerchio storto. Cosa controllare da soli e quando tornare."
 faq:
   - q: "Perché ricontrollare il serraggio delle ruote dopo 50–100 km?"
@@ -124,6 +124,6 @@ Le pagine sintomo
 ordinano le cause per carattere e condizioni.
 
 Se il battito continua a non dichiararsi, registralo: avvia una
-registrazione nell'app Stuk e percorri un tratto sconnesso che conosci.
+registrazione nell'app Pro-Stuk e percorri un tratto sconnesso che conosci.
 L'app confronta il suono con le tue risposte — quando è comparso, dove
 batte, cosa è stato cambiato — e mostra le cause probabili in percentuale.

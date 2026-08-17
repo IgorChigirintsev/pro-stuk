@@ -1,6 +1,6 @@
 ---
 title: "Cómo comprobar un rodamiento de rueda uno mismo"
-metaTitle: "Cómo comprobar un rodamiento de rueda uno mismo | Stuk"
+metaTitle: "Cómo comprobar un rodamiento de rueda uno mismo | Pro-Stuk"
 description: "Cinco comprobaciones que identifican un rodamiento de rueda gastado y su lado sin elevador: pruebas en marcha, rueda en el aire, holgura y temperatura del buje."
 faq:
   - q: "¿Puedo identificar el lado sin elevador?"
@@ -107,6 +107,6 @@ revisen el otro lado tiene sentido: si también está cerca del final, se puede
 planificar el gasto en lugar de encontrárselo dentro de un mes.
 
 Si las comprobaciones se contradicen entre sí —lo que pasa a menudo—, grabe el
-zumbido con la aplicación Stuk durante la prueba de cambio de carril. La
+zumbido con la aplicación Pro-Stuk durante la prueba de cambio de carril. La
 aplicación compara la grabación con sus respuestas y muestra las causas
 probables con porcentajes, incluido por qué lado empezar la revisión.

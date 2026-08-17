@@ -1,6 +1,6 @@
 ---
 title: "Butée d'embrayage bruyante : peut-on rouler ?"
-metaTitle: "Butée d'embrayage bruyante : peut-on rouler | Stuk"
+metaTitle: "Butée d'embrayage bruyante : peut-on rouler | Pro-Stuk"
 description: "Un bruit de butée quand on appuie sur la pédale d'embrayage : comment le distinguer des autres sons, combien de temps on peut rouler et ce qui décide la réparation."
 faq:
   - q: "Combien de temps peut-on rouler avec une butée d'embrayage bruyante ?"
@@ -110,6 +110,6 @@ opinion. Et un embrayage neuf réclame quelques centaines de kilomètres en
 douceur pour se roder, sans remorquage ni départs brutaux.
 
 Si vous n'êtes pas sûr que le son soit vraiment lié à la pédale,
-enregistrez-le dans l'application Stuk : deux courts extraits, embrayage
+enregistrez-le dans l'application Pro-Stuk : deux courts extraits, embrayage
 enfoncé puis relâché. L'application compare les enregistrements et vous
 indique dans quelle direction chercher avant d'arriver au garage.

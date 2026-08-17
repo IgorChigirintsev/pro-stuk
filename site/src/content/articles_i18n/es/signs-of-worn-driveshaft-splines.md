@@ -1,6 +1,6 @@
 ---
 title: "Señales de estrías del palier gastadas"
-metaTitle: "Estrías del palier gastadas: cómo detectarlo | Stuk"
+metaTitle: "Estrías del palier gastadas: cómo detectarlo | Pro-Stuk"
 description: "Un chasquido al alternar gas y freno, un golpe al arrancar y holgura en el palier: cómo reconocer unas estrías gastadas y separarlas de una junta homocinética."
 faq:
   - q: "¿En qué se diferencian unas estrías gastadas de una junta homocinética gastada?"
@@ -107,7 +107,7 @@ holgura. Un golpe doble y nítido acompañado de un tirón es motivo para ir
 al taller esta misma semana.
 
 Si el sonido es esporádico y no tiene claro que se repita justo al cambiar
-el sentido del par, grabe un par de arrancadas con la aplicación Stuk.
+el sentido del par, grabe un par de arrancadas con la aplicación Pro-Stuk.
 Compara el sonido con la descripción del régimen y muestra las causas
 probables con porcentajes, y le ayuda a explicarle al mecánico en qué
 momento exacto ocurre.

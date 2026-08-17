@@ -1,6 +1,6 @@
 ---
 title: "Tableteo del motor a ralentí"
-metaTitle: "Tableteo del motor a ralentí: causas y qué hacer | Stuk"
+metaTitle: "Tableteo del motor a ralentí: causas y qué hacer | Pro-Stuk"
 description: "Por qué tabletea un motor a ralentí: válvulas, taqués hidráulicos, inyectores, la cadena. Cómo separar el tableteo inofensivo del preocupante."
 faq:
   - q: "¿Un tableteo a ralentí es siempre una avería?"
@@ -144,7 +144,7 @@ tiene que cambiar: unas piezas nuevas alimentadas por el mismo aceite
 descuidado vuelven a tabletear en menos de un año.
 
 Si quiere saber hacia dónde mirar antes de pedir cita, grabe el tableteo con
-la aplicación Stuk. Compara el sonido con sus respuestas a unas cuantas
+la aplicación Pro-Stuk. Compara el sonido con sus respuestas a unas cuantas
 preguntas sobre las condiciones y muestra las causas probables con
 porcentajes: con esa lista es más fácil tanto elegir taller como valorar con
 sentido común lo que le presupuesten.

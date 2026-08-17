@@ -1,6 +1,6 @@
 ---
 title: "Sferragliamento sotto l'auto sulle buche"
-metaTitle: "Sferragliamento sotto l'auto sulle buche | Stuk"
+metaTitle: "Sferragliamento sotto l'auto sulle buche | Pro-Stuk"
 description: "Biellette della barra, paramotore, supporti di scarico: perché qualcosa sferraglia sotto l'auto sulle buche, come trovare la sorgente e quando è davvero serio."
 faq:
   - q: "Perché sferraglia sulle piccole asperità e tace nelle buche grosse?"
@@ -129,7 +129,7 @@ risposta cambia insieme costo e tempi, ed è una domanda legittima, non un
 tentativo di vendere di più.
 
 Se lo sferragliamento si rifiuta di farsi individuare, lo registri con
-l'app Stuk mentre percorre la strada rovinata che conosce: l'app confronta
+l'app Pro-Stuk mentre percorre la strada rovinata che conosce: l'app confronta
 il suono con le sue risposte su quando compare e mostra le cause probabili
 con un livello di urgenza, lasciando all'officina il solo compito di
 confermare la teoria sul ponte.

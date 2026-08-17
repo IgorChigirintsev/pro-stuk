@@ -1,6 +1,6 @@
 ---
 title: "Sinais de junta homocinética externa gasta"
-metaTitle: "Junta homocinética externa: estalo em curva | Stuk"
+metaTitle: "Junta homocinética externa: estalo em curva | Pro-Stuk"
 description: "Como estala uma junta homocinética externa gasta, a diferença para a interna, checagens sem elevador e o que decide entre coifa e junta nova."
 faq:
   - q: "Por que a junta homocinética estala justamente na curva?"
@@ -135,7 +135,7 @@ crimpadas de verdade, e não abraçadeiras plásticas. Os dois são detalhes
 pequenos que decidem se o reparo dura.
 
 Sem certeza de que é a junta homocinética estalando? Grave o som no
-aplicativo Stuk durante um círculo lento com a direção no fim de curso — o
+aplicativo Pro-Stuk durante um círculo lento com a direção no fim de curso — o
 app cruza a gravação com as suas respostas e mostra as causas prováveis com
 porcentagens e um nível de urgência. Com esse resultado fica mais fácil
 planejar a ida à oficina.

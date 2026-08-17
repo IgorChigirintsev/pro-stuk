@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć ze stukiem w silniku"
-metaTitle: "Jazda ze stukiem w silniku: ryzyko | Stuk"
+metaTitle: "Jazda ze stukiem w silniku: ryzyko | Pro-Stuk"
 description: "Z jakimi stukami silnika wolno dojechać do warsztatu, a przy jakich trzeba zgasić silnik i wezwać lawetę. Zasady łagodnego reżimu i czego nie robić."
 faq:
   - q: "Czy mogę dojechać do warsztatu, jeśli stuk jest cichy?"
@@ -105,7 +105,7 @@ zauważenia zmiany:
    wyprzedzania, holowania i długich podjazdów.
 3. **Pilnować kontrolki ciśnienia oleju i temperatury.** Jeśli kontrolka
    mrugnie, zatrzymać się w tym miejscu, a nie „na najbliższej stacji”.
-4. **Słuchać dźwięku.** Stuk, który zauważalnie rośnie w miarę nagrzewania
+4. **Słuchać dźwięku.** Pro-Stuk, który zauważalnie rośnie w miarę nagrzewania
    albo w trakcie jazdy, to powód, żeby stanąć.
 5. **Zaplanować krótką trasę** — do najbliższego warsztatu, a nie przez
    całe miasto i tym bardziej nie do innego.
@@ -131,7 +131,7 @@ znajdzie Pan na stronie objawu
 [stukanie w silniku](/pl/symptoms/knocking-in-engine/).
 
 Jeśli słyszy Pan stuk, ale nie ma pewności, skąd pochodzi, proszę nagrać
-pracujący silnik w aplikacji Stuk. Zestawi ona nagranie z typowymi stukami,
+pracujący silnik w aplikacji Pro-Stuk. Zestawi ona nagranie z typowymi stukami,
 zada kilka pytań uściślających i pokaże, do której strefy bliżej Pana
 przypadkowi oraz jak pilnie potrzebny jest warsztat. Decyzja pozostaje po
 Pana stronie, ale łatwiej ją podjąć z punktem odniesienia w ręku.

@@ -1,7 +1,7 @@
 ---
 ru: "indikator-iznosa-kolodok-kak-zvuchit"
 title: "Brake pad wear indicator: what it sounds like"
-metaTitle: "Brake pad wear indicator: what it sounds like | Stuk"
+metaTitle: "Brake pad wear indicator: what it sounds like | Pro-Stuk"
 description: "A thin metallic squeal while driving that stops the moment you brake is the mechanical pad wear indicator. How to recognise it and how long you have."
 pubDate: "2026-06-09"
 related:
@@ -97,6 +97,6 @@ and long descents held on the pedal, so the friction material beds in
 evenly.
 
 If the sound has appeared and you are not sure whether it is the indicator
-or something else, record it in the Stuk app — first while coasting, then
+or something else, record it in the Pro-Stuk app — first while coasting, then
 with light braking. The app matches the recordings with your answers and
 shows the likely causes with percentages.

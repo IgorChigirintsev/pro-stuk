@@ -1,6 +1,6 @@
 ---
 title: "Zumbido com a embreagem pisada"
-metaTitle: "Zumbido com a embreagem pisada: o que é | Stuk"
+metaTitle: "Zumbido com a embreagem pisada: o que é | Pro-Stuk"
 description: "Um zumbido que aparece quando você pisa no pedal da embreagem quase sempre é o rolamento. Como confirmar em um minuto e o que o conserto envolve."
 faq:
   - q: "Zumbido com a embreagem pisada é sempre o rolamento?"
@@ -94,6 +94,6 @@ rolamento que se rompe pode danificar os dedos do platô e transformar um
 serviço comum num serviço caro.
 
 Se o zumbido é baixo e você não tem certeza de que ele está ligado ao
-pedal, grave o som no aplicativo Stuk — primeiro em marcha lenta com o
+pedal, grave o som no aplicativo Pro-Stuk — primeiro em marcha lenta com o
 pedal solto, depois com ele pisado. O app compara as gravações, cruza com
 algumas respostas e mostra as causas prováveis com porcentagens.

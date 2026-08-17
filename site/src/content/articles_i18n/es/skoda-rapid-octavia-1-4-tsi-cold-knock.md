@@ -1,6 +1,6 @@
 ---
 title: "Golpe en frío en un Škoda Rapid / Octavia 1.4 TSI"
-metaTitle: "Golpe en frío en Škoda Rapid y Octavia 1.4 TSI | Stuk"
+metaTitle: "Golpe en frío en Škoda Rapid y Octavia 1.4 TSI | Pro-Stuk"
 description: "Golpes en frío en Škoda Rapid y Octavia con el 1.4 TSI: cadena y tensor, taqués hidráulicos, accesorios. Cómo distinguirlos por el carácter del sonido."
 faq:
   - q: "El golpe se va al minuto de arrancar, ¿es normal?"
@@ -99,6 +99,6 @@ propietario espera.
 
 Si el golpe solo aparece en el primer arranque del día, es difícil de cazar
 en el taller: cuando llega, el motor ya está caliente. Grabe el sonido con
-la aplicación Stuk por la mañana, en los primeros segundos tras arrancar.
+la aplicación Pro-Stuk por la mañana, en los primeros segundos tras arrancar.
 La aplicación compara la grabación con sus respuestas y muestra las causas
 probables con porcentajes, para que el mecánico tenga por dónde empezar.

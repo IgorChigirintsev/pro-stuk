@@ -1,6 +1,6 @@
 ---
 title: "Usure des silentblocs de bras avant : les symptômes"
-metaTitle: "Usure des silentblocs de bras avant : symptômes | Stuk"
+metaTitle: "Usure des silentblocs de bras avant : symptômes | Pro-Stuk"
 description: "Coups sourds dans les nids-de-poule, direction qui balade et voiture qui suit les ornières — les signes typiques de silentblocs usés et leur contrôle."
 faq:
   - q: "Comment savoir si ce sont les silentblocs et non une rotule de suspension ?"
@@ -109,7 +109,7 @@ vitesse élevée.
 
 Si des coups dans les nids-de-poule s'entendent déjà mais que vous
 n'arrivez pas à dire d'où, enregistrez un passage sur une portion dégradée
-familière dans l'application Stuk. Elle croise le caractère de l'impact
+familière dans l'application Pro-Stuk. Elle croise le caractère de l'impact
 avec vos réponses sur la vitesse et le comportement de la direction et
 affiche les causes probables avec leurs pourcentages — il ne reste plus
 que la confirmation à faire sur un pont.

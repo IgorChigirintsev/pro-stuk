@@ -1,6 +1,6 @@
 ---
 title: "Brummen nach dem Reifenwechsel"
-metaTitle: "Brummen nach dem Reifenwechsel: was prüfen | Stuk"
+metaTitle: "Brummen nach dem Reifenwechsel: was prüfen | Pro-Stuk"
 description: "Nach dem Reifenwechsel ist bei Tempo ein Brummen aufgetreten. Wann das Profil schuld ist, wann Auswuchtung oder Radtausch und wann die Reifen unschuldig sind."
 faq:
   - q: "Brummen neue Reifen anfangs immer?"

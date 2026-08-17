@@ -1,6 +1,6 @@
 ---
 title: "Dieselachtig geratel: verstuivers of klepspeling"
-metaTitle: "Dieselgeratel: verstuivers of klepspeling | Stuk"
+metaTitle: "Dieselgeratel: verstuivers of klepspeling | Pro-Stuk"
 description: "Een benzinemotor is als een diesel gaan ratelen: wanneer de verstuivers de schuldige zijn, wanneer het de klepspeling is, en hoe u ze op het gehoor onderscheidt."
 faq:
   - q: "Waarom klinkt een benzinemotor als een diesel?"

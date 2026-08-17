@@ -1,6 +1,6 @@
 ---
 title: "Wycie łożyska alternatora w Chevrolecie Cruze"
-metaTitle: "Chevrolet Cruze: wycie łożyska alternatora | Stuk"
+metaTitle: "Chevrolet Cruze: wycie łożyska alternatora | Pro-Stuk"
 description: "Wycie spod maski w Cruzie, które rośnie z obrotami: jak odróżnić łożysko alternatora od rolek, pompy wody i sprzęgła jednokierunkowego."
 faq:
   - q: "Wycie spod maski rośnie z obrotami. Czy to alternator?"
@@ -82,7 +82,7 @@ jest ten sam, a druga wizyta z tego samego powodu za pół roku kosztuje
 więcej niż te części teraz.
 
 Żeby nie sprawdzać wszystkiego po kolei na oślep, proszę nagrać dźwięk
-aplikacją Stuk przy otwartej masce: najpierw na wolnych obrotach, potem przy
+aplikacją Pro-Stuk przy otwartej masce: najpierw na wolnych obrotach, potem przy
 płynnie podnoszonych. Aplikacja zestawia nagrania z odpowiedziami na kilka
 pytań i pokazuje prawdopodobne przyczyny w procentach — dzięki temu widać, od
 którego urządzenia zacząć.

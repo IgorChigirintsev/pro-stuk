@@ -1,6 +1,6 @@
 ---
 title: "Vibración y runrún a 100 km/h"
-metaTitle: "Vibración y runrún a 100 km/h: las causas | Stuk"
+metaTitle: "Vibración y runrún a 100 km/h: las causas | Pro-Stuk"
 description: "De dónde salen la vibración y el runrún a 100 km/h: equilibrado, llanta doblada, rodamiento de rueda o ruido de neumáticos. Autocomprobaciones en un solo viaje."
 faq:
   - q: "¿Por qué la vibración aparece justo hacia los 100 km/h?"
@@ -121,7 +121,7 @@ cambiar el buje completo; esa única respuesta cambia por completo la escala
 del trabajo.
 
 Si después del viaje sigue sin tener claro si es vibración, runrún o las dos
-cosas, grabe el sonido en carretera con la aplicación Stuk. La aplicación
+cosas, grabe el sonido en carretera con la aplicación Pro-Stuk. La aplicación
 cruza la grabación con sus respuestas —a qué velocidad aparece, si cambia en
 curva, qué se ha tocado hace poco en las ruedas— y muestra las causas
 probables con un nivel de urgencia. Con esa grabación no tendrá que

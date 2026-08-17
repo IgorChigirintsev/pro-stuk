@@ -1,6 +1,6 @@
 ---
 title: "Sibilo sotto il cofano dopo lo spegnimento"
-metaTitle: "Sibilo sotto il cofano dopo lo spegnimento | Stuk"
+metaTitle: "Sibilo sotto il cofano dopo lo spegnimento | Pro-Stuk"
 description: "Un sibilo sotto il cofano a motore spento può essere innocuo o serio. Come distinguere lo scarico che si raffredda da una perdita di liquido o d’aria."
 faq:
   - q: "Il sibilo subito dopo lo spegnimento è pericoloso?"
@@ -101,7 +101,7 @@ si possono ignorare e quelli no c’è
 
 Distinguere a orecchio un normale scarico di pressione da una perdita non
 è facile: la differenza non sta nel timbro ma nella durata e nella
-ripetibilità. Registrate il suono nell’app Stuk subito dopo lo
+ripetibilità. Registrate il suono nell’app Pro-Stuk subito dopo lo
 spegnimento: confronta la registrazione con le vostre risposte su odore,
 livello del liquido e temperatura e mostra le cause probabili in
 percentuale, così saprete se andare in officina domani o semplicemente

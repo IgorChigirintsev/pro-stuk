@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych wielowypustów półosi"
-metaTitle: "Zużyte wielowypusty półosi: jak rozpoznać | Stuk"
+metaTitle: "Zużyte wielowypusty półosi: jak rozpoznać | Pro-Stuk"
 description: "Kliknięcie przy zmianie gazu na hamulec, stuk przy ruszaniu i luz półosi: jak rozpoznać zużyte wielowypusty i odróżnić je od przegubu."
 faq:
   - q: "Czym zużyte wielowypusty różnią się od zużytego przegubu napędowego?"
@@ -106,6 +106,6 @@ w tym tygodniu.
 
 Jeśli dźwięk pojawia się sporadycznie, a nie ma Pan pewności, że powtarza
 się właśnie przy zmianie napędu, proszę nagrać kilka ruszeń w aplikacji
-Stuk. Zestawia ona dźwięk z opisem sytuacji i pokazuje prawdopodobne
+Pro-Stuk. Zestawia ona dźwięk z opisem sytuacji i pokazuje prawdopodobne
 przyczyny z procentami — a przy okazji pomaga wytłumaczyć mechanikowi,
 kiedy dokładnie to się dzieje.

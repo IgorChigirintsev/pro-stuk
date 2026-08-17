@@ -1,6 +1,6 @@
 ---
 title: "Renault Duster transfer kutusu uğultusu"
-metaTitle: "Renault Duster transfer kutusu uğultusu: kontroller | Stuk"
+metaTitle: "Renault Duster transfer kutusu uğultusu: kontroller | Pro-Stuk"
 description: "4x4 Dusterda alttan gelen uğultu: transfer kutusu ve arka diferansiyeli teker rulmanından ve lastiklerden ayırmak, serviste neye bakıldığı."
 faq:
   - q: "Uğultu yalnızca 60 km/s üstünde var, transfer kutusu mu?"
@@ -91,7 +91,7 @@ sınıftaki araçlarda uğultuyla tıkırtı sıkça birlikte gelir ve aşınmı
 amortisörler akustik tabloyu kendi başlarına değiştirir.
 
 Servise belirli bir teoriyle gitmek isterseniz, uğultuyu düz bir yol
-parçasında Stuk uygulamasıyla kaydedin — önce gazdayken, sonra boşta.
+parçasında Pro-Stuk uygulamasıyla kaydedin — önce gazdayken, sonra boşta.
 Uygulama kayıtları cevaplarınızla eşleştirir ve muhtemel nedenleri
 yüzdelerle gösterir; ustaya neyi zaten elediğinizi de hemen
 söyleyebilirsiniz.

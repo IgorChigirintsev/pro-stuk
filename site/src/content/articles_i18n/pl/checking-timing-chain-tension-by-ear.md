@@ -1,6 +1,6 @@
 ---
 title: "Jak sprawdzić napięcie łańcucha rozrządu na słuch"
-metaTitle: "Napięcie łańcucha rozrządu na słuch | Stuk"
+metaTitle: "Napięcie łańcucha rozrządu na słuch | Pro-Stuk"
 description: "Jak usłyszeć rozciągnięty łańcuch rozrządu: w jakich warunkach się zdradza, czym różni się od popychaczy i wtryskiwaczy i co pokazuje zimny rozruch."
 faq:
   - q: "Dlaczego łańcuch rozrządu jest najgłośniejszy przy zimnym rozruchu?"
@@ -96,7 +96,7 @@ przeskoczenie łańcucha w większości współczesnych silników kończy się
 spotkaniem tłoków z zaworami. Ile czasu realnie zostaje, opisuje
 [czy można jeździć z rozciągniętym łańcuchem rozrządu](/pl/articles/can-you-drive-with-a-stretched-timing-chain/).
 
-Zimny rozruch najłatwiej nagrać w aplikacji Stuk: proszę włączyć nagrywanie
+Zimny rozruch najłatwiej nagrać w aplikacji Pro-Stuk: proszę włączyć nagrywanie
 przed przekręceniem kluczyka i trzymać telefon przy atrapie chłodnicy.
 Aplikacja porównuje dźwięk z odpowiedziami o czas trwania i warunki i pokazuje
 prawdopodobne przyczyny w procentach — a nagranie zostaje, żeby odtworzyć je

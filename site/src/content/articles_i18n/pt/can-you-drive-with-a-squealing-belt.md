@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com a correia chiando"
-metaTitle: "Dá para rodar com a correia chiando? | Stuk"
+metaTitle: "Dá para rodar com a correia chiando? | Pro-Stuk"
 description: "Correia do alternador chiando: quanto dá para rodar, o que uma correia partida ameaça, como separar desgaste de rolamento e como se decide o reparo."
 faq:
   - q: "Quanto tempo dá para rodar com a correia chiando?"
@@ -95,7 +95,7 @@ se ele ainda está na faixa. Uma oficina que não menciona nenhum dos dois
 está chutando.
 
 Se você não tem certeza se é a correia chiando ou um rolamento zunindo
-dentro de um acessório, grave o som com o aplicativo Stuk na partida fria e
+dentro de um acessório, grave o som com o aplicativo Pro-Stuk na partida fria e
 repita com o motor quente. A diferença entre as duas gravações diz mais
 sobre a causa que qualquer descrição em palavras — e o aplicativo cruza isso
 com suas respostas a algumas perguntas e mostra as hipóteses prováveis.

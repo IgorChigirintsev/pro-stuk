@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'usure d'une courroie de distribution"
-metaTitle: "Courroie de distribution usée : signes et contrôle | Stuk"
+metaTitle: "Courroie de distribution usée : signes et contrôle | Pro-Stuk"
 description: "Comment reconnaître une courroie de distribution usée : fissures, effilochage, cliquetis, sifflement des galets. Pourquoi la rupture est fatale et quand remplacer."
 faq:
   - q: "Que se passe-t-il si la courroie de distribution casse en roulant ?"
@@ -121,6 +121,6 @@ certaines vis de vilebrequin sont à usage unique. Un travail fait sans ces
 
 Si un cliquetis, un bruissement ou un sifflement se fait déjà entendre du
 côté de la distribution, capturez le son : un enregistrement dans
-l'application Stuk, accompagné des réponses à quelques questions, aide à
+l'application Pro-Stuk, accompagné des réponses à quelques questions, aide à
 déterminer s'il s'agit des galets, de la pompe ou de quelque chose de plus
 sérieux — et ce qu'il faut apporter à l'atelier.

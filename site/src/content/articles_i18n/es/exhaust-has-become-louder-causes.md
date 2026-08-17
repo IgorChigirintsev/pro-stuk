@@ -1,6 +1,6 @@
 ---
 title: "El escape suena más fuerte: las causas"
-metaTitle: "El escape suena más fuerte: causas y arreglos | Stuk"
+metaTitle: "El escape suena más fuerte: causas y arreglos | Pro-Stuk"
 description: "Un silenciador perforado, un tubo flexible roto, uniones y juntas: por qué el escape suena más fuerte, qué amenaza y cómo se decide la reparación."
 faq:
   - q: "¿Por qué los silenciadores se perforan desde dentro?"
@@ -123,7 +123,7 @@ tocado, conviene leer antes
 [¿se puede circular con el catalizador roto?](/es/articles/can-you-drive-with-a-broken-catalytic-converter/).
 
 ¿No está seguro de que sea el escape lo que ha cambiado de voz? Grabe el coche
-en marcha con la aplicación Stuk: compara la grabación con sus respuestas
+en marcha con la aplicación Pro-Stuk: compara la grabación con sus respuestas
 sobre cuándo suena más fuerte y muestra las causas probables con un nivel de
 urgencia, lo que hace más fácil elegir taller y no pagar de más por la
 búsqueda.

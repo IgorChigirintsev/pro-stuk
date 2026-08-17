@@ -1,6 +1,6 @@
 ---
 title: "Spurstangenköpfe auf Spiel prüfen"
-metaTitle: "Spurstangenköpfe auf Spiel prüfen | Stuk"
+metaTitle: "Spurstangenköpfe auf Spiel prüfen | Pro-Stuk"
 description: "Wie Sie Spiel in Spurstangenköpfen selbst finden: der Griff auf 3 und 9 Uhr, das Gelenk mit der Hand fühlen, Abgrenzung zum Lenkgetriebe und was die Reparatur braucht."
 faq:
   - q: "Wie unterscheide ich Spiel im Spurstangenkopf von Spiel im Lenkgetriebe?"

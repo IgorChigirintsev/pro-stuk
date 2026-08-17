@@ -1,6 +1,6 @@
 ---
 title: "Zunido do câmbio em ponto morto"
-metaTitle: "Zunido do câmbio em ponto morto: causas | Stuk"
+metaTitle: "Zunido do câmbio em ponto morto: causas | Pro-Stuk"
 description: "Zunido em ponto morto com o pedal solto aponta para o rolamento do eixo primário ou o nível de óleo. Como separar isso do rolamento de liberação."
 faq:
   - q: "O zunido em ponto morto some quando piso na embreagem. O que isso significa?"
@@ -93,6 +93,6 @@ já está se desfazendo. Sobre o prazo realista, veja
 [dá para rodar com o câmbio zunindo](/pt/articles/can-you-drive-with-a-whining-gearbox/).
 
 Se o zunido é baixo e você não tem certeza se ele segue o pedal, grave-o
-no aplicativo Stuk nos dois estados: pedal solto e pedal pisado. O
+no aplicativo Pro-Stuk nos dois estados: pedal solto e pedal pisado. O
 aplicativo compara as gravações com suas respostas e mostra as causas
 prováveis com porcentagens, junto com o que checar antes da visita.

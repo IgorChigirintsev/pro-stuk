@@ -1,6 +1,6 @@
 ---
 title: "Sifflement après un changement de courroie : pourquoi et que faire"
-metaTitle: "Sifflement après changement de courroie : causes | Stuk"
+metaTitle: "Sifflement après changement de courroie : causes | Pro-Stuk"
 description: "La courroie a été changée mais le sifflement est resté ou revenu : tension, alignement, galets, poulie découpleur. Comment trouver la vraie cause."
 faq:
   - q: "Une courroie neuve qui siffle les premiers jours, c'est normal ?"
@@ -134,7 +134,7 @@ montée par-dessus une fuite non traitée, c'est de l'argent dépensé deux
 fois.
 
 Si vous voulez arriver avec une théorie toute prête, enregistrez le bruit
-dans l'application Stuk : elle compare l'enregistrement à des cas typiques,
+dans l'application Pro-Stuk : elle compare l'enregistrement à des cas typiques,
 tient compte de vos réponses sur le moment où le sifflement apparaît et
 affiche les causes probables avec un niveau d'urgence — ce qui aide à
 distinguer une question de garantie d'un travail neuf.

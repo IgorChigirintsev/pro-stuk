@@ -1,6 +1,6 @@
 ---
 title: "Ronzio in autostrada che sparisce in città"
-metaTitle: "Ronzio in autostrada che sparisce in città | Stuk"
+metaTitle: "Ronzio in autostrada che sparisce in città | Pro-Stuk"
 description: "Perché un ronzio si sente solo sopra gli 80 km/h e in città non c’è: cuscinetti ruota, gomme, aerodinamica e l’ordine dei controlli da fare da soli."
 faq:
   - q: "Perché in città non ronza e in autostrada sì?"
@@ -103,7 +103,7 @@ sono in
 
 La difficoltà principale di questo tipo di ronzio è che non lo potete
 dimostrare al meccanico: esiste solo in autostrada. Registratelo nell’app
-Stuk guidando alla velocità in cui vive e durante i cambi di corsia. L’app
+Pro-Stuk guidando alla velocità in cui vive e durante i cambi di corsia. L’app
 confronta la registrazione con le vostre risposte e mostra le cause
 probabili in percentuale, e la registrazione stessa si può semplicemente
 far ascoltare al meccanico.

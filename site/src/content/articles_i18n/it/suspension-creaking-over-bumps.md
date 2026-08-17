@@ -1,6 +1,6 @@
 ---
 title: "Cigolio della sospensione sulle asperità"
-metaTitle: "Cigolio della sospensione: cause e rimedi | Stuk"
+metaTitle: "Cigolio della sospensione: cause e rimedi | Pro-Stuk"
 description: "Perché la sospensione cigola sulle asperità: boccole della barra stabilizzatrice, silent block dei bracci, giunti sferici. Quando basta il grasso e quando serve la sostituzione."
 faq:
   - q: "Un cigolio della sospensione è pericoloso?"
@@ -129,7 +129,7 @@ corrispondano esattamente al diametro della barra. Una boccola troppo
 larga è il motivo classico per cui il cigolio sopravvive alla riparazione.
 
 Se il rumore non ti dice se si tratta di un cigolio innocuo o di uno snodo
-consumato, registralo con l’app Stuk: confronta la registrazione con le
+consumato, registralo con l’app Pro-Stuk: confronta la registrazione con le
 tue risposte su quando compare il rumore e mostra le cause probabili con
 un livello di urgenza.
 

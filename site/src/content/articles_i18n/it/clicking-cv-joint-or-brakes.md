@@ -1,6 +1,6 @@
 ---
 title: "Clic in marcia: giunto omocinetico o freni"
-metaTitle: "Clic in marcia: giunto omocinetico o freni | Stuk"
+metaTitle: "Clic in marcia: giunto omocinetico o freni | Pro-Stuk"
 description: "I clic in curva e in partenza arrivano sia dal giunto omocinetico esterno sia dai freni. Come separare le ipotesi in base alle condizioni in cui compaiono."
 faq:
   - q: "Clic solo in curva stretta: è sicuramente il giunto omocinetico?"
@@ -95,7 +95,7 @@ sferragliare sono materiale di consumo, e pastiglie montate senza di esse
 ricominciano a cliccare nel giro di settimane.
 
 Se i clic sono saltuari e non si riescono a riprodurre sul ponte, registri
-il suono con l'app Stuk durante un cerchio lento con un filo di gas, e a
+il suono con l'app Pro-Stuk durante un cerchio lento con un filo di gas, e a
 parte alla prima pressione del pedale. Da quelle due registrazioni l'app
 mostra le cause probabili in percentuale e suggerisce quale componente
 guardare per primo.

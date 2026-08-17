@@ -1,6 +1,6 @@
 ---
 title: "Boşa alınca ses değişiyor"
-metaTitle: "Boşa alınca ses değişiyor: ne anlama gelir | Stuk"
+metaTitle: "Boşa alınca ses değişiyor: ne anlama gelir | Pro-Stuk"
 description: "Yolda boşa aldınız ve ses değişti. Bu, kaynak hakkında ne söyler, test nasıl doğru yapılır ve hangi ihtimalleri eler."
 faq:
   - q: "Hareket hâlinde boşa almak güvenli mi?"
@@ -97,7 +97,7 @@ yazısındaki yöntem yardımcı olur; yol seslerinin tamamı da
 [giderken uğultu](/tr/symptoms/humming-while-driving/) belirti sayfasında
 ele alınıyor.
 
-Her iki denemeyi de — viteste ve boşta — kaydetmek Stuk uygulamasında
+Her iki denemeyi de — viteste ve boşta — kaydetmek Pro-Stuk uygulamasında
 kolaydır: uygulama parçaları karşılaştırır, hız ve koşullara dair
 yanıtlarınızla eşleştirir ve olası nedenleri yüzdelerle gösterir. Servise
 belirsiz bir «bir şey uğulduyor» ile değil, bir hipotezle gidersiniz.

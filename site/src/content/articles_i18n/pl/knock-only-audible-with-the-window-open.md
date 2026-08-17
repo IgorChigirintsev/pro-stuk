@@ -1,6 +1,6 @@
 ---
-title: "Stuk słychać tylko przy otwartym oknie"
-metaTitle: "Stuk słyszalny tylko przy otwartym oknie | Stuk"
+title: "Pro-Stuk słychać tylko przy otwartym oknie"
+metaTitle: "Pro-Stuk słyszalny tylko przy otwartym oknie | Pro-Stuk"
 description: "Okno zamknięte — cisza, otwarte — wyraźny stuk. Dlaczego tak się dzieje, co to mówi o źródle i jak wykorzystać ten efekt w diagnostyce."
 faq:
   - q: "Dlaczego przy zamkniętym oknie stuku nie słychać?"
@@ -105,7 +105,7 @@ przesmarowanie prowadnic zacisku: zacisk, który nie odpuszcza do końca,
 
 Taki dźwięk prawie nie da się opisać mechanikowi słowami: na stanowisku
 auto stoi, okna są otwarte, a brakuje właśnie tej kombinacji prędkości i
-skrętu. Dlatego warto nagrać przejazd z opuszczoną szybą w aplikacji Stuk —
+skrętu. Dlatego warto nagrać przejazd z opuszczoną szybą w aplikacji Pro-Stuk —
 przeanalizuje nagranie, zestawi je z odpowiedziami o prędkości i warunkach
 i pokaże prawdopodobne przyczyny z procentami, dając warsztatowi konkretny
 fragment do odsłuchania.

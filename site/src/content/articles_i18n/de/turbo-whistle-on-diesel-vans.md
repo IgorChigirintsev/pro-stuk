@@ -1,6 +1,6 @@
 ---
 title: "Turbopfeifen bei Diesel-Transportern: Sprinter, Transit"
-metaTitle: "Turbopfeifen bei Sprinter und Transit Diesel | Stuk"
+metaTitle: "Turbopfeifen bei Sprinter und Transit Diesel | Pro-Stuk"
 description: "Turbopfeifen bei Diesel-Transportern wie Sprinter und Transit: wo das Normale endet und Falschluft oder Wellenverschleiß beginnen, und wie Sie prüfen."
 faq:
   - q: "Ein Turbolader pfeift immer ein wenig — ist das normal?"

@@ -1,6 +1,6 @@
 ---
 title: "Chiado embaixo do capô na partida"
-metaTitle: "Chiado embaixo do capô na partida: causas | Stuk"
+metaTitle: "Chiado embaixo do capô na partida: causas | Pro-Stuk"
 description: "Por que aparece chiado embaixo do capô nos primeiros segundos após a partida: correia, tensor, roletes ou a polia do alternador com roda-livre."
 faq:
   - q: "Chiado que para dois segundos depois da partida é perigoso?"
@@ -131,5 +131,5 @@ ouvir os roletes com estetoscópio leva de dez a quinze minutos, e muitas
 oficinas fazem essa checagem de graça quando você fecha o serviço.
 
 Se quiser entender a causa antes de sair de casa, grave o chiado no momento
-da partida com o aplicativo Stuk: ele cruza o som com suas respostas e
+da partida com o aplicativo Pro-Stuk: ele cruza o som com suas respostas e
 mostra as causas prováveis com um grau de urgência.

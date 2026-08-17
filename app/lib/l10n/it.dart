@@ -2,7 +2,7 @@
 const Map<String, String> it = {
   'hiwBody':
       '\n1. Domande. Un breve questionario restringe le cause: quando si sente il rumore, a cosa somiglia, da cosa dipende. È la base principale della valutazione — anche il meccanico parte così.\n\n2. Suono. Una registrazione di 15–30 secondi viene inviata al server. Gli algoritmi misurano lo spettro, il ritmo dei colpi e il regime del motore, e un modello linguistico confronta tutto con le tue risposte e con i difetti tipici del tuo modello.\n\n3. Rapporto. Cause probabili con percentuali, un semaforo di urgenza e indicazioni: cosa dire in officina e cosa puoi controllare da solo.\n\nIl risultato è una stima di probabilità, non una diagnosi. La precisione dipende dalla qualità della registrazione e dalla sincerità delle risposte. La decisione sulla riparazione spetta al meccanico dopo il controllo.',
-  'appName': 'Stuk',
+  'appName': 'Pro-Stuk',
   'appTagline': 'diagnosi dal suono',
   'carTitle': 'Che auto hai?',
   'carSubtitle':
@@ -116,7 +116,7 @@ const Map<String, String> it = {
   'histEmpty': 'Per ora vuoto: la prima analisi comparirà qui.',
   'histFull': 'analisi del suono',
   'histQuick': 'verdetto rapido',
-  'shareText': 'Analisi del suono — app «Stuk», pro-stuk.com',
+  'shareText': 'Analisi del suono — app «Pro-Stuk», pro-stuk.com',
   'langTitle': 'Lingua',
   'langHint':
       'Per impostazione predefinita, la lingua del dispositivo. Ciò che non è ancora tradotto viene mostrato in russo.',

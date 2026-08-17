@@ -1,6 +1,6 @@
 ---
 title: "El escape ruge en frío"
-metaTitle: "El escape ruge en frío: causas y arreglos | Stuk"
+metaTitle: "El escape ruge en frío: causas y arreglos | Pro-Stuk"
 description: "Por qué el escape ruge tras un arranque en frío y se calla al calentarse: junta del colector, grietas, tubo flexible. Comprobaciones y cómo se repara."
 faq:
   - q: "¿Por qué el rugido solo está en frío y se va tras calentarse?"
@@ -111,7 +111,7 @@ tiempo siempre es más fácil: las fijaciones todavía se aflojan en lugar de
 tener que cortarlas junto con los espárragos agarrotados.
 
 Si no está seguro de dónde viene exactamente el rugido, grabe un arranque en
-frío con la aplicación Stuk: compara la grabación con sus respuestas sobre
+frío con la aplicación Pro-Stuk: compara la grabación con sus respuestas sobre
 cuándo aparece el sonido y cuándo se apaga, y muestra las causas probables con
 un nivel de urgencia, de modo que llegue al taller con una teoría de trabajo y
 no con «algo ruge por las mañanas».

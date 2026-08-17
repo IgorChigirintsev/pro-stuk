@@ -1,6 +1,6 @@
 ---
 title: "Solaris ve Rio'da G4FC tıkırtısı: normal mi, çizik mi"
-metaTitle: "G4FC tıkırtısı: normal mi, silindir çiziği mi | Stuk"
+metaTitle: "G4FC tıkırtısı: normal mi, silindir çiziği mi | Pro-Stuk"
 description: "G4FC rölantide tıkırdıyor: standart enjektör takırtısı nerede biter, kaygı verici ses nerede başlar. Normali çizikten ayırmak ve neye bakmak gerekir."
 faq:
   - q: "G4FC'de tıkırtı normal mi?"
@@ -104,7 +104,7 @@ fotoğraflarını isteyin. Motor takırtılarının sese göre genel dökümü
 [sese göre bütün motor takırtıları](/tr/articles/engine-knock-all-causes-by-sound/)
 yazısında.
 
-Stuk uygulaması ilk adımda yardımcı olur: tıkırtıyı soğuk ve sıcak motorda
+Pro-Stuk uygulaması ilk adımda yardımcı olur: tıkırtıyı soğuk ve sıcak motorda
 kaydedin, yük ve yağ eksiltmesi hakkındaki birkaç soruyu cevaplayın ve olası
 sebepleri yüzdeyle alın. Kompresyon ölçümünün yerini tutmaz ama gereksiz
 panikten ve yanlış parçaya yapılan «önleyici» harcamalardan kurtarır.

@@ -1,6 +1,6 @@
 ---
 title: "100 km/s hızda titreşim ve uğultu"
-metaTitle: "100 km/s hızda titreşim ve uğultu: sebepleri | Stuk"
+metaTitle: "100 km/s hızda titreşim ve uğultu: sebepleri | Pro-Stuk"
 description: "100 km/s hızda titreşim ve uğultu nereden gelir: balans, eğilmiş jant, teker rulmanı ya da lastik sesi. Tek sürüşte yapabileceğiniz kontroller."
 faq:
   - q: "Titreşim neden 100 km/s civarında ortaya çıkıyor?"
@@ -120,7 +120,7 @@ mu yoksa komple göbek ünitesi mi değişiyor — tek bu cevap işin ölçeğin
 tamamen değiştirir.
 
 Sürüşten sonra hâlâ titreşim mi, uğultu mu, yoksa ikisi birden mi olduğu
-belirsizse, sesi yolda Stuk uygulamasında kaydedin. Uygulama kaydı
+belirsizse, sesi yolda Pro-Stuk uygulamasında kaydedin. Uygulama kaydı
 verdiğiniz cevaplarla eşleştirir — hangi hızda çıkıyor, virajlarda değişiyor
 mu, tekerlerde yakın zamanda ne yapıldı — ve olası sebepleri aciliyet
 seviyesiyle gösterir. O kayıtla serviste sorunu yerinde tekrar üretmek

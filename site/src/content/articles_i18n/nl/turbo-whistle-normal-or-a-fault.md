@@ -1,6 +1,6 @@
 ---
 title: "Fluitende turbo: normaal of een defect?"
-metaTitle: "Fluitende turbo: normaal of een defect? | Stuk"
+metaTitle: "Fluitende turbo: normaal of een defect? | Pro-Stuk"
 description: "Wanneer het fluiten van een turbo een gewoon geluid is en wanneer het op een lek of slijtage wijst: turbofluit versus riempiep, en wat u eerst controleert."
 faq:
   - q: "Fluit een turbo altijd, of is dat een teken van een defect?"

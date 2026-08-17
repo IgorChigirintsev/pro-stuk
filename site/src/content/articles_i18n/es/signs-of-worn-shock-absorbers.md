@@ -1,6 +1,6 @@
 ---
 title: "Señales de amortiguadores gastados"
-metaTitle: "Amortiguadores gastados: ocho síntomas | Stuk"
+metaTitle: "Amortiguadores gastados: ocho síntomas | Pro-Stuk"
 description: "Ocho señales de amortiguadores gastados: carrocería que flota, hundida al frenar, golpeteos y desgaste irregular. Cómo comprobarlos y qué implica cambiarlos."
 faq:
   - q: "¿Por qué cuesta tanto notar el desgaste de los amortiguadores?"
@@ -140,6 +140,6 @@ temporada. Ajustar el amortiguador al coche y al uso que se le da importa
 más que la marca del embalaje.
 
 Si la suspensión golpea y el origen no está claro, grabe el sonido con la
-aplicación Stuk: compara la grabación con sus respuestas sobre cuándo y
+aplicación Pro-Stuk: compara la grabación con sus respuestas sobre cuándo y
 cómo aparece el sonido y muestra las causas probables con un nivel de
 urgencia.

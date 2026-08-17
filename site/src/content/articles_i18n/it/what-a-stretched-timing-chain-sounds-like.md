@@ -1,6 +1,6 @@
 ---
 title: "Come suona una catena di distribuzione allungata"
-metaTitle: "Come suona una catena di distribuzione lasca | Stuk"
+metaTitle: "Come suona una catena di distribuzione lasca | Pro-Stuk"
 description: "Sferragliare all'avvio a freddo, fruscio da dietro il carter, una reazione al rilascio: come riconoscere una catena di distribuzione allungata e distinguerla dagli altri battiti."
 faq:
   - q: "Perché la catena sferraglia più forte nei primi secondi dopo un avvio a freddo?"
@@ -98,7 +98,7 @@ Un'altra osservazione dalla pratica: carenza di olio e tagliandi
 allungati fanno consumare la catena più del chilometraggio in sé.
 
 Se lo sferragliamento è breve e non è sicuro di sentirlo davvero, registri
-un avvio a freddo con l'app Stuk — i primi cinque secondi da quando gira
+un avvio a freddo con l'app Pro-Stuk — i primi cinque secondi da quando gira
 la chiave. L'app confronta la registrazione con le sue risposte e mostra
 le cause probabili in percentuale, così arriva in officina con una teoria
 pronta invece che con un generico «c'è qualcosa che sferraglia».

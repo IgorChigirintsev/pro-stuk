@@ -1,6 +1,6 @@
 ---
 title: "Kendi yapabileceğiniz oto stetoskobu"
-metaTitle: "Ev yapımı oto stetoskobu: nasıl yapılır | Stuk"
+metaTitle: "Ev yapımı oto stetoskobu: nasıl yapılır | Pro-Stuk"
 description: "Tornavida, hortum ya da borudan oto stetoskobu nasıl yapılır, motorda ve ek ünitelerde nereleri dinlemeli ve hangi güvenlik kurallarına uymalı."
 faq:
   - q: "Stetoskop yerine tornavida gerçekten işe yarıyor mu?"
@@ -104,6 +104,6 @@ yazısındaki yöntemle yapılır.
 Diyaframlı hazır bir stetoskop pahalı değildir ve ev yapımı olandan daha
 temiz duyar, ama ev yapımı versiyon da asıl soruyu cevaplar: bu ünite mi,
 yanındaki mi. Ve yalnızca hafızanıza güvenmek zorunda kalmayın diye,
-dinlerken Stuk uygulamasında bir kayıt başlatın. Uygulama sesi, rejim ve
+dinlerken Pro-Stuk uygulamasında bir kayıt başlatın. Uygulama sesi, rejim ve
 konum hakkındaki cevaplarınızla eşleştirir ve muhtemel nedenleri
 yüzdeleriyle gösterir.

@@ -1,6 +1,6 @@
 ---
 title: "Traqueteo de la cadena en el 1.4 TSI: el fallo y la solución"
-metaTitle: "Traqueteo de cadena 1.4 TSI: causas y solución | Stuk"
+metaTitle: "Traqueteo de cadena 1.4 TSI: causas y solución | Pro-Stuk"
 description: "Por qué los primeros 1.4 TSI de cadena traquetean al arrancar en frío, cómo distinguir una cadena estirada de otros golpeteos y qué implica la reparación."
 faq:
   - q: "¿Por qué la cadena solo traquetea los primeros segundos tras arrancar?"
@@ -109,7 +109,7 @@ que más caro sale aquí: el funcionamiento de la distribución depende
 directamente de la rapidez con que el sistema genera presión.
 
 Si el traqueteo del arranque ha aparecido hace poco y quiere saber si es
-ese sonido, grábelo con la aplicación Stuk justo después de un arranque
+ese sonido, grábelo con la aplicación Pro-Stuk justo después de un arranque
 en frío, antes de que caliente. La aplicación cruza la grabación con sus
 respuestas y muestra las causas probables con porcentajes: suficiente
 para llegar al taller con una hipótesis concreta y no con inquietud

@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura delle scanalature del semiasse"
-metaTitle: "Scanalature semiasse usurate: come capirlo | Stuk"
+metaTitle: "Scanalature semiasse usurate: come capirlo | Pro-Stuk"
 description: "Un click alternando gas e freno, un colpo in partenza e gioco nel semiasse: come riconoscere le scanalature consumate e distinguerle da un giunto omocinetico."
 faq:
   - q: "In cosa le scanalature usurate differiscono da un giunto omocinetico rovinato?"
@@ -104,6 +104,6 @@ gioco. Un colpo doppio e netto con strappo è un motivo per andare in
 officina questa settimana.
 
 Se il suono è saltuario e non è sicuro che si ripeta proprio al cambio di
-trazione, registri un paio di partenze con l'app Stuk. L'app confronta il
+trazione, registri un paio di partenze con l'app Pro-Stuk. L'app confronta il
 suono con la descrizione del regime e mostra le cause probabili in
 percentuale, e la aiuta a spiegare al meccanico esattamente quando succede.

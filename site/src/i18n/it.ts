@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const it: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Sintomi',
     how: 'Come funziona',
@@ -11,7 +11,7 @@ export const it: Dict = {
   },
   footer: {
     disclaimer:
-      'Stuk fornisce una stima di probabilità basata sulle tue risposte e sul rumore, non ' +
+      'Pro-Stuk fornisce una stima di probabilità basata sulle tue risposte e sul rumore, non ' +
       'una diagnosi. La decisione finale sulla riparazione spetta al meccanico dopo aver ' +
       'controllato l’auto.',
     how: 'Come funziona',
@@ -20,7 +20,7 @@ export const it: Dict = {
     ruOnly: 'Guide per sintomo e articoli (in russo)',
   },
   home: {
-    title: 'Stuk — diagnosi dell’auto dal rumore',
+    title: 'Pro-Stuk — diagnosi dell’auto dal rumore',
     description:
       'Registra il rumore e scopri che cos’ha l’auto. Un questionario breve, l’analisi ' +
       'della registrazione e un report: cause probabili con le percentuali, semaforo ' +
@@ -54,7 +54,7 @@ export const it: Dict = {
     faq: [
       {
         q: 'È una diagnosi precisa?',
-        a: 'No. Stuk dà una stima di probabilità: l’elenco delle cause possibili con le percentuali e il livello di urgenza. La diagnosi precisa la fa il meccanico dopo il controllo — il report serve ad arrivarci preparati.',
+        a: 'No. Pro-Stuk dà una stima di probabilità: l’elenco delle cause possibili con le percentuali e il livello di urgenza. La diagnosi precisa la fa il meccanico dopo il controllo — il report serve ad arrivarci preparati.',
       },
       {
         q: 'Quanto costa?',
@@ -87,7 +87,7 @@ export const it: Dict = {
     schemaWhole: 'L’insieme completo.',
   },
   symptoms: {
-    indexTitle: 'Rumori e sintomi dell’auto spiegati | Stuk',
+    indexTitle: 'Rumori e sintomi dell’auto spiegati | Pro-Stuk',
     indexDescription: 'Colpi, ronzii, fischi, stridii: che cosa significa ogni rumore dell’auto, quanto è pericoloso e che cosa puoi controllare da solo. Guide per sintomo con albero diagnostico.',
     h1: 'Sintomi dal rumore',
     sub: 'Scegli il rumore più simile al tuo. In ogni guida: cause probabili, semaforo del pericolo, controlli sicuri da fare da soli e un albero diagnostico interattivo.',
@@ -119,7 +119,7 @@ export const it: Dict = {
   },
   download: {
     h2: 'L’app per Android',
-    sub: 'Il questionario, la registrazione del rumore e il report completo con le probabilità sono nell’app Stuk.',
+    sub: 'Il questionario, la registrazione del rumore e il report completo con le probabilità sono nell’app Pro-Stuk.',
     btn: 'Scarica per Android',
     meta: 'Versione {version} · APK {size} MB · aggiornato il {date}',
     installH: 'Come installare l’APK',
@@ -132,7 +132,7 @@ export const it: Dict = {
     playNote: 'Quando l’app arriverà su Google Play, questa pagina verrà aggiornata.',
   },
   how: {
-    title: 'Come funziona la diagnosi dal rumore | Stuk',
+    title: 'Come funziona la diagnosi dal rumore | Pro-Stuk',
     description:
       'Senza giri di parole: il questionario come strumento principale, l’analisi spettrale ' +
       'della registrazione, un modello linguistico e i difetti tipici di ogni modello. ' +
@@ -144,7 +144,7 @@ export const it: Dict = {
       'Ogni diagnosi comincia con delle domande: quando è comparso il rumore, a cosa ' +
       'assomiglia, se dipende dalla velocità, dal regime del motore, dalla frenata, dalle ' +
       'curve. Le risposte escludono interi gruppi di cause e valgono più di qualsiasi ' +
-      'algoritmo applicato a una registrazione scadente. Per questo in Stuk il questionario ' +
+      'algoritmo applicato a una registrazione scadente. Per questo in Pro-Stuk il questionario ' +
       'viene prima, e la sua logica è un albero decisionale: ogni risposta porta alla domanda ' +
       'successiva, più precisa.',
     recH2: 'Che cosa succede alla registrazione',
@@ -165,7 +165,7 @@ export const it: Dict = {
       'Guasti diversi fanno lo stesso rumore: il ronzio di un cuscinetto ruota si confonde ' +
         'facilmente con il rumore delle gomme, e il battito dei tiranti della barra ' +
         'stabilizzatrice con parti della sospensione ben più serie. Distinguerli con certezza ' +
-        'si può solo sul ponte sollevatore. Per questo Stuk non fa diagnosi e non promette ' +
+        'si può solo sul ponte sollevatore. Per questo Pro-Stuk non fa diagnosi e non promette ' +
         'precisione: distribuisce onestamente le probabilità e dice cosa controllare per primo.',
       'Una buona registrazione migliora la stima, ma non sostituisce il meccanico. Prendi il ' +
         'report come un secondo parere prima di andare in officina: il discorso con il ' +
@@ -180,13 +180,13 @@ export const it: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Informativa sulla privacy | Stuk',
+    title: 'Informativa sulla privacy | Pro-Stuk',
     description:
-      'Che cosa succede ai tuoi dati nell’app Stuk: l’audio viene elaborato sul server e non ' +
+      'Che cosa succede ai tuoi dati nell’app Pro-Stuk: l’audio viene elaborato sul server e non ' +
       'conservato dopo l’analisi, non ci sono account né strumenti di analisi.',
     h1: 'Informativa sulla privacy',
     intro:
-      'L’app Stuk raccoglie il minimo indispensabile: esattamente quello che serve alla diagnosi.',
+      'L’app Pro-Stuk raccoglie il minimo indispensabile: esattamente quello che serve alla diagnosi.',
     items: [
       {
         strong: 'La registrazione',
@@ -218,7 +218,7 @@ export const it: Dict = {
     tagline: 'Trova il guasto dal rumore',
   },
   notFound: {
-    title: 'Pagina non trovata — Stuk',
+    title: 'Pagina non trovata — Pro-Stuk',
     description:
       'Questa pagina non esiste sul sito. Torna alla home o apri le guide ai sintomi per rumore.',
     h1: 'Pagina non trovata',

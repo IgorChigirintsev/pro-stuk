@@ -1,7 +1,7 @@
 ---
 ru: "stuk-pri-otpuskanii-stsepleniya"
 title: "A knock when releasing the clutch"
-metaTitle: "A knock when releasing the clutch: causes | Stuk"
+metaTitle: "A knock when releasing the clutch: causes | Pro-Stuk"
 description: "A knock as the clutch pedal comes up comes from the disc damper, the flywheel, the engine mounts and the driveshaft joints. How to tell them apart."
 pubDate: "2026-07-23"
 related:
@@ -99,6 +99,6 @@ while the gearbox is out: the release bearing, the rear main seal and, on
 a dual-mass flywheel, the measurement that decides whether it stays.
 
 If the knock is still occasional and you are unsure where it comes from,
-record it in the Stuk app twice: blipping the throttle in neutral, and
+record it in the Pro-Stuk app twice: blipping the throttle in neutral, and
 pulling away. The app compares the recordings with your answers and shows
 the likely causes with percentages.

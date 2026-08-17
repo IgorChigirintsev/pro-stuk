@@ -1,6 +1,6 @@
 ---
 title: "Chacoalho sob o assoalho em velocidade"
-metaTitle: "Chacoalho sob o assoalho em velocidade | Stuk"
+metaTitle: "Chacoalho sob o assoalho em velocidade | Pro-Stuk"
 description: "Blindagens térmicas, junta flexível, coxins do escapamento: por que algo chacoalha sob o assoalho em velocidade, como achar a origem e no que dá se ignorar."
 faq:
   - q: "Por que o chacoalho só aparece numa certa velocidade?"
@@ -127,7 +127,7 @@ sistema ou trocar a caixa — soldar é mais barato, mas a corrosão que
 causou o problema quase nunca é local.
 
 Se ainda assim você não acha a origem, grave o chacoalho no aplicativo
-Stuk exatamente na velocidade em que ele aparece: o aplicativo cruza a
+Pro-Stuk exatamente na velocidade em que ele aparece: o aplicativo cruza a
 gravação com suas respostas sobre as condições e mostra as causas
 prováveis com nível de urgência. Com essa hipótese na mão, a busca na
 oficina leva minutos em vez de uma hora.

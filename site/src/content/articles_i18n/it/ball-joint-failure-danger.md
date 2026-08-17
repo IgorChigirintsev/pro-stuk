@@ -1,6 +1,6 @@
 ---
 title: "Quanto è davvero pericoloso un giunto sferico che cede"
-metaTitle: "Giunto sferico rotto: cosa succede all'auto | Stuk"
+metaTitle: "Giunto sferico rotto: cosa succede all'auto | Pro-Stuk"
 description: "Cosa succede fisicamente quando un giunto sferico esce dalla sede, quali rumori avvisano con settimane di anticipo e come capire se si può ancora guidare."
 faq:
   - q: "Cosa succede all'auto quando un giunto sferico cede?"
@@ -97,6 +97,6 @@ di chilometri.
 
 Se è comparso un colpo sordo isolato sulle asperità e non sa quanto sia
 urgente, registri un passaggio su un tratto sconnesso che conosce con
-l'app Stuk. Confronta il carattere dell'urto con le sue risposte su
+l'app Pro-Stuk. Confronta il carattere dell'urto con le sue risposte su
 velocità e comportamento dello sterzo, mostra le cause probabili in
 percentuale e le dice se sia ragionevole guidare fin lì da sola.

@@ -1,6 +1,6 @@
 ---
 title: "Klacken: Gleichlaufgelenk oder Bremse"
-metaTitle: "Klacken beim Fahren: Gelenk oder Bremse | Stuk"
+metaTitle: "Klacken beim Fahren: Gelenk oder Bremse | Pro-Stuk"
 description: "Klacken in Kurven und beim Anfahren kommt sowohl vom äußeren Gleichlaufgelenk als auch von der Bremse. Wie Sie die Thesen anhand der Bedingungen trennen."
 faq:
   - q: "Klacken nur im engen Bogen — ist das sicher das Gleichlaufgelenk?"

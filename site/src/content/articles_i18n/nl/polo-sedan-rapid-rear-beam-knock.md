@@ -1,6 +1,6 @@
 ---
 title: "Klop van de achteras bij Polo Sedan en Rapid"
-metaTitle: "Klop achteras Polo Sedan en Rapid: oorzaken | Stuk"
+metaTitle: "Klop achteras Polo Sedan en Rapid: oorzaken | Pro-Stuk"
 description: "Waarom een Polo Sedan of Rapid achter klopt: rubbers van de torsieas, schokdempers, aanslagrubbers en bevestigingen. Hoe u de bron lokaliseert."
 faq:
   - q: "Kunnen alleen de rubbers vervangen worden, zonder de hele as?"

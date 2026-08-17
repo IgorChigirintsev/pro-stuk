@@ -1,6 +1,6 @@
 ---
 title: "Odgłosy, przy których trzeba natychmiast się zatrzymać"
-metaTitle: "Odgłosy auta, przy których trzeba się zatrzymać | Stuk"
+metaTitle: "Odgłosy auta, przy których trzeba się zatrzymać | Pro-Stuk"
 description: "Większość odgłosów auta poczeka na warsztat, ale kilka oznacza: gasić silnik teraz. Jakie to sygnały, jak bezpiecznie stanąć i co zrobić potem."
 faq:
   - q: "Po czym poznać, że dźwięk oznacza natychmiastowe zatrzymanie?"
@@ -52,7 +52,7 @@ rozumieniu: ostry huk z ściąganiem auta w bok (strzelenie opony) oraz
 zapach spalenizny z dymem spod maski. Oba oznaczają natychmiastowe
 zatrzymanie z tego samego powodu — dalsza jazda mnoży szkody.
 
-Stuk silnika zasługuje na osobną uwagę: ma wiele odmian, od nieszkodliwych
+Pro-Stuk silnika zasługuje na osobną uwagę: ma wiele odmian, od nieszkodliwych
 po śmiertelne, a opisy na stronie objawu
 [stukanie w silniku](/pl/symptoms/knocking-in-engine/) pomagają je
 rozróżnić. Odgłosy hamowania skatalogowano na stronie
@@ -94,7 +94,7 @@ pomocnikiem naciskającym na elementy tapicerki —
 [jak znaleźć grzechoty i skrzypienia we wnętrzu](/pl/articles/finding-interior-rattles-and-squeaks/).
 
 Jeśli nie wiadomo, do której kategorii należy usłyszany dźwięk, warto
-nagrać go aplikacją Stuk jeszcze przed ruszeniem. Aplikacja zestawia
+nagrać go aplikacją Pro-Stuk jeszcze przed ruszeniem. Aplikacja zestawia
 nagranie z odpowiedziami na kilka pytań i pokazuje prawdopodobne przyczyny
 z procentami — zwykle to wystarczy, żeby wybrać między dalszą jazdą a
 czekaniem na lawetę.

@@ -1,6 +1,6 @@
 ---
 title: "Renault K4M: Hydrostößel ticken beim Kaltstart"
-metaTitle: "Renault K4M: Hydrostößel ticken kalt | Stuk"
+metaTitle: "Renault K4M: Hydrostößel ticken kalt | Pro-Stuk"
 description: "Der K4M tickt nach dem Kaltstart: wie Hydrostößel arbeiten, warum sie klappern, wann ein Ölwechsel reicht und wann die Stößel getauscht werden."
 faq:
   - q: "Warum ticken die Stößel nur die ersten Sekunden nach dem Start?"

@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych łączników stabilizatora"
-metaTitle: "Zużyte łączniki stabilizatora: stuk i testy | Stuk"
+metaTitle: "Zużyte łączniki stabilizatora: stuk i testy | Pro-Stuk"
 description: "Jak stukają zużyte łączniki stabilizatora, czym ich dźwięk różni się od amortyzatorów i sworzni, proste kontrole i na czym polega wymiana."
 faq:
   - q: "Jaki jest najbardziej charakterystyczny objaw zużytych łączników stabilizatora?"
@@ -45,10 +45,10 @@ przegub w ciągu kilku tysięcy kilometrów.
 - **Częsty, głuchy stuk na drobnych nierównościach.** Łączenia płyt,
   tarka, tory tramwajowe, progi zwalniające przy małej prędkości. Na dużych
   dziurach stuk bywa nawet mniej zauważalny niż na drobiazgach.
-- **Stuk cichnie na zakręcie.** Na łuku stabilizator jest obciążony, luz w
+- **Pro-Stuk cichnie na zakręcie.** Na łuku stabilizator jest obciążony, luz w
   przegubie zostaje wybrany i nie ma już czym stukać. To główna cecha
   odróżniająca łączniki.
-- **Stuk częściej z przodu**, po stronie zużytego łącznika, i nie zależy od
+- **Pro-Stuk częściej z przodu**, po stronie zużytego łącznika, i nie zależy od
   hamowania ani przyspieszania.
 - **Zwiększone przechyły i mętne prowadzenie na zakrętach.** Widoczne w
   późnym stadium, gdy luz jest duży albo łącznik się urwał: auto bardziej
@@ -67,8 +67,8 @@ opisano też sąsiednie przyczyny o podobnym dźwięku.
 |---|---|---|
 | Wczesny | Pojedyncze stuknięcia na drobiazgach, osłona cała | Sprawdzić przy najbliższym przeglądzie |
 | Średni | Stały, częsty stuk, cichnący na zakrętach | Diagnostyka i wymiana w ciągu dwóch tygodni |
-| Późny | Stuk na każdej nierówności, wyraźnie większe przechyły | Wymiana bez zwłoki |
-| Urwany | Stuk zniknął, ale auto kładzie się na zakrętach | Warsztat: stabilizator nie pracuje |
+| Późny | Pro-Stuk na każdej nierówności, wyraźnie większe przechyły | Wymiana bez zwłoki |
+| Urwany | Pro-Stuk zniknął, ale auto kładzie się na zakrętach | Warsztat: stabilizator nie pracuje |
 
 Proszę zwrócić uwagę na ostatni wiersz: urwany łącznik potrafi przestać
 stukać całkiem. Cisza po długim okresie stukania to nie wyzdrowienie,
@@ -86,7 +86,7 @@ Do podstawowej kontroli podnośnik nie jest potrzebny:
 2. **Oględziny osłon.** Pęknięta albo popękana osłona przegubu to powód,
    żeby przygotować się na wymianę jeszcze zanim pojawi się stuk.
 3. **Test z pomocnikiem.** Pomocnik buja autem za błotnik, a Pan słucha
-   przy kole. Stuk łączników brzmi jak częste, metaliczne kliknięcia w
+   przy kole. Pro-Stuk łączników brzmi jak częste, metaliczne kliknięcia w
    okolicy stabilizatora.
 4. **Nasłuch w ruchu.** Powolny przejazd po tarce albo szutrze: łączniki
    odpowiadają drobnym, częstym klekotem, a nie pojedynczymi uderzeniami.
@@ -128,6 +128,6 @@ auto zauważalnie gorzej trzyma tor w ostrym manewrze. Przy takiej cenie
 części oszczędzanie na wymianie rzadko ma uzasadnienie.
 
 Jeśli nie ma Pan pewności, czy stukają łączniki, proszę nagrać dźwięk w
-aplikacji Stuk: zestawia ona nagranie z Pana odpowiedziami i pokazuje
+aplikacji Pro-Stuk: zestawia ona nagranie z Pana odpowiedziami i pokazuje
 prawdopodobne przyczyny wraz z oceną pilności — z taką listą rozmowa z
 mechanikiem robi się konkretna.

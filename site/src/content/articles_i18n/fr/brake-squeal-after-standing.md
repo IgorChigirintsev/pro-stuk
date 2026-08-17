@@ -1,6 +1,6 @@
 ---
 title: "Frein qui siffle après une immobilisation : normal ou pas"
-metaTitle: "Frein qui siffle après une nuit d'arrêt | Stuk"
+metaTitle: "Frein qui siffle après une nuit d'arrêt | Pro-Stuk"
 description: "Un sifflement des freins le matin après une nuit dehors, c'est le plus souvent une pellicule de rouille sur le disque. Comment le distinguer d'une garniture usée."
 faq:
   - q: "Pourquoi les freins ne sifflent que le matin ?"
@@ -105,7 +105,7 @@ décide s'il reste en place.
 La frontière entre « sifflement du matin normal » et « direction
 l'atelier » passe par le caractère du bruit, et ces nuances-là se retiennent
 mal : un mois plus tard, difficile de dire s'il sifflait pareil ou un peu
-plus fort. Un enregistrement fait dans l'application Stuk aujourd'hui et
+plus fort. Un enregistrement fait dans l'application Pro-Stuk aujourd'hui et
 répété quelques semaines plus tard montre cette différence objectivement —
 avec une liste de causes probables et une évaluation de l'urgence à
 prendre rendez-vous pour un diagnostic.

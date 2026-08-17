@@ -1,6 +1,6 @@
 ---
 title: "Battito dopo la sostituzione degli ammortizzatori"
-metaTitle: "Battito dopo il cambio ammortizzatori: cause | Stuk"
+metaTitle: "Battito dopo il cambio ammortizzatori: cause | Pro-Stuk"
 description: "Perché è comparso un battito dopo aver montato ammortizzatori nuovi: errori di serraggio, supporti e tamponi vecchi, pezzo difettoso. Come trovare la causa e chi paga."
 faq:
   - q: "Un battito da ammortizzatori nuovi può assestarsi e sparire?"
@@ -105,7 +105,7 @@ anche sapere come si valuta un ammortizzatore, come descritto in
 [come capire se gli ammortizzatori sono finiti](/it/articles/how-to-tell-shock-absorbers-are-dead/).
 
 Per restare sul concreto, cattura il battito stesso: registralo con l'app
-Stuk sullo stesso tratto di strada dove si sente meglio. L'algoritmo
+Pro-Stuk sullo stesso tratto di strada dove si sente meglio. L'algoritmo
 confronta la registrazione con le tue risposte e mostra le cause probabili
 con il livello di urgenza — con una registrazione in mano è più difficile
 sentirsi dire «va tutto bene».

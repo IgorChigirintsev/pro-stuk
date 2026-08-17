@@ -1,7 +1,7 @@
 ---
 ru: "gremit-pod-mashinoj-na-kochkah"
 title: "Clattering under the car over bumps"
-metaTitle: "Clattering under the car over bumps: causes | Stuk"
+metaTitle: "Clattering under the car over bumps: causes | Pro-Stuk"
 description: "Anti-roll bar links, the undertray, exhaust mountings: why something clatters under the car over bumps, how to find the source and when it is actually serious."
 pubDate: "2026-07-14"
 related:
@@ -125,7 +125,7 @@ be pressed out or whether the whole arm is needed on this car: the
 answer changes both the price and the time, and it is a legitimate
 question rather than an upsell.
 
-If the clatter refuses to be pinned down, record it in the Stuk app while
+If the clatter refuses to be pinned down, record it in the Pro-Stuk app while
 driving your familiar broken road: the app matches the sound against your
 answers about when it appears and shows the likely causes with an urgency
 level — leaving the workshop only to confirm the theory on a lift.

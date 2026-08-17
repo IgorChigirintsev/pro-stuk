@@ -1,6 +1,6 @@
 ---
 title: "Das Ausrücklager macht Geräusche — kann man noch fahren?"
-metaTitle: "Ausrücklager laut: kann man noch fahren? | Stuk"
+metaTitle: "Ausrücklager laut: kann man noch fahren? | Pro-Stuk"
 description: "Das Ausrücklager summt beim Treten der Kupplung: Woran Sie es erkennen, wie lange Sie noch fahren können und was über die Reparatur entscheidet."
 faq:
   - q: "Wie lange kann ich mit einem lauten Ausrücklager fahren?"

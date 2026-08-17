@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-neispravnosti-amortizatorov"
 title: "Signs of worn shock absorbers"
-metaTitle: "Worn shock absorbers: 8 symptoms | Stuk"
+metaTitle: "Worn shock absorbers: 8 symptoms | Pro-Stuk"
 description: "Eight signs of worn dampers: floating, nose-diving, knocking, patchy tyre wear. How to check them yourself and what the replacement involves."
 pubDate: "2026-08-02"
 related:
@@ -136,5 +136,5 @@ again within a season. Matching the damper to the car and to how it is
 used matters more than the badge.
 
 If the suspension knocks and the source is not obvious, record the sound
-in the Stuk app: it matches the recording with your answers about when and
+in the Pro-Stuk app: it matches the recording with your answers about when and
 how the sound appears and shows the likely causes with an urgency rating.

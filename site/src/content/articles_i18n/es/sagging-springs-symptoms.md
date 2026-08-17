@@ -1,6 +1,6 @@
 ---
 title: "Muelles vencidos: los síntomas"
-metaTitle: "Muelles vencidos: síntomas y sustitución | Stuk"
+metaTitle: "Muelles vencidos: síntomas y sustitución | Pro-Stuk"
 description: "Cómo saber que los muelles se han vencido: medidas de altura libre, comportamiento del coche, señales indirectas. Qué arriesga y qué implica cambiarlos."
 faq:
   - q: "¿Por qué se vencen los muelles?"
@@ -133,7 +133,7 @@ imprevisible. En un coche donde la seguridad importa más que el aspecto,
 no tienen sitio.
 
 Si el coche se ha hundido y con ello han aparecido golpes sin explicación,
-empiece por una grabación en la aplicación Stuk: compara el sonido con sus
+empiece por una grabación en la aplicación Pro-Stuk: compara el sonido con sus
 respuestas sobre el comportamiento del coche y muestra las causas
 probables con un nivel de urgencia, lo que facilita decidir qué cambiar
 primero.

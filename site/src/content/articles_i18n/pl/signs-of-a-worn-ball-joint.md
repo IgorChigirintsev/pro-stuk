@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego sworznia wahacza"
-metaTitle: "Zużyty sworzeń wahacza: dźwięk i luz | Stuk"
+metaTitle: "Zużyty sworzeń wahacza: dźwięk i luz | Pro-Stuk"
 description: "Stukanie na drobnych nierównościach, skrzypienie przy skręcaniu, luz koła — jak rozpoznać zużyty sworzeń wahacza, sprawdzić go i ocenić pilność."
 faq:
   - q: "Jak brzmi zużyty sworzeń wahacza?"
@@ -33,7 +33,7 @@ taka, że długo przedtem wyraźnie ostrzega. Oto objawy po kolei.
   dylatacjach, tłuczniu i drobnej tarce; na dużych dziurach bywa mniej
   wyraźny. Ogólny opis jest na stronie
   [stukanie na nierównościach](/pl/symptoms/knocking-over-bumps/).
-- **Stuk przy ruszaniu i hamowaniu.** Zużyty przegub wybiera swój luz przy
+- **Pro-Stuk przy ruszaniu i hamowaniu.** Zużyty przegub wybiera swój luz przy
   zmianie obciążenia — pojedyncze „tuk” przy starcie albo zatrzymaniu.
 - **Skrzypienie przy skręcaniu kierownicą.** Wysuszony albo skorodowany
   przegub skrzypi przy obracaniu, zwłaszcza w miejscu i przy małej
@@ -120,5 +120,5 @@ bez awarii zużyty sworzeń zjada opony, rozluźnia układ kierowniczy i dokład
 hałasu, który łatwo pomylić z innymi problemami zawieszenia.
 
 Jeśli coś stuka od dołu, a źródło nie jest oczywiste, proszę nagrać dźwięk w
-aplikacji Stuk. Zestawi nagranie z odpowiedziami o to, kiedy i jak dźwięk
+aplikacji Pro-Stuk. Zestawi nagranie z odpowiedziami o to, kiedy i jak dźwięk
 się pojawia, i pokaże prawdopodobne przyczyny wraz z poziomem pilności.

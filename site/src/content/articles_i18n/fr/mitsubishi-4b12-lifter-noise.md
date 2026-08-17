@@ -1,6 +1,6 @@
 ---
 title: "Bruit de haut moteur sur Mitsubishi 4B12 : les poussoirs hydrauliques"
-metaTitle: "Bruit de poussoirs hydrauliques Mitsubishi 4B12 | Stuk"
+metaTitle: "Bruit de poussoirs hydrauliques Mitsubishi 4B12 | Pro-Stuk"
 description: "Un cliquetis venant du haut d'un 4B12 : comment se comportent les poussoirs hydrauliques, pourquoi l'huile est presque toujours en cause et comment le distinguer de la chaîne."
 faq:
   - q: "Le cliquetis disparaît une minute après le démarrage, est-ce normal ?"
@@ -94,7 +94,7 @@ les freins — leur langage est décrit dans
 [reconnaître l'usure des plaquettes à l'oreille](/fr/articles/brake-pad-wear-by-ear/).
 
 Si vous voulez savoir s'il faut y aller dès demain, enregistrez le bruit
-avec l'application Stuk : une fois juste après un démarrage à froid, une
+avec l'application Pro-Stuk : une fois juste après un démarrage à froid, une
 fois moteur chaud au ralenti. L'application confronte les enregistrements à
 vos réponses et affiche les causes probables en pourcentages, et l'écart
 entre les deux prises dit déjà beaucoup à un mécanicien.

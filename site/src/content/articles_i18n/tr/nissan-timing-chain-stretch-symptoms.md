@@ -1,6 +1,6 @@
 ---
 title: "Nissan Almera/Qashqai triger zinciri uzama belirtileri"
-metaTitle: "Nissan triger zinciri uzaması: belirtileri | Stuk"
+metaTitle: "Nissan triger zinciri uzaması: belirtileri | Pro-Stuk"
 description: "Almera ve Qashqai'de uzamış triger zinciri nasıl duyulur, diğer motor seslerinden nasıl ayrılır ve onarım nasıl kararlaştırılır."
 faq:
   - q: "Bu motorlarda triger zinciri ne kadar dayanır?"
@@ -102,7 +102,7 @@ Sesin gerçekte nereden geldiğini ustaya ayrıca sorun: motor bölmesinin
 [alternatör kayışı ıslığının nedenleri](/tr/articles/alternator-belt-squeal-causes/)
 yazısında ele alınıyor.
 
-Hangi aşamada olduğunuz belirsizse, sesi Stuk uygulamasıyla iki kez
+Hangi aşamada olduğunuz belirsizse, sesi Pro-Stuk uygulamasıyla iki kez
 kaydedin: soğuk çalıştırmada ve ısınmış motorda. Uygulama kayıtları
 verdiğiniz yanıtlarla karşılaştırıp olası sebepleri yüzdeleriyle
 gösterir — elinizde vakit olup olmadığını anlamanın iyi bir yolu.

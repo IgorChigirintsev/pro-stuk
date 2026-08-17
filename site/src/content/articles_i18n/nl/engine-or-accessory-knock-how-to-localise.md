@@ -1,6 +1,6 @@
 ---
 title: "Klopt de motor of de hulpapparatuur: zo lokaliseert u het"
-metaTitle: "Motor of hulpapparatuur: klop lokaliseren | Stuk"
+metaTitle: "Motor of hulpapparatuur: klop lokaliseren | Pro-Stuk"
 description: "Een klop uit de motorruimte komt niet altijd uit de motor. Met een paar controles scheidt u de aangedreven hulpapparatuur van de mechaniek van de motor zelf."
 faq:
   - q: "Hoe weet ik of er een hulpaggregaat klopt in plaats van de motor?"

@@ -1,6 +1,6 @@
 ---
 title: "Il rumore sparisce quando si preme la frizione"
-metaTitle: "Rumore che sparisce premendo la frizione | Stuk"
+metaTitle: "Rumore che sparisce premendo la frizione | Pro-Stuk"
 description: "Se un ronzio estraneo sparisce premendo la frizione, la fonte è nel cambio. Come restringere la lista dei sospetti e che cosa controllare per primo."
 faq:
   - q: "Perché il rumore sparisce proprio premendo la frizione?"
@@ -106,7 +106,7 @@ esattamente il rumore che sta cercando di eliminare. Chieda che cosa entra
 e in base a quale specifica è stato scelto.
 
 Se non è sicuro che il suono sparisca davvero quando la frizione va giù,
-faccia due registrazioni nell'app Stuk: con il pedale alzato e con il
+faccia due registrazioni nell'app Pro-Stuk: con il pedale alzato e con il
 pedale premuto. L'app le confronta, mostra la differenza e propone le
 ipotesi in percentuale, così arriva in officina con una descrizione
 precisa invece che con «fa un ronzio».

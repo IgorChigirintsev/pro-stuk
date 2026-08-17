@@ -1,7 +1,7 @@
 ---
 ru: "zvuk-menyaetsya-pri-pereklyuchenii-nejtrali"
 title: "The sound changes when you select neutral"
-metaTitle: "The sound changes in neutral: what it means | Stuk"
+metaTitle: "The sound changes in neutral: what it means | Pro-Stuk"
 description: "You selected neutral on the move and the sound changed. What that tells you about the source, how to run the test properly and what it rules out."
 pubDate: "2026-06-01"
 related:
@@ -105,7 +105,7 @@ the technique from
 helps, and the full set of road noises is covered on the symptom page
 [humming while driving](/en/symptoms/humming-while-driving/).
 
-Recording both runs — in gear and in neutral — is convenient in the Stuk
+Recording both runs — in gear and in neutral — is convenient in the Pro-Stuk
 app: it compares the clips, matches them with your answers about speed and
 conditions and shows the likely causes with percentages. You arrive at the
 workshop with a theory rather than a vague "something hums".

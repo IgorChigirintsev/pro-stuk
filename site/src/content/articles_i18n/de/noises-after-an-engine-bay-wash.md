@@ -1,6 +1,6 @@
 ---
 title: "Geräusche nach einer Motorwäsche"
-metaTitle: "Geräusche nach Motorwäsche: warum und wie lange | Stuk"
+metaTitle: "Geräusche nach Motorwäsche: warum und wie lange | Pro-Stuk"
 description: "Quietschen, Klappern oder Zittern im Leerlauf nach einer Motorwäsche. Welche Töne in ein paar Tagen von selbst gehen und welche ein nasses Teil bedeuten."
 faq:
   - q: "Wie lange quietscht der Riemen nach einer Wäsche?"

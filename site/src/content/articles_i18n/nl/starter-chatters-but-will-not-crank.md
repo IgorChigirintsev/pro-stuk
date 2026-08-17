@@ -1,6 +1,6 @@
 ---
 title: "De startmotor ratelt maar draait de motor niet"
-metaTitle: "Startmotor ratelt maar draait niet: oorzaken | Stuk"
+metaTitle: "Startmotor ratelt maar draait niet: oorzaken | Pro-Stuk"
 description: "De startmotor ratelt maar de motor draait niet: accu, poolklemmen, magneetschakelaar. Simpele controles ter plekke en een tabel met oorzaken."
 faq:
   - q: "Waarom ratelt de startmotor terwijl de accu nieuw is?"

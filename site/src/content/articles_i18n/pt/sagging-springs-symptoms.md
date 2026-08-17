@@ -1,6 +1,6 @@
 ---
 title: "Molas cansadas: os sintomas"
-metaTitle: "Molas cansadas: sintomas, testes, troca | Stuk"
+metaTitle: "Molas cansadas: sintomas, testes, troca | Pro-Stuk"
 description: "Como saber que as molas cederam: medidas de altura, comportamento do carro, sinais indiretos. O que a queda de altura arrisca e como é feita a troca."
 faq:
   - q: "Por que as molas cedem?"
@@ -126,6 +126,6 @@ a carroceria e fazem a suspensão se comportar de forma imprevisível. Num
 carro em que segurança pesa mais do que aparência, eles não têm lugar.
 
 Se o carro baixou e junto apareceram batidas sem explicação, comece por
-uma gravação no aplicativo Stuk: ele cruza o som com suas respostas sobre
+uma gravação no aplicativo Pro-Stuk: ele cruza o som com suas respostas sobre
 o comportamento do carro e mostra as causas prováveis com nível de
 urgência — o que facilita decidir o que trocar primeiro.

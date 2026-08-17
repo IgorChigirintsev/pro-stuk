@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-neispravnosti-natyazhitelya-tsepi"
 title: "Signs of a failing timing chain tensioner"
-metaTitle: "Timing chain tensioner: signs of failure | Stuk"
+metaTitle: "Timing chain tensioner: signs of failure | Pro-Stuk"
 description: "How to tell a timing chain tensioner has weakened: clatter at a cold start, rustling at idle, a knock when blipping the throttle, and the risk of a jump."
 pubDate: "2026-07-06"
 related:
@@ -110,6 +110,6 @@ sprockets, because the labour is shared and worn guides destroy a new
 chain quickly.
 
 The easiest way to show the problem to a workshop is with the sound.
-Record a cold start in the Stuk app — it matches the recording with
+Record a cold start in the Pro-Stuk app — it matches the recording with
 typical fault sounds, takes your answers into account and rates how
 urgently a mechanic is needed.

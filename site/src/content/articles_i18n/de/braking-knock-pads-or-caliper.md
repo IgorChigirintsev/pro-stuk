@@ -1,6 +1,6 @@
 ---
 title: "Klopfen beim Bremsen: Beläge oder Sattel"
-metaTitle: "Klopfen beim Bremsen: Beläge oder Sattel | Stuk"
+metaTitle: "Klopfen beim Bremsen: Beläge oder Sattel | Pro-Stuk"
 description: "Ein Klopfen beim Treten des Pedals kommt sowohl von wandernden Belägen als auch von einem losen Bremssattel. Wie Sie beides am Klang trennen."
 faq:
   - q: "Warum ist das Klopfen nur bei der ersten Bremsung hörbar?"

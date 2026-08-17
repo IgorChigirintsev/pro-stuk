@@ -1,6 +1,6 @@
 ---
 title: "Geri viteste kalkarken gelen tık sesi"
-metaTitle: "Geri viteste kalkışta tık sesi: nedenleri | Stuk"
+metaTitle: "Geri viteste kalkışta tık sesi: nedenleri | Pro-Stuk"
 description: "Geri viteste kalkarken gelen tek kuru tık, neredeyse her zaman boşluğun toplanmasıdır. Nerede birikir: balata, mafsal, istavroz, motor takozu."
 faq:
   - q: "Tık sesi neden sadece geri viteste duyuluyor, ileri giderken yok?"
@@ -91,5 +91,5 @@ altında görünür. Ve önce fren tarafı elensin, çünkü en ucuz ve en sık
 çıkan cevap odur.
 
 Servise gitmeden listeyi daraltmak isterseniz, geri viteste kalkarken sesi
-Stuk uygulamasına kaydedin: uygulama kaydı birkaç soruya verdiğiniz
+Pro-Stuk uygulamasına kaydedin: uygulama kaydı birkaç soruya verdiğiniz
 cevaplarla eşleştirir ve muhtemel nedenleri yüzdeleriyle gösterir.

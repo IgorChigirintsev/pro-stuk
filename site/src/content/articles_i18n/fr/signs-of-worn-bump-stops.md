@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'usure des butées de choc"
-metaTitle: "Butées de choc usées : signes et remplacement | Stuk"
+metaTitle: "Butées de choc usées : signes et remplacement | Pro-Stuk"
 description: "Chocs sourds dans les nids-de-poule, miettes dans la coupelle, suspension en butée : reconnaître des butées de choc usées et pourquoi on les change avec les amortisseurs."
 faq:
   - q: "Qu'est-ce qu'une butée de choc et à quoi sert-elle ?"
@@ -129,7 +129,7 @@ kits des grands fabricants d'amortisseurs contiennent une butée et un
 soufflet à la géométrie correcte.
 
 Pas certain que les chocs sourds dans les nids-de-poule viennent vraiment
-des butées ? Enregistrez le son dans l'application Stuk : elle recoupe
+des butées ? Enregistrez le son dans l'application Pro-Stuk : elle recoupe
 l'enregistrement avec vos réponses sur le comportement de la voiture et
 affiche les causes probables avec des pourcentages et un niveau
 d'urgence — vous arrivez ainsi à l'atelier avec une hypothèse de travail.

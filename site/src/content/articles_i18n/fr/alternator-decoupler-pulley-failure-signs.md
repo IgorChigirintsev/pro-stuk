@@ -1,6 +1,6 @@
 ---
 title: "Signes d'usure de la poulie débrayable d'alternateur"
-metaTitle: "Poulie débrayable d'alternateur : signes d'usure | Stuk"
+metaTitle: "Poulie débrayable d'alternateur : signes d'usure | Pro-Stuk"
 description: "Pourquoi l'alternateur a besoin d'une poulie débrayable et comment son usure s'entend : sifflement au démarrage, cliquetis à l'arrêt, courroie qui vibre."
 faq:
   - q: "Quelle différence entre une poulie débrayable et une poulie d'alternateur classique ?"
@@ -122,5 +122,5 @@ changement programmé de la courroie d'accessoires.
 
 Vous ne savez pas si c'est la poulie débrayable, un roulement ou la
 courroie ? Enregistrez le bruit au démarrage et à la coupure du moteur
-dans l'application Stuk — elle compare l'enregistrement avec les sons de
+dans l'application Pro-Stuk — elle compare l'enregistrement avec les sons de
 pannes typiques et affiche les causes probables avec un niveau d'urgence.

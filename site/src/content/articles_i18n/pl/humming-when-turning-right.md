@@ -1,6 +1,6 @@
 ---
 title: "Buczenie przy skręcaniu w prawo"
-metaTitle: "Buczenie przy skręcie w prawo: przyczyny | Stuk"
+metaTitle: "Buczenie przy skręcie w prawo: przyczyny | Pro-Stuk"
 description: "Gdy buczenie rośnie na łukach w prawo, podejrzanym jest lewe łożysko koła. Sprawdzenie krok po kroku bez podnośnika, podobne dźwięki i przebieg naprawy."
 faq:
   - q: "Dlaczego przy skręcie w prawo buczy lewe łożysko?"
@@ -92,7 +92,7 @@ siedzi wewnątrz zespołu piasty — dlatego padające łożysko potrafi
 przyprowadzić ze sobą kontrolki na desce.
 
 Nie ma pewności, czy uszy wskazują właściwą stronę? Wystarczy nagrać
-buczenie w aplikacji Stuk podczas zmian pasa: aplikacja zestawia nagranie
+buczenie w aplikacji Pro-Stuk podczas zmian pasa: aplikacja zestawia nagranie
 z odpowiedziami i pokazuje prawdopodobne przyczyny w procentach oraz
 poziom pilności — dzięki temu do warsztatu jedzie się z hipotezą, a nie z
 „coś buczy”.

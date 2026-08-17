@@ -1,6 +1,6 @@
 ---
 title: "Freios guinchando depois de ficar parado: normal ou não"
-metaTitle: "Freios guinchando após parado: normal? | Stuk"
+metaTitle: "Freios guinchando após parado: normal? | Pro-Stuk"
 description: "O guincho matinal dos freios depois de uma noite na rua costuma ser película de ferrugem no disco. Como diferenciá-lo de desgaste e quando ir à oficina."
 faq:
   - q: "Por que os freios só guincham de manhã?"
@@ -99,6 +99,6 @@ que decide se ele fica.
 A fronteira entre "guincho matinal normal" e "hora de ir à oficina" passa
 pelo caráter do som, e essas nuances são mal lembradas: um mês depois é
 difícil dizer se guinchava igual ou um pouco mais forte. Uma gravação
-feita hoje no aplicativo Stuk e repetida algumas semanas depois mostra
+feita hoje no aplicativo Pro-Stuk e repetida algumas semanas depois mostra
 essa diferença de forma objetiva — junto com uma lista de causas prováveis
 e uma avaliação de com que urgência agendar um diagnóstico.

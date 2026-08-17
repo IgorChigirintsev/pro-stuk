@@ -1,6 +1,6 @@
 ---
 title: "Piepende remmen bij lage snelheid"
-metaTitle: "Piepende remmen bij lage snelheid: oorzaken | Stuk"
+metaTitle: "Piepende remmen bij lage snelheid: oorzaken | Pro-Stuk"
 description: "Een rempiep bij 5 tot 20 km/u kan onschuldige blokkentrilling zijn of de slijtage-indicator die zijn werk doet. Zo scheidt u ze en waar de reparatie van afhangt."
 faq:
   - q: "Waarom piepen de remmen alleen bij lage snelheid?"

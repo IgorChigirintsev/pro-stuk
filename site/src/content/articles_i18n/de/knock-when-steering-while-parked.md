@@ -1,6 +1,6 @@
 ---
 title: "Ein Klopfen beim Lenken im Stand"
-metaTitle: "Klopfen beim Lenken im Stand: die Ursachen | Stuk"
+metaTitle: "Klopfen beim Lenken im Stand: die Ursachen | Pro-Stuk"
 description: "Klopfen, Knirschen oder Klacken beim Drehen des Lenkrads im Stand: Federbeinlager, Spurstangenköpfe, Lenkgetriebe, Servolenkung — wie man sie trennt."
 faq:
   - q: "Warum klopft es nur beim Lenken im Stand und bleibt in Fahrt still?"

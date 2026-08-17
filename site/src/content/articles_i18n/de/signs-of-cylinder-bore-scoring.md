@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für Riefen in den Zylindern"
-metaTitle: "Riefen in den Zylindern: Ton und Ölverbrauch | Stuk"
+metaTitle: "Riefen in den Zylindern: Ton und Ölverbrauch | Pro-Stuk"
 description: "Fünf Anzeichen für Riefen in den Zylindern: Kaltklopfen, Ölverbrauch, Leistungsverlust. Welche Motoren gefährdet sind und wie es bestätigt wird."
 faq:
   - q: "Wie werden Riefen endgültig bestätigt?"

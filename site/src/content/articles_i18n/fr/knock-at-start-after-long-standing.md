@@ -1,6 +1,6 @@
 ---
 title: "Un claquement au démarrage après plusieurs semaines d'arrêt"
-metaTitle: "Claquement au démarrage après un long arrêt | Stuk"
+metaTitle: "Claquement au démarrage après un long arrêt | Pro-Stuk"
 description: "Pourquoi un moteur claque les premières secondes après des semaines d'arrêt : huile redescendue, poussoirs, tendeur de chaîne, déphaseurs. La limite du normal."
 faq:
   - q: "Le moteur claque deux secondes après le démarrage, est-ce normal ?"
@@ -108,6 +108,6 @@ se décident par la mesure plutôt qu'à l'oreille : demandez donc ce qui a
 été mesuré avant d'accepter l'un ou l'autre.
 
 La façon la plus rapide de savoir si votre cas est anodin, c'est
-d'enregistrer le premier démarrage dans l'application Stuk : elle croise le
+d'enregistrer le premier démarrage dans l'application Pro-Stuk : elle croise le
 son avec vos réponses sur la durée de l'arrêt et affiche les causes
 probables avec leurs pourcentages et un niveau d'urgence.

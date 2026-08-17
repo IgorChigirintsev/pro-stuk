@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-zakisshego-supporta"
 title: "Signs of a seized brake caliper"
-metaTitle: "Signs of a seized brake caliper | Stuk"
+metaTitle: "Signs of a seized brake caliper | Pro-Stuk"
 description: "How to tell a brake caliper has seized: pulling to one side, a hot wheel, a burning smell, grinding. Simple checks without a lift and what servicing involves."
 pubDate: "2026-08-02"
 related:
@@ -136,6 +136,6 @@ The cheap prevention is asking for the slide pins to be greased at every
 pad change: it adds little to the work and postpones seizure by years.
 
 If the brakes have started sounding unfamiliar and the cause is not
-obvious, record the sound in the Stuk app while driving. The app matches
+obvious, record the sound in the Pro-Stuk app while driving. The app matches
 the recording with your answers about when the sound appears and suggests
 the likely causes and how urgent they are.

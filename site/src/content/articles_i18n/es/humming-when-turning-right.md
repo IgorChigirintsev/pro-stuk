@@ -1,6 +1,6 @@
 ---
 title: "Zumbido al girar a la derecha"
-metaTitle: "Zumbido al girar a la derecha: causas y pruebas | Stuk"
+metaTitle: "Zumbido al girar a la derecha: causas y pruebas | Pro-Stuk"
 description: "Si el zumbido crece en curvas a la derecha, el sospechoso es el rodamiento izquierdo. Comprobación paso a paso sin elevador, parecidos y qué implica el arreglo."
 faq:
   - q: "¿Por qué girar a la derecha hace zumbar el rodamiento izquierdo?"
@@ -106,6 +106,6 @@ y las pautas en
 [¿se puede circular con un rodamiento de rueda zumbando?](/es/articles/can-you-drive-with-a-humming-wheel-bearing/).
 
 ¿No está seguro de que su oído apunte al lado correcto? Grabe el zumbido con
-la aplicación Stuk durante los cambios de carril: la aplicación compara la
+la aplicación Pro-Stuk durante los cambios de carril: la aplicación compara la
 grabación con sus respuestas y muestra las causas probables con porcentajes y
 un nivel de urgencia, para que llegue con una hipótesis y no con «algo zumba».

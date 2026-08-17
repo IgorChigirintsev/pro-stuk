@@ -1,6 +1,6 @@
 ---
 title: "Sifflement : la courroie ou le roulement d'un galet"
-metaTitle: "Sifflement : courroie ou roulement de galet | Stuk"
+metaTitle: "Sifflement : courroie ou roulement de galet | Pro-Stuk"
 description: "Un sifflement sous le capot vient aussi bien d'une courroie qui patine que d'un roulement de galet en fin de vie. Comment les séparer par les conditions d'apparition."
 faq:
   - q: "Pourquoi la courroie ne siffle-t-elle que par temps humide ?"
@@ -104,7 +104,7 @@ jours, comme expliqué dans
 [sifflement après un changement de courroie](/fr/articles/belt-squeal-after-a-belt-change/).
 
 Un sifflement sous le capot fait partie des bruits qui s'enregistrent bien
-au téléphone. Faites deux enregistrements dans l'application Stuk : l'un au
+au téléphone. Faites deux enregistrements dans l'application Pro-Stuk : l'un au
 ralenti sans charge, l'autre climatisation et phares allumés. L'application
 les compare et montre vers quelle version le tableau penche, avant même que
 vous soyez au comptoir du garage.

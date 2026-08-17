@@ -1,6 +1,6 @@
 ---
 title: "Qué peligro tiene realmente una rótula rota"
-metaTitle: "Rótula rota: qué le pasa al coche | Stuk"
+metaTitle: "Rótula rota: qué le pasa al coche | Pro-Stuk"
 description: "Qué ocurre físicamente cuando una rótula se sale de su alojamiento, qué ruidos avisan con semanas de antelación y cómo saber si aún se puede circular."
 faq:
   - q: "¿Qué le pasa al coche cuando una rótula cede?"
@@ -95,7 +95,7 @@ en un desgaste rápido e irregular de los neumáticos en unos pocos miles de
 kilómetros.
 
 Si ha aparecido un golpe seco aislado en los baches y no sabe cuánta prisa
-corre, grabe con la aplicación Stuk un tramo conocido de firme malo.
+corre, grabe con la aplicación Pro-Stuk un tramo conocido de firme malo.
 Compara el carácter del impacto con sus respuestas sobre la velocidad y
 sobre cómo se comporta la dirección, muestra las causas probables con
 porcentajes y le dice si es razonable llegar allí por sus propios medios.

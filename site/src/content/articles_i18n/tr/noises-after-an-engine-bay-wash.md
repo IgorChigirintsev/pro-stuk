@@ -1,6 +1,6 @@
 ---
 title: "Motor yıkamasından sonra çıkan sesler"
-metaTitle: "Motor yıkamasından sonra sesler: neden, ne kadar | Stuk"
+metaTitle: "Motor yıkamasından sonra sesler: neden, ne kadar | Pro-Stuk"
 description: "Motor yıkamasından sonra ıslık, takırtı ya da rölantide titreme. Hangi sesler birkaç günde kendiliğinden geçer, hangileri ıslanan parçayı gösterir."
 faq:
   - q: "Yıkamadan sonra kayış ıslığı ne kadar sürer?"
@@ -96,7 +96,7 @@ isteyin. Bu, burada anlatılan senaryoların çoğunu ortadan kaldırır.
 
 En zor kısım, sesin gerçekten zayıflayıp zayıflamadığını anlamaktır. Kulak
 ses şiddetini kötü hatırlar ama doğrudan karşılaştırmada farkı iyi
-yakalar. Sabah çalıştırmasını ilk gün Stuk uygulamasıyla kaydedin ve
+yakalar. Sabah çalıştırmasını ilk gün Pro-Stuk uygulamasıyla kaydedin ve
 üçüncü gün tekrarlayın: uygulama kayıtları verdiğiniz yanıtlarla
 karşılaştırır ve işlerin normale mi döndüğünü yoksa kontrol randevusu
 almanın zamanı mı geldiğini gösterir.

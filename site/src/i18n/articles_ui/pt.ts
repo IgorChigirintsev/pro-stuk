@@ -19,7 +19,7 @@ export const pt: ArticleUi = {
   hubQuizSub:
     'Uma árvore de diagnóstico interativa: algumas perguntas e a lista de causas fica bem menor.',
   hubOther: 'Outras secções',
-  indexTitle: 'Artigos sobre ruídos do carro | Stuk',
+  indexTitle: 'Artigos sobre ruídos do carro | Pro-Stuk',
   indexDescription:
     'Guias de ruídos do carro: batidas, chiados, zumbidos, assobios e chocalhos. O que significa cada som, o que pode verificar sozinho e qual a urgência.',
   indexH1: 'Artigos',

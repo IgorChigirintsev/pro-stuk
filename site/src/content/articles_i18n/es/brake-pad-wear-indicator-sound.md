@@ -1,6 +1,6 @@
 ---
 title: "Testigo de desgaste de pastillas: cómo suena"
-metaTitle: "Testigo de desgaste de pastillas: cómo suena | Stuk"
+metaTitle: "Testigo de desgaste de pastillas: cómo suena | Pro-Stuk"
 description: "Un chirrido metálico fino al rodar que desaparece justo al frenar es el testigo acústico de desgaste. Cómo reconocerlo y cuánto margen queda."
 faq:
   - q: "¿Por qué el chirrido se calla al pisar el pedal?"
@@ -95,6 +95,6 @@ el pie apoyado en el pedal, para que el material de fricción asiente de
 forma pareja.
 
 Si el sonido ha aparecido y no está claro si es el testigo o alguna otra
-cosa, grábelo en la aplicación Stuk: primero rodando en punto muerto y
+cosa, grábelo en la aplicación Pro-Stuk: primero rodando en punto muerto y
 después con una frenada suave. La aplicación compara las grabaciones con
 sus respuestas y muestra las causas probables con porcentajes.

@@ -1,6 +1,6 @@
 ---
 title: "Sinais de embreagem gasta"
-metaTitle: "Sinais de embreagem gasta: testes e reparo | Stuk"
+metaTitle: "Sinais de embreagem gasta: testes e reparo | Pro-Stuk"
 description: "Como reconhecer o desgaste da embreagem: patinação, cheiro de queimado, pedal alto, trancos. Teste de um minuto, fases do desgaste e o reparo."
 faq:
   - q: "Qual é o primeiro sinal de desgaste da embreagem?"
@@ -137,6 +137,6 @@ parecer exatamente com a velha.
 conta é uma; depois que o superaquecimento chega ao volante, é outra.
 
 Se você não tem certeza de que a vibração ou o ruído é mesmo da embreagem,
-grave o som no aplicativo Stuk: em marcha lenta, com o pedal pisado e na
+grave o som no aplicativo Pro-Stuk: em marcha lenta, com o pedal pisado e na
 saída. O app cruza as gravações com as suas respostas e mostra as causas
 prováveis com uma nota de urgência.

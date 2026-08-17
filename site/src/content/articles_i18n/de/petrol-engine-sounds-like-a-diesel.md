@@ -1,6 +1,6 @@
 ---
 title: "Warum ein Benzinmotor anfängt, wie ein Diesel zu klingen"
-metaTitle: "Benzinmotor klingt wie ein Diesel: Ursachen | Stuk"
+metaTitle: "Benzinmotor klingt wie ein Diesel: Ursachen | Pro-Stuk"
 description: "Warum ein Benzinmotor plötzlich nagelt wie ein Diesel: Ventilspiel, gelängte Steuerkette, Klopfen, Direkteinspritzung. Was Sie zuerst prüfen und in welcher Reihenfolge."
 faq:
   - q: "Was bedeutet es, wenn ein Benzinmotor wie ein Diesel klingt?"

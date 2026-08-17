@@ -1,6 +1,6 @@
 ---
 title: "Controllare a orecchio la tensione della catena di distribuzione"
-metaTitle: "Controllare a orecchio la catena di distribuzione | Stuk"
+metaTitle: "Controllare a orecchio la catena di distribuzione | Pro-Stuk"
 description: "Come sentire una catena di distribuzione allungata: in quali condizioni si tradisce, come si distingue da punterie e iniettori e cosa mostra il freddo."
 faq:
   - q: "Perché la catena di distribuzione è più rumorosa a un avviamento a freddo?"
@@ -102,7 +102,7 @@ che salta sulla maggior parte dei motori moderni finisce con i pistoni che
 incontrano le valvole. Quanto tempo lascia ciascuno stadio è descritto in
 [si può guidare con la catena di distribuzione allungata](/it/articles/can-you-drive-with-a-stretched-timing-chain/).
 
-Registrare un avviamento a freddo è più semplice con l'app Stuk: avvii la
+Registrare un avviamento a freddo è più semplice con l'app Pro-Stuk: avvii la
 registrazione prima di girare la chiave e tenga il telefono vicino alla
 griglia del radiatore. L'app confronta il suono con le sue risposte su
 durata e condizioni e mostra le cause probabili in percentuale, e la

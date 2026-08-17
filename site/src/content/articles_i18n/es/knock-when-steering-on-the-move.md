@@ -1,6 +1,6 @@
 ---
 title: "Un golpe al girar el volante en marcha"
-metaTitle: "Golpe al girar el volante en marcha: causas | Stuk"
+metaTitle: "Golpe al girar el volante en marcha: causas | Pro-Stuk"
 description: "Qué golpea al girar el volante circulando: junta homocinética, rótula, soporte superior del amortiguador o la cremallera. Cómo separar las causas por el sonido."
 faq:
   - q: "¿Los chasquidos en curva con gas son siempre la homocinética?"
@@ -118,6 +118,6 @@ la página de síntomas
 [golpes en la suspensión](/es/symptoms/knocking-in-suspension/).
 
 ¿No consigue describir el sonido con palabras? Grábelo con la aplicación
-Stuk durante la propia maniobra: la aplicación cruza la grabación con sus
+Pro-Stuk durante la propia maniobra: la aplicación cruza la grabación con sus
 respuestas y muestra las causas probables con porcentajes y un nivel de
 urgencia.

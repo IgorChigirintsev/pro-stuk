@@ -1,6 +1,6 @@
 ---
 title: "Uğultu başladıktan sonra teker rulmanı ne kadar dayanır"
-metaTitle: "Uğuldayan teker rulmanı ne kadar dayanır | Stuk"
+metaTitle: "Uğuldayan teker rulmanı ne kadar dayanır | Pro-Stuk"
 description: "Teker rulmanının ilk uğultusundan tehlikeli boşluğa kadar genelde binlerce kilometre vardır. Bu payı ne belirler ve hangi belirtiler onu sıfırlar."
 faq:
   - q: "Uğuldayan rulmanla kaç kilometre gidebilirim?"
@@ -96,7 +96,7 @@ yazısında; sesleri görmezden gelmenin en pahalı örneği ise motordadır:
 [uzamış triger zinciriyle araç kullanılır mı](/tr/articles/can-you-drive-with-a-stretched-timing-chain/).
 
 Tahmin etmek yerine gidişatı takip etmek istiyorsanız, birkaç haftada bir
-aynı yol parçasında aynı hızda sesi Stuk uygulamasına kaydedin. Uygulama
+aynı yol parçasında aynı hızda sesi Pro-Stuk uygulamasına kaydedin. Uygulama
 kayıtları verdiğiniz cevaplarla eşleştirir ve muhtemel sebepleri yüzdesiyle
 gösterir; kayıtları birbiriyle karşılaştırmak da aracın yerinde mi durduğunu
 yoksa bir sonraki aşamaya mı geçtiğini dürüstçe söyler.

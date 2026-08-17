@@ -1,6 +1,6 @@
 ---
 title: "Delinmiş susturucunun belirtileri"
-metaTitle: "Delinmiş susturucu: belirtileri nasıl anlaşılır | Stuk"
+metaTitle: "Delinmiş susturucu: belirtileri nasıl anlaşılır | Pro-Stuk"
 description: "Aracın sesi yükseldi, zeminin altından homurtu ve patlamalar geliyor, kabine egzoz kokusu doluyor — delinmiş susturucunun belirtileri ve onarımı."
 faq:
   - q: "Delinmiş susturucu güce etki eder mi?"
@@ -90,6 +90,6 @@ sarkan bir sistem karoseriye sürter ve dikişleri zorlar, yani eski
 lastikler üzerindeki yeni kutu vaktinden önce çürür.
 
 Aracın sesinin yükseldiğini duyuyor ama sistemin nerede pes ettiğini
-anlayamıyorsanız, sesi Stuk uygulamasına kaydedin — rölantide ve devri
+anlayamıyorsanız, sesi Pro-Stuk uygulamasına kaydedin — rölantide ve devri
 yumuşakça yükseltirken. Uygulama kaydı yanıtlarınızla eşleştirir ve önce
 sistemin hangi bölümlerinin gözden geçirilmesi gerektiğini önerir.

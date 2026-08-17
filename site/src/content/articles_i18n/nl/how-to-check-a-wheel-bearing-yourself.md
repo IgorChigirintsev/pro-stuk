@@ -1,6 +1,6 @@
 ---
 title: "Een wiellager zelf controleren"
-metaTitle: "Een wiellager zelf controleren | Stuk"
+metaTitle: "Een wiellager zelf controleren | Pro-Stuk"
 description: "Vijf controles die een versleten wiellager en de kant ervan aanwijzen zonder brug: tests tijdens het rijden, wiel omhoog, speling voelen en naaftemperatuur."
 faq:
   - q: "Kan ik de kant bepalen zonder brug?"

@@ -1,6 +1,6 @@
 ---
 title: "Zumbido: rolamento de roda ou pneu — como diferenciar"
-metaTitle: "Zumbido: rolamento de roda ou pneu? | Stuk"
+metaTitle: "Zumbido: rolamento de roda ou pneu? | Pro-Stuk"
 description: "Como diferenciar zumbido de rolamento de roda do ruído de pneu: testes numa única volta, tabela comparativa dos sinais e os erros que custam dinheiro."
 faq:
   - q: "O zumbido apareceu logo depois de montar outras rodas. O que é?"
@@ -130,7 +130,7 @@ também a transmissão — está nas páginas de sintoma
 [zumbido de rolamento de roda](/pt/symptoms/wheel-bearing-hum/).
 
 E se você quiser uma segunda opinião antes de ir à oficina, grave o
-zumbido dirigindo pelo aplicativo Stuk: ele analisa a gravação, faz
+zumbido dirigindo pelo aplicativo Pro-Stuk: ele analisa a gravação, faz
 algumas perguntas de esclarecimento — sobre o piso, as curvas, como o som
 apareceu — e mostra as causas prováveis com percentuais.
 </content>

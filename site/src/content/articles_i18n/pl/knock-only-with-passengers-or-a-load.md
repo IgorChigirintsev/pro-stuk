@@ -1,6 +1,6 @@
 ---
-title: "Stuk tylko z pasażerami albo z ładunkiem"
-metaTitle: "Stuk tylko z pasażerami lub ładunkiem: przyczyny | Stuk"
+title: "Pro-Stuk tylko z pasażerami albo z ładunkiem"
+metaTitle: "Pro-Stuk tylko z pasażerami lub ładunkiem: przyczyny | Pro-Stuk"
 description: "Pusty samochód jedzie cicho, a z ludźmi i bagażem pojawia się stuk. Co zmienia obciążenie i które elementy zdradzają się dokładnie w ten sposób."
 faq:
   - q: "Dlaczego puste auto jedzie cicho, a z pasażerami stuka?"
@@ -8,7 +8,7 @@ faq:
   - q: "Stuka tylko z tyłu przy załadowanym bagażniku — to amortyzatory?"
     a: "Niekoniecznie. Częściej winne są odbojniki, zużyte tuleje albo sama sprężyna, osiadła na tyle, że zawieszenie dobija do granicy skoku. Amortyzatory podejrzewa się wtedy, gdy do stuku dołącza bujanie nadwozia i wycieki oleju na obudowie."
   - q: "Czy można jeździć, gdy stuk pojawia się tylko przy pełnym aucie?"
-    a: "Zwykle tak, ale to nie znaczy, że można o nim zapomnieć. Stuk pod obciążeniem to znak, że zawieszeniu skończył się skok, a na złej drodze elementy przyjmują obciążenia udarowe. Rozsądny termin diagnostyki to najbliższe dwa tygodnie."
+    a: "Zwykle tak, ale to nie znaczy, że można o nim zapomnieć. Pro-Stuk pod obciążeniem to znak, że zawieszeniu skończył się skok, a na złej drodze elementy przyjmują obciążenia udarowe. Rozsądny termin diagnostyki to najbliższe dwa tygodnie."
 sources:
   - title: "KYB: jak działają amortyzatory i objawy zużycia"
     url: "https://www.kyb.com"
@@ -98,7 +98,7 @@ aucie stojącym na kołach: dokręcone na wiszącym zawieszeniu żyją skręcone
 pękają w ciągu kilku miesięcy.
 
 Jeśli chce się zrozumieć, co brzmi, jeszcze przed wizytą w warsztacie, warto
-nagrać dźwięk w aplikacji Stuk, przejeżdżając ten sam odcinek dwa razy —
+nagrać dźwięk w aplikacji Pro-Stuk, przejeżdżając ten sam odcinek dwa razy —
 pusto i z ładunkiem. Sama różnica między nagraniami jest wymowna, a
 aplikacja zestawi ją z odpowiedziami i pokaże prawdopodobne przyczyny z
 procentami.

@@ -1,7 +1,7 @@
 ---
 ru: "zvon-pod-mashinoj-na-holostyh"
 title: "A ringing under the car at idle"
-metaTitle: "A ringing under the car at idle: causes and fixes | Stuk"
+metaTitle: "A ringing under the car at idle: causes and fixes | Pro-Stuk"
 description: "A heat shield, a broken catalytic converter, the exhaust touching the body: where a ringing under the car at idle comes from and how to check it."
 pubDate: "2026-07-15"
 related:
@@ -134,6 +134,6 @@ refastened, the heat it was shielding now reaches the floor and the fuel
 lines; a clamp costs less than that trade.
 
 A ringing is one of those sounds that are hard to describe to a mechanic
-over the phone. It is easier to record: start the Stuk app next to the car
+over the phone. It is easier to record: start the Pro-Stuk app next to the car
 idling, answer a couple of questions about the conditions, and get a list
 of likely causes with a level of urgency to take to the workshop.

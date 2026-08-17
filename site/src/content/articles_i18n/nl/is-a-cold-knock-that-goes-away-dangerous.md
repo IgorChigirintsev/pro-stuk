@@ -1,6 +1,6 @@
 ---
 title: "Is een koude klop die weer verdwijnt gevaarlijk"
-metaTitle: "Koude klop die verdwijnt: gevaarlijk of niet | Stuk"
+metaTitle: "Koude klop die verdwijnt: gevaarlijk of niet | Pro-Stuk"
 description: "Een klop bij koude start die na opwarmen verdwijnt kan onschuldig zijn of een dure reparatie aankondigen. Zo leest u duur, karakter en trend."
 faq:
   - q: "Hoeveel seconden kloppen bij koude start is normaal?"

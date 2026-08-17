@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een versleten buitenste homokineet"
-metaTitle: "Versleten buitenste homokineet: klikken | Stuk"
+metaTitle: "Versleten buitenste homokineet: klikken | Pro-Stuk"
 description: "Hoe een versleten buitenste homokineet klikt, waarin hij van de binnenste verschilt, eenvoudige controles zonder brug en wat de reparatie bepaalt."
 faq:
   - q: "Waarom klikt een homokineet juist in een bocht?"

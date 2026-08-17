@@ -1,6 +1,6 @@
 ---
 title: "Otoyolda duyulan, şehirde kaybolan uğultu"
-metaTitle: "Otoyolda uğultu, şehirde yok: sebepleri | Stuk"
+metaTitle: "Otoyolda uğultu, şehirde yok: sebepleri | Pro-Stuk"
 description: "Uğultu neden yalnızca 80 km/s üzerinde duyulur ve şehirde kaybolur: teker rulmanları, lastikler, aerodinamik ve kendiniz yapabileceğiniz kontrol sırası."
 faq:
   - q: "Şehirde neden uğultu yok, otoyolda bolca var?"
@@ -96,7 +96,7 @@ somun yeni rulmanı birkaç bin kilometrede bitirir; yani havalı tabanca
 değil, tork anahtarı görmek istersiniz.
 
 Bu tür uğultunun asıl zorluğu ustaya gösterilememesidir: yalnızca otoyolda
-vardır. Uğultunun yaşadığı hızda ve şerit değiştirirken sesi Stuk
+vardır. Uğultunun yaşadığı hızda ve şerit değiştirirken sesi Pro-Stuk
 uygulamasına kaydedin — uygulama kaydı verdiğiniz cevaplarla eşleştirir ve
 muhtemel sebepleri yüzdesiyle gösterir; kaydın kendisini de ustaya
 dinletebilirsiniz.

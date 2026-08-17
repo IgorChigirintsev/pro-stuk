@@ -1,6 +1,6 @@
 ---
 title: "Škoda Rapid / Octavia 1.4 TSI'de soğukta tıkırtı"
-metaTitle: "Škoda Rapid ve Octavia 1.4 TSI soğuk tıkırtı | Stuk"
+metaTitle: "Škoda Rapid ve Octavia 1.4 TSI soğuk tıkırtı | Pro-Stuk"
 description: "1.4 TSI motorlu Škoda Rapid ve Octavia'da soğukta tıkırtı: zincir ve gergi, hidrolik külbütörler, V kayışı grubu. Hangisi olduğu nasıl ayrılır."
 faq:
   - q: "Tıkırtı çalıştırdıktan bir dakika sonra geçiyor, normal mi?"
@@ -96,6 +96,6 @@ sebebidir; bu alışkanlığı değiştirmeden parça değiştirmek, sahibinin b
 
 Tıkırtı yalnızca günün ilk çalıştırmasında çıkıyorsa serviste yakalanması
 zordur — siz varana kadar motor ısınmıştır. Sesi sabah, çalıştırdıktan
-sonraki ilk saniyelerde Stuk uygulamasında kaydedin. Uygulama kaydı
+sonraki ilk saniyelerde Pro-Stuk uygulamasında kaydedin. Uygulama kaydı
 verdiğiniz cevaplarla eşleştirir ve olası nedenleri yüzdeyle gösterir; ustaya
 elle tutulur bir başlangıç noktası verir.

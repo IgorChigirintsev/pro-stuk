@@ -1,6 +1,6 @@
 ---
 title: "Giderken tekerlekten gelen tıkırtı"
-metaTitle: "Tekerlekten tıkırtı: nedenleri ve kontrolü | Stuk"
+metaTitle: "Tekerlekten tıkırtı: nedenleri ve kontrolü | Pro-Stuk"
 description: "Tekerlek dönüşüyle ritmik tıkırtı: diş arasında taş, vida, jant kapağı ya da fren diski. Kaynağı nasıl bulunur, ne zaman yola devam edilmez."
 faq:
   - q: "Tıkırtı hızla birlikte sıklaşıyor, bu ne anlama gelir?"
@@ -92,7 +92,7 @@ içinde düşer; bir hafta sonra tıkırtı hâlâ duruyorsa «sadece çakıl» 
 geçerliliğini yitirir — sıra lifte gelmiştir.
 
 Kaynağı gözle bulamadıysanız ve ses sadece hareket halinde duyuluyorsa,
-sakin bir sokaktan camı açık geçerken sesi Stuk uygulamasına kaydedin.
+sakin bir sokaktan camı açık geçerken sesi Pro-Stuk uygulamasına kaydedin.
 Uygulama kaydı, hız ve frene tepki hakkındaki cevaplarınızla eşleştirir,
 muhtemel nedenleri yüzdeleriyle gösterir ve önce hangi tekerleğe
 bakacağınızı söyler.

@@ -1,6 +1,6 @@
 ---
 title: "Haval Jolion'da ön takım vuruntusu: önce neye bakmalı"
-metaTitle: "Haval Jolion ön takım vuruntusu: ilk kontroller | Stuk"
+metaTitle: "Haval Jolion ön takım vuruntusu: ilk kontroller | Pro-Stuk"
 description: "Haval Jolion'da ön takım vuruntusunu kontrol etmenin mantıklı sırası: viraj demiri rotlarından kule takozlarına ve salıncak burçlarına kadar."
 faq:
   - q: "Jolion'da ön takım vuruntusu garanti kapsamına girer mi?"
@@ -99,7 +99,7 @@ yazısında.
 
 Servise tek kelimelik «vuruyor» yerine bir tarifle gitmek işe yarar: hız,
 tümseğin türü, araç soğuk mu sıcak mı, tek bir vuruntu mu yoksa çatırtı mı.
-Sesi kaydedip bu koşullara göre ayrıştırmak tam da Stuk uygulamasının
+Sesi kaydedip bu koşullara göre ayrıştırmak tam da Pro-Stuk uygulamasının
 yaptığı iştir — kaydı kısa sorulara verdiğiniz cevaplarla eşleştirir ve
 muhtemel sebepleri yüzdesiyle gösterir; böylece servisteki konuşma
 somuttan başlar.

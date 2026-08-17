@@ -1,12 +1,12 @@
 ---
 title: "Jak znaleźć stuk w zawieszeniu bez podnośnika"
-metaTitle: "Stuk w zawieszeniu: jak znaleźć bez podnośnika | Stuk"
+metaTitle: "Pro-Stuk w zawieszeniu: jak znaleźć bez podnośnika | Pro-Stuk"
 description: "Plan krok po kroku, jak namierzyć stuk w zawieszeniu bez kanału i podnośnika: portret dźwięku, próba bujaniem, sprawdzenie rękami i jazda kontrolna."
 faq:
   - q: "Czy naprawdę da się znaleźć źródło bez kanału i podnośnika?"
     a: "W większości przypadków tak, przynajmniej do poziomu części-kandydata. Łączniki stabilizatora, sworznie wahaczy, końcówki drążków i amortyzatory da się sprawdzić bujaniem auta, rękami i jazdą kontrolną. Podnośnik jest potrzebny do potwierdzenia diagnozy i do części, do których się nie sięgnie, jak tuleje tylnej belki."
   - q: "Dlaczego stuk słychać na drodze, a przy oględzinach nic się nie znajduje?"
-    a: "Stuk powstaje przy obciążeniu udarowym, którego ręce nie zawsze odtworzą: pchając stojące auto, nie wytworzy się siły, z jaką koło uderza w przegub przy prędkości. Wczesne zużycie przegubu żyje dokładnie tam — hałas już jest, luzu jeszcze nie. Pomagają nagrania z jazdy i powtórna kontrola za parę tysięcy kilometrów."
+    a: "Pro-Stuk powstaje przy obciążeniu udarowym, którego ręce nie zawsze odtworzą: pchając stojące auto, nie wytworzy się siły, z jaką koło uderza w przegub przy prędkości. Wczesne zużycie przegubu żyje dokładnie tam — hałas już jest, luzu jeszcze nie. Pomagają nagrania z jazdy i powtórna kontrola za parę tysięcy kilometrów."
   - q: "Które elementy zawieszenia stukają najczęściej?"
     a: "Statystycznie pierwszymi kandydatami są łączniki stabilizatora: małe, mocno obciążone i krócej żyjące niż reszta. Dalej idą gumy stabilizatora, sworznie wahaczy, końcówki drążków i tuleje wahaczy. Amortyzatory stukają rzadziej, ale ich zużycie wzmacnia uderzenia we wszystko inne."
   - q: "Czy mimo samodzielnego znalezienia źródła jechać do warsztatu?"
@@ -18,7 +18,7 @@ sources:
     url: "https://www.lemfoerder.com/"
 ---
 
-Stuk w zawieszeniu rzadko wymaga natychmiastowej lawety, ale zawsze
+Pro-Stuk w zawieszeniu rzadko wymaga natychmiastowej lawety, ale zawsze
 wymaga odpowiedzi na pytanie „co konkretnie stuka”. Do pierwszego
 przybliżenia podnośnik nie jest niezbędny: większość elementów podwozia da
 się sprawdzić na równym terenie rękami, próbą bujaniem i krótką jazdą
@@ -39,7 +39,7 @@ kilka pytań odsiewają połowę wariantów:
   progach zwalniających. Częste ostre stukanie na drobiazgach i pojedyncze
   głuche uderzenia na dużych nierównościach dają różne listy przyczyn.
 - **Co zmienia dźwięk** — zakręty, hamowanie, ruszanie, obciążony bagażnik,
-  nagrzanie. Stuk, który znika w zakręcie, gdy nadwozie przechyla się w
+  nagrzanie. Pro-Stuk, który znika w zakręcie, gdy nadwozie przechyla się w
   jedną stronę, to klasyczny podpis łącznika stabilizatora.
 
 Ogólny obraz jest na stronie objawu
@@ -120,9 +120,9 @@ dźwięku, a nie o wjechanie w dziurę na pełnym gazie.
 | Częsty i ostry, na tarce i dylatacjach | Łączniki stabilizatora | Poruszyć łącznik ręką |
 | Suchy i metaliczny, na drobnych dziurach | Sworzeń wahacza, końcówki drążków | Luz pionowy, bujanie kierownicą |
 | Głuchy i pojedynczy, w dużych dziurach | Tuleje wahaczy, odboje | Oględziny gum przegubów |
-| Stuk z góry, czuć przez nadwozie | Łożyska górne kolumn | Skrzyp przy bujaniu, chrupanie przy skręcaniu |
+| Pro-Stuk z góry, czuć przez nadwozie | Łożyska górne kolumn | Skrzyp przy bujaniu, chrupanie przy skręcaniu |
 | Metaliczny klekot po dziurach | Poluzowane mocowania, osłona | Obejrzeć i dokręcić |
-| Stuk plus kołysanie nadwozia na falach | Amortyzatory | Próba bujaniem |
+| Pro-Stuk plus kołysanie nadwozia na falach | Amortyzatory | Próba bujaniem |
 
 Tabela mówi o prawdopodobieństwach, a nie o wyrokach: elementy zawieszenia
 pracują razem, a zużyty amortyzator przyspiesza zużycie całej reszty.
@@ -149,7 +149,7 @@ zmianie opon: wtedy na pierwszym miejscu są miejsca ostatnio ruszane, od
 momentu dokręcenia śrub kół po sposób złożenia zdejmowanych części.
 
 Jeżeli stuk nadal nie chce dać się zlokalizować, zostaje jeszcze jedno
-narzędzie: nagranie dźwięku w czasie jazdy w aplikacji Stuk. Zestawia ona
+narzędzie: nagranie dźwięku w czasie jazdy w aplikacji Pro-Stuk. Zestawia ona
 nagranie z odpowiedziami o tym, kiedy i na jakich nawierzchniach stuk się
 pojawia, i pokazuje prawdopodobne przyczyny wraz z poziomem pilności — to
 wygodny punkt wyjścia i do kontroli w garażu, i do rozmowy z mechanikiem.

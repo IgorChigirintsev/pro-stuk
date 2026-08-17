@@ -1,6 +1,6 @@
 ---
 title: "Gravando o barulho do carro para o mecânico"
-metaTitle: "Como gravar o barulho do carro para o mecânico | Stuk"
+metaTitle: "Como gravar o barulho do carro para o mecânico | Pro-Stuk"
 description: "Como gravar o barulho do carro no celular para que ele realmente se ouça: onde segurar o aparelho, o que falar, que situações registrar e o que evitar."
 faq:
   - q: "Por que na gravação não se ouve o que é óbvio dentro do carro?"
@@ -91,7 +91,7 @@ geral. Para descrever o som com palavras depois, ajuda a leitura de
 [como descrever um barulho do carro ao mecânico](/pt/articles/how-to-describe-a-car-noise-to-a-mechanic/).
 
 Se mexer em configurações não te agrada, a gravação pode ser feita no
-aplicativo Stuk: ele sugere as situações, pergunta sobre as condições e,
+aplicativo Pro-Stuk: ele sugere as situações, pergunta sobre as condições e,
 depois do cruzamento, mostra as causas prováveis em porcentagem. O cartão
 pronto com a gravação é fácil de mostrar ao mecânico — a conversa começa
 direto no ponto.

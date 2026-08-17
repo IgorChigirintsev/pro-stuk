@@ -1,6 +1,6 @@
 ---
 title: "Ein Klopfen nur mit Mitfahrern oder Beladung"
-metaTitle: "Klopfen nur mit Beladung: die Ursachen | Stuk"
+metaTitle: "Klopfen nur mit Beladung: die Ursachen | Pro-Stuk"
 description: "Leer ist der Wagen still; mit Menschen und Gepäck tritt ein Klopfen auf. Was sich unter Last ändert und welche Teile sich genau so verraten."
 faq:
   - q: "Warum ist der Wagen leer still und klopft mit Mitfahrern?"

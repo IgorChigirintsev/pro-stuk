@@ -1,6 +1,6 @@
 ---
 title: "Zumbido do câmbio automático: os primeiros sinais"
-metaTitle: "Zumbido do câmbio automático: sinais iniciais | Stuk"
+metaTitle: "Zumbido do câmbio automático: sinais iniciais | Pro-Stuk"
 description: "Zumbido do câmbio automático em estágio inicial: como ele soa, como se diferencia do ruído de rolamento de roda e de pneus, e o que se verifica primeiro."
 faq:
   - q: "O zumbido do câmbio acompanha a velocidade ou a rotação do motor?"
@@ -100,7 +100,7 @@ número do manual, e contar reboque e patinação prolongada em terreno
 solto como uma carga à parte sobre o câmbio, e não como um detalhe.
 
 Se o zumbido é baixo e você quer saber se ele acompanha a velocidade ou
-a marcha, grave dois trechos curtos no aplicativo Stuk: acelerando com
+a marcha, grave dois trechos curtos no aplicativo Pro-Stuk: acelerando com
 carga e na mesma velocidade em desaceleração. O aplicativo compara as
 gravações e sugere em qual direção olhar primeiro — transmissão ou
 rodagem.

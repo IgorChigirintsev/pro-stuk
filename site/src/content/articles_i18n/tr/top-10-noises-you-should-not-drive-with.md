@@ -1,6 +1,6 @@
 ---
 title: "Duyunca yola devam edilmemesi gereken 10 ses"
-metaTitle: "Yola devam edilmemesi gereken 10 araç sesi | Stuk"
+metaTitle: "Yola devam edilmemesi gereken 10 araç sesi | Pro-Stuk"
 description: "Duyulduktan sonra yola devam etmenin akıllıca olmadığı on araç sesi: her birinde ne kırılıyor ve zararsız seslerden nasıl ayrılıyor."
 faq:
   - q: "Sıradan fren cıyaklaması neden listede yok?"
@@ -99,7 +99,7 @@ açısı değiştikçe yatışır, ki tam olarak bu yüzden pahalı aşamaya kad
 görmezden gelinirler.
 
 Bu listeden bir ses çıktıysa ama emin değilseniz, yola koyulmadan, olay
-yerinde Stuk uygulamasında kaydedin. Uygulama kaydı birkaç soruya
+yerinde Pro-Stuk uygulamasında kaydedin. Uygulama kaydı birkaç soruya
 verdiğiniz cevaplarla eşleştirir ve olası sebepleri yüzdeleriyle gösterir;
 böylece yola devam etmekle çekici çağırmak arasında karar vermek
 kolaylaşır.

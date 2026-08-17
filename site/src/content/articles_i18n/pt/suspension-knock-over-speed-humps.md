@@ -1,6 +1,6 @@
 ---
 title: "Batida na suspensão nas lombadas"
-metaTitle: "Batida na suspensão nas lombadas: causas | Stuk"
+metaTitle: "Batida na suspensão nas lombadas: causas | Pro-Stuk"
 description: "Por que a suspensão bate justamente nas lombadas, quais peças costumam ser as culpadas e como estreitar a busca sem elevador."
 faq:
   - q: "Por que a suspensão bate na lombada e fica calada no buraco?"
@@ -136,6 +136,6 @@ vem junto com o carro puxando para um lado ou com folga no volante, antes
 disso.
 
 Para não ficar adivinhando por descrição, grave o som no celular na
-passagem do obstáculo: o aplicativo Stuk cruza a gravação com as suas
+passagem do obstáculo: o aplicativo Pro-Stuk cruza a gravação com as suas
 respostas e mostra as causas prováveis com porcentagem e nível de urgência
 — com essa lista a conversa na oficina vira objetiva.

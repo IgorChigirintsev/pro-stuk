@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış triger kayışının belirtileri"
-metaTitle: "Aşınmış triger kayışı: kontrol ve süre | Stuk"
+metaTitle: "Aşınmış triger kayışı: kontrol ve süre | Pro-Stuk"
 description: "Triger kayışının aşındığı nasıl anlaşılır: çatlaklar, saçaklanma, tıkırtı ve gergi vınlaması. Kopması motor için neden ölümcül, kayış ne zaman değişir."
 faq:
   - q: "Triger kayışı yolda koparsa ne olur?"
@@ -105,6 +105,6 @@ gerilmelidir ve bazı krank cıvataları tek kullanımlıktır. Bu adımlar
 atlanarak yapılan bir iş kusursuz görünüp yine de yanlış olabilir.
 
 Triger bölgesinden şimdiden tıkırtı, hışırtı ya da ıslık geliyorsa sesi
-yakalayın: Stuk uygulamasındaki bir kayıt ve birkaç soruya vereceğiniz
+yakalayın: Pro-Stuk uygulamasındaki bir kayıt ve birkaç soruya vereceğiniz
 cevaplar, işin rulmanlarda mı, pompada mı yoksa daha ciddi bir yerde mi
 olduğunu ve servise neyle gitmeniz gerektiğini anlamanıza yardım eder.

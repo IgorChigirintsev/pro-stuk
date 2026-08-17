@@ -1,6 +1,6 @@
 ---
 title: "Direksiyon kutusu arızasının belirtileri"
-metaTitle: "Direksiyon kutusu arızası: belirtilerin tümü | Stuk"
+metaTitle: "Direksiyon kutusu arızası: belirtilerin tümü | Pro-Stuk"
 description: "Tıkırtı, boşluk, kademeli dönen direksiyon, kaçak ve pompa iniltisi — direksiyon kutusu arıza belirtileri, kontrolü ve ayarın hâlâ kurtardığı an."
 faq:
   - q: "Kutu yağ sızdırıyor, sadece eklesem olur mu?"
@@ -111,6 +111,6 @@ Kaçak hidrolik pompayı bitirir: pompa havayla çalışır ve kutuyla birlikte
 kademeli dönen direksiyon, kritik anda hassas bir manevraya engel olur.
 
 Elinizde şimdilik yalnızca ses varsa ve suçlunun kutu olduğundan kuşkuluysanız,
-tıkırtıyı temsili bir yol parçasında Stuk uygulamasıyla kaydedin. Uygulama
+tıkırtıyı temsili bir yol parçasında Pro-Stuk uygulamasıyla kaydedin. Uygulama
 kaydı yanıtlarınızla eşleştirir ve olası nedenleri yüzdelerle gösterir — bu
 hipotezle serviste teşhis daha az zaman alır.

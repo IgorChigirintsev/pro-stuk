@@ -1,6 +1,6 @@
 ---
 title: "Un cliquetis venu d'une roue en roulant"
-metaTitle: "Cliquetis venu d'une roue en roulant : causes | Stuk"
+metaTitle: "Cliquetis venu d'une roue en roulant : causes | Pro-Stuk"
 description: "Un cliquetis rythmé au rythme de la roue : caillou dans la sculpture, vis, enjoliveur ou disque de frein. Comment trouver la source et quand ne pas rouler."
 faq:
   - q: "Le cliquetis s'accélère avec la vitesse, qu'est-ce que ça m'apprend ?"
@@ -104,7 +104,7 @@ deux jours, et si le cliquetis est toujours là une semaine plus tard, la
 théorie du « simple gravillon » ne tient plus — direction le pont.
 
 Si vous n'avez pas trouvé la source à l'œil et que le son ne s'entend
-qu'en roulant, enregistrez-le dans l'application Stuk en traversant une
+qu'en roulant, enregistrez-le dans l'application Pro-Stuk en traversant une
 cour tranquille, vitre baissée. L'application croise l'enregistrement avec
 vos réponses sur la vitesse et la réaction aux freins et affiche les
 causes probables avec leurs pourcentages — et suggère quelle roue

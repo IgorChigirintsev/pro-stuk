@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van valse lucht op de inlaat"
-metaTitle: "Valse lucht op de inlaat: kenmerken en zoeken | Stuk"
+metaTitle: "Valse lucht op de inlaat: kenmerken en zoeken | Pro-Stuk"
 description: "Jagend stationair toerental, fluiten of sissen onder de kap, een arm mengsel en trimcodes: zo herkent u valse lucht op de inlaat."
 faq:
   - q: "Waarom gaat het stationaire toerental jagen bij valse lucht?"

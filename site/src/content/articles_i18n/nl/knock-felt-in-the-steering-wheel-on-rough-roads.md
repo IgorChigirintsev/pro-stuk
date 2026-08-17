@@ -1,6 +1,6 @@
 ---
 title: "Klop die u in het stuur voelt op slecht wegdek"
-metaTitle: "Klop in het stuur op slecht wegdek | Stuk"
+metaTitle: "Klop in het stuur op slecht wegdek | Pro-Stuk"
 description: "Waar een klop in het stuur op slecht wegdek vandaan komt: stuurhuis, spoorstangkogels, spoorstangen of stabilisator. Eenvoudige tests zonder brug."
 faq:
   - q: "Hoe weet ik dat het het stuurwerk is en niet het onderstel?"

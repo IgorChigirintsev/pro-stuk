@@ -1,6 +1,6 @@
 ---
 title: "Sinais de silencioso furado pela ferrugem"
-metaTitle: "Silencioso furado: como identificar | Stuk"
+metaTitle: "Silencioso furado: como identificar | Pro-Stuk"
 description: "O carro ficou mais barulhento, ronco e estalos vêm de baixo do assoalho, cheiro de escapamento entra na cabine — os sinais e o conserto."
 faq:
   - q: "Silencioso furado tira potência?"
@@ -92,6 +92,6 @@ escapamento estão bons — um sistema caído raspa na carroceria e força as
 soldas, então caixa nova em borracha velha apodrece antes da hora.
 
 Se você ouve que o carro ficou mais barulhento mas não consegue dizer onde
-o sistema cedeu, grave o som no aplicativo Stuk — em marcha lenta e
+o sistema cedeu, grave o som no aplicativo Pro-Stuk — em marcha lenta e
 subindo o giro devagar. O app cruza a gravação com as suas respostas e
 sugere quais partes do sistema inspecionar primeiro.

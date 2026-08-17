@@ -1,6 +1,6 @@
 ---
 title: "Battito a freddo su Škoda Rapid / Octavia 1.4 TSI"
-metaTitle: "Battito a freddo Škoda Rapid e Octavia 1.4 TSI | Stuk"
+metaTitle: "Battito a freddo Škoda Rapid e Octavia 1.4 TSI | Pro-Stuk"
 description: "Rumori a freddo su Škoda Rapid e Octavia con motore 1.4 TSI: catena e tenditore, punterie idrauliche, organi ausiliari. Come distinguerli tra loro."
 faq:
   - q: "Il battito sparisce un minuto dopo l’avviamento: è normale?"
@@ -103,6 +103,6 @@ aspetti.
 
 Se il battito compare solo al primo avviamento della giornata, è difficile
 coglierlo in officina: quando si arriva il motore è già caldo. Registra il
-rumore con l’app Stuk la mattina, nei primi secondi dopo l’avviamento.
+rumore con l’app Pro-Stuk la mattina, nei primi secondi dopo l’avviamento.
 L’app confronta la registrazione con le risposte date e mostra le cause
 probabili in percentuale, dando al meccanico qualcosa su cui lavorare.

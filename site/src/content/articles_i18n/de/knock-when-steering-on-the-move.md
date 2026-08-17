@@ -1,6 +1,6 @@
 ---
 title: "Ein Klopfen beim Lenken während der Fahrt"
-metaTitle: "Klopfen beim Lenken in Fahrt: die Ursachen | Stuk"
+metaTitle: "Klopfen beim Lenken in Fahrt: die Ursachen | Pro-Stuk"
 description: "Was beim Lenken während der Fahrt klopft: Gleichlaufgelenk, Traggelenk, Federbeinlager oder Lenkgetriebe. Wie Sie die Ursachen am Klang trennen."
 faq:
   - q: "Sind Klacks in der Kurve unter Zug sicher das Gleichlaufgelenk?"

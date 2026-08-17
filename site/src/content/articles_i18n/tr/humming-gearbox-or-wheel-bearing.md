@@ -1,6 +1,6 @@
 ---
 title: "Uğultu: şanzıman mı teker rulmanı mı"
-metaTitle: "Hızda uğultu: şanzıman mı rulman mı | Stuk"
+metaTitle: "Hızda uğultu: şanzıman mı rulman mı | Pro-Stuk"
 description: "Hızdaki uğultu hem teker rulmanından hem şanzımandan gelir. Tek sürüşte ikisini ayıran üç test ve her cevabın onarım açısından anlamı."
 faq:
   - q: "Şanzıman uğultusunu rulman uğultusundan en hızlı nasıl ayırırım?"
@@ -92,6 +92,6 @@ somun yeni rulmanı birkaç bin kilometrede öldürür. Orada havalı tabanca
 yerine tork anahtarı kullanan bir servis doğru yapıyordur.
 
 Uğultu kısıksa ve serviste «duyamıyoruz» deniyorsa, üç testi sırayla
-yaparken Stuk uygulamasına kaydedin — boşta, farklı viteslerde ve şerit
+yaparken Pro-Stuk uygulamasına kaydedin — boşta, farklı viteslerde ve şerit
 değiştirirken. Uygulama kayıtları cevaplarınızla eşleştirir ve muhtemel
 sebepleri yüzdesiyle gösterir, böylece konuşma tahminle başlamaz.

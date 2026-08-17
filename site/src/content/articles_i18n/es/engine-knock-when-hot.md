@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo en el motor en caliente"
-metaTitle: "Golpeteo en el motor en caliente: causas y qué hacer | Stuk"
+metaTitle: "Golpeteo en el motor en caliente: causas y qué hacer | Pro-Stuk"
 description: "Por qué un motor empieza a golpear tras calentarse: aceite, taqués hidráulicos, casquillos o detonación. Cómo acotar la causa por el comportamiento del sonido."
 faq:
   - q: "¿Por qué el motor golpea solo después de calentarse?"
@@ -148,7 +148,7 @@ desglose general de los golpeteos de motor está en la página del síntoma
 [golpeteo en el motor](/es/symptoms/knocking-in-engine/).
 
 Si quiere algo concreto antes de ir al taller, grabe el sonido del motor
-caliente con la aplicación Stuk. Compara la grabación con golpeteos típicos,
+caliente con la aplicación Pro-Stuk. Compara la grabación con golpeteos típicos,
 hace unas cuantas preguntas de aclaración y muestra las causas probables con
 un nivel de urgencia: con esa lista la conversación con un mecánico va más
 rápida.

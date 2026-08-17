@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć z wyjącą pompą wody"
-metaTitle: "Czy można jeździć z wyjącą pompą wody? | Stuk"
+metaTitle: "Czy można jeździć z wyjącą pompą wody? | Pro-Stuk"
 description: "Wyjąca pompa wody to zużyte łożysko. Czym grozi przy napędzie paskiem rozrządu i paskiem osprzętu, jak ją sprawdzić w pięć minut i co dalej."
 faq:
   - q: "Ile przejadę z wyjącą pompą wody?"
@@ -100,6 +100,6 @@ którym drobna część ciągnie za sobą nieproporcjonalne skutki.
 
 Jeśli słyszy Pan wycie spod maski, ale nie potrafi rozstrzygnąć, czyje jest
 — pompy, alternatora czy rolki napinacza — proszę nagrać je w aplikacji
-Stuk na wolnych obrotach i przy dodaniu gazu. Aplikacja zestawi nagranie z
+Pro-Stuk na wolnych obrotach i przy dodaniu gazu. Aplikacja zestawi nagranie z
 odpowiedziami o silniku i pokaże prawdopodobne źródła z procentami, dzięki
 czemu warsztat od razu zajrzy we właściwe miejsce.

@@ -1,6 +1,6 @@
 ---
 title: "Un bruit qui n'apparaît qu'en charge, dans une côte"
-metaTitle: "Bruit uniquement en côte sous charge : causes | Stuk"
+metaTitle: "Bruit uniquement en côte sous charge : causes | Pro-Stuk"
 description: "Pourquoi un bruit parasite ne s'entend qu'en côte, pied dedans, quelles pièces se comportent ainsi et comment séparer la courroie du cardan et du cliquetis."
 faq:
   - q: "Pourquoi le bruit disparaît-il dès que je lève le pied ?"
@@ -103,7 +103,7 @@ silence, et aucun des deux n'apparaît lors d'un essai routier.
 
 Attraper un tel bruit avec un dictaphone est difficile : il ne vit qu'au
 moment de la charge maximale, quand vous êtes occupé à conduire.
-L'application Stuk enregistre en arrière-plan — lancez-la avant la côte,
+L'application Pro-Stuk enregistre en arrière-plan — lancez-la avant la côte,
 roulez la portion normalement et arrêtez-vous en haut. L'analyse de
 l'enregistrement, croisée avec vos réponses à quelques questions, montre
 quelle pièce se manifeste sous l'effort.

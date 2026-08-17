@@ -1,6 +1,6 @@
 ---
 title: "Il motore perde colpi e batte"
-metaTitle: "Motore che perde colpi e batte: cause e rimedi | Stuk"
+metaTitle: "Motore che perde colpi e batte: cause e rimedi | Pro-Stuk"
 description: "Il motore vibra, il minimo è instabile e si sente un battito: cause dalle candele alle rigature dei cilindri. Come trovare il cilindro morto e perché aspettare costa di più."
 faq:
   - q: "Posso guidare mentre il motore perde colpi?"
@@ -101,7 +101,7 @@ perdita di colpi significa semplicemente distruggere anche quello nuovo.
 Un'officina che propone il catalizzatore prima della cura della perdita di
 colpi ha sbagliato l'ordine.
 
-Per arrivare preparato, registri il motore in funzione nell'app Stuk: analizza
+Per arrivare preparato, registri il motore in funzione nell'app Pro-Stuk: analizza
 il suono, pone qualche domanda sulle condizioni e mostra le cause probabili con
 percentuali e livello di urgenza. Con quel quadro in anticipo è più facile
 tenere d'occhio sia la diagnosi sia il preventivo.

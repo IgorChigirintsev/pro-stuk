@@ -1,6 +1,6 @@
 ---
 title: "Colpo dello spinotto del pistone: come riconoscerlo"
-metaTitle: "Colpo dello spinotto: come riconoscerlo | Stuk"
+metaTitle: "Colpo dello spinotto: come riconoscerlo | Pro-Stuk"
 description: "Come suona il colpo degli spinotti, in cosa differisce da detonazione e rumore valvole, quali prove lo confermano e cosa comporta la riparazione."
 faq:
   - q: "Il «battito in testa» in accelerazione sono davvero gli spinotti?"
@@ -114,6 +114,6 @@ crescente e ogni chilometro sotto carico sposta la riparazione verso la
 versione più costosa.
 
 Se non siete sicuri della diagnosi, e con i colpi del motore non lo è mai
-nessuno, registrate il suono nell’app Stuk: confronta la registrazione con
+nessuno, registrate il suono nell’app Pro-Stuk: confronta la registrazione con
 le vostre risposte sulle condizioni e mostra le cause probabili in
 percentuale.

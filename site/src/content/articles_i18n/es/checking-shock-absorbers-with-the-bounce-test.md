@@ -1,6 +1,6 @@
 ---
 title: "Comprobar los amortiguadores con la prueba de rebote"
-metaTitle: "Prueba de rebote de amortiguadores, paso a paso | Stuk"
+metaTitle: "Prueba de rebote de amortiguadores, paso a paso | Pro-Stuk"
 description: "La prueba de rebote paso a paso: cómo empujar la carrocería, cómo contar los movimientos, qué no puede mostrar y cuándo hace falta un banco."
 faq:
   - q: "¿Hasta qué punto es fiable la prueba de rebote?"
@@ -139,6 +139,6 @@ mezclar un amortiguador duro de recambio en un eje con el original en el
 otro produce un coche que se comporta de forma distinta delante y detrás.
 
 Si la prueba de rebote dio una respuesta ambigua y hay un ruido en la
-suspensión difícil de describir, grábelo en marcha con la aplicación Stuk.
+suspensión difícil de describir, grábelo en marcha con la aplicación Pro-Stuk.
 La aplicación compara la grabación con sus respuestas y muestra las causas
 probables con un nivel de urgencia.

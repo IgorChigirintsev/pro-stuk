@@ -1,6 +1,6 @@
 ---
 title: "Ronzio comparso dopo il cambio gomme"
-metaTitle: "Ronzio dopo il cambio gomme: cosa controllare | Stuk"
+metaTitle: "Ronzio dopo il cambio gomme: cosa controllare | Pro-Stuk"
 description: "Un ronzio in velocità comparso dopo il cambio gomme. Quando la colpa è del battistrada, quando dell’equilibratura o della rotazione e quando le gomme sono innocenti."
 faq:
   - q: "Le gomme nuove ronzano sempre all’inizio?"
@@ -94,7 +94,7 @@ stanchi consumeranno allo stesso modo anche il treno nuovo.
 
 Se non si è sicuri che il suono sia cambiato dopo lo scambio delle ruote,
 meglio non fidarsi della memoria: un paio di decibel sono quasi
-impossibili da giudicare a orecchio. Si registra il ronzio nell’app Stuk
+impossibili da giudicare a orecchio. Si registra il ronzio nell’app Pro-Stuk
 prima e dopo lo scambio: l’app confronta le registrazioni con le risposte
 date e mostra le cause probabili in percentuale, così nessuno sostituisce
 le gomme dove la colpa è di un cuscinetto.

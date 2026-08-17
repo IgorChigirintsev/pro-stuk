@@ -1,6 +1,6 @@
 ---
 title: "Gorgoglio nel motore dopo lo spegnimento"
-metaTitle: "Gorgoglio nel motore dopo lo spegnimento | Stuk"
+metaTitle: "Gorgoglio nel motore dopo lo spegnimento | Pro-Stuk"
 description: "Gorgoglio dopo aver spento: quando è normale raffreddamento e quando è aria nel circuito, un tappo stanco o la guarnizione testata. Verifiche in cinque minuti."
 faq:
   - q: "Il gorgoglio dopo lo spegnimento significa sempre che qualcosa bolle?"
@@ -120,7 +120,7 @@ dopo un ciclo termico completo. L’aria rimasta dentro si manifesta
 esattamente con il gorgoglio con cui eravate arrivati.
 
 Se non siete sicuri che il vostro sia normale o no, registrate il suono
-dopo lo spegnimento nell’app Stuk: confronta la registrazione con le
+dopo lo spegnimento nell’app Pro-Stuk: confronta la registrazione con le
 vostre risposte, quando gorgoglia, se il liquido sparisce, se il
 riscaldamento funziona, e mostra le cause probabili con un livello di
 urgenza.

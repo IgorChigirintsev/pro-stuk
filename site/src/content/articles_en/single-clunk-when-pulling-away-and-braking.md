@@ -1,7 +1,7 @@
 ---
 ru: "odinochnyj-stuk-pri-troganii"
 title: "A single clunk when pulling away and braking"
-metaTitle: "Single clunk when pulling away and braking | Stuk"
+metaTitle: "Single clunk when pulling away and braking | Pro-Stuk"
 description: "Where a single clunk when moving off and stopping comes from: pads, calipers, engine mounts, propshaft. How to check it and how the repair is decided."
 pubDate: "2026-07-10"
 related:
@@ -107,7 +107,7 @@ is the profile of the symptom page
 [knocking in the suspension](/en/symptoms/knocking-in-suspension/).
 
 A single sound is hard to catch during a diagnosis — it is too short.
-Record it in the Stuk app right in the car: a few pull-aways and stops
+Record it in the Pro-Stuk app right in the car: a few pull-aways and stops
 give enough material, and the algorithm matches the recording with your
 answers and shows the likely causes with an urgency level before you even
 visit a workshop.

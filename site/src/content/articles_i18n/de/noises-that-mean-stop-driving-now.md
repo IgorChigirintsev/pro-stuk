@@ -1,6 +1,6 @@
 ---
 title: "Geräusche, bei denen man sofort anhalten muss"
-metaTitle: "Autogeräusche, bei denen man sofort anhält | Stuk"
+metaTitle: "Autogeräusche, bei denen man sofort anhält | Pro-Stuk"
 description: "Die meisten Autogeräusche können auf eine Werkstatt warten, ein paar heißen: sofort abstellen. Die Signale, wie man sicher anhält und was danach zu tun ist."
 faq:
   - q: "Woran erkenne ich, dass ein Geräusch sofortiges Anhalten bedeutet?"

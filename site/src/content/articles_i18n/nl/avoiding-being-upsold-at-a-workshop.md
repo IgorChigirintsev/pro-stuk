@@ -1,6 +1,6 @@
 ---
 title: "Hoe u zich bij een diagnose in de garage niets laat aanpraten"
-metaTitle: "Niets laten aanpraten in de garage | Stuk"
+metaTitle: "Niets laten aanpraten in de garage | Pro-Stuk"
 description: "Wat een eerlijke diagnose bevat, bij welke zinnen u een vraag moet stellen en hoe u een offerte controleert zonder verstand van auto's te hebben."
 faq:
   - q: "Is een gratis diagnose normaal?"

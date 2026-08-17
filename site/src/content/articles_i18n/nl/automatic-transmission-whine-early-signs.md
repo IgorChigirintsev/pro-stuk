@@ -1,6 +1,6 @@
 ---
 title: "Gejank uit de automaat: de eerste signalen"
-metaTitle: "Gejank uit de automaat: eerste signalen | Stuk"
+metaTitle: "Gejank uit de automaat: eerste signalen | Pro-Stuk"
 description: "Gejank uit een automatische bak in een vroeg stadium: hoe het klinkt, hoe het verschilt van wiellager- en bandengeluid en wat er als eerste wordt gecontroleerd."
 faq:
   - q: "Volgt het gejank van de bak de snelheid of het motortoerental?"

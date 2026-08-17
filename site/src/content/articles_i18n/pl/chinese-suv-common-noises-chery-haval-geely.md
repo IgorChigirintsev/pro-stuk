@@ -1,6 +1,6 @@
 ---
 title: "Chińskie SUV-y: typowe hałasy w Chery, Havalu i Geely"
-metaTitle: "Hałasy chińskich SUV-ów: Chery, Haval, Geely | Stuk"
+metaTitle: "Hałasy chińskich SUV-ów: Chery, Haval, Geely | Pro-Stuk"
 description: "Jakie hałasy pojawiają się najczęściej w chińskich SUV-ach w pierwszych latach, co za nimi stoi i od którego sprawdzenia warto zacząć."
 faq:
   - q: "Czy chińskie SUV-y hałasują bardziej niż inne?"
@@ -87,13 +87,13 @@ elementu, który później okaże się przypadkiem gwarancyjnym, zwykle zamyka
 drogę do reklamacji.
 
 Druga sprawa to, na jakim sprawdzeniu nalegać, zanim ktoś zacznie wymieniać
-części. Stuk na nierównościach diagnozuje się na podnośniku łomikiem, a nie
+części. Pro-Stuk na nierównościach diagnozuje się na podnośniku łomikiem, a nie
 zgadywaniem: mechanik obciąża każdy przegub i szuka ruchu. Jeśli proponują
 Panu zestaw części bez takiego sprawdzenia, warto zapytać, który przegub
 wykazał luz i jak to stwierdzono.
 
 Przed wizytą warto przyjechać z konkretami, a nie z „coś stuka”: przy jakiej
 prędkości, na jakiej nawierzchni, na zimnym czy rozgrzanym silniku. Dźwięk
-można nagrać i rozłożyć na warunki w aplikacji Stuk — zestawia nagranie z
+można nagrać i rozłożyć na warunki w aplikacji Pro-Stuk — zestawia nagranie z
 odpowiedziami na kilka pytań i pokazuje prawdopodobne przyczyny w procentach,
 co wyraźnie ułatwia rozmowę przy stanowisku obsługi.

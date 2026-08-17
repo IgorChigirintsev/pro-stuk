@@ -1,6 +1,6 @@
 ---
 title: "Un chuintement sous le capot après la coupure"
-metaTitle: "Chuintement sous le capot après la coupure : causes | Stuk"
+metaTitle: "Chuintement sous le capot après la coupure : causes | Pro-Stuk"
 description: "Un chuintement sous le capot moteur coupé peut être anodin ou sérieux. Distinguer un échappement qui refroidit d'une fuite de liquide ou d'air."
 faq:
   - q: "Un chuintement juste après la coupure est-il dangereux ?"
@@ -99,7 +99,7 @@ de fonctionnement du moteur est sur la page du symptôme
 
 Distinguer un relâchement de pression normal d'une fuite à l'oreille n'est
 pas simple : la différence n'est pas dans le timbre mais dans la durée et
-la répétition. Enregistrez le son dans l'application Stuk juste après la
+la répétition. Enregistrez le son dans l'application Pro-Stuk juste après la
 coupure — elle croise l'enregistrement avec vos réponses sur l'odeur, le
 niveau de liquide et la température et affiche les causes probables avec
 leurs pourcentages, pour que vous sachiez s'il faut y aller demain ou

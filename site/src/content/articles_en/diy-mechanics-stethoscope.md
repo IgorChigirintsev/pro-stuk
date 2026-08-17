@@ -1,7 +1,7 @@
 ---
 ru: "mehanicheskij-stetoskop-svoimi-rukami"
 title: "A mechanic's stethoscope you can make yourself"
-metaTitle: "DIY mechanic's stethoscope: how to make one | Stuk"
+metaTitle: "DIY mechanic's stethoscope: how to make one | Pro-Stuk"
 description: "How to build a car stethoscope from a screwdriver, a hose or a tube, where to listen on the engine and accessories, and the safety rules to follow."
 pubDate: "2026-06-19"
 related:
@@ -116,6 +116,6 @@ those are checked using the method in
 A bought stethoscope with a diaphragm is not expensive and hears more
 cleanly than a home-made one, but the home-made version still answers the
 main question: this unit or the one next to it. And so you do not have to
-rely on memory alone, start a recording in the Stuk app while you listen.
+rely on memory alone, start a recording in the Pro-Stuk app while you listen.
 The app matches the sound with your answers about the regime and the
 location and shows the likely causes with percentages.

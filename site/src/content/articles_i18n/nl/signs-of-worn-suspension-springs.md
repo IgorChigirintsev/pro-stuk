@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten veren in de ophanging"
-metaTitle: "Vermoeide veren: hoe u ze controleert | Stuk"
+metaTitle: "Vermoeide veren: hoe u ze controleert | Pro-Stuk"
 description: "Doorzakken, overhellen, doorslaan in kuilen: zo merkt u dat de veren van de ophanging vermoeid zijn, hoe u ze zonder brug controleert en wat vervanging inhoudt."
 faq:
   - q: "Kan ik één veer vervangen?"

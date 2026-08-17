@@ -1,6 +1,6 @@
 ---
 title: "Knistern beim Treten der Kupplung"
-metaTitle: "Knistern beim Treten der Kupplung: Ursachen | Stuk"
+metaTitle: "Knistern beim Treten der Kupplung: Ursachen | Pro-Stuk"
 description: "Knistern beim Durchtreten des Kupplungspedals kommt meist von Ausrückgabel, Führungshülse oder trockenem Lagerbock. Günstige Ursache oder Getriebe raus?"
 faq:
   - q: "Ist Knistern am Pedal das Ausrücklager?"

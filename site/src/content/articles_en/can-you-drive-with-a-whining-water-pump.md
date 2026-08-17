@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-s-gudyashchej-pompoj"
 title: "Can you drive with a whining water pump"
-metaTitle: "Can you drive with a whining water pump? | Stuk"
+metaTitle: "Can you drive with a whining water pump? | Pro-Stuk"
 description: "A whining water pump means a worn bearing. What it risks on timing-belt and belt-driven engines, how to check it in five minutes and how the repair is decided."
 pubDate: "2026-07-30"
 related:
@@ -110,7 +110,7 @@ The signs that mean switching the engine off on the spot are collected in
 [noises that mean stop driving now](/en/articles/noises-that-mean-stop-driving-now/).
 
 If you can hear a whine from under the bonnet but cannot tell whose it is —
-the pump, the alternator or a tensioner idler — record it in the Stuk app
+the pump, the alternator or a tensioner idler — record it in the Pro-Stuk app
 at idle and with the throttle blipped. The app matches the recording with
 your answers about the engine and shows the likely sources with
 percentages, so the workshop looks in the right place from the start.

@@ -1,6 +1,6 @@
 ---
 title: "Sinais de pinos-guia da pinça travados"
-metaTitle: "Pinos-guia da pinça travados: os sinais | Stuk"
+metaTitle: "Pinos-guia da pinça travados: os sinais | Pro-Stuk"
 description: "Uma roda quente, o carro puxando ao frear, pastilhas gastas de forma desigual: como reconhecer pinos-guia travados e o que a oficina faz nesse caso."
 faq:
   - q: "Como conferir rápido se uma pinça está travando?"
@@ -98,6 +98,6 @@ hábito se paga mais rápido — a corrosão do pino começa por uma coifa
 danificada, não por quilometragem.
 
 Se o carro parece não deslizar livremente e você ouve um som numa das
-rodas, grave-o no aplicativo Stuk de banguela e em frenagem leve. O
+rodas, grave-o no aplicativo Pro-Stuk de banguela e em frenagem leve. O
 aplicativo cruza a gravação com suas respostas sobre calor e puxada e
 sugere o que checar primeiro — o mecanismo de freio ou o trem de rodagem.

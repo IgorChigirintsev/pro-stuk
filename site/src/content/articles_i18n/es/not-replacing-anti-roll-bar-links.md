@@ -1,6 +1,6 @@
 ---
 title: "Qué pasa si nunca cambia las bieletas de la estabilizadora"
-metaTitle: "Bieletas gastadas: qué pasa si sigue circulando | Stuk"
+metaTitle: "Bieletas gastadas: qué pasa si sigue circulando | Pro-Stuk"
 description: "A dónde lleva circular con las bieletas gastadas: más balanceo, una bieleta partida, desgaste de piezas vecinas. Cuánto se puede alargar y por qué esperar sale caro."
 faq:
   - q: "¿Es peligroso circular con las bieletas golpeando?"
@@ -133,6 +133,6 @@ tacos del hombro se gastan antes. El efecto no es dramático, pero al lado
 del precio de un par de bieletas es un argumento más contra esperar.
 
 Si el golpe está ahí pero no tiene claro el diagnóstico, grabe el sonido
-en la aplicación Stuk. Cruza la grabación con sus respuestas sobre el
+en la aplicación Pro-Stuk. Cruza la grabación con sus respuestas sobre el
 carácter del golpe y muestra las causas probables con un nivel de
 urgencia: sabrá si esto es un par de bieletas barato o algo más serio.

@@ -1,9 +1,9 @@
 ---
-title: "Stuk na zimno w Škodzie Rapid i Octavii 1.4 TSI"
-metaTitle: "Stuk na zimno: Škoda Rapid i Octavia 1.4 TSI | Stuk"
+title: "Pro-Stuk na zimno w Škodzie Rapid i Octavii 1.4 TSI"
+metaTitle: "Pro-Stuk na zimno: Škoda Rapid i Octavia 1.4 TSI | Pro-Stuk"
 description: "Stuki na zimno w Škodzie Rapid i Octavii z silnikiem 1.4 TSI: łańcuch i napinacz, popychacze hydrauliczne, osprzęt. Jak je od siebie odróżnić."
 faq:
-  - q: "Stuk znika minutę po uruchomieniu — czy to normalne?"
+  - q: "Pro-Stuk znika minutę po uruchomieniu — czy to normalne?"
     a: "Niewielka zmiana dźwięku podczas nagrzewania jest naturalna: luzy w zimnym metalu są większe, a olej gęstszy. Niepokoić powinien trend. Jeśli silnik był cichy, a teraz konsekwentnie stuka przez pierwsze sekundy i dźwięk się wydłuża, to zużycie, a nie cecha konstrukcji."
   - q: "Czy pomoże gęstszy olej?"
     a: "Jako sposób na przytłumienie dźwięku czasem tak; jako rozwiązanie nie. Odejście od zalecanej lepkości zmienia tempo narastania ciśnienia i pracę elementów hydraulicznych, w tym napinacza łańcucha i popychaczy. To maskowanie problemu, nie jego usunięcie, czasem kosztem szybszego zużycia."
@@ -96,7 +96,7 @@ spokój, niż właściciel się spodziewa.
 
 Jeśli stuk pojawia się tylko przy pierwszym uruchomieniu w ciągu dnia,
 trudno go złapać w warsztacie — zanim tam dojedziesz, silnik jest ciepły.
-Nagraj dźwięk w aplikacji Stuk rano, w pierwszych sekundach po
+Nagraj dźwięk w aplikacji Pro-Stuk rano, w pierwszych sekundach po
 uruchomieniu. Aplikacja zestawia nagranie z Twoimi odpowiedziami i
 pokazuje prawdopodobne przyczyny z procentami, dając mechanikowi punkt
 zaczepienia.

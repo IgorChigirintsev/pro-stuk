@@ -1,6 +1,6 @@
 ---
 title: "Motor ısınınca geçen tıkırtı"
-metaTitle: "Isınınca geçen tıkırtı: ne anlama gelir | Stuk"
+metaTitle: "Isınınca geçen tıkırtı: ne anlama gelir | Pro-Stuk"
 description: "Motor soğukken neden tıkırdar ve ısınınca neden susar: hidrolik külbütörler, piston vuruntusu, zincir gergisi. Normal nerede biter."
 faq:
   - q: "Soğuk tıkırtı her zaman arıza mıdır?"
@@ -137,7 +137,7 @@ gerçekte ne ölçüldü — zincir uzaması, kam mili açı sapması, külbüt�
 boşluğu — ve yağ geçmişi bu aşınmayı açıklıyor mu. Çünkü aynı ihmal edilmiş
 yağ rejimiyle beslenen yeni bir parça takımı yine tiklemeye başlar.
 
-İyi bir alışkanlık, soğuk çalıştırmayı Stuk uygulamasında kaydetmek ve bir
+İyi bir alışkanlık, soğuk çalıştırmayı Pro-Stuk uygulamasında kaydetmek ve bir
 ay sonra kaydı tekrarlamaktır. Uygulama sesi tipik sebeplerle eşleştirir,
 olasılıkları ve aciliyeti gösterir; kayıtları karşılaştırmak da sorunun
 büyüyüp büyümediğini baskı olmadan ve fazladan servis turu gerektirmeden

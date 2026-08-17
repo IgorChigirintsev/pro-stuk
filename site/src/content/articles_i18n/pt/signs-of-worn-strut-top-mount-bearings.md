@@ -1,6 +1,6 @@
 ---
 title: "Sinais de rolamento do coxim do amortecedor gasto"
-metaTitle: "Rolamento do coxim gasto: sinais | Stuk"
+metaTitle: "Rolamento do coxim gasto: sinais | Pro-Stuk"
 description: "Estalos e batidas ao girar o volante, pancadas surdas em ondulações: como reconhecer o rolamento do coxim gasto e o que define o reparo."
 faq:
   - q: "Como sei que é o rolamento do coxim e não o amortecedor?"
@@ -130,6 +130,6 @@ coluna gira aos trancos, obrigando a forçar o volante. O reparo só fica
 mais caro, então não há sentido em esticar além de algumas semanas.
 
 Se alguma coisa estala ou bate lá em cima e o culpado não está óbvio, grave
-o som no aplicativo Stuk. Ele cruza a gravação com suas respostas e mostra
+o som no aplicativo Pro-Stuk. Ele cruza a gravação com suas respostas e mostra
 as causas prováveis com um grau de urgência, para a oficina checar peças
 específicas em vez de tudo de uma vez.

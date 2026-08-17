@@ -1,6 +1,6 @@
 ---
 title: "Rozpoznawanie zużycia klocków hamulcowych na słuch"
-metaTitle: "Objawy zużycia klocków hamulcowych na słuch | Stuk"
+metaTitle: "Objawy zużycia klocków hamulcowych na słuch | Pro-Stuk"
 description: "Jakie dźwięki wydają zużyte klocki hamulcowe: pisk czujnika zużycia, piszczenie, zgrzyt. Jak odróżnić je od buczenia łożyska koła i co sprawdzić."
 faq:
   - q: "Dlaczego pisk czujnika zużycia cichnie po naciśnięciu hamulca?"
@@ -128,6 +128,6 @@ oceniać wzrokiem, odpowiada na prawdziwe pytanie — czy tarcze mogą zostać,
 czy trzeba je wymienić razem z klockami.
 
 Jeśli dźwięku hamulców trudno przypisać do kategorii na słuch, proszę
-nagrać go w aplikacji Stuk podczas powolnej jazdy z kilkoma lekkimi
+nagrać go w aplikacji Pro-Stuk podczas powolnej jazdy z kilkoma lekkimi
 hamowaniami. Aplikacja zestawi nagranie z Pana odpowiedziami i pokaże
 prawdopodobne przyczyny z procentami oraz stopniem pilności.

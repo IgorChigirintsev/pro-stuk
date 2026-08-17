@@ -1,6 +1,6 @@
 ---
 title: "Cykanie silnika na biegu jałowym"
-metaTitle: "Cykanie silnika na biegu jałowym: przyczyny | Stuk"
+metaTitle: "Cykanie silnika na biegu jałowym: przyczyny | Pro-Stuk"
 description: "Dlaczego silnik cyka na biegu jałowym: zawory, popychacze hydrauliczne, wtryskiwacze, łańcuch rozrządu. Jak odróżnić cykanie nieszkodliwe od groźnego."
 faq:
   - q: "Czy cykanie na biegu jałowym zawsze oznacza usterkę?"
@@ -135,7 +135,7 @@ olejowy, który doprowadził do zużycia: świeże części karmione tym samym
 zaniedbanym olejem zaczną cykać w ciągu roku.
 
 Jeżeli przed umawianiem czegokolwiek warto wiedzieć, w którą stronę
-patrzeć, proszę nagrać cykanie w aplikacji Stuk. Zestawia ona dźwięk z
+patrzeć, proszę nagrać cykanie w aplikacji Pro-Stuk. Zestawia ona dźwięk z
 odpowiedziami na kilka pytań o warunki i pokazuje prawdopodobne przyczyny
 z procentami: z taką listą łatwiej i wybrać warsztat, i ocenić rozsądność
 podanej ceny.

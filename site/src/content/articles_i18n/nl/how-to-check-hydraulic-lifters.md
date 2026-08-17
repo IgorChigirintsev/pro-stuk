@@ -1,6 +1,6 @@
 ---
 title: "Hydraulische klepstoters controleren"
-metaTitle: "Hydraulische klepstoters op gehoor checken | Stuk"
+metaTitle: "Hydraulische klepstoters op gehoor checken | Pro-Stuk"
 description: "Hoe u vaststelt dat de hydraulische klepstoters het getik veroorzaken: koude en warme test, verschil met klepspeling en verstuivers, en wat u eraan doet."
 faq:
   - q: "Het getik verdwijnt na het opwarmen. Is dat normaal?"

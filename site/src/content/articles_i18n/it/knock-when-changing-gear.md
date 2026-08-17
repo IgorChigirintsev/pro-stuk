@@ -1,6 +1,6 @@
 ---
 title: "Colpo al cambio marcia"
-metaTitle: "Colpo quando si cambia marcia: le cause | Stuk"
+metaTitle: "Colpo quando si cambia marcia: le cause | Pro-Stuk"
 description: "Il colpo nel momento del cambio marcia nasce da giochi nel comando, supporti motore consumati e snodi dei semiassi. Come separare le cause."
 faq:
   - q: "Un colpo al cambio marcia è sempre il cambio?"
@@ -98,7 +98,7 @@ un motivo noto per cui un supporto nuovo si strappa di nuovo nel giro di
 pochi mesi.
 
 Se il colpo è ancora saltuario e non sa dire se arrivi da sotto il cofano o
-da sotto il pianale, lo registri con l'app Stuk durante un colpo di gas e
+da sotto il pianale, lo registri con l'app Pro-Stuk durante un colpo di gas e
 in partenza. L'app confronta la registrazione con le sue risposte e mostra
 le cause probabili con le percentuali, il che accorcia parecchio la
 conversazione in officina.

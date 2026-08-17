@@ -1,6 +1,6 @@
 ---
 title: "Ritorni di fiamma all'aspirazione: le cause"
-metaTitle: "Ritorni di fiamma all'aspirazione: cause | Stuk"
+metaTitle: "Ritorni di fiamma all'aspirazione: cause | Pro-Stuk"
 description: "Scoppi nel collettore di aspirazione: miscela magra, mancate accensioni, fasatura sballata. Come trovare la causa e in cosa differiscono dagli scoppi allo scarico."
 faq:
   - q: "I ritorni di fiamma all'aspirazione sono pericolosi?"
@@ -103,7 +103,7 @@ girare stabilmente magri surriscalda valvole e pistoni. Uno scoppio in sé
 non è una catastrofe, ma su un motore sano non compare.
 
 Se gli scoppi sono rari e difficili da mostrare al meccanico, avvia una
-registrazione con l'app Stuk al prossimo avviamento a freddo o alla
+registrazione con l'app Pro-Stuk al prossimo avviamento a freddo o alla
 prossima accelerata: cattura il suono, lo confronta con le tue risposte e
 mostra le cause probabili con il livello di urgenza, così arrivi in
 officina con dati concreti.

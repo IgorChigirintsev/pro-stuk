@@ -1,6 +1,6 @@
 ---
 title: "Barulho de borbulha no motor depois de desligar"
-metaTitle: "Borbulha no motor depois de desligar: causas | Stuk"
+metaTitle: "Borbulha no motor depois de desligar: causas | Pro-Stuk"
 description: "Borbulha depois de desligar: quando é resfriamento normal e quando é ar no sistema, tampa cansada ou junta do cabeçote. Checagens de cinco minutos."
 faq:
   - q: "Borbulha depois de desligar sempre significa que algo está fervendo?"
@@ -119,6 +119,6 @@ depois de passar por um ciclo térmico completo. O ar que ficou para trás
 se manifesta exatamente como a borbulha com que você chegou.
 
 Se você não sabe se a sua é normal ou não, grave o som depois de desligar
-no aplicativo Stuk: ele cruza a gravação com suas respostas — quando
+no aplicativo Pro-Stuk: ele cruza a gravação com suas respostas — quando
 borbulha, se o líquido some, se a calefação funciona — e mostra as causas
 prováveis com um nível de urgência.

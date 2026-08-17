@@ -1,7 +1,7 @@
 ---
 ru: "lyazg-pod-mashinoj-na-nerovnostyah"
 title: "Metallic clatter under the car over bumps"
-metaTitle: "Metallic clatter under the car over bumps | Stuk"
+metaTitle: "Metallic clatter under the car over bumps | Pro-Stuk"
 description: "Metallic clatter from underneath on bumps: undertray, heat shields, exhaust or anti-roll bar links. How to find the source in five minutes."
 pubDate: "2026-07-12"
 related:
@@ -112,7 +112,7 @@ not leaving: a loose undertray can tear off at speed, and a swinging
 silencer pulls off its remaining hangers and hangs on the pipe.
 
 Not sure whether it is a clatter or a knock? Record the sound on a
-representative stretch in the Stuk app — the algorithm matches the
+representative stretch in the Pro-Stuk app — the algorithm matches the
 recording with your answers and shows the likely sources with an urgency
 level. Often the result already shows it is the undertray, and you can
 drive to the workshop without worrying.

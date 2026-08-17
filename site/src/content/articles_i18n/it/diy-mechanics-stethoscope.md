@@ -1,6 +1,6 @@
 ---
 title: "Uno stetoscopio da meccanico costruito in casa"
-metaTitle: "Stetoscopio da meccanico fai da te | Stuk"
+metaTitle: "Stetoscopio da meccanico fai da te | Pro-Stuk"
 description: "Come costruire uno stetoscopio per auto da un cacciavite, un tubetto o un flessibile, dove ascoltare sul motore e quali regole di sicurezza seguire."
 faq:
   - q: "Un cacciavite funziona davvero al posto di uno stetoscopio?"
@@ -114,5 +114,5 @@ Uno stetoscopio acquistato con membrana non costa molto e sente in modo
 più pulito di uno artigianale, ma la versione fatta in casa risponde
 comunque alla domanda principale: questo organo o quello accanto. E per
 non doversi affidare alla sola memoria, avvii una registrazione con l'app
-Stuk mentre ascolta. L'app confronta il suono con le sue risposte sul
+Pro-Stuk mentre ascolta. L'app confronta il suono con le sue risposte sul
 regime e sulla posizione e mostra le cause probabili in percentuale.

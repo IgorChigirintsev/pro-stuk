@@ -1,7 +1,7 @@
 ---
 ru: "kak-ponyat-otkuda-gul-speredi-ili-szadi"
 title: "Working out where a hum comes from: front or rear"
-metaTitle: "Where is the hum from: front or rear axle | Stuk"
+metaTitle: "Where is the hum from: front or rear axle | Pro-Stuk"
 description: "Simple tests that identify the axle and the side a hum comes from: lane changes, coasting, swapping wheels and a drive with a passenger."
 pubDate: "2026-06-20"
 related:
@@ -96,6 +96,6 @@ wear — alignment or tired dampers — because a new set on an unfixed car
 wears the same way.
 
 The easiest approach is to run all four tests with a recording going in
-the Stuk app: you answer questions about speed, side and the reaction to
+the Pro-Stuk app: you answer questions about speed, side and the reaction to
 coasting, and the app matches them against the sound and shows the likely
 causes with percentages, along with which wheel to check first.

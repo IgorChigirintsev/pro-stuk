@@ -1,7 +1,7 @@
 ---
 ru: "chto-budet-esli-ne-menyat-stoyki-stabilizatora"
 title: "What happens if you never replace anti-roll bar links"
-metaTitle: "Worn anti-roll bar links: what driving on does | Stuk"
+metaTitle: "Worn anti-roll bar links: what driving on does | Pro-Stuk"
 description: "Where driving on worn anti-roll bar links leads: more body roll, a snapped link, wear on neighbouring parts. How long you can leave it and why waiting costs more."
 pubDate: "2026-08-02"
 related:
@@ -133,7 +133,7 @@ the tread wear faster. The effect is not dramatic, but next to the price
 of a pair of links it is one more argument against waiting.
 
 If the knock is there but you are not sure of the diagnosis, record the
-sound in the Stuk app. It matches the recording against your answers
+sound in the Pro-Stuk app. It matches the recording against your answers
 about the character of the knock and shows the likely causes with an
 urgency rating: you will know whether this is a cheap pair of links or
 something more serious.

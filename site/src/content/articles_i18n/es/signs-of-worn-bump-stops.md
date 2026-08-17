@@ -1,6 +1,6 @@
 ---
 title: "Señales de topes de suspensión gastados"
-metaTitle: "Topes de suspensión gastados: señales | Stuk"
+metaTitle: "Topes de suspensión gastados: señales | Pro-Stuk"
 description: "Golpes sordos en los baches, migas en la torreta y una suspensión que hace tope: cómo reconocer los topes gastados y por qué se cambian con los amortiguadores."
 faq:
   - q: "¿Qué es un tope de suspensión y para qué sirve?"
@@ -128,7 +128,7 @@ en una temporada. Los kits de los grandes fabricantes de amortiguadores
 incluyen tope y fuelle con la geometría correcta.
 
 ¿No tiene claro que esos golpes sordos en los baches sean realmente los
-topes? Grabe el sonido con la aplicación Stuk: compara la grabación con sus
+topes? Grabe el sonido con la aplicación Pro-Stuk: compara la grabación con sus
 respuestas sobre cómo se comporta el coche y muestra las causas probables
 con porcentajes y un nivel de urgencia, de forma que llegue al taller con
 una hipótesis de trabajo.

@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een versleten binnenste homokineet"
-metaTitle: "Versleten binnenste homokineet herkennen | Stuk"
+metaTitle: "Versleten binnenste homokineet herkennen | Pro-Stuk"
 description: "Een binnenste homokineet klikt niet in bochten — hij klopt bij het accelereren en trilt. Zijn kenmerken, het verschil met de buitenste en de reparatie."
 faq:
   - q: "Hoe verschilt een binnenste homokineet qua geluid van een buitenste?"

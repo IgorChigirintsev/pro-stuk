@@ -1,6 +1,6 @@
 ---
 title: "Klop na het vervangen van de schokdempers"
-metaTitle: "Klop na het vervangen van schokdempers: oorzaken | Stuk"
+metaTitle: "Klop na het vervangen van schokdempers: oorzaken | Pro-Stuk"
 description: "Waarom er na nieuwe schokdempers een klop is: fouten met aanhaalmomenten, oude steunlagers en stuitrubbers, een ondeugdelijk onderdeel."
 faq:
   - q: "Kan een klop van nieuwe schokdempers eruit rijden?"

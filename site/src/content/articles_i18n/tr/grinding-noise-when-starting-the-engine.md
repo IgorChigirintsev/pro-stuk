@@ -1,6 +1,6 @@
 ---
 title: "Motoru çalıştırırken duyulan metalik sürtme sesi"
-metaTitle: "Çalıştırırken gıcırtı: marş, volan dişlisi, zincir | Stuk"
+metaTitle: "Çalıştırırken gıcırtı: marş, volan dişlisi, zincir | Pro-Stuk"
 description: "Motoru çalıştırırken duyulan metalik sürtme sesi: marş dişlisi, volan dişli tacı, triger zinciri. Sesin çıktığı ana göre kaynak nasıl bulunur."
 faq:
   - q: "Neden bu ses her çalıştırmada duyulmuyor?"
@@ -116,7 +116,7 @@ güç ve birçok motorda supapların pistonla buluşma riski demektir. Her iki
 senaryo da haftalar ve aylar içinde gelişir, ikisini de başlangıçta
 durdurmak çok daha ucuzdur.
 
-Sesin hangi ana ait olduğundan emin değilseniz çalıştırma anını Stuk
+Sesin hangi ana ait olduğundan emin değilseniz çalıştırma anını Pro-Stuk
 uygulamasına kaydedin: algoritma sesi verdiğiniz cevaplarla eşleştirir ve
 muhtemel sebepleri aciliyet seviyesiyle gösterir — böylece servise tahminle
 değil, çalışan bir teoriyle gidersiniz.

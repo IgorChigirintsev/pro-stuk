@@ -1,7 +1,7 @@
 ---
 ru: "gluhoj-stuk-speredi-pri-proezde-yam"
 title: "A dull knock from the front over potholes"
-metaTitle: "Dull knock from the front over potholes: causes | Stuk"
+metaTitle: "Dull knock from the front over potholes: causes | Pro-Stuk"
 description: "What a dull knock from the front over potholes means: which suspension parts sound like that, how to separate the dangerous causes from the tolerable ones."
 pubDate: "2026-07-10"
 related:
@@ -102,7 +102,7 @@ optional — those parts set the geometry, and skipping it shows up as tyres
 worn out within a few thousand kilometres.
 
 Not sure which scenario is yours? Record the knock on a rough stretch in
-the Stuk app: it matches the sound against your answers to a few
+the Pro-Stuk app: it matches the sound against your answers to a few
 clarifying questions and shows the likely causes with an urgency level —
 which makes it easier to decide between going tomorrow and planning the
 visit calmly.

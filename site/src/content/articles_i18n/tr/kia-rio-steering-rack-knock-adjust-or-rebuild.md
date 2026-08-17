@@ -1,6 +1,6 @@
 ---
 title: "Kia Rio direksiyon kutusu tıkırtısı: ayar mı revizyon mu"
-metaTitle: "Kia Rio direksiyon kutusu tıkırtısı: ayar mı | Stuk"
+metaTitle: "Kia Rio direksiyon kutusu tıkırtısı: ayar mı | Pro-Stuk"
 description: "Kia Rio direksiyon kutusu küçük tümseklerde tıkırdıyorsa: sebebi ne, viraj demiri rotundan nasıl ayrılır ve ne zaman ayar yeterli olur."
 faq:
   - q: "Kia Rio'da direksiyon kutusu tıkırtısı tehlikeli mi?"
@@ -97,7 +97,7 @@ değil, revizyondur. Ve arkasından rot balans yapılıp yapılmayacağı; rot
 uçlarına dokunan her iş toe açısını değiştirir.
 
 Ne tıkırdadığından emin değilseniz — kutu mu, viraj demiri rotları mı,
-rot başları mı — sesi Stuk uygulamasında ince bir tümsekten geçerken
+rot başları mı — sesi Pro-Stuk uygulamasında ince bir tümsekten geçerken
 kaydedin, sonra araç dururken direksiyonu silkeleyerek kaydı tekrarlayın.
 Uygulama kayıtları verdiğiniz cevaplarla eşleştirip olası sebepleri
 yüzdeyle gösterir, servise elinizde bir hipotezle gidersiniz.

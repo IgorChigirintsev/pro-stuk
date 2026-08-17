@@ -1,6 +1,6 @@
 ---
 title: "Ford Focus debriyaj çatalı takırtısı"
-metaTitle: "Ford Focus debriyaj çatalı takırtısı: sebep ve onarım | Stuk"
+metaTitle: "Ford Focus debriyaj çatalı takırtısı: sebep ve onarım | Pro-Stuk"
 description: "Focus'ta debriyaj pedalına basınca gelen tık ve takırtı: çatalı ve debriyaj bilyasını nasıl kontrol edersiniz, serviste ne yapılır."
 faq:
   - q: "Takırtı yalnızca pedalı çalıştırırken duyuluyor — kesin debriyaj mı?"
@@ -103,7 +103,7 @@ yazısında, gaz alıp verirken gelen tok darbe ise
 yazısında.
 
 Takırtı hâlâ ara sıra çıkıyorsa ve şanzımanın inmesi gerekip gerekmediğini
-bilmek istiyorsanız, motor çalışırken pedalı yavaşça basarken Stuk
+bilmek istiyorsanız, motor çalışırken pedalı yavaşça basarken Pro-Stuk
 uygulamasıyla kaydedin. Uygulama kaydı birkaç soruya verdiğiniz cevaplarla
 eşleştirir ve olası sebepleri yüzdeyle gösterir — ustaya somut bir soruyla
 gitmenize yeter.

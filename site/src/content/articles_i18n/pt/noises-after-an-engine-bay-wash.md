@@ -1,6 +1,6 @@
 ---
 title: "Barulhos depois de lavar o cofre do motor"
-metaTitle: "Barulhos depois de lavar o motor: por quê | Stuk"
+metaTitle: "Barulhos depois de lavar o motor: por quê | Pro-Stuk"
 description: "Chiado, chocalho ou motor tremendo em marcha lenta depois de lavar o motor. Quais ruídos somem sozinhos em dois dias e quais indicam peça encharcada."
 faq:
   - q: "Quanto tempo dura o chiado da correia depois da lavagem?"
@@ -94,6 +94,6 @@ a maior parte dos cenários descritos aqui.
 
 O mais difícil é perceber se o barulho está realmente enfraquecendo. A
 audição guarda mal o volume, mas capta bem diferenças em comparação direta.
-Grave a partida da manhã no aplicativo Stuk no primeiro dia e repita no
+Grave a partida da manhã no aplicativo Pro-Stuk no primeiro dia e repita no
 terceiro: o aplicativo compara as gravações com as suas respostas e mostra se
 a coisa está voltando ao normal ou se é hora de marcar um diagnóstico.

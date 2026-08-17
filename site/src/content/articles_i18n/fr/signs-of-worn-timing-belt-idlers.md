@@ -1,6 +1,6 @@
 ---
 title: "Signes d'usure des galets de distribution"
-metaTitle: "Galets de distribution usés : bruit et repérage | Stuk"
+metaTitle: "Galets de distribution usés : bruit et repérage | Pro-Stuk"
 description: "Le bruit des galets de distribution usés : frottement, sifflement et ronflement derrière le carter. Ce que risque un galet grippé et comment le distinguer des accessoires."
 faq:
   - q: "Peut-on changer un seul galet sans toucher à la courroie ?"
@@ -116,6 +116,6 @@ et un galet neuf au même endroit s'usera pareil.
 
 Si un sifflement ou un bruissement s'entend à l'avant du moteur et qu'on ne
 sait pas s'il vient des galets, de l'alternateur ou de la pompe, enregistrez
-le bruit dans l'application Stuk : elle compare l'enregistrement avec les
+le bruit dans l'application Pro-Stuk : elle compare l'enregistrement avec les
 bruits typiques de panne et suggère la source probable ainsi que le degré
 d'urgence d'un passage au garage.

@@ -1,7 +1,7 @@
 ---
 ru: "stuk-na-holodnuyu-tsep-ili-fazovrashchateli"
 title: "Cold knock: timing chain or cam phasers"
-metaTitle: "Cold knock: timing chain or cam phasers | Stuk"
+metaTitle: "Cold knock: timing chain or cam phasers | Pro-Stuk"
 description: "A rattle in the first seconds after a cold start comes from both a stretched timing chain and the cam phasers. How to tell them apart by duration."
 pubDate: "2026-06-12"
 related:
@@ -99,7 +99,7 @@ blocked screen rattles exactly like a worn one, and cleaning costs a
 fraction of the part.
 
 If you are unsure whether your sound is within normal, record the cold
-start in the Stuk app on several consecutive days. The app breaks the
+start in the Pro-Stuk app on several consecutive days. The app breaks the
 recording down by character and duration and shows the likely causes with
 percentages — and comparing the recordings with each other shows by itself
 whether the sound is stable or growing.

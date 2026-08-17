@@ -1,6 +1,6 @@
 ---
 title: "Rayaduras en los cilindros de Hyundai y Kia: cómo suenan"
-metaTitle: "Rayaduras en cilindros Hyundai/Kia: cómo suenan | Stuk"
+metaTitle: "Rayaduras en cilindros Hyundai/Kia: cómo suenan | Pro-Stuk"
 description: "Cómo reconocer de oído las rayaduras en los cilindros en motores Hyundai y Kia: el carácter del golpe, su relación con el calentamiento y la carga, y cómo se confirma."
 faq:
   - q: "¿Las rayaduras golpean en frío o en caliente?"
@@ -104,7 +104,7 @@ veredicto verbal: la diferencia entre unas marcas de bruñido ligeras y unos
 surcos profundos es lo que decide entre vigilar y abrir el motor, y se ve en
 una imagen.
 
-El primer paso resulta cómodo con la aplicación Stuk: grabe el sonido con el
+El primer paso resulta cómodo con la aplicación Pro-Stuk: grabe el sonido con el
 motor frío y con el motor caliente, anote si cambia con la carga y responda a
 las preguntas sobre los rellenos de aceite. La aplicación muestra las causas
 probables con porcentajes y sugiere qué mediciones merece la pena pedir

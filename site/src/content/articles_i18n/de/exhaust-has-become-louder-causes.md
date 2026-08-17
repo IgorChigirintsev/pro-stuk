@@ -1,6 +1,6 @@
 ---
 title: "Der Auspuff ist lauter geworden: die Ursachen"
-metaTitle: "Auspuff lauter geworden: Ursachen und Abhilfe | Stuk"
+metaTitle: "Auspuff lauter geworden: Ursachen und Abhilfe | Pro-Stuk"
 description: "Durchgerosteter Schalldämpfer, gerissenes Flexrohr, Verbindungen und Dichtungen: warum der Auspuff lauter wurde und wie die Reparatur entschieden wird."
 faq:
   - q: "Warum rosten Schalldämpfer von innen durch?"

@@ -1,6 +1,6 @@
 ---
 title: "Czym naprawdę grozi urwany sworzeń wahacza"
-metaTitle: "Urwany sworzeń wahacza: co dzieje się z autem | Stuk"
+metaTitle: "Urwany sworzeń wahacza: co dzieje się z autem | Pro-Stuk"
 description: "Co dzieje się fizycznie, gdy sworzeń wahacza wyrywa się z gniazda, jakie odgłosy ostrzegają tygodnie wcześniej i jak ocenić, czy wolno jeszcze jechać."
 faq:
   - q: "Co dzieje się z samochodem, gdy sworzeń wahacza puści?"
@@ -92,7 +92,7 @@ sworznia zmienia ustawienia, a rezygnacja z geometrii daje o sobie znać
 nierównomiernym, szybkim zużyciem opon w ciągu kilku tysięcy kilometrów.
 
 Jeśli na nierównościach pojawiło się pojedyncze głuche kliknięcie i nie
-wiadomo, jak jest pilne, proszę nagrać w aplikacji Stuk przejazd znajomym
+wiadomo, jak jest pilne, proszę nagrać w aplikacji Pro-Stuk przejazd znajomym
 nierównym odcinkiem. Aplikacja zestawi charakter uderzenia z Pana
 odpowiedziami o prędkości i zachowaniu kierownicy, pokaże prawdopodobne
 przyczyny z procentami i powie, czy jazda o własnych siłach jest rozsądna.

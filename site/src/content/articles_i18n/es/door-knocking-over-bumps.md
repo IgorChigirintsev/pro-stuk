@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo en la puerta al pasar baches"
-metaTitle: "Golpeteo en la puerta al pasar baches: qué mirar | Stuk"
+metaTitle: "Golpeteo en la puerta al pasar baches: qué mirar | Pro-Stuk"
 description: "La puerta golpea al pasar baches: el elevalunas, el retenedor, la cerradura, o al final la suspensión. Cómo localizarlo en un solo trayecto."
 faq:
   - q: "¿Por qué el golpeteo de la puerta para si bajo un poco la ventanilla?"
@@ -106,7 +106,7 @@ circular se explica en
 [¿se puede circular con la caja de cambios zumbando?](/es/articles/can-you-drive-with-a-whining-gearbox/).
 
 La forma más fácil de resolver este tipo de golpeteo es comparando dos
-grabaciones. Empiece a grabar con la aplicación Stuk y pase por un tramo malo
+grabaciones. Empiece a grabar con la aplicación Pro-Stuk y pase por un tramo malo
 que conozca, primero con la ventanilla cerrada y después con ella un poco
 bajada. La aplicación compara las grabaciones con sus respuestas a unas cuantas
 preguntas y muestra qué es más probable: la puerta, la carrocería o la

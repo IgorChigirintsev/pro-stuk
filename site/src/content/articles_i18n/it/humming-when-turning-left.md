@@ -1,6 +1,6 @@
 ---
 title: "Ronzio quando si curva a sinistra"
-metaTitle: "Ronzio in curva a sinistra: quale cuscinetto | Stuk"
+metaTitle: "Ronzio in curva a sinistra: quale cuscinetto | Pro-Stuk"
 description: "Un ronzio in curva a sinistra indica di solito il cuscinetto ruota destro consumato. Perché è così, come confermarlo in un giro e quanto urge sostituirlo."
 faq:
   - q: "Ronzio curvando a sinistra: quale cuscinetto si sostituisce?"
@@ -104,7 +104,7 @@ Chiudere la questione nelle prime settimane costa meno e fa dormire
 meglio.
 
 Se il ronzio è ancora sommesso e si vuole essere sicuri di non
-immaginarselo, si registra il suono nell’app Stuk durante la prova del
+immaginarselo, si registra il suono nell’app Pro-Stuk durante la prova del
 cambio di corsia. L’app confronta la registrazione con le risposte date e
 mostra le cause probabili in percentuale, suggerendo anche da quale lato
 iniziare.

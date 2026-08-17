@@ -1,7 +1,7 @@
 ---
 ru: "shchelchok-zadnim-hodom"
 title: "A click when you start reversing"
-metaTitle: "A click when moving off in reverse: causes | Stuk"
+metaTitle: "A click when moving off in reverse: causes | Pro-Stuk"
 description: "One dry click as you pull away in reverse is almost always play being taken up. Where it accumulates: pads, joints, universal joint, engine mounts."
 pubDate: "2026-07-26"
 related:
@@ -106,6 +106,6 @@ that the brake side is ruled out first, because it is the cheapest and
 most common answer.
 
 If you want to narrow the list before the workshop visit, record the sound
-in the Stuk app during a reverse start: the app matches the recording with
+in the Pro-Stuk app during a reverse start: the app matches the recording with
 your answers to a few questions and shows the likely causes with
 percentages.

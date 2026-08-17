@@ -1,6 +1,6 @@
 ---
 title: "Szum na trasie, którego nie ma w mieście"
-metaTitle: "Szum na trasie, którego nie ma w mieście | Stuk"
+metaTitle: "Szum na trasie, którego nie ma w mieście | Pro-Stuk"
 description: "Dlaczego szum słychać dopiero powyżej 80 km/h, a w mieście znika: łożyska kół, opony, aerodynamika i kolejność sprawdzeń do zrobienia samemu."
 faq:
   - q: "Dlaczego w mieście szumu nie ma, a na trasie jest aż nadto?"
@@ -98,7 +98,7 @@ ciągu kilku tysięcy kilometrów, więc chcesz zobaczyć klucz dynamometryczny,
 a nie klucz udarowy.
 
 Główna trudność z takim szumem polega na tym, że nie da się go pokazać
-mechanikowi: istnieje tylko na trasie. Nagraj go w aplikacji Stuk podczas
+mechanikowi: istnieje tylko na trasie. Nagraj go w aplikacji Pro-Stuk podczas
 jazdy z prędkością, przy której się odzywa, oraz przy zmianach pasa —
 aplikacja zestawia nagranie z odpowiedziami i pokazuje prawdopodobne
 przyczyny w procentach, a samo nagranie można po prostu odtworzyć

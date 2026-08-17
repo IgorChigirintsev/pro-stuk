@@ -1,6 +1,6 @@
 ---
 title: "Une rotule de suspension arrachée : à quel point c'est dangereux"
-metaTitle: "Rotule de suspension arrachée : ce qui arrive | Stuk"
+metaTitle: "Rotule de suspension arrachée : ce qui arrive | Pro-Stuk"
 description: "Ce qui se passe physiquement quand une rotule de suspension sort de son logement, quels bruits préviennent des semaines avant, et si vous pouvez encore rouler."
 faq:
   - q: "Que devient la voiture quand une rotule de suspension lâche ?"
@@ -101,7 +101,7 @@ quelques milliers de kilomètres.
 
 Si un claquement sourd isolé est apparu sur les bosses et que vous ne
 savez pas à quel point c'est urgent, enregistrez un passage sur un
-tronçon dégradé que vous connaissez dans l'application Stuk. Elle
+tronçon dégradé que vous connaissez dans l'application Pro-Stuk. Elle
 recoupe le caractère du choc avec vos réponses sur la vitesse et le
 comportement du volant, affiche les causes probables avec des
 pourcentages et vous dit si y aller par vos propres moyens est

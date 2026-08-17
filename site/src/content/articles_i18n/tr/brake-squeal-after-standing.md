@@ -1,6 +1,6 @@
 ---
 title: "Bekledikten sonra fren ıslığı: normal mi değil mi"
-metaTitle: "Bekledikten sonra fren ıslığı normal mi | Stuk"
+metaTitle: "Bekledikten sonra fren ıslığı normal mi | Pro-Stuk"
 description: "Dışarıda geçen bir geceden sonraki sabah fren ıslığı genelde diskteki pas filmidir. Gerçek aşınmadan nasıl ayrılır ve ne zaman servise gitmeli."
 faq:
   - q: "Frenler neden sadece sabahları ötüyor?"
@@ -93,7 +93,7 @@ karar verir.
 
 «Normal sabah ıslığı» ile «servis vakti» arasındaki sınır sesin
 karakterinden geçer ve bu tonlar akılda kötü kalır: bir ay sonra aynı mı
-yoksa biraz daha sert mi öttüğünü söylemek zordur. Bugün Stuk
+yoksa biraz daha sert mi öttüğünü söylemek zordur. Bugün Pro-Stuk
 uygulamasında yapılan ve birkaç hafta sonra tekrarlanan bir kayıt bu farkı
 nesnel olarak gösterir — olası nedenler listesi ve teşhisi ne kadar acil
 yaptırmak gerektiğinin değerlendirmesiyle birlikte.

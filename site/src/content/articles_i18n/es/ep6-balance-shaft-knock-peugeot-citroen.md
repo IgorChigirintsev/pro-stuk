@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de los «árboles de equilibrado» del EP6 en Peugeot y Citroën"
-metaTitle: "Golpeteo de «árboles de equilibrado» EP6: qué suena | Stuk"
+metaTitle: "Golpeteo de «árboles de equilibrado» EP6: qué suena | Pro-Stuk"
 description: "Qué golpea realmente en un motor EP6 cuando se habla de árboles de equilibrado: la cadena, el tensor, los variadores y el aceite. Las comprobaciones."
 faq:
   - q: "¿El EP6 lleva árboles de equilibrado?"
@@ -111,7 +111,7 @@ primer lugar, y un actuador nuevo alimentado a través de un filtro obstruido
 se comporta exactamente igual que el viejo.
 
 Si quiere capturar el sonido antes de que cambie, grábelo con la aplicación
-Stuk en los primeros segundos tras un arranque en frío. La aplicación compara
+Pro-Stuk en los primeros segundos tras un arranque en frío. La aplicación compara
 la grabación con sus respuestas a unas cuantas preguntas y muestra las causas
 probables con porcentajes, y la grabación guardada resulta útil un mes después
 para saber si la cosa ha empeorado.

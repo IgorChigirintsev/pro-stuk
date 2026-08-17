@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-pruzhin-podveski"
 title: "Signs of worn suspension springs"
-metaTitle: "Worn suspension springs: how to check | Stuk"
+metaTitle: "Worn suspension springs: how to check | Pro-Stuk"
 description: "Sagging, body roll, bottoming out in potholes: how to tell that suspension springs are tired, how to check them without a lift and what replacement involves."
 pubDate: "2026-07-13"
 related:
@@ -129,6 +129,6 @@ are heavy-duty versions — they hold their height longer, though they make
 the ride slightly firmer over small stuff.
 
 If you are unsure whether it is the springs or something else, record the
-suspension noise over bumps in the Stuk app: it matches the recording with
+suspension noise over bumps in the Pro-Stuk app: it matches the recording with
 your answers and shows the likely causes with an urgency level — with that
 list the conversation at the workshop is shorter and more specific.

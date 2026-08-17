@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de bulones de pistón: cómo identificarlo"
-metaTitle: "Golpeteo de bulones: cómo identificarlo | Stuk"
+metaTitle: "Golpeteo de bulones: cómo identificarlo | Pro-Stuk"
 description: "Cómo suena el golpeteo de un bulón de pistón, en qué se diferencia de la detonación y de las válvulas, qué pruebas lo confirman y qué pide la reparación."
 faq:
   - q: "¿El «picado» al acelerar son realmente los bulones?"
@@ -113,6 +113,6 @@ vueltas altas y sin cargas plenas. La holgura crece a ritmo acelerado, y cada
 kilómetro con carga desplaza la reparación hacia la versión más cara.
 
 Si no está seguro del diagnóstico —y con los golpeteos de motor nunca lo está
-nadie—, grabe el sonido con la aplicación Stuk: compara la grabación con sus
+nadie—, grabe el sonido con la aplicación Pro-Stuk: compara la grabación con sus
 respuestas sobre las condiciones y muestra las causas probables con
 porcentajes.

@@ -1,7 +1,7 @@
 ---
 ru: "stuk-balansirnyh-valov-ep6-peugeot-citroen"
 title: "EP6 balance shaft knock on Peugeot and Citroën"
-metaTitle: "EP6 balance shaft knock: what really knocks | Stuk"
+metaTitle: "EP6 balance shaft knock: what really knocks | Pro-Stuk"
 description: "What actually knocks in an EP6 engine when owners talk about balance shafts: the chain, the tensioner, the cam phasers and the oil. The checks."
 pubDate: "2026-06-28"
 related:
@@ -111,7 +111,7 @@ and a fresh actuator fed through a blocked screen behaves exactly like the
 old one.
 
 If you want to capture the sound before it changes, record it with the
-Stuk app in the first seconds after a cold start. The app matches the
+Pro-Stuk app in the first seconds after a cold start. The app matches the
 recording with your answers to a few questions and shows the likely causes
 with percentages — and the saved recording is useful a month later for
 telling whether things have got worse.

@@ -1,12 +1,12 @@
 ---
-title: "Stuk w silniku: wszystkie przyczyny według rodzaju dźwięku"
-metaTitle: "Stuk w silniku: przyczyny według dźwięku | Stuk"
+title: "Pro-Stuk w silniku: wszystkie przyczyny według rodzaju dźwięku"
+metaTitle: "Pro-Stuk w silniku: przyczyny według dźwięku | Pro-Stuk"
 description: "Mapa stuków silnika według charakteru dźwięku: tykanie, kliknięcia, dzwonienie, głuche uderzenia. Co oznacza każdy z nich i jak pilna jest reakcja."
 faq:
   - q: "Czy da się określić przyczynę dokładnie po samym dźwięku?"
     a: "Dokładne rozpoznanie stawia się po oględzinach, ale charakter dźwięku zawęża listę do dwóch, trzech wersji. Ważne, żeby zanotować trzy warunki: temperaturę silnika, obroty i obciążenie. Z takimi danymi mechanik znajduje przyczynę kilka razy szybciej, a diagnostyka kosztuje mniej."
   - q: "Który stuk silnika jest najgroźniejszy?"
-    a: "Stuk panewek korbowodowych — niski, ciężki stuk ze środka bloku, który rośnie z obrotami i nasila się pod obciążeniem. Od pierwszego wyraźnego stuku do zniszczonego silnika bywa mniej niż tysiąc kilometrów. Z takim dźwiękiem lepiej odwieźć auto na lawecie."
+    a: "Pro-Stuk panewek korbowodowych — niski, ciężki stuk ze środka bloku, który rośnie z obrotami i nasila się pod obciążeniem. Od pierwszego wyraźnego stuku do zniszczonego silnika bywa mniej niż tysiąc kilometrów. Z takim dźwiękiem lepiej odwieźć auto na lawecie."
   - q: "Jak w warsztacie znajduje się przyczynę stuku?"
     a: "Odsłuchem stetoskopem po bloku i pokrywie zaworów, odczytem kodów błędów, pomiarem ciśnienia oleju manometrem mechanicznym i odcinaniem cylindrów po kolei. Te cztery kroki oddzielają rozrząd od układu korbowego bez rozbierania czegokolwiek."
 sources:
@@ -16,7 +16,7 @@ sources:
     url: "https://www.sae.org/"
 ---
 
-„Stuk w silniku” to skarga nieostra: obejmuje tak samo lekkie tykanie,
+„Pro-Stuk w silniku” to skarga nieostra: obejmuje tak samo lekkie tykanie,
 jasne kliknięcia i ciężkie uderzenia z głębi bloku. A przecież charakter
 dźwięku jest główną wskazówką. Zawęża przyczynę do dwóch, trzech wersji,
 zanim auto w ogóle wjedzie na podnośnik, a różnica między tymi wersjami
@@ -90,7 +90,7 @@ tej grupy dźwięków znajduje się na stronie objawu
 
 Niski, szybki stuk rosnący z obrotami i nasilający się pod obciążeniem
 to znak zużytych panewek: łożysk ślizgowych, w których obraca się wał
-korbowy. Stuk korbowodowy ze środka bloku to najgroźniejszy dźwięk
+korbowy. Pro-Stuk korbowodowy ze środka bloku to najgroźniejszy dźwięk
 w silniku: zużyta panewka obraca się w gnieździe albo korbowód pęka
 i silnik nadaje się na złom. Do tej samej ciężkiej grupy należą:
 
@@ -148,6 +148,6 @@ biegu jałowym. Te trzy odpowiedzi oszczędzają mechanikowi połowę czasu
 diagnostyki, a Panu jej koszt.
 
 Żeby nie zgadywać z opisów, proszę nagrać pracujący silnik aplikacją
-Stuk: zestawia ona nagranie z Pana odpowiedziami o warunkach i pokazuje
+Pro-Stuk: zestawia ona nagranie z Pana odpowiedziami o warunkach i pokazuje
 prawdopodobne przyczyny z procentami oraz poziomem pilności — z taką
 listą rozmowa w warsztacie robi się konkretna.

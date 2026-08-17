@@ -1,6 +1,6 @@
 ---
 title: "Quietschender Keilrippenriemen: die Ursachen"
-metaTitle: "Riemen quietscht: Ursachen und was zu tun ist | Stuk"
+metaTitle: "Riemen quietscht: Ursachen und was zu tun ist | Pro-Stuk"
 description: "Warum der Antriebsriemen quietscht: zu geringe Spannung, Verschleiß, Öl auf den Scheiben, Umlenkrollen. Wie der Zeitpunkt des Quietschens die Ursache verrät."
 faq:
   - q: "Kann ich mit quietschendem Riemen fahren?"

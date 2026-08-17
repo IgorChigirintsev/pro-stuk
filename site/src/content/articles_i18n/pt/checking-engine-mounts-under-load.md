@@ -1,6 +1,6 @@
 ---
 title: "Como checar os coxins do motor sob carga"
-metaTitle: "Como checar os coxins do motor sob carga | Stuk"
+metaTitle: "Como checar os coxins do motor sob carga | Pro-Stuk"
 description: "O teste de carga dos coxins do motor: engatar marcha contra o freio, que movimento observar e como separar coxim de outras batidas."
 faq:
   - q: "Quanto o motor deve se mexer, afinal?"
@@ -99,6 +99,6 @@ janela sensata é resolver dentro de um ou dois meses depois de a pancada
 aparecer.
 
 Se você não tem certeza se o impacto é realmente metálico ou apenas uma
-saída bruta, grave o momento da arrancada no aplicativo Stuk. O app cruza
+saída bruta, grave o momento da arrancada no aplicativo Pro-Stuk. O app cruza
 a gravação com as suas respostas sobre o regime e mostra as causas
 prováveis com percentuais.

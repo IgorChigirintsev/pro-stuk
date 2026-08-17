@@ -1,7 +1,7 @@
 ---
 ru: "stuk-tsepi-grm-1-4-tsi-bolezn-i-reshenie"
 title: "1.4 TSI timing chain rattle: the fault and the fix"
-metaTitle: "1.4 TSI timing chain rattle: causes and the fix | Stuk"
+metaTitle: "1.4 TSI timing chain rattle: causes and the fix | Pro-Stuk"
 description: "Why early chain-driven 1.4 TSI engines rattle on a cold start, how to tell a stretched chain from other knocks, and what the repair involves."
 pubDate: "2026-06-22"
 related:
@@ -112,7 +112,7 @@ habit of topping up rather than changing costs the most here: how the
 drive works depends directly on how fast the system builds pressure.
 
 If the rattle at start-up has appeared recently and you want to know
-whether it is that sound, record it in the Stuk app straight after a cold
+whether it is that sound, record it in the Pro-Stuk app straight after a cold
 start, before warm-up. The app matches the recording with your answers and
 shows the likely causes with percentages — enough to arrive at a workshop
 with a specific theory rather than general anxiety.

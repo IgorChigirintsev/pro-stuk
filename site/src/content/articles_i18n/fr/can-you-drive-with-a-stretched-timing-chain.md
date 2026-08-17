@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec une chaîne de distribution détendue"
-metaTitle: "Peut-on rouler avec une chaîne de distribution détendue ? | Stuk"
+metaTitle: "Peut-on rouler avec une chaîne de distribution détendue ? | Pro-Stuk"
 description: "Ce que risque une chaîne de distribution détendue, quand on peut encore rejoindre le garage soi-même, quand il faut une dépanneuse, et ce que coûte vraiment le retard."
 faq:
   - q: "Combien de kilomètres peut-on faire avec une chaîne de distribution détendue ?"
@@ -155,7 +155,7 @@ réparation : une chaîne usée ne se refait pas et ne devient pas moins
 chère avec le temps.
 
 Si vous n'êtes pas sûr que c'est la chaîne qui fait le bruit,
-enregistrez le moteur dans l'application Stuk : elle recoupe
+enregistrez le moteur dans l'application Pro-Stuk : elle recoupe
 l'enregistrement avec vos réponses à quelques questions et affiche les
 causes probables avec une note d'urgence. C'est plus facile ensuite de
 choisir entre rejoindre le garage au volant et appeler tout de suite une

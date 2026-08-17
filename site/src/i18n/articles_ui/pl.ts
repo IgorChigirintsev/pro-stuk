@@ -19,7 +19,7 @@ export const pl: ArticleUi = {
   hubQuizSub:
     'Interaktywne drzewo diagnostyczne: kilka pytań i lista przyczyn wyraźnie się skraca.',
   hubOther: 'Inne działy',
-  indexTitle: 'Artykuły o dźwiękach samochodu | Stuk',
+  indexTitle: 'Artykuły o dźwiękach samochodu | Pro-Stuk',
   indexDescription:
     'Poradniki o dźwiękach samochodu: stukanie, piski, buczenie, wycie i grzechotanie. Co oznacza każdy dźwięk, co sprawdzisz sam i jak pilna jest sprawa.',
   indexH1: 'Artykuły',

@@ -1,7 +1,7 @@
 ---
 ru: "shchelchki-startera-bez-zapuska"
 title: "The starter clicks but will not crank"
-metaTitle: "Starter clicks but will not crank: causes | Stuk"
+metaTitle: "Starter clicks but will not crank: causes | Pro-Stuk"
 description: "Turning the key gives a click or a rapid chatter but the engine does not turn. What a single click and a rapid one mean, and how to tell battery from starter."
 pubDate: "2026-06-10"
 related:
@@ -97,7 +97,7 @@ Other under-bonnet sounds at start-up are collected on the symptom page
 [squeal on startup](/en/symptoms/squeal-on-startup/).
 
 If the clicking comes and goes and the car treacherously starts first time
-at the workshop, record a start attempt in the Stuk app. The app matches
+at the workshop, record a start attempt in the Pro-Stuk app. The app matches
 the character of the clicks with your answers about how the instruments
 behaved and suggests what to show the mechanic — the battery, the wiring
 or the starter.

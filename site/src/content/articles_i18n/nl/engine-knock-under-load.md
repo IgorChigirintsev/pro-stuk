@@ -1,6 +1,6 @@
 ---
 title: "Kloppen in de motor onder belasting"
-metaTitle: "Kloppen onder belasting: oorzaken en gevaar | Stuk"
+metaTitle: "Kloppen onder belasting: oorzaken en gevaar | Pro-Stuk"
 description: "Kloppen onder belasting: hoe u detonatie onderscheidt van kloppende lagers, waar de distributieketting binnenkomt en wanneer doorrijden gevaarlijk wordt."
 faq:
   - q: "Hoe onderscheid ik detonatie van kloppende lagers?"

@@ -1,6 +1,6 @@
 ---
 title: "Rolamento de embreagem barulhento: dá para rodar?"
-metaTitle: "Rolamento de embreagem barulhento: dá para rodar | Stuk"
+metaTitle: "Rolamento de embreagem barulhento: dá para rodar | Pro-Stuk"
 description: "Ruído do rolamento de embreagem ao pisar no pedal: como diferenciar de outros sons, quanto tempo dá para rodar e o que define o reparo."
 faq:
   - q: "Quanto tempo dá para rodar com o rolamento de embreagem barulhento?"
@@ -102,6 +102,6 @@ arrancadas bruscas. Se as marchas já entram com rangido, o quadro está em
 [rangido ao engatar a marcha](/pt/articles/crunching-when-selecting-a-gear/).
 
 Se você não tem certeza de que o som está mesmo ligado ao pedal, grave-o no
-aplicativo Stuk: dois trechos curtos, com a embreagem pisada e solta. O
+aplicativo Pro-Stuk: dois trechos curtos, com a embreagem pisada e solta. O
 aplicativo compara as gravações e sugere para onde olhar antes de você chegar
 à oficina.

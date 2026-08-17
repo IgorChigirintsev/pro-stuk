@@ -1,6 +1,6 @@
 ---
 title: "Hoe u merkt dat uw schokdempers dood zijn"
-metaTitle: "Zijn de schokdempers dood? Zo checkt u het | Stuk"
+metaTitle: "Zijn de schokdempers dood? Zo checkt u het | Pro-Stuk"
 description: "Nawiegen van de carrosserie, doorslaan in kuilen, langere remweg en olielekkage — zo beoordeelt u de staat van schokdempers in een paar minuten zonder testbank."
 faq:
   - q: "Werkt de veertest eigenlijk wel?"

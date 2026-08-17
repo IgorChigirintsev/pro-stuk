@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een defecte vrijlooppoelie van de dynamo"
-metaTitle: "Vrijlooppoelie dynamo: kenmerken van defect | Stuk"
+metaTitle: "Vrijlooppoelie dynamo: kenmerken van defect | Pro-Stuk"
 description: "Waarom een dynamo een vrijlooppoelie heeft en hoe slijtage klinkt: fluiten bij het starten, ratelen na afzetten, riemtrillingen. Plus zelf te doen controles."
 faq:
   - q: "Wat is het verschil met een gewone dynamopoelie?"

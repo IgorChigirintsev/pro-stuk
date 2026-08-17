@@ -1,6 +1,6 @@
 ---
 title: "Zunido do diferencial traseiro em velocidade"
-metaTitle: "Zunido do diferencial traseiro: causas | Stuk"
+metaTitle: "Zunido do diferencial traseiro: causas | Pro-Stuk"
 description: "Um zunido atrás que muda com o pé no acelerador e na desaceleração é a letra clássica do diferencial. Como separá-lo dos rolamentos de roda."
 faq:
   - q: "Como separar o zunido do diferencial do zumbido do rolamento de roda?"
@@ -94,7 +94,7 @@ zunir em poucos meses, e essa é a razão mais comum de uma retífica dar
 errado.
 
 Se o zunido ainda é discreto e você quer confirmar que ele realmente muda
-com o acelerador, grave dois trechos curtos no aplicativo Stuk: um
+com o acelerador, grave dois trechos curtos no aplicativo Pro-Stuk: um
 tracionando e outro de banguela, na mesma velocidade. O aplicativo cruza
 as gravações com suas respostas a algumas perguntas e mostra as causas
 prováveis em porcentagem.

@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych tulei wahaczy"
-metaTitle: "Zużyte tuleje wahaczy: dźwięk, testy, naprawa | Stuk"
+metaTitle: "Zużyte tuleje wahaczy: dźwięk, testy, naprawa | Pro-Stuk"
 description: "Jak zdradzają się zużyte tuleje wahaczy: stukanie, skrzypienie, ściąganie auta i nierówne zużycie opon. Proste testy i przebieg naprawy."
 faq:
   - q: "Jaki jest pierwszy objaw zużytych tulei?"
@@ -8,7 +8,7 @@ faq:
   - q: "Czy można jeździć ze zużytymi tulejami?"
     a: "Przez jakiś czas tak: auto nie zgubi koła, jak potrafi to przy sworzniu wahacza. Ale geometria zawieszenia już ucieka — opony zużywają się nierówno, sworznie i końcówki drążków kierowniczych szybciej się rozrabiają, a hamowanie na wybojach staje się mniej przewidywalne. Nie ma co ciągnąć tego miesiącami."
   - q: "Dlaczego tuleje skrzypią, a nie stukają?"
-    a: "Skrzypienie bierze się z tarcia gumy o metalową tuleję albo o wahacz, gdy połączenie między nimi puściło. Stuk pojawia się później, kiedy w węźle rośnie luz i metalowe części uderzają o siebie przez zniszczoną gumę. Skrzypienie to więc zwykle wcześniejszy etap niż stukanie."
+    a: "Skrzypienie bierze się z tarcia gumy o metalową tuleję albo o wahacz, gdy połączenie między nimi puściło. Pro-Stuk pojawia się później, kiedy w węźle rośnie luz i metalowe części uderzają o siebie przez zniszczoną gumę. Skrzypienie to więc zwykle wcześniejszy etap niż stukanie."
   - q: "Czy tuleje trzeba wymieniać parami, lewa i prawa?"
     a: "Lepiej tak, jeśli części są w tym samym wieku. Guma starzeje się po obu stronach jednakowo, a po wymianie tylko jednej druga często odzywa się w ciągu kilku miesięcy. Świeża i zmęczona guma inaczej też trzymają wahacz, co widać potem na urządzeniu do geometrii."
 sources:
@@ -131,6 +131,6 @@ kontekst daje strona objawu
 [stukanie w zawieszeniu](/pl/symptoms/knocking-in-suspension/).
 
 Jeśli pojawił się stuk, a nie wiadomo, czy to tuleje, sworzeń, czy coś
-jeszcze, nagraj dźwięk w aplikacji Stuk. Zestawia ona nagranie z Twoimi
+jeszcze, nagraj dźwięk w aplikacji Pro-Stuk. Zestawia ona nagranie z Twoimi
 odpowiedziami i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności — z taką listą rozmowa w warsztacie robi się konkretna.

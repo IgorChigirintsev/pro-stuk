@@ -1,6 +1,6 @@
 ---
 title: "Segni di un giunto omocinetico interno consumato"
-metaTitle: "Giunto omocinetico interno consumato | Stuk"
+metaTitle: "Giunto omocinetico interno consumato | Pro-Stuk"
 description: "Il giunto omocinetico interno non fa clic in curva: batte in accelerazione e vibra. I suoi sintomi, le differenze con quello esterno e come si decide la riparazione."
 faq:
   - q: "Come si distingue a orecchio un giunto interno da uno esterno?"
@@ -103,7 +103,7 @@ Quando comincia a fare clic vale l'indicazione di
 [si può guidare con il giunto omocinetico che fa clic](/it/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 Se il colpo è debole e non è chiaro se venga dal semiasse o dalla
-sospensione, lo registri con l'app Stuk due volte: sotto gas e in rilascio
+sospensione, lo registri con l'app Pro-Stuk due volte: sotto gas e in rilascio
 sullo stesso tratto di strada. L'app confronta le registrazioni, tiene conto
 delle sue risposte su quando esattamente compare il suono e mostra le cause
 probabili in percentuale.

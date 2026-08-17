@@ -1,7 +1,7 @@
 ---
 ru: "zvon-paltsev-pri-razgone"
 title: "Pinking under acceleration: the causes"
-metaTitle: "Pinking under acceleration: causes and fixes | Stuk"
+metaTitle: "Pinking under acceleration: causes and fixes | Pro-Stuk"
 description: "Why an engine pinks under acceleration: detonation, fuel, carbon, spark plugs. How to tell harmless pinking from worn gudgeon pins."
 pubDate: "2026-08-02"
 related:
@@ -135,7 +135,7 @@ plug condition and a borescope look at the piston crowns are the honest
 answer, an assumption from mileage is not.
 
 If you want something to lean on before the workshop, record the sound of
-acceleration in the Stuk app. It compares the recording with typical
+acceleration in the Pro-Stuk app. It compares the recording with typical
 sounds, asks a few clarifying questions about when and how the pinking
 appears, and shows the likely causes with a level of urgency. That way you
 arrive with a specific hypothesis rather than "something rings".

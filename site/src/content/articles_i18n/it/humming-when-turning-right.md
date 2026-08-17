@@ -1,6 +1,6 @@
 ---
 title: "Ronzio in curva a destra"
-metaTitle: "Ronzio in curva a destra: cause e verifiche | Stuk"
+metaTitle: "Ronzio in curva a destra: cause e verifiche | Pro-Stuk"
 description: "Se il ronzio cresce nelle curve a destra il sospettato è il cuscinetto ruota sinistro. Verifica passo passo senza ponte, i rumori simili e cosa comporta la riparazione."
 faq:
   - q: "Perché girando a destra ronza il cuscinetto di sinistra?"
@@ -98,7 +98,7 @@ integrato nel mozzo: ecco perché un cuscinetto che sta cedendo a volte
 porta con sé anche delle spie accese.
 
 Non sei sicuro che le tue orecchie stiano indicando il lato giusto?
-Registra il ronzio con l'app Stuk durante i cambi di corsia: l'app
+Registra il ronzio con l'app Pro-Stuk durante i cambi di corsia: l'app
 confronta la registrazione con le tue risposte e mostra le cause probabili
 in percentuale con il livello di urgenza — così arrivi in officina con
 un'ipotesi e non con un «fa un rumore».

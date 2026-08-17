@@ -1,6 +1,6 @@
 ---
 title: "Cómo comprobar si una pinza de freno se agarrota"
-metaTitle: "Cómo comprobar si una pinza de freno se agarrota | Stuk"
+metaTitle: "Cómo comprobar si una pinza de freno se agarrota | Pro-Stuk"
 description: "Las señales de una pinza de freno agarrotada: la prueba sin gas, la temperatura de las ruedas, irse de lado al frenar y el olor. Qué hace un taller."
 faq:
   - q: "¿Cuánto puede calentarse un disco con normalidad?"
@@ -115,7 +115,7 @@ Un reacondicionamiento cuesta menos que sustituir después disco, pastillas y
 pinza juntos.
 
 Si junto a todo esto ha aparecido un ruido nuevo y quiere capturarlo antes de
-la visita, ponga a grabar la aplicación Stuk y dé una vuelta de prueba. La
+la visita, ponga a grabar la aplicación Pro-Stuk y dé una vuelta de prueba. La
 aplicación compara el sonido con sus respuestas sobre las condiciones y
 muestra las causas probables con porcentajes, y la grabación se le queda al
 mecánico en lugar de una descripción verbal.

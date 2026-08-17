@@ -1,6 +1,6 @@
 ---
 title: "Kunt u rijden met een kloppend onderstel"
-metaTitle: "Rijden met een kloppend onderstel? | Stuk"
+metaTitle: "Rijden met een kloppend onderstel? | Pro-Stuk"
 description: "Met welke kloppende onderdelen u nog kunt rijden en met welke niet: stabilisator, schokdempers, rubbers, fuseekogels. Urgentie inschatten op het geluid."
 faq:
   - q: "Hoe lang kan ik rijden met een kloppend stabilisatorstangetje?"

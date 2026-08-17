@@ -1,6 +1,6 @@
 ---
 title: "Durchgebrannte Krümmerdichtung: die Zeichen"
-metaTitle: "Durchgebrannte Krümmerdichtung: die Zeichen | Stuk"
+metaTitle: "Durchgebrannte Krümmerdichtung: die Zeichen | Pro-Stuk"
 description: "Ticken und Zischen beim Kaltstart, Abgasgeruch im Innenraum, schwarzer Ruß am Übergang — wie Sie eine durchgebrannte Abgaskrümmerdichtung erkennen."
 faq:
   - q: "Warum ist das Ticken kalt hörbar und nach dem Warmlaufen weg?"

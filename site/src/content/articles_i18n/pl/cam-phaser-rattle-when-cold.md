@@ -1,6 +1,6 @@
 ---
 title: "Stukot faz rozrządu na zimnym silniku"
-metaTitle: "Stukot faz rozrządu na zimno: przyczyny | Stuk"
+metaTitle: "Stukot faz rozrządu na zimno: przyczyny | Pro-Stuk"
 description: "Dlaczego regulator faz rozrządu grzechocze przez pierwsze sekundy po zimnym rozruchu: zużyty aktuator, zawór OCV, olej. Jak to sprawdzić samemu."
 faq:
   - q: "Ile sekund grzechotu po rozruchu jest normą?"
@@ -100,6 +100,6 @@ Ciągnięcie tego latami nie ma sensu: wybity aktuator przyspiesza zużycie
 łańcucha, silnik traci moc i zaczyna więcej palić.
 
 Nie ma Pan pewności, że grzechocze regulator faz? Proszę nagrać zimny
-rozruch w aplikacji Stuk — algorytm porówna dźwięk z typowymi profilami,
+rozruch w aplikacji Pro-Stuk — algorytm porówna dźwięk z typowymi profilami,
 uwzględni odpowiedzi o momencie i długości grzechotu i pokaże
 prawdopodobne przyczyny wraz z poziomem pilności.

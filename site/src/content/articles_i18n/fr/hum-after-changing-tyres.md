@@ -1,6 +1,6 @@
 ---
 title: "Un bourdonnement après un changement de pneus"
-metaTitle: "Bourdonnement après changement de pneus : quoi faire | Stuk"
+metaTitle: "Bourdonnement après changement de pneus : quoi faire | Pro-Stuk"
 description: "Un bourdonnement à vitesse est apparu après un changement de pneus. Quand la sculpture est en cause, quand c'est l'équilibrage ou la permutation."
 faq:
   - q: "Des pneus neufs bourdonnent-ils toujours au début ?"
@@ -96,7 +96,7 @@ jeu neuf de la même façon.
 
 Si vous ne savez pas si le son a changé après la permutation, ne vous fiez
 pas à votre mémoire : quelques décibels sont presque impossibles à juger à
-l'oreille. Enregistrez le bourdonnement dans l'application Stuk avant et
+l'oreille. Enregistrez le bourdonnement dans l'application Pro-Stuk avant et
 après la permutation — elle compare les enregistrements avec vos réponses
 et affiche les causes probables avec leurs pourcentages, pour que personne
 ne remplace des pneus là où un roulement est en cause.

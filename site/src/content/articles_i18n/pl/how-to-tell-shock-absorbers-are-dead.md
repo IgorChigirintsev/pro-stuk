@@ -1,6 +1,6 @@
 ---
 title: "Jak poznać, że amortyzatory są martwe"
-metaTitle: "Jak poznać, że amortyzatory padły: sprawdzenia | Stuk"
+metaTitle: "Jak poznać, że amortyzatory padły: sprawdzenia | Pro-Stuk"
 description: "Bujanie nadwozia, dobijanie na dziurach, dłuższa droga hamowania i wycieki oleju — jak ocenić stan amortyzatorów w kilka minut bez stanowiska."
 faq:
   - q: "Czy test kołysania rzeczywiście działa?"
@@ -96,7 +96,7 @@ obrębie osi. I geometria po wymianie jest krokiem obowiązkowym, a nie opcją,
 bo wymiana kolumn zmienia ustawienie kół.
 
 Jeśli waha się Pan między „zawieszenie jest zmęczone” a „coś konkretnego się
-zepsuło”, proszę nagrać w aplikacji Stuk przejazd po falach i dziurach.
+zepsuło”, proszę nagrać w aplikacji Pro-Stuk przejazd po falach i dziurach.
 Aplikacja odnosi charakter uderzeń do Pana odpowiedzi o zachowaniu nadwozia
 i pokazuje prawdopodobne przyczyny z procentami — zauważalnie dokładniej niż
 próba opisania bujania słowami.

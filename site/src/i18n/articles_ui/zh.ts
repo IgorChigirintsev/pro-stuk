@@ -19,7 +19,7 @@ export const zh: ArticleUi = {
   hubQuizSub:
     '交互式诊断树：回答几个问题，可能的原因就会大幅减少。',
   hubOther: '其他板块',
-  indexTitle: '汽车异响文章 | Stuk',
+  indexTitle: '汽车异响文章 | Pro-Stuk',
   indexDescription:
     '汽车异响解读：敲击、尖叫、嗡鸣、啸叫和咔嗒。每种声音意味着什么，自己能检查什么，以及有多紧急。',
   indexH1: '文章',

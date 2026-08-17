@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com o rolamento de roda zumbindo"
-metaTitle: "Dá para rodar com rolamento de roda zumbindo? | Stuk"
+metaTitle: "Dá para rodar com rolamento de roda zumbindo? | Pro-Stuk"
 description: "Quanto dá para rodar com o rolamento de roda zumbindo, o que cada estágio de desgaste ameaça, como reduzir o risco e como se decide o reparo."
 faq:
   - q: "Quantos quilômetros dá para rodar com o rolamento zumbindo?"
@@ -127,7 +127,7 @@ na conta. No estágio avançado, a diferença entre «trocar esta semana» e
 «trocar daqui a dois meses» chega ao dobro com facilidade.
 
 Se você quer algo mais firme que o próprio ouvido para se apoiar, grave o
-zumbido em movimento com o aplicativo Stuk: ele cruza o som com suas
+zumbido em movimento com o aplicativo Pro-Stuk: ele cruza o som com suas
 respostas e mostra as causas prováveis em porcentagem e com nível de
 urgência — o que facilita decidir entre ir amanhã e terminar a semana com
 calma.

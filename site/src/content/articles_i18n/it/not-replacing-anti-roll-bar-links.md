@@ -1,6 +1,6 @@
 ---
 title: "Cosa succede se non si cambiano mai le biellette della barra"
-metaTitle: "Biellette barra usurate: cosa comporta guidarci | Stuk"
+metaTitle: "Biellette barra usurate: cosa comporta guidarci | Pro-Stuk"
 description: "Dove porta guidare con le biellette usurate: più rollio, una bielletta che si stacca, usura sui pezzi vicini. Quanto si può rimandare e perché aspettare costa di più."
 faq:
   - q: "È pericoloso guidare con le biellette che battono?"
@@ -137,6 +137,6 @@ drammatico, ma accanto a una coppia di biellette è un argomento in più
 contro l'attesa.
 
 Se il colpo c'è ma non è sicuro della diagnosi, registri il rumore con
-l'app Stuk. L'app confronta la registrazione con le sue risposte sul
+l'app Pro-Stuk. L'app confronta la registrazione con le sue risposte sul
 carattere del colpo e mostra le cause probabili con un livello di urgenza:
 saprà se si tratta di una coppia di biellette o di qualcosa di più serio.

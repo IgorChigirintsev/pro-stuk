@@ -1,7 +1,7 @@
 ---
 ru: "skrip-pri-raskachivanii-mashiny"
 title: "Creaking when you rock the car"
-metaTitle: "Creaking when you rock the car: causes and repair | Stuk"
+metaTitle: "Creaking when you rock the car: causes and repair | Pro-Stuk"
 description: "Why the body creaks when rocked by hand and over undulations: anti-roll bar bushes, control arm bushes, strut top mounts. How to find the creaking point."
 pubDate: "2026-07-12"
 related:
@@ -104,7 +104,7 @@ does, and it is often free when you book the repair — for a creak that is
 usually enough, because the source is found in minutes by rocking and
 looking at the rubber.
 
-If you want to decide before the workshop, record the creak in the Stuk
+If you want to decide before the workshop, record the creak in the Pro-Stuk
 app while rocking the car or over a characteristic undulation. The
 algorithm matches the recording with your answers and shows the likely
 sources with an urgency level: it becomes clear whether the visit can wait

@@ -1,6 +1,6 @@
 ---
 title: "Contrôler le jeu des rotules de direction"
-metaTitle: "Contrôler le jeu des rotules de direction | Stuk"
+metaTitle: "Contrôler le jeu des rotules de direction | Pro-Stuk"
 description: "Comment trouver soi-même du jeu dans les rotules de direction : la prise à 3 h et 9 h, la main sur la rotule, et ce que la réparation exige derrière."
 faq:
   - q: "Comment distinguer le jeu d'une rotule de direction de celui de la crémaillère ?"
@@ -100,7 +100,7 @@ froid.
 
 Si vous entendez le claquement sans arriver à l'attraper à la main — ce
 qui est normal aux stades précoces de l'usure — enregistrez le son dans
-l'application Stuk en roulant sur de petites irrégularités. L'application
+l'application Pro-Stuk en roulant sur de petites irrégularités. L'application
 croise l'enregistrement avec vos réponses et affiche les causes probables
 avec leurs pourcentages, pour que le contrôle sur pont vise une théorie
 précise plutôt que tout le train avant.

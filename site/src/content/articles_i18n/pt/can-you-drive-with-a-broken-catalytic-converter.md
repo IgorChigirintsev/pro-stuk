@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com o catalisador quebrado"
-metaTitle: "Dá para rodar com o catalisador quebrado? | Stuk"
+metaTitle: "Dá para rodar com o catalisador quebrado? | Pro-Stuk"
 description: "A cerâmica desfeita chacoalha e sufoca o motor. Quando ainda dá para ir até a oficina, quando não dá e o que isso ameaça no motor."
 faq:
   - q: "Como soa um catalisador desfeito?"
@@ -95,7 +95,7 @@ barulho mas não impede o carro de andar, você tem semanas; assim que ela
 começa a afetar o comportamento do carro, a conta passa a ser em dias.
 
 Se o chocalho acabou de aparecer e você quer saber se é isso mesmo, grave o
-som com o aplicativo Stuk acelerando parado, e repita a gravação depois de
+som com o aplicativo Pro-Stuk acelerando parado, e repita a gravação depois de
 um trajeto curto. O aplicativo cruza as gravações com suas respostas e
 mostra as causas prováveis em porcentagem — junto com uma indicação de se é
 urgente ou se dá para agendar com calma um dia desta semana.

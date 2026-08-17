@@ -1,6 +1,6 @@
 ---
 title: "Sifflement des freins à basse vitesse"
-metaTitle: "Sifflement des freins à basse vitesse : causes | Stuk"
+metaTitle: "Sifflement des freins à basse vitesse : causes | Pro-Stuk"
 description: "Un sifflement de freins entre 5 et 20 km/h peut être une simple vibration de plaquette ou le témoin d'usure qui fait son travail. Comment les distinguer."
 faq:
   - q: "Pourquoi les freins ne sifflent qu'à basse vitesse ?"
@@ -117,7 +117,7 @@ il faut arrêter de rouler comme ça et faire déposer les roues sans
 attendre.
 
 Si vous voulez savoir ce qui sonne réellement avant de réserver quoi que
-ce soit, enregistrez le sifflement dans l'application Stuk en arrivant au
+ce soit, enregistrez le sifflement dans l'application Pro-Stuk en arrivant au
 feu. L'application décompose l'enregistrement par fréquences, le croise
 avec vos réponses à quelques questions sur les conditions et affiche les
 causes probables avec des pourcentages — en général ça suffit pour

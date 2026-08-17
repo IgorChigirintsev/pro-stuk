@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura dei silent block della barra stabilizzatrice"
-metaTitle: "Boccole barra stabilizzatrice usurate: rumore | Stuk"
+metaTitle: "Boccole barra stabilizzatrice usurate: rumore | Pro-Stuk"
 description: "Come suonano i silent block della barra stabilizzatrice usurati, come si distinguono dalle biellette, come controllarli da soli e cosa comporta la sostituzione."
 faq:
   - q: "Si può guidare con i silent block della barra usurati?"
@@ -109,7 +109,7 @@ boccole ma i propri punti di fissaggio, e sostituire la barra è un altro
 ordine di spesa.
 
 Non è sicuro che a battere siano le boccole? Registri il suono su un tratto
-rappresentativo con l'app Stuk: l'algoritmo confronta la registrazione con
+rappresentativo con l'app Pro-Stuk: l'algoritmo confronta la registrazione con
 le sue risposte e mostra le cause probabili in percentuale con un livello di
 urgenza, così arriva in officina con un'ipotesi di lavoro e non con
 un'intuizione.

@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con la suspensión golpeando?"
-metaTitle: "¿Se puede circular con la suspensión golpeando? | Stuk"
+metaTitle: "¿Se puede circular con la suspensión golpeando? | Pro-Stuk"
 description: "Con qué piezas de la suspensión que golpean se puede circular y con cuáles no: barra estabilizadora, amortiguadores, silentblocks, rótulas. Urgencia según el sonido."
 faq:
   - q: "¿Cuánto tiempo se puede circular con una bieleta de la barra estabilizadora que golpea?"
@@ -112,7 +112,7 @@ para el próximo mantenimiento si el sonido cambia de una semana a otra: un
 golpeteo estable puede esperar, uno que crece no.
 
 Si se quiere establecer la urgencia hoy mismo, se puede grabar el golpeteo
-con la aplicación Stuk en un tramo de carretera representativo. El
+con la aplicación Pro-Stuk en un tramo de carretera representativo. El
 algoritmo compara la grabación con las respuestas dadas y muestra las
 causas probables con porcentajes y un nivel de urgencia, suficiente para
 saber si conviene planificar la reparación para el mes que viene o pedir

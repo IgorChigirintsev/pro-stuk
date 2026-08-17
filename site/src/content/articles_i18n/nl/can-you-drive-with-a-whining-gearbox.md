@@ -1,6 +1,6 @@
 ---
 title: "Kun je rijden met een jankende versnellingsbak"
-metaTitle: "Rijden met een jankende versnellingsbak? | Stuk"
+metaTitle: "Rijden met een jankende versnellingsbak? | Pro-Stuk"
 description: "Een jankende versnellingsbak legt de auto zelden meteen stil, maar de marge hangt af van het karakter van het geluid. Wat jankt er, welke signalen zijn dringend en wat te doen."
 faq:
   - q: "Hoeveel kilometer kan ik rijden met een jankende versnellingsbak?"

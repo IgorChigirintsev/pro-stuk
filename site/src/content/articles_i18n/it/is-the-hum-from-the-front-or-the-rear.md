@@ -1,6 +1,6 @@
 ---
 title: "Capire da dove viene il ronzio: avantreno o retrotreno"
-metaTitle: "Ronzio: viene dall'avantreno o dal retrotreno? | Stuk"
+metaTitle: "Ronzio: viene dall'avantreno o dal retrotreno? | Pro-Stuk"
 description: "Prove semplici per individuare l'assale e il lato da cui arriva un ronzio: cambi di corsia, marcia per inerzia, scambio delle ruote e un giro con un passeggero."
 faq:
   - q: "Perché un ronzio che viene da dietro sembra arrivare da davanti?"
@@ -97,7 +97,7 @@ dell'usura irregolare — assetto o ammortizzatori stanchi — perché un
 treno nuovo su un'auto non sistemata si consuma allo stesso modo.
 
 Il modo più comodo è eseguire tutte e quattro le prove con una
-registrazione attiva nell'app Stuk: rispondi alle domande su velocità,
+registrazione attiva nell'app Pro-Stuk: rispondi alle domande su velocità,
 lato e reazione al rilascio, e l'app le confronta con il suono e mostra le
 cause probabili in percentuale, indicando quale ruota controllare per
 prima.

@@ -1,6 +1,6 @@
 ---
 title: "Gepiep: de multiriem of een rollager"
-metaTitle: "Gepiep onder de kap: riem of rollager | Stuk"
+metaTitle: "Gepiep onder de kap: riem of rollager | Pro-Stuk"
 description: "Gepiep onder de motorkap komt van een slippende multiriem én van een stervend rollager. Zo houdt u ze uit elkaar aan de hand van wanneer het geluid opduikt."
 faq:
   - q: "Waarom piept de riem alleen bij vochtig weer?"

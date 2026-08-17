@@ -1,6 +1,6 @@
 ---
 title: "Kışın ısınmamış otomatik şanzımanın sesleri"
-metaTitle: "Kışın soğuk otomatik şanzıman sesleri | Stuk"
+metaTitle: "Kışın soğuk otomatik şanzıman sesleri | Pro-Stuk"
 description: "Kışın soğuk otomatik uğuldar, sarsar ve tıkırdar, on dakika sonra susar. Normalin sınırı nerede biter ve hangi sesler ısındıktan sonra da kalır."
 faq:
   - q: "Soğukta ısınmamış otomatiğin uğultusu normal mi?"
@@ -95,7 +95,7 @@ yüz kilometre içinde değiştirir — yani ikinci bir kontrol için tekrar
 gelmenizin istenmesi hesabı şişirme değil, normal uygulamadır.
 
 Sesinizin normal sınırlar içinde olup olmadığından emin değilseniz, iki
-sürüşü Stuk uygulamasına kaydedin: soğuk çalıştırmadan sonraki ilk
+sürüşü Pro-Stuk uygulamasına kaydedin: soğuk çalıştırmadan sonraki ilk
 dakikaları ve yirmi dakika sonra aynı yolu. Cevap kayıtların arasındaki
 farktadır: uygulama bunları sıcaklık ve sürüş koşulları hakkındaki
 cevaplarınızla eşleştirip muhtemel nedenleri yüzdeleriyle gösterir.

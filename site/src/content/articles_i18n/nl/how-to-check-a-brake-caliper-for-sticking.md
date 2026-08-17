@@ -1,6 +1,6 @@
 ---
 title: "Een remklauw controleren op vastlopen"
-metaTitle: "Remklauw controleren op vastlopen | Stuk"
+metaTitle: "Remklauw controleren op vastlopen | Pro-Stuk"
 description: "De tekenen van een vastlopende remklauw: de uitroltest, de temperatuur van de wielen, trekken bij het remmen en de geur. En wat een garage eraan doet."
 faq:
   - q: "Hoe warm mag een remschijf normaal worden?"

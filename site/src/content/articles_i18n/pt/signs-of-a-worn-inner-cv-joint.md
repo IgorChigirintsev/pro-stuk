@@ -1,6 +1,6 @@
 ---
 title: "Sinais de junta homocinética interna gasta"
-metaTitle: "Junta homocinética interna gasta: sinais | Stuk"
+metaTitle: "Junta homocinética interna gasta: sinais | Pro-Stuk"
 description: "A junta homocinética interna não estala nas curvas: ela bate na aceleração e vibra. Os sintomas, a diferença para a externa e o reparo."
 faq:
   - q: "Como distinguir pelo som a junta interna da externa?"
@@ -100,7 +100,7 @@ orçamento em três. Quando começa a estalar, vale a orientação de
 [dá para andar com a junta homocinética estalando](/pt/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 Se a batida é fraca e não está claro se é o semieixo ou a suspensão, grave
-duas vezes no aplicativo Stuk: com o pé no acelerador e rodando solto, no
+duas vezes no aplicativo Pro-Stuk: com o pé no acelerador e rodando solto, no
 mesmo trecho de rua. O app compara as gravações, leva em conta as suas
 respostas sobre quando exatamente o som aparece e mostra as causas
 prováveis com porcentagens.

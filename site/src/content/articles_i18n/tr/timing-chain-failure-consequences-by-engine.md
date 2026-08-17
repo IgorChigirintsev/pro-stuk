@@ -1,6 +1,6 @@
 ---
 title: "Triger zinciri kopması: motorlara göre sonuçları"
-metaTitle: "Triger zinciri koptu: motora göre sonuçlar | Stuk"
+metaTitle: "Triger zinciri koptu: motora göre sonuçlar | Pro-Stuk"
 description: "Triger zinciri koptuğunda ya da diş atladığında motora ne olur, neden bazı motorlarda sadece zincir yeterken bazılarında silindir kapağı yenilenir."
 faq:
   - q: "Zincir koptuğunda her motorda supap eğilir mi?"
@@ -96,7 +96,7 @@ yazısında. Takırtı henüz sadece takırtıyken ne anlama geldiği ise
 yazısında.
 
 Soğuk çalıştırmada takırtı çıktıysa ve zincir mi yoksa zararsız bir şey mi
-olduğundan emin değilseniz, motorun çalışmasının ilk beş saniyesini Stuk
+olduğundan emin değilseniz, motorun çalışmasının ilk beş saniyesini Pro-Stuk
 uygulamasında kaydedin. Uygulama kaydı verdiğiniz cevaplarla eşleştirir ve
 olası sebepleri yüzdeleriyle gösterir — bu aşamada kararın farkı bütün bir
 motorun bedeli kadardır.

@@ -1,6 +1,6 @@
 ---
 title: "Como testar a junta homocinética fazendo círculos no estacionamento"
-metaTitle: "Testar a junta homocinética em círculos | Stuk"
+metaTitle: "Testar a junta homocinética em círculos | Pro-Stuk"
 description: "Teste passo a passo da junta homocinética externa num estacionamento vazio: como fazer os círculos, o que deve estalar e por que às vezes não aparece nada."
 faq:
   - q: "Por que a junta homocinética só estala em curva fechada?"
@@ -101,6 +101,6 @@ para o motor: o som é capturado não «em geral», e sim no regime
 específico em que o defeito é obrigado a aparecer.
 
 Se você ouve estalos mas não tem certeza de que é o som certo, comece
-uma gravação no aplicativo Stuk enquanto faz o círculo. O app cruza o som
+uma gravação no aplicativo Pro-Stuk enquanto faz o círculo. O app cruza o som
 com as suas respostas sobre o regime e o lado e mostra as causas
 prováveis com percentuais.

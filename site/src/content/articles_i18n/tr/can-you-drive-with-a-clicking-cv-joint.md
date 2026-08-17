@@ -1,6 +1,6 @@
 ---
 title: "Tıkırdayan aks kafasıyla araç kullanılır mı"
-metaTitle: "Tıkırdayan aks kafasıyla gidilir mi? | Stuk"
+metaTitle: "Tıkırdayan aks kafasıyla gidilir mi? | Pro-Stuk"
 description: "Virajda tıkırdayan aks kafası anında bir arıza değildir, ama yıllarca yaşanacak bir şey de değildir. Ne kadar vaktiniz var, ne zaman yola çıkmamalı."
 faq:
   - q: "Tıkırdayan aks kafasıyla kaç kilometre gidebilirim?"
@@ -91,7 +91,7 @@ kafalarında molibden esaslı özel bir gres kullanılır ve yanlış olanı,
 başka türlü iyi yapılmış bir onarımın ömrünü kısaltır.
 
 Tıkırtı zar zor duyuluyorsa ve aşamanın erken mi orta mı olduğunu ayırmak
-zorsa, tam kilitte yavaş bir tur atarken sesi Stuk uygulamasında kaydedin.
+zorsa, tam kilitte yavaş bir tur atarken sesi Pro-Stuk uygulamasında kaydedin.
 Uygulama kaydı birkaç soruya verdiğiniz cevaplarla eşleştirir ve durumun
 ne kadar bekleyebileceğini, çekici planlamak gerekip gerekmediğini
 gösterir.

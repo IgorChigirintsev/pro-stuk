@@ -1,6 +1,6 @@
 ---
 title: "Bourdonnement du coupleur de transmission intégrale sur CR-V"
-metaTitle: "CR-V : bourdonnement du coupleur intégral | Stuk"
+metaTitle: "CR-V : bourdonnement du coupleur intégral | Pro-Stuk"
 description: "Un bourdonnement venu du coupleur arrière d'un CR-V en braquage serré et à basse vitesse : pourquoi le fluide est en cause et comment écarter le roulement."
 faq:
   - q: "Un bourdonnement quand je fais demi-tour sur un parking, c'est le coupleur ?"
@@ -96,7 +96,7 @@ un atelier qui le dit franchement est plus digne de confiance que celui
 qui vous vend une troisième vidange.
 
 Si vous voulez arriver avec une théorie plutôt qu'avec un vague « ça
-bourdonne », enregistrez le son avec l'application Stuk pendant un
+bourdonne », enregistrez le son avec l'application Pro-Stuk pendant un
 demi-tour sur une aire dégagée. L'application croise l'enregistrement avec
 quelques réponses et affiche les causes probables avec leurs
 pourcentages — ce qui raccourcit nettement le diagnostic.

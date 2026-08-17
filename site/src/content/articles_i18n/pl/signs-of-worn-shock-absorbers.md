@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych amortyzatorów"
-metaTitle: "Zużyte amortyzatory: 8 objawów | Stuk"
+metaTitle: "Zużyte amortyzatory: 8 objawów | Pro-Stuk"
 description: "Osiem objawów zużytych amortyzatorów: kołysanie, nurkowanie, stuki, plamiste zużycie opon. Jak sprawdzić je samemu i na czym polega wymiana."
 faq:
   - q: "Dlaczego zużycie amortyzatorów trudno zauważyć?"
@@ -80,7 +80,7 @@ solidny powód do diagnostyki.
 
 | Objaw | Co jeszcze tak wygląda | Jak odróżnić |
 |---|---|---|
-| Stuk na nierównościach | Łączniki i tuleje stabilizatora, tuleje wahaczy | Stuk łączników jest drobny i częsty, cichnie na zakrętach; amortyzatora — głuchy i rzadszy |
+| Pro-Stuk na nierównościach | Łączniki i tuleje stabilizatora, tuleje wahaczy | Pro-Stuk łączników jest drobny i częsty, cichnie na zakrętach; amortyzatora — głuchy i rzadszy |
 | Kołysanie, przechyły | Zmęczone sprężyny | Sprężyny objawiają się utratą prześwitu, amortyzatory kołysaniem |
 | Dobijanie | Zniszczone odbojniki, zmęczone sprężyny | Oględziny na podnośniku: stan odbojników i wysokość sprężyn |
 | Pływanie po pasie | Geometria, zużyte opony, luzy w kierownicy | Sprawdzić kąty kół i luzy przed wymianą amortyzatorów |
@@ -135,6 +135,6 @@ Dopasowanie amortyzatora do auta i do sposobu jazdy znaczy więcej niż
 napis na pudełku.
 
 Jeśli zawieszenie stuka, a źródło nie jest oczywiste, proszę nagrać dźwięk
-w aplikacji Stuk: zestawia ona nagranie z Pana odpowiedziami o tym, kiedy i
+w aplikacji Pro-Stuk: zestawia ona nagranie z Pana odpowiedziami o tym, kiedy i
 jak dźwięk się pojawia, i pokazuje prawdopodobne przyczyny wraz z oceną
 pilności.

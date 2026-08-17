@@ -1,7 +1,7 @@
 ---
 ru: "stuk-posle-remonta-podveski"
 title: "A knock after suspension work: who is to blame"
-metaTitle: "A knock after suspension work: who is to blame | Stuk"
+metaTitle: "A knock after suspension work: who is to blame | Pro-Stuk"
 description: "A knock appeared after suspension work: a fitting mistake, a faulty part or a neighbouring component? How to separate the three versions calmly."
 pubDate: "2026-07-11"
 related:
@@ -101,7 +101,7 @@ resolved without conflict: a decent workshop finds it easier to redo the
 job than to argue.
 
 The strongest argument in that conversation is the sound itself. Record it
-in the Stuk app on a representative stretch of road: the algorithm matches
+in the Pro-Stuk app on a representative stretch of road: the algorithm matches
 the recording with your answers and shows the likely sources with an
 urgency level. With that result it is easier both to talk to the workshop
 and to judge how much of a hurry you are actually in.

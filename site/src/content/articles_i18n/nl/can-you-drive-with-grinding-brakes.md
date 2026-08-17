@@ -1,6 +1,6 @@
 ---
 title: "Kun je rijden met knarsende remmen"
-metaTitle: "Rijden met knarsende remmen? | Stuk"
+metaTitle: "Rijden met knarsende remmen? | Pro-Stuk"
 description: "Metalig geknars bij het remmen betekent dat het remmateriaal op is en metaal de schijf snijdt. Hoe ver u nog kunt rijden, wat u niet moet doen en wat het kost."
 faq:
   - q: "Hoeveel kilometer kan ik rijden met knarsende remmen?"

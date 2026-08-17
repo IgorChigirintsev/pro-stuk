@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego paska rozrządu"
-metaTitle: "Zużyty pasek rozrządu: oględziny i terminy | Stuk"
+metaTitle: "Zużyty pasek rozrządu: oględziny i terminy | Pro-Stuk"
 description: "Jak rozpoznać zużyty pasek rozrządu: pęknięcia, strzępienie, stukot i gwizd rolek. Dlaczego zerwanie niszczy silnik i kiedy pasek trzeba wymienić."
 faq:
   - q: "Co się stanie, jeśli pasek rozrządu zerwie się podczas jazdy?"
@@ -110,6 +110,6 @@ jednorazowe. Robota bez tych kroków może wyglądać idealnie i mimo to być
 zrobiona źle.
 
 Jeśli z okolic rozrządu już słychać stukanie, szelest albo gwizd, proszę
-nagrać ten dźwięk: nagranie w aplikacji Stuk wraz z odpowiedziami na
+nagrać ten dźwięk: nagranie w aplikacji Pro-Stuk wraz z odpowiedziami na
 kilka pytań pomaga ustalić, czy to rolki, pompa, czy coś poważniejszego —
 i z czym jechać do warsztatu.

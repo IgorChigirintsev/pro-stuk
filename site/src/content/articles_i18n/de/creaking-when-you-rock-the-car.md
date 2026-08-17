@@ -1,6 +1,6 @@
 ---
 title: "Knarzen beim Wippen des Autos"
-metaTitle: "Knarzen beim Wippen: Ursachen und Reparatur | Stuk"
+metaTitle: "Knarzen beim Wippen: Ursachen und Reparatur | Pro-Stuk"
 description: "Warum die Karosserie beim Wippen von Hand und über Wellen knarzt: Stabilisatorlager, Querlenkerbuchsen, Federbeinlager. Wie Sie die Knarzstelle finden."
 faq:
   - q: "Warum knarzt es nach Regen, einer Wäsche oder bei Frost stärker?"

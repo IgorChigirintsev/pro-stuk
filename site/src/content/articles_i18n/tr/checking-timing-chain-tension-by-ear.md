@@ -1,6 +1,6 @@
 ---
 title: "Triger zinciri gerginliğini kulakla kontrol etmek"
-metaTitle: "Triger zinciri gerginliğini kulakla kontrol etmek | Stuk"
+metaTitle: "Triger zinciri gerginliğini kulakla kontrol etmek | Pro-Stuk"
 description: "Uzamış triger zinciri kulakla nasıl duyulur: kendini hangi koşullarda ele verir, külbütör ve enjektör sesinden farkı ne, soğuk çalıştırma ne gösterir."
 faq:
   - q: "Triger zinciri neden en çok soğuk çalıştırmada duyulur?"
@@ -94,7 +94,7 @@ aynı işe girer: erişimin parası zaten ödenmiştir.
 Takırtı sıcak motorda da duyuluyorsa ertelemeyin — çoğu modern motorda
 atlayan bir zincir, pistonların supaplarla buluşmasıyla biter.
 
-Soğuk çalıştırmayı kaydetmenin en kolay yolu Stuk uygulamasıdır: kontağı
+Soğuk çalıştırmayı kaydetmenin en kolay yolu Pro-Stuk uygulamasıdır: kontağı
 çevirmeden önce kaydı başlatın ve telefonu radyatör ızgarasının yakınında
 tutun. Uygulama sesi süre ve koşullarla ilgili cevaplarınızla karşılaştırır
 ve olası sebepleri yüzdelerle gösterir — kayıt da ustaya dinletmek üzere

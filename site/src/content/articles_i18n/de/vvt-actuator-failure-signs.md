@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für einen defekten Nockenwellenversteller"
-metaTitle: "Nockenwellenversteller defekt: Ton und Zeichen | Stuk"
+metaTitle: "Nockenwellenversteller defekt: Ton und Zeichen | Pro-Stuk"
 description: "Anzeichen für einen defekten Nockenwellenversteller: Rasseln nach dem Start, unruhiger Leerlauf, höherer Verbrauch, Codes P0010–P0017."
 faq:
   - q: "Was ist ein Nockenwellenversteller einfach gesagt?"

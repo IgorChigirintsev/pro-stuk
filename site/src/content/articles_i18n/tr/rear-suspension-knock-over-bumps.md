@@ -1,6 +1,6 @@
 ---
 title: "Tümseklerde arka süspansiyon tıkırtısı"
-metaTitle: "Tümseklerde arka süspansiyon tıkırtısı: nedenleri | Stuk"
+metaTitle: "Tümseklerde arka süspansiyon tıkırtısı: nedenleri | Pro-Stuk"
 description: "Arka süspansiyonda tümseklerde ne tıkırdar: amortisörler, kiriş burçları, yaylar ya da bagajdaki yük. Liftsiz kontroller ve tamir kararı."
 faq:
   - q: "Arkadaki tıkırtının yerini bulmak neden bu kadar zor?"
@@ -129,7 +129,7 @@ işçiliktir, şişirme değil. Ve kiriş bağlantı cıvataları son torkların
 süspansiyon yüklüyken alır — kiriş havada asılıyken sıkılırsa burç
 kauçuğu burulmuş halde yaşar ve aylar içinde yeniden tıkırdar.
 
-Arkadaki tıkırtıyı hâlâ belirli bir parçaya bağlayamıyorsanız, sesi Stuk
+Arkadaki tıkırtıyı hâlâ belirli bir parçaya bağlayamıyorsanız, sesi Pro-Stuk
 uygulamasında kaydedin: uygulama sesi, ne zaman ve nasıl tümseklerde
 çıktığına dair cevaplarınızla eşleştirir ve muhtemel nedenleri aciliyet
 düzeyiyle gösterir — o listeyle liftteki teşhis daha hızlı ilerler.

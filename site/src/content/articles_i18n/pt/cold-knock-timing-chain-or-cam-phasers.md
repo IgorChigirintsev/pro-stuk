@@ -1,6 +1,6 @@
 ---
 title: "Batida a frio: corrente de comando ou variador de fase"
-metaTitle: "Batida a frio: corrente ou variador de fase | Stuk"
+metaTitle: "Batida a frio: corrente ou variador de fase | Pro-Stuk"
 description: "O chocalho nos primeiros segundos após a partida fria vem tanto da corrente de comando esticada quanto do variador de fase. Como separar pela duração."
 faq:
   - q: "Quantos segundos de batida a frio são normais?"
@@ -87,7 +87,7 @@ alimentado através de uma telinha entupida chocalha igualzinho a um
 desgastado, e a limpeza custa uma fração da peça.
 
 Se você não tem certeza se o seu ruído está dentro do normal, grave a
-partida fria no aplicativo Stuk por vários dias seguidos. O app separa a
+partida fria no aplicativo Pro-Stuk por vários dias seguidos. O app separa a
 gravação por caráter e duração e mostra as causas prováveis com
 porcentagens — e comparar as gravações entre si já mostra sozinho se o som
 está estável ou crescendo.

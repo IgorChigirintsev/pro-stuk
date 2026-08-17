@@ -1,6 +1,6 @@
 ---
 title: "Piepende remmen: blokken of schijven"
-metaTitle: "Piepende remmen: blokken of schijven? | Stuk"
+metaTitle: "Piepende remmen: blokken of schijven? | Pro-Stuk"
 description: "Remmen piepen door de remblokken en door de remschijven. Zo verraden de omstandigheden waarin het geluid opkomt welke van de twee vervangen moet worden."
 faq:
   - q: "Is een rempiep 's ochtends een storing?"

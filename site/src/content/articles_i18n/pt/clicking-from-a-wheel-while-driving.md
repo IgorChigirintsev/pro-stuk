@@ -1,6 +1,6 @@
 ---
 title: "Estalo vindo de uma roda em movimento"
-metaTitle: "Estalo vindo da roda ao rodar: causas | Stuk"
+metaTitle: "Estalo vindo da roda ao rodar: causas | Pro-Stuk"
 description: "Estalo ritmado no compasso da roda: pedra na banda, parafuso, calota ou o disco de freio. Como achar a origem e quando não se deve rodar."
 faq:
   - q: "O estalo acelera junto com a velocidade — o que isso me diz?"
@@ -95,7 +95,7 @@ dias, e se o estalo continuar lá uma semana depois, a teoria do «é só uma
 pedrinha» já não funciona — hora do elevador.
 
 Se você não achou a origem no olho e o som só se ouve em movimento,
-grave-o no aplicativo Stuk enquanto anda por uma rua tranquila com o
+grave-o no aplicativo Pro-Stuk enquanto anda por uma rua tranquila com o
 vidro aberto. O app cruza a gravação com as suas respostas sobre
 velocidade e reação ao freio e mostra as causas prováveis com percentuais
 — e sugere qual roda inspecionar primeiro.

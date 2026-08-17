@@ -1,6 +1,6 @@
 ---
 title: "Triger zinciri gergisi arızasının belirtileri"
-metaTitle: "Triger zinciri gergisi: arıza belirtileri | Stuk"
+metaTitle: "Triger zinciri gergisi: arıza belirtileri | Pro-Stuk"
 description: "Triger zinciri gergisinin zayıfladığı nasıl anlaşılır: soğukta tıngırtı, rölantide hışırtı, gaza dokununca vuruntu ve diş atlama riski."
 faq:
   - q: "Zincir neden sadece soğuk çalıştırmada takırdıyor?"
@@ -98,7 +98,7 @@ Yüksek kilometrelerde takımın tamamı değiştirilir: zincir, gergi, kızakla
 ve dişliler; çünkü işçilik ortaktır ve aşınmış kızaklar yeni zinciri hızla
 bitirir.
 
-Sorunu servise anlatmanın en kolay yolu sestir. Soğuk çalıştırmayı Stuk
+Sorunu servise anlatmanın en kolay yolu sestir. Soğuk çalıştırmayı Pro-Stuk
 uygulamasında kaydedin: uygulama kaydı tipik arıza sesleriyle eşleştirir,
 verdiğiniz cevapları da hesaba katar ve ustaya ne kadar acil ihtiyaç
 olduğunu değerlendirir.

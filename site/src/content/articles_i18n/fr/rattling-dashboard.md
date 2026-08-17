@@ -1,6 +1,6 @@
 ---
 title: "Une planche de bord qui vibre"
-metaTitle: "Planche de bord qui vibre : trouver la source | Stuk"
+metaTitle: "Planche de bord qui vibre : trouver la source | Pro-Stuk"
 description: "Une planche de bord qui vibre agace plus qu'elle ne nuit. Pourquoi le plastique grésille, comment trouver le point de contact en dix minutes et quand elle n'y est pour rien."
 faq:
   - q: "Une planche de bord qui vibre, est-ce dangereux ?"
@@ -108,7 +108,7 @@ trouvé l'élément qui fait taire le bruit quand on appuie dessus,
 dites-le en premier.
 
 Si vous n'arrivez pas à déterminer si c'est la planche qui vibre ou
-quelque chose derrière, enregistrez le son dans l'application Stuk depuis
+quelque chose derrière, enregistrez le son dans l'application Pro-Stuk depuis
 l'habitacle — au ralenti et en roulant. L'application confronte
 l'enregistrement à quelques réponses et affiche les sources probables en
 pourcentages, pour que personne n'ait à démonter la planche de bord au

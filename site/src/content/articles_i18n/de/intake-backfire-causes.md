@@ -1,6 +1,6 @@
 ---
 title: "Knallen in den Ansaugtrakt: die Ursachen"
-metaTitle: "Knallen im Ansaugtrakt: Ursachen und Diagnose | Stuk"
+metaTitle: "Knallen im Ansaugtrakt: Ursachen und Diagnose | Pro-Stuk"
 description: "Knallen in den Ansaugkrümmer: mageres Gemisch, Aussetzer, verstellte Steuerzeiten. Wie Sie die Ursache finden und es vom Knallen im Auspuff trennen."
 faq:
   - q: "Ist Knallen in den Ansaugtrakt gefährlich?"

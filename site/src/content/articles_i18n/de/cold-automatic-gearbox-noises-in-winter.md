@@ -1,6 +1,6 @@
 ---
 title: "Geräusche der kalten Automatik im Winter"
-metaTitle: "Kalte Automatik im Winter: die Geräusche | Stuk"
+metaTitle: "Kalte Automatik im Winter: die Geräusche | Pro-Stuk"
 description: "Im Winter brummt, ruckt und klackt eine kalte Automatik und wird nach zehn Minuten leise. Wo das Normale endet und welche Töne nach dem Warmlaufen bleiben."
 faq:
   - q: "Ist Brummen einer kalten Automatik bei Frost normal?"

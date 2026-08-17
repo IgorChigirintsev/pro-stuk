@@ -1,6 +1,6 @@
 ---
 title: "Crujidos en el habitáculo en invierno"
-metaTitle: "Crujidos en el habitáculo en invierno: por qué el frío | Stuk"
+metaTitle: "Crujidos en el habitáculo en invierno: por qué el frío | Pro-Stuk"
 description: "Por qué el habitáculo cruje más en invierno: qué le pasa al plástico y a la goma con el frío, qué sonidos se van al calentarse y cuáles hay que revisar."
 faq:
   - q: "¿Por qué el habitáculo cruje solo en los primeros minutos tras salir?"
@@ -109,7 +109,7 @@ reproduce balanceando el coche parado, empiece por
 [crujido al balancear el coche](/es/articles/creaking-when-you-rock-the-car/).
 
 Distinguir un crujido estacional de uno real es más fácil comparando. Grabe el
-sonido con la aplicación Stuk en el primer minuto tras salir, y repita la
+sonido con la aplicación Pro-Stuk en el primer minuto tras salir, y repita la
 misma grabación media hora después con el coche caliente. Si la segunda
 grabación sale limpia, es la helada; si el sonido sigue ahí, la aplicación
 sugiere qué componentes revisar primero.

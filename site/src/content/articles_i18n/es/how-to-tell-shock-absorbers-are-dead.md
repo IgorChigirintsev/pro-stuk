@@ -1,6 +1,6 @@
 ---
 title: "Cómo saber si los amortiguadores están muertos"
-metaTitle: "Cómo saber si los amortiguadores están muertos | Stuk"
+metaTitle: "Cómo saber si los amortiguadores están muertos | Pro-Stuk"
 description: "Carrocería que flota, tocar el tope en los baches, distancias de frenado más largas y fugas de aceite: cómo juzgar los amortiguadores sin banco de pruebas."
 faq:
   - q: "¿La prueba de rebote funciona de verdad?"
@@ -104,7 +104,7 @@ parejas en cada eje. Y la alineación de dirección posterior es un paso
 obligado y no una opción, porque sustituir amortiguadores cambia la geometría.
 
 Si duda entre «la suspensión está cansada» y «se ha roto algo concreto», grabe
-un trayecto por ondulaciones y baches con la aplicación Stuk. Relaciona el
+un trayecto por ondulaciones y baches con la aplicación Pro-Stuk. Relaciona el
 carácter de los impactos con sus respuestas sobre cómo se comporta la
 carrocería y muestra las causas probables con porcentajes: bastante más
 preciso que intentar describir el flotamiento con palabras.

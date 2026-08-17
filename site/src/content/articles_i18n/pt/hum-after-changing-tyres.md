@@ -1,6 +1,6 @@
 ---
 title: "Zumbido depois da troca de pneus"
-metaTitle: "Zumbido depois da troca de pneus: o que conferir | Stuk"
+metaTitle: "Zumbido depois da troca de pneus: o que conferir | Pro-Stuk"
 description: "Apareceu zumbido em velocidade depois da troca de pneus. Quando a culpa é da banda de rodagem, do balanceamento ou do rodízio, e quando o pneu é inocente."
 faq:
   - q: "Pneu novo sempre zumbe no começo?"
@@ -88,7 +88,7 @@ amortecedores cansados vão gastar o jogo novo do mesmo jeito.
 
 Se você não tem certeza se o som mudou depois do rodízio, não confie na
 memória: dois decibéis são quase impossíveis de julgar de ouvido. Grave o
-zumbido no aplicativo Stuk antes e depois da troca — ele compara as
+zumbido no aplicativo Pro-Stuk antes e depois da troca — ele compara as
 gravações com as suas respostas e mostra as causas prováveis com
 percentuais, para ninguém trocar pneu quando a culpa é do rolamento.
 </content>

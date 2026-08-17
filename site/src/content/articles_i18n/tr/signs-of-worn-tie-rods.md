@@ -1,6 +1,6 @@
 ---
 title: "Rot kollarının aşınma belirtileri"
-metaTitle: "Aşınmış rot kolu: tıkırtı, boşluk, çekme | Stuk"
+metaTitle: "Aşınmış rot kolu: tıkırtı, boşluk, çekme | Pro-Stuk"
 description: "Aşınmış rot kolu nasıl anlaşılır: küçük tümseklerde tıkırtı, direksiyon boşluğu, aracın çekmesi. Kendi kontrolleriniz ve onarımda önemli noktalar."
 faq:
   - q: "Rot kolu ile rot başı arasındaki fark nedir?"
@@ -104,6 +104,6 @@ bir mafsalı bile bir sezonda bitirir, alt takım teşhisinde körüklerin
 muayenesinin standart olmasının sebebi budur.
 
 Direksiyondan tıkırtı duyuluyor ama teşhis belirsizse, sesi karakteristik bir
-yol parçasında Stuk uygulamasında kaydedin. Uygulama kaydı verdiğiniz
+yol parçasında Pro-Stuk uygulamasında kaydedin. Uygulama kaydı verdiğiniz
 cevaplarla eşleştirir ve olası nedenleri aciliyet seviyesiyle gösterir —
 böylece servise hazır bir hipotezle gidersiniz.

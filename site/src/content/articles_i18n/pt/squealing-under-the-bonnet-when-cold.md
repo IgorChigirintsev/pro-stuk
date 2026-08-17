@@ -1,6 +1,6 @@
 ---
 title: "Chiado embaixo do capô com o motor frio"
-metaTitle: "Chiado embaixo do capô a frio: causas | Stuk"
+metaTitle: "Chiado embaixo do capô a frio: causas | Pro-Stuk"
 description: "Por que aparece chiado embaixo do capô com o motor frio e some depois de aquecer: correia, roletes, bomba d'água. Como achar a origem sozinho."
 faq:
   - q: "Por que o chiado some quando o motor aquece?"
@@ -142,6 +142,6 @@ experiente separa patinagem de rolamento em poucos segundos, e isso poupa
 uma segunda visita.
 
 Se você não tem certeza se é correia ou rolamento, grave o chiado da manhã
-no aplicativo Stuk: ele compara a gravação com sons típicos de defeito, leva
+no aplicativo Pro-Stuk: ele compara a gravação com sons típicos de defeito, leva
 em conta suas respostas e mostra as causas prováveis com um grau de
 urgência.

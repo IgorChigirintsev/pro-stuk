@@ -1,6 +1,6 @@
 ---
 title: "Batida de pino ao acelerar: as causas"
-metaTitle: "Batida de pino ao acelerar: causas e soluções | Stuk"
+metaTitle: "Batida de pino ao acelerar: causas e soluções | Pro-Stuk"
 description: "Por que o motor tine ao acelerar: detonação, combustível, carvão, velas. Como diferenciar um tinido inofensivo de pino de pistão realmente gasto."
 faq:
   - q: "Esse tinido é mesmo dos pinos do pistão?"
@@ -125,7 +125,7 @@ velas e uma olhada com endoscópio no topo dos pistões são a resposta honesta;
 uma suposição pela quilometragem, não.
 
 Se quiser um apoio antes da oficina, grave o som da aceleração no aplicativo
-Stuk. Ele compara a gravação com sons típicos, faz algumas perguntas sobre
+Pro-Stuk. Ele compara a gravação com sons típicos, faz algumas perguntas sobre
 quando e como o tinido aparece e mostra as causas prováveis com um nível de
 urgência. Assim você chega com uma hipótese concreta, e não com «alguma coisa
 tine».

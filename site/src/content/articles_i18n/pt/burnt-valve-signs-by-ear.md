@@ -1,6 +1,6 @@
 ---
 title: "Sinais de válvula queimada pelo som"
-metaTitle: "Sinais de válvula queimada pelo som | Stuk"
+metaTitle: "Sinais de válvula queimada pelo som | Pro-Stuk"
 description: "Estouros ritmados no escape, falha de ignição e chiado em marcha lenta: como reconhecer uma válvula queimada e quais testes confirmam a suspeita."
 faq:
   - q: "Como diferenciar de ouvido uma válvula queimada de uma falha de ignição?"
@@ -102,7 +102,7 @@ estouros ritmados e falha de combustão leva direto a catalisador
 superaquecido e cilindro danificado.
 
 Se os estouros são ocasionais e você não tem certeza de que são ritmados,
-grave a marcha lenta e uma acelerada curta com o aplicativo Stuk. Ele avalia
+grave a marcha lenta e uma acelerada curta com o aplicativo Pro-Stuk. Ele avalia
 a periodicidade do som e a ligação dele com a rotação do motor, mostra as
 causas prováveis em porcentagem — e você chega ao diagnóstico com uma
 hipótese que só precisa ser conferida.

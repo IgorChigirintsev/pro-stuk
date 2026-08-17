@@ -1,6 +1,6 @@
 ---
 title: "Le bruit change quand on passe au point mort"
-metaTitle: "Le bruit change au point mort : ce que ça veut dire | Stuk"
+metaTitle: "Le bruit change au point mort : ce que ça veut dire | Pro-Stuk"
 description: "Vous passez au point mort en roulant et le bruit change. Ce que cela dit de la source, comment faire le test correctement et ce que cela permet d'écarter."
 faq:
   - q: "Est-ce sans danger de passer au point mort en roulant ?"
@@ -104,7 +104,7 @@ aide, et l'ensemble des bruits de route est couvert sur la page symptôme
 [ronflement en roulant](/fr/symptoms/humming-while-driving/).
 
 Enregistrer les deux passages — en prise et au point mort — est commode
-dans l'application Stuk : elle compare les extraits, les recoupe avec vos
+dans l'application Pro-Stuk : elle compare les extraits, les recoupe avec vos
 réponses sur la vitesse et les conditions et montre les causes probables en
 pourcentages. Vous arrivez à l'atelier avec une hypothèse plutôt qu'avec un
 vague « ça ronfle ».

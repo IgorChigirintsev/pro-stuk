@@ -1,6 +1,6 @@
 ---
 title: "Embrague del compresor del aire acondicionado: ruidos de avería"
-metaTitle: "Embrague del compresor A/A: ruidos de avería | Stuk"
+metaTitle: "Embrague del compresor A/A: ruidos de avería | Pro-Stuk"
 description: "Traqueteo, silbido o rechinar que aparece justo al conectar el aire acondicionado: cómo suena un embrague electromagnético desgastado y qué comprueba el taller."
 faq:
   - q: "¿Cómo sé si es el embrague y no el compresor en sí?"
@@ -98,7 +98,7 @@ Cambiar el compresor sin encontrar la fuga significa que el nuevo
 trabajará en las mismas condiciones que mataron al anterior.
 
 Si el ruido solo aparece con calor y no se puede reproducir en el taller,
-grábelo con la aplicación Stuk: primero con el aire acondicionado apagado
+grábelo con la aplicación Pro-Stuk: primero con el aire acondicionado apagado
 y después justo tras conectarlo. La aplicación compara las dos grabaciones
 con sus respuestas y muestra qué es más probable: el embrague, un rodillo
 de la correa de accesorios o el propio compresor.

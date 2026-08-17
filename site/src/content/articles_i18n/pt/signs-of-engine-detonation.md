@@ -1,6 +1,6 @@
 ---
 title: "Sinais de detonação no motor"
-metaTitle: "Sinais de detonação no motor: como notar | Stuk"
+metaTitle: "Sinais de detonação no motor: como notar | Pro-Stuk"
 description: "Como reconhecer a detonação no motor: batida metálica ao acelerar, perda de força, consumo maior. As causas, do combustível à carbonização."
 faq:
   - q: "Como a detonação difere da batida de biela no som?"
@@ -138,7 +138,7 @@ Qualquer um desses passos custa incomparavelmente menos que as
 consequências: dano em pistão e anéis é retífica.
 
 Se você não tem certeza se é detonação ou batida mecânica, grave a
-aceleração no aplicativo Stuk. Ele cruza a gravação com sons típicos de
+aceleração no aplicativo Pro-Stuk. Ele cruza a gravação com sons típicos de
 motor, faz algumas perguntas de esclarecimento e mostra as causas prováveis
 com nível de urgência — com isso na mão, a conversa na oficina fica mais
 curta e mais objetiva.

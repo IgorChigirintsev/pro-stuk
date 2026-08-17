@@ -1,6 +1,6 @@
 ---
 title: "Un bourdonnement en tournant à droite"
-metaTitle: "Bourdonnement en tournant à droite : causes | Stuk"
+metaTitle: "Bourdonnement en tournant à droite : causes | Pro-Stuk"
 description: "Si le bourdonnement grossit dans les courbes à droite, le roulement de roue gauche est suspect. Contrôle pas à pas sans pont, sosies et réparation."
 faq:
   - q: "Pourquoi tourner à droite fait-il bourdonner le roulement gauche ?"
@@ -101,7 +101,7 @@ moyeu, ce qui explique qu'un roulement en fin de vie amène parfois des
 témoins en plus du bruit.
 
 Vous n'êtes pas sûr que vos oreilles pointent dans la bonne direction ?
-Enregistrez le bourdonnement dans l'application Stuk pendant les
+Enregistrez le bourdonnement dans l'application Pro-Stuk pendant les
 changements de file : l'application croise l'enregistrement avec vos
 réponses et affiche les causes probables avec leurs pourcentages et un
 niveau d'urgence — vous arrivez ainsi avec une hypothèse plutôt qu'avec

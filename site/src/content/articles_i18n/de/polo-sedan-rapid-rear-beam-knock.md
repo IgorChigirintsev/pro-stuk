@@ -1,6 +1,6 @@
 ---
 title: "Klopfen der Hinterachse bei Polo Sedan und Rapid"
-metaTitle: "Polo Sedan und Rapid: Klopfen hinten | Stuk"
+metaTitle: "Polo Sedan und Rapid: Klopfen hinten | Pro-Stuk"
 description: "Warum es bei Polo Sedan oder Rapid hinten klopft: Achsbuchsen, Stoßdämpfer, Anschlagpuffer, Befestigungen. Wie Sie die Quelle eingrenzen und was die Reparatur bestimmt."
 faq:
   - q: "Kann man nur die Buchsen tauschen, ohne die Achse zu wechseln?"

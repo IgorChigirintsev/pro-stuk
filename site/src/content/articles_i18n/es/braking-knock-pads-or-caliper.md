@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo al frenar: pastillas o pinza de freno"
-metaTitle: "Golpeteo al frenar: pastillas o pinza | Stuk"
+metaTitle: "Golpeteo al frenar: pastillas o pinza | Pro-Stuk"
 description: "Un golpe al pisar el pedal puede venir del movimiento de las pastillas o de una pinza de freno floja. Cómo distinguirlos por el carácter del sonido."
 faq:
   - q: "¿Por qué el golpe se oye solo en la primera frenada?"
@@ -96,7 +96,7 @@ solo uso, y un tornillo que se afloja es justo la versión de esta avería
 que importa.
 
 Los golpes de freno rara vez se reproducen a demanda en el taller. Se
-puede grabar el sonido con la aplicación Stuk dos veces: en la primera
+puede grabar el sonido con la aplicación Pro-Stuk dos veces: en la primera
 frenada tras arrancar y en una frenada suave desde 60 km/h. A partir de la
 diferencia entre las grabaciones, la aplicación muestra las causas
 probables con porcentajes y sugiere qué pieza conviene revisar primero.

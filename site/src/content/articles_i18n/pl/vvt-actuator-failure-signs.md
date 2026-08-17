@@ -1,6 +1,6 @@
 ---
 title: "Objawy uszkodzonego sprzęgła VVT"
-metaTitle: "Uszkodzone sprzęgło VVT: dźwięk i objawy | Stuk"
+metaTitle: "Uszkodzone sprzęgło VVT: dźwięk i objawy | Pro-Stuk"
 description: "Objawy uszkodzonego sprzęgła VVT: grzechot po rozruchu, nierówny bieg jałowy, wyższe spalanie, błędy P0010–P0017. Jak odróżnić je od innych dźwięków."
 faq:
   - q: "Czym jest sprzęgło VVT, mówiąc prosto?"
@@ -112,6 +112,6 @@ Odkładanie robi się coraz droższe: zużyte sprzęgło przyspiesza zużycie
 tłoków.
 
 Jeśli nie ma pewności, że dźwięki z silnika to sprzęgło, nagraj zimny
-rozruch w aplikacji Stuk: algorytm zestawia nagranie z odpowiedziami i
+rozruch w aplikacji Pro-Stuk: algorytm zestawia nagranie z odpowiedziami i
 zwraca prawdopodobne przyczyny z procentami oraz stopniem pilności — wygodny
 punkt wyjścia do rozmowy z warsztatem.

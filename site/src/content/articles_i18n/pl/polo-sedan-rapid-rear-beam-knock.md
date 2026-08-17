@@ -1,6 +1,6 @@
 ---
-title: "Stuk tylnej belki w Polo Sedan i Skodzie Rapid"
-metaTitle: "Polo Sedan i Rapid: stuk tylnej belki, przyczyny | Stuk"
+title: "Pro-Stuk tylnej belki w Polo Sedan i Skodzie Rapid"
+metaTitle: "Polo Sedan i Rapid: stuk tylnej belki, przyczyny | Pro-Stuk"
 description: "Dlaczego Polo Sedan albo Rapid stuka z tyłu: tuleje belki, amortyzatory, odboje i mocowania. Jak zlokalizować źródło i od czego zależy naprawa."
 faq:
   - q: "Czy można wymienić same tuleje, bez wymiany belki?"
@@ -50,10 +50,10 @@ oraz [szum rosnący z prędkością](/pl/articles/hum-that-grows-with-speed/).
 | Drobne, częste nierówności, głuchy stuk | Tuleje belki |
 | Falowana droga, pływanie nadwozia, stuk w rytm | Amortyzatory, górne mocowania |
 | Ostre uderzenie w dużej dziurze | Odboje, dobijanie zawieszenia |
-| Stuk przy ruszaniu i hamowaniu | Mocowania, wydech, bagaż w bagażniku |
+| Pro-Stuk przy ruszaniu i hamowaniu | Mocowania, wydech, bagaż w bagażniku |
 | Szum rosnący z prędkością | Łożysko koła |
 
-Prosty test domowy: pokołysać autem za tylny zderzak i posłuchać. Stuk przy
+Prosty test domowy: pokołysać autem za tylny zderzak i posłuchać. Pro-Stuk przy
 kołysaniu wskazuje na amortyzatory i ich mocowania — jak je ocenić, mówi
 [jak poznać, że amortyzatory są zużyte](/pl/articles/how-to-tell-shock-absorbers-are-dead/).
 Potem opróżnić bagażnik do końca i przejechać ten sam odcinek — jeśli dźwięk
@@ -98,7 +98,7 @@ trzeba sprawdzić —
 [stuk po naprawie zawieszenia](/pl/articles/knock-after-suspension-repair/).
 
 Jeśli stuk pojawia się tylko na konkretnym odcinku drogi i nie da się go
-odtworzyć w warsztacie, warto nagrać dźwięk aplikacją Stuk podczas przejazdu
+odtworzyć w warsztacie, warto nagrać dźwięk aplikacją Pro-Stuk podczas przejazdu
 przez to miejsce. Aplikacja zestawia nagranie z odpowiedziami na pytania i
 pokazuje prawdopodobne przyczyny z procentami, dzięki czemu rozmowa z
 mechanikiem zaczyna się od konkretnej części.

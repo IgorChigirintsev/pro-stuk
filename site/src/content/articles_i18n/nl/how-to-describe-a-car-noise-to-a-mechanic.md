@@ -1,6 +1,6 @@
 ---
 title: "Wat u tegen de monteur zegt: een geluid goed beschrijven"
-metaTitle: "Een autogeluid beschrijven bij de monteur | Stuk"
+metaTitle: "Een autogeluid beschrijven bij de monteur | Pro-Stuk"
 description: "Hoe u een geluid zo beschrijft dat de monteur het meteen snapt: de vijf dingen die tellen, formuleringen die werken en fouten die u beter vermijdt."
 faq:
   - q: "Moet ik het onderdeel noemen dat ik verdenk?"

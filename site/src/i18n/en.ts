@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const en: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Symptoms',
     how: 'How it works',
@@ -11,7 +11,7 @@ export const en: Dict = {
   },
   footer: {
     disclaimer:
-      'Stuk gives a probability estimate from your answers and the sound, not a diagnosis. ' +
+      'Pro-Stuk gives a probability estimate from your answers and the sound, not a diagnosis. ' +
       'The final call on any repair belongs to a mechanic who has looked at the car.',
     how: 'How it works',
     privacy: 'Privacy policy',
@@ -19,7 +19,7 @@ export const en: Dict = {
     ruOnly: 'Symptom guides and articles (in Russian)',
   },
   home: {
-    title: 'Stuk — diagnose your car by its sound',
+    title: 'Pro-Stuk — diagnose your car by its sound',
     description:
       'Record the noise and find out what your car is doing. A short questionnaire, ' +
       'sound analysis and a report: likely causes with percentages, an urgency traffic ' +
@@ -52,7 +52,7 @@ export const en: Dict = {
     faq: [
       {
         q: 'Is this an exact diagnosis?',
-        a: 'No. Stuk gives a probability estimate: a list of possible causes with percentages and how urgent it is. The exact diagnosis comes from a mechanic after an inspection — the report just means you arrive prepared.',
+        a: 'No. Pro-Stuk gives a probability estimate: a list of possible causes with percentages and how urgent it is. The exact diagnosis comes from a mechanic after an inspection — the report just means you arrive prepared.',
       },
       {
         q: 'What does it cost?',
@@ -85,7 +85,7 @@ export const en: Dict = {
     schemaWhole: 'The whole assembly.',
   },
   symptoms: {
-    indexTitle: 'Car noises and symptoms explained | Stuk',
+    indexTitle: 'Car noises and symptoms explained | Pro-Stuk',
     indexDescription: 'Knocking, humming, squealing, grinding: what each car noise means, how dangerous it is and what you can check yourself. Symptom guides with a diagnostic tree.',
     h1: 'Symptoms by sound',
     sub: 'Pick the noise closest to yours. Each guide lists the likely causes, a danger traffic light, safe checks you can do yourself and an interactive diagnostic tree.',
@@ -117,7 +117,7 @@ export const en: Dict = {
   },
   download: {
     h2: 'The Android app',
-    sub: 'The questionnaire, the sound recording and the full report with probabilities are all in the Stuk app.',
+    sub: 'The questionnaire, the sound recording and the full report with probabilities are all in the Pro-Stuk app.',
     btn: 'Download for Android',
     meta: 'Version {version} · APK {size} MB · updated {date}',
     installH: 'How to install the APK',
@@ -130,9 +130,9 @@ export const en: Dict = {
     playNote: 'When the app reaches Google Play, this page will be updated.',
   },
   how: {
-    title: 'How sound diagnosis works | Stuk',
+    title: 'How sound diagnosis works | Pro-Stuk',
     description:
-      'A straight account of how Stuk works: the questionnaire as the main tool, ' +
+      'A straight account of how Pro-Stuk works: the questionnaire as the main tool, ' +
       'spectral analysis of the recording, a language model and the known weak spots ' +
       'of each model. Why the result is a probability.',
     schemaName: 'How sound diagnosis works',
@@ -142,7 +142,7 @@ export const en: Dict = {
       'Every diagnostician starts by asking: when did the noise appear, what does it sound ' +
       'like, does it depend on speed, engine revs, braking, cornering. Your answers rule out ' +
       'whole families of causes — that is worth more than any algorithm running on a poor ' +
-      'recording. So the questionnaire comes first in Stuk, and its logic is a decision tree: ' +
+      'recording. So the questionnaire comes first in Pro-Stuk, and its logic is a decision tree: ' +
       'each answer leads to the next, narrower question.',
     recH2: 'What happens to the recording',
     recP: [
@@ -160,7 +160,7 @@ export const en: Dict = {
     probP: [
       'Different faults make the same noise: the hum of a wheel bearing is easy to mistake for ' +
         'tyre noise, and a knock from the anti-roll bar links for something far more serious in ' +
-        'the suspension. Telling them apart for certain takes an inspection on a lift. So Stuk ' +
+        'the suspension. Telling them apart for certain takes an inspection on a lift. So Pro-Stuk ' +
         'does not give a diagnosis and does not promise accuracy — it spreads the probabilities ' +
         'honestly and tells you what to check first.',
       'A good recording improves the estimate, but it does not replace a mechanic. Treat the ' +
@@ -175,12 +175,12 @@ export const en: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Privacy policy | Stuk',
+    title: 'Privacy policy | Pro-Stuk',
     description:
-      'What happens to your data in the Stuk app: audio is processed on the server and not ' +
+      'What happens to your data in the Pro-Stuk app: audio is processed on the server and not ' +
       'kept after the analysis, there are no accounts and no analytics.',
     h1: 'Privacy policy',
-    intro: 'The Stuk app collects the bare minimum — exactly what the diagnosis needs.',
+    intro: 'The Pro-Stuk app collects the bare minimum — exactly what the diagnosis needs.',
     items: [
       {
         strong: 'The recording',
@@ -212,7 +212,7 @@ export const en: Dict = {
     tagline: 'Find the fault by its sound',
   },
   notFound: {
-    title: 'Page not found — Stuk',
+    title: 'Page not found — Pro-Stuk',
     description:
       'There is no such page on this site. Go back to the home page or open the symptom guides.',
     h1: 'Page not found',

@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-transmissii-pri-smene-gaz-tormoz"
 title: "A driveline clunk on and off the throttle"
-metaTitle: "A driveline clunk on and off the throttle | Stuk"
+metaTitle: "A driveline clunk on and off the throttle | Pro-Stuk"
 description: "A dull thump the moment you lift off or get back on the throttle is driveline clearance being taken up. Which parts knock and how to tell them apart."
 pubDate: "2026-06-01"
 related:
@@ -106,7 +106,7 @@ clicking starts, is the cheapest repair on this whole list:
 [a torn CV boot: how far can you drive](/en/articles/torn-cv-boot-how-far-can-you-drive/).
 
 If the knock is still rare and you are not sure it is even there, record a
-town drive in the Stuk app: the most useful stretch is one with several
+town drive in the Pro-Stuk app: the most useful stretch is one with several
 accelerations and stops in a row. The app matches the recording with your
 answers about when exactly the thump occurs and shows the likely causes
 with percentages, so the conversation at the workshop starts with a

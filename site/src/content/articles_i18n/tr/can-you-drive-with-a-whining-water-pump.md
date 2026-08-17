@@ -1,6 +1,6 @@
 ---
 title: "Uğuldayan devirdaim pompasıyla araç kullanılır mı"
-metaTitle: "Uğuldayan devirdaim pompasıyla gidilir mi? | Stuk"
+metaTitle: "Uğuldayan devirdaim pompasıyla gidilir mi? | Pro-Stuk"
 description: "Uğuldayan devirdaim pompası aşınmış rulman demektir. Triger kayışlı ve V kayışlı motorlarda neyi riske atar, beş dakikada nasıl kontrol edilir."
 faq:
   - q: "Uğuldayan devirdaim pompasıyla ne kadar gidebilirim?"
@@ -103,7 +103,7 @@ biridir bu. Kayış bölgesindeki sesleri ayırt etmek isterseniz
 yazısı da işinize yarar.
 
 Kaput altından bir uğultu duyuyor ama kime ait olduğunu — pompa mı,
-alternatör mü, gergi rulmanı mı — çıkaramıyorsanız, sesi Stuk uygulamasında
+alternatör mü, gergi rulmanı mı — çıkaramıyorsanız, sesi Pro-Stuk uygulamasında
 rölantide ve gaz vurarak kaydedin. Uygulama kaydı motorla ilgili
 cevaplarınızla eşleştirir ve olası kaynakları yüzdelerle gösterir; böylece
 servis en baştan doğru yere bakar.

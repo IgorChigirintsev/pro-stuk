@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con un golpeteo en el motor?"
-metaTitle: "¿Se puede circular con un golpeteo en el motor? | Stuk"
+metaTitle: "¿Se puede circular con un golpeteo en el motor? | Pro-Stuk"
 description: "Qué golpeteos permiten llegar al taller y cuáles obligan a parar el motor y llamar a la grúa. Reglas del modo suave y qué no hacer nunca."
 faq:
   - q: "¿Puedo llegar al taller si el golpeteo es flojo?"
@@ -135,7 +135,7 @@ de magnitud. El catálogo general de sonidos del motor está en la página del
 síntoma [golpeteo en el motor](/es/symptoms/knocking-in-engine/).
 
 Si oye un golpeteo pero no está seguro de dónde viene, grabe el motor en
-marcha con la aplicación Stuk. Compara la grabación con golpeteos típicos,
+marcha con la aplicación Pro-Stuk. Compara la grabación con golpeteos típicos,
 hace unas cuantas preguntas de aclaración y muestra a qué zona se parece más
 su caso y con qué urgencia hace falta un taller. La decisión sigue siendo
 suya, pero es más fácil tomarla con una referencia en la mano.

@@ -1,6 +1,6 @@
 ---
 title: "Tique-taque no motor: é perigoso ou não"
-metaTitle: "Tique-taque no motor: é perigoso ou não | Stuk"
+metaTitle: "Tique-taque no motor: é perigoso ou não | Pro-Stuk"
 description: "Por que o motor tiquetaqueia: quando é funcionamento normal do bico e quando é tucho ou válvula gasta. Como separar o som inofensivo do sério."
 faq:
   - q: "O motor tiquetaqueia em marcha lenta — isso é perigoso?"
@@ -145,6 +145,6 @@ E um comando de válvulas tiquetaqueando por anos sem atenção desgasta os
 cames — e, em vez de uma regulagem, chega a conta dos eixos de comando.
 
 Se você não tem certeza se o seu caso é o inofensivo, grave o motor no
-aplicativo Stuk: ele cruza a gravação com as suas respostas às perguntas e
+aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas às perguntas e
 mostra as causas prováveis com nível de urgência. Com isso fica mais fácil
 decidir entre ir nesta semana ou apenas acompanhar.

@@ -1,6 +1,6 @@
 ---
 title: "Hyundai Solaris: Klopfen im Lenkgetriebe"
-metaTitle: "Hyundai Solaris: Klopfen im Lenkgetriebe | Stuk"
+metaTitle: "Hyundai Solaris: Klopfen im Lenkgetriebe | Pro-Stuk"
 description: "Warum im Lenkrad eines Hyundai Solaris auf kleinen Unebenheiten ein Klopfen auftritt und wie man das Lenkgetriebe von Spurstangenköpfen und Koppelstangen trennt."
 faq:
   - q: "Löst das Nachstellen des Lenkgetriebes das Problem endgültig?"

@@ -1,7 +1,7 @@
 ---
 ru: "top-10-zvukov-s-kotorymi-nelzya-ehat"
 title: "Top 10 noises you should not drive with"
-metaTitle: "Top 10 noises you should not drive with | Stuk"
+metaTitle: "Top 10 noises you should not drive with | Pro-Stuk"
 description: "Ten car noises after which driving on is unwise: what is breaking in each case and how to tell them from harmless sounds."
 pubDate: "2026-07-31"
 related:
@@ -106,7 +106,7 @@ steering angle changes, which is precisely how they get ignored until the
 expensive stage.
 
 If a noise from this list has appeared but you are not sure, record it in
-the Stuk app on the spot, before setting off. The app matches the
+the Pro-Stuk app on the spot, before setting off. The app matches the
 recording with your answers to a few questions and shows the likely causes
 with percentages — which makes it easier to decide between driving on and
 calling a truck.

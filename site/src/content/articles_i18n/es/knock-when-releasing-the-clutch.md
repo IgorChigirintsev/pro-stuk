@@ -1,6 +1,6 @@
 ---
 title: "Un golpe al soltar el embrague"
-metaTitle: "Golpe al soltar el embrague: causas | Stuk"
+metaTitle: "Golpe al soltar el embrague: causas | Pro-Stuk"
 description: "El golpe al subir el pedal del embrague viene del amortiguador del disco, del volante, de los soportes de motor o de las juntas de los palieres. Cómo distinguirlos."
 faq:
   - q: "¿Un golpe al subir el pedal significa embrague nuevo?"
@@ -101,6 +101,6 @@ la caja está fuera: el cojinete de empuje, el retén trasero del cigüeñal
 y, en un volante bimasa, la medición que decide si se queda o no.
 
 Si el golpe todavía es esporádico y no está seguro de dónde viene, grábelo
-dos veces con la aplicación Stuk: dando un acelerón en punto muerto y al
+dos veces con la aplicación Pro-Stuk: dando un acelerón en punto muerto y al
 arrancar. La aplicación compara las grabaciones con sus respuestas y
 muestra las causas probables con porcentajes.

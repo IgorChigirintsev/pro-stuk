@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-rulevoj-rejke-kak-opredelit"
 title: "A steering rack knock: how to identify it"
-metaTitle: "A steering rack knock: how to identify it yourself | Stuk"
+metaTitle: "A steering rack knock: how to identify it yourself | Pro-Stuk"
 description: "How to tell that the steering rack is knocking and not the ends or tie rods: the characteristic signs, a two-person test and what the repair depends on."
 pubDate: "2026-07-16"
 related:
@@ -152,6 +152,6 @@ included: fitting a rebuilt rack behind old split boots wastes the whole
 job.
 
 If you want to test your suspicions before the workshop, record the knock
-in the Stuk app: drive a rough stretch with the recording on and answer a
+in the Pro-Stuk app: drive a rough stretch with the recording on and answer a
 few questions — the app matches the sound with typical fault profiles and
 shows the likely causes with a level of urgency.

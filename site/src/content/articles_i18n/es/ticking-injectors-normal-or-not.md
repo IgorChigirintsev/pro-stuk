@@ -1,6 +1,6 @@
 ---
 title: "Inyectores que tictaquean: ¿normal o no?"
-metaTitle: "Tictac de los inyectores: ¿normal o avería? | Stuk"
+metaTitle: "Tictac de los inyectores: ¿normal o avería? | Pro-Stuk"
 description: "Tictac de los inyectores: por qué ocurre, cuándo es normal en un motor y cuándo avisa de una avería. Cómo distinguirlo de los taqués hidráulicos."
 faq:
   - q: "¿Por qué los inyectores solo se oyen al ralentí?"
@@ -114,7 +114,7 @@ limpieza de inyectores la toca. Eso es un trabajo aparte, y conviene
 confirmarlo o descartarlo antes de pagar por el equivocado.
 
 Si el tictac le genera dudas —más fuerte, menos regular, acompañado de
-vibración—, grabe el motor al ralentí con la aplicación Stuk: el
+vibración—, grabe el motor al ralentí con la aplicación Pro-Stuk: el
 algoritmo cruza el sonido con perfiles típicos y con sus respuestas y
 muestra si se parece al funcionamiento normal de los inyectores o si es
 motivo para pasar por el taller.

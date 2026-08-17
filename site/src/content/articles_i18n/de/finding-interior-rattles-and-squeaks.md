@@ -1,6 +1,6 @@
 ---
 title: "Grillen im Innenraum: wie man die Quelle findet"
-metaTitle: "Knarzen im Innenraum: die Quelle finden | Stuk"
+metaTitle: "Knarzen im Innenraum: die Quelle finden | Pro-Stuk"
 description: "Eine Methode Schritt für Schritt zur Jagd auf Innenraumgeräusche: Orten von Hand, was ein Beifahrer beiträgt und wann der Ton doch das Fahrwerk ist."
 faq:
   - q: "Warum verschwindet ein Knarzen genau dann, wenn man es sucht?"

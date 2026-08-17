@@ -1,7 +1,7 @@
 ---
 ru: "skolko-proedet-stupichnyj-podshipnik-posle-poyavleniya-gula"
 title: "How far a wheel bearing lasts after the hum starts"
-metaTitle: "How far a wheel bearing lasts with a hum | Stuk"
+metaTitle: "How far a wheel bearing lasts with a hum | Pro-Stuk"
 description: "From a wheel bearing's first hum to dangerous play is usually thousands of kilometres. What the margin depends on and which signs cancel it."
 pubDate: "2026-06-16"
 related:
@@ -100,7 +100,7 @@ while the most expensive example of ignoring sounds is the engine, in
 [a broken timing chain: consequences by engine](/en/articles/timing-chain-failure-consequences-by-engine/).
 
 If you want to track the trend rather than guess, record the sound in the
-Stuk app every couple of weeks on the same stretch of road at the same
+Pro-Stuk app every couple of weeks on the same stretch of road at the same
 speed. The app matches the recordings with your answers and shows the
 likely causes with percentages, and comparing the recordings with each
 other answers honestly whether the car is holding steady or has already

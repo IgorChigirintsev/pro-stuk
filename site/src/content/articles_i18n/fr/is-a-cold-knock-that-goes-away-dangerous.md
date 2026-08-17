@@ -1,6 +1,6 @@
 ---
 title: "Un claquement à froid qui disparaît est-il dangereux"
-metaTitle: "Claquement à froid qui disparaît : dangereux ? | Stuk"
+metaTitle: "Claquement à froid qui disparaît : dangereux ? | Pro-Stuk"
 description: "Un claquement au départ à froid qui disparaît après la chauffe peut être anodin ou annoncer une grosse réparation. Les séparer par la durée et le caractère."
 faq:
   - q: "Combien de secondes de claquement au départ à froid sont normales ?"
@@ -110,7 +110,7 @@ et
 
 Pour suivre la tendance plutôt que de vous fier à votre mémoire,
 enregistrez les premières secondes d'un départ à froid dans l'application
-Stuk une fois par mois. L'application croise l'enregistrement avec vos
+Pro-Stuk une fois par mois. L'application croise l'enregistrement avec vos
 réponses et affiche les causes probables avec leurs pourcentages, et
 comparer les enregistrements entre eux répond à la question principale :
 est-ce que cela empire ou non.

@@ -1,6 +1,6 @@
 ---
 title: "Sinais de rolamento de embreagem gasto"
-metaTitle: "Rolamento de embreagem gasto: o som | Stuk"
+metaTitle: "Rolamento de embreagem gasto: o som | Pro-Stuk"
 description: "Como soa um rolamento de embreagem gasto, como checar com o pedal em um minuto, com o que o chiado se confunde e como o reparo é decidido."
 faq:
   - q: "Como soa um rolamento de embreagem gasto?"
@@ -134,6 +134,6 @@ carros com volante bimassa, mede-se o ângulo livre do volante enquanto tudo
 está aberto, e é a medida, não o palpite, que decide se ele fica.
 
 Sem certeza se o som reage ao pedal, ou se é outra coisa fazendo barulho?
-Grave o motor no aplicativo Stuk — primeiro em ponto morto, depois com o
+Grave o motor no aplicativo Pro-Stuk — primeiro em ponto morto, depois com o
 pedal pisado. O app cruza as gravações com as suas respostas e mostra as
 origens prováveis com uma nota de urgência.

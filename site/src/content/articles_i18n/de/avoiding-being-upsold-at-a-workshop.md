@@ -1,6 +1,6 @@
 ---
 title: "Wie Sie sich bei der Diagnose nichts aufschwatzen lassen"
-metaTitle: "Werkstatt: sich nichts aufschwatzen lassen | Stuk"
+metaTitle: "Werkstatt: sich nichts aufschwatzen lassen | Pro-Stuk"
 description: "Was zu einer ehrlichen Diagnose gehört, bei welchen Sätzen Sie nachfragen sollten und wie Sie einen Kostenvoranschlag prüfen, ohne Fachwissen zu haben."
 faq:
   - q: "Ist eine kostenlose Diagnose normal?"

@@ -1,6 +1,6 @@
 ---
 title: "Metaliczny łoskot pod autem na nierównościach"
-metaTitle: "Metaliczny łoskot pod autem na nierównościach | Stuk"
+metaTitle: "Metaliczny łoskot pod autem na nierównościach | Pro-Stuk"
 description: "Metaliczny łoskot z dołu na nierównościach: osłona silnika, ekrany termiczne, wydech albo łączniki stabilizatora. Jak znaleźć źródło w pięć minut."
 faq:
   - q: "Dlaczego łoskot jest tylko na nierównościach, a na gładkiej drodze cisza?"
@@ -109,7 +109,7 @@ granica cierpliwości przy stukającym zawieszeniu, wyjaśniono w tekście
 [czy można jeździć ze stukającym zawieszeniem](/pl/articles/can-you-drive-with-a-knocking-suspension/).
 
 Nie ma pewności, czy to łoskot, czy stuk? Wystarczy nagrać dźwięk na
-charakterystycznym odcinku w aplikacji Stuk — algorytm zestawi nagranie z
+charakterystycznym odcinku w aplikacji Pro-Stuk — algorytm zestawi nagranie z
 odpowiedziami i pokaże prawdopodobne źródła z poziomem pilności. Często
 wynik od razu wskazuje osłonę silnika i do warsztatu można jechać bez
 niepokoju.

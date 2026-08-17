@@ -1,6 +1,6 @@
 ---
 title: "Gaz-fren değişiminde aktarma organlarından vuruntu"
-metaTitle: "Gaz keserken ve verirken aktarmadan vuruntu | Stuk"
+metaTitle: "Gaz keserken ve verirken aktarmadan vuruntu | Pro-Stuk"
 description: "Gazı kestiğiniz ya da tekrar verdiğiniz anda gelen boğuk gümbürtü, aktarmadaki boşluğun toplanmasıdır. Hangi parçalar vurur ve nasıl ayrılır."
 faq:
   - q: "Vuruntu neden sadece trafikte duyuluyor?"
@@ -87,7 +87,7 @@ olmadığını sormaya değer. Ve tıkırtı başlamadan şimdi bulunan yırtık
 körük, bu listedeki en ucuz tamirdir.
 
 Vuruntu hâlâ seyrekse ve gerçekten var mı emin değilseniz, şehir içi bir
-sürüşü Stuk uygulamasına kaydedin: en faydalı bölüm, arka arkaya birkaç
+sürüşü Pro-Stuk uygulamasına kaydedin: en faydalı bölüm, arka arkaya birkaç
 hızlanma ve duruş içeren kısımdır. Uygulama kaydı, gümbürtünün tam olarak ne
 zaman olduğuna dair cevaplarınızla eşleştirir ve muhtemel nedenleri
 yüzdeleriyle gösterir; böylece servisteki konuşma somut bir parçayla başlar.

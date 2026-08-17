@@ -1,6 +1,6 @@
 ---
 title: "Punterie idrauliche Renault K4M: ticchettio a freddo"
-metaTitle: "Punterie K4M rumorose a freddo: le cause | Stuk"
+metaTitle: "Punterie K4M rumorose a freddo: le cause | Pro-Stuk"
 description: "Il motore K4M ticchetta all'avviamento a freddo: come funzionano le punterie idrauliche, perché battono, quando basta un cambio olio e quando vanno sostituite."
 faq:
   - q: "Perché le punterie ticchettano solo per i primi secondi dopo l'avviamento?"
@@ -88,7 +88,7 @@ motore aperto: una punteria che ticchetta da mesi lascia segni sulla camma,
 e scoprirlo dopo è la via costosa.
 
 Per capire se il suo ticchettio rientra nel normale, registri il suono con
-l'app Stuk subito dopo un avviamento a freddo e di nuovo a motore caldo.
+l'app Pro-Stuk subito dopo un avviamento a freddo e di nuovo a motore caldo.
 L'app confronta le registrazioni con le sue risposte su chilometraggio e
 ultimo cambio olio e mostra le cause probabili in percentuale, insieme a un
 suggerimento se andare in officina subito o cambiare l'olio e riascoltare.

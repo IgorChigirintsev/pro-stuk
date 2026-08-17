@@ -1,6 +1,6 @@
 ---
 title: "Señales de una válvula quemada, de oído"
-metaTitle: "Válvula quemada: señales de oído | Stuk"
+metaTitle: "Válvula quemada: señales de oído | Pro-Stuk"
 description: "Petardeo rítmico en el escape, fallos de encendido y silbido al ralentí: cómo reconocer de oído una válvula quemada y qué pruebas confirman la sospecha."
 faq:
   - q: "¿En qué se diferencia de oído una válvula quemada de un fallo de encendido?"
@@ -106,7 +106,7 @@ Circular con petardeo rítmico y fallos de encendido lleva directamente a
 un catalizador recalentado y a un cilindro dañado.
 
 Si el petardeo es esporádico y no hay certeza de que sea rítmico, se puede
-grabar el ralentí y un acelerón corto con la aplicación Stuk. La
+grabar el ralentí y un acelerón corto con la aplicación Pro-Stuk. La
 aplicación valora la periodicidad del sonido y su relación con el régimen
 del motor, muestra las causas probables con porcentajes, y así se llega al
 taller con una hipótesis que solo hay que comprobar.

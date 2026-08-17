@@ -1,6 +1,6 @@
 ---
 title: "Señales de una pinza de freno agarrotada"
-metaTitle: "Señales de una pinza de freno agarrotada | Stuk"
+metaTitle: "Señales de una pinza de freno agarrotada | Pro-Stuk"
 description: "Cómo saber que una pinza de freno se ha agarrotado: tirones, una rueda caliente, olor a quemado, rechinar. Comprobaciones sin elevador y qué implica repararla."
 faq:
   - q: "¿Qué se agarrota exactamente en una pinza?"
@@ -142,6 +142,6 @@ cambio de pastillas: añade poco al trabajo y aplaza el agarrotamiento
 durante años.
 
 Si los frenos han empezado a sonar raro y la causa no es evidente, grabe
-el sonido en la aplicación Stuk mientras conduce. La aplicación compara la
+el sonido en la aplicación Pro-Stuk mientras conduce. La aplicación compara la
 grabación con sus respuestas sobre cuándo aparece el sonido y sugiere las
 causas probables y su urgencia.

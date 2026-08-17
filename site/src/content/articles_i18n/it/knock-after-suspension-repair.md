@@ -1,6 +1,6 @@
 ---
 title: "Battito dopo un lavoro alle sospensioni: di chi è la colpa"
-metaTitle: "Battito dopo lavori alle sospensioni: le colpe | Stuk"
+metaTitle: "Battito dopo lavori alle sospensioni: le colpe | Pro-Stuk"
 description: "È comparso un battito dopo un lavoro alle sospensioni: errore di montaggio, pezzo difettoso o componente vicino? Come separare con calma le tre ipotesi."
 faq:
   - q: "È normale ricontrollare il serraggio delle sospensioni dopo una riparazione?"
@@ -96,7 +96,7 @@ conflitto: a un'officina seria conviene rifare il lavoro piuttosto che
 discutere.
 
 L'argomento più forte in quella conversazione è il suono stesso.
-Registralo con l'app Stuk su un tratto di strada rappresentativo:
+Registralo con l'app Pro-Stuk su un tratto di strada rappresentativo:
 l'algoritmo confronta la registrazione con le tue risposte e mostra le
 fonti probabili con il livello di urgenza. Con quel risultato è più facile
 sia parlare con l'officina sia capire quanta fretta hai davvero.

@@ -1,6 +1,6 @@
 ---
 title: "Geluiden na het reinigen van het motorcompartiment"
-metaTitle: "Geluiden na motor wassen: waarom en hoe lang | Stuk"
+metaTitle: "Geluiden na motor wassen: waarom en hoe lang | Pro-Stuk"
 description: "Piepen, geratel of schudden stationair na het wassen van de motor. Welke geluiden binnen een paar dagen vanzelf weggaan en welke op natte schade wijzen."
 faq:
   - q: "Hoe lang piept een riem na het wassen?"

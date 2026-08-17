@@ -1,6 +1,6 @@
 ---
 title: "Klikanie: przegub napędowy czy hamulce"
-metaTitle: "Klikanie w jeździe: przegub czy hamulce | Stuk"
+metaTitle: "Klikanie w jeździe: przegub czy hamulce | Pro-Stuk"
 description: "Klikanie w zakrętach i przy ruszaniu daje zarówno zewnętrzny przegub napędowy, jak i hamulce. Jak rozdzielić hipotezy po warunkach jazdy."
 faq:
   - q: "Klika tylko przy pełnym skręcie — czy to na pewno przegub?"
@@ -90,7 +90,7 @@ materiałem eksploatacyjnym, a klocki założone bez nich zaczynają klikać po
 kilku tygodniach.
 
 Jeśli kliknięcia pojawiają się sporadycznie i nie da się ich odtworzyć na
-podnośniku, proszę nagrać dźwięk w aplikacji Stuk podczas powolnego kółka z
+podnośniku, proszę nagrać dźwięk w aplikacji Pro-Stuk podczas powolnego kółka z
 lekkim gazem, a osobno przy pierwszym naciśnięciu pedału. Z tych dwóch nagrań
 aplikacja pokazuje prawdopodobne przyczyny w procentach i podpowiada, na który
 podzespół spojrzeć najpierw.

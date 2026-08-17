@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego łożyska koła"
-metaTitle: "Zużyte łożysko koła: dźwięk i testy | Stuk"
+metaTitle: "Zużyte łożysko koła: dźwięk i testy | Pro-Stuk"
 description: "Jak brzmi zużyte łożysko koła, jak odróżnić je od hałasu opon, które testy można zrobić samemu i co decyduje o sposobie wymiany."
 faq:
   - q: "Jaki jest pierwszy objaw zużytego łożyska koła?"
@@ -141,5 +141,5 @@ szansa, że uszkodzi swoje gniazdo i zamiast łożyska trzeba będzie
 wymienić piastę albo całą zwrotnicę.
 
 Nie ma Pan pewności, że buczy łożysko? Proszę nagrać dźwięk w aplikacji
-Stuk — zestawia ona nagranie z Pana odpowiedziami i pokazuje prawdopodobne
+Pro-Stuk — zestawia ona nagranie z Pana odpowiedziami i pokazuje prawdopodobne
 przyczyny z procentami oraz poziomem pilności.

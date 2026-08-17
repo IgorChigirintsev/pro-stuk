@@ -1,6 +1,6 @@
 ---
 title: "Como achar barulho na suspensão sem elevador"
-metaTitle: "Achar barulho na suspensão sem elevador | Stuk"
+metaTitle: "Achar barulho na suspensão sem elevador | Pro-Stuk"
 description: "Plano passo a passo para localizar barulho na suspensão sem vala nem elevador: retrato do som, teste de balanço, checagens na mão e volta controlada."
 faq:
   - q: "Dá mesmo para achar a origem sem vala e sem elevador?"
@@ -148,7 +148,7 @@ aperto dos parafusos de roda ao jeito como as peças removidas voltaram ao
 lugar.
 
 Se o barulho ainda se recusa a ser localizado, existe mais uma
-ferramenta: grave o som rodando, no aplicativo Stuk. Ele cruza a gravação
+ferramenta: grave o som rodando, no aplicativo Pro-Stuk. Ele cruza a gravação
 com as suas respostas sobre quando e em que piso a batida aparece e
 mostra as causas prováveis com um nível de urgência — um bom ponto de
 partida tanto para a checagem na garagem quanto para a conversa com o

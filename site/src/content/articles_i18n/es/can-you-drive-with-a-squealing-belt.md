@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con la correa chirriando?"
-metaTitle: "¿Se puede circular con la correa chirriando? | Stuk"
+metaTitle: "¿Se puede circular con la correa chirriando? | Pro-Stuk"
 description: "La correa de accesorios chirría: cuánto se puede circular, qué pasa si se rompe, cómo distinguir el desgaste de la correa de un rodamiento y cómo se decide la reparación."
 faq:
   - q: "¿Cuánto tiempo se puede circular con la correa chirriando?"
@@ -99,7 +99,7 @@ de rango. Un taller que no menciona ninguna de las dos cosas está
 adivinando.
 
 Si no está seguro de si chirría la correa o zumba un rodamiento dentro de
-un accesorio, grabe el sonido con la aplicación Stuk en el arranque en
+un accesorio, grabe el sonido con la aplicación Pro-Stuk en el arranque en
 frío y repítalo con el motor caliente. La diferencia entre las dos
 grabaciones dice más sobre la causa que cualquier descripción con
 palabras, y la aplicación la cruza con sus respuestas a unas pocas

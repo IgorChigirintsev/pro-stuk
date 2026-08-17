@@ -1,7 +1,7 @@
 ---
 ru: "sverchki-v-salone-kak-najti"
 title: "Interior squeaks: how to find the source"
-metaTitle: "Interior squeaks: how to find the source | Stuk"
+metaTitle: "Interior squeaks: how to find the source | Pro-Stuk"
 description: "A step-by-step method for hunting interior squeaks: locating them by hand, what a passenger adds, and when the sound is really the suspension."
 pubDate: "2026-07-28"
 related:
@@ -106,7 +106,7 @@ even where everything was quiet in summer, which is covered in
 squeak that only exists below zero rarely justifies stripping anything.
 
 Hunting a squeak is much easier when the sound is recorded. Start
-recording in the Stuk app, drive your usual rough stretch and ask a
+recording in the Pro-Stuk app, drive your usual rough stretch and ask a
 passenger to press the panels in turn — the recording will show the moment
 the squeak cut off. The app will also tell you whether the sound really is
 from the interior or whether the search belongs in the suspension.

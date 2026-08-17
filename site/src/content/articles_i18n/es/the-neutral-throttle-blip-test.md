@@ -1,6 +1,6 @@
 ---
 title: "La prueba de acelerar en punto muerto: qué revela"
-metaTitle: "Prueba de acelerar en punto muerto: qué revela | Stuk"
+metaTitle: "Prueba de acelerar en punto muerto: qué revela | Pro-Stuk"
 description: "Qué cuenta subir de vueltas en punto muerto: cómo separar los ruidos del motor de los de ruedas y transmisión, y cómo hacer bien la prueba."
 faq:
   - q: "¿Es dañino acelerar en punto muerto?"
@@ -113,6 +113,6 @@ rodante mejor que cualquier adjetivo. Y si aparecía al subir de vueltas o
 al soltar el pie, porque al soltar es cuando la distribución se delata.
 
 La prueba se hace cómodamente con la grabación activa en la aplicación
-Stuk: capta justo el cambio de sonido con las vueltas, lo cruza con sus
+Pro-Stuk: capta justo el cambio de sonido con las vueltas, lo cruza con sus
 respuestas y muestra las causas probables con porcentajes, además de una
 pista sobre qué pieza revisar primero.

@@ -1,6 +1,6 @@
 ---
 title: "Un ronflement quand la pédale d'embrayage est enfoncée"
-metaTitle: "Ronflement quand on appuie sur l'embrayage | Stuk"
+metaTitle: "Ronflement quand on appuie sur l'embrayage | Pro-Stuk"
 description: "Un ronflement qui apparaît quand on appuie sur la pédale d'embrayage désigne presque toujours la butée. Comment le confirmer en une minute et ce que la réparation implique."
 faq:
   - q: "Un ronflement pédale enfoncée, est-ce forcément la butée d'embrayage ?"
@@ -101,7 +101,7 @@ peut abîmer les doigts du diaphragme et transformer une réparation
 ordinaire en réparation coûteuse.
 
 Si le ronflement est discret et que vous n'êtes pas sûr qu'il soit lié à
-la pédale, enregistrez le son dans l'application Stuk — d'abord au ralenti
+la pédale, enregistrez le son dans l'application Pro-Stuk — d'abord au ralenti
 pédale relâchée, puis pédale enfoncée. L'application compare les
 enregistrements, les confronte à quelques réponses et affiche les causes
 probables avec leur pourcentage.

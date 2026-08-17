@@ -1,6 +1,6 @@
 ---
 title: "Eén enkele klop bij wegrijden en remmen"
-metaTitle: "Enkele klop bij wegrijden en remmen | Stuk"
+metaTitle: "Enkele klop bij wegrijden en remmen | Pro-Stuk"
 description: "Waar een enkele klop bij wegrijden en stoppen vandaan komt: remblokken, remklauw, motorsteunen, cardanas. Hoe u het controleert en wat de reparatie bepaalt."
 faq:
   - q: "Waarom is de klop enkelvoudig en geen reeks?"

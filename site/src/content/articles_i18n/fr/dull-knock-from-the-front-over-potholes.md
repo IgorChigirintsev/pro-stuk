@@ -1,6 +1,6 @@
 ---
 title: "Un coup sourd à l'avant dans les nids-de-poule"
-metaTitle: "Coup sourd à l'avant dans les nids-de-poule | Stuk"
+metaTitle: "Coup sourd à l'avant dans les nids-de-poule | Pro-Stuk"
 description: "Ce que signifie un coup sourd à l'avant dans les nids-de-poule : quelles pièces sonnent ainsi et comment séparer les causes dangereuses des tolérables."
 faq:
   - q: "Pourquoi le coup est-il sourd et non sec ?"
@@ -108,7 +108,7 @@ cette étape se traduit par des pneus usés en quelques milliers de
 kilomètres.
 
 Vous ne savez pas quel scénario est le vôtre ? Enregistrez le coup sur une
-portion dégradée dans l'application Stuk : elle confronte le son à vos
+portion dégradée dans l'application Pro-Stuk : elle confronte le son à vos
 réponses à quelques questions de précision et affiche les causes probables
 avec un niveau d'urgence — ce qui rend plus facile le choix entre y aller
 demain et planifier la visite tranquillement.

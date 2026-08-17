@@ -1,6 +1,6 @@
 ---
 title: "Tek yönlü alternatör kasnağının arıza belirtileri"
-metaTitle: "Tek yönlü alternatör kasnağı: arıza belirtileri | Stuk"
+metaTitle: "Tek yönlü alternatör kasnağı: arıza belirtileri | Pro-Stuk"
 description: "Alternatörün neden serbest kasnağa ihtiyacı var ve aşınması nasıl duyulur: çalıştırırken ıslık, durdurduktan sonra takırtı, kayış titremesi. Kendi kontrolleriniz."
 faq:
   - q: "Tek yönlü kasnak, normal alternatör kasnağından nasıl ayrılır?"
@@ -106,6 +106,6 @@ Tipik serbest kasnak ömrü yaklaşık 100.000 kilometredir, bu yüzden planlı
 kayış değişiminde durumuna bakmak her zaman mantıklıdır.
 
 Sesin serbest kasnaktan mı, bir rulmandan mı yoksa kayıştan mı geldiğinden
-emin değilseniz, çalıştırma ve durdurma anını Stuk uygulamasına kaydedin:
+emin değilseniz, çalıştırma ve durdurma anını Pro-Stuk uygulamasına kaydedin:
 uygulama kaydı tipik arıza sesleriyle eşleştirir ve olası nedenleri
 aciliyet derecesiyle gösterir.

@@ -1,6 +1,6 @@
 ---
 title: "Wibracje: wyważenie kół czy zawieszenie"
-metaTitle: "Wibracje przy prędkości: wyważenie czy zawieszenie | Stuk"
+metaTitle: "Wibracje przy prędkości: wyważenie czy zawieszenie | Pro-Stuk"
 description: "Wibracje na kierownicy i w nadwoziu biorą się i z niewyważenia kół, i ze zużytego zawieszenia. Jak rozdzielić wersje po prędkości i warunkach jazdy."
 faq:
   - q: "Przy jakiej prędkości ujawnia się niewyważenie kół?"
@@ -100,7 +100,7 @@ toczenie nie wchodzi w grę, a warsztat, który mimo to je wykona, sprzedaje
 tarczę, która wypaczy się ponownie w ciągu kilku miesięcy.
 
 Wibracje trudno opisać słowami, ale dobrze się nagrywają: zrób w aplikacji
-Stuk krótkie nagrania przy stałej prędkości, przy hamowaniu i na
+Pro-Stuk krótkie nagrania przy stałej prędkości, przy hamowaniu i na
 nierównościach. Aplikacja zestawi je z odpowiedziami na kilka pytań i
 pokaże prawdopodobne przyczyny z procentami, dzięki czemu w warsztacie
 podasz warunki, a nie tylko sam fakt trzęsienia.

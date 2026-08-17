@@ -1,7 +1,7 @@
 ---
 ru: "stuk-shatunnyh-vkladyshej-kak-zvuchit"
 title: "What big end bearing knock sounds like"
-metaTitle: "What big end bearing knock sounds like | Stuk"
+metaTitle: "What big end bearing knock sounds like | Pro-Stuk"
 description: "A hard metallic knock from the middle of the block that grows under load: how worn big end bearings sound, how they are localised and what they threaten."
 pubDate: "2026-06-06"
 related:
@@ -129,6 +129,6 @@ allowance for town driving, and pay attention to the pressure light.
 
 If the sound has only just appeared and you are not sure it really comes
 from deep in the block, record a short throttle blip in neutral in the
-Stuk app. The app matches the recording with your answers about the
+Pro-Stuk app. The app matches the recording with your answers about the
 conditions and shows the likely causes with percentages — and tells you
 whether the engine should be started at all before a diagnosis.

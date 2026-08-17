@@ -1,6 +1,6 @@
 ---
 title: "Uğultu önden mi geliyor arkadan mı: nasıl anlaşılır"
-metaTitle: "Uğultu önden mi arkadan mı geliyor | Stuk"
+metaTitle: "Uğultu önden mi arkadan mı geliyor | Pro-Stuk"
 description: "Uğultunun hangi akstan ve hangi taraftan geldiğini bulmanın basit yolları: şerit değiştirme, boşta kayma, teker yeri değiştirme ve yolcuyla test."
 faq:
   - q: "Arkadan gelen uğultu neden önden geliyormuş gibi duyuluyor?"
@@ -90,7 +90,7 @@ Suçlu lastikler çıkarsa düzensiz aşınmanın sebebini sorun: rot balans mı
 yorulmuş amortisörler mi. Çünkü düzeltilmemiş bir araçta yeni takım da
 aynı şekilde aşınır.
 
-En kolay yol, dört testi de Stuk uygulamasında kayıt açıkken yapmaktır:
+En kolay yol, dört testi de Pro-Stuk uygulamasında kayıt açıkken yapmaktır:
 hız, taraf ve boşta kaymaya verilen tepki hakkındaki sorulara
 cevaplarsınız, uygulama bunları sesle karşılaştırıp olası sebepleri
 yüzdeyle gösterir ve önce hangi tekere bakılacağını söyler.

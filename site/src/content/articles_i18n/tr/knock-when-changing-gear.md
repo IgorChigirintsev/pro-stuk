@@ -1,6 +1,6 @@
 ---
 title: "Vites değiştirirken gelen tak sesi"
-metaTitle: "Vites değiştirirken tak sesi: nedenleri | Stuk"
+metaTitle: "Vites değiştirirken tak sesi: nedenleri | Pro-Stuk"
 description: "Vites değiştirme anındaki tak sesi vites kolu boşluğundan, yorulmuş motor takozlarından ve aks kafalarından gelir. Nedenleri nasıl ayırt edilir."
 faq:
   - q: "Vites değiştirirken gelen tak sesi hep şanzımandan mı gelir?"
@@ -88,7 +88,7 @@ cıvatalarının tek kullanımlık uzayan cıvata olup olmadığı; birçok ara�
 tekrar yırtılmasının bilinen sebebidir.
 
 Ses hâlâ ara ara geliyorsa ve kaputun altından mı yoksa tabanın altından
-mı geldiğinden emin değilseniz, gaz oynatırken ve kalkarken Stuk
+mı geldiğinden emin değilseniz, gaz oynatırken ve kalkarken Pro-Stuk
 uygulamasıyla kaydedin. Uygulama kaydı verdiğiniz yanıtlarla eşleştirip
 olası sebepleri yüzdeleriyle gösterir — bu da serviste yapacağınız
 konuşmayı belirgin biçimde kısaltır.

@@ -1,7 +1,7 @@
 ---
 ru: "opornyj-podshipnik-stuchit-simptomy"
 title: "A noisy strut top mount bearing: symptoms"
-metaTitle: "Noisy strut top mount bearing: symptoms | Stuk"
+metaTitle: "Noisy strut top mount bearing: symptoms | Pro-Stuk"
 description: "Clicking and crunching as you turn the wheel parked, knocking over small potholes, heavy steering — how to spot a worn strut top mount bearing."
 pubDate: "2026-06-03"
 related:
@@ -103,7 +103,7 @@ spring seated wrongly on reassembly is a common source of a new knock that
 appears right after the repair.
 
 If the crunching is indistinct and you are not sure where it comes from,
-record the steering turning with the car parked in the Stuk app, and then
+record the steering turning with the car parked in the Pro-Stuk app, and then
 a lap around a car park. The app compares the two fragments, matches them
 with your answers and shows the likely causes with percentages — exactly
 so a strut is not stripped for nothing.

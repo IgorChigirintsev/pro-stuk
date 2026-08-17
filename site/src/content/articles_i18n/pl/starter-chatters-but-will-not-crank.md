@@ -1,6 +1,6 @@
 ---
 title: "Rozrusznik terkocze, ale nie kręci"
-metaTitle: "Rozrusznik terkocze, ale nie kręci: przyczyny | Stuk"
+metaTitle: "Rozrusznik terkocze, ale nie kręci: przyczyny | Pro-Stuk"
 description: "Rozrusznik terkocze, a silnik nie obraca się: akumulator, klemy, elektromagnes. Proste sprawdzenia na miejscu i tabela przyczyn."
 faq:
   - q: "Dlaczego rozrusznik terkocze, skoro akumulator jest nowy?"
@@ -107,6 +107,6 @@ powód, by zajrzeć na stronę objawu
 terytorium paska niż rozrusznika.
 
 Jeśli przyczyna nie chce się znaleźć, a terkotanie raz jest, raz go nie
-ma, nagraj próbę rozruchu w aplikacji Stuk: algorytm zestawia nagranie z
+ma, nagraj próbę rozruchu w aplikacji Pro-Stuk: algorytm zestawia nagranie z
 Twoimi odpowiedziami — czy światła przygasają, czy jest zgrzyt — i
 podpowiada prawdopodobne przyczyny wraz z poziomem pilności.

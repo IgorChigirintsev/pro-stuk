@@ -1,6 +1,6 @@
 ---
 title: "Il rumore che compare solo sotto carico, in salita"
-metaTitle: "Rumore solo in salita sotto carico: le cause | Stuk"
+metaTitle: "Rumore solo in salita sotto carico: le cause | Pro-Stuk"
 description: "Perché un rumore estraneo si sente solo in salita a motore tirato, quali componenti si comportano così e come distinguere la cinghia dal giunto e dalla detonazione."
 faq:
   - q: "Perché il rumore sparisce appena tolgo il gas?"
@@ -100,7 +100,7 @@ raffreddamento sono le due cose che lasciano detonare un motore in
 silenzio, e nessuna delle due si vede in una prova su strada.
 
 Catturare un rumore così con un registratore è difficile: vive solo nel
-momento di carico massimo, quando lei è occupato a guidare. L'app Stuk
+momento di carico massimo, quando lei è occupato a guidare. L'app Pro-Stuk
 registra in sottofondo: la avvii prima della salita, percorra il tratto
 come al solito e la fermi in cima. L'analisi della registrazione insieme
 alle sue risposte a qualche domanda mostra quale pezzo si fa sentire sotto

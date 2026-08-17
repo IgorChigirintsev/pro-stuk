@@ -1,6 +1,6 @@
 ---
 title: "Lo scarico romba a freddo"
-metaTitle: "Scarico che romba a freddo: cause e rimedi | Stuk"
+metaTitle: "Scarico che romba a freddo: cause e rimedi | Pro-Stuk"
 description: "Perché lo scarico romba dopo un avviamento a freddo e si zittisce scaldandosi: guarnizione del collettore, crepe, flessibile. Le verifiche e come si decide la riparazione."
 faq:
   - q: "Perché il rombo c'è solo a freddo e sparisce dopo il riscaldamento?"
@@ -104,7 +104,7 @@ con il clima mite, è sempre più semplice: la viteria si svita ancora, invece d
 essere tagliata insieme ai prigionieri grippati.
 
 Se non è sicuro di dove esattamente nasca il rombo, registri un avviamento a
-freddo nell'app Stuk: confronta la registrazione con le sue risposte su quando
+freddo nell'app Pro-Stuk: confronta la registrazione con le sue risposte su quando
 il suono compare e quando svanisce, e mostra le cause probabili con un livello
 di urgenza — così arriva in officina con un'ipotesi di lavoro e non con «al
 mattino romba qualcosa».

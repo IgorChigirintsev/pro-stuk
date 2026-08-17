@@ -1,6 +1,6 @@
 ---
 title: "Jak sprawdzić przegub napędowy, jeżdżąc kółka po parkingu"
-metaTitle: "Sprawdzanie przegubu napędowego kółkami | Stuk"
+metaTitle: "Sprawdzanie przegubu napędowego kółkami | Pro-Stuk"
 description: "Krok po kroku test zewnętrznego przegubu napędowego na pustym parkingu: jak jeździć kółka, co powinno klikać i dlaczego test czasem nic nie pokazuje."
 faq:
   - q: "Dlaczego przegub napędowy klika tylko przy pełnym skręcie?"
@@ -101,6 +101,6 @@ popychaczy hydraulicznych: dźwięku szuka się nie „w ogóle”, tylko w
 konkretnym zakresie pracy, w którym usterka musi się ujawnić.
 
 Jeśli słyszy Pan klikanie, ale nie ma pewności, czy to ten dźwięk, proszę
-włączyć nagrywanie w aplikacji Stuk podczas jazdy w kółko. Aplikacja
+włączyć nagrywanie w aplikacji Pro-Stuk podczas jazdy w kółko. Aplikacja
 zestawia dźwięk z odpowiedziami o zakres pracy i stronę auta i pokazuje
 prawdopodobne przyczyny w procentach.

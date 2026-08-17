@@ -1,7 +1,7 @@
 ---
 ru: "svist-posle-zameny-remnya"
 title: "Squealing after a belt change: why and what to do"
-metaTitle: "Squealing after a belt change: causes and fixes | Stuk"
+metaTitle: "Squealing after a belt change: causes and fixes | Pro-Stuk"
 description: "The belt was replaced but the squeal stayed or came back: tension errors, misalignment, idlers, decoupler pulley. How to find the cause."
 pubDate: "2026-08-02"
 related:
@@ -134,7 +134,7 @@ belt is already off — a quote that includes only the belt is a quote that
 comes back. And if the belt was contaminated, the leak has to be found
 first: a new belt fitted over an unfixed leak is money spent twice.
 
-If you want to arrive with a theory ready, record the sound in the Stuk
+If you want to arrive with a theory ready, record the sound in the Pro-Stuk
 app: it compares the recording with typical cases, takes your answers
 about when the squeal appears into account and shows the likely causes
 with a level of urgency — which makes it easier to tell a warranty

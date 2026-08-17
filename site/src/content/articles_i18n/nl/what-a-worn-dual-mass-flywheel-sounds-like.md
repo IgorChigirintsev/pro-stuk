@@ -1,6 +1,6 @@
 ---
 title: "Hoe een versleten tweemassavliegwiel klinkt"
-metaTitle: "Versleten tweemassavliegwiel: hoe het klinkt | Stuk"
+metaTitle: "Versleten tweemassavliegwiel: hoe het klinkt | Pro-Stuk"
 description: "Gekletter bij starten en afzetten, gerammel stationair, trillingen bij wegrijden: hoe een versleten tweemassavliegwiel klinkt en waarmee het verward wordt."
 faq:
   - q: "Waarom is een tweemassavliegwiel het luidst als u de motor afzet?"

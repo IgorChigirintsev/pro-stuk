@@ -1,7 +1,7 @@
 ---
 ru: "hlopki-vo-vpuske-prichiny"
 title: "Backfiring through the intake: causes"
-metaTitle: "Intake backfire: causes and diagnosis | Stuk"
+metaTitle: "Intake backfire: causes and diagnosis | Pro-Stuk"
 description: "Backfiring into the intake manifold: a lean mixture, misfires, timing out of phase. How to find the cause and how it differs from banging out of the exhaust."
 pubDate: "2026-07-09"
 related:
@@ -104,6 +104,6 @@ valves and pistons. A backfire by itself is not a catastrophe, but it does
 not appear on a healthy engine.
 
 If the banging is rare and hard to demonstrate to a mechanic, start a
-recording in the Stuk app at your next cold start or acceleration: it
+recording in the Pro-Stuk app at your next cold start or acceleration: it
 captures the sound, matches it with your answers and shows the likely
 causes with an urgency level — so you arrive with specifics.

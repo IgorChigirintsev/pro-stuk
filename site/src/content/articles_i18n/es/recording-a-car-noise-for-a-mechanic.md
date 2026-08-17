@@ -1,6 +1,6 @@
 ---
 title: "Cómo grabar el ruido del coche para el mecánico"
-metaTitle: "Grabar el ruido del coche para el mecánico | Stuk"
+metaTitle: "Grabar el ruido del coche para el mecánico | Pro-Stuk"
 description: "Cómo grabar con el móvil un ruido del coche para que se oiga de verdad: dónde poner el teléfono, qué decir, qué regímenes capturar y qué evitar."
 faq:
   - q: "¿Por qué en la grabación no se oye lo que dentro del coche es evidente?"
@@ -96,7 +96,7 @@ Si además quiere contarlo bien de palabra, sirve de guía
 [cómo describir un ruido del coche al mecánico](/es/articles/how-to-describe-a-car-noise-to-a-mechanic/).
 
 Si pelearse con los ajustes no le apetece, la grabación puede hacerse en
-la aplicación Stuk: le sugiere los regímenes, pregunta por las condiciones
+la aplicación Pro-Stuk: le sugiere los regímenes, pregunta por las condiciones
 y, tras compararlas, muestra las causas probables con porcentajes. La
 ficha resultante con la grabación es fácil de enseñar al mecánico y la
 conversación empieza directamente por lo importante.

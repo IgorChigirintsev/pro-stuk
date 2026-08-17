@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une soupape brûlée à l'oreille"
-metaTitle: "Soupape brûlée : les signes à l'oreille | Stuk"
+metaTitle: "Soupape brûlée : les signes à l'oreille | Pro-Stuk"
 description: "Détonations rythmées à l'échappement, ratés d'allumage et sifflement au ralenti : reconnaître une soupape brûlée au son et confirmer avec les bons tests."
 faq:
   - q: "Comment distinguer à l'oreille une soupape brûlée d'un raté d'allumage ?"
@@ -113,7 +113,7 @@ catalyseur surchauffé et à un cylindre abîmé.
 
 Si les détonations sont occasionnelles et que vous n'êtes pas sûr
 qu'elles soient rythmées, enregistrez le ralenti et un court coup
-d'accélérateur dans l'application Stuk. Elle évalue la périodicité du son
+d'accélérateur dans l'application Pro-Stuk. Elle évalue la périodicité du son
 et son lien avec le régime moteur, affiche les causes probables avec des
 pourcentages — et vous arrivez au diagnostic avec une hypothèse qu'il n'y
 a plus qu'à vérifier.

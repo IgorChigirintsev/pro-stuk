@@ -1,6 +1,6 @@
 ---
 title: "Koude klop bij de Škoda Rapid / Octavia 1.4 TSI"
-metaTitle: "Koude klop Škoda Rapid en Octavia 1.4 TSI | Stuk"
+metaTitle: "Koude klop Škoda Rapid en Octavia 1.4 TSI | Pro-Stuk"
 description: "Koude klop bij Škoda Rapid en Octavia met de 1.4 TSI: ketting en spanner, hydraulische klepstoters, hulpaandrijving. Hoe u ze uit elkaar houdt."
 faq:
   - q: "De klop verdwijnt een minuut na het starten — is dat normaal?"

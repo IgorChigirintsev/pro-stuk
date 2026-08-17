@@ -1,7 +1,7 @@
 ---
 ru: "gul-posle-zameny-reziny"
 title: "A hum after changing tyres"
-metaTitle: "Hum after changing tyres: what to check | Stuk"
+metaTitle: "Hum after changing tyres: what to check | Pro-Stuk"
 description: "A hum at speed appeared after a tyre change. When the tread is to blame, when it is balancing or wheel rotation, and when the tyres are innocent."
 pubDate: "2026-07-19"
 related:
@@ -94,6 +94,6 @@ wear the new set the same way.
 
 If you are not sure whether the sound changed after rotating the wheels,
 do not rely on memory: a couple of decibels is almost impossible to judge
-by ear. Record the hum in the Stuk app before and after the swap — it
+by ear. Record the hum in the Pro-Stuk app before and after the swap — it
 compares the recordings with your answers and shows the likely causes with
 percentages, so nobody replaces tyres where a bearing is at fault.

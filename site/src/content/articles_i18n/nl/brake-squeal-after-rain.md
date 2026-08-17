@@ -1,6 +1,6 @@
 ---
 title: "Piepende remmen na regen: normaal of niet"
-metaTitle: "Piepende remmen na regen: normaal of niet | Stuk"
+metaTitle: "Piepende remmen na regen: normaal of niet | Pro-Stuk"
 description: "Waarom remmen piepen na regen en een nacht buiten, wanneer het onschuldige roest op de schijven is en wanneer het wijst op versleten remblokken."
 faq:
   - q: "Na hoeveel remmingen is een piep na regen verdwenen?"

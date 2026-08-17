@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Motor unter Last"
-metaTitle: "Klopfen unter Last: Ursachen und Gefahr | Stuk"
+metaTitle: "Klopfen unter Last: Ursachen und Gefahr | Pro-Stuk"
 description: "Klopfen unter Last: wie Sie klopfende Verbrennung von Lagerklopfen trennen, wo die Steuerkette hineinspielt und wann Weiterfahren gefährlich wird."
 faq:
   - q: "Wie unterscheide ich klopfende Verbrennung von Lagerklopfen?"

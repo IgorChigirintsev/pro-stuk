@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con una junta homocinética que chasquea?"
-metaTitle: "¿Se puede circular con una junta homocinética que chasquea? | Stuk"
+metaTitle: "¿Se puede circular con una junta homocinética que chasquea? | Pro-Stuk"
 description: "El chasquido de la junta homocinética al girar no es una avería inmediata, pero tampoco se convive con ella durante años. Cuánto margen queda y cuándo no se debe circular."
 faq:
   - q: "¿Cuántos kilómetros se pueden hacer con una junta homocinética que chasquea?"
@@ -102,7 +102,7 @@ molibdeno, y la equivocada acorta la vida de una reparación por lo demás
 bien hecha.
 
 Si el chasquido es apenas audible y cuesta saber si la etapa es inicial o
-media, se puede grabar el sonido en la aplicación Stuk mientras se da un
+media, se puede grabar el sonido en la aplicación Pro-Stuk mientras se da un
 círculo lento a tope de giro. La aplicación compara la grabación con las
 respuestas a unas pocas preguntas y muestra cuánto puede esperar la
 situación y si conviene prever una grúa.

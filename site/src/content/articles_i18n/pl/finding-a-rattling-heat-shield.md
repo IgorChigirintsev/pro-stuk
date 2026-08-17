@@ -1,6 +1,6 @@
 ---
 title: "Jak znaleźć grzechoczącą osłonę termiczną"
-metaTitle: "Grzechocząca osłona termiczna: jak ją znaleźć | Stuk"
+metaTitle: "Grzechocząca osłona termiczna: jak ją znaleźć | Pro-Stuk"
 description: "Metaliczny grzechot w wąskim zakresie obrotów to zwykle poluzowana osłona termiczna. Jak znaleźć ją w dziesięć minut i jak porządnie ją zamocować."
 faq:
   - q: "Dlaczego osłona grzechocze tylko przy pewnych obrotach?"
@@ -105,6 +105,6 @@ miejscowa — i o to warto zapytać, zanim się na nie zgodzi.
 
 Jeżeli grzechot słychać, ale nie da się go odtworzyć na postoju — bo
 pojawia się na przykład tylko w ruchu — proszę nagrać dźwięk w aplikacji
-Stuk w czasie jazdy. Aplikacja zestawia nagranie z odpowiedziami o tym, za
+Pro-Stuk w czasie jazdy. Aplikacja zestawia nagranie z odpowiedziami o tym, za
 czym hałas podąża, i podpowiada, co obejrzeć w pierwszej kolejności, żeby
 nikt nie płacił za szukanie po omacku.

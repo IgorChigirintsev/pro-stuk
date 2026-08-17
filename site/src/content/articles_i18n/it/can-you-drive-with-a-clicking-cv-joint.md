@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con il giunto omocinetico che clicca"
-metaTitle: "Si può guidare con il giunto omocinetico che clicca? | Stuk"
+metaTitle: "Si può guidare con il giunto omocinetico che clicca? | Pro-Stuk"
 description: "Il giunto omocinetico che clicca in curva non è un guasto immediato, ma non è nemmeno una cosa con cui convivere per anni. Quanto tempo resta e quando non guidare."
 faq:
   - q: "Quanti chilometri posso fare con un giunto omocinetico che clicca?"
@@ -99,7 +99,7 @@ quello sbagliato accorcia la vita di una riparazione per il resto fatta
 bene.
 
 Se il clic è appena percettibile ed è difficile capire se lo stadio è
-iniziale o intermedio, registri il suono con l'app Stuk durante un giro
+iniziale o intermedio, registri il suono con l'app Pro-Stuk durante un giro
 lento a sterzo tutto girato. L'app confronta la registrazione con le sue
 risposte a qualche domanda e mostra quanto la situazione possa aspettare e
 se convenga mettere in conto un carro attrezzi.

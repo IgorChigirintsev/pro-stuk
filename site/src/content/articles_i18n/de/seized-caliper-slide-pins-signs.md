@@ -1,6 +1,6 @@
 ---
 title: "Zeichen festsitzender Führungsbolzen am Bremssattel"
-metaTitle: "Führungsbolzen fest: Zeichen am Bremssattel | Stuk"
+metaTitle: "Führungsbolzen fest: Zeichen am Bremssattel | Pro-Stuk"
 description: "Ein Rad wird heiß, der Wagen zieht beim Bremsen, die Beläge verschleißen ungleich — so erkennen Sie festsitzende Führungsbolzen und was die Werkstatt dagegen tut."
 faq:
   - q: "Wie prüfe ich schnell, ob ein Bremssattel klemmt?"

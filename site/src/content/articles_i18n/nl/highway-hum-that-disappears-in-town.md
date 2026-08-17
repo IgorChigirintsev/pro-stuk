@@ -1,6 +1,6 @@
 ---
 title: "Gebrom op de snelweg dat in de stad verdwijnt"
-metaTitle: "Gebrom op de snelweg, weg in de stad | Stuk"
+metaTitle: "Gebrom op de snelweg, weg in de stad | Pro-Stuk"
 description: "Waarom gebrom pas boven 80 km/u hoorbaar is en in de stad verdwijnt: wiellagers, banden, aerodynamica en de volgorde van controles die u zelf kunt doen."
 faq:
   - q: "Waarom hoor ik in de stad niets en op de snelweg volop gebrom?"

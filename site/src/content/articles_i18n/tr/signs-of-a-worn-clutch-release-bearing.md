@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış debriyaj rulmanının belirtileri"
-metaTitle: "Aşınmış debriyaj rulmanı: sesi nasıl olur | Stuk"
+metaTitle: "Aşınmış debriyaj rulmanı: sesi nasıl olur | Pro-Stuk"
 description: "Aşınmış debriyaj rulmanı nasıl ses çıkarır, pedalla bir dakikada nasıl kontrol edilir, hangi seslerle karıştırılır ve onarım nasıl planlanır."
 faq:
   - q: "Aşınmış debriyaj rulmanı nasıl ses çıkarır?"
@@ -130,7 +130,7 @@ serbest hareketi ölçülür; kalıp kalmayacağına tahmin değil, bu ölçüm
 karar verir.
 
 Sesin pedala tepki verip vermediğinden ya da başka bir şeyin mi ses
-yaptığından emin değil misiniz? Motoru Stuk uygulamasında kaydedin —
+yaptığından emin değil misiniz? Motoru Pro-Stuk uygulamasında kaydedin —
 önce boşta, sonra pedal basılıyken. Uygulama kayıtları verdiğiniz
 cevaplarla eşleştirir ve olası kaynakları aciliyet değerlendirmesiyle
 birlikte gösterir.

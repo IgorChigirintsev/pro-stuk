@@ -1,6 +1,6 @@
 ---
 title: "Vibração: balanceamento ou suspensão"
-metaTitle: "Vibração em velocidade: balanceamento ou suspensão | Stuk"
+metaTitle: "Vibração em velocidade: balanceamento ou suspensão | Pro-Stuk"
 description: "Vibração no volante e na carroceria vem tanto de roda desbalanceada quanto de suspensão gasta. Como separar as versões pela velocidade e pelas condições."
 faq:
   - q: "Em que velocidade o desbalanceamento aparece?"
@@ -97,7 +97,7 @@ gravado no disco, retificar não é opção, e a oficina que faz mesmo assim
 está lhe vendendo um disco que vai empenar de novo em poucos meses.
 
 Vibração é difícil de descrever com palavras, mas grava bem: faça
-gravações curtas no aplicativo Stuk em velocidade constante, na frenagem e
+gravações curtas no aplicativo Pro-Stuk em velocidade constante, na frenagem e
 passando por buracos. O app cruza tudo com suas respostas a algumas
 perguntas e mostra as causas prováveis com porcentagens, para que na
 oficina você diga as condições, e não apenas o fato do tremor.

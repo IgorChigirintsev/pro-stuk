@@ -1,6 +1,6 @@
 ---
 title: "Klopfen: Lenkgetriebe oder Spurstangenköpfe"
-metaTitle: "Klopfen: Lenkgetriebe oder Spurstangenköpfe | Stuk"
+metaTitle: "Klopfen: Lenkgetriebe oder Spurstangenköpfe | Pro-Stuk"
 description: "Ein im Lenkrad spürbares Klopfen über Unebenheiten kommt sowohl vom Lenkgetriebe als auch von den Spurstangenköpfen. Wie Sie beides mit einfachen Prüfungen trennen."
 faq:
   - q: "Das Klopfen kommt ins Lenkrad — ist es sicher die Lenkung?"

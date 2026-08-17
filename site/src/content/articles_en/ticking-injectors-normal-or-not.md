@@ -1,7 +1,7 @@
 ---
 ru: "tsokayut-forsunki-norma-ili-net"
 title: "Ticking injectors: normal or not"
-metaTitle: "Ticking injectors: normal or a sign of trouble | Stuk"
+metaTitle: "Ticking injectors: normal or a sign of trouble | Pro-Stuk"
 description: "Injector ticking: why it happens, when it is normal for an engine and when it signals a fault. How to tell it from hydraulic lifters."
 pubDate: "2026-07-08"
 related:
@@ -114,6 +114,6 @@ injectors, and no amount of injector cleaning touches it — that is a
 separate job, and worth ruling in or out before paying for the wrong one.
 
 If the ticking raises doubts — louder, less even, joined by vibration —
-record the engine at idle in the Stuk app: the algorithm matches the sound
+record the engine at idle in the Pro-Stuk app: the algorithm matches the sound
 with typical profiles and your answers and shows whether it resembles
 normal injector operation or a reason to visit a workshop.

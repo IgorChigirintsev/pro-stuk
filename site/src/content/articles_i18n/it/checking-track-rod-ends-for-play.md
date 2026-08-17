@@ -1,6 +1,6 @@
 ---
 title: "Controllare il gioco delle testine dello sterzo"
-metaTitle: "Controllare il gioco delle testine dello sterzo | Stuk"
+metaTitle: "Controllare il gioco delle testine dello sterzo | Pro-Stuk"
 description: "Come trovare da soli il gioco nelle testine dello sterzo: la presa a ore 3 e 9, la mano sullo snodo, come distinguerle dalla scatola guida e cosa serve dopo."
 faq:
   - q: "Come distinguo il gioco della testina da quello della scatola guida?"
@@ -100,7 +100,7 @@ altri pezzi: i semiassi si verificano facendo cerchi lenti in un piazzale,
 e la distribuzione si giudica a orecchio a un avviamento a freddo.
 
 Se sente il colpo ma non riesce a coglierlo con le mani, cosa normale
-agli stadi iniziali dell'usura, registri il suono con l'app Stuk passando
+agli stadi iniziali dell'usura, registri il suono con l'app Pro-Stuk passando
 su piccole asperità. L'app confronta la registrazione con le sue risposte
 e mostra le cause probabili in percentuale, così il controllo sul ponte
 punta a una teoria precisa invece che a tutto l'avantreno.

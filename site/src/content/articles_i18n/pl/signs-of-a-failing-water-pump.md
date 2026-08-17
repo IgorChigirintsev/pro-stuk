@@ -1,6 +1,6 @@
 ---
 title: "Objawy uszkodzonej pompy wody"
-metaTitle: "Pompa wody: hałas, wyciek, przegrzewanie | Stuk"
+metaTitle: "Pompa wody: hałas, wyciek, przegrzewanie | Pro-Stuk"
 description: "Wycieki płynu, wycie łożyska, luz koła pasowego i przegrzewanie: objawy umierającej pompy wody etapami, proste testy i zakres wymiany."
 faq:
   - q: "Ile wytrzymuje pompa wody?"
@@ -125,5 +125,5 @@ wyjącą pompą, opisuje tekst
 [czy można jeździć z wyjącą pompą wody](/pl/articles/can-you-drive-with-a-whining-water-pump/).
 
 Nie ma pewności, czy buczy pompa, czy coś innego na pasku? Proszę nagrać
-dźwięk w aplikacji Stuk: zestawi nagranie z odpowiedziami i pokaże
+dźwięk w aplikacji Pro-Stuk: zestawi nagranie z odpowiedziami i pokaże
 prawdopodobne przyczyny wraz z oceną pilności.

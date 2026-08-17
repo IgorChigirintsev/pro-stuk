@@ -1,7 +1,7 @@
 ---
 ru: "shelest-tsepi-grm-kak-zvuchit"
 title: "Timing chain rustle: what it sounds like"
-metaTitle: "Timing chain rustle: the sound and the risk | Stuk"
+metaTitle: "Timing chain rustle: the sound and the risk | Pro-Stuk"
 description: "How a stretched timing chain sounds, when a rustle after starting is normal and when it means a workshop. The stages of wear and the risk of a jump."
 pubDate: "2026-07-05"
 related:
@@ -133,5 +133,5 @@ signs of wear are in
 asking whether it is included avoids doing the same disassembly twice.
 
 Not sure it is the chain you are hearing? Record the engine with the
-bonnet open in the Stuk app — it matches the recording with typical fault
+bonnet open in the Pro-Stuk app — it matches the recording with typical fault
 sounds and shows the likely causes with an urgency level.

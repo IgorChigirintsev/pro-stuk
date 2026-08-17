@@ -1,6 +1,6 @@
 ---
 title: "Risco de cilindro em Hyundai e Kia: como soa"
-metaTitle: "Risco de cilindro Hyundai/Kia: como soa | Stuk"
+metaTitle: "Risco de cilindro Hyundai/Kia: como soa | Pro-Stuk"
 description: "Como reconhecer de ouvido o risco nos cilindros de motores Hyundai e Kia: o caráter da batida, a ligação com aquecimento e carga, e como se confirma."
 faq:
   - q: "Risco de cilindro bate a frio ou quente?"
@@ -94,7 +94,7 @@ peça as fotos do endoscópio em vez de um veredito falado: a diferença
 entre marcas leves de brunimento e sulcos fundos é o que decide entre
 acompanhar e abrir o motor, e isso se vê na imagem.
 
-O primeiro passo fica conveniente com o aplicativo Stuk: grave o som com o
+O primeiro passo fica conveniente com o aplicativo Pro-Stuk: grave o som com o
 motor frio e com o motor quente, anote se ele muda sob carga e responda às
 perguntas sobre completar óleo. O aplicativo mostra as causas prováveis em
 porcentagem e sugere quais medições vale pedir primeiro na oficina.

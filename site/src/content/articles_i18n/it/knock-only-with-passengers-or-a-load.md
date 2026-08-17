@@ -1,6 +1,6 @@
 ---
 title: "Un colpo che compare solo con passeggeri o carico"
-metaTitle: "Colpo solo con passeggeri o carico: le cause | Stuk"
+metaTitle: "Colpo solo con passeggeri o carico: le cause | Pro-Stuk"
 description: "A vuoto l'auto è silenziosa, con persone e bagagli compare un colpo. Cosa cambia sotto carico e quali pezzi si tradiscono esattamente in questo modo."
 faq:
   - q: "Perché a vuoto l'auto è silenziosa e con i passeggeri batte?"
@@ -106,7 +106,7 @@ scarica, la gomma resta torcigliata a vita e si strappa nel giro di pochi
 mesi.
 
 Se vuole capire cosa suona prima di andare in officina, provi a registrare
-il rumore con l'app Stuk percorrendo due volte lo stesso tratto, a vuoto e a
+il rumore con l'app Pro-Stuk percorrendo due volte lo stesso tratto, a vuoto e a
 pieno carico. La differenza fra le due registrazioni è già informativa di
 per sé, e l'app la confronta con le sue risposte mostrando le cause
 probabili con le percentuali.

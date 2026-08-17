@@ -1,6 +1,6 @@
 ---
 title: "Ein Brummen, das mit dem Tempo wächst"
-metaTitle: "Brummen mit dem Tempo: Lager oder Reifen | Stuk"
+metaTitle: "Brummen mit dem Tempo: Lager oder Reifen | Pro-Stuk"
 description: "Ein Brummen, das mit der Fahrgeschwindigkeit steigt, kommt fast immer von den Rädern. Wie Sie Radlager, Reifen und Antriebsstrang in einer Fahrt trennen."
 faq:
   - q: "Das Brummen wächst mit dem Tempo — ist das sicher ein Lager?"

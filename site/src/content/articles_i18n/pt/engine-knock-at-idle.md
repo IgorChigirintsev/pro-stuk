@@ -1,6 +1,6 @@
 ---
 title: "Batida no motor em marcha lenta"
-metaTitle: "Batida no motor em marcha lenta: causas | Stuk"
+metaTitle: "Batida no motor em marcha lenta: causas | Pro-Stuk"
 description: "Por que o motor bate em marcha lenta: tuchos hidráulicos, corrente de comando, válvulas ou acessórios. Como separar as causas pelo som."
 faq:
   - q: "Por que a batida aparece em marcha lenta e some em rotação mais alta?"
@@ -144,6 +144,6 @@ das batidas de motor está na página de sintoma
 [batida no motor](/pt/symptoms/knocking-in-engine/).
 
 Se quiser entender o que está acontecendo antes de ir à oficina, grave o
-motor funcionando no aplicativo Stuk. Ele compara a gravação com as suas
+motor funcionando no aplicativo Pro-Stuk. Ele compara a gravação com as suas
 respostas a algumas perguntas e mostra as causas prováveis com um nível de
 urgência: com essa lista, a conversa com o mecânico fica objetiva.

@@ -1,6 +1,6 @@
 ---
 title: "Tableteo del motor: ¿peligroso o no?"
-metaTitle: "Tableteo del motor: ¿peligroso o no? Cómo saberlo | Stuk"
+metaTitle: "Tableteo del motor: ¿peligroso o no? Cómo saberlo | Pro-Stuk"
 description: "Por qué tabletea un motor: cuándo es funcionamiento normal de los inyectores y cuándo son taqués o válvulas gastados. Cómo separar lo inofensivo de lo serio."
 faq:
   - q: "El motor tabletea a ralentí, ¿es peligroso?"
@@ -146,6 +146,6 @@ distribución que tabletea desatendida durante años desgasta las levas, y en
 lugar de un reglaje llega la factura de unos árboles de levas.
 
 Si no está seguro de si su caso es el inofensivo, grabe el motor con la
-aplicación Stuk: compara la grabación con sus respuestas a unas preguntas de
+aplicación Pro-Stuk: compara la grabación con sus respuestas a unas preguntas de
 aclaración y muestra las causas probables con un nivel de urgencia. Con eso es
 más fácil decidir entre ir esta semana y simplemente vigilarlo.

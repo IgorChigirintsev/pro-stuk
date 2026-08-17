@@ -1,6 +1,6 @@
 ---
 title: "Crepitio quando si preme la frizione"
-metaTitle: "Crepitio premendo la frizione: le cause | Stuk"
+metaTitle: "Crepitio premendo la frizione: le cause | Pro-Stuk"
 description: "Un crepitio mentre il pedale della frizione scende arriva di solito dalla forchetta, dal manicotto guida o da uno snodo a secco. Come capire quanto è grosso."
 faq:
   - q: "Il crepitio sul pedale è il cuscinetto reggispinta?"
@@ -94,7 +94,7 @@ qualsiasi intervento su questo gruppo, come descritto in
 [si può guidare con il cambio che ronza](/it/articles/can-you-drive-with-a-whining-gearbox/).
 
 Se è difficile capire da dove arrivi il suono, dall'abitacolo o da sotto
-il cofano, lo registri con l'app Stuk due volte: a motore spento e a
+il cofano, lo registri con l'app Pro-Stuk due volte: a motore spento e a
 motore acceso. L'app confronta le registrazioni con le sue risposte e
 mostra le cause probabili in percentuale, così il discorso in officina
 parte dal capo giusto.

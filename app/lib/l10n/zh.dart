@@ -2,7 +2,7 @@
 const Map<String, String> zh = {
   'hiwBody':
       '\n1. 提问。简短的问卷可以缩小可能的原因：什么时候能听到声音、像什么、和什么有关。这是判断的主要依据——修理工也是这样开始的。\n\n2. 声音。15–30 秒的录音会上传到服务器。算法会计算频谱、敲击的节奏和转速，语言模型再把这些和你的回答以及该车型的常见故障对照起来。\n\n3. 报告。可能的原因及百分比、紧急程度信号灯，以及提示：去修理厂该怎么说，自己又能检查什么。\n\n结果是概率估计，不是诊断。准确度取决于录音质量和回答是否如实。是否维修，由修理工检查后决定。',
-  'appName': 'Stuk',
+  'appName': 'Pro-Stuk',
   'appTagline': '听声音判断故障',
   'carTitle': '您开的是什么车？',
   'carSubtitle': '品牌、车龄和里程有助于更准确地判断异响来源。',
@@ -105,7 +105,7 @@ const Map<String, String> zh = {
   'histEmpty': '暂时为空——第一次分析会显示在这里。',
   'histFull': '声音分析',
   'histQuick': '快速判断',
-  'shareText': '声音分析 —— “Stuk”应用，pro-stuk.com',
+  'shareText': '声音分析 —— “Pro-Stuk”应用，pro-stuk.com',
   'langTitle': '语言',
   'langHint': '默认使用设备语言。尚未翻译的内容以俄语显示。',
   'unitKm': '公里',

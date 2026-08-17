@@ -1,6 +1,6 @@
 ---
 title: "Tıkırtı: aks kafası mı, fren mi"
-metaTitle: "Sürerken tıkırtı: aks kafası mı fren mi | Stuk"
+metaTitle: "Sürerken tıkırtı: aks kafası mı fren mi | Pro-Stuk"
 description: "Virajda ve kalkışta gelen tıkırtının kaynağı hem dış aks kafası hem fren olabilir. İki ihtimali koşullara bakarak nasıl ayırırsınız."
 faq:
   - q: "Tıkırtı sadece keskin virajda geliyorsa kesin aks kafası mıdır?"
@@ -92,7 +92,7 @@ veriliyor mu? Balatanın tıkırdamasını engelleyen klips ve yaylar sarf
 malzemesidir; onlarsız takılan balatalar haftalar içinde yeniden tıkırdamaya
 başlar.
 
-Tıkırtı ara ara geliyor ve liftte tekrarlatılamıyorsa, sesi Stuk
+Tıkırtı ara ara geliyor ve liftte tekrarlatılamıyorsa, sesi Pro-Stuk
 uygulamasına iki kez kaydedin: bir kez hafif gazla yavaş daire çizerken,
 bir kez de pedala ilk basışta. Uygulama bu iki kayıttan muhtemel nedenleri
 yüzdeleriyle gösterir ve önce hangi parçaya bakılması gerektiğini söyler.

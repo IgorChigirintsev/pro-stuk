@@ -1,6 +1,6 @@
 ---
 title: "Gaz kesince gelen tıkırtı"
-metaTitle: "Gaz kesince tıkırtı: takoz, aktarma, zincir | Stuk"
+metaTitle: "Gaz kesince tıkırtı: takoz, aktarma, zincir | Pro-Stuk"
 description: "Gazdan ayağı çekince gelen tek tıkırtı: yorulmuş motor takozu, aktarma organlarında boşluk, triger zinciri, egzoz. Kaynak nasıl bulunur."
 faq:
   - q: "Tıkırtı neden sürekli değil de gaz kesince duyuluyor?"
@@ -100,6 +100,6 @@ tekrarlı ve devirle değişendir.
 Bu beş adım genelde servise «bir şey tıkırdıyor» yerine somut bir teoriyle
 gitmeye yeter; bu da hem teşhis süresinden hem paradan kazandırır.
 
-Listeyi daha hızlı daraltmak Stuk uygulamasının işidir: sesi gaz kesme
+Listeyi daha hızlı daraltmak Pro-Stuk uygulamasının işidir: sesi gaz kesme
 anında kaydedin, koşullarla ilgili birkaç soruyu cevaplayın ve olası
 sebepleri yüzdeyle ve aciliyet düzeyiyle alın.

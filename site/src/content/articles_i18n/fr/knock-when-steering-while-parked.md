@@ -1,6 +1,6 @@
 ---
 title: "Un claquement en tournant le volant à l'arrêt"
-metaTitle: "Claquement en tournant le volant à l'arrêt | Stuk"
+metaTitle: "Claquement en tournant le volant à l'arrêt | Pro-Stuk"
 description: "Claquements, craquements ou clics en tournant le volant voiture arrêtée : coupelles, rotules, crémaillère, direction assistée — comment les distinguer."
 faq:
   - q: "Pourquoi ça claque seulement au volant à l'arrêt et pas en roulant ?"
@@ -138,6 +138,6 @@ pièces plutôt qu'un réglage. Un claquement au volant à l'arrêt justifie
 donc un diagnostic serein mais non repoussé.
 
 Si vous ne savez pas ce qui produit exactement le son, enregistrez le
-craquement ou le claquement en tournant le volant dans l'application Stuk.
+craquement ou le claquement en tournant le volant dans l'application Pro-Stuk.
 Elle croise l'enregistrement avec vos réponses sur le moment d'apparition
 et affiche les causes probables avec un niveau d'urgence.

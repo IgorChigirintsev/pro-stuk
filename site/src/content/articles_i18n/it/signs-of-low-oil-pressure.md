@@ -1,6 +1,6 @@
 ---
 title: "Segnali di bassa pressione dell'olio"
-metaTitle: "Bassa pressione olio: sintomi e cause | Stuk"
+metaTitle: "Bassa pressione olio: sintomi e cause | Pro-Stuk"
 description: "Come riconoscere la bassa pressione dell'olio prima dei danni seri: spia accesa, ticchettio delle punterie, battito di banco. Le cause del calo e come si misura."
 faq:
   - q: "Perché la spia della pressione olio si accende al minimo a motore caldo?"
@@ -142,7 +142,7 @@ segnalato il problema molto prima della spia: nessuno ha tirato fuori
 l'astina.
 
 Se il motore ha cominciato a suonare diverso mentre la spia tace ancora,
-registri il suono con l'app Stuk. L'app confronta la registrazione con i
+registri il suono con l'app Pro-Stuk. L'app confronta la registrazione con i
 rumori tipici dei motori, pone domande di precisazione e indica se la cosa
 somiglia a un problema di lubrificazione e con quanta urgenza mostrare
 l'auto a un meccanico. Cosa significa un rumore presente solo a freddo lo

@@ -1,6 +1,6 @@
 ---
 title: "Segni di una frizione consumata"
-metaTitle: "Frizione consumata: i segni e le prove | Stuk"
+metaTitle: "Frizione consumata: i segni e le prove | Pro-Stuk"
 description: "Come riconoscere l'usura della frizione: slittamento, odore di bruciato, pedale alto, strappi. La prova di un minuto, gli stadi dell'usura e come si decide l'intervento."
 faq:
   - q: "Qual è il primo segno di usura della frizione?"
@@ -141,6 +141,6 @@ kit, il conto è uno; quando il surriscaldamento ha raggiunto il volano, è un
 altro.
 
 Se non è sicuro che la vibrazione o il rumore siano davvero la frizione,
-registri il suono con l'app Stuk: al minimo, a pedale premuto e in partenza.
+registri il suono con l'app Pro-Stuk: al minimo, a pedale premuto e in partenza.
 L'app confronta le registrazioni con le sue risposte e mostra le cause
 probabili con un livello di urgenza.

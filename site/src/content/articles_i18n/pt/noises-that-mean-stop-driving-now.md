@@ -1,6 +1,6 @@
 ---
 title: "Ruídos que exigem parar o carro na hora"
-metaTitle: "Ruídos que exigem parar o carro na hora | Stuk"
+metaTitle: "Ruídos que exigem parar o carro na hora | Pro-Stuk"
 description: "A maioria dos ruídos espera pela oficina, mas alguns pedem desligar o motor agora. Quais são os sinais, como parar com segurança e o que fazer depois."
 faq:
   - q: "Como sei que um ruído significa parar agora?"
@@ -96,7 +96,7 @@ apertando os painéis de acabamento —
 [como achar chocalhos e rangidos no interior](/pt/articles/finding-interior-rattles-and-squeaks/).
 
 Quando não tiver certeza de qual categoria é o que você ouviu, grave o som no
-aplicativo Stuk antes de sair do lugar. O aplicativo cruza a gravação com as
+aplicativo Pro-Stuk antes de sair do lugar. O aplicativo cruza a gravação com as
 suas respostas a algumas perguntas e mostra as causas prováveis com
 percentuais — normalmente o bastante para decidir entre seguir dirigindo e
 esperar o guincho.

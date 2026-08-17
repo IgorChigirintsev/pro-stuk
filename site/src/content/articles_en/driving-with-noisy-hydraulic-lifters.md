@@ -1,7 +1,7 @@
 ---
 ru: "chto-budet-esli-ezdit-so-stukom-gidrokompensatorov"
 title: "What happens if you keep driving with noisy hydraulic lifters"
-metaTitle: "Noisy hydraulic lifters: driving on with them | Stuk"
+metaTitle: "Noisy hydraulic lifters: driving on with them | Pro-Stuk"
 description: "A ticking hydraulic lifter will not destroy an engine in a day, but it hammers the camshaft lobe and the valve. The scenarios, the timescales and what to check first."
 pubDate: "2026-07-31"
 related:
@@ -98,7 +98,7 @@ head itself, to the list — and by then the engine has usually lost power
 as well, because a worn lobe no longer opens the valve fully.
 
 If the ticking only shows up cold and you want to know whether that falls
-within normal, record the sound in the Stuk app right after starting and
+within normal, record the sound in the Pro-Stuk app right after starting and
 again after five minutes of running. The app compares the two recordings
 with your answers about the engine and its mileage and shows the likely
 causes with percentages.

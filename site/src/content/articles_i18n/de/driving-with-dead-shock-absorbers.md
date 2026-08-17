@@ -1,6 +1,6 @@
 ---
 title: "Wozu Fahren mit toten Stoßdämpfern führt"
-metaTitle: "Fahren mit toten Stoßdämpfern: die Folgen | Stuk"
+metaTitle: "Fahren mit toten Stoßdämpfern: die Folgen | Pro-Stuk"
 description: "Tote Dämpfer verlängern den Bremsweg, zerstören das Fahrwerk und fressen Reifen. Was als Nächstes kaputtgeht, wie man es erkennt und was die Reparatur umfasst."
 faq:
   - q: "Wie stark beeinflussen tote Dämpfer den Bremsweg?"

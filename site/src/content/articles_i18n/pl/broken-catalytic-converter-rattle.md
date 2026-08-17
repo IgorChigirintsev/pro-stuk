@@ -1,6 +1,6 @@
 ---
 title: "Rozsypana ceramika katalizatora: jak to brzmi"
-metaTitle: "Rozsypany katalizator: jak brzmi ten dźwięk | Stuk"
+metaTitle: "Rozsypany katalizator: jak brzmi ten dźwięk | Pro-Stuk"
 description: "Sypiący szelest spod podłogi i grzechot na wolnych obrotach — jak brzmi rozsypana ceramika katalizatora, jak to sprawdzić i czym grozi silnikowi."
 faq:
   - q: "Jak brzmi rozsypany katalizator?"
@@ -98,7 +98,7 @@ mowa i co zrobiono z sondą. Wycena, która odpowiada tylko „usuniemy
 hałas”, zasługuje na dopytanie.
 
 Jeśli słyszy Pan szelest, ale nie ma pewności, że pochodzi z wydechu,
-proszę nagrać go w aplikacji Stuk na dziurawej drodze i przy ruszaniu.
+proszę nagrać go w aplikacji Pro-Stuk na dziurawej drodze i przy ruszaniu.
 Aplikacja zestawi nagranie z odpowiedziami na kilka pytań i pokaże
 prawdopodobne źródła z procentami — łatwiej wtedy zdecydować, czy jechać
 pilnie, czy umówić się na wygodny dzień.

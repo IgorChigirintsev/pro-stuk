@@ -1,6 +1,6 @@
 ---
 title: "Batida ao frear: pastilhas ou pinça"
-metaTitle: "Batida ao frear: pastilhas ou pinça de freio | Stuk"
+metaTitle: "Batida ao frear: pastilhas ou pinça de freio | Pro-Stuk"
 description: "A batida ao pisar no pedal vem tanto de pastilhas com folga quanto de uma pinça solta. Como separar as duas pelo caráter do som."
 faq:
   - q: "Por que a batida só aparece na primeira frenagem?"
@@ -92,7 +92,7 @@ suporte sejam apertados com torquímetro, não no braço — alguns são de uso
 importa.
 
 Batidas de freio raramente se repetem sob encomenda na oficina. Grave o
-som duas vezes com o aplicativo Stuk — na primeira frenagem depois de sair
+som duas vezes com o aplicativo Pro-Stuk — na primeira frenagem depois de sair
 e numa frenagem suave a partir de 60 km/h. Pela diferença entre as
 gravações o aplicativo mostra as causas prováveis em porcentagem e sugere
 qual peça mandar olhar primeiro.

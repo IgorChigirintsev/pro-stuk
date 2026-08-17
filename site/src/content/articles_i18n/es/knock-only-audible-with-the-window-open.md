@@ -1,6 +1,6 @@
 ---
 title: "Un golpe que solo se oye con la ventanilla bajada"
-metaTitle: "Golpe que solo se oye con la ventanilla bajada | Stuk"
+metaTitle: "Golpe que solo se oye con la ventanilla bajada | Pro-Stuk"
 description: "Ventanilla subida: silencio. Ventanilla bajada: un golpe clarísimo. Por qué ocurre, qué le dice eso sobre el origen y cómo aprovechar el efecto para diagnosticar."
 faq:
   - q: "¿Por qué no se oye el golpe con la ventanilla cerrada?"
@@ -117,7 +117,7 @@ antes de lo que sugieren los kilómetros; cómo comprobarlo está en
 Un sonido así es casi imposible de transmitir con palabras a un mecánico:
 en el taller el coche está parado, las ventanillas abiertas y falta justo
 esa combinación de velocidad y curva. Por eso grabe una pasada con la
-ventanilla bajada en la aplicación Stuk: analiza la grabación, la cruza
+ventanilla bajada en la aplicación Pro-Stuk: analiza la grabación, la cruza
 con sus respuestas sobre velocidad y condiciones y muestra las causas
 probables con porcentajes, dejando al taller un audio concreto que
 escuchar.

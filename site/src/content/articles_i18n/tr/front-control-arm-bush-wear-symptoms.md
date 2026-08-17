@@ -1,6 +1,6 @@
 ---
 title: "Ön salıncak burçlarının aşınması: belirtileri"
-metaTitle: "Ön salıncak burcu aşınması: belirtileri | Stuk"
+metaTitle: "Ön salıncak burcu aşınması: belirtileri | Pro-Stuk"
 description: "Çukurlarda boğuk darbeler, gezinen direksiyon ve iz takip eden araç — aşınmış salıncak burçlarının tipik işaretleri ve nasıl kontrol edildikleri."
 faq:
   - q: "Burç mu rotil mi olduğunu nasıl anlarım?"
@@ -108,7 +108,7 @@ vaktinden önce bitmiş bir takım lastik, rotillerde ve rot başlarında hızla
 aşınma, yüksek hızda bulanıklaşan davranış.
 
 Çukurlardaki tok sesler duyuluyor ama nereden geldiğini çıkaramıyorsanız,
-tanıdık bozuk bir yol parçasındaki geçişi Stuk uygulamasıyla kaydedin.
+tanıdık bozuk bir yol parçasındaki geçişi Pro-Stuk uygulamasıyla kaydedin.
 Uygulama darbenin karakterini hız ve direksiyon davranışı hakkındaki
 cevaplarınızla eşleştirir ve olası sebepleri yüzdeyle gösterir — geriye
 yalnızca liftte doğrulamak kalır.

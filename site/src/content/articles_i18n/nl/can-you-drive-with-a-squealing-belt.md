@@ -1,6 +1,6 @@
 ---
 title: "Kun je rijden met een piepende multiriem"
-metaTitle: "Rijden met een piepende multiriem? | Stuk"
+metaTitle: "Rijden met een piepende multiriem? | Pro-Stuk"
 description: "Een piepende multiriem: hoe lang u nog kunt rijden, wat een gebroken riem kost, hoe u riemslijtage van een spanrollager onderscheidt en hoe de reparatie wordt bepaald."
 faq:
   - q: "Hoe lang kan ik doorrijden met een piepende multiriem?"

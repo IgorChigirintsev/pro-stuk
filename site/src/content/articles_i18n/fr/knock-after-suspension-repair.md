@@ -1,6 +1,6 @@
 ---
 title: "Un claquement après une réparation de suspension : à qui la faute"
-metaTitle: "Claquement après réparation de suspension : la faute | Stuk"
+metaTitle: "Claquement après réparation de suspension : la faute | Pro-Stuk"
 description: "Un claquement est apparu après une intervention sur la suspension : erreur de montage, pièce défectueuse ou composant voisin ? Séparer les trois hypothèses."
 faq:
   - q: "Est-il normal de reserrer une suspension après une réparation ?"
@@ -97,7 +97,7 @@ question se règle presque toujours sans conflit : un atelier correct
 trouve plus simple de refaire le travail que de discuter.
 
 L'argument le plus fort dans cette conversation, c'est le son lui-même.
-Enregistrez-le dans l'application Stuk sur une portion de route
+Enregistrez-le dans l'application Pro-Stuk sur une portion de route
 représentative : l'algorithme croise l'enregistrement avec vos réponses et
 affiche les sources probables avec un niveau d'urgence. Avec ce résultat,
 il est plus facile à la fois de parler à l'atelier et de juger à quel

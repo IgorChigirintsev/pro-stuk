@@ -1,6 +1,6 @@
 ---
 title: "Guincho de freio em baixa velocidade"
-metaTitle: "Guincho de freio em baixa velocidade | Stuk"
+metaTitle: "Guincho de freio em baixa velocidade | Pro-Stuk"
 description: "Um guincho de freio a 5 ou 20 km/h pode ser vibração inofensiva da pastilha ou o indicador de desgaste em ação. Como diferenciar e do que depende o reparo."
 faq:
   - q: "Por que os freios só guincham em baixa velocidade?"
@@ -109,7 +109,7 @@ disco e elimina metade do ruído futuro. Se o guincho virou raspagem, a
 questão já não é de ruído, e sim de segurança.
 
 Se você quer saber o que está soando antes de agendar qualquer coisa,
-grave o guincho no aplicativo Stuk ao se aproximar de um semáforo. O
+grave o guincho no aplicativo Pro-Stuk ao se aproximar de um semáforo. O
 aplicativo decompõe a gravação por frequência, compara com as suas
 respostas a algumas perguntas sobre as condições e mostra as causas
 prováveis com porcentagens — normalmente o suficiente para decidir entre

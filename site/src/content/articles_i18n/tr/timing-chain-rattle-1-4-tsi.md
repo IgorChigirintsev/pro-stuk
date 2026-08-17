@@ -1,6 +1,6 @@
 ---
 title: "1.4 TSI triger zinciri takırtısı: hastalık ve çözümü"
-metaTitle: "1.4 TSI triger zinciri takırtısı: sebep ve çözüm | Stuk"
+metaTitle: "1.4 TSI triger zinciri takırtısı: sebep ve çözüm | Pro-Stuk"
 description: "Erken zincirli 1.4 TSI motorlar soğukta neden takırdar, uzamış zincir diğer vuruntulardan nasıl ayrılır ve onarım neleri kapsar."
 faq:
   - q: "Zincir neden sadece çalıştırmanın ilk saniyelerinde takırdıyor?"
@@ -105,7 +105,7 @@ tamamlamaktır: tahrikin çalışması, sistemin basıncı ne kadar hızlı
 kurduğuna doğrudan bağlıdır.
 
 Çalıştırmadaki takırtı yakın zamanda çıktıysa ve o ses mi diye merak
-ediyorsanız, soğuk çalıştırmanın hemen ardından, motor ısınmadan Stuk
+ediyorsanız, soğuk çalıştırmanın hemen ardından, motor ısınmadan Pro-Stuk
 uygulamasında kaydedin. Uygulama kaydı verdiğiniz cevaplarla eşleştirir ve
 olası sebepleri yüzdeleriyle gösterir — servise genel bir endişeyle değil,
 somut bir teoriyle gitmenize yeter.

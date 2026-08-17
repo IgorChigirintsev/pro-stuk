@@ -1,6 +1,6 @@
 ---
 title: "Estalos: junta homocinética ou freio"
-metaTitle: "Estalo ao rodar: junta homocinética ou freio? | Stuk"
+metaTitle: "Estalo ao rodar: junta homocinética ou freio? | Pro-Stuk"
 description: "Estalo em curva e ao sair vem tanto da junta homocinética quanto do freio. Como separar as duas teorias pelas condições em que o som aparece."
 faq:
   - q: "Estala só em curva fechada — é junta homocinética com certeza?"
@@ -89,7 +89,7 @@ chacoalhar são itens de consumo, e pastilhas instaladas sem elas voltam a
 estalar em poucas semanas.
 
 Se os estalos são esporádicos e não dá para reproduzi-los na rampa, grave
-o som no aplicativo Stuk durante um círculo lento com acelerador leve e,
+o som no aplicativo Pro-Stuk durante um círculo lento com acelerador leve e,
 separadamente, na primeira pisada no pedal. A partir dessas duas
 gravações o app mostra as causas prováveis com percentuais e sugere por
 qual componente olhar primeiro.

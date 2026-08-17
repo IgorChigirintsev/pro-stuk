@@ -1,6 +1,6 @@
 ---
 title: "Buczenie: łożysko koła czy opony — jak je rozróżnić"
-metaTitle: "Buczenie: łożysko koła czy opony | Stuk"
+metaTitle: "Buczenie: łożysko koła czy opony | Pro-Stuk"
 description: "Jak odróżnić buczenie łożyska koła od hałasu opon: testy do zrobienia w jednym przejeździe, tabela porównawcza objawów i błędy, które kosztują."
 faq:
   - q: "Buczenie pojawiło się zaraz po założeniu innych kół. Co to jest?"
@@ -129,6 +129,6 @@ napędowy — jest na stronach objawów
 [buczenie łożyska koła](/pl/symptoms/wheel-bearing-hum/).
 
 A jeśli chce Pan drugą opinię przed wizytą, proszę nagrać buczenie podczas
-jazdy w aplikacji Stuk: przeanalizuje nagranie, zada kilka pytań
+jazdy w aplikacji Pro-Stuk: przeanalizuje nagranie, zada kilka pytań
 uściślających — o nawierzchnię, łuki, sposób pojawienia się dźwięku — i
 pokaże prawdopodobne przyczyny z procentami.

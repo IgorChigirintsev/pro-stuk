@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-obvodnogo-rolika"
 title: "Signs of a worn idler pulley"
-metaTitle: "Worn idler pulley: sounds and how to check | Stuk"
+metaTitle: "Worn idler pulley: sounds and how to check | Pro-Stuk"
 description: "Whistling, whining and rustling from under the bonnet at idle often come from accessory belt idlers. How to tell an idler from the belt and the alternator."
 pubDate: "2026-06-11"
 related:
@@ -103,7 +103,7 @@ out in
 [can you drive with a squealing belt](/en/articles/can-you-drive-with-a-squealing-belt/).
 
 If you want to test your theory before the workshop visit, record the
-sound in the Stuk app at idle and while raising the revs smoothly: the app
+sound in the Pro-Stuk app at idle and while raising the revs smoothly: the app
 matches the recording with your answers to a few questions and shows the
 likely sources with percentages — along with a hint about what to check
 first.

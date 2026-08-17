@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de la suspensión delantera en baches pequeños"
-metaTitle: "Golpeteo de la suspensión delantera en baches pequeños | Stuk"
+metaTitle: "Golpeteo de la suspensión delantera en baches pequeños | Pro-Stuk"
 description: "Por qué la suspensión delantera golpea justo en los baches pequeños: bieletas, silentblocks, copelas, terminales. Cómo acotarlo uno mismo."
 faq:
   - q: "¿Por qué la suspensión golpea en baches pequeños y se calla en los grandes?"
@@ -140,6 +140,6 @@ acelera el desgaste de sus vecinas. Los plazos razonables están en
 [¿se puede circular con la suspensión golpeando?](/es/articles/can-you-drive-with-a-knocking-suspension/).
 
 Si quiere llegar al taller con una teoría preparada, grabe el golpeteo con la
-aplicación Stuk: compara el sonido con sus respuestas sobre cuándo aparece y
+aplicación Pro-Stuk: compara el sonido con sus respuestas sobre cuándo aparece y
 muestra las causas probables con un nivel de urgencia, y la conversación con
 un mecánico se vuelve concreta desde el primer momento.

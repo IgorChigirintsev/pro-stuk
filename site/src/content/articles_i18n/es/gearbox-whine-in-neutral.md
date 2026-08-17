@@ -1,6 +1,6 @@
 ---
 title: "Zumbido de la caja de cambios en punto muerto"
-metaTitle: "Zumbido de la caja en punto muerto: causas | Stuk"
+metaTitle: "Zumbido de la caja en punto muerto: causas | Pro-Stuk"
 description: "Un zumbido en punto muerto con el embrague sin pisar apunta al rodamiento del eje primario o al nivel de aceite. Cómo separarlo con una prueba de pedal."
 faq:
   - q: "El zumbido en punto muerto se va cuando piso el embrague. ¿Qué significa?"
@@ -95,6 +95,6 @@ plazos están desarrollados en
 [¿se puede circular con la caja de cambios zumbando?](/es/articles/can-you-drive-with-a-whining-gearbox/).
 
 Si el zumbido es flojo y no está seguro de si sigue al pedal, grábelo con la
-aplicación Stuk en los dos estados: con el embrague sin pisar y pisado. La
+aplicación Pro-Stuk en los dos estados: con el embrague sin pisar y pisado. La
 aplicación compara las grabaciones con sus respuestas y muestra las causas
 probables con porcentajes, junto con qué comprobar antes de la visita.

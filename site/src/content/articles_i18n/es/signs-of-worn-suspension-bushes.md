@@ -1,6 +1,6 @@
 ---
 title: "Señales de silentblocks de suspensión gastados"
-metaTitle: "Silentblocks gastados: sonido y comprobación | Stuk"
+metaTitle: "Silentblocks gastados: sonido y comprobación | Pro-Stuk"
 description: "Cómo se manifiestan unos silentblocks de brazo gastados: golpes, crujidos, el coche que se va y desgaste desigual del neumático. Comprobaciones y reparación."
 faq:
   - q: "¿Cuál es la primera señal de unos silentblocks gastados?"
@@ -141,6 +141,6 @@ de síntoma
 [golpeteo en la suspensión](/es/symptoms/knocking-in-suspension/).
 
 Si ha aparecido un golpeteo y no está claro si son los silentblocks, una
-rótula u otra cosa, grabe el sonido con la aplicación Stuk. Compara la
+rótula u otra cosa, grabe el sonido con la aplicación Pro-Stuk. Compara la
 grabación con sus respuestas y muestra las causas probables con un nivel de
 urgencia; con esa lista, la conversación en el taller se vuelve concreta.

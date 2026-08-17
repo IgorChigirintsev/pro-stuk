@@ -1,6 +1,6 @@
 ---
 title: "Polo Sedan / Rapid arka kiriş tıkırtısı"
-metaTitle: "Polo Sedan ve Rapid arka kiriş tıkırtısı: nedenleri | Stuk"
+metaTitle: "Polo Sedan ve Rapid arka kiriş tıkırtısı: nedenleri | Pro-Stuk"
 description: "Polo Sedan ve Rapid arkadan neden tıkırdar: torsiyon kirişi burçları, amortisörler, takozlar ve bağlantılar. Kaynağı nasıl bulursunuz."
 faq:
   - q: "Kirişi değiştirmeden yalnızca burçlar değişir mi?"
@@ -97,6 +97,6 @@ sonra ses geri geldiyse bakılacak yer tam olarak burasıdır —
 [süspansiyon tamirinden sonra tıkırtı](/tr/articles/knock-after-suspension-repair/).
 
 Tıkırtı yalnızca belirli bir yol parçasında çıkıyorsa ve serviste
-tekrarlanamıyorsa, o noktadan geçerken sesi Stuk uygulamasıyla kaydedin.
+tekrarlanamıyorsa, o noktadan geçerken sesi Pro-Stuk uygulamasıyla kaydedin.
 Uygulama kaydı cevaplarınızla eşleştirir ve muhtemel nedenleri
 yüzdelerle gösterir; böylece ustayla konuşma belirli bir parçadan başlar.

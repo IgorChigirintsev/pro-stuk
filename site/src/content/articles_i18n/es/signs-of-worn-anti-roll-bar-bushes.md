@@ -1,6 +1,6 @@
 ---
 title: "Señales de casquillos de estabilizadora gastados"
-metaTitle: "Casquillos de estabilizadora: sonido y pruebas | Stuk"
+metaTitle: "Casquillos de estabilizadora: sonido y pruebas | Pro-Stuk"
 description: "Cómo suenan los casquillos de la barra estabilizadora gastados, en qué se diferencian de las bieletas, cómo comprobarlos usted mismo y qué implica cambiarlos."
 faq:
   - q: "¿Puedo circular con los casquillos de la estabilizadora gastados?"
@@ -116,7 +116,7 @@ casquillos, sino sus propios anclajes, y cambiar la barra ya es otro orden
 de gasto.
 
 ¿No tiene claro que sean los casquillos lo que golpea? Grabe el sonido en
-un tramo representativo con la aplicación Stuk: el algoritmo compara la
+un tramo representativo con la aplicación Pro-Stuk: el algoritmo compara la
 grabación con sus respuestas y muestra las causas probables con porcentajes
 y un nivel de urgencia, de modo que llega al taller con una hipótesis de
 trabajo y no con una corazonada.

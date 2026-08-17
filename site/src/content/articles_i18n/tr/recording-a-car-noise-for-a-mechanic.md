@@ -1,6 +1,6 @@
 ---
 title: "Araç sesini usta için nasıl kaydedersiniz"
-metaTitle: "Araç sesini usta için nasıl kaydedersiniz | Stuk"
+metaTitle: "Araç sesini usta için nasıl kaydedersiniz | Pro-Stuk"
 description: "Araç sesini telefonla gerçekten duyulacak şekilde nasıl kaydedersiniz: telefon nerede tutulur, ne söylenir, hangi rejimler ve nelerden kaçınılır."
 faq:
   - q: "Araçta apaçık duyulan ses kayıtta neden yok?"
@@ -89,7 +89,7 @@ göre üç kısa ve temiz klip, uzun ve bulanık tek dosyadan faydalıdır.
 Süspansiyona dair bir not: tıkırtı yalnızca belirli tümseklerde
 çıkıyorsa, genel olarak sürüş değil, tam o yol parçası kaydedilmelidir.
 
-Ayarlarla uğraşmak istemiyorsanız kayıt Stuk uygulamasında yapılabilir:
+Ayarlarla uğraşmak istemiyorsanız kayıt Pro-Stuk uygulamasında yapılabilir:
 rejimleri sırayla söyler, koşulları sorar ve eşleştirdikten sonra
 muhtemel nedenleri yüzdelerle gösterir. Kayıtla birlikte hazırlanan kartı
 ustaya göstermek kolaydır — konuşma doğrudan konudan başlar.

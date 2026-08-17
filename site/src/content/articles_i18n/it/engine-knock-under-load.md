@@ -1,6 +1,6 @@
 ---
 title: "Battito del motore sotto carico"
-metaTitle: "Battito del motore sotto carico: cause e rischi | Stuk"
+metaTitle: "Battito del motore sotto carico: cause e rischi | Pro-Stuk"
 description: "Battito sotto carico: come distinguere la detonazione dal battito delle bronzine, dove entra la catena di distribuzione e quando continuare a guidare diventa pericoloso."
 faq:
   - q: "Come si distingue la detonazione dal battito delle bronzine?"
@@ -150,7 +150,7 @@ differenza tra una diagnosi precoce e una tardiva, quindi un battito sotto
 carico non è una cosa su cui sedersi.
 
 Se non è sicuro a quale scenario assomigli il suo caso, registri il suono di
-un'accelerazione nell'app Stuk: confronta la registrazione con i battiti
+un'accelerazione nell'app Pro-Stuk: confronta la registrazione con i battiti
 tipici, pone qualche domanda di chiarimento e mostra le cause probabili con
 un livello di urgenza. Arrivando in officina con quel materiale la visita
 scorre più veloce.

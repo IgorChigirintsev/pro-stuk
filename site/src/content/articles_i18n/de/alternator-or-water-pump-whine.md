@@ -1,6 +1,6 @@
 ---
 title: "Lichtmaschine oder Wasserpumpe: das Heulen unterscheiden"
-metaTitle: "Heulen: Lichtmaschine oder Wasserpumpe? | Stuk"
+metaTitle: "Heulen: Lichtmaschine oder Wasserpumpe? | Pro-Stuk"
 description: "Lichtmaschine und Wasserpumpe sitzen am selben Riemen und heulen gleich. Die Prüfungen, die beide in zehn Minuten trennen, und was jede Variante riskiert."
 faq:
   - q: "Wie unterscheide ich das Heulen ohne Demontage?"

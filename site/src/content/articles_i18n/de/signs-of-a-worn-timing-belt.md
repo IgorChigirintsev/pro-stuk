@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für einen verschlissenen Zahnriemen"
-metaTitle: "Zahnriemen verschlissen: Prüfung und Fristen | Stuk"
+metaTitle: "Zahnriemen verschlissen: Prüfung und Fristen | Pro-Stuk"
 description: "Woran Sie einen verschlissenen Zahnriemen erkennen: Risse, ausgefranste Kanten, Ticken und Rollenheulen. Warum ein Riss den Motor zerstört und wann getauscht wird."
 faq:
   - q: "Was passiert, wenn der Zahnriemen während der Fahrt reißt?"

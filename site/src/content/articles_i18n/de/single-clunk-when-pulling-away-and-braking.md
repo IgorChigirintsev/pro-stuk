@@ -1,6 +1,6 @@
 ---
 title: "Ein einzelner Schlag beim Anfahren und Bremsen"
-metaTitle: "Einzelner Schlag beim Anfahren und Bremsen | Stuk"
+metaTitle: "Einzelner Schlag beim Anfahren und Bremsen | Pro-Stuk"
 description: "Woher ein einzelner Schlag beim Anfahren und Anhalten kommt: Bremsbeläge, Bremssattel, Motorlager, Kardanwelle. Prüfung und Entscheidung über die Reparatur."
 faq:
   - q: "Warum ist der Schlag einzeln und keine Serie?"

@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten schokdempers"
-metaTitle: "Versleten schokdempers: 8 symptomen | Stuk"
+metaTitle: "Versleten schokdempers: 8 symptomen | Pro-Stuk"
 description: "Acht kenmerken van versleten schokdempers: nadeinen, duiken, geklop en vlekkerige bandenslijtage. Zelf controleren en wat de vervanging inhoudt."
 faq:
   - q: "Waarom is slijtage van schokdempers moeilijk op te merken?"

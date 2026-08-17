@@ -1,6 +1,6 @@
 ---
 title: "Knarzen im Innenraum im Winter"
-metaTitle: "Knarzen im Winter: warum die Kälte es bringt | Stuk"
+metaTitle: "Knarzen im Winter: warum die Kälte es bringt | Pro-Stuk"
 description: "Warum der Innenraum im Winter mehr knarzt: was mit Kunststoff und Gummi in der Kälte passiert, welche Töne nach dem Warmwerden gehen und welche zu prüfen sind."
 faq:
   - q: "Warum knarzt der Innenraum nur in den ersten Minuten nach dem Losfahren?"

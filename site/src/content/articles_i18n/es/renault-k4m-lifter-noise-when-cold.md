@@ -1,6 +1,6 @@
 ---
 title: "Taqués hidráulicos del Renault K4M: tictac en frío"
-metaTitle: "Taqués del Renault K4M en frío: causas | Stuk"
+metaTitle: "Taqués del Renault K4M en frío: causas | Pro-Stuk"
 description: "El motor K4M repiquetea al arrancar en frío: cómo trabajan los taqués hidráulicos, por qué suenan, cuándo basta un cambio de aceite y cuándo hay que cambiarlos."
 faq:
   - q: "¿Por qué los taqués solo suenan los primeros segundos tras arrancar?"
@@ -88,7 +88,7 @@ el motor abierto: un taqué que lleva meses repiqueteando deja marcas en la
 leva, y descubrirlo después es la vía cara.
 
 Para juzgar si su tictac entra dentro de lo normal, grabe el sonido en la
-aplicación Stuk justo después de un arranque en frío y otra vez con el
+aplicación Pro-Stuk justo después de un arranque en frío y otra vez con el
 motor caliente. La aplicación compara las grabaciones con sus respuestas
 sobre kilometraje y último cambio de aceite y muestra las causas probables
 con porcentajes, además de una pista sobre si ir al taller ya o cambiar el

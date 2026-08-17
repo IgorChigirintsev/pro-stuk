@@ -1,6 +1,6 @@
 ---
 title: "Colpo girando il volante in movimento"
-metaTitle: "Colpo girando il volante in movimento: cause | Stuk"
+metaTitle: "Colpo girando il volante in movimento: cause | Pro-Stuk"
 description: "Cosa batte quando si gira il volante mentre si guida: giunto omocinetico, giunto sferico, cuscinetto del duomo o scatola guida. Come separare le cause dal suono."
 faq:
   - q: "Gli schiocchi in curva sotto trazione sono sicuramente il giunto omocinetico?"
@@ -107,6 +107,6 @@ nella pagina sintomo
 [colpi nelle sospensioni](/it/symptoms/knocking-in-suspension/).
 
 Non riesce a descrivere il suono a parole con sicurezza? Lo registri con
-l'app Stuk durante la manovra stessa: l'app confronta la registrazione con
+l'app Pro-Stuk durante la manovra stessa: l'app confronta la registrazione con
 le sue risposte e mostra le cause probabili con le percentuali e un livello
 di urgenza.

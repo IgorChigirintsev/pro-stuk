@@ -1,6 +1,6 @@
 ---
 title: "Un crépitement moteur au démarrage"
-metaTitle: "Crépitement moteur au démarrage : causes | Stuk"
+metaTitle: "Crépitement moteur au démarrage : causes | Pro-Stuk"
 description: "Pourquoi un moteur crépite au démarrage : démarreur, déphaseurs, tendeur de chaîne ou poulie débrayable. Comment les séparer d'après le moment exact."
 faq:
   - q: "Un crépitement dans les premières secondes après le démarrage est-il dangereux ?"
@@ -135,7 +135,7 @@ les patins et amortisseurs partent avec la chaîne : ce sont les pièces
 plastique contre lesquelles la chaîne tape réellement.
 
 Si vous n'arrivez pas à rattacher le crépitement à un moment précis du
-démarrage à l'oreille, enregistrez le son dans l'application Stuk : elle
+démarrage à l'oreille, enregistrez le son dans l'application Pro-Stuk : elle
 croise l'enregistrement avec vos réponses sur le moment et la façon dont
 le son apparaît et affiche les causes probables avec leurs pourcentages et
 un niveau d'urgence — une liste plus commode avec laquelle arriver au

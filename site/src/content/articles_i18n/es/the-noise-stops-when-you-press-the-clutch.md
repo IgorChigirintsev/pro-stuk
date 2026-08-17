@@ -1,6 +1,6 @@
 ---
 title: "El ruido desaparece al pisar el embrague"
-metaTitle: "El ruido se va al pisar el embrague: por qué | Stuk"
+metaTitle: "El ruido se va al pisar el embrague: por qué | Pro-Stuk"
 description: "Si un zumbido extraño desaparece al pisar el embrague, el origen está en la caja de cambios. Cómo acotar la lista de sospechosos y qué revisar primero."
 faq:
   - q: "¿Por qué el ruido desaparece justo al pisar el embrague?"
@@ -107,7 +107,7 @@ equivocado puede producir justo el ruido que intenta curar. Pregunte qué
 le van a poner y contra qué especificación lo eligieron.
 
 Si no está seguro de que el sonido desaparezca de verdad al pisar,
-grabe dos veces con la aplicación Stuk: con el pedal suelto y con el
+grabe dos veces con la aplicación Pro-Stuk: con el pedal suelto y con el
 pedal pisado. La aplicación las compara, muestra la diferencia y ofrece
 hipótesis con porcentajes, para que llegue al taller con una descripción
 concreta y no con «hace un zumbido».

@@ -1,6 +1,6 @@
 ---
 title: "Chirrido de frenos tras la lluvia: ¿normal o no?"
-metaTitle: "Frenos que chirrían tras la lluvia: ¿normal? | Stuk"
+metaTitle: "Frenos que chirrían tras la lluvia: ¿normal? | Pro-Stuk"
 description: "Por qué chirrían los frenos después de la lluvia o de una noche parada, cuándo es óxido inofensivo en los discos y cuándo señal de pastillas gastadas."
 faq:
   - q: "¿Cuántas frenadas hacen falta para que se vaya el chirrido tras la lluvia?"
@@ -148,6 +148,6 @@ una parada larga. No quitará del todo el chirrido matutino, porque el
 óxido se forma igual, pero el sonido se vuelve más suave y más corto.
 
 Si no tiene claro cómo clasificar el sonido, grábelo en la aplicación
-Stuk, mejor por la mañana, en las primeras frenadas, cuando el chirrido es
+Pro-Stuk, mejor por la mañana, en las primeras frenadas, cuando el chirrido es
 más fuerte. La aplicación compara la grabación con sus respuestas y
 muestra las causas probables con una valoración de urgencia.

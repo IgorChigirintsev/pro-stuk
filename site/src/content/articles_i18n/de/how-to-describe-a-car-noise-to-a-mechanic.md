@@ -1,6 +1,6 @@
 ---
 title: "Was man dem Mechaniker sagt: ein Geräusch richtig beschreiben"
-metaTitle: "Ein Autogeräusch richtig beschreiben | Stuk"
+metaTitle: "Ein Autogeräusch richtig beschreiben | Pro-Stuk"
 description: "Wie Sie ein Geräusch so beschreiben, dass der Mechaniker es beim ersten Mal versteht: die fünf wichtigen Punkte, gute Formulierungen und typische Fehler."
 faq:
   - q: "Soll ich das Teil nennen, das ich verdächtige?"

@@ -1,6 +1,6 @@
 ---
 title: "Colpo al rilascio dell'acceleratore"
-metaTitle: "Colpo al rilascio del gas: supporti, trasmissione | Stuk"
+metaTitle: "Colpo al rilascio del gas: supporti, trasmissione | Pro-Stuk"
 description: "Un colpo secco quando si alza il piede dal gas: supporti motore consumati, giochi nella trasmissione, catena di distribuzione, scarico. Come localizzare la sorgente."
 faq:
   - q: "Perché il colpo si sente al rilascio del gas e non di continuo?"
@@ -102,6 +102,6 @@ Questi cinque passaggi bastano di solito per arrivare in officina con
 un'ipotesi precisa invece che con un «batte qualcosa», il che fa
 risparmiare tempo di diagnosi e denaro.
 
-Per restringere la lista più in fretta c'è l'app Stuk: registri il suono
+Per restringere la lista più in fretta c'è l'app Pro-Stuk: registri il suono
 nel momento del rilascio, risponda a qualche domanda sulle condizioni e
 riceva le cause probabili con le percentuali e un livello di urgenza.

@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van tikkende kleppen"
-metaTitle: "Tikkende kleppen: hoe het klinkt en wat te doen | Stuk"
+metaTitle: "Tikkende kleppen: hoe het klinkt en wat te doen | Pro-Stuk"
 description: "Hoe tikkende kleppen klinken, waarom de klepspeling verloopt, het verschil met andere motorgeluiden en wat afstellen inhoudt."
 faq:
   - q: "Hoe klinken tikkende kleppen?"

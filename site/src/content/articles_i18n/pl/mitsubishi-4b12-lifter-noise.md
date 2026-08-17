@@ -1,6 +1,6 @@
 ---
 title: "Hałas z góry silnika Mitsubishi 4B12: popychacze hydrauliczne"
-metaTitle: "Mitsubishi 4B12: stukot popychaczy z głowicy | Stuk"
+metaTitle: "Mitsubishi 4B12: stukot popychaczy z głowicy | Pro-Stuk"
 description: "Cykanie z góry silnika 4B12: jak zachowują się popychacze hydrauliczne, dlaczego zwykle winny jest olej i czym ten dźwięk różni się od łańcucha."
 faq:
   - q: "Cykanie znika minutę po rozruchu — czy to normalne?"
@@ -48,7 +48,7 @@ przypadków problem zaczyna się od smarowania.
 | Gwizd albo wycie | Osprzęt | Znika po zdjęciu paska |
 
 Główną wskazówką jest częstotliwość: cykanie popychaczy przyspiesza wraz
-z obrotami, bo krzywki uderzają częściej. Stuk panewek przeciwnie —
+z obrotami, bo krzywki uderzają częściej. Pro-Stuk panewek przeciwnie —
 reaguje na obciążenie: pod górkę i przy dodaniu gazu narasta, a przy
 puszczeniu gazu cichnie. Ogólny podział tej grupy dźwięków znajduje się na
 stronie objawu
@@ -92,7 +92,7 @@ Zanim wejdzie się głęboko w rozrząd, warto się upewnić, że to nie hamulce
 [rozpoznawanie zużycia klocków na słuch](/pl/articles/brake-pad-wear-by-ear/).
 
 Jeśli chce się wiedzieć, czy jechać do warsztatu już jutro, warto nagrać
-dźwięk aplikacją Stuk: raz zaraz po zimnym rozruchu, raz na rozgrzanym
+dźwięk aplikacją Pro-Stuk: raz zaraz po zimnym rozruchu, raz na rozgrzanym
 silniku na biegu jałowym. Aplikacja zestawia nagrania z odpowiedziami na
 pytania i pokazuje prawdopodobne przyczyny z procentami, a sama różnica
 między dwoma nagraniami mówi mechanikowi bardzo dużo.

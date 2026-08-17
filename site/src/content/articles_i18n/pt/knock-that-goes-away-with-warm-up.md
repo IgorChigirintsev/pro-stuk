@@ -1,6 +1,6 @@
 ---
 title: "Batida no motor que some quando ele esquenta"
-metaTitle: "Batida que some com o motor quente: o que é | Stuk"
+metaTitle: "Batida que some com o motor quente: o que é | Pro-Stuk"
 description: "Por que o motor bate frio e se cala depois de quente: tuchos hidráulicos, batida de pistão, tensor da corrente. Onde o normal termina."
 faq:
   - q: "Batida a frio é sempre defeito?"
@@ -136,7 +136,7 @@ fase, folga dos tuchos — e se o histórico de óleo explica o desgaste,
 porque um jogo de peças novas alimentado pelo mesmo regime de óleo
 negligenciado volta a tiquetaquear.
 
-Um hábito útil é gravar uma partida a frio no aplicativo Stuk e repetir a
+Um hábito útil é gravar uma partida a frio no aplicativo Pro-Stuk e repetir a
 gravação um mês depois. O app cruza o som com as causas típicas, mostra
 probabilidades e urgência, e comparar as gravações revela se o problema
 está crescendo — sem pressão e sem idas extras à oficina.

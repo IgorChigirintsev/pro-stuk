@@ -1,6 +1,6 @@
 ---
 title: "Sinais de correia dentada gasta"
-metaTitle: "Correia dentada gasta: inspeção, som, prazos | Stuk"
+metaTitle: "Correia dentada gasta: inspeção, som, prazos | Pro-Stuk"
 description: "Como reconhecer a correia dentada gasta: trincas, desfiamento, tique-taque e zunido dos tensores. Por que a quebra é fatal e quando trocar."
 faq:
   - q: "O que acontece se a correia dentada arrebentar rodando?"
@@ -110,6 +110,6 @@ são de uso único. Um serviço feito sem esses passos pode parecer perfeito e
 mesmo assim estar errado.
 
 Se já dá para ouvir tique-taque, chiado ou assobio vindos da região da
-distribuição, capture o som: uma gravação no aplicativo Stuk junto com as
+distribuição, capture o som: uma gravação no aplicativo Pro-Stuk junto com as
 respostas a algumas perguntas ajuda a entender se é o tensor, a bomba ou
 algo mais sério — e o que levar para a oficina.

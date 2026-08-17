@@ -1,6 +1,6 @@
 ---
 title: "Fahrwerksdiagnose nach Gehör: die vollständige Checkliste"
-metaTitle: "Fahrwerksdiagnose nach Gehör: Checkliste | Stuk"
+metaTitle: "Fahrwerksdiagnose nach Gehör: Checkliste | Pro-Stuk"
 description: "Schrittweise Fahrwerksprüfung ohne Hebebühne: Wipptest, kleine Unebenheiten, große Unebenheiten, Lenken im Stand, Slalom. Dazu eine Tabelle der Geräusche."
 faq:
   - q: "Kann ich einen Fahrwerksfehler ohne Hebebühne bestimmen?"

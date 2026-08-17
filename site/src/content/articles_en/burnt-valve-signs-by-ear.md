@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-progara-klapana-na-sluh"
 title: "Signs of a burnt valve by ear"
-metaTitle: "Signs of a burnt valve by ear | Stuk"
+metaTitle: "Signs of a burnt valve by ear | Pro-Stuk"
 description: "Rhythmic popping in the exhaust, misfiring and hissing at idle: how to recognise a burnt valve by sound and which tests confirm the theory."
 pubDate: "2026-06-07"
 related:
@@ -110,7 +110,7 @@ with rhythmic popping and misfiring leads directly to an overheated
 converter and a damaged cylinder.
 
 If the popping is occasional and you are unsure whether it is rhythmic,
-record the idle and a short throttle blip in the Stuk app. It assesses the
+record the idle and a short throttle blip in the Pro-Stuk app. It assesses the
 sound's periodicity and its link to engine speed, shows the likely causes
 with percentages — and you arrive at the diagnosis with a hypothesis that
 only needs checking.

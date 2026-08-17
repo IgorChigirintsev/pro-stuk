@@ -1,6 +1,6 @@
 ---
 title: "Colpi agli ammortizzatori anteriori della Camry: il problema tipico"
-metaTitle: "Colpi agli ammortizzatori Camry: cosa fare | Stuk"
+metaTitle: "Colpi agli ammortizzatori Camry: cosa fare | Pro-Stuk"
 description: "Colpi dall'avantreno della Camry sulle piccole asperità: perché non sempre la colpa è degli ammortizzatori e come si decide la riparazione."
 faq:
   - q: "Un colpo nell'avantreno della Camry è sempre l'ammortizzatore?"
@@ -94,7 +94,7 @@ arrivano spesso insieme, e il gioco di un cuscinetto ruota si verifica
 negli stessi minuti in cui l'auto è già sollevata.
 
 Se il colpo è ancora saltuario e non si riesce a riprodurlo per il
-meccanico, lo registri con l'app Stuk passando su un'asperità che conosce.
+meccanico, lo registri con l'app Pro-Stuk passando su un'asperità che conosce.
 L'app confronta la registrazione con le sue risposte e mostra le cause
 probabili in percentuale: come minimo diventa chiaro da dove cominciare a
 cercare.

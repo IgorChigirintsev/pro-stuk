@@ -1,6 +1,6 @@
 ---
 title: "Chirrido bajo el capó en frío"
-metaTitle: "Chirrido bajo el capó en frío: causas | Stuk"
+metaTitle: "Chirrido bajo el capó en frío: causas | Pro-Stuk"
 description: "Por qué chirría bajo el capó con el motor frío y se calla al calentar: la correa, los rodillos, la bomba de agua. Cómo encontrar el origen usted mismo."
 faq:
   - q: "¿Por qué desaparece el chirrido cuando el motor se calienta?"
@@ -144,6 +144,6 @@ abierto— y enseñe la grabación. Un mecánico con oficio separa patinaje de
 rodamiento en unos segundos, y usted se ahorra una segunda visita.
 
 Si no está seguro de si es la correa o un rodamiento, grabe el chirrido
-matinal con la aplicación Stuk: compara la grabación con los sonidos
+matinal con la aplicación Pro-Stuk: compara la grabación con los sonidos
 típicos de avería, tiene en cuenta sus respuestas y muestra las causas
 probables con un nivel de urgencia.

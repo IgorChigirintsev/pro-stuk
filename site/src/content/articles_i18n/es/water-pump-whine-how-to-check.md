@@ -1,6 +1,6 @@
 ---
 title: "La bomba de agua zumba: cómo comprobarla"
-metaTitle: "Bomba de agua que zumba: cómo comprobarla | Stuk"
+metaTitle: "Bomba de agua que zumba: cómo comprobarla | Pro-Stuk"
 description: "Por qué zumba una bomba de agua, cómo separar su ruido del alternador y de las poleas, comprobaciones sencillas sin desmontar nada y cómo se decide la reparación."
 faq:
   - q: "¿Cómo sé que es la bomba de agua y no el alternador o una polea?"
@@ -127,6 +127,6 @@ del riesgo están en
 De camino al taller, vigile el indicador de temperatura y no exija al motor.
 
 Si no tiene claro que sea la bomba, grabe el sonido bajo el capó con la
-aplicación Stuk: cruza la grabación con sus respuestas sobre cuándo y cómo
+aplicación Pro-Stuk: cruza la grabación con sus respuestas sobre cuándo y cómo
 aparece el ruido y muestra las causas probables con un nivel de urgencia,
 para que llegue con una teoría concreta y no con un «algo zumba» general.

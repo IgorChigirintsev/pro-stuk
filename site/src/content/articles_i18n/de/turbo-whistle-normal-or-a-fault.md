@@ -1,6 +1,6 @@
 ---
 title: "Pfeifen des Turboladers: normal oder Defekt"
-metaTitle: "Pfeifen des Turboladers: normal oder Defekt | Stuk"
+metaTitle: "Pfeifen des Turboladers: normal oder Defekt | Pro-Stuk"
 description: "Wann das Pfeifen eines Turboladers ein serienmäßiger Ton ist und wann es eine Undichtigkeit oder Verschleiß meldet, und wie Sie es vom Riemen trennen."
 faq:
   - q: "Pfeift ein Turbolader immer, oder ist das ein Zeichen für einen Defekt?"

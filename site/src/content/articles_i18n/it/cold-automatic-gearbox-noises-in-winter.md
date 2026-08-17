@@ -1,6 +1,6 @@
 ---
 title: "Rumori del cambio automatico freddo in inverno"
-metaTitle: "Rumori del cambio automatico freddo in inverno | Stuk"
+metaTitle: "Rumori del cambio automatico freddo in inverno | Pro-Stuk"
 description: "In inverno un cambio automatico freddo ronza, strappa e clicca, poi si calma dopo dieci minuti. Dove finisce il normale e quali suoni restano a caldo."
 faq:
   - q: "Un ronzio del cambio automatico freddo con il gelo è normale?"
@@ -105,7 +105,7 @@ richiesta di tornare per un secondo controllo è prassi normale e non un
 tentativo di allungare il conto.
 
 Se non è sicura che il suo suono rientri nella norma, registri due viaggi
-con l'app Stuk: i primi minuti dopo un avviamento a freddo e la stessa
+con l'app Pro-Stuk: i primi minuti dopo un avviamento a freddo e la stessa
 strada venti minuti dopo. La differenza tra le registrazioni è la
 risposta: l'app le confronta con le sue risposte su temperatura e
 condizioni di guida e mostra le cause probabili in percentuale.

@@ -1,6 +1,6 @@
 ---
 title: "Uğuldayan teker rulmanıyla araç kullanılır mı"
-metaTitle: "Uğuldayan teker rulmanıyla gidilir mi? | Stuk"
+metaTitle: "Uğuldayan teker rulmanıyla gidilir mi? | Pro-Stuk"
 description: "Uğuldayan teker rulmanıyla ne kadar gidilir, her aşamanın riski nedir, yoldaki tehlike nasıl azaltılır ve onarım hangi ölçütlere göre kararlaştırılır."
 faq:
   - q: "Uğuldayan rulmanla kaç kilometre gidebilirim?"
@@ -129,7 +129,7 @@ hafta değiştir» ile «iki ay sonra değiştir» arasındaki fark rahatlıkla 
 katına ulaşır.
 
 Kendi kulağınızdan daha sağlam bir dayanak isterseniz, uğultuyu giderken
-Stuk uygulamasında kaydedin: uygulama sesi verdiğiniz cevaplarla
+Pro-Stuk uygulamasında kaydedin: uygulama sesi verdiğiniz cevaplarla
 eşleştirir ve olası nedenleri yüzde ve aciliyet düzeyiyle gösterir —
 yarın gitmekle haftayı sakin tamamlamak arasında karar vermek böylece
 kolaylaşır.

@@ -1,6 +1,6 @@
 ---
 title: "Señales de un rodamiento del alternador gastado"
-metaTitle: "Rodamiento del alternador gastado: ruido | Stuk"
+metaTitle: "Rodamiento del alternador gastado: ruido | Pro-Stuk"
 description: "Cómo suena un rodamiento del alternador gastado, cómo comprobarlo sin desmontar nada y cómo distinguirlo de los rodillos y de la polea de rueda libre."
 faq:
   - q: "¿Puedo circular con el rodamiento del alternador zumbando?"
@@ -117,6 +117,6 @@ muchos motores, también sin bomba de agua y sin dirección asistida. Lo que
 era una reparación con cita se convierte en una grúa.
 
 Si ha aparecido un zumbido o un runrún bajo el capó y quiere identificar
-el origen antes de ir al taller, grabe el sonido con la aplicación Stuk:
+el origen antes de ir al taller, grabe el sonido con la aplicación Pro-Stuk:
 compara la grabación con los sonidos típicos de avería y muestra las
 causas probables con un nivel de urgencia.

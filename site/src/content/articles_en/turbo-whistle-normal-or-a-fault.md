@@ -1,7 +1,7 @@
 ---
 ru: "svist-turbiny-norma-ili-neispravnost"
 title: "Turbo whistle: normal or a fault"
-metaTitle: "Turbo whistle: normal or a fault | Stuk"
+metaTitle: "Turbo whistle: normal or a fault | Pro-Stuk"
 description: "When a turbocharger's whistle is a standard sound and when it signals a leak or wear: how to tell boost whistle from belt squeal and what to check first."
 pubDate: "2026-06-07"
 related:
@@ -113,7 +113,7 @@ idle before switching off after a hard run costs nothing and noticeably
 extends the service life.
 
 If the turbo's voice has changed and you are not ready to say by ear how
-much, record two clips in the Stuk app: acceleration under load and warm
+much, record two clips in the Pro-Stuk app: acceleration under load and warm
 idle. The app compares them and shows the likely causes with percentages —
 so the conversation at the workshop starts not with a general "it
 whistles" but with a specific operating condition.

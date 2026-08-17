@@ -1,7 +1,7 @@
 ---
 ru: "tolchki-i-stuk-akpp-pri-pereklyuchenii"
 title: "Automatic gearbox jolts and clunks when shifting"
-metaTitle: "Automatic gearbox jolts and clunks when shifting | Stuk"
+metaTitle: "Automatic gearbox jolts and clunks when shifting | Pro-Stuk"
 description: "Jolts and a dull clunk as an automatic changes gear can be harmless or the first signal of an expensive repair. How to tell them apart and what to check."
 pubDate: "2026-07-25"
 related:
@@ -109,7 +109,7 @@ if a fluid change is refused at high mileage, that is usually caution
 rather than laziness: fresh fluid washes deposits that were holding
 worn-out clutches together.
 
-While you work it out, record the sound in the Stuk app at the moment of a
+While you work it out, record the sound in the Pro-Stuk app at the moment of a
 shift — first cold, then on a warm car. The app matches the recordings
 with your answers and shows where to look first: at the mounts, the fluid,
 or inside the gearbox after all.

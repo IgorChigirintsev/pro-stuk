@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-neispravnosti-rulevoj-rejki"
 title: "Signs of a faulty steering rack"
-metaTitle: "Faulty steering rack: the full list of signs | Stuk"
+metaTitle: "Faulty steering rack: the full list of signs | Pro-Stuk"
 description: "Knocking, play, notchy steering, leaks and pump whine — the signs of a faulty steering rack, how to check it and when adjustment can still save it."
 pubDate: "2026-07-17"
 related:
@@ -119,7 +119,7 @@ safety question: steering that turns in steps gets in the way of a precise
 manoeuvre at a critical moment.
 
 If all you have so far is the sound and you doubt the rack is to blame,
-record the knock in the Stuk app on a representative stretch of road. The
+record the knock in the Pro-Stuk app on a representative stretch of road. The
 app matches the recording with your answers and shows the likely causes
 with percentages — with that hypothesis the workshop diagnosis takes less
 time.

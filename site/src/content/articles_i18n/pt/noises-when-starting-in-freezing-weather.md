@@ -1,6 +1,6 @@
 ---
 title: "Barulhos na partida com frio intenso"
-metaTitle: "Barulhos na partida no frio: chiado, batida | Stuk"
+metaTitle: "Barulhos na partida no frio: chiado, batida | Pro-Stuk"
 description: "Chiado de correia, batida do óleo grosso, ranger do motor de partida: os sons da partida no frio. O que é normal no inverno e o que pede oficina."
 faq:
   - q: "Por que o motor soa mais alto e mais áspero no frio?"
@@ -123,7 +123,7 @@ anos: uma bateria trocada no outono custa o mesmo que uma trocada em janeiro,
 menos o guincho.
 
 Se o concerto da manhã levantar dúvidas, grave a partida fria no aplicativo
-Stuk — do lado de fora, junto ao capô aberto. Ele cruza a gravação com as suas
+Pro-Stuk — do lado de fora, junto ao capô aberto. Ele cruza a gravação com as suas
 respostas sobre temperatura e condições e mostra as causas prováveis com
 percentuais e um nível de urgência: fica mais fácil decidir o que creditar ao
 inverno e o que levar à oficina.

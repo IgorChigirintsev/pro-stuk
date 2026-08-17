@@ -1,7 +1,7 @@
 ---
 ru: "dizelenie-forsunki-ili-zazory-klapanov"
 title: "Diesel-like clatter: injectors or valve clearances"
-metaTitle: "Diesel clatter: injectors or valve clearances | Stuk"
+metaTitle: "Diesel clatter: injectors or valve clearances | Pro-Stuk"
 description: "A petrol engine has started clattering like a diesel: when the injectors are to blame, when it is valve clearances, and how to tell them apart by ear."
 pubDate: "2026-06-14"
 related:
@@ -104,7 +104,7 @@ doing it later means paying for the same disassembly twice.
 
 Diesel-like clatter is a case where describing the sound in words is
 nearly impossible and recording it is easy. Make two recordings in the
-Stuk app: straight after a cold start and after ten minutes of running.
+Pro-Stuk app: straight after a cold start and after ten minutes of running.
 The app examines them by frequency and character and shows the likely
 causes with percentages, so you arrive at the workshop with a specific
 theory.

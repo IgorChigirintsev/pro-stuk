@@ -1,6 +1,6 @@
 ---
 title: "Come suona un volano bimassa consumato"
-metaTitle: "Volano bimassa consumato: come suona | Stuk"
+metaTitle: "Volano bimassa consumato: come suona | Pro-Stuk"
 description: "Rumore metallico all'avvio e allo spegnimento, sferragliare al minimo, vibrazione in partenza: come suona un volano bimassa consumato e con che cosa viene confuso."
 faq:
   - q: "Perché il volano bimassa si sente di più quando si spegne il motore?"
@@ -105,6 +105,6 @@ po' più alti e di scalare prima che il motore inizi a faticare in modo
 evidente risparmia lo smorzatore.
 
 Se vuole capire se il suono è davvero legato all'avvio e allo spegnimento,
-registri entrambi i momenti con l'app Stuk. Confronta il carattere del
+registri entrambi i momenti con l'app Pro-Stuk. Confronta il carattere del
 suono con la condizione in cui è comparso e mostra le cause probabili in
 percentuale.

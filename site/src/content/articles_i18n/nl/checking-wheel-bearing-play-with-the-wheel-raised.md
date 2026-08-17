@@ -1,6 +1,6 @@
 ---
 title: "Speling in het wiellager controleren met het wiel omhoog"
-metaTitle: "Speling in het wiellager controleren | Stuk"
+metaTitle: "Speling in het wiellager controleren | Pro-Stuk"
 description: "Hoe u een wiel veilig opkrikt en op speling controleert: de grepen op 12–6 en 3–9 uur, het lager scheiden van fuseekogel en besturing, en wat er daarna volgt."
 faq:
   - q: "Hoeveel speling op een wiel is normaal?"

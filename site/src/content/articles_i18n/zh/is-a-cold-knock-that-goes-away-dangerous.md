@@ -1,6 +1,6 @@
 ---
 title: "冷车敲击、热了就没：危险吗"
-metaTitle: "冷启动敲击热了就消失：危险吗 | Stuk"
+metaTitle: "冷启动敲击热了就消失：危险吗 | Pro-Stuk"
 description: "冷启动时的敲击暖机后消失，可能完全无害，也可能是一笔大修的预告。怎样从持续时间、声音性质和几个月里的变化趋势上，把这两种情况分开。"
 faq:
   - q: "冷启动敲击响几秒算正常？"
@@ -90,6 +90,6 @@ sources:
 [怎样自己检查轮毂轴承](/zh/articles/how-to-check-a-wheel-bearing-yourself/)和
 [抬起车轮检查轮毂轴承旷量](/zh/articles/checking-wheel-bearing-play-with-the-wheel-raised/)。
 
-想跟踪趋势而不是靠记忆，就每月用 Stuk 应用录一次冷启动的头几秒。应用会
+想跟踪趋势而不是靠记忆，就每月用 Pro-Stuk 应用录一次冷启动的头几秒。应用会
 把录音和你的回答对上，按百分比给出可能的原因，而把几次录音相互比较，就
 能回答那个最要紧的问题：到底有没有在变坏。

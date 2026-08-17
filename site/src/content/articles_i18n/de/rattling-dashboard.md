@@ -1,6 +1,6 @@
 ---
 title: "Das Armaturenbrett klappert"
-metaTitle: "Klapperndes Armaturenbrett: Quelle finden | Stuk"
+metaTitle: "Klapperndes Armaturenbrett: Quelle finden | Pro-Stuk"
 description: "Ein klapperndes Armaturenbrett nervt mehr, als es schadet. Warum der Kunststoff summt, wie Sie die Kontaktstelle in zehn Minuten finden und wann es nicht daran liegt."
 faq:
   - q: "Ist ein klapperndes Armaturenbrett gefährlich?"

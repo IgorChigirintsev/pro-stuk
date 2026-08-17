@@ -1,6 +1,6 @@
 ---
 title: "Trancos e batidas do câmbio automático nas trocas de marcha"
-metaTitle: "Câmbio automático: trancos e batidas ao trocar | Stuk"
+metaTitle: "Câmbio automático: trancos e batidas ao trocar | Pro-Stuk"
 description: "Trancos e uma batida surda quando o automático troca de marcha podem ser inofensivos ou o primeiro aviso de um reparo caro. Como diferenciar e o que checar."
 faq:
   - q: "Um tranco ao passar de P para D é normal?"
@@ -98,7 +98,7 @@ especificação vai entrar. E se a troca de fluido for recusada em
 quilometragem alta, normalmente é cautela e não preguiça: fluido novo
 lava depósitos que estavam segurando discos já desgastados.
 
-Enquanto você resolve isso, grave o som no aplicativo Stuk no momento da
+Enquanto você resolve isso, grave o som no aplicativo Pro-Stuk no momento da
 troca — primeiro a frio, depois com o carro quente. O aplicativo compara
 as gravações com as suas respostas e mostra onde olhar primeiro: nos
 coxins, no fluido ou, afinal, dentro do câmbio.

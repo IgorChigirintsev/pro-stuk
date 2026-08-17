@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-detonatsii-dvigatelya"
 title: "Signs of engine detonation"
-metaTitle: "Signs of engine detonation: how to spot it | Stuk"
+metaTitle: "Signs of engine detonation: how to spot it | Pro-Stuk"
 description: "How to recognise engine detonation: pinging under acceleration, loss of power, rising fuel consumption. The causes, from fuel to carbon deposits."
 pubDate: "2026-08-02"
 related:
@@ -146,7 +146,7 @@ Any of these steps costs incomparably less than the consequences: piston
 and ring damage is a rebuild.
 
 If you are not sure whether it is detonation or a mechanical knock, record
-the acceleration in the Stuk app. It matches the recording with typical
+the acceleration in the Pro-Stuk app. It matches the recording with typical
 engine sounds, asks a few clarifying questions and shows the likely causes
 with an urgency level — with that in hand the conversation at the workshop
 is shorter and more specific.

@@ -1,6 +1,6 @@
 ---
 title: "Klikken: homokineet of remmen"
-metaTitle: "Klikken tijdens rijden: homokineet of rem | Stuk"
+metaTitle: "Klikken tijdens rijden: homokineet of rem | Pro-Stuk"
 description: "Klikken in bochten en bij wegrijden komt zowel van de buitenste homokineet als van de remmen. Zo scheidt u de theorieën aan de hand van de omstandigheden."
 faq:
   - q: "Klikken alleen in een scherpe bocht — is dat zeker de homokineet?"

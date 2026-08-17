@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-neispravnosti-mufty-vvt"
 title: "Signs of a failing VVT actuator"
-metaTitle: "Failing VVT actuator: sound and symptoms | Stuk"
+metaTitle: "Failing VVT actuator: sound and symptoms | Pro-Stuk"
 description: "Signs of a faulty VVT actuator: a rattle after starting, rough idle, higher consumption, P0010–P0017 codes. How to tell it from other noises."
 pubDate: "2026-07-08"
 related:
@@ -117,6 +117,6 @@ Putting it off gets steadily dearer: a worn actuator accelerates chain
 wear, and badly skewed timing becomes a risk to the valves and pistons.
 
 If you are not sure the noises from your engine are the actuator, record a
-cold start in the Stuk app: the algorithm matches the recording with your
+cold start in the Pro-Stuk app: the algorithm matches the recording with your
 answers and returns the likely causes with percentages and an urgency
 level — a convenient starting point for the conversation with a workshop.

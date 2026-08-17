@@ -1,6 +1,6 @@
 ---
 title: "Colpo della forcella frizione sulla Ford Focus"
-metaTitle: "Ford Focus: colpo della forcella frizione | Stuk"
+metaTitle: "Ford Focus: colpo della forcella frizione | Pro-Stuk"
 description: "Clic e colpi quando si preme il pedale della frizione sulla Focus: come controllare la forcella e il cuscinetto reggispinta e cosa fa l’officina."
 faq:
   - q: "Il colpo si sente solo lavorando col pedale: è di sicuro la frizione?"
@@ -100,7 +100,7 @@ rotabile o le gomme, e si separa facilmente perché cresce con la velocità
 e non con il pedale.
 
 Se il colpo è ancora saltuario e volete capire se serve davvero smontare
-il cambio, registratelo nell’app Stuk premendo lentamente il pedale a
+il cambio, registratelo nell’app Pro-Stuk premendo lentamente il pedale a
 motore acceso. L’app confronta la registrazione con le vostre risposte a
 poche domande e mostra le cause probabili in percentuale: abbastanza per
 arrivare dal meccanico con una domanda precisa.

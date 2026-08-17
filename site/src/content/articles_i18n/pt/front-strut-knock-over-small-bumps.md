@@ -1,6 +1,6 @@
 ---
 title: "Batida dos amortecedores dianteiros em irregularidades pequenas"
-metaTitle: "Batida dos amortecedores dianteiros: o que checar | Stuk"
+metaTitle: "Batida dos amortecedores dianteiros: o que checar | Pro-Stuk"
 description: "Batida seca dos amortecedores dianteiros em piso ondulado: como separar amortecedor, coxim superior e barra estabilizadora, e o que checar sozinho."
 faq:
   - q: "Por que a batida só aparece em irregularidades pequenas?"
@@ -106,7 +106,7 @@ cresce devagar: a mão de obra se sobrepõe quase por completo, e uma segunda
 visita custa quase tanto quanto a primeira.
 
 Para não ficar adivinhando o que exatamente está batendo, grave o som no
-aplicativo Stuk enquanto passa por um trecho ruim que você conhece. O
+aplicativo Pro-Stuk enquanto passa por um trecho ruim que você conhece. O
 aplicativo compara a gravação com suas respostas a algumas perguntas e
 mostra as causas prováveis com porcentagens — com essa lista fica mais
 fácil combinar com o mecânico o que olhar primeiro.

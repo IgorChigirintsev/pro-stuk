@@ -1,6 +1,6 @@
 ---
 title: "Ruido metálico bajo el coche al pasar baches"
-metaTitle: "Ruido metálico bajo el coche al pasar baches | Stuk"
+metaTitle: "Ruido metálico bajo el coche al pasar baches | Pro-Stuk"
 description: "Chatarreo metálico desde abajo en los baches: cubrecárter, protectores térmicos, escape o bieletas de la estabilizadora. Cómo dar con el origen en cinco minutos."
 faq:
   - q: "¿Por qué el ruido solo sale en los baches y calla en firme liso?"
@@ -123,7 +123,7 @@ margen de tiempo se valora en
 [¿se puede circular con la suspensión golpeando?](/es/articles/can-you-drive-with-a-knocking-suspension/).
 
 ¿No sabe si es un chatarreo o un golpe? Grabe el sonido en un tramo
-representativo con la aplicación Stuk: el algoritmo cruza la grabación con
+representativo con la aplicación Pro-Stuk: el algoritmo cruza la grabación con
 sus respuestas y muestra los orígenes probables con un nivel de urgencia.
 A menudo el resultado ya indica que es el cubrecárter, y entonces puede ir
 al taller sin preocuparse.

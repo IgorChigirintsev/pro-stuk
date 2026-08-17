@@ -1,6 +1,6 @@
 ---
 title: "Zumbido al girar a la izquierda"
-metaTitle: "Zumbido al girar a la izquierda: qué rodamiento | Stuk"
+metaTitle: "Zumbido al girar a la izquierda: qué rodamiento | Pro-Stuk"
 description: "Un zumbido al girar a la izquierda suele significar que el rodamiento derecho está gastado. Por qué, cómo confirmarlo en un trayecto y qué urgencia tiene."
 faq:
   - q: "Zumbido al girar a la izquierda, ¿qué rodamiento cambio?"
@@ -110,6 +110,6 @@ y las pautas de conducción en
 Cerrar la cuestión en las primeras semanas sale más barato y más tranquilo.
 
 Si el zumbido todavía es flojo y quiere asegurarse de que no son
-imaginaciones, grabe el sonido con la aplicación Stuk durante la prueba de
+imaginaciones, grabe el sonido con la aplicación Pro-Stuk durante la prueba de
 cambio de carril. La aplicación compara la grabación con sus respuestas y
 muestra las causas probables con porcentajes, y sugiere por qué lado empezar.

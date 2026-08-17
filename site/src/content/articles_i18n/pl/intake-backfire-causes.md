@@ -1,6 +1,6 @@
 ---
 title: "Strzały w układ dolotowy: przyczyny"
-metaTitle: "Strzały w dolot: przyczyny i diagnostyka | Stuk"
+metaTitle: "Strzały w dolot: przyczyny i diagnostyka | Pro-Stuk"
 description: "Strzały w kolektor dolotowy: uboga mieszanka, wypadanie zapłonu, przesunięta faza rozrządu. Jak znaleźć przyczynę i czym różnią się od strzałów w wydechu."
 faq:
   - q: "Czy strzały w dolot są groźne?"
@@ -98,7 +98,7 @@ mieszance przegrzewa zawory i tłoki. Sam strzał nie jest katastrofą, ale na
 zdrowym silniku się nie pojawia.
 
 Jeśli strzały są rzadkie i trudno je zademonstrować mechanikowi, warto
-włączyć nagrywanie w aplikacji Stuk przy następnym zimnym rozruchu albo
+włączyć nagrywanie w aplikacji Pro-Stuk przy następnym zimnym rozruchu albo
 przyspieszaniu: aplikacja uchwyci dźwięk, zestawi go z odpowiedziami i
 pokaże prawdopodobne przyczyny wraz z poziomem pilności — dzięki temu do
 warsztatu przyjeżdża się z konkretami.

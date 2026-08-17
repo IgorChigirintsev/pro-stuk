@@ -1,6 +1,6 @@
 ---
 title: "Claquement du moteur ou des accessoires : comment localiser"
-metaTitle: "Claquement moteur ou accessoires : localiser | Stuk"
+metaTitle: "Claquement moteur ou accessoires : localiser | Pro-Stuk"
 description: "Un claquement venu du compartiment moteur ne vient pas toujours du moteur. Quelques contrôles séparent les accessoires de la mécanique interne."
 faq:
   - q: "Comment savoir si c'est un accessoire qui claque et non le moteur ?"
@@ -90,7 +90,7 @@ réparation en réfection, et le bon geste n'est pas de tenir « jusqu'à
 lundi » mais de s'arrêter.
 
 Si vous voulez capturer le son avant la visite au garage, enregistrez-le
-dans l'application Stuk dans deux régimes : au ralenti sans charge, puis
+dans l'application Pro-Stuk dans deux régimes : au ralenti sans charge, puis
 immédiatement après avoir allumé la climatisation et les phares. La
 différence entre les deux enregistrements est exactement ce que vous
 cherchez, et l'application les croise avec vos réponses puis affiche les

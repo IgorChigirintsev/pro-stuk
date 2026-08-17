@@ -1,6 +1,6 @@
 ---
 title: "Motoru durdurduktan sonra kaput altından tıslama"
-metaTitle: "Kontak kapalıyken kaput altında tıslama: sebepleri | Stuk"
+metaTitle: "Kontak kapalıyken kaput altında tıslama: sebepleri | Pro-Stuk"
 description: "Motor kapalıyken kaput altından gelen tıslama zararsız da olabilir ciddi de. Soğuyan egzozu antifriz ya da hava kaçağından ayırmanın yolu ve yapılacaklar."
 faq:
   - q: "Kontağı kapatır kapatmaz gelen tıslama tehlikeli mi?"
@@ -96,7 +96,7 @@ sayfasında:
 
 Normal bir basınç boşalmasını kaçaktan kulakla ayırmak kolay değildir: fark
 tonda değil, süre ve tekrarlanmadadır. Kontağı kapattıktan hemen sonra sesi
-Stuk uygulamasına kaydedin — koku, sıvı seviyesi ve sıcaklıkla ilgili
+Pro-Stuk uygulamasına kaydedin — koku, sıvı seviyesi ve sıcaklıkla ilgili
 cevaplarınızla eşleştirir ve muhtemel sebepleri yüzdesiyle gösterir; böylece
 yarın servise mi gideceğinizi yoksa bir hafta izlemenin mi yeteceğini
 bilirsiniz.

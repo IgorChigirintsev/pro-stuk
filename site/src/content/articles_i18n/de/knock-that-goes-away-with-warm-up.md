@@ -1,6 +1,6 @@
 ---
 title: "Ein Motorklopfen, das mit dem Warmlaufen verschwindet"
-metaTitle: "Klopfen, das mit dem Warmlaufen weggeht | Stuk"
+metaTitle: "Klopfen, das mit dem Warmlaufen weggeht | Pro-Stuk"
 description: "Warum ein Motor kalt klopft und warm verstummt: Hydrostößel, Kolbenkipper, der Kettenspanner. Wo das Normale endet."
 faq:
   - q: "Ist ein Kaltklopfen immer ein Fehler?"

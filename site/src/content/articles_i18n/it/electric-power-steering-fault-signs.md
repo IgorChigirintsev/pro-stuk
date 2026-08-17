@@ -1,6 +1,6 @@
 ---
 title: "Segni di un guasto al servosterzo elettrico"
-metaTitle: "Guasto al servosterzo elettrico: i segni | Stuk"
+metaTitle: "Guasto al servosterzo elettrico: i segni | Pro-Stuk"
 description: "Come riconoscere un guasto del servosterzo elettrico: sterzo pesante, assistenza irregolare, spia EPS, colpi e clic. Cosa controllare prima dell'officina."
 faq:
   - q: "Posso guidare con il servosterzo elettrico che non funziona?"
@@ -108,7 +108,7 @@ stabilità, saltare quel passaggio lascia l'assistenza fuori centro e le
 spie accese.
 
 Se non è sicura che un rumore nello sterzo appartenga all'assistenza, lo
-registri con l'app Stuk: faccia una registrazione durante una manovra da
+registri con l'app Pro-Stuk: faccia una registrazione durante una manovra da
 fermi e una in movimento, risponda a qualche domanda, e l'app confronta il
 quadro con i profili tipici di guasto e suggerisce la causa probabile e
 quanto sia urgente una visita.

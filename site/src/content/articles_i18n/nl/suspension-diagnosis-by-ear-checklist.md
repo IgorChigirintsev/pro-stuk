@@ -1,6 +1,6 @@
 ---
 title: "Het onderstel op gehoor beoordelen: de volledige checklist"
-metaTitle: "Onderstel op gehoor beoordelen: checklist | Stuk"
+metaTitle: "Onderstel op gehoor beoordelen: checklist | Pro-Stuk"
 description: "Stap voor stap het onderstel controleren zonder brug: de veertest, kleine hobbels, grote klappen, sturen op de plaats, een slalom. Plus een geluidentabel."
 faq:
   - q: "Kan ik zonder brug een onderstelprobleem vaststellen?"

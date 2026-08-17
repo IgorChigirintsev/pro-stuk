@@ -2,7 +2,7 @@
 const Map<String, String> nl = {
   'hiwBody':
       '\n1. Vragen. Een korte vragenlijst beperkt de mogelijke oorzaken: wanneer je het geluid hoort, waar het op lijkt, waarvan het afhangt. Dat is de belangrijkste basis van de inschatting — een monteur begint net zo.\n\n2. Geluid. Een opname van 15–30 seconden gaat naar de server. Algoritmes meten het spectrum, het ritme van de tikken en het toerental, en een taalmodel legt dat naast je antwoorden en de bekende zwakke plekken van jouw model.\n\n3. Rapport. Waarschijnlijke oorzaken met percentages, een stoplicht voor urgentie en tips: wat je in de garage zegt en wat je zelf kunt controleren.\n\nHet resultaat is een kansinschatting, geen diagnose. De nauwkeurigheid hangt af van de kwaliteit van de opname en van eerlijke antwoorden. De monteur beslist over de reparatie na inspectie.',
-  'appName': 'Stuk',
+  'appName': 'Pro-Stuk',
   'appTagline': 'diagnose op geluid',
   'carTitle': 'Welke auto rijd je?',
   'carSubtitle':
@@ -116,7 +116,7 @@ const Map<String, String> nl = {
   'histEmpty': 'Nog leeg — de eerste analyse verschijnt hier.',
   'histFull': 'geluidsanalyse',
   'histQuick': 'snel oordeel',
-  'shareText': 'Geluidsanalyse — app «Stuk», pro-stuk.com',
+  'shareText': 'Geluidsanalyse — app «Pro-Stuk», pro-stuk.com',
   'langTitle': 'Taal',
   'langHint':
       'Standaard de taal van je toestel. Wat nog niet vertaald is, tonen we in het Russisch.',

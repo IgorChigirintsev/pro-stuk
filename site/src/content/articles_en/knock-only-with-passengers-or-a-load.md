@@ -1,7 +1,7 @@
 ---
 ru: "stuk-tolko-s-passazhirami-ili-gruzom"
 title: "A knock only with passengers or a load"
-metaTitle: "A knock only with passengers or a load: causes | Stuk"
+metaTitle: "A knock only with passengers or a load: causes | Pro-Stuk"
 description: "Empty, the car is quiet; with people and luggage a knock appears. What changes under load and which parts give themselves away exactly this way."
 pubDate: "2026-06-01"
 related:
@@ -107,7 +107,7 @@ torqued with the car's weight on its wheels: tightened with the suspension
 hanging, the rubber lives twisted and tears within months.
 
 If you want to understand what is sounding before the workshop visit, try
-recording the sound in the Stuk app, driving the same stretch twice —
+recording the sound in the Pro-Stuk app, driving the same stretch twice —
 empty and loaded. The difference between the recordings is informative in
 itself, and the app matches it with your answers and shows the likely
 causes with percentages.

@@ -1,7 +1,7 @@
 ---
 ru: "k-chemu-privodit-ezda-s-mertvymi-amortizatorami"
 title: "What driving with dead shock absorbers leads to"
-metaTitle: "Driving with dead shock absorbers: the results | Stuk"
+metaTitle: "Driving with dead shock absorbers: the results | Pro-Stuk"
 description: "Dead dampers lengthen your stopping distance, destroy the suspension and chew through tyres. What breaks next, how to spot it and what the repair involves."
 pubDate: "2026-06-16"
 related:
@@ -104,7 +104,7 @@ behaves differently front and rear, and that is harder to live with than
 the tired set you started from.
 
 If you are unsure whether the suspension is knocking or this is simply
-normal for your car, record the sound in the Stuk app on a familiar rough
+normal for your car, record the sound in the Pro-Stuk app on a familiar rough
 stretch. The app matches the recording with your answers and shows the
 likely causes with percentages — usually enough to decide between going
 for a diagnosis now and waiting for the next service.

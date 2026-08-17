@@ -1,6 +1,6 @@
 ---
 title: "Çökmüş yaylar: belirtileri"
-metaTitle: "Çökmüş yaylar: belirtiler, kontrol, değişim | Stuk"
+metaTitle: "Çökmüş yaylar: belirtiler, kontrol, değişim | Pro-Stuk"
 description: "Yayların çöktüğü nasıl anlaşılır: yerden yükseklik ölçümü, aracın davranışı, dolaylı işaretler. Çökme neyi riske atar, değişim neyi kapsar."
 faq:
   - q: "Yaylar neden çöker?"
@@ -122,7 +122,7 @@ yastıkları» yayın sertliğini geri getirmez, sadece karoseriyi kaldırır ve
 süspansiyonu öngörülemez hâle sokar. Güvenliğin görünüşten önemli olduğu
 bir araçta bunlara yer yoktur.
 
-Araç çökmüşse ve buna açıklanamayan tıkırtılar da eklendiyse Stuk
+Araç çökmüşse ve buna açıklanamayan tıkırtılar da eklendiyse Pro-Stuk
 uygulamasında bir kayıtla başlayın: sesi, aracın davranışına dair
 yanıtlarınızla eşleştirir ve olası nedenleri aciliyet seviyesiyle
 gösterir — bu da önce neyi değiştirmek gerektiğine karar vermeyi

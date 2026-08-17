@@ -1,6 +1,6 @@
 ---
 title: "Boîte automatique : à-coups et claquements au passage des rapports"
-metaTitle: "Boîte auto : à-coups et claquements au passage | Stuk"
+metaTitle: "Boîte auto : à-coups et claquements au passage | Pro-Stuk"
 description: "Les à-coups et le claquement sourd d'une boîte auto peuvent être anodins ou annoncer une grosse réparation. Comment faire la différence et quoi contrôler."
 faq:
   - q: "Un à-coup quand on passe de P à D, c'est normal ?"
@@ -113,7 +113,7 @@ vidange à fort kilométrage, c'est en général de la prudence et pas de la
 paresse : une huile fraîche décolle les dépôts qui tenaient encore les
 disques usés.
 
-Le temps de démêler tout ça, enregistrez le bruit dans l'application Stuk
+Le temps de démêler tout ça, enregistrez le bruit dans l'application Pro-Stuk
 au moment d'un passage — d'abord à froid, puis sur une voiture chaude.
 L'application recoupe les enregistrements avec vos réponses et montre où
 regarder en premier : les supports, l'huile, ou bien l'intérieur de la

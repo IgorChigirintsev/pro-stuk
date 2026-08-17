@@ -1,6 +1,6 @@
 ---
 title: "Der Anlasser klackert, dreht aber nicht"
-metaTitle: "Anlasser klackert, dreht nicht: die Ursachen | Stuk"
+metaTitle: "Anlasser klackert, dreht nicht: die Ursachen | Pro-Stuk"
 description: "Der Anlasser klackert, aber der Motor dreht nicht: Batterie, Polklemmen, Magnetschalter. Einfache Prüfungen vor Ort und eine Tabelle der Ursachen."
 faq:
   - q: "Warum klackert der Anlasser, wenn die Batterie neu ist?"

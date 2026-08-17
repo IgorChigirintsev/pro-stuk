@@ -1,6 +1,6 @@
 ---
 title: "Ein Traggelenk selbst prüfen"
-metaTitle: "Traggelenk selbst prüfen: Anleitung | Stuk"
+metaTitle: "Traggelenk selbst prüfen: Anleitung | Pro-Stuk"
 description: "Traggelenkprüfung Schritt für Schritt: Wipptest, Spielprüfung auf 12–6 am angehobenen Rad, der Bremspedal-Trick und was eine gerissene Manschette bedeutet."
 faq:
   - q: "Kann man ein Traggelenk ohne Wagenheber prüfen?"

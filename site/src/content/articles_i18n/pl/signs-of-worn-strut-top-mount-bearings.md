@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych łożysk oporowych amortyzatora"
-metaTitle: "Zużyte łożyska oporowe: objawy | Stuk"
+metaTitle: "Zużyte łożyska oporowe: objawy | Pro-Stuk"
 description: "Chrupanie i stukanie przy kręceniu kierownicą, głuche uderzenia na nierównościach — jak rozpoznać zużyte łożysko oporowe i od czego zależy naprawa."
 faq:
   - q: "Jak odróżnić łożysko oporowe od amortyzatora?"
@@ -39,7 +39,7 @@ niemal bezbłędnie.
   niemal spod przedniej szyby, i czuć w podłodze.
 - **Skrzypienie przy bujaniu autem.** Naciśnięcie na błotnik wywołuje u
   zużytego łożyska skrzypnięcie albo kliknięcie.
-- **Stuk przy zjeżdżaniu z krawężnika lub w dziurze.** Pojedyncze twarde
+- **Pro-Stuk przy zjeżdżaniu z krawężnika lub w dziurze.** Pojedyncze twarde
   uderzenie z góry, gdy luźna poduszka przesuwa się pod obciążeniem.
 
 Dźwięk to nie jedyny sygnał. Zużyte łożysko oporowe zmienia także pracę
@@ -59,10 +59,10 @@ diagnozować je razem — co sprawdzić w samych kolumnach, opisuje
 | Objaw | Łożysko oporowe | Amortyzator | Łączniki stabilizatora | Sworzeń wahacza |
 |---|---|---|---|---|
 | Chrzęst przy kręceniu na postoju | Tak, z góry | Nie | Nie | Rzadko, z dołu |
-| Stuk na drobnych nierównościach | Głuchy, z góry | Możliwy | Częsty, ostry, z boku | Metaliczny, z dołu |
+| Pro-Stuk na drobnych nierównościach | Głuchy, z góry | Możliwy | Częsty, ostry, z boku | Metaliczny, z dołu |
 | Ciężka lub skokowa kierownica | Tak | Nie | Nie | Nie |
 | Bujanie nadwozia | Nie | Tak | Nie | Nie |
-| Stuk na łukach | Możliwy | Rzadko | Tak | Możliwy |
+| Pro-Stuk na łukach | Możliwy | Rzadko | Tak | Możliwy |
 
 Ostre, częste stukanie na tarce to częściej podpis łączników
 stabilizatora, o czym mówi
@@ -133,7 +133,7 @@ skokami, więc kierownicę trzeba przekręcać siłą. Naprawa tylko drożeje,
 więc nie ma sensu ciągnąć tego dłużej niż kilka tygodni.
 
 Jeśli coś chrupie albo stuka u góry, a winowajca nie jest oczywisty,
-nagraj dźwięk w aplikacji Stuk. Zestawia ona nagranie z Twoimi
+nagraj dźwięk w aplikacji Pro-Stuk. Zestawia ona nagranie z Twoimi
 odpowiedziami i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności, dzięki czemu warsztat sprawdza konkretne części, a nie
 wszystko naraz.

@@ -1,6 +1,6 @@
 ---
 title: "Debriyaja basınca ses kesiliyor"
-metaTitle: "Debriyaja basınca ses kesiliyor: nedeni | Stuk"
+metaTitle: "Debriyaja basınca ses kesiliyor: nedeni | Pro-Stuk"
 description: "Yabancı bir uğultu debriyaja basınca kayboluyorsa kaynak şanzımandadır. Şüpheli listesini nasıl daraltırsınız ve önce neye bakılır."
 faq:
   - q: "Ses neden tam debriyaja basınca kayboluyor?"
@@ -101,7 +101,7 @@ yıl içinde iki kez ödersiniz. Bir de yağın spesifikasyonu markasından daha
 gidermeye çalıştığınız sesi üretebilir. İçine ne konduğunu ve hangi
 spesifikasyona göre seçildiğini sorun.
 
-Debriyaja basınca sesin gerçekten kaybolduğundan emin değilseniz, Stuk
+Debriyaja basınca sesin gerçekten kaybolduğundan emin değilseniz, Pro-Stuk
 uygulamasında iki kayıt alın — pedal serbestken ve basılıyken. Uygulama
 ikisini karşılaştırır, farkı gösterir ve olasılıkları yüzdelerle sunar;
 böylece servise «bir şey uğulduyor» diye değil, somut bir tarifle

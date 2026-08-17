@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Kalten: Steuerkette oder Nockenwellenversteller"
-metaTitle: "Kalt: Steuerkette oder Nockenwellenversteller | Stuk"
+metaTitle: "Kalt: Steuerkette oder Nockenwellenversteller | Pro-Stuk"
 description: "Ein Rasseln in den ersten Sekunden nach dem Kaltstart kommt sowohl von einer gelängten Steuerkette als auch von den Nockenwellenverstellern. Trennung nach Dauer."
 faq:
   - q: "Wie viele Sekunden Kaltklopfen gelten als normal?"

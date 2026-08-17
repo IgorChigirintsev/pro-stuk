@@ -1,6 +1,6 @@
 ---
 title: "Bruits apparus après un lavage du compartiment moteur"
-metaTitle: "Bruits après un lavage moteur : pourquoi | Stuk"
+metaTitle: "Bruits après un lavage moteur : pourquoi | Pro-Stuk"
 description: "Sifflement, cliquetis ou tremblements au ralenti après un lavage du compartiment moteur. Quels bruits partent seuls en deux jours et lesquels signalent une pièce noyée."
 faq:
   - q: "Combien de temps dure le sifflement de courroie après un lavage ?"
@@ -103,7 +103,7 @@ décrits ici.
 
 Le plus difficile, c'est de savoir si le bruit faiblit vraiment. L'oreille
 retient mal l'intensité mais perçoit très bien les écarts en comparaison
-directe. Enregistrez le démarrage du matin dans l'application Stuk le
+directe. Enregistrez le démarrage du matin dans l'application Pro-Stuk le
 premier jour et refaites-le le troisième : l'application compare les
 enregistrements à vos réponses et montre si tout revient à la normale ou
 s'il est temps de prendre rendez-vous pour un diagnostic.

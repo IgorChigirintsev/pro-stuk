@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo en el motor tras un cambio de aceite"
-metaTitle: "Golpeteo tras un cambio de aceite: causas | Stuk"
+metaTitle: "Golpeteo tras un cambio de aceite: causas | Pro-Stuk"
 description: "Por qué un motor empezó a golpear tras un cambio de aceite: viscosidad, nivel, filtro, lavado. Cuándo el sonido se va solo y cuándo hay que volver al taller."
 faq:
   - q: "El motor tabletea los primeros segundos tras un cambio de aceite, ¿es normal?"
@@ -125,6 +125,6 @@ Incluso un segundo cambio de aceite completo cuesta menos que cualquier
 reparación a la que lleva circular con un golpeteo sin explicar.
 
 Si no está seguro de si es el mismo sonido que antes del cambio o uno nuevo,
-grabe el motor con la aplicación Stuk y repita la grabación unos días después.
+grabe el motor con la aplicación Pro-Stuk y repita la grabación unos días después.
 La aplicación compara el sonido con causas típicas, muestra probabilidades y
 urgencia, y comparar las grabaciones ayuda a notar la tendencia.

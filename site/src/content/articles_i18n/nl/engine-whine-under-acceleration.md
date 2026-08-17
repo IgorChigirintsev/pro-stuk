@@ -1,6 +1,6 @@
 ---
 title: "Jankende motor bij het optrekken"
-metaTitle: "Janken bij het optrekken: de oorzaken | Stuk"
+metaTitle: "Janken bij het optrekken: de oorzaken | Pro-Stuk"
 description: "Waar een jankend geluid bij het optrekken vandaan komt: de dynamo, stuurbekrachtigingspomp, riemrollen, waterpomp of de versnellingsbak. Simpele tests om de bron te vinden."
 faq:
   - q: "Hoe onderscheid ik janken van de motor van janken uit de versnellingsbak?"

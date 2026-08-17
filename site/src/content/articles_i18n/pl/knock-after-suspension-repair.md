@@ -1,6 +1,6 @@
 ---
 title: "Stukanie po naprawie zawieszenia: kto zawinił"
-metaTitle: "Stukanie po naprawie zawieszenia: kto zawinił | Stuk"
+metaTitle: "Stukanie po naprawie zawieszenia: kto zawinił | Pro-Stuk"
 description: "Po naprawie zawieszenia pojawiło się stukanie: błąd montażu, wadliwa część czy sąsiedni element? Jak spokojnie rozdzielić te trzy wersje i rozmawiać z warsztatem."
 faq:
   - q: "Czy dokręcanie zawieszenia po naprawie jest normalne?"
@@ -92,7 +92,7 @@ robotą. Ze zleceniem i taką oceną sprawa niemal zawsze kończy się bez
 konfliktu: porządnemu warsztatowi łatwiej poprawić robotę niż się spierać.
 
 Najmocniejszym argumentem w tej rozmowie jest sam dźwięk. Warto nagrać go w
-aplikacji Stuk na reprezentatywnym odcinku drogi: algorytm zestawia
+aplikacji Pro-Stuk na reprezentatywnym odcinku drogi: algorytm zestawia
 nagranie z odpowiedziami i pokazuje prawdopodobne źródła wraz z poziomem
 pilności. Z takim wynikiem łatwiej i rozmawiać z warsztatem, i ocenić, jak
 bardzo naprawdę się spieszyć.

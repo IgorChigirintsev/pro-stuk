@@ -1,6 +1,6 @@
 ---
 title: "Cliquetis des déphaseurs à froid"
-metaTitle: "Cliquetis des déphaseurs à froid : causes et réparation | Stuk"
+metaTitle: "Cliquetis des déphaseurs à froid : causes et réparation | Pro-Stuk"
 description: "Pourquoi les déphaseurs cliquettent les premières secondes après un démarrage à froid : actionneur usé, vanne OCV, huile. Comment vérifier vous-même."
 faq:
   - q: "Combien de secondes de cliquetis au démarrage restent normales ?"
@@ -107,6 +107,6 @@ accélère l'usure de la chaîne, le moteur perd de la puissance et se met à
 consommer davantage.
 
 Pas certain que ce soit le déphaseur qui cliquette ? Enregistrez un
-démarrage à froid avec l'application Stuk — l'algorithme compare le son à
+démarrage à froid avec l'application Pro-Stuk — l'algorithme compare le son à
 des profils types, tient compte de vos réponses sur le moment et la durée
 du bruit, et affiche les causes probables avec un niveau d'urgence.

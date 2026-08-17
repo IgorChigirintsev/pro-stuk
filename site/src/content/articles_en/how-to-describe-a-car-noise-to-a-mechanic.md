@@ -1,7 +1,7 @@
 ---
 ru: "chto-skazat-mehaniku-kak-opisat-zvuk-pravilno"
 title: "What to tell a mechanic: describing a noise properly"
-metaTitle: "How to describe a car noise to a mechanic | Stuk"
+metaTitle: "How to describe a car noise to a mechanic | Pro-Stuk"
 description: "How to describe a noise so a mechanic gets it first time: the five things that matter, wording that works, common mistakes and what not to say."
 pubDate: "2026-06-21"
 related:
@@ -108,7 +108,7 @@ should say so plainly instead of replacing parts on suspicion. “We did
 not manage to reproduce it, come back when it is constant” is an honest
 answer and a cheaper one than a list of speculative jobs.
 
-If putting all this together on the spot is awkward, the Stuk app asks
+If putting all this together on the spot is awkward, the Pro-Stuk app asks
 exactly these questions in order and puts the answers together with the
 recording into a single card: character, location, conditions, what it
 follows, and the likely causes with percentages. Showing that card to the

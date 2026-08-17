@@ -1,6 +1,6 @@
 ---
 title: "Islık: kayış mı, rulman mı"
-metaTitle: "Kaputun altından ıslık: kayış mı rulman mı | Stuk"
+metaTitle: "Kaputun altından ıslık: kayış mı rulman mı | Pro-Stuk"
 description: "Kaputun altındaki ıslık hem kayan kayıştan hem ölmekte olan rulmandan gelir. Sesin çıktığı koşullara bakarak ikisi nasıl ayırt edilir."
 faq:
   - q: "Kayış neden sadece rutubetli havada ıslık çalıyor?"
@@ -94,7 +94,7 @@ hikâyeyi günler içinde tekrarlar; ayrıntısı
 [kayış değişiminden sonra ıslık](/tr/articles/belt-squeal-after-a-belt-change/)
 yazısında.
 
-Kaputun altındaki ıslık, telefonla iyi kaydedilen seslerden biridir. Stuk
+Kaputun altındaki ıslık, telefonla iyi kaydedilen seslerden biridir. Pro-Stuk
 uygulamasında iki kayıt yapın: biri yüksüz rölantide, diğeri klima ve farlar
 açıkken. Uygulama ikisini karşılaştırır ve tablonun hangi ihtimale
 yaslandığını gösterir — daha servis danışmanının önünde durmadan önce.

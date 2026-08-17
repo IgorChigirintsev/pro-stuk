@@ -1,6 +1,6 @@
 ---
 title: "Jak ustalić, skąd dochodzi buczenie: z przodu czy z tyłu"
-metaTitle: "Skąd buczenie: przednia czy tylna oś | Stuk"
+metaTitle: "Skąd buczenie: przednia czy tylna oś | Pro-Stuk"
 description: "Proste testy, które wskazują oś i stronę, z której dochodzi buczenie: zmiany pasa, jazda wybiegiem, przełożenie kół i jazda z pasażerem."
 faq:
   - q: "Dlaczego buczenie z tyłu wydaje się dochodzić z przodu?"
@@ -90,6 +90,6 @@ zużycia — geometrię albo zmęczone amortyzatory — bo nowy komplet na
 nienaprawionym aucie zużyje się tak samo.
 
 Najprościej przejść wszystkie cztery testy z włączonym nagrywaniem w
-aplikacji Stuk: odpowiada się na pytania o prędkość, stronę i reakcję na
+aplikacji Pro-Stuk: odpowiada się na pytania o prędkość, stronę i reakcję na
 wybieg, a aplikacja zestawia je z dźwiękiem i pokazuje prawdopodobne
 przyczyny w procentach oraz to, które koło sprawdzić najpierw.

@@ -1,6 +1,6 @@
 ---
 title: "Grillons dans l'habitacle : comment trouver la source"
-metaTitle: "Grillons dans l'habitacle : trouver la source | Stuk"
+metaTitle: "Grillons dans l'habitacle : trouver la source | Pro-Stuk"
 description: "Une méthode pas à pas pour traquer les grincements d'habitacle : localiser à la main, ce qu'un passager apporte, et quand c'est vraiment la suspension."
 faq:
   - q: "Pourquoi un grincement disparaît-il dès qu'on se met à le chercher ?"
@@ -103,7 +103,7 @@ un grincement qui n'existe qu'en dessous de zéro justifie rarement de
 démonter quoi que ce soit.
 
 Traquer un grincement est bien plus facile quand le son est enregistré.
-Lancez l'enregistrement dans l'application Stuk, parcourez votre portion
+Lancez l'enregistrement dans l'application Pro-Stuk, parcourez votre portion
 dégradée habituelle et demandez à un passager d'appuyer tour à tour sur
 les panneaux — l'enregistrement montrera le moment où le grincement s'est
 coupé. L'application vous dira aussi si le son vient réellement de

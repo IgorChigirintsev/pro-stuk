@@ -1,6 +1,6 @@
 ---
 title: "Battito della scatola guida sulla Hyundai Solaris"
-metaTitle: "Battito scatola guida Hyundai Solaris: cause | Stuk"
+metaTitle: "Battito scatola guida Hyundai Solaris: cause | Pro-Stuk"
 description: "Perché sulla Hyundai Solaris compare un battito nel volante sulle piccole asperità e come distinguere la scatola guida dalle testine e dalle biellette."
 faq:
   - q: "La registrazione della scatola guida risolve il problema per sempre?"
@@ -102,7 +102,7 @@ significa vedere le gomme anteriori consumate ai bordi nel giro di qualche
 migliaio di chilometri.
 
 Se il battito non compare tutte le volte e in officina non riescono a
-riprodurlo, registra il suono con l'app Stuk mentre passi su un fondo
+riprodurlo, registra il suono con l'app Pro-Stuk mentre passi su un fondo
 minuto. L'app confronta la registrazione con le tue risposte e mostra le
 cause probabili in percentuale, evitandoti una conversazione del genere
 «beh, insomma, fa un rumore».

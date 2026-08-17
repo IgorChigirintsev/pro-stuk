@@ -1,6 +1,6 @@
 ---
 title: "Señales de una junta homocinética exterior gastada"
-metaTitle: "Junta homocinética exterior: chasquidos | Stuk"
+metaTitle: "Junta homocinética exterior: chasquidos | Pro-Stuk"
 description: "Cómo chasquea una junta homocinética exterior gastada, en qué se diferencia de la interior, comprobaciones sin elevador y qué decide entre fuelle o junta nueva."
 faq:
   - q: "¿Por qué la junta homocinética chasquea justo al girar?"
@@ -142,7 +142,7 @@ de las de engarzar y no bridas de plástico. Los dos son detalles pequeños
 que deciden si la reparación dura.
 
 ¿No tiene claro si lo que chasquea es la junta homocinética? Grabe el
-sonido con la aplicación Stuk durante un círculo lento con el volante a
+sonido con la aplicación Pro-Stuk durante un círculo lento con el volante a
 tope: la aplicación cruza la grabación con sus respuestas y muestra las
 causas probables con porcentajes y un nivel de urgencia. Con ese resultado
 es más fácil planificar la visita al taller.

@@ -1,6 +1,6 @@
 ---
 title: "Fruscio della catena di distribuzione: come suona"
-metaTitle: "Fruscio della catena: il suono e il rischio | Stuk"
+metaTitle: "Fruscio della catena: il suono e il rischio | Pro-Stuk"
 description: "Come suona una catena di distribuzione allungata, quando un fruscio dopo l'avviamento è normale e quando significa officina. Le fasi dell'usura e il rischio di salto."
 faq:
   - q: "Quanti secondi di fruscio dopo l'avviamento sono normali?"
@@ -134,5 +134,5 @@ suoi segni di usura sono in
 chiedere se è compresa evita di fare due volte lo stesso smontaggio.
 
 Non è sicuro che quello che sente sia la catena? Registri il motore con il
-cofano aperto nell'app Stuk: confronta la registrazione con i suoni tipici
+cofano aperto nell'app Pro-Stuk: confronta la registrazione con i suoni tipici
 dei guasti e mostra le cause probabili con un livello di urgenza.

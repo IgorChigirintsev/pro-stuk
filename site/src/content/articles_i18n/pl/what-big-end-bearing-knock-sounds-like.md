@@ -1,6 +1,6 @@
 ---
 title: "Jak brzmi stuk panewek korbowodowych"
-metaTitle: "Jak brzmi stuk panewek korbowodowych | Stuk"
+metaTitle: "Jak brzmi stuk panewek korbowodowych | Pro-Stuk"
 description: "Twardy, metaliczny stuk ze środka bloku, narastający pod obciążeniem: jak brzmią zużyte panewki korbowodowe, jak się je lokalizuje i czym grożą."
 faq:
   - q: "Czy ze stukiem korbowodu można dojechać do warsztatu o własnych siłach?"
@@ -25,7 +25,7 @@ się go przeczekać.
 
 ## Portret dźwiękowy
 
-Stuk korbowodu jest **jasny, metaliczny i rytmiczny**, dochodzi ze środka
+Pro-Stuk korbowodu jest **jasny, metaliczny i rytmiczny**, dochodzi ze środka
 bloku cylindrów, mniej więcej na wysokości świec albo nieco niżej.
 Kluczowe znaki:
 
@@ -87,7 +87,7 @@ rozdziela się w artykule
 
 ## Czym grozi i jak decyduje się o naprawie
 
-Stuk korbowodu to nie ten przypadek, w którym uważne wyczekiwanie ma sens.
+Pro-Stuk korbowodu to nie ten przypadek, w którym uważne wyczekiwanie ma sens.
 Niszczenie panewki rozpędza się samo: powiększony luz obniża ciśnienie
 oleju, a spadek ciśnienia dobija pozostałe panewki. Na końcu tej drogi
 jest przekręcona panewka, zarysowany czop wału i, w najgorszej wersji,
@@ -121,7 +121,7 @@ profilaktyka: pilnować poziomu, trzymać uczciwe interwały wymiany z zapasem
 na jazdę miejską i zwracać uwagę na kontrolkę ciśnienia.
 
 Jeśli dźwięk dopiero się pojawił i nie ma pewności, czy naprawdę pochodzi z
-głębi bloku, nagraj w aplikacji Stuk krótkie dodanie gazu na luzie.
+głębi bloku, nagraj w aplikacji Pro-Stuk krótkie dodanie gazu na luzie.
 Aplikacja zestawia nagranie z odpowiedziami o warunki i pokazuje
 prawdopodobne przyczyny z procentami — a także mówi, czy silnik w ogóle
 powinien być uruchamiany przed diagnozą.

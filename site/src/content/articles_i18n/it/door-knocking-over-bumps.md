@@ -1,6 +1,6 @@
 ---
 title: "Un colpo nella portiera sulle buche"
-metaTitle: "Colpo nella portiera sulle buche: cosa controllare | Stuk"
+metaTitle: "Colpo nella portiera sulle buche: cosa controllare | Pro-Stuk"
 description: "La portiera batte sulle buche: alzacristalli, fermaporta, serratura, oppure dopotutto la sospensione. Come localizzarlo in un solo viaggio."
 faq:
   - q: "Perché il colpo nella portiera cessa se abbasso un po' il finestrino?"
@@ -104,7 +104,7 @@ la sorgente va cercata nella trasmissione, come in
 [si può guidare con il cambio che ronza](/it/articles/can-you-drive-with-a-whining-gearbox/).
 
 Il modo più semplice di chiudere un colpo di questo tipo è confrontare due
-registrazioni. Avvii la registrazione nell'app Stuk e percorra un tratto
+registrazioni. Avvii la registrazione nell'app Pro-Stuk e percorra un tratto
 sconnesso che conosce, prima con il finestrino chiuso, poi con il
 finestrino leggermente abbassato. L'app confronta le registrazioni con le
 sue risposte a qualche domanda e mostra cosa è più probabile: la portiera,

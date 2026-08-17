@@ -1,6 +1,6 @@
 ---
 title: "O ruído some quando você pisa na embreagem"
-metaTitle: "Ruído some ao pisar na embreagem: por quê | Stuk"
+metaTitle: "Ruído some ao pisar na embreagem: por quê | Pro-Stuk"
 description: "Se o zumbido estranho some ao pisar na embreagem, a origem está no câmbio. Como reduzir a lista de suspeitos e o que conferir primeiro."
 faq:
   - q: "Por que o ruído some justamente ao pisar na embreagem?"
@@ -105,7 +105,7 @@ está tentando curar. Pergunte o que vai entrar e com base em qual
 especificação foi escolhido.
 
 Se você está na dúvida se o som realmente some com a embreagem pisada,
-faça duas gravações no aplicativo Stuk — com o pedal solto e com o pedal
+faça duas gravações no aplicativo Pro-Stuk — com o pedal solto e com o pedal
 pisado. O app compara as duas, mostra a diferença e oferece hipóteses com
 porcentagem, para você chegar à oficina com uma descrição objetiva em vez
 de «tem um zumbido».

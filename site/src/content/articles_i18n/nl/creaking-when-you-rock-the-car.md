@@ -1,6 +1,6 @@
 ---
 title: "Piepen als u de auto heen en weer wiegt"
-metaTitle: "Piepen bij wiegen van de auto: oorzaak en fix | Stuk"
+metaTitle: "Piepen bij wiegen van de auto: oorzaak en fix | Pro-Stuk"
 description: "Waarom de carrosserie piept als u er met de hand op drukt en over golven in de weg: stabilisatorrubbers, draagarmrubbers, veerpootlagers. Zo vindt u het piepende punt."
 faq:
   - q: "Waarom is het piepen erger na regen, na de wasstraat of bij vorst?"

@@ -1,6 +1,6 @@
 ---
 title: "Trovare un battito nelle sospensioni senza ponte"
-metaTitle: "Trovare un battito in sospensione senza ponte | Stuk"
+metaTitle: "Trovare un battito in sospensione senza ponte | Pro-Stuk"
 description: "Un piano passo per passo per localizzare un battito delle sospensioni senza fossa e senza ponte: ritratto del suono, prova di rimbalzo, controlli a mano e giro mirato."
 faq:
   - q: "Si riesce davvero a trovare la fonte senza fossa né ponte?"
@@ -155,7 +155,7 @@ di serraggio dei bulloni ruota al modo in cui sono stati rimontati i pezzi
 smontati.
 
 Se il battito continua a rifiutarsi di farsi localizzare, resta un altro
-strumento: registri il suono in marcia nell'app Stuk. Confronta la registrazione
+strumento: registri il suono in marcia nell'app Pro-Stuk. Confronta la registrazione
 con le sue risposte su quando e su quali fondi compare il battito e mostra le
 cause probabili con un livello di urgenza — un punto di partenza comodo sia per
 il controllo in garage sia per il discorso con il meccanico.

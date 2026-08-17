@@ -1,6 +1,6 @@
 ---
 title: "Bruits après un changement de plaquettes : ce qui est normal"
-metaTitle: "Bruits après un changement de plaquettes | Stuk"
+metaTitle: "Bruits après un changement de plaquettes | Pro-Stuk"
 description: "Des plaquettes neuves font presque toujours du bruit sur les premières centaines de kilomètres. Quels sons relèvent du rodage et lesquels trahissent une erreur de montage."
 faq:
   - q: "Combien de temps des plaquettes neuves peuvent-elles faire du bruit ?"
@@ -116,7 +116,7 @@ roder —
 [peut-on rouler avec des freins qui grincent](/fr/articles/can-you-drive-with-grinding-brakes/).
 
 Pour ne pas deviner si le bruit reste dans la normale, enregistrez-le dans
-l'application Stuk le premier jour après le changement, puis deux semaines
+l'application Pro-Stuk le premier jour après le changement, puis deux semaines
 plus tard. Comparer les deux enregistrements montre la tendance mieux que
 n'importe quelle impression : un bruit de rodage s'affaiblit nettement en
 ce laps de temps, un défaut reste en place ou s'aggrave.

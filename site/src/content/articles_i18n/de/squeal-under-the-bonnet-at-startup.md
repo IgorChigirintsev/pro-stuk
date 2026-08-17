@@ -1,6 +1,6 @@
 ---
 title: "Ein Pfeifen unter der Haube beim Starten"
-metaTitle: "Pfeifen unter der Haube beim Starten: Ursachen | Stuk"
+metaTitle: "Pfeifen unter der Haube beim Starten: Ursachen | Pro-Stuk"
 description: "Warum es in den ersten Sekunden nach dem Start unter der Haube pfeift: Riemen, Spanner, Rollen oder die Freilaufriemenscheibe der Lichtmaschine."
 faq:
   - q: "Ist ein Pfeifen gefährlich, das ein paar Sekunden nach dem Start aufhört?"

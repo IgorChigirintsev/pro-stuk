@@ -1,6 +1,6 @@
 ---
 title: "Zumbido: la caja de cambios o un rodamiento de rueda"
-metaTitle: "Zumbido a velocidad: ¿caja de cambios o buje? | Stuk"
+metaTitle: "Zumbido a velocidad: ¿caja de cambios o buje? | Pro-Stuk"
 description: "Un zumbido a velocidad viene tanto de los rodamientos de rueda como de la caja de cambios. Tres pruebas que los separan en un trayecto y qué significa cada una."
 faq:
   - q: "¿Cuál es la forma más rápida de distinguir el zumbido de la caja del de un rodamiento?"
@@ -105,7 +105,7 @@ nuevo en unos miles de kilómetros. Un taller que ahí usa una llave
 dinamométrica en lugar de una pistola de impacto lo está haciendo bien.
 
 Si el zumbido es flojo y en el taller «no lo oyen», grábelo con la aplicación
-Stuk durante las tres pruebas por turnos: en punto muerto, en marchas
+Pro-Stuk durante las tres pruebas por turnos: en punto muerto, en marchas
 distintas y durante cambios de carril. La aplicación compara las grabaciones
 con sus respuestas y muestra las causas probables con porcentajes, para que la
 conversación no empiece a base de conjeturas.

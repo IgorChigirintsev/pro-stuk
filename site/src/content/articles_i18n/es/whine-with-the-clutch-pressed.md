@@ -1,6 +1,6 @@
 ---
 title: "Zumbido con el embrague pisado"
-metaTitle: "Zumbido al pisar el embrague: qué es | Stuk"
+metaTitle: "Zumbido al pisar el embrague: qué es | Pro-Stuk"
 description: "Un zumbido que aparece al pisar el pedal del embrague casi siempre significa el cojinete de empuje. Cómo confirmarlo en un minuto y qué implica la reparación."
 faq:
   - q: "¿Un zumbido con el embrague pisado es siempre el cojinete de empuje?"
@@ -106,6 +106,6 @@ concretos se detallan en
 [cojinete de embrague ruidoso: ¿se puede circular?](/es/articles/noisy-release-bearing-can-you-drive/).
 
 Si el zumbido es flojo y no está seguro de que esté ligado al pedal, grabe
-el sonido con la aplicación Stuk: primero al ralentí con el pedal arriba y
+el sonido con la aplicación Pro-Stuk: primero al ralentí con el pedal arriba y
 después con él pisado. La aplicación compara las grabaciones, las cruza con
 unas pocas respuestas y muestra las causas probables con porcentajes.

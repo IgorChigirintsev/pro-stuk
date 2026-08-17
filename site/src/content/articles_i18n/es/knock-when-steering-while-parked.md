@@ -1,6 +1,6 @@
 ---
 title: "Un golpe al girar el volante con el coche parado"
-metaTitle: "Golpe al girar el volante parado: causas | Stuk"
+metaTitle: "Golpe al girar el volante parado: causas | Pro-Stuk"
 description: "Golpes, crujidos o chasquidos al girar el volante con el coche detenido: soportes superiores, terminales, cremallera, dirección asistida. Cómo distinguirlos."
 faq:
   - q: "¿Por qué golpea solo girando en parado y calla en marcha?"
@@ -145,6 +145,6 @@ el desglose general está en la página de síntomas
 [golpes en la suspensión](/es/symptoms/knocking-in-suspension/).
 
 Si no está seguro de qué produce exactamente el sonido, grabe el crujido o
-el golpe mientras gira el volante con la aplicación Stuk. Cruza la
+el golpe mientras gira el volante con la aplicación Pro-Stuk. Cruza la
 grabación con sus respuestas sobre cuándo aparece el sonido y muestra las
 causas probables con un nivel de urgencia.

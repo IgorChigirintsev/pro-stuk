@@ -1,6 +1,6 @@
 ---
 title: "Bozuk yolda aracın altından gelen tıkırtı"
-metaTitle: "Aracın altından tıkırtı: nedenleri | Stuk"
+metaTitle: "Aracın altından tıkırtı: nedenleri | Pro-Stuk"
 description: "Viraj demiri rotu, alt muhafaza, egzoz askıları: bozuk yolda alttan neden tıkırtı gelir, kaynağı nasıl bulunur ve ne zaman ciddiye alınmalı."
 faq:
   - q: "Küçük tümseklerde tıkırdıyor ama derin çukurda ses çıkmıyor, neden?"
@@ -116,6 +116,6 @@ yoksa komple salıncak mı gerektiğini sorun: cevap hem tutarı hem süreyi
 değiştirir, üstelik bu sorumak satış değil, yerinde bir sorudur.
 
 Tıkırtı bir türlü yakalanmıyorsa, bildiğiniz bozuk yoldan geçerken sesi
-Stuk uygulamasına kaydedin: uygulama sesi, ne zaman ortaya çıktığına dair
+Pro-Stuk uygulamasına kaydedin: uygulama sesi, ne zaman ortaya çıktığına dair
 cevaplarınızla eşleştirir ve muhtemel nedenleri aciliyet düzeyiyle
 gösterir — servise sadece teoriyi liftte doğrulatmak kalır.

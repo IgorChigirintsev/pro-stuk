@@ -1,6 +1,6 @@
 ---
 title: "Zumbido: câmbio ou rolamento de roda"
-metaTitle: "Zumbido em velocidade: câmbio ou rolamento? | Stuk"
+metaTitle: "Zumbido em velocidade: câmbio ou rolamento? | Pro-Stuk"
 description: "Zumbido em velocidade vem tanto do rolamento de roda quanto do câmbio. Três testes que separam os dois numa volta só, e o que cada resposta significa."
 faq:
   - q: "Qual é o jeito mais rápido de diferenciar zumbido de câmbio do de rolamento?"
@@ -91,7 +91,7 @@ serviços — porca apertada demais ou de menos mata um rolamento novo em
 poucos milhares de quilômetros. Uma oficina que usa torquímetro ali, em
 vez de pistola de impacto, está fazendo certo.
 
-Se o zumbido é baixo e a oficina «não escuta», grave no aplicativo Stuk
+Se o zumbido é baixo e a oficina «não escuta», grave no aplicativo Pro-Stuk
 durante os três testes, um de cada vez — em ponto morto, em marchas
 diferentes e nas mudanças de faixa. O app cruza as gravações com as suas
 respostas e mostra as causas prováveis com percentuais, para a conversa

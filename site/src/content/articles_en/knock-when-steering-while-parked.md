@@ -1,7 +1,7 @@
 ---
 ru: "stuk-pri-povorote-rulya-na-meste"
 title: "A knock when steering while parked"
-metaTitle: "A knock when steering while parked: causes | Stuk"
+metaTitle: "A knock when steering while parked: causes | Pro-Stuk"
 description: "Knocking, crunching or clicking when you turn the wheel with the car parked: top mounts, track rod ends, the rack, the power steering — how to tell them apart."
 pubDate: "2026-08-02"
 related:
@@ -135,6 +135,6 @@ eventually needs parts rather than an adjustment. So a knock while
 steering parked is a reason for a calm but not postponed diagnosis.
 
 If you are unsure what exactly is making the sound, record the crunch or
-knock while turning the wheel in the Stuk app. It matches the recording
+knock while turning the wheel in the Pro-Stuk app. It matches the recording
 with your answers about when the sound appears and shows the likely causes
 with an urgency level.

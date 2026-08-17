@@ -1,6 +1,6 @@
 ---
 title: "Sifflement sous le capot au démarrage"
-metaTitle: "Sifflement sous le capot au démarrage : causes | Stuk"
+metaTitle: "Sifflement sous le capot au démarrage : causes | Pro-Stuk"
 description: "Pourquoi ça siffle sous le capot dans les premières secondes après le démarrage : la courroie, le tendeur, les galets ou la poulie débrayable d'alternateur."
 faq:
   - q: "Un sifflement qui s'arrête deux secondes après le démarrage est-il grave ?"
@@ -143,6 +143,6 @@ minutes, et beaucoup d'ateliers offrent ce contrôle quand on leur confie la
 réparation.
 
 Si vous voulez comprendre la cause avant de vous déplacer, enregistrez le
-sifflement au moment du démarrage dans l'application Stuk : elle croise le
+sifflement au moment du démarrage dans l'application Pro-Stuk : elle croise le
 son avec vos réponses et affiche les causes probables avec un niveau
 d'urgence.

@@ -1,6 +1,6 @@
 ---
 title: "Dynamo of waterpomp: het gejank uit elkaar houden"
-metaTitle: "Gejank: dynamo of waterpomp? Zo weet u het | Stuk"
+metaTitle: "Gejank: dynamo of waterpomp? Zo weet u het | Pro-Stuk"
 description: "Dynamo en waterpomp zitten op dezelfde riem en janken hetzelfde. De controles die ze in tien minuten scheiden en wat elke variant u kan kosten."
 faq:
   - q: "Hoe hoor ik het verschil zonder iets te demonteren?"

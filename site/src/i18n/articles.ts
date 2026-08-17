@@ -88,7 +88,7 @@ export const ARTICLE_UI: Record<string, ArticleUi> = {
     hubQuizSub:
       'An interactive diagnosis tree: a few questions and the list of causes gets much shorter.',
     hubOther: 'Other sections',
-    indexTitle: 'Articles about car noises | Stuk',
+    indexTitle: 'Articles about car noises | Pro-Stuk',
     indexDescription:
       'Guides to car noises: knocking, squealing, humming, whining and rattling. What each sound means, what you can check yourself and how urgent it is.',
     indexH1: 'Articles',

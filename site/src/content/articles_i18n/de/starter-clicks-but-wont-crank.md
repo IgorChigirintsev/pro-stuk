@@ -1,6 +1,6 @@
 ---
 title: "Der Anlasser klickt, dreht aber nicht"
-metaTitle: "Anlasser klickt, dreht nicht: die Ursachen | Stuk"
+metaTitle: "Anlasser klickt, dreht nicht: die Ursachen | Pro-Stuk"
 description: "Beim Drehen des Schlüssels kommt ein Klick oder schnelles Klackern, der Motor dreht aber nicht. Was beides bedeutet und wie Sie Batterie und Anlasser trennen."
 faq:
   - q: "Was ist der Unterschied zwischen einem einzelnen Klick und schnellem Klackern?"

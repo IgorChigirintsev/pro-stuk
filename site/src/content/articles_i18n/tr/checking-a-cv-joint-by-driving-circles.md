@@ -1,6 +1,6 @@
 ---
 title: "Otoparkta daire çizerek aks kafasını kontrol etmek"
-metaTitle: "Daire çizerek aks kafası kontrolü | Stuk"
+metaTitle: "Daire çizerek aks kafası kontrolü | Pro-Stuk"
 description: "Boş bir otoparkta adım adım dış aks kafası testi: daireler nasıl çizilir, ne tıkırdamalı ve test bazen neden hiçbir şey göstermez."
 faq:
   - q: "Aks kafası neden sadece tam kilitli dönüşte tıkırdar?"
@@ -99,6 +99,6 @@ Aynı ilke — kontrollü bir durum yaratıp dinlemek — motorda da işler: ses
 rejimde yakalanır.
 
 Tıkırtı duyuyor ama doğru ses olduğundan emin olamıyorsanız, daireyi
-çizerken Stuk uygulamasında kayıt başlatın. Uygulama sesi rejim ve taraf
+çizerken Pro-Stuk uygulamasında kayıt başlatın. Uygulama sesi rejim ve taraf
 hakkındaki cevaplarınızla eşleştirir ve olası sebepleri yüzdelerle
 gösterir.

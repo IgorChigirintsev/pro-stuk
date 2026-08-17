@@ -1,6 +1,6 @@
 ---
 title: "Radnabenspiel am angehobenen Rad prüfen"
-metaTitle: "Radnabenspiel am angehobenen Rad prüfen | Stuk"
+metaTitle: "Radnabenspiel am angehobenen Rad prüfen | Pro-Stuk"
 description: "Wie Sie ein Rad sicher anheben und auf Spiel prüfen: die Griffe 12–6 und 3–9, die Trennung von Radlager, Traggelenk und Lenkung, und was danach folgt."
 faq:
   - q: "Wie viel Radspiel gilt als normal?"

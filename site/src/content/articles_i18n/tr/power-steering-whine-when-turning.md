@@ -1,6 +1,6 @@
 ---
 title: "Direksiyon çevirirken uğultu: nedenleri"
-metaTitle: "Direksiyon çevirirken uğultu: nedenleri | Stuk"
+metaTitle: "Direksiyon çevirirken uğultu: nedenleri | Pro-Stuk"
 description: "Hidrolik direksiyon virajda neden uğuldar: hidrolik seviyesi, sistemde hava, pompa, kayış. Normali aşınmadan ayırmak ve önce neye bakmak gerekir."
 faq:
   - q: "Yalnızca direksiyon sonuna kadar çevrilince uğulduyor, arıza mı?"
@@ -121,6 +121,6 @@ direksiyonun en pahalı parçasıdır. Yani uğultuyu «bir ay izleyelim»
 sebebi değil, bir iki gün içinde depoya bakma sebebi sayın.
 
 Sesin gerçekten direksiyondan geldiğinden emin değilseniz, direksiyonu
-çevirirken sesi Stuk uygulamasında kaydedin. Uygulama kaydı, sesin ne
+çevirirken sesi Pro-Stuk uygulamasında kaydedin. Uygulama kaydı, sesin ne
 zaman çıktığına dair cevaplarınızla eşleştirir ve muhtemel nedenleri
 aciliyet düzeyiyle gösterir.

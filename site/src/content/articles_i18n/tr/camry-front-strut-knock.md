@@ -1,6 +1,6 @@
 ---
 title: "Camry ön amortisör tıkırtısı: tipik sorun"
-metaTitle: "Camry ön amortisör tıkırtısı: nedenler | Stuk"
+metaTitle: "Camry ön amortisör tıkırtısı: nedenler | Pro-Stuk"
 description: "Camry'de küçük tümseklerde ön amortisör tıkırtısı: suç neden hep amortisörde değil, yatak ve rotlar nasıl kontrol edilir, onarım neye göre seçilir."
 faq:
   - q: "Camry'de ön süspansiyon tıkırtısı her zaman amortisör müdür?"
@@ -92,6 +92,6 @@ sık sık birlikte gelir; o parçanın aşınma belirtileri
 [teker rulmanı uğultusu](/tr/symptoms/wheel-bearing-hum/) sayfasında.
 
 Tıkırtı hâlâ ara sıra geliyorsa ve usta için tekrarlanamıyorsa, bildiğiniz
-bir tümsekten geçerken Stuk uygulamasıyla kaydedin. Uygulama kaydı
+bir tümsekten geçerken Pro-Stuk uygulamasıyla kaydedin. Uygulama kaydı
 verdiğiniz cevaplarla eşleştirir ve olası nedenleri yüzdeyle gösterir — en
 azından aramaya nereden başlanacağı netleşir.

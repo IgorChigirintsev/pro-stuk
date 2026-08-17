@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego sprzęgła jednokierunkowego alternatora"
-metaTitle: "Sprzęgło jednokierunkowe alternatora: objawy | Stuk"
+metaTitle: "Sprzęgło jednokierunkowe alternatora: objawy | Pro-Stuk"
 description: "Po co alternatorowi sprzęgło jednokierunkowe i jak brzmi jego zużycie: gwizd przy rozruchu, grzechot po zgaszeniu, drgania paska. Sprawdzenia do zrobienia samemu."
 faq:
   - q: "Czym sprzęgło jednokierunkowe różni się od zwykłego koła pasowego alternatora?"
@@ -114,6 +114,6 @@ Typowa żywotność sprzęgła to około 100 000 km, więc jego stan zawsze
 warto sprawdzić przy planowej wymianie paska.
 
 Nie wiadomo, czy to sprzęgło, łożysko, czy pasek? Proszę nagrać dźwięk
-przy rozruchu i przy gaszeniu w aplikacji Stuk — zestawi ona nagranie z
+przy rozruchu i przy gaszeniu w aplikacji Pro-Stuk — zestawi ona nagranie z
 typowymi dźwiękami usterek i pokaże prawdopodobne przyczyny wraz ze
 stopniem pilności.

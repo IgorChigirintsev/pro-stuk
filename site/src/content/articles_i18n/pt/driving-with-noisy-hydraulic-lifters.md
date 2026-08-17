@@ -1,6 +1,6 @@
 ---
 title: "O que acontece se você continuar rodando com tuchos hidráulicos batendo"
-metaTitle: "Tuchos hidráulicos batendo: dá para rodar? | Stuk"
+metaTitle: "Tuchos hidráulicos batendo: dá para rodar? | Pro-Stuk"
 description: "Tucho hidráulico batendo não destrói o motor num dia, mas martela o ressalto do comando e a válvula. Os cenários, os prazos e o que checar primeiro."
 faq:
   - q: "O barulho dos tuchos some quando o motor esquenta. Isso é normal?"
@@ -93,7 +93,7 @@ perdeu força, porque um ressalto gasto não abre mais a válvula por
 completo.
 
 Se o tique só aparece a frio e você quer saber se isso está dentro do
-normal, grave o som no aplicativo Stuk logo depois da partida e de novo
+normal, grave o som no aplicativo Pro-Stuk logo depois da partida e de novo
 depois de cinco minutos rodando. O app compara as duas gravações com as
 suas respostas sobre o motor e a quilometragem e mostra as causas prováveis
 com porcentagens.

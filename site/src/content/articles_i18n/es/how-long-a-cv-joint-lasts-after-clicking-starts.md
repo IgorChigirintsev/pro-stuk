@@ -1,6 +1,6 @@
 ---
 title: "Cuánto dura una junta homocinética desde que empiezan los chasquidos"
-metaTitle: "Cuánto dura una junta homocinética tras los chasquidos | Stuk"
+metaTitle: "Cuánto dura una junta homocinética tras los chasquidos | Pro-Stuk"
 description: "Guía honrada sobre la vida de una junta homocinética tras los primeros chasquidos: de qué depende el margen, qué acelera el fallo y cuándo hay que cambiarla."
 faq:
   - q: "¿Una junta homocinética puede agarrotarse en marcha?"
@@ -144,7 +144,7 @@ tipo prensado correcto. Los dos son detalles pequeños que deciden si la
 reparación dura años o meses.
 
 Si quiere saber en qué fase está su junta, grabe el sonido con la aplicación
-Stuk durante un círculo lento a tope de volante. La aplicación compara la
+Pro-Stuk durante un círculo lento a tope de volante. La aplicación compara la
 grabación con sus respuestas a unas cuantas preguntas y muestra las causas
 probables con un nivel de urgencia, lo que hace más fácil decidir entre ir
 mañana y elegir con calma un día de esta semana.

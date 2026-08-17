@@ -1,6 +1,6 @@
 ---
 title: "Chinesische SUV: typische Geräusche bei Chery, Haval und Geely"
-metaTitle: "SUV aus China: Geräusche bei Chery, Haval | Stuk"
+metaTitle: "SUV aus China: Geräusche bei Chery, Haval | Pro-Stuk"
 description: "Welche Geräusche bei chinesischen SUV in den ersten Jahren am häufigsten auftreten, was dahintersteckt und mit welcher Prüfung man sinnvoll anfängt."
 faq:
   - q: "Machen chinesische SUV mehr Geräusche als andere?"

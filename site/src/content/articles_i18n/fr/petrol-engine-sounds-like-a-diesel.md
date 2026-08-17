@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi un moteur essence se met à sonner comme un diesel"
-metaTitle: "Moteur essence qui sonne comme un diesel | Stuk"
+metaTitle: "Moteur essence qui sonne comme un diesel | Pro-Stuk"
 description: "Pourquoi un moteur essence se met à cliqueter comme un diesel : jeux aux soupapes, chaîne détendue, cliquetis de combustion, injection directe. Quoi vérifier et dans quel ordre."
 faq:
   - q: "Que veut dire un moteur essence qui sonne comme un diesel ?"
@@ -138,7 +138,7 @@ individuellement — ce qui explique que le même travail coûte très
 différemment sur deux voitures de taille comparable.
 
 Si vous voulez comprendre avant de vous déplacer, enregistrez le moteur
-dans l'application Stuk — au ralenti et, si cela peut se faire sans danger,
+dans l'application Pro-Stuk — au ralenti et, si cela peut se faire sans danger,
 en charge. L'application confronte l'enregistrement à vos réponses et
 affiche les causes probables avec un niveau d'urgence : il devient plus
 clair s'il s'agit d'un réglage de routine ou du genre de cliquetis qu'on ne

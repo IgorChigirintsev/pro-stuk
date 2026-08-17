@@ -1,6 +1,6 @@
 ---
 title: "Ronzio sotto il cofano al minimo"
-metaTitle: "Ronzio sotto il cofano al minimo: trovare la fonte | Stuk"
+metaTitle: "Ronzio sotto il cofano al minimo: trovare la fonte | Pro-Stuk"
 description: "Che cosa ronza sotto il cofano al minimo: ventola, alternatore, compressore del clima, pompa acqua o pulegge. Prove semplici con gli interruttori per isolarlo."
 faq:
   - q: "È normale che il ronzio compaia quando si accende il climatizzatore?"
@@ -123,5 +123,5 @@ vecchia e allungata è una soluzione di corta durata.
 
 Un ronzio al minimo è facile da registrare: l’auto è ferma e il rumore di
 fondo è minimo. Si fa una registrazione con il cofano aperto nell’app
-Stuk: confronta il suono con le risposte date e mostra le cause probabili
+Pro-Stuk: confronta il suono con le risposte date e mostra le cause probabili
 con un livello di urgenza.

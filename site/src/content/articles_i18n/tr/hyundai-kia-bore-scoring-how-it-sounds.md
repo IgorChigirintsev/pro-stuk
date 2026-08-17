@@ -1,6 +1,6 @@
 ---
 title: "Hyundai/Kia silindir çizilmesi: sesi nasıldır"
-metaTitle: "Hyundai/Kia silindir çizilmesi: sesi | Stuk"
+metaTitle: "Hyundai/Kia silindir çizilmesi: sesi | Pro-Stuk"
 description: "Hyundai ve Kia motorlarında silindir çizilmesini kulakla tanımak: vuruntunun karakteri, ısınma ve yükle ilişkisi ve teşhisin nasıl doğrulandığı."
 faq:
   - q: "Silindir çizilmesi soğukta mı sıcakta mı vurur?"
@@ -94,7 +94,7 @@ de sözlü karar yerine endoskop fotoğraflarını isteyin: hafif honlama
 izleriyle derin oluklar arasındaki fark, izlemekle motoru açmak arasındaki
 kararı belirler ve bir görüntüde açıkça görünür.
 
-İlk adımı Stuk uygulamasıyla atmak kolaydır: sesi soğuk ve sıcak motorda
+İlk adımı Pro-Stuk uygulamasıyla atmak kolaydır: sesi soğuk ve sıcak motorda
 kaydedin, yük altında değişip değişmediğini not edin ve yağ takviyesiyle
 ilgili soruları cevaplayın. Uygulama muhtemel sebepleri yüzdesiyle gösterir
 ve serviste önce hangi ölçümleri istemenin mantıklı olduğunu önerir.

@@ -1,6 +1,6 @@
 ---
 title: "Küçük tümseklerde ön süspansiyon takırtısı"
-metaTitle: "Küçük tümseklerde ön süspansiyon takırtısı | Stuk"
+metaTitle: "Küçük tümseklerde ön süspansiyon takırtısı | Pro-Stuk"
 description: "Ön süspansiyon neden tam da küçük tümseklerde takırdar: viraj demiri rotları, burçlar, üst takozlar, rot başları. Listeyi kendiniz nasıl daraltırsınız."
 faq:
   - q: "Süspansiyon neden küçük tümseklerde takırdıyor da büyük çukurlarda susuyor?"
@@ -135,7 +135,7 @@ ortadan kaldırmaz. Ve «düşene kadar» aylarca kullanmayın: takırtı yeni
 arızaların gelişini maskeler, aşınmış bir parça da komşularının aşınmasını
 hızlandırır.
 
-Servise hazır bir teoriyle gitmek istiyorsanız takırtıyı Stuk uygulamasıyla
+Servise hazır bir teoriyle gitmek istiyorsanız takırtıyı Pro-Stuk uygulamasıyla
 kaydedin: uygulama sesi, ne zaman çıktığına dair cevaplarınızla eşleştirir
 ve olası sebepleri aciliyet düzeyiyle gösterir — ustayla konuşma anında
 somutlaşır.

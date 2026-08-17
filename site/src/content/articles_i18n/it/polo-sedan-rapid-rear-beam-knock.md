@@ -1,6 +1,6 @@
 ---
 title: "Battito dell'assale posteriore su Polo Sedan e Rapid"
-metaTitle: "Polo Sedan e Rapid: battito assale posteriore | Stuk"
+metaTitle: "Polo Sedan e Rapid: battito assale posteriore | Pro-Stuk"
 description: "Perché Polo Sedan e Rapid battono dietro: boccole dell'assale, ammortizzatori, tamponi e fissaggi. Come localizzare la fonte e da cosa dipende l'intervento."
 faq:
   - q: "Si possono cambiare solo le boccole senza sostituire l'assale?"
@@ -103,7 +103,7 @@ dopo un intervento recente, è esattamente questo che va controllato —
 [battito dopo un intervento alla sospensione](/it/articles/knock-after-suspension-repair/).
 
 Se il colpo compare solo su un tratto preciso di strada e in officina non
-si riesce a riprodurlo, registri il rumore con l'app Stuk mentre passa da
+si riesce a riprodurlo, registri il rumore con l'app Pro-Stuk mentre passa da
 quel punto. L'app confronta la registrazione con le sue risposte e mostra
 le cause probabili in percentuale, così la conversazione con il meccanico
 parte da un pezzo preciso.

@@ -1,6 +1,6 @@
 ---
 title: "Rascheln der Steuerkette: wie es klingt"
-metaTitle: "Rascheln der Steuerkette: Ton und Risiko | Stuk"
+metaTitle: "Rascheln der Steuerkette: Ton und Risiko | Pro-Stuk"
 description: "Wie eine gelängte Steuerkette klingt, wann ein Rascheln nach dem Start normal ist und wann es in die Werkstatt führt. Die Verschleißstadien und das Risiko."
 faq:
   - q: "Wie viele Sekunden Rascheln nach dem Start sind normal?"

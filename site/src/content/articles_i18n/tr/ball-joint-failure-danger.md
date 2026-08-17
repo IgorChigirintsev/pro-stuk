@@ -1,6 +1,6 @@
 ---
 title: "Kopan rotil gerçekte ne kadar tehlikelidir"
-metaTitle: "Rotil kopması: araca ne olur | Stuk"
+metaTitle: "Rotil kopması: araca ne olur | Pro-Stuk"
 description: "Rotil yuvasından çıktığında fiziksel olarak ne olur, hangi sesler haftalar öncesinden uyarır ve yola devam edip edemeyeceğinizi nasıl değerlendirirsiniz."
 faq:
   - q: "Rotil koptuğunda araca ne olur?"
@@ -90,7 +90,7 @@ geometriyi değiştirir ve ayarı atlamak, birkaç bin kilometre içinde
 düzensiz ve hızlı lastik aşınması olarak karşınıza çıkar.
 
 Tümseklerde tek bir boğuk tık belirdiyse ve aciliyetini bilmiyorsanız,
-bildiğiniz bozuk bir yol parçasında geçişi Stuk uygulamasına kaydedin.
+bildiğiniz bozuk bir yol parçasında geçişi Pro-Stuk uygulamasına kaydedin.
 Uygulama darbenin karakterini hız ve direksiyonun davranışına dair
 cevaplarınızla karşılaştırır, olası nedenleri yüzdelerle gösterir ve oraya
 kendi aracınızla gitmenin makul olup olmadığını söyler.

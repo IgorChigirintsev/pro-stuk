@@ -1,6 +1,6 @@
 ---
 title: "Sinais de terminais de direção gastos"
-metaTitle: "Terminal de direção gasto: o som | Stuk"
+metaTitle: "Terminal de direção gasto: o som | Pro-Stuk"
 description: "Batida em ondulações pequenas, folga no volante, carro vagando na reta: como reconhecer terminal de direção gasto e checar você mesmo."
 faq:
   - q: "Como soa um terminal de direção gasto?"
@@ -135,6 +135,6 @@ superfícies de contato e as peças vizinhas, transformando um reparo barato
 num caro.
 
 Se algo bate embaixo e você não tem certeza do diagnóstico, grave o som no
-aplicativo Stuk. Ele cruza a gravação com suas respostas sobre quando a
+aplicativo Pro-Stuk. Ele cruza a gravação com suas respostas sobre quando a
 batida aparece — em ondulações, ao esterçar, ao frear — e mostra as causas
 prováveis com um grau de urgência.

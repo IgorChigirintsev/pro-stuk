@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-rulevye-nakonechniki-na-lyuft"
 title: "Checking track rod ends for play"
-metaTitle: "Checking track rod ends for play | Stuk"
+metaTitle: "Checking track rod ends for play | Pro-Stuk"
 description: "How to find play in track rod ends yourself: the 3 and 9 o'clock grip, feeling the joint by hand, telling them from the rack, and what the repair needs."
 pubDate: "2026-06-18"
 related:
@@ -97,7 +97,7 @@ timing drive is judged by ear at a cold start — see
 [checking timing chain tension by ear](/en/articles/checking-timing-chain-tension-by-ear/).
 
 If you can hear the knock but cannot catch it by hand — normal at the
-early stages of wear — record the sound in the Stuk app while driving over
+early stages of wear — record the sound in the Pro-Stuk app while driving over
 small bumps. The app matches the recording with your answers and shows the
 likely causes with percentages, so the lift check targets a specific
 theory rather than the whole front suspension.

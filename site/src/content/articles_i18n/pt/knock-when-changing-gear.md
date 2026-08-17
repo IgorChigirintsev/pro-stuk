@@ -1,6 +1,6 @@
 ---
 title: "Batida na hora de trocar de marcha"
-metaTitle: "Batida ao trocar de marcha: as causas | Stuk"
+metaTitle: "Batida ao trocar de marcha: as causas | Pro-Stuk"
 description: "A batida no momento da troca de marcha vem de folga no trambulador, coxins gastos e juntas dos semieixos. Como separar as causas."
 faq:
   - q: "Batida ao trocar de marcha é sempre o câmbio?"
@@ -96,7 +96,7 @@ poucos meses. Sobre não aceitar serviço além do necessário, veja
 [como não aceitar serviço empurrado na oficina](/pt/articles/avoiding-being-upsold-at-a-workshop/).
 
 Se a batida ainda é ocasional e você não tem certeza se vem de baixo do
-capô ou de baixo do assoalho, grave ela no aplicativo Stuk durante uma
+capô ou de baixo do assoalho, grave ela no aplicativo Pro-Stuk durante uma
 acelerada parado e durante uma arrancada. O app cruza a gravação com as
 suas respostas e mostra as causas prováveis com porcentagens — o que
 encurta bastante a conversa na oficina.

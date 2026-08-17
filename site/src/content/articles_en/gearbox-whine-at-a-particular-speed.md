@@ -1,7 +1,7 @@
 ---
 ru: "voj-korobki-na-opredelennoj-skorosti"
 title: "Gearbox whine at a particular speed"
-metaTitle: "Gearbox whine at a particular speed: causes | Stuk"
+metaTitle: "Gearbox whine at a particular speed: causes | Pro-Stuk"
 description: "A whine that appears in a narrow band of speeds and changes with the throttle usually comes from the gearbox or the final drive. How to tell it apart."
 pubDate: "2026-07-23"
 related:
@@ -107,7 +107,7 @@ interchangeable, and the wrong friction modifier produces exactly the
 noise you were trying to cure.
 
 If the whine is quiet and you are not sure whether it comes from the
-gearbox or the wheels, record it in the Stuk app at the very speed where
+gearbox or the wheels, record it in the Pro-Stuk app at the very speed where
 it is clearest, then repeat the recording in a different gear. The app
 compares both recordings with your answers and shows the likely causes
 with percentages.

@@ -1,6 +1,6 @@
 ---
 title: "Chacoalho embaixo do carro ao acelerar"
-metaTitle: "Chacoalho embaixo do carro ao acelerar | Stuk"
+metaTitle: "Chacoalho embaixo do carro ao acelerar | Pro-Stuk"
 description: "Blindagens térmicas, escapamento encostando na carroceria, detonação ou catalisador quebrado: por que surge o chacoalho ao acelerar e o que é grave."
 faq:
   - q: "Como separar o chacoalho da blindagem térmica da detonação do motor?"
@@ -117,7 +117,7 @@ sentido da inspeção é ter certeza de que este é mesmo esse caso — e não
 detonação vestida de chacoalho inofensivo.
 
 Não tem certeza se é chacoalho ou o tinir da detonação? Grave uma
-arrancada no aplicativo Stuk — ele cruza o espectro do som com suas
+arrancada no aplicativo Pro-Stuk — ele cruza o espectro do som com suas
 respostas sobre quando ele aparece e mostra as causas prováveis com nível
 de urgência. Com essa gravação, o mecânico não vai precisar rodar meia
 hora com você atrás do barulho.

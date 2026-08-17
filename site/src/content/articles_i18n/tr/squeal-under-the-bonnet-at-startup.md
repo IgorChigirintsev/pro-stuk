@@ -1,6 +1,6 @@
 ---
 title: "Çalıştırma anında kaputun altından gelen ıslık"
-metaTitle: "Çalıştırınca kaputtan ıslık sesi: nedenleri | Stuk"
+metaTitle: "Çalıştırınca kaputtan ıslık sesi: nedenleri | Pro-Stuk"
 description: "Motoru çalıştırdıktan sonraki ilk saniyelerde kaputun altından neden ıslık gelir: V kayışı, gergi rulmanı, avare rulmanlar ve alternatör kasnağı."
 faq:
   - q: "Çalıştırdıktan birkaç saniye sonra kesilen ıslık tehlikeli mi?"
@@ -129,6 +129,6 @@ bir kayıt götürün. Usta için bu yeterlidir: kayışı gözden geçirmek, ge
 hareketini kontrol etmek ve rulmanları stetoskopla dinlemek on on beş dakika
 sürer, birçok servis onarımı verdiğinizde bu kontrolü ücretsiz yapar.
 
-Yola çıkmadan nedeni anlamak isterseniz, çalıştırma anındaki ıslığı Stuk
+Yola çıkmadan nedeni anlamak isterseniz, çalıştırma anındaki ıslığı Pro-Stuk
 uygulamasıyla kaydedin: uygulama sesi verdiğiniz yanıtlarla eşleştirip
 olası nedenleri aciliyet seviyesiyle birlikte gösterir.

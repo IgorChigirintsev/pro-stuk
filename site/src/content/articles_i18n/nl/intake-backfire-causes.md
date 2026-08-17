@@ -1,6 +1,6 @@
 ---
 title: "Knallen in het inlaatspruitstuk: oorzaken"
-metaTitle: "Knallen in de inlaat: oorzaken en diagnose | Stuk"
+metaTitle: "Knallen in de inlaat: oorzaken en diagnose | Pro-Stuk"
 description: "Knallen in het inlaatspruitstuk: te arm mengsel, ontstekingsmissers, verkeerde kleptiming. Zo vindt u de oorzaak en scheidt u het van uitlaatknallen."
 faq:
   - q: "Is knallen in de inlaat gevaarlijk?"

@@ -1,6 +1,6 @@
 ---
 title: "Ticchettio del G4FC su Solaris e Rio: normale o rigature dei cilindri"
-metaTitle: "Ticchettio del G4FC: normale o rigature | Stuk"
+metaTitle: "Ticchettio del G4FC: normale o rigature | Pro-Stuk"
 description: "Il G4FC ticchetta al minimo: dove finisce il normale crepitio degli iniettori e comincia un rumore preoccupante, e come si esclude la rigatura dei cilindri."
 faq:
   - q: "Il ticchettio su un G4FC è normale?"
@@ -100,7 +100,7 @@ l’ispezione endoscopica costa poco rispetto a tutto quello che permette di
 escludere, quindi chiedete le fotografie delle canne e non un verdetto a
 voce.
 
-L’app Stuk aiuta nel primo passo: registrate il ticchettio a motore freddo
+L’app Pro-Stuk aiuta nel primo passo: registrate il ticchettio a motore freddo
 e a motore caldo, rispondete a poche domande su carico e consumo d’olio e
 ottenete una lista di cause probabili in percentuale. Non sostituisce la
 prova di compressione, ma evita panico inutile e spese inutili in lavori

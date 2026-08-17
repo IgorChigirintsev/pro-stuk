@@ -1,6 +1,6 @@
 ---
 title: "Bruit venant du dessous : échappement ou protection sous moteur"
-metaTitle: "Bruit sous la voiture : échappement ou protection | Stuk"
+metaTitle: "Bruit sous la voiture : échappement ou protection | Pro-Stuk"
 description: "Un cliquetis métallique venant du dessous vient soit de la ligne d'échappement, soit de la protection sous moteur. Comment les séparer à l'oreille et à la main en dix minutes."
 faq:
   - q: "Comment distinguer rapidement la protection de l'échappement ?"
@@ -100,7 +100,7 @@ c'est dans
 [hurlement sous le capot : alternateur ou pompe à eau](/fr/articles/alternator-or-water-pump-whine/).
 
 Si le doute subsiste après tous ces contrôles, enregistrez le bruit dans
-l'application Stuk — d'abord au ralenti avec un coup d'accélérateur, puis
+l'application Pro-Stuk — d'abord au ralenti avec un coup d'accélérateur, puis
 en roulant sur une portion dégradée. L'application confronte les deux
 enregistrements à vos réponses et affiche les causes probables en
 pourcentages, pour que la conversation avec le mécanicien parte d'une

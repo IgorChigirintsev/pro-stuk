@@ -1,6 +1,6 @@
 ---
 title: "Colpi nella sospensione posteriore sulle buche"
-metaTitle: "Colpi nella sospensione posteriore: le cause | Stuk"
+metaTitle: "Colpi nella sospensione posteriore: le cause | Pro-Stuk"
 description: "Cosa batte nella sospensione posteriore sulle buche: ammortizzatori, silent block del ponte, molle o bagagli nel baule. Prove senza ponte e come si sceglie l'intervento."
 faq:
   - q: "Perché un colpo al posteriore è così difficile da localizzare?"
@@ -129,6 +129,6 @@ penzolante, la gomma del silent block vive torta e ricomincia a battere nel
 giro di mesi.
 
 Se un colpo al posteriore continua a non voler essere attribuito a un pezzo
-preciso, lo registri con l'app Stuk: confronta il suono con le sue risposte
+preciso, lo registri con l'app Pro-Stuk: confronta il suono con le sue risposte
 su quando e su che tipo di buche compare e mostra le cause probabili con un
 livello di urgenza. Con quell'elenco, la diagnosi sul ponte va più veloce.

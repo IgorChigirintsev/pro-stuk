@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een versleten dynamolager"
-metaTitle: "Versleten dynamolager: geluid en controles | Stuk"
+metaTitle: "Versleten dynamolager: geluid en controles | Pro-Stuk"
 description: "Hoe een versleten dynamolager klinkt, hoe u het zonder demontage controleert en hoe u het onderscheidt van rollen en de vrijlooppoelie."
 faq:
   - q: "Kan ik rijden met een brommend dynamolager?"

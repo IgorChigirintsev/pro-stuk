@@ -1,6 +1,6 @@
 ---
 title: "Rumori dopo il cambio pastiglie: cosa è normale"
-metaTitle: "Rumori dopo il cambio pastiglie: è normale? | Stuk"
+metaTitle: "Rumori dopo il cambio pastiglie: è normale? | Pro-Stuk"
 description: "Le pastiglie nuove quasi sempre fanno rumore per le prime centinaia di chilometri. Quali suoni sono rodaggio e quali indicano un errore di montaggio."
 faq:
   - q: "Per quanto tempo possono fare rumore le pastiglie nuove?"
@@ -111,7 +111,7 @@ officina invece di rodare —
 [si può guidare con i freni che raschiano](/it/articles/can-you-drive-with-grinding-brakes/).
 
 Per non stare a indovinare se il rumore rientra nella norma, lo registri
-con l'app Stuk il primo giorno dopo il cambio e di nuovo due settimane
+con l'app Pro-Stuk il primo giorno dopo il cambio e di nuovo due settimane
 dopo. Il confronto fra le due registrazioni mostra l'andamento meglio di
 qualsiasi impressione: il rumore di rodaggio in quel periodo cala in modo
 evidente, mentre un difetto resta dov'è o cresce.

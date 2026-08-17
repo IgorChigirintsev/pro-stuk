@@ -1,6 +1,6 @@
 ---
 title: "Batida na porta ao passar em buracos"
-metaTitle: "Batida na porta em buracos: o que checar | Stuk"
+metaTitle: "Batida na porta em buracos: o que checar | Pro-Stuk"
 description: "A porta bate em buracos: máquina do vidro, limitador, fechadura — ou a suspensão, afinal. Como localizar a origem em um único trajeto de teste."
 faq:
   - q: "Por que a batida na porta some se eu abaixo um pouco o vidro?"
@@ -96,7 +96,7 @@ procurar a origem na transmissão —
 [dá para rodar com o câmbio zumbindo](/pt/articles/can-you-drive-with-a-whining-gearbox/).
 
 A forma mais simples de resolver esse tipo de batida é comparando duas
-gravações. Comece a gravar no aplicativo Stuk e rode um trecho ruim que
+gravações. Comece a gravar no aplicativo Pro-Stuk e rode um trecho ruim que
 você conhece, primeiro com o vidro fechado e depois com ele um pouco
 abaixado. O app cruza as gravações com as suas respostas a algumas
 perguntas e mostra o que é mais provável — a porta, a carroceria ou a

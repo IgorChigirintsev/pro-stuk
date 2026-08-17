@@ -1,6 +1,6 @@
 ---
 title: "Hidrolik külbütörler nasıl kontrol edilir"
-metaTitle: "Hidrolik külbütörleri kulakla kontrol etmek | Stuk"
+metaTitle: "Hidrolik külbütörleri kulakla kontrol etmek | Pro-Stuk"
 description: "Tıkırtının kaynağının hidrolik külbütörler olduğu nasıl anlaşılır: soğuk ve sıcak testi, supap boşluğu ile enjektörden farkı ve ne yapmalı."
 faq:
   - q: "Isınınca tıkırtı geçiyor. Bu normal mi?"
@@ -96,7 +96,7 @@ kamları incelenmelidir — aylardır tıkırdayan bir külbütör kamda iz bır
 ve bunu sonradan öğrenmek pahalı yoldur.
 
 Gerçekten sessizleşip sessizleşmediğini tahmin etmemek için soğuk
-çalıştırmayı yağ değişiminden önce ve sonra Stuk uygulamasına kaydedin.
+çalıştırmayı yağ değişiminden önce ve sonra Pro-Stuk uygulamasına kaydedin.
 Uygulama sesi ayrıştırır, cevaplarınızla eşleştirir ve muhtemel sebepleri
 yüzdesiyle gösterir — yan yana iki kayıt da onarımın işe yarayıp
 yaramadığını dürüstçe söyler.

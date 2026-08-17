@@ -1,7 +1,7 @@
 ---
 ru: "keramika-katalizatora-rassypalas-zvuk"
 title: "A broken catalytic converter: the sound"
-metaTitle: "Broken catalytic converter: what it sounds like | Stuk"
+metaTitle: "Broken catalytic converter: what it sounds like | Pro-Stuk"
 description: "A pouring rustle under the floor and a rattle at idle — how a collapsed catalytic converter ceramic sounds, how to check it and what it risks for the engine."
 pubDate: "2026-06-08"
 related:
@@ -103,7 +103,7 @@ three you are being quoted and how the sensor will be handled. A quote
 that answers only “we will fix the noise” is worth a follow-up question.
 
 If you hear the rustle but are not sure it is coming from the exhaust,
-record it in the Stuk app on a rough road and when pulling away. The app
+record it in the Pro-Stuk app on a rough road and when pulling away. The app
 matches the recording with your answers to a few follow-up questions and
 shows the likely sources with percentages — which makes it easier to
 decide between going in urgently and booking a convenient day.

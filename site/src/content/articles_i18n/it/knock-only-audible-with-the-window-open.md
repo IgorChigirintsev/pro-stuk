@@ -1,6 +1,6 @@
 ---
 title: "Un colpo che si sente solo con il finestrino aperto"
-metaTitle: "Colpo udibile solo con il finestrino aperto | Stuk"
+metaTitle: "Colpo udibile solo con il finestrino aperto | Pro-Stuk"
 description: "Finestrino chiuso, silenzio; finestrino abbassato, un colpo netto. Perché succede, cosa dice sulla sorgente e come sfruttare l'effetto per la diagnosi."
 faq:
   - q: "Perché con il finestrino chiuso il colpo non si sente?"
@@ -112,7 +112,7 @@ all'indicatore molto prima di quanto il chilometraggio suggerisca.
 Un suono del genere è quasi impossibile da descrivere a parole al
 meccanico: in officina l'auto è ferma, i finestrini sono aperti e manca
 proprio la combinazione di velocità e curva. Registri quindi un passaggio
-con il finestrino abbassato usando l'app Stuk: analizza la registrazione, la
+con il finestrino abbassato usando l'app Pro-Stuk: analizza la registrazione, la
 confronta con le sue risposte su velocità e condizioni e mostra le cause
 probabili con le percentuali, lasciando all'officina uno spezzone concreto
 da ascoltare.

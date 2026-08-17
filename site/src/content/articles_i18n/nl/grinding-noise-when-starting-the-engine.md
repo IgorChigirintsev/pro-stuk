@@ -1,6 +1,6 @@
 ---
 title: "Knarsend geluid bij het starten van de motor"
-metaTitle: "Knarsen bij starten: startmotor, krans, ketting | Stuk"
+metaTitle: "Knarsen bij starten: startmotor, krans, ketting | Pro-Stuk"
 description: "Knarsen bij het starten van de motor: het startmotorrondsel, de krans van het vliegwiel, de distributieketting. Het moment van het geluid wijst de bron aan."
 faq:
   - q: "Waarom knarst het niet bij elke start?"

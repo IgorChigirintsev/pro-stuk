@@ -1,7 +1,7 @@
 ---
 ru: "prosevshie-pruzhiny-simptomy"
 title: "Sagging springs: the symptoms"
-metaTitle: "Sagging springs: symptoms, checks, replacement | Stuk"
+metaTitle: "Sagging springs: symptoms, checks, replacement | Pro-Stuk"
 description: "How to tell that springs have sagged: ride height measurements, how the car behaves, indirect signs. What sagging risks and what replacement involves."
 pubDate: "2026-07-13"
 related:
@@ -135,6 +135,6 @@ full picture of spring wear, see
 [signs of worn suspension springs](/en/articles/signs-of-worn-suspension-springs/).
 
 If the car has sagged and unexplained knocks have appeared with it, start
-with a recording in the Stuk app: it matches the sound with your answers
+with a recording in the Pro-Stuk app: it matches the sound with your answers
 about the car's behaviour and shows the likely causes with an urgency
 level — which makes it easier to decide what to replace first.

@@ -1,6 +1,6 @@
 ---
 title: "Hidrolik külbütör tıkırdarken araç kullanmaya devam ederseniz ne olur"
-metaTitle: "Hidrolik külbütör sesiyle yola devam | Stuk"
+metaTitle: "Hidrolik külbütör sesiyle yola devam | Pro-Stuk"
 description: "Tıkırdayan hidrolik külbütör motoru bir günde bitirmez ama eksantrik kamını ve supabı döver. Senaryolar, süreler ve önce nelere bakılacağı."
 faq:
   - q: "Motor ısınınca külbütör sesi kayboluyor. Bu normal mi?"
@@ -92,7 +92,7 @@ kendisini de ekler — ve o noktaya gelindiğinde motor genellikle güç de
 kaybetmiştir, çünkü aşınmış kam supabı tam açamaz.
 
 Tıkırtı yalnızca soğukta ortaya çıkıyorsa ve bunun normal sınırlar içinde
-olup olmadığını öğrenmek istiyorsanız, sesi Stuk uygulamasıyla çalıştırdıktan
+olup olmadığını öğrenmek istiyorsanız, sesi Pro-Stuk uygulamasıyla çalıştırdıktan
 hemen sonra ve beş dakika çalıştıktan sonra bir daha kaydedin. Uygulama iki
 kaydı, motor ve kilometre hakkındaki cevaplarınızla birlikte karşılaştırıp
 olası sebepleri yüzdesiyle gösterir.

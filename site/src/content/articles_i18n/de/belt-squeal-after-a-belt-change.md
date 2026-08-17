@@ -1,6 +1,6 @@
 ---
 title: "Quietschen nach dem Riemenwechsel: Ursachen"
-metaTitle: "Quietschen nach dem Riemenwechsel: was tun | Stuk"
+metaTitle: "Quietschen nach dem Riemenwechsel: was tun | Pro-Stuk"
 description: "Der Riemen wurde getauscht, das Quietschen blieb oder kam zurück: Spannungsfehler, Fluchtungsfehler, Rollen, Freilaufscheibe. Wie Sie die Ursache finden."
 faq:
   - q: "Ein neuer Riemen quietscht die ersten Tage — ist das normal?"

@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-krestoviny-kardana"
 title: "Signs of a worn propshaft universal joint"
-metaTitle: "Worn propshaft universal joint: the signs | Stuk"
+metaTitle: "Worn propshaft universal joint: the signs | Pro-Stuk"
 description: "A clunk when pulling away, vibration at speed, metallic ringing under the floor — how to read universal joint wear by stage and when to replace it."
 pubDate: "2026-07-27"
 related:
@@ -106,6 +106,6 @@ prevents most post-repair vibration.
 
 If the knock is still occasional and you want to know whether it really
 comes from under the floor rather than from the suspension, record it in
-the Stuk app at the moment of pulling away. The app matches the recording
+the Pro-Stuk app at the moment of pulling away. The app matches the recording
 with your answers to a few questions and shows the likely causes with
 percentages.

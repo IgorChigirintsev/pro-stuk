@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-neispravnosti-obgonnoj-mufty"
 title: "Signs of a failing alternator decoupler pulley"
-metaTitle: "Alternator decoupler pulley: signs of failure | Stuk"
+metaTitle: "Alternator decoupler pulley: signs of failure | Pro-Stuk"
 description: "Why an alternator needs a decoupler pulley and how its wear sounds: a whistle at startup, rattling after shutdown, belt vibration. Checks you can do yourself."
 pubDate: "2026-07-06"
 related:
@@ -122,6 +122,6 @@ Typical decoupler life is around 100,000 km, so its condition is always
 worth checking at a scheduled belt change.
 
 Not sure whether it is the decoupler, a bearing or the belt? Record the
-sound at startup and shutdown in the Stuk app — it matches the recording
+sound at startup and shutdown in the Pro-Stuk app — it matches the recording
 with typical fault sounds and shows the likely causes with an urgency
 level.

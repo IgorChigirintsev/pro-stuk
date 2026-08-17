@@ -1,6 +1,6 @@
 ---
 title: "Klop in het stuurhuis: afstellen of vervangen"
-metaTitle: "Klop in het stuurhuis: afstellen of vervangen | Stuk"
+metaTitle: "Klop in het stuurhuis: afstellen of vervangen | Pro-Stuk"
 description: "Wanneer een kloppend stuurhuis nog simpel is af te stellen en wanneer revisie of vervanging nodig is: de criteria en het risico van te strak zetten."
 faq:
   - q: "Hoe lang houdt een afstelling van het stuurhuis het uit?"

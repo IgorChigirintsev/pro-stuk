@@ -1,6 +1,6 @@
 ---
 title: "Come capire che gli ammortizzatori sono finiti"
-metaTitle: "Come capire se gli ammortizzatori sono finiti | Stuk"
+metaTitle: "Come capire se gli ammortizzatori sono finiti | Pro-Stuk"
 description: "Scocca che ondeggia, colpi in fondo corsa sulle buche, spazi di frenata più lunghi e perdite d’olio: come valutare gli ammortizzatori senza banco prova."
 faq:
   - q: "La prova a dondolio funziona davvero?"
@@ -96,7 +96,7 @@ passaggio obbligato e non un extra, perché sostituire i montanti cambia la
 geometria.
 
 Se il dubbio è tra «la sospensione è stanca» e «si è rotto qualcosa di
-preciso», si registra nell’app Stuk un tratto con ondulazioni e buche.
+preciso», si registra nell’app Pro-Stuk un tratto con ondulazioni e buche.
 L’app mette in relazione il carattere degli urti con le risposte su come
 si comporta la scocca e mostra le cause probabili in percentuale: molto
 più preciso che provare a descrivere l’ondeggiamento a parole.

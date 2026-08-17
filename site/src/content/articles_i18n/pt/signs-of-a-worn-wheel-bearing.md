@@ -1,6 +1,6 @@
 ---
 title: "Sinais de rolamento de roda gasto"
-metaTitle: "Rolamento de roda gasto: som e testes | Stuk"
+metaTitle: "Rolamento de roda gasto: som e testes | Pro-Stuk"
 description: "Como soa um rolamento de roda gasto, como diferenciar do barulho dos pneus, quais testes você faz sozinho e o que define a troca."
 faq:
   - q: "Qual é o primeiro sinal de um rolamento de roda gasto?"
@@ -140,5 +140,5 @@ roda, maior a chance de danificar o alojamento e ter que trocar o cubo ou a
 manga inteira.
 
 Não tem certeza de que é o rolamento zumbindo? Grave o som no aplicativo
-Stuk — ele cruza a gravação com as suas respostas e mostra as causas
+Pro-Stuk — ele cruza a gravação com as suas respostas e mostra as causas
 prováveis com porcentagens e um nível de urgência.

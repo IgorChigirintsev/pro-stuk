@@ -1,6 +1,6 @@
 ---
 title: "Turbo ıslığı: normal mi, arıza mı"
-metaTitle: "Turbo ıslığı: normal mi, arıza mı | Stuk"
+metaTitle: "Turbo ıslığı: normal mi, arıza mı | Pro-Stuk"
 description: "Turbonun ıslığı ne zaman fabrika çıkışı normal sestir, ne zaman kaçak ya da aşınma habercisidir: kayış cıyaklamasından nasıl ayrılır ve önce neye bakılır."
 faq:
   - q: "Turbo hep ıslık çalar mı, yoksa bu arıza belirtisi mi?"
@@ -103,7 +103,7 @@ hava filtresiyle sürmek de aynı gruptadır. Yüklü bir sürüşten sonra kapa
 biçimde uzatır.
 
 Turbonun sesi değiştiyse ve ne kadar değiştiğini kulakla söylemeye hazır
-değilseniz, Stuk uygulamasında iki kayıt alın: yük altında hızlanma ve
+değilseniz, Pro-Stuk uygulamasında iki kayıt alın: yük altında hızlanma ve
 sıcak rölanti. Uygulama ikisini karşılaştırır ve olası sebepleri
 yüzdeleriyle gösterir; böylece serviste konuşma genel bir «ıslık çalıyor»
 ile değil, somut bir çalışma koşuluyla başlar.

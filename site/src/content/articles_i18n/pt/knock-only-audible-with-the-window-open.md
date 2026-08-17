@@ -1,6 +1,6 @@
 ---
 title: "Barulho que só se ouve com a janela aberta"
-metaTitle: "Barulho só ouvido com a janela aberta | Stuk"
+metaTitle: "Barulho só ouvido com a janela aberta | Pro-Stuk"
 description: "Janela fechada, silêncio; janela aberta, barulho nítido. Por que isso acontece, o que revela sobre a origem e como usar o efeito no diagnóstico."
 faq:
   - q: "Por que o barulho não se ouve com a janela fechada?"
@@ -110,6 +110,6 @@ quilometragem sugere, como está em
 Um som desses é quase impossível de transmitir ao mecânico em palavras: na
 baia da oficina o carro está parado, as janelas abertas, e falta justamente
 a combinação de velocidade e curva. Então grave uma passada com a janela
-aberta no aplicativo Stuk — ele analisa a gravação, cruza com as suas
+aberta no aplicativo Pro-Stuk — ele analisa a gravação, cruza com as suas
 respostas sobre velocidade e condições e mostra as causas prováveis com
 porcentagens, entregando à oficina um trecho concreto para escutar.

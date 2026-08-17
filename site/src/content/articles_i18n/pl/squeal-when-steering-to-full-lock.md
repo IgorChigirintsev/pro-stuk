@@ -1,6 +1,6 @@
 ---
 title: "Pisk przy skręcaniu kierownicy do oporu"
-metaTitle: "Pisk przy skręcaniu do oporu: przyczyny | Stuk"
+metaTitle: "Pisk przy skręcaniu do oporu: przyczyny | Pro-Stuk"
 description: "Dlaczego auto piszczy przy skręceniu kierownicy do oporu: pasek, pompa wspomagania albo niski poziom płynu. Kiedy to norma, a kiedy usterka."
 faq:
   - q: "Czy trzymanie kierownicy w skrajnym położeniu szkodzi?"
@@ -102,7 +102,7 @@ wody; zerwanie go w drodze oznacza rozładowany akumulator i ryzyko
 przegrzania, więc popękany pasek wymienia się, nie czekając na zerwanie —
 [czy można jeździć z piszczącym paskiem](/pl/articles/can-you-drive-with-a-squealing-belt/).
 
-Nie masz pewności, czy to pasek, czy pompa? Nagraj pisk w aplikacji Stuk:
+Nie masz pewności, czy to pasek, czy pompa? Nagraj pisk w aplikacji Pro-Stuk:
 zrób nagranie przy kierownicy skręconej do oporu, odpowiedz na kilka
 pytań — aplikacja zestawi dźwięk z typowymi profilami usterek i pokaże
 prawdopodobne przyczyny wraz z poziomem pilności.

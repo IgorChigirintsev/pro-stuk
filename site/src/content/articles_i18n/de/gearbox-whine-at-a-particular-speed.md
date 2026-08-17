@@ -1,6 +1,6 @@
 ---
 title: "Getriebeheulen bei einer bestimmten Geschwindigkeit"
-metaTitle: "Getriebeheulen bei bestimmtem Tempo: Ursachen | Stuk"
+metaTitle: "Getriebeheulen bei bestimmtem Tempo: Ursachen | Pro-Stuk"
 description: "Ein Heulen, das in einem engen Geschwindigkeitsband auftritt und sich mit dem Gas ändert, kommt meist aus Getriebe oder Achsantrieb. Wie man es trennt."
 faq:
   - q: "Warum ist das Heulen nur bei 60–80 km/h hörbar und darüber weg?"

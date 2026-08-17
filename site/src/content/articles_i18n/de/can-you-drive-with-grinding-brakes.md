@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit schleifenden Bremsen fahren"
-metaTitle: "Mit schleifenden Bremsen fahren? | Stuk"
+metaTitle: "Mit schleifenden Bremsen fahren? | Pro-Stuk"
 description: "Metallisches Schleifen beim Bremsen heißt: Der Belag ist weg und Metall frisst die Scheibe. Wie weit Sie fahren dürfen und was Sie unterlassen sollten."
 faq:
   - q: "Wie viele Kilometer kann ich mit schleifenden Bremsen fahren?"

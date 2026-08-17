@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con la catena di distribuzione allungata"
-metaTitle: "Si può guidare con la catena allungata? | Stuk"
+metaTitle: "Si può guidare con la catena allungata? | Pro-Stuk"
 description: "Cosa rischia una catena di distribuzione allungata, quando è accettabile arrivare in officina da soli, quando serve il carro attrezzi e cosa costa rimandare."
 faq:
   - q: "Quanto posso guidare con la catena di distribuzione allungata?"
@@ -146,7 +146,7 @@ riparazione: una catena consumata non si riprende e non diventa più
 economica con il tempo.
 
 Se non è sicura che a fare rumore sia la catena, registri il motore con
-l'app Stuk: confronta la registrazione con le sue risposte a qualche
+l'app Pro-Stuk: confronta la registrazione con le sue risposte a qualche
 domanda e mostra le cause probabili con una valutazione di urgenza. Così è
 più facile decidere tra andare in officina guidando e chiamare subito il
 carro attrezzi.

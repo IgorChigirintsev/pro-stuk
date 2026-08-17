@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-shlitsov-privoda"
 title: "Signs of worn driveshaft splines"
-metaTitle: "Worn driveshaft splines: how to tell | Stuk"
+metaTitle: "Worn driveshaft splines: how to tell | Pro-Stuk"
 description: "A click as you swap throttle and brake, a knock when pulling away and axle play: how to recognise worn driveshaft splines and tell them from a CV joint."
 pubDate: "2026-06-05"
 related:
@@ -108,7 +108,7 @@ clearance. A distinct double knock with a jolt is a reason to go to a
 workshop this week.
 
 If the sound is occasional and you are not sure it repeats specifically as
-the drive changes, record a couple of pull-aways in the Stuk app. It
+the drive changes, record a couple of pull-aways in the Pro-Stuk app. It
 matches the sound with the description of the regime and shows the likely
 causes with percentages — and helps you explain to the mechanic exactly
 when it happens.

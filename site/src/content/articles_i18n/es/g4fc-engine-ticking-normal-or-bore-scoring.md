@@ -1,6 +1,6 @@
 ---
 title: "Tableteo del G4FC en Solaris y Rio: ¿normal o rayaduras?"
-metaTitle: "Tableteo del G4FC: ¿normal o rayaduras? | Stuk"
+metaTitle: "Tableteo del G4FC: ¿normal o rayaduras? | Pro-Stuk"
 description: "El G4FC tabletea a ralentí: dónde acaba el castañeteo normal de los inyectores y empieza un sonido preocupante. Cómo separar lo normal de las rayaduras."
 faq:
   - q: "¿Es normal que un G4FC tabletee?"
@@ -103,7 +103,7 @@ entre comprobaciones anotado; las impresiones no valen nada. Y una inspección
 con endoscopio es barata comparada con todo lo que descarta, así que pida las
 fotografías de los cilindros en lugar de un veredicto verbal.
 
-La aplicación Stuk ayuda con el primer paso: grabe el tableteo con el motor
+La aplicación Pro-Stuk ayuda con el primer paso: grabe el tableteo con el motor
 frío y con el motor caliente, responda unas cuantas preguntas sobre la carga y
 el consumo de aceite, y obtenga una lista de causas probables con porcentajes.
 No sustituye a una prueba de compresión, pero ahorra pánico innecesario y

@@ -1,6 +1,6 @@
 ---
 title: "Een klap bij het opkomen van de koppeling"
-metaTitle: "Klap bij opkomen van de koppeling: oorzaken | Stuk"
+metaTitle: "Klap bij opkomen van de koppeling: oorzaken | Pro-Stuk"
 description: "Een klap bij het opkomen van het koppelingspedaal komt van de demper in de plaat, het vliegwiel, de motorsteunen of de aandrijfassen. Zo houdt u ze uit elkaar."
 faq:
   - q: "Betekent een klap bij het opkomen van het pedaal meteen een nieuwe koppeling?"

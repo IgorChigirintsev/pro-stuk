@@ -1,6 +1,6 @@
 ---
 title: "Sprzęgło kompresora klimatyzacji: dźwięki awarii"
-metaTitle: "Sprzęgło kompresora klimatyzacji: dźwięki | Stuk"
+metaTitle: "Sprzęgło kompresora klimatyzacji: dźwięki | Pro-Stuk"
 description: "Terkot, wycie albo zgrzyt pojawiający się dokładnie w chwili włączenia klimatyzacji — jak brzmi zużyte sprzęgło elektromagnetyczne i co sprawdza warsztat."
 faq:
   - q: "Jak rozpoznać, że to sprzęgło, a nie sam kompresor?"
@@ -98,7 +98,7 @@ nieszczelności oznacza, że nowy pracuje w tych samych warunkach, które
 zabiły stary.
 
 Jeśli dźwięk pojawia się tylko w upale i nie da się go odtworzyć w
-warsztacie, proszę nagrać go w aplikacji Stuk — najpierw przy wyłączonej
+warsztacie, proszę nagrać go w aplikacji Pro-Stuk — najpierw przy wyłączonej
 klimatyzacji, a zaraz potem po jej włączeniu. Aplikacja zestawi oba
 nagrania z Pana odpowiedziami i pokaże, co jest bardziej prawdopodobne:
 sprzęgło, rolka osprzętu czy sam kompresor.

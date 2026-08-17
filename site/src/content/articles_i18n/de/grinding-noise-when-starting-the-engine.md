@@ -1,6 +1,6 @@
 ---
 title: "Schleifen beim Starten des Motors"
-metaTitle: "Schleifen beim Start: Anlasser, Zahnkranz | Stuk"
+metaTitle: "Schleifen beim Start: Anlasser, Zahnkranz | Pro-Stuk"
 description: "Schleifen beim Starten des Motors: Anlasserritzel, Schwungradzahnkranz, Steuerkette. Wie Sie die Quelle am Zeitpunkt des Geräuschs finden."
 faq:
   - q: "Warum tritt das Schleifen nicht bei jedem Start auf?"

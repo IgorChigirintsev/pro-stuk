@@ -1,6 +1,6 @@
 ---
 title: "Tümseklerde araç altından metalik şangırtı"
-metaTitle: "Tümseklerde araç altından metalik şangırtı | Stuk"
+metaTitle: "Tümseklerde araç altından metalik şangırtı | Pro-Stuk"
 description: "Tümseklerde alttan gelen metalik şangırtı: alt koruma sacı, ısı kalkanı, egzoz ya da viraj demiri rotları. Kaynağı beş dakikada nasıl bulursunuz."
 faq:
   - q: "Şangırtı neden sadece tümseklerde var, düz yolda yok?"
@@ -110,7 +110,7 @@ bırakılmamalı: gevşek bir alt sac hızda kopabilir, sallanan bir susturucu
 da kalan askılarını söküp borunun üzerinde asılı kalır.
 
 Sesin şangırtı mı tak mı olduğundan emin değil misiniz? Temsil edici bir
-yol parçasında Stuk uygulamasıyla kaydedin — algoritma kaydı verdiğiniz
+yol parçasında Pro-Stuk uygulamasıyla kaydedin — algoritma kaydı verdiğiniz
 yanıtlarla eşleştirip olası kaynakları aciliyet seviyesiyle gösterir.
 Çoğu zaman sonuç zaten alt sacı işaret eder ve servise içiniz rahat
 gidersiniz.

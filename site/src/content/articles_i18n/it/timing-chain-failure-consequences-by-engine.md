@@ -1,6 +1,6 @@
 ---
 title: "Rottura della catena di distribuzione: conseguenze per tipo di motore"
-metaTitle: "Catena di distribuzione rotta: conseguenze | Stuk"
+metaTitle: "Catena di distribuzione rotta: conseguenze | Pro-Stuk"
 description: "Che cosa succede al motore quando la catena di distribuzione si rompe o salta, perché su certi motori basta una catena nuova e su altri serve rifare la testata."
 faq:
   - q: "Su tutti i motori la rottura della catena piega le valvole?"
@@ -105,6 +105,6 @@ spiegato in
 
 Se all'avviamento a freddo è comparso uno sferragliare e non è sicuro che
 sia la catena o qualcosa di innocuo, registri i primi cinque secondi di
-motore acceso nell'app Stuk. L'app incrocia la registrazione con le sue
+motore acceso nell'app Pro-Stuk. L'app incrocia la registrazione con le sue
 risposte e mostra le cause probabili in percentuale: a questo stadio la
 differenza nella decisione si misura nel costo di un motore intero.

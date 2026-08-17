@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für eine verschlissene Kupplung"
-metaTitle: "Kupplung verschlissen: Tests und Reparatur | Stuk"
+metaTitle: "Kupplung verschlissen: Tests und Reparatur | Pro-Stuk"
 description: "Rutschen, Brandgeruch, hoher Schleifpunkt, Rucken — so erkennen Sie eine verschlissene Kupplung. Ein Test in einer Minute und die Stufen des Verschleißes."
 faq:
   - q: "Was ist das erste Anzeichen für Kupplungsverschleiß?"

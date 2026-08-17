@@ -1,6 +1,6 @@
 ---
 title: "Catena allungata su Nissan Almera e Qashqai: i sintomi"
-metaTitle: "Catena distribuzione Nissan allungata: sintomi | Stuk"
+metaTitle: "Catena distribuzione Nissan allungata: sintomi | Pro-Stuk"
 description: "Come suona una catena di distribuzione allungata su Almera e Qashqai, in cosa si distingue dagli altri battiti del motore e come si decide l'intervento."
 faq:
   - q: "Quanto dura la catena di distribuzione su questi motori?"
@@ -107,6 +107,6 @@ catena — quelle fonti sono spiegate in
 [fischio della cinghia servizi: le cause](/it/articles/alternator-belt-squeal-causes/).
 
 Se non è chiaro a quale stadio sia il suo caso, registri il rumore con
-l'app Stuk all'avviamento a freddo e una seconda volta a motore caldo.
+l'app Pro-Stuk all'avviamento a freddo e una seconda volta a motore caldo.
 L'app confronta le registrazioni con le sue risposte e mostra le cause
 probabili in percentuale: un buon modo per capire se ha ancora margine.

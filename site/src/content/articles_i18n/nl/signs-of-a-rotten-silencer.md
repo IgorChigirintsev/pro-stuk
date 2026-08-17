@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een doorgeroeste uitlaatdemper"
-metaTitle: "Doorgeroeste uitlaatdemper: de tekenen | Stuk"
+metaTitle: "Doorgeroeste uitlaatdemper: de tekenen | Pro-Stuk"
 description: "De auto is luider geworden, gerommel en geplof van onder de vloer, uitlaatgassen in de auto — de tekenen van een doorgeroeste demper en de reparatie."
 faq:
   - q: "Kost een doorgeroeste demper vermogen?"

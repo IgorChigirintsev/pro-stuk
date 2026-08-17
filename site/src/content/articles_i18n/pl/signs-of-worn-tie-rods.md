@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych drążków kierowniczych"
-metaTitle: "Zużyte drążki kierownicze: stuk, luz | Stuk"
+metaTitle: "Zużyte drążki kierownicze: stuk, luz | Pro-Stuk"
 description: "Jak rozpoznać zużyte drążki kierownicze: stukanie na drobnych nierównościach, luz na kierownicy, ściąganie auta. Testy własnymi siłami i przebieg naprawy."
 faq:
   - q: "Czym różni się drążek kierowniczy od końcówki drążka?"
@@ -31,7 +31,7 @@ naprawa.
 |---|---|---|
 | Wczesny | Sporadyczny miękki stuk na drobnych nierównościach | Obserwować, sprawdzić przy przeglądzie |
 | Środkowy | Stały grzechot na tarce, lekki luz na kierownicy | Diagnostyka w ciągu paru tygodni |
-| Późny | Stuk na każdej nierówności, ściąganie, pływanie na wprost | Wymiana bez zwłoki |
+| Późny | Pro-Stuk na każdej nierówności, ściąganie, pływanie na wprost | Wymiana bez zwłoki |
 | Krytyczny | Duży luz kierownicy, auto pływa po pasie | Przestać jeździć |
 
 Pierwszy alarm jest prawie zawsze słyszalny: drobny grzechot na
@@ -66,7 +66,7 @@ pod dłonią oznaczają luz w przegubie wewnętrznym. Potem przenieś dłoń na
 końcówkę drążka: to rozdziela dwie części, które często się myli.
 
 Drugi test wykonuje się z uniesionym kołem. Chwyć koło w położeniach
-godziny dziewiątej i trzeciej i pokołysz nim do siebie i od siebie. Stuk
+godziny dziewiątej i trzeciej i pokołysz nim do siebie i od siebie. Pro-Stuk
 z wyczuwalnym luzem wskazuje na przeguby kierownicze — drążek albo
 końcówkę; luz przy godzinie szóstej i dwunastej to inna historia, piasta
 albo sworzeń wahacza. Szczegółową procedurę opisuje
@@ -108,7 +108,7 @@ trasie. Osobnym ryzykiem jest rozdarty mieszek: woda i pył zabijają nawet
 diagnostyki podwozia.
 
 Jeśli stuk w układzie kierowniczym słychać, ale rozpoznanie jest
-niejasne, nagraj dźwięk w aplikacji Stuk na reprezentatywnym odcinku
+niejasne, nagraj dźwięk w aplikacji Pro-Stuk na reprezentatywnym odcinku
 drogi. Aplikacja zestawia nagranie z Twoimi odpowiedziami i pokazuje
 prawdopodobne przyczyny wraz z poziomem pilności — do warsztatu
 przyjeżdżasz z gotową hipotezą.

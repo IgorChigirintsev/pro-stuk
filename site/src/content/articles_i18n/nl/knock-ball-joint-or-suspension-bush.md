@@ -1,6 +1,6 @@
 ---
 title: "Klop: fuseekogel of draagarmrubber — zo herkent u het"
-metaTitle: "Klop: fuseekogel of draagarmrubber? | Stuk"
+metaTitle: "Klop: fuseekogel of draagarmrubber? | Pro-Stuk"
 description: "Klop in het onderstel over oneffenheden: zo onderscheidt u een versleten fuseekogel van een versleten draagarmrubber, met tests en een brugcontrole."
 faq:
   - q: "Hoe verschilt een kloppende fuseekogel op het gehoor van een kloppend draagarmrubber?"

@@ -1,6 +1,6 @@
 ---
 title: "Signes d'une crémaillère de direction défectueuse"
-metaTitle: "Crémaillère défectueuse : tous les signes | Stuk"
+metaTitle: "Crémaillère défectueuse : tous les signes | Pro-Stuk"
 description: "Claquement, jeu, direction qui accroche, fuites et sifflement de pompe : les signes d'une crémaillère défectueuse, comment la contrôler et quand un réglage suffit encore."
 faq:
   - q: "La crémaillère suinte, puis-je me contenter de faire l'appoint ?"
@@ -117,7 +117,7 @@ directement de la sécurité : un volant qui tourne par crans gêne une manœuvr
 précise au moment critique.
 
 Si vous n'avez pour l'instant que le bruit et que vous doutez de la
-crémaillère, enregistrez le claquement dans l'application Stuk sur un tronçon
+crémaillère, enregistrez le claquement dans l'application Pro-Stuk sur un tronçon
 de route représentatif. L'application croise l'enregistrement avec vos
 réponses et affiche les causes probables avec des pourcentages : avec cette
 hypothèse, le diagnostic au garage prend moins de temps.

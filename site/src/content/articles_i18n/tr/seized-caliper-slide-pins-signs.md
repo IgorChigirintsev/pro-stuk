@@ -1,6 +1,6 @@
 ---
 title: "Kaliper kızak pimlerinin sıkışma belirtileri"
-metaTitle: "Kaliper kızak pimi sıkışması: belirtileri | Stuk"
+metaTitle: "Kaliper kızak pimi sıkışması: belirtileri | Pro-Stuk"
 description: "Bir tekerleğin ısınması, frende yana çekme, tek taraflı balata aşınması: kaliper kızak pimlerinin sıkıştığı nasıl anlaşılır, serviste ne yapılır."
 faq:
   - q: "Kaliperin sıkışıp sıkışmadığını hızlıca nasıl kontrol ederim?"
@@ -98,7 +98,7 @@ yerlerde bu alışkanlık kendini en hızlı amorti eder — pim korozyonu
 kilometreyle değil, yırtılan bir körükle başlar.
 
 Araç serbest yuvarlanmıyormuş gibi geliyorsa ve bir tekerlekten ses
-duyuyorsanız, boşta yuvarlanırken ve hafif fren altında sesi Stuk
+duyuyorsanız, boşta yuvarlanırken ve hafif fren altında sesi Pro-Stuk
 uygulamasına kaydedin. Uygulama kaydı, sıcaklık ve çekme hakkındaki
 yanıtlarınızla eşleştirir ve önce neyin kontrol ettirilmesi gerektiğini
 önerir — fren mekanizması mı, yoksa yürüyen aksam mı.

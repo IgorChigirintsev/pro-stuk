@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van krassen in de cilinders"
-metaTitle: "Krassen in de cilinders: geluid en kenmerken | Stuk"
+metaTitle: "Krassen in de cilinders: geluid en kenmerken | Pro-Stuk"
 description: "Vijf kenmerken van krassen in de cilinders: koude klop, olieverbruik, vermogensverlies. Welke motoren risico lopen en hoe de diagnose wordt bevestigd."
 faq:
   - q: "Hoe worden krassen definitief bevestigd?"

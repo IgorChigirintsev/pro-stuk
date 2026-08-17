@@ -1,6 +1,6 @@
 ---
 title: "Batida ao soltar a embreagem"
-metaTitle: "Batida ao soltar a embreagem: causas | Stuk"
+metaTitle: "Batida ao soltar a embreagem: causas | Pro-Stuk"
 description: "A batida quando o pedal da embreagem sobe vem do amortecedor do disco, do volante, dos coxins e das juntas. Como distinguir cada uma delas."
 faq:
   - q: "Batida quando o pedal sobe significa embreagem nova?"
@@ -94,6 +94,6 @@ do virabrequim e, no caso de volante bimassa, a medição que decide se ele
 fica.
 
 Se a batida ainda é ocasional e você não tem certeza de onde vem, grave ela
-no aplicativo Stuk duas vezes: acelerando seco em ponto morto e saindo do
+no aplicativo Pro-Stuk duas vezes: acelerando seco em ponto morto e saindo do
 lugar. O app compara as gravações com as suas respostas e mostra as causas
 prováveis com porcentagens.

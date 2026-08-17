@@ -1,6 +1,6 @@
 ---
 title: "No que dá rodar com amortecedores acabados"
-metaTitle: "Rodar com amortecedores acabados: consequências | Stuk"
+metaTitle: "Rodar com amortecedores acabados: consequências | Pro-Stuk"
 description: "Amortecedor acabado alonga a frenagem, destrói a suspensão e come pneu. O que quebra em seguida, como perceber a tempo e o que entra no reparo."
 faq:
   - q: "Quanto amortecedor acabado piora a distância de frenagem?"
@@ -100,7 +100,7 @@ jeito na frente e de outro atrás, e isso é mais difícil de conviver do que
 o jogo cansado do qual você partiu.
 
 Se você não tem certeza se a suspensão está batendo ou se isso é
-simplesmente normal no seu carro, grave o som no aplicativo Stuk num trecho
+simplesmente normal no seu carro, grave o som no aplicativo Pro-Stuk num trecho
 ruim que você conhece. O app cruza a gravação com as suas respostas e
 mostra as causas prováveis com porcentagens — em geral o bastante para
 decidir entre buscar diagnóstico agora ou esperar a próxima revisão.

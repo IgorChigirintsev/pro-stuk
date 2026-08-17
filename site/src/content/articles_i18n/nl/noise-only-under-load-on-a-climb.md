@@ -1,6 +1,6 @@
 ---
 title: "Een geluid dat alleen onder belasting bergop opkomt"
-metaTitle: "Geluid alleen bergop onder belasting: oorzaken | Stuk"
+metaTitle: "Geluid alleen bergop onder belasting: oorzaken | Pro-Stuk"
 description: "Waarom een vreemd geluid alleen bergop onder gas hoorbaar is, welke onderdelen zich zo gedragen en hoe u riem, homokineet en pingelen uit elkaar houdt."
 faq:
   - q: "Waarom verdwijnt het geluid zodra ik het gas loslaat?"

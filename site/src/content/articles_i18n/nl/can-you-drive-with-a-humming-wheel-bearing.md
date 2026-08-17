@@ -1,6 +1,6 @@
 ---
 title: "Kunt u rijden met een brommend wiellager"
-metaTitle: "Rijden met een brommend wiellager? | Stuk"
+metaTitle: "Rijden met een brommend wiellager? | Pro-Stuk"
 description: "Hoe ver u kunt rijden met een brommend wiellager, wat elk slijtagestadium riskeert, hoe u onderweg het risico verkleint en hoe de reparatie wordt bepaald."
 faq:
   - q: "Hoeveel kilometer kan ik rijden met een brommend lager?"

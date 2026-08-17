@@ -1,6 +1,6 @@
 ---
 title: "Sadece cam açıkken duyulan tıkırtı"
-metaTitle: "Sadece cam açıkken duyulan tıkırtı | Stuk"
+metaTitle: "Sadece cam açıkken duyulan tıkırtı | Pro-Stuk"
 description: "Cam kapalıyken sessizlik, cam açıkken net bir tıkırtı. Bu neden olur, kaynak hakkında ne söyler ve bu etki teşhiste nasıl kullanılır."
 faq:
   - q: "Tıkırtı cam kapalıyken neden duyulmuyor?"
@@ -109,7 +109,7 @@ yazısında.
 
 Böyle bir sesi ustaya kelimelerle anlatmak neredeyse imkânsızdır: serviste
 araç durur, camlar açıktır ve hız ile viraj bileşimi ortada yoktur. O
-yüzden cam açıkken bir turu Stuk uygulamasında kaydedin; uygulama kaydı
+yüzden cam açıkken bir turu Pro-Stuk uygulamasında kaydedin; uygulama kaydı
 analiz eder, hız ve koşullarla ilgili cevaplarınızla eşleştirir ve olası
 sebepleri yüzdeyle gösterir. Böylece servise dinletecek somut bir kayıtla
 gidersiniz.

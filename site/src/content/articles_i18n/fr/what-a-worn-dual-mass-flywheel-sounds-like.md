@@ -1,6 +1,6 @@
 ---
 title: "Le bruit d'un volant bimasse usé"
-metaTitle: "Volant bimasse usé : quel bruit ça fait ? | Stuk"
+metaTitle: "Volant bimasse usé : quel bruit ça fait ? | Pro-Stuk"
 description: "Claquement au démarrage et à la coupure, cliquetis au ralenti, vibrations au démarrage : comment sonne un volant bimasse usé et avec quoi on le confond."
 faq:
   - q: "Pourquoi un volant bimasse est-il le plus bruyant quand on coupe le moteur ?"
@@ -107,6 +107,6 @@ L'habitude de garder un régime un peu plus haut et de rétrograder avant
 que le moteur ne commence à peiner nettement épargne l'amortisseur.
 
 Si vous voulez savoir si le son est bien lié au démarrage et à l'arrêt,
-enregistrez les deux moments dans l'application Stuk. Elle recoupe le
+enregistrez les deux moments dans l'application Pro-Stuk. Elle recoupe le
 caractère du son avec le régime dans lequel il est apparu et affiche les
 causes probables avec leur pourcentage.

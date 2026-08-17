@@ -1,6 +1,6 @@
 ---
 title: "Ruido por debajo: escape o cubrecárter"
-metaTitle: "Ruido por debajo: ¿escape o cubrecárter? | Stuk"
+metaTitle: "Ruido por debajo: ¿escape o cubrecárter? | Pro-Stuk"
 description: "Un traqueteo metálico desde abajo sale casi siempre del escape o del cubrecárter. Cómo separarlos de oído y con las manos en diez minutos, sin elevador."
 faq:
   - q: "¿Cómo distingo rápido el cubrecárter del escape?"
@@ -98,7 +98,7 @@ de sospechosos se traslada a los accesorios; por dónde empezar está en
 [zumbido bajo el capó: ¿alternador o bomba de agua?](/es/articles/alternator-or-water-pump-whine/).
 
 Si tras todas las comprobaciones sigue con dudas, grabe el sonido en la
-aplicación Stuk: primero al ralentí con un acelerón, luego circulando por
+aplicación Pro-Stuk: primero al ralentí con un acelerón, luego circulando por
 un tramo bacheado. La aplicación cruza las dos grabaciones con sus
 respuestas y muestra las causas probables con porcentajes, de modo que la
 conversación con el mecánico arranca desde una hipótesis concreta y no

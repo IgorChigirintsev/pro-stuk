@@ -1,6 +1,6 @@
 ---
 title: "Colpo in frenata: pastiglie o pinza"
-metaTitle: "Colpo in frenata: pastiglie o pinza | Stuk"
+metaTitle: "Colpo in frenata: pastiglie o pinza | Pro-Stuk"
 description: "Un colpo quando si preme il pedale arriva sia dalle pastiglie che si spostano sia da una pinza lasca. Come distinguerli dal carattere del suono."
 faq:
   - q: "Perché il colpo si sente solo alla prima frenata?"
@@ -95,7 +95,7 @@ una vite che si allenta è esattamente la variante di questo guasto che
 conta.
 
 I colpi dei freni raramente si riproducono a comando in officina. Registri
-il suono con l'app Stuk due volte: alla prima frenata dopo la partenza e
+il suono con l'app Pro-Stuk due volte: alla prima frenata dopo la partenza e
 durante una frenata dolce da 60 km/h. Dalla differenza tra le
 registrazioni l'app mostra le cause probabili in percentuale e suggerisce
 quale pezzo far guardare per primo.

@@ -1,6 +1,6 @@
 ---
 title: "Objawy stukania zaworów"
-metaTitle: "Stukanie zaworów: jak brzmi i co robić | Stuk"
+metaTitle: "Stukanie zaworów: jak brzmi i co robić | Pro-Stuk"
 description: "Jak brzmi stukanie zaworów, dlaczego luzy zaworowe uciekają, czym różni się od innych odgłosów silnika i na czym polega regulacja luzów."
 faq:
   - q: "Jak brzmi stukanie zaworów?"
@@ -130,7 +130,7 @@ dobrze” do zaworów się nie stosuje: kontrola według harmonogramu jest
 tańsza niż każdy z tych scenariuszy.
 
 Jeśli silnik zaczął stukać, a chce Pan wiedzieć, czy to zawory,
-popychacze, czy wtryskiwacze, proszę nagrać dźwięk w aplikacji Stuk.
+popychacze, czy wtryskiwacze, proszę nagrać dźwięk w aplikacji Pro-Stuk.
 Zestawia ona nagranie z Pana odpowiedziami i pokazuje prawdopodobne
 przyczyny wraz z poziomem pilności — wygodny punkt wyjścia przed rozmową z
 mechanikiem.

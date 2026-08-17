@@ -1,6 +1,6 @@
 ---
 title: "Coifa da homocinética rasgada: quanto ainda dá para rodar"
-metaTitle: "Coifa rasgada: quanto dá para rodar? | Stuk"
+metaTitle: "Coifa rasgada: quanto dá para rodar? | Pro-Stuk"
 description: "A coifa rasgada não destrói a junta na hora, mas inicia uma contagem regressiva. Quantos quilômetros realmente restam, do que isso depende e o que sai mais barato."
 faq:
   - q: "Quanto um carro roda com a coifa da homocinética rasgada?"
@@ -97,6 +97,6 @@ depois que o estalo começou está em
 [dá para rodar com homocinética estalando](/pt/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 E se o som já apareceu e você quer saber se é a junta externa ou outra
-coisa, grave no aplicativo Stuk enquanto arranca com o volante no fim de
+coisa, grave no aplicativo Pro-Stuk enquanto arranca com o volante no fim de
 curso: o app cruza a gravação com suas respostas a algumas perguntas e
 mostra as causas prováveis com porcentagens.

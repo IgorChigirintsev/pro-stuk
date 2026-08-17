@@ -1,6 +1,6 @@
 ---
 title: "Les bruits qui imposent de s'arrêter immédiatement"
-metaTitle: "Bruits qui imposent de s'arrêter tout de suite | Stuk"
+metaTitle: "Bruits qui imposent de s'arrêter tout de suite | Pro-Stuk"
 description: "La plupart des bruits de voiture peuvent attendre le garage, mais quelques-uns imposent de couper le moteur. Les signaux, comment s'arrêter sans danger et quoi faire ensuite."
 faq:
   - q: "Comment savoir qu'un bruit impose de s'arrêter tout de suite ?"
@@ -103,7 +103,7 @@ ne presse : ce genre de chose se cherche tranquillement, voiture à l'arrêt,
 avec quelqu'un qui appuie sur les garnitures.
 
 Quand vous ne savez pas dans quelle catégorie ranger ce que vous avez
-entendu, enregistrez le bruit dans l'application Stuk avant de repartir.
+entendu, enregistrez le bruit dans l'application Pro-Stuk avant de repartir.
 L'application confronte l'enregistrement à vos réponses à quelques
 questions et affiche les causes probables en pourcentages — en général
 suffisant pour trancher entre repartir et attendre la dépanneuse.

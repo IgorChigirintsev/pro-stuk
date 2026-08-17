@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-stupichnogo-podshipnika"
 title: "Signs of a worn wheel bearing"
-metaTitle: "Worn wheel bearing: sound and tests | Stuk"
+metaTitle: "Worn wheel bearing: sound and tests | Pro-Stuk"
 description: "How a worn wheel bearing sounds, how to tell it from tyre noise, which tests you can do yourself and what decides the replacement."
 pubDate: "2026-08-02"
 related:
@@ -147,6 +147,6 @@ point reaching it: the longer a broken bearing runs, the higher the chance
 its seat is damaged and the hub or the whole knuckle has to be replaced
 instead.
 
-Not sure it is the bearing humming? Record the sound in the Stuk app — it
+Not sure it is the bearing humming? Record the sound in the Pro-Stuk app — it
 matches the recording with your answers and shows the likely causes with
 percentages and an urgency level.

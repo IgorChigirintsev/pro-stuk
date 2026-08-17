@@ -1,6 +1,6 @@
 ---
 title: "Crémaillère qui cogne : régler ou remplacer"
-metaTitle: "Crémaillère qui cogne : régler ou remplacer | Stuk"
+metaTitle: "Crémaillère qui cogne : régler ou remplacer | Pro-Stuk"
 description: "Quand une crémaillère qui cogne se rattrape par un simple réglage et quand il faut la refaire ou la remplacer : les critères et le risque de trop serrer."
 faq:
   - q: "Combien de temps tient un réglage de crémaillère ?"
@@ -109,7 +109,7 @@ La liste complète des symptômes du mécanisme lui-même est dans
 [les signes d'une crémaillère défaillante](/fr/articles/steering-rack-fault-signs/).
 
 Si la décision reste ouverte et que vous voulez un deuxième avis
-indépendant, enregistrez le bruit dans l'application Stuk sur une portion
+indépendant, enregistrez le bruit dans l'application Pro-Stuk sur une portion
 de route que vous savez dégradée. L'application recoupe le son avec vos
 réponses, montre les causes probables et le niveau d'urgence — et la
 conversation à l'atelier devient concrète.

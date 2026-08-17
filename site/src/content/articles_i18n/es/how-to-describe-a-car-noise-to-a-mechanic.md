@@ -1,6 +1,6 @@
 ---
 title: "Qué decirle al mecánico: cómo describir un ruido como es debido"
-metaTitle: "Cómo describir un ruido del coche a un mecánico | Stuk"
+metaTitle: "Cómo describir un ruido del coche a un mecánico | Pro-Stuk"
 description: "Cómo describir un ruido para que el mecánico lo entienda a la primera: las cinco cosas que importan, fórmulas que funcionan y errores habituales."
 faq:
   - q: "¿Debo nombrar la pieza que sospecho?"
@@ -107,7 +107,7 @@ honrada y más barata que una lista de trabajos especulativos. Cómo mantener
 esa conversación sin acabar pagando de más está en
 [cómo evitar que le vendan de más en un taller](/es/articles/avoiding-being-upsold-at-a-workshop/).
 
-Si montar todo esto sobre la marcha resulta incómodo, la aplicación Stuk hace
+Si montar todo esto sobre la marcha resulta incómodo, la aplicación Pro-Stuk hace
 exactamente estas preguntas por orden y junta las respuestas con la grabación
 en una sola ficha: carácter, ubicación, condiciones, a qué sigue, y las causas
 probables con porcentajes. Enseñarle esa ficha al mecánico basta: la

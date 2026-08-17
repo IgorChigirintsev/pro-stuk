@@ -1,6 +1,6 @@
 ---
-title: "Stuk zawieszenia w Havalu Jolion: co sprawdzić najpierw"
-metaTitle: "Stuk zawieszenia Haval Jolion: co sprawdzić najpierw | Stuk"
+title: "Pro-Stuk zawieszenia w Havalu Jolion: co sprawdzić najpierw"
+metaTitle: "Pro-Stuk zawieszenia Haval Jolion: co sprawdzić najpierw | Pro-Stuk"
 description: "Rozsądna kolejność sprawdzania stuku przedniego zawieszenia w Havalu Jolion: od łączników stabilizatora po górne mocowania i tuleje wahaczy."
 faq:
   - q: "Czy stuk zawieszenia w Jolionie to sprawa gwarancyjna?"
@@ -52,7 +52,7 @@ nierównościach.
 głuchy stuk na większych nierównościach i rozmytą kierownicę w koleinach.
 Naderwania gumy widać gołym okiem; ukryte zużycie sprawdza się łomem.
 
-**Amortyzatory i ich mocowania.** Stuk przy dobiciu, ślady oleju na
+**Amortyzatory i ich mocowania.** Pro-Stuk przy dobiciu, ślady oleju na
 korpusie, nadwozie kołyszące się dłużej niż jeden cykl po naciśnięciu —
 czym to grozi, opisuje
 [jazda z martwymi amortyzatorami](/pl/articles/driving-with-dead-shock-absorbers/).
@@ -67,9 +67,9 @@ jest naprawdę niebezpieczna:
 | Źródło | Kiedy słychać | Jak rozpoznać |
 |---|---|---|
 | Zewnętrzny przegub napędowy | Grzechot w ciasnym łuku pod gazem | Cisza na wprost, nie na nierównościach |
-| Końcówki drążków kierowniczych | Stuk przez kierownicę na drobnej tarce | Luz przy bujaniu kołem w poziomie |
+| Końcówki drążków kierowniczych | Pro-Stuk przez kierownicę na drobnej tarce | Luz przy bujaniu kołem w poziomie |
 | Osłona termiczna | Grzechot przy określonych obrotach | Idzie za obrotami, nie za drogą |
-| Bagaż, podnośnik | Stuk na każdej nierówności | Znika po opróżnieniu |
+| Bagaż, podnośnik | Pro-Stuk na każdej nierówności | Znika po opróżnieniu |
 | Plastiki kabiny, uszczelki | Skrzypienia na mrozie | Zmienia się przy dociśnięciu tapicerki |
 
 Pierwszy wiersz myli się z zawieszeniem najczęściej: klikanie przegubu
@@ -100,6 +100,6 @@ ryzach. Ogólną logikę diagnostyczną dla aut z tego segmentu opisuje
 Warto przyjechać z opisem, a nie z jednym słowem „stuka”: prędkość, rodzaj
 nierówności, auto zimne czy rozgrzane, pojedynczy stuk czy grzechot.
 Nagranie dźwięku i rozłożenie go na te warunki to właśnie robota aplikacji
-Stuk — zestawia nagranie z odpowiedziami na krótkie pytania i pokazuje
+Pro-Stuk — zestawia nagranie z odpowiedziami na krótkie pytania i pokazuje
 prawdopodobne przyczyny w procentach, dzięki czemu rozmowa w warsztacie
 zaczyna się od konkretów.

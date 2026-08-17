@@ -1,7 +1,7 @@
 ---
 ru: "svist-remen-ili-podshipnik-rolika"
 title: "A squeal: the belt or an idler bearing"
-metaTitle: "Squeal under the bonnet: belt or idler bearing | Stuk"
+metaTitle: "Squeal under the bonnet: belt or idler bearing | Pro-Stuk"
 description: "A squeal under the bonnet comes from both a slipping belt and a dying idler bearing. How to tell them apart by the conditions in which the sound appears."
 pubDate: "2026-06-12"
 related:
@@ -107,7 +107,7 @@ as covered in
 [squealing after a belt change](/en/articles/belt-squeal-after-a-belt-change/).
 
 A squeal under the bonnet is one of the sounds that record well on a
-phone. Make two recordings in the Stuk app: one at idle with no load, the
+phone. Make two recordings in the Pro-Stuk app: one at idle with no load, the
 other with the air conditioning and lights on. The app compares them and
 shows which version the picture leans towards — before you are standing at
 the service desk.

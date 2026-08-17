@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Vorderfahrwerk auf kleinen Unebenheiten"
-metaTitle: "Klopfen vorn auf kleinen Unebenheiten | Stuk"
+metaTitle: "Klopfen vorn auf kleinen Unebenheiten | Pro-Stuk"
 description: "Warum das Vorderfahrwerk gerade auf kleinen Unebenheiten klopft: Koppelstangen, Buchsen, Federbeinlager, Spurstangenköpfe. Wie Sie es selbst eingrenzen."
 faq:
   - q: "Warum klopft das Fahrwerk auf kleinen Unebenheiten und schweigt in großen Schlaglöchern?"

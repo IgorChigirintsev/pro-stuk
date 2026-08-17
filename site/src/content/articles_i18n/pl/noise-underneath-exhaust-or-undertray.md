@@ -1,6 +1,6 @@
 ---
 title: "Hałas spod auta: układ wydechowy czy osłona silnika"
-metaTitle: "Hałas z dołu: wydech czy osłona silnika | Stuk"
+metaTitle: "Hałas z dołu: wydech czy osłona silnika | Pro-Stuk"
 description: "Metaliczne grzechotanie z dołu pochodzi albo z układu wydechowego, albo z osłony silnika. Jak je rozdzielić na słuch i ręką w dziesięć minut."
 faq:
   - q: "Jak szybko odróżnić osłonę silnika od wydechu?"
@@ -94,7 +94,7 @@ przesuwa się na osprzęt — od czego tam zacząć, mówi
 [wycie spod maski: alternator czy pompa wody](/pl/articles/alternator-or-water-pump-whine/).
 
 Jeśli po wszystkich testach nadal nie ma pewności, warto nagrać dźwięk
-aplikacją Stuk — najpierw na biegu jałowym z dodaniem gazu, potem podczas
+aplikacją Pro-Stuk — najpierw na biegu jałowym z dodaniem gazu, potem podczas
 jazdy po nierównym odcinku. Aplikacja zestawia oba nagrania z odpowiedziami
 na pytania i pokazuje prawdopodobne przyczyny z procentami, dzięki czemu
 rozmowa z mechanikiem zaczyna się od konkretnej hipotezy, a nie od „coś tam

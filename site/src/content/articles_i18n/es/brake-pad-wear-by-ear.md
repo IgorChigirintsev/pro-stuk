@@ -1,6 +1,6 @@
 ---
 title: "Reconocer el desgaste de las pastillas de freno de oído"
-metaTitle: "Desgaste de pastillas de freno de oído | Stuk"
+metaTitle: "Desgaste de pastillas de freno de oído | Pro-Stuk"
 description: "Los sonidos de unas pastillas de freno gastadas: el pitido del testigo, chirridos, roce metálico. Cómo distinguirlos del zumbido de un rodamiento."
 faq:
   - q: "¿Por qué el pitido del testigo de desgaste desaparece al pisar el freno?"
@@ -138,6 +138,6 @@ si los discos pueden quedarse o hay que cambiarlos junto con las
 pastillas.
 
 Si un sonido de frenos es difícil de clasificar de oído, grábelo en la
-aplicación Stuk circulando despacio y haciendo un par de frenadas
+aplicación Pro-Stuk circulando despacio y haciendo un par de frenadas
 suaves. La aplicación cruza la grabación con sus respuestas y muestra las
 causas probables con porcentajes y un nivel de urgencia.

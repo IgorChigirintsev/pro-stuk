@@ -1,6 +1,6 @@
 ---
 title: "Batida na caixa de direção do Hyundai Solaris"
-metaTitle: "Batida na caixa de direção do Solaris: causas | Stuk"
+metaTitle: "Batida na caixa de direção do Solaris: causas | Pro-Stuk"
 description: "Por que aparece batida no volante do Hyundai Solaris em ondulações pequenas e como separar a caixa de direção dos terminais e das bieletas."
 faq:
   - q: "Regular a caixa resolve o problema de vez?"
@@ -99,7 +99,7 @@ e os pneus dianteiros gastam nas bordas em poucos milhares de
 quilômetros.
 
 Se a batida não aparece toda vez e a oficina não consegue reproduzir,
-grave o som no aplicativo Stuk rodando por ondulações finas. O aplicativo
+grave o som no aplicativo Pro-Stuk rodando por ondulações finas. O aplicativo
 compara a gravação com as suas respostas e mostra as causas prováveis em
 porcentagem — o que livra você de uma conversa do gênero «ah, meio que
 bate».

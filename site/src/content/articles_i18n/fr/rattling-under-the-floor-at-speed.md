@@ -1,6 +1,6 @@
 ---
 title: "Bruit de ferraille sous le plancher à vitesse"
-metaTitle: "Bruit de ferraille sous le plancher : que vérifier | Stuk"
+metaTitle: "Bruit de ferraille sous le plancher : que vérifier | Pro-Stuk"
 description: "Écrans thermiques, flexible, silentblocs d'échappement : pourquoi quelque chose vibre sous le plancher à vitesse, comment trouver la source et où ça mène si on laisse traîner."
 faq:
   - q: "Pourquoi le bruit n'apparaît-il qu'à une vitesse précise ?"
@@ -136,7 +136,7 @@ locale. Si la ligne est devenue plus sonore en même temps, voyez
 [pourquoi l'échappement est devenu plus bruyant](/fr/articles/exhaust-has-become-louder-causes/).
 
 Si vous ne trouvez toujours pas la source, enregistrez le bruit dans
-l'application Stuk exactement à la vitesse où il apparaît : l'application
+l'application Pro-Stuk exactement à la vitesse où il apparaît : l'application
 confronte l'enregistrement à vos réponses sur les conditions et affiche les
 causes probables avec un niveau d'urgence. Avec cette hypothèse en main, la
 recherche au garage prend des minutes plutôt qu'une heure.

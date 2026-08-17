@@ -1,6 +1,6 @@
 ---
 title: "Qué pasa si se sigue circulando con los taqués hidráulicos ruidosos"
-metaTitle: "Taqués hidráulicos ruidosos: seguir circulando | Stuk"
+metaTitle: "Taqués hidráulicos ruidosos: seguir circulando | Pro-Stuk"
 description: "Un taqué hidráulico que tabletea no destruye un motor en un día, pero martillea la leva y la válvula. Los escenarios, los plazos y qué comprobar primero."
 faq:
   - q: "El ruido de los taqués desaparece cuando el motor se calienta. ¿Es normal?"
@@ -103,7 +103,7 @@ suele haber perdido potencia también, porque una leva gastada ya no abre la
 válvula del todo.
 
 Si el tableteo solo aparece en frío y quiere saber si eso entra dentro de lo
-normal, grabe el sonido con la aplicación Stuk justo después de arrancar y de
+normal, grabe el sonido con la aplicación Pro-Stuk justo después de arrancar y de
 nuevo tras cinco minutos de funcionamiento. La aplicación compara las dos
 grabaciones con sus respuestas sobre el motor y su kilometraje y muestra las
 causas probables con porcentajes.

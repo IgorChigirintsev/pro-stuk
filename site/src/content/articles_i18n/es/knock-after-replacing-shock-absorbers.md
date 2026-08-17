@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo tras cambiar los amortiguadores"
-metaTitle: "Golpeteo tras cambiar los amortiguadores: causas | Stuk"
+metaTitle: "Golpeteo tras cambiar los amortiguadores: causas | Pro-Stuk"
 description: "Por qué apareció un golpeteo con los amortiguadores nuevos: errores de apriete, copelas y topes viejos, una pieza defectuosa. Cómo hallar la causa y quién paga."
 faq:
   - q: "¿Un golpeteo de unos amortiguadores nuevos puede asentarse y desaparecer?"
@@ -114,7 +114,7 @@ La conversación con un taller es más fácil cuando hay una orden de trabajo y
 un historial claro: qué se sustituyó y cuándo apareció el sonido.
 
 Para mantenerlo concreto, capture el propio golpeteo: grábelo con la
-aplicación Stuk en el mismo tramo de carretera donde mejor se oye. El
+aplicación Pro-Stuk en el mismo tramo de carretera donde mejor se oye. El
 algoritmo compara la grabación con sus respuestas y muestra las causas
 probables con un nivel de urgencia, y con una grabación le resulta más difícil
 a un taller decir «está todo bien».

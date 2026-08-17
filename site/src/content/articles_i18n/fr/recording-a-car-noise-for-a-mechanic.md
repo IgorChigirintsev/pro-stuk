@@ -1,6 +1,6 @@
 ---
 title: "Enregistrer un bruit de voiture pour le mécanicien"
-metaTitle: "Enregistrer un bruit de voiture pour le garage | Stuk"
+metaTitle: "Enregistrer un bruit de voiture pour le garage | Pro-Stuk"
 description: "Comment enregistrer un bruit de voiture au téléphone pour qu'il s'entende vraiment : où tenir l'appareil, quoi dire, quels régimes capturer et quoi éviter."
 faq:
   - q: "Pourquoi n'entend-on pas sur l'enregistrement ce qui est évident dans la voiture ?"
@@ -102,7 +102,7 @@ rouler au hasard. La méthode de recherche à domicile est décrite dans
 [trouver un claquement de suspension sans pont](/fr/articles/finding-a-suspension-knock-without-a-lift/).
 
 Si bricoler des réglages ne vous tente pas, l'enregistrement peut se faire
-dans l'application Stuk : elle propose les régimes, pose les questions sur
+dans l'application Pro-Stuk : elle propose les régimes, pose les questions sur
 les conditions et, après confrontation, affiche les causes probables en
 pourcentages. La fiche terminée avec l'enregistrement se montre facilement
 à un mécanicien — la conversation démarre directement au bon endroit.

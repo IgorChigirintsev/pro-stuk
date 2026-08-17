@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-vnutrennego-shrusa"
 title: "Signs of a worn inner CV joint"
-metaTitle: "Worn inner CV joint: how to recognise it | Stuk"
+metaTitle: "Worn inner CV joint: how to recognise it | Pro-Stuk"
 description: "An inner CV joint does not click in turns — it knocks under acceleration and vibrates. Its symptoms, how it differs from the outer joint and the repair."
 pubDate: "2026-07-26"
 related:
@@ -108,7 +108,7 @@ it starts clicking, the guidance in
 applies.
 
 If the knock is faint and it is unclear whether it is the driveshaft or
-the suspension, record it in the Stuk app twice: under throttle and
+the suspension, record it in the Pro-Stuk app twice: under throttle and
 coasting on the same stretch of road. The app compares the recordings,
 takes your answers about when exactly the sound appears into account and
 shows the likely causes with percentages.

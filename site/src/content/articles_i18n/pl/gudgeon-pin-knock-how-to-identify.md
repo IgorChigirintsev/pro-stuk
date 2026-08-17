@@ -1,6 +1,6 @@
 ---
-title: "Stuk sworzni tłokowych: jak go rozpoznać"
-metaTitle: "Stuk sworzni tłokowych: jak go rozpoznać | Stuk"
+title: "Pro-Stuk sworzni tłokowych: jak go rozpoznać"
+metaTitle: "Pro-Stuk sworzni tłokowych: jak go rozpoznać | Pro-Stuk"
 description: "Jak brzmi stuk sworznia tłokowego, czym różni się od spalania stukowego i hałasu zaworów, jakie testy go potwierdzają i na czym polega naprawa."
 faq:
   - q: "Czy „stuk sworzni” przy przyspieszaniu to naprawdę sworznie?"
@@ -55,7 +55,7 @@ których siła działająca na tłok zmienia kierunek.
 | Kiedy słychać | Puszczanie i dodawanie gazu, przygazowania | Przyspieszanie pod obciążeniem | Stale, wraz z obrotami |
 | Zależność od paliwa | Brak | Tak, liczba oktanowa | Brak |
 | Nagrzewanie | Prawie nie wpływa | Głośniej na ciepło | Ciszej na ciepło |
-| Odcięcie cylindra | Stuk się zmienia | Bez zmian | Bez zmian |
+| Odcięcie cylindra | Pro-Stuk się zmienia | Bez zmian | Bez zmian |
 
 Różnica względem spalania stukowego jest zasadnicza: zatankowanie paliwa o
 wyższej liczbie oktanowej nic nie zmienia przy stuku sworznia, a zwykle
@@ -112,5 +112,5 @@ granicach mówi
 [jazda ze stukającym silnikiem](/pl/articles/can-you-drive-with-engine-knock/).
 
 Jeśli nie ma pewności co do diagnozy — a przy stukach silnika nikt jej
-nigdy nie ma — nagraj dźwięk w aplikacji Stuk: zestawia ona nagranie z
+nigdy nie ma — nagraj dźwięk w aplikacji Pro-Stuk: zestawia ona nagranie z
 odpowiedziami o warunkach i pokazuje prawdopodobne przyczyny w procentach.

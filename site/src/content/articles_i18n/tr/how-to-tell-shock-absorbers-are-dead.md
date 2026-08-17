@@ -1,6 +1,6 @@
 ---
 title: "Amortisörlerin öldüğü nasıl anlaşılır"
-metaTitle: "Amortisör bitmiş mi: kontrol yolları | Stuk"
+metaTitle: "Amortisör bitmiş mi: kontrol yolları | Pro-Stuk"
 description: "Gövdenin sallanması, çukurda dibe vurma, uzayan fren mesafesi ve yağ sızıntısı: amortisörün durumu test cihazı olmadan birkaç dakikada nasıl anlaşılır."
 faq:
   - q: "Bastırma testi gerçekten işe yarar mı?"
@@ -97,7 +97,7 @@ takılır. Ve sonrasında rot balans seçenek değil, zorunlu bir adımdır;
 çünkü kule değişimi geometriyi değiştirir.
 
 «Süspansiyon yorulmuş» ile «somut bir şey kırılmış» arasında
-kalıyorsanız, dalgalı ve çukurlu bir yoldaki sürüşü Stuk uygulamasına
+kalıyorsanız, dalgalı ve çukurlu bir yoldaki sürüşü Pro-Stuk uygulamasına
 kaydedin. Uygulama darbelerin karakterini gövdenin nasıl davrandığına dair
 cevaplarınızla ilişkilendirir ve muhtemel sebepleri yüzdesiyle gösterir —
 sallanmayı kelimelerle anlatmaya çalışmaktan belirgin biçimde daha isabetli.

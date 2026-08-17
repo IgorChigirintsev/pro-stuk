@@ -2,7 +2,7 @@
 const Map<String, String> pl = {
   'hiwBody':
       '\n1. Pytania. Krótka ankieta zawęża możliwe przyczyny: kiedy słychać dźwięk, do czego jest podobny, od czego zależy. To główna podstawa oceny — mechanik zaczyna tak samo.\n\n2. Dźwięk. Nagranie trwające 15–30 sekund trafia na serwer. Algorytmy liczą widmo, rytm stuków i obroty, a model językowy zestawia to z Twoimi odpowiedziami i typowymi usterkami Twojego modelu.\n\n3. Raport. Prawdopodobne przyczyny z procentami, sygnalizacja pilności i wskazówki: co powiedzieć w warsztacie i co sprawdzisz sam.\n\nWynik to oszacowanie prawdopodobieństwa, a nie diagnoza. Dokładność zależy od jakości nagrania i szczerości odpowiedzi. Decyzję o naprawie podejmuje mechanik po oględzinach.',
-  'appName': 'Stuk',
+  'appName': 'Pro-Stuk',
   'appTagline': 'diagnoza po dźwięku',
   'carTitle': 'Jakim autem jeździsz?',
   'carSubtitle':
@@ -116,7 +116,7 @@ const Map<String, String> pl = {
   'histEmpty': 'Na razie pusto — pierwsza analiza pojawi się tutaj.',
   'histFull': 'analiza dźwięku',
   'histQuick': 'szybki werdykt',
-  'shareText': 'Analiza dźwięku — aplikacja „Stuk”, pro-stuk.com',
+  'shareText': 'Analiza dźwięku — aplikacja „Pro-Stuk”, pro-stuk.com',
   'langTitle': 'Język',
   'langHint':
       'Domyślnie język urządzenia. To, co nie jest jeszcze przetłumaczone, pokazujemy po rosyjsku.',

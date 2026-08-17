@@ -1,6 +1,6 @@
 ---
 title: "Jak samemu sprawdzić sworzeń wahacza"
-metaTitle: "Jak samemu sprawdzić sworzeń wahacza | Stuk"
+metaTitle: "Jak samemu sprawdzić sworzeń wahacza | Pro-Stuk"
 description: "Sprawdzanie sworznia wahacza krok po kroku: kołysanie autem, luz na godzinie 12 i 6 przy uniesionym kole, sztuczka z hamulcem i co znaczy pęknięta osłona."
 faq:
   - q: "Czy sworzeń da się sprawdzić bez podnośnika?"
@@ -136,6 +136,6 @@ Geometria po wymianie jest częścią roboty, a nie opcją, bo sworzeń wyznacza
 ustawienie kół.
 
 Jeśli po wszystkich testach nadal ma Pan wątpliwości — stuk jest, a winowajca
-nieoczywisty — proszę nagrać dźwięk w aplikacji Stuk. Dopasuje nagranie do
+nieoczywisty — proszę nagrać dźwięk w aplikacji Pro-Stuk. Dopasuje nagranie do
 Pana odpowiedzi o tym, kiedy i na jakich drogach pojawia się dźwięk, i
 pokaże prawdopodobne przyczyny wraz z poziomem pilności.

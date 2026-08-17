@@ -1,6 +1,6 @@
 ---
 title: "Motorda vuruntu varken araç kullanılır mı"
-metaTitle: "Motor vuruntusuyla gidilir mi: riskler | Stuk"
+metaTitle: "Motor vuruntusuyla gidilir mi: riskler | Pro-Stuk"
 description: "Hangi motor vuruntularıyla servise kadar gidilir, hangilerinde motoru durdurup çekici çağırmak gerekir. Yumuşak rejimin kuralları ve yapılmaması gerekenler."
 faq:
   - q: "Vuruntu hafifse servise kadar gidebilir miyim?"
@@ -129,7 +129,7 @@ ise
 yazısında anlatılıyor.
 
 Bir vuruntu duyuyor ama nereden geldiğinden emin olamıyorsanız, motoru
-çalışırken Stuk uygulamasında kaydedin. Uygulama kaydı tipik vuruntularla
+çalışırken Pro-Stuk uygulamasında kaydedin. Uygulama kaydı tipik vuruntularla
 eşleştirir, birkaç netleştirici soru sorar ve durumunuzun hangi bölgeye
 daha yakın olduğunu, servise ne kadar acil gerektiğini gösterir. Karar
 sizde kalır, ama elde bir referans noktasıyla vermek daha kolaydır.

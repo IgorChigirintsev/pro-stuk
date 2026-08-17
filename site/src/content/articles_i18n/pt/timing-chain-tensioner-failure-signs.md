@@ -1,6 +1,6 @@
 ---
 title: "Sinais de tensor da corrente de comando com defeito"
-metaTitle: "Tensor da corrente de comando: sinais de falha | Stuk"
+metaTitle: "Tensor da corrente de comando: sinais de falha | Pro-Stuk"
 description: "Como perceber que o tensor da corrente enfraqueceu: matraquear na partida fria, chiado em marcha lenta, batida na acelerada e o risco de pular dente."
 faq:
   - q: "Por que a corrente chocalha só na partida fria?"
@@ -101,6 +101,6 @@ engrenagens, porque a mão de obra é compartilhada e guia gasta destrói
 corrente nova rapidinho.
 
 O jeito mais fácil de mostrar o problema à oficina é pelo som. Grave uma
-partida fria no aplicativo Stuk — ele cruza a gravação com os sons típicos
+partida fria no aplicativo Pro-Stuk — ele cruza a gravação com os sons típicos
 de defeito, leva em conta as suas respostas e avalia com que urgência o
 mecânico é necessário.

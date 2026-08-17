@@ -1,7 +1,7 @@
 ---
 ru: "rychit-vyhlop-na-holodnuyu"
 title: "The exhaust roars when cold"
-metaTitle: "Exhaust roars when cold: causes and fixes | Stuk"
+metaTitle: "Exhaust roars when cold: causes and fixes | Pro-Stuk"
 description: "Why the exhaust roars after a cold start and quietens as it warms: manifold gasket, cracks, flex pipe. The checks and how the repair is decided."
 pubDate: "2026-07-16"
 related:
@@ -111,7 +111,7 @@ weather is always easier: the fasteners still undo rather than being cut
 off along with seized studs.
 
 If you are unsure where exactly the roar comes from, record a cold start
-in the Stuk app: it matches the recording with your answers about when the
+in the Pro-Stuk app: it matches the recording with your answers about when the
 sound appears and when it fades, and shows the likely causes with an
 urgency level — so you arrive at the workshop with a working theory rather
 than “something roars in the morning”.

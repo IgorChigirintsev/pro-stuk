@@ -1,6 +1,6 @@
 ---
 title: "Knirschen beim Einlegen eines Gangs"
-metaTitle: "Knirschen beim Gangeinlegen: Ursachen | Stuk"
+metaTitle: "Knirschen beim Gangeinlegen: Ursachen | Pro-Stuk"
 description: "Knirschen beim Einrücken eines Gangs kommt meist von Synchronringen oder einer nicht ganz trennenden Kupplung. Trennung am Verhalten des Schalthebels."
 faq:
   - q: "Es knirscht nur im zweiten Gang. Ist das der Synchronring?"

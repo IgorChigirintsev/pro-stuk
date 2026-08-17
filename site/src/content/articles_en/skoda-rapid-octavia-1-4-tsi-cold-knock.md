@@ -1,7 +1,7 @@
 ---
 ru: "stuk-na-holodnuyu-skoda-rapid-octavia-1-4-tsi"
 title: "Cold knock on a Škoda Rapid / Octavia 1.4 TSI"
-metaTitle: "Cold knock on Škoda Rapid and Octavia 1.4 TSI | Stuk"
+metaTitle: "Cold knock on Škoda Rapid and Octavia 1.4 TSI | Pro-Stuk"
 description: "Cold knocks on Škoda Rapid and Octavia with the 1.4 TSI: chain and tensioner, hydraulic lifters, accessories. How to tell them apart."
 pubDate: "2026-06-22"
 related:
@@ -107,7 +107,7 @@ expects.
 
 If the knock only appears at the first start of the day, it is hard to
 catch at a workshop — by the time you arrive the engine is warm. Record
-the sound in the Stuk app in the morning, in the first seconds after
+the sound in the Pro-Stuk app in the morning, in the first seconds after
 starting. The app matches the recording with your answers and shows the
 likely causes with percentages, giving the mechanic something to work
 with.

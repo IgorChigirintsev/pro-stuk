@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een defecte kettingspanner"
-metaTitle: "Kettingspanner distributie: kenmerken van defect | Stuk"
+metaTitle: "Kettingspanner distributie: kenmerken van defect | Pro-Stuk"
 description: "Hoe u merkt dat de kettingspanner verzwakt: gekletter bij koude start, geritsel stationair, een klop bij gas geven en het risico dat de ketting overslaat."
 faq:
   - q: "Waarom rammelt de ketting alleen bij een koude start?"

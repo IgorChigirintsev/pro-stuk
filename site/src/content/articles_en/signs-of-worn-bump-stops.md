@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-otbojnikov"
 title: "Signs of worn bump stops"
-metaTitle: "Worn bump stops: signs and replacement | Stuk"
+metaTitle: "Worn bump stops: signs and replacement | Pro-Stuk"
 description: "Dull thumps in potholes, crumbs in the strut tower, the suspension bottoming out: how to recognise worn bump stops and why they are replaced with dampers."
 pubDate: "2026-07-14"
 related:
@@ -128,7 +128,7 @@ compression, destroying itself within a season. Kits from the major damper
 manufacturers include a bump stop and a boot of the correct geometry.
 
 Not sure that the dull thumps in potholes really are the bump stops?
-Record the sound in the Stuk app: it matches the recording with your
+Record the sound in the Pro-Stuk app: it matches the recording with your
 answers about how the car behaves and shows the likely causes with
 percentages and an urgency level — so you arrive at the workshop with a
 working theory.

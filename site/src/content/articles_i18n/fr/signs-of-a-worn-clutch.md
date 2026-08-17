@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un embrayage usé"
-metaTitle: "Embrayage usé : les signes et les tests | Stuk"
+metaTitle: "Embrayage usé : les signes et les tests | Pro-Stuk"
 description: "Comment reconnaître l'usure d'un embrayage : patinage, odeur de brûlé, pédale haute, à-coups. Un test d'une minute, les stades d'usure et comment se décide le travail."
 faq:
   - q: "Quel est le premier signe d'usure d'un embrayage ?"
@@ -144,7 +144,7 @@ que du kit, la facture est d'un ordre ; une fois que la surchauffe a
 atteint le volant moteur, elle est d'un autre.
 
 Si vous n'êtes pas sûr que la vibration ou le bruit vienne bien de
-l'embrayage, enregistrez le son dans l'application Stuk : au ralenti,
+l'embrayage, enregistrez le son dans l'application Pro-Stuk : au ralenti,
 pédale enfoncée, puis au démarrage. L'application confronte les
 enregistrements à vos réponses et affiche les causes probables avec un
 degré d'urgence.

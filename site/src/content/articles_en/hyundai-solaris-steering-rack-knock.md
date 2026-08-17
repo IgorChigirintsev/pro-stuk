@@ -1,7 +1,7 @@
 ---
 ru: "stuk-rulevoj-rejki-hyundai-solaris"
 title: "Hyundai Solaris steering rack knock"
-metaTitle: "Hyundai Solaris steering rack knock: causes | Stuk"
+metaTitle: "Hyundai Solaris steering rack knock: causes | Pro-Stuk"
 description: "Why a knock appears in the wheel of a Hyundai Solaris on small bumps, and how to tell the rack from the track rod ends and anti-roll bar links."
 pubDate: "2026-06-23"
 related:
@@ -111,7 +111,7 @@ And any intervention in the steering ends with an alignment: skip it and
 the front tyres wear at the edges within a few thousand kilometres.
 
 If the knock does not appear every time and the workshop cannot reproduce
-it, record the sound in the Stuk app while driving over fine bumps. The
+it, record the sound in the Pro-Stuk app while driving over fine bumps. The
 app compares the recording with your answers and shows the likely causes
 with percentages — which saves you from a conversation in the "well, it
 sort of knocks" genre.

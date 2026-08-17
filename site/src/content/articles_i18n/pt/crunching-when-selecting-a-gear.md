@@ -1,6 +1,6 @@
 ---
 title: "Rangido ao engatar a marcha"
-metaTitle: "Rangido ao engatar a marcha: causas | Stuk"
+metaTitle: "Rangido ao engatar a marcha: causas | Pro-Stuk"
 description: "O rangido no momento em que a marcha entra costuma vir dos sincronizados ou de uma embreagem que não solta. Como separar pelo jeito que a alavanca reage."
 faq:
   - q: "Só range na segunda. É o sincronizado?"
@@ -93,6 +93,6 @@ reparo com calma. Se o rangido se espalhou por várias marchas e trocar
 ficou duro, leve o carro em poucos dias.
 
 Se quer saber o que está rangendo antes da visita, grave o som no
-aplicativo Stuk duas vezes: engatando a primeira com o carro parado e a
+aplicativo Pro-Stuk duas vezes: engatando a primeira com o carro parado e a
 marcha problemática rodando. O app cruza as gravações com as suas respostas
 e mostra as causas prováveis com porcentagens.

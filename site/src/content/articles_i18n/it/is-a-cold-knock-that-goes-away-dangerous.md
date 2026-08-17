@@ -1,6 +1,6 @@
 ---
 title: "Un battito a freddo che poi sparisce è pericoloso?"
-metaTitle: "Battito a freddo che sparisce: è pericoloso? | Stuk"
+metaTitle: "Battito a freddo che sparisce: è pericoloso? | Pro-Stuk"
 description: "Un battito all'avviamento a freddo che sparisce con il riscaldamento può essere innocuo o annunciare una riparazione costosa. Come distinguerli da durata e carattere."
 faq:
   - q: "Quanti secondi di battito all'avviamento a freddo sono normali?"
@@ -110,7 +110,7 @@ e
 [verificare il gioco del mozzo con la ruota sollevata](/it/articles/checking-wheel-bearing-play-with-the-wheel-raised/).
 
 Per seguire l'andamento senza affidarti alla memoria, registra una volta
-al mese i primi secondi dell'avviamento a freddo con l'app Stuk. L'app
+al mese i primi secondi dell'avviamento a freddo con l'app Pro-Stuk. L'app
 confronta la registrazione con le tue risposte e mostra le cause probabili
 in percentuale, e mettere a confronto le registrazioni risponde alla
 domanda principale: sta peggiorando o no?

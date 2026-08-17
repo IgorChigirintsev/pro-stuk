@@ -1,6 +1,6 @@
 ---
 title: "Sinais de rolete da correia gasto"
-metaTitle: "Rolete da correia gasto: sons e checagem | Stuk"
+metaTitle: "Rolete da correia gasto: sons e checagem | Pro-Stuk"
 description: "Assobio, zunido e chiado debaixo do capô em marcha lenta costumam vir dos roletes da correia. Como separar o rolete da correia e do alternador."
 faq:
   - q: "Qual é a diferença entre rolete e tensor?"
@@ -97,6 +97,6 @@ arrebentada está em
 [dá para andar com a correia chiando](/pt/articles/can-you-drive-with-a-squealing-belt/).
 
 Se quiser testar a sua teoria antes de ir à oficina, grave o som no
-aplicativo Stuk em marcha lenta e subindo o giro devagar: o app cruza a
+aplicativo Pro-Stuk em marcha lenta e subindo o giro devagar: o app cruza a
 gravação com as suas respostas a algumas perguntas e mostra as origens
 prováveis com porcentagens — junto com uma dica do que checar primeiro.

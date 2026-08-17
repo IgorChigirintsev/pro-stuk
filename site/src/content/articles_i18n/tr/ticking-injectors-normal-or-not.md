@@ -1,6 +1,6 @@
 ---
 title: "Enjektör tıkırtısı: normal mi, değil mi"
-metaTitle: "Enjektör tıkırtısı: normal mi, arıza mı | Stuk"
+metaTitle: "Enjektör tıkırtısı: normal mi, arıza mı | Pro-Stuk"
 description: "Enjektör tıkırtısı neden olur, ne zaman normaldir ve ne zaman arıza habercisidir. Hidrolik külbütör sesinden nasıl ayırt edilir."
 faq:
   - q: "Enjektörler neden sadece rölantide duyuluyor?"
@@ -109,7 +109,7 @@ buna dokunmaz. O ayrı bir iştir; yanlış işe para ödemeden önce bunu eleyi
 ya da doğrulayın.
 
 Tıkırtı şüphe uyandırıyorsa — yükseldiyse, düzeni bozulduysa, yanına
-titreşim eklendiyse — Stuk uygulamasında motoru rölantide kaydedin:
+titreşim eklendiyse — Pro-Stuk uygulamasında motoru rölantide kaydedin:
 algoritma sesi tipik profillerle ve verdiğiniz cevaplarla eşleştirir,
 normal enjektör çalışmasına mı benzediğini yoksa servise gitmek için sebep
 mi olduğunu gösterir.

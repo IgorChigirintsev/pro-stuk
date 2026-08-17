@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-vtulok-stabilizatora"
 title: "Signs of worn anti-roll bar bushes"
-metaTitle: "Worn anti-roll bar bushes: sound and checks | Stuk"
+metaTitle: "Worn anti-roll bar bushes: sound and checks | Pro-Stuk"
 description: "How worn anti-roll bar bushes sound, how they differ from the links, how to check them yourself and what the replacement involves."
 pubDate: "2026-07-13"
 related:
@@ -110,7 +110,7 @@ but its own mounting points, and replacing the bar is a different order of
 cost.
 
 Not sure it is the bushes knocking? Record the sound on a representative
-stretch in the Stuk app: the algorithm matches the recording with your
+stretch in the Pro-Stuk app: the algorithm matches the recording with your
 answers and shows the likely causes with percentages and an urgency
 level — so you arrive at the workshop with a working theory rather than a
 guess.

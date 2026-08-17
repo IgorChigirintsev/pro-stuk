@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Zahnriemenrollen"
-metaTitle: "Zahnriemenrollen verschlissen: Ton und Diagnose | Stuk"
+metaTitle: "Zahnriemenrollen verschlissen: Ton und Diagnose | Pro-Stuk"
 description: "Wie verschlissene Zahnriemenrollen klingen: Rascheln, Pfeifen und Summen hinter der Abdeckung. Was eine festgefressene Rolle riskiert und wie Sie sie abgrenzen."
 faq:
   - q: "Kann eine Rolle getauscht werden, ohne den Zahnriemen anzufassen?"

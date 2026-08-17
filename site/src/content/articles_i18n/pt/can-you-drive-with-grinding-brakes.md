@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com freio rangendo"
-metaTitle: "Dá para rodar com freio rangendo? | Stuk"
+metaTitle: "Dá para rodar com freio rangendo? | Pro-Stuk"
 description: "Rangido metálico ao frear significa que o material de atrito acabou e o metal está cortando o disco. Até onde dá para rodar e o que não fazer."
 faq:
   - q: "Quantos quilômetros dá para rodar com o freio rangendo?"
@@ -109,7 +109,7 @@ primeira opção para a segunda. Se o rangido começou numa sexta, sai mais
 barato passar o sábado na oficina do que rodar assim por um mês.
 
 Quando o som está lá mas não dá para saber se é o indicador de desgaste
-ou a base da pastilha, uma gravação ajuda: o aplicativo Stuk analisa as
+ou a base da pastilha, uma gravação ajuda: o aplicativo Pro-Stuk analisa as
 frequências, cruza com as suas respostas a algumas perguntas sobre
 quando o som aparece e mostra as causas prováveis com percentuais —
 incluindo uma avaliação de se o carro deve ou não ser dirigido antes de

@@ -1,7 +1,7 @@
 ---
 ru: "stuk-rejka-ili-nakonechniki"
 title: "A knock: steering rack or track rod ends"
-metaTitle: "Steering knock: rack or track rod ends | Stuk"
+metaTitle: "Steering knock: rack or track rod ends | Pro-Stuk"
 description: "A knock felt through the wheel over bumps comes from both the steering rack and the track rod ends. How to separate them with simple checks."
 pubDate: "2026-06-14"
 related:
@@ -108,7 +108,7 @@ expensive rack job is postponed indefinitely. Ask the mechanic to show you
 the play on each part rather than describe it.
 
 Steering knocks record well if you know where to look. Drive over a fine
-undulating surface and record the sound in the Stuk app, then make a
+undulating surface and record the sound in the Pro-Stuk app, then make a
 second recording in a car park while rocking the wheel. The app compares
 them and shows the likely causes with percentages — and suggests which
 plane of play to start checking.

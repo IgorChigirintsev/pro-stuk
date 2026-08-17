@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo tras una reparación de suspensión: ¿de quién es la culpa?"
-metaTitle: "Golpeteo tras una reparación de suspensión: ¿quién? | Stuk"
+metaTitle: "Golpeteo tras una reparación de suspensión: ¿quién? | Pro-Stuk"
 description: "Ha aparecido un golpeteo tras un trabajo de suspensión: ¿error de montaje, pieza defectuosa o una pieza vecina? Cómo separar las tres versiones con calma."
 faq:
   - q: "¿Es normal reapretar una suspensión tras una reparación?"
@@ -104,7 +104,7 @@ está en
 [cómo evitar que le vendan de más en un taller](/es/articles/avoiding-being-upsold-at-a-workshop/).
 
 El argumento más fuerte de esa conversación es el propio sonido. Grábelo con
-la aplicación Stuk en un tramo de carretera representativo: el algoritmo
+la aplicación Pro-Stuk en un tramo de carretera representativo: el algoritmo
 compara la grabación con sus respuestas y muestra los orígenes probables con
 un nivel de urgencia. Con ese resultado es más fácil tanto hablar con el
 taller como valorar cuánta prisa tiene en realidad.

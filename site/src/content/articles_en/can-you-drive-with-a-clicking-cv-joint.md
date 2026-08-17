@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-so-stuchashchim-shrusom"
 title: "Can you drive with a clicking CV joint"
-metaTitle: "Can you drive with a clicking CV joint? | Stuk"
+metaTitle: "Can you drive with a clicking CV joint? | Pro-Stuk"
 description: "CV joint clicking in turns is not an instant breakdown, but not something to live with for years. How much time you have and when you must not drive."
 pubDate: "2026-07-25"
 related:
@@ -101,7 +101,7 @@ CV joints use a specific molybdenum-based grease, and the wrong one
 shortens the life of an otherwise good repair.
 
 If the clicking is barely audible and it is hard to tell whether the stage
-is early or middle, record the sound in the Stuk app during a slow circle
+is early or middle, record the sound in the Pro-Stuk app during a slow circle
 at full lock. The app matches the recording with your answers to a few
 questions and shows how much the situation can wait and whether a tow
 truck should be planned.

@@ -1,6 +1,6 @@
 ---
 title: "Quanti chilometri dura un cuscinetto ruota dopo la comparsa del ronzio"
-metaTitle: "Quanto dura un cuscinetto ruota che ronza | Stuk"
+metaTitle: "Quanto dura un cuscinetto ruota che ronza | Pro-Stuk"
 description: "Dal primo ronzio del cuscinetto ruota al gioco pericoloso passano di solito migliaia di chilometri. Da cosa dipende il margine e quali segnali lo annullano."
 faq:
   - q: "Quanti chilometri si possono fare con un cuscinetto che ronza?"
@@ -98,7 +98,7 @@ mentre l’esempio più caro di suoni ignorati riguarda il motore e la
 catena di distribuzione.
 
 Se si vuole seguire l’andamento invece di tirare a indovinare, si registra
-il suono nell’app Stuk ogni due settimane sullo stesso tratto di strada e
+il suono nell’app Pro-Stuk ogni due settimane sullo stesso tratto di strada e
 alla stessa velocità. L’app confronta le registrazioni con le risposte
 date e mostra le cause probabili in percentuale; il confronto tra le
 registrazioni dice onestamente se la vettura è stabile o è già passata

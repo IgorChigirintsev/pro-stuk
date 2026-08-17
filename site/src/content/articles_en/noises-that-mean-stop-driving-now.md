@@ -1,7 +1,7 @@
 ---
 ru: "kakie-zvuki-trebuyut-nemedlennoj-ostanovki"
 title: "Noises that mean stop driving now"
-metaTitle: "Car noises that mean stop driving now | Stuk"
+metaTitle: "Car noises that mean stop driving now | Pro-Stuk"
 description: "Most car noises can wait for a workshop, but a few mean switch it off now. The signals, how to stop safely and what to do once you have."
 pubDate: "2026-07-31"
 related:
@@ -100,7 +100,7 @@ cabin, there is no hurry: things like that are found calmly, with the car
 parked and a helper pressing on trim panels.
 
 When you are unsure which category what you heard belongs to, record the
-sound in the Stuk app before moving off. The app matches the recording
+sound in the Pro-Stuk app before moving off. The app matches the recording
 with your answers to a few questions and shows the likely causes with
 percentages — usually enough to decide between driving on and waiting for
 a tow.

@@ -1,7 +1,7 @@
 ---
 ru: "skrip-tormozov-posle-dozhdya"
 title: "Brake squeal after rain: normal or not"
-metaTitle: "Brake squeal after rain: normal or not | Stuk"
+metaTitle: "Brake squeal after rain: normal or not | Pro-Stuk"
 description: "Why brakes squeal after rain and an overnight stand, when it is harmless rust on the discs and when it is a sign of worn pads."
 pubDate: "2026-08-02"
 related:
@@ -140,7 +140,7 @@ of a journey to dry the discs, and avoid leaving the handbrake on wet drum
 brakes for a long stand. It will not remove the morning squeal entirely —
 rust forms anyway — but the sound becomes quieter and shorter.
 
-If you are unsure how to classify the sound, record it in the Stuk app —
+If you are unsure how to classify the sound, record it in the Pro-Stuk app —
 best in the morning, at the first applications, when the squeal is
 loudest. The app matches the recording with your answers and shows the
 likely causes with an urgency rating.

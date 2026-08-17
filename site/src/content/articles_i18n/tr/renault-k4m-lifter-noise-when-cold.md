@@ -1,6 +1,6 @@
 ---
 title: "Renault K4M hidrolik külbütörleri: soğukta tıkırtı"
-metaTitle: "Renault K4M soğukta külbütör sesi: nedenleri | Stuk"
+metaTitle: "Renault K4M soğukta külbütör sesi: nedenleri | Pro-Stuk"
 description: "K4M motor soğuk çalıştırmada tıkırdıyor: hidrolik külbütörler nasıl çalışır, neden takırdar, yağ değişimi ne zaman yeter, ne zaman değişmeli."
 faq:
   - q: "Külbütörler neden yalnızca çalıştırmadan sonraki ilk saniyelerde tıkırdıyor?"
@@ -85,7 +85,7 @@ incelenir — aylardır tıkırdayan bir külbütör kamın üstünde iz bırak�
 bunu sonradan öğrenmek pahalı yoldur.
 
 Tıkırtınızın normal sınırlar içinde olup olmadığını değerlendirmek için
-sesi soğuk çalıştırmadan hemen sonra ve bir de sıcak motorda Stuk
+sesi soğuk çalıştırmadan hemen sonra ve bir de sıcak motorda Pro-Stuk
 uygulamasında kaydedin. Uygulama kayıtları kilometre ve son yağ
 değişimine dair cevaplarınızla karşılaştırır, muhtemel nedenleri
 yüzdelerle gösterir — üstüne şimdi servise mi gitmeli yoksa yağı değiştirip

@@ -1,6 +1,6 @@
 ---
 title: "Claquement d'axe de piston : comment l'identifier"
-metaTitle: "Claquement d'axe de piston : comment l'identifier | Stuk"
+metaTitle: "Claquement d'axe de piston : comment l'identifier | Pro-Stuk"
 description: "Comment sonne un claquement d'axe de piston, ce qui le distingue de la détonation et des soupapes, quels tests le confirment et ce que la réparation impose."
 faq:
   - q: "Le cliquetis à l'accélération, ce sont vraiment les axes de piston ?"
@@ -114,6 +114,6 @@ s'accélère, et chaque kilomètre en charge déplace la réparation vers sa
 version la plus lourde.
 
 Si vous n'êtes pas certain du diagnostic — et avec les claquements moteur,
-personne ne l'est jamais — enregistrez le son dans l'application Stuk :
+personne ne l'est jamais — enregistrez le son dans l'application Pro-Stuk :
 elle croise l'enregistrement avec vos réponses sur les conditions et
 affiche les causes probables avec leurs pourcentages.

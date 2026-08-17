@@ -1,6 +1,6 @@
 ---
 title: "Batida no motor só a frio: o quadro completo"
-metaTitle: "Batida no motor só a frio: o quadro completo | Stuk"
+metaTitle: "Batida no motor só a frio: o quadro completo | Pro-Stuk"
 description: "Por que o motor bate depois da partida e silencia ao aquecer: tuchos, saia do pistão, corrente, variador. Onde acaba o normal e começa o risco."
 faq:
   - q: "Por que a batida some exatamente quando o motor aquece?"
@@ -110,7 +110,7 @@ pedir para ver com os próprios olhos — é o achado que decide entre
 conserto e retífica.
 
 Para não ficar adivinhando por qual linha do orçamento começar, grave uma
-partida a frio no aplicativo Stuk — logo cedo, junto ao capô. Ele compara
+partida a frio no aplicativo Pro-Stuk — logo cedo, junto ao capô. Ele compara
 o som com as suas respostas sobre as condições e mostra as causas
 prováveis com percentuais e nível de urgência: com isso dá para ter uma
 conversa objetiva na oficina.

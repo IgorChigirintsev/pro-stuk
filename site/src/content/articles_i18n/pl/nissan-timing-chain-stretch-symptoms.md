@@ -1,6 +1,6 @@
 ---
 title: "Objawy rozciągniętego łańcucha rozrządu w Nissanie Almera i Qashqai"
-metaTitle: "Nissan: objawy rozciągnięcia łańcucha rozrządu | Stuk"
+metaTitle: "Nissan: objawy rozciągnięcia łańcucha rozrządu | Pro-Stuk"
 description: "Jak brzmi rozciągnięty łańcuch rozrządu w Almerze i Qashqaiu, czym różni się od innych stuków silnika i jak podejmuje się decyzję o naprawie."
 faq:
   - q: "Ile wytrzymuje łańcuch rozrządu w tych silnikach?"
@@ -102,7 +102,7 @@ wycie z przodu komory silnika nie mają nic wspólnego z łańcuchem — te
 [pisk paska alternatora: przyczyny](/pl/articles/alternator-belt-squeal-causes/).
 
 Jeśli nie wiadomo, na którym etapie jest dany przypadek, warto nagrać
-dźwięk aplikacją Stuk przy zimnym rozruchu i drugi raz na rozgrzanym
+dźwięk aplikacją Pro-Stuk przy zimnym rozruchu i drugi raz na rozgrzanym
 silniku. Aplikacja porównuje nagrania z odpowiedziami na pytania i pokazuje
 prawdopodobne przyczyny z procentami: dobry sposób, żeby ocenić, ile
 zostało czasu.

@@ -1,6 +1,6 @@
 ---
 title: "Wie lange ein Gleichlaufgelenk nach dem ersten Knacken hält"
-metaTitle: "Gleichlaufgelenk: Lebensdauer nach dem Knacken | Stuk"
+metaTitle: "Gleichlaufgelenk: Lebensdauer nach dem Knacken | Pro-Stuk"
 description: "Ehrliche Orientierung zur Lebensdauer eines Gleichlaufgelenks nach den ersten Klacks: wovon die Reserve abhängt, was den Ausfall beschleunigt und wann getauscht wird."
 faq:
   - q: "Kann ein Gleichlaufgelenk während der Fahrt fressen?"

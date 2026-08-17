@@ -1,6 +1,6 @@
 ---
 title: "Jak brzmi rozciągnięty łańcuch rozrządu"
-metaTitle: "Jak brzmi rozciągnięty łańcuch rozrządu | Stuk"
+metaTitle: "Jak brzmi rozciągnięty łańcuch rozrządu | Pro-Stuk"
 description: "Grzechot przy zimnym rozruchu, szelest zza pokrywy, zmiana przy puszczeniu gazu — jak rozpoznać rozciągnięty łańcuch rozrządu i odróżnić go od innych stuków."
 faq:
   - q: "Dlaczego łańcuch grzechocze najgłośniej w pierwszych sekundach po zimnym rozruchu?"
@@ -95,7 +95,7 @@ Jeszcze jedna obserwacja z praktyki: głód olejowy i wydłużane interwały
 obsługi przyspieszają zużycie łańcucha bardziej niż sam przebieg.
 
 Jeśli grzechot jest krótki i nie ma pewności, czy naprawdę go słychać,
-nagraj zimny rozruch w aplikacji Stuk — pierwsze pięć sekund od
+nagraj zimny rozruch w aplikacji Pro-Stuk — pierwsze pięć sekund od
 przekręcenia kluczyka. Aplikacja zestawia nagranie z odpowiedziami i
 pokazuje prawdopodobne przyczyny z procentami, dzięki czemu przyjeżdżasz z
 gotową wersją, a nie z ogólnym „coś grzechocze”.

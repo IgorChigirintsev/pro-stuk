@@ -1,6 +1,6 @@
 ---
 title: "Segni di usura del cuscinetto ruota"
-metaTitle: "Cuscinetto ruota consumato: suono e prove | Stuk"
+metaTitle: "Cuscinetto ruota consumato: suono e prove | Pro-Stuk"
 description: "Come suona un cuscinetto ruota consumato, come distinguerlo dal rumore delle gomme, quali prove può fare da solo e che cosa decide la sostituzione."
 faq:
   - q: "Qual è il primissimo segno di un cuscinetto ruota consumato?"
@@ -147,5 +147,5 @@ la probabilità che si rovini la sua sede e che si debba sostituire il
 mozzo o l'intero montante.
 
 Non è sicuro che a ronzare sia il cuscinetto? Registri il suono con l'app
-Stuk: confronta la registrazione con le sue risposte e mostra le cause
+Pro-Stuk: confronta la registrazione con le sue risposte e mostra le cause
 probabili con le percentuali e un livello di urgenza.

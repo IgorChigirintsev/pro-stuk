@@ -1,6 +1,6 @@
 ---
 title: "Ein Pfeifen: der Riemen oder ein Rollenlager"
-metaTitle: "Pfeifen unter der Haube: Riemen oder Rolle | Stuk"
+metaTitle: "Pfeifen unter der Haube: Riemen oder Rolle | Pro-Stuk"
 description: "Ein Pfeifen unter der Haube kommt sowohl von einem rutschenden Riemen als auch von einem sterbenden Rollenlager. So trennen Sie beide über die Bedingungen."
 faq:
   - q: "Warum pfeift der Riemen nur bei feuchtem Wetter?"

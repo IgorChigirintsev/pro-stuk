@@ -1,6 +1,6 @@
 ---
 title: "Catalizador roto: cómo suena"
-metaTitle: "Catalizador roto: a qué suena | Stuk"
+metaTitle: "Catalizador roto: a qué suena | Pro-Stuk"
 description: "Un susurro como de grava bajo el piso y un traqueteo al ralentí: así suena la cerámica del catalizador rota, cómo se comprueba y qué arriesga el motor."
 faq:
   - q: "¿Cómo suena un catalizador con la cerámica rota?"
@@ -105,7 +105,7 @@ presupuestando y qué se va a hacer con la sonda. Un presupuesto que solo
 responde «quitamos el ruido» merece una pregunta más.
 
 Si se oye el susurro pero no hay certeza de que venga del escape, se
-puede grabar con la aplicación Stuk en una carretera bacheada y al
+puede grabar con la aplicación Pro-Stuk en una carretera bacheada y al
 arrancar. La aplicación compara la grabación con las respuestas a unas
 pocas preguntas y muestra los orígenes probables con porcentajes, lo que
 facilita decidir entre ir al taller de urgencia o reservar un día

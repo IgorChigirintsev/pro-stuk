@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-stupichnyj-podshipnik-samomu"
 title: "How to check a wheel bearing yourself"
-metaTitle: "How to check a wheel bearing yourself | Stuk"
+metaTitle: "How to check a wheel bearing yourself | Pro-Stuk"
 description: "Five checks that identify a worn wheel bearing and its side without a lift: tests on the move, raising the wheel, checking play and hub temperature."
 pubDate: "2026-06-17"
 related:
@@ -101,6 +101,6 @@ the other side to be checked makes sense: if it is also near the end, you
 can plan the expense rather than meet it in a month.
 
 If the checks contradict each other — which happens often — record the hum
-in the Stuk app during the lane-change test. The app matches the recording
+in the Pro-Stuk app during the lane-change test. The app matches the recording
 with your answers and shows the likely causes with percentages, including
 which side to start the inspection from.

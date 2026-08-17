@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit knackendem Gleichlaufgelenk fahren"
-metaTitle: "Mit knackendem Gleichlaufgelenk fahren? | Stuk"
+metaTitle: "Mit knackendem Gleichlaufgelenk fahren? | Pro-Stuk"
 description: "Knacken des Gleichlaufgelenks in Kurven ist kein sofortiger Ausfall, aber nichts, womit man jahrelang lebt. Wie viel Zeit bleibt und wann Sie nicht fahren dürfen."
 faq:
   - q: "Wie viele Kilometer kann ich mit knackendem Gelenk fahren?"

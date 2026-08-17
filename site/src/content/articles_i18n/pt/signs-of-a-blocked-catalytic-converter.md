@@ -1,6 +1,6 @@
 ---
 title: "Sinais de catalisador entupido"
-metaTitle: "Sinais de catalisador entupido | Stuk"
+metaTitle: "Sinais de catalisador entupido | Pro-Stuk"
 description: "Um catalisador entupido sufoca o motor: o carro não acelera, morre sob carga, consome mais. Como separar isso de outras causas de perda de potência."
 faq:
   - q: "Um catalisador pode entupir de repente?"
@@ -104,7 +104,7 @@ Até que ponto ainda dá para rodar assim está em
 [dá para rodar com o catalisador quebrado](/pt/articles/can-you-drive-with-a-broken-catalytic-converter/).
 
 Se a potência está sumindo aos poucos e você não tem certeza de que a
-culpa é do escapamento, grave o motor e o escapamento no aplicativo Stuk —
+culpa é do escapamento, grave o motor e o escapamento no aplicativo Pro-Stuk —
 em marcha lenta e com uma acelerada brusca. O aplicativo cruza a gravação
 com sua descrição dos sintomas e mostra as causas prováveis em
 porcentagem, para você chegar com uma hipótese pronta em vez de «o carro

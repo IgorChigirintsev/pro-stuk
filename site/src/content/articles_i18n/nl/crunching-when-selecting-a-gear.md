@@ -1,6 +1,6 @@
 ---
 title: "Kraken bij het inschakelen van een versnelling"
-metaTitle: "Kraken bij schakelen: oorzaken en reparatie | Stuk"
+metaTitle: "Kraken bij schakelen: oorzaken en reparatie | Pro-Stuk"
 description: "Kraken op het moment dat een versnelling pakt komt meestal van de synchromeshringen of van een koppeling die niet vrijkomt. Zo onderscheidt u ze aan het gedrag van de pook."
 faq:
   - q: "Het kraakt alleen in de tweede. Is dat de synchromesh?"

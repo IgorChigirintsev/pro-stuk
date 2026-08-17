@@ -1,6 +1,6 @@
 ---
 title: "Tekeri havaya kaldırarak poyra boşluğunu kontrol etmek"
-metaTitle: "Teker havadayken poyra boşluğu kontrolü | Stuk"
+metaTitle: "Teker havadayken poyra boşluğu kontrolü | Pro-Stuk"
 description: "Tekeri güvenle nasıl kaldırıp boşluğa bakarsınız: saat 12-6 ve 3-9 tutuşları, rulmanı rotil ve direksiyondan ayırmak ve sonrasında ne yapmak gerekir."
 faq:
   - q: "Ne kadar teker boşluğu normal sayılır?"
@@ -97,6 +97,6 @@ değiştirir: elinizde belirli bir varsayımla gidersiniz ve lift üzerinde
 neyin doğrulanması gerektiğini bilirsiniz.
 
 Boşluk buldunuz ama hangi parçanın ürettiğini çıkaramıyorsanız, bozuk bir
-yol parçasında sesi Stuk uygulamasında kaydedin. Uygulama kaydı
+yol parçasında sesi Pro-Stuk uygulamasında kaydedin. Uygulama kaydı
 cevaplarınızla eşleştirir ve olası sebepleri yüzdelerle gösterir — faturaya
 eklenen fazladan kalemlere karşı işe yarar bir sigorta.

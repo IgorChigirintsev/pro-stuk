@@ -1,6 +1,6 @@
 ---
 title: "Un claquement au lever de pied"
-metaTitle: "Claquement au lever de pied : supports, transmission | Stuk"
+metaTitle: "Claquement au lever de pied : supports, transmission | Pro-Stuk"
 description: "Un claquement isolé quand vous relâchez l'accélérateur : supports moteur usés, jeux de transmission, chaîne, échappement. Comment localiser la source."
 faq:
   - q: "Pourquoi le claquement s'entend-il au lever de pied et non en permanence ?"
@@ -101,7 +101,7 @@ Ces cinq étapes suffisent généralement pour arriver au garage avec une
 théorie précise plutôt qu'avec « ça claque » — ce qui économise à la fois
 du temps de diagnostic et de l'argent.
 
-Réduire la liste plus vite, c'est à ça que sert l'application Stuk :
+Réduire la liste plus vite, c'est à ça que sert l'application Pro-Stuk :
 enregistrez le son au moment du lever de pied, répondez à quelques
 questions sur les conditions, et obtenez les causes probables avec leurs
 pourcentages et un niveau d'urgence.

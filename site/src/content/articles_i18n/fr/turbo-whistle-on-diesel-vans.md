@@ -1,6 +1,6 @@
 ---
 title: "Sifflement du turbo sur les utilitaires diesel : Sprinter, Transit"
-metaTitle: "Sifflement turbo sur Sprinter et Transit diesel | Stuk"
+metaTitle: "Sifflement turbo sur Sprinter et Transit diesel | Pro-Stuk"
 description: "Sifflement du turbo sur les utilitaires diesel Sprinter et Transit : où s'arrête le normal et où commencent une fuite d'air ou l'usure de l'arbre, et comment contrôler les durites."
 faq:
   - q: "Un turbo siffle toujours un peu : est-ce normal ?"
@@ -107,7 +107,7 @@ et
 [les signes d'un embrayage usé](/fr/articles/signs-of-a-worn-clutch/).
 
 Si vous n'êtes pas sûr que le son de votre turbo a changé, enregistrez-le
-dans l'application Stuk — en accélérant en charge, puis au ralenti.
+dans l'application Pro-Stuk — en accélérant en charge, puis au ralenti.
 L'application confronte les enregistrements à vos réponses et affiche les
 causes probables avec leur pourcentage ; et l'enregistrement lui-même est
 utile comme point de repère : dans un mois, vous aurez de quoi comparer.

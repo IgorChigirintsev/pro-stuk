@@ -1,6 +1,6 @@
 ---
 title: "Zatarcia cylindrów w Hyundaiu i Kii: jak brzmią"
-metaTitle: "Zatarcia cylindrów Hyundai/Kia: jak brzmią | Stuk"
+metaTitle: "Zatarcia cylindrów Hyundai/Kia: jak brzmią | Pro-Stuk"
 description: "Jak rozpoznać ze słuchu zatarcia cylindrów w silnikach Hyundai i Kia: charakter stukania, związek z nagrzaniem i obciążeniem oraz sposób potwierdzenia diagnozy."
 faq:
   - q: "Zatarcia stukają na zimno czy na ciepło?"
@@ -94,7 +94,7 @@ różnica między lekkimi śladami honowania a głębokimi rowkami decyduje o
 tym, czy się obserwuje, czy otwiera silnik — a na zdjęciu widać ją
 wyraźnie.
 
-Pierwszy krok wygodnie zrobić z aplikacją Stuk: nagrać dźwięk na zimnym i
+Pierwszy krok wygodnie zrobić z aplikacją Pro-Stuk: nagrać dźwięk na zimnym i
 ciepłym silniku, zaznaczyć, czy zmienia się pod obciążeniem, i odpowiedzieć
 na pytania o dolewki oleju. Aplikacja pokaże prawdopodobne przyczyny w
 procentach i podpowie, które pomiary warto zamówić w warsztacie w

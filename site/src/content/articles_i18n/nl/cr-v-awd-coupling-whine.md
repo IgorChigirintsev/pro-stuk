@@ -1,6 +1,6 @@
 ---
 title: "Brommende vierwielaandrijvingskoppeling van de CR-V"
-metaTitle: "CR-V: brommende AWD-koppeling en onderhoud | Stuk"
+metaTitle: "CR-V: brommende AWD-koppeling en onderhoud | Pro-Stuk"
 description: "Brommen uit de achterkoppeling van een CR-V in krappe bochten en bij lage snelheid: waarom de olie meestal de schuldige is en hoe u het van een wiellager onderscheidt."
 faq:
   - q: "Brommen bij het keren op een parkeerplaats — is dat de koppeling?"

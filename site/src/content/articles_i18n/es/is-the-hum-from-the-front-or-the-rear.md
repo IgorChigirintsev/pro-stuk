@@ -1,6 +1,6 @@
 ---
 title: "Averiguar de dónde viene un zumbido: delante o detrás"
-metaTitle: "¿De dónde viene el zumbido: eje delantero o trasero? | Stuk"
+metaTitle: "¿De dónde viene el zumbido: eje delantero o trasero? | Pro-Stuk"
 description: "Pruebas sencillas que identifican el eje y el lado de donde viene un zumbido: cambios de carril, punto muerto, intercambiar ruedas y un trayecto con acompañante."
 faq:
   - q: "¿Por qué un zumbido de detrás parece venir de delante?"
@@ -104,7 +104,7 @@ desgaste desigual —alineación o amortiguadores cansados, según
 porque un juego nuevo en un coche sin arreglar se gasta igual.
 
 Lo más sencillo es hacer las cuatro pruebas con una grabación en marcha en la
-aplicación Stuk: usted responde a preguntas sobre velocidad, lado y reacción
+aplicación Pro-Stuk: usted responde a preguntas sobre velocidad, lado y reacción
 al punto muerto, y la aplicación las compara con el sonido y muestra las
 causas probables con porcentajes, junto con qué rueda revisar primero. Cómo
 formular después el resultado para el mecánico está en

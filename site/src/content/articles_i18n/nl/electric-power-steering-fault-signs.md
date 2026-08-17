@@ -1,6 +1,6 @@
 ---
 title: "Signalen van een defecte elektrische stuurbekrachtiging"
-metaTitle: "Elektrische stuurbekrachtiging stuk: signalen | Stuk"
+metaTitle: "Elektrische stuurbekrachtiging stuk: signalen | Pro-Stuk"
 description: "Hoe u een storing in de elektrische stuurbekrachtiging herkent: zwaar sturen, ongelijke ondersteuning, het EPS-lampje, kloppen. Wat u zelf controleert voor de werkplaats."
 faq:
   - q: "Kan ik rijden als de elektrische stuurbekrachtiging niet werkt?"

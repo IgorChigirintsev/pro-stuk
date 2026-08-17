@@ -1,6 +1,6 @@
 ---
 title: "Un battito del motore che sparisce con il riscaldamento"
-metaTitle: "Battito che sparisce a motore caldo: cosa significa | Stuk"
+metaTitle: "Battito che sparisce a motore caldo: cosa significa | Pro-Stuk"
 description: "Perché il motore batte da freddo e tace una volta caldo: punterie idrauliche, slap dei pistoni, tenditore della catena. Dove finisce la normalità."
 faq:
   - q: "Un battito a freddo è sempre un guasto?"
@@ -140,7 +140,7 @@ catena, sfasamento degli alberi a camme, gioco delle punterie — e se la
 storia dell'olio spiega l'usura, perché un set di pezzi nuovi alimentato
 dallo stesso regime di manutenzione trascurato torna a ticchettare.
 
-Un'abitudine utile è registrare un avviamento a freddo con l'app Stuk e
+Un'abitudine utile è registrare un avviamento a freddo con l'app Pro-Stuk e
 ripetere la registrazione un mese dopo. L'app confronta il suono con le
 cause tipiche, mostra probabilità e urgenza, e il confronto fra le
 registrazioni fa vedere se il problema sta crescendo, senza pressioni e

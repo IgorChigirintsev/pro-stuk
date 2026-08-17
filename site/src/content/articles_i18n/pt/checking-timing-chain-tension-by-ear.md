@@ -1,6 +1,6 @@
 ---
 title: "Como checar a tensão da corrente de comando de ouvido"
-metaTitle: "Como ouvir a folga da corrente de comando | Stuk"
+metaTitle: "Como ouvir a folga da corrente de comando | Pro-Stuk"
 description: "Como ouvir uma corrente de comando alongada: em que condições ela se entrega, como diferenciar de tuchos e bicos e o que a partida a frio mostra."
 faq:
   - q: "Por que a corrente de comando é mais alta na partida a frio?"
@@ -95,7 +95,7 @@ Se o chacoalho já se ouve com o motor quente, não adie — corrente que
 pula, na maioria dos motores modernos, termina com os pistões encontrando
 as válvulas.
 
-Gravar uma partida a frio é mais fácil no aplicativo Stuk: comece a
+Gravar uma partida a frio é mais fácil no aplicativo Pro-Stuk: comece a
 gravação antes de girar a chave e segure o celular perto da grade do
 radiador. O app compara o som com as suas respostas sobre duração e
 condições e mostra as causas prováveis com percentuais — e a gravação

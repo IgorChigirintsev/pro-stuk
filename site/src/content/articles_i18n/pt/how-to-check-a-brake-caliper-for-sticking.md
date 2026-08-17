@@ -1,6 +1,6 @@
 ---
 title: "Como testar a pinça de freio quanto a travamento"
-metaTitle: "Como testar a pinça de freio travando | Stuk"
+metaTitle: "Como testar a pinça de freio travando | Pro-Stuk"
 description: "Sinais de pinça de freio travada: teste de rolagem livre, temperatura das rodas, o carro puxando na frenagem e o cheiro. E o que a oficina faz com isso."
 faq:
   - q: "Qual é a temperatura normal de um disco?"
@@ -106,7 +106,7 @@ para o cubo. Uma revisão da pinça sai mais barata que trocar disco,
 pastilhas e pinça juntos depois.
 
 Se junto com tudo isso apareceu um ruído novo e você quer registrá-lo
-antes da visita à oficina, comece uma gravação no aplicativo Stuk e faça
+antes da visita à oficina, comece uma gravação no aplicativo Pro-Stuk e faça
 uma volta de teste. O app cruza o som com as suas respostas sobre as
 condições e mostra as causas prováveis com percentuais — e a gravação fica
 com o mecânico, em vez de uma descrição falada.

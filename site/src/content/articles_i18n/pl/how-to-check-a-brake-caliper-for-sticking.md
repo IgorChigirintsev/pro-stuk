@@ -1,6 +1,6 @@
 ---
 title: "Jak sprawdzić zacisk hamulcowy pod kątem zapiekania"
-metaTitle: "Jak sprawdzić zacisk hamulcowy na zapiekanie | Stuk"
+metaTitle: "Jak sprawdzić zacisk hamulcowy na zapiekanie | Pro-Stuk"
 description: "Objawy zapieczonego zacisku hamulcowego: test toczenia na luzie, temperatura tarcz, ściąganie przy hamowaniu i zapach. Co z tym robi warsztat."
 faq:
   - q: "Jak gorąca może być tarcza w normie?"
@@ -99,7 +99,7 @@ ciepło idące w piastę szkodzi łożysku koła i uszczelnieniu. Regeneracja
 kosztuje mniej niż późniejsza wymiana tarczy, klocków i zacisku razem.
 
 Jeśli przy okazji pojawił się nowy dźwięk i chce go Pan uchwycić przed
-wizytą, proszę włączyć nagrywanie w aplikacji Stuk i przejechać próbne
+wizytą, proszę włączyć nagrywanie w aplikacji Pro-Stuk i przejechać próbne
 kółko. Aplikacja dopasuje dźwięk do Pana odpowiedzi o warunkach i pokaże
 prawdopodobne przyczyny z procentami — a nagranie zostaje u mechanika
 zamiast słownego opisu.

@@ -1,6 +1,6 @@
 ---
 title: "Yağ değişiminden sonra motorda tıkırtı"
-metaTitle: "Yağ değişiminden sonra motor tıkırtısı | Stuk"
+metaTitle: "Yağ değişiminden sonra motor tıkırtısı | Pro-Stuk"
 description: "Yağ değişiminden sonra motor neden tıkırdar: viskozite, seviye, filtre, iç yıkama. Ses ne zaman kendiliğinden geçer, ne zaman geri dönmek gerekir."
 faq:
   - q: "Yağ değişiminden sonra ilk saniyelerde motor tikliyor, normal mi?"
@@ -116,7 +116,7 @@ Baştan bir yağ değişimi daha yaptırmak bile, açıklanmamış bir tıkırt�
 gitmenin götüreceği herhangi bir tamirden ucuza gelir.
 
 Bunun değişimden önceki sesle aynı mı yoksa yeni bir ses mi olduğundan
-emin değilseniz motoru Stuk uygulamasında kaydedin ve birkaç gün sonra
+emin değilseniz motoru Pro-Stuk uygulamasında kaydedin ve birkaç gün sonra
 kaydı tekrarlayın. Uygulama sesi tipik sebeplerle eşleştirir, olasılıkları
 ve aciliyeti gösterir; kayıtları karşılaştırmak da gidişatı fark etmenize
 yardım eder.

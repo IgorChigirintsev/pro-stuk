@@ -1,6 +1,6 @@
 ---
 title: "Doorgezakte veren: de symptomen"
-metaTitle: "Doorgezakte veren: symptomen en controle | Stuk"
+metaTitle: "Doorgezakte veren: symptomen en controle | Pro-Stuk"
 description: "Zo herkent u doorgezakte veren: rijhoogte meten, gedrag van de auto en indirecte tekenen. Wat doorzakken kost en wat vervangen inhoudt."
 faq:
   - q: "Waarom zakken veren door?"

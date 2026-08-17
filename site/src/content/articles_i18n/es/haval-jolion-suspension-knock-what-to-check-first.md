@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de suspensión en el Haval Jolion: qué mirar primero"
-metaTitle: "Golpeteo de suspensión en el Haval Jolion: qué mirar | Stuk"
+metaTitle: "Golpeteo de suspensión en el Haval Jolion: qué mirar | Pro-Stuk"
 description: "Un orden sensato para revisar un golpeteo de la suspensión delantera en un Haval Jolion: de las bieletas a las copelas y los silentblocks de los brazos."
 faq:
   - q: "¿Un golpeteo de suspensión en un Jolion entra en garantía?"
@@ -109,6 +109,6 @@ y
 Ayuda llegar con una descripción en lugar de con la palabra suelta «golpea»:
 la velocidad, el tipo de bache, el coche frío o caliente, un golpe aislado o
 un castañeteo. Grabar el sonido y desglosarlo por esas condiciones es lo que
-hace la aplicación Stuk: compara la grabación con sus respuestas a preguntas
+hace la aplicación Pro-Stuk: compara la grabación con sus respuestas a preguntas
 cortas y muestra las causas probables con porcentajes, para que la
 conversación en el taller empiece por lo concreto.

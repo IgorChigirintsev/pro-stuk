@@ -1,6 +1,6 @@
 ---
 title: "Coxim do motor rompido: os sintomas"
-metaTitle: "Coxim do motor rompido: os sintomas | Stuk"
+metaTitle: "Coxim do motor rompido: os sintomas | Pro-Stuk"
 description: "Tranco ao sair, vibração em marcha lenta, pancada surda ao passar de D para R — como reconhecer um coxim do motor rompido e no que isso dá."
 faq:
   - q: "É perigoso rodar com o coxim do motor rompido?"
@@ -100,7 +100,7 @@ passar mais do que um par de meses, principalmente depois que a pancada ao
 engatar a marcha ficou nítida.
 
 Se você não tem certeza de onde vem o tranco — do cofre do motor ou de
-debaixo de uma roda — grave o momento da saída no aplicativo Stuk. Ele
+debaixo de uma roda — grave o momento da saída no aplicativo Pro-Stuk. Ele
 cruza a gravação com as suas respostas sobre o regime em que o som aparece
 e mostra as causas prováveis com percentuais, para a conversa na oficina
 começar a partir de uma teoria concreta.

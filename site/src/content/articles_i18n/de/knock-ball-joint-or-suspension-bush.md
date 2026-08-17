@@ -1,6 +1,6 @@
 ---
 title: "Klopfen: Traggelenk oder Buchse — wie man es erkennt"
-metaTitle: "Klopfen: Traggelenk oder Buchse unterscheiden | Stuk"
+metaTitle: "Klopfen: Traggelenk oder Buchse unterscheiden | Pro-Stuk"
 description: "Fahrwerksklopfen über Unebenheiten: wie Sie ein verschlissenes Traggelenk von einer verschlissenen Buchse am Klang, mit einfachen Tests und auf der Bühne trennen."
 faq:
   - q: "Wie unterscheidet sich ein Traggelenkklopfen nach Gehör von einem Buchsenklopfen?"

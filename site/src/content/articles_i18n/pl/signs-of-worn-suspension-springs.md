@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych sprężyn zawieszenia"
-metaTitle: "Zużyte sprężyny zawieszenia: jak sprawdzić | Stuk"
+metaTitle: "Zużyte sprężyny zawieszenia: jak sprawdzić | Pro-Stuk"
 description: "Osiadanie, przechyły, dobijanie na dziurach: jak poznać zmęczone sprężyny zawieszenia, jak je sprawdzić bez podnośnika i co daje wymiana."
 faq:
   - q: "Czy można wymienić tylko jedną sprężynę?"
@@ -124,7 +124,7 @@ drogach gruntowych, są wersje wzmocnione — dłużej trzymają wysokość,
 choć na drobnych nierównościach jeżdżą nieco twardziej.
 
 Jeśli nie masz pewności, czy to sprężyny, czy coś innego, nagraj hałas
-zawieszenia na nierównościach w aplikacji Stuk: zestawia ona nagranie z
+zawieszenia na nierównościach w aplikacji Pro-Stuk: zestawia ona nagranie z
 Twoimi odpowiedziami i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności — z taką listą rozmowa w warsztacie jest krótsza i bardziej
 konkretna.

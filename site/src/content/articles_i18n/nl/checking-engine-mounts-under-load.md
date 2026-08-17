@@ -1,6 +1,6 @@
 ---
 title: "Motorsteunen controleren onder belasting"
-metaTitle: "Motorsteunen controleren onder belasting | Stuk"
+metaTitle: "Motorsteunen controleren onder belasting | Pro-Stuk"
 description: "De belastingtest voor motorsteunen: versnellingen kiezen tegen de rem in, op welke beweging u let, en hoe u steunen van andere klopgeluiden onderscheidt."
 faq:
   - q: "Hoeveel mag de motor eigenlijk bewegen?"

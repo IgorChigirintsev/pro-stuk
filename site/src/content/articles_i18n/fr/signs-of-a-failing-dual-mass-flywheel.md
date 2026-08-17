@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un volant moteur bimasse fatigué"
-metaTitle: "Volant bimasse fatigué : les signes | Stuk"
+metaTitle: "Volant bimasse fatigué : les signes | Pro-Stuk"
 description: "Cliquetis au ralenti, bruit quand on enfonce l'embrayage, un coup sec à la coupure du contact : comment lire les symptômes d'un volant moteur bimasse usé."
 faq:
   - q: "À quoi sert vraiment un volant moteur bimasse ?"
@@ -100,6 +100,6 @@ supports, ratés d'allumage, butée d'embrayage.
 
 Si le cliquetis au ralenti est déjà audible et que vous voulez savoir à
 quelle famille il appartient, enregistrez-le deux fois dans
-l'application Stuk — pédale d'embrayage relâchée, puis enfoncée.
+l'application Pro-Stuk — pédale d'embrayage relâchée, puis enfoncée.
 L'application confronte les enregistrements à vos réponses à quelques
 questions et affiche les causes probables avec un pourcentage.

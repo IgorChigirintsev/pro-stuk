@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytej rolki prowadzącej paska"
-metaTitle: "Zużyta rolka paska: dźwięki i kontrola | Stuk"
+metaTitle: "Zużyta rolka paska: dźwięki i kontrola | Pro-Stuk"
 description: "Gwizd, wycie i szelest spod maski na biegu jałowym często pochodzą z rolek paska osprzętu. Jak odróżnić rolkę od paska i od alternatora."
 faq:
   - q: "Czym różni się rolka prowadząca od rolki napinacza?"
@@ -98,7 +98,7 @@ a sytuację, gdy hałas został po wymianie —
 [pisk paska po wymianie paska](/pl/articles/belt-squeal-after-a-belt-change/).
 
 Jeśli chce Pan sprawdzić swoją teorię przed wizytą w warsztacie, proszę
-nagrać dźwięk w aplikacji Stuk na biegu jałowym i przy płynnym podnoszeniu
+nagrać dźwięk w aplikacji Pro-Stuk na biegu jałowym i przy płynnym podnoszeniu
 obrotów: aplikacja zestawi nagranie z odpowiedziami na kilka pytań i pokaże
 prawdopodobne źródła z procentami — razem z podpowiedzią, co sprawdzić
 najpierw.

@@ -1,6 +1,6 @@
 ---
 title: "Objawy zapieczonych prowadnic zacisku"
-metaTitle: "Zapieczone prowadnice zacisku: objawy | Stuk"
+metaTitle: "Zapieczone prowadnice zacisku: objawy | Pro-Stuk"
 description: "Jedno koło gorące, auto ściąga przy hamowaniu, klocki zużyte nierówno — jak rozpoznać zapieczone prowadnice zacisku i co robi z tym warsztat."
 faq:
   - q: "Jak szybko sprawdzić, czy zacisk się zacina?"
@@ -97,7 +97,7 @@ zwraca się najszybciej — korozja prowadnic zaczyna się od uszkodzonej
 osłonki, a nie od przebiegu.
 
 Jeśli masz wrażenie, że auto się nie toczy, a od jednego koła słychać
-dźwięk, nagraj go w aplikacji Stuk podczas toczenia się na luzie i przy
+dźwięk, nagraj go w aplikacji Pro-Stuk podczas toczenia się na luzie i przy
 lekkim hamowaniu. Aplikacja zestawia nagranie z twoimi odpowiedziami o
 cieple i ściąganiu i podpowiada, co sprawdzić najpierw — mechanizm hamulcowy
 czy podwozie.

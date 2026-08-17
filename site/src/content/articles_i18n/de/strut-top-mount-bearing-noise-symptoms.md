@@ -1,6 +1,6 @@
 ---
 title: "Ein geräuschvolles Federbeinlager: die Symptome"
-metaTitle: "Geräuschvolles Federbeinlager: die Symptome | Stuk"
+metaTitle: "Geräuschvolles Federbeinlager: die Symptome | Pro-Stuk"
 description: "Klicken und Knirschen beim Lenken im Stand, Klopfen über kleinen Schlaglöchern, schwere Lenkung — so erkennen Sie ein verschlissenes Federbeinlager."
 faq:
   - q: "Wie unterscheide ich ein Federbeinlager von einem Gleichlaufgelenk?"

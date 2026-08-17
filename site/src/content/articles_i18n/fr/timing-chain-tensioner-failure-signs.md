@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un tendeur de chaîne de distribution défaillant"
-metaTitle: "Tendeur de chaîne de distribution : les signes | Stuk"
+metaTitle: "Tendeur de chaîne de distribution : les signes | Pro-Stuk"
 description: "Comment reconnaître un tendeur de chaîne affaibli : fracas au démarrage à froid, bruissement au ralenti, cognement au coup de gaz, et le risque de saut de dent."
 faq:
   - q: "Pourquoi la chaîne ne cliquette-t-elle qu'au démarrage à froid ?"
@@ -106,6 +106,6 @@ patins et pignons, parce que la main-d'œuvre est commune et que des patins
 usés détruisent vite une chaîne neuve.
 
 La façon la plus simple de montrer le problème à un atelier, c'est le son.
-Enregistrez un démarrage à froid dans l'application Stuk — elle recoupe
+Enregistrez un démarrage à froid dans l'application Pro-Stuk — elle recoupe
 l'enregistrement avec des sons de panne types, tient compte de vos réponses
 et évalue l'urgence d'un passage chez un mécanicien.

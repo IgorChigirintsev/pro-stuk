@@ -1,6 +1,6 @@
 ---
 title: "Torpido zangırdıyor"
-metaTitle: "Torpido zangırtısı: kaynağı nasıl bulunur | Stuk"
+metaTitle: "Torpido zangırtısı: kaynağı nasıl bulunur | Pro-Stuk"
 description: "Torpido zangırdaması zarar vermez ama sinir bozar. Plastik neden vızıldar, temas noktası on dakikada nasıl bulunur, panel ne zaman suçsuzdur."
 faq:
   - q: "Zangırdayan torpido tehlikeli mi?"
@@ -96,7 +96,7 @@ hangi hız, sıcaklığa bağlı mı — o aramayı kısaltan şeydir. Bastırı
 sesi kesen paneli zaten bulduysanız, ilk onu söyleyin.
 
 Panelin mi yoksa arkasındaki bir şeyin mi zangırdadığını
-çözemiyorsanız, sesi kabinin içinden Stuk uygulamasıyla kaydedin —
+çözemiyorsanız, sesi kabinin içinden Pro-Stuk uygulamasıyla kaydedin —
 rölantide ve yolda. Uygulama kaydı birkaç cevapla eşleştirir ve muhtemel
 kaynakları yüzdelerle gösterir; böylece kimse tahminle torpido sökmek
 zorunda kalmaz.

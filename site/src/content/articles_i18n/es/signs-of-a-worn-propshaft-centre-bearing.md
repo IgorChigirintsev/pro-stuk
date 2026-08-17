@@ -1,6 +1,6 @@
 ---
 title: "Señales de un soporte central del cardán gastado"
-metaTitle: "Soporte central del cardán gastado: señales | Stuk"
+metaTitle: "Soporte central del cardán gastado: señales | Pro-Stuk"
 description: "Runrún desde el centro del piso, vibración a partir de cierta velocidad, un golpe al arrancar: cómo reconocer un soporte central del cardán gastado."
 faq:
   - q: "¿Dónde está el soporte central y para qué sirve?"
@@ -100,7 +100,7 @@ reparación. La segunda, si después van a equilibrar el eje, cuando es un
 diferencia entre quitar la vibración y quitar solo el ruido.
 
 Si el runrún todavía es flojo y no está claro si viene del centro, desde
-abajo, o de una rueda, grábelo con la aplicación Stuk en una autovía lisa
+abajo, o de una rueda, grábelo con la aplicación Pro-Stuk en una autovía lisa
 y repita la grabación durante cambios de carril suaves. La aplicación
 cruza las grabaciones con sus respuestas a unas cuantas preguntas y
 muestra las causas probables con porcentajes.

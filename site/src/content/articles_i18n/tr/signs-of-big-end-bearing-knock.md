@@ -1,6 +1,6 @@
 ---
 title: "Biyel yatağı vuruntusunun belirtileri"
-metaTitle: "Biyel yatağı vuruntusu: sesi ve ne yapmalı | Stuk"
+metaTitle: "Biyel yatağı vuruntusu: sesi ve ne yapmalı | Pro-Stuk"
 description: "Biyel yatağı vuruntusu nasıl duyulur, yanında hangi belirtiler gelir, neyle karıştırılır ve teşhis serviste nasıl doğrulanır."
 faq:
   - q: "Biyel vuruntusu hidrolik külbütör sesinden nasıl ayrılır?"
@@ -149,7 +149,7 @@ Hesap basit: ne kadar erken durup kontrol ederseniz, işi yataklarla
 kapatıp krank miline dokunmadan kurtulma ihtimaliniz o kadar yüksektir.
 
 Bunun biyel vuruntusu mu yoksa benzerlerinden biri mi olduğundan emin
-değilseniz, motoru Stuk uygulamasında kaydedin: uygulama kaydı tipik
+değilseniz, motoru Pro-Stuk uygulamasında kaydedin: uygulama kaydı tipik
 vuruntularla karşılaştırır, açıklayıcı sorular sorar ve olası nedenleri
 aciliyet seviyesiyle gösterir. Bu, sökümün yerini tutmaz ama servise ne
 kadar acil gitmeniz gerektiğini değerlendirmenize yardım eder.

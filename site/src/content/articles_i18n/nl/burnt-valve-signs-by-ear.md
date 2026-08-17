@@ -1,6 +1,6 @@
 ---
 title: "Een doorgebrande klep op gehoor herkennen"
-metaTitle: "Doorgebrande klep op gehoor herkennen | Stuk"
+metaTitle: "Doorgebrande klep op gehoor herkennen | Pro-Stuk"
 description: "Ritmisch ploffen in de uitlaat, overslaan en sissen bij stationair toerental: zo herkent u een doorgebrande klep aan het geluid en welke tests dat bevestigen."
 faq:
   - q: "Hoe verschilt een doorgebrande klep op gehoor van ontstekingsuitval?"

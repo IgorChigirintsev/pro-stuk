@@ -1,6 +1,6 @@
 ---
 title: "Buczenie po wymianie opon"
-metaTitle: "Buczenie po wymianie opon: co sprawdzić | Stuk"
+metaTitle: "Buczenie po wymianie opon: co sprawdzić | Pro-Stuk"
 description: "Buczenie przy prędkości pojawiło się po wymianie opon. Kiedy winny jest bieżnik, kiedy wyważenie albo przekładka kół, a kiedy opony są niewinne."
 faq:
   - q: "Czy nowe opony zawsze na początku buczą?"
@@ -87,6 +87,6 @@ amortyzatory zużyją nowy komplet tak samo.
 
 Jeśli nie ma Pan pewności, czy dźwięk zmienił się po przełożeniu kół, proszę
 nie polegać na pamięci: kilku decybeli prawie nie da się ocenić uchem. Warto
-nagrać buczenie w aplikacji Stuk przed zamianą i po niej — porówna nagrania
+nagrać buczenie w aplikacji Pro-Stuk przed zamianą i po niej — porówna nagrania
 z Pana odpowiedziami i pokaże prawdopodobne przyczyny z procentami, żeby
 nikt nie wymieniał opon tam, gdzie winne jest łożysko.

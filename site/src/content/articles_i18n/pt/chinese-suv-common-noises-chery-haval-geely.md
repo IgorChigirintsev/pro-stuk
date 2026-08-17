@@ -1,6 +1,6 @@
 ---
 title: "SUVs chineses: barulhos típicos em Chery, Haval e Geely"
-metaTitle: "Barulhos em SUV chinês: Chery, Haval, Geely | Stuk"
+metaTitle: "Barulhos em SUV chinês: Chery, Haval, Geely | Pro-Stuk"
 description: "Quais barulhos aparecem com mais frequência nos SUVs chineses nos primeiros anos, o que está por trás deles e por qual checagem faz sentido começar."
 faq:
   - q: "SUV chinês faz mais barulho que os outros?"
@@ -95,7 +95,7 @@ folga e como isso foi constatado.
 
 Antes da visita ajuda chegar com detalhes em vez de «tem alguma coisa
 batendo»: em qual velocidade, em qual piso, motor frio ou quente. Dá para
-gravar o som e destrinchar por condições no aplicativo Stuk — ele cruza a
+gravar o som e destrinchar por condições no aplicativo Pro-Stuk — ele cruza a
 gravação com as suas respostas a algumas perguntas e mostra as causas
 prováveis com percentuais, o que deixa a conversa no balcão da oficina
 bem mais fácil.

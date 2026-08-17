@@ -1,6 +1,6 @@
 ---
 title: "Los 10 ruidos con los que no se debe seguir conduciendo"
-metaTitle: "10 ruidos con los que no debe seguir conduciendo | Stuk"
+metaTitle: "10 ruidos con los que no debe seguir conduciendo | Pro-Stuk"
 description: "Diez ruidos del coche tras los cuales seguir conduciendo es imprudente: qué se está rompiendo en cada caso y cómo distinguirlos de sonidos inofensivos."
 faq:
   - q: "¿Por qué el chirrido normal de frenos no está en la lista?"
@@ -103,7 +103,7 @@ cambiar la velocidad, la temperatura o el ángulo de giro, y así es
 justamente como se ignoran hasta llegar a la fase cara.
 
 Si ha aparecido un ruido de esta lista y no está seguro, grábelo con la
-aplicación Stuk allí mismo, antes de arrancar. La aplicación cruza la
+aplicación Pro-Stuk allí mismo, antes de arrancar. La aplicación cruza la
 grabación con sus respuestas a unas pocas preguntas y muestra las causas
 probables con porcentajes, lo que facilita decidir entre seguir
 conduciendo o llamar a la grúa.

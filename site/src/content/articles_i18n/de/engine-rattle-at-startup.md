@@ -1,6 +1,6 @@
 ---
 title: "Rasseln im Motor beim Start"
-metaTitle: "Rasseln beim Start: Ursachen und Vorgehen | Stuk"
+metaTitle: "Rasseln beim Start: Ursachen und Vorgehen | Pro-Stuk"
 description: "Warum ein Motor beim Start rasselt: Anlasser, Nockenwellenversteller, Kettenspanner oder Freilaufriemenscheibe. Trennung nach dem Moment des Auftretens."
 faq:
   - q: "Ist ein Rasseln in den ersten Sekunden nach dem Start gefährlich?"

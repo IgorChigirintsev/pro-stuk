@@ -1,6 +1,6 @@
 ---
-title: "Stuk przednich kolumn na drobnych nierównościach"
-metaTitle: "Stuk przednich kolumn na drobnych nierównościach | Stuk"
+title: "Pro-Stuk przednich kolumn na drobnych nierównościach"
+metaTitle: "Pro-Stuk przednich kolumn na drobnych nierównościach | Pro-Stuk"
 description: "Suchy stuk przednich kolumn na drobnych nierównościach: jak odróżnić amortyzator od górnych mocowań i stabilizatora oraz co sprawdzić samemu."
 faq:
   - q: "Dlaczego stuk słychać tylko na drobnych nierównościach?"
@@ -100,7 +100,7 @@ Tam, gdzie konstrukcja jest prosta, a części popularne, warto zrobić cały
 przód naraz, zamiast jeździć z powoli rosnącą listą: robocizna pokrywa się
 niemal całkowicie, a druga wizyta kosztuje prawie tyle co pierwsza.
 
-Żeby nie zgadywać, co dokładnie stuka, nagraj dźwięk w aplikacji Stuk
+Żeby nie zgadywać, co dokładnie stuka, nagraj dźwięk w aplikacji Pro-Stuk
 podczas jazdy po znanym, nierównym odcinku. Aplikacja porównuje nagranie z
 odpowiedziami na kilka pytań i pokazuje prawdopodobne przyczyny w
 procentach — z taką listą łatwiej ustalić z mechanikiem, co obejrzeć

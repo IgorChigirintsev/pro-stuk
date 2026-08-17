@@ -1,6 +1,6 @@
 ---
 title: "Süspansiyon tıkırdarken araç kullanılır mı"
-metaTitle: "Süspansiyon tıkırdarken araç kullanılır mı? | Stuk"
+metaTitle: "Süspansiyon tıkırdarken araç kullanılır mı? | Pro-Stuk"
 description: "Hangi süspansiyon parçası tıkırdarken yola çıkılır, hangisiyle çıkılmaz: viraj demiri, amortisör, burçlar, rotil. Aciliyeti sesten değerlendirme."
 faq:
   - q: "Tıkırdayan viraj demiri rotuyla ne kadar gidilir?"
@@ -98,7 +98,7 @@ sonraki bakıma ertelemeyin: kararlı bir tıkırtı bekleyebilir, büyüyen bir
 tıkırtı bekleyemez.
 
 Aciliyeti bugün belirlemek isterseniz, tıkırtıyı temsil edici bir yol
-parçasında Stuk uygulamasında kaydedin. Algoritma kaydı verdiğiniz
+parçasında Pro-Stuk uygulamasında kaydedin. Algoritma kaydı verdiğiniz
 cevaplarla eşleştirir ve olası nedenleri yüzde ve aciliyet düzeyiyle
 gösterir — onarımı gelecek aya mı planlayacağınızı yoksa bu hafta mı
 randevu alacağınızı bilmeye yeter.

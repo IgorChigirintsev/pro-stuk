@@ -1,6 +1,6 @@
 ---
 title: "Sinais de junta flexível do escapamento rasgada"
-metaTitle: "Junta flexível do escapamento rasgada | Stuk"
+metaTitle: "Junta flexível do escapamento rasgada | Pro-Stuk"
 description: "Um ronco repentino debaixo dos pés, vibração em marcha lenta e cheiro de escapamento na cabine — como reconhecer a flexível rasgada e o reparo."
 faq:
   - q: "Quanto tempo dá para rodar com a flexível rasgada?"
@@ -92,6 +92,6 @@ esfria — soldado com o escapamento puxado para um lado, o trecho novo já
 começa a vida sob esforço.
 
 Se o ronco apareceu mas você não sabe se é a flexível ou um tubo furado,
-grave o som no aplicativo Stuk em marcha lenta e subindo o giro devagar. O
+grave o som no aplicativo Pro-Stuk em marcha lenta e subindo o giro devagar. O
 app cruza a gravação com as suas respostas sobre onde o som é mais alto e
 como ele muda, e sugere qual parte do sistema inspecionar primeiro.

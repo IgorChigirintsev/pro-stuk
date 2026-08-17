@@ -1,6 +1,6 @@
 ---
 title: "Señales de presión de aceite baja"
-metaTitle: "Presión de aceite baja: señales y causas | Stuk"
+metaTitle: "Presión de aceite baja: señales y causas | Pro-Stuk"
 description: "Cómo detectar una presión de aceite baja antes de que haya daños: el testigo, el tictac de los taqués, el golpeteo de cojinetes. Causas y forma de medirla."
 faq:
   - q: "¿Por qué se enciende el testigo de aceite al ralentí en caliente?"
@@ -139,7 +139,7 @@ La mayoría de motores muertos por falta de lubricación avisaron mucho antes
 que el testigo; nadie sacó la varilla.
 
 Si el motor ha empezado a sonar distinto y el testigo todavía calla, grabe
-el sonido con la aplicación Stuk. Compara la grabación con sonidos típicos
+el sonido con la aplicación Pro-Stuk. Compara la grabación con sonidos típicos
 de motor, hace preguntas de aclaración y sugiere si esto pinta a problema
 de lubricación y con qué urgencia hay que enseñarle el coche a un mecánico.
 Qué significa un ruido que solo aparece en frío se trata en

@@ -1,6 +1,6 @@
 ---
 title: "Zumbido ao virar para a esquerda"
-metaTitle: "Zumbido ao virar à esquerda: qual rolamento zumbe | Stuk"
+metaTitle: "Zumbido ao virar à esquerda: qual rolamento zumbe | Pro-Stuk"
 description: "Zumbido ao virar à esquerda quase sempre é rolamento da roda direita. Por que isso acontece, como confirmar em uma volta e qual a urgência da troca."
 faq:
   - q: "Zumbido ao virar à esquerda: qual rolamento eu troco?"
@@ -96,7 +96,7 @@ e a conta já não é em milhares de quilômetros. Fechar o assunto nas
 primeiras semanas sai mais barato e mais tranquilo.
 
 Se o zumbido ainda é baixinho e você quer ter certeza de que não está
-imaginando coisa, grave o som no aplicativo Stuk durante o teste de
+imaginando coisa, grave o som no aplicativo Pro-Stuk durante o teste de
 mudança de faixa. O aplicativo cruza a gravação com as suas respostas e
 mostra as causas prováveis em porcentagem — e sugere por qual lado
 começar.

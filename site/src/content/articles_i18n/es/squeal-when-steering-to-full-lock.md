@@ -1,6 +1,6 @@
 ---
 title: "Un chirrido al girar el volante hasta el tope"
-metaTitle: "Chirrido al girar el volante a tope: causas | Stuk"
+metaTitle: "Chirrido al girar el volante a tope: causas | Pro-Stuk"
 description: "Por qué un coche chirría cuando se gira el volante hasta el tope: la correa, la bomba de la dirección asistida o poco líquido. Cuándo es normal y cuándo no."
 faq:
   - q: "¿Es perjudicial mantener el volante en el tope?"
@@ -110,6 +110,6 @@ que reviente:
 [¿se puede circular con la correa chirriando?](/es/articles/can-you-drive-with-a-squealing-belt/).
 
 ¿No sabe si es la correa o la bomba? Grabe el chirrido con la aplicación
-Stuk: haga una grabación con el volante en el tope y responda unas
+Pro-Stuk: haga una grabación con el volante en el tope y responda unas
 preguntas; la aplicación compara el sonido con los perfiles típicos de
 avería y muestra las causas probables con un nivel de urgencia.

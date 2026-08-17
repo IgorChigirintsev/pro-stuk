@@ -1,6 +1,6 @@
 ---
 title: "Ein Kreischen beim Lenken bis zum Anschlag"
-metaTitle: "Kreischen beim Lenken bis zum Anschlag | Stuk"
+metaTitle: "Kreischen beim Lenken bis zum Anschlag | Pro-Stuk"
 description: "Warum ein Fahrzeug beim Lenken bis zum Anschlag kreischt: der Riemen, die Servopumpe oder ein zu niedriger Flüssigkeitsstand. Wann es normal ist und wann nicht."
 faq:
   - q: "Ist es schädlich, das Lenkrad am Anschlag zu halten?"

@@ -1,6 +1,6 @@
 ---
 title: "De spanning van de distributieketting op gehoor controleren"
-metaTitle: "Distributieketting op gehoor controleren | Stuk"
+metaTitle: "Distributieketting op gehoor controleren | Pro-Stuk"
 description: "Hoe u een uitgerekte distributieketting hoort: in welke omstandigheden hij zich verraadt, hoe hij verschilt van klepstoters en injectoren, en wat een koude start laat zien."
 faq:
   - q: "Waarom is de distributieketting bij een koude start het luidst?"

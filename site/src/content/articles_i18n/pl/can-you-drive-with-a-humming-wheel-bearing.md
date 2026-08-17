@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć z buczącym łożyskiem koła"
-metaTitle: "Czy można jeździć z buczącym łożyskiem koła? | Stuk"
+metaTitle: "Czy można jeździć z buczącym łożyskiem koła? | Pro-Stuk"
 description: "Ile da się przejechać z buczącym łożyskiem koła, czym grozi każdy etap zużycia, jak zmniejszyć ryzyko w trasie i jak decyduje się o naprawie."
 faq:
   - q: "Ile kilometrów przejadę z buczącym łożyskiem?"
@@ -130,7 +130,7 @@ zespół. Na późnym etapie różnica między „wymienić w tym tygodniu” a
 „wymienić za dwa miesiące” łatwo sięga dwukrotności.
 
 Jeśli chce się Pan oprzeć na czymś pewniejszym niż własne ucho, proszę
-nagrać buczenie w ruchu w aplikacji Stuk: zestawi dźwięk z Pana
+nagrać buczenie w ruchu w aplikacji Pro-Stuk: zestawi dźwięk z Pana
 odpowiedziami i pokaże prawdopodobne przyczyny z procentami oraz poziomem
 pilności — łatwiej wtedy zdecydować między wizytą jutro a spokojnym
 dokończeniem tygodnia.

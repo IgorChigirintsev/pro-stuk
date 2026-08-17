@@ -1,6 +1,6 @@
 ---
 title: "Roce de una rueda a poca velocidad"
-metaTitle: "Roce de una rueda a poca velocidad: causas | Stuk"
+metaTitle: "Roce de una rueda a poca velocidad: causas | Pro-Stuk"
 description: "Un roce de rueda a 10–30 km/h suele venir de los frenos o del guardapolvo. Cómo separar un rozamiento inofensivo del desgaste y qué comprobar."
 faq:
   - q: "El roce solo se oye por debajo de 30 km/h, ¿es normal?"
@@ -97,7 +97,7 @@ gratis y se le echa la culpa a unas pastillas a las que les quedaban años.
 Distinguir de oído un contacto inofensivo del comienzo del desgaste no es
 fácil; la diferencia entre «siseo» y «siseo con metal dentro» apenas
 sobrevive al ponerla en palabras. Es más simple grabar el sonido en la
-aplicación Stuk al salir del aparcamiento: la aplicación compara la
+aplicación Pro-Stuk al salir del aparcamiento: la aplicación compara la
 grabación con sus respuestas a unas pocas preguntas y muestra las causas
 probables con porcentajes, así que queda claro si hay que entrar al taller
 el fin de semana o esperar tranquilamente a la próxima revisión.

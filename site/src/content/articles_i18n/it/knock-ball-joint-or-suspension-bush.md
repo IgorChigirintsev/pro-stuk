@@ -1,6 +1,6 @@
 ---
 title: "Colpo secco: giunto sferico o silent block?"
-metaTitle: "Colpo: giunto sferico o silent block, come capirlo | Stuk"
+metaTitle: "Colpo: giunto sferico o silent block, come capirlo | Pro-Stuk"
 description: "Colpi dalle sospensioni sulle buche: come distinguere un giunto sferico consumato da un silent block rovinato dal tipo di rumore, con prove semplici e la verifica sul ponte."
 faq:
   - q: "Che differenza c'è, a orecchio, fra il colpo di un giunto sferico e quello di un silent block?"
@@ -145,7 +145,7 @@ ruote: stringendoli con la sospensione scarica la gomma resta torcigliata
 a vita e si strappa nel giro di pochi mesi.
 
 Se il colpo c'è già e non sa da dove arrivi, registri il rumore con
-l'app Stuk. Confronterà la registrazione con le sue risposte su quando
+l'app Pro-Stuk. Confronterà la registrazione con le sue risposte su quando
 batte — sulle buche, in frenata o in curva — e mostrerà le cause probabili
 con un livello di urgenza. Con quello si va in officina e si fanno
 controllare pezzi precisi invece di cercare alla cieca.

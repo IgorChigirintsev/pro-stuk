@@ -1,6 +1,6 @@
 ---
 title: "Kloppen in de motor alleen als hij koud is: het hele beeld"
-metaTitle: "Kloppen alleen koud: het hele beeld | Stuk"
+metaTitle: "Kloppen alleen koud: het hele beeld | Pro-Stuk"
 description: "Waarom een motor na het starten klopt en stil wordt bij het opwarmen: klepstoters, zuigerhemden, de ketting, nokkenasverstellers. Waar normaal ophoudt en krassen beginnen."
 faq:
   - q: "Waarom verdwijnt de klop precies als de motor warm wordt?"

@@ -1,6 +1,6 @@
 ---
 title: "Heulen des Hinterachsgetriebes bei Tempo"
-metaTitle: "Heulen des Hinterachsgetriebes: die Ursachen | Stuk"
+metaTitle: "Heulen des Hinterachsgetriebes: die Ursachen | Pro-Stuk"
 description: "Ein Heulen von hinten, das sich unter Zug und im Schub ändert, ist die klassische Handschrift des Hinterachsgetriebes. So grenzen Sie es von Lagern ab."
 faq:
   - q: "Wie unterscheide ich das Heulen des Getriebes vom Brummen eines Radlagers?"

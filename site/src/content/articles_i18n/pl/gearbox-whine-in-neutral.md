@@ -1,6 +1,6 @@
 ---
 title: "Wycie skrzyni biegów na luzie"
-metaTitle: "Wycie skrzyni biegów na luzie: przyczyny i testy | Stuk"
+metaTitle: "Wycie skrzyni biegów na luzie: przyczyny i testy | Pro-Stuk"
 description: "Wycie na luzie przy puszczonym sprzęgle zwykle wskazuje na łożysko wałka sprzęgłowego albo poziom oleju. Jak odróżnić je jednym testem pedałem."
 faq:
   - q: "Wycie na luzie znika, gdy wcisnę sprzęgło. Co to znaczy?"
@@ -95,6 +95,6 @@ a przypadek chrzęstu przy wrzucaniu biegów —
 [chrzęszczenie przy wrzucaniu biegu](/pl/articles/crunching-when-selecting-a-gear/).
 
 Jeśli wycie jest ciche i nie ma pewności, czy idzie za pedałem, nagraj je w
-aplikacji Stuk w obu stanach: przy puszczonym i wciśniętym sprzęgle.
+aplikacji Pro-Stuk w obu stanach: przy puszczonym i wciśniętym sprzęgle.
 Aplikacja porównuje nagrania z odpowiedziami i pokazuje prawdopodobne
 przyczyny w procentach wraz z tym, co sprawdzić przed wizytą.

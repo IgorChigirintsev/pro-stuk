@@ -1,6 +1,6 @@
 ---
 title: "Gerammel onder de auto over oneffenheden"
-metaTitle: "Gerammel onder de auto op hobbels | Stuk"
+metaTitle: "Gerammel onder de auto op hobbels | Pro-Stuk"
 description: "Stabilisatorstangen, de onderrijbeschermplaat, uitlaatrubbers: waarom er iets rammelt onder de auto op hobbels, hoe u de bron vindt en wanneer het echt ernstig is."
 faq:
   - q: "Waarom rammelt het op kleine hobbels, maar blijft het stil in een diepe kuil?"

@@ -1,6 +1,6 @@
 ---
-title: "Stuk czuć w kierownicy na nierównej drodze"
-metaTitle: "Stuk w kierownicy na nierównej drodze | Stuk"
+title: "Pro-Stuk czuć w kierownicy na nierównej drodze"
+metaTitle: "Pro-Stuk w kierownicy na nierównej drodze | Pro-Stuk"
 description: "Skąd bierze się stuk przenoszony na kierownicę: przekładnia kierownicza, końcówki drążków, drążki, stabilizator. Proste testy bez podnośnika."
 faq:
   - q: "Jak poznać, że to układ kierowniczy, a nie zawieszenie?"
@@ -16,7 +16,7 @@ sources:
     url: "https://www.trwaftermarket.com"
 ---
 
-Stuk, który na rozbitej drodze trafia prosto w dłonie, to jeden z
+Pro-Stuk, który na rozbitej drodze trafia prosto w dłonie, to jeden z
 najczęstszych powodów umawiania diagnostyki. Dobra wiadomość jest taka, że
 krąg podejrzanych jest wąski: między rękami kierowcy a kołem znajduje się
 zaledwie kilka elementów i źródło prawie zawsze jest wśród nich. Rzecz w
@@ -51,7 +51,7 @@ przegląd stuków drogowych jest na stronie
 | Przekładnia kierownicza | Pojedyncze głuche uderzenie na dziurach i dylatacjach | Powtarza się przy poruszaniu kierownicą na postoju |
 | Drążki kierownicze | Podobne do końcówek, nieco «głębsze» | Auto ściąga, nierówne zużycie opon |
 | Łączniki stabilizatora | Stukot na tarce i progach zwalniających | Ledwie dociera do kierownicy |
-| Łożyska górnych mocowań amortyzatorów | Stuk i chrzęst przy skręcaniu | Słychać z góry, przy wieżyczce |
+| Łożyska górnych mocowań amortyzatorów | Pro-Stuk i chrzęst przy skręcaniu | Słychać z góry, przy wieżyczce |
 
 Statystycznie najczęściej winne są przeguby — końcówki i drążki: pierwsze
 przyjmują uderzenia od kół i pracują w najgorszym otoczeniu, obok brudu i
@@ -73,7 +73,7 @@ zawieszenia niż za przekładnią czy końcówkami.
    kręcić kierownicą w lewo i w prawo o 10–15 stopni. Pomocnik kładzie dłoń
    najpierw na końcówce, potem na drążku, potem na korpusie przekładni:
    uderzenie czuć w dłoni dokładnie w tym elemencie, który ma luz.
-2. **Lokalizacja dźwięku.** Stuk «w samej kierownicy» i w kolumnie to
+2. **Lokalizacja dźwięku.** Pro-Stuk «w samej kierownicy» i w kolumnie to
    przekładnia albo przegub wałka kierowniczego; stuk z dołu, przy kole —
    końcówka lub drążek; chrzęst z góry, spod maski przy wieżyczce — łożysko
    górnego mocowania.
@@ -122,7 +122,7 @@ kierowniczym ściera bieżnik zauważalnie szybciej, niż powinno, a komplet
 opon potrafi kosztować więcej niż sama naprawa.
 
 Jeśli nie ma pewności, który element zawinił, proszę nagrać stuk w
-aplikacji Stuk: przejechać charakterystyczny nierówny odcinek z włączonym
+aplikacji Pro-Stuk: przejechać charakterystyczny nierówny odcinek z włączonym
 nagrywaniem, odpowiedzieć na kilka pytań, a aplikacja dopasuje dźwięk do
 typowych profili usterek i pokaże prawdopodobne przyczyny z poziomem
 pilności.

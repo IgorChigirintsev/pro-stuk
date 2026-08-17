@@ -1,6 +1,6 @@
 ---
 title: "Le démarreur crépite mais ne lance pas le moteur"
-metaTitle: "Démarreur qui crépite sans lancer : causes | Stuk"
+metaTitle: "Démarreur qui crépite sans lancer : causes | Pro-Stuk"
 description: "Le démarreur crépite et le moteur ne tourne pas : batterie, cosses, solénoïde. Les contrôles simples à faire sur place et un tableau des causes."
 faq:
   - q: "Pourquoi le démarreur crépite-t-il alors que la batterie est neuve ?"
@@ -106,6 +106,6 @@ après le démarrage est un motif d'aller voir la page symptôme
 le domaine de la courroie, pas du démarreur.
 
 Si la cause reste introuvable et que le crépitement va et vient, enregistrez
-la tentative de démarrage dans l'application Stuk : l'algorithme croise
+la tentative de démarrage dans l'application Pro-Stuk : l'algorithme croise
 l'enregistrement avec vos réponses — la lumière faiblit-elle, y a-t-il un
 grincement — et propose les causes probables avec un niveau d'urgence.

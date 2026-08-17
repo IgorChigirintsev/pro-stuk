@@ -1,6 +1,6 @@
 ---
 title: "Klop in de achterophanging over oneffenheden"
-metaTitle: "Klop in de achterophanging over drempels | Stuk"
+metaTitle: "Klop in de achterophanging over drempels | Pro-Stuk"
 description: "Wat er achterin klopt over oneffenheden: schokdempers, asrubbers, veren of bagage in de kofferbak. Controles zonder brug en hoe de reparatie wordt gekozen."
 faq:
   - q: "Waarom is een klop achterin zo lastig te lokaliseren?"

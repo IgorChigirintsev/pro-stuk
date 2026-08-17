@@ -1,6 +1,6 @@
 ---
 title: "Een klap bij het remmen: remblokken of remklauw"
-metaTitle: "Klap bij het remmen: blokken of remklauw | Stuk"
+metaTitle: "Klap bij het remmen: blokken of remklauw | Pro-Stuk"
 description: "Een klap zodra u het pedaal intrapt komt zowel van bewegende remblokken als van een losse remklauw. Zo scheidt u ze aan het karakter van het geluid."
 faq:
   - q: "Waarom hoor ik de klap alleen bij de eerste remming?"

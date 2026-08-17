@@ -1,6 +1,6 @@
 ---
 title: "Ein durch das Bremspedal spürbares Klopfen"
-metaTitle: "Klopfen durch das Bremspedal: die Ursachen | Stuk"
+metaTitle: "Klopfen durch das Bremspedal: die Ursachen | Pro-Stuk"
 description: "Klopfen und Rückmeldung durch das Bremspedal können normale ABS-Arbeit sein oder Spiel im Bremssattel oder im Fahrwerk. Wie Sie beides unterscheiden."
 faq:
   - q: "Das Pedal klopft und vibriert beim harten Bremsen — ist das ein Fehler?"

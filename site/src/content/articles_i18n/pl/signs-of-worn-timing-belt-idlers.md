@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych rolek rozrządu"
-metaTitle: "Zużyte rolki rozrządu: dźwięk i diagnoza | Stuk"
+metaTitle: "Zużyte rolki rozrządu: dźwięk i diagnoza | Pro-Stuk"
 description: "Jak brzmią zużyte rolki rozrządu: szelest, gwizd i buczenie zza osłony. Czym grozi zatarta rolka i jak odróżnić ją od hałasu osprzętu."
 faq:
   - q: "Czy można wymienić jedną rolkę bez ruszania paska rozrządu?"
@@ -106,6 +106,6 @@ dlatego, że wspornik albo uszczelniacz za nią nie były w porządku, a
 świeża rolka w tym samym miejscu zużyje się tak samo.
 
 Jeśli z przodu silnika słychać gwizd albo szelest i nie wiadomo, czy to
-rolki, alternator, czy pompa, nagraj dźwięk w aplikacji Stuk — zestawia
+rolki, alternator, czy pompa, nagraj dźwięk w aplikacji Pro-Stuk — zestawia
 ona nagranie z typowymi dźwiękami usterek i podpowiada prawdopodobne
 źródło oraz to, jak pilnie potrzebny jest warsztat.

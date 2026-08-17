@@ -1,6 +1,6 @@
 ---
 title: "El motor de arranque castañetea pero no gira"
-metaTitle: "El arranque castañetea pero no gira: causas | Stuk"
+metaTitle: "El arranque castañetea pero no gira: causas | Pro-Stuk"
 description: "El motor de arranque castañetea y el motor no gira: batería, bornes, solenoide. Comprobaciones sencillas en el sitio y una tabla de causas."
 faq:
   - q: "¿Por qué castañetea el arranque si la batería es nueva?"
@@ -111,6 +111,6 @@ mirar la página de síntoma
 la correa, no del motor de arranque.
 
 Si la causa no aparece y el castañeteo va y viene, grabe el intento de
-arranque con la aplicación Stuk: el algoritmo compara la grabación con sus
+arranque con la aplicación Pro-Stuk: el algoritmo compara la grabación con sus
 respuestas —si las luces bajan, si hay rechinar— y sugiere las causas
 probables con un nivel de urgencia.

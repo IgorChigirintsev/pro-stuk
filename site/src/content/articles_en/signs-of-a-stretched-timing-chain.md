@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-rastyanutoy-tsepi-grm"
 title: "Signs of a stretched timing chain"
-metaTitle: "Stretched timing chain: sound, codes, checks | Stuk"
+metaTitle: "Stretched timing chain: sound, codes, checks | Pro-Stuk"
 description: "How a stretched timing chain sounds, which fault codes it produces, how the stretch is measured without stripping the engine and how the job is decided."
 pubDate: "2026-08-02"
 related:
@@ -161,5 +161,5 @@ After the job, ask to see the old chain next to the new one — on a worn
 set the difference in length is visible to the naked eye.
 
 If you are unsure whether it is the chain or something else, start with a
-recording: the Stuk app analyses the running engine together with your
+recording: the Pro-Stuk app analyses the running engine together with your
 answers and shows the likely causes with percentages.

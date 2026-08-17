@@ -1,6 +1,6 @@
 ---
 title: "Il test del gas in folle: che cosa rivela"
-metaTitle: "Test del gas in folle: che cosa rivela | Stuk"
+metaTitle: "Test del gas in folle: che cosa rivela | Pro-Stuk"
 description: "Che cosa dice l'aumento dei giri in folle: come separare i rumori del motore da quelli di ruote e cambio, e come eseguire la prova nel modo giusto."
 faq:
   - q: "Fa male dare gas in folle?"
@@ -110,7 +110,7 @@ la velocità: quella sola frase separa motore e rotolamento meglio di
 qualunque aggettivo. E se compariva in salita di giri o in rilascio, perché
 è nel rilascio che la distribuzione si tradisce.
 
-La prova è comoda da fare con la registrazione attiva nell'app Stuk:
+La prova è comoda da fare con la registrazione attiva nell'app Pro-Stuk:
 cattura proprio il cambiamento del suono con i giri, lo incrocia con le sue
 risposte e mostra le cause probabili in percentuale, insieme a un
 suggerimento su quale pezzo controllare per primo.

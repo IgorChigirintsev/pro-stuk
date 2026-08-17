@@ -1,6 +1,6 @@
 ---
 title: "Rupture de la chaîne de distribution : les conséquences selon le moteur"
-metaTitle: "Chaîne de distribution cassée : conséquences | Stuk"
+metaTitle: "Chaîne de distribution cassée : conséquences | Pro-Stuk"
 description: "Ce qui arrive à un moteur quand la chaîne de distribution casse ou saute, et pourquoi certains moteurs s'en tirent avec une chaîne neuve et d'autres non."
 faq:
   - q: "Tous les moteurs plient-ils des soupapes quand la chaîne casse ?"
@@ -108,7 +108,7 @@ traité dans
 
 Si un cliquetis est apparu au démarrage à froid et que vous ne savez pas
 s'il s'agit de la chaîne ou de quelque chose d'anodin, enregistrez les cinq
-premières secondes de fonctionnement dans l'application Stuk.
+premières secondes de fonctionnement dans l'application Pro-Stuk.
 L'application recoupe l'enregistrement avec vos réponses et montre les
 causes probables en pourcentages — à ce stade, la différence de décision se
 mesure au prix d'un moteur entier.

@@ -1,7 +1,7 @@
 ---
 ru: "shchelchki-shrus-ili-tormoznoj-mehanizm"
 title: "Clicking: CV joint or brakes"
-metaTitle: "Clicking while driving: CV joint or brakes | Stuk"
+metaTitle: "Clicking while driving: CV joint or brakes | Pro-Stuk"
 description: "Clicking in turns and when pulling away comes from both the outer CV joint and the brakes. How to separate the theories by the conditions."
 pubDate: "2026-06-13"
 related:
@@ -100,7 +100,7 @@ consumables, and pads fitted without them start clicking again within
 weeks.
 
 If the clicks are occasional and cannot be reproduced on the ramp, record
-the sound in the Stuk app during a slow circle under light throttle, and
+the sound in the Pro-Stuk app during a slow circle under light throttle, and
 separately at the first press of the pedal. From those two recordings the
 app shows the likely causes with percentages and suggests which component
 to look at first.

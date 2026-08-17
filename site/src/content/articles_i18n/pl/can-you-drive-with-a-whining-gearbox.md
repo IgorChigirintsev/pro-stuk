@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć z wyjącą skrzynią biegów"
-metaTitle: "Czy można jeździć z wyjącą skrzynią biegów? | Stuk"
+metaTitle: "Czy można jeździć z wyjącą skrzynią biegów? | Pro-Stuk"
 description: "Wyjąca skrzynia rzadko zatrzymuje samochód od razu, ale zapas zależy od charakteru dźwięku. Co wyje, które objawy są pilne i co z tym zrobić."
 faq:
   - q: "Ile kilometrów przejadę z wyjącą skrzynią?"
@@ -100,7 +100,7 @@ przy wyjącej pompie wody albo stukających popychaczach hydraulicznych,
 gdzie cena zwłoki liczy się tak samo.
 
 Jeśli wycie jest jeszcze równe, a chce Pan wiedzieć, czy stoi za nim
-łożysko wałka, czy zwykły hałas opon, proszę nagrać dźwięk w aplikacji Stuk
+łożysko wałka, czy zwykły hałas opon, proszę nagrać dźwięk w aplikacji Pro-Stuk
 na różnych biegach i podczas toczenia. Aplikacja porówna nagrania między
 sobą i pokaże prawdopodobne przyczyny z procentami — dzięki temu wizyta
 diagnostyczna będzie prostsza.

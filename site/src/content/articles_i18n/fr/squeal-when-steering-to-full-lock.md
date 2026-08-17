@@ -1,6 +1,6 @@
 ---
 title: "Sifflement quand on braque à fond"
-metaTitle: "Sifflement quand on braque à fond : causes | Stuk"
+metaTitle: "Sifflement quand on braque à fond : causes | Pro-Stuk"
 description: "Pourquoi une voiture siffle quand on braque en butée : la courroie, la pompe de direction assistée ou un niveau de liquide bas. Quand c'est normal et quand ça ne l'est pas."
 faq:
   - q: "Est-ce mauvais de maintenir le volant en butée ?"
@@ -110,6 +110,6 @@ attendre la rupture —
 [peut-on rouler avec une courroie qui siffle](/fr/articles/can-you-drive-with-a-squealing-belt/).
 
 Vous hésitez entre la courroie et la pompe ? Enregistrez le sifflement dans
-l'application Stuk : faites un enregistrement volant en butée, répondez à
+l'application Pro-Stuk : faites un enregistrement volant en butée, répondez à
 quelques questions, et l'application croise le son avec les profils de panne
 typiques puis affiche les causes probables avec un niveau d'urgence.

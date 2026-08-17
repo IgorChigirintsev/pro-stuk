@@ -1,6 +1,6 @@
 ---
 title: "Rodamiento de copela ruidoso: síntomas"
-metaTitle: "Rodamiento de copela ruidoso: síntomas | Stuk"
+metaTitle: "Rodamiento de copela ruidoso: síntomas | Pro-Stuk"
 description: "Chasquidos y crujidos al girar el volante parado, golpes en baches pequeños, dirección dura: cómo detectar un rodamiento de copela gastado."
 faq:
   - q: "¿Cómo distingo el rodamiento de copela de una junta homocinética?"
@@ -103,7 +103,7 @@ mal asentado al montar es una fuente habitual de golpes nuevos que aparecen
 justo después de la reparación.
 
 Si el crujido es confuso y no sabe de dónde sale, grabe con la aplicación
-Stuk el giro del volante con el coche parado y después una vuelta por un
+Pro-Stuk el giro del volante con el coche parado y después una vuelta por un
 aparcamiento. La aplicación compara los dos fragmentos, los cruza con sus
 respuestas y muestra las causas probables con porcentajes, precisamente
 para que no se desmonte un amortiguador en balde.

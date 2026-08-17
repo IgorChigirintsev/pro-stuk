@@ -19,7 +19,7 @@ export const ja: ArticleUi = {
   hubQuizSub:
     '対話式の診断ツリー。いくつかの質問に答えるだけで、原因の候補が大きく絞られます。',
   hubOther: 'ほかのセクション',
-  indexTitle: '車の異音についての記事 | Stuk',
+  indexTitle: '車の異音についての記事 | Pro-Stuk',
   indexDescription:
     '車の異音の解説：打音、きしみ、うなり、ヒュー音、ガタつき。それぞれの音の意味、自分で確認できること、緊急度をまとめました。',
   indexH1: '記事',

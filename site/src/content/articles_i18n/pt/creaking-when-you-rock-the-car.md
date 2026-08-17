@@ -1,6 +1,6 @@
 ---
 title: "Rangido ao balançar o carro"
-metaTitle: "Rangido ao balançar o carro: causas e reparo | Stuk"
+metaTitle: "Rangido ao balançar o carro: causas e reparo | Pro-Stuk"
 description: "Por que a carroceria range ao ser balançada na mão e em ondulações: buchas do estabilizador, buchas da bandeja, coxim do amortecedor. Como achar o ponto."
 faq:
   - q: "Por que o rangido piora depois de chuva, lavagem ou no frio?"
@@ -97,7 +97,7 @@ oficina faz, e muitas vezes sai de graça quando você fecha o serviço — para
 um rangido isso costuma bastar, porque a origem aparece em minutos
 balançando o carro e olhando a borracha.
 
-Se quer decidir antes da oficina, grave o rangido no aplicativo Stuk
+Se quer decidir antes da oficina, grave o rangido no aplicativo Pro-Stuk
 enquanto balança o carro ou passando por uma ondulação característica. O
 algoritmo cruza a gravação com as suas respostas e mostra as origens
 prováveis com um nível de urgência: fica claro se a visita pode esperar ou

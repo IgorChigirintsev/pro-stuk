@@ -1,6 +1,6 @@
 ---
 title: "Kol yatağı vuruntusu nasıl ses verir"
-metaTitle: "Kol yatağı vuruntusu nasıl ses verir | Stuk"
+metaTitle: "Kol yatağı vuruntusu nasıl ses verir | Pro-Stuk"
 description: "Bloğun ortasından gelen ve yük altında büyüyen sert metalik vuruntu: aşınmış kol yatakları nasıl ses verir, yeri nasıl bulunur ve neyi tehdit eder."
 faq:
   - q: "Kol yatağı vuruntusuyla servise kendi gücümle gidebilir miyim?"
@@ -121,7 +121,7 @@ olur. Önlem de buradan çıkar: seviyeyi izleyin, şehir içi kullanıma pay
 bırakan dürüst değişim aralıkları tutun ve basınç lambasına dikkat edin.
 
 Ses yeni çıktıysa ve gerçekten bloğun derinlerinden gelip gelmediğinden
-emin değilseniz, boşta kısa bir gaz dokunuşunu Stuk uygulamasında kaydedin.
+emin değilseniz, boşta kısa bir gaz dokunuşunu Pro-Stuk uygulamasında kaydedin.
 Uygulama kaydı koşullarla ilgili cevaplarınızla eşleştirir ve olası
 sebepleri yüzdeleriyle gösterir — ayrıca teşhis öncesi motorun hiç
 çalıştırılıp çalıştırılmaması gerektiğini de söyler.

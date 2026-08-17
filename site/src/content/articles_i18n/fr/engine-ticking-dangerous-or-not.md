@@ -1,6 +1,6 @@
 ---
 title: "Cliquetis moteur : dangereux ou pas"
-metaTitle: "Cliquetis moteur : dangereux ou pas, comment savoir | Stuk"
+metaTitle: "Cliquetis moteur : dangereux ou pas, comment savoir | Pro-Stuk"
 description: "Pourquoi un moteur cliquette : quand c'est le fonctionnement normal des injecteurs et quand ce sont des poussoirs ou des soupapes usés. Comment trancher."
 faq:
   - q: "Le moteur cliquette au ralenti, est-ce dangereux ?"
@@ -152,7 +152,7 @@ des années use les cames — et au lieu d'un réglage, la facture arrive pour
 des arbres à cames.
 
 Si vous ne savez pas si votre cas est le cas anodin, enregistrez le moteur
-dans l'application Stuk : elle croise l'enregistrement avec vos réponses à
+dans l'application Pro-Stuk : elle croise l'enregistrement avec vos réponses à
 des questions de précision et affiche les causes probables avec un niveau
 d'urgence. Avec ça, il est plus facile de trancher entre y aller cette
 semaine et simplement surveiller.

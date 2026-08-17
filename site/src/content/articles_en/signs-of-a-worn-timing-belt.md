@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-remnya-grm"
 title: "Signs of a worn timing belt"
-metaTitle: "Worn timing belt: inspection, sound, intervals | Stuk"
+metaTitle: "Worn timing belt: inspection, sound, intervals | Pro-Stuk"
 description: "How to tell a timing belt is worn: cracks, fraying, ticking and idler whine. Why a break is fatal for the engine and when the belt must be replaced."
 pubDate: "2026-07-05"
 related:
@@ -116,6 +116,6 @@ the tension re-checked, and some crankshaft bolts are single-use. A job
 done without those steps can look perfect and still be wrong.
 
 If ticking, rustling or whistling can already be heard from the timing
-area, capture the sound: a recording in the Stuk app together with answers
+area, capture the sound: a recording in the Pro-Stuk app together with answers
 to a few questions helps work out whether it is the idlers, the pump or
 something more serious — and what to take to the workshop.

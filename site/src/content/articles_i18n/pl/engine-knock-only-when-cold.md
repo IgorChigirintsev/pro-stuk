@@ -1,6 +1,6 @@
 ---
-title: "Stuk silnika tylko na zimno: pełny obraz"
-metaTitle: "Stuk silnika tylko na zimno: pełny obraz | Stuk"
+title: "Pro-Stuk silnika tylko na zimno: pełny obraz"
+metaTitle: "Pro-Stuk silnika tylko na zimno: pełny obraz | Pro-Stuk"
 description: "Dlaczego silnik stuka po rozruchu i cichnie po nagrzaniu: popychacze, tłoki, łańcuch, fazy rozrządu. Gdzie kończy się norma, a zaczyna zatarcie."
 faq:
   - q: "Dlaczego stuk znika dokładnie wtedy, gdy silnik się nagrzeje?"
@@ -16,7 +16,7 @@ sources:
     url: "https://www.schaeffler.com"
 ---
 
-Stuk słyszalny przez pierwsze minuty po uruchomieniu, który rozpływa się w
+Pro-Stuk słyszalny przez pierwsze minuty po uruchomieniu, który rozpływa się w
 miarę nagrzewania silnika, to jedna z najczęstszych historii silnikowych.
 Jest też najbardziej zwodnicza: pod tym samym „zimnym” stukiem kryje się i
 nieszkodliwa cecha konstrukcyjna, i pierwsze objawy zatarcia cylindrów.
@@ -115,7 +115,7 @@ O zdjęcia z endoskopu warto poprosić i obejrzeć je na własne oczy — to
 jedyne znalezisko, które rozstrzyga między naprawą a remontem.
 
 Żeby nie zgadywać, od której pozycji kosztorysu zacząć, proszę nagrać
-zimny rozruch w aplikacji Stuk — z samego rana, przy otwartej masce.
+zimny rozruch w aplikacji Pro-Stuk — z samego rana, przy otwartej masce.
 Aplikacja zestawia dźwięk z odpowiedziami o warunkach i pokazuje
 prawdopodobne przyczyny z procentami oraz poziomem pilności: z tym można
 odbyć konkretną rozmowę w warsztacie.

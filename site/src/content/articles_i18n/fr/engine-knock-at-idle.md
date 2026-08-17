@@ -1,6 +1,6 @@
 ---
 title: "Un claquement moteur au ralenti"
-metaTitle: "Claquement moteur au ralenti : causes et suite | Stuk"
+metaTitle: "Claquement moteur au ralenti : causes et suite | Pro-Stuk"
 description: "Pourquoi un moteur claque au ralenti : poussoirs hydrauliques, chaîne de distribution, soupapes ou accessoires. Comment séparer les causes au son."
 faq:
   - q: "Pourquoi le claquement s'entend-il au ralenti et disparaît-il en montant en régime ?"
@@ -151,7 +151,7 @@ caler un diagnostic dans un délai raisonnable et de surveiller si le son
 symptôme [claquement dans le moteur](/fr/symptoms/knocking-in-engine/).
 
 Si vous voulez comprendre ce qui se passe avant le trajet jusqu'au garage,
-enregistrez le moteur en marche dans l'application Stuk. Elle croise
+enregistrez le moteur en marche dans l'application Pro-Stuk. Elle croise
 l'enregistrement avec vos réponses à quelques questions de précision et
 affiche les causes probables avec un niveau d'urgence : avec cette liste,
 la conversation avec un mécanicien devient concrète.

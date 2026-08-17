@@ -1,6 +1,6 @@
 ---
 title: "Contrôler les amortisseurs par le test de balancement"
-metaTitle: "Test de balancement des amortisseurs, pas à pas | Stuk"
+metaTitle: "Test de balancement des amortisseurs, pas à pas | Pro-Stuk"
 description: "Le test de balancement pas à pas : comment appuyer sur la caisse, compter les oscillations, ce que le test ne montre pas et quand il faut un banc."
 faq:
   - q: "Le test de balancement est-il fiable ?"
@@ -149,5 +149,5 @@ l'arrière.
 
 Si le test de balancement a donné une réponse ambiguë et qu'un bruit de
 suspension reste difficile à décrire, enregistrez-le en roulant dans
-l'application Stuk. L'application croise l'enregistrement avec vos
+l'application Pro-Stuk. L'application croise l'enregistrement avec vos
 réponses et affiche les causes probables avec un niveau d'urgence.

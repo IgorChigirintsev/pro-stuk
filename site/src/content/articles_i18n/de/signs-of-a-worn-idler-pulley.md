@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für eine verschlissene Umlenkrolle"
-metaTitle: "Verschlissene Umlenkrolle: Ton und Prüfung | Stuk"
+metaTitle: "Verschlissene Umlenkrolle: Ton und Prüfung | Pro-Stuk"
 description: "Pfeifen, Heulen und Rascheln aus dem Motorraum im Leerlauf kommen oft von den Rollen des Nebenaggregateriemens. So grenzen Sie sie vom Riemen ab."
 faq:
   - q: "Was ist der Unterschied zwischen Umlenkrolle und Spannrolle?"

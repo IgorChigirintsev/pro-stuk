@@ -1,6 +1,6 @@
 ---
 title: "Crepitio del motore all'avviamento"
-metaTitle: "Crepitio del motore all'avvio: cause e rimedi | Stuk"
+metaTitle: "Crepitio del motore all'avvio: cause e rimedi | Pro-Stuk"
 description: "Perché il motore crepita all'avviamento: motorino, variatori di fase, tenditore della catena o puleggia dell'alternatore. Come distinguerli dal momento in cui compare."
 faq:
   - q: "Un crepitio nei primi secondi dopo l'avviamento è pericoloso?"
@@ -130,7 +130,7 @@ pattini e tenditore: sono le parti in plastica contro cui la catena sbatte
 davvero.
 
 Se a orecchio non riesce a legare il crepitio a un momento preciso
-dell'avviamento, registri il suono nell'app Stuk: confronta la registrazione con
+dell'avviamento, registri il suono nell'app Pro-Stuk: confronta la registrazione con
 le sue risposte su quando e come compare il suono e mostra le cause probabili
 con percentuali e livello di urgenza — una lista più comoda con cui presentarsi
 in officina.

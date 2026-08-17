@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een uitgerekte distributieketting"
-metaTitle: "Uitgerekte distributieketting: geluid en controle | Stuk"
+metaTitle: "Uitgerekte distributieketting: geluid en controle | Pro-Stuk"
 description: "Hoe een uitgerekte distributieketting klinkt, welke foutcodes hij geeft, hoe de rek zonder motordemontage wordt gemeten en hoe de klus wordt bepaald."
 faq:
   - q: "Wat is het allereerste teken van een uitgerekte distributieketting?"

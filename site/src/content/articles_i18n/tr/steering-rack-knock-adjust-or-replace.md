@@ -1,6 +1,6 @@
 ---
 title: "Direksiyon kutusu tıkırtısı: sıkmak mı değiştirmek mi"
-metaTitle: "Direksiyon kutusu tıkırtısı: ayar mı değişim mi | Stuk"
+metaTitle: "Direksiyon kutusu tıkırtısı: ayar mı değişim mi | Pro-Stuk"
 description: "Tıkırdayan direksiyon kutusu ne zaman sadece ayarlanır, ne zaman revizyon ya da değişim ister: karar ölçütleri ve fazla sıkmanın riski."
 faq:
   - q: "Kutu ayarı ne kadar dayanır?"
@@ -99,6 +99,6 @@ farklıdır —
 [teker rulmanı aşınma belirtileri](/tr/articles/signs-of-a-worn-wheel-bearing/).
 
 Karar hâlâ açıksa ve bağımsız bir ikinci görüş istiyorsanız, tıkırtıyı bozuk
-olduğunu bildiğiniz bir yol parçasında Stuk uygulamasıyla kaydedin. Uygulama
+olduğunu bildiğiniz bir yol parçasında Pro-Stuk uygulamasıyla kaydedin. Uygulama
 sesi yanıtlarınızla eşleştirir, olası nedenleri ve aciliyet seviyesini
 gösterir — serviste konuşma da somutlaşır.

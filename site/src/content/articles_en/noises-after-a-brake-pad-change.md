@@ -1,7 +1,7 @@
 ---
 ru: "zvuki-posle-zameny-kolodok"
 title: "Noises after a brake pad change: what is normal"
-metaTitle: "Noises after a brake pad change: what is normal | Stuk"
+metaTitle: "Noises after a brake pad change: what is normal | Pro-Stuk"
 description: "New pads almost always make noise for the first few hundred kilometres. Which sounds belong to bedding in and which point to a fitting error."
 pubDate: "2026-07-21"
 related:
@@ -115,7 +115,7 @@ you return to the workshop straight away rather than driving it in —
 [can you drive with grinding brakes](/en/articles/can-you-drive-with-grinding-brakes/).
 
 To avoid guessing whether the noise is within normal, record it in the
-Stuk app on the first day after the change and again two weeks later.
+Pro-Stuk app on the first day after the change and again two weeks later.
 Comparing the two recordings shows the trend more clearly than any
 impression: bedding-in noise weakens noticeably in that time, while a
 fault stays where it is or grows.

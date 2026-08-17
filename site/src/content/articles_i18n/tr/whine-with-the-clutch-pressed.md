@@ -1,6 +1,6 @@
 ---
 title: "Debriyaja basınca gelen uğultu"
-metaTitle: "Debriyaja basınca uğultu: nedir bu | Stuk"
+metaTitle: "Debriyaja basınca uğultu: nedir bu | Pro-Stuk"
 description: "Debriyaj pedalına basınca çıkan uğultu neredeyse her zaman debriyaj bilyasıdır. Bir dakikada nasıl doğrulanır ve onarım neleri kapsar."
 faq:
   - q: "Debriyaja basınca gelen uğultu kesin debriyaj bilyası mıdır?"
@@ -88,7 +88,7 @@ gıcırdamaya döner, pedal hareket boyu değişir ve dağılan bir bilya baskı
 parmaklarına zarar vererek sıradan bir onarımı pahalı bir onarıma
 dönüştürebilir.
 
-Uğultu hafifse ve pedala bağlı olduğundan emin değilseniz, sesi Stuk
+Uğultu hafifse ve pedala bağlı olduğundan emin değilseniz, sesi Pro-Stuk
 uygulamasında kaydedin: önce rölantide pedal yukarıdayken, sonra basılıyken.
 Uygulama kayıtları karşılaştırır, birkaç cevapla eşleştirir ve olası
 sebepleri yüzdeleriyle gösterir.

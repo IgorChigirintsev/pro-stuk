@@ -1,6 +1,6 @@
 ---
 title: "Como soa um volante bimassa gasto"
-metaTitle: "Volante bimassa gasto: como ele soa | Stuk"
+metaTitle: "Volante bimassa gasto: como ele soa | Pro-Stuk"
 description: "Matraquear ao dar a partida e ao desligar, chocalho em marcha lenta, vibração ao sair: como soa um volante bimassa gasto e com o que ele é confundido."
 faq:
   - q: "Por que o volante bimassa faz mais barulho quando você desliga o motor?"
@@ -102,5 +102,5 @@ O hábito de manter o giro um pouco mais alto e reduzir antes que o motor
 comece a sofrer poupa o amortecedor.
 
 Se você quer saber se o som está mesmo ligado a ligar e desligar, grave os
-dois momentos no aplicativo Stuk. Ele cruza o caráter do som com o regime
+dois momentos no aplicativo Pro-Stuk. Ele cruza o caráter do som com o regime
 em que ele apareceu e mostra as causas prováveis com porcentagens.

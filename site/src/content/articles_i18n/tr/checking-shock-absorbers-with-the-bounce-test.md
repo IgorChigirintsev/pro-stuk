@@ -1,6 +1,6 @@
 ---
 title: "Amortisörleri sallama testiyle kontrol etmek"
-metaTitle: "Amortisör sallama testi: adım adım | Stuk"
+metaTitle: "Amortisör sallama testi: adım adım | Pro-Stuk"
 description: "Sallama testi adım adım: kaportaya nasıl bastırılır, hareketler nasıl sayılır, testin gösteremediği ne ve ne zaman test cihazı gerekir."
 faq:
   - q: "Sallama testi ne kadar güvenilir?"
@@ -137,5 +137,5 @@ sanayi amortisörünü diğerinde orijinaliyle karıştırmak, önde ve arkada
 farklı davranan bir araç ortaya çıkarır.
 
 Sallama testi belirsiz bir cevap verdiyse ve süspansiyonda tarif etmesi zor
-bir ses varsa, yolda giderken Stuk uygulamasında kaydedin. Uygulama kaydı
+bir ses varsa, yolda giderken Pro-Stuk uygulamasında kaydedin. Uygulama kaydı
 cevaplarınızla eşleştirir ve olası sebepleri aciliyet düzeyiyle gösterir.

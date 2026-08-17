@@ -1,6 +1,6 @@
 ---
 title: "Motoru durdurduktan sonra duyulan fokurdama"
-metaTitle: "Kontağı kapatınca fokurdama: sebepleri | Stuk"
+metaTitle: "Kontağı kapatınca fokurdama: sebepleri | Pro-Stuk"
 description: "Kontağı kapatınca gelen fokurdama: hangisi normal soğuma, hangisi sistemde hava, yorulmuş kapak ya da silindir kapak contası. Beş dakikalık kontroller."
 faq:
   - q: "Kontağı kapatınca gelen fokurdama her zaman kaynama mıdır?"
@@ -112,6 +112,6 @@ tekrar kontrol edilmelidir. Geride kalan hava, tam da servise gelmenize
 sebep olan fokurdama olarak geri döner.
 
 Sizinkinin normal olup olmadığından emin değilseniz, kapattıktan sonraki
-sesi Stuk uygulamasına kaydedin: kaydı verdiğiniz cevaplarla — ne zaman
+sesi Pro-Stuk uygulamasına kaydedin: kaydı verdiğiniz cevaplarla — ne zaman
 fokurduyor, sıvı eksiliyor mu, kalorifer çalışıyor mu — eşleştirir ve
 muhtemel sebepleri aciliyet seviyesiyle gösterir.

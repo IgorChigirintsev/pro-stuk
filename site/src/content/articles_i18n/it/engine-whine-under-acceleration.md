@@ -1,6 +1,6 @@
 ---
 title: "Ronzio del motore in accelerazione"
-metaTitle: "Ronzio del motore in accelerazione: le cause | Stuk"
+metaTitle: "Ronzio del motore in accelerazione: le cause | Pro-Stuk"
 description: "Da dove arriva un ronzio in accelerazione: alternatore, pompa del servosterzo, pulegge folli, pompa acqua o cambio. Prove semplici per trovare la fonte."
 faq:
   - q: "Come distinguo un ronzio del motore da uno del cambio?"
@@ -128,5 +128,5 @@ arrivarci due volte significa pagare due volte la stessa manodopera.
 
 Il ronzio è comodo per la diagnosi acustica: ha una tonalità marcata e gli
 algoritmi distinguono questi suoni con più sicurezza di molti altri. Registri
-il ronzio in accelerazione nell'app Stuk: confronta la registrazione con le sue
+il ronzio in accelerazione nell'app Pro-Stuk: confronta la registrazione con le sue
 risposte e mostra le cause probabili con un livello di urgenza per ciascuna.

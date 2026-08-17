@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Motor im warmen Zustand"
-metaTitle: "Klopfen im warmen Motor: Ursachen | Stuk"
+metaTitle: "Klopfen im warmen Motor: Ursachen | Pro-Stuk"
 description: "Warum ein Motor nach dem Warmlaufen zu klopfen beginnt: Öl, Hydrostößel, Lager oder klopfende Verbrennung. Wie Sie die Ursache am Verhalten eingrenzen."
 faq:
   - q: "Warum klopft der Motor erst nach dem Warmlaufen?"

@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo del eje trasero en Polo Sedán y Rapid"
-metaTitle: "Golpeteo del eje trasero en Polo Sedán y Rapid | Stuk"
+metaTitle: "Golpeteo del eje trasero en Polo Sedán y Rapid | Pro-Stuk"
 description: "Por qué golpea atrás un Polo Sedán o un Rapid: silentblocks del eje, amortiguadores, topes y anclajes. Cómo localizar la fuente y de qué depende la reparación."
 faq:
   - q: "¿Se pueden cambiar solo los silentblocks sin cambiar el eje?"
@@ -105,7 +105,7 @@ que mirar:
 [golpeteo después de una reparación de suspensión](/es/articles/knock-after-suspension-repair/).
 
 Si el golpe solo aparece en un tramo concreto de carretera y no se puede
-reproducir en el taller, grabe el sonido en la aplicación Stuk mientras
+reproducir en el taller, grabe el sonido en la aplicación Pro-Stuk mientras
 pasa por ese punto. La aplicación cruza la grabación con sus respuestas y
 muestra las causas probables con porcentajes, de modo que la conversación
 con el mecánico empieza con una pieza concreta.

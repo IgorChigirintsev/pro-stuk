@@ -1,6 +1,6 @@
 ---
 title: "Tikken uit een wiel tijdens het rijden"
-metaTitle: "Tikken uit een wiel tijdens rijden | Stuk"
+metaTitle: "Tikken uit een wiel tijdens rijden | Pro-Stuk"
 description: "Ritmisch tikken op het ritme van het wiel: een steentje in het profiel, een schroef, een wieldop of de remschijf. Zo vindt u de bron en zo weet u wanneer u niet moet doorrijden."
 faq:
   - q: "Het tikken versnelt met de snelheid — wat zegt me dat?"

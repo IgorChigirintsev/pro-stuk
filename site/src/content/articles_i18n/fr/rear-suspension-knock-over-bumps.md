@@ -1,6 +1,6 @@
 ---
 title: "Claquement de la suspension arrière sur les bosses"
-metaTitle: "Claquement de suspension arrière sur les bosses | Stuk"
+metaTitle: "Claquement de suspension arrière sur les bosses | Pro-Stuk"
 description: "Ce qui claque à l'arrière sur les bosses : amortisseurs, silentblocs d'essieu, ressorts ou bagages dans le coffre. Les contrôles sans pont et comment se décide la réparation."
 faq:
   - q: "Pourquoi un claquement arrière est-il si difficile à localiser ?"
@@ -142,7 +142,7 @@ permanente et reclaque quelques mois plus tard —
 [un claquement après une réparation de suspension](/fr/articles/knock-after-suspension-repair/).
 
 Si un claquement arrière reste impossible à rattacher à une pièce précise,
-enregistrez-le dans l'application Stuk : elle confronte le son à vos
+enregistrez-le dans l'application Pro-Stuk : elle confronte le son à vos
 réponses sur le moment et le type de bosses où il apparaît et affiche les
 causes probables avec un niveau d'urgence — avec cette liste, le diagnostic
 sur pont va plus vite.

@@ -1,6 +1,6 @@
 ---
 title: "Comment contrôler soi-même une rotule de suspension"
-metaTitle: "Contrôler soi-même une rotule de suspension | Stuk"
+metaTitle: "Contrôler soi-même une rotule de suspension | Pro-Stuk"
 description: "Le contrôle pas à pas d'une rotule de suspension : balancement, jeu à 12-6 roue levée, l'astuce de la pédale de frein et ce qu'un soufflet déchiré signifie."
 faq:
   - q: "Peut-on contrôler une rotule sans cric ?"
@@ -146,6 +146,6 @@ plutôt que d'être une option, parce que la rotule définit les angles.
 
 Si après tous les tests vous n'êtes toujours pas sûr — il y a un
 claquement et le coupable n'est pas évident — enregistrez le son dans
-l'application Stuk. Elle croise l'enregistrement avec vos réponses sur le
+l'application Pro-Stuk. Elle croise l'enregistrement avec vos réponses sur le
 moment et les routes où le son apparaît et affiche les causes probables
 avec un niveau d'urgence.

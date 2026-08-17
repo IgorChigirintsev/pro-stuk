@@ -1,6 +1,6 @@
 ---
 title: "Biellettes de barre stabilisatrice qui claquent : comment vérifier"
-metaTitle: "Biellettes de stabilisatrice : comment vérifier | Stuk"
+metaTitle: "Biellettes de stabilisatrice : comment vérifier | Pro-Stuk"
 description: "Un cliquetis sur les petites irrégularités est la plainte la plus courante sur les biellettes. Comment les contrôler à la main en dix minutes."
 faq:
   - q: "Comment distinguer un claquement de biellette des autres ?"
@@ -100,7 +100,7 @@ traîner.
 
 Si le claquement s'entend mais que vous n'arrivez pas à sentir le jeu à la
 main, enregistrez un passage sur de la tôle ondulée dans l'application
-Stuk. Elle compare le caractère et la fréquence des impacts avec vos
+Pro-Stuk. Elle compare le caractère et la fréquence des impacts avec vos
 réponses sur la vitesse et le revêtement, et affiche les causes probables
 avec leurs pourcentages — plus facile à discuter au garage que « ça
 cliquette quelque part à l'avant ».

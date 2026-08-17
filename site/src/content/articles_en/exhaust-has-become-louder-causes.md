@@ -1,7 +1,7 @@
 ---
 ru: "vyhlop-stal-gromche-prichiny"
 title: "The exhaust has become louder: the causes"
-metaTitle: "The exhaust has become louder: causes and fixes | Stuk"
+metaTitle: "The exhaust has become louder: causes and fixes | Pro-Stuk"
 description: "A burnt-through silencer, a torn flex pipe, joints and gaskets: why the exhaust got louder, what it threatens and how the repair is decided."
 pubDate: "2026-07-15"
 related:
@@ -127,6 +127,6 @@ so fuel consumption rises — which means the sooner the leak is closed, the
 cheaper the whole thing, including the fuel.
 
 Not sure it is the exhaust that has changed its voice? Record the running
-car in the Stuk app: it matches the recording with your answers about when
+car in the Pro-Stuk app: it matches the recording with your answers about when
 the sound is louder and shows the likely causes with a level of urgency —
 which makes it easier to choose a workshop and not overpay for the search.

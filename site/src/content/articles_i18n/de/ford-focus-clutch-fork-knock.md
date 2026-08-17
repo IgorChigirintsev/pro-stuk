@@ -1,6 +1,6 @@
 ---
 title: "Ford Focus: Klopfen der Ausrückgabel"
-metaTitle: "Focus: Klopfen der Ausrückgabel, Reparatur | Stuk"
+metaTitle: "Focus: Klopfen der Ausrückgabel, Reparatur | Pro-Stuk"
 description: "Klacken und Klopfen beim Treten des Kupplungspedals am Focus: wie Sie Gabel und Ausrücklager prüfen und was eine Werkstatt dabei macht."
 faq:
   - q: "Das Klopfen ist nur beim Betätigen des Pedals hörbar — ist es sicher die Kupplung?"

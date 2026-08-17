@@ -1,6 +1,6 @@
 ---
 title: "Dźwięk, który pojawia się tylko pod obciążeniem, pod górkę"
-metaTitle: "Dźwięk tylko pod górkę pod obciążeniem: przyczyny | Stuk"
+metaTitle: "Dźwięk tylko pod górkę pod obciążeniem: przyczyny | Pro-Stuk"
 description: "Dlaczego obcy dźwięk słychać tylko pod górkę pod gazem, które części tak się zachowują i jak odróżnić pasek od przegubu i spalania stukowego."
 faq:
   - q: "Dlaczego dźwięk znika w momencie puszczenia gazu?"
@@ -95,7 +95,7 @@ dwie rzeczy, które pozwalają silnikowi stukać po cichu, i żadna z nich nie
 ujawnia się na jeździe próbnej.
 
 Złapanie takiego dźwięku na dyktafon jest trudne: żyje on tylko w chwili
-maksymalnego obciążenia, kiedy ręce są zajęte jazdą. Aplikacja Stuk nagrywa
+maksymalnego obciążenia, kiedy ręce są zajęte jazdą. Aplikacja Pro-Stuk nagrywa
 w tle — wystarczy uruchomić ją przed podjazdem, przejechać odcinek jak zwykle
 i zatrzymać na górze. Analiza nagrania razem z odpowiedziami na kilka pytań
 pokazuje, która część odzywa się pod obciążeniem.

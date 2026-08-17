@@ -1,6 +1,6 @@
 ---
 title: "Piepen in het interieur in de winter"
-metaTitle: "Piepen in het interieur in de winter: waarom | Stuk"
+metaTitle: "Piepen in het interieur in de winter: waarom | Pro-Stuk"
 description: "Waarom het interieur in de winter meer piept: wat kou met kunststof en rubber doet, welke geluiden na opwarmen verdwijnen en welke controle vragen."
 faq:
   - q: "Waarom piept het interieur alleen de eerste minuten na vertrek?"

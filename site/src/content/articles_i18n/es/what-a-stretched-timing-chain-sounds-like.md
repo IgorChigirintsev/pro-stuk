@@ -1,6 +1,6 @@
 ---
 title: "Cómo suena una cadena de distribución estirada"
-metaTitle: "Cómo suena una cadena de distribución estirada | Stuk"
+metaTitle: "Cómo suena una cadena de distribución estirada | Pro-Stuk"
 description: "Traqueteo al arrancar en frío, susurro detrás de la tapa, un cambio al soltar el gas: cómo reconocer una cadena de distribución estirada y separarla de otros golpeteos."
 faq:
   - q: "¿Por qué la cadena traquetea más fuerte en los primeros segundos tras un arranque en frío?"
@@ -105,7 +105,7 @@ intervalos de cambio alargados aceleran el desgaste de la cadena más que el
 kilometraje por sí solo.
 
 Si el traqueteo es corto y no está seguro de estar oyéndolo de verdad, grabe
-un arranque en frío con la aplicación Stuk: los primeros cinco segundos
+un arranque en frío con la aplicación Pro-Stuk: los primeros cinco segundos
 desde que gira la llave. La aplicación cruza la grabación con sus respuestas
 y muestra las causas probables con porcentajes, para que llegue con una
 teoría hecha y no con un «algo traquetea» general.

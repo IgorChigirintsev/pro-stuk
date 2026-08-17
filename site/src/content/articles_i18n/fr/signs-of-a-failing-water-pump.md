@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une pompe à eau en fin de vie"
-metaTitle: "Pompe à eau HS : bruit, fuite, surchauffe | Stuk"
+metaTitle: "Pompe à eau HS : bruit, fuite, surchauffe | Pro-Stuk"
 description: "Fuite de liquide de refroidissement, roulement qui siffle, jeu de poulie et surchauffe : les signes d'une pompe à eau qui meurt, stade par stade, avec les contrôles simples."
 faq:
   - q: "Combien de temps dure une pompe à eau ?"
@@ -138,6 +138,6 @@ est détaillé dans
 [peut-on rouler avec une pompe à eau qui siffle](/fr/articles/can-you-drive-with-a-whining-water-pump/).
 
 Pas certain que ce soit la pompe qui ronfle et pas autre chose sur la
-courroie ? Enregistrez le son dans l'application Stuk : elle confronte
+courroie ? Enregistrez le son dans l'application Pro-Stuk : elle confronte
 l'enregistrement à vos réponses et affiche les causes probables avec un
 niveau d'urgence.

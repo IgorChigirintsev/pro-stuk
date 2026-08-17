@@ -1,7 +1,7 @@
 ---
 ru: "stuk-vilki-stsepleniya-ford-focus"
 title: "Ford Focus clutch fork knock"
-metaTitle: "Ford Focus clutch fork knock: causes and repair | Stuk"
+metaTitle: "Ford Focus clutch fork knock: causes and repair | Pro-Stuk"
 description: "Clicking and knocking as you press the clutch pedal on a Focus: how to check the fork and the release bearing, and what a workshop does."
 pubDate: "2026-06-28"
 related:
@@ -108,7 +108,7 @@ the tyres. How to separate them is in
 [humming: wheel bearing or tyres](/en/articles/hum-wheel-bearing-or-tyres/).
 
 If the knock is still occasional and you want to know whether the gearbox
-should come off, record it in the Stuk app while slowly pressing the pedal
+should come off, record it in the Pro-Stuk app while slowly pressing the pedal
 with the engine running. The app matches the recording with your answers
 to a few questions and shows the likely causes with percentages — enough
 to arrive at the mechanic with a specific question.

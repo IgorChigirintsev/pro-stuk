@@ -1,6 +1,6 @@
 ---
 title: "Battito degli alberi di bilanciamento EP6 su Peugeot e Citroën"
-metaTitle: "Battito EP6: cosa batte davvero su Peugeot e Citroën | Stuk"
+metaTitle: "Battito EP6: cosa batte davvero su Peugeot e Citroën | Pro-Stuk"
 description: "Cosa batte in realtà su un motore EP6 quando i proprietari parlano di alberi di bilanciamento: catena, tenditore, variatori di fase e olio. Le verifiche da fare."
 faq:
   - q: "L'EP6 ha gli alberi di bilanciamento?"
@@ -105,7 +105,7 @@ manutenzione trascurata sono proprio loro il motivo per cui i variatori
 crepitano, e un attuatore nuovo alimentato attraverso un filtrino intasato si
 comporta esattamente come quello vecchio.
 
-Se vuole catturare il suono prima che cambi, lo registri con l'app Stuk nei
+Se vuole catturare il suono prima che cambi, lo registri con l'app Pro-Stuk nei
 primi secondi dopo un avviamento a freddo. L'app confronta la registrazione con
 le sue risposte a qualche domanda e mostra le cause probabili con percentuali —
 e la registrazione salvata torna utile un mese dopo per capire se le cose sono

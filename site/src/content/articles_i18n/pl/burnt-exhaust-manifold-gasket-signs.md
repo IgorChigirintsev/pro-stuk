@@ -1,6 +1,6 @@
 ---
 title: "Objawy przepalonej uszczelki kolektora wydechowego"
-metaTitle: "Przepalona uszczelka kolektora: objawy | Stuk"
+metaTitle: "Przepalona uszczelka kolektora: objawy | Pro-Stuk"
 description: "Stukot i syczenie na zimnym silniku, zapach spalin w kabinie, czarna sadza na złączu — jak rozpoznać przepaloną uszczelkę kolektora wydechowego."
 faq:
   - q: "Dlaczego stukot słychać na zimno, a po nagrzaniu znika?"
@@ -105,7 +105,7 @@ A szczelina rośnie, gdy szpilki wypalają się dalej, więc prosta wymiana
 uszczelki zamienia się w wiertarską epopeję.
 
 Jeśli stukot pojawia się tylko na zimno i nie ma Pan pewności, że to nie
-zawory, proszę nagrać w aplikacji Stuk pierwsze trzydzieści sekund po
+zawory, proszę nagrać w aplikacji Pro-Stuk pierwsze trzydzieści sekund po
 zimnym rozruchu, a potem ten sam fragment na rozgrzanym silniku.
 Aplikacja porówna nagrania i pokaże prawdopodobne przyczyny z procentami —
 tę usterkę rozpoznaje się szczególnie dobrze właśnie po różnicy między

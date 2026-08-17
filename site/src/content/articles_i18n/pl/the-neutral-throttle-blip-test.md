@@ -1,6 +1,6 @@
 ---
 title: "Próba gazem na luzie: co pokazuje"
-metaTitle: "Próba gazem na luzie: co pokazuje | Stuk"
+metaTitle: "Próba gazem na luzie: co pokazuje | Pro-Stuk"
 description: "Co pokazuje podniesienie obrotów na luzie: jak oddzielić dźwięki silnika od hałasu kół i skrzyni oraz jak prawidłowo przeprowadzić tę próbę."
 faq:
   - q: "Czy podnoszenie obrotów na luzie szkodzi?"
@@ -109,7 +109,7 @@ pewniej niż jakikolwiek przymiotnik. I czy pojawiał się przy narastaniu
 obrotów, czy przy ich zrzuceniu, bo to właśnie przy zrzuceniu gazu rozrząd
 się zdradza.
 
-Próbę wygodnie robić z włączonym nagrywaniem w aplikacji Stuk: łapie ona
+Próbę wygodnie robić z włączonym nagrywaniem w aplikacji Pro-Stuk: łapie ona
 dokładnie zmianę dźwięku wraz z obrotami, zestawia ją z twoimi odpowiedziami i
 pokazuje prawdopodobne przyczyny z procentami — razem z podpowiedzią, którą
 część sprawdzić najpierw.

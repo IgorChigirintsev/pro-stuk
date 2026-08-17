@@ -1,6 +1,6 @@
 ---
 title: "Tümseklerde iç mekândan gıcırtı"
-metaTitle: "Tümsekte iç mekân gıcırtısı: sebep ve arama | Stuk"
+metaTitle: "Tümsekte iç mekân gıcırtısı: sebep ve arama | Pro-Stuk"
 description: "Tümseklerde iç mekân gıcırtısı: gövde neden esneyip sesi tetikler, kaplamayı süspansiyondan nasıl ayırırsınız ve kendiniz neyi düzeltebilirsiniz."
 faq:
   - q: "Tümseklerdeki iç mekân gıcırtısı tehlikeli mi?"
@@ -91,7 +91,7 @@ de kıştan önce hazırlanmakta fayda var: soğukta gıcırdayan yerlerin liste
 genelde uzar.
 
 Sesin nereden geldiği konusunda kendinizle tartışmayı bırakmanın en güvenilir
-yolu onu kaydetmektir. Tanıdık bozuk bir bölümün öncesinde Stuk uygulamasında
+yolu onu kaydetmektir. Tanıdık bozuk bir bölümün öncesinde Pro-Stuk uygulamasında
 kaydı başlatın ve aynı yolu iki kez geçin: camlar kapalıyken ve açıkken.
 Uygulama kayıtları cevaplarınızla eşleştirir ve nereye bakmanız gerektiğini
 gösterir — kabinin içine mi, aracın altına mı.

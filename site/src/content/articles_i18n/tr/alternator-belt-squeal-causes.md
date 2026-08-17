@@ -1,6 +1,6 @@
 ---
 title: "Alternatör kayışı cıyaklaması: nedenleri"
-metaTitle: "Alternatör kayışı cıyaklaması: nedenleri | Stuk"
+metaTitle: "Alternatör kayışı cıyaklaması: nedenleri | Pro-Stuk"
 description: "V kayışı neden cıyaklar: gevşek gerginlik, aşınma, kasnaklardaki yağ, gergi rulmanları. Sesin çıktığı ana bakarak nedeni nasıl bulursunuz."
 faq:
   - q: "Cıyaklayan bir V kayışıyla araç kullanılabilir mi?"
@@ -132,7 +132,7 @@ vardır: kopan V kayışının bir parçası triger kapağının altına sürük
 ve sonuçları gerçekten pahalı olur.
 
 Sesin kayıştan mı, gergi rulmanından mı yoksa ünitelerden birinin
-rulmanından mı geldiği kulakla anlaşılmıyorsa, sesi Stuk uygulamasına
+rulmanından mı geldiği kulakla anlaşılmıyorsa, sesi Pro-Stuk uygulamasına
 kaydedin: uygulama kaydı cevaplarınızla eşleştirir ve olası nedenleri
 aciliyet derecesiyle birlikte gösterir. Bu da serviste yapacağınız
 konuşmayı somutlaştırır.

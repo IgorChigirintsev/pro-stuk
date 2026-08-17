@@ -1,7 +1,7 @@
 ---
 ru: "stuk-rejki-kia-rio-podtyazhka-ili-remont"
 title: "Kia Rio steering rack knock: adjust or rebuild"
-metaTitle: "Kia Rio steering rack knock: adjust or rebuild | Stuk"
+metaTitle: "Kia Rio steering rack knock: adjust or rebuild | Pro-Stuk"
 description: "A Kia Rio steering rack knock over small bumps: why it appears, how to tell it from the anti-roll bar links, and when an adjustment is enough."
 pubDate: "2026-06-23"
 related:
@@ -100,7 +100,7 @@ rebuild, not a tweak. And whether an alignment follows: any work involving
 the tie rods changes the toe.
 
 If you are unsure what is knocking — the rack, the links or the ends —
-record the sound in the Stuk app while driving over a fine bump and repeat
+record the sound in the Pro-Stuk app while driving over a fine bump and repeat
 the recording while rocking the wheel with the car parked. The app matches
 the recordings with your answers and shows the likely causes with
 percentages, so you arrive at the workshop with a hypothesis.

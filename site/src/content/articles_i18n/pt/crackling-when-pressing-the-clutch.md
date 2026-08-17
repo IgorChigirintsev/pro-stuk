@@ -1,6 +1,6 @@
 ---
 title: "Estalos ao pisar na embreagem"
-metaTitle: "Estalos ao pisar na embreagem: causas | Stuk"
+metaTitle: "Estalos ao pisar na embreagem: causas | Pro-Stuk"
 description: "O estalo ao afundar o pedal da embreagem quase sempre vem do garfo, da luva-guia ou de um pino seco. Como separar causa barata de serviço com câmbio fora."
 faq:
   - q: "Estalo no pedal é o rolamento de embreagem?"
@@ -87,7 +87,7 @@ de obra de novo. E o volante bimassa, se o carro tiver, é avaliado na mesma
 hora, já que é o único item capaz de dobrar a conta.
 
 Se está difícil dizer de onde vem o som — do interior ou de baixo do capô —
-grave no aplicativo Stuk duas vezes: com o motor desligado e com ele
+grave no aplicativo Pro-Stuk duas vezes: com o motor desligado e com ele
 girando. O app compara as gravações com as suas respostas e mostra as
 causas prováveis com porcentagens, para a conversa na oficina começar pela
 ponta certa.

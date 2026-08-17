@@ -1,6 +1,6 @@
 ---
 title: "Hoe een stervend wiellager klinkt"
-metaTitle: "Hoe een stervend wiellager klinkt | Stuk"
+metaTitle: "Hoe een stervend wiellager klinkt | Pro-Stuk"
 description: "Van een zwak gezoem bij 60 km/u tot gedreun en trillingen in het stuur: hoe een wiellager per stadium van geluid verandert en waar wachten stopt."
 faq:
   - q: "Bij welke snelheid is een lager helemaal in het begin te horen?"

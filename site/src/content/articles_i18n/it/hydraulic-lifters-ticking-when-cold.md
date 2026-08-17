@@ -1,6 +1,6 @@
 ---
 title: "Punterie idrauliche che ticchettano a freddo: normale o no"
-metaTitle: "Punterie che ticchettano a freddo: normale? | Stuk"
+metaTitle: "Punterie che ticchettano a freddo: normale? | Pro-Stuk"
 description: "Perché le punterie idrauliche ticchettano dopo un avviamento a freddo, quanti secondi di ticchettio sono normali e quando è ora di cambiare l'olio o le punterie stesse."
 faq:
   - q: "Quanti secondi di ticchettio delle punterie sono normali?"
@@ -134,7 +134,7 @@ smontaggio. E con il motore aperto si controllano i lobi dell'albero a
 camme, perché una punteria che ticchetta da mesi lascia il segno sul lobo.
 
 Se non sei sicuro che siano le punterie o qualcosa di più serio, registra
-l'avviamento a freddo con l'app Stuk. L'app confronta la registrazione con
+l'avviamento a freddo con l'app Pro-Stuk. L'app confronta la registrazione con
 le tue risposte e mostra le cause probabili in percentuale con il livello
 di urgenza — così è più facile decidere tra andare subito da un meccanico
 e aspettare con calma il prossimo tagliando.

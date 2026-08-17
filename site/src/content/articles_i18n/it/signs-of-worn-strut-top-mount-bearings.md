@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura dei cuscinetti reggispinta del duomo"
-metaTitle: "Cuscinetti del duomo usurati: i segnali | Stuk"
+metaTitle: "Cuscinetti del duomo usurati: i segnali | Pro-Stuk"
 description: "Scricchiolii e colpi girando il volante, tonfi sordi sulle asperità: come riconoscere i cuscinetti reggispinta del duomo consumati e cosa decide la riparazione."
 faq:
   - q: "Come faccio a capire se è il cuscinetto del duomo e non l'ammortizzatore?"
@@ -137,6 +137,6 @@ volante va forzato. La riparazione può solo rincarare, perciò non ha senso
 tirare oltre qualche settimana.
 
 Se qualcosa scricchiola o batte in alto e il colpevole non è ovvio,
-registri il suono con l'app Stuk. L'app confronta la registrazione con le
+registri il suono con l'app Pro-Stuk. L'app confronta la registrazione con le
 sue risposte e mostra le cause probabili con un livello di urgenza, così in
 officina si controllano pezzi precisi e non tutto insieme.

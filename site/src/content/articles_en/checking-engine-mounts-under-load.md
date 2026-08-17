@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-opory-dvigatelya-nagruzkoj"
 title: "Checking engine mounts under load"
-metaTitle: "Checking engine mounts under load | Stuk"
+metaTitle: "Checking engine mounts under load | Pro-Stuk"
 description: "The load test for engine mounts: selecting gears against the brake, what movement to look for, and how to tell mounts from other knocks."
 pubDate: "2026-06-19"
 related:
@@ -105,6 +105,6 @@ driveshafts. A sensible window is to deal with it within a month or two of
 the thump appearing.
 
 If you are unsure whether the impact is really metallic or simply a harsh
-take-off, record the moment of pulling away in the Stuk app. The app
+take-off, record the moment of pulling away in the Pro-Stuk app. The app
 matches the recording with your answers about the regime and shows the
 likely causes with percentages.

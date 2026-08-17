@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de la suspensión trasera en los baches"
-metaTitle: "Golpeteo en la suspensión trasera: causas | Stuk"
+metaTitle: "Golpeteo en la suspensión trasera: causas | Pro-Stuk"
 description: "Qué golpea atrás en los baches: amortiguadores, silentblocks del eje, muelles o el equipaje del maletero. Comprobaciones sin elevador y cómo se decide el arreglo."
 faq:
   - q: "¿Por qué cuesta tanto localizar un golpeteo trasero?"
@@ -132,7 +132,7 @@ el eje colgando, la goma del silentblock vive retorcida y vuelve a golpear
 en unos meses.
 
 Si el golpeteo trasero sigue sin poder atribuirse a una pieza concreta,
-grábelo en la aplicación Stuk: compara el sonido con sus respuestas sobre
+grábelo en la aplicación Pro-Stuk: compara el sonido con sus respuestas sobre
 cuándo y en qué tipo de baches aparece y muestra las causas probables con
 un nivel de urgencia. Con esa lista, el diagnóstico en el elevador va más
 rápido.

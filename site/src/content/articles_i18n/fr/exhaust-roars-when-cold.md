@@ -1,6 +1,6 @@
 ---
 title: "L'échappement rugit à froid"
-metaTitle: "Échappement qui rugit à froid : causes et remèdes | Stuk"
+metaTitle: "Échappement qui rugit à froid : causes et remèdes | Pro-Stuk"
 description: "Pourquoi l'échappement rugit après un départ à froid et se calme en chauffant : joint de collecteur, fissures, flexible. Les contrôles et la réparation."
 faq:
   - q: "Pourquoi le grondement n'est-il là qu'à froid et part-il après la chauffe ?"
@@ -111,7 +111,7 @@ symptôme, par temps doux, est toujours plus simple : les fixations se
 desserrent encore au lieu d'être coupées avec des goujons grippés.
 
 Si vous ne savez pas d'où vient exactement le grondement, enregistrez un
-départ à froid dans l'application Stuk : elle croise l'enregistrement avec
+départ à froid dans l'application Pro-Stuk : elle croise l'enregistrement avec
 vos réponses sur le moment où le son apparaît et où il s'estompe, et
 affiche les causes probables avec un niveau d'urgence — vous arrivez ainsi
 au garage avec une théorie qui tient plutôt qu'avec « ça gronde le

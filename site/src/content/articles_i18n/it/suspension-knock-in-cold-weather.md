@@ -1,6 +1,6 @@
 ---
 title: "Colpi nella sospensione con il freddo"
-metaTitle: "Colpi nella sospensione con il freddo: cosa fare | Stuk"
+metaTitle: "Colpi nella sospensione con il freddo: cosa fare | Pro-Stuk"
 description: "Perché la sospensione batte con il gelo e si zittisce quando si scalda: gomma indurita, olio denso negli ammortizzatori, plastica. Cosa è pericoloso e cosa no."
 faq:
   - q: "Il colpo sparisce dopo il riscaldamento: posso ignorarlo?"
@@ -104,7 +104,7 @@ temperatura. Il poliuretano si guadagna il posto dove i pezzi originali
 non superano una stagione.
 
 Se non sai se è normale o se è usura, registra il colpo mattutino con
-l’app Stuk mentre guidi. L’algoritmo confronta il rumore con le tue
+l’app Pro-Stuk mentre guidi. L’algoritmo confronta il rumore con le tue
 risposte su temperatura e condizioni e mostra le cause probabili con un
 livello di urgenza: diventa più facile decidere se andare subito o
 aspettare con calma un appuntamento programmato.

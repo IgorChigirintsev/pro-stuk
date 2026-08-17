@@ -1,6 +1,6 @@
 ---
 title: "Un claquement seulement avec des passagers ou du chargement"
-metaTitle: "Claquement seulement voiture chargée : causes | Stuk"
+metaTitle: "Claquement seulement voiture chargée : causes | Pro-Stuk"
 description: "À vide la voiture est silencieuse ; avec du monde et des bagages un claquement apparaît. Ce qui change en charge et quelles pièces se trahissent ainsi."
 faq:
   - q: "Pourquoi la voiture est-elle silencieuse à vide et claque-t-elle avec des passagers ?"
@@ -100,7 +100,7 @@ le poids de la voiture sur les roues : serrés suspension pendante, le
 caoutchouc vit en torsion et se déchire en quelques mois.
 
 Si vous voulez comprendre ce qui sonne avant la visite au garage, essayez
-d'enregistrer le son dans l'application Stuk en parcourant deux fois la
+d'enregistrer le son dans l'application Pro-Stuk en parcourant deux fois la
 même portion — à vide puis en charge. La différence entre les
 enregistrements est parlante en soi, et l'application la croise avec vos
 réponses et affiche les causes probables avec leurs pourcentages.

@@ -1,6 +1,6 @@
 ---
 title: "Barulho no cabeçote do Mitsubishi 4B12: tuchos hidráulicos"
-metaTitle: "Barulho dos tuchos do Mitsubishi 4B12 | Stuk"
+metaTitle: "Barulho dos tuchos do Mitsubishi 4B12 | Pro-Stuk"
 description: "Tique-taque no cabeçote do 4B12: como se comportam os tuchos hidráulicos, por que a culpa costuma ser do óleo e como diferenciar da corrente."
 faq:
   - q: "O tique-taque some um minuto depois da partida — isso é normal?"
@@ -90,7 +90,7 @@ linguagem deles está em
 [reconhecer o desgaste das pastilhas de ouvido](/pt/articles/brake-pad-wear-by-ear/).
 
 Se quiser saber se precisa ir à oficina amanhã, grave o som com o
-aplicativo Stuk: uma vez logo após a partida fria, outra com o motor quente
+aplicativo Pro-Stuk: uma vez logo após a partida fria, outra com o motor quente
 em marcha lenta. O aplicativo cruza as gravações com as suas respostas e
 mostra as causas prováveis com percentuais, e a diferença entre as duas
 gravações já diz muito para o mecânico.

@@ -1,6 +1,6 @@
 ---
 title: "Catalisador quebrado: como soa"
-metaTitle: "Catalisador quebrado: como soa o barulho | Stuk"
+metaTitle: "Catalisador quebrado: como soa o barulho | Pro-Stuk"
 description: "Um chocalho de pedrinhas embaixo do assoalho — como soa a cerâmica do catalisador desfeita, como conferir e o que isso ameaça no motor."
 faq:
   - q: "Como soa um catalisador com a cerâmica quebrada?"
@@ -97,7 +97,7 @@ sendo orçado e como a sonda será tratada. Um orçamento que só responde
 «vamos acabar com o barulho» merece uma pergunta a mais.
 
 Se você ouve o chocalho mas não tem certeza de que vem do escapamento,
-grave com o aplicativo Stuk numa via ruim e na saída. O aplicativo cruza a
+grave com o aplicativo Pro-Stuk numa via ruim e na saída. O aplicativo cruza a
 gravação com suas respostas a algumas perguntas e mostra as origens
 prováveis em porcentagem — o que facilita decidir entre ir correndo à
 oficina e agendar um dia conveniente.

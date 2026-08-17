@@ -1,6 +1,6 @@
 ---
 title: "Odgłosy po umyciu komory silnika"
-metaTitle: "Odgłosy po myciu silnika: dlaczego i jak długo | Stuk"
+metaTitle: "Odgłosy po myciu silnika: dlaczego i jak długo | Pro-Stuk"
 description: "Pisk, grzechot albo trzęsienie na biegu jałowym po umyciu komory silnika. Które odgłosy mijają w dwa dni, a które oznaczają zalaną część."
 faq:
   - q: "Jak długo trwa pisk paska po myciu?"
@@ -97,6 +97,6 @@ To eliminuje większość opisanych tu scenariuszy.
 
 Najtrudniejsze jest ocenienie, czy dźwięk naprawdę słabnie. Słuch źle
 pamięta głośność, ale dobrze wychwytuje różnice w bezpośrednim porównaniu.
-Warto nagrać poranny rozruch aplikacją Stuk pierwszego dnia i powtórzyć
+Warto nagrać poranny rozruch aplikacją Pro-Stuk pierwszego dnia i powtórzyć
 trzeciego: aplikacja porównuje nagrania z odpowiedziami na pytania i
 pokazuje, czy sprawa wraca do normy, czy pora umówić diagnostykę.

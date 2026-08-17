@@ -1,6 +1,6 @@
 ---
 title: "Señales de una cadena de distribución estirada"
-metaTitle: "Cadena de distribución estirada: ruido y códigos | Stuk"
+metaTitle: "Cadena de distribución estirada: ruido y códigos | Pro-Stuk"
 description: "Cómo suena una cadena de distribución estirada, qué códigos de avería genera, cómo se mide el estiramiento sin abrir el motor y cómo se decide el trabajo."
 faq:
   - q: "¿Cuál es la primera señal de una cadena estirada?"
@@ -159,5 +159,5 @@ Terminado el trabajo, pida ver la cadena vieja junto a la nueva: en un
 juego gastado la diferencia de longitud se aprecia a simple vista.
 
 ¿No tiene claro si es la cadena u otra cosa? Empiece por una grabación: la
-aplicación Stuk analiza el motor en marcha junto con sus respuestas y le
+aplicación Pro-Stuk analiza el motor en marcha junto con sus respuestas y le
 muestra las causas probables con porcentajes.

@@ -1,6 +1,6 @@
 ---
 title: "Il motorino fa clic ma non gira"
-metaTitle: "Il motorino fa clic ma non gira: le cause | Stuk"
+metaTitle: "Il motorino fa clic ma non gira: le cause | Pro-Stuk"
 description: "Girando la chiave si sente un clic o un ticchettio rapido, ma il motore non gira. Cosa significano un clic singolo e uno rapido, e come distinguere la batteria dal motorino."
 faq:
   - q: "Che differenza c’è tra un clic singolo e un ticchettio rapido?"
@@ -97,7 +97,7 @@ Gli altri rumori nel vano motore all’avviamento sono raccolti nella pagina
 sintomo [fischio all’avviamento](/it/symptoms/squeal-on-startup/).
 
 Se i clic vanno e vengono e in officina l’auto parte a tradimento al primo
-colpo, registra un tentativo di avviamento con l’app Stuk. L’app confronta
+colpo, registra un tentativo di avviamento con l’app Pro-Stuk. L’app confronta
 il carattere dei clic con le tue risposte su come si è comportato il
 quadro strumenti e suggerisce cosa mostrare al meccanico: la batteria, il
 cablaggio o il motorino.

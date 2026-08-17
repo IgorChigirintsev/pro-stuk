@@ -1,6 +1,6 @@
 ---
 title: "Un ruido que solo aparece con carga, subiendo una cuesta"
-metaTitle: "Ruido solo al subir una cuesta con carga | Stuk"
+metaTitle: "Ruido solo al subir una cuesta con carga | Pro-Stuk"
 description: "Por qué hay ruidos que solo se oyen al subir una cuesta a fondo, qué piezas se comportan así y cómo separar la correa de la junta homocinética y la detonación."
 faq:
   - q: "¿Por qué el ruido desaparece en cuanto levanto el pie?"
@@ -100,7 +100,7 @@ sistema de refrigeración son las dos cosas que permiten a un motor
 detonar en silencio, y ninguna se ve en una prueba de carretera.
 
 Cazar este sonido con una grabadora es difícil: solo vive en el momento de
-máxima carga, cuando usted está ocupado conduciendo. La aplicación Stuk
+máxima carga, cuando usted está ocupado conduciendo. La aplicación Pro-Stuk
 graba en segundo plano: láncela antes de la cuesta, haga el tramo como
 siempre y pare arriba. El análisis de la grabación junto con sus respuestas
 a unas pocas preguntas muestra qué pieza está hablando bajo carga.

@@ -1,6 +1,6 @@
 ---
 title: "Tümseklerde süspansiyon gıcırtısı"
-metaTitle: "Tümseklerde süspansiyon gıcırtısı: neden ve çözüm | Stuk"
+metaTitle: "Tümseklerde süspansiyon gıcırtısı: neden ve çözüm | Pro-Stuk"
 description: "Süspansiyon tümseklerde neden gıcırdar: viraj demiri burçları, salıncak burçları, rotiller. Ne zaman gres yeter, ne zaman değişim gerekir."
 faq:
   - q: "Gıcırdayan süspansiyon tehlikeli mi?"
@@ -121,7 +121,7 @@ birebir uyması. Bir numara büyük burç, gıcırtının onarımdan sağ çıkm
 klasik nedenidir.
 
 Ses size bunun zararsız bir gıcırtı mı yoksa aşınmış bir mafsal mı olduğunu
-söylemiyorsa, Stuk uygulamasıyla kaydedin: uygulama kaydı sesin ne zaman
+söylemiyorsa, Pro-Stuk uygulamasıyla kaydedin: uygulama kaydı sesin ne zaman
 çıktığına dair yanıtlarınızla eşleştirir ve olası nedenleri aciliyet
 derecesiyle gösterir.
 

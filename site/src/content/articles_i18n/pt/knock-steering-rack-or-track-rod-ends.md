@@ -1,6 +1,6 @@
 ---
 title: "Batida: caixa de direção ou terminais"
-metaTitle: "Batida na direção: caixa ou terminais? | Stuk"
+metaTitle: "Batida na direção: caixa ou terminais? | Pro-Stuk"
 description: "Batida que chega ao volante em ondulações vem tanto da caixa de direção quanto dos terminais. Como separar as duas com conferências simples."
 faq:
   - q: "A batida chega pelo volante — é a direção com certeza?"
@@ -103,7 +103,7 @@ para descrever. Sobre esse tipo de conversa, veja
 [como não aceitar serviço empurrado na oficina](/pt/articles/avoiding-being-upsold-at-a-workshop/).
 
 Batidas de direção gravam bem quando se sabe onde procurar. Percorra um
-piso ondulado fino gravando o som no aplicativo Stuk, depois faça uma
+piso ondulado fino gravando o som no aplicativo Pro-Stuk, depois faça uma
 segunda gravação num estacionamento sacudindo o volante. O app compara as
 duas e mostra as causas prováveis com porcentagens — e sugere por qual
 plano de folga começar a conferir.

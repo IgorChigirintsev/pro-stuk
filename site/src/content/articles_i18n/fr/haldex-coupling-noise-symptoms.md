@@ -1,6 +1,6 @@
 ---
 title: "Bruit du coupleur Haldex : les symptômes"
-metaTitle: "Bruit du coupleur Haldex : symptômes et diagnostic | Stuk"
+metaTitle: "Bruit du coupleur Haldex : symptômes et diagnostic | Pro-Stuk"
 description: "Comment sonne un coupleur Haldex en difficulté, pourquoi le craquement apparaît en manœuvre lente et ce qui le distingue d'un cardan qui claque."
 faq:
   - q: "Comment distinguer un bruit de coupleur d'un cardan ?"
@@ -109,7 +109,7 @@ ensemble sain.
 
 Si le craquement en virage est apparu récemment et qu'on ne sait pas s'il
 vient de l'avant ou de l'arrière, enregistrez le son dans l'application
-Stuk pendant une manœuvre sur un parking vide. L'application croise
+Pro-Stuk pendant une manœuvre sur un parking vide. L'application croise
 l'enregistrement avec vos réponses et affiche les causes probables avec
 leurs pourcentages — ce qui restreint tout de suite la recherche à un
 essieu.

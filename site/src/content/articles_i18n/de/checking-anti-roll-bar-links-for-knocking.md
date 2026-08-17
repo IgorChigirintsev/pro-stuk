@@ -1,6 +1,6 @@
 ---
 title: "Koppelstangen klopfen: wie man sie prüft"
-metaTitle: "Koppelstangen klopfen: wie man sie prüft | Stuk"
+metaTitle: "Koppelstangen klopfen: wie man sie prüft | Pro-Stuk"
 description: "Klappern über kleine Unebenheiten ist die häufigste Beschwerde über Koppelstangen. Wie Sie sie in zehn Minuten von Hand prüfen und nicht für neue Lenker zahlen."
 faq:
   - q: "Wie unterscheide ich ein Koppelstangenklopfen von anderen?"

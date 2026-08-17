@@ -1,6 +1,6 @@
 ---
 title: "Het geluid verandert als u de vrijstand kiest"
-metaTitle: "Geluid verandert in de vrijstand: wat het zegt | Stuk"
+metaTitle: "Geluid verandert in de vrijstand: wat het zegt | Pro-Stuk"
 description: "U koos de vrijstand tijdens het rijden en het geluid veranderde. Wat dat over de bron zegt, hoe u de test goed uitvoert en wat het uitsluit."
 faq:
   - q: "Is het veilig om tijdens het rijden de vrijstand te kiezen?"

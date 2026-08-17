@@ -1,6 +1,6 @@
 ---
 title: "Comment ne pas se faire vendre des réparations inutiles au garage"
-metaTitle: "Éviter les réparations inutiles au garage | Stuk"
+metaTitle: "Éviter les réparations inutiles au garage | Pro-Stuk"
 description: "Ce que contient un vrai diagnostic, les phrases qui doivent vous faire poser une question, et comment vérifier la liste de travaux sans rien connaître en mécanique."
 faq:
   - q: "Un diagnostic gratuit, c'est normal ?"
@@ -104,7 +104,7 @@ mécano correct fait la différence sans hésiter, parce que c'est comme ça
 qu'il pense la voiture lui-même.
 
 Enfin, ça aide d'arriver avec le bruit lui-même plutôt qu'avec le récit
-du bruit. Enregistrez-le dans l'application Stuk, dans la situation où
+du bruit. Enregistrez-le dans l'application Pro-Stuk, dans la situation où
 il s'entend le mieux. L'application recoupe l'enregistrement avec vos
 réponses et affiche les causes probables avec des pourcentages, si bien
 que la discussion démarre sur une hypothèse précise plutôt que sur une

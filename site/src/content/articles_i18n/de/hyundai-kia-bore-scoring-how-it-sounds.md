@@ -1,6 +1,6 @@
 ---
 title: "Hyundai/Kia: wie sich Zylinderriefen anhören"
-metaTitle: "Hyundai/Kia: wie Zylinderriefen klingen | Stuk"
+metaTitle: "Hyundai/Kia: wie Zylinderriefen klingen | Pro-Stuk"
 description: "Wie Sie Zylinderriefen bei Motoren von Hyundai und Kia nach Gehör erkennen: Charakter des Klopfens, Bindung an Warmlaufen und Last, und wie es bestätigt wird."
 faq:
   - q: "Klopfen Zylinderriefen kalt oder warm?"

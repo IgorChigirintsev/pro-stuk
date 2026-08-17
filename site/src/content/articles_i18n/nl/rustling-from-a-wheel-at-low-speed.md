@@ -1,6 +1,6 @@
 ---
 title: "Geritsel van een wiel bij lage snelheid"
-metaTitle: "Geritsel van een wiel bij lage snelheid: oorzaken | Stuk"
+metaTitle: "Geritsel van een wiel bij lage snelheid: oorzaken | Pro-Stuk"
 description: "Geritsel van een wiel bij 10–30 km/u komt meestal van de remmen of het stofschild. Zo hoort u onschuldig aanlopen van beginnende slijtage."
 faq:
   - q: "Het geritsel is alleen onder 30 km/u hoorbaar — is dat normaal?"

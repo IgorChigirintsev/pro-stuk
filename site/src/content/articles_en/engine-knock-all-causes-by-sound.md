@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-dvigatele-vse-prichiny"
 title: "Engine knock: all the causes by type of sound"
-metaTitle: "Engine knock: all the causes by type of sound | Stuk"
+metaTitle: "Engine knock: all the causes by type of sound | Pro-Stuk"
 description: "A map of engine knocks by character of sound: ticking, clicking, ringing, dull thumps. What each one means and how urgent it is."
 pubDate: "2026-07-01"
 related:
@@ -159,7 +159,7 @@ on revs or on road speed; does it appear under load or at idle. Those
 three answers save the mechanic half the diagnostic time and save you the
 cost of it.
 
-To avoid guessing from descriptions, record the running engine in the Stuk
+To avoid guessing from descriptions, record the running engine in the Pro-Stuk
 app: it matches the recording with your answers about the conditions and
 shows the likely causes with percentages and a level of urgency — with
 that list the conversation at the workshop becomes specific.

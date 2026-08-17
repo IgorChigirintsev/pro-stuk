@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura dei supporti motore"
-metaTitle: "Supporti motore usurati: vibrazioni e strappi | Stuk"
+metaTitle: "Supporti motore usurati: vibrazioni e strappi | Pro-Stuk"
 description: "Vibrazioni al minimo, strappo inserendo la marcia, un colpo in accelerazione: come riconoscere i supporti motore finiti e cosa decide la riparazione."
 faq:
   - q: "Quanti supporti ha un motore?"
@@ -130,6 +130,6 @@ mentre si serra. Un supporto avvitato con il motore appeso all'angolo
 sbagliato resta precaricato e si lacera di nuovo nel giro di mesi.
 
 Se sono comparse vibrazioni e strappi ma non è sicuro della diagnosi,
-registri il motore in funzione con l'app Stuk: confronta il suono con le sue
+registri il motore in funzione con l'app Pro-Stuk: confronta il suono con le sue
 risposte sui sintomi e mostra le cause probabili con un livello di urgenza,
 abbastanza per un discorso concreto con il meccanico.

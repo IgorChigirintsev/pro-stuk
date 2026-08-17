@@ -1,6 +1,6 @@
 ---
 title: "Ruido en la culata del Mitsubishi 4B12: taqués hidráulicos"
-metaTitle: "Ruido de taqués del Mitsubishi 4B12 | Stuk"
+metaTitle: "Ruido de taqués del Mitsubishi 4B12 | Pro-Stuk"
 description: "Tableteo desde la parte alta de un 4B12: cómo se comportan los taqués hidráulicos, por qué la culpa suele ser del aceite y en qué se diferencia de la cadena."
 faq:
   - q: "El tableteo desaparece un minuto después de arrancar, ¿es normal?"
@@ -101,7 +101,7 @@ y compare su sonido con la página de síntomas
 [todos los golpes de motor por su sonido](/es/articles/engine-knock-all-causes-by-sound/).
 
 Si quiere saber si conviene entrar al taller mañana mismo, grabe el sonido
-con la aplicación Stuk: una vez justo después de un arranque en frío y otra
+con la aplicación Pro-Stuk: una vez justo después de un arranque en frío y otra
 con el motor caliente al ralentí. La aplicación cruza las grabaciones con
 sus respuestas y muestra las causas probables con porcentajes, y la
 diferencia entre las dos grabaciones ya le dice mucho a un mecánico.

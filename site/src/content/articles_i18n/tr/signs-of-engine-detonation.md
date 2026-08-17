@@ -1,6 +1,6 @@
 ---
 title: "Motorda vuruntulu yanmanın belirtileri"
-metaTitle: "Motorda vuruntulu yanma: nasıl anlaşılır | Stuk"
+metaTitle: "Motorda vuruntulu yanma: nasıl anlaşılır | Pro-Stuk"
 description: "Motorda vuruntulu yanma nasıl tanınır: gaz verirken çıtırtı, güç kaybı, artan yakıt tüketimi. Yakıttan kuruma kadar bütün nedenleri."
 faq:
   - q: "Vuruntulu yanma sesiyle biyel vuruntusundan nasıl ayrılır?"
@@ -139,7 +139,7 @@ Bu adımların hepsi, sonuçlarıyla kıyaslanamayacak kadar ucuzdur: piston ve
 segman hasarı revizyon demektir.
 
 Bunun vuruntulu yanma mı yoksa mekanik bir vuruntu mu olduğundan emin
-değilseniz, hızlanmayı Stuk uygulamasında kaydedin. Uygulama kaydı tipik
+değilseniz, hızlanmayı Pro-Stuk uygulamasında kaydedin. Uygulama kaydı tipik
 motor sesleriyle eşleştirir, birkaç açıklayıcı soru sorar ve olası
 nedenleri aciliyet seviyesiyle gösterir — elinizde bununla serviste
 konuşma daha kısa ve daha somut olur.

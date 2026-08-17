@@ -1,6 +1,6 @@
 ---
 title: "Tintinnio metallico del motore in accelerazione"
-metaTitle: "Tintinnio metallico in accelerazione: le cause | Stuk"
+metaTitle: "Tintinnio metallico in accelerazione: le cause | Pro-Stuk"
 description: "Un tintinnio come di monetine in una lattina durante l'accelerazione è quasi sempre detonazione. Le cause — carburante, depositi, candele, sensore — e cosa controllare."
 faq:
   - q: "Perché il tintinnio compare proprio in accelerazione?"
@@ -135,7 +135,7 @@ iniettore che gocciola ricostruiscono lo stesso strato di carbonio nel giro
 di un anno, e pulire senza curare la causa significa spendere due volte.
 
 Se non è sicuro se sia detonazione o qualcosa di meccanico, registri
-un'accelerazione con l'app Stuk: confronta la registrazione con le sue
+un'accelerazione con l'app Pro-Stuk: confronta la registrazione con le sue
 risposte su quando compare il tintinnio e mostra le cause probabili con le
 percentuali e un livello di urgenza, un comodo punto di partenza prima di
 andare in officina.

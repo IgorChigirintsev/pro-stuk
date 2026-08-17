@@ -1,6 +1,6 @@
 ---
 title: "Silnik trzęsie się i stuka"
-metaTitle: "Silnik trzęsie i stuka: przyczyny i kolejne kroki | Stuk"
+metaTitle: "Silnik trzęsie i stuka: przyczyny i kolejne kroki | Pro-Stuk"
 description: "Silnik trzęsie się, obroty pływają i słychać stuk: przyczyny od świec i cewek po zatarte cylindry. Jak znaleźć martwy cylinder i dlaczego zwłoka drożeje."
 faq:
   - q: "Czy można jeździć, kiedy silnikowi wypadają zapłony?"
@@ -105,6 +105,6 @@ prostu zabija nowy. Warsztat, który proponuje katalizator, zanim wyleczy
 wypadanie, ma złą kolejność.
 
 Żeby przyjechać przygotowanym, proszę nagrać pracę silnika w aplikacji
-Stuk: analizuje ona dźwięk, zadaje kilka pytań o warunki i pokazuje
+Pro-Stuk: analizuje ona dźwięk, zadaje kilka pytań o warunki i pokazuje
 prawdopodobne przyczyny z procentami oraz pilnością. Z takim obrazem z
 góry łatwiej pilnować i diagnozy, i kosztorysu.

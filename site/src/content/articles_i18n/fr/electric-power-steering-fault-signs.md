@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une panne de direction assistée électrique"
-metaTitle: "Direction assistée électrique : signes de panne | Stuk"
+metaTitle: "Direction assistée électrique : signes de panne | Pro-Stuk"
 description: "Reconnaître une panne de direction assistée électrique : direction dure, assistance irrégulière, témoin, claquements. Ce qu'on contrôle avant le garage."
 faq:
   - q: "Peut-on rouler avec une direction assistée électrique en panne ?"
@@ -112,7 +112,7 @@ et contrôle de stabilité, sauter cette étape laisse l'assistance décalée
 et les témoins allumés.
 
 Si vous ne savez pas si un bruit dans la direction appartient à
-l'assistance, enregistrez-le dans l'application Stuk : faites un
+l'assistance, enregistrez-le dans l'application Pro-Stuk : faites un
 enregistrement pendant une manœuvre à l'arrêt et un autre en roulant,
 répondez à quelques questions, et l'application confronte le tableau à des
 profils de pannes typiques puis suggère la cause probable et le degré

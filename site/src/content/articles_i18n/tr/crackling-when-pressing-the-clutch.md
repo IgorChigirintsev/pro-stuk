@@ -1,6 +1,6 @@
 ---
 title: "Debriyaja basınca gelen çatırtı"
-metaTitle: "Debriyaja basınca çatırtı: nedenleri | Stuk"
+metaTitle: "Debriyaja basınca çatırtı: nedenleri | Pro-Stuk"
 description: "Debriyaj pedalı inerken gelen çatırtı genelde çatal, kılavuz kovan ya da kuru mafsaldan gelir. Ucuz neden şanzıman indirmekten nasıl ayrılır."
 faq:
   - q: "Pedaldaki çatırtı bilya rulmanı mıdır?"
@@ -84,6 +84,6 @@ demektir. Ve varsa çift kütleli volan aynı anda değerlendirilir, çünkü he
 ikiye katlayabilecek tek kalem odur.
 
 Sesin nereden geldiğini ayırmak zorsa — kabinden mi kaputun altından mı —
-Stuk uygulamasına iki kayıt alın: biri motor kapalıyken, biri çalışırken.
+Pro-Stuk uygulamasına iki kayıt alın: biri motor kapalıyken, biri çalışırken.
 Uygulama kayıtları cevaplarınızla karşılaştırır ve muhtemel nedenleri
 yüzdeleriyle gösterir; böylece servisteki konuşma doğru uçtan başlar.

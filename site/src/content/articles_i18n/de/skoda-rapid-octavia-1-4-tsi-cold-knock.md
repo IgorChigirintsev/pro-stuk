@@ -1,6 +1,6 @@
 ---
 title: "Kaltklopfen bei Škoda Rapid und Octavia 1.4 TSI"
-metaTitle: "Kaltklopfen: Škoda Rapid und Octavia 1.4 TSI | Stuk"
+metaTitle: "Kaltklopfen: Škoda Rapid und Octavia 1.4 TSI | Pro-Stuk"
 description: "Kaltklopfen bei Škoda Rapid und Octavia mit dem 1.4 TSI: Steuerkette und Spanner, Hydrostößel, Nebenaggregate. So unterscheiden Sie die Quellen."
 faq:
   - q: "Das Klopfen geht eine Minute nach dem Start weg — ist das normal?"

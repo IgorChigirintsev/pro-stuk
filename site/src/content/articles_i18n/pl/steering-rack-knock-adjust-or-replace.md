@@ -1,6 +1,6 @@
 ---
-title: "Stuk przekładni kierowniczej: regulacja czy wymiana"
-metaTitle: "Stuk przekładni kierowniczej: regulacja czy wymiana | Stuk"
+title: "Pro-Stuk przekładni kierowniczej: regulacja czy wymiana"
+metaTitle: "Pro-Stuk przekładni kierowniczej: regulacja czy wymiana | Pro-Stuk"
 description: "Kiedy stukającą przekładnię kierowniczą wystarczy wyregulować, a kiedy potrzebny jest remont lub wymiana: kryteria i ryzyko przeciągnięcia regulacji."
 faq:
   - q: "Na jak długo wystarcza regulacja przekładni?"
@@ -46,7 +46,7 @@ wyjściowy stuk.
 | Sytuacja | Rozsądna decyzja |
 |---|---|
 | Lekki stuk, mały luz, suche mieszki | Regulacja |
-| Stuk wrócił szybko po regulacji | Remont |
+| Pro-Stuk wrócił szybko po regulacji | Remont |
 | Duży luz, zacinanie na krańcach skoku | Remont |
 | Wyciek płynu z mieszka (wspomaganie hydrauliczne) | Remont z nowymi uszczelnieniami |
 | Głębokie wytarcia na listwie, zatarcia, korozja | Wymiana mechanizmu |
@@ -101,6 +101,6 @@ Pełna lista objawów samego mechanizmu jest w tekście
 [objawy usterki przekładni kierowniczej](/pl/articles/steering-rack-fault-signs/).
 
 Jeśli decyzja wciąż jest otwarta, a przydałaby się niezależna druga opinia,
-nagraj stuk w aplikacji Stuk na odcinku drogi, o którym wiadomo, że jest
+nagraj stuk w aplikacji Pro-Stuk na odcinku drogi, o którym wiadomo, że jest
 dziurawy. Aplikacja zestawia dźwięk z odpowiedziami, pokazuje prawdopodobne
 przyczyny i poziom pilności — i rozmowa w warsztacie robi się konkretna.

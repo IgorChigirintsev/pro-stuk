@@ -1,6 +1,6 @@
 ---
 title: "Come suona il battito delle bronzine di biella"
-metaTitle: "Battito bronzine di biella: come suona | Stuk"
+metaTitle: "Battito bronzine di biella: come suona | Pro-Stuk"
 description: "Un battito metallico duro dal centro del basamento che cresce sotto carico: come suonano le bronzine di biella consumate, come si localizzano e che cosa rischiano."
 faq:
   - q: "Posso arrivare in officina con le mie ruote se battono le bronzine di biella?"
@@ -125,7 +125,7 @@ rispetti intervalli di cambio onesti con un margine per l'uso cittadino e
 non ignori la spia della pressione.
 
 Se il suono è appena comparso e non è sicuro che venga davvero dal fondo
-del basamento, registri un breve colpo di gas in folle con l'app Stuk.
+del basamento, registri un breve colpo di gas in folle con l'app Pro-Stuk.
 L'app confronta la registrazione con le sue risposte sulle condizioni e
 mostra le cause probabili in percentuale — e le dice se il motore vada
 avviato o meno prima di una diagnosi.

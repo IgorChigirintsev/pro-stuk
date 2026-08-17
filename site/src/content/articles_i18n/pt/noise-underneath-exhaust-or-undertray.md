@@ -1,6 +1,6 @@
 ---
 title: "Ruído embaixo do carro: escapamento ou protetor de cárter"
-metaTitle: "Ruído embaixo: escapamento ou protetor de cárter | Stuk"
+metaTitle: "Ruído embaixo: escapamento ou protetor de cárter | Pro-Stuk"
 description: "Chocalho metálico embaixo do carro vem do escapamento ou do protetor de cárter. Como separar os dois de ouvido e com a mão em dez minutos."
 faq:
   - q: "Como distinguir rápido o protetor do escapamento?"
@@ -95,7 +95,7 @@ suspeitos passa para os acessórios — por onde começar ali está em
 [zunido no cofre: alternador ou bomba d'água](/pt/articles/alternator-or-water-pump-whine/).
 
 Se depois de todos os testes ainda restar dúvida, grave o som no aplicativo
-Stuk — primeiro em marcha lenta acelerando de leve, depois rodando num trecho
+Pro-Stuk — primeiro em marcha lenta acelerando de leve, depois rodando num trecho
 ruim. O aplicativo cruza as duas gravações com as suas respostas e mostra as
 causas prováveis com percentuais, de modo que a conversa com o mecânico
 começa a partir de uma teoria concreta, e não de «tem alguma coisa

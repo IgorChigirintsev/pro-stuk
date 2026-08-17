@@ -1,6 +1,6 @@
 ---
 title: "Señales de una caja automática que se muere"
-metaTitle: "Señales de una caja automática que se muere | Stuk"
+metaTitle: "Señales de una caja automática que se muere | Pro-Stuk"
 description: "Una automática rara vez falla de la noche a la mañana: primero llegan patinazos, zumbidos y retardos. Las señales tempranas y qué hacer en cada fase."
 faq:
   - q: "¿Cuál es la señal más alarmante en una caja automática?"
@@ -101,7 +101,7 @@ partículas viejas, vuelve al taller, y esa es la causa más frecuente de
 que una reconstrucción fracase en menos de un año.
 
 Si está en una fase temprana y no tiene claro si el sonido de la caja ha
-cambiado en los últimos meses, grábelo en la aplicación Stuk cada pocas
+cambiado en los últimos meses, grábelo en la aplicación Pro-Stuk cada pocas
 semanas: al ralentí, en punto muerto y acelerando. La aplicación guarda el
 historial, compara las grabaciones y muestra si la cosa va a peor o si el
 sonido siempre fue así.

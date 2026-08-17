@@ -1,6 +1,6 @@
 ---
 title: "Ein Rascheln vom Rad bei niedrigem Tempo"
-metaTitle: "Rascheln vom Rad bei niedrigem Tempo: Ursachen | Stuk"
+metaTitle: "Rascheln vom Rad bei niedrigem Tempo: Ursachen | Pro-Stuk"
 description: "Ein Rascheln vom Rad bei 10 bis 30 km/h kommt meist von der Bremse oder vom Schutzblech. So trennen Sie harmloses Streifen vom Verschleiß."
 faq:
   - q: "Das Rascheln ist nur unter 30 km/h zu hören — ist das normal?"

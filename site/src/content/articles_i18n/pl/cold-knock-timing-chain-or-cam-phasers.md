@@ -1,6 +1,6 @@
 ---
-title: "Stuk na zimno: łańcuch rozrządu czy faza rozrządu"
-metaTitle: "Stuk na zimno: łańcuch czy faza rozrządu | Stuk"
+title: "Pro-Stuk na zimno: łańcuch rozrządu czy faza rozrządu"
+metaTitle: "Pro-Stuk na zimno: łańcuch czy faza rozrządu | Pro-Stuk"
 description: "Grzechot w pierwszych sekundach po zimnym rozruchu daje i rozciągnięty łańcuch rozrządu, i regulator fazy. Jak rozróżnić je po czasie trwania dźwięku."
 faq:
   - q: "Ile sekund stuku na zimno to jeszcze norma?"
@@ -92,7 +92,7 @@ zasilany przez zatkaną siatkę grzechocze dokładnie tak samo jak zużyty,
 a czyszczenie kosztuje ułamek ceny części.
 
 Jeśli nie wiadomo, czy Pana dźwięk mieści się w normie, proszę nagrać
-zimny rozruch w aplikacji Stuk przez kilka dni z rzędu. Aplikacja
+zimny rozruch w aplikacji Pro-Stuk przez kilka dni z rzędu. Aplikacja
 rozkłada nagranie na charakter i czas trwania i pokazuje prawdopodobne
 przyczyny z procentami — a porównanie nagrań między sobą samo w sobie
 mówi, czy dźwięk jest stabilny, czy narasta.

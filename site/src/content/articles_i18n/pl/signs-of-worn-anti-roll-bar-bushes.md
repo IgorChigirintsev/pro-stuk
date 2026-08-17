@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych tulei stabilizatora"
-metaTitle: "Zużyte tuleje stabilizatora: dźwięk i kontrola | Stuk"
+metaTitle: "Zużyte tuleje stabilizatora: dźwięk i kontrola | Pro-Stuk"
 description: "Jak brzmią zużyte tuleje stabilizatora, czym różnią się od łączników, jak sprawdzić je samemu i na czym polega ich wymiana."
 faq:
   - q: "Czy mogę jeździć ze zużytymi tulejami stabilizatora?"
@@ -106,6 +106,6 @@ i własne punkty mocowania, a wymiana stabilizatora to już inny rząd
 kosztów.
 
 Nie ma Pan pewności, czy stukają tuleje? Proszę nagrać dźwięk na typowym
-odcinku w aplikacji Stuk: algorytm zestawia nagranie z Pana odpowiedziami i
+odcinku w aplikacji Pro-Stuk: algorytm zestawia nagranie z Pana odpowiedziami i
 pokazuje prawdopodobne przyczyny z procentami oraz poziomem pilności —
 dzięki temu trafia Pan do warsztatu z roboczą hipotezą, a nie z domysłem.

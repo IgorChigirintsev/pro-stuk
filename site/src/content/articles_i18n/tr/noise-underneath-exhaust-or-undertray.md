@@ -1,6 +1,6 @@
 ---
 title: "Alttan gelen ses: egzoz mu alt koruma sacı mı"
-metaTitle: "Alttan ses: egzoz mu alt koruma sacı mı | Stuk"
+metaTitle: "Alttan ses: egzoz mu alt koruma sacı mı | Pro-Stuk"
 description: "Alttan gelen metalik takırtı ya egzoz sisteminden ya da alt koruma sacından gelir. İkisini on dakikada kulakla ve elle nasıl ayırırsınız."
 faq:
   - q: "Alt koruma sacını egzozdan hızlıca nasıl ayırırım?"
@@ -98,7 +98,7 @@ Takırtının ne alt koruma sacı ne egzoz olduğu ortaya çıkarsa, şüphelile
 [kaput altında uğultu: alternatör mü su pompası mı](/tr/articles/alternator-or-water-pump-whine/)
 yazısında.
 
-Bütün kontrollerden sonra hâlâ emin değilseniz, sesi Stuk uygulamasıyla
+Bütün kontrollerden sonra hâlâ emin değilseniz, sesi Pro-Stuk uygulamasıyla
 kaydedin — önce rölantide gaz oynatarak, sonra bozuk bir yol parçasında
 giderken. Uygulama iki kaydı da verdiğiniz yanıtlarla eşleştirip olası
 sebepleri yüzdeleriyle gösterir; böylece ustayla konuşma «aşağıda bir

@@ -1,6 +1,6 @@
 ---
 title: "O escapamento ronca a frio"
-metaTitle: "Escapamento roncando a frio: causas e solução | Stuk"
+metaTitle: "Escapamento roncando a frio: causas e solução | Pro-Stuk"
 description: "Por que o escapamento ronca depois da partida a frio e silencia ao aquecer: junta do coletor, trincas, flexível. As verificações e o conserto."
 faq:
   - q: "Por que o ronco só existe a frio e some depois do aquecimento?"
@@ -107,7 +107,7 @@ quente, é sempre mais fácil: as fixações ainda soltam, em vez de serem
 cortadas junto com parafusos agarrados.
 
 Se você não tem certeza de onde exatamente vem o ronco, grave uma partida
-a frio no aplicativo Stuk: ele cruza a gravação com as suas respostas
+a frio no aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas
 sobre quando o som aparece e quando some, e mostra as causas prováveis com
 nível de urgência — assim você chega à oficina com uma teoria de trabalho,
 e não com "de manhã ronca alguma coisa".

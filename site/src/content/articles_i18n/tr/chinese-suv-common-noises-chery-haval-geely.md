@@ -1,6 +1,6 @@
 ---
 title: "Çin marka SUV'lar: Chery, Haval ve Geely'de tipik sesler"
-metaTitle: "Çin SUV sesleri: Chery, Haval, Geely | Stuk"
+metaTitle: "Çin SUV sesleri: Chery, Haval, Geely | Pro-Stuk"
 description: "Çin marka SUV'larda ilk yıllarda en sık hangi sesler çıkar, arkalarında ne yatar ve kontrole hangi adımdan başlamak mantıklıdır."
 faq:
   - q: "Çin marka SUV'lar diğerlerinden daha çok mu ses yapar?"
@@ -99,6 +99,6 @@ görüldüğünü ve nasıl bulunduğunu sorun.
 
 Ziyaretten önce «bir şeyler takırdıyor» yerine ayrıntıyla gitmek işe yarar:
 hangi hızda, hangi zeminde, motor soğukken mi sıcakken mi. Sesi kaydedip
-koşullara göre ayırmayı Stuk uygulamasında yapabilirsiniz — kaydı birkaç
+koşullara göre ayırmayı Pro-Stuk uygulamasında yapabilirsiniz — kaydı birkaç
 sorunun cevaplarıyla eşleştirir ve olası sebepleri yüzdelerle gösterir; bu
 da servis danışmanıyla konuşmayı belirgin şekilde kolaylaştırır.

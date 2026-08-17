@@ -1,6 +1,6 @@
 ---
 title: "Brummen: Radlager oder Reifen — die Unterscheidung"
-metaTitle: "Brummen: Radlager oder Reifen unterscheiden | Stuk"
+metaTitle: "Brummen: Radlager oder Reifen unterscheiden | Pro-Stuk"
 description: "Wie Sie Radlagerbrummen von Reifengeräusch trennen: Tests in einer Fahrt, eine Vergleichstabelle der Zeichen und die Fehler, die Geld kosten."
 faq:
   - q: "Das Brummen trat direkt nach der Montage anderer Räder auf. Was ist das?"

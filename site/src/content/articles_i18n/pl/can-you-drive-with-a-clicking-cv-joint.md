@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć ze stukającym przegubem napędowym"
-metaTitle: "Czy można jeździć ze stukającym przegubem? | Stuk"
+metaTitle: "Czy można jeździć ze stukającym przegubem? | Pro-Stuk"
 description: "Stukanie przegubu na zakrętach to nie natychmiastowa awaria, ale i nie stan na lata. Ile czasu Pan ma i kiedy jechać już nie wolno."
 faq:
   - q: "Ile kilometrów przejadę ze stukającym przegubem napędowym?"
@@ -92,7 +92,7 @@ Przeguby napędowe wymagają specjalnego smaru na bazie molibdenu, a
 niewłaściwy skraca życie skądinąd poprawnej naprawy.
 
 Jeśli stukanie jest ledwie słyszalne i trudno ocenić, czy to etap wczesny,
-czy średni, proszę nagrać dźwięk w aplikacji Stuk podczas powolnego koła z
+czy średni, proszę nagrać dźwięk w aplikacji Pro-Stuk podczas powolnego koła z
 kierownicą skręconą do oporu. Aplikacja zestawi nagranie z odpowiedziami
 na kilka pytań i pokaże, jak długo sytuacja może poczekać i czy trzeba
 liczyć się z lawetą.

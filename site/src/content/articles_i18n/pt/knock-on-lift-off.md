@@ -1,6 +1,6 @@
 ---
 title: "Batida ao tirar o pé do acelerador"
-metaTitle: "Batida ao tirar o pé: coxins, transmissão, corrente | Stuk"
+metaTitle: "Batida ao tirar o pé: coxins, transmissão, corrente | Pro-Stuk"
 description: "Batida única ao soltar o acelerador: coxins do motor gastos, folga na transmissão, corrente de comando, escapamento. Como localizar a origem."
 faq:
   - q: "Por que a batida aparece ao tirar o pé, e não o tempo todo?"
@@ -99,7 +99,7 @@ Esses cinco passos costumam bastar para chegar à oficina com uma teoria
 específica em vez de «alguma coisa bate» — o que economiza tempo de
 diagnóstico e dinheiro.
 
-Para encurtar essa lista mais rápido existe o aplicativo Stuk: grave o som
+Para encurtar essa lista mais rápido existe o aplicativo Pro-Stuk: grave o som
 no momento em que tira o pé, responda algumas perguntas sobre as
 condições, e receba as causas prováveis com porcentagens e um nível de
 urgência.

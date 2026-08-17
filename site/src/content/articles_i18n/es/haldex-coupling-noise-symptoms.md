@@ -1,6 +1,6 @@
 ---
 title: "Ruido del acoplamiento Haldex: los síntomas"
-metaTitle: "Ruido del acoplamiento Haldex: síntomas y diagnóstico | Stuk"
+metaTitle: "Ruido del acoplamiento Haldex: síntomas y diagnóstico | Pro-Stuk"
 description: "Cómo suena un acoplamiento Haldex con problemas, por qué el crujido aparece en maniobras lentas y en qué se diferencia del chasquido de una junta homocinética."
 faq:
   - q: "¿En qué se diferencia el ruido del acoplamiento del de una junta homocinética?"
@@ -112,7 +112,7 @@ neumáticos coinciden en medida y en profundidad de dibujo entre ejes: un
 desajuste ahí produce exactamente estos síntomas en un conjunto sano.
 
 Si el crujido en los giros ha aparecido hace poco y no está claro si viene de
-delante o de detrás, grabe el sonido con la aplicación Stuk durante una
+delante o de detrás, grabe el sonido con la aplicación Pro-Stuk durante una
 maniobra en un aparcamiento vacío. La aplicación compara la grabación con sus
 respuestas y muestra las causas probables con porcentajes, lo que reduce la
 búsqueda a un solo eje de entrada.

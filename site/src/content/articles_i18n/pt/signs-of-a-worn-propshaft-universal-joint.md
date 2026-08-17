@@ -1,6 +1,6 @@
 ---
 title: "Sinais de cruzeta do cardã gasta"
-metaTitle: "Cruzeta do cardã gasta: sinais por estágio | Stuk"
+metaTitle: "Cruzeta do cardã gasta: sinais por estágio | Pro-Stuk"
 description: "Tranco na saída, vibração em velocidade e ronco metálico sob o assoalho — como reconhecer o desgaste da cruzeta do cardã por estágio."
 faq:
   - q: "Como diferencio a cruzeta do rolamento central?"
@@ -102,6 +102,6 @@ separado, para que os flanges voltem na mesma orientação — só isso já evit
 a maior parte das vibrações pós-reparo.
 
 Se a batida ainda é ocasional e você quer saber se ela vem mesmo de baixo
-do assoalho e não da suspensão, grave no aplicativo Stuk no momento da
+do assoalho e não da suspensão, grave no aplicativo Pro-Stuk no momento da
 saída. O app cruza a gravação com as suas respostas a algumas perguntas e
 mostra as causas prováveis com porcentagens.

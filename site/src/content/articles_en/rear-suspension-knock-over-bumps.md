@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-zadnej-podveske"
 title: "Rear suspension knock over bumps"
-metaTitle: "Rear suspension knock over bumps: causes | Stuk"
+metaTitle: "Rear suspension knock over bumps: causes | Pro-Stuk"
 description: "What knocks in the rear suspension over bumps: dampers, beam bushes, springs or luggage in the boot. Checks without a lift and how repairs are chosen."
 pubDate: "2026-08-02"
 related:
@@ -135,6 +135,6 @@ finally torqued with the suspension loaded — done up with the beam
 hanging, the bush rubber lives twisted and knocks again within months.
 
 If a knock at the rear still cannot be pinned to a specific part, record
-it in the Stuk app: it matches the sound with your answers about when and
+it in the Pro-Stuk app: it matches the sound with your answers about when and
 on what kind of bumps it appears and shows the likely causes with a level
 of urgency — with that list the diagnosis on a lift goes faster.

@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec une boîte de vitesses qui hurle"
-metaTitle: "Peut-on rouler avec une boîte de vitesses qui hurle ? | Stuk"
+metaTitle: "Peut-on rouler avec une boîte de vitesses qui hurle ? | Pro-Stuk"
 description: "Une boîte qui hurle immobilise rarement la voiture tout de suite, mais la marge dépend du caractère du bruit : ce qui hurle, les signes urgents et ce qu'il faut faire."
 faq:
   - q: "Combien de kilomètres peut-on faire avec une boîte qui hurle ?"
@@ -109,7 +109,7 @@ que le bruit ne s'aggrave.
 
 Si le hurlement est encore régulier et que vous voulez savoir si un
 roulement d'arbre est derrière ou si c'est un simple bruit de pneus,
-enregistrez le son dans l'application Stuk sur différents rapports puis
+enregistrez le son dans l'application Pro-Stuk sur différents rapports puis
 en roue libre. L'application compare les enregistrements entre eux et
 affiche les causes probables avec des pourcentages — ce qui rend la
 visite de diagnostic plus facile.

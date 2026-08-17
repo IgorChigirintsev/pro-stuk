@@ -9,7 +9,7 @@ export const de: Record<string, HubText> = {
   dvigatel: {
     h1: 'Motorgeräusche und Klopfen',
     short: 'Motor',
-    metaTitle: 'Motorgeräusche und Klopfen: Ratgeber | Stuk',
+    metaTitle: 'Motorgeräusche und Klopfen: Ratgeber | Pro-Stuk',
     description:
       'Alle Motorgeräusche an einem Ort: Klopfen, Ticken, Klappern, Klingeln, Pfeifen. Wie Sie Harmloses von Gefährlichem trennen und was Sie selbst prüfen können.',
     intro: [
@@ -21,7 +21,7 @@ export const de: Record<string, HubText> = {
   podveska: {
     h1: 'Klopfen und Knarzen im Fahrwerk',
     short: 'Fahrwerk und Lenkung',
-    metaTitle: 'Klopfen und Knarzen im Fahrwerk: Ratgeber | Stuk',
+    metaTitle: 'Klopfen und Knarzen im Fahrwerk: Ratgeber | Pro-Stuk',
     description:
       'Klopfen auf Unebenheiten, Knarzen, Spiel in der Lenkung: wie Sie die Quelle im Fahrwerk und in der Lenkung bestimmen und was Sie selbst prüfen können.',
     intro: [
@@ -33,7 +33,7 @@ export const de: Record<string, HubText> = {
   tormoza: {
     h1: 'Quietschen und Schleifen der Bremsen',
     short: 'Bremsen und Räder',
-    metaTitle: 'Quietschen und Schleifen der Bremsen: Ratgeber | Stuk',
+    metaTitle: 'Quietschen und Schleifen der Bremsen: Ratgeber | Pro-Stuk',
     description:
       'Quietschen, Pfeifen, Schleifen und Rubbeln beim Bremsen: was jedes Geräusch bedeutet, wann Sie nicht weiterfahren dürfen und wie Sie Beläge selbst prüfen.',
     intro: [
@@ -45,7 +45,7 @@ export const de: Record<string, HubText> = {
   transmissiya: {
     h1: 'Geräusche von Getriebe und Antrieb',
     short: 'Antriebsstrang',
-    metaTitle: 'Geräusche von Getriebe und Antrieb: Ratgeber | Stuk',
+    metaTitle: 'Geräusche von Getriebe und Antrieb: Ratgeber | Pro-Stuk',
     description:
       'Heulen des Getriebes, Knacken der Gelenkwellen, Schläge beim Gangwechsel und Brummen der Kupplung: wie Sie die Quelle unter dem Boden bestimmen.',
     intro: [
@@ -57,7 +57,7 @@ export const de: Record<string, HubText> = {
   vyhlop: {
     h1: 'Geräusche der Abgasanlage',
     short: 'Abgasanlage',
-    metaTitle: 'Geräusche der Abgasanlage: Ratgeber | Stuk',
+    metaTitle: 'Geräusche der Abgasanlage: Ratgeber | Pro-Stuk',
     description:
       'Dröhnen, Knallen aus dem Auspuff, Klappern unter dem Boden und ein klingelndes Hitzeschild: was Abgasgeräusche bedeuten und warum sie wichtig sind.',
     intro: [
@@ -68,7 +68,7 @@ export const de: Record<string, HubText> = {
   salon: {
     h1: 'Knarzen und Klappern im Innenraum',
     short: 'Innenraum und Karosserie',
-    metaTitle: 'Knarzen und Klappern im Innenraum: Suche | Stuk',
+    metaTitle: 'Knarzen und Klappern im Innenraum: Suche | Pro-Stuk',
     description:
       'Grillen im Innenraum, knarzendes Armaturenbrett, klappernde Türen: wie Sie die Quelle selbst finden und sie von einem Fahrwerksfehler unterscheiden.',
     intro: [

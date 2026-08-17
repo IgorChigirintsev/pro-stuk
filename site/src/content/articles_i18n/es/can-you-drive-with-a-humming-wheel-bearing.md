@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con un rodamiento de rueda que zumba?"
-metaTitle: "¿Se puede circular con un rodamiento de rueda que zumba? | Stuk"
+metaTitle: "¿Se puede circular con un rodamiento de rueda que zumba? | Pro-Stuk"
 description: "Hasta dónde se puede circular con un rodamiento de rueda que zumba, qué arriesga cada etapa del desgaste, cómo reducir el riesgo y cómo se decide la reparación."
 faq:
   - q: "¿Cuántos kilómetros se pueden hacer con un rodamiento que zumba?"
@@ -138,7 +138,7 @@ la diferencia entre «sustituir esta semana» y «sustituir dentro de dos
 meses» llega fácilmente al doble.
 
 Si se quiere algo más firme que el propio oído en lo que apoyarse, se
-puede grabar el zumbido en marcha con la aplicación Stuk: compara el
+puede grabar el zumbido en marcha con la aplicación Pro-Stuk: compara el
 sonido con las respuestas dadas y muestra las causas probables con
 porcentajes y un nivel de urgencia, lo que hace más fácil decidir entre
 entrar al taller mañana o terminar la semana con tranquilidad.

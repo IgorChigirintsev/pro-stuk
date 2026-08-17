@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-vyzhimnogo-podshipnika"
 title: "Signs of a worn clutch release bearing"
-metaTitle: "Worn clutch release bearing: the sound | Stuk"
+metaTitle: "Worn clutch release bearing: the sound | Pro-Stuk"
 description: "How a worn release bearing sounds, how to check it with the clutch pedal in a minute, what the rustle gets confused with and how the repair is decided."
 pubDate: "2026-08-02"
 related:
@@ -141,6 +141,6 @@ cars, the flywheel's free play is measured while everything is apart, and
 the measurement, not a guess, is what decides whether it stays.
 
 Not sure whether the sound reacts to the pedal, or whether something else
-is making noise? Record the engine in the Stuk app — first in neutral,
+is making noise? Record the engine in the Pro-Stuk app — first in neutral,
 then with the pedal pressed. The app matches the recordings with your
 answers and shows the likely sources with an urgency rating.

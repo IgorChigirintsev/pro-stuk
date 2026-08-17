@@ -1,6 +1,6 @@
 ---
 title: "Renault K4M: hydraulische klepstoters tikken bij koude motor"
-metaTitle: "Renault K4M: klepstoters tikken koud | Stuk"
+metaTitle: "Renault K4M: klepstoters tikken koud | Pro-Stuk"
 description: "De K4M tikt bij een koude start: hoe hydraulische klepstoters werken, waarom ze ratelen en wanneer een olieverversing genoeg is."
 faq:
   - q: "Waarom tikken de klepstoters alleen de eerste seconden na het starten?"

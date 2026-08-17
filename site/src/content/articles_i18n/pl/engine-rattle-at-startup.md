@@ -1,6 +1,6 @@
 ---
 title: "Trzask w silniku przy rozruchu"
-metaTitle: "Trzask w silniku przy rozruchu: przyczyny | Stuk"
+metaTitle: "Trzask w silniku przy rozruchu: przyczyny | Pro-Stuk"
 description: "Dlaczego silnik trzeszczy przy rozruchu: rozrusznik, fazy rozrządu, napinacz łańcucha czy koło alternatora. Jak rozpoznać źródło po momencie dźwięku."
 faq:
   - q: "Czy trzask w pierwszych sekundach po rozruchu jest groźny?"
@@ -127,7 +127,7 @@ razem z łańcuchem idą ślizgi i napinacze: to plastikowe elementy, o które
 łańcuch faktycznie bije.
 
 Jeśli na słuch nie da się przypisać trzasku do konkretnego momentu
-rozruchu, proszę nagrać dźwięk w aplikacji Stuk: zestawia ona nagranie z
+rozruchu, proszę nagrać dźwięk w aplikacji Pro-Stuk: zestawia ona nagranie z
 odpowiedziami o tym, kiedy i jak dźwięk się pojawia, i pokazuje
 prawdopodobne przyczyny z procentami oraz poziomem pilności — z taką listą
 łatwiej przyjechać do warsztatu.

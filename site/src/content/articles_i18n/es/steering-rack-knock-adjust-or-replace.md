@@ -1,6 +1,6 @@
 ---
 title: "Golpe en la cremallera: ¿ajustar o cambiar?"
-metaTitle: "Golpe en la cremallera: ¿ajustar o cambiar? | Stuk"
+metaTitle: "Golpe en la cremallera: ¿ajustar o cambiar? | Pro-Stuk"
 description: "Cuándo una cremallera que golpea se arregla con un simple ajuste y cuándo pide reconstrucción o cambio: los criterios y el riesgo de apretar de más."
 faq:
   - q: "¿Cuánto dura el ajuste de una cremallera?"
@@ -103,7 +103,7 @@ diagnóstico y reparación completamente distinto:
 La lista completa de síntomas del propio mecanismo se repasa aparte.
 
 Si la decisión sigue abierta y quiere una segunda opinión independiente,
-grabe el golpe con la aplicación Stuk en un tramo de carretera que sepa que
+grabe el golpe con la aplicación Pro-Stuk en un tramo de carretera que sepa que
 está mal. La aplicación compara el sonido con sus respuestas, muestra las
 causas probables y el nivel de urgencia, y la conversación en el taller se
 vuelve concreta.

@@ -1,6 +1,6 @@
 ---
 title: "Un hurlement moteur à l'accélération"
-metaTitle: "Hurlement moteur à l'accélération : causes | Stuk"
+metaTitle: "Hurlement moteur à l'accélération : causes | Pro-Stuk"
 description: "D'où vient un hurlement à l'accélération : alternateur, pompe de direction, galets, pompe à eau ou boîte. Des tests simples pour trouver la source."
 faq:
   - q: "Comment distinguer un hurlement moteur d'un hurlement de boîte ?"
@@ -130,5 +130,5 @@ revient à payer deux fois la même main-d'œuvre.
 Un hurlement se prête bien au diagnostic acoustique : il a une tonalité
 marquée et les algorithmes distinguent ces sons avec plus d'assurance que
 beaucoup d'autres. Enregistrez le hurlement à l'accélération dans
-l'application Stuk — elle croise l'enregistrement et vos réponses et
+l'application Pro-Stuk — elle croise l'enregistrement et vos réponses et
 affiche les causes probables avec un niveau d'urgence pour chacune.

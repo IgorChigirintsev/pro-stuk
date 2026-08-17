@@ -1,6 +1,6 @@
 ---
 title: "Dá para rodar com batida na suspensão"
-metaTitle: "Dá para rodar com batida na suspensão? | Stuk"
+metaTitle: "Dá para rodar com batida na suspensão? | Pro-Stuk"
 description: "Com quais peças batendo dá para rodar e com quais não dá: estabilizador, amortecedor, buchas, pivô. Como avaliar a urgência pelo som."
 faq:
   - q: "Quanto tempo dá para rodar com bieleta batendo?"
@@ -98,7 +98,7 @@ de uma semana para a outra: batida estável pode esperar, batida crescente
 não.
 
 Se você quer estabelecer a urgência hoje, grave a batida com o aplicativo
-Stuk num trecho de rua representativo. O algoritmo cruza a gravação com suas
+Pro-Stuk num trecho de rua representativo. O algoritmo cruza a gravação com suas
 respostas e mostra as causas prováveis em porcentagem e com nível de
 urgência — o suficiente para saber se o reparo entra no mês que vem ou nesta
 semana.

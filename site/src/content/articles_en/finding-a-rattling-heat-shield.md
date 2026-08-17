@@ -1,7 +1,7 @@
 ---
 ru: "drebezzhit-teplozashchitnyj-ekran-kak-najti"
 title: "How to find a rattling heat shield"
-metaTitle: "Rattling heat shield: how to find it | Stuk"
+metaTitle: "Rattling heat shield: how to find it | Pro-Stuk"
 description: "A metallic rattle in a narrow band of engine speeds is usually a loose heat shield. How to find it in ten minutes and how it is secured properly."
 pubDate: "2026-06-08"
 related:
@@ -105,7 +105,7 @@ corrosion that caused the failure is rarely local, and that is worth
 asking about before agreeing to it.
 
 If you can hear the rattle but cannot reproduce it while parked — because
-it only shows up on the move, for instance — record the sound in the Stuk
+it only shows up on the move, for instance — record the sound in the Pro-Stuk
 app as you drive. The app matches the recording against your answers
 about what the noise follows and suggests what to inspect first, so
 nobody pays for a blind search.

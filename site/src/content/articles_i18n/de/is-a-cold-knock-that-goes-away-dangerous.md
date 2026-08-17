@@ -1,6 +1,6 @@
 ---
 title: "Ist ein Kaltklopfen gefährlich, das wieder verschwindet"
-metaTitle: "Kaltklopfen, das verschwindet: gefährlich? | Stuk"
+metaTitle: "Kaltklopfen, das verschwindet: gefährlich? | Pro-Stuk"
 description: "Ein Klopfen beim Kaltstart, das nach dem Warmlaufen verschwindet, kann harmlos sein oder eine teure Reparatur ankündigen. Trennung nach Dauer und Charakter."
 faq:
   - q: "Wie viele Sekunden Kaltstartklopfen gelten als normal?"

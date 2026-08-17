@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-opor-dvigatelya"
 title: "Signs of worn engine mounts"
-metaTitle: "Signs of worn engine mounts: vibration, jolts | Stuk"
+metaTitle: "Signs of worn engine mounts: vibration, jolts | Pro-Stuk"
 description: "Vibration at idle, a jolt when selecting a gear, a knock under acceleration: how to recognise dead engine mounts and what decides the repair."
 pubDate: "2026-07-14"
 related:
@@ -133,6 +133,6 @@ they are tightened. A mount bolted up with the engine hanging at the wrong
 angle sits pre-loaded and tears again within months.
 
 If vibration and jolts have appeared but you are not confident of the
-diagnosis, record the engine running in the Stuk app: it matches the sound
+diagnosis, record the engine running in the Pro-Stuk app: it matches the sound
 with your answers about the symptoms and shows the likely causes with an
 urgency level — enough to have a specific conversation with the mechanic.

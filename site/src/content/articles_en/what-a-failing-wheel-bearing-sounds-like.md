@@ -1,7 +1,7 @@
 ---
 ru: "kak-zvuchit-umirayushchij-stupichnyj-podshipnik"
 title: "What a failing wheel bearing sounds like"
-metaTitle: "What a failing wheel bearing sounds like | Stuk"
+metaTitle: "What a failing wheel bearing sounds like | Pro-Stuk"
 description: "From a faint hum at 60 km/h to a roar and vibration in the wheel — how a wheel bearing changes its sound stage by stage, and where you can no longer wait."
 pubDate: "2026-06-02"
 related:
@@ -107,7 +107,7 @@ afterwards — a failing bearing often disguises an unbalanced wheel, and
 the vibration that remains after the repair surprises people.
 
 If the hum is still quiet and you are not sure you are not imagining it,
-record a motorway run with lane changes in the Stuk app. It matches the
+record a motorway run with lane changes in the Pro-Stuk app. It matches the
 recording with your answers about speed, surface and the direction of the
 manoeuvre and shows the likely causes with percentages — including a hint
 about which wheel to start from.

@@ -1,6 +1,6 @@
 ---
 title: "Sinais de coxins do motor gastos"
-metaTitle: "Coxins do motor gastos: vibração e trancos | Stuk"
+metaTitle: "Coxins do motor gastos: vibração e trancos | Pro-Stuk"
 description: "Vibração em marcha lenta, tranco ao engatar marcha, batida ao acelerar: como reconhecer coxins do motor mortos e o que define o conserto."
 faq:
   - q: "Quantos coxins um motor tem?"
@@ -128,6 +128,6 @@ com o motor pendurado num ângulo errado fica pré-tensionado e rasga de novo
 em poucos meses.
 
 Se apareceram vibração e trancos mas você não tem confiança no diagnóstico,
-grave o motor funcionando no aplicativo Stuk: ele cruza o som com as suas
+grave o motor funcionando no aplicativo Pro-Stuk: ele cruza o som com as suas
 respostas sobre os sintomas e mostra as causas prováveis com nível de
 urgência — o suficiente para ter uma conversa objetiva com o mecânico.

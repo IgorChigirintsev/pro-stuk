@@ -1,6 +1,6 @@
 ---
 title: "Świst turbiny: norma czy usterka"
-metaTitle: "Świst turbiny: norma czy usterka? | Stuk"
+metaTitle: "Świst turbiny: norma czy usterka? | Pro-Stuk"
 description: "Kiedy świst turbosprężarki to normalny dźwięk, a kiedy sygnał nieszczelności lub zużycia: jak odróżnić świst doładowania od pisku paska i co sprawdzić najpierw."
 faq:
   - q: "Czy turbina zawsze świszczy, czy to oznaka usterki?"
@@ -107,7 +107,7 @@ przed zgaszeniem po ostrej jeździe nic nie kosztuje, a zauważalnie
 przedłuża żywotność.
 
 Jeśli głos turbiny się zmienił, a nie jesteś w stanie ocenić na słuch o
-ile — nagraj w aplikacji Stuk dwa fragmenty: przyspieszanie pod
+ile — nagraj w aplikacji Pro-Stuk dwa fragmenty: przyspieszanie pod
 obciążeniem i rozgrzany bieg jałowy. Aplikacja je porówna i pokaże
 prawdopodobne przyczyny z procentami, dzięki czemu rozmowa w warsztacie
 zacznie się nie od ogólnego „świszczy”, tylko od konkretnego warunku

@@ -1,6 +1,6 @@
 ---
 title: "Chasquido de una rueda en marcha"
-metaTitle: "Chasquido de una rueda en marcha: causas | Stuk"
+metaTitle: "Chasquido de una rueda en marcha: causas | Pro-Stuk"
 description: "Chasquido rítmico al ritmo del giro de la rueda: una piedra en el dibujo, un tornillo, un embellecedor o el disco de freno. Cómo hallar el origen."
 faq:
   - q: "El chasquido se acelera con la velocidad, ¿qué me dice eso?"
@@ -101,7 +101,7 @@ día o dos, y si el chasquido sigue ahí una semana después la teoría de «es
 solo una china» ya no vale: toca elevador.
 
 Si no ha encontrado el origen a la vista y el sonido solo se oye en marcha,
-grábelo con la aplicación Stuk circulando por una calle tranquila con la
+grábelo con la aplicación Pro-Stuk circulando por una calle tranquila con la
 ventanilla bajada. La aplicación compara la grabación con sus respuestas
 sobre la velocidad y la reacción a los frenos y muestra las causas probables
 con porcentajes, y sugiere qué rueda inspeccionar primero.

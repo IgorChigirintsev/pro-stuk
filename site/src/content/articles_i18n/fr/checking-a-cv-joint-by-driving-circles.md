@@ -1,6 +1,6 @@
 ---
 title: "Contrôler un cardan en tournant en rond sur un parking"
-metaTitle: "Contrôler un cardan en tournant en rond | Stuk"
+metaTitle: "Contrôler un cardan en tournant en rond | Pro-Stuk"
 description: "Le test pas à pas du cardan extérieur sur un parking vide : comment tourner, ce qui doit claquer et pourquoi le test ne montre parfois rien du tout."
 faq:
   - q: "Pourquoi un cardan ne claque-t-il qu'en braquage serré ?"
@@ -106,7 +106,7 @@ attrapé « en général » mais dans le régime précis où la panne est oblig�
 de se montrer.
 
 Vous entendez un claquement mais vous n'êtes pas sûr que ce soit le bon
-son ? Lancez un enregistrement dans l'application Stuk pendant que vous
+son ? Lancez un enregistrement dans l'application Pro-Stuk pendant que vous
 tournez en rond. L'application croise le son avec vos réponses sur le
 régime et le côté concerné, puis affiche les causes probables avec leurs
 pourcentages.

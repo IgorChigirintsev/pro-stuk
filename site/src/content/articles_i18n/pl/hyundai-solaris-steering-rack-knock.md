@@ -1,6 +1,6 @@
 ---
 title: "Stukanie przekładni kierowniczej w Hyundaiu Solaris"
-metaTitle: "Stuk przekładni kierowniczej Solaris: przyczyny | Stuk"
+metaTitle: "Pro-Stuk przekładni kierowniczej Solaris: przyczyny | Pro-Stuk"
 description: "Dlaczego w Hyundaiu Solaris pojawia się stukanie w kierownicy na drobnych nierównościach i jak odróżnić przekładnię od końcówek drążków i łączników stabilizatora."
 faq:
   - q: "Czy regulacja przekładni rozwiązuje problem na stałe?"
@@ -102,7 +102,7 @@ ustawieniem geometrii: bez tego przednie opony zjadają krawędzie w ciągu
 kilku tysięcy kilometrów.
 
 Jeśli stukanie nie pojawia się za każdym razem, a warsztat nie potrafi go
-odtworzyć, warto nagrać dźwięk w aplikacji Stuk podczas jazdy po drobnych
+odtworzyć, warto nagrać dźwięk w aplikacji Pro-Stuk podczas jazdy po drobnych
 nierównościach. Aplikacja porównuje nagranie z odpowiedziami i pokazuje
 prawdopodobne przyczyny w procentach — co oszczędza rozmowy w gatunku
 „no, jakoś tak stuka”.

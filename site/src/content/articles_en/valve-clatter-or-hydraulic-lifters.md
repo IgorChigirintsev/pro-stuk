@@ -1,7 +1,7 @@
 ---
 ru: "stuk-klapany-ili-gidrokompensatory"
 title: "Ticking: valves or hydraulic lifters"
-metaTitle: "Ticking: valve clearances or lifters — telling them apart | Stuk"
+metaTitle: "Ticking: valve clearances or lifters — telling them apart | Pro-Stuk"
 description: "Ticking from under the rocker cover comes from both misadjusted valve clearances and worn hydraulic lifters. How to separate them by ear."
 pubDate: "2026-06-11"
 related:
@@ -104,6 +104,6 @@ were assessed on a lifter engine: a new set of lifters fed through blocked
 galleries ticks again within months.
 
 If you hear ticking but are not sure which case it is, record the sound in
-the Stuk app twice — right after a cold start and after ten minutes of
+the Pro-Stuk app twice — right after a cold start and after ten minutes of
 running. The difference between the two recordings is the key to the
 answer, and the app shows which theory it points to.

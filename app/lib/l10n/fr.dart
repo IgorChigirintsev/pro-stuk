@@ -2,7 +2,7 @@
 const Map<String, String> fr = {
   'hiwBody':
       '\n1. Questions. Un court questionnaire réduit le champ des causes : quand le bruit apparaît, à quoi il ressemble, de quoi il dépend. C’est la base de l’analyse — un mécanicien commence de la même façon.\n\n2. Son. Un enregistrement de 15 à 30 secondes part vers le serveur. Les algorithmes mesurent le spectre, le rythme des cognements et le régime moteur, et un modèle de langage confronte le tout à vos réponses et aux faiblesses connues de votre modèle.\n\n3. Rapport. Causes probables avec pourcentages, feu tricolore d’urgence et repères : quoi dire au garage et ce que vous pouvez vérifier vous-même.\n\nLe résultat est une estimation de probabilité, pas un diagnostic. La précision dépend de la qualité de l’enregistrement et de la sincérité des réponses. La décision de réparation revient au mécanicien après examen.',
-  'appName': 'Stuk',
+  'appName': 'Pro-Stuk',
   'appTagline': 'diagnostic par le son',
   'carTitle': 'Quelle voiture conduisez-vous ?',
   'carSubtitle':
@@ -116,7 +116,7 @@ const Map<String, String> fr = {
   'histEmpty': 'Vide pour l’instant — la première analyse apparaîtra ici.',
   'histFull': 'analyse du son',
   'histQuick': 'verdict rapide',
-  'shareText': 'Analyse du son — application « Stuk », pro-stuk.com',
+  'shareText': 'Analyse du son — application « Pro-Stuk », pro-stuk.com',
   'langTitle': 'Langue',
   'langHint':
       'Par défaut, la langue de l’appareil. Ce qui n’est pas encore traduit s’affiche en russe.',

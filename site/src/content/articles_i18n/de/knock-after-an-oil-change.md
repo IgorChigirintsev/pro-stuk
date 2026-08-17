@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Motor nach einem Ölwechsel"
-metaTitle: "Klopfen nach dem Ölwechsel: die Ursachen | Stuk"
+metaTitle: "Klopfen nach dem Ölwechsel: die Ursachen | Pro-Stuk"
 description: "Warum ein Motor nach einem Ölwechsel zu klopfen begann: Viskosität, Stand, Filter, Spülung. Wann sich der Ton von selbst legt und wann man zurückfährt."
 faq:
   - q: "Der Motor tickt die ersten Sekunden nach dem Ölwechsel — ist das normal?"

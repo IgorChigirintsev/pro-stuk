@@ -1,7 +1,7 @@
 ---
-title: "Stuk przy kręceniu kierownicą w miejscu"
-metaTitle: "Stuk przy kręceniu kierownicą w miejscu | Stuk"
-description: "Stuk, chrzęst albo klikanie przy kręceniu kierownicą na postoju: górne mocowania, końcówki drążków, przekładnia, wspomaganie — jak je rozdzielić."
+title: "Pro-Stuk przy kręceniu kierownicą w miejscu"
+metaTitle: "Pro-Stuk przy kręceniu kierownicą w miejscu | Pro-Stuk"
+description: "Pro-Stuk, chrzęst albo klikanie przy kręceniu kierownicą na postoju: górne mocowania, końcówki drążków, przekładnia, wspomaganie — jak je rozdzielić."
 faq:
   - q: "Dlaczego stuka tylko przy kręceniu w miejscu, a w ruchu jest cicho?"
     a: "Na postoju koła obracają się bez toczenia, a obciążenie każdego elementu układu kierowniczego jest maksymalne — opony stawiają opór całą powierzchnią styku. Luzy i zużyte przeguby wybierają się pod tym obciążeniem ze stukiem albo chrzęstem. W ruchu siły są znacznie mniejsze i ten sam luz może milczeć."
@@ -18,7 +18,7 @@ sources:
     url: "https://www.trwaftermarket.com/"
 ---
 
-Stuk albo chrzęst przy kręceniu kierownicą na postoju to częste zgłoszenie
+Pro-Stuk albo chrzęst przy kręceniu kierownicą na postoju to częste zgłoszenie
 i bardziej wymowne, niż się wydaje. Kręcenie w miejscu jest najcięższym
 zakresem pracy dla całego łańcucha kierowniczego: koła obracają się bez
 toczenia, opony stawiają opór całą powierzchnią styku, a siły na przegubach
@@ -75,9 +75,9 @@ w miejscu prawie zawsze milczy.
 | Dźwięk i miejsce | Prawdopodobne źródło | Dodatkowy znak |
 |---|---|---|
 | Chrzęst, kliknięcia od góry przy wieżyczce | Łożysko górnego mocowania | Chrzęst czuć dłonią na talerzu sprężyny |
-| Suchy stuk z dołu przy kole | Końcówka, drążek | Stuk przy zmianie kierunku, luz przy bujaniu |
+| Suchy stuk z dołu przy kole | Końcówka, drążek | Pro-Stuk przy zmianie kierunku, luz przy bujaniu |
 | Głuchy stuk centralnie, przy ścianie grodziowej | Przekładnia kierownicza | Odbicie w kierownicę na nierównościach |
-| Skrzypienie i pukanie z dołu | Sworzeń wahacza | Stuk na drobnych nierównościach w ruchu |
+| Skrzypienie i pukanie z dołu | Sworzeń wahacza | Pro-Stuk na drobnych nierównościach w ruchu |
 | Kliknięcie wprost w kierownicy | Przegub wałka kierowniczego | Czuć w dłoniach na początku każdego skrętu |
 | Buczenie, wycie, szarpnięcia w kierownicy | Wspomaganie | Dźwięk podąża za obrotami silnika |
 
@@ -125,10 +125,10 @@ Bezpośredniego niebezpieczeństwa przy większości tych usterek nie ma, ale
 pogorszenie postępuje. Luz w końcówkach rozjeżdża kąty ustawienia kół —
 auto zaczyna pływać i zjadać opony. Rozbite górne mocowanie przenosi
 uderzenia w nadwozie i niszczy własne gniazdo w wieżyczce. Luz w
-przekładni z czasem wymaga już części, a nie regulacji. Stuk przy kręceniu
+przekładni z czasem wymaga już części, a nie regulacji. Pro-Stuk przy kręceniu
 w miejscu to więc powód do spokojnej, ale nieodkładanej diagnostyki.
 
 Jeśli nie ma pewności, co dokładnie wydaje dźwięk, warto nagrać chrzęst lub
-stuk podczas kręcenia kierownicą w aplikacji Stuk. Zestawi ona nagranie z
+stuk podczas kręcenia kierownicą w aplikacji Pro-Stuk. Zestawi ona nagranie z
 odpowiedziami o tym, kiedy dźwięk się pojawia, i pokaże prawdopodobne
 przyczyny z poziomem pilności.

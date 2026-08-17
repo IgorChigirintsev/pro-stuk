@@ -1,6 +1,6 @@
 ---
 title: "Nissan Qashqai: Klopfen des Nockenwellenverstellers"
-metaTitle: "Qashqai: Klopfen des Verstellers, Reparatur | Stuk"
+metaTitle: "Qashqai: Klopfen des Verstellers, Reparatur | Pro-Stuk"
 description: "Ein kurzes Rasseln beim Kaltstart eines Qashqai kommt oft vom Nockenwellenversteller. Wie man es von der Steuerkette trennt und was eine Werkstatt prüft."
 faq:
   - q: "Ist ein kurzes Rasseln beim Start eines Qashqai gefährlich?"

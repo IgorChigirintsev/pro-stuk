@@ -1,6 +1,6 @@
 ---
 title: "Ein Radlager selbst prüfen"
-metaTitle: "Radlager selbst prüfen: fünf Tests | Stuk"
+metaTitle: "Radlager selbst prüfen: fünf Tests | Pro-Stuk"
 description: "Fünf Prüfungen, die ein verschlissenes Radlager und seine Seite ohne Hebebühne benennen: Tests in Fahrt, Rad anheben, Spiel und Nabentemperatur."
 faq:
   - q: "Kann ich die Seite ohne Hebebühne bestimmen?"

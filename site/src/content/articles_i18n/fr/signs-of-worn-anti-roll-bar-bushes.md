@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'usure des silentblocs de barre stabilisatrice"
-metaTitle: "Silentblocs de barre stabilisatrice usés : bruit | Stuk"
+metaTitle: "Silentblocs de barre stabilisatrice usés : bruit | Pro-Stuk"
 description: "Le bruit de silentblocs de barre stabilisatrice usés, la différence avec les biellettes, comment les contrôler soi-même et ce qu'implique le remplacement."
 faq:
   - q: "Puis-je rouler avec des silentblocs de barre stabilisatrice usés ?"
@@ -114,7 +114,7 @@ non seulement les silentblocs mais aussi ses propres points de fixation,
 et remplacer la barre relève d'un autre ordre de coût.
 
 Pas sûr que ce soient les silentblocs qui cognent ? Enregistrez le son sur
-une portion représentative dans l'application Stuk : l'algorithme recoupe
+une portion représentative dans l'application Pro-Stuk : l'algorithme recoupe
 l'enregistrement avec vos réponses et affiche les causes probables avec
 des pourcentages et un niveau d'urgence — vous arrivez ainsi à l'atelier
 avec une hypothèse de travail plutôt qu'une supposition.

@@ -1,6 +1,6 @@
 ---
 title: "Painel de instrumentos chacoalhando"
-metaTitle: "Painel chacoalhando: achando a origem | Stuk"
+metaTitle: "Painel chacoalhando: achando a origem | Pro-Stuk"
 description: "Painel chacoalhando irrita mais do que estraga. Por que o plástico começa a vibrar, como achar o ponto de contato em dez minutos e quando a culpa não é dele."
 faq:
   - q: "Painel chacoalhando é perigoso?"
@@ -97,7 +97,7 @@ depende da temperatura — é o que encurta essa busca. Se você já achou a
 peça que silencia o ruído quando pressionada, diga isso primeiro.
 
 Se não consegue definir se é o painel que chacoalha ou algo atrás dele,
-grave o som no aplicativo Stuk de dentro do carro — em marcha lenta e
+grave o som no aplicativo Pro-Stuk de dentro do carro — em marcha lenta e
 rodando. O aplicativo cruza a gravação com algumas respostas e mostra as
 origens prováveis em porcentagem, para que ninguém desmonte o painel no
 chute.

@@ -1,6 +1,6 @@
 ---
 title: "Batida na caixa de direção: como identificar"
-metaTitle: "Batida na caixa de direção: como identificar | Stuk"
+metaTitle: "Batida na caixa de direção: como identificar | Pro-Stuk"
 description: "Como saber se quem bate é a caixa de direção e não os terminais ou barras: sinais característicos, teste em dupla e do que depende o reparo."
 faq:
   - q: "Dá para rodar com a caixa de direção batendo?"
@@ -137,7 +137,7 @@ montar uma caixa reformada atrás de coifas velhas e rasgadas joga o
 serviço inteiro fora.
 
 Se você quer testar a suspeita antes da oficina, grave a batida no
-aplicativo Stuk: percorra um trecho ruim com a gravação ligada e responda
+aplicativo Pro-Stuk: percorra um trecho ruim com a gravação ligada e responda
 algumas perguntas — o app cruza o som com perfis típicos de falha e mostra
 as causas prováveis com nível de urgência.
 </content>

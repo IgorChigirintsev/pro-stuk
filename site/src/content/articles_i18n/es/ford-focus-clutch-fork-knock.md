@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de la horquilla de embrague en el Ford Focus"
-metaTitle: "Golpeteo de la horquilla de embrague en el Ford Focus | Stuk"
+metaTitle: "Golpeteo de la horquilla de embrague en el Ford Focus | Pro-Stuk"
 description: "Chasquidos y golpes al pisar el pedal del embrague en un Focus: cómo comprobar la horquilla y el cojinete de empuje, y qué hace un taller."
 faq:
   - q: "El golpe solo se oye al accionar el pedal, ¿es seguro que es el embrague?"
@@ -100,7 +100,7 @@ tren rodante o los neumáticos. Cómo separarlos está en
 [¿se puede circular con un rodamiento de rueda zumbando?](/es/articles/can-you-drive-with-a-humming-wheel-bearing/).
 
 Si el golpeteo todavía es ocasional y quiere saber si hay que sacar la caja,
-grábelo con la aplicación Stuk mientras pisa despacio el pedal con el motor en
+grábelo con la aplicación Pro-Stuk mientras pisa despacio el pedal con el motor en
 marcha. La aplicación compara la grabación con sus respuestas a unas cuantas
 preguntas y muestra las causas probables con porcentajes: suficiente para
 presentarse ante el mecánico con una pregunta concreta.

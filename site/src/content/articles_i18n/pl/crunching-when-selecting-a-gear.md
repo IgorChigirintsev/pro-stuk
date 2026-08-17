@@ -1,6 +1,6 @@
 ---
 title: "Chrzęst przy wrzucaniu biegu"
-metaTitle: "Chrzęst przy wrzucaniu biegu: przyczyny | Stuk"
+metaTitle: "Chrzęst przy wrzucaniu biegu: przyczyny | Pro-Stuk"
 description: "Chrzęst w chwili wchodzenia biegu daje zwykle synchronizator albo sprzęgło, które nie rozłącza do końca. Jak je rozróżnić po zachowaniu dźwigni."
 faq:
   - q: "Chrzęści tylko na dwójce. To synchronizator?"
@@ -97,6 +97,6 @@ rozszedł się na kilka biegów, a zmiana stała się ciężka, warto pokazać
 auto w ciągu kilku dni.
 
 Jeśli chce Pan wiedzieć, co chrzęści, jeszcze przed wizytą, proszę
-nagrać dźwięk aplikacją Stuk dwa razy: przy wrzucaniu jedynki na
+nagrać dźwięk aplikacją Pro-Stuk dwa razy: przy wrzucaniu jedynki na
 postoju i przy problemowym biegu w jeździe. Aplikacja zestawia nagrania
 z Pana odpowiedziami i pokazuje prawdopodobne przyczyny z procentami.

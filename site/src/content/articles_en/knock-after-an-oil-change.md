@@ -1,7 +1,7 @@
 ---
 ru: "stuk-posle-zameny-masla"
 title: "Engine knock after an oil change"
-metaTitle: "Engine knock after an oil change: causes | Stuk"
+metaTitle: "Engine knock after an oil change: causes | Pro-Stuk"
 description: "Why an engine started knocking after an oil change: viscosity, level, filter, flushing. When the sound clears itself and when to go back."
 pubDate: "2026-08-02"
 related:
@@ -123,7 +123,7 @@ Even a full second oil change costs less than any repair that driving with
 an unexplained knock leads to.
 
 If you are unsure whether it is the same sound as before the change or a
-new one, record the engine in the Stuk app and repeat the recording a few
+new one, record the engine in the Pro-Stuk app and repeat the recording a few
 days later. The app matches the sound with typical causes, shows
 probabilities and urgency, and comparing the recordings helps you notice
 the trend.

@@ -1,6 +1,6 @@
 ---
 title: "Battito della scatola guida sulla Kia Rio: registrare o revisionare"
-metaTitle: "Battito scatola guida Kia Rio: registrare o no | Stuk"
+metaTitle: "Battito scatola guida Kia Rio: registrare o no | Pro-Stuk"
 description: "Il battito della scatola guida sulla Kia Rio sulle piccole asperità: perché compare, come distinguerlo dalle biellette e quando basta una registrazione."
 faq:
   - q: "Il battito della scatola guida su una Kia Rio è pericoloso?"
@@ -102,7 +102,7 @@ revisione, non un ritocco. E se dopo si fa l'assetto: qualsiasi intervento
 che tocca i tiranti cambia la convergenza.
 
 Se non sei sicuro di cosa batta — la scatola guida, le biellette o le
-testine — registra il suono con l'app Stuk passando su un fondo minuto e
+testine — registra il suono con l'app Pro-Stuk passando su un fondo minuto e
 ripeti la registrazione mentre muovi il volante a vettura ferma. L'app
 confronta le registrazioni con le tue risposte e mostra le cause probabili
 in percentuale, così arrivi in officina con un'ipotesi.

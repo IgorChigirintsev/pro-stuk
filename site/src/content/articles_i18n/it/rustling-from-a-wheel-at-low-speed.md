@@ -1,6 +1,6 @@
 ---
 title: "Fruscio da una ruota a bassa velocità"
-metaTitle: "Fruscio da una ruota a bassa velocità: cause | Stuk"
+metaTitle: "Fruscio da una ruota a bassa velocità: cause | Pro-Stuk"
 description: "Un fruscio da una ruota a 10–30 km/h viene quasi sempre dai freni o dal parapolvere. Come distinguere uno sfioramento innocuo dall'usura e cosa controllare."
 faq:
   - q: "Il fruscio si sente solo sotto i 30 km/h: è normale?"
@@ -100,7 +100,7 @@ che avevano ancora anni davanti.
 Distinguere a orecchio uno sfioramento innocuo dall'inizio dell'usura non è
 facile: la differenza fra «fruscio» e «fruscio con dentro del metallo»
 sopravvive a stento alle parole. È più semplice registrare il suono con
-l'app Stuk mentre esce dal parcheggio: l'app confronta la registrazione con
+l'app Pro-Stuk mentre esce dal parcheggio: l'app confronta la registrazione con
 le sue risposte a poche domande e mostra le cause probabili in percentuale,
 così diventa chiaro se andare in officina nel fine settimana o aspettare con
 calma il prossimo tagliando.

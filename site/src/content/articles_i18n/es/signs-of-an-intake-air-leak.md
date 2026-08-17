@@ -1,6 +1,6 @@
 ---
 title: "Señales de una entrada de aire falso en la admisión"
-metaTitle: "Entrada de aire falso: señales y cómo buscarla | Stuk"
+metaTitle: "Entrada de aire falso: señales y cómo buscarla | Pro-Stuk"
 description: "Ralentí que oscila, silbido o siseo bajo el capó, mezcla pobre y códigos de ajuste de combustible: cómo reconocer una entrada de aire falso y cómo se localiza."
 faq:
   - q: "¿Por qué una entrada de aire falso hace que el ralentí oscile?"
@@ -106,7 +106,7 @@ control de ralentí suelen estar cargados de carbonilla, y limpiarlos a la
 vez es lo que hace que el ralentí deje de oscilar una vez curada la fuga.
 
 Si se oye un siseo bajo el capó pero no consigue situarlo de oído, grabe
-el sonido con la aplicación Stuk al ralentí y después con las vueltas
+el sonido con la aplicación Pro-Stuk al ralentí y después con las vueltas
 ligeramente subidas. La aplicación cruza la grabación con sus respuestas
 sobre cómo se comporta el ralentí y muestra las causas probables con
 porcentajes; con esa lista es más fácil pedir una prueba de humo en lugar

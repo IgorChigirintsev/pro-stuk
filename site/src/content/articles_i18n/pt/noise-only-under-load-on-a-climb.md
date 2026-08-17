@@ -1,6 +1,6 @@
 ---
 title: "Ruído que só aparece sob carga, na subida"
-metaTitle: "Ruído só na subida sob carga: causas | Stuk"
+metaTitle: "Ruído só na subida sob carga: causas | Pro-Stuk"
 description: "Por que um ruído só se ouve na subida com o pé fundo, quais peças se comportam assim e como diferenciar correia, junta homocinética e detonação."
 faq:
   - q: "Por que o ruído some no instante em que tiro o pé?"
@@ -94,7 +94,7 @@ as duas coisas que deixam um motor detonar em silêncio, e nenhuma delas
 aparece num test drive.
 
 Pegar um som desses num gravador é difícil: ele só vive no momento de carga
-máxima, quando você está ocupado dirigindo. O aplicativo Stuk grava em
+máxima, quando você está ocupado dirigindo. O aplicativo Pro-Stuk grava em
 segundo plano — inicie antes da subida, faça o trecho como de costume e pare
 no alto. A análise da gravação junto com as suas respostas a algumas
 perguntas mostra qual peça se manifesta quando você pisa.

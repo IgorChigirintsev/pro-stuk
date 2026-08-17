@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-dvigatele-na-holostyh"
 title: "An engine knock at idle"
-metaTitle: "An engine knock at idle: causes and what to do | Stuk"
+metaTitle: "An engine knock at idle: causes and what to do | Pro-Stuk"
 description: "Why an engine knocks at idle: hydraulic lifters, the timing chain, valves or the accessories. How to tell the causes apart by the sound."
 pubDate: "2026-08-02"
 related:
@@ -157,7 +157,7 @@ sound changes. The general breakdown of engine knocks is on the symptom
 page [knocking in the engine](/en/symptoms/knocking-in-engine/).
 
 If you want to understand what is happening before the workshop trip,
-record the engine running in the Stuk app. It matches the recording with
+record the engine running in the Pro-Stuk app. It matches the recording with
 your answers to a few clarifying questions and shows the likely causes
 with a level of urgency: with that list the conversation with a mechanic
 becomes specific.

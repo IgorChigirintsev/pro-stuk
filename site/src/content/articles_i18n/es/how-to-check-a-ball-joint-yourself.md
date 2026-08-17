@@ -1,6 +1,6 @@
 ---
 title: "Cómo comprobar una rótula uno mismo"
-metaTitle: "Cómo comprobar una rótula uno mismo | Stuk"
+metaTitle: "Cómo comprobar una rótula uno mismo | Pro-Stuk"
 description: "Comprobación de una rótula paso a paso: la prueba de balanceo, la holgura 12–6 con la rueda en el aire, el truco del freno y qué significa un fuelle roto."
 faq:
   - q: "¿Se puede comprobar una rótula sin gato?"
@@ -151,6 +151,6 @@ La alineación de dirección tras la sustitución forma parte del trabajo y no e
 una opción, porque la rótula define la geometría.
 
 Si después de todas las pruebas sigue sin estar seguro —hay un golpeteo y el
-culpable no es evidente—, grabe el sonido con la aplicación Stuk. Compara la
+culpable no es evidente—, grabe el sonido con la aplicación Pro-Stuk. Compara la
 grabación con sus respuestas sobre cuándo y en qué carreteras aparece el
 sonido y muestra las causas probables con un nivel de urgencia.

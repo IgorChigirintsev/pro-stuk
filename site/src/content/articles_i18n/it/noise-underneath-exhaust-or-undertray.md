@@ -1,6 +1,6 @@
 ---
 title: "Rumore da sotto: scarico o paramotore"
-metaTitle: "Rumore da sotto: scarico o paramotore | Stuk"
+metaTitle: "Rumore da sotto: scarico o paramotore | Pro-Stuk"
 description: "Il tintinnio metallico da sotto l'auto arriva o dallo scarico o dal paramotore. Come separarli a orecchio e con le mani in una decina di minuti."
 faq:
   - q: "Come distinguo in fretta il paramotore dallo scarico?"
@@ -97,7 +97,7 @@ si sposta sui servizi: da dove partire è spiegato in
 [sibilo sotto il cofano: alternatore o pompa acqua](/it/articles/alternator-or-water-pump-whine/).
 
 Se dopo tutte le prove è ancora indeciso, registri il rumore con l'app
-Stuk: prima al minimo con una sgassata, poi guidando su un tratto
+Pro-Stuk: prima al minimo con una sgassata, poi guidando su un tratto
 sconnesso. L'app confronta entrambe le registrazioni con le sue risposte e
 mostra le cause probabili in percentuale, così la conversazione con il
 meccanico parte da un'ipotesi precisa invece che da «sotto sferraglia

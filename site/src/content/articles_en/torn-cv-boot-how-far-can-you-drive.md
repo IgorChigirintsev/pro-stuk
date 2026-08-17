@@ -1,7 +1,7 @@
 ---
 ru: "porvan-pylnik-shrusa-skolko-proedet"
 title: "A torn CV boot: how far can you drive"
-metaTitle: "Torn CV boot: how far can you drive? | Stuk"
+metaTitle: "Torn CV boot: how far can you drive? | Pro-Stuk"
 description: "A torn CV boot does not destroy the joint at once, but it starts a countdown. How many kilometres are really left, what it depends on and what is cheaper."
 pubDate: "2026-07-26"
 related:
@@ -104,6 +104,6 @@ the clicking has started is set out in
 [can you drive with a clicking CV joint](/en/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 And if the sound has already appeared and you want to know whether it is
-the outer joint or something else, record it in the Stuk app while pulling
+the outer joint or something else, record it in the Pro-Stuk app while pulling
 away at full lock: the app matches the recording with your answers to a
 few questions and shows the likely causes with percentages.

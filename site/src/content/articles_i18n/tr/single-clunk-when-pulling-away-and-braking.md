@@ -1,6 +1,6 @@
 ---
 title: "Kalkışta ve frende tek bir tıkırtı"
-metaTitle: "Kalkışta ve frende tek tıkırtı | Stuk"
+metaTitle: "Kalkışta ve frende tek tıkırtı | Pro-Stuk"
 description: "Kalkarken ve dururken gelen tek tıkırtı nereden gelir: balatalar, kaliper, motor takozları, şaft. Nasıl kontrol edilir ve onarıma nasıl karar verilir."
 faq:
   - q: "Tıkırtı neden seri halinde değil de tek?"
@@ -100,6 +100,6 @@ yavaş yavaş her tümsekte gelen sürekli bir tıkırtıya dönüşüyorsa, bu
 sayfasının profilidir.
 
 Tek bir sesi teşhis sırasında yakalamak zordur — fazla kısadır. Onu doğrudan
-araçta, Stuk uygulamasında kaydedin: birkaç kalkış ve duruş yeterli malzeme
+araçta, Pro-Stuk uygulamasında kaydedin: birkaç kalkış ve duruş yeterli malzeme
 verir, algoritma kaydı verdiğiniz cevaplarla eşleştirir ve daha servise
 gitmeden olası nedenleri aciliyet seviyesiyle gösterir.

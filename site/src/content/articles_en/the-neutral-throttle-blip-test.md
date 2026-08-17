@@ -1,7 +1,7 @@
 ---
 ru: "test-gazom-na-nejtrali-chto-pokazyvaet"
 title: "The neutral throttle test: what it shows"
-metaTitle: "The neutral throttle test: what it shows | Stuk"
+metaTitle: "The neutral throttle test: what it shows | Pro-Stuk"
 description: "What raising the revs in neutral tells you: how to separate engine noise from wheel and transmission noise, and how to run the test properly."
 pubDate: "2026-06-21"
 related:
@@ -115,7 +115,7 @@ engine from the running gear more reliably than any adjective. And whether
 it appeared on the way up or on the lift-off, because the lift-off is
 where the timing drive gives itself away.
 
-The test is convenient to run with the recording on in the Stuk app: it
+The test is convenient to run with the recording on in the Pro-Stuk app: it
 catches exactly the change of sound with the revs, matches it with your
 answers and shows the likely causes with percentages — together with a
 hint about which part to check first.

@@ -1,6 +1,6 @@
 ---
 title: "Soğukta vuruntu: triger zinciri mi, eksantrik ayarlayıcı mı"
-metaTitle: "Soğukta vuruntu: zincir mi ayarlayıcı mı | Stuk"
+metaTitle: "Soğukta vuruntu: zincir mi ayarlayıcı mı | Pro-Stuk"
 description: "Soğuk çalıştırmadan sonraki ilk saniyelerde gelen takırtıyı hem uzamış triger zinciri hem eksantrik ayarlayıcı verir. Süreye bakarak nasıl ayrılır."
 faq:
   - q: "Soğukta kaç saniyelik vuruntu normal sayılır?"
@@ -88,7 +88,7 @@ ayarlayıcı, tam olarak aşınmış bir ayarlayıcı gibi takırdar ve temizlik
 parçanın çok küçük bir kısmına mal olur.
 
 Sesinizin normal sınırda olup olmadığından emin değilseniz, birkaç gün üst
-üste soğuk çalıştırmayı Stuk uygulamasına kaydedin. Uygulama kaydı karakter
+üste soğuk çalıştırmayı Pro-Stuk uygulamasına kaydedin. Uygulama kaydı karakter
 ve süreye göre ayrıştırıp muhtemel nedenleri yüzdeleriyle gösterir —
 kayıtları birbiriyle karşılaştırmak da sesin sabit mi kaldığını yoksa
 büyüyor mu olduğunu kendiliğinden ortaya koyar.

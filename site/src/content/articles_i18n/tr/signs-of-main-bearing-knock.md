@@ -1,6 +1,6 @@
 ---
 title: "Ana yatak vuruntusunun belirtileri"
-metaTitle: "Motorda ana yatak vuruntusunun belirtileri | Stuk"
+metaTitle: "Motorda ana yatak vuruntusunun belirtileri | Pro-Stuk"
 description: "Bloğun altından gelen ağır ve pes bir vuruntu, düşen yağ basıncı ve titreşim: ana yatak aşınması nasıl tanınır, biyelden farkı nedir."
 faq:
   - q: "Ana yatak vuruntusu biyel vuruntusundan nasıl ayrılır?"
@@ -99,7 +99,7 @@ koşulları ve toz payı bırakarak uyun, seviyeyi takip edin ve basınç
 lambasının ilk titremelerini görmezden gelmeyin.
 
 Vuruntu yeni başladıysa ve motorun hangi bölgesinden geldiğinden emin
-değilseniz, rölantide ve gaz vuruşunda kısa birer parça Stuk uygulamasında
+değilseniz, rölantide ve gaz vuruşunda kısa birer parça Pro-Stuk uygulamasında
 kaydedin. Uygulama sesi, rejime dair cevaplarınızla karşılaştırır ve olası
 nedenleri yüzdeleriyle gösterir — kendiniz gitmekle doğrudan çekici
 çağırmak arasında karar vermeye yetecek kadar.

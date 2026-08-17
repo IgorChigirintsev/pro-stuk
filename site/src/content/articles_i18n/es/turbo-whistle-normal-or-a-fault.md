@@ -1,6 +1,6 @@
 ---
 title: "Silbido del turbo: ¿normal o avería?"
-metaTitle: "Silbido del turbo: ¿normal o avería? | Stuk"
+metaTitle: "Silbido del turbo: ¿normal o avería? | Pro-Stuk"
 description: "Cuándo el silbido de un turbo es un sonido de serie y cuándo avisa de una fuga o de desgaste: cómo distinguirlo del chirrido de la correa y qué revisar primero."
 faq:
   - q: "¿Un turbo silba siempre o es señal de avería?"
@@ -111,7 +111,7 @@ aire obstruido. Un minuto tranquilo al ralentí antes de apagar tras un
 trayecto exigente no cuesta nada y alarga bastante la vida útil.
 
 Si la voz del turbo ha cambiado y no se atreve a decir de oído cuánto,
-grabe dos clips con la aplicación Stuk: aceleración con carga y ralentí
+grabe dos clips con la aplicación Pro-Stuk: aceleración con carga y ralentí
 en caliente. La aplicación los compara y muestra las causas probables con
 porcentajes, de modo que la conversación en el taller no empieza con un
 genérico «silba», sino con un régimen de funcionamiento concreto.

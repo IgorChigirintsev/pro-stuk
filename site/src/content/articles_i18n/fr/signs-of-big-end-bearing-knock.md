@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un claquement de coussinets de bielle"
-metaTitle: "Claquement de bielle : le son et quoi faire | Stuk"
+metaTitle: "Claquement de bielle : le son et quoi faire | Pro-Stuk"
 description: "Le son d'un claquement de coussinets de bielle, les signes qui l'accompagnent, ce avec quoi on le confond et comment le diagnostic se confirme à l'atelier."
 faq:
   - q: "En quoi le claquement de bielle diffère-t-il du bruit des poussoirs hydrauliques ?"
@@ -162,7 +162,7 @@ chance est grande de s'en tirer avec des coussinets et de laisser le
 vilebrequin tranquille.
 
 Si vous ne savez pas s'il s'agit d'un claquement de bielle ou de l'un de
-ses sosies, enregistrez le moteur dans l'application Stuk : elle compare
+ses sosies, enregistrez le moteur dans l'application Pro-Stuk : elle compare
 l'enregistrement avec des claquements typiques, pose des questions de
 précision et affiche les causes probables avec un niveau d'urgence. Cela
 ne remplace pas un démontage, mais cela aide à juger de l'urgence d'un

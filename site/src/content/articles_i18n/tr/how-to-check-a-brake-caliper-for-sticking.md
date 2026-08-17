@@ -1,6 +1,6 @@
 ---
 title: "Fren kaliperi sıkışıyor mu, nasıl kontrol edilir"
-metaTitle: "Fren kaliperi sıkışması nasıl kontrol edilir | Stuk"
+metaTitle: "Fren kaliperi sıkışması nasıl kontrol edilir | Pro-Stuk"
 description: "Sıkışan fren kaliperinin belirtileri: boşta yuvarlanma testi, tekerlek sıcaklığı, frende çekme ve koku. Serviste bu iş nasıl çözülür."
 faq:
   - q: "Bir disk normalde ne kadar ısınır?"
@@ -104,7 +104,7 @@ balata ve kaliperi birlikte değiştirmekten ucuza gelir. Diskin çarpılıp
 [frende titreme](/tr/articles/brake-judder-when-braking/) yazısına bakın.
 
 Bütün bunlara yeni bir ses eklendiyse ve servise gitmeden önce onu
-yakalamak istiyorsanız Stuk uygulamasında kayda başlayın ve bir test turu
+yakalamak istiyorsanız Pro-Stuk uygulamasında kayda başlayın ve bir test turu
 atın. Uygulama sesi koşullarla ilgili cevaplarınızla eşleştirir ve muhtemel
 sebepleri yüzdesiyle gösterir — üstelik ustaya sözlü tarif yerine kaydın
 kendisi kalır.

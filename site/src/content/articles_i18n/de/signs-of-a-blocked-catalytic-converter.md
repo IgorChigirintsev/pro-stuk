@@ -1,6 +1,6 @@
 ---
 title: "Zeichen eines verstopften Katalysators"
-metaTitle: "Verstopfter Katalysator: die Zeichen | Stuk"
+metaTitle: "Verstopfter Katalysator: die Zeichen | Pro-Stuk"
 description: "Ein verstopfter Katalysator würgt den Motor ab: kein Zug, Aussetzer unter Last, mehr Verbrauch. So unterscheiden Sie ihn von anderen Ursachen für Leistungsverlust."
 faq:
   - q: "Kann ein Katalysator plötzlich dichtgehen?"

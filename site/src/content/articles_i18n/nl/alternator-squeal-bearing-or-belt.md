@@ -1,6 +1,6 @@
 ---
 title: "Fluitende dynamo: lager of riem"
-metaTitle: "Fluitende dynamo: lager of riem? | Stuk"
+metaTitle: "Fluitende dynamo: lager of riem? | Pro-Stuk"
 description: "Hoe u een slippende riem onderscheidt van een jankend dynamolager: het verschil in geluid en drie tests waarvoor u niets hoeft te demonteren."
 faq:
   - q: "Kan ik rijden met een jankend dynamolager?"

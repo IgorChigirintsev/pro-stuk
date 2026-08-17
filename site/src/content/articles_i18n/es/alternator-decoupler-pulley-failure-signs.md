@@ -1,6 +1,6 @@
 ---
 title: "Síntomas de una polea de rueda libre del alternador averiada"
-metaTitle: "Polea del alternador con rueda libre: síntomas | Stuk"
+metaTitle: "Polea del alternador con rueda libre: síntomas | Pro-Stuk"
 description: "Por qué el alternador lleva polea de rueda libre y cómo suena su desgaste: silbido al arrancar, traqueteo tras apagar, vibración de la correa. Comprobaciones caseras."
 faq:
   - q: "¿En qué se diferencia una polea de rueda libre de una polea normal del alternador?"
@@ -117,6 +117,6 @@ La vida típica de una polea de rueda libre ronda los 100.000 km, así que
 su estado siempre merece una revisión en el cambio de correa programado.
 
 ¿No está seguro de si es la rueda libre, un rodamiento o la correa? Grabe
-el sonido al arrancar y al apagar con la aplicación Stuk: compara la
+el sonido al arrancar y al apagar con la aplicación Pro-Stuk: compara la
 grabación con los sonidos típicos de avería y muestra las causas probables
 con un nivel de urgencia.

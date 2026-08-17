@@ -1,6 +1,6 @@
 ---
 title: "Soğukta süspansiyon tıkırtısı"
-metaTitle: "Soğukta süspansiyon tıkırtısı: ne yapmalı | Stuk"
+metaTitle: "Soğukta süspansiyon tıkırtısı: ne yapmalı | Pro-Stuk"
 description: "Süspansiyon donda neden tıkırdar ve ısınınca neden susar: sertleşen kauçuk, koyulaşan amortisör yağı, plastik. Neyi tehlikeli, neyi değil."
 faq:
   - q: "Isınınca tıkırtı geçiyor, görmezden gelebilir miyim?"
@@ -98,7 +98,7 @@ tanınmış bir üreticinin kaliteli kauçuğudur: daha sessizdir ve sıcaklık
 salınımlarında daha öngörülebilir davranır. Poliüretan, fabrika parçalarının
 tek sezon bile dayanmadığı yerde hak ettiği yeri alır.
 
-Normal mi aşınma mı emin değilseniz, sabahki tıkırtıyı giderken Stuk
+Normal mi aşınma mı emin değilseniz, sabahki tıkırtıyı giderken Pro-Stuk
 uygulamasıyla kaydedin. Algoritma sesi sıcaklık ve koşullara dair
 yanıtlarınızla eşleştirir ve olası nedenleri aciliyet seviyesiyle gösterir:
 hemen mi gitmek gerekiyor yoksa planlı bir ziyareti sakince beklemek mi

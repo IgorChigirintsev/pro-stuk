@@ -1,6 +1,6 @@
 ---
 title: "Cadena de distribución Nissan Almera y Qashqai: síntomas de estiramiento"
-metaTitle: "Cadena de distribución Nissan: síntomas de estiramiento | Stuk"
+metaTitle: "Cadena de distribución Nissan: síntomas de estiramiento | Pro-Stuk"
 description: "Cómo suena una cadena de distribución estirada en el Almera y el Qashqai, en qué se diferencia de otros golpes de motor y cómo se decide la reparación."
 faq:
   - q: "¿Cuánto dura la cadena de distribución en estos motores?"
@@ -113,7 +113,7 @@ la cadena, y esos orígenes se tratan en
 [chirrido de la correa del alternador: las causas](/es/articles/alternator-belt-squeal-causes/).
 
 Si no tiene claro en qué fase está su caso, grabe el sonido con la
-aplicación Stuk en un arranque en frío y una segunda vez con el motor
+aplicación Pro-Stuk en un arranque en frío y una segunda vez con el motor
 caliente. La aplicación compara las grabaciones con sus respuestas y
 muestra las causas probables con porcentajes: una buena forma de saber si
 tiene margen de tiempo.

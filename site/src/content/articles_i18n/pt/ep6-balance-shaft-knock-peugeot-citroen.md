@@ -1,6 +1,6 @@
 ---
 title: "Batida dos eixos balanceadores no EP6 da Peugeot e da Citroën"
-metaTitle: "Batida no EP6: o que realmente bate no motor | Stuk"
+metaTitle: "Batida no EP6: o que realmente bate no motor | Pro-Stuk"
 description: "O que de fato bate num motor EP6 quando os donos falam em eixos balanceadores: corrente, tensor, variadores de fase e o óleo. As verificações."
 faq:
   - q: "O EP6 tem eixos balanceadores?"
@@ -105,7 +105,7 @@ limpas: num motor com histórico de manutenção descuidado são elas o
 motivo de os variadores matraquearem, e um atuador novo alimentado por uma
 tela entupida se comporta exatamente como o velho.
 
-Se quiser registrar o som antes que ele mude, grave com o aplicativo Stuk
+Se quiser registrar o som antes que ele mude, grave com o aplicativo Pro-Stuk
 nos primeiros segundos depois de uma partida a frio. O aplicativo cruza a
 gravação com as suas respostas a algumas perguntas e mostra as causas
 prováveis com percentuais — e a gravação guardada é útil um mês depois

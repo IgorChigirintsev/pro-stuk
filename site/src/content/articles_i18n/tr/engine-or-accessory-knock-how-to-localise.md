@@ -1,6 +1,6 @@
 ---
 title: "Motor mu, yardımcı ekipman mı vuruyor: yerini nasıl bulursunuz"
-metaTitle: "Motor mu yardımcı ekipman mı vuruyor: bulma | Stuk"
+metaTitle: "Motor mu yardımcı ekipman mı vuruyor: bulma | Pro-Stuk"
 description: "Motor bölmesinden gelen ses her zaman motordan gelmez. Birkaç kontrol, kayışla dönen ekipmanı motorun kendi mekaniğinden ayırır."
 faq:
   - q: "Motorun değil de yardımcı bir ekipmanın vurduğunu nasıl anlarım?"
@@ -88,7 +88,7 @@ vermeyen alçak, boğuk vuruntudur; özellikle düşen yağ basıncıyla birlikt
 Orada yola devam etmek tamiri revizyona çevirir ve doğru hamle «pazartesiye
 kadar» idare etmek değil, durmaktır.
 
-Servise gitmeden sesi kayda almak istiyorsanız Stuk uygulamasında iki rejimde
+Servise gitmeden sesi kayda almak istiyorsanız Pro-Stuk uygulamasında iki rejimde
 kaydedin: yüksüz rölantide ve hemen ardından klima ile farlar açıkken. Aradığınız
 şey tam olarak iki kayıt arasındaki farktır; uygulama bunları cevaplarınızla
 eşleştirip olası sebepleri yüzdesiyle gösterir.

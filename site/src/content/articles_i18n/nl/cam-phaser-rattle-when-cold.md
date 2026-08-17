@@ -1,6 +1,6 @@
 ---
 title: "Ratelende nokkenasverstellers bij koude motor"
-metaTitle: "Ratelende nokkenasversteller bij kou | Stuk"
+metaTitle: "Ratelende nokkenasversteller bij kou | Pro-Stuk"
 description: "Waarom nokkenasverstellers de eerste seconden na een koude start ratelen: versleten versteller, het OCV-ventiel, de olie. Zelf controleren en wat er volgt."
 faq:
   - q: "Hoeveel seconden geratel na het starten is normaal?"

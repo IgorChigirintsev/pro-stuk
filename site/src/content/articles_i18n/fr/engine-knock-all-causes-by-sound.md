@@ -1,6 +1,6 @@
 ---
 title: "Claquement moteur : toutes les causes par type de son"
-metaTitle: "Claquement moteur : les causes par type de son | Stuk"
+metaTitle: "Claquement moteur : les causes par type de son | Pro-Stuk"
 description: "Une carte des claquements moteur par caractère de son : cliquetis, clics, tintements, coups sourds. Ce que chacun signifie et son degré d'urgence."
 faq:
   - q: "Peut-on identifier la cause précisément au seul son ?"
@@ -147,7 +147,7 @@ mécanicien la moitié du temps de diagnostic, et vous en épargnent le
 coût.
 
 Pour éviter de deviner à partir de descriptions, enregistrez le moteur en
-marche dans l'application Stuk : elle croise l'enregistrement avec vos
+marche dans l'application Pro-Stuk : elle croise l'enregistrement avec vos
 réponses sur les conditions et affiche les causes probables avec leurs
 pourcentages et un niveau d'urgence — avec cette liste, la conversation au
 garage devient concrète.

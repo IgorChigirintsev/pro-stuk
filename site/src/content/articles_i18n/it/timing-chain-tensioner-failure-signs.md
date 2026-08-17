@@ -1,6 +1,6 @@
 ---
 title: "Segni di tenditore della catena di distribuzione in avaria"
-metaTitle: "Tenditore catena: i segni dell'avaria | Stuk"
+metaTitle: "Tenditore catena: i segni dell'avaria | Pro-Stuk"
 description: "Come capire che il tenditore della catena si è indebolito: fragore all'avviamento a freddo, fruscio al minimo, colpo a un colpo di gas e rischio di salto."
 faq:
   - q: "Perché la catena sferraglia solo all'avviamento a freddo?"
@@ -105,6 +105,6 @@ pattini e corone, perché la manodopera è in comune e i pattini consumati
 distruggono in fretta una catena nuova.
 
 Il modo più semplice di mostrare il problema a un'officina è con il suono.
-Registri un avviamento a freddo nell'app Stuk: confronta la registrazione
+Registri un avviamento a freddo nell'app Pro-Stuk: confronta la registrazione
 con i suoni tipici dei guasti, tiene conto delle sue risposte e valuta
 quanto urgentemente serve un meccanico.

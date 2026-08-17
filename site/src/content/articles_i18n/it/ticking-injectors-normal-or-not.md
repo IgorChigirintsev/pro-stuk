@@ -1,6 +1,6 @@
 ---
 title: "Iniettori che ticchettano: normale o no"
-metaTitle: "Iniettori che ticchettano: normale o guasto? | Stuk"
+metaTitle: "Iniettori che ticchettano: normale o guasto? | Pro-Stuk"
 description: "Ticchettio degli iniettori: perché si sente, quando è normale per un motore e quando segnala un guasto. Come distinguerlo dalle punterie idrauliche."
 faq:
   - q: "Perché gli iniettori si sentono solo al minimo?"
@@ -113,7 +113,7 @@ pulizia degli iniettori li tocca. È un lavoro a parte, e conviene
 confermarlo o escluderlo prima di pagare per quello sbagliato.
 
 Se il ticchettio le lascia dei dubbi — più forte, meno uniforme,
-accompagnato da vibrazione — registri il motore al minimo nell'app Stuk:
+accompagnato da vibrazione — registri il motore al minimo nell'app Pro-Stuk:
 l'algoritmo confronta il suono con i profili tipici e con le sue risposte e
 mostra se somiglia al normale lavoro degli iniettori o a un motivo per
 andare in officina.

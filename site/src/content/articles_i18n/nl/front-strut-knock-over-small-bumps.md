@@ -1,6 +1,6 @@
 ---
 title: "Kloppende veerpoten voor over kleine oneffenheden"
-metaTitle: "Klop veerpoot voor op oneffenheden | Stuk"
+metaTitle: "Klop veerpoot voor op oneffenheden | Pro-Stuk"
 description: "Een droge klop uit de voorste veerpoten op kleine oneffenheden: hoe u de schokdemper onderscheidt van veerpootlagers en stabilisator, plus zelf te doen controles."
 faq:
   - q: "Waarom hoor ik de klop alleen op kleine oneffenheden?"

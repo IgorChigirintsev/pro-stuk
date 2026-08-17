@@ -1,6 +1,6 @@
 ---
 title: "Battito del motore a caldo"
-metaTitle: "Battito del motore a caldo: cause e cosa fare | Stuk"
+metaTitle: "Battito del motore a caldo: cause e cosa fare | Pro-Stuk"
 description: "Perché il motore comincia a battere dopo essersi scaldato: olio, punterie idrauliche, bronzine o detonazione. Come restringere la causa osservando il comportamento del rumore."
 faq:
   - q: "Perché il motore batte solo dopo essersi scaldato?"
@@ -144,7 +144,7 @@ per arrivarci. Il quadro generale dei battiti motore è nella pagina sintomo
 [battito nel motore](/it/symptoms/knocking-in-engine/).
 
 Se vuole qualcosa di concreto prima della visita in officina, registri il
-suono del motore caldo nell'app Stuk. Confronta la registrazione con i battiti
+suono del motore caldo nell'app Pro-Stuk. Confronta la registrazione con i battiti
 tipici, pone qualche domanda di chiarimento e mostra le cause probabili con un
 livello di urgenza — con quella lista il dialogo con il meccanico va più
 spedito.

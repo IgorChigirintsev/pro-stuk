@@ -1,6 +1,6 @@
 ---
 title: "Dizel panelvanlarda turbo ıslığı: Sprinter, Transit"
-metaTitle: "Dizel Sprinter ve Transit'te turbo ıslığı | Stuk"
+metaTitle: "Dizel Sprinter ve Transit'te turbo ıslığı | Pro-Stuk"
 description: "Dizel Sprinter ve Transit'te turbo ıslığı: normal nerede biter, hava kaçağı ya da mil aşınması nerede başlar ve hortumlar nasıl kontrol edilir."
 faq:
   - q: "Turbo zaten hep biraz ıslık çalar, bu normal mi?"
@@ -97,7 +97,7 @@ ve
 [aşınmış debriyajın belirtileri](/tr/articles/signs-of-a-worn-clutch/)
 yazılarında.
 
-Turbonuzun sesinin değişip değişmediğinden emin değilseniz Stuk
+Turbonuzun sesinin değişip değişmediğinden emin değilseniz Pro-Stuk
 uygulamasında kaydedin: yük altında hızlanırken ve rölantide. Uygulama
 kayıtları verdiğiniz cevaplarla eşleştirir ve olası sebepleri yüzdeleriyle
 gösterir; kaydın kendisi de bir referans noktası olarak işe yarar: bir ay

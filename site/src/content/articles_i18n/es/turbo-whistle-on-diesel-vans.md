@@ -1,6 +1,6 @@
 ---
 title: "Silbido del turbo en furgonetas diésel: Sprinter, Transit"
-metaTitle: "Silbido del turbo en furgonetas diésel | Stuk"
+metaTitle: "Silbido del turbo en furgonetas diésel | Pro-Stuk"
 description: "Silbido del turbo en furgonetas diésel tipo Sprinter y Transit: dónde acaba lo normal y empieza una fuga de aire o el desgaste del eje, y cómo revisar los manguitos."
 faq:
   - q: "Un turbo siempre silba un poco, ¿es normal?"
@@ -102,7 +102,7 @@ y en
 [señales de un embrague gastado](/es/articles/signs-of-a-worn-clutch/).
 
 Si no está seguro de que el sonido de su turbo haya cambiado, grábelo con
-la aplicación Stuk acelerando con carga y al ralentí. La aplicación cruza
+la aplicación Pro-Stuk acelerando con carga y al ralentí. La aplicación cruza
 las grabaciones con sus respuestas y muestra las causas probables con
 porcentajes, y la propia grabación sirve como punto de referencia: dentro
 de un mes tendrá con qué comparar.

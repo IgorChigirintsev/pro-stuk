@@ -1,6 +1,6 @@
 ---
 title: "I 10 rumori con cui non si deve continuare a guidare"
-metaTitle: "10 rumori con cui non si deve guidare | Stuk"
+metaTitle: "10 rumori con cui non si deve guidare | Pro-Stuk"
 description: "Dieci rumori dell'auto dopo i quali proseguire non è saggio: che cosa si sta rompendo in ciascun caso e come distinguerli dai suoni innocui."
 faq:
   - q: "Perché il normale fischio dei freni non è in elenco?"
@@ -101,7 +101,7 @@ velocità, temperatura o angolo di sterzo, ed è esattamente così che
 vengono ignorati fino allo stadio costoso.
 
 Se è comparso un rumore di questo elenco ma non ne è sicuro, lo registri
-nell'app Stuk sul posto, prima di ripartire. L'app incrocia la
+nell'app Pro-Stuk sul posto, prima di ripartire. L'app incrocia la
 registrazione con le sue risposte a poche domande e mostra le cause
 probabili in percentuale, il che rende più facile scegliere fra proseguire
 e chiamare il carro attrezzi.

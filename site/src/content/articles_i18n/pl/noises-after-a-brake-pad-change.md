@@ -1,6 +1,6 @@
 ---
 title: "Odgłosy po wymianie klocków hamulcowych: co jest normalne"
-metaTitle: "Odgłosy po wymianie klocków: co jest normalne | Stuk"
+metaTitle: "Odgłosy po wymianie klocków: co jest normalne | Pro-Stuk"
 description: "Nowe klocki prawie zawsze hałasują przez pierwsze kilkaset kilometrów. Które dźwięki należą do docierania, a które wskazują na błąd montażu."
 faq:
   - q: "Jak długo mogą hałasować nowe klocki?"
@@ -46,7 +46,7 @@ jazdy po mieście, bez ostrych hamowań z dużej prędkości w pierwszych dniach
 | Pisk przy lekkim nacisku, znikający przy mocnym hamowaniu | Zwykle norma; pomaga smar na prowadnicach |
 | Stały pisk po 500–700 km | Nie norma: blaszki, smar, mieszanka cierna |
 | Metaliczne zgrzytanie od pierwszego dnia | Nie norma, natychmiast sprawdzić montaż |
-| Stuk przy pierwszym naciśnięciu i przy puszczeniu pedału | Nie norma: klocek rusza się w prowadnicach |
+| Pro-Stuk przy pierwszym naciśnięciu i przy puszczeniu pedału | Nie norma: klocek rusza się w prowadnicach |
 
 Osobno wypada wspomnieć twarde mieszanki cierne z dużą zawartością metalu.
 Są trwałe i dobrze znoszą temperaturę, ale z natury hałasują bardziej niż
@@ -108,7 +108,7 @@ warsztatu od razu, a nie dociera dalej —
 [czy można jeździć ze zgrzytającymi hamulcami](/pl/articles/can-you-drive-with-grinding-brakes/).
 
 Żeby nie zgadywać, czy hałas mieści się w normie, warto nagrać go aplikacją
-Stuk pierwszego dnia po wymianie i jeszcze raz dwa tygodnie później.
+Pro-Stuk pierwszego dnia po wymianie i jeszcze raz dwa tygodnie później.
 Porównanie dwóch nagrań pokazuje trend wyraźniej niż jakiekolwiek wrażenie:
 dźwięk docierania wyraźnie słabnie w tym czasie, a usterka zostaje na
 miejscu albo narasta.

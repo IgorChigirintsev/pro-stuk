@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış kardan askı rulmanının belirtileri"
-metaTitle: "Aşınmış kardan askı rulmanı: belirtiler | Stuk"
+metaTitle: "Aşınmış kardan askı rulmanı: belirtiler | Pro-Stuk"
 description: "Tabanın ortasından gelen uğultu, belli bir hızdan sonra titreşim, kalkışta tok bir vuruş — kardan askı rulmanı aşınması nasıl tanınır."
 faq:
   - q: "Askı rulmanı nerede durur, ne işe yarar?"
@@ -94,7 +94,7 @@ bunu sunmaz ve fark, titreşimi gidermekle yalnızca sesi gidermek
 arasındadır.
 
 Uğultu hâlâ hafifse ve ortadan mı yoksa bir tekerlekten mi geldiği belli
-değilse, sesi Stuk uygulamasında düzgün bir otoyolda kaydedin, sonra
+değilse, sesi Pro-Stuk uygulamasında düzgün bir otoyolda kaydedin, sonra
 yumuşak şerit değişimleri sırasında kaydı tekrarlayın. Uygulama kayıtları
 birkaç soruya verdiğiniz cevaplarla eşleştirir ve olası nedenleri
 yüzdeleriyle gösterir.

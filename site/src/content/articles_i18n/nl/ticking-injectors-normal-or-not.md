@@ -1,6 +1,6 @@
 ---
 title: "Tikkende verstuivers: normaal of niet"
-metaTitle: "Tikkende verstuivers: normaal of een probleem | Stuk"
+metaTitle: "Tikkende verstuivers: normaal of een probleem | Pro-Stuk"
 description: "Tikkende verstuivers: waarom ze tikken, wanneer dat normaal is voor een motor en wanneer het op een defect wijst. Zo onderscheidt u ze van klepstoters."
 faq:
   - q: "Waarom hoor ik de verstuivers alleen bij stationair?"

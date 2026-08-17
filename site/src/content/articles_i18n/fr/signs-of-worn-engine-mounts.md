@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'usure des supports moteur"
-metaTitle: "Supports moteur usés : vibrations et à-coups | Stuk"
+metaTitle: "Supports moteur usés : vibrations et à-coups | Pro-Stuk"
 description: "Vibrations au ralenti, à-coup au passage d'un rapport, cognement à l'accélération : reconnaître des supports moteur morts et ce qui décide de la réparation."
 faq:
   - q: "Combien un moteur a-t-il de supports ?"
@@ -141,7 +141,7 @@ moteur suspendu de travers se retrouve précontraint et se déchire à
 nouveau en quelques mois.
 
 Si des vibrations et des à-coups sont apparus mais que vous n'êtes pas sûr
-du diagnostic, enregistrez le moteur en marche dans l'application Stuk :
+du diagnostic, enregistrez le moteur en marche dans l'application Pro-Stuk :
 elle recoupe le son avec vos réponses sur les symptômes et affiche les
 causes probables avec un niveau d'urgence — assez pour avoir une
 conversation concrète avec le mécanicien.

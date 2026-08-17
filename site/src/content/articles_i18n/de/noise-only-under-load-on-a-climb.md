@@ -1,6 +1,6 @@
 ---
 title: "Ein Geräusch, das nur unter Last am Berg auftritt"
-metaTitle: "Geräusch nur am Berg unter Last: Ursachen | Stuk"
+metaTitle: "Geräusch nur am Berg unter Last: Ursachen | Pro-Stuk"
 description: "Warum ein Fremdgeräusch nur am Berg unter Zug hörbar ist, welche Teile sich so verhalten und wie man Riemen, Gleichlaufgelenk und Klopfen trennt."
 faq:
   - q: "Warum verschwindet das Geräusch, sobald ich vom Gas gehe?"

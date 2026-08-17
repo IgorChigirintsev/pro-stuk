@@ -1,6 +1,6 @@
 ---
 title: "Diagnostiquer une suspension à l'oreille : la liste complète"
-metaTitle: "Diagnostic de suspension à l'oreille : la liste | Stuk"
+metaTitle: "Diagnostic de suspension à l'oreille : la liste | Pro-Stuk"
 description: "Un contrôle de suspension pas à pas sans pont : test de rebond, petites bosses, grosses bosses, braquage à l'arrêt, slalom. Avec un tableau bruits-pièces."
 faq:
   - q: "Peut-on identifier une panne de suspension sans pont ?"
@@ -100,7 +100,7 @@ dans lequel des cinq tests, puis de le décrire en ces termes —
 couvre les formulations qui fonctionnent.
 
 Passer la liste est plus facile avec un enregistrement : lancez-en un dans
-l'application Stuk en roulant sur les bosses et répondez aux questions sur
+l'application Pro-Stuk en roulant sur les bosses et répondez aux questions sur
 la vitesse et les conditions. L'application recoupe le son avec vos
 réponses et montre les causes probables en pourcentages — la liste que vous
 apportez au mécanicien en ressort courte et précise.

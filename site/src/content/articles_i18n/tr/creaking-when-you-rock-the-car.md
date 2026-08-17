@@ -1,6 +1,6 @@
 ---
 title: "Aracı sallayınca gelen gıcırtı"
-metaTitle: "Aracı sallayınca gıcırtı: nedenleri ve tamiri | Stuk"
+metaTitle: "Aracı sallayınca gıcırtı: nedenleri ve tamiri | Pro-Stuk"
 description: "Gövde elle sallanınca ve dalgalı yolda neden gıcırdar: viraj demiri burçları, salıncak burçları, kule yatakları. Gıcırdayan nokta nasıl bulunur."
 faq:
   - q: "Gıcırtı neden yağmurdan, yıkamadan sonra ya da soğukta artar?"
@@ -95,7 +95,7 @@ yeter, çünkü kaynak sallayarak ve lastiklere bakarak dakikalar içinde
 bulunur.
 
 Servisten önce karar vermek isterseniz, aracı sallarken ya da karakteristik
-bir dalgadan geçerken gıcırtıyı Stuk uygulamasına kaydedin. Algoritma kaydı
+bir dalgadan geçerken gıcırtıyı Pro-Stuk uygulamasına kaydedin. Algoritma kaydı
 cevaplarınızla eşleştirir ve muhtemel kaynakları aciliyet düzeyiyle
 gösterir: ziyaretin bekleyebileceği mi yoksa bu hafta ayarlanması mı
 gerektiği netleşir.

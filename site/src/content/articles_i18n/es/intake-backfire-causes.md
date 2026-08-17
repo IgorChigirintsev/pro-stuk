@@ -1,6 +1,6 @@
 ---
 title: "Petardeo en la admisión: las causas"
-metaTitle: "Petardeo en la admisión: causas y diagnóstico | Stuk"
+metaTitle: "Petardeo en la admisión: causas y diagnóstico | Pro-Stuk"
 description: "Petardeo en el colector de admisión: mezcla pobre, fallos de encendido, distribución descuadrada. Cómo hallar la causa y en qué se diferencia del escape."
 faq:
   - q: "¿Es peligroso el petardeo en la admisión?"
@@ -114,6 +114,6 @@ permanente con mezcla pobre recalienta válvulas y pistones. Un petardeo por sí
 solo no es una catástrofe, pero no aparece en un motor sano.
 
 Si el petardeo es raro y difícil de demostrar a un mecánico, ponga a grabar la
-aplicación Stuk en su próximo arranque en frío o en la próxima aceleración:
+aplicación Pro-Stuk en su próximo arranque en frío o en la próxima aceleración:
 captura el sonido, lo compara con sus respuestas y muestra las causas
 probables con un nivel de urgencia, para que llegue con datos concretos.

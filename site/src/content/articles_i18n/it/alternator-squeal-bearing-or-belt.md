@@ -1,6 +1,6 @@
 ---
 title: "Fischio dall'alternatore: cuscinetto o cinghia"
-metaTitle: "Fischio alternatore: cuscinetto o cinghia | Stuk"
+metaTitle: "Fischio alternatore: cuscinetto o cinghia | Pro-Stuk"
 description: "Come distinguere una cinghia che slitta da un cuscinetto dell'alternatore che ronza: la differenza nel suono e tre prove senza smontare nulla."
 faq:
   - q: "Si può guidare con un cuscinetto dell'alternatore che ronza?"
@@ -120,7 +120,7 @@ in più con l'alternatore rovinato. Un caso a parte è il fischio comparso
 poco dopo un passaggio in officina: allora vanno esclusi per primi gli
 errori di montaggio della cinghia.
 
-Se dopo tutte le prove resta il dubbio, registri il rumore con l'app Stuk:
+Se dopo tutte le prove resta il dubbio, registri il rumore con l'app Pro-Stuk:
 confronta la registrazione con le sue risposte su quando compare il
 fischio e mostra le sorgenti probabili con un livello di urgenza, così
 arriva in officina con una teoria di lavoro invece che con un generico

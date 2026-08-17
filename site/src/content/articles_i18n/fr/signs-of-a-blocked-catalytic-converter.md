@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un catalyseur bouché"
-metaTitle: "Les signes d'un catalyseur bouché | Stuk"
+metaTitle: "Les signes d'un catalyseur bouché | Pro-Stuk"
 description: "Un catalyseur bouché étrangle le moteur : la voiture n'accélère plus, cale en charge, consomme davantage. Comment le distinguer des autres causes de perte de puissance."
 faq:
   - q: "Un catalyseur peut-il se boucher d'un coup ?"
@@ -110,7 +110,7 @@ Jusqu'où il reste acceptable de rouler avec est traité dans
 
 Si la puissance s'efface progressivement et que vous n'êtes pas sûr que
 l'échappement soit en cause, enregistrez le moteur et la ligne dans
-l'application Stuk — au ralenti puis avec un coup d'accélérateur franc.
+l'application Pro-Stuk — au ralenti puis avec un coup d'accélérateur franc.
 L'application confronte l'enregistrement à votre description des symptômes
 et affiche les causes probables en pourcentages, ce qui vous permet
 d'arriver avec une hypothèse prête plutôt qu'avec « la voiture n'avance

@@ -1,6 +1,6 @@
 ---
 title: "Batida na suspensão traseira em irregularidades"
-metaTitle: "Batida na suspensão traseira: causas | Stuk"
+metaTitle: "Batida na suspensão traseira: causas | Pro-Stuk"
 description: "O que bate na suspensão traseira nos buracos: amortecedores, buchas do eixo, molas ou bagagem no porta-malas. Testes sem elevador e como se escolhe o reparo."
 faq:
   - q: "Por que uma batida atrás é tão difícil de localizar?"
@@ -129,7 +129,7 @@ apertados com o eixo pendurado, a borracha da bucha vive torcida e volta a
 bater em poucos meses.
 
 Se mesmo assim a batida traseira não se prende a uma peça específica,
-grave o som no aplicativo Stuk: ele cruza o áudio com suas respostas sobre
+grave o som no aplicativo Pro-Stuk: ele cruza o áudio com suas respostas sobre
 quando e em que tipo de irregularidade ele aparece e mostra as causas
 prováveis com nível de urgência — com essa lista, o diagnóstico no
 elevador anda mais rápido.

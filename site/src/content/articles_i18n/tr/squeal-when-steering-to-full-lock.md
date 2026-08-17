@@ -1,6 +1,6 @@
 ---
 title: "Direksiyonu sonuna kadar çevirince gelen ıslık"
-metaTitle: "Direksiyonu kilitleyince ıslık: nedenleri | Stuk"
+metaTitle: "Direksiyonu kilitleyince ıslık: nedenleri | Pro-Stuk"
 description: "Direksiyon sonuna kadar çevrilince araç neden ıslık çalar: V kayışı, hidrolik direksiyon pompası ya da düşük yağ seviyesi. Ne zaman normal, ne zaman değil."
 faq:
   - q: "Direksiyonu sonuna dayalı tutmak zararlı mı?"
@@ -107,7 +107,7 @@ devirdaim pompasını da çevirir; yolda kopması boşalmış akü ve hararet ri
 demektir, bu yüzden çatlamış kayış kopmasını beklemeden değiştirilir —
 [ıslık çalan kayışla yola devam edilir mi](/tr/articles/can-you-drive-with-a-squealing-belt/).
 
-Kayış mı pompa mı emin değil misiniz? Islığı Stuk uygulamasıyla kaydedin:
+Kayış mı pompa mı emin değil misiniz? Islığı Pro-Stuk uygulamasıyla kaydedin:
 direksiyon sonuna dayalıyken kayıt alın, birkaç soruyu yanıtlayın —
 uygulama sesi tipik arıza profilleriyle eşleştirip olası nedenleri aciliyet
 seviyesiyle gösterir.

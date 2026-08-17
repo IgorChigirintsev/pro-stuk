@@ -1,6 +1,6 @@
 ---
 title: "Claquement des arbres d'équilibrage EP6 sur Peugeot et Citroën"
-metaTitle: "EP6 : ce qui claque vraiment sous le capot | Stuk"
+metaTitle: "EP6 : ce qui claque vraiment sous le capot | Pro-Stuk"
 description: "Ce qui claque réellement sur un moteur EP6 quand les propriétaires parlent d'arbres d'équilibrage : la chaîne, le tendeur, les déphaseurs et l'huile."
 faq:
   - q: "L'EP6 a-t-il des arbres d'équilibrage ?"
@@ -106,7 +106,7 @@ déphaseurs cliquettent, et un actionneur neuf alimenté à travers un tamis
 bouché se comporte exactement comme l'ancien.
 
 Si vous voulez capturer le son avant qu'il ne change, enregistrez-le avec
-l'application Stuk dans les premières secondes après un départ à froid.
+l'application Pro-Stuk dans les premières secondes après un départ à froid.
 L'application croise l'enregistrement avec vos réponses à quelques
 questions et affiche les causes probables avec leurs pourcentages — et
 l'enregistrement conservé sert un mois plus tard à dire si les choses ont

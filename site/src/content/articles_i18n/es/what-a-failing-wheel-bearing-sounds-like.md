@@ -1,6 +1,6 @@
 ---
 title: "Cómo suena un rodamiento de rueda que se muere"
-metaTitle: "Cómo suena un rodamiento de rueda al morir | Stuk"
+metaTitle: "Cómo suena un rodamiento de rueda al morir | Pro-Stuk"
 description: "De un runrún flojo a 60 km/h al fragor y la vibración en el volante: cómo cambia de sonido un rodamiento de rueda fase a fase y dónde ya no se puede esperar más."
 faq:
   - q: "¿A qué velocidad se oye un rodamiento al principio de todo?"
@@ -109,7 +109,7 @@ muere disimula a menudo una rueda desequilibrada, y la vibración que queda
 tras el arreglo sorprende a mucha gente.
 
 Si el runrún todavía es flojo y no está seguro de no estar imaginándoselo,
-grabe con la aplicación Stuk un tramo de autopista con cambios de carril.
+grabe con la aplicación Pro-Stuk un tramo de autopista con cambios de carril.
 Cruza la grabación con sus respuestas sobre velocidad, firme y sentido de la
 maniobra y muestra las causas probables con porcentajes, incluida una pista
 sobre por qué rueda empezar.

@@ -1,6 +1,6 @@
 ---
 title: "Grincement de la suspension sur les bosses"
-metaTitle: "Suspension qui grince sur les bosses : causes | Stuk"
+metaTitle: "Suspension qui grince sur les bosses : causes | Pro-Stuk"
 description: "Pourquoi une suspension grince sur les bosses : bagues de barre stabilisatrice, silentblocs de bras, rotules. Quand la graisse suffit et quand il faut remplacer."
 faq:
   - q: "Un grincement de suspension est-il dangereux ?"
@@ -130,7 +130,7 @@ correspondent exactement au diamètre de la barre. Une bague trop grande est
 la raison classique pour laquelle un grincement survit à la réparation.
 
 Si le bruit ne vous dit pas s'il s'agit d'un grincement inoffensif ou d'une
-articulation usée, enregistrez-le dans l'application Stuk : elle recoupe
+articulation usée, enregistrez-le dans l'application Pro-Stuk : elle recoupe
 l'enregistrement avec vos réponses sur les circonstances d'apparition et
 montre les causes probables avec un niveau d'urgence.
 

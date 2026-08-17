@@ -1,6 +1,6 @@
 ---
 title: "Balata değişiminden sonraki sesler: hangisi normal"
-metaTitle: "Balata değişiminden sonraki sesler: normal mi | Stuk"
+metaTitle: "Balata değişiminden sonraki sesler: normal mi | Pro-Stuk"
 description: "Yeni balatalar ilk birkaç yüz kilometrede neredeyse hep ses yapar. Hangi sesler oturma sürecine ait, hangileri montaj hatasını gösterir."
 faq:
   - q: "Yeni balatalar ne kadar süre ses yapabilir?"
@@ -115,7 +115,7 @@ mekanizmaya yabancı bir cismin girdiğini gösterir; o durumda alıştırmaya
 yazısında.
 
 Sesin normal sınırlarda olup olmadığını tahmin etmemek için, değişimden
-sonraki ilk gün ve iki hafta sonra Stuk uygulamasıyla kaydedin. İki kaydı
+sonraki ilk gün ve iki hafta sonra Pro-Stuk uygulamasıyla kaydedin. İki kaydı
 karşılaştırmak eğilimi her izlenimden daha net gösterir: oturma sesi bu
 sürede belirgin biçimde zayıflar, arıza ise olduğu yerde kalır ya da
 büyür.

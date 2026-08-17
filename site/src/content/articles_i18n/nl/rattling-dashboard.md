@@ -1,6 +1,6 @@
 ---
 title: "Een ratelend dashboard"
-metaTitle: "Ratelend dashboard: de bron vinden | Stuk"
+metaTitle: "Ratelend dashboard: de bron vinden | Pro-Stuk"
 description: "Een ratelend dashboard is vooral irritant. Waarom het plastic gaat zoemen, hoe u het contactpunt in tien minuten vindt en wanneer het dashboard onschuldig is."
 faq:
   - q: "Is een ratelend dashboard gevaarlijk?"

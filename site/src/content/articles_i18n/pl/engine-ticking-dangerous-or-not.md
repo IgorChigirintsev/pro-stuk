@@ -1,6 +1,6 @@
 ---
 title: "Cykanie silnika: groźne czy nie"
-metaTitle: "Cykanie silnika: groźne czy nie, jak poznać | Stuk"
+metaTitle: "Cykanie silnika: groźne czy nie, jak poznać | Pro-Stuk"
 description: "Dlaczego silnik cyka: kiedy to normalna praca wtryskiwaczy, a kiedy zużyte popychacze lub zawory. Jak odróżnić dźwięk nieszkodliwy od poważnego."
 faq:
   - q: "Silnik cyka na biegu jałowym — czy to groźne?"
@@ -10,7 +10,7 @@ faq:
   - q: "Czy można jeździć z cykającym silnikiem?"
     a: "Jeżeli cykanie jest równe, nie postępuje, a silnik pracuje jak zwykle, można jeździć i spokojnie umówić diagnostykę. Jazdę trzeba przerwać, gdy dźwięk gwałtownie urósł, zamienił się w metaliczne dzwonienie albo zapaliła się lampka ciśnienia oleju: zwłoka jest tu droga."
   - q: "Jak odróżnić cykanie wtryskiwaczy od stuku zaworów?"
-    a: "Wtryskiwacze cykają identycznie od pierwszego dnia posiadania auta, w każdej temperaturze silnika, a dźwięk dochodzi od strony listwy paliwowej. Stuk zaworów pojawia się z czasem, zwykle wyraźniejszy na zimno albo na gorąco, i brzmi spod pokrywy zaworów. Stetoskop w warsztacie rozdziela je pewnie."
+    a: "Wtryskiwacze cykają identycznie od pierwszego dnia posiadania auta, w każdej temperaturze silnika, a dźwięk dochodzi od strony listwy paliwowej. Pro-Stuk zaworów pojawia się z czasem, zwykle wyraźniejszy na zimno albo na gorąco, i brzmi spod pokrywy zaworów. Stetoskop w warsztacie rozdziela je pewnie."
 sources:
   - title: "Schaeffler (INA): elementy napędu zaworów"
     url: "https://www.schaeffler.com/"
@@ -147,7 +147,7 @@ zjada krzywki wałka — a wtedy zamiast regulacji przychodzi rachunek za
 wałki rozrządu.
 
 Jeśli nie wiadomo, czy to przypadek nieszkodliwy, proszę nagrać silnik w
-aplikacji Stuk: zestawia ona nagranie z odpowiedziami na pytania
+aplikacji Pro-Stuk: zestawia ona nagranie z odpowiedziami na pytania
 doprecyzowujące i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności. Z tym łatwiej zdecydować między „jadę w tym tygodniu” a „po
 prostu obserwuję”.

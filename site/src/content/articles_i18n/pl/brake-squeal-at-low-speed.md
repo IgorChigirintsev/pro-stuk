@@ -1,6 +1,6 @@
 ---
 title: "Pisk hamulców przy małej prędkości"
-metaTitle: "Pisk hamulców przy małej prędkości: przyczyny | Stuk"
+metaTitle: "Pisk hamulców przy małej prędkości: przyczyny | Pro-Stuk"
 description: "Pisk hamulców przy 5–20 km/h bywa niegroźnym drganiem klocka albo pracą czujnika zużycia. Jak je rozróżnić i od czego zależy zakres naprawy."
 faq:
   - q: "Dlaczego hamulce piszczą tylko przy małej prędkości?"
@@ -105,7 +105,7 @@ przyszłych hałasów. Jeśli pisk przeszedł w zgrzyt, pytanie nie dotyczy już
 hałasu, tylko tego, jak szybko dojechać do warsztatu.
 
 Jeśli chce Pan wiedzieć, co właściwie brzmi, zanim cokolwiek umówi, proszę
-nagrać pisk w aplikacji Stuk podczas dojeżdżania do świateł. Aplikacja
+nagrać pisk w aplikacji Pro-Stuk podczas dojeżdżania do świateł. Aplikacja
 rozkłada nagranie na częstotliwości, zestawia je z Pana odpowiedziami na
 kilka pytań o warunki i pokazuje prawdopodobne przyczyny z procentami —
 zwykle to wystarczy, by zdecydować między „jechać teraz” a „poczekać do

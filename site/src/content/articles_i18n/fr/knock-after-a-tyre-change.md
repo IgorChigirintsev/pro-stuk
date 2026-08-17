@@ -1,6 +1,6 @@
 ---
 title: "Un claquement après un changement de pneus : quoi contrôler"
-metaTitle: "Claquement après un changement de pneus : causes | Stuk"
+metaTitle: "Claquement après un changement de pneus : causes | Pro-Stuk"
 description: "D'où vient un claquement après un changement de pneus : serrage des roues, masses d'équilibrage, cailloux, jante voilée. Quoi contrôler et quand revenir."
 faq:
   - q: "Pourquoi resserrer les roues après 50 à 100 km ?"
@@ -127,7 +127,7 @@ Les pages des symptômes
 présentent les causes par caractère et par conditions.
 
 Si le claquement refuse toujours de se nommer, enregistrez-le : lancez un
-enregistrement dans l'application Stuk et parcourez une portion dégradée
+enregistrement dans l'application Pro-Stuk et parcourez une portion dégradée
 familière. L'application croise le son avec vos réponses — quand il est
 apparu, où ça claque, ce qui a été changé — et affiche les causes
 probables avec leurs pourcentages.

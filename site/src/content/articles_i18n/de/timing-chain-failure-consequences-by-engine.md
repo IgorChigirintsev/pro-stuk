@@ -1,6 +1,6 @@
 ---
 title: "Gerissene Steuerkette: die Folgen nach Motoren"
-metaTitle: "Gerissene Steuerkette: Folgen nach Motoren | Stuk"
+metaTitle: "Gerissene Steuerkette: Folgen nach Motoren | Pro-Stuk"
 description: "Was mit einem Motor passiert, wenn die Steuerkette reißt oder überspringt, und warum manche Motoren nur eine neue Kette brauchen und andere einen Zylinderkopf."
 faq:
   - q: "Verbiegen bei allen Motoren die Ventile, wenn die Kette reißt?"

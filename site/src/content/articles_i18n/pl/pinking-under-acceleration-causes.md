@@ -1,6 +1,6 @@
 ---
 title: "Dzwonienie sworzni przy przyspieszaniu: przyczyny"
-metaTitle: "Dzwonienie przy przyspieszaniu: przyczyny i naprawa | Stuk"
+metaTitle: "Dzwonienie przy przyspieszaniu: przyczyny i naprawa | Pro-Stuk"
 description: "Dlaczego silnik dzwoni przy przyspieszaniu: spalanie stukowe, paliwo, nagar, świece. Jak odróżnić nieszkodliwe dzwonienie od zużytych sworzni tłokowych."
 faq:
   - q: "Czy dzwonienie naprawdę pochodzi od sworzni tłokowych?"
@@ -90,7 +90,7 @@ oleju luzy słychać najlepiej. Ogólna strona objawu to
   oktanowej na innej stacji. Dzwonienie zniknęło — sprawa zamknięta, a złą
   stację warto zapamiętać.
 - **Test obciążenia.** Dzwonienie tylko przy dławieniu silnika i na
-  podjazdach to charakter pisma spalania stukowego. Stuk przy dowolnych
+  podjazdach to charakter pisma spalania stukowego. Pro-Stuk przy dowolnych
   obrotach, także na biegu jałowym, to powód, żeby myśleć o mechanice.
 - **Spojrzenie na świece.** Białawy izolator z drobnymi czarnymi kropkami i
   wyerodowane elektrody to ślady spalania stukowego; czarny aksamitny nagar
@@ -126,7 +126,7 @@ dowód na nagar: stan świec i podejrzenie denek tłoków endoskopem to uczciwa
 odpowiedź, a domysł z przebiegu — nie.
 
 Jeśli chce się mieć oparcie przed warsztatem, warto nagrać dźwięk
-przyspieszania aplikacją Stuk. Porównuje ona nagranie z typowymi dźwiękami,
+przyspieszania aplikacją Pro-Stuk. Porównuje ona nagranie z typowymi dźwiękami,
 zadaje kilka pytań doprecyzowujących o to, kiedy i jak dzwonienie się
 pojawia, i pokazuje prawdopodobne przyczyny z poziomem pilności. Do warsztatu
 przyjeżdża się wtedy z konkretną hipotezą, a nie z „coś dzwoni”.

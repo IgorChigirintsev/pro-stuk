@@ -1,6 +1,6 @@
 ---
 title: "Fischio del turbo: normale o guasto"
-metaTitle: "Fischio del turbo: normale o guasto? | Stuk"
+metaTitle: "Fischio del turbo: normale o guasto? | Pro-Stuk"
 description: "Quando il fischio del turbocompressore è un suono di serie e quando segnala una perdita o usura: come distinguerlo dal fischio della cinghia e che cosa controllare per primo."
 faq:
   - q: "Il turbo fischia sempre o è segno di guasto?"
@@ -108,7 +108,7 @@ aria intasato. Un minuto tranquillo al minimo prima di spegnere dopo una
 tirata non costa nulla e allunga sensibilmente la vita del gruppo.
 
 Se la voce del turbo è cambiata e non se la sente di dire a orecchio di
-quanto, registri due clip nell'app Stuk: accelerazione sotto carico e
+quanto, registri due clip nell'app Pro-Stuk: accelerazione sotto carico e
 minimo a caldo. L'app le confronta e mostra le cause probabili in
 percentuale, così il discorso in officina non parte da un generico
 «fischia» ma da una condizione di funzionamento precisa.

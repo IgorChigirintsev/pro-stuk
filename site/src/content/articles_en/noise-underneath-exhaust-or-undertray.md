@@ -1,7 +1,7 @@
 ---
 ru: "shum-vypusknoj-trakt-ili-zashchita-kartera"
 title: "Noise underneath: exhaust or undertray"
-metaTitle: "Noise from below: exhaust or undertray | Stuk"
+metaTitle: "Noise from below: exhaust or undertray | Pro-Stuk"
 description: "Metallic rattling from below comes from either the exhaust system or the undertray. How to separate them by ear and by hand in ten minutes."
 pubDate: "2026-06-15"
 related:
@@ -101,7 +101,7 @@ If the rattle turns out to be neither the undertray nor the exhaust, the
 circle of suspects moves to the accessories — where to start there is in
 [whine under the bonnet: alternator or water pump](/en/articles/alternator-or-water-pump-whine/).
 
-If you are still unsure after all the checks, record the sound in the Stuk
+If you are still unsure after all the checks, record the sound in the Pro-Stuk
 app — first at idle with a throttle blip, then while driving over a rough
 stretch. The app matches both recordings with your answers and shows the
 likely causes with percentages, so the conversation with a mechanic starts

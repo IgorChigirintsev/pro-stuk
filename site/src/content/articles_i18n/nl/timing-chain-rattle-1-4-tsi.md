@@ -1,6 +1,6 @@
 ---
 title: "Rammelende distributieketting op de 1.4 TSI: de kwaal en de oplossing"
-metaTitle: "1.4 TSI kettingratel: oorzaken en oplossing | Stuk"
+metaTitle: "1.4 TSI kettingratel: oorzaken en oplossing | Pro-Stuk"
 description: "Waarom vroege 1.4 TSI-motoren met ketting rammelen bij een koude start, hoe u een opgerekte ketting van andere kloppen onderscheidt en wat de reparatie inhoudt."
 faq:
   - q: "Waarom rammelt de ketting alleen de eerste seconden na het starten?"

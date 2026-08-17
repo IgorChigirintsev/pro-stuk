@@ -1,6 +1,6 @@
 ---
 title: "Co się stanie, jeśli nigdy nie wymienić łączników stabilizatora"
-metaTitle: "Zużyte łączniki stabilizatora: skutki jazdy | Stuk"
+metaTitle: "Zużyte łączniki stabilizatora: skutki jazdy | Pro-Stuk"
 description: "Dokąd prowadzi jazda na zużytych łącznikach stabilizatora: większe przechyły, urwany łącznik, zużycie sąsiednich części. Ile można zwlekać i ile to kosztuje."
 faq:
   - q: "Czy jazda ze stukającymi łącznikami stabilizatora jest niebezpieczna?"
@@ -41,7 +41,7 @@ utratę stabilności i o zapłacenie więcej, niż było trzeba.
 |---|---|---|
 | Pierwsze tygodnie | Niewielki luz, stuk na drobnych nierównościach | Dyskomfort, prawie nic poza tym |
 | Miesiąc, dwa | Luz rośnie, stuk jest stały | Większe przechyły, luźniejsze auto na łukach |
-| Etap zaniedbany | Przegub rozsypany, osłona rozerwana | Stuk na każdej drodze, spóźniona reakcja na kierownicę |
+| Etap zaniedbany | Przegub rozsypany, osłona rozerwana | Pro-Stuk na każdej drodze, spóźniona reakcja na kierownicę |
 | Łącznik pęka | Stabilizator nie pracuje po jednej stronie | Duże przechyły, pływanie, łącznik uderza w wahacz lub półoś |
 
 Tempo jest indywidualne: na gładkich drogach zużyty łącznik potrafi
@@ -129,6 +129,6 @@ się barki bieżnika. Efekt nie jest dramatyczny, ale przy cenie pary
 łączników to kolejny argument przeciw czekaniu.
 
 Jeśli stuk jest, ale nie ma pewności co do diagnozy, warto nagrać dźwięk
-aplikacją Stuk. Zestawia ona nagranie z odpowiedziami o charakterze stuku i
+aplikacją Pro-Stuk. Zestawia ona nagranie z odpowiedziami o charakterze stuku i
 pokazuje prawdopodobne przyczyny wraz z oceną pilności: wiadomo wtedy, czy
 chodzi o tanią parę łączników, czy o coś poważniejszego.

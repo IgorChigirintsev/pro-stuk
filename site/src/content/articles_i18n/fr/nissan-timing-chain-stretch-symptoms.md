@@ -1,6 +1,6 @@
 ---
 title: "Chaîne de distribution détendue sur Nissan Almera et Qashqai : les symptômes"
-metaTitle: "Chaîne de distribution détendue Nissan : signes | Stuk"
+metaTitle: "Chaîne de distribution détendue Nissan : signes | Pro-Stuk"
 description: "Comment sonne une chaîne de distribution détendue sur Almera et Qashqai, en quoi elle diffère des autres claquements moteur et comment se décide la réparation."
 faq:
   - q: "Combien de temps tient la chaîne sur ces moteurs ?"
@@ -108,7 +108,7 @@ voir avec la chaîne — ces sources sont traitées dans
 [le sifflement de la courroie d'accessoires : les causes](/fr/articles/alternator-belt-squeal-causes/).
 
 Si vous ne savez pas à quel stade vous en êtes, enregistrez le bruit dans
-l'application Stuk lors d'un démarrage à froid, puis une seconde fois
+l'application Pro-Stuk lors d'un démarrage à froid, puis une seconde fois
 moteur chaud. L'application compare les enregistrements à vos réponses et
 affiche les causes probables en pourcentages : un bon moyen de savoir si
 vous avez du temps devant vous.

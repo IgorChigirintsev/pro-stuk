@@ -1,6 +1,6 @@
 ---
 title: "Ronzio con la frizione premuta"
-metaTitle: "Ronzio con la frizione premuta: che cos'è | Stuk"
+metaTitle: "Ronzio con la frizione premuta: che cos'è | Pro-Stuk"
 description: "Un ronzio che compare quando si preme il pedale della frizione è quasi sempre il cuscinetto reggispinta. Come confermarlo in un minuto e che cosa comporta la riparazione."
 faq:
   - q: "Un ronzio con la frizione premuta è sicuramente il cuscinetto reggispinta?"
@@ -99,6 +99,6 @@ un cuscinetto che si disgrega può rovinare le dita dello spingidisco e
 trasformare una riparazione ordinaria in una costosa.
 
 Se il ronzio è debole e non è sicuro che sia legato al pedale, registri il
-suono con l'app Stuk — prima al minimo con il pedale alzato, poi con il
+suono con l'app Pro-Stuk — prima al minimo con il pedale alzato, poi con il
 pedale premuto. L'app confronta le registrazioni, le incrocia con qualche
 risposta e mostra le cause probabili in percentuale.

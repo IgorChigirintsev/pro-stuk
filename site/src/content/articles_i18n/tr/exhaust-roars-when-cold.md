@@ -1,6 +1,6 @@
 ---
 title: "Egzoz soğukken gürlüyor"
-metaTitle: "Egzoz soğukken gürlüyor: sebepleri ve çözümü | Stuk"
+metaTitle: "Egzoz soğukken gürlüyor: sebepleri ve çözümü | Pro-Stuk"
 description: "Egzoz neden soğuk çalıştırmadan sonra gürler ve ısınınca susar: manifold contası, çatlaklar, flex boru. Kontroller ve onarım kararı nasıl verilir."
 faq:
   - q: "Gürleme neden sadece soğukken var ve ısınınca kayboluyor?"
@@ -107,7 +107,7 @@ daha kolaydır: bağlantı elemanları henüz sökülüyordur, sıkışmış sap
 birlikte kesilmiyordur.
 
 Gürlemenin tam olarak nereden geldiğinden emin değilseniz soğuk çalıştırmayı
-Stuk uygulamasıyla kaydedin: uygulama kaydı, sesin ne zaman çıkıp ne zaman
+Pro-Stuk uygulamasıyla kaydedin: uygulama kaydı, sesin ne zaman çıkıp ne zaman
 söndüğüne dair cevaplarınızla eşleştirir ve olası sebepleri aciliyet
 düzeyiyle gösterir — böylece servise «sabahları bir şey gürlüyor» diye
 değil, çalışan bir teoriyle gidersiniz.

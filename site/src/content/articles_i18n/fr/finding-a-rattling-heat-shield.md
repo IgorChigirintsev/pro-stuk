@@ -1,6 +1,6 @@
 ---
 title: "Comment trouver un écran thermique qui cliquette"
-metaTitle: "Écran thermique qui cliquette : comment le trouver | Stuk"
+metaTitle: "Écran thermique qui cliquette : comment le trouver | Pro-Stuk"
 description: "Un cliquetis métallique sur une plage de régime étroite vient en général d'un écran thermique desserré. Le trouver en dix minutes et le refixer correctement."
 faq:
   - q: "Pourquoi un écran ne cliquette-t-il qu'à certains régimes ?"
@@ -104,6 +104,6 @@ d'accepter.
 
 Si vous entendez le cliquetis sans pouvoir le reproduire à l'arrêt — parce
 qu'il ne se montre qu'en roulant, par exemple — enregistrez le son dans
-l'application Stuk pendant le trajet. L'application confronte
+l'application Pro-Stuk pendant le trajet. L'application confronte
 l'enregistrement à vos réponses sur ce que le bruit suit et suggère quoi
 inspecter en premier, pour que personne ne paie une recherche à l'aveugle.

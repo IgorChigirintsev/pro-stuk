@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego łożyska alternatora"
-metaTitle: "Zużyte łożysko alternatora: dźwięk i testy | Stuk"
+metaTitle: "Zużyte łożysko alternatora: dźwięk i testy | Pro-Stuk"
 description: "Jak brzmi zużyte łożysko alternatora, jak sprawdzić je bez demontażu i jak odróżnić od rolek paska oraz sprzęgiełka koła pasowego alternatora."
 faq:
   - q: "Czy można jeździć z buczącym łożyskiem alternatora?"
@@ -112,6 +112,6 @@ pompę wody i wspomaganie kierownicy. Z zaplanowanej naprawy robi się
 laweta.
 
 Jeśli spod maski pojawiło się wycie albo buczenie, a chce Pan ustalić
-źródło jeszcze przed warsztatem, proszę nagrać dźwięk w aplikacji Stuk —
+źródło jeszcze przed warsztatem, proszę nagrać dźwięk w aplikacji Pro-Stuk —
 zestawi nagranie z typowymi dźwiękami usterek i pokaże prawdopodobne
 przyczyny wraz z oceną pilności.

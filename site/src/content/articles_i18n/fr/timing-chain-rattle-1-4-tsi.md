@@ -1,6 +1,6 @@
 ---
 title: "Cliquetis de chaîne sur 1.4 TSI : le défaut et la solution"
-metaTitle: "Cliquetis de chaîne 1.4 TSI : causes et solution | Stuk"
+metaTitle: "Cliquetis de chaîne 1.4 TSI : causes et solution | Pro-Stuk"
 description: "Pourquoi les premiers 1.4 TSI à chaîne cliquettent au démarrage à froid, comment distinguer une chaîne détendue d'autres bruits et ce que suppose la réparation."
 faq:
   - q: "Pourquoi la chaîne ne cliquette-t-elle que les premières secondes après le démarrage ?"
@@ -111,7 +111,7 @@ vidanger coûte cher ici : le fonctionnement de la distribution dépend
 directement de la vitesse à laquelle le circuit monte en pression.
 
 Si le cliquetis au démarrage est apparu récemment et que vous voulez savoir
-si c'est bien ce bruit-là, enregistrez-le dans l'application Stuk juste
+si c'est bien ce bruit-là, enregistrez-le dans l'application Pro-Stuk juste
 après un démarrage à froid, avant la montée en température. L'application
 recoupe l'enregistrement avec vos réponses et montre les causes probables
 en pourcentages — de quoi arriver à l'atelier avec une hypothèse précise

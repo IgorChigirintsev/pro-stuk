@@ -1,6 +1,6 @@
 ---
 title: "Stukot: zawory czy popychacze hydrauliczne"
-metaTitle: "Stukot: luzy zaworowe czy popychacze hydrauliczne | Stuk"
+metaTitle: "Stukot: luzy zaworowe czy popychacze hydrauliczne | Pro-Stuk"
 description: "Stukot spod pokrywy zaworów bierze się i ze źle ustawionych luzów zaworowych, i ze zużytych popychaczy hydraulicznych. Jak rozdzielić je na słuch."
 faq:
   - q: "Czy hałas popychaczy znika po nagrzaniu?"
@@ -99,6 +99,6 @@ kanałów olejowych: nowy komplet popychaczy zasilany przez zapchane kanały
 zastuka ponownie w ciągu kilku miesięcy.
 
 Jeśli słychać stukot, ale nie ma pewności, który to przypadek, nagraj
-dźwięk w aplikacji Stuk dwa razy — zaraz po zimnym rozruchu i po dziesięciu
+dźwięk w aplikacji Pro-Stuk dwa razy — zaraz po zimnym rozruchu i po dziesięciu
 minutach pracy. Różnica między tymi nagraniami jest kluczem do odpowiedzi,
 a aplikacja pokaże, na którą wersję wskazuje.

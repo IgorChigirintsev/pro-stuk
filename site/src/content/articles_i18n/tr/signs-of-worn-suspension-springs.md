@@ -1,6 +1,6 @@
 ---
 title: "Süspansiyon yaylarının aşınma belirtileri"
-metaTitle: "Yorulmuş süspansiyon yayı: kontrol | Stuk"
+metaTitle: "Yorulmuş süspansiyon yayı: kontrol | Pro-Stuk"
 description: "Oturma, yatış, çukurlarda dibe vurma: süspansiyon yaylarının yorulduğu nasıl anlaşılır, lift olmadan nasıl kontrol edilir ve değişimde neler önemli."
 faq:
   - q: "Tek yay değiştirilebilir mi?"
@@ -123,6 +123,6 @@ vardır — yüksekliği daha uzun korurlar, karşılığında küçük bozukluk
 sürüşü biraz sertleştirirler.
 
 Yaylar mı, başka bir şey mi emin değilseniz, tümseklerdeki süspansiyon sesini
-Stuk uygulamasında kaydedin: kaydı verdiğiniz cevaplarla eşleştirir ve olası
+Pro-Stuk uygulamasında kaydedin: kaydı verdiğiniz cevaplarla eşleştirir ve olası
 nedenleri aciliyet seviyesiyle gösterir — o listeyle serviste konuşma daha
 kısa ve daha somut olur.

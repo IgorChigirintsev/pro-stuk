@@ -1,6 +1,6 @@
 ---
 title: "Marş tıklıyor ama motoru çevirmiyor"
-metaTitle: "Marş tıklıyor ama çevirmiyor: nedenleri | Stuk"
+metaTitle: "Marş tıklıyor ama çevirmiyor: nedenleri | Pro-Stuk"
 description: "Kontağı çevirince tık ya da hızlı takırtı geliyor, motor dönmüyor. Tek tık ile hızlı takırtı ne anlatır, akü mü marş mı nasıl ayrılır."
 faq:
   - q: "Tek tık ile hızlı takırtı arasındaki fark nedir?"
@@ -87,6 +87,6 @@ kaynaklanabilir. Çalıştırma anındaki diğer kaput altı sesleri
 toplanmış.
 
 Tıklama gelip gidiyorsa ve araç serviste kalleşçe ilk seferde çalışıyorsa,
-çalıştırma denemesini Stuk uygulamasıyla kaydedin. Uygulama tıkların
+çalıştırma denemesini Pro-Stuk uygulamasıyla kaydedin. Uygulama tıkların
 karakterini, göstergelerin nasıl davrandığına dair yanıtlarınızla eşleştirir
 ve ustaya neyi göstermeniz gerektiğini önerir — aküyü, tesisatı ya da marşı.

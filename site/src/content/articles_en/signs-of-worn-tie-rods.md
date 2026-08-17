@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-rulevyh-tyag"
 title: "Signs of worn tie rods"
-metaTitle: "Worn tie rods: knock, play, pulling | Stuk"
+metaTitle: "Worn tie rods: knock, play, pulling | Pro-Stuk"
 description: "How to recognise worn tie rods: knocking over small bumps, steering play, the car pulling. Checks you can do yourself and what the repair involves."
 pubDate: "2026-07-17"
 related:
@@ -116,6 +116,6 @@ season, which is why inspecting boots is part of any running gear
 diagnosis.
 
 If a knock in the steering is audible but the diagnosis is unclear, record
-the sound in the Stuk app on a representative stretch of road. The app
+the sound in the Pro-Stuk app on a representative stretch of road. The app
 matches the recording with your answers and shows the likely causes with
 an urgency level — so you arrive at the workshop with a ready hypothesis.

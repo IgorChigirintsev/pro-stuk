@@ -1,6 +1,6 @@
 ---
 title: "Segni di un cuscinetto reggispinta consumato"
-metaTitle: "Reggispinta consumato: come suona | Stuk"
+metaTitle: "Reggispinta consumato: come suona | Pro-Stuk"
 description: "Come suona un cuscinetto reggispinta consumato, come controllarlo in un minuto con il pedale della frizione, con cosa si confonde il fruscio e come si decide l'intervento."
 faq:
   - q: "Come suona un cuscinetto reggispinta consumato?"
@@ -137,6 +137,6 @@ misura mentre è tutto smontato, ed è la misura, non un'impressione, a
 decidere se resta.
 
 Non è sicuro se il suono reagisca al pedale, o se a fare rumore sia altro?
-Registri il motore con l'app Stuk: prima in folle, poi a pedale premuto.
+Registri il motore con l'app Pro-Stuk: prima in folle, poi a pedale premuto.
 L'app confronta le registrazioni con le sue risposte e mostra le origini
 probabili con un livello di urgenza.

@@ -1,6 +1,6 @@
 ---
 title: "Estouro na admissão: causas"
-metaTitle: "Estouro na admissão: causas e diagnóstico | Stuk"
+metaTitle: "Estouro na admissão: causas e diagnóstico | Pro-Stuk"
 description: "Estouros no coletor de admissão: mistura pobre, falha de ignição, comando fora de ponto. Como achar a causa e como separar de estouro no escapamento."
 faq:
   - q: "Estouro na admissão é perigoso?"
@@ -99,6 +99,6 @@ superaquece válvulas e pistões. Um estouro sozinho não é catástrofe, mas
 ele não aparece em motor saudável.
 
 Se o estouro é raro e difícil de mostrar para o mecânico, comece uma
-gravação no aplicativo Stuk na próxima partida a frio ou aceleração: ele
+gravação no aplicativo Pro-Stuk na próxima partida a frio ou aceleração: ele
 captura o som, cruza com as suas respostas e mostra as causas prováveis
 com um grau de urgência — assim você chega com dados concretos.

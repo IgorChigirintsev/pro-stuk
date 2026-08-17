@@ -5,7 +5,7 @@ export const nl: Record<string, HubText> = {
   dvigatel: {
     h1: 'Motorgeluiden en kloppen',
     short: 'Motor',
-    metaTitle: 'Motorgeluiden en kloppen: de gids | Stuk',
+    metaTitle: 'Motorgeluiden en kloppen: de gids | Pro-Stuk',
     description:
       'Alle motorgeluiden op één plek: kloppen, tikken, ratelen, pingelen en fluiten. Hoe u onschuldig van gevaarlijk scheidt en wat u zelf kunt controleren.',
     intro: [
@@ -16,7 +16,7 @@ export const nl: Record<string, HubText> = {
   podveska: {
     h1: 'Kloppen en piepen van het onderstel',
     short: 'Onderstel en besturing',
-    metaTitle: 'Kloppen en piepen van het onderstel: gids | Stuk',
+    metaTitle: 'Kloppen en piepen van het onderstel: gids | Pro-Stuk',
     description:
       'Kloppen op oneffenheden, piepen, speling in het stuur: hoe u de bron in onderstel en besturing vindt en wat u zelf kunt controleren.',
     intro: [
@@ -27,7 +27,7 @@ export const nl: Record<string, HubText> = {
   tormoza: {
     h1: 'Piepen en schuren van de remmen',
     short: 'Remmen en wielen',
-    metaTitle: 'Piepen en schuren van de remmen: gids | Stuk',
+    metaTitle: 'Piepen en schuren van de remmen: gids | Pro-Stuk',
     description:
       'Piepen, fluiten, schuren en trillen bij het remmen: wat elk geluid betekent, wanneer u niet verder mag rijden en hoe u blokken en klauw zelf controleert.',
     intro: [
@@ -38,7 +38,7 @@ export const nl: Record<string, HubText> = {
   transmissiya: {
     h1: 'Geluiden van bak en aandrijflijn',
     short: 'Aandrijflijn',
-    metaTitle: 'Geluiden van bak en aandrijflijn: gids | Stuk',
+    metaTitle: 'Geluiden van bak en aandrijflijn: gids | Pro-Stuk',
     description:
       'Janken van de bak, klikken van homokineten, schokken bij het schakelen en brommen van de koppeling: hoe u de bron onder de vloer vindt.',
     intro: [
@@ -49,7 +49,7 @@ export const nl: Record<string, HubText> = {
   vyhlop: {
     h1: 'Geluiden van het uitlaatsysteem',
     short: 'Uitlaat',
-    metaTitle: 'Geluiden van de uitlaat: de gids | Stuk',
+    metaTitle: 'Geluiden van de uitlaat: de gids | Pro-Stuk',
     description:
       'Dreunen, knallen uit de demper, rammelen onder de vloer en een rinkelend hitteschild: wat uitlaatgeluiden betekenen en waarom ze ertoe doen.',
     intro: [
@@ -60,7 +60,7 @@ export const nl: Record<string, HubText> = {
   salon: {
     h1: 'Piepen en rammelen in het interieur',
     short: 'Interieur en carrosserie',
-    metaTitle: 'Piepen in het interieur: de bron vinden | Stuk',
+    metaTitle: 'Piepen in het interieur: de bron vinden | Pro-Stuk',
     description:
       'Krekels in het interieur, een piepend dashboard, klapperende deuren: hoe u de bron zelf vindt en hem onderscheidt van een fout in het onderstel.',
     intro: [

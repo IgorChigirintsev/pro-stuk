@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi 4B12: Geräusch von oben — die Hydrostößel"
-metaTitle: "Mitsubishi 4B12: Stößelgeräusch von oben | Stuk"
+metaTitle: "Mitsubishi 4B12: Stößelgeräusch von oben | Pro-Stuk"
 description: "Ticken von oben beim 4B12: wie sich Hydrostößel verhalten, warum meist das Öl schuld ist und wie sich der Ton von der Steuerkette unterscheidet."
 faq:
   - q: "Das Ticken geht eine Minute nach dem Start weg — ist das normal?"

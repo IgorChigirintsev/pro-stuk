@@ -1,6 +1,6 @@
 ---
 title: "Batida que se sente no pedal de freio"
-metaTitle: "Batida sentida no pedal de freio: causas | Stuk"
+metaTitle: "Batida sentida no pedal de freio: causas | Pro-Stuk"
 description: "Batida e retorno no pedal de freio podem ser o ABS trabalhando normal, folga na pinça ou desgaste do trem rodante. Como distinguir cada caso."
 faq:
   - q: "O pedal bate e vibra na freada forte — isso é defeito?"
@@ -101,6 +101,6 @@ as pastilhas novas, porque é ele que impede a pastilha de se mexer.
 
 Dizer de ouvido se quem bate é a pinça ou uma bandeja é difícil até para
 motorista experiente: o som chega pela carroceria e perde o endereço. Uma
-gravação feita no aplicativo Stuk durante uma série de freadas, junto com
+gravação feita no aplicativo Pro-Stuk durante uma série de freadas, junto com
 as respostas a perguntas curtas, devolve uma lista de causas prováveis com
 porcentagens.

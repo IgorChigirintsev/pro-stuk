@@ -1,6 +1,6 @@
 ---
 title: "Kloppende koppelingsvork bij de Ford Focus"
-metaTitle: "Ford Focus: kloppende koppelingsvork | Stuk"
+metaTitle: "Ford Focus: kloppende koppelingsvork | Pro-Stuk"
 description: "Klikken en kloppen bij het intrappen van het koppelingspedaal op een Focus: hoe u de vork en het druklager controleert, en wat een garage doet."
 faq:
   - q: "De klop is alleen te horen bij het bedienen van het pedaal — is het dan zeker de koppeling?"

@@ -1,6 +1,6 @@
 ---
 title: "Señales de terminales de dirección gastados"
-metaTitle: "Terminales de dirección gastados: el sonido | Stuk"
+metaTitle: "Terminales de dirección gastados: el sonido | Pro-Stuk"
 description: "Golpeteo en baches pequeños, holgura en el volante, el coche que se va en recta: cómo reconocer unos terminales de dirección gastados y comprobarlos usted mismo."
 faq:
   - q: "¿Cómo suena un terminal de dirección gastado?"
@@ -143,6 +143,6 @@ desgasta las superficies de contacto y las piezas vecinas, y convierte una
 reparación barata en una cara.
 
 Si algo golpea abajo y no está seguro del diagnóstico, grabe el sonido con
-la aplicación Stuk. Compara la grabación con sus respuestas sobre cuándo
+la aplicación Pro-Stuk. Compara la grabación con sus respuestas sobre cuándo
 aparece el golpe —en baches, al girar, al frenar— y muestra las causas
 probables con un nivel de urgencia.

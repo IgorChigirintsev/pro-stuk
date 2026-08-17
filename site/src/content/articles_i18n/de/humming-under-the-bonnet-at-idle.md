@@ -1,6 +1,6 @@
 ---
 title: "Brummen unter der Haube im Leerlauf"
-metaTitle: "Brummen unter der Haube: Quelle finden | Stuk"
+metaTitle: "Brummen unter der Haube: Quelle finden | Pro-Stuk"
 description: "Was im Leerlauf unter der Haube brummt: Kühlerlüfter, Lichtmaschine, Klimakompressor, Wasserpumpe oder Rollen. Einfache Schaltertests zum Orten."
 faq:
   - q: "Ist es normal, dass beim Einschalten der Klimaanlage ein Brummen auftritt?"

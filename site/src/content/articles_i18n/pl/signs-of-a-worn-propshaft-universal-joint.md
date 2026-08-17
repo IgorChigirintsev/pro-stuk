@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego krzyżaka wału napędowego"
-metaTitle: "Zużyty krzyżak wału napędowego: objawy | Stuk"
+metaTitle: "Zużyty krzyżak wału napędowego: objawy | Pro-Stuk"
 description: "Uderzenie przy ruszaniu, wibracje przy prędkości, metaliczne dzwonienie pod podłogą — jak czytać zużycie krzyżaka wału napędowego etapami."
 faq:
   - q: "Jak odróżnić krzyżak od łożyska podporowego?"
@@ -103,5 +103,5 @@ opisuje tekst
 
 Jeśli stuk jest jeszcze sporadyczny, a chce Pan wiedzieć, czy naprawdę
 dobiega spod podłogi, a nie z zawieszenia, proszę nagrać go w aplikacji
-Stuk w momencie ruszania. Aplikacja zestawi nagranie z odpowiedziami na
+Pro-Stuk w momencie ruszania. Aplikacja zestawi nagranie z odpowiedziami na
 kilka pytań i pokaże prawdopodobne przyczyny z procentami.

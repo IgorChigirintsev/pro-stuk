@@ -1,6 +1,6 @@
 ---
 title: "Yanmış supabın kulakla belirtileri"
-metaTitle: "Yanmış supabın kulakla belirtileri | Stuk"
+metaTitle: "Yanmış supabın kulakla belirtileri | Pro-Stuk"
 description: "Egzozda ritmik patlamalar, tekleme ve rölantide tıslama: yanmış supap sesten nasıl tanınır ve hangi testler bu tahmini doğrular, sırayla anlatıyoruz."
 faq:
   - q: "Yanmış supap kulakla teklemeden nasıl ayrılır?"
@@ -98,7 +98,7 @@ teklemeyle araç kullanmak, doğrudan aşırı ısınmış bir katalizöre ve za
 görmüş bir silindire götürür.
 
 Patlamalar ara sıra geliyorsa ve ritmik olup olmadığından emin
-değilseniz, rölantiyi ve kısa bir gaz dokunuşunu Stuk uygulamasında
+değilseniz, rölantiyi ve kısa bir gaz dokunuşunu Pro-Stuk uygulamasında
 kaydedin. Uygulama sesin periyodikliğini ve motor devriyle bağını
 değerlendirir, olası nedenleri yüzdeyle gösterir — ve teşhise, sadece
 kontrol edilmesi gereken bir hipotezle gidersiniz.

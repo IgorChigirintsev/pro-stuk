@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une butée d'embrayage usée"
-metaTitle: "Butée d'embrayage usée : le bruit | Stuk"
+metaTitle: "Butée d'embrayage usée : le bruit | Pro-Stuk"
 description: "Comment sonne une butée d'embrayage usée, comment la contrôler en une minute avec la pédale, avec quoi le frottement se confond et comment se décide la réparation."
 faq:
   - q: "Comment sonne une butée d'embrayage usée ?"
@@ -142,7 +142,7 @@ bimasse, le jeu libre du volant se mesure pendant que tout est ouvert, et
 c'est cette mesure, pas une impression, qui décide s'il reste en place.
 
 Pas certain que le son réagisse à la pédale, ou qu'il ne s'agisse pas
-d'autre chose ? Enregistrez le moteur dans l'application Stuk — d'abord
+d'autre chose ? Enregistrez le moteur dans l'application Pro-Stuk — d'abord
 au point mort, puis pédale enfoncée. L'application confronte les
 enregistrements à vos réponses et affiche les sources probables avec un
 degré d'urgence.

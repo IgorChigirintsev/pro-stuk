@@ -1,6 +1,6 @@
 ---
 title: "Cigolio quando si scuote l'auto"
-metaTitle: "Cigolio scuotendo l'auto: cause e rimedi | Stuk"
+metaTitle: "Cigolio scuotendo l'auto: cause e rimedi | Pro-Stuk"
 description: "Perché la scocca cigola quando la si scuote a mano e sugli avvallamenti: boccole della barra, silent block, supporti superiori. Come trovare il punto."
 faq:
   - q: "Perché il cigolio peggiora dopo la pioggia, un lavaggio o con il gelo?"
@@ -104,7 +104,7 @@ in officina, ed è spesso inclusa quando si prenota la riparazione: per un
 cigolio di solito basta, perché la sorgente si trova in minuti scuotendo e
 guardando la gomma.
 
-Se vuole decidere prima dell'officina, registri il cigolio con l'app Stuk
+Se vuole decidere prima dell'officina, registri il cigolio con l'app Pro-Stuk
 mentre scuote l'auto o passa su un avvallamento caratteristico.
 L'algoritmo confronta la registrazione con le sue risposte e mostra le
 sorgenti probabili con un livello di urgenza: diventa chiaro se la visita

@@ -1,6 +1,6 @@
 ---
 title: "Defektzeichen der elektrischen Servolenkung"
-metaTitle: "Elektrische Servolenkung: die Defektzeichen | Stuk"
+metaTitle: "Elektrische Servolenkung: die Defektzeichen | Pro-Stuk"
 description: "Wie Sie einen Defekt der elektrischen Servolenkung erkennen: schwere Lenkung, ungleichmäßige Unterstützung, die EPS-Leuchte, Klopfen und Klacken."
 faq:
   - q: "Kann ich mit ausgefallener elektrischer Servolenkung fahren?"

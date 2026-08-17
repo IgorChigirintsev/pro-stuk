@@ -1,6 +1,6 @@
 ---
 title: "Kun je rijden met een jankende waterpomp"
-metaTitle: "Rijden met een jankende waterpomp? | Stuk"
+metaTitle: "Rijden met een jankende waterpomp? | Pro-Stuk"
 description: "Een jankende waterpomp betekent een versleten lager. Wat het riskeert bij distributieriem- en multiriemaandrijving en hoe u het in vijf minuten controleert."
 faq:
   - q: "Hoe ver kan ik rijden met een jankende waterpomp?"

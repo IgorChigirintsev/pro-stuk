@@ -1,6 +1,6 @@
 ---
 title: "Knarzendes Fahrwerk auf Unebenheiten"
-metaTitle: "Knarzendes Fahrwerk: Ursachen und Abhilfe | Stuk"
+metaTitle: "Knarzendes Fahrwerk: Ursachen und Abhilfe | Pro-Stuk"
 description: "Warum ein Fahrwerk auf Unebenheiten knarzt: Stabilisatorlager, Querlenkerbuchsen, Traggelenke. Wann Fett reicht und wann getauscht werden muss."
 faq:
   - q: "Ist ein knarzendes Fahrwerk gefährlich?"

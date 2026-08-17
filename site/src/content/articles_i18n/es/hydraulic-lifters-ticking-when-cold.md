@@ -1,6 +1,6 @@
 ---
 title: "Taqués hidráulicos que tabletean en frío: ¿normal o no?"
-metaTitle: "Taqués que tabletean en frío: ¿normal o no? | Stuk"
+metaTitle: "Taqués que tabletean en frío: ¿normal o no? | Pro-Stuk"
 description: "Por qué los taqués hidráulicos tabletean tras un arranque en frío, cuántos segundos se consideran normales y cuándo toca cambiar el aceite o los taqués."
 faq:
   - q: "¿Cuántos segundos de tableteo de taqués son normales?"
@@ -141,7 +141,7 @@ tableteando deja marcas en la leva; lo que pasa si se deja está en
 [qué pasa si se sigue circulando con los taqués hidráulicos ruidosos](/es/articles/driving-with-noisy-hydraulic-lifters/).
 
 Si no está seguro de si son los taqués o algo más serio, grabe el arranque en
-frío con la aplicación Stuk. Compara la grabación con sus respuestas y muestra
+frío con la aplicación Pro-Stuk. Compara la grabación con sus respuestas y muestra
 las causas probables con porcentajes y un nivel de urgencia, lo que hace más
 fácil decidir entre ir a un diagnóstico ahora y esperar con calma a la próxima
 revisión.

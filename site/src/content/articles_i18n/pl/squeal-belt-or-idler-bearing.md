@@ -1,6 +1,6 @@
 ---
 title: "Pisk: pasek czy łożysko rolki"
-metaTitle: "Pisk spod maski: pasek czy łożysko rolki | Stuk"
+metaTitle: "Pisk spod maski: pasek czy łożysko rolki | Pro-Stuk"
 description: "Pisk spod maski daje i ślizgający się pasek, i konające łożysko rolki. Jak je rozróżnić po warunkach, w których dźwięk się pojawia."
 faq:
   - q: "Dlaczego pasek piszczy tylko przy wilgotnej pogodzie?"
@@ -97,7 +97,7 @@ historię w kilka dni, o czym mówi
 [pisk po wymianie paska](/pl/articles/belt-squeal-after-a-belt-change/).
 
 Pisk spod maski to jeden z dźwięków, które dobrze nagrywają się
-telefonem. Zrób dwa nagrania w aplikacji Stuk: jedno na biegu jałowym bez
+telefonem. Zrób dwa nagrania w aplikacji Pro-Stuk: jedno na biegu jałowym bez
 obciążenia, drugie z włączoną klimatyzacją i światłami. Aplikacja
 porówna je i pokaże, w którą stronę przechyla się obraz — zanim staniesz
 przy ladzie w serwisie.

@@ -1,6 +1,6 @@
 ---
 title: "Trillend stuur bij het remmen"
-metaTitle: "Trillend stuur bij het remmen: oorzaken | Stuk"
+metaTitle: "Trillend stuur bij het remmen: oorzaken | Pro-Stuk"
 description: "Waarom het stuur schudt als u remt: ongelijke schijfdikte, een klemmende remklauw, speling in de naaf. Zo onderscheidt u het van wieltrillingen."
 faq:
   - q: "Waarom trilt het stuur alleen bij remmen, terwijl de auto op snelheid rustig is?"

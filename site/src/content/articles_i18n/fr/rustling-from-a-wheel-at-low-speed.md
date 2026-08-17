@@ -1,6 +1,6 @@
 ---
 title: "Bruissement venant d'une roue à basse vitesse"
-metaTitle: "Bruissement d'une roue à basse vitesse : causes | Stuk"
+metaTitle: "Bruissement d'une roue à basse vitesse : causes | Pro-Stuk"
 description: "Un bruissement de roue entre 10 et 30 km/h vient le plus souvent des freins ou du déflecteur. Comment distinguer un frottement anodin d'une usure, et quoi contrôler."
 faq:
   - q: "Le bruissement ne s'entend qu'en dessous de 30 km/h — est-ce normal ?"
@@ -107,7 +107,7 @@ le dos de plaquettes qui avaient encore des années devant elles.
 Distinguer à l'oreille un frottement anodin d'un début d'usure n'est pas
 facile — la différence entre « ça frotte » et « ça frotte avec du métal
 dedans » survit mal à la mise en mots. Il est plus simple d'enregistrer le
-son dans l'application Stuk en sortant du parking : l'application confronte
+son dans l'application Pro-Stuk en sortant du parking : l'application confronte
 l'enregistrement à vos réponses à quelques questions et affiche les causes
 probables en pourcentages, si bien qu'on sait s'il faut passer au garage ce
 week-end ou attendre tranquillement la prochaine révision.

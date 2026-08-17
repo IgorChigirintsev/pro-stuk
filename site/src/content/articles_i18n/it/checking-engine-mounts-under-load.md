@@ -1,6 +1,6 @@
 ---
 title: "Controllare i supporti motore sotto carico"
-metaTitle: "Controllare i supporti motore sotto carico | Stuk"
+metaTitle: "Controllare i supporti motore sotto carico | Pro-Stuk"
 description: "La prova sotto carico dei supporti motore: inserire le marce contro il freno, quale movimento cercare e come distinguerli da altri colpi."
 faq:
   - q: "Quanto deve muoversi il motore, in generale?"
@@ -107,6 +107,6 @@ il quadro d'insieme di
 [si può guidare con il battito nel motore](/it/articles/can-you-drive-with-engine-knock/).
 
 Se non è sicura se l'urto sia davvero metallico o sia semplicemente una
-partenza brusca, registri il momento della partenza con l'app Stuk. L'app
+partenza brusca, registri il momento della partenza con l'app Pro-Stuk. L'app
 confronta la registrazione con le sue risposte sul regime e mostra le
 cause probabili in percentuale.

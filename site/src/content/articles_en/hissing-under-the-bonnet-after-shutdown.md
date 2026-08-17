@@ -1,7 +1,7 @@
 ---
 ru: "shipenie-pod-kapotom-posle-ostanovki"
 title: "Hissing under the bonnet after shutdown"
-metaTitle: "Hissing under the bonnet after shutdown: causes | Stuk"
+metaTitle: "Hissing under the bonnet after shutdown: causes | Pro-Stuk"
 description: "Hissing under the bonnet with the engine off can be harmless or serious. How to tell a cooling exhaust from a coolant or vacuum leak and what to do."
 pubDate: "2026-07-09"
 related:
@@ -100,7 +100,7 @@ running is on the symptom page
 
 Telling a normal pressure release from a leak by ear is not easy: the
 difference is not in the tone but in the duration and repeatability.
-Record the sound in the Stuk app right after shutdown — it matches the
+Record the sound in the Pro-Stuk app right after shutdown — it matches the
 recording with your answers about smell, fluid level and temperature and
 shows the likely causes with percentages, so you know whether to go in
 tomorrow or simply watch for a week.

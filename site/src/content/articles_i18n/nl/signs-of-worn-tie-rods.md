@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten spoorstangen"
-metaTitle: "Versleten spoorstangen: klop en speling | Stuk"
+metaTitle: "Versleten spoorstangen: klop en speling | Pro-Stuk"
 description: "Zo herkent u versleten spoorstangen: kloppen over kleine oneffenheden, speling in het stuur en een auto die trekt. Zelf controleren en wat de reparatie inhoudt."
 faq:
   - q: "Wat is het verschil tussen een spoorstang en een spoorstangkogel?"

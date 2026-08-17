@@ -1,6 +1,6 @@
 ---
 title: "Bicie kierownicy przy hamowaniu"
-metaTitle: "Bicie kierownicy przy hamowaniu: przyczyny | Stuk"
+metaTitle: "Bicie kierownicy przy hamowaniu: przyczyny | Pro-Stuk"
 description: "Dlaczego kierownica drży przy hamowaniu: nierówna grubość tarczy, zapieczony zacisk, luz piasty. Jak odróżnić to od drgań kół i co z tym zrobić."
 faq:
   - q: "Dlaczego kierownica bije tylko przy hamowaniu, a przy prędkości auto jedzie gładko?"
@@ -117,7 +117,7 @@ na pedale. Materiał cierny dociera się wtedy równomiernie, a tarcze
 wytrzymują wyraźnie dłużej, zanim jakiekolwiek bicie wróci.
 
 Jeśli nie ma Pan pewności, co czuje — bicie od tarcz, drgania od kół czy
-pracę ABS — proszę nagrać dźwięk i opisać sytuację w aplikacji Stuk.
+pracę ABS — proszę nagrać dźwięk i opisać sytuację w aplikacji Pro-Stuk.
 Zestawi ona nagranie z Pana odpowiedziami — kiedy pojawia się trzęsienie,
 gdzie je czuć, czy hamował Pan — i pokaże prawdopodobne przyczyny wraz ze
 stopniem pilności. Przyjedzie Pan do warsztatu z jasnym obrazem zamiast

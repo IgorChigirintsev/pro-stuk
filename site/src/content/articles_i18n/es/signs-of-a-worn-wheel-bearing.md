@@ -1,6 +1,6 @@
 ---
 title: "Señales de un rodamiento de rueda gastado"
-metaTitle: "Rodamiento de rueda gastado: ruido y pruebas | Stuk"
+metaTitle: "Rodamiento de rueda gastado: ruido y pruebas | Pro-Stuk"
 description: "Cómo suena un rodamiento de rueda gastado, cómo separarlo del ruido de los neumáticos, qué pruebas puede hacer usted y qué decide la sustitución."
 faq:
   - q: "¿Cuál es la primerísima señal de un rodamiento de rueda gastado?"
@@ -152,5 +152,5 @@ roto, más probabilidades hay de que dañe su alojamiento y haya que cambiar
 el buje o la mangueta entera.
 
 ¿No tiene claro que lo que zumba sea el rodamiento? Grabe el sonido con la
-aplicación Stuk: cruza la grabación con sus respuestas y muestra las
+aplicación Pro-Stuk: cruza la grabación con sus respuestas y muestra las
 causas probables con porcentajes y un nivel de urgencia.

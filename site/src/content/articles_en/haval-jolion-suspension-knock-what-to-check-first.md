@@ -1,7 +1,7 @@
 ---
 ru: "stuk-podveski-haval-jolion-chto-smotret-pervym"
 title: "Haval Jolion suspension knock: what to check first"
-metaTitle: "Haval Jolion suspension knock: what to check first | Stuk"
+metaTitle: "Haval Jolion suspension knock: what to check first | Pro-Stuk"
 description: "A sensible order for checking a front suspension knock on a Haval Jolion: from anti-roll bar links to top mounts and control arm bushes."
 pubDate: "2026-06-29"
 related:
@@ -99,6 +99,6 @@ The general diagnostic logic for cars in this segment is in
 It helps to arrive with a description rather than the single word
 “knocking”: the speed, the type of bump, cold or warm car, a single knock
 or a chatter. Recording the sound and breaking it down by those conditions
-is what the Stuk app does — it matches the recording with your answers to
+is what the Pro-Stuk app does — it matches the recording with your answers to
 short questions and shows the likely causes with percentages, so the
 conversation at the workshop starts from specifics.

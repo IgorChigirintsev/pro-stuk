@@ -1,6 +1,6 @@
 ---
 title: "Uzamış triger zinciriyle araç kullanılır mı"
-metaTitle: "Uzamış triger zinciriyle araç kullanılır mı? | Stuk"
+metaTitle: "Uzamış triger zinciriyle araç kullanılır mı? | Pro-Stuk"
 description: "Uzamış triger zinciri neyi riske atar, servise kendiniz gitmek ne zaman kabul edilebilir, ne zaman çekici gerekir ve gecikme gerçekte neye mal olur."
 faq:
   - q: "Uzamış triger zinciriyle ne kadar yol gidebilirim?"
@@ -139,7 +139,7 @@ Değişim için randevu alındıysa ama birkaç gün idare etmeniz gerekiyorsa:
 Bunlar riski azaltma tedbirleridir, onarımı erteleme yolu değil: aşınmış
 zincir kendini toparlamaz ve zamanla ucuzlamaz.
 
-Sesi zincirin çıkardığından emin değilseniz, motoru Stuk uygulamasında
+Sesi zincirin çıkardığından emin değilseniz, motoru Pro-Stuk uygulamasında
 kaydedin: uygulama kaydı birkaç sorunun cevaplarıyla eşleştirir ve olası
 sebepleri aciliyet değerlendirmesiyle gösterir. Böylece servise kendiniz
 gitmekle hemen çekici çağırmak arasında karar vermek kolaylaşır.

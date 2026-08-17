@@ -1,6 +1,6 @@
 ---
 title: "Een rammelend hitteschild opsporen"
-metaTitle: "Rammelend hitteschild: zo vindt u het | Stuk"
+metaTitle: "Rammelend hitteschild: zo vindt u het | Pro-Stuk"
 description: "Metalig gerammel in een smal toerentalbereik komt meestal van een los hitteschild. Hoe u het in tien minuten vindt en hoe het netjes wordt vastgezet."
 faq:
   - q: "Waarom rammelt een schild alleen bij bepaalde toerentallen?"

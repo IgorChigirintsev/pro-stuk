@@ -1,6 +1,6 @@
 ---
 title: "Un battito nel motore al minimo"
-metaTitle: "Battito nel motore al minimo: cause e rimedi | Stuk"
+metaTitle: "Battito nel motore al minimo: cause e rimedi | Pro-Stuk"
 description: "Perché il motore batte al minimo: punterie idrauliche, catena di distribuzione, valvole o gli organi sulla cinghia. Come distinguere le cause dal suono."
 faq:
   - q: "Perché il battito si sente al minimo e sparisce salendo di giri?"
@@ -157,7 +157,7 @@ motore è nella pagina sintomo
 [bussate nel motore](/it/symptoms/knocking-in-engine/).
 
 Se vuole capire cosa sta succedendo prima del viaggio in officina,
-registri il motore in funzione con l'app Stuk. Confronta la registrazione
+registri il motore in funzione con l'app Pro-Stuk. Confronta la registrazione
 con le sue risposte a qualche domanda di chiarimento e mostra le cause
 probabili con un livello di urgenza: con quella lista il discorso con il
 meccanico diventa concreto.

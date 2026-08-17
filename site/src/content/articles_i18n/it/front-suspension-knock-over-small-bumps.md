@@ -1,6 +1,6 @@
 ---
 title: "Colpi dell’avantreno sulle piccole asperità"
-metaTitle: "Colpi dell’avantreno sulle piccole asperità | Stuk"
+metaTitle: "Colpi dell’avantreno sulle piccole asperità | Pro-Stuk"
 description: "Perché la sospensione anteriore batte proprio sulle piccole asperità: biellette, silent block, supporti superiori, testine dello sterzo. Come restringere il campo da soli."
 faq:
   - q: "Perché la sospensione batte sulle piccole asperità e tace sulle buche grandi?"
@@ -136,6 +136,6 @@ grasso non elimina il gioco di uno snodo consumato. E non guidate per mesi
 consumato accelera l’usura dei vicini.
 
 Se volete arrivare in officina con una teoria già pronta, registrate il
-colpo nell’app Stuk: confronta il suono con le vostre risposte su quando
+colpo nell’app Pro-Stuk: confronta il suono con le vostre risposte su quando
 compare e mostra le cause probabili con un livello di urgenza, e il
 discorso con il meccanico diventa subito concreto.

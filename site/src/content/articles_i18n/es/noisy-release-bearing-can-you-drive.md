@@ -1,6 +1,6 @@
 ---
 title: "El collarín de embrague hace ruido: ¿se puede circular?"
-metaTitle: "Collarín de embrague ruidoso: ¿se puede circular? | Stuk"
+metaTitle: "Collarín de embrague ruidoso: ¿se puede circular? | Pro-Stuk"
 description: "Ruido del collarín al pisar el embrague: cómo distinguirlo de otros sonidos, cuánto se puede seguir circulando y de qué depende el alcance de la reparación."
 faq:
   - q: "¿Cuánto tiempo se puede circular con el collarín haciendo ruido?"
@@ -107,6 +107,6 @@ embrague nuevo quiere unos primeros cientos de kilómetros suaves para
 asentarse, sin remolcar y sin salidas bruscas.
 
 Si no está seguro de que el sonido vaya realmente ligado al pedal, grábelo
-en la aplicación Stuk: dos clips cortos, con el embrague pisado y suelto.
+en la aplicación Pro-Stuk: dos clips cortos, con el embrague pisado y suelto.
 La aplicación compara las grabaciones y sugiere hacia dónde mirar antes de
 que usted llegue al taller.

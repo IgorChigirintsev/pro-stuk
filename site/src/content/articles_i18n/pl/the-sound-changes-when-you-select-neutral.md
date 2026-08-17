@@ -1,6 +1,6 @@
 ---
 title: "Dźwięk zmienia się po wrzuceniu luzu"
-metaTitle: "Dźwięk zmienia się na luzie: co to znaczy | Stuk"
+metaTitle: "Dźwięk zmienia się na luzie: co to znaczy | Pro-Stuk"
 description: "Luz wrzucony w jeździe zmienił dźwięk. Co to mówi o źródle hałasu, jak prawidłowo przeprowadzić tę próbę i co ona wyklucza z listy podejrzanych."
 faq:
   - q: "Czy wrzucanie luzu w jeździe jest bezpieczne?"
@@ -97,6 +97,6 @@ a pełen zestaw odgłosów z drogi opisano na stronie objawu
 [buczenie podczas jazdy](/pl/symptoms/humming-while-driving/).
 
 Nagranie obu przejazdów — na biegu i na luzie — wygodnie zrobić w aplikacji
-Stuk: porównuje ona fragmenty, zestawia je z odpowiedziami o prędkości i
+Pro-Stuk: porównuje ona fragmenty, zestawia je z odpowiedziami o prędkości i
 warunkach i pokazuje prawdopodobne przyczyny z procentami. Do warsztatu
 przyjeżdżasz z teorią, a nie z mglistym „coś buczy”.

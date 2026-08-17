@@ -1,6 +1,6 @@
 ---
 title: "Battito del variatore di fase sulla Nissan Qashqai"
-metaTitle: "Qashqai: battito del variatore di fase | Stuk"
+metaTitle: "Qashqai: battito del variatore di fase | Pro-Stuk"
 description: "Un breve rumore metallico all'avviamento a freddo sulla Qashqai spesso viene dal variatore di fase. Come distinguerlo dalla catena e cosa controlla l'officina."
 faq:
   - q: "Un breve rumore all'avviamento della Qashqai è pericoloso?"
@@ -98,6 +98,6 @@ nei primi metri — se ne parla in
 [battito della sospensione anteriore sui dossi piccoli](/it/articles/front-suspension-knock-over-small-bumps/).
 
 Se vuole capire cosa batte prima di parlare con il meccanico, registri il
-rumore con l'app Stuk nel momento dell'avviamento a freddo, stando vicino
+rumore con l'app Pro-Stuk nel momento dell'avviamento a freddo, stando vicino
 al cofano aperto. L'app confronta la registrazione con le sue risposte a
 qualche domanda e mostra le cause probabili in percentuale.

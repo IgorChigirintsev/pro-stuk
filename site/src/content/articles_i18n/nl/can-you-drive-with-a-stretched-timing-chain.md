@@ -1,6 +1,6 @@
 ---
 title: "Kun je rijden met een uitgerekte distributieketting"
-metaTitle: "Rijden met een uitgerekte distributieketting? | Stuk"
+metaTitle: "Rijden met een uitgerekte distributieketting? | Pro-Stuk"
 description: "Wat een uitgerekte distributieketting riskeert, wanneer zelf naar de werkplaats rijden nog kan, wanneer u een sleepwagen nodig hebt en wat uitstel werkelijk kost."
 faq:
   - q: "Hoe ver kan ik rijden met een uitgerekte distributieketting?"

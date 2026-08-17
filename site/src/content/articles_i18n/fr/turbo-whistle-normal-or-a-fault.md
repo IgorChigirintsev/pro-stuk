@@ -1,6 +1,6 @@
 ---
 title: "Sifflement du turbo : normal ou panne ?"
-metaTitle: "Sifflement du turbo : normal ou panne ? | Stuk"
+metaTitle: "Sifflement du turbo : normal ou panne ? | Pro-Stuk"
 description: "Quand le sifflement d'un turbo est un bruit normal et quand il signale une fuite ou de l'usure : comment le distinguer d'un crissement de courroie et par quoi commencer."
 faq:
   - q: "Un turbo siffle-t-il toujours, ou est-ce le signe d'une panne ?"
@@ -114,7 +114,7 @@ après un trajet soutenu ne coûte rien et allonge nettement la durée de
 vie.
 
 Si la voix du turbo a changé et que vous n'êtes pas en mesure de dire à
-l'oreille de combien, enregistrez deux séquences dans l'application Stuk :
+l'oreille de combien, enregistrez deux séquences dans l'application Pro-Stuk :
 une accélération en charge et un ralenti moteur chaud. L'application les
 compare et affiche les causes probables avec leur pourcentage — la
 conversation à l'atelier commence alors non par un vague « ça siffle »

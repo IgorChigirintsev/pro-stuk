@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit heulender Wasserpumpe fahren"
-metaTitle: "Mit heulender Wasserpumpe fahren? | Stuk"
+metaTitle: "Mit heulender Wasserpumpe fahren? | Pro-Stuk"
 description: "Eine heulende Wasserpumpe bedeutet ein verschlissenes Lager. Was das bei Zahnriemen- und Keilrippenriemenantrieb riskiert und wie Sie es prüfen."
 faq:
   - q: "Wie weit kann ich mit heulender Wasserpumpe fahren?"

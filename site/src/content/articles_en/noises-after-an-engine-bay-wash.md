@@ -1,7 +1,7 @@
 ---
 ru: "zvuki-posle-mojki-dvigatelya"
 title: "Noises after an engine bay wash"
-metaTitle: "Noises after an engine bay wash: why and how long | Stuk"
+metaTitle: "Noises after an engine bay wash: why and how long | Pro-Stuk"
 description: "A squeal, a rattle or shaking at idle after washing the engine bay. Which noises clear by themselves in a couple of days and which mean a soaked part."
 pubDate: "2026-07-09"
 related:
@@ -104,7 +104,7 @@ pressure. That removes most of the scenarios described here.
 
 The hardest part is telling whether the noise is really weakening. Hearing
 remembers loudness poorly but catches differences well in direct
-comparison. Record the morning start in the Stuk app on the first day and
+comparison. Record the morning start in the Pro-Stuk app on the first day and
 repeat it on the third: the app compares the recordings with your answers
 and shows whether things are heading back to normal or it is time to book
 a diagnosis.

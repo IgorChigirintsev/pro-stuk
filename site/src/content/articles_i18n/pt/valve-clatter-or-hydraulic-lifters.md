@@ -1,6 +1,6 @@
 ---
 title: "Tique-taque: válvulas ou tuchos hidráulicos"
-metaTitle: "Tique-taque: folga de válvula ou tucho | Stuk"
+metaTitle: "Tique-taque: folga de válvula ou tucho | Pro-Stuk"
 description: "O tique-taque embaixo da tampa de válvulas vem tanto de folga de válvula desregulada quanto de tuchos hidráulicos gastos. Como separar os dois de ouvido."
 faq:
   - q: "O barulho de tucho some depois que o motor esquenta?"
@@ -102,6 +102,6 @@ avaliadas num motor de tuchos: um jogo novo de tuchos alimentado por
 galerias entupidas volta a fazer tique-taque em poucos meses.
 
 Se você ouve tique-taque mas não tem certeza de qual caso é, grave o som
-no aplicativo Stuk duas vezes — logo após a partida a frio e depois de dez
+no aplicativo Pro-Stuk duas vezes — logo após a partida a frio e depois de dez
 minutos rodando. A diferença entre as duas gravações é a chave da
 resposta, e o app mostra para qual teoria ela aponta.

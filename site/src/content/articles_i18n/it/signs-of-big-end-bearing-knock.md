@@ -1,6 +1,6 @@
 ---
 title: "Segni del battito delle bronzine di biella"
-metaTitle: "Battito delle bronzine di biella: i segni | Stuk"
+metaTitle: "Battito delle bronzine di biella: i segni | Pro-Stuk"
 description: "Come suona il battito delle bronzine di biella, quali segni lo accompagnano, con che cosa si confonde e come si conferma la diagnosi in officina."
 faq:
   - q: "In che cosa il battito di biella differisce dal rumore delle punterie idrauliche?"
@@ -155,7 +155,7 @@ L'economia è semplice: prima si smette di guidare e si controlla, più alta è
 la probabilità di cavarsela con le bronzine lasciando stare l'albero motore.
 
 Se non è sicuro che sia un battito di biella o uno dei suoi sosia, registri il
-motore con l'app Stuk: confronta la registrazione con i battiti tipici, fa
+motore con l'app Pro-Stuk: confronta la registrazione con i battiti tipici, fa
 domande di precisazione e mostra le cause probabili con un livello di urgenza.
 Non sostituisce uno smontaggio, ma aiuta a capire con quanta fretta serve
 un'officina.

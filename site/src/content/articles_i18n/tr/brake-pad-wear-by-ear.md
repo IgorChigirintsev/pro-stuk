@@ -1,6 +1,6 @@
 ---
 title: "Fren balatası aşınmasını kulakla anlamak"
-metaTitle: "Fren balatası aşınmasının sesle belirtileri | Stuk"
+metaTitle: "Fren balatası aşınmasının sesle belirtileri | Pro-Stuk"
 description: "Aşınmış fren balatalarının çıkardığı sesler: aşınma göstergesinin cıvıltısı, cıyaklama, taşlama. Teker rulmanı uğultusundan nasıl ayrılır, neye bakılır."
 faq:
   - q: "Aşınma göstergesinin sesi frene basınca neden kesiliyor?"
@@ -126,5 +126,5 @@ cevap veriyor demektir: diskler kalabilir mi, yoksa balatalarla birlikte
 mi değişmeli.
 
 Bir fren sesini kulakla sınıflandırmak zorsa, yavaş giderken birkaç hafif
-fren yaparak Stuk uygulamasına kaydedin. Uygulama kaydı cevaplarınızla
+fren yaparak Pro-Stuk uygulamasına kaydedin. Uygulama kaydı cevaplarınızla
 eşleştirir ve olası nedenleri yüzdelerle ve aciliyet derecesiyle gösterir.

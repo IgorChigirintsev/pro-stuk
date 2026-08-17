@@ -1,6 +1,6 @@
 ---
 title: "Çukurlardan geçerken önden gelen boğuk tok ses"
-metaTitle: "Çukurda önden boğuk tok ses: sebepleri | Stuk"
+metaTitle: "Çukurda önden boğuk tok ses: sebepleri | Pro-Stuk"
 description: "Çukurlarda önden gelen boğuk tok ses ne anlama gelir: hangi süspansiyon parçaları böyle ses verir, tehlikeli sebepler beklenebilirlerden nasıl ayrılır."
 faq:
   - q: "Ses neden keskin değil de boğuk?"
@@ -103,7 +103,7 @@ geometriyi belirler, atlanması birkaç bin kilometrede biten lastikler olarak
 geri döner.
 
 Hangi senaryonun sizinki olduğundan emin değil misiniz? Bozuk bir yol
-parçasında sesi Stuk uygulamasıyla kaydedin: uygulama sesi birkaç netleştirici
+parçasında sesi Pro-Stuk uygulamasıyla kaydedin: uygulama sesi birkaç netleştirici
 soruya verdiğiniz cevaplarla eşleştirip olası sebepleri aciliyet düzeyiyle
 gösterir — böylece yarın gitmekle ziyareti sakince planlamak arasında karar
 vermek kolaylaşır.

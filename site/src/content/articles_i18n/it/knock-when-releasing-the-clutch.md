@@ -1,6 +1,6 @@
 ---
 title: "Colpo quando si rilascia la frizione"
-metaTitle: "Colpo rilasciando la frizione: le cause | Stuk"
+metaTitle: "Colpo rilasciando la frizione: le cause | Pro-Stuk"
 description: "Il colpo mentre il pedale della frizione risale nasce dal parastrappi del disco, dal volano, dai supporti motore e dagli snodi dei semiassi. Come distinguerli."
 faq:
   - q: "Un colpo mentre il pedale risale significa frizione nuova?"
@@ -96,6 +96,6 @@ dell'albero motore e, in caso di volano bimassa, la misurazione che decide
 se resta o va sostituito.
 
 Se il colpo è ancora saltuario e non sa da dove venga, lo registri due
-volte con l'app Stuk: durante un colpo di gas in folle e in partenza. L'app
+volte con l'app Pro-Stuk: durante un colpo di gas in folle e in partenza. L'app
 confronta le registrazioni con le sue risposte e mostra le cause probabili
 con le percentuali.

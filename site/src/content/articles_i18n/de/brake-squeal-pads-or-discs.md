@@ -1,6 +1,6 @@
 ---
 title: "Bremsenquietschen: Beläge oder Scheiben"
-metaTitle: "Bremsenquietschen: Beläge oder Scheiben? | Stuk"
+metaTitle: "Bremsenquietschen: Beläge oder Scheiben? | Pro-Stuk"
 description: "Bremsen quietschen wegen der Beläge und wegen der Scheiben. Wie die Bedingungen, unter denen der Ton auftritt, verraten, was zu ersetzen ist."
 faq:
   - q: "Ist Bremsenquietschen am Morgen ein Defekt?"

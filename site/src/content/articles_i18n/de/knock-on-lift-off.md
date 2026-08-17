@@ -1,6 +1,6 @@
 ---
 title: "Ein Klopfen beim Gaswegnehmen"
-metaTitle: "Klopfen beim Gaswegnehmen: Lager, Welle, Kette | Stuk"
+metaTitle: "Klopfen beim Gaswegnehmen: Lager, Welle, Kette | Pro-Stuk"
 description: "Ein einzelnes Klopfen beim Loslassen des Gaspedals: verschlissene Motorlager, Spiel im Antriebsstrang, die Steuerkette, der Auspuff. Wie man die Quelle ortet."
 faq:
   - q: "Warum ist das Klopfen beim Gaswegnehmen hörbar und nicht ständig?"

@@ -1,6 +1,6 @@
 ---
 title: "Kapotte motorsteun: de symptomen"
-metaTitle: "Kapotte motorsteun: de symptomen | Stuk"
+metaTitle: "Kapotte motorsteun: de symptomen | Pro-Stuk"
 description: "Een schok bij het wegrijden, trillen stationair, een doffe bonk bij het wisselen van vooruit naar achteruit — zo herkent u een kapotte motorsteun en dit zijn de gevolgen."
 faq:
   - q: "Is het gevaarlijk om te rijden met een gescheurde motorsteun?"

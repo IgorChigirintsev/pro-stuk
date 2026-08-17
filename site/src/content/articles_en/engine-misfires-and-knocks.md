@@ -1,7 +1,7 @@
 ---
 ru: "dvigatel-troit-i-stuchit"
 title: "The engine misfires and knocks"
-metaTitle: "Engine misfires and knocks: causes and next steps | Stuk"
+metaTitle: "Engine misfires and knocks: causes and next steps | Pro-Stuk"
 description: "The engine shakes, the idle wanders and there is a knock: causes from plugs and coils to scored cylinders. How to find the dead cylinder and why waiting costs more."
 pubDate: "2026-07-01"
 related:
@@ -104,7 +104,7 @@ a long-running misfire, replacing it without fixing the misfire first
 simply destroys the new one. Any workshop that offers a converter before
 the misfire is cured has the order wrong.
 
-To arrive prepared, record the engine running in the Stuk app: it analyses
+To arrive prepared, record the engine running in the Pro-Stuk app: it analyses
 the sound, asks a few questions about the conditions and shows the likely
 causes with percentages and urgency. With that picture in advance it is
 easier to keep an eye on both the diagnosis and the estimate.

@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een defecte nokkenasversteller"
-metaTitle: "Defecte nokkenasversteller: geluid en symptomen | Stuk"
+metaTitle: "Defecte nokkenasversteller: geluid en symptomen | Pro-Stuk"
 description: "Kenmerken van een defecte nokkenasversteller: geratel na het starten, onrustig stationair, meer verbruik, codes P0010–P0017. En hoe u ze onderscheidt."
 faq:
   - q: "Wat is een nokkenasversteller in gewone taal?"

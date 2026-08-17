@@ -1,6 +1,6 @@
 ---
 title: "Il motorino di avviamento ticchetta ma non gira"
-metaTitle: "Motorino ticchetta ma non gira: le cause | Stuk"
+metaTitle: "Motorino ticchetta ma non gira: le cause | Pro-Stuk"
 description: "Il motorino di avviamento ticchetta ma il motore non gira: batteria, morsetti, elettromagnete. Verifiche semplici sul posto e una tabella delle cause."
 faq:
   - q: "Perché il motorino ticchetta se la batteria è nuova?"
@@ -110,6 +110,6 @@ un motivo per guardare la pagina sintomo
 territorio della cinghia e non del motorino.
 
 Se la causa non si trova e il ticchettio va e viene, registra il tentativo
-di avviamento con l’app Stuk: l’algoritmo confronta la registrazione con
+di avviamento con l’app Pro-Stuk: l’algoritmo confronta la registrazione con
 le tue risposte — le luci calano, c’è un raschio — e propone le cause
 probabili con un livello di urgenza.

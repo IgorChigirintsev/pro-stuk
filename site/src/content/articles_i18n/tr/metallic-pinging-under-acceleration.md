@@ -1,6 +1,6 @@
 ---
 title: "Hızlanırken motordan gelen metalik çınlama"
-metaTitle: "Hızlanırken metalik çınlama: nedenleri | Stuk"
+metaTitle: "Hızlanırken metalik çınlama: nedenleri | Pro-Stuk"
 description: "Hızlanırken teneke kutuda bozuk para sesi genelde vuruntudur. Nedenleri — yakıt, karbon, buji, vuruntu sensörü — riski ve önce neye bakılacağı."
 faq:
   - q: "Çınlama neden özellikle hızlanırken çıkıyor?"
@@ -126,7 +126,7 @@ yeniden oluşturur; sebebi çözmeden yapılan temizlik iki kez ödenen para
 demektir.
 
 Sesin vuruntu mu yoksa mekanik bir şey mi olduğundan emin değilseniz,
-hızlanmayı Stuk uygulamasıyla kaydedin: uygulama kaydı, çınlamanın ne
+hızlanmayı Pro-Stuk uygulamasıyla kaydedin: uygulama kaydı, çınlamanın ne
 zaman çıktığına dair yanıtlarınızla eşleştirip olası sebepleri
 yüzdeleriyle ve aciliyet seviyesiyle gösterir — servise gitmeden önce
 işinizi kolaylaştıran bir başlangıç noktası.

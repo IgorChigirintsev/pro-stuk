@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con la cinghia che fischia"
-metaTitle: "Si può guidare con la cinghia che fischia? | Stuk"
+metaTitle: "Si può guidare con la cinghia che fischia? | Pro-Stuk"
 description: "Cinghia servizi che fischia: quanto si può guidare, cosa rischia una rottura, come distinguere l'usura della cinghia dal cuscinetto di un rullo."
 faq:
   - q: "Per quanto posso guidare con la cinghia che fischia?"
@@ -100,7 +100,7 @@ se è ancora dentro il campo. Un'officina che non cita né l'una né l'altra
 sta tirando a indovinare.
 
 Se non è sicura se a fischiare sia la sua cinghia o a ronzare un
-cuscinetto dentro un organo, registri il suono con l'app Stuk a un
+cuscinetto dentro un organo, registri il suono con l'app Pro-Stuk a un
 avviamento a freddo e ripeta a motore caldo. La differenza tra le due
 registrazioni dice sulla causa più di qualsiasi descrizione a parole, e
 l'app la confronta con le sue risposte a qualche domanda e mostra le

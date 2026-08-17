@@ -1,7 +1,7 @@
 ---
 ru: "tsokot-dvigatelya-g4fc-solaris-rio-norma-ili-zadiry"
 title: "G4FC ticking on Solaris/Rio: normal or bore scoring"
-metaTitle: "G4FC ticking: normal or bore scoring | Stuk"
+metaTitle: "G4FC ticking: normal or bore scoring | Pro-Stuk"
 description: "The G4FC ticks at idle: where the standard injector chatter ends and a worrying sound begins. How to tell normal from scoring and what to check."
 pubDate: "2026-06-24"
 related:
@@ -103,7 +103,7 @@ mileage between checks written down; impressions are worthless. And an
 endoscope inspection is cheap compared with everything it rules out, so
 ask for the photographs of the bores rather than a verbal verdict.
 
-The Stuk app helps with the first step: record the ticking on a cold and
+The Pro-Stuk app helps with the first step: record the ticking on a cold and
 on a warm engine, answer a few questions about load and oil consumption,
 and get a list of likely causes with percentages. It does not replace a
 compression test, but it saves unnecessary panic and unnecessary spending

@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-rul-na-nerovnoj-doroge"
 title: "A knock felt in the wheel on rough roads"
-metaTitle: "A knock felt in the wheel on rough roads | Stuk"
+metaTitle: "A knock felt in the wheel on rough roads | Pro-Stuk"
 description: "Where a knock felt through the steering wheel comes from: the rack, track rod ends, tie rods or the anti-roll bar. Simple checks without a lift."
 pubDate: "2026-07-16"
 related:
@@ -129,7 +129,7 @@ or a replacement. There is a domestic argument too — tyres: a car with
 play in the steering wears its tread noticeably faster than it should, and
 a set of tyres can cost more than the repair itself.
 
-If you are unsure which part is at fault, record the knock in the Stuk
+If you are unsure which part is at fault, record the knock in the Pro-Stuk
 app: drive a characteristic rough stretch with the recording on, answer a
 few clarifying questions, and the app will match the sound with typical
 fault profiles and show the likely causes with a level of urgency.

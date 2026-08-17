@@ -1,7 +1,7 @@
 ---
 ru: "stuk-v-dveri-na-kochkah"
 title: "A knock in the door over bumps"
-metaTitle: "A knock in the door over bumps: what to check | Stuk"
+metaTitle: "A knock in the door over bumps: what to check | Pro-Stuk"
 description: "The door knocks over bumps: the window regulator, the check strap, the latch — or the suspension after all. How to localise it in one drive."
 pubDate: "2026-07-29"
 related:
@@ -110,7 +110,7 @@ worth looking for in the transmission —
 [can you drive with a whining gearbox](/en/articles/can-you-drive-with-a-whining-gearbox/).
 
 The easiest way to settle this kind of knock is by comparing two
-recordings. Start recording in the Stuk app and drive a rough stretch you
+recordings. Start recording in the Pro-Stuk app and drive a rough stretch you
 know, first with the window closed, then with it slightly down. The app
 matches the recordings with your answers to a few questions and shows
 which is more likely — the door, the body or the suspension.

@@ -1,6 +1,6 @@
 ---
 title: "Heulen des Motors beim Beschleunigen"
-metaTitle: "Heulen beim Beschleunigen: die Ursachen | Stuk"
+metaTitle: "Heulen beim Beschleunigen: die Ursachen | Pro-Stuk"
 description: "Woher ein Heulen beim Beschleunigen kommt: Lichtmaschine, Servopumpe, Rollen, Wasserpumpe oder Getriebe. Einfache Tests zum Finden der Quelle."
 faq:
   - q: "Wie unterscheide ich Motorheulen von Getriebeheulen?"

@@ -1,6 +1,6 @@
 ---
 title: "Schlag im Antriebsstrang beim Wechsel Gas–Bremse"
-metaTitle: "Schlag im Antriebsstrang bei Lastwechsel | Stuk"
+metaTitle: "Schlag im Antriebsstrang bei Lastwechsel | Pro-Stuk"
 description: "Ein dumpfer Schlag genau beim Gaswegnehmen oder erneuten Gasgeben ist aufgenommenes Spiel im Antriebsstrang. Welche Teile klopfen und wie man sie trennt."
 faq:
   - q: "Warum ist das Klopfen nur im Stadtverkehr zu hören?"

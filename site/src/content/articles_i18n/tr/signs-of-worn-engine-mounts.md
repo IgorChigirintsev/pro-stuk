@@ -1,6 +1,6 @@
 ---
 title: "Motor takozlarının aşınma belirtileri"
-metaTitle: "Aşınmış motor takozu: titreşim, sarsıntı | Stuk"
+metaTitle: "Aşınmış motor takozu: titreşim, sarsıntı | Pro-Stuk"
 description: "Rölantide titreşim, vitese takınca sarsıntı, hızlanırken tıkırtı: bitmiş motor takozları nasıl anlaşılır ve onarımda neler belirleyici olur."
 faq:
   - q: "Bir motorda kaç takoz vardır?"
@@ -124,6 +124,6 @@ açıda asılıyken sıkılan bir takoz gerilimli oturur ve birkaç ay içinde y
 yırtılır.
 
 Titreşim ve sarsıntı başladı ama teşhisten emin değilseniz, çalışan motoru
-Stuk uygulamasında kaydedin: sesi belirtilerle ilgili cevaplarınızla
+Pro-Stuk uygulamasında kaydedin: sesi belirtilerle ilgili cevaplarınızla
 eşleştirir ve olası nedenleri aciliyet seviyesiyle gösterir — ustayla somut
 bir konuşma yapmaya yeter.

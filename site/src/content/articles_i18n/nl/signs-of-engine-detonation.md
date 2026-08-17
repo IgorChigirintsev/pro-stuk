@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van detonatie in de motor"
-metaTitle: "Kenmerken van detonatie in de motor | Stuk"
+metaTitle: "Kenmerken van detonatie in de motor | Pro-Stuk"
 description: "Zo herkent u detonatie in de motor: pingelen bij accelereren, vermogensverlies, hoger verbruik. De oorzaken, van brandstof tot koolaanslag."
 faq:
   - q: "Hoe verschilt detonatie qua geluid van drijfstangklop?"

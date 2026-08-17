@@ -1,6 +1,6 @@
 ---
 title: "Tikkende motor: gevaarlijk of niet"
-metaTitle: "Tikkende motor: gevaarlijk of niet, zo weet u het | Stuk"
+metaTitle: "Tikkende motor: gevaarlijk of niet, zo weet u het | Pro-Stuk"
 description: "Waarom een motor tikt: wanneer het de normale werking van injectoren is en wanneer het versleten klepstoters of kleppen zijn. Zo scheidt u onschuldig van ernstig."
 faq:
   - q: "De motor tikt stationair — is dat gevaarlijk?"

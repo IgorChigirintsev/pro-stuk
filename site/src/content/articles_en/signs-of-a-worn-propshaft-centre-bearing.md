@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-podvesnogo-podshipnika"
 title: "Signs of a worn propshaft centre bearing"
-metaTitle: "Worn propshaft centre bearing: the signs | Stuk"
+metaTitle: "Worn propshaft centre bearing: the signs | Pro-Stuk"
 description: "A hum from under the centre of the floor, vibration from a certain speed, a jolt when pulling away — how to recognise a worn propshaft centre bearing."
 pubDate: "2026-07-27"
 related:
@@ -102,7 +102,7 @@ it, and it is the difference between removing the vibration and removing
 only the noise.
 
 If the hum is still quiet and it is unclear whether it comes from the
-centre below or from a wheel, record it in the Stuk app on a smooth
+centre below or from a wheel, record it in the Pro-Stuk app on a smooth
 motorway and repeat the recording during gentle lane changes. The app
 matches the recordings with your answers to a few questions and shows the
 likely causes with percentages.

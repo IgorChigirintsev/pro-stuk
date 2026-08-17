@@ -1,6 +1,6 @@
 ---
 title: "Ticken des Motors im Leerlauf"
-metaTitle: "Ticken im Leerlauf: Ursachen und Vorgehen | Stuk"
+metaTitle: "Ticken im Leerlauf: Ursachen und Vorgehen | Pro-Stuk"
 description: "Warum ein Motor im Leerlauf tickt: Ventile, Hydrostößel, Injektoren, Steuerkette. Wie Sie harmloses Ticken vom bedenklichen unterscheiden."
 faq:
   - q: "Ist Ticken im Leerlauf immer ein Fehler?"

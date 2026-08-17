@@ -1,6 +1,6 @@
 ---
 title: "Alternatör rulmanı aşınmasının belirtileri"
-metaTitle: "Alternatör rulmanı aşınması: ses ve testler | Stuk"
+metaTitle: "Alternatör rulmanı aşınması: ses ve testler | Pro-Stuk"
 description: "Aşınmış alternatör rulmanı nasıl ses verir, sökmeden nasıl kontrol edilir ve gergi rulmanlarıyla kasnak sönümleyicisinden nasıl ayrılır."
 faq:
   - q: "Uğuldayan alternatör rulmanıyla araç kullanılır mı?"
@@ -111,6 +111,6 @@ hidrolik direksiyonu da kaybeder. Randevulu bir onarım olan iş, çekiciye
 dönüşür.
 
 Kaputun altında bir vınlama ya da uğultu belirdiyse ve kaynağı servise
-gitmeden belirlemek istiyorsanız, sesi Stuk uygulamasına kaydedin —
+gitmeden belirlemek istiyorsanız, sesi Pro-Stuk uygulamasına kaydedin —
 uygulama kaydı tipik arıza sesleriyle eşleştirir ve olası nedenleri
 aciliyet derecesiyle gösterir.

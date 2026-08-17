@@ -1,6 +1,6 @@
 ---
 title: "Hızlanırken aracın altından zangırtı"
-metaTitle: "Hızlanırken aracın altından zangırtı | Stuk"
+metaTitle: "Hızlanırken aracın altından zangırtı | Pro-Stuk"
 description: "Isı kalkanları, gövdeye değen egzoz, vuruntu ya da dağılan katalizör: hızlanırken alttan gelen zangırtı ve zararsızı ciddiden ayırmanın yolu."
 faq:
   - q: "Isı kalkanı zangırtısını motor vuruntusundan nasıl ayırırım?"
@@ -115,7 +115,7 @@ olduğundan emin olmaktır — zararsız bir zangırtı maskesi takmış vuruntu
 olmadığından.
 
 Bunun zangırtı mı yoksa vuruntunun çınlaması mı olduğundan emin
-değilseniz, bir hızlanmayı Stuk uygulamasında kaydedin — uygulama sesin
+değilseniz, bir hızlanmayı Pro-Stuk uygulamasında kaydedin — uygulama sesin
 spektrumunu, ne zaman çıktığına dair cevaplarınızla eşleştirir ve
 muhtemel nedenleri aciliyet düzeyiyle gösterir. Bu kayıtla usta, sesi
 aramak için sizinle yarım saat gezmek zorunda kalmaz.

@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une boîte automatique en fin de vie"
-metaTitle: "Les signes d'une boîte automatique qui meurt | Stuk"
+metaTitle: "Les signes d'une boîte automatique qui meurt | Pro-Stuk"
 description: "Une boîte automatique lâche rarement du jour au lendemain : patinage, sifflement et temps de réponse arrivent d'abord. Les signes précoces d'usure et quoi faire à chaque stade."
 faq:
   - q: "Quel signe d'une boîte automatique en fin de vie est le plus alarmant ?"
@@ -109,7 +109,7 @@ plein des anciens débris revient au garage, et c'est la raison la plus
 fréquente d'une réfection qui échoue dans l'année.
 
 Si vous êtes à un stade précoce et que vous n'êtes pas sûr que le son de la
-boîte ait changé ces derniers mois, enregistrez-le dans l'application Stuk
+boîte ait changé ces derniers mois, enregistrez-le dans l'application Pro-Stuk
 toutes les quelques semaines — au ralenti, au point mort et à
 l'accélération. L'application conserve l'historique, compare les
 enregistrements et montre si les choses empirent ou si le son a simplement

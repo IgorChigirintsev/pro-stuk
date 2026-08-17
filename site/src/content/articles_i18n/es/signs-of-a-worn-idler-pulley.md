@@ -1,6 +1,6 @@
 ---
 title: "Señales de un rodillo guía gastado"
-metaTitle: "Rodillo guía gastado: ruidos y comprobación | Stuk"
+metaTitle: "Rodillo guía gastado: ruidos y comprobación | Pro-Stuk"
 description: "Silbidos, zumbidos y susurros bajo el capó al ralentí suelen venir de los rodillos de la correa de accesorios. Cómo separar un rodillo de la correa y del alternador."
 faq:
   - q: "¿Qué diferencia hay entre un rodillo guía y un tensor?"
@@ -103,7 +103,7 @@ cuesta una correa partida se explica en
 [se puede circular con la correa chirriando](/es/articles/can-you-drive-with-a-squealing-belt/).
 
 Si quiere contrastar su teoría antes de ir al taller, grabe el sonido con
-la aplicación Stuk al ralentí y subiendo vueltas despacio: cruza la
+la aplicación Pro-Stuk al ralentí y subiendo vueltas despacio: cruza la
 grabación con sus respuestas a unas cuantas preguntas y muestra los
 orígenes probables con porcentajes, además de una pista sobre qué revisar
 primero.

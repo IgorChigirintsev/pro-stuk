@@ -1,6 +1,6 @@
 ---
 title: "Grzechot pod podłogą na prędkości"
-metaTitle: "Grzechot pod podłogą na prędkości: co sprawdzić | Stuk"
+metaTitle: "Grzechot pod podłogą na prędkości: co sprawdzić | Pro-Stuk"
 description: "Osłony termiczne, elastyczny łącznik, wieszaki wydechu: dlaczego coś grzechocze pod podłogą na prędkości i jak znaleźć źródło bez podnośnika."
 faq:
   - q: "Dlaczego grzechot pojawia się tylko przy określonej prędkości?"
@@ -130,7 +130,7 @@ jest spawany, czy puszka wymieniana — spawanie jest tańsze, ale korozja,
 która do tego doprowadziła, zwykle nie jest miejscowa.
 
 Jeśli mimo wszystko nie znajdujesz źródła, nagraj grzechot w aplikacji
-Stuk dokładnie przy tej prędkości, przy której się pojawia: aplikacja
+Pro-Stuk dokładnie przy tej prędkości, przy której się pojawia: aplikacja
 zestawia nagranie z twoimi odpowiedziami o warunkach i pokazuje
 prawdopodobne przyczyny wraz z poziomem pilności. Z taką hipotezą
 poszukiwania w warsztacie zajmują minuty, a nie godzinę.

@@ -1,6 +1,6 @@
 ---
 title: "Eine summende Wasserpumpe: wie Sie sie prüfen"
-metaTitle: "Summende Wasserpumpe: selbst prüfen | Stuk"
+metaTitle: "Summende Wasserpumpe: selbst prüfen | Pro-Stuk"
 description: "Warum eine Wasserpumpe summt, wie Sie ihr Geräusch von Lichtmaschine und Rollen trennen, einfache Prüfungen ohne Zerlegen und wie repariert wird."
 faq:
   - q: "Woran erkenne ich, dass es die Wasserpumpe ist und nicht die Lichtmaschine oder eine Rolle?"

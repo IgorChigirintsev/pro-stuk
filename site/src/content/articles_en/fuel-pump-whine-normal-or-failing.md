@@ -1,7 +1,7 @@
 ---
 ru: "gudit-benzonasos-norma-ili-skoro-otkazhet"
 title: "Fuel pump whine: normal or about to fail"
-metaTitle: "Fuel pump whine: normal or about to fail | Stuk"
+metaTitle: "Fuel pump whine: normal or about to fail | Pro-Stuk"
 description: "Where the line runs between an ordinary fuel pump hum and the whine of a dying one: which signs are harmless and which need a quick response."
 pubDate: "2026-06-11"
 related:
@@ -107,7 +107,7 @@ routinely, and change the fuel filter at the recommended interval. Those
 are the cheapest ways to extend a pump's life.
 
 If you are not sure whether the sound has really grown or you are just
-imagining it, record it in the Stuk app — at ignition on and at idle. In a
+imagining it, record it in the Pro-Stuk app — at ignition on and at idle. In a
 month make a second recording in the same conditions and compare: the app
 matches them with your answers and shows whether this is normal
 background or a fault developing.

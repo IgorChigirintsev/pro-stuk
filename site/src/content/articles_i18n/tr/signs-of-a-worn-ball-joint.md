@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış rotilin belirtileri"
-metaTitle: "Aşınmış rotil: ses, boşluk, kontroller | Stuk"
+metaTitle: "Aşınmış rotil: ses, boşluk, kontroller | Pro-Stuk"
 description: "Küçük tümseklerde tıkırtı, direksiyon çevirirken gıcırtı, tekerlekte boşluk — aşınmış rotil nasıl tanınır, nasıl kontrol edilir, değişimi ne kadar acil."
 faq:
   - q: "Aşınmış rotil nasıl ses verir?"
@@ -124,7 +124,7 @@ yazısında anlatılıyor. Kopma olmasa bile aşınmış bir rotil lastikleri
 yer, direksiyonu boşaltır ve başka süspansiyon sorunlarıyla kolayca
 karıştırılan bir gürültü ekler.
 
-Aşağıdan bir şey tıkırdıyor ve kaynağı belli değilse, sesi Stuk
+Aşağıdan bir şey tıkırdıyor ve kaynağı belli değilse, sesi Pro-Stuk
 uygulamasına kaydedin. Uygulama kaydı, sesin ne zaman ve nasıl ortaya
 çıktığına dair yanıtlarınızla eşleştirir ve olası nedenleri aciliyet
 seviyesiyle gösterir.

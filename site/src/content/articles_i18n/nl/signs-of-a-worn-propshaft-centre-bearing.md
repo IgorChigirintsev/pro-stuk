@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een versleten steunlager van de cardanas"
-metaTitle: "Versleten steunlager cardanas: kenmerken | Stuk"
+metaTitle: "Versleten steunlager cardanas: kenmerken | Pro-Stuk"
 description: "Brommen onder het midden van de vloer, trillingen vanaf een bepaalde snelheid, een schok bij wegrijden: zo herkent u een versleten steunlager."
 faq:
   - q: "Waar zit het steunlager en waar dient het voor?"

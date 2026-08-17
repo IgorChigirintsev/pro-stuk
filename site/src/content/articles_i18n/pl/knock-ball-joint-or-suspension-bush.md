@@ -1,7 +1,7 @@
 ---
-title: "Stuk: sworzeń wahacza czy tuleja — jak odróżnić"
-metaTitle: "Stuk: sworzeń wahacza czy tuleja — jak odróżnić | Stuk"
-description: "Stuk w zawieszeniu na nierównościach: jak po charakterze dźwięku, prostych testach i oględzinach na podnośniku odróżnić sworzeń wahacza od tulei."
+title: "Pro-Stuk: sworzeń wahacza czy tuleja — jak odróżnić"
+metaTitle: "Pro-Stuk: sworzeń wahacza czy tuleja — jak odróżnić | Pro-Stuk"
+description: "Pro-Stuk w zawieszeniu na nierównościach: jak po charakterze dźwięku, prostych testach i oględzinach na podnośniku odróżnić sworzeń wahacza od tulei."
 faq:
   - q: "Czym stuk sworznia różni się na słuch od stuku tulei?"
     a: "Sworzeń stuka jaśniej i bardziej sucho — metalicznie, krótko, często ze skrzypnięciem przy skręcaniu kół. Tuleja daje stuk głuchy, gumowy, bez dzwonienia, zwykle na tych samych drobnych nierównościach. Różnica istnieje, ale jest subtelna, więc bezpieczniej łączyć dźwięk z prostymi testami: bujaniem auta, hamowaniem na nierówności i zajrzeniem pod spód."
@@ -134,7 +134,7 @@ dokręcone na wiszącym zawieszeniu żyją skręcone, a potem pękają w ciągu
 kilku miesięcy.
 
 Jeśli stuk już jest, a pewności brak, proszę nagrać dźwięk w aplikacji
-Stuk. Dopasuje ona nagranie do odpowiedzi o tym, kiedy stuka — na
+Pro-Stuk. Dopasuje ona nagranie do odpowiedzi o tym, kiedy stuka — na
 nierównościach, przy hamowaniu czy na łukach — i pokaże prawdopodobne
 przyczyny wraz z poziomem pilności. Z tym można pojechać do warsztatu i
 kazać sprawdzić konkretne części zamiast szukać po omacku.

@@ -1,6 +1,6 @@
 ---
 title: "Señales de rodillos de distribución gastados"
-metaTitle: "Rodillos de distribución gastados: el sonido | Stuk"
+metaTitle: "Rodillos de distribución gastados: el sonido | Pro-Stuk"
 description: "Cómo suenan los rodillos de distribución gastados: siseo, silbido y zumbido tras la tapa. Qué arriesga un rodillo agarrotado y cómo separarlo del ruido de los accesorios."
 faq:
   - q: "¿Se puede cambiar un solo rodillo sin tocar la correa de distribución?"
@@ -114,5 +114,5 @@ igual.
 
 Si se oye un silbido o un siseo por la parte delantera del motor y no está
 claro si son los rodillos, el alternador o la bomba, grabe el sonido con la
-aplicación Stuk: compara la grabación con los ruidos típicos de avería y
+aplicación Pro-Stuk: compara la grabación con los ruidos típicos de avería y
 sugiere el origen probable y con qué urgencia hace falta un taller.

@@ -1,6 +1,6 @@
 ---
 title: "Die zehn Geräusche, mit denen man nicht weiterfahren sollte"
-metaTitle: "Zehn Geräusche, mit denen man nicht fahren darf | Stuk"
+metaTitle: "Zehn Geräusche, mit denen man nicht fahren darf | Pro-Stuk"
 description: "Zehn Fahrzeuggeräusche, nach denen Weiterfahren unklug ist: was in jedem Fall kaputtgeht und wie Sie sie von harmlosen Tönen unterscheiden."
 faq:
   - q: "Warum steht gewöhnliches Bremsenquietschen nicht auf der Liste?"

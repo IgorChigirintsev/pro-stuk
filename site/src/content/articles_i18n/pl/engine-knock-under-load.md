@@ -1,10 +1,10 @@
 ---
-title: "Stuk w silniku pod obciążeniem"
-metaTitle: "Stuk silnika pod obciążeniem: przyczyny i ryzyko | Stuk"
-description: "Stuk pod obciążeniem: jak odróżnić spalanie stukowe od stuku panewek, gdzie tu łańcuch rozrządu i kiedy dalsza jazda staje się groźna."
+title: "Pro-Stuk w silniku pod obciążeniem"
+metaTitle: "Pro-Stuk silnika pod obciążeniem: przyczyny i ryzyko | Pro-Stuk"
+description: "Pro-Stuk pod obciążeniem: jak odróżnić spalanie stukowe od stuku panewek, gdzie tu łańcuch rozrządu i kiedy dalsza jazda staje się groźna."
 faq:
   - q: "Jak odróżnić spalanie stukowe od stuku panewek?"
-    a: "Spalanie stukowe to jasny, wysoki metaliczny dzwonek, jakby grzechotały stalowe kulki; pojawia się przy przyspieszaniu na siłę i znika, gdy puści się gaz albo zredukuje bieg. Stuk panewek jest głuchy i niski, z głębi silnika, rośnie z obciążeniem i obrotami i nie reaguje na zmianę paliwa. Dzwonienie przeżyje próbę z inną stacją paliw; głuchy stuk to powód, żeby jechać do warsztatu już teraz."
+    a: "Spalanie stukowe to jasny, wysoki metaliczny dzwonek, jakby grzechotały stalowe kulki; pojawia się przy przyspieszaniu na siłę i znika, gdy puści się gaz albo zredukuje bieg. Pro-Stuk panewek jest głuchy i niski, z głębi silnika, rośnie z obciążeniem i obrotami i nie reaguje na zmianę paliwa. Dzwonienie przeżyje próbę z inną stacją paliw; głuchy stuk to powód, żeby jechać do warsztatu już teraz."
   - q: "Czy można jeździć, jeśli stuk pojawia się tylko pod obciążeniem?"
     a: "To zależy od charakteru dźwięku. Lekkie dzwonienie przy przyspieszaniu na paliwie o za niskiej liczbie oktanowej pozwala spokojnie dojechać na diagnostykę, bez szarpania. Głuchy, narastający stuk z bloku — już nie: każdy kilometr pod obciążeniem dobija panewki i może się skończyć ich przekręceniem albo zatarciem wału. W razie wątpliwości laweta wychodzi taniej niż remont."
   - q: "Dlaczego stuk pod obciążeniem uchodzi za groźniejszy niż na wolnych obrotach?"
@@ -18,7 +18,7 @@ sources:
     url: "https://www.sae.org/"
 ---
 
-Stuk, który pojawia się lub narasta pod obciążeniem — przy przyspieszaniu,
+Pro-Stuk, który pojawia się lub narasta pod obciążeniem — przy przyspieszaniu,
 pod górę, z pełnym autem — niepokoi bardziej niż stuk na wolnych obrotach.
 Pod obciążeniem części silnika są dociskane do siebie ciśnieniem gazów, a
 jeśli mimo to potrafią stukać, luzy są już poważne. Nie każdy dźwięk pod
@@ -70,7 +70,7 @@ stukowemu. Jeżeli dzwonienie pojawiło się po montażu albo po
 przestrojeniu, poszukiwania warto zacząć od ustawień instalacji, a nie od
 mechaniki silnika.
 
-## Stuk z głębi: panewki i grupa tłokowa
+## Pro-Stuk z głębi: panewki i grupa tłokowa
 
 Najpoważniejszy scenariusz to stuk w układzie korbowym.
 
@@ -143,7 +143,7 @@ Różnica między „zmień stację” a „remont silnika” to różnica międ
 a późną diagnozą, więc ze stukiem pod obciążeniem nie ma na co czekać.
 
 Jeśli nie wiadomo, do którego scenariusza to podobne, proszę nagrać dźwięk
-przyspieszania w aplikacji Stuk: porównuje ona nagranie z typowymi
+przyspieszania w aplikacji Pro-Stuk: porównuje ona nagranie z typowymi
 stukami, zadaje kilka pytań doprecyzowujących i pokazuje prawdopodobne
 przyczyny wraz z poziomem pilności. Z takim przygotowaniem w domu wizyta w
 warsztacie idzie szybciej.

@@ -1,6 +1,6 @@
 ---
 title: "Kloppen in de motor als hij warm is"
-metaTitle: "Kloppen bij warme motor: oorzaken en aanpak | Stuk"
+metaTitle: "Kloppen bij warme motor: oorzaken en aanpak | Pro-Stuk"
 description: "Waarom een motor pas na het opwarmen gaat kloppen: olie, hydraulische klepstoters, lagers of detonatie. Hoe u de oorzaak inperkt aan de hand van het geluid."
 faq:
   - q: "Waarom klopt de motor pas na het opwarmen?"

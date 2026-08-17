@@ -1,6 +1,6 @@
 ---
 title: "Klop die u door het rempedaal voelt"
-metaTitle: "Klop die u in het rempedaal voelt: oorzaken | Stuk"
+metaTitle: "Klop die u in het rempedaal voelt: oorzaken | Pro-Stuk"
 description: "Kloppen en terugkoppeling in het rempedaal kunnen normale ABS-werking zijn, of speling in de remklauw of het onderstel. Zo houdt u ze uit elkaar."
 faq:
   - q: "Het pedaal klopt en trilt bij hard remmen — is dat een storing?"

@@ -1,6 +1,6 @@
 ---
 title: "Een klop in het onderstel vinden zonder brug"
-metaTitle: "Klop in onderstel vinden zonder brug | Stuk"
+metaTitle: "Klop in onderstel vinden zonder brug | Pro-Stuk"
 description: "Een stappenplan om een klop in het onderstel te lokaliseren zonder put of brug: het klankbeeld, de veertest, controles met de hand en een gerichte proefrit."
 faq:
   - q: "Kunt u de bron echt vinden zonder put of brug?"

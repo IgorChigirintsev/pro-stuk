@@ -1,6 +1,6 @@
 ---
 title: "Metaalgekletter onder de auto over oneffenheden"
-metaTitle: "Metaalgekletter onder de auto over oneffenheden | Stuk"
+metaTitle: "Metaalgekletter onder de auto over oneffenheden | Pro-Stuk"
 description: "Metaalgekletter van onderen over oneffenheden: bodemplaat, hitteschilden, uitlaat of stabilisatorstangen. Zo vindt u de bron binnen vijf minuten."
 faq:
   - q: "Waarom kletteren alleen over oneffenheden en niet op glad asfalt?"

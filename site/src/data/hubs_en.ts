@@ -23,7 +23,7 @@ export const HUBS_EN: Record<string, HubEn> = {
     slug: 'engine-noises',
     h1: 'Engine noises and knocking',
     short: 'Engine',
-    metaTitle: 'Engine noises and knocking: full guide | Stuk',
+    metaTitle: 'Engine noises and knocking: full guide | Pro-Stuk',
     description:
       'Every engine sound in one place: knocking, ticking, rattling, pinging, squealing. How to tell the harmless from the dangerous and what you can check yourself.',
     intro: [
@@ -36,7 +36,7 @@ export const HUBS_EN: Record<string, HubEn> = {
     slug: 'suspension-noises',
     h1: 'Suspension knocks and creaks',
     short: 'Suspension and steering',
-    metaTitle: 'Suspension knocks and creaks: full guide | Stuk',
+    metaTitle: 'Suspension knocks and creaks: full guide | Pro-Stuk',
     description:
       'Knocking over bumps, creaking on rough roads, play in the steering: how to locate the source in the suspension and steering and what you can check yourself.',
     intro: [
@@ -49,7 +49,7 @@ export const HUBS_EN: Record<string, HubEn> = {
     slug: 'brake-noises',
     h1: 'Brake squeal and grinding',
     short: 'Brakes and wheels',
-    metaTitle: 'Brake squeal and grinding: full guide | Stuk',
+    metaTitle: 'Brake squeal and grinding: full guide | Pro-Stuk',
     description:
       'Squealing, screeching, grinding and judder when braking: what each sound means, when you must stop driving and how to check the pads and caliper yourself.',
     intro: [
@@ -62,7 +62,7 @@ export const HUBS_EN: Record<string, HubEn> = {
     slug: 'transmission-noises',
     h1: 'Gearbox, clutch and driveshaft noises',
     short: 'Transmission',
-    metaTitle: 'Gearbox, clutch and driveshaft noises | Stuk',
+    metaTitle: 'Gearbox, clutch and driveshaft noises | Pro-Stuk',
     description:
       'Gearbox whine, crunching gears, CV joint clicking, automatic transmission jolts: how to locate the source, how urgent it is and what the repair involves.',
     intro: [
@@ -75,7 +75,7 @@ export const HUBS_EN: Record<string, HubEn> = {
     slug: 'exhaust-noises',
     h1: 'Exhaust system noises',
     short: 'Exhaust',
-    metaTitle: 'Exhaust noises: roar, banging, rattle | Stuk',
+    metaTitle: 'Exhaust noises: roar, banging, rattle | Pro-Stuk',
     description:
       'Roaring, banging from the muffler, rattling under the floor and a ringing heat shield: what exhaust sounds mean, why they matter and what the repair involves.',
     intro: [
@@ -87,7 +87,7 @@ export const HUBS_EN: Record<string, HubEn> = {
     slug: 'interior-noises',
     h1: 'Interior creaks and rattles',
     short: 'Interior and body',
-    metaTitle: 'Interior creaks and rattles: finding the source | Stuk',
+    metaTitle: 'Interior creaks and rattles: finding the source | Pro-Stuk',
     description:
       'Interior rattles, a creaking dashboard, knocking doors and rattling over bumps: how to find the source yourself and tell it apart from a chassis fault.',
     intro: [

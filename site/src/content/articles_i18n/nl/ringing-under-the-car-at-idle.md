@@ -1,6 +1,6 @@
 ---
 title: "Rinkelen onder de auto bij stationair draaien"
-metaTitle: "Rinkelen onder de auto stationair: oorzaken | Stuk"
+metaTitle: "Rinkelen onder de auto stationair: oorzaken | Pro-Stuk"
 description: "Een hitteschild, een kapotte katalysator of een uitlaat die de bodem raakt: waar rinkelen onder de auto stationair vandaan komt en hoe u het nakijkt."
 faq:
   - q: "Waarom is het rinkelen koud hoorbaar en na het opwarmen weg?"

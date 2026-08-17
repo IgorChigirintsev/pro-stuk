@@ -1,6 +1,6 @@
 ---
 title: "Crujidos de la suspensión en los baches"
-metaTitle: "Crujidos de suspensión en baches: causas | Stuk"
+metaTitle: "Crujidos de suspensión en baches: causas | Pro-Stuk"
 description: "Por qué cruje la suspensión en los baches: casquillos de la barra estabilizadora, silentblocks, rótulas. Cuándo basta con grasa y cuándo hay que cambiar la pieza."
 faq:
   - q: "¿Es peligrosa una suspensión que cruje?"
@@ -124,7 +124,7 @@ casquillo de más diámetro es el motivo clásico de que el crujido sobreviva
 a la reparación.
 
 Si el sonido no le dice si esto es un crujido inofensivo o una articulación
-gastada, grábelo con la aplicación Stuk: compara la grabación con sus
+gastada, grábelo con la aplicación Pro-Stuk: compara la grabación con sus
 respuestas sobre cuándo aparece el sonido y muestra las causas probables
 con un nivel de urgencia.
 

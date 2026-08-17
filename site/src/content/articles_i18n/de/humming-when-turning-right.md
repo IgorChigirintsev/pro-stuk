@@ -1,6 +1,6 @@
 ---
 title: "Brummen beim Rechtsabbiegen"
-metaTitle: "Brummen in der Rechtskurve: Ursachen | Stuk"
+metaTitle: "Brummen in der Rechtskurve: Ursachen | Pro-Stuk"
 description: "Wächst das Brummen in Rechtskurven, ist das linke Radlager verdächtig. Eine Prüfung Schritt für Schritt ohne Hebebühne und was die Reparatur umfasst."
 faq:
   - q: "Warum lässt eine Rechtskurve das linke Lager brummen?"

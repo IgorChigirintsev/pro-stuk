@@ -1,7 +1,7 @@
 ---
 ru: "drebezzhit-panel-priborov"
 title: "A rattling dashboard"
-metaTitle: "Rattling dashboard: finding the source | Stuk"
+metaTitle: "Rattling dashboard: finding the source | Pro-Stuk"
 description: "A rattling dashboard annoys more than it harms. Why the plastic starts buzzing, how to find the contact point in ten minutes and when the dash is not to blame."
 pubDate: "2026-07-30"
 related:
@@ -104,7 +104,7 @@ you have already found the panel that silences the noise when pressed,
 say so first.
 
 If you cannot work out whether the dash is rattling or something behind
-it, record the sound in the Stuk app from inside the cabin — at idle and
+it, record the sound in the Pro-Stuk app from inside the cabin — at idle and
 while driving. The app matches the recording against a few answers and
 shows the likely sources with percentages, so nobody has to strip the
 dashboard on a guess.

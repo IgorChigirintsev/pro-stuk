@@ -1,6 +1,6 @@
 ---
 title: "Señales de un embrague gastado"
-metaTitle: "Embrague gastado: señales, prueba y cambio | Stuk"
+metaTitle: "Embrague gastado: señales, prueba y cambio | Pro-Stuk"
 description: "Cómo reconocer el desgaste del embrague: patina, huele a quemado, el pedal agarra arriba, tirones. Una prueba de un minuto, las fases y cómo se decide el cambio."
 faq:
   - q: "¿Cuál es la primera señal de que el embrague se gasta?"
@@ -146,6 +146,6 @@ factura es una; cuando el recalentamiento ha llegado al volante motor, es
 otra.
 
 Si no tiene claro que la vibración o el ruido sean realmente del embrague,
-grabe el sonido con la aplicación Stuk: al ralentí, con el pedal pisado y
+grabe el sonido con la aplicación Pro-Stuk: al ralentí, con el pedal pisado y
 al arrancar. La aplicación cruza las grabaciones con sus respuestas y
 muestra las causas probables con un nivel de urgencia.

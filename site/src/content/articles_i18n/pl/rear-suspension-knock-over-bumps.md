@@ -1,14 +1,14 @@
 ---
-title: "Stuk tylnego zawieszenia na nierównościach"
-metaTitle: "Stuk tylnego zawieszenia na nierównościach | Stuk"
+title: "Pro-Stuk tylnego zawieszenia na nierównościach"
+metaTitle: "Pro-Stuk tylnego zawieszenia na nierównościach | Pro-Stuk"
 description: "Co stuka w tylnym zawieszeniu na nierównościach: amortyzatory, tuleje belki, sprężyny albo bagaż. Kontrole bez podnośnika i wybór naprawy."
 faq:
   - q: "Dlaczego stuk z tyłu jest tak trudny do zlokalizowania?"
     a: "Tył nadwozia pracuje jak rezonator: dźwięk z zawieszenia, z wydechu i z bagażu w kufrze wędruje przez blachę i słychać go jako „gdzieś z tyłu”. Do tego kierowca siedzi daleko od źródła. Pomagają proste sposoby: opróżnić bagażnik, unieruchomić koło zapasowe, posadzić pomocnika z tyłu i przejechać po znanych nierównościach."
   - q: "Czy może stukać sam bagażnik?"
     a: "To pierwsza rzecz do wykluczenia. Nieprzykręcone koło zapasowe, podnośnik, klucz do kół, butelki i narzędzia grzechoczą na dziurach bardzo podobnie do zawieszenia. Opróżnij bagażnik i wnękę koła zapasowego do czysta i przejedź tę samą trasę: u sporej części kierowców „stuk zawieszenia” znika już na tym kroku."
-  - q: "Stuk pojawia się tylko z pasażerami z tyłu — co to znaczy?"
-    a: "Stuk pod obciążeniem wskazuje na elementy pracujące na granicy skoku: osiadłe albo pęknięte sprężyny, zniszczone odboje, zmęczone amortyzatory. W pełnym obciążeniu zawieszenie częściej dobija do końca skoku, a każde dobicie słychać jako głuche uderzenie. Oględziny sprężyn i odbojów na podnośniku szybko potwierdzają tę tezę."
+  - q: "Pro-Stuk pojawia się tylko z pasażerami z tyłu — co to znaczy?"
+    a: "Pro-Stuk pod obciążeniem wskazuje na elementy pracujące na granicy skoku: osiadłe albo pęknięte sprężyny, zniszczone odboje, zmęczone amortyzatory. W pełnym obciążeniu zawieszenie częściej dobija do końca skoku, a każde dobicie słychać jako głuche uderzenie. Oględziny sprężyn i odbojów na podnośniku szybko potwierdzają tę tezę."
   - q: "Czy tylne amortyzatory też wymienia się parami?"
     a: "Tak, zasada jest ta sama co z przodu: na jednej osi amortyzatory muszą tłumić ruch jednakowo, inaczej auto zachowuje się inaczej z lewej i z prawej strony, zwłaszcza na nierównej nawierzchni i przy hamowaniu. Wyjątkiem jest awaria prawie nowego amortyzatora, na przykład po uderzeniu."
 sources:
@@ -18,7 +18,7 @@ sources:
     url: "https://www.monroe.com/"
 ---
 
-Stuk w tylnym zawieszeniu znajduje się średnio dłużej niż ten z przodu — i
+Pro-Stuk w tylnym zawieszeniu znajduje się średnio dłużej niż ten z przodu — i
 nie dlatego, że części jest tam więcej. Wręcz przeciwnie, jest ich mniej, ale
 dźwięk idzie przez nadwozie, kierowca siedzi daleko od źródła, a połowa
 wszystkich „stuków z tyłu” w ogóle nie ma związku z zawieszeniem. Oto od
@@ -49,8 +49,8 @@ Jeśli stuk przeżyje to wszystko, źródło naprawdę jest w podwoziu.
 | Amortyzatory i ich tuleje | Głuchy stuk na średnich i dużych nierównościach | Kołysanie nadwozia, pocenie olejem |
 | Tylne łączniki i tuleje stabilizatora | Częste terkotanie na drobnych nierównościach | Nie w każdym aucie; cichnie na łuku |
 | Tuleje belki albo wahaczy | Głuchy pojedynczy stuk na szczelinach dylatacyjnych | Tył pływa, opony zużyte na krawędziach |
-| Osiadłe albo pęknięte sprężyny | Stuk, chrobot, zwłaszcza pod obciążeniem | Tył osiada nisko, przechył na jedną stronę |
-| Odboje i dobijanie | Twarde uderzenie przy pełnym obciążeniu | Stuk tylko z pasażerami albo z ładunkiem |
+| Osiadłe albo pęknięte sprężyny | Pro-Stuk, chrobot, zwłaszcza pod obciążeniem | Tył osiada nisko, przechył na jedną stronę |
+| Odboje i dobijanie | Twarde uderzenie przy pełnym obciążeniu | Pro-Stuk tylko z pasażerami albo z ładunkiem |
 | Mocowania wydechu | Głuchy metaliczny łomot | Słychać też przy kołysaniu stojącego auta |
 
 Najczęściej z tyłu stukają amortyzatory i ich mocowania: dolne tuleje
@@ -66,7 +66,7 @@ a konsekwencje jazdy w takim stanie opisuje artykuł o
 Typ tylnego zawieszenia wyznacza listę podejrzanych. W autach z
 półzależną belką skrętną (większość budżetowych sedanów i hatchbacków) nie
 ma tam prawie nic: dwie tuleje mocujące belkę, sprężyny, amortyzatory i
-odboje. Stuk znajduje się tam szybko, a najczęstszym znaleziskiem są zużyte
+odboje. Pro-Stuk znajduje się tam szybko, a najczęstszym znaleziskiem są zużyte
 tuleje belki: głuchy stuk na szczelinach i dziurach plus wrażenie, że tył
 sam się prowadzi w koleinach.
 
@@ -88,7 +88,7 @@ tyłu warto najpierw szukać wśród tych części, jak w tekście o
 ## Jak sprawdzić samodzielnie
 
 1. **Próba obciążenia.** Przejedź znany nierówny odcinek pusty, a potem z
-   pasażerami z tyłu. Stuk urósł pod obciążeniem — patrz na sprężyny, odboje
+   pasażerami z tyłu. Pro-Stuk urósł pod obciążeniem — patrz na sprężyny, odboje
    i amortyzatory; bez zmian — bardziej prawdopodobne są przeguby i
    stabilizator.
 2. **Kołysanie.** Energicznie pokołysz autem za tylny narożnik. Skrzypienia i
@@ -126,6 +126,6 @@ zawieszeniu obciążonym — dokręcone na wiszącej belce, guma tulei żyje
 skręcona i stuka ponownie po kilku miesiącach.
 
 Jeśli stuku z tyłu wciąż nie da się przypisać do konkretnej części, nagraj go
-w aplikacji Stuk: zestawia ona dźwięk z twoimi odpowiedziami o tym, kiedy i
+w aplikacji Pro-Stuk: zestawia ona dźwięk z twoimi odpowiedziami o tym, kiedy i
 na jakich nierównościach się pojawia, i pokazuje prawdopodobne przyczyny z
 poziomem pilności — z taką listą diagnostyka na podnośniku idzie szybciej.

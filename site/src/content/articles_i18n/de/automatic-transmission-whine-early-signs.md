@@ -1,6 +1,6 @@
 ---
 title: "Heulen der Automatik: die ersten Anzeichen"
-metaTitle: "Automatik heult: die frühen Anzeichen | Stuk"
+metaTitle: "Automatik heult: die frühen Anzeichen | Pro-Stuk"
 description: "Heulen aus dem Automatikgetriebe im frühen Stadium: wie es klingt, wie es sich von Radlager- und Reifengeräusch unterscheidet und was zuerst geprüft wird."
 faq:
   - q: "Folgt das Getriebeheulen der Fahrgeschwindigkeit oder der Drehzahl?"

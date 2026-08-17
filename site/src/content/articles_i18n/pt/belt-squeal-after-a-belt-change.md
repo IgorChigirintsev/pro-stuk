@@ -1,6 +1,6 @@
 ---
 title: "Guincho depois de trocar a correia: por quê e o que fazer"
-metaTitle: "Guincho após trocar a correia: causas | Stuk"
+metaTitle: "Guincho após trocar a correia: causas | Pro-Stuk"
 description: "A correia foi trocada mas o guincho continuou ou voltou: erros de tensão, desalinhamento, roletes, polia desacopladora. Como encontrar a causa."
 faq:
   - q: "Uma correia nova guincha nos primeiros dias — isso é normal?"
@@ -124,7 +124,7 @@ encontrado primeiro: uma correia nova sobre um vazamento não resolvido é
 dinheiro gasto duas vezes.
 
 Se você quer chegar com uma hipótese pronta, grave o som no aplicativo
-Stuk: ele compara a gravação com casos típicos, leva em conta as suas
+Pro-Stuk: ele compara a gravação com casos típicos, leva em conta as suas
 respostas sobre quando o guincho aparece e mostra as causas prováveis com
 um nível de urgência — o que facilita separar uma questão de garantia de
 um serviço novo.

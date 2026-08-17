@@ -1,6 +1,6 @@
 ---
 title: "Dağılmış katalizör: sesi nasıldır"
-metaTitle: "Dağılmış katalizör: nasıl bir ses çıkarır | Stuk"
+metaTitle: "Dağılmış katalizör: nasıl bir ses çıkarır | Pro-Stuk"
 description: "Zeminin altından gelen dökülme hışırtısı ve rölantide takırtı — katalizör seramiği dağılınca nasıl duyulur, nasıl kontrol edilir, motora riski nedir."
 faq:
   - q: "Dağılmış katalizör nasıl bir ses çıkarır?"
@@ -95,7 +95,7 @@ hangisinin teklif edildiğini ve sensörün nasıl çözüleceğini sorun. Sadec
 «gürültüyü hallederiz» diyen bir teklif ek soruyu hak eder.
 
 Hışırtıyı duyuyor ama egzozdan geldiğinden emin değilseniz, bozuk yolda ve
-kalkışta Stuk uygulamasında kaydedin. Uygulama kaydı birkaç ek soruya
+kalkışta Pro-Stuk uygulamasında kaydedin. Uygulama kaydı birkaç ek soruya
 verdiğiniz cevaplarla eşleştirir ve olası kaynakları yüzdeyle gösterir —
 acil gitmekle uygun bir güne randevu almak arasında karar vermek böylece
 kolaylaşır.

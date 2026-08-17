@@ -1,6 +1,6 @@
 ---
 title: "Objawy zapieczonego zacisku hamulcowego"
-metaTitle: "Zapieczony zacisk hamulcowy: objawy | Stuk"
+metaTitle: "Zapieczony zacisk hamulcowy: objawy | Pro-Stuk"
 description: "Jak poznać zapieczony zacisk hamulcowy: ściąganie w bok, gorące koło, zapach spalenizny, zgrzyt. Proste testy bez podnośnika i zakres regeneracji."
 faq:
   - q: "Co właściwie zapieka się w zacisku?"
@@ -130,6 +130,6 @@ Tania profilaktyka to prośba o przesmarowanie prowadnic przy każdej wymianie
 klocków: dokłada niewiele pracy, a odsuwa zapieczenie o lata.
 
 Jeśli hamulce zaczęły brzmieć nieznajomo, a przyczyna nie jest oczywista,
-proszę nagrać dźwięk w aplikacji Stuk podczas jazdy. Aplikacja zestawi
+proszę nagrać dźwięk w aplikacji Pro-Stuk podczas jazdy. Aplikacja zestawi
 nagranie z odpowiedziami o to, kiedy dźwięk się pojawia, i podpowie
 prawdopodobne przyczyny wraz z pilnością.

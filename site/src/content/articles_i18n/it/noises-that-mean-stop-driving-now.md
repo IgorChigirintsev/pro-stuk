@@ -1,6 +1,6 @@
 ---
 title: "I rumori che impongono di fermarsi subito"
-metaTitle: "Rumori auto: quando fermarsi subito | Stuk"
+metaTitle: "Rumori auto: quando fermarsi subito | Pro-Stuk"
 description: "Quasi tutti i rumori dell'auto possono aspettare l'officina, ma alcuni significano spegnere adesso. I segnali, come fermarsi in sicurezza e cosa fare dopo."
 faq:
   - q: "Come capisco che un rumore impone di fermarsi subito?"
@@ -100,7 +100,7 @@ preme sui rivestimenti —
 [trovare rumori e cigolii dell'abitacolo](/it/articles/finding-interior-rattles-and-squeaks/).
 
 Quando non è sicuro a quale categoria appartenga ciò che ha sentito,
-registri il rumore con l'app Stuk prima di ripartire. L'app confronta la
+registri il rumore con l'app Pro-Stuk prima di ripartire. L'app confronta la
 registrazione con le sue risposte a qualche domanda e mostra le cause
 probabili in percentuale: di solito basta per scegliere fra proseguire e
 aspettare il traino.

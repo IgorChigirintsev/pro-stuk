@@ -1,6 +1,6 @@
 ---
 title: "Un bourdonnement sous le capot au ralenti"
-metaTitle: "Bourdonnement sous le capot au ralenti : le trouver | Stuk"
+metaTitle: "Bourdonnement sous le capot au ralenti : le trouver | Pro-Stuk"
 description: "Ce qui bourdonne sous le capot au ralenti : ventilateur, alternateur, compresseur de clim, pompe à eau ou galets. Des tests simples qui localisent la source."
 faq:
   - q: "Est-il normal qu'un bourdonnement apparaisse quand la climatisation s'enclenche ?"
@@ -124,5 +124,5 @@ courroie détendue est une réparation de courte durée.
 
 Un bourdonnement au ralenti est facile à enregistrer : la voiture est
 immobile et le bruit de fond est minimal. Faites un enregistrement capot
-ouvert dans l'application Stuk — elle confronte le son à vos réponses et
+ouvert dans l'application Pro-Stuk — elle confronte le son à vos réponses et
 affiche les causes probables avec un niveau d'urgence.

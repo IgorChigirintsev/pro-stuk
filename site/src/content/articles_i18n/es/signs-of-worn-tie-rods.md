@@ -1,6 +1,6 @@
 ---
 title: "Señales de barras de dirección gastadas"
-metaTitle: "Barras de dirección: golpes, holgura, el coche se va | Stuk"
+metaTitle: "Barras de dirección: golpes, holgura, el coche se va | Pro-Stuk"
 description: "Cómo reconocer unas barras de dirección gastadas: golpeteo en baches pequeños, holgura en el volante y el coche que se va. Comprobaciones caseras y reparación."
 faq:
   - q: "¿Qué diferencia hay entre la barra de dirección y el terminal de dirección?"
@@ -114,7 +114,7 @@ por eso inspeccionar guardapolvos forma parte de cualquier diagnóstico del
 tren rodante.
 
 Si se oye un golpeteo en la dirección pero el diagnóstico no está claro,
-grabe el sonido con la aplicación Stuk en un tramo representativo. La
+grabe el sonido con la aplicación Pro-Stuk en un tramo representativo. La
 aplicación compara la grabación con sus respuestas y muestra las causas
 probables con un nivel de urgencia, de forma que llegue al taller con una
 hipótesis lista.

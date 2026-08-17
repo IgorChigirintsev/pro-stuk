@@ -1,6 +1,6 @@
 ---
 title: "De gastest in de vrijstand: wat die laat zien"
-metaTitle: "Gastest in de vrijstand: wat die laat zien | Stuk"
+metaTitle: "Gastest in de vrijstand: wat die laat zien | Pro-Stuk"
 description: "Wat het opvoeren van het toerental in de vrijstand u vertelt: zo scheidt u motorgeluid van wiel- en aandrijflijngeluid, en zo voert u de test goed uit."
 faq:
   - q: "Is gas geven in de vrijstand schadelijk?"

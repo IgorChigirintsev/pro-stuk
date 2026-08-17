@@ -1,6 +1,6 @@
 ---
 title: "Bitmekte olan debriyajın belirtileri"
-metaTitle: "Debriyaj bitiyor: testler ve onarım | Stuk"
+metaTitle: "Debriyaj bitiyor: testler ve onarım | Pro-Stuk"
 description: "Debriyaj aşınması nasıl anlaşılır: kaçırma, yanık kokusu, yükselen pedal, sarsıntı. Bir dakikalık test, aşınma aşamaları ve işin nasıl planlandığı."
 faq:
   - q: "Debriyaj aşınmasının ilk işareti nedir?"
@@ -139,6 +139,6 @@ Ertelemenin pahalıya patlamasının nedeni tam olarak budur: iş yalnızca
 setteyken fatura başka, aşırı ısınma volana ulaştığında bambaşkadır.
 
 Titreşimin ya da sesin gerçekten debriyajdan geldiğinden emin değilseniz,
-sesi Stuk uygulamasına kaydedin: rölantide, pedala basılıyken ve kalkarken.
+sesi Pro-Stuk uygulamasına kaydedin: rölantide, pedala basılıyken ve kalkarken.
 Uygulama kayıtları yanıtlarınızla eşleştirir ve olası nedenleri aciliyet
 derecesiyle gösterir.

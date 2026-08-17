@@ -1,6 +1,6 @@
 ---
 title: "Comprobar los soportes de motor con carga"
-metaTitle: "Comprobar los soportes de motor con carga | Stuk"
+metaTitle: "Comprobar los soportes de motor con carga | Pro-Stuk"
 description: "La prueba de carga de los soportes de motor: meter marchas contra el freno, qué movimiento buscar y cómo distinguirlos de otros golpeteos."
 faq:
   - q: "¿Cuánto debería moverse el motor?"
@@ -103,5 +103,5 @@ siguientes a que aparezca el golpe.
 
 Si no está seguro de si el impacto es realmente metálico o simplemente un
 arranque brusco, grabe el momento de ponerse en marcha con la aplicación
-Stuk. La aplicación compara la grabación con sus respuestas sobre el régimen
+Pro-Stuk. La aplicación compara la grabación con sus respuestas sobre el régimen
 y muestra las causas probables con porcentajes.

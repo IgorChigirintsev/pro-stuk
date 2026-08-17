@@ -1,6 +1,6 @@
 ---
 title: "Verbranntes Ventil: Zeichen nach Gehör"
-metaTitle: "Verbranntes Ventil: Zeichen nach Gehör | Stuk"
+metaTitle: "Verbranntes Ventil: Zeichen nach Gehör | Pro-Stuk"
 description: "Rhythmisches Knallen im Auspuff, Zündaussetzer und Zischen im Leerlauf: wie Sie ein verbranntes Ventil am Klang erkennen und welche Tests es bestätigen."
 faq:
   - q: "Wie unterscheidet sich ein verbranntes Ventil nach Gehör von einem Zündaussetzer?"

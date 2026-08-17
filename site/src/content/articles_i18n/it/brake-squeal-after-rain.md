@@ -1,6 +1,6 @@
 ---
 title: "Fischio dei freni dopo la pioggia: normale o no"
-metaTitle: "Freni che fischiano dopo la pioggia | Stuk"
+metaTitle: "Freni che fischiano dopo la pioggia | Pro-Stuk"
 description: "Perché i freni fischiano dopo la pioggia e dopo una notte all'aperto, quando è innocuo velo di ruggine sul disco e quando è segno di pastiglie consumate."
 faq:
   - q: "Quante frenate servono perché un fischio dopo la pioggia sparisca?"
@@ -138,7 +138,7 @@ il freno a mano tirato su tamburi bagnati per una sosta lunga. Non
 elimina del tutto il fischio mattutino, perché la ruggine si forma
 comunque, ma il suono diventa più leggero e più breve.
 
-Se non è sicura di come classificare il suono, lo registri con l'app Stuk,
+Se non è sicura di come classificare il suono, lo registri con l'app Pro-Stuk,
 meglio al mattino alle prime frenate, quando il fischio è più forte. L'app
 confronta la registrazione con le sue risposte e mostra le cause probabili
 con una valutazione di urgenza.

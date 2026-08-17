@@ -5,7 +5,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Knocking in the engine',
-    metaTitle: 'Engine knocking: causes, how serious it is, what to do | Stuk',
+    metaTitle: 'Engine knocking: causes, how serious it is, what to do | Pro-Stuk',
     description:
       'Why an engine knocks: from harmless valve ticking to worn crankshaft bearings. How to tell a dangerous knock apart, whether you can keep driving and what to check yourself.',
     intro: [
@@ -31,7 +31,7 @@ export const pages: Record<string, SymptomTr> = {
       'Check whether the oil pressure light is on: the red oil can together with a knock means switch the engine off immediately.',
     ],
     appHelp:
-      'The Stuk app walks you through the same questions an engine specialist asks, records the sound and measures its spectrum and rhythm: how often the knocks come and how that relates to engine speed — for a valve knock and a crankshaft knock that ratio differs. The report gives likely causes with percentages, an urgency traffic light and a list of phrases for the conversation at the garage.',
+      'The Pro-Stuk app walks you through the same questions an engine specialist asks, records the sound and measures its spectrum and rhythm: how often the knocks come and how that relates to engine speed — for a valve knock and a crankshaft knock that ratio differs. The report gives likely causes with percentages, an urgency traffic light and a list of phrases for the conversation at the garage.',
     faq: [
       {
         q: 'Why does the engine knock only when cold?',
@@ -50,7 +50,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Squealing brakes',
-    metaTitle: 'Squealing brakes: dangerous or not, causes and what to do | Stuk',
+    metaTitle: 'Squealing brakes: dangerous or not, causes and what to do | Pro-Stuk',
     description:
       'Why brakes squeal: an overnight film of rust, the pad wear indicator or a problem with the discs. How to tell a harmless squeal from a warning.',
     intro: [
@@ -75,7 +75,7 @@ export const pages: Record<string, SymptomTr> = {
       'Watch the pedal and the line the car takes: pulling to one side while braking, pulsing or a long pedal are more serious than a squeal, and mean a garage without delay.',
     ],
     appHelp:
-      'The Stuk app separates the harmless case from the worrying one with the same questions — when it squeals and whether the sound goes away — and the recording helps tell a high wear-indicator squeal from grinding. The report gives likely causes with percentages and a traffic light: safe to drive, shop this week, or pull over.',
+      'The Pro-Stuk app separates the harmless case from the worrying one with the same questions — when it squeals and whether the sound goes away — and the recording helps tell a high wear-indicator squeal from grinding. The report gives likely causes with percentages and a traffic light: safe to drive, shop this week, or pull over.',
     faq: [
       {
         q: 'Why do brakes squeal in the morning and in the rain?',
@@ -94,7 +94,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Humming while driving',
-    metaTitle: 'Humming while driving: wheel bearing, tyres or gearbox | Stuk',
+    metaTitle: 'Humming while driving: wheel bearing, tyres or gearbox | Pro-Stuk',
     description:
       'A steady hum at speed: wheel bearing, tyres, gearbox or final drive. Simple checks without a garage — the neutral test and gentle turns — narrow the cause down.',
     intro: [
@@ -120,7 +120,7 @@ export const pages: Record<string, SymptomTr> = {
       'On a manual, check whether the whine changes in different gears at the same speed; on rear-wheel drive, whether the hum comes with a shudder through the floor in a narrow speed range.',
     ],
     appHelp:
-      'The Stuk app walks you through the same questions — does the hum stay in neutral, does it change in bends and with the surface — and helps you record the sound to compare its character with typical cases. The report gives likely causes with percentages and a conclusion: drive on calmly, plan a garage visit, or check without delay.',
+      'The Pro-Stuk app walks you through the same questions — does the hum stay in neutral, does it change in bends and with the surface — and helps you record the sound to compare its character with typical cases. The report gives likely causes with percentages and a conclusion: drive on calmly, plan a garage visit, or check without delay.',
     faq: [
       {
         q: 'How do I tell a bearing hum from tyre noise?',
@@ -139,7 +139,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Knocking in the suspension',
-    metaTitle: 'Suspension knocking: what knocks, causes and can you drive | Stuk',
+    metaTitle: 'Suspension knocking: what knocks, causes and can you drive | Pro-Stuk',
     description:
       'What knocks in the suspension: anti-roll bar links, bushes, the steering rack or a broken spring. How to tell the knocks apart by their character and when to go to a garage.',
     intro: [
@@ -165,7 +165,7 @@ export const pages: Record<string, SymptomTr> = {
       'Look behind the wheel from below without dismantling anything: a broken coil is often visible to the eye, and you can also see whether one corner of the car sits lower.',
     ],
     appHelp:
-      'The Stuk app follows the same forks a mechanic takes at a first inspection: what the sound is like, on which bumps, front or rear, whether it reaches the steering wheel. Recording the sound keeps the details from being lost before the visit, and the report gives likely causes with percentages and a plain traffic light: drive on, show it this week, or check urgently.',
+      'The Pro-Stuk app follows the same forks a mechanic takes at a first inspection: what the sound is like, on which bumps, front or rear, whether it reaches the steering wheel. Recording the sound keeps the details from being lost before the visit, and the report gives likely causes with percentages and a plain traffic light: drive on, show it this week, or check urgently.',
     faq: [
       {
         q: 'Is it dangerous to drive with a knock in the suspension?',
@@ -184,7 +184,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Wheel bearing hum',
-    metaTitle: 'Wheel bearing hum: how to recognise it | Stuk',
+    metaTitle: 'Wheel bearing hum: how to recognise it | Pro-Stuk',
     description:
       'What a worn wheel bearing sounds like, how to tell it apart from tyre noise, which wheel is humming and how long you can drive with it.',
     intro: [
@@ -209,7 +209,7 @@ export const pages: Record<string, SymptomTr> = {
       'After a drive, carefully bring your hand close to the hubs (without touching the brake disc — it is hot): a noticeably hotter hub on one side is an extra sign.',
     ],
     appHelp:
-      'The Stuk app asks the same control questions — about the surface, bends and coasting in neutral — records the hum and assesses its character: the steady broadband noise of tyres and a bearing hum look different in the spectrum. The report gives the probability of each cause, the urgency and a hint about which side to name to the mechanic.',
+      'The Pro-Stuk app asks the same control questions — about the surface, bends and coasting in neutral — records the hum and assesses its character: the steady broadband noise of tyres and a bearing hum look different in the spectrum. The report gives the probability of each cause, the urgency and a hint about which side to name to the mechanic.',
     faq: [
       {
         q: 'Why does the hum change in bends?',
@@ -228,7 +228,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Knocking over bumps',
-    metaTitle: 'Knocking over bumps: causes and what to check yourself | Stuk',
+    metaTitle: 'Knocking over bumps: causes and what to check yourself | Pro-Stuk',
     description:
       'Knocking over bumps and potholes: frequent on small ripples, single thumps in holes or a knock in the steering wheel. Which parts are to blame, what to check yourself and whether you can drive.',
     intro: [
@@ -254,7 +254,7 @@ export const pages: Record<string, SymptomTr> = {
       'Rule out the simple things: take loose items out of the boot, check that the spare and the jack are secured, press on the closed bonnet — a loose bonnet latch taps much like the suspension.',
     ],
     appHelp:
-      'The Stuk app asks the same questions as this page, only step by step: what kind of knock, where you hear it, how it behaves on different bumps. From your answers and the recording it builds a report with likely causes and an urgency traffic light — with it, deciding between a garage tomorrow and a garage whenever is easier.',
+      'The Pro-Stuk app asks the same questions as this page, only step by step: what kind of knock, where you hear it, how it behaves on different bumps. From your answers and the recording it builds a report with likely causes and an urgency traffic light — with it, deciding between a garage tomorrow and a garage whenever is easier.',
     faq: [
       {
         q: 'Why is the knock heard only over bumps and not on a smooth road?',
@@ -273,7 +273,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Ticking engine',
-    metaTitle: 'Engine ticking: normal or wear, and why | Stuk',
+    metaTitle: 'Engine ticking: normal or wear, and why | Pro-Stuk',
     description:
       'Where engine ticking comes from: valve clearances, hydraulic lifters, normal injector chatter or the exhaust manifold. How to tell normal operation from engine wear.',
     intro: [
@@ -299,7 +299,7 @@ export const pages: Record<string, SymptomTr> = {
       'Sniff at the open bonnet: the smell of exhaust together with rapid chatter points to the exhaust manifold, and that means a garage within a week or two.',
     ],
     appHelp:
-      'The Stuk app pins down the main things — whether the ticking has grown louder over time and how it behaves cold and hot — and the recording lets you compare it with typical examples. The report gives likely causes with percentages and a traffic-light conclusion: normal, book a visit this week, or get it checked without delay.',
+      'The Pro-Stuk app pins down the main things — whether the ticking has grown louder over time and how it behaves cold and hot — and the recording lets you compare it with typical examples. The report gives likely causes with percentages and a traffic-light conclusion: normal, book a visit this week, or get it checked without delay.',
     faq: [
       {
         q: 'Why do diesels and direct-injection engines always tick?',
@@ -318,7 +318,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Belt squeal',
-    metaTitle: 'Squealing belt: causes, is it safe to drive and what to do | Stuk',
+    metaTitle: 'Squealing belt: causes, is it safe to drive and what to do | Pro-Stuk',
     description:
       'The auxiliary belt is squealing: wear, weak tension, idler pulleys or the air-conditioning clutch. How to narrow the cause down by circumstance and when the squeal means a garage.',
     intro: [
@@ -344,7 +344,7 @@ export const pages: Record<string, SymptomTr> = {
       'Listen for a steady hum or rustle alongside the squeal that changes with engine speed — that is the bearing in one of the pulleys.',
     ],
     appHelp:
-      'The Stuk app pins down the character of the sound and the circumstances — squeal or hum, cold or under load, tied to the air conditioning or not — and the recording helps tell a belt squeal from the rustle of a pulley. The report gives likely causes with percentages and a traffic light: safe to drive, shop this week, or pull over.',
+      'The Pro-Stuk app pins down the character of the sound and the circumstances — squeal or hum, cold or under load, tied to the air conditioning or not — and the recording helps tell a belt squeal from the rustle of a pulley. The report gives likely causes with percentages and a traffic light: safe to drive, shop this week, or pull over.',
     faq: [
       {
         q: 'What happens if the belt breaks on the road?',
@@ -363,7 +363,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Rattling under the car',
-    metaTitle: 'Rattling under the car: what is rattling and is it dangerous | Stuk',
+    metaTitle: 'Rattling under the car: what is rattling and is it dangerous | Pro-Stuk',
     description:
       'Rattling and clattering under the car: exhaust mountings, a heat shield, the underbody guard or the catalytic converter. How to find the source and when it is serious.',
     intro: [
@@ -389,7 +389,7 @@ export const pages: Record<string, SymptomTr> = {
       'Look under the car without crawling under it: a sagging exhaust, a dangling edge of the underbody guard or a bent shield is often visible right from the wheel.',
     ],
     appHelp:
-      'The Stuk app helps tie the rattle to its source: where the sound comes from, whether it follows engine speed or bumps, what is happening to the power. From your answers and the recording it shows likely causes with percentages and an urgency traffic light — handy for telling harmless sheet metal from a converter before you reach the garage.',
+      'The Pro-Stuk app helps tie the rattle to its source: where the sound comes from, whether it follows engine speed or bumps, what is happening to the power. From your answers and the recording it shows likely causes with percentages and an urgency traffic light — handy for telling harmless sheet metal from a converter before you reach the garage.',
     faq: [
       {
         q: 'Is it dangerous to drive if something rattles under the car?',
@@ -408,7 +408,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Grinding when braking',
-    metaTitle: 'Grinding when braking: pads worn to metal, what to do | Stuk',
+    metaTitle: 'Grinding when braking: pads worn to metal, what to do | Pro-Stuk',
     description:
       'Grinding when braking usually means pads worn down to the metal — you do not drive with that. Less often a pebble behind the disc shield is to blame. How to tell them apart and what to do.',
     intro: [
@@ -433,7 +433,7 @@ export const pages: Record<string, SymptomTr> = {
       'Look at the brake disc through the wheel: deep grooves and a bluish tint to the metal say the grinding has been going on for a while and the discs have already suffered.',
     ],
     appHelp:
-      'The Stuk app walks you through the same questions — is the grinding constant, does the wheel get hot, does the sound go away after the first stops — and the recording helps tell grinding from the squeal of a wear indicator. The report gives likely causes and a traffic light: safe to drive, show it this week, or drive only as far as the garage.',
+      'The Pro-Stuk app walks you through the same questions — is the grinding constant, does the wheel get hot, does the sound go away after the first stops — and the recording helps tell grinding from the squeal of a wear indicator. The report gives likely causes and a traffic light: safe to drive, show it this week, or drive only as far as the garage.',
     faq: [
       {
         q: 'How is grinding different from brake squeal?',
@@ -452,7 +452,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-pri-razgone': {
     h1: 'Knocking when accelerating',
-    metaTitle: 'Knocking on and off the throttle: causes and what to do | Stuk',
+    metaTitle: 'Knocking on and off the throttle: causes and what to do | Pro-Stuk',
     description:
       'Why it knocks when you press or lift off the throttle: engine mounts, a CV joint, play in the drivetrain or the gearbox. How to tell harmless play from a knock inside the engine.',
     intro: [
@@ -477,7 +477,7 @@ export const pages: Record<string, SymptomTr> = {
       'Do the gentle test: if a soft press and release of the throttle produces no knock while a sharp one brings it back, that is classic play, and gentle driving is enough until the repair.',
     ],
     appHelp:
-      'The Stuk app asks the same follow-up questions — when exactly it knocks, whether the sound changes with revs and gears — and the recording helps tell the clunk of play from a deep engine knock. The report gives likely causes with percentages and a plain conclusion: drive on, plan a garage visit, or stop.',
+      'The Pro-Stuk app asks the same follow-up questions — when exactly it knocks, whether the sound changes with revs and gears — and the recording helps tell the clunk of play from a deep engine knock. The report gives likely causes with percentages and a plain conclusion: drive on, plan a garage visit, or stop.',
     faq: [
       {
         q: 'Why does it knock exactly when I press and release the throttle?',
@@ -496,7 +496,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Pinging when accelerating',
-    metaTitle: 'Pinging under acceleration: detonation or not, what to do | Stuk',
+    metaTitle: 'Pinging under acceleration: detonation or not, what to do | Pro-Stuk',
     description:
       'A metallic ping under acceleration is usually detonation caused by fuel. How to test it by changing filling stations, and when the culprit is not the engine but a heat shield or the converter.',
     intro: [
@@ -521,7 +521,7 @@ export const pages: Record<string, SymptomTr> = {
       'Pay attention to the power and to sounds under the floor: rustling and tinkling from below together with weaker acceleration is a reason to check the converter without delay.',
     ],
     appHelp:
-      'The Stuk app works through the same questions — when it rings, whether the sound follows load or revs — and the recording lets you tell the ringing chatter of detonation from the rattle of a tin shield. The report gives likely causes with percentages and a conclusion: drive on, plan a garage visit, or better stop.',
+      'The Pro-Stuk app works through the same questions — when it rings, whether the sound follows load or revs — and the recording lets you tell the ringing chatter of detonation from the rattle of a tin shield. The report gives likely causes with percentages and a conclusion: drive on, plan a garage visit, or better stop.',
     faq: [
       {
         q: 'What does “pinking” mean?',
@@ -540,7 +540,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Humming when turning',
-    metaTitle: 'Humming when turning: wheel bearing or power steering | Stuk',
+    metaTitle: 'Humming when turning: wheel bearing or power steering | Pro-Stuk',
     description:
       'Where humming in a turn comes from: a worn wheel bearing, a whining power steering pump or tyre noise. How to work out the side and whether it is dangerous.',
     intro: [
@@ -566,7 +566,7 @@ export const pages: Record<string, SymptomTr> = {
       'Look at the tread: sawtooth wear (steps on the edges) or patchy wear makes tyres hum and hints at wrong alignment or tired dampers.',
     ],
     appHelp:
-      'The Stuk app asks the same questions a mechanic asks when taking the car in: where the hum is heard, whether it changes in bends, whether it is tied to turning the wheel while stationary. The recording helps compare the hum with typical examples, and the report gives likely causes and a plain recommendation: drive on calmly, book a visit this week, or check without delay.',
+      'The Pro-Stuk app asks the same questions a mechanic asks when taking the car in: where the hum is heard, whether it changes in bends, whether it is tied to turning the wheel while stationary. The recording helps compare the hum with typical examples, and the report gives likely causes and a plain recommendation: drive on calmly, book a visit this week, or check without delay.',
     faq: [
       {
         q: 'Why does the hum grow in only one direction of turn?',
@@ -585,7 +585,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Clicking when steering',
-    metaTitle: 'Clicking when you turn the wheel: CV joint or top mount | Stuk',
+    metaTitle: 'Clicking when you turn the wheel: CV joint or top mount | Pro-Stuk',
     description:
       'Why it clicks when you turn the wheel: the outer CV joint, the strut top mount bearing or the steering column joint. How to tell them apart by sound and what to check without dismantling.',
     intro: [
@@ -611,7 +611,7 @@ export const pages: Record<string, SymptomTr> = {
       'Remember which wheel the crackle comes from while driving and which direction of turn makes it louder — these details noticeably narrow the search at the garage.',
     ],
     appHelp:
-      'In the Stuk app these forks are gathered into a short tree of questions: is the car moving or standing, where the sound comes from, what state the boots are in. You can record the crackle on your phone and compare it with examples. The report gives likely causes with an estimate and a recommendation on timing: no panic, but no clicks forgotten for a month either.',
+      'In the Pro-Stuk app these forks are gathered into a short tree of questions: is the car moving or standing, where the sound comes from, what state the boots are in. You can record the crackle on your phone and compare it with examples. The report gives likely causes with an estimate and a recommendation on timing: no panic, but no clicks forgotten for a month either.',
     faq: [
       {
         q: 'What is a CV joint and why does it click?',
@@ -630,7 +630,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Engine knock when cold',
-    metaTitle: 'Engine knocking when cold: causes and what to do | Stuk',
+    metaTitle: 'Engine knocking when cold: causes and what to do | Pro-Stuk',
     description:
       'Why an engine knocks when cold and goes quiet once warm: hydraulic lifters, the pistons, the timing chain. When it is normal and when it is time for a garage.',
     intro: [
@@ -656,7 +656,7 @@ export const pages: Record<string, SymptomTr> = {
       'Switch a warm engine off for ten minutes and start it again: a genuine cold knock does not come back after such a short stop.',
     ],
     appHelp:
-      'The Stuk app follows the same forks — is it ticking, a dull knock or a rustle, and how quickly the sound goes — and a recording from your phone captures the character of a sound that is hard to put into words. The report gives likely causes with percentages and a plain conclusion: drive on calmly, book a visit this week, or do not delay the garage.',
+      'The Pro-Stuk app follows the same forks — is it ticking, a dull knock or a rustle, and how quickly the sound goes — and a recording from your phone captures the character of a sound that is hard to put into words. The report gives likely causes with percentages and a plain conclusion: drive on calmly, book a visit this week, or do not delay the garage.',
     faq: [
       {
         q: 'The knock goes away once warm — can I ignore it?',
@@ -675,7 +675,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Squeal on startup',
-    metaTitle: 'Squealing when the engine starts: causes and what to do | Stuk',
+    metaTitle: 'Squealing when the engine starts: causes and what to do | Pro-Stuk',
     description:
       'Why the engine squeals on startup: a slipping auxiliary belt, idler pulleys or the water pump. When the squeal is harmless and when it is time to book a garage.',
     intro: [
@@ -701,7 +701,7 @@ export const pages: Record<string, SymptomTr> = {
       'Check for drips or whitish coolant traces near the pulleys: they point to the water pump, and then the garage visit is better not postponed.',
     ],
     appHelp:
-      'The Stuk app asks the same questions a mechanic asks when taking the car in: when the squeal appears, whether it goes once warm, what you hear while the starter is turning. The recording helps tell a belt squeal from starter grinding, and the report gives likely causes with percentages and a plain conclusion: safe to drive, shop this week, or pull over.',
+      'The Pro-Stuk app asks the same questions a mechanic asks when taking the car in: when the squeal appears, whether it goes once warm, what you hear while the starter is turning. The recording helps tell a belt squeal from starter grinding, and the report gives likely causes with percentages and a plain conclusion: safe to drive, shop this week, or pull over.',
     faq: [
       {
         q: 'Why does the engine squeal only when cold and in damp weather?',
@@ -720,7 +720,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Vibration at idle',
-    metaTitle: 'Vibration at idle: why the car shakes and what to do | Stuk',
+    metaTitle: 'Vibration at idle: why the car shakes and what to do | Pro-Stuk',
     description:
       'Why a car shakes at idle: engine mounts, misfires, an air leak or a dirty throttle body. What to check and whether you can drive.',
     intro: [
@@ -745,7 +745,7 @@ export const pages: Record<string, SymptomTr> = {
       'Recall when the spark plugs were changed: mileage well past the interval makes them the first suspect for misfires. If the check light is on, start with a computer diagnosis: the fault codes narrow the search.',
     ],
     appHelp:
-      'The Stuk app asks the same questions — does the shake grow with a gear engaged, do the revs hold steady, is the check light on — and turns the answers into likely causes with percentages. The report gives a plain conclusion: drive on calmly, book a visit this week, or show the car to a mechanic within days.',
+      'The Pro-Stuk app asks the same questions — does the shake grow with a gear engaged, do the revs hold steady, is the check light on — and turns the answers into likely causes with percentages. The report gives a plain conclusion: drive on calmly, book a visit this week, or show the car to a mechanic within days.',
     faq: [
       {
         q: 'Why does it shake only at idle while the car drives smoothly?',
@@ -764,7 +764,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Backfiring from the exhaust',
-    metaTitle: 'Backfiring from the exhaust: causes and what to do | Stuk',
+    metaTitle: 'Backfiring from the exhaust: causes and what to do | Pro-Stuk',
     description:
       'Why the exhaust bangs: misfires, a blown exhaust, the fuel mixture or LPG settings. What backfiring does to the catalytic converter and when to go to a garage.',
     intro: [
@@ -790,7 +790,7 @@ export const pages: Record<string, SymptomTr> = {
       'On a car with LPG, compare running on gas and on petrol: banging only on gas is a question for whoever set the gas system up.',
     ],
     appHelp:
-      'The Stuk app pins down the circumstances — bangs or roar, on gas or on petrol, with or without a loss of power — and helps separate ignition trouble, a hole in the exhaust and a slipping clutch, which sound alike. The report gives likely causes with percentages and a plain recommendation on how urgently a garage is needed.',
+      'The Pro-Stuk app pins down the circumstances — bangs or roar, on gas or on petrol, with or without a loss of power — and helps separate ignition trouble, a hole in the exhaust and a slipping clutch, which sound alike. The report gives likely causes with percentages and a plain recommendation on how urgently a garage is needed.',
     faq: [
       {
         q: 'Why does the exhaust bang if the problem is in the engine?',

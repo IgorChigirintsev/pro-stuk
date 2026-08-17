@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con il battito nel motore"
-metaTitle: "Si può guidare con il battito nel motore? | Stuk"
+metaTitle: "Si può guidare con il battito nel motore? | Pro-Stuk"
 description: "Quali battiti del motore permettono di arrivare in officina e quali impongono di spegnere e chiamare il carro attrezzi. Le regole del regime gentile."
 faq:
   - q: "Posso arrivare in officina se il battito è leggero?"
@@ -140,7 +140,7 @@ specifico della distribuzione è in
 [si può guidare con la catena di distribuzione allungata](/it/articles/can-you-drive-with-a-stretched-timing-chain/).
 
 Se sente un battito ma non è sicura da dove arrivi, registri il motore in
-funzione con l'app Stuk. Confronta la registrazione con i battiti tipici,
+funzione con l'app Pro-Stuk. Confronta la registrazione con i battiti tipici,
 fa qualche domanda di chiarimento e mostra a quale zona il suo caso è più
 vicino e con quanta urgenza serve l'officina. La decisione resta sua, ma è
 più facile prenderla con un punto di riferimento in mano.

@@ -1,6 +1,6 @@
 ---
 title: "SUV cinesi: i rumori tipici di Chery, Haval e Geely"
-metaTitle: "Rumori dei SUV cinesi: Chery, Haval, Geely | Stuk"
+metaTitle: "Rumori dei SUV cinesi: Chery, Haval, Geely | Pro-Stuk"
 description: "Quali rumori compaiono più spesso sui SUV cinesi nei primi anni, cosa c'è dietro e da quale controllo ha senso partire prima di sostituire pezzi."
 faq:
   - q: "I SUV cinesi fanno più rumore degli altri?"
@@ -100,7 +100,7 @@ snodo abbia mostrato gioco e come sia stato trovato.
 
 Prima della visita aiuta arrivare con dei dati concreti invece che con «fa
 rumore qualcosa»: a che velocità, su che fondo, motore freddo o caldo. Il
-suono si può registrare e scomporre per condizioni con l'app Stuk:
+suono si può registrare e scomporre per condizioni con l'app Pro-Stuk:
 confronta la registrazione con le sue risposte a qualche domanda e mostra
 le cause probabili in percentuale, il che rende nettamente più facile il
 discorso all'accettazione.

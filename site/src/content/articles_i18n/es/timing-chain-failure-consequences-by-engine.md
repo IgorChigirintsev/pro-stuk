@@ -1,6 +1,6 @@
 ---
 title: "Rotura de la cadena de distribución: consecuencias según el motor"
-metaTitle: "Rotura de la cadena de distribución: consecuencias | Stuk"
+metaTitle: "Rotura de la cadena de distribución: consecuencias | Pro-Stuk"
 description: "Qué le ocurre al motor cuando la cadena de distribución se rompe o salta, y por qué en unos motores basta con una cadena nueva y en otros hay que rectificar la culata."
 faq:
   - q: "¿Todos los motores doblan válvulas cuando se rompe la cadena?"
@@ -108,7 +108,7 @@ tratado en
 
 Si ha aparecido un traqueteo al arrancar en frío y no está seguro de si
 es la cadena o algo inofensivo, grabe los primeros cinco segundos de
-funcionamiento del motor con la aplicación Stuk. La aplicación cruza la
+funcionamiento del motor con la aplicación Pro-Stuk. La aplicación cruza la
 grabación con sus respuestas y muestra las causas probables con
 porcentajes; en esta fase, la diferencia entre una decisión y otra se mide
 en el precio de un motor entero.

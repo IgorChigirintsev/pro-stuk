@@ -1,7 +1,7 @@
 ---
 ru: "tresk-mufty-haldex-simptomy"
 title: "Haldex coupling noise: the symptoms"
-metaTitle: "Haldex coupling noise: symptoms and diagnosis | Stuk"
+metaTitle: "Haldex coupling noise: symptoms and diagnosis | Pro-Stuk"
 description: "How a struggling Haldex coupling sounds, why the crunch appears during low-speed manoeuvres and how it differs from a CV joint clicking."
 pubDate: "2026-06-23"
 related:
@@ -111,7 +111,7 @@ tread depth across the axles: a mismatch there produces exactly these
 symptoms on a healthy unit.
 
 If the crunch during turns has appeared recently and it is unclear whether
-it comes from the front or the rear, record the sound in the Stuk app
+it comes from the front or the rear, record the sound in the Pro-Stuk app
 during a manoeuvre in an empty car park. The app matches the recording
 with your answers and shows the likely causes with percentages — which
 narrows the search to one axle straight away.

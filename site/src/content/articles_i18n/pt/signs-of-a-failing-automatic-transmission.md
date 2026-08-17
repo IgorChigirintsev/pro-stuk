@@ -1,6 +1,6 @@
 ---
 title: "Sinais de câmbio automático dando problema"
-metaTitle: "Sinais de câmbio automático com problema | Stuk"
+metaTitle: "Sinais de câmbio automático com problema | Pro-Stuk"
 description: "O automático raramente morre de uma vez: patinação, zunido e demora vêm antes. Os primeiros sinais de desgaste e o que fazer em cada fase."
 faq:
   - q: "Qual é o sinal mais preocupante em um câmbio automático?"
@@ -100,6 +100,6 @@ limalha antiga, volta para a oficina — e essa é a razão mais comum de uma
 retífica não durar nem um ano.
 
 Se você está numa fase inicial e não sabe se o som do câmbio mudou nos
-últimos meses, grave no aplicativo Stuk a cada duas ou três semanas — em
+últimos meses, grave no aplicativo Pro-Stuk a cada duas ou três semanas — em
 marcha lenta, em neutro e acelerando. O app guarda o histórico, compara as
 gravações e mostra se a coisa está piorando ou se o som sempre foi assim.

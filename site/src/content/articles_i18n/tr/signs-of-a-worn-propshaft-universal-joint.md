@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış kardan istavrozunun belirtileri"
-metaTitle: "Aşınmış kardan istavrozu: belirtileri | Stuk"
+metaTitle: "Aşınmış kardan istavrozu: belirtileri | Pro-Stuk"
 description: "Kalkışta tok bir vuruş, hızda titreşim, tabanın altından metalik çınlama — kardan istavrozu aşınması aşama aşama nasıl okunur ve ne zaman değişir."
 faq:
   - q: "İstavrozu askı rulmanından nasıl ayırırım?"
@@ -97,6 +97,6 @@ işaretlenip işaretlenmeyeceğini sorun — tek başına bu, onarım sonrası
 titreşimlerin çoğunu önler.
 
 Vuruş hâlâ ara sıra geliyorsa ve gerçekten tabanın altından mı yoksa
-süspansiyondan mı geldiğini bilmek istiyorsanız, kalkış anında Stuk
+süspansiyondan mı geldiğini bilmek istiyorsanız, kalkış anında Pro-Stuk
 uygulamasında kaydedin. Uygulama kaydı birkaç soruya verdiğiniz
 cevaplarla eşleştirir ve olası nedenleri yüzdeleriyle gösterir.

@@ -1,6 +1,6 @@
 ---
 title: "Un claquement en tournant le volant en roulant"
-metaTitle: "Claquement en tournant le volant en roulant : causes | Stuk"
+metaTitle: "Claquement en tournant le volant en roulant : causes | Pro-Stuk"
 description: "Ce qui claque quand vous tournez le volant en roulant : cardan, rotule, coupelle d'amortisseur ou crémaillère. Comment séparer les causes au son."
 faq:
   - q: "Des claquements en virage en charge, c'est forcément le cardan ?"
@@ -108,6 +108,6 @@ générale des claquements de train roulant est sur la page du symptôme
 [claquement dans la suspension](/fr/symptoms/knocking-in-suspension/).
 
 Vous n'arrivez pas à décrire le son avec assurance ? Enregistrez-le dans
-l'application Stuk pendant la manœuvre elle-même : l'application croise
+l'application Pro-Stuk pendant la manœuvre elle-même : l'application croise
 l'enregistrement avec vos réponses et affiche les causes probables avec
 leurs pourcentages et un niveau d'urgence.

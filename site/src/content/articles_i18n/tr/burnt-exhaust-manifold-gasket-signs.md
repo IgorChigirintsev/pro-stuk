@@ -1,6 +1,6 @@
 ---
 title: "Yanmış egzoz manifold contasının belirtileri"
-metaTitle: "Yanmış egzoz manifold contası: belirtiler | Stuk"
+metaTitle: "Yanmış egzoz manifold contası: belirtiler | Pro-Stuk"
 description: "Soğuk çalıştırmada tıkırtı ve tıslama, kabinde egzoz kokusu, birleşme yerinde siyah kurum — yanmış manifold contası nasıl teşhis edilir, ne yapılır."
 faq:
   - q: "Tıkırtı neden soğukken duyulup ısınınca kayboluyor?"
@@ -102,7 +102,7 @@ saplamalar yandıkça aralık büyür, böylece basit bir conta değişimi matka
 destanına dönüşür.
 
 Tıkırtı sadece soğukken çıkıyorsa ve supap olmadığından emin değilseniz,
-soğuk çalıştırmadan sonraki ilk otuz saniyeyi Stuk uygulamasında kaydedin,
+soğuk çalıştırmadan sonraki ilk otuz saniyeyi Pro-Stuk uygulamasında kaydedin,
 sonra aynı bölümü sıcak motorda tekrarlayın. Uygulama kayıtları
 karşılaştırır ve olası nedenleri yüzdeyle gösterir — bu arıza özellikle
 soğuk–sıcak farkından çok iyi tanınır.

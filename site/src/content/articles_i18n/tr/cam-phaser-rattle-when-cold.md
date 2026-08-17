@@ -1,6 +1,6 @@
 ---
 title: "Soğukta eksantrik ayarlayıcı takırtısı"
-metaTitle: "Soğukta eksantrik ayarlayıcı takırtısı | Stuk"
+metaTitle: "Soğukta eksantrik ayarlayıcı takırtısı | Pro-Stuk"
 description: "Soğuk çalıştırmadan sonraki ilk saniyelerde eksantrik ayarlayıcılar neden takırdar: yenmiş aktüatör, OCV valfi, yağ. Kendiniz nasıl kontrol edersiniz."
 faq:
   - q: "Çalıştırmadan sonra kaç saniye takırtı normaldir?"
@@ -103,6 +103,6 @@ aktüatör zincir aşınmasını hızlandırır, motor güç kaybeder ve daha ç
 yakıt yakmaya başlar.
 
 Takırdayanın ayarlayıcı olduğundan emin değil misiniz? Soğuk çalıştırmayı
-Stuk uygulamasında kaydedin — algoritma sesi tipik profillerle
+Pro-Stuk uygulamasında kaydedin — algoritma sesi tipik profillerle
 karşılaştırır, takırtının anı ve süresi hakkındaki cevaplarınızı hesaba
 katar ve olası nedenleri aciliyet düzeyiyle gösterir.

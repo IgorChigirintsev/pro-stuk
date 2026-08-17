@@ -1,6 +1,6 @@
 ---
 title: "Stukanie po wymianie amortyzatorów"
-metaTitle: "Stukanie po wymianie amortyzatorów: przyczyny | Stuk"
+metaTitle: "Stukanie po wymianie amortyzatorów: przyczyny | Pro-Stuk"
 description: "Dlaczego po nowych amortyzatorach pojawiło się stukanie: błędy momentu, stare poduszki i odboje, wadliwa część. Jak znaleźć przyczynę i kto płaci za poprawkę."
 faq:
   - q: "Czy stukanie nowych amortyzatorów może się dotrzeć i zniknąć?"
@@ -102,7 +102,7 @@ samych amortyzatorów według metody z artykułu
 [jak poznać, że amortyzatory są martwe](/pl/articles/how-to-tell-shock-absorbers-are-dead/).
 
 Żeby rozmawiać konkretnie, trzeba uchwycić samo stukanie: nagrać je w
-aplikacji Stuk na tym samym odcinku drogi, gdzie słychać je najlepiej.
+aplikacji Pro-Stuk na tym samym odcinku drogi, gdzie słychać je najlepiej.
 Algorytm zestawia nagranie z odpowiedziami i pokazuje prawdopodobne
 przyczyny wraz z poziomem pilności — z nagraniem trudniej usłyszeć w
 warsztacie „wszystko jest w porządku”.

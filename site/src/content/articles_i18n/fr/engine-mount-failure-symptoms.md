@@ -1,6 +1,6 @@
 ---
 title: "Support moteur hors service : les symptômes"
-metaTitle: "Support moteur hors service : les symptômes | Stuk"
+metaTitle: "Support moteur hors service : les symptômes | Pro-Stuk"
 description: "Un à-coup au démarrage, des vibrations au ralenti, un coup sourd au passage de D à R — reconnaître un support moteur mort et ce que cela entraîne."
 faq:
   - q: "Est-ce dangereux de rouler avec un support moteur déchiré ?"
@@ -109,7 +109,7 @@ surtout une fois que le coup au passage d'un rapport est devenu net.
 
 Si vous ne savez pas d'où vient l'à-coup — du compartiment moteur ou de
 sous une roue — enregistrez le moment du démarrage dans l'application
-Stuk. Elle croise l'enregistrement avec vos réponses sur le régime dans
+Pro-Stuk. Elle croise l'enregistrement avec vos réponses sur le régime dans
 lequel le son apparaît et affiche les causes probables avec leurs
 pourcentages, pour que la conversation au garage démarre sur une théorie
 précise.

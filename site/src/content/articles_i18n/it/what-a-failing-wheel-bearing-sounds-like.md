@@ -1,6 +1,6 @@
 ---
 title: "Come suona un cuscinetto ruota che sta morendo"
-metaTitle: "Come suona un cuscinetto ruota rovinato | Stuk"
+metaTitle: "Come suona un cuscinetto ruota rovinato | Pro-Stuk"
 description: "Da un ronzio appena percettibile a 60 km/h fino al rombo con vibrazione nel volante: come cambia il suono di un cuscinetto ruota stadio per stadio e dove non si può più aspettare."
 faq:
   - q: "A che velocità si sente un cuscinetto all'inizio?"
@@ -106,6 +106,6 @@ riparazione coglie di sorpresa.
 
 Se il ronzio è ancora leggero e non è sicuro di non immaginarselo,
 registri un tratto in autostrada con qualche cambio di corsia usando
-l'app Stuk. Confronta la registrazione con le sue risposte su velocità,
+l'app Pro-Stuk. Confronta la registrazione con le sue risposte su velocità,
 fondo stradale e direzione della manovra e mostra le cause probabili in
 percentuale — compreso un indizio su da quale ruota partire.

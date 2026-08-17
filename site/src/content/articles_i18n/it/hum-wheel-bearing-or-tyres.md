@@ -1,6 +1,6 @@
 ---
 title: "Ronzio: cuscinetto ruota o gomme, come distinguerli"
-metaTitle: "Ronzio: cuscinetto ruota o gomme, come capirlo | Stuk"
+metaTitle: "Ronzio: cuscinetto ruota o gomme, come capirlo | Pro-Stuk"
 description: "Come distinguere il ronzio di un cuscinetto ruota dal rumore delle gomme: prove in un solo giro, tabella dei segni a confronto e gli errori che costano cari."
 faq:
   - q: "Il ronzio è comparso subito dopo aver montato altre ruote. Che cos’è?"
@@ -135,6 +135,6 @@ particolare del ronzio che si sente solo in autostrada è in
 [ronzio in autostrada che sparisce in città](/it/articles/highway-hum-that-disappears-in-town/).
 
 E per un secondo parere prima del viaggio, si registra il ronzio in marcia
-nell’app Stuk: analizza la registrazione, pone qualche domanda di
+nell’app Pro-Stuk: analizza la registrazione, pone qualche domanda di
 chiarimento — sul fondo, sulle curve, su come è comparso il suono — e
 mostra le cause probabili in percentuale.

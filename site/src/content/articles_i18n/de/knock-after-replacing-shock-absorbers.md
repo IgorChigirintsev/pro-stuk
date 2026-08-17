@@ -1,6 +1,6 @@
 ---
 title: "Klopfen nach dem Tausch der Stoßdämpfer"
-metaTitle: "Klopfen nach neuem Stoßdämpfer: Ursachen | Stuk"
+metaTitle: "Klopfen nach neuem Stoßdämpfer: Ursachen | Pro-Stuk"
 description: "Warum nach neuen Dämpfern ein Klopfen auftrat: Fehler beim Anzugsmoment, alte Federbeinlager und Anschlagpuffer, ein defektes Teil. Und wer die Behebung zahlt."
 faq:
   - q: "Kann sich ein Klopfen neuer Dämpfer einfahren und verschwinden?"

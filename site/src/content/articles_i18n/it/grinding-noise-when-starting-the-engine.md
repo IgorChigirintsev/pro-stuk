@@ -1,6 +1,6 @@
 ---
 title: "Raschiamento all’avviamento del motore"
-metaTitle: "Raschiamento all’avviamento: motorino o corona | Stuk"
+metaTitle: "Raschiamento all’avviamento: motorino o corona | Pro-Stuk"
 description: "Raschiamento metallico all’avviamento: pignone del motorino, corona del volano, catena di distribuzione. Come trovare la sorgente dal momento in cui suona."
 faq:
   - q: "Perché il raschiamento non c’è a ogni avviamento?"
@@ -120,7 +120,7 @@ scenari si sviluppano nell’arco di settimane e mesi, ed entrambi costano
 molto meno se fermati all’inizio.
 
 Se non siete sicuri in quale momento viva il raschiamento, registrate
-l’avviamento nell’app Stuk: l’algoritmo confronta il suono con le vostre
+l’avviamento nell’app Pro-Stuk: l’algoritmo confronta il suono con le vostre
 risposte e mostra le cause probabili con un livello di urgenza, così
 arrivate in officina con una teoria di lavoro invece che con
 un’ipotesi a caso.

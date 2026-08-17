@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-s-rastyanutoy-tsepyu-grm"
 title: "Can you drive with a stretched timing chain"
-metaTitle: "Can you drive with a stretched timing chain? | Stuk"
+metaTitle: "Can you drive with a stretched timing chain? | Pro-Stuk"
 description: "What a stretched timing chain risks, when driving to a workshop yourself is acceptable, when you need a tow truck, and what delay actually costs."
 pubDate: "2026-08-02"
 related:
@@ -148,7 +148,7 @@ These are risk-reduction measures, not a way to postpone the repair: a
 worn chain does not recover and does not get cheaper with time.
 
 If you are not sure it is the chain making the noise, record the engine in
-the Stuk app: it matches the recording with your answers to a few
+the Pro-Stuk app: it matches the recording with your answers to a few
 questions and shows the likely causes with an urgency rating. That makes
 it easier to decide between driving to the workshop and calling a tow
 truck straight away.

@@ -1,6 +1,6 @@
 ---
 title: "Un golpe que se nota en el pedal de freno"
-metaTitle: "Un golpe que se nota en el pedal de freno: causas | Stuk"
+metaTitle: "Un golpe que se nota en el pedal de freno: causas | Pro-Stuk"
 description: "Golpes y respuestas en el pedal de freno pueden ser el ABS trabajando, o holgura en la pinza o en el tren rodante. Cómo distinguirlos."
 faq:
   - q: "El pedal golpea y vibra al frenar fuerte, ¿es una avería?"
@@ -108,6 +108,6 @@ lugar.
 
 Distinguir de oído si golpea una pinza o un brazo de suspensión es difícil
 incluso para un conductor con experiencia: el sonido llega a través de la
-carrocería y pierde su dirección. Una grabación hecha con la aplicación Stuk
+carrocería y pierde su dirección. Una grabación hecha con la aplicación Pro-Stuk
 durante una serie de frenadas, junto con las respuestas a unas preguntas
 cortas, da una lista de causas probables con porcentajes.

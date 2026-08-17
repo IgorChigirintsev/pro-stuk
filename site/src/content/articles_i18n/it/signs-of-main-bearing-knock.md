@@ -1,6 +1,6 @@
 ---
 title: "Segnali di battito delle bronzine di banco"
-metaTitle: "Battito bronzine di banco: come riconoscerlo | Stuk"
+metaTitle: "Battito bronzine di banco: come riconoscerlo | Pro-Stuk"
 description: "Un battito basso e pesante dal fondo del monoblocco, pressione olio in calo e vibrazioni: come riconoscere le bronzine di banco usurate e distinguerle da quelle di biella."
 faq:
   - q: "In cosa il battito di banco differisce da quello di biella?"
@@ -106,6 +106,6 @@ non ignorare i primi ammiccamenti della spia della pressione.
 
 Se il battito è comparso di recente e non sa da quale zona del motore
 arrivi, registri un breve frammento al minimo e su un colpo di gas con
-l'app Stuk. L'app confronta il suono con le sue risposte sul regime e
+l'app Pro-Stuk. L'app confronta il suono con le sue risposte sul regime e
 mostra le cause probabili in percentuale: abbastanza per decidere fra
 guidare da soli e chiamare subito il carro attrezzi.

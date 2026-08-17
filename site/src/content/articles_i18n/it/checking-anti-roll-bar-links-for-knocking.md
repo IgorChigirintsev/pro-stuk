@@ -1,6 +1,6 @@
 ---
 title: "Biellette della barra stabilizzatrice che battono: come controllarle"
-metaTitle: "Biellette barra stabilizzatrice: come controllarle | Stuk"
+metaTitle: "Biellette barra stabilizzatrice: come controllarle | Pro-Stuk"
 description: "Uno sferragliamento sulle piccole asperità è la lamentela più comune sulle biellette della barra stabilizzatrice. Come controllarle a mano in dieci minuti."
 faq:
   - q: "Come distinguo il colpo delle biellette dagli altri?"
@@ -100,7 +100,7 @@ peggiora l'auto, mentre la riparazione pesa nettamente meno di qualsiasi
 altro lavoro sulle sospensioni, quindi tirarla per le lunghe non ha senso.
 
 Se il colpo si sente ma il gioco non si riesce a cogliere con le mani,
-registri un passaggio su un tratto ondulato con l'app Stuk. Confronta il
+registri un passaggio su un tratto ondulato con l'app Pro-Stuk. Confronta il
 carattere e la frequenza degli urti con le sue risposte su velocità e
 fondo stradale e mostra le cause probabili in percentuale: più facile da
 discutere in officina di un «davanti sferraglia qualcosa».

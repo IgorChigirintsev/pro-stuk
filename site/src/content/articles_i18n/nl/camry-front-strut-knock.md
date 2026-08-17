@@ -1,6 +1,6 @@
 ---
 title: "Kloppende vering bij de Camry: het typische probleem"
-metaTitle: "Camry: kloppende vering, oorzaken en aanpak | Stuk"
+metaTitle: "Camry: kloppende vering, oorzaken en aanpak | Pro-Stuk"
 description: "Een kloppend vooronderstel bij de Camry over kleine oneffenheden: waarom de schokdempers niet altijd schuldig zijn en hoe u lagers en stangen controleert."
 faq:
   - q: "Is een kloppend vooronderstel bij een Camry altijd de schokdemper?"

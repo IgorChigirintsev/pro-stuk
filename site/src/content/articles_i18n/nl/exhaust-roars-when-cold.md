@@ -1,6 +1,6 @@
 ---
 title: "De uitlaat buldert bij koude motor"
-metaTitle: "Uitlaat buldert koud: oorzaken en aanpak | Stuk"
+metaTitle: "Uitlaat buldert koud: oorzaken en aanpak | Pro-Stuk"
 description: "Waarom de uitlaat na een koude start buldert en stiller wordt bij het warmdraaien: spruitstukpakking, scheuren, flexpijp. De controles en de reparatiekeuze."
 faq:
   - q: "Waarom is het gebulder er alleen koud en weg na het warmdraaien?"

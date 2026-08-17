@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const tr: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Belirtiler',
     how: 'Nasıl çalışır',
@@ -11,7 +11,7 @@ export const tr: Dict = {
   },
   footer: {
     disclaimer:
-      'Stuk, verdiğiniz yanıtlara ve sese bakarak olasılık tahmini yapar; teşhis koymaz. ' +
+      'Pro-Stuk, verdiğiniz yanıtlara ve sese bakarak olasılık tahmini yapar; teşhis koymaz. ' +
       'Onarım kararını, aracı gören usta verir.',
     how: 'Nasıl çalışır',
     privacy: 'Gizlilik politikası',
@@ -19,7 +19,7 @@ export const tr: Dict = {
     ruOnly: 'Belirtilere göre rehberler ve yazılar (Rusça)',
   },
   home: {
-    title: 'Stuk — sesinden araç teşhisi',
+    title: 'Pro-Stuk — sesinden araç teşhisi',
     description:
       'Sesi kaydedin, aracınızın nesi olduğunu öğrenin. Kısa bir anket, kaydın analizi ' +
       've bir rapor: yüzdeleriyle olası nedenler, aciliyet ışığı ve serviste ne ' +
@@ -52,7 +52,7 @@ export const tr: Dict = {
     faq: [
       {
         q: 'Bu kesin bir teşhis mi?',
-        a: 'Hayır. Stuk olasılık tahmini verir: yüzdeleriyle olası nedenler ve aciliyet düzeyi. Kesin teşhisi, aracı inceleyen usta koyar — rapor yalnızca oraya hazırlıklı gitmenizi sağlar.',
+        a: 'Hayır. Pro-Stuk olasılık tahmini verir: yüzdeleriyle olası nedenler ve aciliyet düzeyi. Kesin teşhisi, aracı inceleyen usta koyar — rapor yalnızca oraya hazırlıklı gitmenizi sağlar.',
       },
       {
         q: 'Ücreti ne kadar?',
@@ -85,7 +85,7 @@ export const tr: Dict = {
     schemaWhole: 'Parça grubunun tamamı.',
   },
   symptoms: {
-    indexTitle: 'Araç sesleri ve belirtileri — rehberler | Stuk',
+    indexTitle: 'Araç sesleri ve belirtileri — rehberler | Pro-Stuk',
     indexDescription: 'Tıkırtı, uğultu, ıslık, gıcırtı: her aracın sesi ne anlama gelir, ne kadar tehlikelidir ve kendiniz neyi kontrol edebilirsiniz. Belirtiye göre rehberler ve teşhis ağacı.',
     h1: 'Sese göre belirtiler',
     sub: 'Sesinize en yakın olanı seçin. Her rehberde: olası nedenler, tehlike ışığı, kendi başınıza yapabileceğiniz güvenli kontroller ve tıklanabilir teşhis ağacı.',
@@ -117,7 +117,7 @@ export const tr: Dict = {
   },
   download: {
     h2: 'Android uygulaması',
-    sub: 'Anket, ses kaydı ve olasılıklarla birlikte tam rapor Stuk uygulamasında.',
+    sub: 'Anket, ses kaydı ve olasılıklarla birlikte tam rapor Pro-Stuk uygulamasında.',
     btn: 'Android için indir',
     meta: 'Sürüm {version} · APK {size} MB · güncellendi: {date}',
     installH: 'APK nasıl kurulur',
@@ -130,7 +130,7 @@ export const tr: Dict = {
     playNote: 'Uygulama Google Play’e girdiğinde bu sayfa güncellenecek.',
   },
   how: {
-    title: 'Sesle teşhis nasıl çalışır | Stuk',
+    title: 'Sesle teşhis nasıl çalışır | Pro-Stuk',
     description:
       'Süslemesiz anlatım: temel araç olarak anket, kaydın spektral analizi, bir dil modeli ' +
       've modellerin bilinen zayıf noktaları. Sonuç neden bir olasılıktır.',
@@ -140,7 +140,7 @@ export const tr: Dict = {
     formP:
       'Her teşhis sorularla başlar: ses ne zaman çıktı, neye benziyor, hıza, devre, frene, ' +
       'dönüşlere bağlı mı. Yanıtlar koca neden gruplarını eler — bu, kötü bir kaydın üstüne ' +
-      'kurulmuş her algoritmadan fazlasını verir. Bu yüzden Stuk’ta anket önce gelir ve ' +
+      'kurulmuş her algoritmadan fazlasını verir. Bu yüzden Pro-Stuk’ta anket önce gelir ve ' +
       'mantığı bir karar ağacıdır: her yanıt, bir sonraki daha dar soruya götürür.',
     recH2: 'Kayda ne oluyor',
     recP: [
@@ -159,7 +159,7 @@ export const tr: Dict = {
       'Aynı ses farklı arızalardan çıkabilir: poyra rulmanının uğultusu lastik sesiyle ' +
         'kolayca karışır, viraj demiri rotillerinin takırtısı ise süspansiyonun çok daha ' +
         'ciddi parçalarıyla. Bunları kesin olarak ayırmak ancak lifte mümkündür. Bu yüzden ' +
-        'Stuk teşhis koymaz ve kesinlik vaat etmez — olasılıkları dürüstçe dağıtır ve önce ' +
+        'Pro-Stuk teşhis koymaz ve kesinlik vaat etmez — olasılıkları dürüstçe dağıtır ve önce ' +
         'neye bakılacağını söyler.',
       'İyi bir kayıt tahmini güçlendirir ama ustanın yerini tutmaz. Raporu servise gitmeden ' +
         'önceki ikinci görüş sayın: ustayla konuşma somutlaşır, gereksiz onarım satmak ' +
@@ -173,13 +173,13 @@ export const tr: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Gizlilik politikası | Stuk',
+    title: 'Gizlilik politikası | Pro-Stuk',
     description:
-      'Stuk uygulamasında verilerinize ne oluyor: ses sunucuda işlenir ve analizden sonra ' +
+      'Pro-Stuk uygulamasında verilerinize ne oluyor: ses sunucuda işlenir ve analizden sonra ' +
       'saklanmaz, hesap yoktur, ölçümleme yoktur.',
     h1: 'Gizlilik politikası',
     intro:
-      'Stuk uygulaması en az veriyi toplar — teşhis için tam olarak ne gerekiyorsa onu.',
+      'Pro-Stuk uygulaması en az veriyi toplar — teşhis için tam olarak ne gerekiyorsa onu.',
     items: [
       {
         strong: 'Ses kaydı',
@@ -210,7 +210,7 @@ export const tr: Dict = {
     tagline: 'Arızayı sesinden bulun',
   },
   notFound: {
-    title: 'Sayfa bulunamadı — Stuk',
+    title: 'Sayfa bulunamadı — Pro-Stuk',
     description:
       'Sitede böyle bir sayfa yok. Ana sayfaya dönün ya da sese göre belirti rehberlerini açın.',
     h1: 'Sayfa bulunamadı',

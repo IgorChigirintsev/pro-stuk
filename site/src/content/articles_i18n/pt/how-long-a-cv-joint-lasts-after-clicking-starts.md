@@ -1,6 +1,6 @@
 ---
 title: "Quanto a junta homocinética dura depois que começam os estalos"
-metaTitle: "Quanto dura a homocinética depois dos estalos | Stuk"
+metaTitle: "Quanto dura a homocinética depois dos estalos | Pro-Stuk"
 description: "Orientação honesta sobre a vida da junta homocinética após os primeiros estalos: do que depende a margem, o que acelera a quebra e quando trocar."
 faq:
   - q: "A junta homocinética pode travar andando?"
@@ -141,7 +141,7 @@ crimpado adequado. São dois detalhes pequenos que decidem se o reparo dura
 anos ou meses.
 
 Se você quer saber em que etapa está sua junta, grave o som no aplicativo
-Stuk fazendo um círculo lento com o volante no fim de curso. O app cruza a
+Pro-Stuk fazendo um círculo lento com o volante no fim de curso. O app cruza a
 gravação com suas respostas a algumas perguntas e mostra as causas
 prováveis com um nível de urgência — o que facilita escolher entre ir
 amanhã e marcar com calma um dia desta semana.

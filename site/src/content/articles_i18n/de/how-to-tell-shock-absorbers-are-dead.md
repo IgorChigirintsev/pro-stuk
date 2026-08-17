@@ -1,6 +1,6 @@
 ---
 title: "Woran man erkennt, dass die Stoßdämpfer tot sind"
-metaTitle: "Sind die Stoßdämpfer tot? Die Prüfungen | Stuk"
+metaTitle: "Sind die Stoßdämpfer tot? Die Prüfungen | Pro-Stuk"
 description: "Nachschwingen, Durchschlagen in Schlaglöchern, längerer Bremsweg und Ölspuren — wie Sie den Zustand der Dämpfer in Minuten ohne Prüfstand beurteilen."
 faq:
   - q: "Funktioniert der Wipptest tatsächlich?"

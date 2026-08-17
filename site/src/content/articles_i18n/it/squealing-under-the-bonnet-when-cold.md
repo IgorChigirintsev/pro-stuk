@@ -1,6 +1,6 @@
 ---
 title: "Fischio nel vano motore a freddo"
-metaTitle: "Fischio nel vano motore a freddo: cause | Stuk"
+metaTitle: "Fischio nel vano motore a freddo: cause | Pro-Stuk"
 description: "Perché si sente un fischio nel vano motore a motore freddo che sparisce quando si scalda: cinghia, rulli, pompa acqua. Come trovare da soli la sorgente."
 faq:
   - q: "Perché il fischio sparisce quando il motore si scalda?"
@@ -149,6 +149,6 @@ distingue lo slittamento da un cuscinetto in pochi secondi, e ti risparmia
 una seconda visita.
 
 Se non sei sicuro se sia la cinghia o un cuscinetto, registra il fischio
-mattutino con l’app Stuk: confronta la registrazione con i rumori di
+mattutino con l’app Pro-Stuk: confronta la registrazione con i rumori di
 guasto tipici, tiene conto delle tue risposte e mostra le cause probabili
 con un livello di urgenza.

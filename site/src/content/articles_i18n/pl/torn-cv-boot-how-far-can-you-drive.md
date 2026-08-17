@@ -1,6 +1,6 @@
 ---
 title: "Rozdarta osłona przegubu: ile jeszcze da się przejechać"
-metaTitle: "Rozdarta osłona przegubu: ile jeszcze przejedzie auto | Stuk"
+metaTitle: "Rozdarta osłona przegubu: ile jeszcze przejedzie auto | Pro-Stuk"
 description: "Rozdarta osłona przegubu nie niszczy go od razu, ale uruchamia odliczanie. Ile kilometrów realnie zostało, od czego to zależy i co wychodzi taniej."
 faq:
   - q: "Ile przejedzie auto z rozdartą osłoną przegubu?"
@@ -98,6 +98,6 @@ już się pojawiło, opisano w artykule
 [czy można jeździć ze stukającym przegubem](/pl/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 A jeśli dźwięk już się pojawił i chcesz wiedzieć, czy to przegub
-zewnętrzny, czy coś innego — nagraj go w aplikacji Stuk podczas ruszania z
+zewnętrzny, czy coś innego — nagraj go w aplikacji Pro-Stuk podczas ruszania z
 kołami skręconymi do oporu: aplikacja zestawia nagranie z odpowiedziami na
 kilka pytań i pokazuje prawdopodobne przyczyny z procentami.

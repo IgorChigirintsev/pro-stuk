@@ -1,6 +1,6 @@
 ---
 title: "Grzechot pod samochodem przy przyspieszaniu"
-metaTitle: "Grzechot pod samochodem przy przyspieszaniu | Stuk"
+metaTitle: "Grzechot pod samochodem przy przyspieszaniu | Pro-Stuk"
 description: "Osłony termiczne, ocierający wydech, spalanie stukowe albo rozsypany katalizator: dlaczego przy przyspieszaniu pojawia się grzechot pod autem."
 faq:
   - q: "Jak odróżnić grzechot osłony termicznej od stuku silnika?"
@@ -124,7 +124,7 @@ oględzin polega na upewnieniu się, że to naprawdę ten przypadek — a nie
 spalanie stukowe w masce nieszkodliwego grzechotu.
 
 Nie masz pewności, czy to grzechot, czy dzwonek detonacji? Nagraj
-przyspieszanie w aplikacji Stuk — zestawia ona widmo dźwięku z twoimi
+przyspieszanie w aplikacji Pro-Stuk — zestawia ona widmo dźwięku z twoimi
 odpowiedziami o tym, kiedy się pojawia, i pokazuje prawdopodobne przyczyny
 wraz z poziomem pilności. Z takim nagraniem mechanik nie będzie musiał
 jeździć z tobą przez pół godziny w poszukiwaniu hałasu.

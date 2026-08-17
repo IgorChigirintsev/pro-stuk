@@ -1,6 +1,6 @@
 ---
 title: "Geratel in de motor bij het starten"
-metaTitle: "Geratel bij het starten: oorzaken en aanpak | Stuk"
+metaTitle: "Geratel bij het starten: oorzaken en aanpak | Pro-Stuk"
 description: "Waarom een motor ratelt bij het starten: de startmotor, nokkenasverstellers, de kettingspanner of de vrijlooppoelie. Hoe u ze onderscheidt op het moment."
 faq:
   - q: "Is geratel in de eerste seconden na het starten gevaarlijk?"

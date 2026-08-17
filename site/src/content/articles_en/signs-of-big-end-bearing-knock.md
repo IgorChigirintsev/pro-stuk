@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-shatunnogo-stuka"
 title: "Signs of big-end bearing knock"
-metaTitle: "Big-end knock: what it sounds like and what to do | Stuk"
+metaTitle: "Big-end knock: what it sounds like and what to do | Pro-Stuk"
 description: "How big-end bearing knock sounds, which signs come with it, what it is confused with and how the diagnosis is confirmed at a workshop."
 pubDate: "2026-08-02"
 related:
@@ -155,7 +155,7 @@ The economics are simple: the sooner you stop and check, the higher the
 chance of getting away with bearings and leaving the crankshaft alone.
 
 If you are unsure whether it is big-end knock or one of its lookalikes,
-record the engine in the Stuk app: it compares the recording with typical
+record the engine in the Pro-Stuk app: it compares the recording with typical
 knocks, asks clarifying questions and shows the likely causes with an
 urgency level. That does not replace a strip-down, but it helps you judge
 how urgently a workshop is needed.

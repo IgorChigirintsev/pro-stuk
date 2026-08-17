@@ -1,6 +1,6 @@
 ---
 title: "Un coup dans la transmission au lever et à la remise de gaz"
-metaTitle: "Coup dans la transmission gaz-frein : causes | Stuk"
+metaTitle: "Coup dans la transmission gaz-frein : causes | Pro-Stuk"
 description: "Un coup sourd au moment où vous levez le pied puis remettez du gaz, c'est un jeu de transmission qui se rattrape. Quelles pièces claquent et comment trier."
 faq:
   - q: "Pourquoi le coup ne s'entend-il que dans la circulation ?"
@@ -93,7 +93,7 @@ Et un soufflet déchiré repéré maintenant, avant que les claquements ne
 commencent, c'est la réparation la plus légère de toute cette liste.
 
 Si le coup est encore rare et que vous n'êtes pas sûr qu'il existe
-vraiment, enregistrez un trajet urbain dans l'application Stuk : la
+vraiment, enregistrez un trajet urbain dans l'application Pro-Stuk : la
 portion la plus utile est celle qui enchaîne plusieurs accélérations et
 arrêts. L'application croise l'enregistrement avec vos réponses sur le
 moment exact du coup et affiche les causes probables avec leurs

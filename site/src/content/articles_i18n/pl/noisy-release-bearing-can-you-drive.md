@@ -1,6 +1,6 @@
 ---
 title: "Hałasujące łożysko oporowe sprzęgła: czy można jeździć?"
-metaTitle: "Hałasujące łożysko sprzęgła: czy można jeździć | Stuk"
+metaTitle: "Hałasujące łożysko sprzęgła: czy można jeździć | Pro-Stuk"
 description: "Hałas łożyska oporowego przy wciśniętym sprzęgle: jak odróżnić go od innych dźwięków, jak długo można jeździć i co decyduje o zakresie naprawy."
 faq:
   - q: "Jak długo można jeździć z hałasującym łożyskiem oporowym?"
@@ -104,6 +104,6 @@ rejonie przy puszczaniu pedału, pokazuje
 [stuk przy puszczaniu sprzęgła](/pl/articles/knock-when-releasing-the-clutch/).
 
 Jeśli nie ma pewności, czy dźwięk naprawdę jest związany z pedałem, warto
-nagrać go aplikacją Stuk: dwa krótkie fragmenty, ze sprzęgłem wciśniętym i
+nagrać go aplikacją Pro-Stuk: dwa krótkie fragmenty, ze sprzęgłem wciśniętym i
 puszczonym. Aplikacja porównuje nagrania i podpowiada, w którą stronę
 patrzeć jeszcze przed dojazdem do warsztatu.

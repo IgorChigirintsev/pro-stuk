@@ -1,7 +1,7 @@
 ---
 ru: "gul-pri-povorote-napravo"
 title: "Humming when turning right"
-metaTitle: "Humming when turning right: causes and checks | Stuk"
+metaTitle: "Humming when turning right: causes and checks | Pro-Stuk"
 description: "If the hum grows in right-hand curves, the left wheel bearing is the suspect. A step-by-step check without a lift, the sound-alikes and what the repair involves."
 pubDate: "2026-07-19"
 related:
@@ -100,7 +100,7 @@ want to see. And on many modern cars the ABS sensor sits inside the hub
 assembly, which is why a failing bearing sometimes brings warning lights
 along with the noise.
 
-Not sure your ears are pointing the right way? Record the hum in the Stuk
+Not sure your ears are pointing the right way? Record the hum in the Pro-Stuk
 app during the lane changes: the app matches the recording with your
 answers and shows the likely causes with percentages and an urgency level
 — so you arrive with a hypothesis rather than “something is humming”.

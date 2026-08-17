@@ -1,6 +1,6 @@
 ---
 title: "Lift olmadan süspansiyon takırtısı nasıl bulunur"
-metaTitle: "Lift olmadan süspansiyon takırtısını bulmak | Stuk"
+metaTitle: "Lift olmadan süspansiyon takırtısını bulmak | Pro-Stuk"
 description: "Kanal ve lift olmadan süspansiyon takırtısını bulmak için adım adım plan: ses portresi, sallama testi, elle kontroller ve kontrollü bir sürüş."
 faq:
   - q: "Kanal ya da lift olmadan kaynağı gerçekten bulunabilir mi?"
@@ -159,7 +159,7 @@ gereksiz iş yazmasını
 [serviste fazla iş yazdırmamak](/tr/articles/avoiding-being-upsold-at-a-workshop/)
 yazısı anlatıyor.
 
-Takırtı hâlâ yerini ele vermiyorsa bir araç daha var: sesi giderken Stuk
+Takırtı hâlâ yerini ele vermiyorsa bir araç daha var: sesi giderken Pro-Stuk
 uygulamasıyla kaydedin. Uygulama kaydı, takırtının ne zaman ve hangi zeminde
 çıktığına dair cevaplarınızla eşleştirir ve olası sebepleri aciliyet
 düzeyiyle gösterir — hem garajdaki kontrol hem de ustayla konuşma için

@@ -1,6 +1,6 @@
 ---
 title: "Rumore del cambio Lada: il ronzio della quinta"
-metaTitle: "Cambio Lada: il ronzio della quinta spiegato | Stuk"
+metaTitle: "Cambio Lada: il ronzio della quinta spiegato | Pro-Stuk"
 description: "Ronzio in quinta sui cambi Lada: perché cede proprio il rapporto più alto, come distinguere il rumore del cambio da un cuscinetto ruota e cosa controllare."
 faq:
   - q: "Perché ronza proprio la quinta?"
@@ -98,7 +98,7 @@ mostrati i vecchi cuscinetti a lavoro finito. Dove passa la linea fra
 [si può guidare con un cambio che ronza?](/it/articles/can-you-drive-with-a-whining-gearbox/).
 
 Per non tirare a indovinare fra cambio e mozzo, registri il suono con
-l'app Stuk due volte: sotto carico in quinta e in rilascio in folle alla
+l'app Pro-Stuk due volte: sotto carico in quinta e in rilascio in folle alla
 stessa velocità. L'app confronta le registrazioni con le sue risposte e
 mostra le cause probabili con le percentuali, quanto basta per arrivare in
 officina con una domanda precisa invece che con un «ronza qualcosa».

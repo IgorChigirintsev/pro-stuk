@@ -1,6 +1,6 @@
 ---
 title: "Öten V kayışıyla araç kullanılır mı"
-metaTitle: "Öten V kayışıyla araç kullanılır mı? | Stuk"
+metaTitle: "Öten V kayışıyla araç kullanılır mı? | Pro-Stuk"
 description: "Öten V kayışı: daha ne kadar gidebilirsiniz, kayış koparsa ne olur, kayış aşınması gergi rulmanından nasıl ayrılır ve onarıma nasıl karar verilir."
 faq:
   - q: "Öten kayışla daha ne kadar yol yapabilirim?"
@@ -95,7 +95,7 @@ işareti vardır. Bunların ikisinden de bahsetmeyen bir servis tahmin
 yürütüyordur.
 
 Kayışınızın mı öttüğünden yoksa bir parçanın içindeki rulmanın mı
-uğulduğundan emin değilseniz, sesi Stuk uygulamasında soğuk çalıştırmada
+uğulduğundan emin değilseniz, sesi Pro-Stuk uygulamasında soğuk çalıştırmada
 kaydedin ve motor sıcakken tekrarlayın. İki kayıt arasındaki fark, sebep
 hakkında herhangi bir sözlü tariften daha çok şey söyler — uygulama da bunu
 birkaç sorunun cevaplarıyla eşleştirip olası sürümleri gösterir.

@@ -1,6 +1,6 @@
 ---
 title: "Fischio della cinghia dell'alternatore: le cause"
-metaTitle: "Fischio della cinghia servizi: cause e rimedi | Stuk"
+metaTitle: "Fischio della cinghia servizi: cause e rimedi | Pro-Stuk"
 description: "Perché la cinghia servizi fischia: tensione lenta, usura, olio sulle pulegge, rulli. Come risalire alla causa dal momento in cui compare il fischio."
 faq:
   - q: "Si può guidare con la cinghia servizi che fischia?"
@@ -144,6 +144,6 @@ sotto il carter della distribuzione, e lì le conseguenze diventano
 davvero costose.
 
 Quando a orecchio non è chiaro se sia la cinghia, un rullo o un cuscinetto
-di uno degli organi, registri il rumore con l'app Stuk: confronta la
+di uno degli organi, registri il rumore con l'app Pro-Stuk: confronta la
 registrazione con le sue risposte e mostra le cause probabili con un
 livello di urgenza, il che rende concreto il discorso in officina.

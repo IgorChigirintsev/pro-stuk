@@ -1,6 +1,6 @@
 ---
 title: "Hızda taban altından zangırtı"
-metaTitle: "Hızda taban altından zangırtı: neye bakılır | Stuk"
+metaTitle: "Hızda taban altından zangırtı: neye bakılır | Pro-Stuk"
 description: "Isı kalkanları, flex körük, egzoz askıları: hızda taban altından neden zangırtı gelir, kaynağı nasıl bulursunuz ve ihmal edilirse ne olur."
 faq:
   - q: "Zangırtı neden sadece belirli bir hızda çıkıyor?"
@@ -119,7 +119,7 @@ dayanacağını etkiler. Susturucu içten dağıldıysa, sistem kaynak mı
 yapılıyor yoksa kutu mu değişiyor diye sorun — kaynak daha ucuzdur ama
 buna yol açan korozyon genelde tek bir noktayla sınırlı değildir.
 
-Kaynağı hâlâ bulamıyorsanız, zangırtıyı tam olarak çıktığı hızda Stuk
+Kaynağı hâlâ bulamıyorsanız, zangırtıyı tam olarak çıktığı hızda Pro-Stuk
 uygulamasında kaydedin: uygulama kaydı koşullara dair cevaplarınızla
 eşleştirir ve muhtemel nedenleri aciliyet düzeyiyle gösterir. Elinizde o
 teoriyle serviste arama bir saat değil, dakikalar sürer.

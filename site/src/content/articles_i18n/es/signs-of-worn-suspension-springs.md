@@ -1,6 +1,6 @@
 ---
 title: "Señales de muelles de suspensión gastados"
-metaTitle: "Muelles de suspensión gastados: cómo verlos | Stuk"
+metaTitle: "Muelles de suspensión gastados: cómo verlos | Pro-Stuk"
 description: "Coche hundido, balanceo, tope en los baches: cómo saber que los muelles están cansados, cómo comprobarlos sin elevador y qué implica cambiarlos."
 faq:
   - q: "¿Puedo cambiar un solo muelle?"
@@ -132,6 +132,6 @@ tiempo, aunque vuelven la marcha algo más seca en las irregularidades
 pequeñas.
 
 Si no tiene claro si son los muelles u otra cosa, grabe con la aplicación
-Stuk el ruido de la suspensión al pasar baches: compara la grabación con
+Pro-Stuk el ruido de la suspensión al pasar baches: compara la grabación con
 sus respuestas y muestra las causas probables con un nivel de urgencia; con
 esa lista, la conversación en el taller es más corta y más concreta.

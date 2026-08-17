@@ -1,6 +1,6 @@
 ---
 title: "Hałas sprzęgła Haldex: objawy"
-metaTitle: "Sprzęgło Haldex: objawy hałasu i diagnostyka | Stuk"
+metaTitle: "Sprzęgło Haldex: objawy hałasu i diagnostyka | Pro-Stuk"
 description: "Jak brzmi męczące się sprzęgło Haldex, dlaczego chrzęst pojawia się przy manewrach na małej prędkości i czym różni się od klikania przegubu."
 faq:
   - q: "Czym hałas sprzęgła różni się od przegubu napędowego?"
@@ -101,7 +101,7 @@ głębokości bieżnika na obu osiach: rozjazd w tym miejscu daje dokładnie te
 objawy przy zdrowym zespole.
 
 Jeśli chrzęst w łukach pojawił się niedawno i nie wiadomo, czy dochodzi z
-przodu, czy z tyłu, nagraj dźwięk w aplikacji Stuk podczas manewru na
+przodu, czy z tyłu, nagraj dźwięk w aplikacji Pro-Stuk podczas manewru na
 pustym parkingu. Aplikacja zestawia nagranie z odpowiedziami i pokazuje
 prawdopodobne przyczyny w procentach — a to od razu zawęża poszukiwania do
 jednej osi.

@@ -1,6 +1,6 @@
 ---
 title: "Señales de bieletas de estabilizadora gastadas"
-metaTitle: "Bieletas gastadas: golpeteo y comprobaciones | Stuk"
+metaTitle: "Bieletas gastadas: golpeteo y comprobaciones | Pro-Stuk"
 description: "Cómo golpean las bieletas de la barra estabilizadora gastadas, en qué se diferencia su sonido del de amortiguadores y rótulas, pruebas sencillas y qué implica cambiarlas."
 faq:
   - q: "¿Cuál es la señal más característica de unas bieletas gastadas?"
@@ -135,6 +135,6 @@ maniobra brusca. Con lo barata que es la pieza, ahorrarse el cambio pocas
 veces se justifica.
 
 Si no tiene claro que sean las bieletas lo que golpea, grabe el sonido con
-la aplicación Stuk: compara la grabación con sus respuestas y muestra las
+la aplicación Pro-Stuk: compara la grabación con sus respuestas y muestra las
 causas probables con un nivel de urgencia; con esa lista, la conversación
 con el mecánico se vuelve concreta.

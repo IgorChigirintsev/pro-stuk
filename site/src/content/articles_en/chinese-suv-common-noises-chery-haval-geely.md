@@ -1,7 +1,7 @@
 ---
 ru: "kitajskie-krossovery-tipovye-shumy-chery-haval-geely"
 title: "Chinese SUVs: common noises on Chery, Haval and Geely"
-metaTitle: "Chinese SUV noises: Chery, Haval, Geely | Stuk"
+metaTitle: "Chinese SUV noises: Chery, Haval, Geely | Pro-Stuk"
 description: "Which noises show up most often on Chinese SUVs in their first years, what lies behind them and which check it makes sense to start from."
 pubDate: "2026-06-29"
 related:
@@ -99,7 +99,7 @@ and how it was found.
 
 Before the visit it helps to arrive with specifics rather than “something
 is knocking”: at what speed, on what surface, cold engine or warm. You can
-record the sound and break it down by conditions in the Stuk app — it
+record the sound and break it down by conditions in the Pro-Stuk app — it
 matches the recording with your answers to a few questions and shows the
 likely causes with percentages, which makes the conversation at the
 service desk noticeably easier.

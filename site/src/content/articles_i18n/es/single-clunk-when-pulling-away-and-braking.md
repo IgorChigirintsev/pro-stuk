@@ -1,6 +1,6 @@
 ---
 title: "Un golpe único al arrancar y al frenar"
-metaTitle: "Golpe único al arrancar y al frenar | Stuk"
+metaTitle: "Golpe único al arrancar y al frenar | Pro-Stuk"
 description: "De dónde sale un golpe único al iniciar la marcha y al detenerse: pastillas, pinza, soportes de motor, transmisión. Cómo comprobarlo y cómo se decide la reparación."
 faq:
   - q: "¿Por qué el golpe es único y no una serie?"
@@ -105,7 +105,7 @@ constante en cada bache, ese es el perfil de la página de síntoma
 [golpeteo en la suspensión](/es/symptoms/knocking-in-suspension/).
 
 Un sonido único es difícil de cazar durante un diagnóstico: es demasiado
-corto. Grábelo con la aplicación Stuk dentro del propio coche: unos cuantos
+corto. Grábelo con la aplicación Pro-Stuk dentro del propio coche: unos cuantos
 arranques y paradas dan material de sobra, y el algoritmo compara la
 grabación con sus respuestas y muestra las causas probables con un nivel de
 urgencia antes incluso de que pise el taller.

@@ -1,6 +1,6 @@
 ---
 title: "Chinese SUV's: veelvoorkomende geluiden bij Chery, Haval en Geely"
-metaTitle: "Geluiden bij Chinese SUV's: Chery, Haval, Geely | Stuk"
+metaTitle: "Geluiden bij Chinese SUV's: Chery, Haval, Geely | Pro-Stuk"
 description: "Welke geluiden bij Chinese SUV's in de eerste jaren het vaakst opduiken, wat erachter zit en met welke controle het zinvol is om te beginnen."
 faq:
   - q: "Maken Chinese SUV's meer geluid dan andere auto's?"

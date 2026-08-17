@@ -1,6 +1,6 @@
 ---
 title: "O escapamento ficou mais barulhento: as causas"
-metaTitle: "Escapamento mais barulhento: causas e solução | Stuk"
+metaTitle: "Escapamento mais barulhento: causas e solução | Pro-Stuk"
 description: "Silencioso furado, flexível rasgado, juntas e flanges: por que o escapamento ficou mais alto, o que isso ameaça e como se decide o conserto."
 faq:
   - q: "Por que os silenciosos furam de dentro para fora?"
@@ -122,7 +122,7 @@ lambda, então o consumo sobe — ou seja, quanto antes o vazamento for
 fechado, mais barato tudo fica, combustível incluído.
 
 Não tem certeza de que foi o escapamento que mudou de voz? Grave o carro
-funcionando no aplicativo Stuk: ele cruza a gravação com as suas respostas
+funcionando no aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas
 sobre quando o som fica mais alto e mostra as causas prováveis com nível
 de urgência — o que ajuda a escolher a oficina e a não pagar caro pela
 busca.

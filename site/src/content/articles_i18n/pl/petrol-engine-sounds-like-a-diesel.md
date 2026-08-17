@@ -1,6 +1,6 @@
 ---
 title: "Dlaczego silnik benzynowy zaczyna brzmieć jak diesel"
-metaTitle: "Silnik benzynowy brzmi jak diesel: przyczyny | Stuk"
+metaTitle: "Silnik benzynowy brzmi jak diesel: przyczyny | Pro-Stuk"
 description: "Dlaczego benzyniak zaczyna klekotać jak diesel: luzy zaworowe, rozciągnięty łańcuch, spalanie stukowe, wtrysk bezpośredni. Co sprawdzić i w jakiej kolejności."
 faq:
   - q: "Co to znaczy, że silnik benzynowy brzmi jak diesel?"
@@ -128,7 +128,7 @@ płytkami, które trzeba zmierzyć i zamówić pojedynczo — dlatego ta sama
 robota kosztuje bardzo różnie w dwóch autach podobnej wielkości.
 
 Jeśli chce się to zrozumieć przed wyjazdem, warto nagrać silnik aplikacją
-Stuk — na biegu jałowym oraz, jeśli da się to zrobić bezpiecznie, pod
+Pro-Stuk — na biegu jałowym oraz, jeśli da się to zrobić bezpiecznie, pod
 obciążeniem. Aplikacja zestawia nagranie z odpowiedziami na pytania i
 pokazuje prawdopodobne przyczyny z oceną pilności: łatwiej wtedy ocenić, czy
 chodzi o rutynową regulację, czy o spalanie stukowe, którego nie wolno

@@ -1,6 +1,6 @@
 ---
 title: "Ce qui arrive si vous roulez avec des poussoirs hydrauliques bruyants"
-metaTitle: "Poussoirs hydrauliques bruyants : rouler avec | Stuk"
+metaTitle: "Poussoirs hydrauliques bruyants : rouler avec | Pro-Stuk"
 description: "Un poussoir hydraulique qui cliquette ne détruit pas un moteur en un jour, mais il martèle la came et la soupape. Les scénarios, les délais et quoi contrôler."
 faq:
   - q: "Le bruit de poussoirs disparaît une fois le moteur chaud. Est-ce normal ?"
@@ -101,7 +101,7 @@ stade-là, le moteur a généralement aussi perdu de la puissance, parce
 qu'une came usée n'ouvre plus complètement la soupape.
 
 Si le cliquetis n'apparaît qu'à froid et que vous voulez savoir si cela
-entre dans la normale, enregistrez le son dans l'application Stuk juste
+entre dans la normale, enregistrez le son dans l'application Pro-Stuk juste
 après le démarrage puis de nouveau après cinq minutes de fonctionnement.
 L'application compare les deux enregistrements avec vos réponses sur le
 moteur et son kilométrage et affiche les causes probables avec leurs

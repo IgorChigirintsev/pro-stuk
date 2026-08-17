@@ -1,6 +1,6 @@
 ---
 title: "Molle cedute: i sintomi"
-metaTitle: "Molle cedute: sintomi, controlli, sostituzione | Stuk"
+metaTitle: "Molle cedute: sintomi, controlli, sostituzione | Pro-Stuk"
 description: "Come capire che le molle sono cedute: misure dell'altezza da terra, comportamento dell'auto, segni indiretti. Cosa si rischia e cosa comporta la sostituzione."
 faq:
   - q: "Perché le molle cedono?"
@@ -133,6 +133,6 @@ sospensione. Su un'auto in cui la sicurezza conta più dell'estetica non
 hanno posto.
 
 Se l'auto si è abbassata e insieme sono comparsi colpi inspiegabili, parta da
-una registrazione con l'app Stuk: confronta il suono con le sue risposte sul
+una registrazione con l'app Pro-Stuk: confronta il suono con le sue risposte sul
 comportamento dell'auto e mostra le cause probabili con un livello di
 urgenza, il che rende più facile decidere cosa sostituire per primo.

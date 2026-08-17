@@ -1,6 +1,6 @@
 ---
 title: "Colpo che si sente nel pedale del freno"
-metaTitle: "Colpo nel pedale del freno: le cause | Stuk"
+metaTitle: "Colpo nel pedale del freno: le cause | Pro-Stuk"
 description: "Colpi e ritorni nel pedale del freno possono essere il normale intervento dell'ABS oppure gioco nella pinza o nel treno anteriore. Come distinguerli."
 faq:
   - q: "Il pedale batte e vibra in frenata forte: è un guasto?"
@@ -102,6 +102,6 @@ nuove, perché è proprio quello che impedisce alla pastiglia di muoversi.
 
 Capire a orecchio se batte una pinza o un braccio è difficile anche per un
 automobilista esperto: il suono arriva attraverso la scocca e perde il suo
-indirizzo. Una registrazione fatta con l'app Stuk durante una serie di
+indirizzo. Una registrazione fatta con l'app Pro-Stuk durante una serie di
 frenate, insieme alle risposte a poche domande, restituisce una lista di
 cause probabili con le rispettive percentuali.

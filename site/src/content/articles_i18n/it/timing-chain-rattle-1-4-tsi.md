@@ -1,6 +1,6 @@
 ---
 title: "Sferragliare della catena sui 1.4 TSI: il difetto e la soluzione"
-metaTitle: "Catena 1.4 TSI che sferraglia: cause e rimedio | Stuk"
+metaTitle: "Catena 1.4 TSI che sferraglia: cause e rimedio | Pro-Stuk"
 description: "Perché i primi 1.4 TSI a catena sferragliano all'avviamento a freddo, come distinguere una catena allungata da altri battiti e che cosa comporta la riparazione."
 faq:
   - q: "Perché la catena sferraglia solo nei primi secondi dopo l'avviamento?"
@@ -107,7 +107,7 @@ la più cara: il funzionamento della distribuzione dipende direttamente da
 quanto in fretta l'impianto costruisce pressione.
 
 Se lo sferragliare all'avviamento è comparso di recente e vuole sapere se è
-proprio quel suono, lo registri nell'app Stuk subito dopo un avviamento a
+proprio quel suono, lo registri nell'app Pro-Stuk subito dopo un avviamento a
 freddo, prima che il motore si scaldi. L'app incrocia la registrazione con
 le sue risposte e mostra le cause probabili in percentuale: quanto basta
 per arrivare in officina con un'ipotesi precisa invece che con

@@ -1,6 +1,6 @@
 ---
 title: "Stukanie po wymianie opon: co sprawdzić"
-metaTitle: "Stukanie po wymianie opon: przyczyny i kontrola | Stuk"
+metaTitle: "Stukanie po wymianie opon: przyczyny i kontrola | Pro-Stuk"
 description: "Skąd bierze się stukanie po wizycie w wulkanizacji: moment dokręcenia kół, ciężarki, kamień w bieżniku, krzywa felga. Co sprawdzić samemu, a kiedy wracać."
 faq:
   - q: "Po co dokręcać koła po 50–100 km?"
@@ -120,6 +120,6 @@ Strony objawów
 przyczyny według charakteru dźwięku i warunków.
 
 Jeśli stukanie nadal nie chce się przedstawić, trzeba je nagrać: włączyć
-nagrywanie w aplikacji Stuk i przejechać znany nierówny odcinek. Aplikacja
+nagrywanie w aplikacji Pro-Stuk i przejechać znany nierówny odcinek. Aplikacja
 zestawi dźwięk z odpowiedziami — kiedy się pojawił, gdzie stuka, co
 zmieniano — i pokaże prawdopodobne przyczyny w procentach.

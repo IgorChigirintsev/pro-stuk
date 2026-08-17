@@ -1,6 +1,6 @@
 ---
 title: "Süspansiyonu kulakla teşhis: tam kontrol listesi"
-metaTitle: "Kulakla süspansiyon teşhisi: kontrol listesi | Stuk"
+metaTitle: "Kulakla süspansiyon teşhisi: kontrol listesi | Pro-Stuk"
 description: "Lift olmadan adım adım süspansiyon kontrolü: bastırma testi, küçük tümsekler, büyük tümsekler, park hâlinde direksiyon, slalom. Ses-parça tablosuyla."
 faq:
   - q: "Lift olmadan süspansiyon arızası bulunur mu?"
@@ -98,7 +98,7 @@ etmek, sonra da aynı terimlerle anlatmak da işe yarar —
 yazısı, işe yarayan ifadeleri topluyor.
 
 Kontrol listesini bir kayıtla geçmek daha kolaydır: tümsekler üzerinden
-geçerken Stuk uygulamasında kaydı başlatın ve hız ile koşullara dair
+geçerken Pro-Stuk uygulamasında kaydı başlatın ve hız ile koşullara dair
 soruları yanıtlayın. Uygulama sesi yanıtlarınızla eşleştirir ve olası
 nedenleri yüzdelerle gösterir — ustaya götürdüğünüz liste de kısa ve somut
 olur.

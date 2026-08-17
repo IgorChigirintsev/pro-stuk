@@ -1,6 +1,6 @@
 ---
 title: "Cómo encontrar una pantalla térmica que traquetea"
-metaTitle: "Pantalla térmica que traquetea: cómo encontrarla | Stuk"
+metaTitle: "Pantalla térmica que traquetea: cómo encontrarla | Pro-Stuk"
 description: "Un traqueteo metálico en una banda estrecha de vueltas suele ser una pantalla térmica floja. Cómo encontrarla en diez minutos y cómo se fija bien."
 faq:
   - q: "¿Por qué una pantalla traquetea solo a ciertas vueltas?"
@@ -104,7 +104,7 @@ barato, pero la corrosión que causó el fallo pocas veces es local, y eso
 conviene preguntarlo antes de aceptar.
 
 Si oye el traqueteo pero no consigue reproducirlo con el coche parado —porque
-solo asoma en marcha, por ejemplo—, grabe el sonido con la aplicación Stuk
+solo asoma en marcha, por ejemplo—, grabe el sonido con la aplicación Pro-Stuk
 mientras conduce. La aplicación compara la grabación con sus respuestas sobre
 a qué sigue el ruido y sugiere qué inspeccionar primero, para que nadie pague
 por una búsqueda a ciegas.

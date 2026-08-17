@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo: ¿rótula o silentblock? Cómo distinguirlos"
-metaTitle: "Golpeteo: ¿rótula o silentblock? Cómo distinguirlos | Stuk"
+metaTitle: "Golpeteo: ¿rótula o silentblock? Cómo distinguirlos | Pro-Stuk"
 description: "Un golpeteo de suspensión al pasar baches: cómo distinguir una rótula gastada de un silentblock gastado por el sonido, pruebas sencillas y revisión en elevador."
 faq:
   - q: "¿En qué se diferencia de oído un golpe de rótula de uno de silentblock?"
@@ -143,7 +143,7 @@ coche sobre las ruedas: apretados con la suspensión colgando, la goma vive
 retorcida y se rompe en meses.
 
 Si el golpeteo ya está ahí y no está seguro, grabe el sonido con la aplicación
-Stuk. Compara la grabación con sus respuestas sobre cuándo golpea —al pasar
+Pro-Stuk. Compara la grabación con sus respuestas sobre cuándo golpea —al pasar
 baches, al frenar o en curva— y muestra las causas probables con un nivel de
 urgencia. Con eso se puede ir a un taller y hacer que comprueben piezas
 concretas en lugar de buscar a ciegas.

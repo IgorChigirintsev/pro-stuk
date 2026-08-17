@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo en la suspensión con frío"
-metaTitle: "Golpeteo en la suspensión con frío: qué hacer | Stuk"
+metaTitle: "Golpeteo en la suspensión con frío: qué hacer | Pro-Stuk"
 description: "Por qué la suspensión golpetea con heladas y se calla al calentarse: goma endurecida, aceite espeso en los amortiguadores, plásticos. Qué es peligroso y qué no."
 faq:
   - q: "El golpeteo desaparece al calentarse, ¿puedo ignorarlo?"
@@ -107,7 +107,7 @@ predecible ante los saltos de temperatura. El poliuretano se gana su
 sitio allí donde las piezas de origen no aguantan ni una temporada.
 
 Si no sabe si es normal o desgaste, grabe el golpeteo matinal en la
-aplicación Stuk mientras conduce. El algoritmo cruza el sonido con sus
+aplicación Pro-Stuk mientras conduce. El algoritmo cruza el sonido con sus
 respuestas sobre temperatura y condiciones y muestra las causas
 probables con un nivel de urgencia: así es más fácil decidir si ir ahora
 o esperar con calma a una visita programada.

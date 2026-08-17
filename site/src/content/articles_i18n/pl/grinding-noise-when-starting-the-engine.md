@@ -1,6 +1,6 @@
 ---
 title: "Zgrzyt przy rozruchu silnika"
-metaTitle: "Zgrzyt przy rozruchu: rozrusznik, wieniec, łańcuch | Stuk"
+metaTitle: "Zgrzyt przy rozruchu: rozrusznik, wieniec, łańcuch | Pro-Stuk"
 description: "Zgrzyt przy rozruchu silnika: bendiks rozrusznika, wieniec koła zamachowego, łańcuch rozrządu. Jak znaleźć źródło po momencie pojawienia się dźwięku."
 faq:
   - q: "Dlaczego zgrzyt nie pojawia się przy każdym rozruchu?"
@@ -117,6 +117,6 @@ zaworów z tłokami. Oba scenariusze rozwijają się przez tygodnie i miesiące
 i oba są znacznie tańsze do zatrzymania na początku.
 
 Jeśli nie ma pewności, w którym momencie mieszka zgrzyt, nagraj rozruch w
-aplikacji Stuk: algorytm zestawia dźwięk z odpowiedziami i pokazuje
+aplikacji Pro-Stuk: algorytm zestawia dźwięk z odpowiedziami i pokazuje
 prawdopodobne przyczyny wraz z poziomem pilności — dzięki temu do warsztatu
 przyjeżdża się z roboczą hipotezą, a nie ze zgadywanką.

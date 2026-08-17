@@ -1,6 +1,6 @@
 ---
 title: "Stridio girando il volante a fine corsa"
-metaTitle: "Stridio girando il volante a fine corsa: cause | Stuk"
+metaTitle: "Stridio girando il volante a fine corsa: cause | Pro-Stuk"
 description: "Perché l’auto stride quando si gira il volante fino a fine corsa: la cinghia, la pompa del servosterzo o un livello di olio basso. Quando è normale e quando no."
 faq:
   - q: "Fa male tenere il volante a fine corsa?"
@@ -109,6 +109,6 @@ cinghia crepata si sostituisce senza aspettare che si spezzi —
 [si può guidare con la cinghia che fischia](/it/articles/can-you-drive-with-a-squealing-belt/).
 
 Non sei sicuro se sia la cinghia o la pompa? Registra lo stridio con l’app
-Stuk: fai una registrazione con il volante a fine corsa, rispondi a qualche
+Pro-Stuk: fai una registrazione con il volante a fine corsa, rispondi a qualche
 domanda e l’app confronta il rumore con i profili di guasto tipici e mostra
 le cause probabili con un livello di urgenza.

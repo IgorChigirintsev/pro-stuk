@@ -1,6 +1,6 @@
 ---
 title: "Barulhos depois de trocar as pastilhas: o que é normal"
-metaTitle: "Barulhos após trocar as pastilhas: o normal | Stuk"
+metaTitle: "Barulhos após trocar as pastilhas: o normal | Pro-Stuk"
 description: "Pastilhas novas quase sempre fazem barulho nas primeiras centenas de quilômetros. Quais sons são do assentamento e quais apontam erro de montagem."
 faq:
   - q: "Por quanto tempo pastilhas novas podem fazer barulho?"
@@ -105,7 +105,7 @@ mecanismo, e nesse caso você volta à oficina na hora, sem tentar «amaciar» �
 [dá para rodar com os freios rangendo](/pt/articles/can-you-drive-with-grinding-brakes/).
 
 Para não ficar adivinhando se o barulho está dentro do normal, grave-o no
-aplicativo Stuk no primeiro dia após a troca e de novo duas semanas depois.
+aplicativo Pro-Stuk no primeiro dia após a troca e de novo duas semanas depois.
 Comparar as duas gravações mostra a tendência com mais clareza do que
 qualquer impressão: ruído de assentamento enfraquece bastante nesse tempo,
 enquanto um defeito fica onde está ou cresce.

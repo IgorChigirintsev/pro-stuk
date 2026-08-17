@@ -1,6 +1,6 @@
 ---
 title: "Que dire au mécanicien : décrire un bruit correctement"
-metaTitle: "Décrire un bruit de voiture à un mécanicien | Stuk"
+metaTitle: "Décrire un bruit de voiture à un mécanicien | Pro-Stuk"
 description: "Comment décrire un bruit pour qu'un mécanicien comprenne du premier coup : les cinq points qui comptent, les formulations qui marchent et les erreurs."
 faq:
   - q: "Faut-il nommer la pièce que je soupçonne ?"
@@ -111,7 +111,7 @@ soupçon. « Nous n'avons pas réussi à le reproduire, revenez quand il sera
 permanent » est une réponse honnête, et plus économique qu'une liste de
 travaux spéculatifs.
 
-Si rassembler tout cela sur le moment est malaisé, l'application Stuk pose
+Si rassembler tout cela sur le moment est malaisé, l'application Pro-Stuk pose
 exactement ces questions dans l'ordre et assemble les réponses avec
 l'enregistrement en une seule fiche : caractère, emplacement, conditions,
 ce que ça suit, et les causes probables avec leurs pourcentages. Montrer

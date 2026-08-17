@@ -1,6 +1,6 @@
 ---
 title: "Motor sadece soğukken vuruyor: tam tablo"
-metaTitle: "Motor sadece soğukken vuruyor: tam tablo | Stuk"
+metaTitle: "Motor sadece soğukken vuruyor: tam tablo | Pro-Stuk"
 description: "Motor çalıştırınca neden vurur, ısınınca neden susar: külbütörler, piston etekleri, zincir, eksantrik ayarlayıcı. Normal nerede biter, çizik nerede başlar."
 faq:
   - q: "Vuruntu neden tam da motor ısınınca kayboluyor?"
@@ -107,7 +107,7 @@ Silindirlerin endoskop fotoğraflarını kendi gözünüzle görmeyi istemekte f
 var — tamirle revizyon arasındaki kararı veren tek bulgu odur.
 
 Fiyat teklifinin hangi kaleminden başlayacağınızı tahmin etmemek için soğuk
-çalıştırmayı Stuk uygulamasıyla kaydedin — sabah ilk iş, kaputun başında.
+çalıştırmayı Pro-Stuk uygulamasıyla kaydedin — sabah ilk iş, kaputun başında.
 Uygulama sesi koşullara verdiğiniz cevaplarla eşleştirip olası sebepleri
 yüzdesi ve aciliyet düzeyiyle gösterir: bununla serviste somut bir konuşma
 yapabilirsiniz.

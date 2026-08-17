@@ -1,6 +1,6 @@
 ---
 title: "SUV chinos: ruidos típicos en Chery, Haval y Geely"
-metaTitle: "Ruidos de los SUV chinos: Chery, Haval, Geely | Stuk"
+metaTitle: "Ruidos de los SUV chinos: Chery, Haval, Geely | Pro-Stuk"
 description: "Qué ruidos aparecen con más frecuencia en los SUV chinos durante sus primeros años, qué hay detrás de cada uno y por qué comprobación conviene empezar."
 faq:
   - q: "¿Los SUV chinos hacen más ruido que los demás?"
@@ -97,7 +97,7 @@ holgura y cómo se localizó.
 
 Antes de la visita ayuda llegar con datos concretos en vez de con «algo hace
 ruido»: a qué velocidad, sobre qué firme, con el motor frío o caliente. Puede
-grabar el sonido y desglosarlo por condiciones con la aplicación Stuk:
+grabar el sonido y desglosarlo por condiciones con la aplicación Pro-Stuk:
 compara la grabación con sus respuestas a unas cuantas preguntas y muestra
 las causas probables con porcentajes, lo que hace bastante más fácil la
 conversación en el mostrador de recepción.

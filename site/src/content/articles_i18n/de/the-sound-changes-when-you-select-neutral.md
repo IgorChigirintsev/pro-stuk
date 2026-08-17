@@ -1,6 +1,6 @@
 ---
 title: "Der Ton ändert sich beim Einlegen von Neutral"
-metaTitle: "Ton ändert sich in Neutral: was das heißt | Stuk"
+metaTitle: "Ton ändert sich in Neutral: was das heißt | Pro-Stuk"
 description: "Sie haben während der Fahrt Neutral eingelegt und der Ton hat sich geändert. Was das über die Quelle sagt, wie der Test läuft und was er ausschließt."
 faq:
   - q: "Ist es sicher, während der Fahrt Neutral einzulegen?"

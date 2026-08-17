@@ -1,6 +1,6 @@
 ---
 title: "Signes d'usure des butées de suspension"
-metaTitle: "Butées de suspension usées : les signes | Stuk"
+metaTitle: "Butées de suspension usées : les signes | Pro-Stuk"
 description: "Craquement et claquement quand vous tournez le volant, coups sourds sur les bosses : reconnaître une butée de suspension usée et comprendre ce qui décide la réparation."
 faq:
   - q: "Comment savoir si c'est la butée et non l'amortisseur ?"
@@ -142,7 +142,7 @@ forcer le volant. La réparation ne fait que renchérir, donc il n'y a aucun
 intérêt à étirer l'affaire au-delà de quelques semaines.
 
 Si quelque chose craque ou cogne en haut et que le coupable n'est pas
-évident, enregistrez le bruit dans l'application Stuk. Elle croise
+évident, enregistrez le bruit dans l'application Pro-Stuk. Elle croise
 l'enregistrement avec vos réponses et affiche les causes probables avec un
 niveau d'urgence, pour que le garage contrôle des pièces précises plutôt que
 tout à la fois.

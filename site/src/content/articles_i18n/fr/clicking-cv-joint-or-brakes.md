@@ -1,6 +1,6 @@
 ---
 title: "Des claquements : cardan ou freins"
-metaTitle: "Claquements en roulant : cardan ou freins | Stuk"
+metaTitle: "Claquements en roulant : cardan ou freins | Pro-Stuk"
 description: "Des claquements en virage et au démarrage viennent aussi bien du cardan extérieur que des freins. Comment séparer les deux théories par les conditions."
 faq:
   - q: "Ça claque seulement en braquage serré, c'est forcément le cardan ?"
@@ -98,7 +98,7 @@ plaquette de vibrer sont des consommables, et des plaquettes montées sans
 eux se remettent à claquer au bout de quelques semaines.
 
 Si les claquements sont occasionnels et ne se reproduisent pas sur le
-pont, enregistrez le son dans l'application Stuk pendant un cercle lent
+pont, enregistrez le son dans l'application Pro-Stuk pendant un cercle lent
 avec un filet de gaz, puis séparément au premier appui sur la pédale. À
 partir de ces deux enregistrements, l'application affiche les causes
 probables avec leurs pourcentages et suggère quel ensemble regarder en

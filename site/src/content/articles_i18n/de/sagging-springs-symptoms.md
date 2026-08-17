@@ -1,6 +1,6 @@
 ---
 title: "Gesackte Federn: die Symptome"
-metaTitle: "Gesackte Federn: Symptome, Prüfung, Tausch | Stuk"
+metaTitle: "Gesackte Federn: Symptome, Prüfung, Tausch | Pro-Stuk"
 description: "Woran Sie erkennen, dass die Federn gesackt sind: Messung der Fahrhöhe, Verhalten des Autos, indirekte Zeichen — und was der Tausch bedeutet."
 faq:
   - q: "Warum sacken Federn?"

@@ -1,6 +1,6 @@
 ---
 title: "Tikkende G4FC in Solaris en Rio: normaal of krassen in de cilinders"
-metaTitle: "G4FC tikt: normaal of cilinderkrassen | Stuk"
+metaTitle: "G4FC tikt: normaal of cilinderkrassen | Pro-Stuk"
 description: "De G4FC tikt stationair: waar het normale geratel van de verstuivers ophoudt en een zorgelijk geluid begint. Normaal versus krassen, en wat u controleert."
 faq:
   - q: "Is tikken bij een G4FC normaal?"

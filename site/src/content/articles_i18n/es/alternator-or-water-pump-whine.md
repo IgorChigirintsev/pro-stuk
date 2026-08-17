@@ -1,6 +1,6 @@
 ---
 title: "Alternador o bomba de agua: cómo distinguir el zumbido"
-metaTitle: "Zumbido: ¿alternador o bomba de agua? | Stuk"
+metaTitle: "Zumbido: ¿alternador o bomba de agua? | Pro-Stuk"
 description: "El alternador y la bomba de agua van en la misma correa y zumban igual. Las comprobaciones que los separan en diez minutos y qué arriesga cada versión."
 faq:
   - q: "¿Cómo distingo el zumbido del alternador del de la bomba de agua sin desmontar nada?"
@@ -96,7 +96,7 @@ que se desmonte tras un servicio largo. Es una pieza pequeña al lado de
 la mano de obra que ya se está pagando.
 
 La forma más fácil de captar la diferencia es una grabación: haga dos
-archivos cortos en la aplicación Stuk, al ralentí sin carga y medio
+archivos cortos en la aplicación Pro-Stuk, al ralentí sin carga y medio
 minuto después de encender las luces y la calefacción. La aplicación los
 compara con sus respuestas y muestra las causas probables con
 porcentajes, de modo que llegue con una hipótesis en lugar de un genérico

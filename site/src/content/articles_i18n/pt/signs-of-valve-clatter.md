@@ -1,6 +1,6 @@
 ---
 title: "Sinais de batida de válvulas"
-metaTitle: "Batida de válvulas: como soa e o que fazer | Stuk"
+metaTitle: "Batida de válvulas: como soa e o que fazer | Pro-Stuk"
 description: "Como soa a batida das válvulas, por que a folga se altera, como diferenciar de outros barulhos e o que envolve a regulagem de válvulas."
 faq:
   - q: "Como soa a batida de válvulas?"
@@ -133,6 +133,6 @@ quer dizer que está tudo bem» não vale para válvulas: a checagem programada
 é mais barata que qualquer um dos dois roteiros.
 
 Se o motor começou a tiquetear e você quer saber se são as válvulas, os
-tuchos ou os bicos, grave o som no aplicativo Stuk. Ele cruza a gravação
+tuchos ou os bicos, grave o som no aplicativo Pro-Stuk. Ele cruza a gravação
 com as suas respostas e mostra as causas prováveis com nível de urgência —
 um ponto de partida cômodo antes de conversar com o mecânico.

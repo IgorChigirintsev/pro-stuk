@@ -1,6 +1,6 @@
 ---
 title: "Chasquidos: ¿junta homocinética o frenos?"
-metaTitle: "Chasquidos en marcha: ¿junta homocinética o frenos? | Stuk"
+metaTitle: "Chasquidos en marcha: ¿junta homocinética o frenos? | Pro-Stuk"
 description: "Los chasquidos en curva y al arrancar vienen tanto de la junta homocinética exterior como de los frenos. Cómo separar las teorías según las condiciones."
 faq:
   - q: "Chasquidos solo en giro cerrado, ¿es seguro que es la junta homocinética?"
@@ -95,7 +95,7 @@ impiden que una pastilla vibre son consumibles, y unas pastillas montadas sin
 ellos empiezan a chasquear otra vez en unas semanas.
 
 Si los chasquidos son ocasionales y no se pueden reproducir en el elevador,
-grabe el sonido con la aplicación Stuk durante un círculo lento con poco gas
+grabe el sonido con la aplicación Pro-Stuk durante un círculo lento con poco gas
 y, aparte, al primer toque del pedal. Con esas dos grabaciones la aplicación
 muestra las causas probables con porcentajes y sugiere por qué componente
 mirar primero.

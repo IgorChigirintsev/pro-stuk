@@ -1,6 +1,6 @@
 ---
 title: "Corrente de comando arrebentada: consequências por motor"
-metaTitle: "Corrente de comando arrebentada: consequências | Stuk"
+metaTitle: "Corrente de comando arrebentada: consequências | Pro-Stuk"
 description: "O que acontece com o motor quando a corrente de comando arrebenta ou pula dente, e por que uns motores só pedem corrente nova e outros retífica do cabeçote."
 faq:
   - q: "Todo motor entorta válvula quando a corrente arrebenta?"
@@ -100,6 +100,6 @@ O que o chocalho significa enquanto ainda é só chocalho está em
 
 Se apareceu chocalho na partida fria e você não tem certeza se é a
 corrente ou algo inofensivo, grave os primeiros cinco segundos do motor no
-aplicativo Stuk. O app cruza a gravação com as suas respostas e mostra as
+aplicativo Pro-Stuk. O app cruza a gravação com as suas respostas e mostra as
 causas prováveis com porcentagem — nesse estágio a diferença na decisão se
 mede pelo preço de um motor inteiro.

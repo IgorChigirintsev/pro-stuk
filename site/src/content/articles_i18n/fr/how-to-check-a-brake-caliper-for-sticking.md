@@ -1,6 +1,6 @@
 ---
 title: "Comment contrôler si un étrier de frein grippe"
-metaTitle: "Contrôler si un étrier de frein grippe | Stuk"
+metaTitle: "Contrôler si un étrier de frein grippe | Pro-Stuk"
 description: "Les signes d'un étrier de frein grippé : test en roue libre, température des roues, voiture qui tire au freinage et l'odeur. Ce que fait un garage."
 faq:
   - q: "Jusqu'où un disque peut-il chauffer normalement ?"
@@ -107,7 +107,7 @@ le moyeu. Une réfection pèse moins lourd que le remplacement du disque,
 des plaquettes et de l'étrier ensemble plus tard.
 
 Si un bruit nouveau est apparu en même temps et que vous voulez le
-capturer avant la visite, lancez un enregistrement dans l'application Stuk
+capturer avant la visite, lancez un enregistrement dans l'application Pro-Stuk
 et faites un tour d'essai. L'application croise le son avec vos réponses
 sur les conditions et affiche les causes probables avec leurs
 pourcentages — et l'enregistrement reste au mécanicien, à la place d'une

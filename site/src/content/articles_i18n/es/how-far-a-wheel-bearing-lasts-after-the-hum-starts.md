@@ -1,6 +1,6 @@
 ---
 title: "Cuánto dura un rodamiento de rueda desde que empieza el zumbido"
-metaTitle: "Cuánto dura un rodamiento de rueda con zumbido | Stuk"
+metaTitle: "Cuánto dura un rodamiento de rueda con zumbido | Pro-Stuk"
 description: "Desde el primer zumbido de un rodamiento de rueda hasta una holgura peligrosa suelen pasar miles de kilómetros. De qué depende el margen y qué lo anula."
 faq:
   - q: "¿Cuántos kilómetros se pueden hacer con un rodamiento zumbando?"
@@ -96,7 +96,7 @@ mientras que el ejemplo más caro de ignorar sonidos es el motor, en
 [¿se puede circular con la cadena de distribución estirada?](/es/articles/can-you-drive-with-a-stretched-timing-chain/).
 
 Si quiere seguir la tendencia en lugar de adivinar, grabe el sonido con la
-aplicación Stuk cada par de semanas en el mismo tramo de carretera y a la
+aplicación Pro-Stuk cada par de semanas en el mismo tramo de carretera y a la
 misma velocidad. La aplicación compara las grabaciones con sus respuestas y
 muestra las causas probables con porcentajes, y comparar las grabaciones entre
 sí responde con honradez a si el coche se mantiene estable o ya ha pasado a la

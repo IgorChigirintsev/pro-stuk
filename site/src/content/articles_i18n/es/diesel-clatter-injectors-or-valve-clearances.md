@@ -1,6 +1,6 @@
 ---
 title: "Ruido a diésel: ¿inyectores o holguras de válvulas?"
-metaTitle: "Ruido a diésel: ¿inyectores o taqués? | Stuk"
+metaTitle: "Ruido a diésel: ¿inyectores o taqués? | Pro-Stuk"
 description: "Un motor de gasolina ha empezado a sonar como un diésel: cuándo tienen la culpa los inyectores, cuándo las holguras de válvulas y cómo separarlos de oído."
 faq:
   - q: "¿Por qué un motor de gasolina suena como un diésel?"
@@ -108,7 +108,7 @@ pequeña, y hacerlo más adelante significa pagar dos veces el mismo desmontaje.
 
 El ruido a diésel es un caso en el que describir el sonido con palabras es
 casi imposible y grabarlo es fácil. Haga dos grabaciones con la aplicación
-Stuk: justo después de un arranque en frío y tras diez minutos de
+Pro-Stuk: justo después de un arranque en frío y tras diez minutos de
 funcionamiento. La aplicación las examina por frecuencia y carácter y muestra
 las causas probables con porcentajes, para que llegue al taller con una teoría
 concreta.

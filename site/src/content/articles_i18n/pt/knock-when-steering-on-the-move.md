@@ -1,6 +1,6 @@
 ---
 title: "Batida ao esterçar com o carro andando"
-metaTitle: "Batida ao esterçar com o carro andando | Stuk"
+metaTitle: "Batida ao esterçar com o carro andando | Pro-Stuk"
 description: "O que bate quando você gira o volante rodando: junta homocinética, pivô, coxim do amortecedor ou a caixa. Como separar as causas pelo som."
 faq:
   - q: "Estalos na curva com o pé no acelerador são junta homocinética com certeza?"
@@ -106,6 +106,6 @@ A análise geral das batidas do trem rodante está na página de sintoma
 [batidas na suspensão](/pt/symptoms/knocking-in-suspension/).
 
 Não consegue descrever o som com segurança em palavras? Grave ele no
-aplicativo Stuk durante a própria manobra: o app cruza a gravação com as
+aplicativo Pro-Stuk durante a própria manobra: o app cruza a gravação com as
 suas respostas e mostra as causas prováveis com porcentagens e um nível de
 urgência.

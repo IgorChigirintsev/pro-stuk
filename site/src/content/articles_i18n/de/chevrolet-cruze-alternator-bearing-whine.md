@@ -1,6 +1,6 @@
 ---
 title: "Chevrolet Cruze: Heulen des Lichtmaschinenlagers"
-metaTitle: "Cruze: Heulen des Lichtmaschinenlagers | Stuk"
+metaTitle: "Cruze: Heulen des Lichtmaschinenlagers | Pro-Stuk"
 description: "Ein Heulen unter der Haube des Cruze, das mit der Drehzahl steigt: wie Sie das Lichtmaschinenlager von Rollen, Wasserpumpe und Freilaufscheibe trennen."
 faq:
   - q: "Das Heulen unter der Haube steigt mit der Drehzahl. Ist das die Lichtmaschine?"

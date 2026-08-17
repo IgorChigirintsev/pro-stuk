@@ -1,6 +1,6 @@
 ---
 title: "Skrzypienie przy rozkołysaniu samochodu"
-metaTitle: "Skrzypienie przy rozkołysaniu auta: przyczyny | Stuk"
+metaTitle: "Skrzypienie przy rozkołysaniu auta: przyczyny | Pro-Stuk"
 description: "Dlaczego nadwozie skrzypi przy rozkołysaniu ręką i na falach: gumy stabilizatora, tuleje wahaczy, poduszki górne. Jak znaleźć skrzypiący punkt."
 faq:
   - q: "Dlaczego skrzypi mocniej po deszczu, myjni albo na mrozie?"
@@ -96,7 +96,7 @@ skrzypie zwykle wystarcza, bo źródło znajduje się w kilka minut przez
 rozkołysanie i obejrzenie gum.
 
 Jeśli chce Pan rozstrzygnąć sprawę przed warsztatem, proszę nagrać
-skrzyp aplikacją Stuk podczas kołysania samochodu albo na
+skrzyp aplikacją Pro-Stuk podczas kołysania samochodu albo na
 charakterystycznej fali. Algorytm zestawia nagranie z Pana odpowiedziami
 i pokazuje prawdopodobne źródła wraz z poziomem pilności: robi się
 jasne, czy wizyta może poczekać, czy lepiej umówić ją w tym tygodniu.

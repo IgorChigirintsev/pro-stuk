@@ -1,6 +1,6 @@
 ---
 title: "Batida no motor sob carga"
-metaTitle: "Batida no motor sob carga: causas e perigo | Stuk"
+metaTitle: "Batida no motor sob carga: causas e perigo | Pro-Stuk"
 description: "Batida sob carga: como separar detonação de batida de bronzina, onde entra a corrente de comando e quando continuar rodando fica perigoso."
 faq:
   - q: "Como distinguir detonação de batida de bronzina?"
@@ -145,6 +145,6 @@ entre um diagnóstico cedo e um tarde, então batida sob carga não é coisa
 para deixar quieta.
 
 Se você não tem certeza de qual cenário se parece com o seu, grave o som
-de uma aceleração no aplicativo Stuk: ele compara a gravação com batidas
+de uma aceleração no aplicativo Pro-Stuk: ele compara a gravação com batidas
 típicas, faz algumas perguntas e mostra as causas prováveis com nível de
 urgência. Com isso pronto em casa, a visita à oficina rende mais.

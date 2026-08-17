@@ -1,6 +1,6 @@
 ---
 title: "Signes d'usure des biellettes de direction"
-metaTitle: "Biellettes de direction usées : bruit et jeu | Stuk"
+metaTitle: "Biellettes de direction usées : bruit et jeu | Pro-Stuk"
 description: "Reconnaître des biellettes de direction usées : claquement sur les petites bosses, jeu au volant, voiture qui tire. Contrôles maison et déroulé de la réparation."
 faq:
   - q: "Quelle différence entre la biellette et la rotule de direction ?"
@@ -113,7 +113,7 @@ tuent même une articulation neuve en une saison, et c'est pourquoi
 l'inspection des soufflets fait partie de tout diagnostic du train roulant.
 
 Si un claquement s'entend dans la direction mais que le diagnostic reste
-flou, enregistrez le bruit dans l'application Stuk sur un tronçon de route
+flou, enregistrez le bruit dans l'application Pro-Stuk sur un tronçon de route
 représentatif. L'application croise l'enregistrement avec vos réponses et
 affiche les causes probables avec un niveau d'urgence : vous arrivez au
 garage avec une hypothèse prête.

@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Fahrwerk über Bodenschwellen"
-metaTitle: "Klopfen über Bodenschwellen: die Ursachen | Stuk"
+metaTitle: "Klopfen über Bodenschwellen: die Ursachen | Pro-Stuk"
 description: "Warum das Fahrwerk gerade über Bodenschwellen klopft, welche Teile meist schuld sind und wie Sie die Suche ohne Hebebühne eingrenzen."
 faq:
   - q: "Warum klopft das Fahrwerk über Bodenschwellen, bleibt auf Schlaglöchern aber still?"

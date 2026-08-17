@@ -1,6 +1,6 @@
 ---
 title: "Klop: stuurhuis of spoorstangkogels"
-metaTitle: "Klop in het stuurwerk: stuurhuis of kogels? | Stuk"
+metaTitle: "Klop in het stuurwerk: stuurhuis of kogels? | Pro-Stuk"
 description: "Een klop die u over oneffenheden in het stuur voelt, komt zowel van het stuurhuis als van de spoorstangkogels. Zo scheidt u ze met simpele controles."
 faq:
   - q: "De klop komt in het stuur — is het dan zeker het stuurwerk?"

@@ -1,7 +1,7 @@
 ---
 ru: "svist-iz-pod-kapota-na-holodnuyu"
 title: "Squealing under the bonnet when cold"
-metaTitle: "Squealing under the bonnet when cold: causes | Stuk"
+metaTitle: "Squealing under the bonnet when cold: causes | Pro-Stuk"
 description: "Why there is a squeal under the bonnet on a cold engine that goes once warm: the belt, idlers, the water pump. How to find the source yourself."
 pubDate: "2026-07-04"
 related:
@@ -150,6 +150,6 @@ and show the recording. An experienced mechanic tells slipping from a
 bearing in a few seconds, and it saves you a second visit.
 
 If you are unsure whether it is the belt or a bearing, record the morning
-squeal in the Stuk app: it compares the recording with typical fault
+squeal in the Pro-Stuk app: it compares the recording with typical fault
 sounds, takes your answers into account and shows the likely causes with a
 level of urgency.

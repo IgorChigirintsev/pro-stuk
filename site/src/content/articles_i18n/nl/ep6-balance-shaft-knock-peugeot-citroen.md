@@ -1,6 +1,6 @@
 ---
 title: "Kloppen van de balansassen op de EP6 bij Peugeot en Citroën"
-metaTitle: "EP6 balansas klopt: wat er echt tikt | Stuk"
+metaTitle: "EP6 balansas klopt: wat er echt tikt | Pro-Stuk"
 description: "Wat er werkelijk klopt in een EP6-motor wanneer eigenaren het over balansassen hebben: de ketting, de spanner, de nokkenasverstellers en de olie. Plus de controles."
 faq:
   - q: "Heeft de EP6 eigenlijk balansassen?"

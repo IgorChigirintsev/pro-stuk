@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-so-svistyashchim-remnem"
 title: "Can you drive with a squealing belt"
-metaTitle: "Can you drive with a squealing belt? | Stuk"
+metaTitle: "Can you drive with a squealing belt? | Pro-Stuk"
 description: "A squealing accessory belt: how long you can drive, what a snapped belt risks, how to tell belt wear from an idler bearing and how the repair is decided."
 pubDate: "2026-07-28"
 related:
@@ -103,7 +103,7 @@ tells you whether it is still within range. A workshop that mentions
 neither is guessing.
 
 If you are not sure whether your belt is squealing or a bearing inside an
-accessory is whining, record the sound in the Stuk app at a cold start and
+accessory is whining, record the sound in the Pro-Stuk app at a cold start and
 repeat it with the engine warm. The difference between the two recordings
 says more about the cause than any verbal description — and the app
 matches it with your answers to a few questions and shows the likely

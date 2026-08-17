@@ -1,6 +1,6 @@
 ---
 title: "Golpe de amortiguadores en el Camry: el problema típico"
-metaTitle: "Golpe de amortiguadores en Camry: causas y qué cambiar | Stuk"
+metaTitle: "Golpe de amortiguadores en Camry: causas y qué cambiar | Pro-Stuk"
 description: "Golpe delantero en un Camry al pasar baches pequeños: por qué no siempre son los amortiguadores, cómo comprobar copelas y bieletas y cómo se decide la reparación."
 faq:
   - q: "¿Un golpe en la suspensión delantera del Camry es siempre de los amortiguadores?"
@@ -94,7 +94,7 @@ y un golpe llegan a menudo juntos, y el rodamiento de rueda desgastado se
 delata por un zumbido que cambia con la velocidad y al trazar curvas.
 
 Si el golpe todavía es esporádico y no se consigue reproducir delante del
-mecánico, se puede grabar con la aplicación Stuk pasando por un bache
+mecánico, se puede grabar con la aplicación Pro-Stuk pasando por un bache
 conocido. La aplicación compara la grabación con las respuestas dadas y
 muestra las causas probables con porcentajes: como mínimo, queda claro por
 dónde empezar a buscar.

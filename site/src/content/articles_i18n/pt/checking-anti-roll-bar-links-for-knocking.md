@@ -1,6 +1,6 @@
 ---
 title: "Bieleta batendo: como checar"
-metaTitle: "Bieleta batendo: como checar | Stuk"
+metaTitle: "Bieleta batendo: como checar | Pro-Stuk"
 description: "Chacoalho em piso ondulado é a queixa mais comum de bieleta. Como checar com a mão em dez minutos e não pagar por bandeja nova sem precisar."
 faq:
   - q: "Como diferenciar a batida de bieleta das outras?"
@@ -93,7 +93,7 @@ conserto custa bem menos do que qualquer outro serviço de suspensão —
 então não faz sentido enrolar.
 
 Se a batida se ouve mas você não consegue pegar a folga com a mão, grave
-uma passagem por piso ondulado no aplicativo Stuk. Ele cruza o caráter e
+uma passagem por piso ondulado no aplicativo Pro-Stuk. Ele cruza o caráter e
 a frequência das pancadas com as suas respostas sobre velocidade e piso e
 mostra as causas prováveis com percentuais — mais fácil de discutir na
 oficina do que «tem alguma coisa chacoalhando na frente».

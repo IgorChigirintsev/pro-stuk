@@ -1,6 +1,6 @@
 ---
 title: "Batida que se sente no volante em rua ruim"
-metaTitle: "Batida sentida no volante em rua ruim | Stuk"
+metaTitle: "Batida sentida no volante em rua ruim | Pro-Stuk"
 description: "De onde vem a batida que chega ao volante: caixa de direção, terminais, barras ou barra estabilizadora. Conferências simples e sem elevador."
 faq:
   - q: "Como saber se é a direção e não a suspensão?"
@@ -123,7 +123,7 @@ desgasta a banda bem mais rápido do que deveria, e um jogo de pneus pode
 custar mais que o próprio reparo.
 
 Se você não tem certeza de qual peça é a culpada, grave a batida no
-aplicativo Stuk: percorra um trecho característico de rua ruim com a
+aplicativo Pro-Stuk: percorra um trecho característico de rua ruim com a
 gravação ligada, responda algumas perguntas de esclarecimento, e o app
 cruza o som com os perfis típicos de falha e mostra as causas prováveis
 com um nível de urgência.

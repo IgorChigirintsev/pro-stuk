@@ -1,6 +1,6 @@
 ---
 title: "Bourdonnement : la boîte de vitesses ou un roulement de roue"
-metaTitle: "Bourdonnement : boîte ou roulement de roue | Stuk"
+metaTitle: "Bourdonnement : boîte ou roulement de roue | Pro-Stuk"
 description: "Un bourdonnement à vitesse vient aussi bien des roulements de roue que de la boîte. Trois tests qui les séparent en un trajet et ce que chaque réponse implique."
 faq:
   - q: "Quelle est la façon la plus rapide de distinguer un bourdonnement de boîte d'un bourdonnement de roulement ?"
@@ -101,7 +101,7 @@ méthode de séparation est dans
 [des claquements : cardan ou freins](/fr/articles/clicking-cv-joint-or-brakes/).
 
 Si le bourdonnement est discret et que l'atelier « ne l'entend pas »,
-enregistrez-le dans l'application Stuk pendant les trois tests l'un après
+enregistrez-le dans l'application Pro-Stuk pendant les trois tests l'un après
 l'autre — au point mort, sur différents rapports et pendant les
 changements de file. L'application croise les enregistrements avec vos
 réponses et affiche les causes probables avec leurs pourcentages, pour que

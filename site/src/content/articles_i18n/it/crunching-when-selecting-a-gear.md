@@ -1,6 +1,6 @@
 ---
 title: "Scrocchio quando si innesta una marcia"
-metaTitle: "Scrocchio innestando la marcia: le cause | Stuk"
+metaTitle: "Scrocchio innestando la marcia: le cause | Pro-Stuk"
 description: "Uno scrocchio quando entra la marcia arriva di solito dai sincronizzatori o da una frizione che non stacca del tutto. Come distinguerli dalla leva."
 faq:
   - q: "Scrocchia solo in seconda. È il sincronizzatore?"
@@ -103,6 +103,6 @@ hanno una logica diversa, descritta in
 [strappi e colpi del cambio automatico in cambiata](/it/articles/automatic-gearbox-jolts-and-clunks-when-shifting/).
 
 Se vuole sapere cosa scrocchia prima della visita, registri il suono con
-l'app Stuk due volte: innestando la prima da fermi, e la marcia
+l'app Pro-Stuk due volte: innestando la prima da fermi, e la marcia
 problematica in movimento. L'app confronta le registrazioni con le sue
 risposte e mostra le cause probabili in percentuale.

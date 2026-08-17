@@ -1,6 +1,6 @@
 ---
 title: "Contrôler la tension de la chaîne de distribution à l'oreille"
-metaTitle: "Tension de chaîne de distribution à l'oreille | Stuk"
+metaTitle: "Tension de chaîne de distribution à l'oreille | Pro-Stuk"
 description: "Comment entendre une chaîne de distribution détendue : les conditions où elle se trahit, ce qui la distingue des poussoirs et ce que montre un départ à froid."
 faq:
   - q: "Pourquoi la chaîne de distribution est-elle la plus bruyante au démarrage à froid ?"
@@ -100,7 +100,7 @@ qui saute, sur la plupart des moteurs modernes, se termine par la
 rencontre des pistons et des soupapes.
 
 Enregistrer un démarrage à froid est le plus simple dans l'application
-Stuk : lancez l'enregistrement avant de tourner la clé et tenez le
+Pro-Stuk : lancez l'enregistrement avant de tourner la clé et tenez le
 téléphone près de la calandre. L'application compare le son avec vos
 réponses sur la durée et les conditions et affiche les causes probables
 avec leurs pourcentages — et l'enregistrement reste, pour être passé au

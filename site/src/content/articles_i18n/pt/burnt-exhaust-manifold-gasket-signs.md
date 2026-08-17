@@ -1,6 +1,6 @@
 ---
 title: "Sinais de junta do coletor de escape queimada"
-metaTitle: "Junta do coletor de escape queimada: sinais | Stuk"
+metaTitle: "Junta do coletor de escape queimada: sinais | Pro-Stuk"
 description: "Tique-tique e chiado na partida fria, cheiro de escape no carro, fuligem preta na junção — como reconhecer a junta do coletor de escape queimada."
 faq:
   - q: "Por que o tique-tique aparece frio e some depois de aquecer?"
@@ -105,6 +105,6 @@ então uma simples troca de junta vira uma saga de furadeira.
 
 Se o tique só aparece com o motor frio e você não tem certeza de que não são
 as válvulas, grave os primeiros trinta segundos depois da partida fria com
-o aplicativo Stuk e depois o mesmo trecho com o motor quente. O aplicativo
+o aplicativo Pro-Stuk e depois o mesmo trecho com o motor quente. O aplicativo
 compara as gravações e mostra as causas prováveis em porcentagem — essa
 falha é reconhecida especialmente bem pela diferença entre frio e quente.

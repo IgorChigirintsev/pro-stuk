@@ -1,6 +1,6 @@
 ---
 title: "Skrzypienie w kabinie: jak znaleźć źródło"
-metaTitle: "Skrzypienie w kabinie: jak znaleźć źródło | Stuk"
+metaTitle: "Skrzypienie w kabinie: jak znaleźć źródło | Pro-Stuk"
 description: "Metoda krok po kroku na szukanie skrzypień w kabinie: jak namierzyć je dłonią, po co pasażer i kiedy dźwięk pochodzi jednak z zawieszenia."
 faq:
   - q: "Dlaczego skrzypienie znika dokładnie w chwili, gdy zaczyna się go szukać?"
@@ -8,7 +8,7 @@ faq:
   - q: "Jak uciszyć skrzypienie bez rozbierania kabiny?"
     a: "Problematyczne miejsce zwykle leczy przekładka: taśma filcowa lub flauszowa, kawałek pianki zamkniętokomórkowej albo cienkiej gąbki między dwiema częściami. Chodzi o to, żeby rozdzielić plastiki i usunąć suchy kontakt, a nie o mocniejsze dokręcenie mocowania."
   - q: "Jak odróżnić skrzypienie kabiny od stuku zawieszenia?"
-    a: "Skrzypienie plastiku zależy od skręcania nadwozia: pojawia się na skosach, gdy jedno koło wjeżdża na krawężnik, i prawie znika na równej drodze. Stuk zawieszenia jest przywiązany do konkretnych nierówności, brzmi niżej i czuć go przez podłogę oraz kierownicę."
+    a: "Skrzypienie plastiku zależy od skręcania nadwozia: pojawia się na skosach, gdy jedno koło wjeżdża na krawężnik, i prawie znika na równej drodze. Pro-Stuk zawieszenia jest przywiązany do konkretnych nierówności, brzmi niżej i czuć go przez podłogę oraz kierownicę."
 sources:
   - title: "Lemförder: elementy zawieszenia i źródła obcych hałasów"
     url: "https://www.lemfoerder.com"
@@ -97,7 +97,7 @@ cicho — skrzypienie, które istnieje tylko poniżej zera, rzadko usprawiedliwi
 rozbieranie czegokolwiek.
 
 Polowanie na skrzypienie jest dużo łatwiejsze, gdy dźwięk zostanie
-nagrany. Włącz nagrywanie w aplikacji Stuk, przejedź swój zwykły
+nagrany. Włącz nagrywanie w aplikacji Pro-Stuk, przejedź swój zwykły
 nierówny odcinek i poproś pasażera, żeby po kolei dociskał panele —
 nagranie pokaże moment, w którym skrzypienie się urwało. Aplikacja
 podpowie też, czy dźwięk naprawdę pochodzi z kabiny, czy poszukiwania

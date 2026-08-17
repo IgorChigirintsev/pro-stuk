@@ -1,6 +1,6 @@
 ---
 title: "Motorlager defekt: die Symptome"
-metaTitle: "Motorlager defekt: die Symptome | Stuk"
+metaTitle: "Motorlager defekt: die Symptome | Pro-Stuk"
 description: "Ein Ruck beim Anfahren, Vibration im Leerlauf, ein dumpfer Schlag beim Wechsel von D nach R — wie Sie ein defektes Motorlager erkennen und wozu es führt."
 faq:
   - q: "Ist Fahren mit gerissenem Motorlager gefährlich?"

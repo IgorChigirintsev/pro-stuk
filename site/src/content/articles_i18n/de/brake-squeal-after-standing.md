@@ -1,6 +1,6 @@
 ---
 title: "Bremsenquietschen nach dem Stehen: normal oder nicht"
-metaTitle: "Bremsenquietschen nach dem Stehen: normal? | Stuk"
+metaTitle: "Bremsenquietschen nach dem Stehen: normal? | Pro-Stuk"
 description: "Morgendliches Bremsenquietschen nach einer Nacht draußen ist meist Rostfilm auf der Scheibe. Wie Sie es von verschlissenem Reibbelag unterscheiden."
 faq:
   - q: "Warum quietschen die Bremsen nur morgens?"

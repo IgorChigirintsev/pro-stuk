@@ -1,6 +1,6 @@
 ---
 title: "Vibrazioni metalliche sotto il pianale in velocità"
-metaTitle: "Rumore sotto il pianale in velocità: cosa controllare | Stuk"
+metaTitle: "Rumore sotto il pianale in velocità: cosa controllare | Pro-Stuk"
 description: "Paratie termiche, flessibile, gommini dello scarico: perché qualcosa vibra sotto il pianale in velocità, come trovare la fonte e cosa succede se si lascia correre."
 faq:
   - q: "Perché il rumore compare solo a una certa velocità?"
@@ -128,7 +128,7 @@ il silenziatore si è sfasciato dentro, chieda se l'impianto viene saldato
 o se la scatola viene sostituita — saldare costa meno, ma la corrosione
 che ha causato il danno di solito non è locale.
 
-Se ancora non riesce a trovare la fonte, registri il rumore con l'app Stuk
+Se ancora non riesce a trovare la fonte, registri il rumore con l'app Pro-Stuk
 esattamente alla velocità a cui compare: l'app confronta la registrazione
 con le sue risposte sulle condizioni e mostra le cause probabili con un
 livello di urgenza. Con quell'ipotesi in mano, la ricerca in officina dura

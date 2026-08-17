@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een versleten geleiderol"
-metaTitle: "Versleten geleiderol: geluid en controle | Stuk"
+metaTitle: "Versleten geleiderol: geluid en controle | Pro-Stuk"
 description: "Fluiten, janken en ruisen onder de motorkap bij stationair toerental komen vaak van de rollen van de multiriem. Zo herkent u de rol."
 faq:
   - q: "Wat is het verschil tussen een geleiderol en een riemspanner?"

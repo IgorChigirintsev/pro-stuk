@@ -1,6 +1,6 @@
 ---
 title: "Ile przejedzie łożysko koła po pojawieniu się buczenia"
-metaTitle: "Ile przejedzie buczące łożysko koła | Stuk"
+metaTitle: "Ile przejedzie buczące łożysko koła | Pro-Stuk"
 description: "Od pierwszego buczenia łożyska koła do groźnego luzu zwykle są tysiące kilometrów. Od czego zależy ten zapas i jakie objawy go unieważniają."
 faq:
   - q: "Ile kilometrów można przejechać z buczącym łożyskiem?"
@@ -92,7 +92,7 @@ autem długa jazda na martwych amortyzatorach, opisano w tekście
 [jazda z martwymi amortyzatorami](/pl/articles/driving-with-dead-shock-absorbers/).
 
 Jeśli chce Pan śledzić trend, a nie zgadywać, proszę nagrywać dźwięk w
-aplikacji Stuk co dwa tygodnie na tym samym odcinku drogi i przy tej samej
+aplikacji Pro-Stuk co dwa tygodnie na tym samym odcinku drogi i przy tej samej
 prędkości. Aplikacja dopasowuje nagrania do Pana odpowiedzi i pokazuje
 prawdopodobne przyczyny z procentami, a porównanie nagrań między sobą
 uczciwie odpowiada, czy auto trzyma się stabilnie, czy przeszło już na

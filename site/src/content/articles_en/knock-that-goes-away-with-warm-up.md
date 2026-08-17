@@ -1,7 +1,7 @@
 ---
 ru: "stuk-propadaet-pri-progreve"
 title: "An engine knock that goes away with warm-up"
-metaTitle: "Knock that goes away with warm-up: what it means | Stuk"
+metaTitle: "Knock that goes away with warm-up: what it means | Pro-Stuk"
 description: "Why an engine knocks when cold and goes quiet once warm: hydraulic lifters, piston slap, the chain tensioner. Where normal ends."
 pubDate: "2026-08-02"
 related:
@@ -135,7 +135,7 @@ timing offset, lifter play — and whether the oil history explains the
 wear, because a fresh set of parts fed by the same neglected oil regime
 ticks again.
 
-A useful habit is to record a cold start in the Stuk app and repeat the
+A useful habit is to record a cold start in the Pro-Stuk app and repeat the
 recording a month later. The app matches the sound with typical causes,
 shows probabilities and urgency, and comparing the recordings shows
 whether the problem is growing — without pressure or extra workshop trips.

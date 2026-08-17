@@ -1,6 +1,6 @@
 ---
 title: "Siseo bajo el capó después de apagar el motor"
-metaTitle: "Siseo bajo el capó tras apagar el motor: causas | Stuk"
+metaTitle: "Siseo bajo el capó tras apagar el motor: causas | Pro-Stuk"
 description: "Un siseo bajo el capó con el motor apagado puede ser inofensivo o serio. Cómo separar un escape que se enfría de una fuga de refrigerante o de aire."
 faq:
   - q: "¿Es peligroso un siseo justo después de apagar?"
@@ -98,7 +98,7 @@ funcionamiento del motor está en la página del síntoma
 
 Distinguir de oído una descarga normal de presión de una fuga no es fácil: la
 diferencia no está en el tono, sino en la duración y en la repetición. Grabe
-el sonido con la aplicación Stuk justo después de apagar: compara la grabación
+el sonido con la aplicación Pro-Stuk justo después de apagar: compara la grabación
 con sus respuestas sobre olor, nivel de líquido y temperatura y muestra las
 causas probables con porcentajes, de modo que sepa si ir mañana o simplemente
 vigilarlo una semana.

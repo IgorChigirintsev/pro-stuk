@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-stoek-stabilizatora"
 title: "Signs of worn anti-roll bar links"
-metaTitle: "Worn anti-roll bar links: knock and tests | Stuk"
+metaTitle: "Worn anti-roll bar links: knock and tests | Pro-Stuk"
 description: "How worn anti-roll bar links knock, how their sound differs from dampers and ball joints, simple checks and what the replacement involves."
 pubDate: "2026-08-02"
 related:
@@ -133,7 +133,7 @@ kilometre, the knock masks other suspension faults, and with a broken link
 the car holds its line noticeably worse in a sharp manoeuvre. Given how
 cheap the part is, saving on the replacement is rarely justified.
 
-If you are not sure it is the links knocking, record the sound in the Stuk
+If you are not sure it is the links knocking, record the sound in the Pro-Stuk
 app: it matches the recording with your answers and shows the likely
 causes with an urgency rating — with that list the conversation with the
 mechanic gets specific.

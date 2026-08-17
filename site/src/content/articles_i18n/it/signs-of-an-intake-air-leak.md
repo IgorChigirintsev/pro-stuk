@@ -1,6 +1,6 @@
 ---
 title: "Segni di aria falsa all'aspirazione"
-metaTitle: "Aria falsa all'aspirazione: come trovarla | Stuk"
+metaTitle: "Aria falsa all'aspirazione: come trovarla | Pro-Stuk"
 description: "Minimo instabile, fischio o sibilo sotto il cofano, miscela magra e correzioni carburante: come riconoscere l'aria falsa e come la cercano in officina."
 faq:
   - q: "Perché l'aria falsa fa ballare il minimo?"
@@ -105,7 +105,7 @@ morchia, e pulirli nella stessa occasione è ciò che fa smettere al minimo
 di ballare dopo aver curato la perdita.
 
 Se sotto il cofano si sente un sibilo ma non riesce a collocarlo a
-orecchio, registri il suono con l'app Stuk al minimo e poi con i giri
+orecchio, registri il suono con l'app Pro-Stuk al minimo e poi con i giri
 leggermente alzati. L'app confronta la registrazione con le sue risposte su
 come si comporta il minimo e mostra le cause probabili con le percentuali:
 con quella lista è più facile chiedere una prova con il fumo invece di

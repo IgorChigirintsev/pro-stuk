@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für einen durchgerosteten Schalldämpfer"
-metaTitle: "Durchgerosteter Schalldämpfer: Anzeichen | Stuk"
+metaTitle: "Durchgerosteter Schalldämpfer: Anzeichen | Pro-Stuk"
 description: "Der Wagen ist lauter geworden, es dröhnt und knallt unter dem Boden, Abgase dringen in den Innenraum — die Anzeichen eines durchgerosteten Schalldämpfers."
 faq:
   - q: "Kostet ein durchgerosteter Schalldämpfer Leistung?"

@@ -1,6 +1,6 @@
 ---
 title: "Un golpeteo en el motor a ralentí"
-metaTitle: "Golpeteo en el motor a ralentí: causas y qué hacer | Stuk"
+metaTitle: "Golpeteo en el motor a ralentí: causas y qué hacer | Pro-Stuk"
 description: "Por qué golpea un motor a ralentí: taqués hidráulicos, la cadena de distribución, las válvulas o los accesorios. Cómo distinguir las causas por el sonido."
 faq:
   - q: "¿Por qué el golpeteo se oye a ralentí y desaparece a más vueltas?"
@@ -151,7 +151,7 @@ está en la página del síntoma
 [golpeteo en el motor](/es/symptoms/knocking-in-engine/).
 
 Si quiere entender qué está pasando antes del viaje al taller, grabe el motor
-en marcha con la aplicación Stuk. Compara la grabación con sus respuestas a
+en marcha con la aplicación Pro-Stuk. Compara la grabación con sus respuestas a
 unas cuantas preguntas de aclaración y muestra las causas probables con un
 nivel de urgencia: con esa lista la conversación con un mecánico se vuelve
 concreta.

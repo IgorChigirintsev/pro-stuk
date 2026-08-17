@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con los frenos rechinando?"
-metaTitle: "¿Se puede circular con los frenos rechinando? | Stuk"
+metaTitle: "¿Se puede circular con los frenos rechinando? | Pro-Stuk"
 description: "El rechinar metálico al frenar significa que el material de fricción se acabó y el metal corta el disco. Cuánto se puede circular y qué no hacer."
 faq:
   - q: "¿Cuántos kilómetros se pueden hacer con los frenos rechinando?"
@@ -107,7 +107,7 @@ viernes, sale más barato pasar el sábado en el taller que arrastrarlo un
 mes.
 
 Cuando el sonido está ahí pero no queda claro si es el testigo de desgaste o
-el soporte de la pastilla, una grabación ayuda: la aplicación Stuk analiza
+el soporte de la pastilla, una grabación ayuda: la aplicación Pro-Stuk analiza
 las frecuencias, las compara con sus respuestas a unas preguntas sobre
 cuándo aparece el sonido y muestra las causas probables con porcentajes,
 incluida una valoración de si conviene circular con el coche antes de que

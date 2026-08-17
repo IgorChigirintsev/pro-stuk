@@ -1,6 +1,6 @@
 ---
 title: "Traqueteo bajo el coche al acelerar"
-metaTitle: "Traqueteo bajo el coche al acelerar: causas | Stuk"
+metaTitle: "Traqueteo bajo el coche al acelerar: causas | Pro-Stuk"
 description: "Deflectores térmicos, escape rozando la carrocería, detonación o catalizador roto: por qué aparece un traqueteo al acelerar y cómo separar lo inofensivo de lo serio."
 faq:
   - q: "¿Cómo distingo el traqueteo de un deflector de la detonación?"
@@ -128,7 +128,7 @@ sentido de la inspección es asegurarse de que este es de verdad ese caso y
 no una detonación disfrazada de traqueteo inofensivo.
 
 ¿No está seguro de si es un traqueteo o el tintineo de la detonación?
-Grabe una aceleración en la aplicación Stuk: cruza el espectro del sonido
+Grabe una aceleración en la aplicación Pro-Stuk: cruza el espectro del sonido
 con sus respuestas sobre cuándo aparece y muestra las causas probables con
 un nivel de urgencia. Con esa grabación, el mecánico no tendrá que dar
 vueltas con usted media hora buscando el ruido.

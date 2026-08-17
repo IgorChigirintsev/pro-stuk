@@ -1,6 +1,6 @@
 ---
 title: "Batida única ao sair e ao frear"
-metaTitle: "Batida única ao sair e ao frear | Stuk"
+metaTitle: "Batida única ao sair e ao frear | Pro-Stuk"
 description: "De onde vem a batida única ao sair e ao parar: pastilhas, pinça, coxins do motor, cardã. Como checar e como se decide o reparo."
 faq:
   - q: "Por que a batida é única e não uma sequência?"
@@ -103,7 +103,7 @@ perfil da página do sintoma
 [batida na suspensão](/pt/symptoms/knocking-in-suspension/).
 
 Um som único é difícil de pegar num diagnóstico — é curto demais. Grave ele
-no aplicativo Stuk dentro do próprio carro: algumas saídas e paradas já dão
+no aplicativo Pro-Stuk dentro do próprio carro: algumas saídas e paradas já dão
 material suficiente, e o algoritmo cruza a gravação com suas respostas e
 mostra as causas prováveis com um grau de urgência antes mesmo de você ir à
 oficina.

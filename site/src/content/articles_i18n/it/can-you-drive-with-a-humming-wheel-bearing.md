@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con il cuscinetto ruota che ronza"
-metaTitle: "Si può guidare con il cuscinetto ruota che ronza? | Stuk"
+metaTitle: "Si può guidare con il cuscinetto ruota che ronza? | Pro-Stuk"
 description: "Quanto si può ancora guidare con un cuscinetto ruota che ronza, cosa rischia ogni stadio di usura, come ridurre il rischio e come si decide la riparazione."
 faq:
   - q: "Quanti chilometri posso fare con un cuscinetto che ronza?"
@@ -133,7 +133,7 @@ montante o l'intero gruppo. Allo stadio avanzato la differenza tra
 facilmente al doppio.
 
 Se vuole appoggiarsi a qualcosa di più solido del suo orecchio, registri
-il ronzio in marcia con l'app Stuk: confronta il suono con le sue risposte
+il ronzio in marcia con l'app Pro-Stuk: confronta il suono con le sue risposte
 e mostra le cause probabili in percentuale con un livello di urgenza, il
 che rende più facile decidere tra andarci domani e finire la settimana con
 calma.

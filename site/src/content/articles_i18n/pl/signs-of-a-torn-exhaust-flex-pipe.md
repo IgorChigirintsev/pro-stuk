@@ -1,6 +1,6 @@
 ---
 title: "Objawy rozerwanego elastycznego łącznika wydechu"
-metaTitle: "Rozerwany łącznik elastyczny wydechu | Stuk"
+metaTitle: "Rozerwany łącznik elastyczny wydechu | Pro-Stuk"
 description: "Nagły ryk pod nogami, wibracje na biegu jałowym i spaliny w kabinie — jak rozpoznać rozerwany elastyczny łącznik wydechu i na czym polega naprawa."
 faq:
   - q: "Jak długo można jeździć z rozerwanym łącznikiem elastycznym?"
@@ -93,7 +93,7 @@ zaspawany przy wydechu odciągniętym w bok, nowy odcinek zaczyna życie już
 naprężony.
 
 Jeśli ryk się pojawił, a nie ma pewności, czy to łącznik, czy przepalona
-rura, proszę nagrać dźwięk w aplikacji Stuk na biegu jałowym i przy płynnym
+rura, proszę nagrać dźwięk w aplikacji Pro-Stuk na biegu jałowym i przy płynnym
 podnoszeniu obrotów. Aplikacja zestawi nagranie z odpowiedziami o to, gdzie
 dźwięk jest najgłośniejszy i jak się zmienia, i podpowie, którą część
 układu obejrzeć najpierw.

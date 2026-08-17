@@ -1,7 +1,7 @@
 ---
 ru: "voj-dvigatelya-pri-razgone"
 title: "Engine whine under acceleration"
-metaTitle: "Engine whine under acceleration: causes | Stuk"
+metaTitle: "Engine whine under acceleration: causes | Pro-Stuk"
 description: "Where a whine under acceleration comes from: the alternator, power steering pump, idlers, water pump or gearbox. Simple tests to find the source."
 pubDate: "2026-07-04"
 related:
@@ -135,6 +135,6 @@ because reaching it twice means paying the same labour twice.
 
 A whine is convenient for acoustic diagnosis: it has a pronounced tonality
 and algorithms distinguish such sounds more confidently than many others.
-Record the whine under acceleration in the Stuk app — it matches the
+Record the whine under acceleration in the Pro-Stuk app — it matches the
 recording and your answers and shows the likely causes with a level of
 urgency for each.

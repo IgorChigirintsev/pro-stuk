@@ -1,6 +1,6 @@
 ---
 title: "Cognement de la suspension sur les ralentisseurs"
-metaTitle: "Suspension qui cogne sur les ralentisseurs | Stuk"
+metaTitle: "Suspension qui cogne sur les ralentisseurs | Pro-Stuk"
 description: "Pourquoi la suspension cogne précisément sur les ralentisseurs, quelles pièces sont généralement en cause et comment réduire la liste des suspects sans pont."
 faq:
   - q: "Pourquoi la suspension cogne-t-elle sur les ralentisseurs et reste muette dans les nids-de-poule ?"
@@ -143,7 +143,7 @@ la ou les deux semaines qui viennent. Si le bruit s'accompagne d'une
 voiture qui tire d'un côté ou de jeu dans la direction, plus tôt.
 
 Pour éviter de deviner à partir de descriptions, enregistrez le son avec
-votre téléphone au moment de franchir l'obstacle : l'application Stuk
+votre téléphone au moment de franchir l'obstacle : l'application Pro-Stuk
 recoupe l'enregistrement avec vos réponses et montre les causes probables
 en pourcentages avec un niveau d'urgence — avec cette liste, la
 conversation à l'atelier devient concrète.

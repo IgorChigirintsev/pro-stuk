@@ -1,6 +1,6 @@
 ---
 title: "Objawy zasysania powietrza na dolocie"
-metaTitle: "Zasysanie powietrza na dolocie: objawy | Stuk"
+metaTitle: "Zasysanie powietrza na dolocie: objawy | Pro-Stuk"
 description: "Pływające obroty, gwizd albo syk pod maską, uboga mieszanka i korekty paliwowe — jak rozpoznać nieszczelność dolotu i jak znajdują ją warsztaty."
 faq:
   - q: "Dlaczego przez zasysanie powietrza pływają obroty?"
@@ -102,7 +102,7 @@ są zwykle zakoksowane, a ich wyczyszczenie przy okazji to właśnie to, co
 uspokaja obroty po usunięciu samej nieszczelności.
 
 Jeśli spod maski słychać syk, ale nie potrafi go Pan umiejscowić na
-słuch, proszę nagrać dźwięk w aplikacji Stuk na biegu jałowym, a potem
+słuch, proszę nagrać dźwięk w aplikacji Pro-Stuk na biegu jałowym, a potem
 przy lekko podniesionych obrotach. Aplikacja zestawia nagranie z Pana
 odpowiedziami o zachowaniu obrotów i pokazuje prawdopodobne przyczyny z
 procentami — z taką listą łatwiej poprosić o próbę dymową niż o wymianę

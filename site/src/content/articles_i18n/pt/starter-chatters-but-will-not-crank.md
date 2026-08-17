@@ -1,6 +1,6 @@
 ---
 title: "O motor de arranque matraqueia mas não gira"
-metaTitle: "Arranque matraqueia e não gira: causas | Stuk"
+metaTitle: "Arranque matraqueia e não gira: causas | Pro-Stuk"
 description: "O motor de arranque matraqueia mas o motor não vira: bateria, terminais, automático. Checagens simples na hora e uma tabela de causas."
 faq:
   - q: "Por que o arranque matraqueia se a bateria é nova?"
@@ -108,6 +108,6 @@ página do sintoma
 correia, não de arranque.
 
 Se a causa não aparece e o matraqueio vai e volta, grave a tentativa de
-partida no aplicativo Stuk: o algoritmo cruza a gravação com suas respostas
+partida no aplicativo Pro-Stuk: o algoritmo cruza a gravação com suas respostas
 — as luzes escurecem, tem rangido — e sugere as causas prováveis com um
 grau de urgência.

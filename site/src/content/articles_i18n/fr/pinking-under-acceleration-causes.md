@@ -1,6 +1,6 @@
 ---
 title: "Le cliquetis à l'accélération : les causes"
-metaTitle: "Cliquetis à l'accélération : causes et solutions | Stuk"
+metaTitle: "Cliquetis à l'accélération : causes et solutions | Pro-Stuk"
 description: "Pourquoi un moteur cliquette à l'accélération : combustion détonante, carburant, calamine, bougies. Comment distinguer le cliquetis banal d'axes de piston usés."
 faq:
   - q: "Le cliquetis vient-il vraiment des axes de piston ?"
@@ -139,7 +139,7 @@ de piston sont la réponse honnête, une supposition tirée du kilométrage ne
 l'est pas.
 
 Si vous voulez un appui avant le garage, enregistrez le son d'une
-accélération dans l'application Stuk. Elle compare l'enregistrement à des
+accélération dans l'application Pro-Stuk. Elle compare l'enregistrement à des
 sons typiques, pose quelques questions de précision sur le moment et la
 manière dont le cliquetis apparaît, et affiche les causes probables avec un
 niveau d'urgence. Vous arrivez ainsi avec une hypothèse précise plutôt

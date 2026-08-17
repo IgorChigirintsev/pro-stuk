@@ -1,6 +1,6 @@
 ---
 title: "Señales de una cremallera de dirección averiada"
-metaTitle: "Cremallera averiada: la lista de señales | Stuk"
+metaTitle: "Cremallera averiada: la lista de señales | Pro-Stuk"
 description: "Golpes, holgura, dirección a saltos, fugas y zumbido de la bomba: las señales de una cremallera averiada, cómo comprobarla y cuándo un ajuste todavía la salva."
 faq:
   - q: "La cremallera rezuma líquido, ¿puedo limitarme a rellenar?"
@@ -116,7 +116,7 @@ agarrotamiento es una cuestión directa de seguridad: una dirección que gira
 a saltos estorba en una maniobra precisa en el momento crítico.
 
 Si de momento solo tiene el sonido y duda de que la culpa sea de la
-cremallera, grabe el golpe con la aplicación Stuk en un tramo
+cremallera, grabe el golpe con la aplicación Pro-Stuk en un tramo
 representativo. La aplicación compara la grabación con sus respuestas y
 muestra las causas probables con porcentajes: con esa hipótesis, el
 diagnóstico en el taller lleva menos tiempo.

@@ -1,6 +1,6 @@
 ---
 title: "Signes d'usure des rotules de direction"
-metaTitle: "Rotules de direction usées : le bruit | Stuk"
+metaTitle: "Rotules de direction usées : le bruit | Pro-Stuk"
 description: "Claquement sur les petites bosses, jeu au volant, voiture qui se promène en ligne droite : reconnaître des rotules de direction usées et les contrôler soi-même."
 faq:
   - q: "Quel bruit fait une rotule de direction usée ?"
@@ -145,7 +145,7 @@ du jeu use les portées et les pièces voisines, et transforme une réparation
 bon marché en réparation chère.
 
 Si quelque chose claque en bas et que le diagnostic n'est pas sûr,
-enregistrez le bruit dans l'application Stuk. Elle croise l'enregistrement
+enregistrez le bruit dans l'application Pro-Stuk. Elle croise l'enregistrement
 avec vos réponses sur le moment où le claquement apparaît — sur les bosses,
 en braquant, au freinage — et affiche les causes probables avec un niveau
 d'urgence.

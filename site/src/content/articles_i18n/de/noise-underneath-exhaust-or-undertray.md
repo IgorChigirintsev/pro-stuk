@@ -1,6 +1,6 @@
 ---
 title: "Geräusch von unten: Auspuff oder Unterfahrschutz"
-metaTitle: "Geräusch von unten: Auspuff oder Unterfahrschutz | Stuk"
+metaTitle: "Geräusch von unten: Auspuff oder Unterfahrschutz | Pro-Stuk"
 description: "Metallisches Klappern von unten kommt entweder von der Abgasanlage oder vom Unterfahrschutz. Wie Sie beides in zehn Minuten nach Gehör und von Hand trennen."
 faq:
   - q: "Wie unterscheide ich den Unterfahrschutz schnell vom Auspuff?"

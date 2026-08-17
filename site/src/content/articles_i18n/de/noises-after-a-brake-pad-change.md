@@ -1,6 +1,6 @@
 ---
 title: "Geräusche nach dem Belagwechsel: was normal ist"
-metaTitle: "Geräusche nach dem Belagwechsel: was normal ist | Stuk"
+metaTitle: "Geräusche nach dem Belagwechsel: was normal ist | Pro-Stuk"
 description: "Neue Beläge machen die ersten hundert Kilometer fast immer Geräusche. Welche Töne zum Einfahren gehören und welche auf einen Einbaufehler zeigen."
 faq:
   - q: "Wie lange dürfen neue Beläge Geräusche machen?"

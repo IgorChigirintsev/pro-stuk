@@ -1,6 +1,6 @@
 ---
 title: "Gebrom: wiellager of banden — hoe u ze uit elkaar houdt"
-metaTitle: "Gebrom: wiellager of banden herkennen | Stuk"
+metaTitle: "Gebrom: wiellager of banden herkennen | Pro-Stuk"
 description: "Zo onderscheidt u gebrom van een wiellager van bandengeluid: tests in één rit, een vergelijkingstabel van de kenmerken en de dure vergissingen."
 faq:
   - q: "Het gebrom kwam meteen na het monteren van andere wielen. Wat is het?"

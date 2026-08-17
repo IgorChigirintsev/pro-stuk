@@ -1,6 +1,6 @@
 ---
 title: "Otomatik şanzımanda vites geçişinde sarsıntı ve vuruntu"
-metaTitle: "Otomatik şanzımanda geçişte sarsıntı ve vuruntu | Stuk"
+metaTitle: "Otomatik şanzımanda geçişte sarsıntı ve vuruntu | Pro-Stuk"
 description: "Otomatik vites değiştirirken gelen sarsıntı ve boğuk vuruntu zararsız da olabilir, pahalı bir onarımın ilk işareti de. Nasıl ayırt edilir, neye bakılır."
 faq:
   - q: "P konumundan D'ye alırken sarsıntı normal mi?"
@@ -92,7 +92,7 @@ konulduğunu sorun. Yüksek kilometrede yağ değişimi reddediliyorsa, bu
 genelde tembellik değil ihtiyattır: taze yağ, bitmiş balata paketlerini bir
 arada tutan tortuyu yıkar.
 
-Siz durumu netleştirene kadar, vites geçişi anındaki sesi Stuk
+Siz durumu netleştirene kadar, vites geçişi anındaki sesi Pro-Stuk
 uygulamasına kaydedin: önce soğukken, sonra araç ısındığında. Uygulama
 kayıtları cevaplarınızla eşleştirir ve önce nereye bakılacağını gösterir:
 takozlara, yağa ya da gerçekten şanzımanın içine.

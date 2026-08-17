@@ -1,6 +1,6 @@
 ---
 title: "Cliquetis : soupapes ou poussoirs hydrauliques"
-metaTitle: "Cliquetis : jeu aux soupapes ou poussoirs ? | Stuk"
+metaTitle: "Cliquetis : jeu aux soupapes ou poussoirs ? | Pro-Stuk"
 description: "Le cliquetis sous le cache-culbuteurs vient aussi bien d'un jeu aux soupapes mal réglé que de poussoirs hydrauliques usés. Comment séparer les deux à l'oreille."
 faq:
   - q: "Le bruit des poussoirs hydrauliques disparaît-il après la montée en température ?"
@@ -107,7 +107,7 @@ poussoirs : un jeu de poussoirs neufs alimenté par des galeries bouchées
 recliquette au bout de quelques mois.
 
 Si vous entendez un cliquetis sans savoir de quel cas il s'agit,
-enregistrez le son deux fois dans l'application Stuk — juste après un
+enregistrez le son deux fois dans l'application Pro-Stuk — juste après un
 départ à froid, puis après dix minutes de fonctionnement. La différence
 entre les deux enregistrements est la clé de la réponse, et l'application
 indique vers quelle thèse elle penche.

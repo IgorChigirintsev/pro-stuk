@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un roulement d'alternateur usé"
-metaTitle: "Roulement d'alternateur usé : bruit et tests | Stuk"
+metaTitle: "Roulement d'alternateur usé : bruit et tests | Pro-Stuk"
 description: "Comment sonne un roulement d'alternateur usé, comment le contrôler sans rien démonter et comment le distinguer des galets et de la poulie débrayable."
 faq:
   - q: "Peut-on rouler avec un roulement d'alternateur qui ronfle ?"
@@ -123,5 +123,5 @@ dépanneuse.
 
 Si un sifflement ou un ronflement est apparu sous le capot et que vous
 voulez identifier la source avant le garage, enregistrez le son dans
-l'application Stuk — elle confronte l'enregistrement aux sons typiques
+l'application Pro-Stuk — elle confronte l'enregistrement aux sons typiques
 des pannes et affiche les causes probables avec un degré d'urgence.

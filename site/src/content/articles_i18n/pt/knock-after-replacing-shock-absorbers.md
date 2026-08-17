@@ -1,6 +1,6 @@
 ---
 title: "Batida depois de trocar os amortecedores"
-metaTitle: "Batida após trocar amortecedores: causas | Stuk"
+metaTitle: "Batida após trocar amortecedores: causas | Pro-Stuk"
 description: "Por que apareceu batida depois de amortecedores novos: erro de torque, coxins e batentes velhos, peça defeituosa. Como achar a causa e quem paga o conserto."
 faq:
   - q: "Batida de amortecedor novo pode assentar e sumir?"
@@ -102,7 +102,7 @@ A conversa com a oficina fica mais fácil quando existe ordem de serviço e
 um histórico claro: o que foi trocado, quando o som apareceu.
 
 Para manter tudo objetivo, capture a própria batida: grave no aplicativo
-Stuk no mesmo trecho de rua onde ela se ouve melhor. O algoritmo cruza a
+Pro-Stuk no mesmo trecho de rua onde ela se ouve melhor. O algoritmo cruza a
 gravação com as suas respostas e mostra as causas prováveis com um grau de
 urgência — com uma gravação na mão fica mais difícil a oficina dizer que
 «está tudo certo».

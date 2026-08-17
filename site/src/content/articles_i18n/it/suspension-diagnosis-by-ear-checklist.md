@@ -1,6 +1,6 @@
 ---
 title: "Diagnosi della sospensione a orecchio: la lista completa"
-metaTitle: "Diagnosi sospensione a orecchio: la lista | Stuk"
+metaTitle: "Diagnosi sospensione a orecchio: la lista | Pro-Stuk"
 description: "Controllo della sospensione passo passo senza ponte: prova di rimbalzo, piccole asperità, buche grandi, sterzo da fermi, slalom. Con una tabella di rumori e componenti."
 faq:
   - q: "Si può individuare un guasto della sospensione senza ponte?"
@@ -101,7 +101,7 @@ cinque prove, e descriverlo in quei termini:
 spiega le formule che funzionano.
 
 Seguire la lista è più facile con una registrazione: avviane una nell’app
-Stuk mentre passi sulle asperità e rispondi alle domande su velocità e
+Pro-Stuk mentre passi sulle asperità e rispondi alle domande su velocità e
 condizioni. L’app confronta il rumore con le tue risposte e mostra le
 cause probabili in percentuale, così la lista che porti al meccanico
 risulta corta e precisa.

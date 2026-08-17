@@ -1,6 +1,6 @@
 ---
 title: "Signes d'usure des ressorts de suspension"
-metaTitle: "Ressorts de suspension fatigués : contrôle | Stuk"
+metaTitle: "Ressorts de suspension fatigués : contrôle | Pro-Stuk"
 description: "Affaissement, roulis, talonnage dans les nids-de-poule : reconnaître des ressorts de suspension fatigués, les contrôler sans pont et savoir ce qu'implique le remplacement."
 faq:
   - q: "Peut-on ne remplacer qu'un seul ressort ?"
@@ -131,7 +131,7 @@ renforcées : elles tiennent leur hauteur plus longtemps, au prix d'un confort
 un peu plus ferme sur les petits défauts.
 
 Si vous hésitez entre les ressorts et autre chose, enregistrez le bruit de
-la suspension sur les bosses dans l'application Stuk : elle croise
+la suspension sur les bosses dans l'application Pro-Stuk : elle croise
 l'enregistrement avec vos réponses et affiche les causes probables avec un
 niveau d'urgence — avec cette liste, la conversation au garage est plus
 courte et plus précise.

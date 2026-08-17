@@ -1,6 +1,6 @@
 ---
 title: "Waarom een benzinemotor gaat klinken als een diesel"
-metaTitle: "Benzinemotor klinkt als een diesel: oorzaken | Stuk"
+metaTitle: "Benzinemotor klinkt als een diesel: oorzaken | Pro-Stuk"
 description: "Waarom een benzinemotor gaat klinken als een diesel: klepspeling, opgerekte distributieketting, pingelen, directe inspuiting. Wat u eerst controleert."
 faq:
   - q: "Wat betekent het als een benzinemotor als een diesel klinkt?"

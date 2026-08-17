@@ -1,7 +1,7 @@
 ---
 ru: "gul-razdatki-renault-duster"
 title: "Renault Duster transfer case whine"
-metaTitle: "Renault Duster transfer case whine: checks | Stuk"
+metaTitle: "Renault Duster transfer case whine: checks | Pro-Stuk"
 description: "A whine from under a four-wheel-drive Duster: how to tell the transfer case and rear differential from a wheel bearing and tyres, and what gets checked."
 pubDate: "2026-06-26"
 related:
@@ -97,7 +97,7 @@ of this class a hum and a knock often arrive together, and worn dampers
 change the acoustic picture by themselves.
 
 If you want to arrive with a specific theory, record the whine with the
-Stuk app on a level stretch — first under power, then coasting. The app
+Pro-Stuk app on a level stretch — first under power, then coasting. The app
 matches the recordings with your answers and shows the likely causes with
 percentages, and you can tell the mechanic straight away what you have
 already ruled out.

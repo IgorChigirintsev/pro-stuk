@@ -1,6 +1,6 @@
 ---
 title: "Estalo ao sair de ré"
-metaTitle: "Estalo ao sair de ré: causas | Stuk"
+metaTitle: "Estalo ao sair de ré: causas | Pro-Stuk"
 description: "Um estalo seco ao sair de ré é quase sempre folga sendo tomada. Onde ela se acumula: pastilhas, juntas, cruzeta do cardã, coxins do motor."
 faq:
   - q: "Por que o estalo só se ouve na ré e não indo para a frente?"
@@ -92,6 +92,6 @@ algumas folgas só aparecem sob carga. E que o lado do freio seja
 descartado primeiro, porque é a resposta mais barata e mais comum.
 
 Se quiser estreitar a lista antes da visita à oficina, grave o som no
-aplicativo Stuk durante uma saída de ré: o app cruza a gravação com as
+aplicativo Pro-Stuk durante uma saída de ré: o app cruza a gravação com as
 suas respostas a algumas perguntas e mostra as causas prováveis com
 percentuais.

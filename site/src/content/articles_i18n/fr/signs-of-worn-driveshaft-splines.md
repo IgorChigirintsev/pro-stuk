@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'usure des cannelures de cardan"
-metaTitle: "Cannelures de cardan usées : les reconnaître | Stuk"
+metaTitle: "Cannelures de cardan usées : les reconnaître | Pro-Stuk"
 description: "Un clac au passage accélérateur-frein, un cognement au démarrage et du jeu dans la transmission : reconnaître des cannelures usées et les distinguer d'un cardan."
 faq:
   - q: "Quelle différence entre des cannelures usées et un joint homocinétique usé ?"
@@ -109,7 +109,7 @@ l'atelier cette semaine.
 
 Si le son est occasionnel et que vous n'êtes pas sûr qu'il se répète
 précisément au changement d'entraînement, enregistrez deux ou trois
-démarrages dans l'application Stuk. Elle recoupe le son avec la
+démarrages dans l'application Pro-Stuk. Elle recoupe le son avec la
 description du régime et affiche les causes probables avec des
 pourcentages — et vous aide à expliquer au mécanicien exactement quand
 cela se produit.

@@ -1,6 +1,6 @@
 ---
 title: "Rotili kendiniz nasıl kontrol edersiniz"
-metaTitle: "Rotili kendiniz nasıl kontrol edersiniz | Stuk"
+metaTitle: "Rotili kendiniz nasıl kontrol edersiniz | Pro-Stuk"
 description: "Adım adım rotil kontrolü: zıplatma testi, kaldırılmış tekerlekte 12–6 boşluk testi, fren pedalı hilesi ve yırtık körüğün gerçekte ne anlama geldiği."
 faq:
   - q: "Rotil krikosuz kontrol edilebilir mi?"
@@ -145,6 +145,6 @@ Değişimden sonra rot balans, opsiyon değil işin parçasıdır, çünkü geom
 mafsal belirler.
 
 Bütün testlerden sonra hâlâ emin değilseniz — vuruntu var ama suçlu belli
-değilse — sesi Stuk uygulamasına kaydedin. Sesin ne zaman ve hangi yollarda
+değilse — sesi Pro-Stuk uygulamasına kaydedin. Sesin ne zaman ve hangi yollarda
 çıktığına dair cevaplarınızla eşleştirir ve muhtemel sebepleri aciliyet
 seviyesiyle gösterir.

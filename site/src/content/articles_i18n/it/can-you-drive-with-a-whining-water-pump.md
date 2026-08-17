@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con la pompa acqua che ronza"
-metaTitle: "Si può guidare con la pompa acqua che ronza? | Stuk"
+metaTitle: "Si può guidare con la pompa acqua che ronza? | Pro-Stuk"
 description: "Una pompa acqua che ronza ha il cuscinetto consumato. Cosa rischia sui motori con cinghia di distribuzione, come controllarla in cinque minuti e cosa si fa."
 faq:
   - q: "Quanto posso guidare con la pompa acqua che ronza?"
@@ -110,6 +110,6 @@ sproporzionate.
 
 Se sente un ronzio da sotto il cofano ma non riesce a capire di chi sia,
 la pompa, l'alternatore o un rullo del tenditore, lo registri con l'app
-Stuk al minimo e con un colpo di gas. L'app confronta la registrazione con
+Pro-Stuk al minimo e con un colpo di gas. L'app confronta la registrazione con
 le sue risposte sul motore e mostra le sorgenti probabili in percentuale,
 così l'officina guarda nel posto giusto fin dall'inizio.

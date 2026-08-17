@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego koła dwumasowego"
-metaTitle: "Zużyte koło dwumasowe: objawy | Stuk"
+metaTitle: "Zużyte koło dwumasowe: objawy | Pro-Stuk"
 description: "Grzechotanie na biegu jałowym, hałas przy wciśniętym sprzęgle, stuk przy gaszeniu silnika — jak czytać objawy zmęczonego koła dwumasowego."
 faq:
   - q: "Do czego właściwie służy koło dwumasowe?"
@@ -91,6 +91,6 @@ poduszki. Rozsądna kolejność jest więc taka: najpierw wykluczyć rzeczy
 proste — poduszki, wypadanie zapłonu, łożysko oporowe.
 
 Jeśli grzechot na jałowym już słychać, a chce Pan wiedzieć, do której grupy
-należy, proszę nagrać go w aplikacji Stuk dwa razy — z puszczonym i z
+należy, proszę nagrać go w aplikacji Pro-Stuk dwa razy — z puszczonym i z
 wciśniętym pedałem sprzęgła. Aplikacja zestawi nagrania z odpowiedziami na
 kilka pytań i pokaże prawdopodobne przyczyny z procentami.

@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo en frío: ¿cadena de distribución o variadores?"
-metaTitle: "Golpeteo en frío: ¿cadena o variadores? | Stuk"
+metaTitle: "Golpeteo en frío: ¿cadena o variadores? | Pro-Stuk"
 description: "Un traqueteo en los primeros segundos tras un arranque en frío viene tanto de una cadena estirada como de los variadores. Cómo separarlos por su duración."
 faq:
   - q: "¿Cuántos segundos de golpeteo en frío se consideran normales?"
@@ -96,7 +96,7 @@ alimentado a través de un filtro obstruido traquetea exactamente igual que
 uno gastado, y la limpieza cuesta una fracción de lo que cuesta la pieza.
 
 Si no está seguro de si su sonido entra dentro de lo normal, grabe el
-arranque en frío con la aplicación Stuk varios días seguidos. La aplicación
+arranque en frío con la aplicación Pro-Stuk varios días seguidos. La aplicación
 desglosa la grabación por carácter y duración y muestra las causas probables
 con porcentajes, y comparar las grabaciones entre sí muestra por sí solo si
 el sonido es estable o va creciendo.

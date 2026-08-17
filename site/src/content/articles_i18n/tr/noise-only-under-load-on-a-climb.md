@@ -1,6 +1,6 @@
 ---
 title: "Sadece yokuşta, yük altında çıkan ses"
-metaTitle: "Sadece yokuşta yük altında çıkan ses | Stuk"
+metaTitle: "Sadece yokuşta yük altında çıkan ses | Pro-Stuk"
 description: "Yabancı ses neden sadece yokuşta gaz altında duyulur, hangi parçalar böyle davranır ve kayış aks kafasından ve vuruntudan nasıl ayrılır."
 faq:
   - q: "Gazı keser kesmez ses neden kayboluyor?"
@@ -97,7 +97,7 @@ sistemi, bir motorun sessizce vuruntu yapmasına izin veren iki şeydir ve
 ikisi de test sürüşünde kendini göstermez.
 
 Böyle bir sesi ses kaydediciyle yakalamak zordur: yalnızca azami yük
-anında yaşar, siz de o anda sürmekle meşgulsünüzdür. Stuk uygulaması arka
+anında yaşar, siz de o anda sürmekle meşgulsünüzdür. Pro-Stuk uygulaması arka
 planda kaydeder — yokuştan önce başlatın, bölümü her zamanki gibi geçin ve
 tepede durun. Kaydın birkaç soruya verdiğiniz yanıtlarla birlikte
 çözümlenmesi, güç altında hangi parçanın konuştuğunu gösterir.

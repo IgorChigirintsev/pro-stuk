@@ -1,6 +1,6 @@
 ---
 title: "Trouver un claquement de suspension sans pont"
-metaTitle: "Trouver un claquement de suspension sans pont | Stuk"
+metaTitle: "Trouver un claquement de suspension sans pont | Pro-Stuk"
 description: "Un plan pas à pas pour localiser un claquement de suspension sans fosse ni pont : portrait sonore, test de balancement, contrôles à la main, essai routier."
 faq:
   - q: "Peut-on vraiment trouver la source sans fosse ni pont ?"
@@ -150,7 +150,7 @@ premier, du couple de serrage des vis de roue à la façon dont les pièces
 déposées ont été remontées.
 
 Si le claquement refuse toujours de se laisser localiser, il reste un
-outil : enregistrez le son en roulant dans l'application Stuk. Elle croise
+outil : enregistrez le son en roulant dans l'application Pro-Stuk. Elle croise
 l'enregistrement avec vos réponses sur le moment et les revêtements où le
 claquement apparaît et affiche les causes probables avec un niveau
 d'urgence — un point de départ commode aussi bien pour le contrôle au

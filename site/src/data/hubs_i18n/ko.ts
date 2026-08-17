@@ -5,7 +5,7 @@ export const ko: Record<string, HubText> = {
   dvigatel: {
     h1: '엔진 소음과 두드림',
     short: '엔진',
-    metaTitle: '엔진 소음과 두드림: 종합 안내 | Stuk',
+    metaTitle: '엔진 소음과 두드림: 종합 안내 | Pro-Stuk',
     description:
       '엔진의 모든 소리를 한곳에: 두드림, 째깍임, 달그락, 노킹, 휘파람 소리. 무해한 것과 위험한 것을 가르는 법과 직접 확인할 수 있는 것들.',
     intro: [
@@ -16,7 +16,7 @@ export const ko: Record<string, HubText> = {
   podveska: {
     h1: '서스펜션의 두드림과 삐걱임',
     short: '서스펜션과 조향',
-    metaTitle: '서스펜션 두드림과 삐걱임: 종합 안내 | Stuk',
+    metaTitle: '서스펜션 두드림과 삐걱임: 종합 안내 | Pro-Stuk',
     description:
       '요철에서의 두드림, 삐걱임, 스티어링 유격: 서스펜션과 조향 계통에서 소리의 근원을 찾는 방법과 직접 확인할 수 있는 것들.',
     intro: [
@@ -27,7 +27,7 @@ export const ko: Record<string, HubText> = {
   tormoza: {
     h1: '브레이크 소음과 긁힘',
     short: '브레이크와 휠',
-    metaTitle: '브레이크 소음과 긁힘: 종합 안내 | Stuk',
+    metaTitle: '브레이크 소음과 긁힘: 종합 안내 | Pro-Stuk',
     description:
       '제동 시 삐걱임, 휘파람, 금속 긁힘과 떨림: 각 소리의 의미, 더 달리면 안 되는 시점, 패드와 캘리퍼를 직접 점검하는 법.',
     intro: [
@@ -38,7 +38,7 @@ export const ko: Record<string, HubText> = {
   transmissiya: {
     h1: '변속기와 구동계 소음',
     short: '구동계',
-    metaTitle: '변속기와 구동계 소음: 종합 안내 | Stuk',
+    metaTitle: '변속기와 구동계 소음: 종합 안내 | Pro-Stuk',
     description:
       '변속기 울음, 등속조인트 딸깍임, 변속 충격, 클러치 웅웅거림: 바닥 아래 소리의 근원을 찾는 방법.',
     intro: [
@@ -49,7 +49,7 @@ export const ko: Record<string, HubText> = {
   vyhlop: {
     h1: '배기계 소음',
     short: '배기계',
-    metaTitle: '배기계 소음: 종합 안내 | Stuk',
+    metaTitle: '배기계 소음: 종합 안내 | Pro-Stuk',
     description:
       '우렁찬 배기음, 머플러 폭음, 바닥 아래 달그락, 울리는 열차폐판: 배기 소리가 무엇을 뜻하고 왜 중요한지.',
     intro: [
@@ -60,7 +60,7 @@ export const ko: Record<string, HubText> = {
   salon: {
     h1: '실내 삐걱임과 잡소리',
     short: '실내와 차체',
-    metaTitle: '실내 삐걱임: 근원 찾기 | Stuk',
+    metaTitle: '실내 삐걱임: 근원 찾기 | Pro-Stuk',
     description:
       '실내의 ‘귀뚜라미’ 소리, 삐걱이는 대시보드, 덜컹이는 도어: 근원을 직접 찾는 방법과 하체 결함과 구별하는 법.',
     intro: [

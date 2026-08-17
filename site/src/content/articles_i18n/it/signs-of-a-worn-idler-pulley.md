@@ -1,6 +1,6 @@
 ---
 title: "Segni di un galoppino di rinvio consumato"
-metaTitle: "Galoppino consumato: suoni e controlli | Stuk"
+metaTitle: "Galoppino consumato: suoni e controlli | Pro-Stuk"
 description: "Fischi, ronzii e fruscii da sotto il cofano al minimo vengono spesso dai galoppini della cinghia servizi. Come distinguere un galoppino dalla cinghia e dall'alternatore."
 faq:
   - q: "Che differenza c'è fra un galoppino e un tenditore?"
@@ -97,7 +97,7 @@ spezzata è spiegato in
 [si può guidare con la cinghia che fischia](/it/articles/can-you-drive-with-a-squealing-belt/).
 
 Se vuole verificare la sua ipotesi prima di andare in officina, registri il
-suono con l'app Stuk al minimo e alzando i giri in modo graduale: l'app
+suono con l'app Pro-Stuk al minimo e alzando i giri in modo graduale: l'app
 confronta la registrazione con le sue risposte a poche domande e mostra le
 origini probabili in percentuale, insieme a un suggerimento su che cosa
 controllare per primo.

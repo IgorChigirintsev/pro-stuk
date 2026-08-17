@@ -1,6 +1,6 @@
 ---
 title: "Segni di una pompa dell'acqua difettosa"
-metaTitle: "Pompa dell'acqua difettosa: i segni | Stuk"
+metaTitle: "Pompa dell'acqua difettosa: i segni | Pro-Stuk"
 description: "Perdite di liquido, cuscinetto che ronza, gioco sulla puleggia e temperatura ballerina: i segni di una pompa in fin di vita, i controlli e l'intervento."
 faq:
   - q: "Quanto dura una pompa dell'acqua?"
@@ -134,5 +134,5 @@ Che cosa si rischia guidando con la pompa che ronza è spiegato in
 [si può guidare con la pompa dell'acqua che ronza](/it/articles/can-you-drive-with-a-whining-water-pump/).
 
 Non è sicuro se a ronzare sia la pompa o qualcos'altro sulla cinghia?
-Registri il suono con l'app Stuk: confronta la registrazione con le sue
+Registri il suono con l'app Pro-Stuk: confronta la registrazione con le sue
 risposte e mostra le cause probabili con un livello di urgenza.

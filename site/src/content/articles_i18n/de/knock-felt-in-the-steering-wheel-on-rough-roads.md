@@ -1,6 +1,6 @@
 ---
 title: "Ein im Lenkrad spürbares Klopfen auf schlechter Straße"
-metaTitle: "Klopfen im Lenkrad auf schlechter Straße | Stuk"
+metaTitle: "Klopfen im Lenkrad auf schlechter Straße | Pro-Stuk"
 description: "Woher ein im Lenkrad spürbares Klopfen kommt: Lenkgetriebe, Spurstangenköpfe, Spurstangen oder Stabilisator. Einfache Prüfungen ohne Hebebühne."
 faq:
   - q: "Wie erkenne ich, dass es die Lenkung ist und nicht das Fahrwerk?"

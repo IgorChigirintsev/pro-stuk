@@ -1,6 +1,6 @@
 ---
 title: "Objawy uszkodzonej przekładni kierowniczej"
-metaTitle: "Uszkodzona przekładnia kierownicza: objawy | Stuk"
+metaTitle: "Uszkodzona przekładnia kierownicza: objawy | Pro-Stuk"
 description: "Stukanie, luz, skokowa kierownica, wycieki i wycie pompy — objawy uszkodzonej przekładni kierowniczej i moment, w którym ratuje ją jeszcze regulacja."
 faq:
   - q: "Przekładnia poci się płynem — czy można tylko uzupełniać?"
@@ -36,7 +36,7 @@ objawów, proste testy i to, od czego zależy naprawa.
 | Olej spływa po mieszkach | Nieszczelne uszczelnienia przekładni hydraulicznej | Naprawa; uzupełnianie to półśrodek |
 | Kierownica nie wraca do środka | Przeciągnięty docisk, zapieczony mechanizm | Regulacja |
 
-Stuk jest najczęstszym wczesnym objawem. Jest głuchy i pojedynczy,
+Pro-Stuk jest najczęstszym wczesnym objawem. Jest głuchy i pojedynczy,
 słychać go bliżej środka auta i łatwo go odtworzyć na postoju, kołysząc
 kierownicą. Inne stuki z drogi i ich źródła zebrano na stronie objawu
 [stukanie na nierównościach](/pl/symptoms/knocking-over-bumps/).
@@ -111,7 +111,7 @@ obracająca się skokami przeszkadza w precyzyjnym manewrze w krytycznym
 momencie.
 
 Jeśli na razie masz tylko dźwięk i wątpisz, czy winna jest przekładnia,
-nagraj stuk w aplikacji Stuk na reprezentatywnym odcinku drogi.
+nagraj stuk w aplikacji Pro-Stuk na reprezentatywnym odcinku drogi.
 Aplikacja zestawia nagranie z Twoimi odpowiedziami i pokazuje
 prawdopodobne przyczyny z procentami — z taką hipotezą diagnostyka w
 warsztacie zajmuje mniej czasu.

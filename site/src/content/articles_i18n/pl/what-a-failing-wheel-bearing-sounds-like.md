@@ -1,6 +1,6 @@
 ---
 title: "Jak brzmi umierające łożysko koła"
-metaTitle: "Jak brzmi umierające łożysko koła | Stuk"
+metaTitle: "Jak brzmi umierające łożysko koła | Pro-Stuk"
 description: "Od ledwie słyszalnego buczenia przy 60 km/h po dudnienie i wibracje na kierownicy — jak łożysko koła zmienia dźwięk etapami i kiedy nie wolno już czekać."
 faq:
   - q: "Przy jakiej prędkości łożysko słychać na samym początku?"
@@ -100,7 +100,7 @@ umierające łożysko często maskuje niewyważone koło i wibracje, które
 zostają po naprawie, zaskakują.
 
 Jeśli buczenie jest jeszcze ciche i nie ma pewności, czy to nie wyobraźnia,
-nagraj w aplikacji Stuk przejazd trasą ze zmianami pasa. Aplikacja zestawia
+nagraj w aplikacji Pro-Stuk przejazd trasą ze zmianami pasa. Aplikacja zestawia
 nagranie z odpowiedziami o prędkość, nawierzchnię i kierunek manewru i
 pokazuje prawdopodobne przyczyny z procentami — łącznie z podpowiedzią, od
 którego koła zacząć.

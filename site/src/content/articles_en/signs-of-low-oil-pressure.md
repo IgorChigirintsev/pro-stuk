@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-nizkogo-davleniya-masla"
 title: "Signs of low oil pressure"
-metaTitle: "Signs of low oil pressure: symptoms, causes | Stuk"
+metaTitle: "Signs of low oil pressure: symptoms, causes | Pro-Stuk"
 description: "How to spot low oil pressure before serious damage: the warning light, lifter ticking, bearing knock. The causes of a pressure drop and how it is checked."
 pubDate: "2026-08-02"
 related:
@@ -142,7 +142,7 @@ long trip. Most engines killed by oil starvation signalled the problem
 long before the light — nobody pulled the dipstick.
 
 If the engine has started sounding different while the light is still
-silent, record the sound in the Stuk app. It matches the recording with
+silent, record the sound in the Pro-Stuk app. It matches the recording with
 typical engine sounds, asks clarifying questions and suggests whether this
 looks like a lubrication problem and how urgently to show the car to a
 mechanic. What a cold-only noise means is covered in

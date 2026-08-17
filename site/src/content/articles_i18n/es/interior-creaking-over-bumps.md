@@ -1,6 +1,6 @@
 ---
 title: "Crujidos en el habitáculo al pasar baches"
-metaTitle: "Crujidos en el habitáculo al pasar baches: causas | Stuk"
+metaTitle: "Crujidos en el habitáculo al pasar baches: causas | Pro-Stuk"
 description: "Crujidos del habitáculo al pasar baches: por qué la carrocería se retuerce y provoca el sonido, cómo separar el guarnecido de la suspensión y qué arreglar uno mismo."
 faq:
   - q: "¿Es peligroso un crujido del habitáculo al pasar baches?"
@@ -101,7 +101,7 @@ Merece la pena prepararse antes del invierno, eso sí: con frío la lista de
 sitios que crujen suele crecer.
 
 La forma más fiable de dejar de discutir con uno mismo sobre de dónde viene el
-sonido es grabarlo. Ponga a grabar la aplicación Stuk antes de un tramo malo
+sonido es grabarlo. Ponga a grabar la aplicación Pro-Stuk antes de un tramo malo
 conocido y recórralo dos veces: con las ventanillas cerradas y abiertas. La
 aplicación compara las grabaciones con sus respuestas y muestra dónde mirar:
 dentro del habitáculo o debajo del coche.

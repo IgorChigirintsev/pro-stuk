@@ -1,7 +1,7 @@
 ---
 ru: "tikanie-dvigatelya-opasno-ili-net"
 title: "Engine ticking: dangerous or not"
-metaTitle: "Engine ticking: dangerous or not, how to tell | Stuk"
+metaTitle: "Engine ticking: dangerous or not, how to tell | Pro-Stuk"
 description: "Why an engine ticks: when it is normal injector operation and when it is worn hydraulic lifters or valves. How to tell a harmless sound from a serious one."
 pubDate: "2026-08-02"
 related:
@@ -157,6 +157,6 @@ unattended for years wears the cam lobes — and instead of an adjustment
 the bill arrives for camshafts.
 
 If you are unsure whether your case is the harmless one, record the engine
-in the Stuk app: it matches the recording with your answers to clarifying
+in the Pro-Stuk app: it matches the recording with your answers to clarifying
 questions and shows the likely causes with a level of urgency. With that
 it is easier to decide between going this week and simply watching.

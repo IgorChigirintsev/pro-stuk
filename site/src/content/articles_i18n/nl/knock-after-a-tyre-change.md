@@ -1,6 +1,6 @@
 ---
 title: "Klop na de bandenwissel: wat u moet controleren"
-metaTitle: "Klop na de bandenwissel: oorzaken en checks | Stuk"
+metaTitle: "Klop na de bandenwissel: oorzaken en checks | Pro-Stuk"
 description: "Waar een klop na de bandenwissel vandaan komt: aandraaimoment, balansgewichtjes, steentjes in het profiel, een kromme velg. Wat u zelf kunt checken."
 faq:
   - q: "Waarom moet ik de wielbouten na 50–100 km natrekken?"

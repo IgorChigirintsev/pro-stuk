@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une prise d'air à l'admission"
-metaTitle: "Prise d'air à l'admission : signes et recherche | Stuk"
+metaTitle: "Prise d'air à l'admission : signes et recherche | Pro-Stuk"
 description: "Ralenti instable, sifflement ou chuintement sous le capot, mélange pauvre et corrections de richesse : reconnaître une prise d'air et savoir comment on la localise."
 faq:
   - q: "Pourquoi une prise d'air rend-elle le ralenti instable ?"
@@ -105,7 +105,7 @@ de ralenti sont en général encrassés, et c'est leur nettoyage simultané
 qui met fin à l'instabilité du ralenti une fois la fuite traitée.
 
 Si un chuintement s'entend sous le capot sans que vous puissiez le situer
-à l'oreille, enregistrez le son dans l'application Stuk au ralenti puis
+à l'oreille, enregistrez le son dans l'application Pro-Stuk au ralenti puis
 avec le régime légèrement relevé. L'application recoupe l'enregistrement
 avec vos réponses sur le comportement du ralenti et affiche les causes
 probables avec des pourcentages — avec cette liste, il est plus facile de

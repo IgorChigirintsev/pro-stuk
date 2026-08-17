@@ -1,6 +1,6 @@
 ---
 title: "Guincho da correia do alternador: as causas"
-metaTitle: "Guincho da correia do alternador: causas | Stuk"
+metaTitle: "Guincho da correia do alternador: causas | Pro-Stuk"
 description: "Por que a correia de acessórios guincha: tensão frouxa, desgaste, óleo nas polias, roletes. Como achar a causa pelo momento em que o guincho aparece."
 faq:
   - q: "Dá para rodar com a correia de acessórios guinchando?"
@@ -145,7 +145,7 @@ dentro da tampa da correia dentada, e aí as consequências ficam
 realmente caras.
 
 Quando não dá para saber de ouvido se é a correia, um rolete ou um
-rolamento em algum dos componentes, grave o som no aplicativo Stuk: ele
+rolamento em algum dos componentes, grave o som no aplicativo Pro-Stuk: ele
 compara a gravação com as suas respostas e mostra as causas prováveis
 com um nível de urgência — o que deixa a conversa na oficina bem mais
 objetiva.

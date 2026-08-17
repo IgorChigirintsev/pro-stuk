@@ -1,6 +1,6 @@
 ---
 title: "Grincements d'habitacle en hiver"
-metaTitle: "Grincements d'habitacle en hiver : pourquoi le froid | Stuk"
+metaTitle: "Grincements d'habitacle en hiver : pourquoi le froid | Pro-Stuk"
 description: "Pourquoi l'habitacle grince davantage en hiver : ce qui arrive au plastique et au caoutchouc au froid, quels sons partent à la chauffe et lesquels non."
 faq:
   - q: "Pourquoi l'habitacle ne grince-t-il que dans les premières minutes après le départ ?"
@@ -104,7 +104,7 @@ température : un claquement hivernal venu d'une jambe de force mérite donc
 d'être pris au sérieux plutôt que d'attendre le printemps.
 
 Distinguer un grincement saisonnier d'un vrai est le plus facile par
-comparaison. Enregistrez le son dans l'application Stuk dans la première
+comparaison. Enregistrez le son dans l'application Pro-Stuk dans la première
 minute après le départ, et refaites le même enregistrement une demi-heure
 plus tard sur une voiture chaude. Si le second enregistrement est propre,
 c'est le gel ; si le son est toujours là, l'application suggère quels

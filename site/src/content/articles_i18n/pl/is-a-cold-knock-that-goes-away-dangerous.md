@@ -1,6 +1,6 @@
 ---
 title: "Czy stukanie na zimno, które przechodzi, jest groźne"
-metaTitle: "Stukanie na zimno, które przechodzi: groźne? | Stuk"
+metaTitle: "Stukanie na zimno, które przechodzi: groźne? | Pro-Stuk"
 description: "Stukanie przy zimnym rozruchu, które znika po nagrzaniu, bywa niegroźne albo zapowiada drogą naprawę. Jak je rozróżnić po czasie trwania i charakterze dźwięku."
 faq:
   - q: "Ile sekund stukania przy zimnym rozruchu to norma?"
@@ -103,7 +103,7 @@ oraz
 [sprawdzanie luzu piasty na uniesionym kole](/pl/articles/checking-wheel-bearing-play-with-the-wheel-raised/).
 
 Żeby śledzić tendencję, a nie polegać na pamięci, warto raz w miesiącu
-nagrać pierwsze sekundy zimnego rozruchu w aplikacji Stuk. Aplikacja
+nagrać pierwsze sekundy zimnego rozruchu w aplikacji Pro-Stuk. Aplikacja
 zestawia nagranie z odpowiedziami i pokazuje prawdopodobne przyczyny w
 procentach, a porównanie nagrań między sobą odpowiada na najważniejsze
 pytanie: robi się gorzej czy nie.

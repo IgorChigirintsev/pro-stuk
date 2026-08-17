@@ -1,6 +1,6 @@
 ---
 title: "Colpo degli ammortizzatori anteriori sulle piccole asperità"
-metaTitle: "Colpo degli ammortizzatori sulle asperità | Stuk"
+metaTitle: "Colpo degli ammortizzatori sulle asperità | Pro-Stuk"
 description: "Colpo secco dagli ammortizzatori anteriori sulle piccole asperità: come distinguere l’ammortizzatore dai supporti superiori e dalla barra, e cosa provare da soli."
 faq:
   - q: "Perché il colpo si sente solo sulle piccole asperità?"
@@ -111,7 +111,7 @@ la manodopera si sovrappone quasi del tutto e una seconda visita costa
 quasi quanto la prima.
 
 Per non tirare a indovinare su cosa stia battendo, registrate il rumore
-nell’app Stuk mentre passate su un tratto sconnesso che conoscete. L’app
+nell’app Pro-Stuk mentre passate su un tratto sconnesso che conoscete. L’app
 confronta la registrazione con le vostre risposte a poche domande e mostra
 le cause probabili in percentuale: con quella lista è più facile mettersi
 d’accordo con il meccanico su cosa guardare per primo.

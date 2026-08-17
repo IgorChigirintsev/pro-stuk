@@ -1,6 +1,6 @@
 ---
 title: "Batida no motor depois da troca de óleo"
-metaTitle: "Batida no motor após a troca de óleo: causas | Stuk"
+metaTitle: "Batida no motor após a troca de óleo: causas | Pro-Stuk"
 description: "Por que o motor começou a bater depois da troca de óleo: viscosidade, nível, filtro, flush. Quando o som some sozinho e quando é hora de voltar à oficina."
 faq:
   - q: "O motor tiquetaqueia nos primeiros segundos depois da troca de óleo, é normal?"
@@ -115,6 +115,6 @@ continuar rodando enquanto isso, veja
 [rodando com tuchos barulhentos](/pt/articles/driving-with-noisy-hydraulic-lifters/).
 
 Se você não tem certeza se é o mesmo som de antes da troca ou um novo,
-grave o motor no aplicativo Stuk e repita a gravação alguns dias depois. O
+grave o motor no aplicativo Pro-Stuk e repita a gravação alguns dias depois. O
 aplicativo cruza o som com as causas típicas, mostra probabilidades e
 urgência, e comparar as gravações ajuda a perceber a tendência.

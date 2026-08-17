@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego łożyska podporowego wału napędowego"
-metaTitle: "Zużyte łożysko podporowe wału: objawy | Stuk"
+metaTitle: "Zużyte łożysko podporowe wału: objawy | Pro-Stuk"
 description: "Buczenie spod środka podłogi, wibracje od pewnej prędkości, szarpnięcie przy ruszaniu — jak rozpoznać zużyte łożysko podporowe wału napędowego."
 faq:
   - q: "Gdzie siedzi łożysko podporowe i po co jest?"
@@ -95,7 +95,7 @@ oferuje, a to właśnie różnica między usunięciem wibracji a usunięciem sam
 hałasu.
 
 Jeśli buczenie jest jeszcze ciche i nie wiadomo, czy dobiega ze środka od
-dołu, czy od koła, proszę nagrać je w aplikacji Stuk na gładkiej trasie i
+dołu, czy od koła, proszę nagrać je w aplikacji Pro-Stuk na gładkiej trasie i
 powtórzyć nagranie przy łagodnych zmianach pasa. Aplikacja zestawi nagrania
 z odpowiedziami na kilka pytań i pokaże prawdopodobne przyczyny z
 procentami.

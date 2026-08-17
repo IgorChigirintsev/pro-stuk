@@ -1,6 +1,6 @@
 ---
 title: "Le démarreur claque mais ne lance pas le moteur"
-metaTitle: "Démarreur qui claque sans lancer : causes | Stuk"
+metaTitle: "Démarreur qui claque sans lancer : causes | Pro-Stuk"
 description: "La clé tournée donne un claquement ou un crépitement rapide, mais le moteur ne tourne pas. Ce que signifient un claquement unique et une rafale, batterie ou démarreur."
 faq:
   - q: "Quelle différence entre un claquement unique et un crépitement rapide ?"
@@ -96,6 +96,6 @@ symptôme
 
 Si les claquements vont et viennent et que la voiture démarre traîtreusement
 du premier coup au garage, enregistrez une tentative de démarrage dans
-l'application Stuk. L'application croise le caractère des claquements avec
+l'application Pro-Stuk. L'application croise le caractère des claquements avec
 vos réponses sur le comportement des instruments et suggère quoi montrer au
 mécanicien : la batterie, le câblage ou le démarreur.

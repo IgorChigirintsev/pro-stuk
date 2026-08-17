@@ -1,6 +1,6 @@
 ---
 title: "Teste de acelerada em ponto morto: o que ele mostra"
-metaTitle: "Teste de acelerada em ponto morto | Stuk"
+metaTitle: "Teste de acelerada em ponto morto | Pro-Stuk"
 description: "O que a aceleração em ponto morto revela: como separar ruído de motor de ruído de rodas e transmissão, e como fazer o teste do jeito certo."
 faq:
   - q: "Acelerar em ponto morto faz mal?"
@@ -107,7 +107,7 @@ rotação ou a velocidade do carro — essa frase única separa motor de
 rodagem melhor que qualquer adjetivo. E se ele aparecia na subida ou no
 alívio, porque é no alívio que o comando de válvulas se entrega.
 
-O teste fica prático de fazer com a gravação ligada no aplicativo Stuk:
+O teste fica prático de fazer com a gravação ligada no aplicativo Pro-Stuk:
 ele pega exatamente a mudança do som com a rotação, cruza com as suas
 respostas e mostra as causas prováveis com porcentagem — junto de uma dica
 sobre qual peça checar primeiro.

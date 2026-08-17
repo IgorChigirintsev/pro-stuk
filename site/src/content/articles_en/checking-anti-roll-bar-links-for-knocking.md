@@ -1,7 +1,7 @@
 ---
 ru: "stojki-stabilizatora-stuchat-kak-proverit"
 title: "Anti-roll bar links knocking: how to check"
-metaTitle: "Anti-roll bar links knocking: how to check | Stuk"
+metaTitle: "Anti-roll bar links knocking: how to check | Pro-Stuk"
 description: "Rattling over small bumps is the most common anti-roll bar link complaint. How to check them by hand in ten minutes and not overpay for new arms."
 pubDate: "2026-06-02"
 related:
@@ -102,7 +102,7 @@ neighbours and spoils the car, while the repair costs noticeably less than
 any other suspension job — so there is no sense in dragging it out.
 
 If the knock is audible but you cannot catch the play by hand, record a
-run over washboard in the Stuk app. It matches the character and frequency
+run over washboard in the Pro-Stuk app. It matches the character and frequency
 of the impacts with your answers about speed and surface and shows the
 likely causes with percentages — easier to discuss at a workshop than
 “something rattles up front”.

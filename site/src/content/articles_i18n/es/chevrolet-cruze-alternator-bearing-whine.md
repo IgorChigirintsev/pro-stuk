@@ -1,6 +1,6 @@
 ---
 title: "Zumbido del rodamiento del alternador en el Chevrolet Cruze"
-metaTitle: "Chevrolet Cruze: zumbido del rodamiento del alternador | Stuk"
+metaTitle: "Chevrolet Cruze: zumbido del rodamiento del alternador | Pro-Stuk"
 description: "Un zumbido bajo el capó de un Cruze que sube con las vueltas: cómo distinguir el rodamiento del alternador de las poleas, la bomba de agua y la polea desacopladora."
 faq:
   - q: "El zumbido bajo el capó sube con las vueltas. ¿Es el alternador?"
@@ -81,7 +81,7 @@ cámbielas junto con el trabajo del alternador. El acceso es el mismo, y una
 segunda visita por el mismo motivo dentro de medio año cuesta más de lo que
 cuestan ahora las piezas.
 
-Para no ir comprobando todo al azar, grabe el sonido con la aplicación Stuk
+Para no ir comprobando todo al azar, grabe el sonido con la aplicación Pro-Stuk
 junto al capó abierto: primero a ralentí y después subiendo de vueltas con
 suavidad. La aplicación compara las grabaciones con sus respuestas a unas
 cuantas preguntas y muestra las causas probables con porcentajes, de modo

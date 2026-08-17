@@ -1,6 +1,6 @@
 ---
 title: "Vibration: Auswuchtung oder Fahrwerk"
-metaTitle: "Vibration bei Tempo: Auswuchtung oder Fahrwerk | Stuk"
+metaTitle: "Vibration bei Tempo: Auswuchtung oder Fahrwerk | Pro-Stuk"
 description: "Vibration in Lenkrad und Aufbau kommt sowohl von Radunwucht als auch von verschlissenem Fahrwerk. So trennen Sie die Varianten nach Tempo und Bedingungen."
 faq:
   - q: "Bei welchem Tempo zeigt sich eine Radunwucht?"

@@ -1,6 +1,6 @@
 ---
 title: "Barulho no amortecedor do Camry: o problema clássico"
-metaTitle: "Barulho no amortecedor do Camry: causas | Stuk"
+metaTitle: "Barulho no amortecedor do Camry: causas | Pro-Stuk"
 description: "Batida na dianteira do Camry em ondulações pequenas: por que nem sempre é o amortecedor, como checar coxins e bieletas e como se decide o reparo."
 faq:
   - q: "Batida na suspensão dianteira do Camry é sempre amortecedor?"
@@ -87,6 +87,6 @@ costumam chegar juntos, e o rolamento de roda é um vizinho frequente dessa
 lista.
 
 Se a batida ainda é ocasional e não dá para reproduzir na frente do
-mecânico, grave com o aplicativo Stuk passando por uma ondulação conhecida.
+mecânico, grave com o aplicativo Pro-Stuk passando por uma ondulação conhecida.
 O aplicativo cruza a gravação com suas respostas e mostra as causas
 prováveis em porcentagem — no mínimo fica claro por onde começar a procurar.

@@ -1,6 +1,6 @@
 ---
 title: "Dzwonienie pod samochodem na biegu jałowym"
-metaTitle: "Dzwonienie pod autem na biegu jałowym | Stuk"
+metaTitle: "Dzwonienie pod autem na biegu jałowym | Pro-Stuk"
 description: "Osłona termiczna, rozsypany katalizator, wydech ocierający o nadwozie: skąd bierze się dzwonienie pod autem na biegu jałowym i jak to sprawdzić."
 faq:
   - q: "Dlaczego dzwonienie słychać na zimno, a po nagrzaniu znika?"
@@ -123,6 +123,6 @@ teraz do podłogi i przewodów paliwowych; obejma kosztuje mniej niż taka
 zamiana.
 
 Dzwonienie należy do dźwięków, które trudno opisać mechanikowi przez telefon.
-Łatwiej je nagrać: uruchom aplikację Stuk obok auta pracującego na biegu
+Łatwiej je nagrać: uruchom aplikację Pro-Stuk obok auta pracującego na biegu
 jałowym, odpowiedz na kilka pytań o warunki i dostań listę prawdopodobnych
 przyczyn z poziomem pilności, z którą pojedziesz do warsztatu.

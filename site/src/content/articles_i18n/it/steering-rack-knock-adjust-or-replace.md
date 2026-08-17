@@ -1,6 +1,6 @@
 ---
 title: "Colpo della scatola guida: registrare o sostituire"
-metaTitle: "Colpo scatola guida: registrare o sostituire | Stuk"
+metaTitle: "Colpo scatola guida: registrare o sostituire | Pro-Stuk"
 description: "Quando una scatola guida che batte si può semplicemente registrare e quando serve una revisione o la sostituzione: i criteri e il rischio di stringere troppo."
 faq:
   - q: "Quanto dura la registrazione di una scatola guida?"
@@ -103,7 +103,7 @@ riparazione completamente diverso —
 [segni di un cuscinetto ruota usurato](/it/articles/signs-of-a-worn-wheel-bearing/).
 
 Se la decisione è ancora aperta e vuoi un secondo parere indipendente,
-registra il colpo con l’app Stuk su un tratto di strada che sai essere
+registra il colpo con l’app Pro-Stuk su un tratto di strada che sai essere
 sconnesso. L’app confronta il rumore con le tue risposte, mostra le cause
 probabili e il livello di urgenza, e il discorso in officina diventa
 concreto.

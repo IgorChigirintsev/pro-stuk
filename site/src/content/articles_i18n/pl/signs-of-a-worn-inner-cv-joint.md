@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego wewnętrznego przegubu napędowego"
-metaTitle: "Zużyty wewnętrzny przegub napędowy | Stuk"
+metaTitle: "Zużyty wewnętrzny przegub napędowy | Pro-Stuk"
 description: "Wewnętrzny przegub napędowy nie klika na łuku — stuka przy przyspieszaniu i wibruje. Jego objawy, różnice wobec zewnętrznego i zakres naprawy."
 faq:
   - q: "Czym wewnętrzny przegub różni się od zewnętrznego na słuch?"
@@ -42,11 +42,11 @@ niego nie wpływa.
 | Objaw | Kiedy się pojawia |
 |---|---|
 | Głuchy stuk przy ruszaniu | Pierwsze dodanie gazu po zatrzymaniu |
-| Stuk przy przyspieszaniu na nierównościach | Dziury i falowania pod gazem |
+| Pro-Stuk przy przyspieszaniu na nierównościach | Dziury i falowania pod gazem |
 | Wibracje w nadwoziu i podłodze | Przy przyspieszaniu i pod górę, rosną z obciążeniem |
 | Kliknięcie przy wrzuceniu wstecznego | W przegubie zmienia się kierunek obciążenia |
 | Chrzęst na łuku | To przegub zewnętrzny, nie wewnętrzny |
-| Stuk na nierównościach bez gazu | Raczej zawieszenie niż półoś |
+| Pro-Stuk na nierównościach bez gazu | Raczej zawieszenie niż półoś |
 
 Dwa ostatnie wiersze to typowe fałszywe tropy. Jeśli stuk słychać na
 nierównościach przy toczeniu się bez napędu, półoś prawdopodobnie nie ma z
@@ -65,7 +65,7 @@ wygodniej:
    gumową osłonę. Rozdarcie, pęknięcia, smar na wózku i rozprysk na
    nadwoziu obok to praktycznie wyrok.
 2. **Test przyspieszania.** Na równym odcinku proszę przyspieszyć od 20 do
-   60 km/h normalnym gazem, a potem puścić gaz. Stuk i wibracja wyłącznie
+   60 km/h normalnym gazem, a potem puścić gaz. Pro-Stuk i wibracja wyłącznie
    pod napędem wskazują na półoś.
 3. **Test wstecznego.** Powoli ruszyć do tyłu, potem do przodu. Pojedyncze
    kliknięcie przy zmianie kierunku oznacza luz w przegubie albo na
@@ -101,7 +101,7 @@ obowiązują wskazówki z tekstu
 [czy można jeździć z klikającym przegubem](/pl/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 Jeśli stuk jest cichy i nie wiadomo, czy to półoś, czy zawieszenie, proszę
-nagrać go w aplikacji Stuk dwa razy: pod gazem i przy toczeniu się na tym
+nagrać go w aplikacji Pro-Stuk dwa razy: pod gazem i przy toczeniu się na tym
 samym odcinku drogi. Aplikacja porówna nagrania, uwzględni odpowiedzi o to,
 kiedy dokładnie dźwięk się pojawia, i pokaże prawdopodobne przyczyny z
 procentami.

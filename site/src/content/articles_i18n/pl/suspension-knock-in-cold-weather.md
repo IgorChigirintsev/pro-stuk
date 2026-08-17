@@ -1,9 +1,9 @@
 ---
-title: "Stuk w zawieszeniu na mrozie"
-metaTitle: "Stuk w zawieszeniu na mrozie: co robić | Stuk"
+title: "Pro-Stuk w zawieszeniu na mrozie"
+metaTitle: "Pro-Stuk w zawieszeniu na mrozie: co robić | Pro-Stuk"
 description: "Dlaczego zawieszenie stuka na mrozie i cichnie po rozgrzaniu: stwardniała guma, gęsty olej w amortyzatorach, plastik. Co jest groźne, a co nie."
 faq:
-  - q: "Stuk mija po rozgrzaniu — czy mogę go zignorować?"
+  - q: "Pro-Stuk mija po rozgrzaniu — czy mogę go zignorować?"
     a: "Nie do końca. Najczęściej tak właśnie brzmi wczesne zużycie połączeń gumowych: na mrozie guma twardnieje i przestaje tłumić luz. W tej chwili nie ma zagrożenia, ale luz już istnieje i do lata urośnie. Rozsądny plan to spokojna, niespieszna diagnostyka."
   - q: "Czy sprawne zawieszenie może stukać na mrozie?"
     a: "Może. Przy −25 do −30 °C olej w amortyzatorach gęstnieje i przez pierwsze minuty pracują one twardziej niż zwykle — nawet nowe. Tuleje poliuretanowe też twardnieją, jeśli zostały założone zamiast fabrycznej gumy. Jeśli dźwięk znika całkowicie po 10–15 minutach, mieści się to w normie."
@@ -41,8 +41,8 @@ grzechoczą na zimno tam, gdzie latem milczały.
 | Dźwięk | Prawdopodobne źródło | Jak pilne |
 |---|---|---|
 | Głuchy stuk przez pierwsze minuty, potem ciszej | Gęsty olej w amortyzatorach, stwardniała guma | Obserwować |
-| Stuk na drobnej tarce przez całą jazdę | Łączniki i tuleje stabilizatora | Diagnostyka w 1–2 tygodnie |
-| Stuk ze skrzypieniem | Suche tuleje stabilizatora | Tania naprawa |
+| Pro-Stuk na drobnej tarce przez całą jazdę | Łączniki i tuleje stabilizatora | Diagnostyka w 1–2 tygodnie |
+| Pro-Stuk ze skrzypieniem | Suche tuleje stabilizatora | Tania naprawa |
 | Twarde uderzenia, pływanie nadwozia | Zużyty amortyzator | Nie odkładać |
 | Grzechot plastiku | Nadkola, osłona podwozia, zderzak | Dokręcić mocowania |
 
@@ -97,7 +97,7 @@ skokach temperatury. Poliuretan zarabia na swoje miejsce tam, gdzie fabryczne
 części nie wytrzymują nawet jednego sezonu.
 
 Jeśli nie masz pewności, czy to norma, czy zużycie, nagraj poranny stuk w
-aplikacji Stuk podczas jazdy. Algorytm zestawia dźwięk z twoimi odpowiedziami
+aplikacji Pro-Stuk podczas jazdy. Algorytm zestawia dźwięk z twoimi odpowiedziami
 o temperaturze i warunkach i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności: łatwiej zdecydować, czy jechać teraz, czy spokojnie poczekać na
 planową wizytę.

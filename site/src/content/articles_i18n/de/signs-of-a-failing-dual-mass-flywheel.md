@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein defektes Zweimassenschwungrad"
-metaTitle: "Zweimassenschwungrad defekt: die Anzeichen | Stuk"
+metaTitle: "Zweimassenschwungrad defekt: die Anzeichen | Pro-Stuk"
 description: "Rasseln im Leerlauf, Geräusche bei getretener Kupplung, ein Schlag beim Abstellen — so lesen Sie die Anzeichen eines müden Zweimassenschwungrads."
 faq:
   - q: "Wofür ist ein Zweimassenschwungrad überhaupt da?"

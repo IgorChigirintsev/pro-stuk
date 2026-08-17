@@ -1,6 +1,6 @@
 ---
 title: "Un golpe que solo aparece con pasajeros o carga"
-metaTitle: "Golpe solo con pasajeros o carga: causas | Stuk"
+metaTitle: "Golpe solo con pasajeros o carga: causas | Pro-Stuk"
 description: "Vacío el coche va callado; con gente y equipaje aparece un golpe. Qué cambia bajo carga y qué piezas se delatan exactamente de esta manera."
 faq:
   - q: "¿Por qué el coche va callado vacío y golpea con pasajeros?"
@@ -108,7 +108,7 @@ está en
 [golpes tras cambiar los amortiguadores](/es/articles/knock-after-replacing-shock-absorbers/).
 
 Si quiere saber qué suena antes de ir al taller, pruebe a grabar el
-sonido con la aplicación Stuk recorriendo el mismo tramo dos veces, vacío
+sonido con la aplicación Pro-Stuk recorriendo el mismo tramo dos veces, vacío
 y cargado. La diferencia entre las dos grabaciones ya es informativa por
 sí sola, y la aplicación la cruza con sus respuestas y muestra las causas
 probables con porcentajes.

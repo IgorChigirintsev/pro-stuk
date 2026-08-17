@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un claquement de soupapes"
-metaTitle: "Claquement de soupapes : le son et quoi faire | Stuk"
+metaTitle: "Claquement de soupapes : le son et quoi faire | Pro-Stuk"
 description: "Le son d'un claquement de soupapes, pourquoi le jeu aux soupapes dérive, comment le distinguer des autres bruits moteur et ce qu'implique un réglage du jeu."
 faq:
   - q: "À quoi ressemble un claquement de soupapes ?"
@@ -139,6 +139,6 @@ scénario.
 
 Si le moteur s'est mis à cliqueter et que vous voulez savoir s'il s'agit
 des soupapes, des poussoirs ou des injecteurs, enregistrez le son dans
-l'application Stuk. Elle recoupe l'enregistrement avec vos réponses et
+l'application Pro-Stuk. Elle recoupe l'enregistrement avec vos réponses et
 affiche les causes probables avec un niveau d'urgence — un point de départ
 pratique avant de parler à un mécanicien.

@@ -1,6 +1,6 @@
 ---
 title: "Klop in het onderstel bij vorst"
-metaTitle: "Klop in het onderstel bij vorst: wat te doen | Stuk"
+metaTitle: "Klop in het onderstel bij vorst: wat te doen | Pro-Stuk"
 description: "Waarom het onderstel bij vorst klopt en na opwarmen stiller wordt: verhard rubber, dikke demperolie, kunststof. Wat gevaarlijk is en wat niet."
 faq:
   - q: "De klop verdwijnt na het opwarmen — mag ik hem negeren?"

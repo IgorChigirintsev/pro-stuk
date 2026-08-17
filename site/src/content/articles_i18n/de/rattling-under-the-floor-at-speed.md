@@ -1,6 +1,6 @@
 ---
 title: "Klappern unter dem Boden bei höherem Tempo"
-metaTitle: "Klappern unter dem Boden: was zu prüfen ist | Stuk"
+metaTitle: "Klappern unter dem Boden: was zu prüfen ist | Pro-Stuk"
 description: "Hitzeschilde, Flexrohr, Auspuffgummis: warum es bei Tempo unter dem Boden klappert, wie Sie die Quelle finden und was daraus wird, wenn man es liegen lässt."
 faq:
   - q: "Warum tritt das Klappern nur bei einem bestimmten Tempo auf?"

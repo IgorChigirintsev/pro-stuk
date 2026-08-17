@@ -1,6 +1,6 @@
 ---
 title: "Uzamış triger zinciri nasıl ses verir"
-metaTitle: "Uzamış triger zinciri nasıl ses verir | Stuk"
+metaTitle: "Uzamış triger zinciri nasıl ses verir | Pro-Stuk"
 description: "Soğukta takırtı, kapağın ardından hışırtı, gaz kesmede değişen ses: uzamış triger zinciri nasıl tanınır ve diğer vuruntulardan nasıl ayrılır."
 faq:
   - q: "Zincir neden en yüksek sesle soğuk çalıştırmanın ilk saniyelerinde takırdar?"
@@ -94,7 +94,7 @@ Pratikten bir gözlem daha: yağ yetersizliği ve uzatılmış bakım aralıklar
 zincir aşınmasını tek başına kilometreden daha çok hızlandırır.
 
 Takırtı kısaysa ve gerçekten duyup duymadığınızdan emin değilseniz, soğuk
-çalıştırmayı Stuk uygulamasında kaydedin: anahtarı çevirdikten sonraki ilk
+çalıştırmayı Pro-Stuk uygulamasında kaydedin: anahtarı çevirdikten sonraki ilk
 beş saniyeyi. Uygulama kaydı verdiğiniz cevaplarla eşleştirir ve olası
 sebepleri yüzdeleriyle gösterir; böylece servise genel bir «bir şey
 takırdıyor» ile değil, hazır bir teoriyle gidersiniz.

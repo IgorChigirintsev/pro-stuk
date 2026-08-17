@@ -1,6 +1,6 @@
 ---
 title: "Segni di detonazione del motore"
-metaTitle: "Detonazione del motore: come riconoscerla | Stuk"
+metaTitle: "Detonazione del motore: come riconoscerla | Pro-Stuk"
 description: "Come riconoscere la detonazione: battito in testa in accelerazione, perdita di potenza, consumi in aumento. Le cause, dal carburante ai depositi carboniosi."
 faq:
   - q: "Come si distingue la detonazione dal battito di biella?"
@@ -144,7 +144,7 @@ Ognuno di questi passi costa incomparabilmente meno delle conseguenze: pistoni
 e fasce danneggiati significano revisione.
 
 Se non è sicuro che sia detonazione o un battito meccanico, registri
-l'accelerazione con l'app Stuk. Confronta la registrazione con i suoni tipici
+l'accelerazione con l'app Pro-Stuk. Confronta la registrazione con i suoni tipici
 del motore, fa qualche domanda di precisazione e mostra le cause probabili con
 un livello di urgenza: con quello in mano il discorso in officina è più breve
 e più concreto.

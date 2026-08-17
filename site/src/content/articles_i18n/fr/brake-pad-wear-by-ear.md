@@ -1,6 +1,6 @@
 ---
 title: "Reconnaître l'usure des plaquettes de frein à l'oreille"
-metaTitle: "Usure des plaquettes de frein : les signes à l'oreille | Stuk"
+metaTitle: "Usure des plaquettes de frein : les signes à l'oreille | Pro-Stuk"
 description: "Les bruits que font des plaquettes usées : cri du témoin d'usure, grincement, frottement métallique. Comment les distinguer d'un roulement de roue."
 faq:
   - q: "Pourquoi le cri du témoin d'usure s'arrête-t-il quand je freine ?"
@@ -137,6 +137,6 @@ question : les disques peuvent-ils rester en place ou doivent-ils être
 remplacés avec les plaquettes ?
 
 Si un bruit de frein est difficile à classer à l'oreille, enregistrez-le
-dans l'application Stuk en roulant lentement, avec deux ou trois freinages
+dans l'application Pro-Stuk en roulant lentement, avec deux ou trois freinages
 légers. L'application confronte l'enregistrement à vos réponses et affiche
 les causes probables avec des pourcentages et un niveau d'urgence.

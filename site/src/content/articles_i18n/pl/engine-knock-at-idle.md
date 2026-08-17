@@ -1,6 +1,6 @@
 ---
-title: "Stuk w silniku na biegu jałowym"
-metaTitle: "Stuk w silniku na biegu jałowym: przyczyny | Stuk"
+title: "Pro-Stuk w silniku na biegu jałowym"
+metaTitle: "Pro-Stuk w silniku na biegu jałowym: przyczyny | Pro-Stuk"
 description: "Dlaczego silnik stuka na biegu jałowym: popychacze hydrauliczne, łańcuch rozrządu, zawory albo osprzęt. Jak rozróżnić przyczyny po charakterze dźwięku."
 faq:
   - q: "Dlaczego stuk słychać na biegu jałowym, a na wyższych obrotach znika?"
@@ -95,12 +95,12 @@ zwykle rzuca się w uszy od razu.
 
 Kilka obserwacji, które naprawdę pomagają diagnoście:
 
-1. **Obroty.** Proszę płynnie podnieść obroty do 1500–2000. Stuk zniknął
+1. **Obroty.** Proszę płynnie podnieść obroty do 1500–2000. Pro-Stuk zniknął
    — prawdopodobne są popychacze hydrauliczne albo napinacz łańcucha
    (ciśnienie oleju wzrosło). Przyspieszył razem z obrotami — źródło
    obraca się razem z silnikiem.
 2. **Nagrzewanie.** Proszę zauważyć, czy silnik stuka na zimno, na
-   gorąco czy zawsze. Stuk wyłącznie przed nagrzaniem to osobna
+   gorąco czy zawsze. Pro-Stuk wyłącznie przed nagrzaniem to osobna
    i zwykle mniej niepokojąca historia.
 3. **Klimatyzacja.** Proszę włączyć i wyłączyć klimatyzację na jałowym.
    Jeśli dźwięk pojawia się zgodnie ze sprzęgłem sprężarki, trzeba
@@ -137,7 +137,7 @@ a komplet bez nich sprowadza dźwięk z powrotem.
 
 ## Kiedy nie odkładać warsztatu
 
-Stuk na jałowym wymaga natychmiastowej reakcji w trzech przypadkach: gdy
+Pro-Stuk na jałowym wymaga natychmiastowej reakcji w trzech przypadkach: gdy
 jest **głuchy i niski**, z głębi bloku (podejrzenie panewek wału
 korbowego); gdy towarzyszy mu **kontrolka ciśnienia oleju**; gdy
 **gwałtownie narósł** w ciągu kilku dni. W takich sytuacjach lepiej nie
@@ -150,7 +150,7 @@ jazdy —
 [czy można jeździć ze stukiem w silniku](/pl/articles/can-you-drive-with-engine-knock/).
 
 Jeśli chce Pan zrozumieć, co się dzieje, jeszcze przed wyjazdem do
-warsztatu, proszę nagrać pracujący silnik aplikacją Stuk. Zestawia ona
+warsztatu, proszę nagrać pracujący silnik aplikacją Pro-Stuk. Zestawia ona
 nagranie z odpowiedziami na kilka pytań doprecyzowujących i pokazuje
 prawdopodobne przyczyny wraz z poziomem pilności: z taką listą rozmowa
 z mechanikiem robi się konkretna.

@@ -1,6 +1,6 @@
 ---
 title: "Ronzio del cuscinetto dell'alternatore sulla Chevrolet Cruze"
-metaTitle: "Ronzio cuscinetto alternatore Chevrolet Cruze | Stuk"
+metaTitle: "Ronzio cuscinetto alternatore Chevrolet Cruze | Pro-Stuk"
 description: "Un ronzio sotto il cofano della Cruze che sale con i giri: come distinguere il cuscinetto dell'alternatore da rulli, pompa acqua e puleggia unidirezionale."
 faq:
   - q: "Il ronzio sotto il cofano sale con i giri. È l'alternatore?"
@@ -87,7 +87,7 @@ dei pezzi oggi. Cosa comporta lasciar correre una cinghia che fischia è
 descritto in
 [si può guidare con la cinghia che fischia](/it/articles/can-you-drive-with-a-squealing-belt/).
 
-Per non controllare tutto a caso, registri il suono con l'app Stuk a
+Per non controllare tutto a caso, registri il suono con l'app Pro-Stuk a
 cofano aperto: prima al minimo, poi alzando i giri in modo graduale. L'app
 confronta le registrazioni con le sue risposte a qualche domanda e mostra
 le cause probabili in percentuale, così diventa chiaro da quale organo

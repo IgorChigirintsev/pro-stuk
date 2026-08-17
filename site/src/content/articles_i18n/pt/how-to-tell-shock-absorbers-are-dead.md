@@ -1,6 +1,6 @@
 ---
 title: "Como saber que os amortecedores morreram"
-metaTitle: "Como saber que os amortecedores morreram | Stuk"
+metaTitle: "Como saber que os amortecedores morreram | Pro-Stuk"
 description: "Carroceria balançando, batendo no fim de curso em buracos, frenagem mais longa e vazamento de óleo: como julgar o amortecedor em minutos, sem bancada."
 faq:
   - q: "O teste de balanço funciona mesmo?"
@@ -95,7 +95,7 @@ opcional, porque trocar coluna muda a geometria.
 
 Se você está dividido entre «a suspensão está cansada» e «alguma coisa
 específica quebrou», grave um trecho com ondulações e buracos no
-aplicativo Stuk. Ele relaciona o caráter dos impactos com as suas
+aplicativo Pro-Stuk. Ele relaciona o caráter dos impactos com as suas
 respostas sobre como a carroceria se comporta e mostra as causas prováveis
 com percentuais — bem mais preciso que tentar descrever balanço com
 palavras.

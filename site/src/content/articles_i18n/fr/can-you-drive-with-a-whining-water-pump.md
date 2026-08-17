@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec une pompe à eau qui hurle"
-metaTitle: "Rouler avec une pompe à eau qui hurle ? | Stuk"
+metaTitle: "Rouler avec une pompe à eau qui hurle ? | Pro-Stuk"
 description: "Une pompe à eau qui hurle, c'est un roulement usé. Ce que ça risque selon le type d'entraînement, comment la contrôler en cinq minutes et choisir la réparation."
 faq:
   - q: "Combien de kilomètres peut-on faire avec une pompe à eau qui hurle ?"
@@ -114,7 +114,7 @@ comme des poussoirs hydrauliques qui cliquettent.
 
 Vous entendez un hurlement sous le capot mais vous n'arrivez pas à savoir
 à qui il appartient — la pompe, l'alternateur ou un galet tendeur ?
-Enregistrez-le dans l'application Stuk au ralenti puis avec un coup
+Enregistrez-le dans l'application Pro-Stuk au ralenti puis avec un coup
 d'accélérateur. L'application croise l'enregistrement avec vos réponses
 sur le moteur et affiche les sources probables avec leurs pourcentages,
 pour que le garage cherche au bon endroit dès le départ.

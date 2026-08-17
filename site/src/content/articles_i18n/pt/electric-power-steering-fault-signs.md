@@ -1,6 +1,6 @@
 ---
 title: "Sinais de defeito na direção elétrica"
-metaTitle: "Defeito na direção elétrica: os sinais | Stuk"
+metaTitle: "Defeito na direção elétrica: os sinais | Pro-Stuk"
 description: "Como reconhecer defeito na direção elétrica: volante pesado, assistência irregular, luz de EPS, batidas e estalos. O que checar antes de ir à oficina."
 faq:
   - q: "Dá para rodar com a direção elétrica sem funcionar?"
@@ -101,7 +101,7 @@ maioria dos carros com EPS e controle de estabilidade, pular isso deixa a
 assistência descentralizada e as luzes acesas.
 
 Se você não tem certeza se um ruído na direção pertence à assistência,
-grave no aplicativo Stuk: faça uma gravação numa manobra com o carro parado
+grave no aplicativo Pro-Stuk: faça uma gravação numa manobra com o carro parado
 e outra em movimento, responda a algumas perguntas, e o app compara o
 quadro com perfis típicos de falha e sugere a causa provável e a urgência
 da visita.

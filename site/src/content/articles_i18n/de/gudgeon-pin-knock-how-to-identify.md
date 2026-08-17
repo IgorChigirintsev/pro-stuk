@@ -1,6 +1,6 @@
 ---
 title: "Klopfen der Kolbenbolzen: wie man es erkennt"
-metaTitle: "Kolbenbolzenklopfen: wie man es erkennt | Stuk"
+metaTitle: "Kolbenbolzenklopfen: wie man es erkennt | Pro-Stuk"
 description: "Wie Kolbenbolzenklopfen klingt, wie es sich von klopfender Verbrennung und Ventilgeräuschen unterscheidet, welche Tests es bestätigen und was die Reparatur umfasst."
 faq:
   - q: "Ist „Klingeln“ beim Beschleunigen wirklich der Kolbenbolzen?"

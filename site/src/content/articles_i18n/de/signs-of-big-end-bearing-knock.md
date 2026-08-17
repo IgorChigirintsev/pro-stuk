@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für Pleuellagerklopfen"
-metaTitle: "Pleuellagerklopfen: Ton und was zu tun ist | Stuk"
+metaTitle: "Pleuellagerklopfen: Ton und was zu tun ist | Pro-Stuk"
 description: "Wie Pleuellagerklopfen klingt, welche Zeichen es begleiten, womit man es verwechselt und wie die Diagnose in der Werkstatt bestätigt wird."
 faq:
   - q: "Wie unterscheidet sich Pleuellagerklopfen von Hydrostößelgeräuschen?"

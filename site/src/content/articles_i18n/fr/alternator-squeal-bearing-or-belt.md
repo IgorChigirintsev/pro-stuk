@@ -1,6 +1,6 @@
 ---
 title: "L'alternateur siffle : roulement ou courroie"
-metaTitle: "Sifflement d'alternateur : roulement ou courroie | Stuk"
+metaTitle: "Sifflement d'alternateur : roulement ou courroie | Pro-Stuk"
 description: "Comment distinguer une courroie qui patine d'un roulement d'alternateur qui siffle : la différence de son et trois tests sans rien démonter."
 faq:
   - q: "Peut-on rouler avec un roulement d'alternateur qui siffle ?"
@@ -132,7 +132,7 @@ atelier. Là, il faut d'abord écarter une erreur de montage — tension mal
 réglée, galet mal serré, courroie de mauvaise longueur.
 
 Si après tous ces tests vous hésitez encore, enregistrez le bruit dans
-l'application Stuk : elle recoupe l'enregistrement avec vos réponses sur
+l'application Pro-Stuk : elle recoupe l'enregistrement avec vos réponses sur
 le moment où le sifflement apparaît et affiche les sources probables avec
 un niveau d'urgence — pour que vous arriviez à l'atelier avec une
 hypothèse qui tient, plutôt qu'avec un vague « ça siffle ».

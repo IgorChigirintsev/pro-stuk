@@ -1,6 +1,6 @@
 ---
 title: "Segni di una puleggia unidirezionale dell'alternatore guasta"
-metaTitle: "Puleggia unidirezionale alternatore: sintomi | Stuk"
+metaTitle: "Puleggia unidirezionale alternatore: sintomi | Pro-Stuk"
 description: "Perché l'alternatore ha una puleggia unidirezionale e come suona la sua usura: fischio all'avviamento, sferragliamento allo spegnimento, cinghia che vibra."
 faq:
   - q: "In cosa differisce una puleggia unidirezionale da una normale?"
@@ -115,6 +115,6 @@ La durata tipica di una ruota libera è intorno ai 100.000 km, quindi il
 suo stato va sempre controllato al cambio programmato della cinghia.
 
 Non è sicuro se sia la ruota libera, un cuscinetto o la cinghia? Registri
-il rumore all'avviamento e allo spegnimento con l'app Stuk: confronta la
+il rumore all'avviamento e allo spegnimento con l'app Pro-Stuk: confronta la
 registrazione con i suoni tipici dei guasti e mostra le cause probabili
 con un livello di urgenza.

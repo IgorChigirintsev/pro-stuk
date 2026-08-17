@@ -1,6 +1,6 @@
 ---
 title: "Un zumbido que crece con la velocidad"
-metaTitle: "Zumbido que crece con la velocidad: causas | Stuk"
+metaTitle: "Zumbido que crece con la velocidad: causas | Pro-Stuk"
 description: "Un zumbido que sube con la velocidad del coche viene casi siempre de las ruedas. Cómo separar un rodamiento de los neumáticos y la transmisión en un trayecto."
 faq:
   - q: "El zumbido crece con la velocidad, ¿es seguro que es un rodamiento?"
@@ -114,7 +114,7 @@ y las pautas en
 
 La dificultad es que todas estas pruebas se hacen de oído mientras se conduce,
 y la memoria humana para el sonido es corta. Grabe el zumbido con la
-aplicación Stuk a distintas velocidades y durante los cambios de carril:
+aplicación Pro-Stuk a distintas velocidades y durante los cambios de carril:
 compara las grabaciones con sus respuestas y muestra las causas probables con
 porcentajes, para que la conversación en el taller empiece con una teoría
 concreta.

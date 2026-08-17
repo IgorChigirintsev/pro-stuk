@@ -1,6 +1,6 @@
 ---
 title: "Registrare un rumore dell'auto per il meccanico"
-metaTitle: "Registrare un rumore dell'auto per il meccanico | Stuk"
+metaTitle: "Registrare un rumore dell'auto per il meccanico | Pro-Stuk"
 description: "Come registrare col telefono un rumore dell'auto in modo che si senta davvero: dove tenere il telefono, cosa dire, quali regimi riprendere e cosa evitare."
 faq:
   - q: "Perché nella registrazione non si sente ciò che in auto è evidente?"
@@ -94,7 +94,7 @@ descrivere poi il suono a parole aiuta
 [come descrivere un rumore dell'auto al meccanico](/it/articles/how-to-describe-a-car-noise-to-a-mechanic/).
 
 Se armeggiare con le impostazioni non le va, la registrazione si può fare
-con l'app Stuk: suggerisce i regimi, chiede le condizioni e, dopo il
+con l'app Pro-Stuk: suggerisce i regimi, chiede le condizioni e, dopo il
 confronto, mostra le cause probabili in percentuale. La scheda finita con
 la registrazione è facile da mostrare al meccanico: la conversazione parte
 subito dal punto giusto.

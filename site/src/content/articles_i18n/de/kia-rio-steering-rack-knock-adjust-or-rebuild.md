@@ -1,6 +1,6 @@
 ---
 title: "Kia Rio: Klopfen im Lenkgetriebe — nachstellen oder instand setzen"
-metaTitle: "Kia Rio: Lenkgetriebe nachstellen oder richten | Stuk"
+metaTitle: "Kia Rio: Lenkgetriebe nachstellen oder richten | Pro-Stuk"
 description: "Klopfen des Lenkgetriebes beim Kia Rio auf kleinen Unebenheiten: warum es auftritt, wie man es von den Koppelstangen trennt und wann Nachstellen reicht."
 faq:
   - q: "Ist ein Klopfen des Lenkgetriebes beim Kia Rio gefährlich?"

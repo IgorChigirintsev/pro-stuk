@@ -1,6 +1,6 @@
 ---
 title: "Sinais de rolamento central do cardã gasto"
-metaTitle: "Rolamento central do cardã gasto: sinais | Stuk"
+metaTitle: "Rolamento central do cardã gasto: sinais | Pro-Stuk"
 description: "Zumbido vindo do meio do assoalho, vibração a partir de certa velocidade, tranco na saída — como reconhecer o rolamento central do cardã gasto."
 faq:
   - q: "Onde fica o rolamento central e para que ele serve?"
@@ -98,7 +98,7 @@ toda oficina oferece, e é a diferença entre eliminar a vibração e eliminar
 apenas o barulho.
 
 Se o zumbido ainda é baixo e não está claro se ele vem do centro do
-assoalho ou de uma roda, grave no aplicativo Stuk numa estrada lisa e
+assoalho ou de uma roda, grave no aplicativo Pro-Stuk numa estrada lisa e
 repita a gravação durante trocas de faixa suaves. O app cruza as gravações
 com as suas respostas a algumas perguntas e mostra as causas prováveis com
 porcentagens.

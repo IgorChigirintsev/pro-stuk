@@ -1,6 +1,6 @@
 ---
 title: "Segni di perni di scorrimento della pinza grippati"
-metaTitle: "Perni della pinza grippati: i segni | Stuk"
+metaTitle: "Perni della pinza grippati: i segni | Pro-Stuk"
 description: "Una ruota che scotta, l'auto che tira in frenata, pastiglie consumate in modo irregolare: come riconoscere i perni di scorrimento grippati e cosa fa l'officina."
 faq:
   - q: "Come verifico in fretta se una pinza sta restando appoggiata?"
@@ -101,6 +101,6 @@ parte della vita, quell'abitudine si ripaga più in fretta: la corrosione dei
 perni comincia da un parapolvere danneggiato, non dai chilometri.
 
 Se le sembra che l'auto non scorra libera e sente un suono da una ruota, lo
-registri con l'app Stuk in rilascio e in frenata leggera. L'app confronta la
+registri con l'app Pro-Stuk in rilascio e in frenata leggera. L'app confronta la
 registrazione con le sue risposte su calore e tiraggio e suggerisce cosa far
 controllare per primo: il gruppo frenante o il telaio.

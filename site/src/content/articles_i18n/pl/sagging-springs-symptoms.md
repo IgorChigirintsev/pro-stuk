@@ -1,6 +1,6 @@
 ---
 title: "Osiadłe sprężyny: objawy"
-metaTitle: "Osiadłe sprężyny: objawy, kontrola, wymiana | Stuk"
+metaTitle: "Osiadłe sprężyny: objawy, kontrola, wymiana | Pro-Stuk"
 description: "Jak rozpoznać osiadłe sprężyny: pomiary prześwitu, zachowanie auta, objawy pośrednie. Czym grozi osiadanie i na czym polega wymiana."
 faq:
   - q: "Dlaczego sprężyny osiadają?"
@@ -128,6 +128,6 @@ pod obciążeniem — o tym mówi tekst o
 [stuku tylko z pasażerami albo ładunkiem](/pl/articles/knock-only-with-passengers-or-a-load/).
 
 Jeśli auto osiadło, a razem z tym pojawiły się niewyjaśnione stuki, zacznij
-od nagrania w aplikacji Stuk: zestawia ona dźwięk z twoimi odpowiedziami o
+od nagrania w aplikacji Pro-Stuk: zestawia ona dźwięk z twoimi odpowiedziami o
 zachowaniu auta i pokazuje prawdopodobne przyczyny z poziomem pilności — co
 ułatwia decyzję, co wymienić najpierw.

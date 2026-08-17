@@ -1,6 +1,6 @@
 ---
 title: "Stukot G4FC w Solarisie i Rio: norma czy zatarcia gładzi"
-metaTitle: "Stukot G4FC: norma czy zatarcia cylindrów | Stuk"
+metaTitle: "Stukot G4FC: norma czy zatarcia cylindrów | Pro-Stuk"
 description: "G4FC stuka na wolnych obrotach: gdzie kończy się zwykły stukot wtryskiwaczy, a zaczyna niepokojący dźwięk. Jak odróżnić normę od zatarć i co sprawdzić."
 faq:
   - q: "Czy stukot w G4FC jest normalny?"
@@ -97,7 +97,7 @@ zapisanym przebiegiem między pomiarami; wrażenia są bez wartości. A
 oględziny endoskopem są tanie w porównaniu z tym, co wykluczają, więc
 proś o zdjęcia cylindrów, a nie o werdykt ustny.
 
-Aplikacja Stuk pomaga w pierwszym kroku: nagraj stukot na zimnym i na
+Aplikacja Pro-Stuk pomaga w pierwszym kroku: nagraj stukot na zimnym i na
 rozgrzanym silniku, odpowiedz na kilka pytań o obciążenie i zużycie oleju
 i dostań listę prawdopodobnych przyczyn w procentach. Nie zastąpi pomiaru
 kompresji, ale oszczędza zbędnej paniki i zbędnych wydatków na

@@ -1,7 +1,7 @@
 ---
 ru: "skrip-v-salone-na-nerovnostyah"
 title: "Interior creaking over bumps"
-metaTitle: "Interior creaking over bumps: causes and search | Stuk"
+metaTitle: "Interior creaking over bumps: causes and search | Pro-Stuk"
 description: "Interior creaks over bumps: why the body flexes and provokes the sound, how to tell trim from suspension, and what you can fix yourself."
 pubDate: "2026-07-29"
 related:
@@ -98,7 +98,7 @@ places usually grows — see
 [interior creaks in winter](/en/articles/interior-creaks-in-winter/).
 
 The most reliable way to stop arguing with yourself about where the sound
-comes from is to record it. Start a recording in the Stuk app before a
+comes from is to record it. Start a recording in the Pro-Stuk app before a
 familiar rough stretch and drive it twice: with the windows closed and
 open. The app matches the recordings with your answers and shows where to
 look — inside the cabin or under the car.

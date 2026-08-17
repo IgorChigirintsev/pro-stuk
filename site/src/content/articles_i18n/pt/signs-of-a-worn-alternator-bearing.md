@@ -1,6 +1,6 @@
 ---
 title: "Sinais de rolamento do alternador gasto"
-metaTitle: "Rolamento do alternador gasto: som e testes | Stuk"
+metaTitle: "Rolamento do alternador gasto: som e testes | Pro-Stuk"
 description: "Como soa um rolamento do alternador gasto, como checar sem desmontar e como diferenciar dos roletes e da polia com roda livre do alternador."
 faq:
   - q: "Dá para rodar com o rolamento do alternador zumbindo?"
@@ -117,6 +117,6 @@ motores, perde também a bomba d'água e a direção hidráulica. O que era um
 serviço agendado vira guincho.
 
 Se apareceu um zunido ou zumbido debaixo do capô e você quer identificar a
-origem antes de ir à oficina, grave o som no aplicativo Stuk — ele compara
+origem antes de ir à oficina, grave o som no aplicativo Pro-Stuk — ele compara
 a gravação com os sons típicos de defeito e mostra as causas prováveis com
 uma nota de urgência.

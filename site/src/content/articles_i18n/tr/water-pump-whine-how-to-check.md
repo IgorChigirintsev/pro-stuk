@@ -1,6 +1,6 @@
 ---
 title: "Devirdaim pompası uğulduyor: nasıl kontrol edilir"
-metaTitle: "Uğuldayan devirdaim pompası: kendiniz kontrol edin | Stuk"
+metaTitle: "Uğuldayan devirdaim pompası: kendiniz kontrol edin | Pro-Stuk"
 description: "Devirdaim pompası neden uğuldar, sesi alternatörden ve gergi rulmanlarından nasıl ayrılır, sökmeden yapılacak kontroller ve onarım kararı."
 faq:
   - q: "Pompa mı, alternatör mü, gergi rulmanı mı olduğunu nasıl anlarım?"
@@ -113,7 +113,7 @@ eğilmiş supap ve revizyon demektir — ve hızlı antifriz kaybıyla aşırı
 ısınmadır. İkisi de planlı bir değişimden kıyaslanamayacak kadar pahalıdır.
 Servise giderken sıcaklık göstergesine göz kulak olun ve motoru zorlamayın.
 
-Pompa olduğundan emin değilseniz, kaputun altındaki sesi Stuk uygulamasında
+Pompa olduğundan emin değilseniz, kaputun altındaki sesi Pro-Stuk uygulamasında
 kaydedin: uygulama kaydı, sesin ne zaman ve nasıl çıktığına dair
 cevaplarınızla eşleştirir ve olası sebepleri aciliyet derecesiyle gösterir —
 böylece servise genel bir «bir şey uğulduyor» ile değil, somut bir teoriyle

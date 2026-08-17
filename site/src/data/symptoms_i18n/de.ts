@@ -4,7 +4,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Klopfen im Motor',
-    metaTitle: 'Motor klopft: Ursachen, Gefahr, was zu tun ist | Stuk',
+    metaTitle: 'Motor klopft: Ursachen, Gefahr, was zu tun ist | Pro-Stuk',
     description:
       'Warum der Motor klopft: vom harmlosen Ventilticken bis zu verschlissenen Kurbelwellenlagern. Wie Sie ein gefährliches Klopfen erkennen, ob Sie weiterfahren können und was Sie selbst prüfen.',
     intro: [
@@ -30,7 +30,7 @@ export const pages: Record<string, SymptomTr> = {
       'Prüfen, ob die Öldruckleuchte an ist: Die rote Ölkanne zusammen mit einem Klopfen heißt, den Motor sofort abzustellen.',
     ],
     appHelp:
-      'Die App Stuk führt Sie durch dieselben Fragen, die ein Motorenbauer stellt, nimmt das Geräusch auf und bewertet Spektrum und Rhythmus: wie oft die Schläge kommen und wie sich das zur Drehzahl verhält — bei Ventil- und Kurbelwellenklopfen ist dieses Verhältnis verschieden. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten, eine Dringlichkeitsampel und Formulierungen für das Gespräch in der Werkstatt.',
+      'Die App Pro-Stuk führt Sie durch dieselben Fragen, die ein Motorenbauer stellt, nimmt das Geräusch auf und bewertet Spektrum und Rhythmus: wie oft die Schläge kommen und wie sich das zur Drehzahl verhält — bei Ventil- und Kurbelwellenklopfen ist dieses Verhältnis verschieden. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten, eine Dringlichkeitsampel und Formulierungen für das Gespräch in der Werkstatt.',
     faq: [
       {
         q: 'Warum klopft der Motor nur im kalten Zustand?',
@@ -49,7 +49,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Quietschende Bremsen',
-    metaTitle: 'Bremsen quietschen: gefährlich oder nicht, Ursachen | Stuk',
+    metaTitle: 'Bremsen quietschen: gefährlich oder nicht, Ursachen | Pro-Stuk',
     description:
       'Warum Bremsen quietschen: ein Rostfilm über Nacht, der Verschleißanzeiger der Beläge oder ein Problem mit den Scheiben. Wie Sie harmloses Quietschen von einer Warnung unterscheiden.',
     intro: [
@@ -74,7 +74,7 @@ export const pages: Record<string, SymptomTr> = {
       'Auf Pedal und Fahrverhalten achten: Ziehen zur Seite beim Bremsen, Pulsieren oder ein langes Pedal sind ernster als Quietschen und bedeuten Werkstatt ohne Aufschub.',
     ],
     appHelp:
-      'Die App Stuk trennt das harmlose vom beunruhigenden Szenario mit denselben Fragen — wann es quietscht und ob das Geräusch verschwindet —, und die Aufnahme hilft, das hohe Quietschen des Verschleißanzeigers vom Schleifen zu unterscheiden. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und eine Ampel: weiterfahren, diese Woche in die Werkstatt oder anhalten.',
+      'Die App Pro-Stuk trennt das harmlose vom beunruhigenden Szenario mit denselben Fragen — wann es quietscht und ob das Geräusch verschwindet —, und die Aufnahme hilft, das hohe Quietschen des Verschleißanzeigers vom Schleifen zu unterscheiden. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und eine Ampel: weiterfahren, diese Woche in die Werkstatt oder anhalten.',
     faq: [
       {
         q: 'Warum quietschen Bremsen morgens und bei Regen?',
@@ -93,7 +93,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Brummen während der Fahrt',
-    metaTitle: 'Brummen während der Fahrt: Radlager, Reifen oder Getriebe | Stuk',
+    metaTitle: 'Brummen während der Fahrt: Radlager, Reifen oder Getriebe | Pro-Stuk',
     description:
       'Gleichmäßiges Brummen bei Tempo: Radlager, Reifen, Getriebe oder Differenzial. Einfache Tests ohne Werkstatt — Leerlauftest und sanfte Kurven — grenzen die Ursache ein.',
     intro: [
@@ -119,7 +119,7 @@ export const pages: Record<string, SymptomTr> = {
       'Beim Schaltgetriebe prüfen, ob sich das Heulen bei gleicher Geschwindigkeit in verschiedenen Gängen ändert; beim Heckantrieb, ob mit dem Brummen ein Zittern im Boden in einem engen Geschwindigkeitsbereich auftritt.',
     ],
     appHelp:
-      'Die App Stuk führt durch dieselben Fragen — bleibt das Brummen im Leerlauf, ändert es sich in Kurven und mit dem Belag — und hilft, das Geräusch aufzunehmen, um seinen Charakter mit typischen Fällen zu vergleichen. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein Fazit: ruhig weiterfahren, Werkstatt planen oder ohne Aufschub prüfen lassen.',
+      'Die App Pro-Stuk führt durch dieselben Fragen — bleibt das Brummen im Leerlauf, ändert es sich in Kurven und mit dem Belag — und hilft, das Geräusch aufzunehmen, um seinen Charakter mit typischen Fällen zu vergleichen. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein Fazit: ruhig weiterfahren, Werkstatt planen oder ohne Aufschub prüfen lassen.',
     faq: [
       {
         q: 'Wie unterscheide ich ein Lagerbrummen vom Reifengeräusch?',
@@ -138,7 +138,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Klopfen im Fahrwerk',
-    metaTitle: 'Klopfen im Fahrwerk: was klopft, Ursachen, weiterfahren? | Stuk',
+    metaTitle: 'Klopfen im Fahrwerk: was klopft, Ursachen, weiterfahren? | Pro-Stuk',
     description:
       'Was im Fahrwerk klopft: Koppelstangen, Gummilager, die Lenkung oder eine gebrochene Feder. Wie Sie die Geräusche nach ihrem Charakter unterscheiden und wann die Werkstatt dran ist.',
     intro: [
@@ -164,7 +164,7 @@ export const pages: Record<string, SymptomTr> = {
       'Ohne etwas zu zerlegen von unten hinter das Rad schauen: Eine gebrochene Windung sieht man oft mit bloßem Auge, und man erkennt zugleich, ob eine Ecke tiefer steht.',
     ],
     appHelp:
-      'Die App Stuk geht dieselben Verzweigungen durch wie ein Mechaniker bei der ersten Sichtprüfung: welches Geräusch, auf welchen Unebenheiten, vorn oder hinten, geht es ins Lenkrad. Die Aufnahme bewahrt die Details bis zum Werkstattbesuch, und im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und eine klare Ampel: weiterfahren, diese Woche zeigen oder dringend prüfen lassen.',
+      'Die App Pro-Stuk geht dieselben Verzweigungen durch wie ein Mechaniker bei der ersten Sichtprüfung: welches Geräusch, auf welchen Unebenheiten, vorn oder hinten, geht es ins Lenkrad. Die Aufnahme bewahrt die Details bis zum Werkstattbesuch, und im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und eine klare Ampel: weiterfahren, diese Woche zeigen oder dringend prüfen lassen.',
     faq: [
       {
         q: 'Ist es gefährlich, mit einem Klopfen im Fahrwerk zu fahren?',
@@ -183,7 +183,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Brummen des Radlagers',
-    metaTitle: 'Radlager brummt: woran Sie es erkennen | Stuk',
+    metaTitle: 'Radlager brummt: woran Sie es erkennen | Pro-Stuk',
     description:
       'Wie ein verschlissenes Radlager klingt, wie Sie es vom Reifengeräusch unterscheiden, welches Rad brummt und wie lange Sie damit fahren können.',
     intro: [
@@ -208,7 +208,7 @@ export const pages: Record<string, SymptomTr> = {
       'Nach der Fahrt vorsichtig die Hand an die Naben halten (ohne die heiße Bremsscheibe zu berühren): eine deutlich wärmere Nabe auf einer Seite ist ein zusätzliches Indiz.',
     ],
     appHelp:
-      'Die App Stuk stellt dieselben Kontrollfragen — zum Belag, zu Kurven und zum Rollen im Leerlauf —, nimmt das Brummen auf und bewertet seinen Charakter: das gleichmäßige Breitbandrauschen der Reifen und ein Lagerbrummen sehen im Spektrum verschieden aus. Im Bericht stehen die Wahrscheinlichkeiten der Ursachen, die Dringlichkeit und ein Hinweis, welche Seite Sie dem Mechaniker nennen sollten.',
+      'Die App Pro-Stuk stellt dieselben Kontrollfragen — zum Belag, zu Kurven und zum Rollen im Leerlauf —, nimmt das Brummen auf und bewertet seinen Charakter: das gleichmäßige Breitbandrauschen der Reifen und ein Lagerbrummen sehen im Spektrum verschieden aus. Im Bericht stehen die Wahrscheinlichkeiten der Ursachen, die Dringlichkeit und ein Hinweis, welche Seite Sie dem Mechaniker nennen sollten.',
     faq: [
       {
         q: 'Warum ändert sich das Brummen in Kurven?',
@@ -227,7 +227,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Klopfen auf Unebenheiten',
-    metaTitle: 'Klopfen auf Unebenheiten: Ursachen, selbst prüfen | Stuk',
+    metaTitle: 'Klopfen auf Unebenheiten: Ursachen, selbst prüfen | Pro-Stuk',
     description:
       'Klopfen auf Unebenheiten: häufig auf kleinen Wellen, einzelne Schläge in Löchern oder ein Klopfen im Lenkrad. Welche Teile schuld sind, was Sie selbst prüfen und ob Sie fahren können.',
     intro: [
@@ -253,7 +253,7 @@ export const pages: Record<string, SymptomTr> = {
       'Das Einfache ausschließen: lose Gegenstände aus dem Kofferraum nehmen, Reserverad und Wagenheber auf festen Sitz prüfen, auf die geschlossene Motorhaube drücken — ein spielendes Haubenschloss tackt ähnlich wie das Fahrwerk.',
     ],
     appHelp:
-      'Die App Stuk stellt dieselben Fragen wie diese Seite, nur Schritt für Schritt: welches Klopfen genau, wo es zu hören ist, wie es sich auf verschiedenen Unebenheiten verhält. Aus den Antworten und der Aufnahme entsteht ein Bericht mit wahrscheinlichen Ursachen und einer Dringlichkeitsampel — damit fällt die Entscheidung leichter, ob es morgen in die Werkstatt geht oder bei Gelegenheit.',
+      'Die App Pro-Stuk stellt dieselben Fragen wie diese Seite, nur Schritt für Schritt: welches Klopfen genau, wo es zu hören ist, wie es sich auf verschiedenen Unebenheiten verhält. Aus den Antworten und der Aufnahme entsteht ein Bericht mit wahrscheinlichen Ursachen und einer Dringlichkeitsampel — damit fällt die Entscheidung leichter, ob es morgen in die Werkstatt geht oder bei Gelegenheit.',
     faq: [
       {
         q: 'Warum ist das Klopfen nur auf Unebenheiten zu hören und auf glatter Straße nicht?',
@@ -272,7 +272,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Tickender Motor',
-    metaTitle: 'Motor tickt: normal oder Verschleiß, Ursachen | Stuk',
+    metaTitle: 'Motor tickt: normal oder Verschleiß, Ursachen | Pro-Stuk',
     description:
       'Woher das Ticken im Motor kommt: Ventilspiele, Hydrostößel, normales Injektorklackern oder der Abgaskrümmer. Wie Sie normalen Betrieb von Verschleiß unterscheiden.',
     intro: [
@@ -298,7 +298,7 @@ export const pages: Record<string, SymptomTr> = {
       'An der offenen Motorhaube schnuppern: Abgasgeruch zusammen mit häufigem Klackern ist ein Zeichen für den Abgaskrümmer — damit innerhalb von ein bis zwei Wochen in die Werkstatt.',
     ],
     appHelp:
-      'Die App Stuk klärt das Wichtigste — ob das Ticken mit der Zeit lauter geworden ist und wie es sich kalt und warm verhält — und die Aufnahme erlaubt den Vergleich mit typischen Beispielen. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein Ampelfazit: normal, Termin in dieser Woche oder Diagnose ohne Aufschub.',
+      'Die App Pro-Stuk klärt das Wichtigste — ob das Ticken mit der Zeit lauter geworden ist und wie es sich kalt und warm verhält — und die Aufnahme erlaubt den Vergleich mit typischen Beispielen. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein Ampelfazit: normal, Termin in dieser Woche oder Diagnose ohne Aufschub.',
     faq: [
       {
         q: 'Warum ticken Diesel und Direkteinspritzer immer?',
@@ -317,7 +317,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Quietschender Riemen',
-    metaTitle: 'Riemen quietscht: Ursachen, weiterfahren, was tun | Stuk',
+    metaTitle: 'Riemen quietscht: Ursachen, weiterfahren, was tun | Pro-Stuk',
     description:
       'Der Keilrippenriemen quietscht: Verschleiß, zu wenig Spannung, Rollen oder die Klimakompressor-Kupplung. Wie Sie die Ursache nach den Umständen eingrenzen und wann die Werkstatt dran ist.',
     intro: [
@@ -343,7 +343,7 @@ export const pages: Record<string, SymptomTr> = {
       'Darauf achten, ob neben dem Pfeifen ein gleichmäßiges Brummen oder Rascheln mit der Drehzahl mitgeht — so klingt das Lager einer der Rollen.',
     ],
     appHelp:
-      'Die App Stuk klärt Charakter und Umstände des Geräusches — Pfeifen oder Brummen, kalt oder unter Last, mit der Klimaanlage verbunden oder nicht — und hilft anhand der Aufnahme, das Quietschen des Riemens vom Rascheln einer Rolle zu trennen. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und eine Ampel: weiterfahren, diese Woche in die Werkstatt oder anhalten.',
+      'Die App Pro-Stuk klärt Charakter und Umstände des Geräusches — Pfeifen oder Brummen, kalt oder unter Last, mit der Klimaanlage verbunden oder nicht — und hilft anhand der Aufnahme, das Quietschen des Riemens vom Rascheln einer Rolle zu trennen. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und eine Ampel: weiterfahren, diese Woche in die Werkstatt oder anhalten.',
     faq: [
       {
         q: 'Was passiert, wenn der Riemen unterwegs reißt?',
@@ -362,7 +362,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Klappern unter dem Auto',
-    metaTitle: 'Klappern unter dem Auto: was scheppert und ist es gefährlich | Stuk',
+    metaTitle: 'Klappern unter dem Auto: was scheppert und ist es gefährlich | Pro-Stuk',
     description:
       'Es klappert und scheppert unter dem Auto: Auspuffhalter, Hitzeschild, Unterfahrschutz oder Katalysator. Wie Sie die Quelle finden und wann es ernst wird.',
     intro: [
@@ -388,7 +388,7 @@ export const pages: Record<string, SymptomTr> = {
       'Unter das Auto schauen, ohne darunter zu kriechen: ein durchhängender Auspuff, eine lose Kante des Unterfahrschutzes oder ein verbogenes Schild sind oft schon vom Rad aus zu sehen.',
     ],
     appHelp:
-      'Die App Stuk hilft, das Scheppern seiner Quelle zuzuordnen: woher das Geräusch kommt, ob es an der Drehzahl oder an Unebenheiten hängt, was mit der Leistung passiert. Aus Antworten und Aufnahme zeigt sie wahrscheinliche Ursachen mit Prozentwerten und eine Dringlichkeitsampel — praktisch, um harmloses Blech schon vor der Werkstatt vom Katalysator zu unterscheiden.',
+      'Die App Pro-Stuk hilft, das Scheppern seiner Quelle zuzuordnen: woher das Geräusch kommt, ob es an der Drehzahl oder an Unebenheiten hängt, was mit der Leistung passiert. Aus Antworten und Aufnahme zeigt sie wahrscheinliche Ursachen mit Prozentwerten und eine Dringlichkeitsampel — praktisch, um harmloses Blech schon vor der Werkstatt vom Katalysator zu unterscheiden.',
     faq: [
       {
         q: 'Ist es gefährlich zu fahren, wenn unter dem Auto etwas scheppert?',
@@ -407,7 +407,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Schleifen beim Bremsen',
-    metaTitle: 'Schleifen beim Bremsen: Beläge am Ende, was tun | Stuk',
+    metaTitle: 'Schleifen beim Bremsen: Beläge am Ende, was tun | Pro-Stuk',
     description:
       'Schleifen beim Bremsen heißt meist bis aufs Metall abgefahrene Beläge — damit fährt man nicht. Seltener ist ein Steinchen hinter dem Schutzblech schuld. Wie Sie das unterscheiden.',
     intro: [
@@ -432,7 +432,7 @@ export const pages: Record<string, SymptomTr> = {
       'Die Bremsscheibe durch das Rad ansehen: tiefe Riefen und ein bläulicher Schimmer im Metall sagen, dass das Schleifen schon lange läuft und die Scheiben gelitten haben.',
     ],
     appHelp:
-      'Die App Stuk führt durch dieselben Fragen — ist das Schleifen dauerhaft, wird ein Rad heiß, verschwindet das Geräusch nach den ersten Bremsungen — und hilft anhand der Aufnahme, Schleifen vom Quietschen des Verschleißanzeigers zu unterscheiden. Im Bericht stehen wahrscheinliche Ursachen und eine Ampel: weiterfahren, diese Woche zeigen oder nur noch bis zur Werkstatt fahren.',
+      'Die App Pro-Stuk führt durch dieselben Fragen — ist das Schleifen dauerhaft, wird ein Rad heiß, verschwindet das Geräusch nach den ersten Bremsungen — und hilft anhand der Aufnahme, Schleifen vom Quietschen des Verschleißanzeigers zu unterscheiden. Im Bericht stehen wahrscheinliche Ursachen und eine Ampel: weiterfahren, diese Woche zeigen oder nur noch bis zur Werkstatt fahren.',
     faq: [
       {
         q: 'Was unterscheidet Schleifen vom Bremsenquietschen?',
@@ -451,7 +451,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-pri-razgone': {
     h1: 'Klopfen beim Beschleunigen',
-    metaTitle: 'Klopfen bei Gas geben und Gas wegnehmen: Ursachen | Stuk',
+    metaTitle: 'Klopfen bei Gas geben und Gas wegnehmen: Ursachen | Pro-Stuk',
     description:
       'Warum es beim Gasgeben oder Gaswegnehmen klopft: Motorlager, Gleichlaufgelenk, Spiel im Antriebsstrang oder das Getriebe. Wie Sie harmloses Spiel von einem Klopfen im Motor unterscheiden.',
     intro: [
@@ -476,7 +476,7 @@ export const pages: Record<string, SymptomTr> = {
       'Den sanften Test machen: Bleibt das Klopfen bei weichem Gasgeben und -wegnehmen aus und kommt bei ruppigem zurück, ist es klassisches Spiel, und bis zur Reparatur reicht ruhiges Fahren.',
     ],
     appHelp:
-      'Die App Stuk stellt dieselben Rückfragen — wann genau es klopft, ob sich das Geräusch mit Drehzahl und Gängen ändert — und hilft anhand der Aufnahme, das Scheppern von Spiel von einem tiefen Motorklopfen zu trennen. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein klares Fazit: weiterfahren, Werkstatt planen oder anhalten.',
+      'Die App Pro-Stuk stellt dieselben Rückfragen — wann genau es klopft, ob sich das Geräusch mit Drehzahl und Gängen ändert — und hilft anhand der Aufnahme, das Scheppern von Spiel von einem tiefen Motorklopfen zu trennen. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein klares Fazit: weiterfahren, Werkstatt planen oder anhalten.',
     faq: [
       {
         q: 'Warum klopft es genau beim Gasgeben und Gaswegnehmen?',
@@ -495,7 +495,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Klingeln beim Beschleunigen',
-    metaTitle: 'Klingeln beim Beschleunigen: Klopfen oder nicht, was tun | Stuk',
+    metaTitle: 'Klingeln beim Beschleunigen: Klopfen oder nicht, was tun | Pro-Stuk',
     description:
       'Metallisches Klingeln beim Beschleunigen ist meist klopfende Verbrennung wegen des Kraftstoffs. Wie Sie das mit einem Tankstellenwechsel prüfen und wann nicht der Motor, sondern Hitzeschild oder Katalysator schuld ist.',
     intro: [
@@ -520,7 +520,7 @@ export const pages: Record<string, SymptomTr> = {
       'Auf Leistung und Geräusche unter dem Boden achten: Rascheln und Klingeln von unten zusammen mit schwächerer Beschleunigung ist ein Grund, den Katalysator ohne Aufschub prüfen zu lassen.',
     ],
     appHelp:
-      'Die App Stuk hilft mit denselben Fragen weiter — wann es klingelt, hängt das Geräusch an der Last oder an der Drehzahl — und die Aufnahme erlaubt, das helle Klingeln der Verbrennung vom Scheppern eines Blechs zu unterscheiden. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein Fazit: weiterfahren, Werkstatt planen oder besser anhalten.',
+      'Die App Pro-Stuk hilft mit denselben Fragen weiter — wann es klingelt, hängt das Geräusch an der Last oder an der Drehzahl — und die Aufnahme erlaubt, das helle Klingeln der Verbrennung vom Scheppern eines Blechs zu unterscheiden. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein Fazit: weiterfahren, Werkstatt planen oder besser anhalten.',
     faq: [
       {
         q: 'Was heißt „der Motor nagelt“?',
@@ -539,7 +539,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Brummen in der Kurve',
-    metaTitle: 'Brummen in der Kurve: Radlager oder Servopumpe | Stuk',
+    metaTitle: 'Brummen in der Kurve: Radlager oder Servopumpe | Pro-Stuk',
     description:
       'Woher das Brummen in der Kurve kommt: verschlissenes Radlager, heulende Servopumpe oder Reifengeräusch. Wie Sie die Seite bestimmen und ob es gefährlich ist.',
     intro: [
@@ -565,7 +565,7 @@ export const pages: Record<string, SymptomTr> = {
       'Das Profil ansehen: Sägezahnverschleiß (Stufen an den Kanten) oder fleckiger Verschleiß verstärkt das Reifenbrummen und deutet zugleich auf falsche Spur oder müde Stoßdämpfer hin.',
     ],
     appHelp:
-      'Die App Stuk stellt dieselben Fragen wie der Meister bei der Annahme: wo das Brummen zu hören ist, ob es sich in Kurven ändert, ob es mit dem Lenken im Stand zusammenhängt. Die Aufnahme hilft beim Vergleich mit typischen Beispielen, und im Bericht stehen wahrscheinliche Ursachen und eine klare Empfehlung: ruhig weiterfahren, Termin in dieser Woche oder ohne Aufschub prüfen lassen.',
+      'Die App Pro-Stuk stellt dieselben Fragen wie der Meister bei der Annahme: wo das Brummen zu hören ist, ob es sich in Kurven ändert, ob es mit dem Lenken im Stand zusammenhängt. Die Aufnahme hilft beim Vergleich mit typischen Beispielen, und im Bericht stehen wahrscheinliche Ursachen und eine klare Empfehlung: ruhig weiterfahren, Termin in dieser Woche oder ohne Aufschub prüfen lassen.',
     faq: [
       {
         q: 'Warum wird das Brummen nur in eine Kurvenrichtung lauter?',
@@ -584,7 +584,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Klicken beim Lenken',
-    metaTitle: 'Klicken beim Lenken: Gleichlaufgelenk oder Domlager | Stuk',
+    metaTitle: 'Klicken beim Lenken: Gleichlaufgelenk oder Domlager | Pro-Stuk',
     description:
       'Warum es beim Lenken klickt: äußeres Gleichlaufgelenk, Domlager der Federbeine oder das Lenkzwischengelenk. Wie Sie sie am Geräusch unterscheiden und was Sie ohne Demontage prüfen.',
     intro: [
@@ -610,7 +610,7 @@ export const pages: Record<string, SymptomTr> = {
       'Sich merken, von welchem Rad das Knacken bei der Fahrt kommt und in welcher Kurve es lauter ist — diese Details verkürzen die Suche in der Werkstatt deutlich.',
     ],
     appHelp:
-      'In der App Stuk sind diese Verzweigungen zu einem kurzen Fragebaum zusammengefasst: fährt das Auto oder steht es, woher kommt das Geräusch, wie sehen die Manschetten aus. Das Knacken lässt sich mit dem Telefon aufnehmen und mit Beispielen vergleichen. Im Bericht stehen wahrscheinliche Ursachen mit Einschätzung und eine Empfehlung zum Zeitrahmen: ohne Panik, aber auch ohne einen Monat vergessene Klicks.',
+      'In der App Pro-Stuk sind diese Verzweigungen zu einem kurzen Fragebaum zusammengefasst: fährt das Auto oder steht es, woher kommt das Geräusch, wie sehen die Manschetten aus. Das Knacken lässt sich mit dem Telefon aufnehmen und mit Beispielen vergleichen. Im Bericht stehen wahrscheinliche Ursachen mit Einschätzung und eine Empfehlung zum Zeitrahmen: ohne Panik, aber auch ohne einen Monat vergessene Klicks.',
     faq: [
       {
         q: 'Was ist ein Gleichlaufgelenk und warum klickt es?',
@@ -629,7 +629,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Motorklopfen im kalten Zustand',
-    metaTitle: 'Motor klopft kalt: Ursachen und was zu tun ist | Stuk',
+    metaTitle: 'Motor klopft kalt: Ursachen und was zu tun ist | Pro-Stuk',
     description:
       'Warum der Motor kalt klopft und nach dem Warmwerden verstummt: Hydrostößel, Kolben, Steuerkette. Wann das normal ist und wann die Werkstatt dran ist.',
     intro: [
@@ -655,7 +655,7 @@ export const pages: Record<string, SymptomTr> = {
       'Den warmen Motor zehn Minuten abstellen und wieder starten: Ein echtes Kaltklopfen kommt nach so kurzer Pause nicht zurück.',
     ],
     appHelp:
-      'Die App Stuk geht dieselben Verzweigungen durch — Ticken, dumpfes Klopfen oder Rascheln und wie schnell das Geräusch verschwindet — und die Telefonaufnahme fängt den Charakter eines Geräusches ein, das sich schwer in Worte fassen lässt. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein klares Fazit: ruhig weiterfahren, Termin in dieser Woche oder die Werkstatt nicht hinauszögern.',
+      'Die App Pro-Stuk geht dieselben Verzweigungen durch — Ticken, dumpfes Klopfen oder Rascheln und wie schnell das Geräusch verschwindet — und die Telefonaufnahme fängt den Charakter eines Geräusches ein, das sich schwer in Worte fassen lässt. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein klares Fazit: ruhig weiterfahren, Termin in dieser Woche oder die Werkstatt nicht hinauszögern.',
     faq: [
       {
         q: 'Das Klopfen verschwindet nach dem Warmwerden — kann ich es ignorieren?',
@@ -674,7 +674,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Pfeifen beim Motorstart',
-    metaTitle: 'Pfeifen beim Starten: Ursachen und was zu tun ist | Stuk',
+    metaTitle: 'Pfeifen beim Starten: Ursachen und was zu tun ist | Pro-Stuk',
     description:
       'Warum der Motor beim Starten pfeift: rutschender Keilrippenriemen, Rollen oder die Wasserpumpe. Wann das Pfeifen harmlos ist und wann ein Termin fällig wird.',
     intro: [
@@ -700,7 +700,7 @@ export const pages: Record<string, SymptomTr> = {
       'Nachsehen, ob es um die Scheiben Tropfen oder weißliche Kühlmittelspuren gibt: Sie deuten auf die Wasserpumpe, und dann sollte der Werkstattbesuch nicht warten.',
     ],
     appHelp:
-      'Die App Stuk stellt dieselben Fragen wie der Meister bei der Annahme: wann das Pfeifen auftritt, ob es nach dem Warmwerden verschwindet, was während des Anlasserlaufs zu hören ist. Die Aufnahme hilft, das Quietschen des Riemens vom Schleifen des Anlassers zu trennen, und im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein klares Fazit: weiterfahren, diese Woche in die Werkstatt oder anhalten.',
+      'Die App Pro-Stuk stellt dieselben Fragen wie der Meister bei der Annahme: wann das Pfeifen auftritt, ob es nach dem Warmwerden verschwindet, was während des Anlasserlaufs zu hören ist. Die Aufnahme hilft, das Quietschen des Riemens vom Schleifen des Anlassers zu trennen, und im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und ein klares Fazit: weiterfahren, diese Woche in die Werkstatt oder anhalten.',
     faq: [
       {
         q: 'Warum pfeift der Motor nur kalt und bei Nässe?',
@@ -719,7 +719,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Vibration im Leerlauf',
-    metaTitle: 'Vibration im Leerlauf: Ursachen des Zitterns und was tun | Stuk',
+    metaTitle: 'Vibration im Leerlauf: Ursachen des Zitterns und was tun | Pro-Stuk',
     description:
       'Warum das Auto im Leerlauf zittert: Motorlager, Zündaussetzer, Falschluft oder eine verschmutzte Drosselklappe. Was Sie prüfen und ob Sie fahren können.',
     intro: [
@@ -744,7 +744,7 @@ export const pages: Record<string, SymptomTr> = {
       'Sich erinnern, wann die Zündkerzen gewechselt wurden: Laufleistung weit über dem Intervall macht sie zum ersten Verdächtigen bei Aussetzern. Leuchtet die Motorkontrollleuchte, mit dem Auslesen der Fehlercodes beginnen: Sie engen die Suche ein.',
     ],
     appHelp:
-      'Die App Stuk stellt dieselben Fragen — wird das Zittern mit eingelegtem Gang stärker, hält die Drehzahl ruhig, leuchtet die Motorkontrollleuchte — und verteilt daraus die wahrscheinlichen Ursachen auf Prozentwerte. Im Bericht steht ein klares Fazit: ruhig weiterfahren, Termin in dieser Woche oder das Auto in den nächsten Tagen zeigen.',
+      'Die App Pro-Stuk stellt dieselben Fragen — wird das Zittern mit eingelegtem Gang stärker, hält die Drehzahl ruhig, leuchtet die Motorkontrollleuchte — und verteilt daraus die wahrscheinlichen Ursachen auf Prozentwerte. Im Bericht steht ein klares Fazit: ruhig weiterfahren, Termin in dieser Woche oder das Auto in den nächsten Tagen zeigen.',
     faq: [
       {
         q: 'Warum zittert es nur im Leerlauf, während das Auto während der Fahrt ruhig läuft?',
@@ -763,7 +763,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Knallen im Auspuff',
-    metaTitle: 'Knallen im Auspuff: Ursachen und was zu tun ist | Stuk',
+    metaTitle: 'Knallen im Auspuff: Ursachen und was zu tun ist | Pro-Stuk',
     description:
       'Warum es aus dem Auspuff knallt: Zündaussetzer, durchgebrannte Abgasanlage, Gemischbildung oder Einstellungen der Gasanlage. Was Knallen dem Katalysator antut.',
     intro: [
@@ -789,7 +789,7 @@ export const pages: Record<string, SymptomTr> = {
       'Bei einem Auto mit Gasanlage Gas- und Benzinbetrieb vergleichen: Knallen nur im Gasbetrieb ist eine Frage an die Einstellung der Anlage.',
     ],
     appHelp:
-      'Die App Stuk klärt die Umstände — Knallen oder Röhren, im Gas- oder Benzinbetrieb, mit oder ohne Leistungsverlust — und hilft, Zündprobleme, ein Loch im Abgastrakt und eine rutschende Kupplung zu trennen, die nach Gehör ähnlich sind. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und eine klare Empfehlung, wie dringend die Werkstatt ist.',
+      'Die App Pro-Stuk klärt die Umstände — Knallen oder Röhren, im Gas- oder Benzinbetrieb, mit oder ohne Leistungsverlust — und hilft, Zündprobleme, ein Loch im Abgastrakt und eine rutschende Kupplung zu trennen, die nach Gehör ähnlich sind. Im Bericht stehen wahrscheinliche Ursachen mit Prozentwerten und eine klare Empfehlung, wie dringend die Werkstatt ist.',
     faq: [
       {
         q: 'Warum knallt es im Auspuff, wenn das Problem im Motor liegt?',

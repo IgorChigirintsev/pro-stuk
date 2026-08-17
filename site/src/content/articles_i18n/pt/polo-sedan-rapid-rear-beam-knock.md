@@ -1,6 +1,6 @@
 ---
 title: "Barulho no eixo traseiro do Polo Sedan / Rapid"
-metaTitle: "Barulho no eixo traseiro do Polo e Rapid | Stuk"
+metaTitle: "Barulho no eixo traseiro do Polo e Rapid | Pro-Stuk"
 description: "Por que o Polo Sedan ou o Rapid bate atrás: buchas do eixo, amortecedores, batentes e fixações. Como localizar a origem e do que depende o reparo."
 faq:
   - q: "Dá para trocar só as buchas, sem trocar o eixo?"
@@ -96,7 +96,7 @@ serviço recente, é exatamente isso que se deve conferir —
 [batida depois de um reparo na suspensão](/pt/articles/knock-after-suspension-repair/).
 
 Se a batida só aparece num trecho específico de rua e não se reproduz na
-oficina, grave o som no aplicativo Stuk enquanto passa por lá. O
+oficina, grave o som no aplicativo Pro-Stuk enquanto passa por lá. O
 aplicativo cruza a gravação com suas respostas e mostra as causas
 prováveis em porcentagem, então a conversa com o mecânico já começa por
 uma peça concreta.

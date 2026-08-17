@@ -1,6 +1,6 @@
 ---
 title: "Jak sprawdzić poduszki silnika pod obciążeniem"
-metaTitle: "Jak sprawdzić poduszki silnika obciążeniem | Stuk"
+metaTitle: "Jak sprawdzić poduszki silnika obciążeniem | Pro-Stuk"
 description: "Test obciążeniowy poduszek silnika: włączanie biegów przy wciśniętym hamulcu, jaki ruch wypatrywać i jak odróżnić poduszki od innych stuków."
 faq:
   - q: "O ile w ogóle silnik powinien się ruszać?"
@@ -62,13 +62,13 @@ obciążeniem, a nie wzrokiem.
 
 ## Żeby nie pomylić ich z innymi stukami
 
-Stuk przy ruszaniu bierze się nie tylko z poduszki. Podobne dźwięki daje luz
+Pro-Stuk przy ruszaniu bierze się nie tylko z poduszki. Podobne dźwięki daje luz
 w półosiach, rozbite tuleje wahaczy, poduszka skrzyni biegów oraz przegub
 wału napędowego w autach z napędem na tył.
 
-Rozdziela je zakres pracy. Stuk poduszki jest związany ze zmianą obciążenia:
-ruszanie, zmiana biegu, gwałtowne puszczenie gazu. Stuk półosi pojawia się w
-zakręcie pod gazem i brzmi jak szybkie chrupanie. Stuk zawieszenia podąża za
+Rozdziela je zakres pracy. Pro-Stuk poduszki jest związany ze zmianą obciążenia:
+ruszanie, zmiana biegu, gwałtowne puszczenie gazu. Pro-Stuk półosi pojawia się w
+zakręcie pod gazem i brzmi jak szybkie chrupanie. Pro-Stuk zawieszenia podąża za
 nawierzchnią, a nie za napędem, a stronę „drżeniową” tej historii opisuje
 strona objawu
 [drgania na wolnych obrotach](/pl/symptoms/vibration-at-idle/).
@@ -96,6 +96,6 @@ instalację i półosie. Rozsądne okno to załatwić sprawę w ciągu miesiąca
 dwóch od pojawienia się stuku.
 
 Jeśli nie ma Pan pewności, czy uderzenie jest naprawdę metaliczne, czy to po
-prostu szarpane ruszanie, proszę nagrać moment ruszania w aplikacji Stuk.
+prostu szarpane ruszanie, proszę nagrać moment ruszania w aplikacji Pro-Stuk.
 Aplikacja zestawia nagranie z odpowiedziami o zakres pracy i pokazuje
 prawdopodobne przyczyny w procentach.

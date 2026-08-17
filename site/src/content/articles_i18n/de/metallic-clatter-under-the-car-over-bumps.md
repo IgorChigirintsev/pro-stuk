@@ -1,6 +1,6 @@
 ---
 title: "Metallisches Scheppern unter dem Auto auf Unebenheiten"
-metaTitle: "Metallisches Scheppern unter dem Auto | Stuk"
+metaTitle: "Metallisches Scheppern unter dem Auto | Pro-Stuk"
 description: "Metallisches Scheppern von unten auf Unebenheiten: Unterfahrschutz, Hitzeschilde, Auspuff oder Koppelstangen. Wie Sie die Quelle in fünf Minuten finden."
 faq:
   - q: "Warum ist das Scheppern nur auf Unebenheiten da und auf glatter Straße still?"

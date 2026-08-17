@@ -1,6 +1,6 @@
 ---
 title: "Geçen soğuk vuruntusu tehlikeli mi"
-metaTitle: "Isınınca geçen soğuk vuruntusu tehlikeli mi | Stuk"
+metaTitle: "Isınınca geçen soğuk vuruntusu tehlikeli mi | Pro-Stuk"
 description: "Soğuk çalıştırmada çıkıp ısınınca geçen vuruntu zararsız da olabilir, pahalı bir onarımın habercisi de. Süreye ve karaktere bakarak nasıl ayırırsınız."
 faq:
   - q: "Soğuk çalıştırmada kaç saniyelik vuruntu normal sayılır?"
@@ -104,7 +104,7 @@ ve
 [teker havadayken poyra boşluğu kontrolü](/tr/articles/checking-wheel-bearing-play-with-the-wheel-raised/).
 
 Eğilimi hafızaya güvenmeden takip etmek için soğuk çalıştırmanın ilk
-saniyelerini ayda bir kez Stuk uygulamasına kaydedin. Uygulama kaydı
+saniyelerini ayda bir kez Pro-Stuk uygulamasına kaydedin. Uygulama kaydı
 cevaplarınızla eşleştirir ve muhtemel sebepleri yüzdesiyle gösterir;
 kayıtları birbiriyle karşılaştırmak da asıl soruyu cevaplar: kötüye gidiyor
 mu, gitmiyor mu.

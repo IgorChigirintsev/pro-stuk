@@ -1,6 +1,6 @@
 ---
 title: "Come controllare da soli un giunto sferico"
-metaTitle: "Come controllare da soli un giunto sferico | Stuk"
+metaTitle: "Come controllare da soli un giunto sferico | Pro-Stuk"
 description: "Controllo passo passo del giunto sferico: prova a dondolio, gioco alle ore 12 e 6 sulla ruota sollevata, il trucco del pedale del freno e la cuffia lacerata."
 faq:
   - q: "Si può controllare un giunto sferico senza cric?"
@@ -146,6 +146,6 @@ L’assetto dopo la sostituzione fa parte del lavoro, non è un extra
 opzionale, perché il giunto definisce la geometria.
 
 Se dopo tutte le prove il dubbio resta — c’è un colpo e il colpevole non è
-evidente — si registra il suono nell’app Stuk. L’app confronta la
+evidente — si registra il suono nell’app Pro-Stuk. L’app confronta la
 registrazione con le risposte su quando e su che strade compare il suono e
 mostra le cause probabili con un livello di urgenza.

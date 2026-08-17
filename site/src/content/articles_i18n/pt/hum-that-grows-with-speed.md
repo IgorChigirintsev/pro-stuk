@@ -1,6 +1,6 @@
 ---
 title: "Zumbido que aumenta com a velocidade"
-metaTitle: "Zumbido que aumenta com a velocidade | Stuk"
+metaTitle: "Zumbido que aumenta com a velocidade | Pro-Stuk"
 description: "Zumbido que cresce junto com a velocidade quase sempre vem das rodas. Como separar rolamento, pneus e transmissão numa única volta de teste."
 faq:
   - q: "O zumbido cresce com a velocidade — é rolamento com certeza?"
@@ -99,7 +99,7 @@ gaiola se desfaz e a roda ganha folga. O horizonte sensato é uma inspeção
 até duas semanas depois de o som virar permanente.
 
 A dificuldade é que todos esses testes são feitos de ouvido dirigindo, e a
-memória humana para som é curta. Grave o zumbido no aplicativo Stuk em
+memória humana para som é curta. Grave o zumbido no aplicativo Pro-Stuk em
 velocidades diferentes e durante as mudanças de faixa: ele cruza as
 gravações com as suas respostas e mostra as causas prováveis com
 percentuais, para a conversa na oficina começar com uma hipótese

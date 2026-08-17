@@ -1,6 +1,6 @@
 ---
 title: "Kettenrasseln beim 1.4 TSI: das Problem und die Lösung"
-metaTitle: "Kettenrasseln 1.4 TSI: Ursachen und Lösung | Stuk"
+metaTitle: "Kettenrasseln 1.4 TSI: Ursachen und Lösung | Pro-Stuk"
 description: "Warum frühe 1.4-TSI-Motoren mit Steuerkette beim Kaltstart rasseln, wie Sie eine gelängte Kette von anderen Klopfgeräuschen trennen und was die Reparatur bedeutet."
 faq:
   - q: "Warum rasselt die Kette nur in den ersten Sekunden nach dem Start?"

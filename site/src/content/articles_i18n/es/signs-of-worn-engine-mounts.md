@@ -1,6 +1,6 @@
 ---
 title: "Señales de soportes de motor gastados"
-metaTitle: "Soportes de motor gastados: vibración y golpes | Stuk"
+metaTitle: "Soportes de motor gastados: vibración y golpes | Pro-Stuk"
 description: "Vibración al ralentí, un tirón al meter la marcha y un golpe al acelerar: cómo reconocer unos soportes de motor muertos y qué decide la reparación."
 faq:
   - q: "¿Cuántos soportes lleva un motor?"
@@ -133,7 +133,7 @@ con el motor colgando en un ángulo equivocado queda pretensado y se vuelve
 a romper en unos meses.
 
 Si han aparecido vibración y tirones pero no tiene seguridad en el
-diagnóstico, grabe el motor en marcha con la aplicación Stuk: compara el
+diagnóstico, grabe el motor en marcha con la aplicación Pro-Stuk: compara el
 sonido con sus respuestas sobre los síntomas y muestra las causas probables
 con un nivel de urgencia, suficiente para tener una conversación concreta
 con el mecánico.

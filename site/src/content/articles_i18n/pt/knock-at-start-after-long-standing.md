@@ -1,6 +1,6 @@
 ---
 title: "Barulho na partida depois de semanas parado"
-metaTitle: "Barulho na partida após ficar parado: causas | Stuk"
+metaTitle: "Barulho na partida após ficar parado: causas | Pro-Stuk"
 description: "Por que o motor bate nos primeiros segundos após semanas parado: óleo escorrido, tuchos, tensor da corrente, variador de fase. Onde acaba o normal."
 faq:
   - q: "O motor bate por uns dois segundos depois de dar partida — isso é normal?"
@@ -104,6 +104,6 @@ qualquer um deles. Como conferir os tuchos está em
 [como conferir tuchos hidráulicos](/pt/articles/how-to-check-hydraulic-lifters/).
 
 O jeito mais rápido de saber se o seu caso é inofensivo é gravar a
-primeira partida no aplicativo Stuk: ele cruza o som com as suas respostas
+primeira partida no aplicativo Pro-Stuk: ele cruza o som com as suas respostas
 sobre quanto tempo o carro ficou parado e mostra as causas prováveis com
 porcentagens e um nível de urgência.

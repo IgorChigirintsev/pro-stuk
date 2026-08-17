@@ -1,6 +1,6 @@
 ---
 title: "Zniszczona poduszka silnika: objawy"
-metaTitle: "Zniszczona poduszka silnika: objawy | Stuk"
+metaTitle: "Zniszczona poduszka silnika: objawy | Pro-Stuk"
 description: "Szarpnięcie przy ruszaniu, wibracje na biegu jałowym, głuche łupnięcie przy zmianie D–R — jak rozpoznać zniszczoną poduszkę silnika i czym to grozi."
 faq:
   - q: "Czy jazda z rozerwaną poduszką silnika jest niebezpieczna?"
@@ -100,7 +100,7 @@ wszystkiego, ale też nie zostawiać tego dłużej niż na parę miesięcy,
 zwłaszcza gdy łupnięcie przy zmianie biegu zrobiło się wyraźne.
 
 Jeśli nie wiadomo, skąd bierze się szarpnięcie — z komory silnika czy spod
-koła — proszę nagrać moment ruszania w aplikacji Stuk. Zestawia ona
+koła — proszę nagrać moment ruszania w aplikacji Pro-Stuk. Zestawia ona
 nagranie z odpowiedziami o warunkach, w jakich dźwięk się pojawia, i
 pokazuje prawdopodobne przyczyny z procentami, więc rozmowa w warsztacie
 zaczyna się od konkretnej hipotezy.

@@ -1,6 +1,6 @@
 ---
 title: "Comment contrôler les poussoirs hydrauliques"
-metaTitle: "Contrôler les poussoirs hydrauliques à l'oreille | Stuk"
+metaTitle: "Contrôler les poussoirs hydrauliques à l'oreille | Pro-Stuk"
 description: "Comment établir que les poussoirs hydrauliques sont la source du cliquetis : tests à froid et à chaud, distinction d'avec les jeux et les injecteurs."
 faq:
   - q: "Le cliquetis part après la chauffe. Est-ce normal ?"
@@ -101,7 +101,7 @@ un poussoir qui cliquette depuis des mois laisse des marques sur la came,
 et l'apprendre après coup est le chemin le plus coûteux.
 
 Pour éviter de deviner si ça s'est vraiment atténué, enregistrez le
-démarrage à froid dans l'application Stuk avant la vidange puis après.
+démarrage à froid dans l'application Pro-Stuk avant la vidange puis après.
 L'application décompose le son, le croise avec vos réponses et affiche les
 causes probables avec leurs pourcentages — et deux enregistrements côte à
 côte répondent honnêtement à la question de savoir si la réparation a

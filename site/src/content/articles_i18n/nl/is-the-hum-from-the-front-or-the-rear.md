@@ -1,6 +1,6 @@
 ---
 title: "Uitzoeken waar het gebrom vandaan komt: voor of achter"
-metaTitle: "Gebrom van voren of achteren: welke as | Stuk"
+metaTitle: "Gebrom van voren of achteren: welke as | Pro-Stuk"
 description: "Simpele tests die de as en de kant van het gebrom aanwijzen: slingeren, uitrollen, wielen omwisselen en een rit met een passagier die meeluistert."
 faq:
   - q: "Waarom lijkt gebrom van achteren van voren te komen?"

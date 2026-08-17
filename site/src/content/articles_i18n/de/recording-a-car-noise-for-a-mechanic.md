@@ -1,6 +1,6 @@
 ---
 title: "Ein Fahrzeuggeräusch für den Mechaniker aufnehmen"
-metaTitle: "Autogeräusch für die Werkstatt aufnehmen | Stuk"
+metaTitle: "Autogeräusch für die Werkstatt aufnehmen | Pro-Stuk"
 description: "Wie Sie ein Fahrzeuggeräusch mit dem Handy so aufnehmen, dass man es wirklich hört: Position, Ansage, welche Betriebszustände — und was Sie vermeiden."
 faq:
   - q: "Warum höre ich auf der Aufnahme nicht, was im Auto offensichtlich ist?"

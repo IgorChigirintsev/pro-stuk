@@ -1,6 +1,6 @@
 ---
 title: "Un grincement au démarrage du moteur"
-metaTitle: "Grincement au démarrage : démarreur, couronne, chaîne | Stuk"
+metaTitle: "Grincement au démarrage : démarreur, couronne, chaîne | Pro-Stuk"
 description: "Un grincement au démarrage du moteur : pignon de démarreur, couronne de volant, chaîne de distribution. Trouver la source d'après le moment exact."
 faq:
   - q: "Pourquoi le grincement ne se produit-il pas à chaque démarrage ?"
@@ -120,7 +120,7 @@ semaines et des mois, et les deux sont bien plus légers à stopper au
 début.
 
 Si vous ne savez pas dans quel moment vit le grincement, enregistrez le
-démarrage dans l'application Stuk : l'algorithme croise le son avec vos
+démarrage dans l'application Pro-Stuk : l'algorithme croise le son avec vos
 réponses et affiche les causes probables avec un niveau d'urgence — vous
 arrivez ainsi au garage avec une théorie qui tient plutôt qu'avec une
 supposition.

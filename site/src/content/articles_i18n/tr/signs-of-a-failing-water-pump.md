@@ -1,6 +1,6 @@
 ---
 title: "Devirdaim pompasının arıza belirtileri"
-metaTitle: "Devirdaim pompası: ses, kaçak, hararet | Stuk"
+metaTitle: "Devirdaim pompası: ses, kaçak, hararet | Pro-Stuk"
 description: "Antifriz kaçağı, uğuldayan rulman, kasnak boşluğu ve hararet: ölmekte olan devirdaim pompasının aşama aşama belirtileri, kontroller ve değişim."
 faq:
   - q: "Devirdaim pompası ne kadar dayanır?"
@@ -130,5 +130,5 @@ riske attığı
 yazısında.
 
 Uğuldayanın pompa mı yoksa kayış üzerindeki başka bir şey mi olduğundan
-emin değil misiniz? Sesi Stuk uygulamasına kaydedin: kaydı yanıtlarınızla
+emin değil misiniz? Sesi Pro-Stuk uygulamasına kaydedin: kaydı yanıtlarınızla
 eşleştirir ve olası nedenleri aciliyet derecesiyle gösterir.

@@ -1,6 +1,6 @@
 ---
 title: "Ruido de caja Lada: zumbido en quinta"
-metaTitle: "Ruido de caja Lada: el zumbido de la quinta | Stuk"
+metaTitle: "Ruido de caja Lada: el zumbido de la quinta | Pro-Stuk"
 description: "Zumbido en quinta en una caja manual Lada: por qué se va justo la marcha más larga, cómo separarlo de un rodamiento de rueda y qué revisar primero."
 faq:
   - q: "¿Por qué zumba precisamente la quinta?"
@@ -104,7 +104,7 @@ en cajas automáticas las primeras señales son otras y están en
 [zumbido de caja automática: primeras señales](/es/articles/automatic-transmission-whine-early-signs/).
 
 Para no jugar a las adivinanzas entre caja y buje, grabe el sonido dos
-veces con la aplicación Stuk: con carga en quinta y en inercia con punto
+veces con la aplicación Pro-Stuk: con carga en quinta y en inercia con punto
 muerto a la misma velocidad. La aplicación cruza las grabaciones con sus
 respuestas y muestra las causas probables con porcentajes, lo suficiente
 para llegar al taller con una pregunta concreta en lugar de «me zumba

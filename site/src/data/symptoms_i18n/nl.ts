@@ -4,7 +4,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Tikken of kloppen in de motor',
-    metaTitle: 'Motor klopt: oorzaken, hoe ernstig en wat te doen | Stuk',
+    metaTitle: 'Motor klopt: oorzaken, hoe ernstig en wat te doen | Pro-Stuk',
     description:
       'Waarom een motor klopt: van onschuldig kleptikken tot versleten krukaslagers. Hoe u een gevaarlijk klopgeluid herkent, of u kunt doorrijden en wat u zelf kunt nakijken.',
     intro: [
@@ -30,7 +30,7 @@ export const pages: Record<string, SymptomTr> = {
       'Kijk of het oliedruklampje brandt: het rode oliekannetje samen met een klopgeluid betekent de motor onmiddellijk afzetten.',
     ],
     appHelp:
-      'De app Stuk loopt met u dezelfde vragen langs die een motorspecialist stelt, neemt het geluid op en beoordeelt spectrum en ritme: hoe vaak de slagen komen en hoe zich dat verhoudt tot het toerental — bij een klepklop en een krukasklop is die verhouding anders. Het rapport geeft waarschijnlijke oorzaken met percentages, een urgentiestoplicht en zinnen voor het gesprek in de garage.',
+      'De app Pro-Stuk loopt met u dezelfde vragen langs die een motorspecialist stelt, neemt het geluid op en beoordeelt spectrum en ritme: hoe vaak de slagen komen en hoe zich dat verhoudt tot het toerental — bij een klepklop en een krukasklop is die verhouding anders. Het rapport geeft waarschijnlijke oorzaken met percentages, een urgentiestoplicht en zinnen voor het gesprek in de garage.',
     faq: [
       {
         q: 'Waarom klopt de motor alleen koud?',
@@ -49,7 +49,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Piepende remmen',
-    metaTitle: 'Remmen piepen: gevaarlijk of niet, oorzaken | Stuk',
+    metaTitle: 'Remmen piepen: gevaarlijk of niet, oorzaken | Pro-Stuk',
     description:
       'Waarom remmen piepen: een roestlaagje in de ochtend, de slijtage-indicator van de remblokken of een probleem met de schijven. Hoe u onschuldig piepen van een waarschuwing onderscheidt.',
     intro: [
@@ -74,7 +74,7 @@ export const pages: Record<string, SymptomTr> = {
       'Let op het pedaal en de koers: naar één kant trekken bij het remmen, een pulserend of «lang» pedaal zijn ernstiger dan piepen en betekenen garage zonder uitstel.',
     ],
     appHelp:
-      'De app Stuk scheidt het onschuldige scenario van het verontrustende met dezelfde vragen — wanneer piept het en verdwijnt het geluid — en de opname helpt het hoge gillen van de indicator te onderscheiden van schuren. Het rapport geeft waarschijnlijke oorzaken met percentages en een stoplicht: u kunt rijden, deze week naar de garage of stop.',
+      'De app Pro-Stuk scheidt het onschuldige scenario van het verontrustende met dezelfde vragen — wanneer piept het en verdwijnt het geluid — en de opname helpt het hoge gillen van de indicator te onderscheiden van schuren. Het rapport geeft waarschijnlijke oorzaken met percentages en een stoplicht: u kunt rijden, deze week naar de garage of stop.',
     faq: [
       {
         q: 'Waarom piepen remmen ’s ochtends en in de regen?',
@@ -93,7 +93,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Brommen tijdens het rijden',
-    metaTitle: 'Brommen tijdens het rijden: wiellager, banden of bak | Stuk',
+    metaTitle: 'Brommen tijdens het rijden: wiellager, banden of bak | Pro-Stuk',
     description:
       'Gelijkmatig brommen bij snelheid: wiellager, banden, versnellingsbak of differentieel. Eenvoudige tests zonder garage — de vrijlooptest en rustige bochten — perken de oorzaak in.',
     intro: [
@@ -119,7 +119,7 @@ export const pages: Record<string, SymptomTr> = {
       'Kijk bij een handbak of het gehuil verandert in verschillende versnellingen bij dezelfde snelheid; bij achterwielaandrijving of er samen met het brommen een trilling in de vloer optreedt in een smalle snelheidsband.',
     ],
     appHelp:
-      'De app Stuk loopt met u dezelfde vragen langs — blijft het brommen in vrijloop, verandert het in bochten en met het wegdek — en helpt het geluid op te nemen om het karakter met typische gevallen te vergelijken. Het rapport geeft waarschijnlijke oorzaken met percentages en een conclusie: rustig doorrijden, een garagebezoek plannen of zonder uitstel laten controleren.',
+      'De app Pro-Stuk loopt met u dezelfde vragen langs — blijft het brommen in vrijloop, verandert het in bochten en met het wegdek — en helpt het geluid op te nemen om het karakter met typische gevallen te vergelijken. Het rapport geeft waarschijnlijke oorzaken met percentages en een conclusie: rustig doorrijden, een garagebezoek plannen of zonder uitstel laten controleren.',
     faq: [
       {
         q: 'Hoe onderscheid ik een lagerbrom van bandengeluid?',
@@ -138,7 +138,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Kloppen in het onderstel',
-    metaTitle: 'Kloppen in het onderstel: wat tikt en kunt u rijden | Stuk',
+    metaTitle: 'Kloppen in het onderstel: wat tikt en kunt u rijden | Pro-Stuk',
     description:
       'Wat klopt in het onderstel: stabilisatorstangen, rubberbussen, het stuurhuis of een gebroken veer. Hoe u de geluiden aan hun karakter herkent en wanneer u naar de garage moet.',
     intro: [
@@ -164,7 +164,7 @@ export const pages: Record<string, SymptomTr> = {
       'Kijk van onderaf achter het wiel zonder iets te demonteren: een gebroken veerwinding is vaak met het blote oog te zien, en u ziet meteen of één hoek van de auto lager staat.',
     ],
     appHelp:
-      'De app Stuk volgt dezelfde vertakkingen als een monteur bij de eerste inspectie: wat voor geluid, op welke oneffenheden, voor of achter, komt het in het stuur. De opname zorgt dat details tot het bezoek niet verloren gaan, en het rapport geeft waarschijnlijke oorzaken met percentages en een helder stoplicht: u kunt rijden, laat het deze week zien of laat het met spoed nakijken.',
+      'De app Pro-Stuk volgt dezelfde vertakkingen als een monteur bij de eerste inspectie: wat voor geluid, op welke oneffenheden, voor of achter, komt het in het stuur. De opname zorgt dat details tot het bezoek niet verloren gaan, en het rapport geeft waarschijnlijke oorzaken met percentages en een helder stoplicht: u kunt rijden, laat het deze week zien of laat het met spoed nakijken.',
     faq: [
       {
         q: 'Is rijden met een klopgeluid in het onderstel gevaarlijk?',
@@ -183,7 +183,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Brommend wiellager',
-    metaTitle: 'Wiellager bromt: hoe herkent u het | Stuk',
+    metaTitle: 'Wiellager bromt: hoe herkent u het | Pro-Stuk',
     description:
       'Hoe een versleten wiellager klinkt, hoe u het van bandengeluid onderscheidt, welk wiel bromt en hoe lang u er nog mee kunt rijden.',
     intro: [
@@ -208,7 +208,7 @@ export const pages: Record<string, SymptomTr> = {
       'Houd na de rit voorzichtig uw hand bij de naven (zonder de remschijf aan te raken — die is heet): een duidelijk warmere naaf aan één kant is een extra aanwijzing.',
     ],
     appHelp:
-      'De app Stuk stelt dezelfde controlevragen — over wegdek, bochten en uitrollen in vrijloop —, neemt het brommen op en beoordeelt het karakter: het gelijkmatige breedbandige ruisen van banden en een lagerbrom zien er in het spectrum anders uit. Het rapport geeft de kansen per oorzaak, de urgentie en een hint welke kant u de monteur moet noemen.',
+      'De app Pro-Stuk stelt dezelfde controlevragen — over wegdek, bochten en uitrollen in vrijloop —, neemt het brommen op en beoordeelt het karakter: het gelijkmatige breedbandige ruisen van banden en een lagerbrom zien er in het spectrum anders uit. Het rapport geeft de kansen per oorzaak, de urgentie en een hint welke kant u de monteur moet noemen.',
     faq: [
       {
         q: 'Waarom verandert het brommen in bochten?',
@@ -227,7 +227,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Kloppen op oneffenheden',
-    metaTitle: 'Kloppen op oneffenheden: oorzaken en eigen controles | Stuk',
+    metaTitle: 'Kloppen op oneffenheden: oorzaken en eigen controles | Pro-Stuk',
     description:
       'Kloppen op oneffenheden en kuilen: frequent op kleine golvingen, losse klappen in kuilen of een klap in het stuur. Welke delen schuldig zijn en of u kunt rijden.',
     intro: [
@@ -253,7 +253,7 @@ export const pages: Record<string, SymptomTr> = {
       'Sluit het eenvoudige uit: haal losse spullen uit de bagageruimte, controleer de bevestiging van reservewiel en krik, druk op de gesloten motorkap — een slot met speling tikt net als het onderstel.',
     ],
     appHelp:
-      'De app Stuk stelt dezelfde vragen als deze pagina, alleen stap voor stap: wat voor klap precies, waar u hem hoort, hoe hij zich gedraagt op verschillende oneffenheden. Uit de antwoorden en de opname stelt hij een rapport samen met waarschijnlijke oorzaken en een urgentiestoplicht — daarmee is de keuze tussen morgen naar de garage of bij gelegenheid eenvoudiger.',
+      'De app Pro-Stuk stelt dezelfde vragen als deze pagina, alleen stap voor stap: wat voor klap precies, waar u hem hoort, hoe hij zich gedraagt op verschillende oneffenheden. Uit de antwoorden en de opname stelt hij een rapport samen met waarschijnlijke oorzaken en een urgentiestoplicht — daarmee is de keuze tussen morgen naar de garage of bij gelegenheid eenvoudiger.',
     faq: [
       {
         q: 'Waarom hoor ik de klap alleen op oneffenheden en op een gladde weg niet?',
@@ -272,7 +272,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Tikkende motor',
-    metaTitle: 'Motor tikt: normaal of slijtage, oorzaken | Stuk',
+    metaTitle: 'Motor tikt: normaal of slijtage, oorzaken | Pro-Stuk',
     description:
       'Waar het tikken van de motor vandaan komt: klepspeling, hydraulische stoters, normaal klepperen van injectoren of het uitlaatspruitstuk. Hoe u normaal van slijtage onderscheidt.',
     intro: [
@@ -298,7 +298,7 @@ export const pages: Record<string, SymptomTr> = {
       'Ruik bij de open motorkap: uitlaatgeur samen met frequent klepperen wijst op het spruitstuk — daarmee binnen één tot twee weken naar de garage.',
     ],
     appHelp:
-      'De app Stuk verheldert het belangrijkste — is het tikken met de tijd luider geworden en hoe gedraagt het zich koud en warm — en met de opname vergelijkt u het met typische voorbeelden. Het rapport geeft waarschijnlijke oorzaken met percentages en een conclusie als stoplicht: normaal, een afspraak deze week of zonder uitstel een diagnose.',
+      'De app Pro-Stuk verheldert het belangrijkste — is het tikken met de tijd luider geworden en hoe gedraagt het zich koud en warm — en met de opname vergelijkt u het met typische voorbeelden. Het rapport geeft waarschijnlijke oorzaken met percentages en een conclusie als stoplicht: normaal, een afspraak deze week of zonder uitstel een diagnose.',
     faq: [
       {
         q: 'Waarom tikken diesels en motoren met directe inspuiting altijd?',
@@ -317,7 +317,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Piepende riem',
-    metaTitle: 'Riem piept: oorzaken, kunt u rijden en wat te doen | Stuk',
+    metaTitle: 'Riem piept: oorzaken, kunt u rijden en wat te doen | Pro-Stuk',
     description:
       'De multiriem piept: slijtage, te lage spanning, rollen of de koppeling van de aircocompressor. Hoe u de oorzaak inperkt aan de omstandigheden en wanneer het piepen om een garage vraagt.',
     intro: [
@@ -343,7 +343,7 @@ export const pages: Record<string, SymptomTr> = {
       'Luister of er naast het piepen een gelijkmatig gebrom of geritsel meeloopt met het motortoerental — zo klinkt het lager van een van de rollen.',
     ],
     appHelp:
-      'De app Stuk verheldert het karakter van het geluid en de omstandigheden — piepen of brommen, koud of onder belasting, wel of niet gekoppeld aan de airco — en helpt met de opname het gillen van de riem te onderscheiden van het geritsel van een rol. Het rapport geeft waarschijnlijke oorzaken met percentages en een stoplicht: u kunt rijden, deze week naar de garage of stop.',
+      'De app Pro-Stuk verheldert het karakter van het geluid en de omstandigheden — piepen of brommen, koud of onder belasting, wel of niet gekoppeld aan de airco — en helpt met de opname het gillen van de riem te onderscheiden van het geritsel van een rol. Het rapport geeft waarschijnlijke oorzaken met percentages en een stoplicht: u kunt rijden, deze week naar de garage of stop.',
     faq: [
       {
         q: 'Wat gebeurt er als de riem onderweg breekt?',
@@ -362,7 +362,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Rammelen onder de auto',
-    metaTitle: 'Rammelen onder de auto: wat rammelt en is het erg | Stuk',
+    metaTitle: 'Rammelen onder de auto: wat rammelt en is het erg | Pro-Stuk',
     description:
       'Het rammelt en klettert onder de auto: uitlaatophanging, hitteschild, carterbeschermplaat of katalysator. Hoe u de bron van het geluid vindt en wanneer het ernstig wordt.',
     intro: [
@@ -388,7 +388,7 @@ export const pages: Record<string, SymptomTr> = {
       'Kijk onder de auto zonder eronder te kruipen: een doorhangende uitlaat, een loshangende rand van de beschermplaat of een verbogen schild ziet u vaak al vanaf het wiel.',
     ],
     appHelp:
-      'De app Stuk helpt het rammelen aan de bron te koppelen: waar komt het geluid vandaan, volgt het het motortoerental of de oneffenheden, wat gebeurt er met het vermogen. Uit de antwoorden en de opname toont hij waarschijnlijke oorzaken met percentages en een urgentiestoplicht — handig om onschuldig plaatwerk nog vóór de garage van de katalysator te onderscheiden.',
+      'De app Pro-Stuk helpt het rammelen aan de bron te koppelen: waar komt het geluid vandaan, volgt het het motortoerental of de oneffenheden, wat gebeurt er met het vermogen. Uit de antwoorden en de opname toont hij waarschijnlijke oorzaken met percentages en een urgentiestoplicht — handig om onschuldig plaatwerk nog vóór de garage van de katalysator te onderscheiden.',
     faq: [
       {
         q: 'Is rijden gevaarlijk als er iets onder de auto rammelt?',
@@ -407,7 +407,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Schurend geluid bij het remmen',
-    metaTitle: 'Schuren bij het remmen: blokken tot op het metaal | Stuk',
+    metaTitle: 'Schuren bij het remmen: blokken tot op het metaal | Pro-Stuk',
     description:
       'Schuren bij het remmen betekent meestal remblokken die tot op het metaal versleten zijn — daarmee rijdt u niet. Minder vaak is een steentje achter het stofschild de boosdoener.',
     intro: [
@@ -432,7 +432,7 @@ export const pages: Record<string, SymptomTr> = {
       'Bekijk de remschijf door de velg: diepe groeven en een blauwige tint van het metaal zeggen dat het schuren al lang aan de gang is en de schijven al geleden hebben.',
     ],
     appHelp:
-      'De app Stuk loopt dezelfde vragen langs — is het schuren constant, wordt het wiel warm, verdwijnt het geluid na de eerste remstoten — en helpt met de opname schuren te onderscheiden van het gillen van de slijtage-indicator. Het rapport geeft waarschijnlijke oorzaken en een stoplicht: u kunt rijden, laat het deze week zien of rijd alleen nog naar de garage.',
+      'De app Pro-Stuk loopt dezelfde vragen langs — is het schuren constant, wordt het wiel warm, verdwijnt het geluid na de eerste remstoten — en helpt met de opname schuren te onderscheiden van het gillen van de slijtage-indicator. Het rapport geeft waarschijnlijke oorzaken en een stoplicht: u kunt rijden, laat het deze week zien of rijd alleen nog naar de garage.',
     faq: [
       {
         q: 'Wat is het verschil tussen schuren en piepende remmen?',
@@ -451,7 +451,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-pri-razgone': {
     h1: 'Klap bij optrekken',
-    metaTitle: 'Klap bij gas geven en gas loslaten: oorzaken | Stuk',
+    metaTitle: 'Klap bij gas geven en gas loslaten: oorzaken | Pro-Stuk',
     description:
       'Waarom het klapt als u gas geeft of het gas loslaat: motorsteunen, homokineet, speling in de aandrijflijn of de automaat. Hoe u onschuldige speling onderscheidt van een klop in de motor.',
     intro: [
@@ -476,7 +476,7 @@ export const pages: Record<string, SymptomTr> = {
       'Doe de zachte test: blijft de klap uit bij zacht intrappen en loslaten van het gas en komt hij terug bij een abrupte beweging, dan is het klassieke speling, en tot de reparatie volstaat rustig rijden.',
     ],
     appHelp:
-      'De app Stuk stelt dezelfde precieze vragen — wanneer klapt het precies, verandert het geluid met toerental en versnellingen — en helpt met de opname het gerammel van speling te scheiden van een diepe motorklop. Het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: u kunt rijden, plan een garagebezoek of stop.',
+      'De app Pro-Stuk stelt dezelfde precieze vragen — wanneer klapt het precies, verandert het geluid met toerental en versnellingen — en helpt met de opname het gerammel van speling te scheiden van een diepe motorklop. Het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: u kunt rijden, plan een garagebezoek of stop.',
     faq: [
       {
         q: 'Waarom klapt het juist bij gas geven en loslaten?',
@@ -495,7 +495,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Pingelen bij optrekken',
-    metaTitle: 'Pingelen bij optrekken: detonatie of niet, wat te doen | Stuk',
+    metaTitle: 'Pingelen bij optrekken: detonatie of niet, wat te doen | Pro-Stuk',
     description:
       'Een metalige tik bij optrekken is meestal detonatie door de brandstof. Hoe u dat test met een andere tankstationketen en wanneer niet de motor maar het hitteschild of de katalysator de boosdoener is.',
     intro: [
@@ -520,7 +520,7 @@ export const pages: Record<string, SymptomTr> = {
       'Let op het vermogen en op geluiden onder de bodem: ritselen en tinkelen van onderen samen met slapper optrekken is een reden om de katalysator zonder uitstel te laten controleren.',
     ],
     appHelp:
-      'De app Stuk helpt met dezelfde vragen — wanneer tikt het, volgt het geluid de belasting of het toerental — en met de opname onderscheidt u de heldere tik van detonatie van het rammelen van een blikken schild. Het rapport geeft waarschijnlijke oorzaken met percentages en een conclusie: u kunt rijden, plan een garagebezoek of stop liever.',
+      'De app Pro-Stuk helpt met dezelfde vragen — wanneer tikt het, volgt het geluid de belasting of het toerental — en met de opname onderscheidt u de heldere tik van detonatie van het rammelen van een blikken schild. Het rapport geeft waarschijnlijke oorzaken met percentages en een conclusie: u kunt rijden, plan een garagebezoek of stop liever.',
     faq: [
       {
         q: 'Wat betekent «pingelen»?',
@@ -539,7 +539,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Brommen in de bocht',
-    metaTitle: 'Brommen in de bocht: wiellager of stuurbekrachtiging | Stuk',
+    metaTitle: 'Brommen in de bocht: wiellager of stuurbekrachtiging | Pro-Stuk',
     description:
       'Waar het brommen in de bocht vandaan komt: een versleten wiellager, een jankende stuurbekrachtigingspomp of bandengeluid. Hoe u de kant bepaalt en of het gevaarlijk is.',
     intro: [
@@ -565,7 +565,7 @@ export const pages: Record<string, SymptomTr> = {
       'Bekijk het loopvlak: zaagtandslijtage (trapjes op de randen) of vlekkerige slijtage versterkt het brommen van de banden en wijst tegelijk op een verstelde uitlijning of vermoeide schokdempers.',
     ],
     appHelp:
-      'De app Stuk stelt dezelfde vragen als de monteur bij de aanname: waar hoort u het brommen, verandert het in bochten, hangt het samen met sturen in stilstand. De opname helpt het geluid met typische voorbeelden te vergelijken, en het rapport geeft waarschijnlijke oorzaken en een duidelijk advies: rustig doorrijden, deze week een afspraak maken of zonder uitstel laten controleren.',
+      'De app Pro-Stuk stelt dezelfde vragen als de monteur bij de aanname: waar hoort u het brommen, verandert het in bochten, hangt het samen met sturen in stilstand. De opname helpt het geluid met typische voorbeelden te vergelijken, en het rapport geeft waarschijnlijke oorzaken en een duidelijk advies: rustig doorrijden, deze week een afspraak maken of zonder uitstel laten controleren.',
     faq: [
       {
         q: 'Waarom wordt het brommen maar in één bochtrichting luider?',
@@ -584,7 +584,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Klikken bij het sturen',
-    metaTitle: 'Klikken bij het sturen: homokineet of veerpootlager | Stuk',
+    metaTitle: 'Klikken bij het sturen: homokineet of veerpootlager | Pro-Stuk',
     description:
       'Waarom het klikt bij het draaien aan het stuur: de buitenste homokineet, het veerpootlager of het kruiskoppelstuk van de stuurkolom. Hoe u ze aan het geluid herkent.',
     intro: [
@@ -610,7 +610,7 @@ export const pages: Record<string, SymptomTr> = {
       'Onthoud van welk wiel het knappen tijdens het rijden komt en in welke bocht het luider is — die details bekorten de zoektocht in de garage aanzienlijk.',
     ],
     appHelp:
-      'In de app Stuk zijn deze vertakkingen samengebracht in een korte vragenboom: rijdt de auto of staat hij, waar komt het geluid vandaan, in welke staat zijn de hoezen. Het knappen kunt u met de telefoon opnemen en met voorbeelden vergelijken. Het rapport geeft waarschijnlijke oorzaken met een inschatting en een advies over de termijn: geen paniek, maar ook geen klikken die een maand blijven liggen.',
+      'In de app Pro-Stuk zijn deze vertakkingen samengebracht in een korte vragenboom: rijdt de auto of staat hij, waar komt het geluid vandaan, in welke staat zijn de hoezen. Het knappen kunt u met de telefoon opnemen en met voorbeelden vergelijken. Het rapport geeft waarschijnlijke oorzaken met een inschatting en een advies over de termijn: geen paniek, maar ook geen klikken die een maand blijven liggen.',
     faq: [
       {
         q: 'Wat is een homokineet en waarom klikt hij?',
@@ -629,7 +629,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Kloppen bij koude motor',
-    metaTitle: 'Motor klopt koud: oorzaken en wat te doen | Stuk',
+    metaTitle: 'Motor klopt koud: oorzaken en wat te doen | Pro-Stuk',
     description:
       'Waarom de motor koud klopt en na het warmdraaien zwijgt: hydraulische stoters, zuigergroep, distributieketting. Wanneer het normaal is en wanneer het tijd is voor de garage.',
     intro: [
@@ -655,7 +655,7 @@ export const pages: Record<string, SymptomTr> = {
       'Zet de warme motor tien minuten af en start opnieuw: een echte «koude» klop komt na zo’n korte pauze niet terug.',
     ],
     appHelp:
-      'De app Stuk loopt dezelfde vertakkingen langs — is het tikken, dof kloppen of geritsel en hoe snel verdwijnt het geluid — en de opname met de telefoon helpt een karakter vast te leggen dat lastig in woorden te vangen is. Het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: rustig doorrijden, deze week een afspraak of de garage niet uitstellen.',
+      'De app Pro-Stuk loopt dezelfde vertakkingen langs — is het tikken, dof kloppen of geritsel en hoe snel verdwijnt het geluid — en de opname met de telefoon helpt een karakter vast te leggen dat lastig in woorden te vangen is. Het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: rustig doorrijden, deze week een afspraak of de garage niet uitstellen.',
     faq: [
       {
         q: 'Het kloppen verdwijnt na het warmdraaien — mag ik het negeren?',
@@ -674,7 +674,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Piepen bij het starten',
-    metaTitle: 'Piepen bij het starten van de motor: oorzaken | Stuk',
+    metaTitle: 'Piepen bij het starten van de motor: oorzaken | Pro-Stuk',
     description:
       'Waarom de motor piept bij het starten: een slippende multiriem, rollen of de waterpomp. Wanneer het piepen onschuldig is en wanneer het tijd is voor een afspraak.',
     intro: [
@@ -700,7 +700,7 @@ export const pages: Record<string, SymptomTr> = {
       'Kijk of er bij de poelies druppels of witte koelvloeistofsporen zitten: die wijzen op de waterpomp, en dan stelt u het garagebezoek beter niet uit.',
     ],
     appHelp:
-      'De app Stuk stelt dezelfde vragen als de monteur bij de aanname: wanneer komt het piepen op, verdwijnt het na het warmdraaien, wat hoort u terwijl de startmotor draait. De opname helpt het gillen van de riem te onderscheiden van geschraap van de startmotor, en het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: u kunt rijden, deze week naar de garage of stop.',
+      'De app Pro-Stuk stelt dezelfde vragen als de monteur bij de aanname: wanneer komt het piepen op, verdwijnt het na het warmdraaien, wat hoort u terwijl de startmotor draait. De opname helpt het gillen van de riem te onderscheiden van geschraap van de startmotor, en het rapport geeft waarschijnlijke oorzaken met percentages en een heldere conclusie: u kunt rijden, deze week naar de garage of stop.',
     faq: [
       {
         q: 'Waarom piept de motor alleen koud en bij vocht?',
@@ -719,7 +719,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Trillen bij stationair draaien',
-    metaTitle: 'Trillen bij stationair: oorzaken en wat te doen | Stuk',
+    metaTitle: 'Trillen bij stationair: oorzaken en wat te doen | Pro-Stuk',
     description:
       'Waarom de auto stationair trilt: motorsteunen, ontstekingsuitval, valse lucht of een vervuild gasklephuis. Wat u kunt nakijken en of u kunt rijden.',
     intro: [
@@ -744,7 +744,7 @@ export const pages: Record<string, SymptomTr> = {
       'Denk terug wanneer de bougies zijn vervangen: een kilometerstand ver voorbij het interval maakt ze de eerste kandidaat bij uitval. Brandt het storingslampje, begin dan met het uitlezen van de foutcodes: die perken de zoektocht in.',
     ],
     appHelp:
-      'De app Stuk stelt dezelfde vragen — neemt het trillen toe met een versnelling ingeschakeld, houdt het toerental stand, brandt het storingslampje — en verdeelt de waarschijnlijke oorzaken over percentages. Het rapport geeft een heldere conclusie: rustig doorrijden, deze week een afspraak of de auto binnen enkele dagen laten zien.',
+      'De app Pro-Stuk stelt dezelfde vragen — neemt het trillen toe met een versnelling ingeschakeld, houdt het toerental stand, brandt het storingslampje — en verdeelt de waarschijnlijke oorzaken over percentages. Het rapport geeft een heldere conclusie: rustig doorrijden, deze week een afspraak of de auto binnen enkele dagen laten zien.',
     faq: [
       {
         q: 'Waarom trilt het alleen stationair terwijl de auto onderweg soepel loopt?',
@@ -763,7 +763,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Knallen in de uitlaat',
-    metaTitle: 'Knallen in de uitlaat: oorzaken en wat te doen | Stuk',
+    metaTitle: 'Knallen in de uitlaat: oorzaken en wat te doen | Pro-Stuk',
     description:
       'Waarom de uitlaat knalt: ontstekingsuitval, een doorgebrande uitlaat, het mengsel of de afstelling van de LPG-installatie. Wat knallen met de katalysator doet.',
     intro: [
@@ -789,7 +789,7 @@ export const pages: Record<string, SymptomTr> = {
       'Vergelijk bij een auto met LPG de werking op gas en op benzine: knallen alleen op gas is een vraag voor degene die de installatie heeft afgesteld.',
     ],
     appHelp:
-      'De app Stuk verheldert de omstandigheden — knallen of gebrul, op gas of op benzine, met of zonder vermogensverlies — en helpt ontstekingsproblemen, een gat in de uitlaat en een slippende koppeling te scheiden, die op het gehoor op elkaar lijken. Het rapport geeft waarschijnlijke oorzaken met percentages en een helder advies over hoe dringend de garage is.',
+      'De app Pro-Stuk verheldert de omstandigheden — knallen of gebrul, op gas of op benzine, met of zonder vermogensverlies — en helpt ontstekingsproblemen, een gat in de uitlaat en een slippende koppeling te scheiden, die op het gehoor op elkaar lijken. Het rapport geeft waarschijnlijke oorzaken met percentages en een helder advies over hoe dringend de garage is.',
     faq: [
       {
         q: 'Waarom knalt het in de uitlaat als het probleem in de motor zit?',

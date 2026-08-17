@@ -1,6 +1,6 @@
 ---
 title: "Bourdonnement : roulement de roue ou pneus — les distinguer"
-metaTitle: "Bourdonnement : roulement ou pneus, comment trancher | Stuk"
+metaTitle: "Bourdonnement : roulement ou pneus, comment trancher | Pro-Stuk"
 description: "Distinguer un bourdonnement de roulement de roue d'un bruit de pneus : des tests en un seul trajet, un tableau comparatif et les erreurs qui coûtent cher."
 faq:
   - q: "Le bourdonnement est apparu juste après le montage d'autres roues. Qu'est-ce que c'est ?"
@@ -140,7 +140,7 @@ pneus mais aussi la transmission — est sur les pages des symptômes
 [bourdonnement de roulement de roue](/fr/symptoms/wheel-bearing-hum/).
 
 Et si vous voulez un second avis avant le déplacement, enregistrez le
-bourdonnement en roulant dans l'application Stuk : elle analyse
+bourdonnement en roulant dans l'application Pro-Stuk : elle analyse
 l'enregistrement, pose quelques questions de précision — sur le
 revêtement, les virages, la façon dont le son est apparu — et affiche les
 causes probables avec leurs pourcentages.

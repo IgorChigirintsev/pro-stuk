@@ -1,6 +1,6 @@
 ---
 title: "Señales de una avería de la dirección asistida eléctrica"
-metaTitle: "Avería de la dirección asistida eléctrica: señales | Stuk"
+metaTitle: "Avería de la dirección asistida eléctrica: señales | Pro-Stuk"
 description: "Cómo reconocer una avería de la dirección asistida eléctrica: dirección dura, asistencia desigual, testigo EPS, golpes y chasquidos. Qué comprobar antes."
 faq:
   - q: "¿Se puede circular con la dirección asistida eléctrica sin funcionar?"
@@ -104,7 +104,7 @@ la mayoría de coches con EPS y control de estabilidad, saltarse ese paso deja
 la asistencia descentrada y los testigos encendidos.
 
 Si no está seguro de si un ruido en la dirección pertenece a la asistencia,
-grábelo con la aplicación Stuk: haga una grabación durante una maniobra en
+grábelo con la aplicación Pro-Stuk: haga una grabación durante una maniobra en
 parado y otra en marcha, responda unas cuantas preguntas, y la aplicación
 compara el cuadro con perfiles típicos de avería y sugiere la causa probable y
 la urgencia de la visita.

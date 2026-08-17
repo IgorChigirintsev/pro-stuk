@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein verschlissenes Radlager"
-metaTitle: "Radlager verschlissen: Ton und Tests | Stuk"
+metaTitle: "Radlager verschlissen: Ton und Tests | Pro-Stuk"
 description: "Wie ein verschlissenes Radlager klingt, wie Sie es von Reifengeräuschen trennen, welche Tests Sie selbst machen können und was den Tausch bestimmt."
 faq:
   - q: "Was ist das allererste Zeichen für ein verschlissenes Radlager?"

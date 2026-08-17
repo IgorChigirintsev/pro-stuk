@@ -1,6 +1,6 @@
 ---
 title: "Ein Brummen auf der Autobahn, das in der Stadt fehlt"
-metaTitle: "Autobahnbrummen, das in der Stadt fehlt | Stuk"
+metaTitle: "Autobahnbrummen, das in der Stadt fehlt | Pro-Stuk"
 description: "Warum ein Brummen erst ab 80 km/h hörbar ist und in der Stadt verschwindet: Radlager, Reifen, Aerodynamik und die Reihenfolge der eigenen Prüfungen."
 faq:
   - q: "Warum gibt es in der Stadt kein Brummen und auf der Autobahn reichlich?"

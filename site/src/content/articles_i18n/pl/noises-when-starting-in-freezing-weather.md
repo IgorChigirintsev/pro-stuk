@@ -1,6 +1,6 @@
 ---
 title: "Odgłosy przy rozruchu na mrozie"
-metaTitle: "Odgłosy rozruchu na mrozie: pisk, stuk, zgrzyt | Stuk"
+metaTitle: "Odgłosy rozruchu na mrozie: pisk, stuk, zgrzyt | Pro-Stuk"
 description: "Pisk paska, stuk gęstego oleju, zgrzyt rozrusznika: dźwięki zimnego rozruchu na mrozie. Co zimą jest normą, a co wymaga warsztatu."
 faq:
   - q: "Dlaczego silnik na mrozie brzmi głośniej i szorstko?"
@@ -38,7 +38,7 @@ Pełny rozkład na czynniki znajduje się w tekście
 a typowe nagrania tego dźwięku — na stronie objawu
 [pisk przy rozruchu](/pl/symptoms/squeal-on-startup/).
 
-## Stuk i klekot jak w diesla: gęsty olej i grupa tłokowa
+## Pro-Stuk i klekot jak w diesla: gęsty olej i grupa tłokowa
 
 Druga najczęstsza historia to silnik, który przez pierwsze minuty stuka
 albo klekocze jak diesel, a potem pracuje równo. Na mrozie olej gęstnieje
@@ -117,7 +117,7 @@ wymieniony jesienią kosztuje tyle samo co wymieniony w styczniu, minus
 holowanie.
 
 Jeśli poranny koncert budzi wątpliwości, warto nagrać zimny rozruch
-aplikacją Stuk — na dworze, przy otwartej masce. Zestawia ona nagranie z
+aplikacją Pro-Stuk — na dworze, przy otwartej masce. Zestawia ona nagranie z
 odpowiedziami o temperaturze i warunkach i pokazuje prawdopodobne przyczyny
 z procentami oraz poziom pilności: łatwiej wtedy zdecydować, co spisać na
 karb zimy, a co zawieźć do warsztatu.

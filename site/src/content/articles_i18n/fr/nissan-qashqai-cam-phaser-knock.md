@@ -1,6 +1,6 @@
 ---
 title: "Claquement du déphaseur sur Nissan Qashqai"
-metaTitle: "Claquement du déphaseur Nissan Qashqai : causes | Stuk"
+metaTitle: "Claquement du déphaseur Nissan Qashqai : causes | Pro-Stuk"
 description: "Un bref cliquetis au démarrage à froid sur Qashqai vient souvent du déphaseur. Comment le distinguer de la chaîne de distribution et ce que contrôle un garage."
 faq:
   - q: "Un bref cliquetis au démarrage sur Qashqai est-il dangereux ?"
@@ -101,7 +101,7 @@ mètres — leur contrôle est décrit dans
 [comment vérifier une rotule soi-même](/fr/articles/how-to-check-a-ball-joint-yourself/).
 
 Pour comprendre ce qui cliquette avant de parler à un mécanicien,
-enregistrez le bruit avec l'application Stuk au moment d'un démarrage à
+enregistrez le bruit avec l'application Pro-Stuk au moment d'un démarrage à
 froid, debout devant le capot ouvert. L'application confronte
 l'enregistrement à vos réponses à quelques questions et affiche les causes
 probables en pourcentages.

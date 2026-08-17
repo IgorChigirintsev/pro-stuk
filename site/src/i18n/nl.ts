@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const nl: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Symptomen',
     how: 'Hoe het werkt',
@@ -11,7 +11,7 @@ export const nl: Dict = {
   },
   footer: {
     disclaimer:
-      'Stuk geeft een kansinschatting op basis van uw antwoorden en het geluid, geen ' +
+      'Pro-Stuk geeft een kansinschatting op basis van uw antwoorden en het geluid, geen ' +
       'diagnose. De uiteindelijke beslissing over reparatie ligt bij de monteur die de ' +
       'auto heeft bekeken.',
     how: 'Hoe het werkt',
@@ -20,7 +20,7 @@ export const nl: Dict = {
     ruOnly: 'Symptoomgidsen en artikelen (in het Russisch)',
   },
   home: {
-    title: 'Stuk — autodiagnose op het gehoor',
+    title: 'Pro-Stuk — autodiagnose op het gehoor',
     description:
       'Neem het geluid op en ontdek wat er met de auto is. Een korte vragenlijst, analyse ' +
       'van de opname en een rapport: waarschijnlijke oorzaken met percentages, een ' +
@@ -54,7 +54,7 @@ export const nl: Dict = {
     faq: [
       {
         q: 'Is dit een exacte diagnose?',
-        a: 'Nee. Stuk geeft een kansinschatting: een lijst mogelijke oorzaken met percentages en hoe dringend het is. De exacte diagnose stelt de monteur na inspectie — het rapport zorgt er alleen voor dat u voorbereid binnenkomt.',
+        a: 'Nee. Pro-Stuk geeft een kansinschatting: een lijst mogelijke oorzaken met percentages en hoe dringend het is. De exacte diagnose stelt de monteur na inspectie — het rapport zorgt er alleen voor dat u voorbereid binnenkomt.',
       },
       {
         q: 'Wat kost het?',
@@ -87,7 +87,7 @@ export const nl: Dict = {
     schemaWhole: 'Het geheel.',
   },
   symptoms: {
-    indexTitle: 'Autogeluiden en symptomen uitgelegd | Stuk',
+    indexTitle: 'Autogeluiden en symptomen uitgelegd | Pro-Stuk',
     indexDescription: 'Tikken, brommen, piepen, schuren: wat elk autogeluid betekent, hoe gevaarlijk het is en wat u zelf kunt nakijken. Gidsen per symptoom met een diagnoseboom.',
     h1: 'Symptomen op geluid',
     sub: 'Kies het geluid dat het dichtst bij het uwe komt. In elke gids: waarschijnlijke oorzaken, een gevarenstoplicht, veilige eigen controles en een interactieve diagnoseboom.',
@@ -119,7 +119,7 @@ export const nl: Dict = {
   },
   download: {
     h2: 'De app voor Android',
-    sub: 'De vragenlijst, de geluidsopname en het volledige rapport met kansen zitten in de app Stuk.',
+    sub: 'De vragenlijst, de geluidsopname en het volledige rapport met kansen zitten in de app Pro-Stuk.',
     btn: 'Downloaden voor Android',
     meta: 'Versie {version} · APK {size} MB · bijgewerkt op {date}',
     installH: 'De APK installeren',
@@ -132,7 +132,7 @@ export const nl: Dict = {
     playNote: 'Zodra de app in Google Play staat, wordt deze pagina bijgewerkt.',
   },
   how: {
-    title: 'Hoe diagnose op het gehoor werkt | Stuk',
+    title: 'Hoe diagnose op het gehoor werkt | Pro-Stuk',
     description:
       'Zonder opsmuk: de vragenlijst als belangrijkste instrument, spectraalanalyse van de ' +
       'opname, een taalmodel en de bekende zwakke plekken per model. Waarom de uitkomst ' +
@@ -144,7 +144,7 @@ export const nl: Dict = {
       'Elke diagnose begint met vragen: wanneer is het geluid ontstaan, waarop lijkt het, ' +
       'hangt het samen met snelheid, toerental, remmen, sturen. De antwoorden schrappen hele ' +
       'groepen oorzaken — dat levert meer op dan welk algoritme ook boven op een slechte ' +
-      'opname. Daarom komt de vragenlijst in Stuk eerst, en de logica erachter is een ' +
+      'opname. Daarom komt de vragenlijst in Pro-Stuk eerst, en de logica erachter is een ' +
       'beslisboom: elk antwoord leidt naar de volgende, nauwere vraag.',
     recH2: 'Wat er met de opname gebeurt',
     recP: [
@@ -164,7 +164,7 @@ export const nl: Dict = {
       'Verschillende storingen klinken hetzelfde: het brommen van een wiellager is zo ' +
         'verward met bandengeluid, en het tikken van de stabilisatorstangen met veel ' +
         'ernstiger delen van het onderstel. Zeker uit elkaar houden lukt alleen op de brug. ' +
-        'Daarom stelt Stuk geen diagnose en belooft het geen nauwkeurigheid — het verdeelt de ' +
+        'Daarom stelt Pro-Stuk geen diagnose en belooft het geen nauwkeurigheid — het verdeelt de ' +
         'kansen eerlijk en zegt wat u als eerste laat nakijken.',
       'Een goede opname maakt de inschatting beter, maar vervangt de monteur niet. Zie het ' +
         'rapport als een second opinion voordat u binnenrijdt: het gesprek wordt concreet en ' +
@@ -178,13 +178,13 @@ export const nl: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Privacyverklaring | Stuk',
+    title: 'Privacyverklaring | Pro-Stuk',
     description:
-      'Wat er met uw gegevens gebeurt in de app Stuk: audio wordt op de server verwerkt en ' +
+      'Wat er met uw gegevens gebeurt in de app Pro-Stuk: audio wordt op de server verwerkt en ' +
       'na de analyse niet bewaard, er zijn geen accounts en geen statistieken.',
     h1: 'Privacyverklaring',
     intro:
-      'De app Stuk verzamelt een minimum aan gegevens — precies zoveel als de diagnose nodig heeft.',
+      'De app Pro-Stuk verzamelt een minimum aan gegevens — precies zoveel als de diagnose nodig heeft.',
     items: [
       {
         strong: 'De geluidsopname',
@@ -216,7 +216,7 @@ export const nl: Dict = {
     tagline: 'Vind het defect op het gehoor',
   },
   notFound: {
-    title: 'Pagina niet gevonden — Stuk',
+    title: 'Pagina niet gevonden — Pro-Stuk',
     description:
       'Deze pagina bestaat niet op de site. Ga terug naar de startpagina of open de symptoomgidsen.',
     h1: 'Pagina niet gevonden',

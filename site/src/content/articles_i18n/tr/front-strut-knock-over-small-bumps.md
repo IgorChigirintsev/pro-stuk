@@ -1,6 +1,6 @@
 ---
 title: "Küçük tümseklerde ön amortisör takırtısı"
-metaTitle: "Küçük tümseklerde ön amortisör takırtısı | Stuk"
+metaTitle: "Küçük tümseklerde ön amortisör takırtısı | Pro-Stuk"
 description: "Küçük tümseklerde ön amortisörlerden gelen kuru takırtı: amortisörü üst takozdan ve viraj demirinden nasıl ayırırsınız, hangi kontrolleri kendiniz yaparsınız."
 faq:
   - q: "Takırtı neden yalnızca küçük tümseklerde duyuluyor?"
@@ -110,7 +110,7 @@ büyüterek gezmektense ön takımı bir seferde toparlamak mantıklıdır: iş�
 neredeyse tamamen çakışır ve ikinci ziyaret birincisi kadar tutar.
 
 Tam olarak neyin takırdadığını tahmin etmemek için, tanıdık bozuk bir yol
-parçasında giderken sesi Stuk uygulamasıyla kaydedin. Uygulama kaydı birkaç
+parçasında giderken sesi Pro-Stuk uygulamasıyla kaydedin. Uygulama kaydı birkaç
 soruya verdiğiniz cevaplarla karşılaştırır ve olası sebepleri yüzdeyle
 gösterir — o listeyle ustayla önce neye bakılacağı konusunda anlaşmak daha
 kolaydır.

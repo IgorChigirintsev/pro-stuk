@@ -1,6 +1,6 @@
 ---
 title: "Es klappert unter dem Auto auf Unebenheiten"
-metaTitle: "Klappern unter dem Auto: die Ursachen | Stuk"
+metaTitle: "Klappern unter dem Auto: die Ursachen | Pro-Stuk"
 description: "Koppelstangen, Unterfahrschutz, Auspuffaufhängung: warum es unter dem Auto auf Unebenheiten klappert, wie Sie die Quelle finden und wann es ernst wird."
 faq:
   - q: "Warum klappert es auf kleinen Unebenheiten und schweigt im großen Schlagloch?"

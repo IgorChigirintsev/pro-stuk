@@ -1,7 +1,7 @@
 ---
 ru: "podushka-dvigatelya-simptomy-razrusheniya"
 title: "Engine mount failure: the symptoms"
-metaTitle: "Engine mount failure: the symptoms | Stuk"
+metaTitle: "Engine mount failure: the symptoms | Pro-Stuk"
 description: "A jolt when pulling away, vibration at idle, a dull thump shifting from drive to reverse — how to recognise a failed engine mount and what it leads to."
 pubDate: "2026-06-05"
 related:
@@ -107,7 +107,7 @@ a couple of months either, especially once the thump on selecting a gear
 has become distinct.
 
 If you are unsure where the jolt comes from — the engine bay or from under
-a wheel — record the moment of pulling away in the Stuk app. It matches
+a wheel — record the moment of pulling away in the Pro-Stuk app. It matches
 the recording with your answers about the regime the sound appears in and
 shows the likely causes with percentages, so the conversation at the
 workshop starts from a specific theory.

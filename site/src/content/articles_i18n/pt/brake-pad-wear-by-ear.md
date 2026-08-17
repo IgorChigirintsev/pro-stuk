@@ -1,6 +1,6 @@
 ---
 title: "Reconhecendo o desgaste das pastilhas de freio de ouvido"
-metaTitle: "Desgaste das pastilhas de freio de ouvido | Stuk"
+metaTitle: "Desgaste das pastilhas de freio de ouvido | Pro-Stuk"
 description: "Os sons de pastilhas de freio gastas: o chiado do indicador, guincho, raspagem. Como diferenciá-los do zumbido de rolamento de roda e o que verificar."
 faq:
   - q: "Por que o chiado do indicador de desgaste some quando piso no freio?"
@@ -132,6 +132,6 @@ está respondendo à pergunta de verdade — se os discos podem ficar ou
 precisam ser trocados junto com as pastilhas.
 
 Se um som de freio é difícil de classificar de ouvido, grave-o no
-aplicativo Stuk rodando devagar com algumas frenagens leves. O aplicativo
+aplicativo Pro-Stuk rodando devagar com algumas frenagens leves. O aplicativo
 compara a gravação com as suas respostas e mostra as causas prováveis com
 porcentagens e um nível de urgência.

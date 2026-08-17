@@ -1,6 +1,6 @@
 ---
 title: "Ticchettio del motore: pericoloso o no"
-metaTitle: "Ticchettio del motore: pericoloso o no, come capirlo | Stuk"
+metaTitle: "Ticchettio del motore: pericoloso o no, come capirlo | Pro-Stuk"
 description: "Perché il motore ticchetta: quando è il normale lavoro degli iniettori e quando sono punterie o valvole consumate. Come distinguere un suono innocuo da uno serio."
 faq:
   - q: "Il motore ticchetta al minimo: è pericoloso?"
@@ -142,6 +142,6 @@ distribuzione lasciata ticchettare per anni consuma i profili delle camme — e 
 posto di una registrazione arriva il conto degli alberi a camme.
 
 Se non è sicuro che il suo sia il caso innocuo, registri il motore nell'app
-Stuk: confronta la registrazione con le sue risposte a domande di chiarimento e
+Pro-Stuk: confronta la registrazione con le sue risposte a domande di chiarimento e
 mostra le cause probabili con un livello di urgenza. Con quello è più facile
 decidere tra andare in officina questa settimana e limitarsi a osservare.

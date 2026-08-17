@@ -1,6 +1,6 @@
 ---
 title: "Wie eine gelängte Steuerkette klingt"
-metaTitle: "Wie eine gelängte Steuerkette klingt | Stuk"
+metaTitle: "Wie eine gelängte Steuerkette klingt | Pro-Stuk"
 description: "Rasseln beim Kaltstart, Rascheln hinter der Abdeckung, eine Änderung beim Gaswegnehmen — so erkennen Sie eine gelängte Steuerkette und grenzen sie ab."
 faq:
   - q: "Warum rasselt die Kette in den ersten Sekunden nach einem Kaltstart am lautesten?"

@@ -1,6 +1,6 @@
 ---
 title: "Hałasujące łożysko oporowe amortyzatora: objawy"
-metaTitle: "Stukające łożysko oporowe amortyzatora: objawy | Stuk"
+metaTitle: "Stukające łożysko oporowe amortyzatora: objawy | Pro-Stuk"
 description: "Klikanie i chrzęst przy kręceniu kierownicą na postoju, stuk na drobnych dziurach, ciężka kierownica — jak rozpoznać zużyte łożysko oporowe amortyzatora."
 faq:
   - q: "Jak odróżnić łożysko oporowe od przegubu napędowego?"
@@ -52,7 +52,7 @@ sprawia wrażenie, jakby coś się zacinało.
 | Sprawdzian | Łożysko oporowe | Inne części |
 |---|---|---|
 | Kręcenie kierownicą na postoju | Chrzęst i klikanie | Przegub i zawieszenie milczą |
-| Stuk na drobnych dziurach | Jest, z góry | Stabilizator stuka niżej i ostrzej |
+| Pro-Stuk na drobnych dziurach | Jest, z góry | Stabilizator stuka niżej i ostrzej |
 | Ciężka kierownica | Narasta, kierownica nie wraca | Wspomaganie hałasuje, ale kierownica lekka |
 | Miejsce dźwięku | Góra kolumny, przy szybie | Nadkole, okolice piasty |
 
@@ -92,7 +92,7 @@ drugie, czy sprężyna wraca w tym samym ustawieniu — źle osadzona sprężyna
 częste źródło nowego stuku, który pojawia się zaraz po naprawie.
 
 Jeśli chrzęst jest niewyraźny i nie masz pewności, skąd dochodzi, nagraj w
-aplikacji Stuk kręcenie kierownicą na postoju, a potem okrążenie parkingu.
+aplikacji Pro-Stuk kręcenie kierownicą na postoju, a potem okrążenie parkingu.
 Aplikacja porównuje oba fragmenty, zestawia je z odpowiedziami i pokazuje
 prawdopodobne przyczyny z procentami — właśnie po to, żeby kolumna nie została
 rozebrana na darmo.

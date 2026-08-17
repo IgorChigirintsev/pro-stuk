@@ -1,7 +1,7 @@
 ---
 ru: "kak-najti-stuk-v-podveske-bez-podyomnika"
 title: "Finding a suspension knock without a lift"
-metaTitle: "Finding a suspension knock without a lift | Stuk"
+metaTitle: "Finding a suspension knock without a lift | Pro-Stuk"
 description: "A step-by-step plan for locating a suspension knock with no pit and no lift: the sound portrait, the bounce test, checks by hand and a controlled drive."
 pubDate: "2026-08-02"
 related:
@@ -141,7 +141,7 @@ change: then the places recently touched come first, from wheel bolt
 torque to how the removed parts were refitted.
 
 If the knock still refuses to be localised, there is one more tool: record
-the sound while driving in the Stuk app. It matches the recording with
+the sound while driving in the Pro-Stuk app. It matches the recording with
 your answers about when and on which surfaces the knock appears and shows
 the likely causes with an urgency level — a convenient starting point both
 for the garage check and for the conversation with a mechanic.

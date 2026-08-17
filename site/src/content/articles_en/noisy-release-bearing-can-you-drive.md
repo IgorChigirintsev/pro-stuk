@@ -1,7 +1,7 @@
 ---
 ru: "vyzhimnoj-shumit-mozhno-li-ezdit"
 title: "A noisy release bearing: can you drive?"
-metaTitle: "A noisy release bearing: can you drive, and how far | Stuk"
+metaTitle: "A noisy release bearing: can you drive, and how far | Pro-Stuk"
 description: "Release bearing noise when the clutch pedal is pressed: how to tell it from other sounds, how long you can drive and what decides the repair."
 pubDate: "2026-06-04"
 related:
@@ -113,6 +113,6 @@ And a new clutch wants a gentle first few hundred kilometres to bed in,
 without towing or hard launches.
 
 If you are unsure whether the sound really is tied to the pedal, record it
-in the Stuk app: two short clips, with the clutch pressed and released.
+in the Pro-Stuk app: two short clips, with the clutch pressed and released.
 The app compares the recordings and suggests which way to look before you
 arrive at the workshop.

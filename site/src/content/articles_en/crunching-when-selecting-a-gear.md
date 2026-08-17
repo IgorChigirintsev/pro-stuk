@@ -1,7 +1,7 @@
 ---
 ru: "hrust-pri-vklyuchenii-peredachi"
 title: "Crunching when selecting a gear"
-metaTitle: "Crunching when selecting a gear: causes | Stuk"
+metaTitle: "Crunching when selecting a gear: causes | Pro-Stuk"
 description: "Crunching as a gear engages usually comes from synchros or a clutch that does not fully disengage. How to tell them apart by how the lever behaves."
 pubDate: "2026-07-23"
 related:
@@ -99,6 +99,6 @@ crunches, plan the repair calmly. If the crunch has spread to several
 gears and shifting has become hard, have the car looked at within days.
 
 If you want to know what is crunching before the visit, record the sound
-in the Stuk app twice: selecting first while parked, and the problem gear
+in the Pro-Stuk app twice: selecting first while parked, and the problem gear
 while driving. The app matches the recordings with your answers and shows
 the likely causes with percentages.

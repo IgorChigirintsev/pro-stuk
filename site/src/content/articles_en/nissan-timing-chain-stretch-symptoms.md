@@ -1,7 +1,7 @@
 ---
 ru: "tsep-grm-nissan-almera-qashqai-simptomy-rastyazheniya"
 title: "Nissan Almera/Qashqai timing chain stretch symptoms"
-metaTitle: "Nissan timing chain stretch: the symptoms | Stuk"
+metaTitle: "Nissan timing chain stretch: the symptoms | Pro-Stuk"
 description: "How a stretched timing chain sounds on the Almera and Qashqai, how it differs from other engine knocks, and how the repair is decided."
 pubDate: "2026-06-25"
 related:
@@ -109,7 +109,7 @@ and whining at the front of the engine bay has nothing to do with the
 chain — those sources are covered in
 [alternator belt squeal: the causes](/en/articles/alternator-belt-squeal-causes/).
 
-If it is unclear which stage your case is at, record the sound in the Stuk
+If it is unclear which stage your case is at, record the sound in the Pro-Stuk
 app at a cold start and a second time on a warm engine. The app compares
 the recordings with your answers and shows the likely causes with
 percentages: a good way to work out whether you have time in hand.

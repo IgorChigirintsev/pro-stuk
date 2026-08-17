@@ -1,6 +1,6 @@
 ---
 title: "Jak samemu sprawdzić łożysko koła"
-metaTitle: "Jak samemu sprawdzić łożysko koła | Stuk"
+metaTitle: "Jak samemu sprawdzić łożysko koła | Pro-Stuk"
 description: "Pięć sprawdzeń, które wskażą zużyte łożysko koła i jego stronę bez podnośnika: testy w jeździe, uniesienie koła, luz i temperatura piasty."
 faq:
   - q: "Czy da się ustalić stronę bez podnośnika?"
@@ -95,6 +95,6 @@ sprawdzenie drugiej strony ma sens: jeśli i ona jest u kresu, wydatek da się
 zaplanować, zamiast spotkać go za miesiąc.
 
 Jeśli sprawdzenia przeczą sobie nawzajem — a tak bywa często — proszę nagrać
-buczenie w aplikacji Stuk podczas testu zmiany pasa. Aplikacja dopasuje
+buczenie w aplikacji Pro-Stuk podczas testu zmiany pasa. Aplikacja dopasuje
 nagranie do Pana odpowiedzi i pokaże prawdopodobne przyczyny z procentami, w
 tym stronę, od której zacząć oględziny.

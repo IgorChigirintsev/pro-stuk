@@ -1,7 +1,7 @@
 ---
 ru: "stuk-rejki-podtyanut-ili-menyat"
 title: "A steering rack knock: adjust or replace"
-metaTitle: "Steering rack knock: adjust or replace it | Stuk"
+metaTitle: "Steering rack knock: adjust or replace it | Pro-Stuk"
 description: "When a knocking steering rack can simply be adjusted and when it needs a rebuild or replacement: the criteria, and the risk of over-tightening."
 pubDate: "2026-07-18"
 related:
@@ -109,7 +109,7 @@ The full symptom list for the mechanism itself is in
 [signs of a faulty steering rack](/en/articles/steering-rack-fault-signs/).
 
 If the decision is still open and you want an independent second opinion,
-record the knock in the Stuk app on a stretch of road you know is rough.
+record the knock in the Pro-Stuk app on a stretch of road you know is rough.
 The app matches the sound with your answers, shows the likely causes and
 the level of urgency — and the conversation at the workshop becomes
 specific.

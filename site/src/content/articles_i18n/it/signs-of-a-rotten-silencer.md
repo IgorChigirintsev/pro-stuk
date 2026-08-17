@@ -1,6 +1,6 @@
 ---
 title: "Segni di una marmitta bucata dalla ruggine"
-metaTitle: "Marmitta bucata: come riconoscerla | Stuk"
+metaTitle: "Marmitta bucata: come riconoscerla | Pro-Stuk"
 description: "L'auto è diventata rumorosa, da sotto il pavimento arrivano rombo e scoppiettii, i gas di scarico entrano in abitacolo: i segni di una marmitta bucata e la riparazione."
 faq:
   - q: "Una marmitta bucata toglie potenza?"
@@ -98,6 +98,6 @@ sfrega contro la scocca e carica le saldature, così un silenziatore nuovo su
 gomme vecchie marcisce prima del tempo.
 
 Se sente che l'auto è diventata rumorosa ma non capisce dove l'impianto ha
-ceduto, registri il suono con l'app Stuk — al minimo e alzando i giri in
+ceduto, registri il suono con l'app Pro-Stuk — al minimo e alzando i giri in
 modo graduale. L'app confronta la registrazione con le sue risposte e
 suggerisce quali parti dell'impianto ispezionare per prime.

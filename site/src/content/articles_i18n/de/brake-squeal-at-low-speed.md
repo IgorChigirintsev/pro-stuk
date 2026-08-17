@@ -1,6 +1,6 @@
 ---
 title: "Bremsenquietschen bei niedrigem Tempo"
-metaTitle: "Bremsenquietschen bei niedrigem Tempo: Ursachen | Stuk"
+metaTitle: "Bremsenquietschen bei niedrigem Tempo: Ursachen | Pro-Stuk"
 description: "Ein Bremsenquietschen bei 5–20 km/h kann harmlose Belagschwingung sein oder der Verschleißanzeiger bei der Arbeit. Wie Sie beides trennen."
 faq:
   - q: "Warum quietschen die Bremsen nur bei niedrigem Tempo?"

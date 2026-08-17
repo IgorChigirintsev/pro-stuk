@@ -1,6 +1,6 @@
 ---
 title: "Como testar os tuchos hidráulicos"
-metaTitle: "Como testar os tuchos hidráulicos de ouvido | Stuk"
+metaTitle: "Como testar os tuchos hidráulicos de ouvido | Pro-Stuk"
 description: "Como saber se o tique-taque vem dos tuchos hidráulicos: testes a frio e a quente, diferença para folga de válvulas e bicos, e o que fazer depois."
 faq:
   - q: "O tique some depois que o motor esquenta. Isso é normal?"
@@ -97,7 +97,7 @@ vem batendo há meses deixa marca no ressalto, e descobrir isso depois é o
 caminho caro.
 
 Para não ficar adivinhando se realmente ficou mais silencioso, grave a
-partida a frio no aplicativo Stuk antes da troca de óleo e depois. O app
+partida a frio no aplicativo Pro-Stuk antes da troca de óleo e depois. O app
 decompõe o som, cruza com as suas respostas e mostra as causas prováveis
 com percentuais — e duas gravações lado a lado respondem com honestidade
 se o reparo ajudou.

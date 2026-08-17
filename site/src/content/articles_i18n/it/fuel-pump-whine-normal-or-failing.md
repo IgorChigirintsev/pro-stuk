@@ -1,6 +1,6 @@
 ---
 title: "Ronzio della pompa benzina: normale o sta per cedere"
-metaTitle: "Ronzio della pompa benzina: normale o guasto | Stuk"
+metaTitle: "Ronzio della pompa benzina: normale o guasto | Pro-Stuk"
 description: "Dove passa il confine tra il normale ronzio della pompa del carburante e il fischio di una pompa che sta morendo: quali segni sono innocui e quali no."
 faq:
   - q: "La pompa ronza per un paio di secondi quando giro la chiave. È normale?"
@@ -104,7 +104,7 @@ della riserva e cambiare il filtro carburante all’intervallo consigliato.
 Sono i modi più economici di allungare la vita di una pompa.
 
 Se non siete sicuri che il suono sia davvero cresciuto o sia solo
-suggestione, registratelo nell’app Stuk, sia all’accensione sia al minimo.
+suggestione, registratelo nell’app Pro-Stuk, sia all’accensione sia al minimo.
 Tra un mese fate una seconda registrazione nelle stesse condizioni e
 confrontate: l’app le mette a confronto con le vostre risposte e mostra se
 si tratta di rumore di fondo normale o di un guasto che si sta

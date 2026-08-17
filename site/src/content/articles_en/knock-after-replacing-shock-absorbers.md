@@ -1,7 +1,7 @@
 ---
 ru: "stuk-posle-zameny-amortizatorov"
 title: "A knock after replacing shock absorbers"
-metaTitle: "A knock after replacing shock absorbers: causes | Stuk"
+metaTitle: "A knock after replacing shock absorbers: causes | Pro-Stuk"
 description: "Why a knock appeared after new dampers: torque mistakes, old mounts and bump stops, a faulty part. How to find the cause and who pays to fix it."
 pubDate: "2026-07-11"
 related:
@@ -105,7 +105,7 @@ a clear history: what was replaced, when the sound appeared. The wider
 version of that conversation is in
 [a knock after suspension work: who is to blame](/en/articles/knock-after-suspension-repair/).
 
-To keep it specific, capture the knock itself: record it in the Stuk app
+To keep it specific, capture the knock itself: record it in the Pro-Stuk app
 on the same stretch of road where it is heard best. The algorithm matches
 the recording with your answers and shows the likely causes with an
 urgency level — with a recording it is harder for a workshop to say

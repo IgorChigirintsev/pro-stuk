@@ -1,6 +1,6 @@
 ---
 title: "La dirección asistida zumba al girar: las causas"
-metaTitle: "Zumbido de la dirección asistida al girar: causas | Stuk"
+metaTitle: "Zumbido de la dirección asistida al girar: causas | Pro-Stuk"
 description: "Por qué zumba una dirección asistida hidráulica en las curvas: nivel de líquido, aire, la bomba, la correa. Qué es normal, qué es desgaste y qué revisar primero."
 faq:
   - q: "Solo zumba a tope de giro. ¿Es una avería?"
@@ -129,6 +129,6 @@ como un motivo para mirar el depósito en un día o dos, no para
 «vigilarlo un mes».
 
 Si no está seguro de que sea la dirección, grabe el sonido en la
-aplicación Stuk mientras gira el volante. La aplicación cruza la grabación
+aplicación Pro-Stuk mientras gira el volante. La aplicación cruza la grabación
 con sus respuestas sobre cuándo aparece el sonido y muestra las causas
 probables con un nivel de urgencia.

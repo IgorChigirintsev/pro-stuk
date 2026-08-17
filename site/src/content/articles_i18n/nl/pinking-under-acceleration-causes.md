@@ -1,6 +1,6 @@
 ---
 title: "Pingelen bij accelereren: de oorzaken"
-metaTitle: "Pingelen bij accelereren: oorzaken en oplossing | Stuk"
+metaTitle: "Pingelen bij accelereren: oorzaken en oplossing | Pro-Stuk"
 description: "Waarom een motor pingelt bij accelereren: detonatie, brandstof, koolaanslag, bougies. Hoe u onschuldig pingelen onderscheidt van versleten zuigerpennen."
 faq:
   - q: "Gaat pingelen echt over de zuigerpennen?"

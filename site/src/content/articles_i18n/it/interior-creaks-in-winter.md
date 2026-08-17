@@ -1,6 +1,6 @@
 ---
 title: "Scricchiolii nell'abitacolo d'inverno"
-metaTitle: "Scricchiolii in abitacolo d'inverno: perché | Stuk"
+metaTitle: "Scricchiolii in abitacolo d'inverno: perché | Pro-Stuk"
 description: "Perché d'inverno l'abitacolo scricchiola di più: cosa succede a plastica e gomma con il freddo, quali suoni spariscono scaldandosi e quali vanno controllati."
 faq:
   - q: "Perché l'abitacolo scricchiola solo nei primi minuti dopo la partenza?"
@@ -100,7 +100,7 @@ un battito invernale da un montante va preso sul serio e non rimandato
 alla primavera.
 
 Distinguere uno scricchiolio stagionale da uno vero è più facile per
-confronto. Registra il suono con l'app Stuk nel primo minuto dopo la
+confronto. Registra il suono con l'app Pro-Stuk nel primo minuto dopo la
 partenza e ripeti la stessa registrazione mezz'ora dopo a vettura calda.
 Se la seconda registrazione è pulita, è il gelo; se il suono c'è ancora,
 l'app suggerisce quali componenti controllare per primi.

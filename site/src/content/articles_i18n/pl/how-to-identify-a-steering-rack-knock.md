@@ -1,6 +1,6 @@
 ---
-title: "Stuk w przekładni kierowniczej: jak go rozpoznać"
-metaTitle: "Stuk przekładni kierowniczej: jak go rozpoznać | Stuk"
+title: "Pro-Stuk w przekładni kierowniczej: jak go rozpoznać"
+metaTitle: "Pro-Stuk przekładni kierowniczej: jak go rozpoznać | Pro-Stuk"
 description: "Jak rozpoznać, że stuka przekładnia kierownicza, a nie końcówki i drążki: charakterystyczne objawy, test we dwie osoby i od czego zależy naprawa."
 faq:
   - q: "Czy można jeździć ze stukającą przekładnią?"
@@ -27,7 +27,7 @@ właśnie na nią i jak potwierdzić diagnozę w dziesięć minut z pomocnikiem.
 
 Przekładnia to listwa zębata w metalowym korpusie, poruszana zębnikiem na
 wale kierowniczym. Sprężynowy docisk dociska listwę do zębnika, a na końcach
-korpusu listwa ślizga się w tulejach. Stuk pojawia się, gdy w którymś z tych
+korpusu listwa ślizga się w tulejach. Pro-Stuk pojawia się, gdy w którymś z tych
 miejsc powstaje luz:
 
 - **zazębienie zębnika z listwą** — przypadek najczęstszy; stuk słychać
@@ -57,7 +57,7 @@ pod auto: stan mieszków widać bez rozbierania czegokolwiek.
 | Objaw | Przekładnia kierownicza | Końcówki i drążki |
 |---|---|---|
 | Gdzie słychać stuk | W środku, „w samej kierownicy” | Nisko, przy kole |
-| Kołysanie kierownicą na postoju | Stuk łatwo się powtarza | Prawie brak stuku, pojawia się w jeździe |
+| Kołysanie kierownicą na postoju | Pro-Stuk łatwo się powtarza | Prawie brak stuku, pojawia się w jeździe |
 | Charakter dźwięku | Pojedyncze głuche uderzenie | Częsty drobny terkot |
 | Zachowanie auta | Luz wokół pozycji na wprost, czasem zacinanie | Auto ściąga, błądzi |
 | Zużycie opon | Zwykle równomierne | Nierówne, po krawędziach |
@@ -135,6 +135,6 @@ regeneracji. I czy w komplecie są nowe mieszki: montaż zregenerowanej
 przekładni za starymi, pękniętymi osłonami marnuje całą robotę.
 
 Jeśli chce Pan sprawdzić swoje podejrzenia przed warsztatem, proszę nagrać
-stuk w aplikacji Stuk: przejechać rozbity odcinek z włączonym nagrywaniem i
+stuk w aplikacji Pro-Stuk: przejechać rozbity odcinek z włączonym nagrywaniem i
 odpowiedzieć na kilka pytań — aplikacja dopasuje dźwięk do typowych profili
 usterek i pokaże prawdopodobne przyczyny wraz z poziomem pilności.

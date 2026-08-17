@@ -1,6 +1,6 @@
 ---
 title: "Wie ein sterbendes Radlager klingt"
-metaTitle: "Wie ein sterbendes Radlager klingt | Stuk"
+metaTitle: "Wie ein sterbendes Radlager klingt | Pro-Stuk"
 description: "Vom leisen Brummen bei 60 km/h bis zum Dröhnen mit Vibration im Lenkrad — wie ein Radlager seinen Ton Stadium für Stadium verändert und wann Warten endet."
 faq:
   - q: "Bei welchem Tempo ist ein Lager ganz am Anfang hörbar?"

@@ -1,6 +1,6 @@
 ---
 title: "Een doffe klap van voren bij het rijden door kuilen"
-metaTitle: "Doffe klap van voren bij kuilen: oorzaken | Stuk"
+metaTitle: "Doffe klap van voren bij kuilen: oorzaken | Pro-Stuk"
 description: "Wat een doffe klap van voren bij kuilen betekent: welke onderdelen van het onderstel zo klinken en hoe u de gevaarlijke oorzaken scheidt van de onschuldige."
 faq:
   - q: "Waarom klinkt de klap dof en niet scherp?"

@@ -1,6 +1,6 @@
 ---
 title: "Un golpe en el motor que desaparece al calentar"
-metaTitle: "Golpe que desaparece al calentar: qué significa | Stuk"
+metaTitle: "Golpe que desaparece al calentar: qué significa | Pro-Stuk"
 description: "Por qué el motor golpea en frío y calla en caliente: taqués hidráulicos, golpeteo de pistón, tensor de la cadena. Dónde termina lo normal y empieza la avería."
 faq:
   - q: "¿Un golpe en frío es siempre una avería?"
@@ -144,7 +144,7 @@ taqués— y si el historial de aceite explica el desgaste, porque un juego
 de piezas nuevas alimentado con el mismo régimen de aceite descuidado
 vuelve a tabletear.
 
-Una costumbre útil es grabar un arranque en frío con la aplicación Stuk y
+Una costumbre útil es grabar un arranque en frío con la aplicación Pro-Stuk y
 repetir la grabación un mes después. La aplicación relaciona el sonido con
 las causas típicas, muestra probabilidades y urgencia, y comparar las
 grabaciones enseña si el problema está creciendo, sin prisas ni viajes de

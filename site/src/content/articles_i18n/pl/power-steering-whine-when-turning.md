@@ -1,6 +1,6 @@
 ---
 title: "Wycie wspomagania przy skręcaniu: przyczyny"
-metaTitle: "Wycie wspomagania przy skręcaniu: przyczyny | Stuk"
+metaTitle: "Wycie wspomagania przy skręcaniu: przyczyny | Pro-Stuk"
 description: "Dlaczego wspomaganie hydrauliczne wyje na zakręcie: poziom płynu, powietrze w układzie, pompa, pasek. Jak odróżnić normę od zużycia."
 faq:
   - q: "Wyje tylko przy skręcie do oporu. Czy to usterka?"
@@ -124,6 +124,6 @@ zbiorniczka w ciągu dnia czy dwóch, a nie żeby „poobserwować przez
 miesiąc”.
 
 Jeśli nie masz pewności, czy to wspomaganie, nagraj dźwięk w aplikacji
-Stuk podczas kręcenia kierownicą. Aplikacja zestawia nagranie z twoimi
+Pro-Stuk podczas kręcenia kierownicą. Aplikacja zestawia nagranie z twoimi
 odpowiedziami o tym, kiedy dźwięk się pojawia, i pokazuje prawdopodobne
 przyczyny wraz z poziomem pilności.

@@ -1,6 +1,6 @@
 ---
 title: "Fischio dei freni a bassa velocità"
-metaTitle: "Fischio dei freni a bassa velocità | Stuk"
+metaTitle: "Fischio dei freni a bassa velocità | Pro-Stuk"
 description: "Un fischio dei freni a 5–20 km/h può essere innocua vibrazione delle pastiglie o l'indicatore di usura che lavora. Come distinguerli e da cosa dipende la riparazione."
 faq:
   - q: "Perché i freni fischiano solo a bassa velocità?"
@@ -110,7 +110,7 @@ questione non riguarda più il rumore ma l'integrità del disco, e la visita
 non si rimanda.
 
 Se vuole sapere cosa sta suonando davvero prima di prenotare qualcosa,
-registri il fischio con l'app Stuk mentre arriva piano a un semaforo.
+registri il fischio con l'app Pro-Stuk mentre arriva piano a un semaforo.
 L'app scompone la registrazione per frequenza, la confronta con le sue
 risposte a qualche domanda sulle condizioni e mostra le cause probabili in
 percentuale: di solito basta per decidere tra andarci subito e aspettare

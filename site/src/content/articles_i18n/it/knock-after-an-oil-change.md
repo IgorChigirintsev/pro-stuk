@@ -1,6 +1,6 @@
 ---
 title: "Battito del motore dopo il cambio olio"
-metaTitle: "Battito del motore dopo il cambio olio: cause | Stuk"
+metaTitle: "Battito del motore dopo il cambio olio: cause | Pro-Stuk"
 description: "Perché il motore ha iniziato a battere dopo un cambio olio: viscosità, livello, filtro, lavaggio. Quando il suono passa da solo e quando tornare in officina."
 faq:
   - q: "Il motore ticchetta nei primi secondi dopo il cambio olio: è normale?"
@@ -122,7 +122,7 @@ Anche un secondo cambio olio completo costa meno di qualsiasi riparazione
 a cui porta il guidare con un battito non spiegato.
 
 Se non sei sicuro che sia lo stesso suono di prima del cambio o uno nuovo,
-registra il motore con l'app Stuk e ripeti la registrazione qualche giorno
+registra il motore con l'app Pro-Stuk e ripeti la registrazione qualche giorno
 dopo. L'app confronta il suono con le cause tipiche, mostra probabilità e
 urgenza, e mettere a confronto le registrazioni aiuta a notare
 l'andamento.

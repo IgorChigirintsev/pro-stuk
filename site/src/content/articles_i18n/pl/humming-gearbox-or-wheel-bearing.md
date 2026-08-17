@@ -1,6 +1,6 @@
 ---
 title: "Buczenie: skrzynia biegów czy łożysko koła"
-metaTitle: "Buczenie przy prędkości: skrzynia czy łożysko | Stuk"
+metaTitle: "Buczenie przy prędkości: skrzynia czy łożysko | Pro-Stuk"
 description: "Buczenie przy prędkości dają i łożyska kół, i skrzynie biegów. Trzy testy rozdzielające je w jednym przejeździe i co każda odpowiedź znaczy dla naprawy."
 faq:
   - q: "Jak najszybciej odróżnić buczenie skrzyni od buczenia łożyska?"
@@ -94,7 +94,7 @@ kilometrów. Warsztat, który używa tam klucza dynamometrycznego, a nie
 udarowego, robi to dobrze.
 
 Jeśli buczenie jest ciche, a w warsztacie „nic nie słychać”, proszę nagrać je
-w aplikacji Stuk podczas wszystkich trzech testów po kolei — na luzie, na
+w aplikacji Pro-Stuk podczas wszystkich trzech testów po kolei — na luzie, na
 różnych biegach i przy zmianach pasa. Aplikacja dopasuje nagrania do Pana
 odpowiedzi i pokaże prawdopodobne przyczyny z procentami, żeby rozmowa nie
 zaczynała się od zgadywania.

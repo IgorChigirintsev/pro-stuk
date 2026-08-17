@@ -1,6 +1,6 @@
 ---
 title: "Como soa a batida de bronzina de biela"
-metaTitle: "Como soa a batida de bronzina de biela | Stuk"
+metaTitle: "Como soa a batida de bronzina de biela | Pro-Stuk"
 description: "Batida metálica dura vinda do meio do bloco que cresce sob carga: como soam bronzinas de biela gastas, como são localizadas e o que elas ameaçam."
 faq:
   - q: "Dá para ir até a oficina pelo próprio motor com batida de biela?"
@@ -123,7 +123,7 @@ troca honestos com folga para o uso urbano e preste atenção na luz de
 pressão.
 
 Se o som acabou de aparecer e você não tem certeza de que vem lá do fundo
-do bloco, grave uma acelerada curta em ponto morto no aplicativo Stuk. O app
+do bloco, grave uma acelerada curta em ponto morto no aplicativo Pro-Stuk. O app
 cruza a gravação com suas respostas sobre as condições e mostra as causas
 prováveis com porcentagens — e diz se o motor deve mesmo ser ligado antes
 do diagnóstico.

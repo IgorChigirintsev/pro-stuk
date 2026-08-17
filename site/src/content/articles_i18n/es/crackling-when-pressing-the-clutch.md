@@ -1,6 +1,6 @@
 ---
 title: "Chasquidos al pisar el embrague"
-metaTitle: "Chasquidos al pisar el embrague: causas | Stuk"
+metaTitle: "Chasquidos al pisar el embrague: causas | Pro-Stuk"
 description: "El crujido al bajar el pedal del embrague suele venir de la horquilla, el manguito guía o un pivote seco. Cómo separar una causa barata de sacar la caja."
 faq:
   - q: "¿Un crujido en el pedal es el cojinete de empuje?"
@@ -95,7 +95,7 @@ factura. Cómo plantear esa conversación sin acabar pagando de más se explica
 en [cómo evitar que le vendan de más en un taller](/es/articles/avoiding-being-upsold-at-a-workshop/).
 
 Si cuesta saber de dónde viene el sonido —del habitáculo o de debajo del
-capó—, grábelo dos veces con la aplicación Stuk: con el motor parado y con el
+capó—, grábelo dos veces con la aplicación Pro-Stuk: con el motor parado y con el
 motor en marcha. La aplicación compara las grabaciones con sus respuestas y
 muestra las causas probables con porcentajes, de modo que la conversación en
 el taller empiece por el extremo correcto.

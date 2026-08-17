@@ -1,6 +1,6 @@
 ---
 title: "Témoin d'usure des plaquettes : à quoi ça ressemble"
-metaTitle: "Témoin d'usure des plaquettes : le son | Stuk"
+metaTitle: "Témoin d'usure des plaquettes : le son | Pro-Stuk"
 description: "Un sifflement métallique fin en roulant qui cesse dès que vous freinez : c'est le témoin mécanique d'usure des plaquettes. Comment le reconnaître et le temps qu'il vous reste."
 faq:
   - q: "Pourquoi le sifflement s'arrête quand j'appuie sur la pédale ?"
@@ -99,6 +99,6 @@ descentes le pied posé sur la pédale, pour que la garniture se rode
 uniformément.
 
 Si le bruit est apparu et que vous n'êtes pas sûr qu'il s'agisse du témoin
-ou d'autre chose, enregistrez-le dans l'application Stuk — d'abord en roue
+ou d'autre chose, enregistrez-le dans l'application Pro-Stuk — d'abord en roue
 libre, puis en freinage léger. L'application croise les enregistrements
 avec vos réponses et affiche les causes probables avec un pourcentage.

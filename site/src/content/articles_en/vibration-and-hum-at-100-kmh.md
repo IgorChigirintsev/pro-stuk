@@ -1,7 +1,7 @@
 ---
 ru: "vibratsiya-i-gul-na-skorosti-100"
 title: "Vibration and hum at 100 km/h"
-metaTitle: "Vibration and hum at 100 km/h: the causes | Stuk"
+metaTitle: "Vibration and hum at 100 km/h: the causes | Pro-Stuk"
 description: "Where vibration and hum at 100 km/h come from: balancing, a bent rim, a wheel bearing or tyre noise. Self-checks you can do in one drive."
 pubDate: "2026-08-02"
 related:
@@ -125,7 +125,7 @@ whether the whole hub unit is replaced — that single answer changes the
 scale of the job entirely.
 
 If after the drive it is still unclear whether it is vibration, a hum or
-both, record the sound in the Stuk app out on the road. The app matches
+both, record the sound in the Pro-Stuk app out on the road. The app matches
 the recording with your answers — at what speed it appears, whether it
 changes in bends, what was recently done to the wheels — and shows the
 likely causes with a level of urgency. With that recording you will not

@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec un roulement de roue qui ronfle"
-metaTitle: "Peut-on rouler avec un roulement de roue qui ronfle ? | Stuk"
+metaTitle: "Peut-on rouler avec un roulement de roue qui ronfle ? | Pro-Stuk"
 description: "Combien de kilomètres avec un roulement de roue qui ronfle, ce que risque chaque stade d'usure, comment limiter le risque et comment se décide la réparation."
 faq:
   - q: "Combien de kilomètres peut-on faire avec un roulement qui ronfle ?"
@@ -138,6 +138,6 @@ facilement le double.
 
 Si vous voulez vous appuyer sur quelque chose de plus solide que votre
 propre oreille, enregistrez le ronflement en roulant dans l'application
-Stuk : elle recoupe le son avec vos réponses et affiche les causes probables
+Pro-Stuk : elle recoupe le son avec vos réponses et affiche les causes probables
 avec des pourcentages et un niveau d'urgence — de quoi trancher plus
 facilement entre passer au garage demain et finir la semaine tranquillement.

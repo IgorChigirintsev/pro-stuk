@@ -1,6 +1,6 @@
 ---
 title: "Quanto dura un giunto omocinetico dopo i primi clic"
-metaTitle: "Quanto dura un giunto omocinetico che fa clic | Stuk"
+metaTitle: "Quanto dura un giunto omocinetico che fa clic | Pro-Stuk"
 description: "Indicazioni oneste sulla vita di un giunto omocinetico dopo i primi clic: da cosa dipende il margine, cosa accelera il cedimento e quando va sostituito."
 faq:
   - q: "Un giunto omocinetico può bloccarsi in marcia?"
@@ -142,7 +142,7 @@ del tipo a crimpare. Sono dettagli piccoli che decidono se la riparazione
 dura anni o mesi.
 
 Per capire a che fase si trova il proprio giunto, si registra il suono
-nell’app Stuk durante un giro lento a sterzo tutto girato. L’app confronta
+nell’app Pro-Stuk durante un giro lento a sterzo tutto girato. L’app confronta
 la registrazione con le risposte a poche domande e mostra le cause
 probabili con un livello di urgenza, il che rende più facile scegliere tra
 andarci domani e fissare con calma un giorno di questa settimana.

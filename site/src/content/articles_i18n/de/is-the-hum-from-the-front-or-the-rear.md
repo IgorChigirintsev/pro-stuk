@@ -1,6 +1,6 @@
 ---
 title: "Herausfinden, woher ein Brummen kommt: vorn oder hinten"
-metaTitle: "Brummen: von der Vorder- oder Hinterachse? | Stuk"
+metaTitle: "Brummen: von der Vorder- oder Hinterachse? | Pro-Stuk"
 description: "Einfache Tests, die Achse und Seite eines Brummens benennen: Spurwechsel, Rollen im Schub, Räder umsetzen und eine Fahrt mit Beifahrer."
 faq:
   - q: "Warum scheint ein Brummen von hinten von vorn zu kommen?"

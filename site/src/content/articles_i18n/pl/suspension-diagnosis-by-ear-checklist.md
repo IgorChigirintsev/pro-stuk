@@ -1,6 +1,6 @@
 ---
 title: "Diagnoza zawieszenia na słuch: pełna lista kontrolna"
-metaTitle: "Diagnoza zawieszenia na słuch: lista kontrolna | Stuk"
+metaTitle: "Diagnoza zawieszenia na słuch: lista kontrolna | Pro-Stuk"
 description: "Krok po kroku sprawdzenie zawieszenia bez podnośnika: test kołysania, drobne nierówności, duże dziury, skręt na postoju, slalom. Plus tabela dźwięków."
 faq:
   - q: "Czy da się rozpoznać usterkę zawieszenia bez podnośnika?"
@@ -56,7 +56,7 @@ same hamulce.
 | Głuche uderzenie w dużych dziurach | Amortyzator, odbój |
 | Skrzypienie przy teście kołysania i wolnym pokonywaniu dziur | Tuleja wahacza, spękana guma |
 | Klikanie przy kręceniu kierownicą na postoju | Łożysko oporowe amortyzatora |
-| Stuk przy ruszaniu i hamowaniu | Sworzeń wahacza, tuleja wahacza |
+| Pro-Stuk przy ruszaniu i hamowaniu | Sworzeń wahacza, tuleja wahacza |
 | Buczenie narastające z prędkością | Łożysko koła albo opony |
 
 Tabela pomaga wybrać teorię, ale nie zastępuje sprawdzenia. Ten sam dźwięk w
@@ -67,7 +67,7 @@ na podnośniku z łomem. Pełny katalog odgłosów z drogi jest na stronie objaw
 ## Co nie jest zawieszeniem
 
 Do tej listy kontrolnej regularnie wciskają się dźwięki z zupełnie innych
-miejsc. Stuk słyszalny na stojącym aucie z pracującym silnikiem nie ma nic
+miejsc. Pro-Stuk słyszalny na stojącym aucie z pracującym silnikiem nie ma nic
 wspólnego z podwoziem. Grzechot pod podłogą przy określonych obrotach to
 zwykle osłona termiczna albo mocowania wydechu. Szarpnięcie i stuk przy
 ruszaniu lub zmianie biegu to częściej skrzynia i poduszki silnika niż
@@ -97,7 +97,7 @@ z pięciu prób, a potem opisać to właśnie w tych kategoriach —
 podpowiada sformułowania, które działają.
 
 Przejście przez listę kontrolną jest łatwiejsze z nagraniem: włącz je w
-aplikacji Stuk podczas jazdy po nierównościach i odpowiedz na pytania o
+aplikacji Pro-Stuk podczas jazdy po nierównościach i odpowiedz na pytania o
 prędkość i warunki. Aplikacja zestawia dźwięk z odpowiedziami i pokazuje
 prawdopodobne przyczyny z procentami — lista, którą przywieziesz mechanikowi,
 wychodzi krótka i konkretna.

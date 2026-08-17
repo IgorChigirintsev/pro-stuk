@@ -1,6 +1,6 @@
 ---
 title: "Kloppen bij koude start: ketting of nokkenasverstellers"
-metaTitle: "Koude klop: ketting of nokkenasversteller | Stuk"
+metaTitle: "Koude klop: ketting of nokkenasversteller | Pro-Stuk"
 description: "Geratel in de eerste seconden na een koude start komt zowel van een uitgerekte distributieketting als van de nokkenasverstellers. Zo onderscheidt u ze aan de duur."
 faq:
   - q: "Hoeveel seconden koude klop geldt als normaal?"

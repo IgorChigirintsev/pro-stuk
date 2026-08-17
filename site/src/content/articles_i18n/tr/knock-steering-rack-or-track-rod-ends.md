@@ -1,6 +1,6 @@
 ---
 title: "Tıkırtı: direksiyon kutusu mu rot başları mı"
-metaTitle: "Direksiyon tıkırtısı: kutu mu rot başı mı | Stuk"
+metaTitle: "Direksiyon tıkırtısı: kutu mu rot başı mı | Pro-Stuk"
 description: "Tümseklerde direksiyona vuran tıkırtı hem direksiyon kutusundan hem rot başlarından gelir. İkisi basit kontrollerle nasıl ayrılır."
 faq:
   - q: "Tıkırtı direksiyona geliyorsa mutlaka direksiyon grubu mudur?"
@@ -100,7 +100,7 @@ kaybolur ve pahalı kutu işi belirsiz bir süre ertelenir. Ustadan her
 parçadaki boşluğu anlatmasını değil, göstermesini isteyin.
 
 Direksiyon tıkırtıları, nereye bakılacağı bilinirse iyi kaydedilir. İnce
-dalgalı bir yüzeyde giderken sesi Stuk uygulamasında kaydedin, sonra bir
+dalgalı bir yüzeyde giderken sesi Pro-Stuk uygulamasında kaydedin, sonra bir
 otoparkta direksiyonu silkeleyerek ikinci bir kayıt alın. Uygulama ikisini
 karşılaştırıp olası sebepleri yüzdeyle gösterir ve hangi düzlemdeki
 boşluktan kontrole başlanacağını önerir.

@@ -1,6 +1,6 @@
 ---
 title: "Triger rulmanlarının aşınma belirtileri"
-metaTitle: "Aşınmış triger rulmanı: ses ve teşhis | Stuk"
+metaTitle: "Aşınmış triger rulmanı: ses ve teşhis | Pro-Stuk"
 description: "Aşınmış triger rulmanları nasıl ses verir: kapağın arkasından hışırtı, ıslık ve uğultu. Sıkışan rulmanın riski ve V kayışı seslerinden ayırma."
 faq:
   - q: "Triger kayışına dokunmadan tek rulman değiştirilebilir mi?"
@@ -107,6 +107,6 @@ bir ayak ya da keçe düzgün olmadığı için öyle aşınır ve aynı yere ta
 yeni rulman da aynı şekilde aşınır.
 
 Motorun önünden bir ıslık ya da hışırtı geliyor ve rulmanlar mı, alternatör
-mü, pompa mı belli değilse, sesi Stuk uygulamasında kaydedin — kaydı tipik
+mü, pompa mı belli değilse, sesi Pro-Stuk uygulamasında kaydedin — kaydı tipik
 arıza sesleriyle eşleştirir, olası kaynağı ve servise ne kadar acil gerek
 olduğunu söyler.

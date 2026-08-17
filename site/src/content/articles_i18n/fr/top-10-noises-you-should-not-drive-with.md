@@ -1,6 +1,6 @@
 ---
 title: "Top 10 des bruits avec lesquels il ne faut pas rouler"
-metaTitle: "Top 10 des bruits avec lesquels il ne faut pas rouler | Stuk"
+metaTitle: "Top 10 des bruits avec lesquels il ne faut pas rouler | Pro-Stuk"
 description: "Dix bruits de voiture après lesquels continuer à rouler est déraisonnable : ce qui casse dans chaque cas et comment les distinguer des bruits anodins."
 faq:
   - q: "Pourquoi un simple couinement de freins n'est-il pas dans la liste ?"
@@ -106,7 +106,7 @@ changent, et c'est précisément ainsi qu'ils sont ignorés jusqu'au stade
 coûteux.
 
 Si un bruit de cette liste est apparu et que vous n'êtes pas sûr,
-enregistrez-le dans l'application Stuk sur place, avant de repartir.
+enregistrez-le dans l'application Pro-Stuk sur place, avant de repartir.
 L'application recoupe l'enregistrement avec vos réponses à quelques
 questions et montre les causes probables en pourcentages — ce qui facilite
 le choix entre continuer et appeler un plateau.

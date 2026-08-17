@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-opornyh-podshipnikov"
 title: "Signs of worn strut top mount bearings"
-metaTitle: "Worn strut top mount bearings: the signs | Stuk"
+metaTitle: "Worn strut top mount bearings: the signs | Pro-Stuk"
 description: "Crunching and knocking as you turn the wheel, dull thumps over bumps — how to recognise worn strut top mount bearings and what decides the repair."
 pubDate: "2026-08-02"
 related:
@@ -139,6 +139,6 @@ forced round. The repair only gets dearer, so there is no sense in
 stretching it beyond a few weeks.
 
 If something is crunching or knocking above and the culprit is not
-obvious, record the sound in the Stuk app. It matches the recording with
+obvious, record the sound in the Pro-Stuk app. It matches the recording with
 your answers and shows the likely causes with an urgency level, so the
 workshop can check specific parts rather than everything at once.

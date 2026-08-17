@@ -1,6 +1,6 @@
 ---
 title: "Chirrido de frenos a baja velocidad"
-metaTitle: "Chirrido de frenos a baja velocidad: causas | Stuk"
+metaTitle: "Chirrido de frenos a baja velocidad: causas | Pro-Stuk"
 description: "Un chirrido de frenos entre 5 y 20 km/h puede ser una vibración inofensiva de las pastillas o el testigo acústico de desgaste. Cómo distinguirlos y de qué depende la reparación."
 faq:
   - q: "¿Por qué los frenos chirrían solo a baja velocidad?"
@@ -113,7 +113,7 @@ no es de ruido: en ese punto el freno trabaja metal contra metal y la
 visita al taller deja de poder aplazarse.
 
 Si se quiere saber qué suena realmente antes de reservar nada, se puede
-grabar el chirrido con la aplicación Stuk mientras se llega rodando a un
+grabar el chirrido con la aplicación Pro-Stuk mientras se llega rodando a un
 semáforo. La aplicación descompone la grabación por frecuencias, la cruza
 con las respuestas a unas cuantas preguntas sobre las condiciones y
 muestra las causas probables con porcentajes: normalmente basta para

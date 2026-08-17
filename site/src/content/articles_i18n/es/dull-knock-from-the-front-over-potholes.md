@@ -1,6 +1,6 @@
 ---
 title: "Un golpe sordo delante al pasar baches"
-metaTitle: "Golpe sordo delante al pasar baches: causas | Stuk"
+metaTitle: "Golpe sordo delante al pasar baches: causas | Pro-Stuk"
 description: "Qué significa un golpe sordo delante al pasar baches: qué piezas de la suspensión suenan así y cómo separar las causas peligrosas de las tolerables."
 faq:
   - q: "¿Por qué el golpe es sordo y no seco?"
@@ -114,6 +114,6 @@ modelo muy extendido está en
 [golpeteo del amortiguador delantero en el Camry](/es/articles/camry-front-strut-knock/).
 
 ¿No sabe cuál es su escenario? Grabe el golpe en un tramo malo con la
-aplicación Stuk: compara el sonido con sus respuestas a unas cuantas preguntas
+aplicación Pro-Stuk: compara el sonido con sus respuestas a unas cuantas preguntas
 de aclaración y muestra las causas probables con un nivel de urgencia, lo que
 hace más fácil decidir entre ir mañana o planificar la visita con calma.

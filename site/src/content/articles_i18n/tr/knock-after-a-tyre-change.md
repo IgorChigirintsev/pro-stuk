@@ -1,6 +1,6 @@
 ---
 title: "Lastik değişiminden sonra tıkırtı: neye bakmalı"
-metaTitle: "Lastik değişiminden sonra tıkırtı: sebepler | Stuk"
+metaTitle: "Lastik değişiminden sonra tıkırtı: sebepler | Pro-Stuk"
 description: "Lastikçiden sonra çıkan tıkırtı nereden gelir: bijon torku, balans ağırlığı, dişteki taş, ezik jant. Kendiniz ne kontrol edersiniz, ne zaman geri dönersiniz."
 faq:
   - q: "Tekerler neden 50–100 km sonra tekrar sıkılmalı?"
@@ -119,7 +119,7 @@ benzer tıkırdar.
 [süspansiyonda tıkırtı](/tr/symptoms/knocking-in-suspension/) belirti
 sayfaları sebepleri karaktere ve koşullara göre sıralıyor.
 
-Tıkırtı yine de adını söylemiyorsa kaydedin: Stuk uygulamasında kaydı
+Tıkırtı yine de adını söylemiyorsa kaydedin: Pro-Stuk uygulamasında kaydı
 başlatıp bildiğiniz bozuk bir yolda gidin. Uygulama sesi verdiğiniz
 cevaplarla — ne zaman çıktı, nerede tıkırdıyor, ne değiştirildi —
 eşleştirir ve olası sebepleri yüzdeyle gösterir.

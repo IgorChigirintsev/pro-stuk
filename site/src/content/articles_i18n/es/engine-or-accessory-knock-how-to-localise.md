@@ -1,6 +1,6 @@
 ---
 title: "¿Golpea el motor o un accesorio? Cómo localizarlo"
-metaTitle: "¿Golpea el motor o un accesorio? Cómo localizarlo | Stuk"
+metaTitle: "¿Golpea el motor o un accesorio? Cómo localizarlo | Pro-Stuk"
 description: "Un golpeteo del vano motor no siempre viene del motor. Unas cuantas comprobaciones separan los accesorios de la correa de la mecánica del propio motor."
 faq:
   - q: "¿Cómo sé si golpea un accesorio y no el motor?"
@@ -99,7 +99,7 @@ parar, según los criterios de
 [¿se puede circular con un golpeteo en el motor?](/es/articles/can-you-drive-with-engine-knock/).
 
 Si quiere capturar el sonido antes de la visita al taller, grábelo con la
-aplicación Stuk en dos regímenes: a ralentí sin carga, e inmediatamente
+aplicación Pro-Stuk en dos regímenes: a ralentí sin carga, e inmediatamente
 después de conectar el aire acondicionado y las luces. La diferencia entre las
 dos grabaciones es exactamente lo que se busca, y la aplicación las compara
 con sus respuestas y muestra las causas probables con porcentajes.

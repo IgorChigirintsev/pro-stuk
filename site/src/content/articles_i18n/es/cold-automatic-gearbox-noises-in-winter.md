@@ -1,6 +1,6 @@
 ---
 title: "Ruidos de la caja automática en frío en invierno"
-metaTitle: "Ruidos de la caja automática en frío en invierno | Stuk"
+metaTitle: "Ruidos de la caja automática en frío en invierno | Pro-Stuk"
 description: "En invierno una caja automática fría zumba, da tirones y chasquea, y a los diez minutos se calla. Dónde acaba lo normal y qué sonidos quedan tras calentarse."
 faq:
   - q: "¿Es normal que una caja automática fría zumbe con helada?"
@@ -108,7 +108,7 @@ así que pedirle que vuelva para una segunda comprobación es práctica normal y
 no un intento de alargar la factura.
 
 Si no está seguro de si su sonido entra dentro de lo normal, grabe dos
-trayectos con la aplicación Stuk: los primeros minutos tras un arranque en
+trayectos con la aplicación Pro-Stuk: los primeros minutos tras un arranque en
 frío y la misma carretera veinte minutos después. La diferencia entre las
 grabaciones es la respuesta: la aplicación las compara con sus respuestas
 sobre temperatura y condiciones de conducción y muestra las causas probables

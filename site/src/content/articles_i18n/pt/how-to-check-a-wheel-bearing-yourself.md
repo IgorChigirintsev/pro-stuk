@@ -1,6 +1,6 @@
 ---
 title: "Como testar o rolamento de roda você mesmo"
-metaTitle: "Como testar o rolamento de roda | Stuk"
+metaTitle: "Como testar o rolamento de roda | Pro-Stuk"
 description: "Cinco testes que identificam o rolamento de roda gasto e o lado dele sem elevador: provas em movimento, roda no ar, folga e temperatura do cubo."
 faq:
   - q: "Dá para descobrir o lado sem elevador?"
@@ -97,7 +97,7 @@ conferirem o outro lado faz sentido: se ele também estiver perto do fim,
 dá para programar o gasto em vez de encontrá-lo daqui a um mês.
 
 Se os testes se contradizem — o que acontece bastante — grave o zumbido no
-aplicativo Stuk durante o teste de mudança de faixa. O app cruza a
+aplicativo Pro-Stuk durante o teste de mudança de faixa. O app cruza a
 gravação com as suas respostas e mostra as causas prováveis com
 percentuais, inclusive por qual lado começar a inspeção.
 </content>

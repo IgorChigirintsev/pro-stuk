@@ -1,6 +1,6 @@
 ---
 title: "Düşük hızda tekerlekten gelen hışırtı"
-metaTitle: "Düşük hızda tekerlekten hışırtı: nedenleri | Stuk"
+metaTitle: "Düşük hızda tekerlekten hışırtı: nedenleri | Pro-Stuk"
 description: "10–30 km/s hızda tekerlekten gelen hışırtı çoğunlukla frenden ya da toz sacından çıkar. Zararsız temas aşınmadan nasıl ayrılır, neye bakılır."
 faq:
   - q: "Hışırtı yalnızca 30 km/s altında duyuluyor, bu normal mi?"
@@ -98,7 +98,7 @@ ve suç, daha yıllarca gidecek balatalara yıkılır.
 
 Zararsız bir temasla aşınmanın başlangıcını kulakla ayırmak kolay
 değildir — «süpürme» ile «içinde metal olan süpürme» arasındaki fark
-kelimelere pek gelmez. Otoparktan çıkarken sesi Stuk uygulamasına
+kelimelere pek gelmez. Otoparktan çıkarken sesi Pro-Stuk uygulamasına
 kaydetmek daha basit: uygulama kaydı birkaç soruya verdiğiniz yanıtlarla
 eşleştirir ve olası nedenleri yüzdeleriyle gösterir, böylece hafta sonu mu
 gitmek gerektiği yoksa sıradaki bakımı sakince beklemenin mi yeterli

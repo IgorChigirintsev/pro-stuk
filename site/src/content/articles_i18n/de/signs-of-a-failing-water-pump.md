@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für eine defekte Wasserpumpe"
-metaTitle: "Wasserpumpe defekt: Geräusch, Leck, Hitze | Stuk"
+metaTitle: "Wasserpumpe defekt: Geräusch, Leck, Hitze | Pro-Stuk"
 description: "Kühlmittelverlust, singendes Lager, Spiel der Riemenscheibe und Überhitzung: die Anzeichen einer sterbenden Wasserpumpe nach Stufen und die Prüfungen dazu."
 faq:
   - q: "Wie lange hält eine Wasserpumpe?"

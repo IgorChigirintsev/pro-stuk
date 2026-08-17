@@ -1,6 +1,6 @@
 ---
 title: "Klopfen beim Start nach wochenlangem Stehen"
-metaTitle: "Klopfen beim Start nach langem Stehen | Stuk"
+metaTitle: "Klopfen beim Start nach langem Stehen | Pro-Stuk"
 description: "Warum ein Motor die ersten Sekunden nach Wochen Standzeit klopft: abgelaufenes Öl, Stößel, Kettenspanner, Nockenwellenversteller. Wo das Normale endet."
 faq:
   - q: "Der Motor klopft ein paar Sekunden nach dem Start — ist das normal?"

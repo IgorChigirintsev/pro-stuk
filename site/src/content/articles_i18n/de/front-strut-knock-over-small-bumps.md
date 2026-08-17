@@ -1,6 +1,6 @@
 ---
 title: "Klopfen der Federbeine auf kleinen Unebenheiten"
-metaTitle: "Federbeine klopfen auf kleinen Unebenheiten | Stuk"
+metaTitle: "Federbeine klopfen auf kleinen Unebenheiten | Pro-Stuk"
 description: "Ein trockenes Klopfen der vorderen Federbeine auf kleinen Unebenheiten: wie Sie Dämpfer, Federbeinlager und Stabilisator trennen und was Sie selbst prüfen."
 faq:
   - q: "Warum ist das Klopfen nur auf kleinen Unebenheiten hörbar?"

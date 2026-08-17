@@ -1,6 +1,6 @@
 ---
 title: "Aircocompressorkoppeling: zo klinkt een defect"
-metaTitle: "Aircocompressorkoppeling: geluiden bij defect | Stuk"
+metaTitle: "Aircocompressorkoppeling: geluiden bij defect | Pro-Stuk"
 description: "Klepperen, janken of schuren dat precies opkomt zodra de airco inschakelt: zo klinkt een versleten magneetkoppeling en dit controleert de garage."
 faq:
   - q: "Hoe weet ik of het de koppeling is en niet de compressor zelf?"

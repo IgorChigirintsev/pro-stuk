@@ -1,6 +1,6 @@
 ---
 title: "Vibrations : équilibrage ou suspension"
-metaTitle: "Vibrations : équilibrage ou suspension ? | Stuk"
+metaTitle: "Vibrations : équilibrage ou suspension ? | Pro-Stuk"
 description: "Les vibrations dans le volant et la caisse viennent aussi bien d'un balourd de roue que d'une suspension usée. Comment séparer les hypothèses selon la vitesse et les conditions."
 faq:
   - q: "À quelle vitesse un balourd de roue se manifeste-t-il ?"
@@ -106,7 +106,7 @@ rectification n'est pas une option, et un atelier qui le fait quand même
 vous vend un disque qui se déformera de nouveau en quelques mois.
 
 Une vibration est difficile à décrire avec des mots mais s'enregistre
-bien : faites de courts enregistrements dans l'application Stuk à vitesse
+bien : faites de courts enregistrements dans l'application Pro-Stuk à vitesse
 stabilisée, au freinage et sur les bosses. L'application les confronte à
 vos réponses à quelques questions et affiche les causes probables avec
 leur pourcentage — à l'atelier, vous nommerez ainsi les conditions plutôt

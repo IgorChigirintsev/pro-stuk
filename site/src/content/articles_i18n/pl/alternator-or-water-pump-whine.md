@@ -1,6 +1,6 @@
 ---
 title: "Alternator czy pompa wody: jak odróżnić buczenie"
-metaTitle: "Buczenie alternatora czy pompy wody: co to | Stuk"
+metaTitle: "Buczenie alternatora czy pompy wody: co to | Pro-Stuk"
 description: "Alternator i pompa wody siedzą na tym samym pasku i buczą podobnie. Sprawdzenia, które rozdzielą je w dziesięć minut, i ryzyko każdej z wersji."
 faq:
   - q: "Jak odróżnić buczenie alternatora od buczenia pompy wody bez demontażu?"
@@ -90,7 +90,7 @@ służbie i tak trzeba go zdjąć. To drobna część przy robociźnie, która i
 tak jest już opłacana.
 
 Najprościej uchwycić różnicę nagraniem: proszę zrobić dwa krótkie pliki w
-aplikacji Stuk — na biegu jałowym bez obciążenia i pół minuty po włączeniu
+aplikacji Pro-Stuk — na biegu jałowym bez obciążenia i pół minuty po włączeniu
 świateł oraz dmuchawy. Aplikacja porówna je z Pana odpowiedziami i pokaże
 prawdopodobne przyczyny z procentami, dzięki czemu przyjedzie Pan do
 warsztatu z hipotezą, a nie z ogólnym „coś buczy”.

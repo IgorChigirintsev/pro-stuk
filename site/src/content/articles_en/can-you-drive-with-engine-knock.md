@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-so-stukom-v-dvigatele"
 title: "Can you drive with engine knock"
-metaTitle: "Can you drive with engine knock: the risks | Stuk"
+metaTitle: "Can you drive with engine knock: the risks | Pro-Stuk"
 description: "Which engine knocks let you drive to a workshop and which mean switching off and calling a tow truck. The rules of a gentle regime and what not to do."
 pubDate: "2026-08-02"
 related:
@@ -137,7 +137,7 @@ catalogue of engine sounds is on the symptom page
 [knocking in the engine](/en/symptoms/knocking-in-engine/).
 
 If you can hear a knock but are not sure where it comes from, record the
-engine running in the Stuk app. It matches the recording with typical
+engine running in the Pro-Stuk app. It matches the recording with typical
 knocks, asks a few clarifying questions and shows which zone your case is
 closer to and how urgently a workshop is needed. The decision stays yours,
 but it is easier to make with a reference point in hand.

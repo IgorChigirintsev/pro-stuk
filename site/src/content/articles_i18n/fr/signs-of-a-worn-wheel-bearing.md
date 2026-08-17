@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'usure d'un roulement de roue"
-metaTitle: "Roulement de roue usé : bruit et tests | Stuk"
+metaTitle: "Roulement de roue usé : bruit et tests | Pro-Stuk"
 description: "Le bruit d'un roulement de roue usé, comment le distinguer du bruit de pneus, les tests que vous pouvez faire vous-même et ce qui décide du remplacement."
 faq:
   - q: "Quel est le tout premier signe d'un roulement de roue usé ?"
@@ -150,5 +150,5 @@ tourne longtemps, plus le risque est grand que son logement soit abîmé et
 qu'il faille remplacer le moyeu ou tout le porte-fusée.
 
 Pas sûr que ce soit le roulement qui ronfle ? Enregistrez le son dans
-l'application Stuk — elle recoupe l'enregistrement avec vos réponses et
+l'application Pro-Stuk — elle recoupe l'enregistrement avec vos réponses et
 affiche les causes probables avec des pourcentages et un niveau d'urgence.

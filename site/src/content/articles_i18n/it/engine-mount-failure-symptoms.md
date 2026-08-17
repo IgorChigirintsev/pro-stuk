@@ -1,6 +1,6 @@
 ---
 title: "Supporto motore rotto: i sintomi"
-metaTitle: "Supporto motore rotto: i sintomi da riconoscere | Stuk"
+metaTitle: "Supporto motore rotto: i sintomi da riconoscere | Pro-Stuk"
 description: "Uno strappo in partenza, vibrazione al minimo, un colpo sordo passando da D a R: come riconoscere un supporto motore rovinato e a cosa porta se si rimanda."
 faq:
   - q: "È pericoloso guidare con un supporto motore rotto?"
@@ -100,7 +100,7 @@ paio di mesi, soprattutto quando il colpo all'innesto della marcia è diventato
 netto.
 
 Se non è sicuro da dove arrivi lo strappo — dal vano motore o da sotto una
-ruota — registri il momento della partenza nell'app Stuk. Confronta la
+ruota — registri il momento della partenza nell'app Pro-Stuk. Confronta la
 registrazione con le sue risposte sulle condizioni in cui compare il suono e
 mostra le cause probabili con percentuali, così il discorso in officina parte
 da un'ipotesi concreta.

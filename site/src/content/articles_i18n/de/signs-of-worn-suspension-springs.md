@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Fahrwerksfedern"
-metaTitle: "Fahrwerksfedern verschlissen: die Prüfung | Stuk"
+metaTitle: "Fahrwerksfedern verschlissen: die Prüfung | Pro-Stuk"
 description: "Absacken, Wanken, Durchschlagen in Schlaglöchern: woran Sie müde Fahrwerksfedern erkennen, wie Sie ohne Bühne prüfen und was der Tausch bedeutet."
 faq:
   - q: "Kann ich nur eine Feder tauschen?"

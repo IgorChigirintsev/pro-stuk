@@ -4,7 +4,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Golpeteo en el motor',
-    metaTitle: 'Golpeteo en el motor: causas, peligro y qué hacer | Stuk',
+    metaTitle: 'Golpeteo en el motor: causas, peligro y qué hacer | Pro-Stuk',
     description:
       'Por qué golpetea el motor: desde el inofensivo tictac de las válvulas hasta los cojinetes de cigüeñal gastados. Cómo distinguir un golpeteo peligroso, si puedes circular y qué comprobar tú mismo.',
     intro: [
@@ -30,7 +30,7 @@ export const pages: Record<string, SymptomTr> = {
       'Mirar si está encendido el testigo de presión de aceite: la aceitera roja junto a un golpeteo significa apagar el motor de inmediato.',
     ],
     appHelp:
-      'La aplicación Stuk te lleva por las mismas preguntas que hace un motorista, graba el sonido y evalúa su espectro y su ritmo: con qué frecuencia llegan los golpes y cómo se relaciona eso con las revoluciones, porque esa relación es distinta en un golpeteo de válvulas y en uno de cigüeñal. En el informe verás las causas probables con porcentajes, el semáforo de urgencia y frases para hablar en el taller.',
+      'La aplicación Pro-Stuk te lleva por las mismas preguntas que hace un motorista, graba el sonido y evalúa su espectro y su ritmo: con qué frecuencia llegan los golpes y cómo se relaciona eso con las revoluciones, porque esa relación es distinta en un golpeteo de válvulas y en uno de cigüeñal. En el informe verás las causas probables con porcentajes, el semáforo de urgencia y frases para hablar en el taller.',
     faq: [
       {
         q: '¿Por qué el motor golpetea solo en frío?',
@@ -49,7 +49,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Chirrido de frenos',
-    metaTitle: 'Los frenos chirrían: peligroso o no, causas y qué hacer | Stuk',
+    metaTitle: 'Los frenos chirrían: peligroso o no, causas y qué hacer | Pro-Stuk',
     description:
       'Por qué chirrían los frenos: la capa de óxido de la mañana, el avisador de desgaste de las pastillas o un problema con los discos. Cómo distinguir un chirrido inofensivo de una advertencia.',
     intro: [
@@ -74,7 +74,7 @@ export const pages: Record<string, SymptomTr> = {
       'Fijarse en el pedal y en la trayectoria: que el coche tire hacia un lado al frenar, que el pedal vibre o quede «largo» es más serio que un chirrido y significa taller sin demora.',
     ],
     appHelp:
-      'La aplicación Stuk separa el escenario inofensivo del preocupante con las mismas preguntas —cuándo chirría y si el sonido desaparece— y la grabación ayuda a distinguir el chillido agudo del avisador del rechinar. En el informe verás causas probables con porcentajes y un semáforo: puedes circular, al taller esta semana o detente.',
+      'La aplicación Pro-Stuk separa el escenario inofensivo del preocupante con las mismas preguntas —cuándo chirría y si el sonido desaparece— y la grabación ayuda a distinguir el chillido agudo del avisador del rechinar. En el informe verás causas probables con porcentajes y un semáforo: puedes circular, al taller esta semana o detente.',
     faq: [
       {
         q: '¿Por qué chirrían los frenos por la mañana y con lluvia?',
@@ -93,7 +93,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Zumbido en marcha',
-    metaTitle: 'Zumbido en marcha: rodamiento, neumáticos o caja | Stuk',
+    metaTitle: 'Zumbido en marcha: rodamiento, neumáticos o caja | Pro-Stuk',
     description:
       'Zumbido uniforme a cierta velocidad: rodamiento de rueda, neumáticos, caja de cambios o diferencial. Comprobaciones sencillas sin taller —la prueba en punto muerto y las curvas suaves— para acotar la causa.',
     intro: [
@@ -119,7 +119,7 @@ export const pages: Record<string, SymptomTr> = {
       'En caja manual, comprobar si el aullido cambia en distintas marchas a la misma velocidad; en propulsión trasera, si junto al zumbido aparece un temblor en el suelo en un rango estrecho de velocidad.',
     ],
     appHelp:
-      'La aplicación Stuk te lleva por las mismas preguntas —si el zumbido sigue en punto muerto, si cambia en curva y con el firme— y ayuda a grabar el sonido para comparar su carácter con casos típicos. En el informe verás causas probables con porcentajes y una conclusión: circula tranquilo, planifica el taller o compruébalo sin demora.',
+      'La aplicación Pro-Stuk te lleva por las mismas preguntas —si el zumbido sigue en punto muerto, si cambia en curva y con el firme— y ayuda a grabar el sonido para comparar su carácter con casos típicos. En el informe verás causas probables con porcentajes y una conclusión: circula tranquilo, planifica el taller o compruébalo sin demora.',
     faq: [
       {
         q: '¿Cómo distinguir el zumbido del rodamiento del ruido de los neumáticos?',
@@ -138,7 +138,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Golpeteo en la suspensión',
-    metaTitle: 'Golpeteo en la suspensión: qué golpea y si puedes circular | Stuk',
+    metaTitle: 'Golpeteo en la suspensión: qué golpea y si puedes circular | Pro-Stuk',
     description:
       'Qué golpea en la suspensión: bieletas de la barra estabilizadora, silentblocks, la cremallera de dirección o un muelle roto. Cómo distinguir los golpes por su carácter y cuándo ir al taller.',
     intro: [
@@ -164,7 +164,7 @@ export const pages: Record<string, SymptomTr> = {
       'Mirar detrás de la rueda desde abajo, sin desmontar nada: una espira rota se ve a menudo a simple vista, y de paso se aprecia si una esquina del coche está hundida.',
     ],
     appHelp:
-      'La aplicación Stuk recorre las mismas bifurcaciones que un mecánico en la primera inspección: qué sonido es, sobre qué baches, delante o detrás, si llega al volante. La grabación evita perder detalles hasta la visita, y en el informe verás causas probables con porcentajes y un semáforo claro: puedes circular, enséñalo esta semana o revísalo urgentemente.',
+      'La aplicación Pro-Stuk recorre las mismas bifurcaciones que un mecánico en la primera inspección: qué sonido es, sobre qué baches, delante o detrás, si llega al volante. La grabación evita perder detalles hasta la visita, y en el informe verás causas probables con porcentajes y un semáforo claro: puedes circular, enséñalo esta semana o revísalo urgentemente.',
     faq: [
       {
         q: '¿Es peligroso circular con un golpeteo en la suspensión?',
@@ -183,7 +183,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Zumbido del rodamiento de rueda',
-    metaTitle: 'Zumbido del rodamiento de rueda: cómo reconocerlo | Stuk',
+    metaTitle: 'Zumbido del rodamiento de rueda: cómo reconocerlo | Pro-Stuk',
     description:
       'Cómo suena un rodamiento de rueda gastado, cómo distinguirlo del ruido de los neumáticos, qué rueda zumba y cuánto se puede circular así.',
     intro: [
@@ -208,7 +208,7 @@ export const pages: Record<string, SymptomTr> = {
       'Tras el viaje, acercar con cuidado la mano a los bujes (sin tocar el disco de freno, que está caliente): un buje notablemente más caliente en un lado es un indicio más.',
     ],
     appHelp:
-      'La aplicación Stuk hace las mismas preguntas de control —sobre el firme, las curvas y el rodar en punto muerto—, graba el zumbido y evalúa su carácter: el ruido de banda ancha de los neumáticos y el zumbido de un rodamiento se ven distintos en el espectro. En el informe verás las probabilidades de cada causa, la urgencia y una pista sobre qué lado nombrar al mecánico.',
+      'La aplicación Pro-Stuk hace las mismas preguntas de control —sobre el firme, las curvas y el rodar en punto muerto—, graba el zumbido y evalúa su carácter: el ruido de banda ancha de los neumáticos y el zumbido de un rodamiento se ven distintos en el espectro. En el informe verás las probabilidades de cada causa, la urgencia y una pista sobre qué lado nombrar al mecánico.',
     faq: [
       {
         q: '¿Por qué el zumbido cambia en las curvas?',
@@ -227,7 +227,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Golpes en los baches',
-    metaTitle: 'Golpes en los baches: causas y qué comprobar tú mismo | Stuk',
+    metaTitle: 'Golpes en los baches: causas y qué comprobar tú mismo | Pro-Stuk',
     description:
       'Golpes en baches y firme irregular: golpeteo frecuente sobre firme picado, golpes aislados en los hoyos o un golpe en el volante. Qué piezas tienen la culpa y si puedes circular.',
     intro: [
@@ -253,7 +253,7 @@ export const pages: Record<string, SymptomTr> = {
       'Descartar lo sencillo: sacar los objetos sueltos del maletero, comprobar la sujeción de la rueda de repuesto y el gato, apretar el capó cerrado; un cierre con holgura golpetea de forma parecida a la suspensión.',
     ],
     appHelp:
-      'La aplicación Stuk hace las mismas preguntas que esta página, solo que paso a paso: qué golpe es exactamente, dónde se oye, cómo se comporta en distintas irregularidades. Con tus respuestas y la grabación arma un informe con causas probables y un semáforo de urgencia: con él es más fácil decidir entre ir al taller mañana o cuando toque.',
+      'La aplicación Pro-Stuk hace las mismas preguntas que esta página, solo que paso a paso: qué golpe es exactamente, dónde se oye, cómo se comporta en distintas irregularidades. Con tus respuestas y la grabación arma un informe con causas probables y un semáforo de urgencia: con él es más fácil decidir entre ir al taller mañana o cuando toque.',
     faq: [
       {
         q: '¿Por qué el golpe solo se oye en los baches y en asfalto liso no?',
@@ -272,7 +272,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Tictac del motor',
-    metaTitle: 'El motor hace tictac: normal o desgaste, causas | Stuk',
+    metaTitle: 'El motor hace tictac: normal o desgaste, causas | Pro-Stuk',
     description:
       'De dónde viene el tictac del motor: holguras de válvulas, taqués hidráulicos, repiqueteo normal de los inyectores o el colector de escape. Cómo distinguir lo normal del desgaste.',
     intro: [
@@ -298,7 +298,7 @@ export const pages: Record<string, SymptomTr> = {
       'Oler junto al capó abierto: olor a escape junto a un repiqueteo frecuente es señal del colector, y eso significa taller en una o dos semanas.',
     ],
     appHelp:
-      'La aplicación Stuk precisa lo esencial —si el tictac ha ido a más con el tiempo y cómo se comporta en frío y en caliente— y la grabación permite compararlo con ejemplos típicos. En el informe verás causas probables con porcentajes y una conclusión de semáforo: normal, cita esta semana o diagnóstico sin demora.',
+      'La aplicación Pro-Stuk precisa lo esencial —si el tictac ha ido a más con el tiempo y cómo se comporta en frío y en caliente— y la grabación permite compararlo con ejemplos típicos. En el informe verás causas probables con porcentajes y una conclusión de semáforo: normal, cita esta semana o diagnóstico sin demora.',
     faq: [
       {
         q: '¿Por qué los diésel y los motores de inyección directa hacen tictac siempre?',
@@ -317,7 +317,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Chirrido de la correa',
-    metaTitle: 'La correa chirría: causas, si puedes circular y qué hacer | Stuk',
+    metaTitle: 'La correa chirría: causas, si puedes circular y qué hacer | Pro-Stuk',
     description:
       'Chirría la correa de accesorios: desgaste, poca tensión, rodillos o el embrague del compresor del aire acondicionado. Cómo acotar la causa por las circunstancias.',
     intro: [
@@ -343,7 +343,7 @@ export const pages: Record<string, SymptomTr> = {
       'Escuchar si junto al chirrido hay un zumbido o susurro uniforme que cambia con las revoluciones: así suena el rodamiento de uno de los rodillos.',
     ],
     appHelp:
-      'La aplicación Stuk precisa el carácter del sonido y las circunstancias —chirrido o zumbido, en frío o bajo carga, ligado o no al aire acondicionado— y con la grabación ayuda a separar el chillido de la correa del susurro de un rodillo. En el informe verás causas probables con porcentajes y un semáforo: puedes circular, al taller esta semana o detente.',
+      'La aplicación Pro-Stuk precisa el carácter del sonido y las circunstancias —chirrido o zumbido, en frío o bajo carga, ligado o no al aire acondicionado— y con la grabación ayuda a separar el chillido de la correa del susurro de un rodillo. En el informe verás causas probables con porcentajes y un semáforo: puedes circular, al taller esta semana o detente.',
     faq: [
       {
         q: '¿Qué pasa si la correa se rompe por el camino?',
@@ -362,7 +362,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Traqueteo debajo del coche',
-    metaTitle: 'Traqueteo debajo del coche: qué vibra y si es peligroso | Stuk',
+    metaTitle: 'Traqueteo debajo del coche: qué vibra y si es peligroso | Pro-Stuk',
     description:
       'Traqueteo y vibración debajo del coche: soportes del escape, pantalla térmica, cubrecárter o catalizador. Cómo localizar la fuente del ruido y cuándo la cosa es seria.',
     intro: [
@@ -388,7 +388,7 @@ export const pages: Record<string, SymptomTr> = {
       'Mirar debajo del coche sin meterse debajo: un escape descolgado, un borde suelto del cubrecárter o una pantalla doblada suelen verse desde la propia rueda.',
     ],
     appHelp:
-      'La aplicación Stuk ayuda a atar el traqueteo a su fuente: de dónde viene el sonido, si depende de las revoluciones o de los baches, qué pasa con la fuerza del motor. Con tus respuestas y la grabación muestra causas probables con porcentajes y un semáforo de urgencia: útil para separar una hojalata inofensiva del catalizador antes de llegar al taller.',
+      'La aplicación Pro-Stuk ayuda a atar el traqueteo a su fuente: de dónde viene el sonido, si depende de las revoluciones o de los baches, qué pasa con la fuerza del motor. Con tus respuestas y la grabación muestra causas probables con porcentajes y un semáforo de urgencia: útil para separar una hojalata inofensiva del catalizador antes de llegar al taller.',
     faq: [
       {
         q: '¿Es peligroso circular si algo traquetea debajo del coche?',
@@ -407,7 +407,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Rechinar al frenar',
-    metaTitle: 'Rechinar al frenar: pastillas al metal, qué hacer | Stuk',
+    metaTitle: 'Rechinar al frenar: pastillas al metal, qué hacer | Pro-Stuk',
     description:
       'El rechinar al frenar suele significar pastillas gastadas hasta el metal: con eso no se circula. Menos veces la culpa es de una piedrecita tras el guardapolvos. Cómo distinguirlo.',
     intro: [
@@ -432,7 +432,7 @@ export const pages: Record<string, SymptomTr> = {
       'Mirar el disco a través de la llanta: surcos profundos y un tono azulado del metal dicen que el rechinar viene de lejos y los discos ya han sufrido.',
     ],
     appHelp:
-      'La aplicación Stuk recorre las mismas preguntas —si el rechinar es constante, si la rueda se calienta, si el sonido se va tras las primeras frenadas— y con la grabación ayuda a separar el rechinar del chillido del avisador de desgaste. En el informe verás causas probables y un semáforo: puedes circular, enséñalo esta semana o solo hasta el taller.',
+      'La aplicación Pro-Stuk recorre las mismas preguntas —si el rechinar es constante, si la rueda se calienta, si el sonido se va tras las primeras frenadas— y con la grabación ayuda a separar el rechinar del chillido del avisador de desgaste. En el informe verás causas probables y un semáforo: puedes circular, enséñalo esta semana o solo hasta el taller.',
     faq: [
       {
         q: '¿En qué se diferencia el rechinar del chirrido de frenos?',
@@ -451,7 +451,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-pri-razgone': {
     h1: 'Golpe al acelerar',
-    metaTitle: 'Golpe al acelerar y al soltar el gas: causas y qué hacer | Stuk',
+    metaTitle: 'Golpe al acelerar y al soltar el gas: causas y qué hacer | Pro-Stuk',
     description:
       'Por qué golpea al pisar o soltar el acelerador: soportes del motor, junta homocinética, holgura en la transmisión o la caja automática. Cómo distinguir una holgura inofensiva de un golpe dentro del motor.',
     intro: [
@@ -476,7 +476,7 @@ export const pages: Record<string, SymptomTr> = {
       'Hacer la prueba suave: si con un pisado y soltado suaves del acelerador el golpe no aparece y con uno brusco vuelve, es holgura clásica, y hasta la reparación basta con conducir con suavidad.',
     ],
     appHelp:
-      'La aplicación Stuk hace las mismas preguntas de precisión —cuándo golpea exactamente, si el sonido cambia con las revoluciones y las marchas— y con la grabación ayuda a separar el chasquido de una holgura de un golpe profundo del motor. En el informe verás causas probables con porcentajes y una conclusión clara: puedes circular, planifica el taller o detente.',
+      'La aplicación Pro-Stuk hace las mismas preguntas de precisión —cuándo golpea exactamente, si el sonido cambia con las revoluciones y las marchas— y con la grabación ayuda a separar el chasquido de una holgura de un golpe profundo del motor. En el informe verás causas probables con porcentajes y una conclusión clara: puedes circular, planifica el taller o detente.',
     faq: [
       {
         q: '¿Por qué golpea justo al pisar y soltar el acelerador?',
@@ -495,7 +495,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Tintineo al acelerar',
-    metaTitle: 'Tintineo al acelerar: detonación o no, qué hacer | Stuk',
+    metaTitle: 'Tintineo al acelerar: detonación o no, qué hacer | Pro-Stuk',
     description:
       'El tintineo metálico al acelerar suele ser detonación por el combustible. Cómo comprobarlo cambiando de gasolinera y cuándo la culpa no es del motor, sino de la pantalla térmica o el catalizador.',
     intro: [
@@ -520,7 +520,7 @@ export const pages: Record<string, SymptomTr> = {
       'Prestar atención a la fuerza y a los ruidos de los bajos: un susurro y un tintineo abajo junto con una aceleración más floja son motivo para revisar el catalizador sin demora.',
     ],
     appHelp:
-      'La aplicación Stuk ayuda con las mismas preguntas —cuándo tintinea, si el sonido va ligado a la carga o a las revoluciones— y la grabación permite separar el repiqueteo agudo de la detonación del traqueteo de una chapa. En el informe verás causas probables con porcentajes y una conclusión: puedes circular, conviene planificar el taller o mejor detente.',
+      'La aplicación Pro-Stuk ayuda con las mismas preguntas —cuándo tintinea, si el sonido va ligado a la carga o a las revoluciones— y la grabación permite separar el repiqueteo agudo de la detonación del traqueteo de una chapa. En el informe verás causas probables con porcentajes y una conclusión: puedes circular, conviene planificar el taller o mejor detente.',
     faq: [
       {
         q: '¿Qué significa «picar bielas»?',
@@ -539,7 +539,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Zumbido al girar',
-    metaTitle: 'Zumbido al girar: rodamiento de rueda o dirección asistida | Stuk',
+    metaTitle: 'Zumbido al girar: rodamiento de rueda o dirección asistida | Pro-Stuk',
     description:
       'De dónde viene el zumbido al girar: rodamiento de rueda gastado, bomba de dirección asistida que aúlla o ruido de los neumáticos. Cómo saber el lado y si es peligroso.',
     intro: [
@@ -565,7 +565,7 @@ export const pages: Record<string, SymptomTr> = {
       'Mirar el dibujo: el desgaste «en sierra» (escalones en los bordes) o por manchas aumenta el zumbido de la goma y a la vez sugiere una alineación descuadrada o amortiguadores cansados.',
     ],
     appHelp:
-      'La aplicación Stuk hace las mismas preguntas que el mecánico al recibir el coche: dónde se oye el zumbido, si cambia en curva, si está ligado a girar el volante parado. La grabación ayuda a comparar el sonido con ejemplos típicos, y en el informe verás causas probables y una recomendación clara: circula tranquilo, pide cita esta semana o compruébalo sin demora.',
+      'La aplicación Pro-Stuk hace las mismas preguntas que el mecánico al recibir el coche: dónde se oye el zumbido, si cambia en curva, si está ligado a girar el volante parado. La grabación ayuda a comparar el sonido con ejemplos típicos, y en el informe verás causas probables y una recomendación clara: circula tranquilo, pide cita esta semana o compruébalo sin demora.',
     faq: [
       {
         q: '¿Por qué el zumbido crece solo hacia un lado del giro?',
@@ -584,7 +584,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Chasquidos al girar el volante',
-    metaTitle: 'Chasquidos al girar el volante: homocinética o cojinete | Stuk',
+    metaTitle: 'Chasquidos al girar el volante: homocinética o cojinete | Pro-Stuk',
     description:
       'Por qué chasquea al girar el volante: junta homocinética exterior, cojinete del amortiguador o la cruceta de la columna. Cómo distinguirlos por el sonido y qué comprobar sin desmontar.',
     intro: [
@@ -610,7 +610,7 @@ export const pages: Record<string, SymptomTr> = {
       'Recordar de qué rueda viene el crujido en marcha y en qué giro es más fuerte: esos detalles acortan mucho la búsqueda en el taller.',
     ],
     appHelp:
-      'En la aplicación Stuk estas bifurcaciones están reunidas en un árbol corto de preguntas: si el coche va o está parado, de dónde viene el sonido, cómo están los fuelles. El crujido se puede grabar con el móvil y compararlo con ejemplos. En el informe verás causas probables con su valoración y una recomendación de plazos: sin alarmismo, pero sin chasquidos olvidados un mes.',
+      'En la aplicación Pro-Stuk estas bifurcaciones están reunidas en un árbol corto de preguntas: si el coche va o está parado, de dónde viene el sonido, cómo están los fuelles. El crujido se puede grabar con el móvil y compararlo con ejemplos. En el informe verás causas probables con su valoración y una recomendación de plazos: sin alarmismo, pero sin chasquidos olvidados un mes.',
     faq: [
       {
         q: '¿Qué es una junta homocinética y por qué chasquea?',
@@ -629,7 +629,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Golpeteo del motor en frío',
-    metaTitle: 'El motor golpetea en frío: causas y qué hacer | Stuk',
+    metaTitle: 'El motor golpetea en frío: causas y qué hacer | Pro-Stuk',
     description:
       'Por qué el motor golpetea en frío y calla al calentarse: taqués hidráulicos, grupo de pistones, cadena de distribución. Cuándo es normal y cuándo toca taller.',
     intro: [
@@ -655,7 +655,7 @@ export const pages: Record<string, SymptomTr> = {
       'Apagar el motor caliente diez minutos y volver a arrancar: un golpeteo «de frío» de verdad no vuelve tras una parada tan corta.',
     ],
     appHelp:
-      'La aplicación Stuk recorre las mismas bifurcaciones —si es tictac, golpe sordo o susurro y con qué rapidez se va el sonido— y la grabación del móvil ayuda a captar un carácter difícil de describir con palabras. En el informe verás causas probables con porcentajes y una conclusión clara: circula tranquilo, pide cita esta semana o no alargues el taller.',
+      'La aplicación Pro-Stuk recorre las mismas bifurcaciones —si es tictac, golpe sordo o susurro y con qué rapidez se va el sonido— y la grabación del móvil ayuda a captar un carácter difícil de describir con palabras. En el informe verás causas probables con porcentajes y una conclusión clara: circula tranquilo, pide cita esta semana o no alargues el taller.',
     faq: [
       {
         q: 'El golpeteo desaparece al calentar, ¿puedo ignorarlo?',
@@ -674,7 +674,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Chirrido al arrancar el motor',
-    metaTitle: 'Chirrido al arrancar el motor: causas y qué hacer | Stuk',
+    metaTitle: 'Chirrido al arrancar el motor: causas y qué hacer | Pro-Stuk',
     description:
       'Por qué el motor chirría al arrancar: correa de accesorios que patina, rodillos o la bomba de agua. Cuándo el chirrido es inofensivo y cuándo toca pedir cita.',
     intro: [
@@ -700,7 +700,7 @@ export const pages: Record<string, SymptomTr> = {
       'Mirar si hay goteos o restos blanquecinos de refrigerante junto a las poleas: apuntan a la bomba de agua, y entonces mejor no aplazar la visita al taller.',
     ],
     appHelp:
-      'La aplicación Stuk hace las mismas preguntas que el mecánico al recibir el coche: cuándo aparece el chirrido, si se va al calentar, qué se oye mientras trabaja el motor de arranque. La grabación ayuda a separar el chillido de la correa del rechinar del arranque, y en el informe verás causas probables con porcentajes y una conclusión clara: puedes circular, al taller esta semana o detente.',
+      'La aplicación Pro-Stuk hace las mismas preguntas que el mecánico al recibir el coche: cuándo aparece el chirrido, si se va al calentar, qué se oye mientras trabaja el motor de arranque. La grabación ayuda a separar el chillido de la correa del rechinar del arranque, y en el informe verás causas probables con porcentajes y una conclusión clara: puedes circular, al taller esta semana o detente.',
     faq: [
       {
         q: '¿Por qué el motor chirría solo en frío y con humedad?',
@@ -719,7 +719,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Vibración al ralentí',
-    metaTitle: 'Vibración al ralentí: causas del temblor y qué hacer | Stuk',
+    metaTitle: 'Vibración al ralentí: causas del temblor y qué hacer | Pro-Stuk',
     description:
       'Por qué el coche tiembla al ralentí: soportes del motor, fallos de encendido, entrada de aire falso o mariposa sucia. Qué comprobar y si puedes circular.',
     intro: [
@@ -744,7 +744,7 @@ export const pages: Record<string, SymptomTr> = {
       'Recordar cuándo se cambiaron las bujías: un kilometraje muy por encima del intervalo las convierte en primer candidato ante fallos de encendido. Si el testigo del motor está encendido, empezar por la lectura de códigos: acotan la búsqueda.',
     ],
     appHelp:
-      'La aplicación Stuk hace las mismas preguntas —si el temblor crece con una marcha metida, si las revoluciones se mantienen firmes, si está encendido el testigo del motor— y con las respuestas reparte las causas probables en porcentajes. En el informe verás una conclusión clara: circula tranquilo, pide cita esta semana o enseña el coche en los próximos días.',
+      'La aplicación Pro-Stuk hace las mismas preguntas —si el temblor crece con una marcha metida, si las revoluciones se mantienen firmes, si está encendido el testigo del motor— y con las respuestas reparte las causas probables en porcentajes. En el informe verás una conclusión clara: circula tranquilo, pide cita esta semana o enseña el coche en los próximos días.',
     faq: [
       {
         q: '¿Por qué tiembla solo al ralentí y en marcha el coche va suave?',
@@ -763,7 +763,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Petardeos en el escape',
-    metaTitle: 'Petardeos en el escape: causas y qué hacer | Stuk',
+    metaTitle: 'Petardeos en el escape: causas y qué hacer | Pro-Stuk',
     description:
       'Por qué se oyen petardeos en el escape: fallos de encendido, escape perforado, mezcla incorrecta o ajustes del equipo de GLP. Qué le hacen los petardeos al catalizador.',
     intro: [
@@ -789,7 +789,7 @@ export const pages: Record<string, SymptomTr> = {
       'En un coche con GLP, comparar el funcionamiento con gas y con gasolina: petardeos solo con gas son una pregunta para quien ajustó el equipo.',
     ],
     appHelp:
-      'La aplicación Stuk precisa las circunstancias —petardeos o rugido, con gas o con gasolina, con o sin pérdida de fuerza— y ayuda a separar los problemas de encendido, un agujero en el escape y un embrague que patina, que de oído se parecen. En el informe verás causas probables con porcentajes y una recomendación clara sobre la urgencia del taller.',
+      'La aplicación Pro-Stuk precisa las circunstancias —petardeos o rugido, con gas o con gasolina, con o sin pérdida de fuerza— y ayuda a separar los problemas de encendido, un agujero en el escape y un embrague que patina, que de oído se parecen. En el informe verás causas probables con porcentajes y una recomendación clara sobre la urgencia del taller.',
     faq: [
       {
         q: '¿Por qué petardea el escape si el problema está en el motor?',

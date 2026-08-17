@@ -1,6 +1,6 @@
 ---
 title: "Der Auspuff röhrt im Kalten"
-metaTitle: "Auspuff röhrt im Kalten: Ursachen und Abhilfe | Stuk"
+metaTitle: "Auspuff röhrt im Kalten: Ursachen und Abhilfe | Pro-Stuk"
 description: "Warum der Auspuff nach dem Kaltstart röhrt und mit dem Warmwerden leiser wird: Krümmerdichtung, Risse, Flexrohr. Die Prüfungen und die Reparatur."
 faq:
   - q: "Warum ist das Röhren nur kalt da und nach dem Warmlaufen weg?"

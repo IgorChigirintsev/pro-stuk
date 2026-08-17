@@ -1,6 +1,6 @@
 ---
 title: "Le moteur a un raté et claque"
-metaTitle: "Moteur qui a un raté et claque : causes et suite | Stuk"
+metaTitle: "Moteur qui a un raté et claque : causes et suite | Pro-Stuk"
 description: "Le moteur tremble, le ralenti balade et il y a un claquement : des bougies aux cylindres rayés. Comment trouver le cylindre mort et pourquoi attendre coûte."
 faq:
   - q: "Puis-je rouler avec un moteur qui a un raté ?"
@@ -104,7 +104,7 @@ simplement le neuf. Tout atelier qui propose un catalyseur avant que le
 raté ne soit soigné se trompe d'ordre.
 
 Pour arriver préparé, enregistrez le moteur en marche dans l'application
-Stuk : elle analyse le son, pose quelques questions sur les conditions et
+Pro-Stuk : elle analyse le son, pose quelques questions sur les conditions et
 affiche les causes probables avec leurs pourcentages et leur urgence. Avec
 ce tableau à l'avance, il est plus facile de garder un œil à la fois sur
 le diagnostic et sur le devis.

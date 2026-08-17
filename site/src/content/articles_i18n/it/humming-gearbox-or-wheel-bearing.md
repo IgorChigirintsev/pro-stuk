@@ -1,6 +1,6 @@
 ---
 title: "Ronzio: il cambio o un cuscinetto ruota"
-metaTitle: "Ronzio in velocità: cambio o cuscinetto ruota | Stuk"
+metaTitle: "Ronzio in velocità: cambio o cuscinetto ruota | Pro-Stuk"
 description: "Un ronzio in velocità arriva sia dai cuscinetti ruota sia dal cambio. Tre prove che li separano in un solo giro e cosa comporta ogni risposta per la riparazione."
 faq:
   - q: "Qual è il modo più rapido per distinguere il ronzio del cambio da quello del cuscinetto?"
@@ -99,7 +99,7 @@ una chiave dinamometrica e non un’avvitatrice a impulsi sta lavorando
 bene.
 
 Se il ronzio è sommesso e in officina «non lo sentono», lo si registra
-nell’app Stuk durante tutte e tre le prove, una dopo l’altra: in folle,
+nell’app Pro-Stuk durante tutte e tre le prove, una dopo l’altra: in folle,
 nelle varie marce e nei cambi di corsia. L’app confronta le registrazioni
 con le risposte date e mostra le cause probabili in percentuale, così la
 conversazione non parte da un’ipotesi a caso.

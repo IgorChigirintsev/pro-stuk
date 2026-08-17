@@ -1,7 +1,7 @@
 ---
 ru: "obryv-tsepi-grm-posledstviya-po-motoram"
 title: "A broken timing chain: consequences by engine"
-metaTitle: "Broken timing chain: consequences by engine | Stuk"
+metaTitle: "Broken timing chain: consequences by engine | Pro-Stuk"
 description: "What happens to an engine when the timing chain breaks or jumps, why some engines only need a new chain and others a cylinder head rebuild."
 pubDate: "2026-06-16"
 related:
@@ -108,6 +108,6 @@ What the rattle means while it is still just a rattle is covered in
 
 If a rattle has appeared on a cold start and you are not sure whether it
 is the chain or something harmless, record the first five seconds of the
-engine running in the Stuk app. The app matches the recording with your
+engine running in the Pro-Stuk app. The app matches the recording with your
 answers and shows the likely causes with percentages — at this stage the
 difference in the decision is measured in the cost of a whole engine.

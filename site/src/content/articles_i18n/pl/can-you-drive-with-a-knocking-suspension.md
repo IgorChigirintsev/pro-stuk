@@ -1,6 +1,6 @@
 ---
 title: "Czy można jeździć ze stukiem w zawieszeniu"
-metaTitle: "Czy można jeździć ze stukiem w zawieszeniu? | Stuk"
+metaTitle: "Czy można jeździć ze stukiem w zawieszeniu? | Pro-Stuk"
 description: "Z jakimi stukającymi elementami zawieszenia można jeździć, a z jakimi nie: stabilizator, amortyzatory, tuleje, sworznie. Ocena pilności po dźwięku."
 faq:
   - q: "Jak długo można jeździć ze stukającym łącznikiem stabilizatora?"
@@ -8,7 +8,7 @@ faq:
   - q: "Po czym poznać, że to sworzeń wahacza?"
     a: "Jego znakiem firmowym jest głuchy stuk na dziurach, zmieniający się na zakrętach, często z towarzyszącym skrzypnięciem przy skręcaniu. Pewną odpowiedź daje dopiero sprawdzenie luzu na podnośniku. Przy podejrzeniu sworznia proszę jechać od razu i jechać delikatnie: jego urwanie oznacza złożenie się koła."
   - q: "Co się stanie, jeśli długo ignorować dowolny stuk?"
-    a: "Zużycie zawieszenia działa kaskadowo: zużyta część przekazuje uderzenia sąsiadom i szybciej je postarza. Stuk, który rok temu wyleczyłaby para tulei, zamienia się w remont z wahaczami i amortyzatorami. Wczesna diagnoza to najtańszy scenariusz."
+    a: "Zużycie zawieszenia działa kaskadowo: zużyta część przekazuje uderzenia sąsiadom i szybciej je postarza. Pro-Stuk, który rok temu wyleczyłaby para tulei, zamienia się w remont z wahaczami i amortyzatorami. Wczesna diagnoza to najtańszy scenariusz."
 sources:
   - title: "Lemförder: sworznie wahaczy i przeguby kierownicze"
     url: "https://www.lemfoerder.com"
@@ -99,7 +99,7 @@ przeglądu, jeśli dźwięk zmienia się z tygodnia na tydzień: stabilny stuk
 może poczekać, narastający nie.
 
 Jeśli chce Pan ustalić pilność jeszcze dziś, proszę nagrać stuk w
-aplikacji Stuk na reprezentatywnym odcinku drogi. Algorytm zestawi nagranie
+aplikacji Pro-Stuk na reprezentatywnym odcinku drogi. Algorytm zestawi nagranie
 z Pana odpowiedziami i pokaże prawdopodobne przyczyny z procentami oraz
 poziomem pilności — tyle wystarczy, żeby wiedzieć, czy planować naprawę na
 przyszły miesiąc, czy umawiać się w tym tygodniu.

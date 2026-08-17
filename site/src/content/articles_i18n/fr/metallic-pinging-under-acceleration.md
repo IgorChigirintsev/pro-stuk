@@ -1,6 +1,6 @@
 ---
 title: "Tintement métallique dans le moteur à l'accélération"
-metaTitle: "Tintement métallique à l'accélération : causes | Stuk"
+metaTitle: "Tintement métallique à l'accélération : causes | Pro-Stuk"
 description: "Un tintement de pièces de monnaie dans une boîte à l'accélération, c'est presque toujours du cliquetis. Les causes — carburant, calamine, bougies, capteur — et quoi vérifier."
 faq:
   - q: "Pourquoi le tintement n'apparaît-il qu'à l'accélération ?"
@@ -136,7 +136,7 @@ qui fuit reconstruisent la même calamine en un an, et nettoyer sans traiter
 la cause, c'est payer deux fois.
 
 Si vous ne savez pas s'il s'agit de cliquetis ou de mécanique, enregistrez
-une accélération avec l'application Stuk : elle confronte l'enregistrement
+une accélération avec l'application Pro-Stuk : elle confronte l'enregistrement
 à vos réponses sur les circonstances d'apparition et affiche les causes
 probables en pourcentages, avec un niveau d'urgence — un point de départ
 commode avant le passage au garage.

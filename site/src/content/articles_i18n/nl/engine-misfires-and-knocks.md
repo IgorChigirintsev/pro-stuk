@@ -1,6 +1,6 @@
 ---
 title: "De motor loopt op drie cilinders en klopt"
-metaTitle: "Motor mist en klopt: oorzaken en vervolgstappen | Stuk"
+metaTitle: "Motor mist en klopt: oorzaken en vervolgstappen | Pro-Stuk"
 description: "De motor schudt, het stationair toerental zwerft en er is een klop: oorzaken van bougies en spoelen tot krassen in de cilinder. Hoe u de dode cilinder vindt."
 faq:
   - q: "Kan ik rijden terwijl de motor mist?"

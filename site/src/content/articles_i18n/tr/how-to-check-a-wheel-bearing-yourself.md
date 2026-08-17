@@ -1,6 +1,6 @@
 ---
 title: "Teker rulmanını kendiniz nasıl kontrol edersiniz"
-metaTitle: "Teker rulmanını kendiniz nasıl kontrol edersiniz | Stuk"
+metaTitle: "Teker rulmanını kendiniz nasıl kontrol edersiniz | Pro-Stuk"
 description: "Yıpranmış teker rulmanını ve tarafını lift olmadan bulan beş kontrol: hareket hâlindeki testler, tekerleği kaldırma, boşluk ve poyra sıcaklığı."
 faq:
   - q: "Tarafı lift olmadan bulabilir miyim?"
@@ -96,6 +96,6 @@ da kontrol edilmesini istemek mantıklı: o da ömrünün sonundaysa masrafı bi
 ay sonra karşınızda bulmak yerine planlayabilirsiniz.
 
 Kontroller birbiriyle çelişiyorsa — ki sık olur — şerit değiştirme testi
-sırasında uğultuyu Stuk uygulamasına kaydedin. Uygulama kaydı verdiğiniz
+sırasında uğultuyu Pro-Stuk uygulamasına kaydedin. Uygulama kaydı verdiğiniz
 cevaplarla eşleştirir ve muhtemel sebepleri yüzdesiyle gösterir; incelemeye
 hangi taraftan başlanacağı da bunun içinde.

@@ -1,6 +1,6 @@
 ---
 title: "Como checar a folga do cubo com a roda suspensa"
-metaTitle: "Checar folga do cubo com a roda suspensa | Stuk"
+metaTitle: "Checar folga do cubo com a roda suspensa | Pro-Stuk"
 description: "Como suspender a roda com segurança e checar folga: as pegadas 12–6 e 3–9, como separar o rolamento do pivô e da direção e o que fazer depois."
 faq:
   - q: "Quanta folga de roda conta como normal?"
@@ -93,7 +93,7 @@ dela: você chega com uma teoria específica e sabe o que deve ser
 confirmado no elevador.
 
 Se você achou folga mas não consegue dizer qual peça a produz, grave o
-som no aplicativo Stuk num trecho de piso ruim. O app cruza a gravação
+som no aplicativo Pro-Stuk num trecho de piso ruim. O app cruza a gravação
 com as suas respostas e mostra as causas prováveis com percentuais —
 seguro útil contra itens extras na conta. E a checagem do desgaste de
 pastilha pelo som está em

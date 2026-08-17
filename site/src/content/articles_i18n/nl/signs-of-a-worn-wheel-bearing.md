@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een versleten wiellager"
-metaTitle: "Versleten wiellager: geluid en tests | Stuk"
+metaTitle: "Versleten wiellager: geluid en tests | Pro-Stuk"
 description: "Hoe een versleten wiellager klinkt, hoe u het van bandengeluid onderscheidt, welke tests u zelf kunt doen en wat de vervanging bepaalt."
 faq:
   - q: "Wat is het allereerste kenmerk van een versleten wiellager?"

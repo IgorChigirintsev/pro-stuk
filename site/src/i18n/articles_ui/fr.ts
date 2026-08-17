@@ -19,7 +19,7 @@ export const fr: ArticleUi = {
   hubQuizSub:
     'Un arbre de diagnostic interactif : quelques questions et la liste des causes se réduit nettement.',
   hubOther: 'Autres rubriques',
-  indexTitle: 'Articles sur les bruits de voiture | Stuk',
+  indexTitle: 'Articles sur les bruits de voiture | Pro-Stuk',
   indexDescription:
     'Guides des bruits de voiture : cognement, grincement, ronflement, sifflement et cliquetis. Ce que signifie chaque bruit, ce que vous pouvez vérifier et son urgence.',
   indexH1: 'Articles',

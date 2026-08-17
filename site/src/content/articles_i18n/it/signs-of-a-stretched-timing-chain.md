@@ -1,6 +1,6 @@
 ---
 title: "Segni di una catena di distribuzione allungata"
-metaTitle: "Catena di distribuzione allungata: i segni | Stuk"
+metaTitle: "Catena di distribuzione allungata: i segni | Pro-Stuk"
 description: "Come suona una catena di distribuzione allungata, quali codici errore genera, come si misura l'allungamento senza aprire il motore e come si decide l'intervento."
 faq:
   - q: "Qual è il primissimo segno di una catena allungata?"
@@ -155,5 +155,5 @@ A lavoro finito, chieda di vedere la catena vecchia accanto a quella nuova:
 su un gruppo consumato la differenza di lunghezza si vede a occhio nudo.
 
 Se non è sicuro se sia la catena o altro, parta da una registrazione: l'app
-Stuk analizza il motore in moto insieme alle sue risposte e mostra le cause
+Pro-Stuk analizza il motore in moto insieme alle sue risposte e mostra le cause
 probabili in percentuale.

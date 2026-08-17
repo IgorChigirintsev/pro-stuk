@@ -1,6 +1,6 @@
 ---
 title: "Rölantide kaputun altından uğultu"
-metaTitle: "Rölantide kaput altı uğultusu: kaynağı bulma | Stuk"
+metaTitle: "Rölantide kaput altı uğultusu: kaynağı bulma | Pro-Stuk"
 description: "Rölantide kaputun altında ne uğuldar: fan, alternatör, klima kompresörü, devirdaim ya da gergi rulmanları. Kaynağı bulan basit anahtar testleri."
 faq:
   - q: "Klima devreye girince uğultu çıkması normal mi?"
@@ -110,6 +110,6 @@ eski, uzamış bir kayış üzerinde çalışan yeni bir rulman kısa ömürlü 
 çözümdür.
 
 Rölantideki uğultuyu kaydetmek kolaydır: araç durur ve arka plan gürültüsü
-en azdır. Kaput açıkken Stuk uygulamasına bir kayıt yapın — uygulama sesi
+en azdır. Kaput açıkken Pro-Stuk uygulamasına bir kayıt yapın — uygulama sesi
 cevaplarınızla karşılaştırır ve muhtemel sebepleri aciliyet
 değerlendirmesiyle gösterir.

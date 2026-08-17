@@ -1,6 +1,6 @@
 ---
 title: "Gerissener Achsmanschette: wie weit kann man fahren"
-metaTitle: "Gerissene Achsmanschette: wie weit noch? | Stuk"
+metaTitle: "Gerissene Achsmanschette: wie weit noch? | Pro-Stuk"
 description: "Eine gerissene Achsmanschette zerstört das Gelenk nicht sofort, startet aber einen Countdown. Wie viele Kilometer wirklich bleiben und wovon das abhängt."
 faq:
   - q: "Wie weit fährt ein Auto mit gerissener Achsmanschette?"

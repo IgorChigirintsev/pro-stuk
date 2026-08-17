@@ -1,6 +1,6 @@
 ---
 title: "Krassen in de cilinders bij Hyundai/Kia: hoe het klinkt"
-metaTitle: "Krassen in cilinders Hyundai/Kia: het geluid | Stuk"
+metaTitle: "Krassen in cilinders Hyundai/Kia: het geluid | Pro-Stuk"
 description: "Zo herkent u krassen in de cilinderwand op het gehoor bij Hyundai- en Kia-motoren: het karakter van de klop, de link met opwarmen en belasting."
 faq:
   - q: "Klopt het bij een koude of een warme motor?"

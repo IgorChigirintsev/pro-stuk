@@ -1,6 +1,6 @@
 ---
 title: "Geluid van de Haldex-koppeling: de symptomen"
-metaTitle: "Haldex-koppeling: geluid en diagnose | Stuk"
+metaTitle: "Haldex-koppeling: geluid en diagnose | Pro-Stuk"
 description: "Hoe een worstelende Haldex-koppeling klinkt, waarom het geknars opduikt bij manoeuvres met lage snelheid en waarin het verschilt van een tikkende homokineet."
 faq:
   - q: "Hoe verschilt geluid van de koppeling van dat van een homokineet?"

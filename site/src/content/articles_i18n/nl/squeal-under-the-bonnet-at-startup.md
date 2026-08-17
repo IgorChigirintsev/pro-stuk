@@ -1,6 +1,6 @@
 ---
 title: "Gepiep onder de motorkap bij het starten"
-metaTitle: "Gepiep onder de kap bij het starten: oorzaken | Stuk"
+metaTitle: "Gepiep onder de kap bij het starten: oorzaken | Pro-Stuk"
 description: "Waarom het onder de motorkap piept in de eerste seconden na het starten: de multiriem, de spanner, de rollen of de vrijlooppoelie van de dynamo."
 faq:
   - q: "Is gepiep dat een paar seconden na het starten stopt gevaarlijk?"

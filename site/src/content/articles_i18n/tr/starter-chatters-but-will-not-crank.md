@@ -1,6 +1,6 @@
 ---
 title: "Marş takırdıyor ama motoru çevirmiyor"
-metaTitle: "Marş takırdıyor, motoru çevirmiyor: nedenleri | Stuk"
+metaTitle: "Marş takırdıyor, motoru çevirmiyor: nedenleri | Pro-Stuk"
 description: "Marş takırdıyor ama motor dönmüyor: akü, kutup başları, otomatik şalter. Yerinde yapılacak basit kontroller ve nedenler tablosu."
 faq:
   - q: "Akü yeniyse marş neden takırdıyor?"
@@ -106,6 +106,6 @@ tıkırtısının ne zaman tehlikeli olduğu konusu
 yazısında.
 
 Neden bir türlü bulunmuyorsa ve takırtı gelip gidiyorsa, çalıştırma
-denemesini Stuk uygulamasıyla kaydedin: algoritma kaydı yanıtlarınızla —
+denemesini Pro-Stuk uygulamasıyla kaydedin: algoritma kaydı yanıtlarınızla —
 farlar kararıyor mu, taşlama sesi var mı — eşleştirir ve olası nedenleri
 aciliyet seviyesiyle önerir.

@@ -1,6 +1,6 @@
 ---
 title: "Gebrom na het wisselen van banden"
-metaTitle: "Brommen na bandenwissel: wat te checken | Stuk"
+metaTitle: "Brommen na bandenwissel: wat te checken | Pro-Stuk"
 description: "Na een bandenwissel bromt de auto bij snelheid. Wanneer het profiel de schuld is, wanneer balanceren of rotatie, en wanneer de banden onschuldig zijn."
 faq:
   - q: "Brommen nieuwe banden altijd in het begin?"

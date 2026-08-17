@@ -1,6 +1,6 @@
 ---
 title: "¿Se puede circular con el catalizador deshecho?"
-metaTitle: "¿Se puede circular con el catalizador roto? | Stuk"
+metaTitle: "¿Se puede circular con el catalizador roto? | Pro-Stuk"
 description: "La cerámica del catalizador deshecha suena a grava y ahoga el motor. Cuándo se puede llegar al taller por medios propios, cuándo no y qué arriesga el motor."
 faq:
   - q: "¿Cómo suena un catalizador deshecho?"
@@ -102,7 +102,7 @@ margen; en cuanto empieza a afectar al comportamiento del coche, la cuenta
 va en días.
 
 Si el traqueteo acaba de aparecer y se quiere saber si es eso, se puede
-grabar el sonido con la aplicación Stuk dando acelerones, y repetir la
+grabar el sonido con la aplicación Pro-Stuk dando acelerones, y repetir la
 grabación después de un trayecto corto. La aplicación compara las
 grabaciones con las respuestas dadas y muestra las causas probables con
 porcentajes, junto con una indicación de si es urgente o si se puede pedir

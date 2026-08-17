@@ -1,14 +1,14 @@
 ---
-title: "Stuk silnika czy osprzętu: jak to zlokalizować"
-metaTitle: "Stuk silnika czy osprzętu: jak zlokalizować | Stuk"
-description: "Stuk spod maski nie zawsze pochodzi z samego silnika. Kilka prób oddziela osprzęt na pasku wielorowkowym od mechaniki wnętrza silnika."
+title: "Pro-Stuk silnika czy osprzętu: jak to zlokalizować"
+metaTitle: "Pro-Stuk silnika czy osprzętu: jak zlokalizować | Pro-Stuk"
+description: "Pro-Stuk spod maski nie zawsze pochodzi z samego silnika. Kilka prób oddziela osprzęt na pasku wielorowkowym od mechaniki wnętrza silnika."
 faq:
   - q: "Skąd wiadomo, że stuka osprzęt, a nie silnik?"
     a: "Główny sposób to obciążanie osprzętu. Proszę włączać i wyłączać klimatyzację, dołożyć obciążenia elektrycznego światłami i ogrzewaniem szyby i wsłuchać się w różnicę. Jeżeli dźwięk zauważalnie się zmienia, źródło wisi na pasku wielorowkowym, a nie mieszka w środku silnika."
   - q: "Czy można zdjąć pasek, żeby sprawdzić?"
     a: "Na krótko tak — to klasyczna próba: bez paska silnik uruchamia się na kilka sekund i słucha. Ale bez paska nie kręci się pompa wody, więc próbę robi się na zimnym silniku i nie dłużej niż 10–15 sekund."
-  - q: "Stuk znika po nagrzaniu — to dobry znak?"
-    a: "Nie zawsze. Stuk, który ustępuje po nagrzaniu, to często luzy cieplne i popychacze hydrauliczne, czyli scenariusz stosunkowo spokojny. Ale wczesne zużycie panewek zachowuje się tak samo, więc krótka diagnostyka i tak jest potrzebna."
+  - q: "Pro-Stuk znika po nagrzaniu — to dobry znak?"
+    a: "Nie zawsze. Pro-Stuk, który ustępuje po nagrzaniu, to często luzy cieplne i popychacze hydrauliczne, czyli scenariusz stosunkowo spokojny. Ale wczesne zużycie panewek zachowuje się tak samo, więc krótka diagnostyka i tak jest potrzebna."
 sources:
   - title: "Gates: paski napędowe i napinacze"
     url: "https://www.gates.com"
@@ -44,7 +44,7 @@ wewnętrznej mechaniki silnika — nie.
    pobiera więcej prądu i jego łożysko jest mocniej obciążone — jeśli
    dźwięk rośnie, tam należy szukać; patrz
    [pisk alternatora: łożysko czy pasek](/pl/articles/alternator-squeal-bearing-or-belt/).
-2. **Klimatyzacja.** Kilka razy włączyć i wyłączyć sprężarkę. Stuk
+2. **Klimatyzacja.** Kilka razy włączyć i wyłączyć sprężarkę. Pro-Stuk
    powiązany z załączeniem sprzęgiełka to sprężarka albo jej sprzęgło, a
    nie silnik —
    [dźwięki uszkodzonego sprzęgła sprężarki klimatyzacji](/pl/articles/ac-compressor-clutch-failure-sounds/).
@@ -53,7 +53,7 @@ wewnętrznej mechaniki silnika — nie.
    zostaje obciążona i jej dźwięk wychodzi na pierwszy plan.
 4. **Zdjęcie paska.** Ostateczna próba, robiona w warsztacie: pasek się
    zdejmuje, zimny silnik uruchamia na 10–15 sekund i słucha. Cisza
-   oznacza osprzęt. Stuk, który zostaje, oznacza źródło w środku silnika.
+   oznacza osprzęt. Pro-Stuk, który zostaje, oznacza źródło w środku silnika.
 
 Gdy krąg zawęzi się do alternatora i pompy wody, następny krok jest w
 tekście
@@ -94,7 +94,7 @@ ciśnieniem oleju. Tam dalsza jazda zamienia naprawę w remont i właściwym
 ruchem jest nie „dociągnąć do poniedziałku”, tylko stanąć.
 
 Jeśli warto uchwycić dźwięk przed wizytą w warsztacie, proszę nagrać go w
-aplikacji Stuk w dwóch trybach: na biegu jałowym bez obciążenia i zaraz po
+aplikacji Pro-Stuk w dwóch trybach: na biegu jałowym bez obciążenia i zaraz po
 włączeniu klimatyzacji oraz świateł. Różnica między tymi dwoma nagraniami
 to dokładnie to, czego się szuka, a aplikacja zestawia je z odpowiedziami
 i pokazuje prawdopodobne przyczyny z procentami.

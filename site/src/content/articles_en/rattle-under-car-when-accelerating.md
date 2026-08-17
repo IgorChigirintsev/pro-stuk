@@ -1,7 +1,7 @@
 ---
 ru: "drebezg-pod-mashinoj-pri-razgone"
 title: "Rattling under the car when accelerating"
-metaTitle: "Rattling under the car when accelerating | Stuk"
+metaTitle: "Rattling under the car when accelerating | Pro-Stuk"
 description: "Heat shields, an exhaust touching the body, knocking or a broken catalytic converter: why a rattle appears under acceleration and how to tell harmless from serious."
 pubDate: "2026-07-15"
 related:
@@ -124,7 +124,7 @@ inspection is to make sure this really is that case — and not knocking
 wearing the mask of a harmless rattle.
 
 Not sure whether it is a rattle or the ring of knocking? Record an
-acceleration run in the Stuk app — it matches the spectrum of the sound
+acceleration run in the Pro-Stuk app — it matches the spectrum of the sound
 against your answers about when it appears and shows the likely causes
 with an urgency level. With that recording, the mechanic will not need to
 drive around with you for half an hour looking for the noise.

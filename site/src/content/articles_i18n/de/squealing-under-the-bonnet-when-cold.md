@@ -1,6 +1,6 @@
 ---
 title: "Pfeifen unter der Haube im kalten Zustand"
-metaTitle: "Pfeifen unter der Haube im kalten Zustand | Stuk"
+metaTitle: "Pfeifen unter der Haube im kalten Zustand | Pro-Stuk"
 description: "Warum es am kalten Motor unter der Haube pfeift und nach dem Warmlaufen aufhört: Riemen, Rollen, Wasserpumpe. So finden Sie die Quelle selbst."
 faq:
   - q: "Warum verschwindet das Pfeifen, sobald der Motor warm ist?"

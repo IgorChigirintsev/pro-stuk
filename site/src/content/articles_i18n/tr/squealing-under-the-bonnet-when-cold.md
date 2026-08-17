@@ -1,6 +1,6 @@
 ---
 title: "Motor soğukken kaputun altından gelen ıslık"
-metaTitle: "Soğukta kaputun altından ıslık: nedenleri | Stuk"
+metaTitle: "Soğukta kaputun altından ıslık: nedenleri | Pro-Stuk"
 description: "Motor soğukken ıslık çalıp ısınınca neden susar: V kayışı, avare rulmanlar, devirdaim pompası. Kaynağı kendiniz nasıl bulursunuz."
 faq:
   - q: "Motor ısınınca ıslık neden kayboluyor?"
@@ -133,6 +133,6 @@ yüzden soğuk ıslığı önceden kaydedin — sabah ilk iş, kaput açıkken,
 telefonla — ve kaydı gösterin. Deneyimli bir usta kaymayı rulmandan birkaç
 saniyede ayırır, bu da sizi ikinci bir ziyaretten kurtarır.
 
-Kayış mı rulman mı emin değilseniz, sabahki ıslığı Stuk uygulamasıyla
+Kayış mı rulman mı emin değilseniz, sabahki ıslığı Pro-Stuk uygulamasıyla
 kaydedin: uygulama kaydı tipik arıza sesleriyle karşılaştırır, yanıtlarınızı
 da hesaba katar ve olası nedenleri aciliyet seviyesiyle gösterir.

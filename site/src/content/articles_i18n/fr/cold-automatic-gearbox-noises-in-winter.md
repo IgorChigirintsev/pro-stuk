@@ -1,6 +1,6 @@
 ---
 title: "Les bruits d'une boîte automatique froide en hiver"
-metaTitle: "Boîte automatique froide en hiver : les bruits | Stuk"
+metaTitle: "Boîte automatique froide en hiver : les bruits | Pro-Stuk"
 description: "En hiver une boîte automatique froide bourdonne, tape et cliquette, puis se calme après dix minutes. Où s'arrête le normal et quels sons restent à chaud."
 faq:
   - q: "Un bourdonnement de boîte automatique froide par temps de gel, est-ce normal ?"
@@ -104,7 +104,7 @@ contrôle est donc une pratique normale, pas une tentative d'allonger la
 facture.
 
 Si vous ne savez pas si votre son entre dans la normale, enregistrez deux
-trajets dans l'application Stuk — les premières minutes après un départ à
+trajets dans l'application Pro-Stuk — les premières minutes après un départ à
 froid, puis la même route vingt minutes plus tard. La différence entre les
 deux enregistrements est la réponse : l'application les croise avec vos
 réponses sur la température et les conditions de conduite et affiche les

@@ -1,6 +1,6 @@
 ---
 title: "Darf man mit heulendem Getriebe fahren"
-metaTitle: "Mit heulendem Getriebe fahren? | Stuk"
+metaTitle: "Mit heulendem Getriebe fahren? | Pro-Stuk"
 description: "Ein heulendes Getriebe stoppt das Auto selten sofort, doch die Reserve hängt vom Charakter des Tons ab. Was heult, welche Zeichen dringend sind und was zu tun ist."
 faq:
   - q: "Wie viele Kilometer kann ich mit heulendem Getriebe fahren?"

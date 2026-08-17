@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytych poduszek silnika"
-metaTitle: "Zużyte poduszki silnika: drgania i szarpnięcia | Stuk"
+metaTitle: "Zużyte poduszki silnika: drgania i szarpnięcia | Pro-Stuk"
 description: "Drgania na biegu jałowym, szarpnięcie przy wrzuceniu biegu, stuk przy przyspieszaniu: jak rozpoznać martwe poduszki silnika i co decyduje o naprawie."
 faq:
   - q: "Ile poduszek ma silnik?"
@@ -69,7 +69,7 @@ objawy mechaniczne:
 |---|---|---|
 | Wczesny | Lekkie trzęsienie na jałowym na biegu, wibrująca kierownica | Obserwować, sprawdzić przy przeglądzie |
 | Średni | Szarpnięcia przy wrzucaniu biegu, grzechotanie drobiazgów w kabinie | Diagnostyka w ciągu kilku tygodni |
-| Wyraźny | Stuk przy przyspieszaniu i puszczaniu gazu, widoczne kiwanie silnika | Wymiana bez zwłoki |
+| Wyraźny | Pro-Stuk przy przyspieszaniu i puszczaniu gazu, widoczne kiwanie silnika | Wymiana bez zwłoki |
 | Krytyczny | Uderzenia przy każdym manewrze, naciągnięte przewody, ocierający wydech | Jazda tylko do warsztatu |
 
 Tempo degradacji zależy od konstrukcji: zwykła poduszka gumowa umiera
@@ -126,7 +126,7 @@ Poduszka przykręcona przy silniku wiszącym pod złym kątem siedzi wstępnie
 naprężona i rwie się ponownie w kilka miesięcy.
 
 Jeśli pojawiły się drgania i szarpnięcia, a nie ma Pan pewności co do
-diagnozy, proszę nagrać pracujący silnik w aplikacji Stuk: zestawia ona
+diagnozy, proszę nagrać pracujący silnik w aplikacji Pro-Stuk: zestawia ona
 dźwięk z Pana odpowiedziami o objawach i pokazuje prawdopodobne przyczyny
 wraz z poziomem pilności — na tyle, by porozmawiać z mechanikiem
 konkretnie.

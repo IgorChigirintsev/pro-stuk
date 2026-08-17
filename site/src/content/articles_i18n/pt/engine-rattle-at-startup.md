@@ -1,6 +1,6 @@
 ---
 title: "Matraca no motor na partida"
-metaTitle: "Matraca no motor na partida: causas e o que fazer | Stuk"
+metaTitle: "Matraca no motor na partida: causas e o que fazer | Pro-Stuk"
 description: "Por que o motor matraqueia na partida: motor de arranque, variador de fase, tensor da corrente ou polia do alternador. Como separar pelo momento."
 faq:
   - q: "Uma matraca nos primeiros segundos depois da partida é perigosa?"
@@ -124,7 +124,7 @@ guias e amortecedores vão junto com a corrente: são as peças plásticas nas
 quais a corrente realmente bate.
 
 Se você não consegue prender a matraca a um momento da partida de ouvido,
-grave o som no aplicativo Stuk: ele cruza a gravação com as suas respostas
+grave o som no aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas
 sobre quando e como o som aparece e mostra as causas prováveis com
 percentuais e nível de urgência — uma lista bem mais fácil de levar para a
 oficina.

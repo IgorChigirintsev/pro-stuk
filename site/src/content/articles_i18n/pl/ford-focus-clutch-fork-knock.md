@@ -1,9 +1,9 @@
 ---
-title: "Stuk widelca sprzęgła w Ford Focus"
-metaTitle: "Stuk widelca sprzęgła w Ford Focus: przyczyny i naprawa | Stuk"
+title: "Pro-Stuk widelca sprzęgła w Ford Focus"
+metaTitle: "Pro-Stuk widelca sprzęgła w Ford Focus: przyczyny i naprawa | Pro-Stuk"
 description: "Kliknięcia i stuk przy wciskaniu pedału sprzęgła w Focusie: jak sprawdzić widelec i łożysko oporowe oraz co robi w takim razie warsztat."
 faq:
-  - q: "Stuk słychać tylko przy pracy pedałem — czy to na pewno sprzęgło?"
+  - q: "Pro-Stuk słychać tylko przy pracy pedałem — czy to na pewno sprzęgło?"
     a: "Prawie na pewno. Jeśli dźwięk pojawia się ściśle przy wciskaniu albo puszczaniu pedału i nie zależy od prędkości ani nawierzchni, źródło jest w mechanizmie wysprzęglania. Inne części nie reagują tak wybiórczo."
   - q: "Czy da się wymienić sam widelec, nie ruszając sprzęgła?"
     a: "Technicznie tak, ale i tak trzeba zdjąć skrzynię biegów, żeby się do niego dostać. Dlatego mechanicy zwykle proponują ocenić stan tarczy, docisku i łożyska oporowego i zdecydować, czy założyć komplet — drugie zdejmowanie skrzyni kosztuje więcej."
@@ -79,7 +79,7 @@ zostało.
 Pomaga podanie mechanikowi całego obrazu z góry: kiedy dźwięk się pojawił,
 czy coś zmieniło się w zachowaniu pedału, czy po podjazdach czuć zapach
 sprzęgła i czy auto ślizga się przy mocnym przyspieszaniu na wysokim
-biegu. Stuk z punktu obrotu widelca sam w sobie nie oznacza zużytego
+biegu. Pro-Stuk z punktu obrotu widelca sam w sobie nie oznacza zużytego
 sprzęgła, ale jeśli dołączyły do niego te objawy, decyzja o komplecie
 staje się oczywista jeszcze przed demontażem.
 
@@ -95,7 +95,7 @@ nim jeździć, opisano w
 [jeździe z szumiącym łożyskiem koła](/pl/articles/can-you-drive-with-a-humming-wheel-bearing/).
 
 Jeśli stuk jest jeszcze sporadyczny, a chce się wiedzieć, czy skrzynia
-powinna zejść, nagraj go w aplikacji Stuk, powoli wciskając pedał przy
+powinna zejść, nagraj go w aplikacji Pro-Stuk, powoli wciskając pedał przy
 pracującym silniku. Aplikacja zestawia nagranie z odpowiedziami na kilka
 pytań i pokazuje prawdopodobne przyczyny w procentach — tyle wystarczy,
 żeby przyjechać do mechanika z konkretnym pytaniem.

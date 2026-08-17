@@ -4,7 +4,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Battito nel motore',
-    metaTitle: 'Il motore batte: cause, gravità e cosa fare | Stuk',
+    metaTitle: 'Il motore batte: cause, gravità e cosa fare | Pro-Stuk',
     description:
       'Perché il motore batte: dal ticchettio innocuo delle valvole alle bronzine usurate. Come riconoscere un battito pericoloso, se si può guidare e cosa controllare da soli.',
     intro: [
@@ -30,7 +30,7 @@ export const pages: Record<string, SymptomTr> = {
       'Guardare se è accesa la spia della pressione olio: l’oliatore rosso insieme al battito significa spegnere il motore subito.',
     ],
     appHelp:
-      'L’app Stuk ti guida attraverso le stesse domande che pone un motorista, registra il suono e ne valuta spettro e ritmo: con quale frequenza arrivano i colpi e come questo si rapporta ai giri — per un battito di valvole e uno di albero motore il rapporto è diverso. Nel rapporto trovi cause probabili con percentuali, il semaforo dell’urgenza e frasi pronte per il dialogo in officina.',
+      'L’app Pro-Stuk ti guida attraverso le stesse domande che pone un motorista, registra il suono e ne valuta spettro e ritmo: con quale frequenza arrivano i colpi e come questo si rapporta ai giri — per un battito di valvole e uno di albero motore il rapporto è diverso. Nel rapporto trovi cause probabili con percentuali, il semaforo dell’urgenza e frasi pronte per il dialogo in officina.',
     faq: [
       {
         q: 'Perché il motore batte solo a freddo?',
@@ -49,7 +49,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Freni che fischiano',
-    metaTitle: 'I freni fischiano: pericoloso o no, cause e rimedi | Stuk',
+    metaTitle: 'I freni fischiano: pericoloso o no, cause e rimedi | Pro-Stuk',
     description:
       'Perché i freni fischiano: la patina di ruggine del mattino, l’indicatore di usura delle pastiglie o un problema ai dischi. Come distinguere un fischio innocuo da un avvertimento.',
     intro: [
@@ -74,7 +74,7 @@ export const pages: Record<string, SymptomTr> = {
       'Osservare pedale e traiettoria: l’auto che tira da un lato in frenata, il pedale che pulsa o «lungo» sono cose più serie di un fischio e significano officina senza rinvii.',
     ],
     appHelp:
-      'L’app Stuk separa lo scenario innocuo da quello preoccupante con le stesse domande — quando fischia e se il suono sparisce — e la registrazione aiuta a distinguere lo stridio acuto dell’indicatore dallo stridore metallico. Nel rapporto trovi cause probabili con percentuali e un semaforo: puoi guidare, in officina questa settimana o fermati.',
+      'L’app Pro-Stuk separa lo scenario innocuo da quello preoccupante con le stesse domande — quando fischia e se il suono sparisce — e la registrazione aiuta a distinguere lo stridio acuto dell’indicatore dallo stridore metallico. Nel rapporto trovi cause probabili con percentuali e un semaforo: puoi guidare, in officina questa settimana o fermati.',
     faq: [
       {
         q: 'Perché i freni fischiano al mattino e con la pioggia?',
@@ -93,7 +93,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Ronzio in marcia',
-    metaTitle: 'Ronzio in marcia: cuscinetto, gomme o cambio | Stuk',
+    metaTitle: 'Ronzio in marcia: cuscinetto, gomme o cambio | Pro-Stuk',
     description:
       'Ronzio costante a una certa velocità: cuscinetto ruota, gomme, cambio o differenziale. Prove semplici senza officina — il test in folle e le curve dolci — per restringere la causa.',
     intro: [
@@ -119,7 +119,7 @@ export const pages: Record<string, SymptomTr> = {
       'Col cambio manuale, verificare se l’ululato cambia con marce diverse alla stessa velocità; sulla trazione posteriore, se insieme al ronzio compare un tremolio nel pianale in una fascia stretta di velocità.',
     ],
     appHelp:
-      'L’app Stuk ti guida attraverso le stesse domande — il ronzio resta in folle, cambia in curva e con il fondo — e aiuta a registrare il suono per confrontarne il carattere con casi tipici. Nel rapporto trovi cause probabili con percentuali e una conclusione: viaggia tranquillo, pianifica l’officina o fai controllare senza rinvii.',
+      'L’app Pro-Stuk ti guida attraverso le stesse domande — il ronzio resta in folle, cambia in curva e con il fondo — e aiuta a registrare il suono per confrontarne il carattere con casi tipici. Nel rapporto trovi cause probabili con percentuali e una conclusione: viaggia tranquillo, pianifica l’officina o fai controllare senza rinvii.',
     faq: [
       {
         q: 'Come distinguere il ronzio del cuscinetto dal rumore delle gomme?',
@@ -138,7 +138,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Rumore di colpi nelle sospensioni',
-    metaTitle: 'Colpi nelle sospensioni: cosa batte e si può guidare | Stuk',
+    metaTitle: 'Colpi nelle sospensioni: cosa batte e si può guidare | Pro-Stuk',
     description:
       'Cosa batte nelle sospensioni: tiranti della barra stabilizzatrice, silent block, scatola dello sterzo o una molla rotta. Come distinguere i colpi dal carattere e quando andare in officina.',
     intro: [
@@ -164,7 +164,7 @@ export const pages: Record<string, SymptomTr> = {
       'Guardare dietro la ruota dal basso, senza smontare nulla: una spira rotta spesso si vede a occhio nudo, e di rimando si nota se un angolo dell’auto è più basso.',
     ],
     appHelp:
-      'L’app Stuk percorre gli stessi bivi di un meccanico alla prima ispezione: che suono è, su quali asperità, davanti o dietro, se arriva nel volante. La registrazione evita di perdere i dettagli fino alla visita, e nel rapporto trovi cause probabili con percentuali e un semaforo chiaro: puoi guidare, mostralo questa settimana o fallo controllare con urgenza.',
+      'L’app Pro-Stuk percorre gli stessi bivi di un meccanico alla prima ispezione: che suono è, su quali asperità, davanti o dietro, se arriva nel volante. La registrazione evita di perdere i dettagli fino alla visita, e nel rapporto trovi cause probabili con percentuali e un semaforo chiaro: puoi guidare, mostralo questa settimana o fallo controllare con urgenza.',
     faq: [
       {
         q: 'È pericoloso guidare con un colpo nelle sospensioni?',
@@ -183,7 +183,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Ronzio del cuscinetto ruota',
-    metaTitle: 'Cuscinetto ruota che ronza: come riconoscerlo | Stuk',
+    metaTitle: 'Cuscinetto ruota che ronza: come riconoscerlo | Pro-Stuk',
     description:
       'Come suona un cuscinetto ruota usurato, come distinguerlo dal rumore delle gomme, quale ruota ronza e per quanto si può guidare così.',
     intro: [
@@ -208,7 +208,7 @@ export const pages: Record<string, SymptomTr> = {
       'Dopo il viaggio, avvicinare con cautela la mano ai mozzi (senza toccare il disco freno, che è caldo): un mozzo nettamente più caldo da un lato è un indizio in più.',
     ],
     appHelp:
-      'L’app Stuk pone le stesse domande di controllo — sul fondo, sulle curve e sul veleggiare in folle —, registra il ronzio e ne valuta il carattere: il rumore a banda larga delle gomme e il ronzio di un cuscinetto appaiono diversi nello spettro. Nel rapporto trovi le probabilità delle cause, l’urgenza e un suggerimento su quale lato indicare al meccanico.',
+      'L’app Pro-Stuk pone le stesse domande di controllo — sul fondo, sulle curve e sul veleggiare in folle —, registra il ronzio e ne valuta il carattere: il rumore a banda larga delle gomme e il ronzio di un cuscinetto appaiono diversi nello spettro. Nel rapporto trovi le probabilità delle cause, l’urgenza e un suggerimento su quale lato indicare al meccanico.',
     faq: [
       {
         q: 'Perché il ronzio cambia in curva?',
@@ -227,7 +227,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Colpi sulle asperità',
-    metaTitle: 'Colpi sulle buche: cause e cosa controllare da soli | Stuk',
+    metaTitle: 'Colpi sulle buche: cause e cosa controllare da soli | Pro-Stuk',
     description:
       'Colpi sulle asperità: martellare frequente sulle ondulazioni, colpi isolati nelle buche o un colpo nel volante. Quali componenti sono in causa e se si può guidare.',
     intro: [
@@ -253,7 +253,7 @@ export const pages: Record<string, SymptomTr> = {
       'Escludere il semplice: togliere gli oggetti sciolti dal bagagliaio, controllare il fissaggio di ruota di scorta e cric, premere sul cofano chiuso — una serratura con gioco ticchetta come la sospensione.',
     ],
     appHelp:
-      'L’app Stuk pone le stesse domande di questa pagina, solo passo dopo passo: che colpo è esattamente, dove si sente, come si comporta su asperità diverse. Dalle risposte e dalla registrazione costruisce un rapporto con cause probabili e semaforo dell’urgenza — con esso è più facile decidere se andare in officina domani o quando capita.',
+      'L’app Pro-Stuk pone le stesse domande di questa pagina, solo passo dopo passo: che colpo è esattamente, dove si sente, come si comporta su asperità diverse. Dalle risposte e dalla registrazione costruisce un rapporto con cause probabili e semaforo dell’urgenza — con esso è più facile decidere se andare in officina domani o quando capita.',
     faq: [
       {
         q: 'Perché il colpo si sente solo sulle asperità e su strada liscia no?',
@@ -272,7 +272,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Motore che ticchetta',
-    metaTitle: 'Il motore ticchetta: normale o usura, cause | Stuk',
+    metaTitle: 'Il motore ticchetta: normale o usura, cause | Pro-Stuk',
     description:
       'Da dove viene il ticchettio del motore: gioco valvole, punterie idrauliche, ticchettio normale degli iniettori o collettore di scarico. Come distinguere il normale dall’usura.',
     intro: [
@@ -298,7 +298,7 @@ export const pages: Record<string, SymptomTr> = {
       'Annusare vicino al cofano aperto: odore di scarico insieme a un ticchettio frequente è segno del collettore — con questo, officina entro una o due settimane.',
     ],
     appHelp:
-      'L’app Stuk chiarisce l’essenziale — se il ticchettio è diventato più forte col tempo e come si comporta a freddo e a caldo — e la registrazione permette di confrontarlo con esempi tipici. Nel rapporto trovi cause probabili con percentuali e una conclusione a semaforo: normale, appuntamento questa settimana o diagnosi senza rinvii.',
+      'L’app Pro-Stuk chiarisce l’essenziale — se il ticchettio è diventato più forte col tempo e come si comporta a freddo e a caldo — e la registrazione permette di confrontarlo con esempi tipici. Nel rapporto trovi cause probabili con percentuali e una conclusione a semaforo: normale, appuntamento questa settimana o diagnosi senza rinvii.',
     faq: [
       {
         q: 'Perché diesel e motori a iniezione diretta ticchettano sempre?',
@@ -317,7 +317,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Cinghia che fischia',
-    metaTitle: 'La cinghia fischia: cause, si può guidare e cosa fare | Stuk',
+    metaTitle: 'La cinghia fischia: cause, si può guidare e cosa fare | Pro-Stuk',
     description:
       'La cinghia dei servizi fischia: usura, tensione bassa, rulli o frizione del compressore del clima. Come restringere la causa dalle circostanze e quando il fischio richiede l’officina.',
     intro: [
@@ -343,7 +343,7 @@ export const pages: Record<string, SymptomTr> = {
       'Ascoltare se accanto al fischio c’è un ronzio o un fruscio regolare che cambia con i giri del motore — così suona il cuscinetto di uno dei rulli.',
     ],
     appHelp:
-      'L’app Stuk chiarisce il carattere del suono e le circostanze — fischio o ronzio, a freddo o sotto carico, legato o meno al climatizzatore — e con la registrazione aiuta a distinguere lo stridio della cinghia dal fruscio di un rullo. Nel rapporto trovi cause probabili con percentuali e un semaforo: puoi guidare, in officina questa settimana o fermati.',
+      'L’app Pro-Stuk chiarisce il carattere del suono e le circostanze — fischio o ronzio, a freddo o sotto carico, legato o meno al climatizzatore — e con la registrazione aiuta a distinguere lo stridio della cinghia dal fruscio di un rullo. Nel rapporto trovi cause probabili con percentuali e un semaforo: puoi guidare, in officina questa settimana o fermati.',
     faq: [
       {
         q: 'Cosa succede se la cinghia si rompe per strada?',
@@ -362,7 +362,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Sferragliare sotto l’auto',
-    metaTitle: 'Sferragliare sotto l’auto: cosa vibra ed è pericoloso | Stuk',
+    metaTitle: 'Sferragliare sotto l’auto: cosa vibra ed è pericoloso | Pro-Stuk',
     description:
       'Sferragliare e vibrare sotto l’auto: supporti dello scarico, schermo termico, paramotore o catalizzatore. Come trovare la fonte del rumore e quando la cosa è seria.',
     intro: [
@@ -388,7 +388,7 @@ export const pages: Record<string, SymptomTr> = {
       'Guardare sotto l’auto senza infilarsi sotto: uno scarico che penzola, un bordo staccato del paramotore o uno schermo piegato spesso si vedono già dalla ruota.',
     ],
     appHelp:
-      'L’app Stuk aiuta a legare lo sferragliare alla sua fonte: da dove viene il suono, se segue i giri del motore o le buche, cosa succede alla potenza. Da risposte e registrazione mostra cause probabili con percentuali e un semaforo dell’urgenza — comodo per distinguere una lamiera innocua dal catalizzatore prima ancora dell’officina.',
+      'L’app Pro-Stuk aiuta a legare lo sferragliare alla sua fonte: da dove viene il suono, se segue i giri del motore o le buche, cosa succede alla potenza. Da risposte e registrazione mostra cause probabili con percentuali e un semaforo dell’urgenza — comodo per distinguere una lamiera innocua dal catalizzatore prima ancora dell’officina.',
     faq: [
       {
         q: 'È pericoloso guidare se sotto l’auto sferraglia qualcosa?',
@@ -407,7 +407,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Stridore in frenata',
-    metaTitle: 'Stridore in frenata: pastiglie fino al metallo, che fare | Stuk',
+    metaTitle: 'Stridore in frenata: pastiglie fino al metallo, che fare | Pro-Stuk',
     description:
       'Lo stridore in frenata di solito significa pastiglie consumate fino al metallo: con questo non si guida. Più di rado la colpa è di un sassolino dietro il parapolvere. Come distinguerli.',
     intro: [
@@ -432,7 +432,7 @@ export const pages: Record<string, SymptomTr> = {
       'Esaminare il disco attraverso il cerchio: solchi profondi e una tinta bluastra del metallo dicono che lo stridore dura da tempo e i dischi hanno già sofferto.',
     ],
     appHelp:
-      'L’app Stuk percorre le stesse domande — lo stridore è costante, la ruota si scalda, il suono sparisce dopo le prime frenate — e con la registrazione aiuta a distinguere lo stridore dallo stridio dell’indicatore di usura. Nel rapporto trovi cause probabili e un semaforo: puoi guidare, mostralo questa settimana o vai solo fino all’officina.',
+      'L’app Pro-Stuk percorre le stesse domande — lo stridore è costante, la ruota si scalda, il suono sparisce dopo le prime frenate — e con la registrazione aiuta a distinguere lo stridore dallo stridio dell’indicatore di usura. Nel rapporto trovi cause probabili e un semaforo: puoi guidare, mostralo questa settimana o vai solo fino all’officina.',
     faq: [
       {
         q: 'Che differenza c’è tra stridore e fischio dei freni?',
@@ -451,7 +451,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-pri-razgone': {
     h1: 'Colpo in accelerazione',
-    metaTitle: 'Colpo dando e rilasciando gas: cause e cosa fare | Stuk',
+    metaTitle: 'Colpo dando e rilasciando gas: cause e cosa fare | Pro-Stuk',
     description:
       'Perché batte premendo o rilasciando l’acceleratore: supporti motore, giunto omocinetico, gioco nella trasmissione o cambio automatico. Come distinguere un gioco innocuo da un colpo dentro il motore.',
     intro: [
@@ -476,7 +476,7 @@ export const pages: Record<string, SymptomTr> = {
       'Fare la prova dolce: se con pressione e rilascio dolci dell’acceleratore il colpo sparisce e con un gesto brusco ritorna, è gioco classico, e fino alla riparazione basta una guida morbida.',
     ],
     appHelp:
-      'L’app Stuk pone le stesse domande di precisione — quando esattamente batte, se il suono cambia con giri e marce — e con la registrazione aiuta a separare lo sferragliare di un gioco da un colpo profondo del motore. Nel rapporto trovi cause probabili con percentuali e una conclusione chiara: puoi guidare, pianifica l’officina o fermati.',
+      'L’app Pro-Stuk pone le stesse domande di precisione — quando esattamente batte, se il suono cambia con giri e marce — e con la registrazione aiuta a separare lo sferragliare di un gioco da un colpo profondo del motore. Nel rapporto trovi cause probabili con percentuali e una conclusione chiara: puoi guidare, pianifica l’officina o fermati.',
     faq: [
       {
         q: 'Perché batte proprio dando e rilasciando gas?',
@@ -495,7 +495,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Tintinnio in accelerazione',
-    metaTitle: 'Tintinnio in accelerazione: detonazione o no, che fare | Stuk',
+    metaTitle: 'Tintinnio in accelerazione: detonazione o no, che fare | Pro-Stuk',
     description:
       'Un tintinnio metallico in accelerazione è quasi sempre detonazione dovuta al carburante. Come verificarlo cambiando distributore e quando la colpa non è del motore ma dello schermo termico o del catalizzatore.',
     intro: [
@@ -520,7 +520,7 @@ export const pages: Record<string, SymptomTr> = {
       'Fare attenzione alla potenza e ai rumori sotto il pianale: fruscio e tintinnio dal basso insieme a un’accelerazione più fiacca sono un motivo per controllare il catalizzatore senza rinvii.',
     ],
     appHelp:
-      'L’app Stuk aiuta con le stesse domande — quando tintinna, se il suono segue il carico o i giri — e la registrazione permette di distinguere il tintinnio metallico della detonazione dallo sferragliare di una lamiera. Nel rapporto trovi cause probabili con percentuali e una conclusione: puoi guidare, conviene pianificare l’officina o meglio fermarsi.',
+      'L’app Pro-Stuk aiuta con le stesse domande — quando tintinna, se il suono segue il carico o i giri — e la registrazione permette di distinguere il tintinnio metallico della detonazione dallo sferragliare di una lamiera. Nel rapporto trovi cause probabili con percentuali e una conclusione: puoi guidare, conviene pianificare l’officina o meglio fermarsi.',
     faq: [
       {
         q: 'Che cosa significa «battito in testa»?',
@@ -539,7 +539,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Ronzio in curva',
-    metaTitle: 'Ronzio in curva: cuscinetto ruota o servosterzo | Stuk',
+    metaTitle: 'Ronzio in curva: cuscinetto ruota o servosterzo | Pro-Stuk',
     description:
       'Da dove viene il ronzio in curva: cuscinetto ruota usurato, pompa del servosterzo che ulula o rumore delle gomme. Come capire il lato e se è pericoloso.',
     intro: [
@@ -565,7 +565,7 @@ export const pages: Record<string, SymptomTr> = {
       'Guardare il battistrada: l’usura «a sega» (gradini sui bordi) o a chiazze aumenta il ronzio delle gomme e insieme suggerisce assetto sballato o ammortizzatori stanchi.',
     ],
     appHelp:
-      'L’app Stuk pone le stesse domande del meccanico all’accettazione: dove si sente il ronzio, se cambia in curva, se è legato al volante girato da fermi. La registrazione aiuta a confrontare il suono con esempi tipici, e nel rapporto trovi cause probabili e una raccomandazione chiara: viaggia tranquillo, fissa un appuntamento questa settimana o fai controllare senza rinvii.',
+      'L’app Pro-Stuk pone le stesse domande del meccanico all’accettazione: dove si sente il ronzio, se cambia in curva, se è legato al volante girato da fermi. La registrazione aiuta a confrontare il suono con esempi tipici, e nel rapporto trovi cause probabili e una raccomandazione chiara: viaggia tranquillo, fissa un appuntamento questa settimana o fai controllare senza rinvii.',
     faq: [
       {
         q: 'Perché il ronzio cresce solo in un senso di curva?',
@@ -584,7 +584,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Scatti girando il volante',
-    metaTitle: 'Scatti al volante: giunto omocinetico o cuscinetto | Stuk',
+    metaTitle: 'Scatti al volante: giunto omocinetico o cuscinetto | Pro-Stuk',
     description:
       'Perché scatta girando il volante: giunto omocinetico esterno, cuscinetto reggispinta dell’ammortizzatore o giunto del piantone. Come distinguerli dal suono e cosa controllare senza smontare.',
     intro: [
@@ -610,7 +610,7 @@ export const pages: Record<string, SymptomTr> = {
       'Ricordare da quale ruota arriva il crepitio in marcia e in quale curva è più forte — questi dettagli accorciano molto la ricerca in officina.',
     ],
     appHelp:
-      'Nell’app Stuk questi bivi sono raccolti in un breve albero di domande: l’auto è in marcia o ferma, da dove viene il suono, in che stato sono le cuffie. Il crepitio si può registrare con il telefono e confrontarlo con esempi. Nel rapporto trovi cause probabili con la loro valutazione e una raccomandazione sui tempi: senza allarmismi, ma senza scatti dimenticati per un mese.',
+      'Nell’app Pro-Stuk questi bivi sono raccolti in un breve albero di domande: l’auto è in marcia o ferma, da dove viene il suono, in che stato sono le cuffie. Il crepitio si può registrare con il telefono e confrontarlo con esempi. Nel rapporto trovi cause probabili con la loro valutazione e una raccomandazione sui tempi: senza allarmismi, ma senza scatti dimenticati per un mese.',
     faq: [
       {
         q: 'Che cos’è il giunto omocinetico e perché scatta?',
@@ -629,7 +629,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Battito del motore a freddo',
-    metaTitle: 'Il motore batte a freddo: cause e cosa fare | Stuk',
+    metaTitle: 'Il motore batte a freddo: cause e cosa fare | Pro-Stuk',
     description:
       'Perché il motore batte a freddo e tace dopo il riscaldamento: punterie idrauliche, gruppo pistoni, catena di distribuzione. Quando è normale e quando è ora dell’officina.',
     intro: [
@@ -655,7 +655,7 @@ export const pages: Record<string, SymptomTr> = {
       'Spegnere il motore caldo per dieci minuti e riavviare: un vero battito «a freddo» non torna dopo una sosta così breve.',
     ],
     appHelp:
-      'L’app Stuk percorre gli stessi bivi — è ticchettio, battito sordo o fruscio e quanto in fretta il suono sparisce — e la registrazione dal telefono aiuta a cogliere un carattere difficile da descrivere a parole. Nel rapporto trovi cause probabili con percentuali e una conclusione chiara: guida tranquillo, fissa un appuntamento questa settimana o non rimandare l’officina.',
+      'L’app Pro-Stuk percorre gli stessi bivi — è ticchettio, battito sordo o fruscio e quanto in fretta il suono sparisce — e la registrazione dal telefono aiuta a cogliere un carattere difficile da descrivere a parole. Nel rapporto trovi cause probabili con percentuali e una conclusione chiara: guida tranquillo, fissa un appuntamento questa settimana o non rimandare l’officina.',
     faq: [
       {
         q: 'Il battito sparisce dopo il riscaldamento — posso ignorarlo?',
@@ -674,7 +674,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Fischio all’avviamento del motore',
-    metaTitle: 'Fischio all’avviamento del motore: cause e rimedi | Stuk',
+    metaTitle: 'Fischio all’avviamento del motore: cause e rimedi | Pro-Stuk',
     description:
       'Perché il motore fischia all’avviamento: cinghia dei servizi che slitta, rulli o pompa dell’acqua. Quando il fischio è innocuo e quando è ora di fissare l’officina.',
     intro: [
@@ -700,7 +700,7 @@ export const pages: Record<string, SymptomTr> = {
       'Guardare se ci sono gocce o tracce biancastre di liquido di raffreddamento vicino alle pulegge: indicano la pompa dell’acqua, e allora meglio non rimandare l’officina.',
     ],
     appHelp:
-      'L’app Stuk pone le stesse domande del meccanico all’accettazione: quando compare il fischio, se sparisce dopo il riscaldamento, cosa si sente mentre lavora il motorino d’avviamento. La registrazione aiuta a distinguere lo stridio della cinghia dallo stridore del motorino, e nel rapporto trovi cause probabili con percentuali e una conclusione chiara: puoi guidare, in officina questa settimana o fermati.',
+      'L’app Pro-Stuk pone le stesse domande del meccanico all’accettazione: quando compare il fischio, se sparisce dopo il riscaldamento, cosa si sente mentre lavora il motorino d’avviamento. La registrazione aiuta a distinguere lo stridio della cinghia dallo stridore del motorino, e nel rapporto trovi cause probabili con percentuali e una conclusione chiara: puoi guidare, in officina questa settimana o fermati.',
     faq: [
       {
         q: 'Perché il motore fischia solo a freddo e con l’umidità?',
@@ -719,7 +719,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Vibrazione al minimo',
-    metaTitle: 'Vibrazione al minimo: cause del tremolio e cosa fare | Stuk',
+    metaTitle: 'Vibrazione al minimo: cause del tremolio e cosa fare | Pro-Stuk',
     description:
       'Perché l’auto trema al minimo: supporti motore, mancate accensioni, presa d’aria falsa o corpo farfallato sporco. Cosa controllare e se si può guidare.',
     intro: [
@@ -744,7 +744,7 @@ export const pages: Record<string, SymptomTr> = {
       'Ricordare quando sono state cambiate le candele: un chilometraggio ben oltre l’intervallo le rende il primo sospettato per le mancate accensioni. Se la spia motore è accesa, comincia dalla lettura degli errori: i codici restringono la ricerca.',
     ],
     appHelp:
-      'L’app Stuk pone le stesse domande — il tremolio aumenta con la marcia inserita, i giri restano stabili, è accesa la spia motore — e dalle risposte distribuisce le cause probabili in percentuali. Nel rapporto trovi una conclusione chiara: viaggia tranquillo, fissa un appuntamento questa settimana o mostra l’auto nei prossimi giorni.',
+      'L’app Pro-Stuk pone le stesse domande — il tremolio aumenta con la marcia inserita, i giri restano stabili, è accesa la spia motore — e dalle risposte distribuisce le cause probabili in percentuali. Nel rapporto trovi una conclusione chiara: viaggia tranquillo, fissa un appuntamento questa settimana o mostra l’auto nei prossimi giorni.',
     faq: [
       {
         q: 'Perché trema solo al minimo mentre in marcia l’auto va liscia?',
@@ -763,7 +763,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Scoppi nello scarico',
-    metaTitle: 'Scoppi nello scarico: cause e cosa fare | Stuk',
+    metaTitle: 'Scoppi nello scarico: cause e cosa fare | Pro-Stuk',
     description:
       'Perché lo scarico scoppietta: mancate accensioni, scarico forato, miscela sbagliata o taratura dell’impianto GPL. Cosa fanno gli scoppi al catalizzatore e quando andare in officina.',
     intro: [
@@ -789,7 +789,7 @@ export const pages: Record<string, SymptomTr> = {
       'Su un’auto a GPL, confrontare il funzionamento a gas e a benzina: scoppi solo a gas sono una domanda per chi ha tarato l’impianto.',
     ],
     appHelp:
-      'L’app Stuk chiarisce le circostanze — scoppi o rombo, a gas o a benzina, con o senza perdita di potenza — e aiuta a separare problemi di accensione, un foro nello scarico e una frizione che slitta, che all’orecchio si somigliano. Nel rapporto trovi cause probabili con percentuali e una raccomandazione chiara sull’urgenza dell’officina.',
+      'L’app Pro-Stuk chiarisce le circostanze — scoppi o rombo, a gas o a benzina, con o senza perdita di potenza — e aiuta a separare problemi di accensione, un foro nello scarico e una frizione che slitta, che all’orecchio si somigliano. Nel rapporto trovi cause probabili con percentuali e una raccomandazione chiara sull’urgenza dell’officina.',
     faq: [
       {
         q: 'Perché scoppietta nello scarico se il problema è nel motore?',

@@ -1,6 +1,6 @@
 ---
 title: "Ronzio del ripartitore sulla Renault Duster"
-metaTitle: "Ronzio del ripartitore Renault Duster: controlli | Stuk"
+metaTitle: "Ronzio del ripartitore Renault Duster: controlli | Pro-Stuk"
 description: "Un ronzio da sotto una Duster a trazione integrale: come distinguere ripartitore e differenziale posteriore da cuscinetto ruota e pneumatici, e cosa si controlla."
 faq:
   - q: "Il ronzio c'è solo sopra i 60 km/h. È il ripartitore?"
@@ -98,7 +98,7 @@ Già che è sul ponte, chieda che valutino anche gli ammortizzatori: su auto
 di questa classe ronzio e colpi arrivano spesso insieme, e ammortizzatori
 consumati cambiano da soli il quadro acustico.
 
-Se vuole arrivare con un'ipotesi precisa, registri il ronzio con l'app Stuk
+Se vuole arrivare con un'ipotesi precisa, registri il ronzio con l'app Pro-Stuk
 su un tratto in piano: prima in tiro, poi in rilascio. L'app confronta le
 registrazioni con le sue risposte e mostra le cause probabili in
 percentuale, e lei potrà dire subito al meccanico cosa ha già escluso.

@@ -1,6 +1,6 @@
 ---
 title: "Objawy niskiego ciśnienia oleju"
-metaTitle: "Niskie ciśnienie oleju: objawy i przyczyny | Stuk"
+metaTitle: "Niskie ciśnienie oleju: objawy i przyczyny | Pro-Stuk"
 description: "Jak wychwycić niskie ciśnienie oleju przed poważną awarią: kontrolka, stukanie popychaczy, stuk panewek. Przyczyny spadku i sposób pomiaru."
 faq:
   - q: "Dlaczego kontrolka ciśnienia oleju zapala się na gorącym biegu jałowym?"
@@ -67,7 +67,7 @@ kontrole — tekst
 a sam dźwięk strona objawu
 [stukot w silniku](/pl/symptoms/ticking-engine/).
 
-**Stuk panewek** to objaw późny: głuchy dźwięk z głębi bloku oznacza, że
+**Pro-Stuk panewek** to objaw późny: głuchy dźwięk z głębi bloku oznacza, że
 łożyska wału korbowego pracują już metal o metal. Gdzie przebiega
 granica, wyjaśnia tekst
 [czy można jeździć ze stukiem w silniku](/pl/articles/can-you-drive-with-engine-knock/).
@@ -136,7 +136,7 @@ zabitych głodem olejowym sygnalizowała problem na długo przed
 kontrolką — nikt nie wyciągnął bagnetu.
 
 Jeśli silnik zaczął brzmieć inaczej, a kontrolka jeszcze milczy, proszę
-nagrać dźwięk w aplikacji Stuk. Zestawia ona nagranie z typowymi odgłosami
+nagrać dźwięk w aplikacji Pro-Stuk. Zestawia ona nagranie z typowymi odgłosami
 silnika, zadaje pytania uzupełniające i podpowiada, czy to wygląda na
 problem ze smarowaniem i jak pilnie pokazać auto mechanikowi. Co oznacza
 hałas wyłącznie na zimno, wyjaśnia tekst

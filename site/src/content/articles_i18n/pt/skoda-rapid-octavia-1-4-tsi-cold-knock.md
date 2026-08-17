@@ -1,6 +1,6 @@
 ---
 title: "Batida a frio no Škoda Rapid / Octavia 1.4 TSI"
-metaTitle: "Batida a frio no Škoda 1.4 TSI | Stuk"
+metaTitle: "Batida a frio no Škoda 1.4 TSI | Pro-Stuk"
 description: "Batidas a frio no Škoda Rapid e Octavia com motor 1.4 TSI: corrente e tensor, tuchos hidráulicos, acessórios. Como diferenciar cada um deles."
 faq:
   - q: "A batida some um minuto depois da partida — isso é normal?"
@@ -96,6 +96,6 @@ hábito compra menos sossego do que o dono espera.
 
 Se a batida só aparece na primeira partida do dia, é difícil pegá-la na
 oficina — quando você chega, o motor já está quente. Grave o som no
-aplicativo Stuk de manhã, nos primeiros segundos depois de dar partida. O
+aplicativo Pro-Stuk de manhã, nos primeiros segundos depois de dar partida. O
 aplicativo cruza a gravação com suas respostas e mostra as causas prováveis
 com porcentagens, dando ao mecânico algo concreto para trabalhar.

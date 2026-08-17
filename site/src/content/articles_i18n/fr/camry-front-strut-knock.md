@@ -1,6 +1,6 @@
 ---
 title: "Bruit de jambe de force sur Camry : le problème type"
-metaTitle: "Bruit d'amortisseur avant sur Camry : causes et solutions | Stuk"
+metaTitle: "Bruit d'amortisseur avant sur Camry : causes et solutions | Pro-Stuk"
 description: "Un bruit sec à l'avant d'une Camry sur les petites bosses : pourquoi les amortisseurs ne sont pas toujours en cause et comment vérifier coupelles et biellettes."
 faq:
   - q: "Un bruit de train avant sur Camry, ce sont toujours les amortisseurs ?"
@@ -97,7 +97,7 @@ bruit sec arrivent souvent ensemble, et un roulement de roue fatigué se
 manifeste exactement de cette manière.
 
 Si le bruit reste occasionnel et refuse de se reproduire devant le
-mécanicien, enregistrez-le avec l'application Stuk en passant sur une
+mécanicien, enregistrez-le avec l'application Pro-Stuk en passant sur une
 bosse que vous connaissez. L'application croise l'enregistrement avec vos
 réponses et affiche les causes probables en pourcentages — au minimum,
 vous savez par où commencer à chercher.

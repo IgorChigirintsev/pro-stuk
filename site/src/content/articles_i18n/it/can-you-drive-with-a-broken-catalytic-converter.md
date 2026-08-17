@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con il catalizzatore sbriciolato"
-metaTitle: "Si può guidare con il catalizzatore rotto? | Stuk"
+metaTitle: "Si può guidare con il catalizzatore rotto? | Pro-Stuk"
 description: "La ceramica sbriciolata del catalizzatore fruscia e strozza il motore. Quando si può arrivare in officina con le proprie forze, quando no e cosa si rischia."
 faq:
   - q: "Come suona un catalizzatore sbriciolato?"
@@ -100,7 +100,7 @@ settimane; appena comincia a influenzare il comportamento dell'auto, si
 conta in giorni.
 
 Se il fruscio è appena comparso e vuole capire se è proprio quello,
-registri il suono con l'app Stuk dando gas, e ripeta la registrazione dopo
+registri il suono con l'app Pro-Stuk dando gas, e ripeta la registrazione dopo
 un tragitto breve. L'app confronta le registrazioni con le sue risposte e
 mostra le cause probabili in percentuale, insieme a un'indicazione se sia
 urgente o se possa tranquillamente prenotare un giorno in settimana.

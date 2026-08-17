@@ -1,7 +1,7 @@
 ---
 ru: "stuk-fazoregulyatora-nissan-qashqai"
 title: "Nissan Qashqai cam phaser knock"
-metaTitle: "Nissan Qashqai cam phaser knock: causes, repair | Stuk"
+metaTitle: "Nissan Qashqai cam phaser knock: causes, repair | Pro-Stuk"
 description: "A short rattle at a cold start on a Qashqai often comes from the cam phaser. How to tell it from the timing chain and what a workshop checks."
 pubDate: "2026-06-25"
 related:
@@ -102,6 +102,6 @@ metres — their signs are in
 [signs of a worn ball joint](/en/articles/signs-of-a-worn-ball-joint/).
 
 If you want to understand what is rattling before talking to a mechanic,
-record the sound with the Stuk app at the moment of a cold start, standing
+record the sound with the Pro-Stuk app at the moment of a cold start, standing
 by the open bonnet. The app matches the recording with your answers to a
 few questions and shows the likely causes with percentages.

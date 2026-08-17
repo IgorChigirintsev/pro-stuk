@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een defecte waterpomp"
-metaTitle: "Defecte waterpomp: geluid, lekkage, oververhitting | Stuk"
+metaTitle: "Defecte waterpomp: geluid, lekkage, oververhitting | Pro-Stuk"
 description: "Koelvloeistoflekkage, een jankend lager, speling op de poelie en oververhitting: de tekenen van een stervende waterpomp per fase en de controles."
 faq:
   - q: "Hoe lang gaat een waterpomp mee?"

@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'une rotule de suspension usée"
-metaTitle: "Rotule usée : bruit, jeu et contrôles | Stuk"
+metaTitle: "Rotule usée : bruit, jeu et contrôles | Pro-Stuk"
 description: "Claquement sur les petites bosses, grincement en tournant le volant, jeu à la roue : comment reconnaître une rotule usée, la contrôler et juger de l'urgence du remplacement."
 faq:
   - q: "Comment sonne une rotule usée ?"
@@ -137,6 +137,6 @@ floue et ajoute un bruit facile à confondre avec d'autres problèmes de
 suspension.
 
 Si quelque chose claque en dessous et que la source n'est pas évidente,
-enregistrez le son dans l'application Stuk. Elle confronte
+enregistrez le son dans l'application Pro-Stuk. Elle confronte
 l'enregistrement à vos réponses sur le moment et la façon dont le son
 apparaît et affiche les causes probables avec un niveau d'urgence.

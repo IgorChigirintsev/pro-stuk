@@ -1,6 +1,6 @@
 ---
 title: "Rumore da diesel su un benzina: iniettori o gioco valvole"
-metaTitle: "Rumore da diesel: iniettori o gioco valvole | Stuk"
+metaTitle: "Rumore da diesel: iniettori o gioco valvole | Pro-Stuk"
 description: "Un benzina ha cominciato a battere come un diesel: quando la colpa è degli iniettori, quando è il gioco valvole e come distinguerli a orecchio."
 faq:
   - q: "Perché un motore a benzina suona come un diesel?"
@@ -108,7 +108,7 @@ volte lo stesso smontaggio.
 
 Il rumore da diesel è un caso in cui descrivere il suono a parole è quasi
 impossibile e registrarlo è facile. Faccia due registrazioni con l'app
-Stuk: subito dopo un avviamento a freddo e dopo dieci minuti di
+Pro-Stuk: subito dopo un avviamento a freddo e dopo dieci minuti di
 funzionamento. L'app le esamina per frequenza e carattere e mostra le
 cause probabili in percentuale, così arriva in officina con una teoria
 precisa.

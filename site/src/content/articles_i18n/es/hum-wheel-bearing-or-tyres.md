@@ -1,6 +1,6 @@
 ---
 title: "Zumbido: rodamiento de rueda o neumáticos, cómo distinguirlos"
-metaTitle: "Zumbido: ¿rodamiento o neumáticos? Cómo saberlo | Stuk"
+metaTitle: "Zumbido: ¿rodamiento o neumáticos? Cómo saberlo | Pro-Stuk"
 description: "Cómo distinguir el zumbido de un rodamiento de rueda del ruido de los neumáticos: pruebas en un trayecto, tabla comparativa y los errores que cuestan dinero."
 faq:
   - q: "El zumbido apareció justo tras montar otras ruedas. ¿Qué es?"
@@ -143,6 +143,6 @@ del zumbido que solo existe en carretera, en
 [un zumbido en autovía que desaparece en ciudad](/es/articles/highway-hum-that-disappears-in-town/).
 
 Y si quiere una segunda opinión antes del viaje, grabe el zumbido en marcha
-con la aplicación Stuk: analiza la grabación, hace unas cuantas preguntas de
+con la aplicación Pro-Stuk: analiza la grabación, hace unas cuantas preguntas de
 aclaración —sobre el firme, las curvas, cómo apareció el sonido— y muestra las
 causas probables con porcentajes.

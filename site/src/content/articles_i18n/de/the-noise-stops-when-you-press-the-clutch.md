@@ -1,6 +1,6 @@
 ---
 title: "Das Geräusch verschwindet beim Treten der Kupplung"
-metaTitle: "Geräusch weg beim Treten der Kupplung: warum | Stuk"
+metaTitle: "Geräusch weg beim Treten der Kupplung: warum | Pro-Stuk"
 description: "Verschwindet ein fremdes Summen beim Treten der Kupplung, sitzt die Quelle im Getriebe. So grenzen Sie die Verdächtigen ein und was zuerst zu prüfen ist."
 faq:
   - q: "Warum verschwindet das Geräusch genau beim Treten der Kupplung?"

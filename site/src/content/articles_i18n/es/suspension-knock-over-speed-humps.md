@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo en la suspensión al pasar badenes"
-metaTitle: "Golpeteo en la suspensión en badenes: causas | Stuk"
+metaTitle: "Golpeteo en la suspensión en badenes: causas | Pro-Stuk"
 description: "Por qué la suspensión golpetea justo en los badenes, qué piezas suelen tener la culpa y cómo acotar la búsqueda sin necesidad de elevador."
 faq:
   - q: "¿Por qué la suspensión golpetea en los badenes y calla en los baches?"
@@ -142,6 +142,6 @@ el sonido viene acompañado de que el coche tira hacia un lado o de
 holgura en la dirección, antes.
 
 Para no adivinar a partir de descripciones, grabe el sonido con el móvil
-mientras pasa el obstáculo: la aplicación Stuk cruza la grabación con sus
+mientras pasa el obstáculo: la aplicación Pro-Stuk cruza la grabación con sus
 respuestas y muestra las causas probables con porcentajes y un nivel de
 urgencia. Con esa lista, la conversación en el taller se vuelve concreta.

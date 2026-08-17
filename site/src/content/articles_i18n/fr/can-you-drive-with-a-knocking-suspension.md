@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec un cognement dans la suspension"
-metaTitle: "Peut-on rouler avec un cognement dans la suspension ? | Stuk"
+metaTitle: "Peut-on rouler avec un cognement dans la suspension ? | Pro-Stuk"
 description: "Avec quelles pièces de suspension qui cognent on peut rouler et avec lesquelles non : barre stabilisatrice, amortisseurs, silentblocs, rotules. Juger l'urgence."
 faq:
   - q: "Combien de temps peut-on rouler avec une biellette de barre stabilisatrice qui cogne ?"
@@ -111,7 +111,7 @@ le son change d'une semaine à l'autre : un cognement stable peut attendre,
 un cognement qui grossit, non.
 
 Si vous voulez établir l'urgence dès aujourd'hui, enregistrez le cognement
-dans l'application Stuk sur un morceau de route représentatif. L'algorithme
+dans l'application Pro-Stuk sur un morceau de route représentatif. L'algorithme
 recoupe l'enregistrement avec vos réponses et affiche les causes probables
 avec des pourcentages et un niveau d'urgence — de quoi savoir s'il faut
 programmer la réparation pour le mois prochain ou prendre rendez-vous cette

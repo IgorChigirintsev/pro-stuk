@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Koppelstangen"
-metaTitle: "Koppelstangen verschlissen: Klopfen und Test | Stuk"
+metaTitle: "Koppelstangen verschlissen: Klopfen und Test | Pro-Stuk"
 description: "Wie verschlissene Koppelstangen klopfen, wie sich ihr Ton von Dämpfern und Traggelenken unterscheidet, einfache Prüfungen und was der Tausch bedeutet."
 faq:
   - q: "Was ist das charakteristischste Zeichen für verschlissene Koppelstangen?"

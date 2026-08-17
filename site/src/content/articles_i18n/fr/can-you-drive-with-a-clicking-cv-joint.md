@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec un cardan qui claque"
-metaTitle: "Peut-on rouler avec un cardan qui claque ? | Stuk"
+metaTitle: "Peut-on rouler avec un cardan qui claque ? | Pro-Stuk"
 description: "Un cardan qui claque en virage n'est pas une panne immédiate, mais ça ne se garde pas des années. Combien de temps il vous reste et quand ne plus rouler."
 faq:
   - q: "Combien de kilomètres peut-on faire avec un cardan qui claque ?"
@@ -99,7 +99,7 @@ met. Les cardans demandent une graisse spécifique au bisulfure de molybdène,
 et la mauvaise raccourcit la vie d'une réparation par ailleurs correcte.
 
 Si le claquement est à peine audible et qu'il est difficile de dire si le
-stade est de début ou de milieu, enregistrez le son dans l'application Stuk
+stade est de début ou de milieu, enregistrez le son dans l'application Pro-Stuk
 pendant un cercle lent en butée. L'application recoupe l'enregistrement avec
 vos réponses à quelques questions et indique combien de temps la situation
 peut attendre et s'il faut prévoir un dépanneur.

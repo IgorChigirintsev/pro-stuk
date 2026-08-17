@@ -1,6 +1,6 @@
 ---
 title: "Kışın iç mekân gıcırtıları"
-metaTitle: "Kışın iç mekân gıcırtısı: soğuk neden artırır | Stuk"
+metaTitle: "Kışın iç mekân gıcırtısı: soğuk neden artırır | Pro-Stuk"
 description: "İç mekân kışın neden daha çok gıcırdar: soğukta plastik ve lastiğe ne olur, hangi sesler ısınınca geçer ve hangileri kontrol ister."
 faq:
   - q: "İç mekân neden sadece yola çıktıktan sonraki ilk dakikalarda gıcırdıyor?"
@@ -98,7 +98,7 @@ yerine ciddiye almak gerekir —
 [ölü amortisörlerle araç kullanmak](/tr/articles/driving-with-dead-shock-absorbers/).
 
 Mevsimlik gıcırtıyı gerçek olandan ayırmanın en kolay yolu
-karşılaştırmadır. Yola çıktıktan sonraki ilk dakikada sesi Stuk
+karşılaştırmadır. Yola çıktıktan sonraki ilk dakikada sesi Pro-Stuk
 uygulamasına kaydedin ve aynı kaydı yarım saat sonra, araç sıcakken
 tekrarlayın. İkinci kayıt temizse suçlu dondur; ses hâlâ oradaysa uygulama
 önce hangi parçaları kontrol etmeniz gerektiğini önerir.

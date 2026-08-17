@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura delle biellette della barra stabilizzatrice"
-metaTitle: "Biellette barra usurate: colpi e verifiche | Stuk"
+metaTitle: "Biellette barra usurate: colpi e verifiche | Pro-Stuk"
 description: "Come battono le biellette della barra stabilizzatrice usurate, in cosa il loro suono differisce da ammortizzatori e giunti sferici, prove semplici e cosa comporta la sostituzione."
 faq:
   - q: "Qual è il segnale più caratteristico delle biellette usurate?"
@@ -132,6 +132,6 @@ manovra brusca. Visto quanto costa poco il pezzo, risparmiare sulla
 sostituzione è raramente giustificato.
 
 Se non è sicuro che a battere siano le biellette, registri il suono con
-l'app Stuk: confronta la registrazione con le sue risposte e mostra le
+l'app Pro-Stuk: confronta la registrazione con le sue risposte e mostra le
 cause probabili con un livello di urgenza. Con quell'elenco il discorso con
 il meccanico diventa concreto.

@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten distributierollen"
-metaTitle: "Versleten distributierollen: het geluid | Stuk"
+metaTitle: "Versleten distributierollen: het geluid | Pro-Stuk"
 description: "Zo klinken versleten distributierollen: geritsel, gefluit en gebrom achter de kap. Wat een vastlopende rol riskeert en hoe u het van de multiriem onderscheidt."
 faq:
   - q: "Kan één rol vervangen worden zonder de distributieriem aan te raken?"

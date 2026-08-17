@@ -1,6 +1,6 @@
 ---
 title: "Hoe gevaarlijk een losgeschoten fuseekogel echt is"
-metaTitle: "Fuseekogel bezweken: wat er met de auto gebeurt | Stuk"
+metaTitle: "Fuseekogel bezweken: wat er met de auto gebeurt | Pro-Stuk"
 description: "Wat er fysiek gebeurt als een fuseekogel uit zijn zitting trekt, welke geluiden u weken vooruit waarschuwen en hoe u beoordeelt of u nog kunt rijden."
 faq:
   - q: "Wat gebeurt er met de auto als een fuseekogel loslaat?"

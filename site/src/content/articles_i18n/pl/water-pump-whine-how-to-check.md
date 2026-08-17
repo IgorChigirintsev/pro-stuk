@@ -1,6 +1,6 @@
 ---
 title: "Buczenie pompy wody: jak to sprawdzić"
-metaTitle: "Buczenie pompy wody: jak sprawdzić to samemu | Stuk"
+metaTitle: "Buczenie pompy wody: jak sprawdzić to samemu | Pro-Stuk"
 description: "Dlaczego pompa wody buczy, jak odróżnić jej hałas od alternatora i rolek, proste sprawdzenia bez demontażu i jak decyduje się o naprawie."
 faq:
   - q: "Jak poznać, że to pompa wody, a nie alternator albo rolka?"
@@ -119,7 +119,7 @@ niż planowa wymiana. W drodze do warsztatu warto pilnować wskaźnika
 temperatury i nie obciążać silnika.
 
 Jeśli nie ma pewności, że to pompa, nagraj dźwięk spod maski w aplikacji
-Stuk: zestawia ona nagranie z odpowiedziami na pytania o to, kiedy i jak
+Pro-Stuk: zestawia ona nagranie z odpowiedziami na pytania o to, kiedy i jak
 hałas się pojawia, i pokazuje prawdopodobne przyczyny wraz z oceną
 pilności — dzięki czemu przyjeżdżasz z konkretną wersją, a nie z ogólnym
 „coś buczy”.

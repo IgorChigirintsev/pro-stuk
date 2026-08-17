@@ -1,6 +1,6 @@
 ---
 title: "Nageln wie ein Diesel: Injektoren oder Ventilspiel"
-metaTitle: "Nageln: Injektoren oder Ventilspiel | Stuk"
+metaTitle: "Nageln: Injektoren oder Ventilspiel | Pro-Stuk"
 description: "Ein Benziner nagelt plötzlich wie ein Diesel: wann die Injektoren schuld sind, wann das Ventilspiel und wie Sie beides nach Gehör unterscheiden."
 faq:
   - q: "Warum klingt ein Benziner wie ein Diesel?"

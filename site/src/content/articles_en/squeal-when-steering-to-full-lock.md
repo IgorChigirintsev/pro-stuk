@@ -1,7 +1,7 @@
 ---
 ru: "vizg-pri-povorote-rulya-do-upora"
 title: "A squeal when steering to full lock"
-metaTitle: "A squeal when steering to full lock: causes | Stuk"
+metaTitle: "A squeal when steering to full lock: causes | Pro-Stuk"
 description: "Why a car squeals when the wheel is turned to full lock: the belt, the power steering pump or a low fluid level. When it is normal and when not."
 pubDate: "2026-07-18"
 related:
@@ -113,7 +113,7 @@ a flat battery and a risk of overheating, so a cracked belt is replaced
 without waiting for it to snap —
 [can you drive with a squealing belt](/en/articles/can-you-drive-with-a-squealing-belt/).
 
-Not sure whether it is the belt or the pump? Record the squeal in the Stuk
+Not sure whether it is the belt or the pump? Record the squeal in the Pro-Stuk
 app: make a recording with the wheel at full lock, answer a few questions —
 the app matches the sound with typical fault profiles and shows the likely
 causes with a level of urgency.

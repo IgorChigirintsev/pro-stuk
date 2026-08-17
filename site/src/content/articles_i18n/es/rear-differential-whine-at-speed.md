@@ -1,6 +1,6 @@
 ---
 title: "Zumbido del diferencial trasero a velocidad"
-metaTitle: "Zumbido del diferencial trasero: causas | Stuk"
+metaTitle: "Zumbido del diferencial trasero: causas | Pro-Stuk"
 description: "Un zumbido en la parte trasera que cambia al acelerar y al soltar el acelerador es la firma del diferencial. Cómo distinguirlo de los rodamientos."
 faq:
   - q: "¿Cómo distingo el zumbido del diferencial del de un rodamiento de rueda?"
@@ -97,7 +97,7 @@ montado «de oído» vuelve a zumbar en unos meses, y esa es la causa más
 frecuente de que una reconstrucción fracase.
 
 Si el zumbido todavía es discreto y quiere confirmar que de verdad cambia
-con el acelerador, grabe dos clips cortos en la aplicación Stuk: uno
+con el acelerador, grabe dos clips cortos en la aplicación Pro-Stuk: uno
 acelerando y otro en retención, a la misma velocidad. La aplicación
 compara las grabaciones con sus respuestas a unas pocas preguntas y
 muestra las causas probables con porcentajes.

@@ -1,6 +1,6 @@
 ---
 title: "Rigature nei cilindri Hyundai/Kia: come suonano"
-metaTitle: "Rigature cilindri Hyundai/Kia: come suonano | Stuk"
+metaTitle: "Rigature cilindri Hyundai/Kia: come suonano | Pro-Stuk"
 description: "Come riconoscere a orecchio le rigature nei cilindri sui motori Hyundai e Kia: il carattere del battito, il legame con il riscaldamento e il carico, e come si conferma."
 faq:
   - q: "Le rigature battono a freddo o a caldo?"
@@ -98,7 +98,7 @@ un verdetto a voce: la differenza tra i segni leggeri della levigatura e
 solchi profondi è ciò che decide tra tenere d'occhio e aprire il motore,
 e in una foto si vede.
 
-Il primo passo è comodo farlo con l'app Stuk: registra il suono a motore
+Il primo passo è comodo farlo con l'app Pro-Stuk: registra il suono a motore
 freddo e a motore caldo, annota se cambia sotto carico e rispondi alle
 domande sui rabbocchi d'olio. L'app mostra le cause probabili in
 percentuale e suggerisce quali misure conviene chiedere per prime in

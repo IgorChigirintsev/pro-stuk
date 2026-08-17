@@ -1,6 +1,6 @@
 ---
 title: "Grzechot łańcucha rozrządu 1.4 TSI: przyczyna i naprawa"
-metaTitle: "Grzechot łańcucha 1.4 TSI: przyczyny i naprawa | Stuk"
+metaTitle: "Grzechot łańcucha 1.4 TSI: przyczyny i naprawa | Pro-Stuk"
 description: "Dlaczego wczesne silniki 1.4 TSI z łańcuchem grzechoczą na zimnym starcie, jak odróżnić rozciągnięty łańcuch od innych stuków i na czym polega naprawa."
 faq:
   - q: "Dlaczego łańcuch grzechocze tylko przez pierwsze sekundy po odpaleniu?"
@@ -49,7 +49,7 @@ wydłuża się. To nie jest przyczyna zużycia, ale wyraźny przyspieszacz.
 | Równe cykanie narastające z obrotami | Stale | Popychacze hydrauliczne, zawory |
 | Dzwoniący stuk pod obciążeniem | Przy przyspieszaniu | Spalanie stukowe, paliwo, świece |
 | Buczenie i wycie bez związku z rozruchem | Na obrotach | Osprzęt, rolki, pompa wody |
-| Stuk z dołu przy ruszaniu | Na nierównościach | Poduszki silnika, wydech |
+| Pro-Stuk z dołu przy ruszaniu | Na nierównościach | Poduszki silnika, wydech |
 
 Głównym rozdzielaczem jest związek z zimnym startem. Objawy, po których
 rozpoznaje się łańcuch na każdym etapie, od pierwszego grzechotu po błędy faz
@@ -100,7 +100,7 @@ dolewania zamiast wymiany kosztuje tu najwięcej: praca napędu zależy wprost o
 tego, jak szybko układ buduje ciśnienie.
 
 Jeśli grzechot przy rozruchu pojawił się niedawno i chcesz wiedzieć, czy to
-właśnie ten dźwięk, nagraj go w aplikacji Stuk zaraz po zimnym starcie, przed
+właśnie ten dźwięk, nagraj go w aplikacji Pro-Stuk zaraz po zimnym starcie, przed
 rozgrzaniem. Aplikacja zestawia nagranie z twoimi odpowiedziami i pokazuje
 prawdopodobne przyczyny z procentami — wystarczająco, żeby przyjechać do
 warsztatu z konkretną teorią zamiast z ogólnym niepokojem.

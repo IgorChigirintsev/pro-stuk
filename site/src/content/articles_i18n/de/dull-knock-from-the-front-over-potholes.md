@@ -1,6 +1,6 @@
 ---
 title: "Dumpfes Klopfen vorn beim Überfahren von Schlaglöchern"
-metaTitle: "Dumpfes Klopfen vorn: die Ursachen | Stuk"
+metaTitle: "Dumpfes Klopfen vorn: die Ursachen | Pro-Stuk"
 description: "Was ein dumpfes Klopfen vorn über Schlaglöchern bedeutet: welche Fahrwerksteile so klingen und wie man gefährliche von erträglichen Ursachen trennt."
 faq:
   - q: "Warum ist das Klopfen dumpf und nicht scharf?"

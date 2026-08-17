@@ -1,6 +1,6 @@
 ---
 title: "Viraj demiri burçlarının aşınma belirtileri"
-metaTitle: "Viraj demiri burcu: ses ve kontrol | Stuk"
+metaTitle: "Viraj demiri burcu: ses ve kontrol | Pro-Stuk"
 description: "Aşınmış viraj demiri burcu nasıl ses verir, rotlardan farkı nedir, kendiniz nasıl kontrol edersiniz ve değişimde nelere dikkat etmelisiniz."
 faq:
   - q: "Viraj demiri burçları aşınmışken araç kullanılır mı?"
@@ -102,7 +102,7 @@ Ertelemenin de anlamı yok: boşta kalan demir sadece burçları değil, kendi
 bağlantı noktalarını da yer, demirin kendisini değiştirmek ise bambaşka bir
 masraftır.
 
-Tıkırdayanın burçlar olduğundan emin değil misiniz? Sesi Stuk uygulamasında
+Tıkırdayanın burçlar olduğundan emin değil misiniz? Sesi Pro-Stuk uygulamasında
 karakteristik bir yol parçasında kaydedin: algoritma kaydı verdiğiniz
 cevaplarla eşleştirir, olası nedenleri yüzdeyle ve aciliyet seviyesiyle
 gösterir — böylece servise tahminle değil, çalışan bir teoriyle gidersiniz.

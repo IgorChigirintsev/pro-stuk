@@ -1,10 +1,10 @@
 ---
 title: "Stukają łączniki stabilizatora: jak to sprawdzić"
-metaTitle: "Stukające łączniki stabilizatora: jak sprawdzić | Stuk"
+metaTitle: "Stukające łączniki stabilizatora: jak sprawdzić | Pro-Stuk"
 description: "Grzechotanie na drobnych nierównościach to najczęstsza skarga na łączniki stabilizatora. Jak sprawdzić je ręką w dziesięć minut i nie przepłacić za wahacze."
 faq:
   - q: "Jak odróżnić stuk łączników stabilizatora od innych?"
-    a: "Jest drobny i częsty, pojawia się na tarce, na łączeniach płyt i progach zwalniających przy małej prędkości, a na gładkim asfalcie znika całkowicie. Stuk wahacza czy amortyzatora jest przeciwnie: głuchy, pojedynczy i słyszalny na większych dziurach."
+    a: "Jest drobny i częsty, pojawia się na tarce, na łączeniach płyt i progach zwalniających przy małej prędkości, a na gładkim asfalcie znika całkowicie. Pro-Stuk wahacza czy amortyzatora jest przeciwnie: głuchy, pojedynczy i słyszalny na większych dziurach."
   - q: "Czy da się sprawdzić łączniki bez podnośnika?"
     a: "Tak. Wystarczy poruszać kołem i samymi łącznikami ręką — na podniesionym aucie albo nawet na ziemi — albo poprosić kogoś, żeby bujał nadwoziem, gdy trzyma się dłoń na łączniku. Podnośnik daje większą precyzję, ale do pierwszego wniosku nie jest konieczny."
   - q: "Czy łączniki trzeba wymieniać parami?"
@@ -55,7 +55,7 @@ przy 20–50 km/h, cisza na gładkiej drodze.
 | Rodzaj nierówności | Drobna tarka, łączenia płyt | Duże dziury, falowanie |
 | Charakter dźwięku | Częste ostre grzechotanie | Głuche pojedyncze stuknięcie |
 | Reakcja na bujanie nadwoziem | Kliknięcia w przegubie pod dłonią | Skrzypienie albo głuchy stuk w kolumnie |
-| Zachowanie w zakręcie | Stuk przy zmianie kierunku skrętu | Przechyły i pływanie nadwozia |
+| Zachowanie w zakręcie | Pro-Stuk przy zmianie kierunku skrętu | Przechyły i pływanie nadwozia |
 
 ## Co stuka podobnie
 
@@ -93,7 +93,7 @@ zawieszeniu — nie ma więc sensu tego ciągnąć. Dla porównania, zaniedbany
 zupełnie innej skali.
 
 Jeśli stuk słychać, ale nie udaje się wyczuć luzu ręką, proszę nagrać
-przejazd po tarce w aplikacji Stuk. Zestawia ona charakter i częstotliwość
+przejazd po tarce w aplikacji Pro-Stuk. Zestawia ona charakter i częstotliwość
 uderzeń z odpowiedziami o prędkość i nawierzchnię i pokazuje prawdopodobne
 przyczyny w procentach — o tym łatwiej rozmawiać w warsztacie niż o tym, że
 „coś grzechocze z przodu”.

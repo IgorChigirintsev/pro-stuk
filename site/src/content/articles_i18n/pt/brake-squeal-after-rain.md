@@ -1,6 +1,6 @@
 ---
 title: "Freios guinchando depois da chuva: normal ou não"
-metaTitle: "Freios guinchando após chuva: normal? | Stuk"
+metaTitle: "Freios guinchando após chuva: normal? | Pro-Stuk"
 description: "Por que os freios guincham depois da chuva e de uma noite parado, quando é ferrugem inofensiva nos discos e quando é sinal de pastilhas gastas."
 faq:
   - q: "Quantas frenagens são necessárias para o guincho pós-chuva sumir?"
@@ -136,7 +136,7 @@ sobre tambores molhados durante uma parada longa. Isso não elimina
 totalmente o guincho matinal — a ferrugem se forma de qualquer jeito —,
 mas o som fica mais baixo e mais curto.
 
-Se você não sabe como classificar o som, grave-o no aplicativo Stuk — de
+Se você não sabe como classificar o som, grave-o no aplicativo Pro-Stuk — de
 preferência de manhã, nas primeiras aplicações, quando o guincho é mais
 alto. O aplicativo compara a gravação com as suas respostas e mostra as
 causas prováveis com uma classificação de urgência.

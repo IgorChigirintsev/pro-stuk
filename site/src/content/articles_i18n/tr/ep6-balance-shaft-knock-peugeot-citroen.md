@@ -1,6 +1,6 @@
 ---
 title: "Peugeot ve Citroën EP6 motorda denge mili takırtısı"
-metaTitle: "EP6 denge mili takırtısı: aslında ne takırdar | Stuk"
+metaTitle: "EP6 denge mili takırtısı: aslında ne takırdar | Pro-Stuk"
 description: "EP6 motorda «denge mili takırtısı» denince aslında ne takırdıyor: triger zinciri, gergi rulmanı, eksantrik ayarlayıcılar ve yağ. Kontrol sırası."
 faq:
   - q: "EP6 motorda denge mili var mı?"
@@ -108,7 +108,7 @@ tıpatıp aynı davranır. Servisin gereksiz iş yazmasını nasıl önleyeceği
 yazısında.
 
 Ses değişmeden yakalamak istiyorsanız, soğuk çalıştırmadan sonraki ilk
-saniyelerde Stuk uygulamasıyla kaydedin. Uygulama kaydı birkaç soruya
+saniyelerde Pro-Stuk uygulamasıyla kaydedin. Uygulama kaydı birkaç soruya
 verdiğiniz cevaplarla eşleştirir ve olası sebepleri yüzdeyle gösterir —
 kaydedilen ses bir ay sonra durumun kötüleşip kötüleşmediğini anlamak için
 de işinize yarar.

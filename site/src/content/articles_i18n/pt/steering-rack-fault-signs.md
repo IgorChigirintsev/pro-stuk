@@ -1,6 +1,6 @@
 ---
 title: "Sinais de caixa de direção com defeito"
-metaTitle: "Caixa de direção com defeito: sinais | Stuk"
+metaTitle: "Caixa de direção com defeito: sinais | Pro-Stuk"
 description: "Batida, folga, direção travando, vazamento e chiado da bomba: os sinais da caixa de direção com defeito, como testar e quando o ajuste ainda resolve."
 faq:
   - q: "A caixa está suando fluido — dá para só completar o nível?"
@@ -115,7 +115,7 @@ dobrando a conta. E direção travando é questão direta de segurança: volante
 que gira aos trancos atrapalha uma manobra precisa na hora crítica.
 
 Se por enquanto você só tem o som e duvida que a culpa seja da caixa,
-grave a batida no aplicativo Stuk num trecho de rua representativo. O app
+grave a batida no aplicativo Pro-Stuk num trecho de rua representativo. O app
 cruza a gravação com as suas respostas e mostra as causas prováveis com
 porcentagem — com essa hipótese na mão o diagnóstico na oficina leva menos
 tempo.

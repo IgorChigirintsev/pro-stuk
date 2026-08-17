@@ -1,6 +1,6 @@
 ---
 title: "Tinido metálico no motor durante a aceleração"
-metaTitle: "Tinido metálico na aceleração: causas | Stuk"
+metaTitle: "Tinido metálico na aceleração: causas | Pro-Stuk"
 description: "Tinido de moedas numa lata ao acelerar quase sempre é detonação. As causas — combustível, carvão, velas, sensor — o risco e o que checar primeiro."
 faq:
   - q: "Por que o tinido aparece justamente na aceleração?"
@@ -125,6 +125,6 @@ mesmo carvão em um ano, e limpar sem curar a causa é dinheiro gasto duas
 vezes.
 
 Se você não tem certeza se é detonação ou algo mecânico, grave a aceleração
-no aplicativo Stuk: ele cruza a gravação com as suas respostas sobre quando
+no aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas sobre quando
 o tinido aparece e mostra as causas prováveis com percentuais e nível de
 urgência — um bom ponto de partida antes de ir à oficina.

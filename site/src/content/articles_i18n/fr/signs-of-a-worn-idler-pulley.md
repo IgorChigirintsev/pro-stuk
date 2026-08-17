@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un galet enrouleur usé"
-metaTitle: "Galet enrouleur usé : bruits et contrôles | Stuk"
+metaTitle: "Galet enrouleur usé : bruits et contrôles | Pro-Stuk"
 description: "Sifflement, hurlement et frottement sous le capot au ralenti viennent souvent des galets de la courroie. Comment distinguer un galet de la courroie et de l'alternateur."
 faq:
   - q: "Quelle différence entre un galet enrouleur et un galet tendeur ?"
@@ -103,7 +103,7 @@ cassée est détaillé dans
 [peut-on rouler avec une courroie qui siffle](/fr/articles/can-you-drive-with-a-squealing-belt/).
 
 Si vous voulez tester votre théorie avant d'aller au garage, enregistrez
-le son dans l'application Stuk au ralenti puis en montant les tours
+le son dans l'application Pro-Stuk au ralenti puis en montant les tours
 doucement : elle confronte l'enregistrement à vos réponses à quelques
 questions et affiche les sources probables avec un pourcentage — plus une
 indication de ce qu'il faut contrôler en premier.

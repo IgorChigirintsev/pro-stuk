@@ -1,6 +1,6 @@
 ---
 title: "Jak brzmi zużyte dwumasowe koło zamachowe"
-metaTitle: "Zużyte dwumasowe koło zamachowe: jak brzmi | Stuk"
+metaTitle: "Zużyte dwumasowe koło zamachowe: jak brzmi | Pro-Stuk"
 description: "Klekot przy rozruchu i gaszeniu, grzechot na biegu jałowym, wibracje przy ruszaniu — jak brzmi zużyta dwumasa i z czym bywa najczęściej mylona."
 faq:
   - q: "Dlaczego dwumasa jest najgłośniejsza przy gaszeniu silnika?"
@@ -102,6 +102,6 @@ zużycia. Nawyk trzymania nieco wyższych obrotów i redukcji, zanim silnik
 zacznie się wyraźnie męczyć, oszczędza tłumik.
 
 Jeśli chcesz wiedzieć, czy dźwięk naprawdę wiąże się z rozruchem i
-gaszeniem, nagraj oba momenty w aplikacji Stuk. Zestawia ona charakter
+gaszeniem, nagraj oba momenty w aplikacji Pro-Stuk. Zestawia ona charakter
 dźwięku z warunkami, w jakich się pojawił, i pokazuje prawdopodobne
 przyczyny z procentami.

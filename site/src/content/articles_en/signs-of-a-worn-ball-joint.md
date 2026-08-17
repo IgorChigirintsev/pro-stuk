@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-sharovoj-opory"
 title: "Signs of a worn ball joint"
-metaTitle: "Worn ball joint: sound, play, checks | Stuk"
+metaTitle: "Worn ball joint: sound, play, checks | Pro-Stuk"
 description: "Knocking over small bumps, creaking when steering, wheel play — how to recognise a worn ball joint, check it and how urgent the replacement is."
 pubDate: "2026-08-02"
 related:
@@ -129,5 +129,5 @@ Even without a failure, a worn ball joint eats tyres, loosens the steering
 and adds noise that is easily confused with other suspension problems.
 
 If something knocks below and the source is not obvious, record the sound
-in the Stuk app. It matches the recording with your answers about when and
+in the Pro-Stuk app. It matches the recording with your answers about when and
 how the sound appears and shows the likely causes with an urgency level.

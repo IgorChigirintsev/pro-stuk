@@ -1,6 +1,6 @@
 ---
 title: "Rangido da suspensão em ondulações"
-metaTitle: "Rangido da suspensão em ondulações: causas | Stuk"
+metaTitle: "Rangido da suspensão em ondulações: causas | Pro-Stuk"
 description: "Por que a suspensão range em ondulações: buchas da barra, buchas da bandeja, pivô. Quando graxa resolve e quando é caso de trocar a peça."
 faq:
   - q: "Rangido de suspensão é perigoso?"
@@ -117,7 +117,7 @@ bata exatamente com o diâmetro da barra. Bucha maior que a barra é o
 motivo clássico de o rangido sobreviver ao reparo.
 
 Se o som não deixa claro se é rangido inofensivo ou articulação gasta,
-grave no aplicativo Stuk: ele cruza a gravação com as suas respostas sobre
+grave no aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas sobre
 quando o som aparece e mostra as causas prováveis com nota de urgência.
 
 ## Checklist curto antes da oficina

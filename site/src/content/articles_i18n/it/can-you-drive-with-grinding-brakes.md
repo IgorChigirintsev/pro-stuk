@@ -1,6 +1,6 @@
 ---
 title: "Si può guidare con i freni che raschiano"
-metaTitle: "Si può guidare con i freni che raschiano? | Stuk"
+metaTitle: "Si può guidare con i freni che raschiano? | Pro-Stuk"
 description: "Un raschiamento metallico in frenata significa che il materiale d'attrito è finito e il metallo incide il disco. Quanto si può guidare e cosa non fare."
 faq:
   - q: "Quanti chilometri posso fare con i freni che raschiano?"
@@ -113,7 +113,7 @@ di venerdì, conviene passare il sabato in officina invece di tirare avanti
 un mese.
 
 Quando il suono c'è ma non è chiaro se sia l'indicatore di usura o il
-supporto metallico, aiuta una registrazione: l'app Stuk analizza le
+supporto metallico, aiuta una registrazione: l'app Pro-Stuk analizza le
 frequenze, le confronta con le sue risposte su quando compare il suono e
 mostra le cause probabili in percentuale, compresa una valutazione se
 l'auto vada guidata o meno prima di essere controllata.

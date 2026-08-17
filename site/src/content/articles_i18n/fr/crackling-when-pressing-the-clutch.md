@@ -1,6 +1,6 @@
 ---
 title: "Un craquement quand on appuie sur l'embrayage"
-metaTitle: "Craquement à l'appui sur l'embrayage : causes | Stuk"
+metaTitle: "Craquement à l'appui sur l'embrayage : causes | Pro-Stuk"
 description: "Un craquement quand la pédale d'embrayage descend vient de la fourchette, du guide ou d'un axe sec. Distinguer une cause légère d'une dépose de boîte."
 faq:
   - q: "Un craquement sur la pédale, est-ce la butée d'embrayage ?"
@@ -96,7 +96,7 @@ au même moment, puisque c'est le seul élément capable de doubler la
 facture.
 
 S'il est difficile de dire d'où vient le son — de l'habitacle ou de sous
-le capot — enregistrez-le deux fois dans l'application Stuk : moteur coupé
+le capot — enregistrez-le deux fois dans l'application Pro-Stuk : moteur coupé
 puis moteur tournant. L'application compare les enregistrements avec vos
 réponses et affiche les causes probables avec leurs pourcentages, pour que
 la conversation au garage démarre par le bon bout.

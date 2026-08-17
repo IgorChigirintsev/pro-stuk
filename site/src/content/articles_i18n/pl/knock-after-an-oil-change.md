@@ -1,6 +1,6 @@
 ---
 title: "Stukanie silnika po wymianie oleju"
-metaTitle: "Stukanie silnika po wymianie oleju: przyczyny | Stuk"
+metaTitle: "Stukanie silnika po wymianie oleju: przyczyny | Pro-Stuk"
 description: "Dlaczego silnik zaczął stukać po wymianie oleju: lepkość, poziom, filtr, płukanka. Kiedy dźwięk znika sam, a kiedy trzeba wracać do warsztatu."
 faq:
   - q: "Silnik cyka przez pierwsze sekundy po wymianie oleju — to normalne?"
@@ -113,7 +113,7 @@ Nawet pełna druga wymiana oleju kosztuje mniej niż jakakolwiek naprawa, do
 której prowadzi jazda z niewyjaśnionym stukaniem.
 
 Jeśli nie ma pewności, czy to ten sam dźwięk co przed wymianą, czy nowy,
-warto nagrać silnik w aplikacji Stuk i powtórzyć nagranie po kilku dniach.
+warto nagrać silnik w aplikacji Pro-Stuk i powtórzyć nagranie po kilku dniach.
 Aplikacja zestawia dźwięk z typowymi przyczynami, pokazuje
 prawdopodobieństwa i pilność, a porównanie nagrań pomaga dostrzec
 tendencję.

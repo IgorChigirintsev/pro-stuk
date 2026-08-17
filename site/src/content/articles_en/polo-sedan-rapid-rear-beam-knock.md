@@ -1,7 +1,7 @@
 ---
 ru: "stuk-zadnej-balki-polo-sedan-rapid"
 title: "Polo Sedan / Rapid rear beam knock"
-metaTitle: "Polo Sedan and Rapid rear beam knock: causes | Stuk"
+metaTitle: "Polo Sedan and Rapid rear beam knock: causes | Pro-Stuk"
 description: "Why a Polo Sedan or Rapid knocks at the rear: beam bushes, dampers, bump stops and fasteners. How to localise the source and what the repair depends on."
 pubDate: "2026-06-23"
 related:
@@ -108,7 +108,7 @@ recent repair, that is exactly what to check —
 [a knock after suspension repair](/en/articles/knock-after-suspension-repair/).
 
 If the knock only appears on a particular stretch of road and cannot be
-reproduced at the workshop, record the sound in the Stuk app while driving
+reproduced at the workshop, record the sound in the Pro-Stuk app while driving
 through that spot. The app matches the recording with your answers and
 shows the likely causes with percentages, so the conversation with a
 mechanic starts with a specific part.

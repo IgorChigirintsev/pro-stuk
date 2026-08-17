@@ -1,7 +1,7 @@
 ---
 ru: "stuk-tolko-na-holodnuyu"
 title: "An engine knock only when cold: the full picture"
-metaTitle: "Engine knock only when cold: the full picture | Stuk"
+metaTitle: "Engine knock only when cold: the full picture | Pro-Stuk"
 description: "Why an engine knocks after starting and goes quiet as it warms: lifters, piston skirts, the chain, cam phasers. Where normal ends and bore scoring begins."
 pubDate: "2026-07-02"
 related:
@@ -123,7 +123,7 @@ Endoscope photographs of the bores are worth asking to see with your own
 eyes — that is the one finding that decides between a repair and a rebuild.
 
 To avoid guessing which line of the estimate to start from, record a cold
-start in the Stuk app — first thing in the morning, at the bonnet. It
+start in the Pro-Stuk app — first thing in the morning, at the bonnet. It
 matches the sound with your answers about the conditions and shows the
 likely causes with percentages and a level of urgency: with that you can
 have a specific conversation with a workshop.

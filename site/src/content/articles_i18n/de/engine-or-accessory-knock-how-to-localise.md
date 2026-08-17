@@ -1,6 +1,6 @@
 ---
 title: "Klopfen von Motor oder Nebenaggregat: wie man es ortet"
-metaTitle: "Motor oder Nebenaggregat: Klopfen orten | Stuk"
+metaTitle: "Motor oder Nebenaggregat: Klopfen orten | Pro-Stuk"
 description: "Ein Klopfen aus dem Motorraum kommt nicht immer vom Motor. Ein paar Prüfungen trennen die riemengetriebenen Aggregate von der Motormechanik."
 faq:
   - q: "Woran erkenne ich, dass ein Nebenaggregat klopft und nicht der Motor?"

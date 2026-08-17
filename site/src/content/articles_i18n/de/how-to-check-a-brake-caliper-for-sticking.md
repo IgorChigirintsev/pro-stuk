@@ -1,6 +1,6 @@
 ---
 title: "Bremssattel auf Hängen prüfen"
-metaTitle: "Bremssattel auf Hängen prüfen: Anleitung | Stuk"
+metaTitle: "Bremssattel auf Hängen prüfen: Anleitung | Pro-Stuk"
 description: "Die Zeichen eines hängenden Bremssattels: Ausrolltest, Temperaturkontrolle der Räder, Ziehen beim Bremsen und der Geruch. Was eine Werkstatt dagegen tut."
 faq:
   - q: "Wie heiß darf eine Scheibe normalerweise sein?"

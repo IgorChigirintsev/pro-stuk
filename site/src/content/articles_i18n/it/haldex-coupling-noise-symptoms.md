@@ -1,6 +1,6 @@
 ---
 title: "Rumore del giunto Haldex: i sintomi"
-metaTitle: "Rumore del giunto Haldex: sintomi e diagnosi | Stuk"
+metaTitle: "Rumore del giunto Haldex: sintomi e diagnosi | Pro-Stuk"
 description: "Come suona un giunto Haldex in difficoltà, perché lo scricchiolio compare nelle manovre a bassa velocità e come si distingue dal clic di un giunto omocinetico."
 faq:
   - q: "Come si distingue il rumore del giunto da quello di un omocinetico?"
@@ -109,7 +109,7 @@ gomme abbiano misura e battistrada coerenti tra i due assali: una
 differenza lì produce esattamente questi sintomi su un gruppo sano.
 
 Se lo scricchiolio in curva è comparso da poco e non è chiaro se venga da
-davanti o da dietro, registrate il suono nell’app Stuk durante una manovra
+davanti o da dietro, registrate il suono nell’app Pro-Stuk durante una manovra
 in un parcheggio vuoto. L’app confronta la registrazione con le vostre
 risposte e mostra le cause probabili in percentuale, restringendo subito
 la ricerca a un solo assale.

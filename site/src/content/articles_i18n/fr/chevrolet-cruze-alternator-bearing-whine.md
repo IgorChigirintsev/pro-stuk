@@ -1,6 +1,6 @@
 ---
 title: "Bourdonnement du roulement d'alternateur sur Chevrolet Cruze"
-metaTitle: "Cruze : bourdonnement du roulement d'alternateur | Stuk"
+metaTitle: "Cruze : bourdonnement du roulement d'alternateur | Pro-Stuk"
 description: "Un bourdonnement sous le capot d'une Cruze qui monte avec le régime : distinguer le roulement d'alternateur des galets, de la pompe et de la poulie débrayable."
 faq:
   - q: "Le bourdonnement sous le capot monte avec le régime. C'est l'alternateur ?"
@@ -87,7 +87,7 @@ L'accès est le même, et un second passage pour la même raison dans six
 mois pèse plus lourd que les pièces aujourd'hui.
 
 Pour éviter de tout contrôler au hasard, enregistrez le son avec
-l'application Stuk capot ouvert : d'abord au ralenti, puis en montant le
+l'application Pro-Stuk capot ouvert : d'abord au ralenti, puis en montant le
 régime progressivement. L'application croise les enregistrements avec vos
 réponses à quelques questions et affiche les causes probables avec leurs
 pourcentages — on voit alors par quel organe commencer.

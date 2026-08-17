@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een defect tweemassavliegwiel"
-metaTitle: "Defect tweemassavliegwiel: de tekenen | Stuk"
+metaTitle: "Defect tweemassavliegwiel: de tekenen | Pro-Stuk"
 description: "Ratelen stationair, geluid met de koppeling ingetrapt, een klap bij afzetten — zo leest u de symptomen van een versleten tweemassavliegwiel."
 faq:
   - q: "Wat doet een tweemassavliegwiel eigenlijk?"

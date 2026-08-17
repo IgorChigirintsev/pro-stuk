@@ -1,6 +1,6 @@
 ---
 title: "Jak nie dać sobie dopisać zbędnych napraw przy diagnostyce"
-metaTitle: "Jak nie dać się naciągnąć w warsztacie | Stuk"
+metaTitle: "Jak nie dać się naciągnąć w warsztacie | Pro-Stuk"
 description: "Co obejmuje uczciwa diagnostyka, przy jakich zdaniach warto zadać pytanie i jak sprawdzić wyceniony zakres prac, nie znając się na samochodach."
 faq:
   - q: "Czy darmowa diagnostyka to normalna rzecz?"
@@ -70,9 +70,9 @@ Proste rzeczy warto sprawdzić samemu — poziom oleju, stan paska, dokręcenie
 Jeśli dźwięk się nie zmienia, silnik i skrzynia są niemal na pewno
 niewinne, a propozycja remontu silnika od razu wygląda inaczej.
 
-Pomaga też wiedzieć z góry, do której rodziny należy Pana przypadek. Stuk
+Pomaga też wiedzieć z góry, do której rodziny należy Pana przypadek. Pro-Stuk
 podążający za nawierzchnią to podwozie, skatalogowane na stronie objawu
-[stukanie w zawieszeniu](/pl/symptoms/knocking-in-suspension/). Stuk
+[stukanie w zawieszeniu](/pl/symptoms/knocking-in-suspension/). Pro-Stuk
 związany z obrotami silnika i rozgrzaniem to silnik — patrz
 [stukanie w silniku](/pl/symptoms/knocking-in-engine/).
 
@@ -89,7 +89,7 @@ dotyczą bezpieczeństwa, a które komfortu — porządny mechanik rozdziela je
 bez wahania, bo sam tak myśli o samochodzie.
 
 Wreszcie warto przyjechać z samym dźwiękiem, a nie z jego opowieścią.
-Proszę nagrać go w aplikacji Stuk w sytuacji, w której jest najwyraźniejszy.
+Proszę nagrać go w aplikacji Pro-Stuk w sytuacji, w której jest najwyraźniejszy.
 Aplikacja zestawi nagranie z Pana odpowiedziami i pokaże prawdopodobne
 przyczyny z procentami, dzięki czemu rozmowa zacznie się od konkretnej
 hipotezy, a nie od czystej kartki.

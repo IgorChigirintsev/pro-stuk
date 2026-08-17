@@ -1,6 +1,6 @@
 ---
 title: "Debriyajı bırakırken gelen tak sesi"
-metaTitle: "Debriyajı bırakırken tak sesi: nedenleri | Stuk"
+metaTitle: "Debriyajı bırakırken tak sesi: nedenleri | Pro-Stuk"
 description: "Debriyaj pedalı kalkarken gelen tak sesi balata yaylarından, volandan, motor takozlarından ve aks kafalarından gelir. Nasıl ayırt edilir."
 faq:
   - q: "Pedal kalkarken gelen tak sesi yeni debriyaj gerektiği anlamına mı gelir?"
@@ -86,7 +86,7 @@ Bir de iş gerçekten debriyaja gelirse, şanzıman dışarıdayken başka
 nelerin dahil edildiği: rulman, arka krank keçesi ve çift kütleli volanda
 onun kalıp kalmayacağına karar veren ölçüm.
 
-Ses hâlâ ara ara geliyorsa ve nereden geldiğinden emin değilseniz, Stuk
+Ses hâlâ ara ara geliyorsa ve nereden geldiğinden emin değilseniz, Pro-Stuk
 uygulamasıyla iki kez kaydedin: boşta gaz oynatırken ve kalkarken.
 Uygulama kayıtları verdiğiniz yanıtlarla karşılaştırır ve olası sebepleri
 yüzdeleriyle gösterir.

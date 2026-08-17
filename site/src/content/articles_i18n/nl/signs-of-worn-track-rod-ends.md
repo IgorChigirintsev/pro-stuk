@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten spoorstangkogels"
-metaTitle: "Versleten spoorstangkogels: het geluid | Stuk"
+metaTitle: "Versleten spoorstangkogels: het geluid | Pro-Stuk"
 description: "Kloppen over kleine oneffenheden, speling in het stuur, zwerven bij rechtuit rijden — zo herkent u versleten spoorstangkogels en controleert u ze zelf."
 faq:
   - q: "Hoe klinkt een versleten spoorstangkogel?"

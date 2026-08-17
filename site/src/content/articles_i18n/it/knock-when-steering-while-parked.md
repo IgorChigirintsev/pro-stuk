@@ -1,6 +1,6 @@
 ---
 title: "Colpo girando il volante da fermo"
-metaTitle: "Colpo girando il volante da fermo: le cause | Stuk"
+metaTitle: "Colpo girando il volante da fermo: le cause | Pro-Stuk"
 description: "Colpi, scricchiolii o schiocchi girando il volante ad auto ferma: cuscinetti dei duomi, testine, scatola guida, servosterzo. Come distinguerli."
 faq:
   - q: "Perché batte solo sterzando da fermo e tace in movimento?"
@@ -138,6 +138,6 @@ registrazione. Quindi un colpo sterzando da fermo è motivo per una diagnosi
 tranquilla ma non rimandata.
 
 Se non è sicuro di cosa stia suonando, registri lo scricchiolio o il colpo
-mentre gira il volante usando l'app Stuk. Confronta la registrazione con le
+mentre gira il volante usando l'app Pro-Stuk. Confronta la registrazione con le
 sue risposte su quando compare il suono e mostra le cause probabili con un
 livello di urgenza.

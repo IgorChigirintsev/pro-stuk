@@ -1,6 +1,6 @@
 ---
 title: "Benzinli motor neden dizel gibi ses vermeye başlar"
-metaTitle: "Benzinli motor dizel gibi ses veriyor: nedenleri | Stuk"
+metaTitle: "Benzinli motor dizel gibi ses veriyor: nedenleri | Pro-Stuk"
 description: "Benzinli motor neden dizel gibi takırdamaya başlar: supap boşlukları, uzayan triger zinciri, vuruntu, direkt enjeksiyon. Önce ne kontrol edilir."
 faq:
   - q: "Benzinli motorun dizel gibi ses vermesi ne demek?"
@@ -123,7 +123,7 @@ işçilik hâkimdir ve zincir işi kulağa geldiğinden hayli büyüktür.
 edilen ayar plakalarıyla ayarlanır — aynı işin benzer boydaki iki araçta
 çok farklı tutmasının nedeni budur.
 
-Yola çıkmadan önce anlamak isterseniz, motoru Stuk uygulamasında
+Yola çıkmadan önce anlamak isterseniz, motoru Pro-Stuk uygulamasında
 kaydedin — rölantide ve güvenli biçimde yapılabiliyorsa yük altında.
 Uygulama kaydı cevaplarınızla eşleştirir ve muhtemel nedenleri aciliyet
 derecesiyle gösterir: bunun rutin bir ayar mı, yoksa ertelenmemesi

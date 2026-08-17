@@ -1,6 +1,6 @@
 ---
 title: "Un claquement moteur en charge"
-metaTitle: "Claquement moteur en charge : causes et danger | Stuk"
+metaTitle: "Claquement moteur en charge : causes et danger | Pro-Stuk"
 description: "Un claquement en charge : distinguer la détonation d'un claquement de coussinet, la place de la chaîne, et quand continuer à rouler devient dangereux."
 faq:
   - q: "Comment distinguer la détonation d'un claquement de coussinet ?"
@@ -152,7 +152,7 @@ c'est l'écart entre un diagnostic précoce et un diagnostic tardif : un
 claquement en charge n'est donc pas une chose sur laquelle on s'assied.
 
 Si vous ne savez pas à quel scénario le vôtre ressemble, enregistrez le
-son d'une accélération dans l'application Stuk : elle compare
+son d'une accélération dans l'application Pro-Stuk : elle compare
 l'enregistrement avec des claquements typiques, pose quelques questions de
 précision et affiche les causes probables avec un niveau d'urgence. Avec
 cette préparation faite à la maison, la visite au garage va plus vite.

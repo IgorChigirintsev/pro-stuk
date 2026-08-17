@@ -1,6 +1,6 @@
 ---
 title: "Tuchos hidráulicos tiquetaqueando a frio: normal ou não"
-metaTitle: "Tucho batendo a frio: é normal ou não? | Stuk"
+metaTitle: "Tucho batendo a frio: é normal ou não? | Pro-Stuk"
 description: "Por que os tuchos hidráulicos batem depois da partida a frio, quantos segundos ainda são normais e quando trocar o óleo ou os próprios tuchos."
 faq:
   - q: "Quantos segundos de tucho batendo são normais?"
@@ -129,7 +129,7 @@ comando são inspecionados com o motor aberto, porque um tucho que bateu
 por meses deixa marca no ressalto.
 
 Se você não tem certeza se são os tuchos ou algo mais sério, grave a
-partida a frio no aplicativo Stuk. Ele cruza a gravação com as suas
+partida a frio no aplicativo Pro-Stuk. Ele cruza a gravação com as suas
 respostas e mostra as causas prováveis em porcentagem e com um grau de
 urgência — o que facilita decidir entre ir para um diagnóstico agora ou
 esperar tranquilo pela próxima revisão.

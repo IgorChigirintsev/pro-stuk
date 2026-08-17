@@ -1,6 +1,6 @@
 ---
 title: "Kloppend stuurhuis bij de Kia Rio: afstellen of reviseren"
-metaTitle: "Kia Rio stuurhuis klopt: afstellen of reviseren | Stuk"
+metaTitle: "Kia Rio stuurhuis klopt: afstellen of reviseren | Pro-Stuk"
 description: "Waarom het stuurhuis van de Kia Rio klopt op kleine oneffenheden, hoe u het onderscheidt van de stabilisatorstangen en wanneer afstellen genoeg is."
 faq:
   - q: "Is een kloppend stuurhuis op een Kia Rio gevaarlijk?"

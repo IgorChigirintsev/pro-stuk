@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Motor: alle Ursachen nach Klangbild"
-metaTitle: "Klopfen im Motor: alle Ursachen nach Klang | Stuk"
+metaTitle: "Klopfen im Motor: alle Ursachen nach Klang | Pro-Stuk"
 description: "Eine Karte der Motorgeräusche nach Charakter: Ticken, Klacken, Klingeln, dumpfe Schläge. Was jedes bedeutet und wie dringend es ist."
 faq:
   - q: "Lässt sich die Ursache allein am Klang genau bestimmen?"

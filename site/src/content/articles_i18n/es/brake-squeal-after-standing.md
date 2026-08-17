@@ -1,6 +1,6 @@
 ---
 title: "Chirrido de frenos tras estar parado: ¿normal o no?"
-metaTitle: "Chirrido de frenos tras estar parado: ¿normal? | Stuk"
+metaTitle: "Chirrido de frenos tras estar parado: ¿normal? | Pro-Stuk"
 description: "El chirrido matutino de los frenos tras una noche a la intemperie suele ser óxido en el disco. Cómo distinguirlo del desgaste real y cuándo ir al taller."
 faq:
   - q: "¿Por qué chirrían los frenos solo por la mañana?"
@@ -102,6 +102,6 @@ queda.
 La frontera entre «chirrido matutino normal» y «toca taller» pasa por el
 carácter del sonido, y esos matices se recuerdan mal: un mes después
 cuesta decir si chirriaba igual o algo más fuerte. Una grabación hecha hoy
-en la aplicación Stuk y repetida unas semanas más tarde muestra esa
+en la aplicación Pro-Stuk y repetida unas semanas más tarde muestra esa
 diferencia de forma objetiva, junto con una lista de causas probables y
 una valoración de la urgencia con la que conviene pedir un diagnóstico.

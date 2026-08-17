@@ -1,6 +1,6 @@
 ---
 title: "Lada-Getriebegeräusch: Heulen im fünften Gang"
-metaTitle: "Lada: Heulen im fünften Gang erklärt | Stuk"
+metaTitle: "Lada: Heulen im fünften Gang erklärt | Pro-Stuk"
 description: "Ein Heulen im fünften Gang bei Lada-Getrieben: warum der oberste Gang zuerst geht, wie man es vom Radlager trennt und was zu prüfen ist."
 faq:
   - q: "Warum heult ausgerechnet der fünfte Gang?"

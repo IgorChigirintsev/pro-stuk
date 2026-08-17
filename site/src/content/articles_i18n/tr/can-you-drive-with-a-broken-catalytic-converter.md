@@ -1,6 +1,6 @@
 ---
 title: "Dağılmış katalizörle araç kullanılır mı"
-metaTitle: "Dağılmış katalizörle araç kullanılır mı? | Stuk"
+metaTitle: "Dağılmış katalizörle araç kullanılır mı? | Pro-Stuk"
 description: "Dağılan katalizör seramiği hışırdar ve motoru boğar. Ne zaman servise kadar gidebilirsiniz, ne zaman gidemezsiniz ve motor açısından riski nedir."
 faq:
   - q: "Dağılmış katalizör nasıl bir ses çıkarır?"
@@ -95,7 +95,7 @@ gitmesini engellemiyorsa haftalarınız vardır; aracın davranışını
 etkilemeye başladığı anda hesap günlere döner.
 
 Hışırtı yeni ortaya çıktıysa ve bunun o olup olmadığını bilmek
-istiyorsanız, sesi gaza dokunarak Stuk uygulamasında kaydedin ve kısa bir
+istiyorsanız, sesi gaza dokunarak Pro-Stuk uygulamasında kaydedin ve kısa bir
 yolculuktan sonra kaydı tekrarlayın. Uygulama kayıtları verdiğiniz
 cevaplarla eşleştirir ve olası nedenleri yüzdeyle gösterir — acil mi yoksa
 bu hafta içinde sakin sakin bir gün ayarlayabilir misiniz, onu da söyler.

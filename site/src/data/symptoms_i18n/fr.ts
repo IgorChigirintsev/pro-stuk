@@ -4,7 +4,7 @@ import type { SymptomTr } from '../types';
 export const pages: Record<string, SymptomTr> = {
   'stuk-v-dvigatele': {
     h1: 'Cognement dans le moteur',
-    metaTitle: 'Le moteur cogne : causes, gravité, que faire | Stuk',
+    metaTitle: 'Le moteur cogne : causes, gravité, que faire | Pro-Stuk',
     description:
       'Pourquoi le moteur cogne : du cliquetis anodin des soupapes aux coussinets de vilebrequin usés. Comment reconnaître un cognement dangereux, si vous pouvez rouler et quoi vérifier vous-même.',
     intro: [
@@ -30,7 +30,7 @@ export const pages: Record<string, SymptomTr> = {
       'Regarder si le témoin de pression d’huile est allumé : la burette rouge accompagnée d’un cognement veut dire couper le moteur immédiatement.',
     ],
     appHelp:
-      'L’application Stuk vous fait passer par les mêmes questions qu’un motoriste, enregistre le bruit et évalue son spectre et son rythme : à quelle fréquence arrivent les coups et comment cela se rapporte au régime — pour un cognement de soupapes et un cognement de vilebrequin, ce rapport diffère. Le rapport donne les causes probables avec des pourcentages, un feu d’urgence et des formulations pour la discussion au garage.',
+      'L’application Pro-Stuk vous fait passer par les mêmes questions qu’un motoriste, enregistre le bruit et évalue son spectre et son rythme : à quelle fréquence arrivent les coups et comment cela se rapporte au régime — pour un cognement de soupapes et un cognement de vilebrequin, ce rapport diffère. Le rapport donne les causes probables avec des pourcentages, un feu d’urgence et des formulations pour la discussion au garage.',
     faq: [
       {
         q: 'Pourquoi le moteur cogne-t-il seulement à froid ?',
@@ -49,7 +49,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrip-tormozov': {
     h1: 'Grincement des freins',
-    metaTitle: 'Les freins grincent : dangereux ou non, causes et solutions | Stuk',
+    metaTitle: 'Les freins grincent : dangereux ou non, causes et solutions | Pro-Stuk',
     description:
       'Pourquoi les freins grincent : la pellicule de rouille du matin, le témoin d’usure des plaquettes ou un problème de disques. Comment distinguer un grincement anodin d’un avertissement.',
     intro: [
@@ -74,7 +74,7 @@ export const pages: Record<string, SymptomTr> = {
       'Surveiller la pédale et la trajectoire : une voiture qui tire d’un côté au freinage, une pédale qui pulse ou qui s’allonge sont plus graves qu’un grincement et signifient garage sans délai.',
     ],
     appHelp:
-      'L’application Stuk sépare le scénario anodin de l’inquiétant avec les mêmes questions — quand ça grince et si le bruit disparaît — et l’enregistrement aide à distinguer le couinement aigu du témoin d’usure du frottement métallique. Le rapport donne les causes probables avec des pourcentages et un feu : vous pouvez rouler, au garage cette semaine ou arrêtez-vous.',
+      'L’application Pro-Stuk sépare le scénario anodin de l’inquiétant avec les mêmes questions — quand ça grince et si le bruit disparaît — et l’enregistrement aide à distinguer le couinement aigu du témoin d’usure du frottement métallique. Le rapport donne les causes probables avec des pourcentages et un feu : vous pouvez rouler, au garage cette semaine ou arrêtez-vous.',
     faq: [
       {
         q: 'Pourquoi les freins grincent-ils le matin et sous la pluie ?',
@@ -93,7 +93,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-dvizhenii': {
     h1: 'Ronflement en roulant',
-    metaTitle: 'Ronflement en roulant : roulement, pneus ou boîte | Stuk',
+    metaTitle: 'Ronflement en roulant : roulement, pneus ou boîte | Pro-Stuk',
     description:
       'Ronflement régulier à une certaine vitesse : roulement de roue, pneus, boîte de vitesses ou pont. Des tests simples sans garage — le test au point mort et les virages doux — pour cerner la cause.',
     intro: [
@@ -119,7 +119,7 @@ export const pages: Record<string, SymptomTr> = {
       'En boîte manuelle, vérifier si le hurlement change selon les rapports à vitesse égale ; en propulsion, si un tremblement dans le plancher accompagne le ronflement sur une plage de vitesse étroite.',
     ],
     appHelp:
-      'L’application Stuk vous fait passer par les mêmes questions — le ronflement reste-t-il au point mort, change-t-il en courbe et selon le revêtement — et aide à enregistrer le bruit pour comparer son caractère avec des cas typiques. Le rapport donne les causes probables avec des pourcentages et une conclusion : roulez tranquillement, planifiez le garage ou faites vérifier sans délai.',
+      'L’application Pro-Stuk vous fait passer par les mêmes questions — le ronflement reste-t-il au point mort, change-t-il en courbe et selon le revêtement — et aide à enregistrer le bruit pour comparer son caractère avec des cas typiques. Le rapport donne les causes probables avec des pourcentages et une conclusion : roulez tranquillement, planifiez le garage ou faites vérifier sans délai.',
     faq: [
       {
         q: 'Comment distinguer un roulement du bruit des pneus ?',
@@ -138,7 +138,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-podveske': {
     h1: 'Bruit de choc dans la suspension',
-    metaTitle: 'Bruit dans la suspension : ce qui cogne et peut-on rouler | Stuk',
+    metaTitle: 'Bruit dans la suspension : ce qui cogne et peut-on rouler | Pro-Stuk',
     description:
       'Ce qui cogne dans la suspension : biellettes de barre stabilisatrice, silentblocs, crémaillère de direction ou ressort cassé. Comment distinguer les bruits par leur caractère et quand aller au garage.',
     intro: [
@@ -164,7 +164,7 @@ export const pages: Record<string, SymptomTr> = {
       'Regarder derrière la roue depuis le bas, sans rien démonter : une spire cassée se voit souvent à l’œil nu, et l’on remarque du même coup si un coin de la voiture est affaissé.',
     ],
     appHelp:
-      'L’application Stuk suit les mêmes bifurcations qu’un mécanicien à la réception : quel bruit, sur quelles irrégularités, avant ou arrière, remonte-t-il dans le volant. L’enregistrement évite de perdre les détails avant la visite, et le rapport donne les causes probables avec des pourcentages et un feu clair : vous pouvez rouler, montrez-le cette semaine ou faites vérifier d’urgence.',
+      'L’application Pro-Stuk suit les mêmes bifurcations qu’un mécanicien à la réception : quel bruit, sur quelles irrégularités, avant ou arrière, remonte-t-il dans le volant. L’enregistrement évite de perdre les détails avant la visite, et le rapport donne les causes probables avec des pourcentages et un feu clair : vous pouvez rouler, montrez-le cette semaine ou faites vérifier d’urgence.',
     faq: [
       {
         q: 'Est-il dangereux de rouler avec un bruit de suspension ?',
@@ -183,7 +183,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-podshipnika-stupitsy': {
     h1: 'Ronflement du roulement de roue',
-    metaTitle: 'Roulement de roue qui ronfle : comment le reconnaître | Stuk',
+    metaTitle: 'Roulement de roue qui ronfle : comment le reconnaître | Pro-Stuk',
     description:
       'Comment sonne un roulement de roue usé, comment le distinguer du bruit des pneus, quelle roue ronfle et combien de temps on peut rouler ainsi.',
     intro: [
@@ -208,7 +208,7 @@ export const pages: Record<string, SymptomTr> = {
       'Après le trajet, approcher prudemment la main des moyeux (sans toucher le disque de frein, qui est brûlant) : un moyeu nettement plus chaud d’un côté est un indice de plus.',
     ],
     appHelp:
-      'L’application Stuk pose les mêmes questions de contrôle — sur le revêtement, les virages et la roue libre au point mort —, enregistre le ronflement et évalue son caractère : le bruit large bande des pneus et le ronflement d’un roulement n’ont pas la même allure dans le spectre. Le rapport donne les probabilités des causes, l’urgence et une indication sur le côté à annoncer au mécanicien.',
+      'L’application Pro-Stuk pose les mêmes questions de contrôle — sur le revêtement, les virages et la roue libre au point mort —, enregistre le ronflement et évalue son caractère : le bruit large bande des pneus et le ronflement d’un roulement n’ont pas la même allure dans le spectre. Le rapport donne les probabilités des causes, l’urgence et une indication sur le côté à annoncer au mécanicien.',
     faq: [
       {
         q: 'Pourquoi le ronflement change-t-il en virage ?',
@@ -227,7 +227,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-na-nerovnostyah': {
     h1: 'Chocs sur les irrégularités',
-    metaTitle: 'Chocs sur les bosses : causes et vérifications à faire soi-même | Stuk',
+    metaTitle: 'Chocs sur les bosses : causes et vérifications à faire soi-même | Pro-Stuk',
     description:
       'Chocs sur les bosses et les trous : martèlement fréquent sur les ondulations, chocs isolés dans les nids-de-poule ou choc dans le volant. Quelles pièces sont en cause et peut-on rouler.',
     intro: [
@@ -253,7 +253,7 @@ export const pages: Record<string, SymptomTr> = {
       'Éliminer le simple : sortir les objets libres du coffre, vérifier l’arrimage de la roue de secours et du cric, appuyer sur le capot fermé — une serrure avec du jeu tape comme la suspension.',
     ],
     appHelp:
-      'L’application Stuk pose les mêmes questions que cette page, mais pas à pas : quel choc exactement, où on l’entend, comment il se comporte sur différentes irrégularités. À partir de vos réponses et de l’enregistrement, elle construit un rapport avec les causes probables et un feu d’urgence — de quoi trancher entre le garage demain et le garage à l’occasion.',
+      'L’application Pro-Stuk pose les mêmes questions que cette page, mais pas à pas : quel choc exactement, où on l’entend, comment il se comporte sur différentes irrégularités. À partir de vos réponses et de l’enregistrement, elle construit un rapport avec les causes probables et un feu d’urgence — de quoi trancher entre le garage demain et le garage à l’occasion.',
     faq: [
       {
         q: 'Pourquoi le choc ne s’entend-il que sur les irrégularités et pas sur route lisse ?',
@@ -272,7 +272,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'tikanie-dvigatelya': {
     h1: 'Moteur qui cliquette',
-    metaTitle: 'Le moteur cliquette : normal ou usure, causes | Stuk',
+    metaTitle: 'Le moteur cliquette : normal ou usure, causes | Pro-Stuk',
     description:
       'D’où vient le cliquetis du moteur : jeux aux soupapes, poussoirs hydrauliques, claquement normal des injecteurs ou collecteur d’échappement. Comment distinguer le normal de l’usure.',
     intro: [
@@ -298,7 +298,7 @@ export const pages: Record<string, SymptomTr> = {
       'Renifler près du capot ouvert : une odeur d’échappement accompagnée d’un claquement fréquent est le signe du collecteur — garage sous une à deux semaines.',
     ],
     appHelp:
-      'L’application Stuk précise l’essentiel — le cliquetis s’est-il renforcé avec le temps et comment se comporte-t-il à froid et à chaud — et l’enregistrement permet de le comparer à des exemples typiques. Le rapport donne les causes probables avec des pourcentages et une conclusion en forme de feu : normal, rendez-vous cette semaine ou diagnostic sans délai.',
+      'L’application Pro-Stuk précise l’essentiel — le cliquetis s’est-il renforcé avec le temps et comment se comporte-t-il à froid et à chaud — et l’enregistrement permet de le comparer à des exemples typiques. Le rapport donne les causes probables avec des pourcentages et une conclusion en forme de feu : normal, rendez-vous cette semaine ou diagnostic sans délai.',
     faq: [
       {
         q: 'Pourquoi les diesels et les moteurs à injection directe cliquettent-ils toujours ?',
@@ -317,7 +317,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-remnya': {
     h1: 'Sifflement de la courroie',
-    metaTitle: 'La courroie siffle : causes, peut-on rouler et que faire | Stuk',
+    metaTitle: 'La courroie siffle : causes, peut-on rouler et que faire | Pro-Stuk',
     description:
       'La courroie d’accessoires siffle : usure, tension faible, galets ou embrayage du compresseur de clim. Comment cerner la cause selon les circonstances.',
     intro: [
@@ -343,7 +343,7 @@ export const pages: Record<string, SymptomTr> = {
       'Écouter si un ronflement ou un bruissement régulier accompagne le sifflement en suivant le régime moteur — c’est le roulement de l’un des galets.',
     ],
     appHelp:
-      'L’application Stuk précise le caractère du bruit et les circonstances — sifflement ou ronflement, à froid ou en charge, lié ou non à la climatisation — et, grâce à l’enregistrement, aide à distinguer le couinement de la courroie du bruissement d’un galet. Le rapport donne les causes probables avec des pourcentages et un feu : vous pouvez rouler, au garage cette semaine ou arrêtez-vous.',
+      'L’application Pro-Stuk précise le caractère du bruit et les circonstances — sifflement ou ronflement, à froid ou en charge, lié ou non à la climatisation — et, grâce à l’enregistrement, aide à distinguer le couinement de la courroie du bruissement d’un galet. Le rapport donne les causes probables avec des pourcentages et un feu : vous pouvez rouler, au garage cette semaine ou arrêtez-vous.',
     faq: [
       {
         q: 'Que se passe-t-il si la courroie casse en route ?',
@@ -362,7 +362,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gremit-pod-mashinoy': {
     h1: 'Cliquetis sous la voiture',
-    metaTitle: 'Cliquetis sous la voiture : ce qui vibre et est-ce grave | Stuk',
+    metaTitle: 'Cliquetis sous la voiture : ce qui vibre et est-ce grave | Pro-Stuk',
     description:
       'Ça cliquette et ça vibre sous la voiture : supports d’échappement, tôle pare-chaleur, protection sous moteur ou catalyseur. Comment trouver la source du bruit et quand c’est sérieux.',
     intro: [
@@ -388,7 +388,7 @@ export const pages: Record<string, SymptomTr> = {
       'Regarder sous la voiture sans se glisser dessous : un échappement qui pend, un bord de protection sous moteur qui ballotte ou une tôle repliée se voient souvent depuis la roue.',
     ],
     appHelp:
-      'L’application Stuk aide à rattacher le cliquetis à sa source : d’où vient le bruit, suit-il le régime moteur ou les bosses, que devient la puissance. À partir de vos réponses et de l’enregistrement, elle affiche les causes probables avec des pourcentages et un feu d’urgence — pratique pour distinguer une tôle inoffensive du catalyseur avant même le garage.',
+      'L’application Pro-Stuk aide à rattacher le cliquetis à sa source : d’où vient le bruit, suit-il le régime moteur ou les bosses, que devient la puissance. À partir de vos réponses et de l’enregistrement, elle affiche les causes probables avec des pourcentages et un feu d’urgence — pratique pour distinguer une tôle inoffensive du catalyseur avant même le garage.',
     faq: [
       {
         q: 'Est-il dangereux de rouler si quelque chose cliquette sous la voiture ?',
@@ -407,7 +407,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'skrezhet-pri-tormozhenii': {
     h1: 'Frottement métallique au freinage',
-    metaTitle: 'Frottement métallique au freinage : plaquettes finies | Stuk',
+    metaTitle: 'Frottement métallique au freinage : plaquettes finies | Pro-Stuk',
     description:
       'Le frottement métallique au freinage signifie le plus souvent des plaquettes usées jusqu’au métal : avec cela, on ne roule pas. Plus rarement, c’est un caillou derrière le déflecteur. Comment les distinguer.',
     intro: [
@@ -432,7 +432,7 @@ export const pages: Record<string, SymptomTr> = {
       'Examiner le disque à travers la jante : des sillons profonds et une teinte bleutée du métal disent que le frottement dure depuis longtemps et que les disques ont déjà souffert.',
     ],
     appHelp:
-      'L’application Stuk parcourt les mêmes questions — le frottement est-il permanent, la roue chauffe-t-elle, le bruit part-il après les premiers freinages — et l’enregistrement aide à distinguer le frottement du couinement du témoin d’usure. Le rapport donne les causes probables et un feu : vous pouvez rouler, montrez-le cette semaine ou n’allez que jusqu’au garage.',
+      'L’application Pro-Stuk parcourt les mêmes questions — le frottement est-il permanent, la roue chauffe-t-elle, le bruit part-il après les premiers freinages — et l’enregistrement aide à distinguer le frottement du couinement du témoin d’usure. Le rapport donne les causes probables et un feu : vous pouvez rouler, montrez-le cette semaine ou n’allez que jusqu’au garage.',
     faq: [
       {
         q: 'Quelle différence entre le frottement métallique et le couinement des freins ?',
@@ -451,7 +451,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-pri-razgone': {
     h1: 'Choc à l’accélération',
-    metaTitle: 'Choc à l’accélération et au lever de pied : causes | Stuk',
+    metaTitle: 'Choc à l’accélération et au lever de pied : causes | Pro-Stuk',
     description:
       'Pourquoi ça cogne quand on accélère ou qu’on lève le pied : supports moteur, cardan, jeu dans la transmission ou boîte automatique. Comment distinguer un jeu anodin d’un choc dans le moteur.',
     intro: [
@@ -476,7 +476,7 @@ export const pages: Record<string, SymptomTr> = {
       'Faire le test doux : si avec un appui et un lever de pied progressifs le choc disparaît et qu’il revient avec un geste brusque, c’est un jeu classique, et jusqu’à la réparation une conduite souple suffit.',
     ],
     appHelp:
-      'L’application Stuk pose les mêmes questions de précision — quand exactement ça cogne, le bruit change-t-il avec le régime et les rapports — et, grâce à l’enregistrement, aide à distinguer le fracas d’un jeu d’un cognement profond du moteur. Le rapport donne les causes probables avec des pourcentages et une conclusion claire : vous pouvez rouler, planifiez le garage ou arrêtez-vous.',
+      'L’application Pro-Stuk pose les mêmes questions de précision — quand exactement ça cogne, le bruit change-t-il avec le régime et les rapports — et, grâce à l’enregistrement, aide à distinguer le fracas d’un jeu d’un cognement profond du moteur. Le rapport donne les causes probables avec des pourcentages et une conclusion claire : vous pouvez rouler, planifiez le garage ou arrêtez-vous.',
     faq: [
       {
         q: 'Pourquoi ça cogne précisément à l’appui et au lever de pied ?',
@@ -495,7 +495,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'zvon-pri-razgone': {
     h1: 'Cliquetis à l’accélération',
-    metaTitle: 'Cliquetis à l’accélération : détonation ou non, que faire | Stuk',
+    metaTitle: 'Cliquetis à l’accélération : détonation ou non, que faire | Pro-Stuk',
     description:
       'Un tintement métallique à l’accélération vient le plus souvent de la détonation liée au carburant. Comment le vérifier en changeant de station et quand ce n’est pas le moteur mais la tôle pare-chaleur ou le catalyseur.',
     intro: [
@@ -520,7 +520,7 @@ export const pages: Record<string, SymptomTr> = {
       'Prêter attention à la puissance et aux bruits sous le plancher : bruissement et tintement d’en bas accompagnés d’une accélération plus molle sont une raison de faire vérifier le catalyseur sans délai.',
     ],
     appHelp:
-      'L’application Stuk aide avec les mêmes questions — quand ça tinte, le bruit suit-il la charge ou le régime — et l’enregistrement permet de distinguer le tintement clair de la détonation du cliquetis d’une tôle. Le rapport donne les causes probables avec des pourcentages et une conclusion : vous pouvez rouler, mieux vaut planifier le garage ou plutôt vous arrêter.',
+      'L’application Pro-Stuk aide avec les mêmes questions — quand ça tinte, le bruit suit-il la charge ou le régime — et l’enregistrement permet de distinguer le tintement clair de la détonation du cliquetis d’une tôle. Le rapport donne les causes probables avec des pourcentages et une conclusion : vous pouvez rouler, mieux vaut planifier le garage ou plutôt vous arrêter.',
     faq: [
       {
         q: 'Que signifie « le moteur cliquette » ?',
@@ -539,7 +539,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'gul-pri-povorote': {
     h1: 'Ronflement en virage',
-    metaTitle: 'Ronflement en virage : roulement de roue ou direction assistée | Stuk',
+    metaTitle: 'Ronflement en virage : roulement de roue ou direction assistée | Pro-Stuk',
     description:
       'D’où vient le ronflement en virage : roulement de roue usé, pompe de direction assistée qui hurle ou bruit des pneus. Comment déterminer le côté et savoir si c’est dangereux.',
     intro: [
@@ -565,7 +565,7 @@ export const pages: Record<string, SymptomTr> = {
       'Examiner la bande de roulement : une usure en dents de scie (marches sur les bords) ou par plaques amplifie le ronflement des pneus et suggère du même coup une géométrie faussée ou des amortisseurs fatigués.',
     ],
     appHelp:
-      'L’application Stuk pose les mêmes questions que le mécanicien à la réception : où l’on entend le ronflement, s’il change en virage, s’il est lié au volant tourné à l’arrêt. L’enregistrement aide à comparer le bruit à des exemples typiques, et le rapport donne les causes probables et une recommandation claire : roulez tranquillement, prenez rendez-vous cette semaine ou faites vérifier sans délai.',
+      'L’application Pro-Stuk pose les mêmes questions que le mécanicien à la réception : où l’on entend le ronflement, s’il change en virage, s’il est lié au volant tourné à l’arrêt. L’enregistrement aide à comparer le bruit à des exemples typiques, et le rapport donne les causes probables et une recommandation claire : roulez tranquillement, prenez rendez-vous cette semaine ou faites vérifier sans délai.',
     faq: [
       {
         q: 'Pourquoi le ronflement grossit-il seulement dans un sens de virage ?',
@@ -584,7 +584,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'shchelchki-pri-povorote-rulya': {
     h1: 'Claquements en tournant le volant',
-    metaTitle: 'Claquements au volant : cardan ou butée de suspension | Stuk',
+    metaTitle: 'Claquements au volant : cardan ou butée de suspension | Pro-Stuk',
     description:
       'Pourquoi ça claque quand on tourne le volant : cardan extérieur, butée d’amortisseur ou cardan de colonne. Comment les distinguer au bruit et quoi vérifier sans démonter.',
     intro: [
@@ -610,7 +610,7 @@ export const pages: Record<string, SymptomTr> = {
       'Retenir de quelle roue vient le craquement en roulant et dans quel virage il est plus fort — ces détails raccourcissent nettement la recherche au garage.',
     ],
     appHelp:
-      'Dans l’application Stuk, ces bifurcations sont réunies en un court arbre de questions : la voiture roule-t-elle ou est-elle à l’arrêt, d’où vient le bruit, dans quel état sont les soufflets. Le craquement peut être enregistré au téléphone et comparé à des exemples. Le rapport donne les causes probables avec leur évaluation et une recommandation de délai : sans panique, mais sans claquements oubliés pendant un mois.',
+      'Dans l’application Pro-Stuk, ces bifurcations sont réunies en un court arbre de questions : la voiture roule-t-elle ou est-elle à l’arrêt, d’où vient le bruit, dans quel état sont les soufflets. Le craquement peut être enregistré au téléphone et comparé à des exemples. Le rapport donne les causes probables avec leur évaluation et une recommandation de délai : sans panique, mais sans claquements oubliés pendant un mois.',
     faq: [
       {
         q: 'Qu’est-ce qu’un cardan et pourquoi claque-t-il ?',
@@ -629,7 +629,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'stuk-v-dvigatele-na-holodnuyu': {
     h1: 'Cognement du moteur à froid',
-    metaTitle: 'Le moteur cogne à froid : causes et que faire | Stuk',
+    metaTitle: 'Le moteur cogne à froid : causes et que faire | Pro-Stuk',
     description:
       'Pourquoi le moteur cogne à froid et se tait une fois chaud : poussoirs hydrauliques, attelage mobile, chaîne de distribution. Quand c’est normal et quand il faut aller au garage.',
     intro: [
@@ -655,7 +655,7 @@ export const pages: Record<string, SymptomTr> = {
       'Couper le moteur chaud pendant dix minutes puis redémarrer : un vrai cognement « à froid » ne revient pas après une pause aussi courte.',
     ],
     appHelp:
-      'L’application Stuk parcourt les mêmes bifurcations — cliquetis, cognement sourd ou bruissement, et à quelle vitesse le bruit disparaît — et l’enregistrement au téléphone aide à saisir un caractère difficile à décrire avec des mots. Le rapport donne les causes probables avec des pourcentages et une conclusion claire : roulez tranquillement, prenez rendez-vous cette semaine ou ne repoussez pas le garage.',
+      'L’application Pro-Stuk parcourt les mêmes bifurcations — cliquetis, cognement sourd ou bruissement, et à quelle vitesse le bruit disparaît — et l’enregistrement au téléphone aide à saisir un caractère difficile à décrire avec des mots. Le rapport donne les causes probables avec des pourcentages et une conclusion claire : roulez tranquillement, prenez rendez-vous cette semaine ou ne repoussez pas le garage.',
     faq: [
       {
         q: 'Le cognement disparaît une fois chaud — puis-je l’ignorer ?',
@@ -674,7 +674,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'svist-pri-zapuske': {
     h1: 'Sifflement au démarrage du moteur',
-    metaTitle: 'Sifflement au démarrage du moteur : causes et solutions | Stuk',
+    metaTitle: 'Sifflement au démarrage du moteur : causes et solutions | Pro-Stuk',
     description:
       'Pourquoi le moteur siffle au démarrage : courroie d’accessoires qui patine, galets ou pompe à eau. Quand le sifflement est anodin et quand il faut prendre rendez-vous.',
     intro: [
@@ -700,7 +700,7 @@ export const pages: Record<string, SymptomTr> = {
       'Regarder s’il y a des coulures ou des traces blanchâtres de liquide de refroidissement près des poulies : elles désignent la pompe à eau, et alors mieux vaut ne pas repousser la visite au garage.',
     ],
     appHelp:
-      'L’application Stuk pose les mêmes questions que le mécanicien à la réception : quand le sifflement apparaît, s’il part une fois chaud, ce que l’on entend pendant que le démarreur travaille. L’enregistrement aide à distinguer le couinement de la courroie du frottement du démarreur, et le rapport donne les causes probables avec des pourcentages et une conclusion claire : vous pouvez rouler, au garage cette semaine ou arrêtez-vous.',
+      'L’application Pro-Stuk pose les mêmes questions que le mécanicien à la réception : quand le sifflement apparaît, s’il part une fois chaud, ce que l’on entend pendant que le démarreur travaille. L’enregistrement aide à distinguer le couinement de la courroie du frottement du démarreur, et le rapport donne les causes probables avec des pourcentages et une conclusion claire : vous pouvez rouler, au garage cette semaine ou arrêtez-vous.',
     faq: [
       {
         q: 'Pourquoi le moteur siffle-t-il seulement à froid et par temps humide ?',
@@ -719,7 +719,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'vibratsiya-na-holostyh': {
     h1: 'Vibrations au ralenti',
-    metaTitle: 'Vibrations au ralenti : causes des tremblements et solutions | Stuk',
+    metaTitle: 'Vibrations au ralenti : causes des tremblements et solutions | Pro-Stuk',
     description:
       'Pourquoi la voiture tremble au ralenti : supports moteur, ratés d’allumage, prise d’air ou papillon encrassé. Quoi vérifier et peut-on rouler.',
     intro: [
@@ -744,7 +744,7 @@ export const pages: Record<string, SymptomTr> = {
       'Se rappeler quand les bougies ont été changées : un kilométrage bien au-delà de l’intervalle en fait le premier candidat en cas de ratés. Si le voyant moteur est allumé, commencer par la lecture des codes : ils resserrent la recherche.',
     ],
     appHelp:
-      'L’application Stuk pose les mêmes questions — le tremblement augmente-t-il avec un rapport enclenché, le régime tient-il, le voyant moteur est-il allumé — et répartit les causes probables en pourcentages. Le rapport donne une conclusion claire : roulez tranquillement, prenez rendez-vous cette semaine ou montrez la voiture dans les jours qui viennent.',
+      'L’application Pro-Stuk pose les mêmes questions — le tremblement augmente-t-il avec un rapport enclenché, le régime tient-il, le voyant moteur est-il allumé — et répartit les causes probables en pourcentages. Le rapport donne une conclusion claire : roulez tranquillement, prenez rendez-vous cette semaine ou montrez la voiture dans les jours qui viennent.',
     faq: [
       {
         q: 'Pourquoi ça tremble seulement au ralenti alors que la voiture roule bien ?',
@@ -763,7 +763,7 @@ export const pages: Record<string, SymptomTr> = {
 
   'hlopki-v-glushitele': {
     h1: 'Détonations dans l’échappement',
-    metaTitle: 'Détonations dans l’échappement : causes et que faire | Stuk',
+    metaTitle: 'Détonations dans l’échappement : causes et que faire | Pro-Stuk',
     description:
       'Pourquoi l’échappement pétarade : ratés d’allumage, ligne percée, mélange incorrect ou réglages du GPL. Ce que les détonations font au catalyseur et quand aller au garage.',
     intro: [
@@ -789,7 +789,7 @@ export const pages: Record<string, SymptomTr> = {
       'Sur une voiture au GPL, comparer le fonctionnement au gaz et à l’essence : des détonations uniquement au gaz sont une question pour l’installateur.',
     ],
     appHelp:
-      'L’application Stuk précise les circonstances — détonations ou rugissement, au gaz ou à l’essence, avec ou sans perte de puissance — et aide à séparer les problèmes d’allumage, un trou dans la ligne et un embrayage qui patine, qui se ressemblent à l’oreille. Le rapport donne les causes probables avec des pourcentages et une recommandation claire sur l’urgence du garage.',
+      'L’application Pro-Stuk précise les circonstances — détonations ou rugissement, au gaz ou à l’essence, avec ou sans perte de puissance — et aide à séparer les problèmes d’allumage, un trou dans la ligne et un embrayage qui patine, qui se ressemblent à l’oreille. Le rapport donne les causes probables avec des pourcentages et une recommandation claire sur l’urgence du garage.',
     faq: [
       {
         q: 'Pourquoi l’échappement pétarade-t-il si le problème est dans le moteur ?',

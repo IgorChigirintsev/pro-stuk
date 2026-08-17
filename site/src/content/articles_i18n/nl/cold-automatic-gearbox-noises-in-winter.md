@@ -1,6 +1,6 @@
 ---
 title: "Geluiden van een koude automaat in de winter"
-metaTitle: "Koude automaat in de winter: geluiden | Stuk"
+metaTitle: "Koude automaat in de winter: geluiden | Pro-Stuk"
 description: "In de winter bromt, schokt en tikt een koude automaat, en na tien minuten wordt hij stil. Waar normaal ophoudt en welke geluiden na het opwarmen blijven."
 faq:
   - q: "Is brommen van een koude automaat bij vorst normaal?"

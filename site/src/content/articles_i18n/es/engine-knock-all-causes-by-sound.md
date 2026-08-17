@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo en el motor: todas las causas por tipo de sonido"
-metaTitle: "Golpeteo en el motor: todas las causas por sonido | Stuk"
+metaTitle: "Golpeteo en el motor: todas las causas por sonido | Pro-Stuk"
 description: "Un mapa de los golpeteos del motor por el carácter del sonido: tableteo, chasquidos, timbre metálico, golpes sordos. Qué significa cada uno y qué urgencia tiene."
 faq:
   - q: "¿Se puede identificar la causa con precisión solo por el sonido?"
@@ -152,6 +152,6 @@ ralentí. Esas tres respuestas ahorran al mecánico la mitad del tiempo de
 diagnóstico y a usted lo que cuesta.
 
 Para no tener que adivinar a partir de descripciones, grabe el motor en marcha
-con la aplicación Stuk: compara la grabación con sus respuestas sobre las
+con la aplicación Pro-Stuk: compara la grabación con sus respuestas sobre las
 condiciones y muestra las causas probables con porcentajes y un nivel de
 urgencia. Con esa lista, la conversación en el taller se vuelve concreta.

@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Lenkgetriebe: nachstellen oder tauschen"
-metaTitle: "Klopfen im Lenkgetriebe: nachstellen oder tauschen | Stuk"
+metaTitle: "Klopfen im Lenkgetriebe: nachstellen oder tauschen | Pro-Stuk"
 description: "Wann ein klopfendes Lenkgetriebe nachgestellt werden kann und wann es eine Überholung oder einen Tausch braucht: die Kriterien und das Risiko des Überziehens."
 faq:
   - q: "Wie lange hält eine Nachstellung des Lenkgetriebes?"

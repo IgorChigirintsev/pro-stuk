@@ -1,6 +1,6 @@
 ---
 title: "Wat gebeurt er als u stabilisatorstangen nooit vervangt"
-metaTitle: "Versleten stabilisatorstangen: gevolgen | Stuk"
+metaTitle: "Versleten stabilisatorstangen: gevolgen | Pro-Stuk"
 description: "Waar doorrijden op versleten stabilisatorstangen toe leidt: meer overhelling, een gebroken stang, slijtage aan buren. Hoelang u kunt wachten en waarom uitstel duurder is."
 faq:
   - q: "Is rijden met klapperende stabilisatorstangen gevaarlijk?"

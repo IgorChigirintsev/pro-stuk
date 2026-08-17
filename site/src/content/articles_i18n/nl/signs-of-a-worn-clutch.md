@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een versleten koppeling"
-metaTitle: "Versleten koppeling: tekenen, test, reparatie | Stuk"
+metaTitle: "Versleten koppeling: tekenen, test, reparatie | Pro-Stuk"
 description: "Zo herkent u koppelingsslijtage: slippen, brandlucht, een hoog pedaal, schokken. Een test van één minuut, de stadia en hoe de klus wordt bepaald."
 faq:
   - q: "Wat is het eerste teken van koppelingsslijtage?"

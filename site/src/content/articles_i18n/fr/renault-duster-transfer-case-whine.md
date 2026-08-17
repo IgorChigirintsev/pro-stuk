@@ -1,6 +1,6 @@
 ---
 title: "Ronflement du boîtier de transfert sur Renault Duster"
-metaTitle: "Ronflement du boîtier de transfert Duster | Stuk"
+metaTitle: "Ronflement du boîtier de transfert Duster | Pro-Stuk"
 description: "Un ronflement sous un Duster 4x4 : comment distinguer le boîtier de transfert et le pont arrière d'un roulement de roue ou des pneus, et ce qui se contrôle."
 faq:
   - q: "Le ronflement n'existe qu'au-dessus de 60 km/h. Est-ce le boîtier de transfert ?"
@@ -103,7 +103,7 @@ arrivent souvent ensemble, et des amortisseurs usés modifient à eux seuls
 le tableau acoustique.
 
 Si vous voulez arriver avec une hypothèse précise, enregistrez le ronflement
-avec l'application Stuk sur une portion plate — d'abord en tirant, ensuite
+avec l'application Pro-Stuk sur une portion plate — d'abord en tirant, ensuite
 en roue libre. L'application confronte les enregistrements à vos réponses et
 affiche les causes probables en pourcentages, et vous pouvez dire tout de
 suite au mécanicien ce que vous avez déjà écarté.

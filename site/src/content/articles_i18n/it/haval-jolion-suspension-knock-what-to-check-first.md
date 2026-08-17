@@ -1,6 +1,6 @@
 ---
 title: "Colpi alla sospensione della Haval Jolion: cosa controllare per primo"
-metaTitle: "Colpi sospensione Haval Jolion: da dove partire | Stuk"
+metaTitle: "Colpi sospensione Haval Jolion: da dove partire | Pro-Stuk"
 description: "Un ordine sensato per cercare un colpo all’avantreno di una Haval Jolion: dalle biellette della barra ai supporti superiori e ai silent block dei bracci."
 faq:
   - q: "Un colpo alla sospensione della Jolion rientra in garanzia?"
@@ -103,6 +103,6 @@ La logica diagnostica generale per le auto di questo segmento è in
 Aiuta arrivare con una descrizione invece che con la sola parola «batte»:
 la velocità, il tipo di asperità, auto fredda o calda, colpo singolo o
 ticchettio. Registrare il suono e scomporlo secondo quelle condizioni è
-quello che fa l’app Stuk: confronta la registrazione con le vostre
+quello che fa l’app Pro-Stuk: confronta la registrazione con le vostre
 risposte a poche domande e mostra le cause probabili in percentuale, così
 il discorso in officina parte dai fatti.

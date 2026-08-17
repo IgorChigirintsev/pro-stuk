@@ -19,7 +19,7 @@ export const nl: ArticleUi = {
   hubQuizSub:
     'Een interactieve diagnoseboom: een paar vragen en de lijst met oorzaken wordt flink korter.',
   hubOther: 'Andere secties',
-  indexTitle: 'Artikelen over autogeluiden | Stuk',
+  indexTitle: 'Artikelen over autogeluiden | Pro-Stuk',
   indexDescription:
     'Gidsen over autogeluiden: kloppen, piepen, brommen, janken en rammelen. Wat elk geluid betekent, wat u zelf kunt controleren en hoe dringend het is.',
   indexH1: 'Artikelen',

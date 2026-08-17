@@ -1,6 +1,6 @@
 ---
 title: "Rangido no interior ao passar em ondulações"
-metaTitle: "Rangido no interior em ondulações: causas | Stuk"
+metaTitle: "Rangido no interior em ondulações: causas | Pro-Stuk"
 description: "Rangido no interior em ondulações: por que a carroceria flexiona e provoca o som, como separar acabamento de suspensão e o que dá para resolver sozinho."
 faq:
   - q: "Rangido no interior em ondulações é perigoso?"
@@ -89,7 +89,7 @@ Vale se preparar antes do frio, porém: em temperatura baixa a lista de
 lugares que rangem costuma crescer.
 
 O jeito mais confiável de parar de discutir consigo mesmo de onde vem o
-som é gravar. Comece uma gravação no aplicativo Stuk antes de um trecho
+som é gravar. Comece uma gravação no aplicativo Pro-Stuk antes de um trecho
 ruim que você já conhece e faça ele duas vezes: com as janelas fechadas e
 com elas abertas. O aplicativo cruza as gravações com as suas respostas e
 mostra onde procurar — dentro do carro ou embaixo dele.

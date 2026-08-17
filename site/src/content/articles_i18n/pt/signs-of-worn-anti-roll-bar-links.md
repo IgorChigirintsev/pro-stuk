@@ -1,6 +1,6 @@
 ---
 title: "Sinais de bieletas gastas"
-metaTitle: "Bieletas gastas: batida e testes simples | Stuk"
+metaTitle: "Bieletas gastas: batida e testes simples | Pro-Stuk"
 description: "Como as bieletas gastas batem, como o som delas difere de amortecedores e pivôs, checagens simples e o que envolve a troca."
 faq:
   - q: "Qual é o sinal mais característico de bieleta gasta?"
@@ -130,6 +130,6 @@ carro segura bem pior a trajetória numa manobra brusca. Considerando o
 preço da peça, economizar na troca raramente se justifica.
 
 Se você não tem certeza de que são as bieletas batendo, grave o som no
-aplicativo Stuk: ele cruza a gravação com as suas respostas e mostra as
+aplicativo Pro-Stuk: ele cruza a gravação com as suas respostas e mostra as
 causas prováveis com nota de urgência — com essa lista, a conversa com o
 mecânico fica objetiva.

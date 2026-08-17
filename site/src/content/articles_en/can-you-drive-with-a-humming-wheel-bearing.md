@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-s-gudyashchim-podshipnikom"
 title: "Can you drive with a humming wheel bearing"
-metaTitle: "Can you drive with a humming wheel bearing? | Stuk"
+metaTitle: "Can you drive with a humming wheel bearing? | Pro-Stuk"
 description: "How far you can drive with a humming wheel bearing, what each stage of wear risks, how to reduce the risk on the road and how the repair is decided."
 pubDate: "2026-08-02"
 related:
@@ -141,7 +141,7 @@ The full set of self-checks is in
 [how to check a wheel bearing yourself](/en/articles/how-to-check-a-wheel-bearing-yourself/).
 
 If you want something firmer to lean on than your own ear, record the hum
-on the move in the Stuk app: it matches the sound with your answers and
+on the move in the Pro-Stuk app: it matches the sound with your answers and
 shows the likely causes with percentages and an urgency level — which
 makes it easier to decide between going in tomorrow and finishing the week
 calmly.

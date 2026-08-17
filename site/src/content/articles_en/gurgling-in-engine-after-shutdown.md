@@ -1,7 +1,7 @@
 ---
 ru: "bulkaet-v-dvigatele-posle-ostanovki"
 title: "Gurgling in the engine after you switch off"
-metaTitle: "Gurgling in the engine after shutdown: causes | Stuk"
+metaTitle: "Gurgling in the engine after shutdown: causes | Pro-Stuk"
 description: "Gurgling after you switch off: when it is normal cool-down and when it is air in the system, a tired cap or a head gasket. Checks you can do in five minutes."
 pubDate: "2026-07-09"
 related:
@@ -122,6 +122,6 @@ has been through a full heat cycle. Air that was left behind shows up
 exactly as the gurgling you came in with.
 
 If you are not sure whether yours is normal or not, record the sound
-after shutdown in the Stuk app: it matches the recording against your
+after shutdown in the Pro-Stuk app: it matches the recording against your
 answers — when it gurgles, whether coolant disappears, whether the heater
 works — and shows the likely causes with an urgency level.

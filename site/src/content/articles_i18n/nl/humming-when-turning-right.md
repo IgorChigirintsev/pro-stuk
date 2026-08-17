@@ -1,6 +1,6 @@
 ---
 title: "Gebrom bij het draaien naar rechts"
-metaTitle: "Gebrom in rechtse bocht: oorzaken en tests | Stuk"
+metaTitle: "Gebrom in rechtse bocht: oorzaken en tests | Pro-Stuk"
 description: "Groeit het gebrom in rechtse bochten, dan is het linker wiellager verdacht. Stap voor stap controleren zonder brug, de klankdubbels en de reparatie."
 faq:
   - q: "Waarom bromt het linkerlager bij het draaien naar rechts?"

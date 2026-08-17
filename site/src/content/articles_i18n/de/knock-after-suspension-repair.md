@@ -1,6 +1,6 @@
 ---
 title: "Klopfen nach einer Fahrwerksreparatur: wer ist schuld"
-metaTitle: "Klopfen nach Fahrwerksreparatur: wer ist schuld | Stuk"
+metaTitle: "Klopfen nach Fahrwerksreparatur: wer ist schuld | Pro-Stuk"
 description: "Nach einer Fahrwerksreparatur ist ein Klopfen aufgetreten: Einbaufehler, defektes Teil oder ein Nachbarbauteil? Wie Sie die drei Versionen ruhig trennen."
 faq:
   - q: "Ist ein Nachziehen des Fahrwerks nach einer Reparatur normal?"

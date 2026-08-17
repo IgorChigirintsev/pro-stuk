@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een versleten distributieriem"
-metaTitle: "Versleten distributieriem: controle en termijn | Stuk"
+metaTitle: "Versleten distributieriem: controle en termijn | Pro-Stuk"
 description: "Zo ziet u dat de distributieriem versleten is: scheurtjes, rafels, tikken en gejank van rollen. Waarom breuk fataal is en wanneer vervangen moet."
 faq:
   - q: "Wat gebeurt er als de distributieriem tijdens het rijden breekt?"

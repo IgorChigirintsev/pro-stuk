@@ -1,6 +1,6 @@
 ---
 title: "Silnik klekocze jak diesel: wtryskiwacze czy luzy zaworowe"
-metaTitle: "Klekot jak diesel: wtryskiwacze czy zawory | Stuk"
+metaTitle: "Klekot jak diesel: wtryskiwacze czy zawory | Pro-Stuk"
 description: "Benzynowy silnik zaczął klekotać jak diesel: kiedy winne są wtryskiwacze, kiedy luzy zaworowe i jak rozróżnić jedno od drugiego na słuch."
 faq:
   - q: "Dlaczego silnik benzynowy brzmi jak diesel?"
@@ -100,7 +100,7 @@ oznacza płacenie dwa razy za ten sam demontaż.
 
 Klekot jak z diesla to przypadek, w którym opisanie dźwięku słowami jest
 prawie niemożliwe, a nagranie go — łatwe. Proszę zrobić dwa nagrania
-w aplikacji Stuk: zaraz po zimnym rozruchu i po dziesięciu minutach
+w aplikacji Pro-Stuk: zaraz po zimnym rozruchu i po dziesięciu minutach
 pracy. Aplikacja bada je pod kątem częstotliwości i charakteru
 i pokazuje prawdopodobne przyczyny z procentami, dzięki czemu przyjedzie
 Pan do warsztatu z konkretną hipotezą.

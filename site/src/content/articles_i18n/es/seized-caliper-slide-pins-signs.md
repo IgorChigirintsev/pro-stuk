@@ -1,6 +1,6 @@
 ---
 title: "Señales de guías de pinza agarrotadas"
-metaTitle: "Guías de pinza agarrotadas: las señales | Stuk"
+metaTitle: "Guías de pinza agarrotadas: las señales | Pro-Stuk"
 description: "Una rueda que se calienta, el coche que tira al frenar, pastillas gastadas de forma desigual: cómo reconocer unas guías agarrotadas y qué hace el taller."
 faq:
   - q: "¿Cómo compruebo rápido si una pinza se está agarrotando?"
@@ -103,7 +103,7 @@ antes que en ningún sitio: la corrosión de las guías empieza por un fuelle
 dañado, no por los kilómetros.
 
 Si tiene la sensación de que el coche no rueda libre y oye un sonido de
-una rueda, grábelo en la aplicación Stuk rodando sin acelerador y frenando
+una rueda, grábelo en la aplicación Pro-Stuk rodando sin acelerador y frenando
 suave. La aplicación compara la grabación con sus respuestas sobre calor y
 desvíos y sugiere qué revisar primero: el mecanismo de freno o el tren
 rodante.

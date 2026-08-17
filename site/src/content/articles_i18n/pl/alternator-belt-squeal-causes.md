@@ -1,6 +1,6 @@
 ---
 title: "Pisk paska alternatora: przyczyny"
-metaTitle: "Pisk paska alternatora: przyczyny i co robić | Stuk"
+metaTitle: "Pisk paska alternatora: przyczyny i co robić | Pro-Stuk"
 description: "Dlaczego piszczy pasek napędu osprzętu: słabe napięcie, zużycie, olej na kołach pasowych, rolki. Jak znaleźć przyczynę po momencie, w którym pisk się pojawia."
 faq:
   - q: "Czy można jeździć z piszczącym paskiem osprzętu?"
@@ -142,7 +142,7 @@ to wciągnięcie fragmentu paska osprzętu pod osłonę rozrządu — wtedy
 skutki robią się naprawdę kosztowne.
 
 Gdy na słuch nie sposób odróżnić, czy to pasek, rolka, czy łożysko w
-którymś z podzespołów, proszę nagrać dźwięk w aplikacji Stuk: zestawia
+którymś z podzespołów, proszę nagrać dźwięk w aplikacji Pro-Stuk: zestawia
 ona nagranie z Pana odpowiedziami i pokazuje prawdopodobne przyczyny wraz
 ze stopniem pilności — dzięki temu rozmowa w warsztacie staje się
 konkretna.

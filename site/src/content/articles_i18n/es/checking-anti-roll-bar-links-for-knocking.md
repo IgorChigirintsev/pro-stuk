@@ -1,6 +1,6 @@
 ---
 title: "Bieletas de la barra estabilizadora que golpean: cómo comprobarlas"
-metaTitle: "Bieletas que golpean: cómo comprobarlas | Stuk"
+metaTitle: "Bieletas que golpean: cómo comprobarlas | Pro-Stuk"
 description: "El traqueteo sobre baches pequeños es la queja más habitual de las bieletas. Cómo comprobarlas a mano en diez minutos y no pagar de más por brazos nuevos."
 faq:
   - q: "¿Cómo distingo el golpeteo de una bieleta de los demás?"
@@ -99,7 +99,7 @@ mientras que la reparación cuesta bastante menos que cualquier otro trabajo
 de suspensión, así que no tiene sentido alargarlo.
 
 Si el golpeteo se oye pero no consigue coger la holgura con la mano, grabe
-un tramo de firme rizado con la aplicación Stuk. Compara el carácter y la
+un tramo de firme rizado con la aplicación Pro-Stuk. Compara el carácter y la
 frecuencia de los impactos con sus respuestas sobre velocidad y firme, y
 muestra las causas probables con porcentajes: más fácil de discutir en un
 taller que «algo traquetea delante».

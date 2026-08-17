@@ -1,6 +1,6 @@
 ---
 title: "Segni di un giunto sferico consumato"
-metaTitle: "Giunto sferico consumato: i segni | Stuk"
+metaTitle: "Giunto sferico consumato: i segni | Pro-Stuk"
 description: "Colpi sulle asperità piccole, cigolio sterzando, gioco alla ruota: come riconoscere un giunto sferico consumato, come controllarlo e quanto è urgente cambiarlo."
 faq:
   - q: "Come suona un giunto sferico consumato?"
@@ -126,5 +126,5 @@ gomme, allenta lo sterzo e aggiunge rumori che si confondono facilmente con
 altri problemi della sospensione.
 
 Se qualcosa batte dal basso e l'origine non è evidente, registri il suono con
-l'app Stuk. Confronta la registrazione con le sue risposte su quando e come
+l'app Pro-Stuk. Confronta la registrazione con le sue risposte su quando e come
 compare il rumore e mostra le cause probabili con un livello di urgenza.

@@ -1,6 +1,6 @@
 ---
 title: "Triger zinciri hışırtısı: nasıl bir ses"
-metaTitle: "Triger zinciri hışırtısı: sesi ve riski | Stuk"
+metaTitle: "Triger zinciri hışırtısı: sesi ve riski | Pro-Stuk"
 description: "Uzamış triger zinciri nasıl ses verir, çalıştırmadan sonraki hışırtı ne zaman normaldir ve ne zaman servis demektir. Aşınma aşamaları ve diş atlama riski."
 faq:
   - q: "Çalıştırmadan sonra kaç saniyelik hışırtı normal?"
@@ -123,5 +123,5 @@ yazısında. Fiyata dahil mi diye sormak, aynı sökme işini iki kez yapmaktan
 kurtarır.
 
 Duyduğunuzun zincir olduğundan emin değil misiniz? Kaput açıkken motoru
-Stuk uygulamasında kaydedin: uygulama kaydı tipik arıza sesleriyle
+Pro-Stuk uygulamasında kaydedin: uygulama kaydı tipik arıza sesleriyle
 eşleştirir ve olası sebepleri aciliyet seviyesiyle birlikte gösterir.

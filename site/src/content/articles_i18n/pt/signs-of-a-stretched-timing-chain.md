@@ -1,6 +1,6 @@
 ---
 title: "Sinais de corrente de comando esticada"
-metaTitle: "Corrente de comando esticada: som e testes | Stuk"
+metaTitle: "Corrente de comando esticada: som e testes | Pro-Stuk"
 description: "Como soa uma corrente de comando esticada, quais códigos ela gera, como o alongamento é medido sem abrir o motor e como o serviço é decidido."
 faq:
   - q: "Qual é o primeiríssimo sinal de corrente de comando esticada?"
@@ -155,5 +155,5 @@ Terminado o serviço, peça para ver a corrente velha ao lado da nova — num
 conjunto gasto a diferença de comprimento se vê a olho nu.
 
 Se você não tem certeza se é a corrente ou outra coisa, comece por uma
-gravação: o aplicativo Stuk analisa o motor em funcionamento junto com as
+gravação: o aplicativo Pro-Stuk analisa o motor em funcionamento junto com as
 suas respostas e mostra as causas prováveis com porcentagens.

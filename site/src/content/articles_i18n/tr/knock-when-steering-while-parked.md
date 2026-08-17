@@ -1,6 +1,6 @@
 ---
 title: "Park halinde direksiyon çevirirken tak sesi"
-metaTitle: "Park halinde direksiyon çevirince tak sesi | Stuk"
+metaTitle: "Park halinde direksiyon çevirince tak sesi | Pro-Stuk"
 description: "Araç dururken direksiyon çevirince gelen tak, çıtırtı ya da tıkırtı: kule yatağı, rot başı, direksiyon kutusu, hidrolik — nasıl ayırt edilir."
 faq:
   - q: "Neden sadece park halinde ses geliyor da seyirde sessiz?"
@@ -136,6 +136,6 @@ başı mı sorusunun ayrıntısı
 yazısında.
 
 Sesi tam olarak neyin çıkardığından emin değilseniz, direksiyonu
-çevirirken gelen çıtırtıyı ya da tak sesini Stuk uygulamasıyla kaydedin.
+çevirirken gelen çıtırtıyı ya da tak sesini Pro-Stuk uygulamasıyla kaydedin.
 Uygulama kaydı, sesin ne zaman çıktığına dair yanıtlarınızla eşleştirip
 olası sebepleri aciliyet seviyesiyle birlikte gösterir.

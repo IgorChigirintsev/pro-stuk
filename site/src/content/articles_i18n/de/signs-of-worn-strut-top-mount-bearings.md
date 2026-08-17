@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Federbeinlager"
-metaTitle: "Federbeinlager verschlissen: die Zeichen | Stuk"
+metaTitle: "Federbeinlager verschlissen: die Zeichen | Pro-Stuk"
 description: "Knirschen und Klopfen beim Lenken, dumpfe Schläge auf Unebenheiten — so erkennen Sie verschlissene Federbeinlager und was die Reparatur bestimmt."
 faq:
   - q: "Woran erkenne ich, dass es das Federbeinlager ist und nicht der Dämpfer?"

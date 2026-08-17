@@ -1,6 +1,6 @@
 ---
 title: "Top 10 geluiden waarmee u niet moet doorrijden"
-metaTitle: "Top 10 geluiden waarmee u niet moet doorrijden | Stuk"
+metaTitle: "Top 10 geluiden waarmee u niet moet doorrijden | Pro-Stuk"
 description: "Tien autogeluiden waarna doorrijden onverstandig is: wat er in elk geval kapotgaat en hoe u ze onderscheidt van onschuldige geluiden."
 faq:
   - q: "Waarom staat gewoon piepende remmen niet in de lijst?"

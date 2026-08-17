@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-umirayushchego-stsepleniya"
 title: "Signs of a worn clutch"
-metaTitle: "Signs of a worn clutch: tests and the repair | Stuk"
+metaTitle: "Signs of a worn clutch: tests and the repair | Pro-Stuk"
 description: "How to recognise clutch wear: slipping, a burning smell, a high pedal, jerking. A one-minute test, the stages of wear and how the job is decided."
 pubDate: "2026-08-02"
 related:
@@ -148,6 +148,6 @@ the bill is one thing; once overheating has reached the flywheel, it is
 another.
 
 If you are not sure the vibration or noise really is the clutch, record
-the sound in the Stuk app: at idle, with the pedal pressed, and when
+the sound in the Pro-Stuk app: at idle, with the pedal pressed, and when
 pulling away. The app matches the recordings with your answers and shows
 the likely causes with an urgency rating.

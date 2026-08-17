@@ -1,6 +1,6 @@
 ---
 title: "Strappi e colpi del cambio automatico in cambiata"
-metaTitle: "Cambio automatico: strappi e colpi in cambiata | Stuk"
+metaTitle: "Cambio automatico: strappi e colpi in cambiata | Pro-Stuk"
 description: "Strappi e un colpo sordo mentre l'automatico cambia marcia possono essere innocui o il primo segnale di una riparazione cara. Come distinguerli e cosa controllare."
 faq:
   - q: "Uno strappo quando si passa da P a D è normale?"
@@ -100,7 +100,7 @@ specifica viene messa. E se a chilometraggio alto le rifiutano il cambio
 d'olio, di solito è prudenza e non pigrizia: l'olio fresco lava i depositi
 che tenevano insieme frizioni ormai consumate.
 
-Mentre ci ragiona, registri il rumore con l'app Stuk nel momento della
+Mentre ci ragiona, registri il rumore con l'app Pro-Stuk nel momento della
 cambiata: prima a freddo, poi ad auto calda. L'app confronta le
 registrazioni con le sue risposte e mostra dove guardare per primo: i
 supporti, l'olio, oppure davvero l'interno del cambio.

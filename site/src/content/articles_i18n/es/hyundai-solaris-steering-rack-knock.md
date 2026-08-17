@@ -1,6 +1,6 @@
 ---
 title: "Golpeteo de la cremallera de dirección en el Hyundai Solaris"
-metaTitle: "Golpeteo de la cremallera en el Hyundai Solaris | Stuk"
+metaTitle: "Golpeteo de la cremallera en el Hyundai Solaris | Pro-Stuk"
 description: "Por qué aparece un golpe en el volante de un Hyundai Solaris en baches pequeños, y cómo distinguir la cremallera de los terminales y las bieletas."
 faq:
   - q: "¿Ajustar la cremallera resuelve el problema para siempre?"
@@ -115,7 +115,7 @@ saltársela hace que los neumáticos delanteros se gasten por los bordes en unos
 pocos miles de kilómetros.
 
 Si el golpeteo no aparece cada vez y en el taller no consiguen reproducirlo,
-grabe el sonido con la aplicación Stuk pasando por baches finos. La aplicación
+grabe el sonido con la aplicación Pro-Stuk pasando por baches finos. La aplicación
 compara la grabación con sus respuestas y muestra las causas probables con
 porcentajes, lo que le ahorra una conversación del género «bueno, es que
 golpea un poco».

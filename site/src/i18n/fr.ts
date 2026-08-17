@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const fr: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Symptômes',
     how: 'Comment ça marche',
@@ -11,7 +11,7 @@ export const fr: Dict = {
   },
   footer: {
     disclaimer:
-      'Stuk donne une estimation de probabilités à partir de vos réponses et du bruit, ' +
+      'Pro-Stuk donne une estimation de probabilités à partir de vos réponses et du bruit, ' +
       'pas un diagnostic. La décision finale sur la réparation revient au mécanicien ' +
       'après examen de la voiture.',
     how: 'Comment ça marche',
@@ -20,7 +20,7 @@ export const fr: Dict = {
     ruOnly: 'Guides par symptôme et articles (en russe)',
   },
   home: {
-    title: 'Stuk — diagnostic auto à l’oreille',
+    title: 'Pro-Stuk — diagnostic auto à l’oreille',
     description:
       'Enregistrez le bruit et sachez ce qu’a votre voiture. Un questionnaire court, ' +
       'l’analyse de l’enregistrement et un rapport : causes probables avec pourcentages, ' +
@@ -54,7 +54,7 @@ export const fr: Dict = {
     faq: [
       {
         q: 'Est-ce un diagnostic exact ?',
-        a: 'Non. Stuk donne une estimation de probabilités : une liste de causes possibles avec des pourcentages et un niveau d’urgence. Le diagnostic exact, c’est le mécanicien qui le pose après examen — le rapport sert à arriver préparé.',
+        a: 'Non. Pro-Stuk donne une estimation de probabilités : une liste de causes possibles avec des pourcentages et un niveau d’urgence. Le diagnostic exact, c’est le mécanicien qui le pose après examen — le rapport sert à arriver préparé.',
       },
       {
         q: 'Combien ça coûte ?',
@@ -87,7 +87,7 @@ export const fr: Dict = {
     schemaWhole: 'L’ensemble au complet.',
   },
   symptoms: {
-    indexTitle: 'Bruits et symptômes de la voiture expliqués | Stuk',
+    indexTitle: 'Bruits et symptômes de la voiture expliqués | Pro-Stuk',
     indexDescription: 'Cognement, ronflement, sifflement, grincement : ce que signifie chaque bruit de voiture, à quel point c’est grave et ce que vous pouvez vérifier vous-même. Guides par symptôme avec arbre de diagnostic.',
     h1: 'Symptômes par le bruit',
     sub: 'Choisissez le bruit le plus proche du vôtre. Dans chaque guide : causes probables, feu de danger, vérifications sans risque et arbre de diagnostic interactif.',
@@ -119,7 +119,7 @@ export const fr: Dict = {
   },
   download: {
     h2: 'L’application Android',
-    sub: 'Le questionnaire, l’enregistrement du bruit et le rapport complet avec les probabilités sont dans l’application Stuk.',
+    sub: 'Le questionnaire, l’enregistrement du bruit et le rapport complet avec les probabilités sont dans l’application Pro-Stuk.',
     btn: 'Télécharger pour Android',
     meta: 'Version {version} · APK {size} Mo · mis à jour le {date}',
     installH: 'Installer l’APK',
@@ -132,7 +132,7 @@ export const fr: Dict = {
     playNote: 'Dès que l’application sera sur Google Play, cette page sera mise à jour.',
   },
   how: {
-    title: 'Comment fonctionne le diagnostic à l’oreille | Stuk',
+    title: 'Comment fonctionne le diagnostic à l’oreille | Pro-Stuk',
     description:
       'Sans enjolivures : le questionnaire comme outil principal, l’analyse spectrale de ' +
       'l’enregistrement, un modèle de langage et les faiblesses connues de chaque modèle. ' +
@@ -145,7 +145,7 @@ export const fr: Dict = {
       'ressemble, s’il dépend de la vitesse, du régime, du freinage, des virages. Les ' +
       'réponses éliminent des familles entières de causes — cela apporte plus que n’importe ' +
       'quel algorithme appliqué à un mauvais enregistrement. Le questionnaire passe donc en ' +
-      'premier dans Stuk, et sa logique est un arbre de décision : chaque réponse mène à la ' +
+      'premier dans Pro-Stuk, et sa logique est un arbre de décision : chaque réponse mène à la ' +
       'question suivante, plus précise.',
     recH2: 'Ce qui arrive à l’enregistrement',
     recP: [
@@ -165,7 +165,7 @@ export const fr: Dict = {
       'Des pannes différentes font le même bruit : le ronflement d’un roulement de roue se ' +
         'confond aisément avec le bruit des pneus, et le claquement des biellettes de barre ' +
         'stabilisatrice avec des pièces de suspension bien plus sérieuses. Pour trancher, il ' +
-        'faut passer la voiture sur un pont. C’est pourquoi Stuk ne pose pas de diagnostic et ' +
+        'faut passer la voiture sur un pont. C’est pourquoi Pro-Stuk ne pose pas de diagnostic et ' +
         'ne promet pas d’exactitude : il répartit honnêtement les probabilités et dit quoi ' +
         'vérifier en premier.',
       'Un bon enregistrement améliore l’estimation, mais ne remplace pas le mécanicien. ' +
@@ -180,13 +180,13 @@ export const fr: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Politique de confidentialité | Stuk',
+    title: 'Politique de confidentialité | Pro-Stuk',
     description:
-      'Ce que deviennent vos données dans l’application Stuk : l’audio est traité sur le ' +
+      'Ce que deviennent vos données dans l’application Pro-Stuk : l’audio est traité sur le ' +
       'serveur et n’est pas conservé après l’analyse, il n’y a ni comptes ni mesure d’audience.',
     h1: 'Politique de confidentialité',
     intro:
-      'L’application Stuk collecte le strict minimum — exactement ce dont le diagnostic a besoin.',
+      'L’application Pro-Stuk collecte le strict minimum — exactement ce dont le diagnostic a besoin.',
     items: [
       {
         strong: 'L’enregistrement',
@@ -218,7 +218,7 @@ export const fr: Dict = {
     tagline: 'Trouver la panne au bruit',
   },
   notFound: {
-    title: 'Page introuvable — Stuk',
+    title: 'Page introuvable — Pro-Stuk',
     description:
       'Cette page n’existe pas sur le site. Revenez à l’accueil ou ouvrez les guides par symptôme.',
     h1: 'Page introuvable',

@@ -1,6 +1,6 @@
 ---
 title: "Bruissement de la chaîne de distribution : à quoi ça ressemble"
-metaTitle: "Bruissement de chaîne de distribution : le son | Stuk"
+metaTitle: "Bruissement de chaîne de distribution : le son | Pro-Stuk"
 description: "Comment sonne une chaîne de distribution détendue, quand un bruissement après le démarrage est normal et quand il impose l'atelier. Les stades et le risque de saut."
 faq:
   - q: "Combien de secondes de bruissement après le démarrage sont normales ?"
@@ -137,6 +137,6 @@ là, et ses signes d'usure sont dans
 demander si elle est comprise évite de faire deux fois le même démontage.
 
 Pas sûr que ce soit la chaîne que vous entendez ? Enregistrez le moteur
-capot ouvert dans l'application Stuk — elle recoupe l'enregistrement avec
+capot ouvert dans l'application Pro-Stuk — elle recoupe l'enregistrement avec
 des sons de panne types et montre les causes probables avec un niveau
 d'urgence.

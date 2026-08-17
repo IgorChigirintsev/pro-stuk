@@ -1,6 +1,6 @@
 ---
 title: "Rolamento do coxim do amortecedor barulhento: sintomas"
-metaTitle: "Rolamento do coxim barulhento: sintomas | Stuk"
+metaTitle: "Rolamento do coxim barulhento: sintomas | Pro-Stuk"
 description: "Estalo e rangido ao girar o volante parado, batida em buraco pequeno, direção pesada: como identificar o rolamento do coxim do amortecedor gasto."
 faq:
   - q: "Como separar o rolamento do coxim de uma junta homocinética?"
@@ -94,7 +94,7 @@ remontagem é fonte comum de uma batida nova que aparece logo depois do
 serviço.
 
 Se o rangido está indefinido e você não tem certeza de onde vem, grave no
-aplicativo Stuk o volante girando com o carro parado e depois uma volta
+aplicativo Pro-Stuk o volante girando com o carro parado e depois uma volta
 pelo estacionamento. O app compara os dois trechos, cruza com as suas
 respostas e mostra as causas prováveis com porcentagem — justamente para
 não desmontar amortecedor à toa.

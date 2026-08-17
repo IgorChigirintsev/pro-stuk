@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const ko: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: '증상별',
     how: '작동 방식',
@@ -19,7 +19,7 @@ export const ko: Dict = {
     ruOnly: '증상별 해설과 글 (러시아어)',
   },
   home: {
-    title: 'Stuk — 소리로 살펴보는 자동차 진단',
+    title: 'Pro-Stuk — 소리로 살펴보는 자동차 진단',
     description:
       '소리를 녹음하면 차에 무슨 일이 있는지 알 수 있습니다. 짧은 설문, 녹음 분석, ' +
       '그리고 리포트: 비율이 붙은 가능성 있는 원인, 긴급도 신호등, 정비소에서 할 말까지.',
@@ -83,7 +83,7 @@ export const ko: Dict = {
     schemaWhole: '해당 부위 전체 그림.',
   },
   symptoms: {
-    indexTitle: '자동차 소음과 증상 해설 | Stuk',
+    indexTitle: '자동차 소음과 증상 해설 | Pro-Stuk',
     indexDescription: '탁탁, 웅웅, 끼익, 드르륵 — 각 소음이 무슨 뜻인지, 얼마나 위험한지, 스스로 무엇을 확인할 수 있는지. 증상별 해설과 진단 질문 트리.',
     h1: '소리로 찾는 증상',
     sub: '가장 비슷한 소리를 고르세요. 해설마다 가능성 있는 원인, 위험도 신호등, 스스로 할 수 있는 안전한 점검, 그리고 눌러 가며 좁히는 진단 트리가 있습니다.',
@@ -115,7 +115,7 @@ export const ko: Dict = {
   },
   download: {
     h2: 'Android 앱',
-    sub: '설문, 소리 녹음, 확률이 붙은 전체 리포트는 모두 Stuk 앱 안에 있습니다.',
+    sub: '설문, 소리 녹음, 확률이 붙은 전체 리포트는 모두 Pro-Stuk 앱 안에 있습니다.',
     btn: 'Android용 내려받기',
     meta: '버전 {version} · APK {size} MB · 업데이트 {date}',
     installH: 'APK 설치 방법',
@@ -128,7 +128,7 @@ export const ko: Dict = {
     playNote: '앱이 Google Play에 올라가면 이 페이지도 갱신됩니다.',
   },
   how: {
-    title: '소리 진단은 어떻게 이루어지나 | Stuk',
+    title: '소리 진단은 어떻게 이루어지나 | Pro-Stuk',
     description:
       '숨기지 않고 설명합니다. 주된 도구는 설문, 녹음은 스펙트럼 분석, 여기에 언어 모델과 ' +
       '차종별 고질병이 더해집니다. 결과가 확률에 머무는 이유까지.',
@@ -167,12 +167,12 @@ export const ko: Dict = {
     dataTail: '에 있습니다.',
   },
   privacy: {
-    title: '개인정보 처리방침 | Stuk',
+    title: '개인정보 처리방침 | Pro-Stuk',
     description:
-      'Stuk 앱에서 데이터가 어떻게 처리되는지: 오디오는 서버에서 처리되고 분석 후에는 보관하지 ' +
+      'Pro-Stuk 앱에서 데이터가 어떻게 처리되는지: 오디오는 서버에서 처리되고 분석 후에는 보관하지 ' +
       '않으며, 계정도 접속 통계도 없습니다.',
     h1: '개인정보 처리방침',
-    intro: 'Stuk 앱은 최소한의 데이터만 모읍니다 — 판단에 필요한 만큼만.',
+    intro: 'Pro-Stuk 앱은 최소한의 데이터만 모읍니다 — 판단에 필요한 만큼만.',
     items: [
       {
         strong: '녹음',
@@ -203,7 +203,7 @@ export const ko: Dict = {
     tagline: '소리로 고장을 찾는다',
   },
   notFound: {
-    title: '페이지를 찾을 수 없습니다 — Stuk',
+    title: '페이지를 찾을 수 없습니다 — Pro-Stuk',
     description:
       '이 사이트에 그런 페이지는 없습니다. 첫 화면으로 돌아가거나 소리로 찾는 증상 안내를 열어 보세요.',
     h1: '페이지를 찾을 수 없습니다',

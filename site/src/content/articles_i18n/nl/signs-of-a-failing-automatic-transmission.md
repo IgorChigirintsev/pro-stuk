@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een stervende automaat"
-metaTitle: "Tekenen van een stervende automatische bak | Stuk"
+metaTitle: "Tekenen van een stervende automatische bak | Pro-Stuk"
 description: "Een automaat begeeft het zelden van de ene dag op de andere: eerst slippen, janken en vertraging. De vroege tekenen en wat u per fase doet."
 faq:
   - q: "Welk teken van een stervende automaat is het meest alarmerend?"

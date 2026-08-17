@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein verschlissenes äußeres Gleichlaufgelenk"
-metaTitle: "Äußeres Gleichlaufgelenk: Klicken in Kurven | Stuk"
+metaTitle: "Äußeres Gleichlaufgelenk: Klicken in Kurven | Pro-Stuk"
 description: "Wie ein verschlissenes äußeres Gleichlaufgelenk klickt, wie es sich vom inneren unterscheidet, einfache Prüfungen ohne Bühne und was die Reparatur bestimmt."
 faq:
   - q: "Warum klickt ein Gleichlaufgelenk gerade in der Kurve?"

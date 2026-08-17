@@ -5,7 +5,7 @@ export const es: Record<string, HubText> = {
   dvigatel: {
     h1: 'Ruidos y golpeteos del motor',
     short: 'Motor',
-    metaTitle: 'Ruidos y golpeteos del motor: guía completa | Stuk',
+    metaTitle: 'Ruidos y golpeteos del motor: guía completa | Pro-Stuk',
     description:
       'Todos los sonidos del motor en un sitio: golpeteo, tictac, traqueteo, tintineo y silbido. Cómo separar lo inofensivo de lo peligroso y qué comprobar usted mismo.',
     intro: [
@@ -16,7 +16,7 @@ export const es: Record<string, HubText> = {
   podveska: {
     h1: 'Golpes y crujidos de la suspensión',
     short: 'Suspensión y dirección',
-    metaTitle: 'Golpes y crujidos de la suspensión: guía | Stuk',
+    metaTitle: 'Golpes y crujidos de la suspensión: guía | Pro-Stuk',
     description:
       'Golpes en los baches, crujidos, holgura en el volante: cómo localizar el origen en la suspensión y la dirección y qué puede comprobar usted mismo.',
     intro: [
@@ -27,7 +27,7 @@ export const es: Record<string, HubText> = {
   tormoza: {
     h1: 'Chirridos y raspado de los frenos',
     short: 'Frenos y ruedas',
-    metaTitle: 'Chirridos y raspado de los frenos: guía | Stuk',
+    metaTitle: 'Chirridos y raspado de los frenos: guía | Pro-Stuk',
     description:
       'Chirrido, pitido, raspado y vibración al frenar: qué significa cada sonido, cuándo no se debe seguir conduciendo y cómo revisar pastillas y pinza.',
     intro: [
@@ -38,7 +38,7 @@ export const es: Record<string, HubText> = {
   transmissiya: {
     h1: 'Ruidos de la caja y la transmisión',
     short: 'Transmisión',
-    metaTitle: 'Ruidos de la caja y la transmisión: guía | Stuk',
+    metaTitle: 'Ruidos de la caja y la transmisión: guía | Pro-Stuk',
     description:
       'Aullido de la caja, chasquidos de las juntas homocinéticas, golpes al cambiar de marcha y zumbido del embrague: cómo localizar el origen bajo el piso.',
     intro: [
@@ -49,7 +49,7 @@ export const es: Record<string, HubText> = {
   vyhlop: {
     h1: 'Ruidos del escape',
     short: 'Escape',
-    metaTitle: 'Ruidos del escape: guía completa | Stuk',
+    metaTitle: 'Ruidos del escape: guía completa | Pro-Stuk',
     description:
       'Bramido, explosiones en el silenciador, traqueteo bajo el piso y una pantalla térmica que tintinea: qué significan los ruidos del escape y por qué importan.',
     intro: [
@@ -60,7 +60,7 @@ export const es: Record<string, HubText> = {
   salon: {
     h1: 'Crujidos y ruidos del habitáculo',
     short: 'Habitáculo y carrocería',
-    metaTitle: 'Crujidos del habitáculo: cómo encontrar el origen | Stuk',
+    metaTitle: 'Crujidos del habitáculo: cómo encontrar el origen | Pro-Stuk',
     description:
       'Grillos en el habitáculo, salpicadero que cruje, puertas que golpean: cómo encontrar el origen usted mismo y distinguirlo de un fallo del tren de rodaje.',
     intro: [

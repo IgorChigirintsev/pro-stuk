@@ -1,6 +1,6 @@
 ---
 title: "Clangore metallico sotto l'auto sulle asperità"
-metaTitle: "Clangore metallico sotto l'auto sulle asperità | Stuk"
+metaTitle: "Clangore metallico sotto l'auto sulle asperità | Pro-Stuk"
 description: "Clangore metallico dal basso sulle asperità: paramotore, schermi termici, scarico o biellette. Come trovare la sorgente in cinque minuti."
 faq:
   - q: "Perché il clangore c'è solo sulle asperità e sul liscio tace?"
@@ -114,7 +114,7 @@ questione di quanto si possa rimandare è in
 [si può guidare con la sospensione che batte?](/it/articles/can-you-drive-with-a-knocking-suspension/).
 
 Non è sicuro se sia un clangore o un colpo? Registri il suono su un tratto
-rappresentativo con l'app Stuk: l'algoritmo confronta la registrazione con
+rappresentativo con l'app Pro-Stuk: l'algoritmo confronta la registrazione con
 le sue risposte e mostra le sorgenti probabili con un livello di urgenza.
 Spesso il risultato dice già che è il paramotore, e si può andare in
 officina senza preoccuparsi.

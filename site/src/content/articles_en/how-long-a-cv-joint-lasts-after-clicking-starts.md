@@ -1,7 +1,7 @@
 ---
 ru: "skolko-hodit-shrus-posle-shchelchkov"
 title: "How long a CV joint lasts after the clicking starts"
-metaTitle: "How long a CV joint lasts after clicking starts | Stuk"
+metaTitle: "How long a CV joint lasts after clicking starts | Pro-Stuk"
 description: "Honest guidance on CV joint life after the first clicks: what the margin depends on, what accelerates the failure and when it must be replaced."
 pubDate: "2026-08-02"
 related:
@@ -146,7 +146,7 @@ crimped type. Both are small details that decide whether the repair lasts
 years or months.
 
 If you want to know which stage your joint is at, record the sound in the
-Stuk app during a slow circle at full lock. The app matches the recording
+Pro-Stuk app during a slow circle at full lock. The app matches the recording
 with your answers to a few questions and shows the likely causes with an
 urgency level — which makes it easier to decide between going in tomorrow
 and calmly picking a day this week.

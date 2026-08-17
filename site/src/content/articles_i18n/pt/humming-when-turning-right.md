@@ -1,6 +1,6 @@
 ---
 title: "Zumbido ao virar para a direita"
-metaTitle: "Zumbido ao virar à direita: causas e testes | Stuk"
+metaTitle: "Zumbido ao virar à direita: causas e testes | Pro-Stuk"
 description: "Se o zumbido cresce nas curvas à direita, o suspeito é o rolamento esquerdo. Checagem passo a passo sem elevador, sons parecidos e como é o reparo."
 faq:
   - q: "Por que virar à direita faz o rolamento esquerdo zumbir?"
@@ -95,7 +95,7 @@ dentro do conjunto do cubo, por isso um rolamento acabando às vezes traz
 luzes de advertência junto com o ruído.
 
 Não tem certeza de que os seus ouvidos estão apontando para o lado certo?
-Grave o zumbido no aplicativo Stuk durante as mudanças de faixa: o
+Grave o zumbido no aplicativo Pro-Stuk durante as mudanças de faixa: o
 aplicativo cruza a gravação com as suas respostas e mostra as causas
 prováveis em porcentagem e com um grau de urgência — assim você chega na
 oficina com uma hipótese, e não com «está zumbindo alguma coisa».

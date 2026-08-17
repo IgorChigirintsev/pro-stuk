@@ -1,6 +1,6 @@
 ---
 title: "Ile przejedzie przegub napędowy po pojawieniu się kliknięć"
-metaTitle: "Ile przejedzie przegub po kliknięciach | Stuk"
+metaTitle: "Ile przejedzie przegub po kliknięciach | Pro-Stuk"
 description: "Uczciwe wskazówki o trwałości przegubu napędowego po pierwszych kliknięciach: od czego zależy zapas, co przyspiesza zużycie i kiedy trzeba wymienić."
 faq:
   - q: "Czy przegub napędowy może zatrzeć się w czasie jazdy?"
@@ -137,7 +137,7 @@ molibdenowego do przegubów i że opaski osłony są prawidłowe, zaciskane. Obi
 to drobiazgi, które decydują, czy naprawa wytrzyma lata, czy miesiące.
 
 Jeśli chce Pan wiedzieć, na jakim etapie jest Pana przegub, proszę nagrać
-dźwięk w aplikacji Stuk podczas powolnego kółka ze skrętem do oporu.
+dźwięk w aplikacji Pro-Stuk podczas powolnego kółka ze skrętem do oporu.
 Aplikacja dopasuje nagranie do odpowiedzi na kilka pytań i pokaże
 prawdopodobne przyczyny wraz z poziomem pilności — łatwiej wtedy zdecydować
 między wizytą jutro a spokojnym wyborem dnia w tym tygodniu.

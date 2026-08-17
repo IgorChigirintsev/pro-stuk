@@ -1,6 +1,6 @@
 ---
 title: "Boşta gaz verme testi: ne gösterir"
-metaTitle: "Boşta gaz verme testi: neyi gösterir | Stuk"
+metaTitle: "Boşta gaz verme testi: neyi gösterir | Pro-Stuk"
 description: "Boşta devri yükseltmek size ne anlatır: motor sesini tekerlek ve şanzıman sesinden nasıl ayırırsınız, testi doğru şekilde nasıl yaparsınız."
 faq:
   - q: "Boşta gaz vermek zararlı mı?"
@@ -110,7 +110,7 @@ sıfattan daha güvenilir biçimde ayırır. Bir de devir yükselirken mi yoksa
 gaz keserken mi çıktığı, çünkü triger sistemi kendini gaz kesmede ele
 verir.
 
-Testi Stuk uygulamasında kayıt açıkken yapmak kolaydır: uygulama tam olarak
+Testi Pro-Stuk uygulamasında kayıt açıkken yapmak kolaydır: uygulama tam olarak
 sesin devirle birlikte nasıl değiştiğini yakalar, yanıtlarınızla eşleştirir
 ve olası nedenleri yüzdelerle gösterir — üstelik önce hangi parçaya
 bakılacağına dair bir ipucuyla birlikte.

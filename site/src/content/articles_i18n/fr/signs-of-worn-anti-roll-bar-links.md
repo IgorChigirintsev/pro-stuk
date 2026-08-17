@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'usure des biellettes de barre stabilisatrice"
-metaTitle: "Biellettes de stabilisatrice usées : bruit et tests | Stuk"
+metaTitle: "Biellettes de stabilisatrice usées : bruit et tests | Pro-Stuk"
 description: "Le cognement de biellettes de barre stabilisatrice usées, la différence avec les amortisseurs et les rotules, les contrôles simples et ce qu'implique le remplacement."
 faq:
   - q: "Quel est le signe le plus caractéristique de biellettes usées ?"
@@ -141,7 +141,7 @@ bien sa trajectoire lors d'une manœuvre brusque. Vu le prix de la pièce,
 économiser sur le remplacement se justifie rarement.
 
 Si vous n'êtes pas sûr que ce soient les biellettes qui cognent,
-enregistrez le son dans l'application Stuk : elle recoupe l'enregistrement
+enregistrez le son dans l'application Pro-Stuk : elle recoupe l'enregistrement
 avec vos réponses et affiche les causes probables avec un niveau
 d'urgence — avec cette liste, la conversation avec le mécanicien devient
 concrète.

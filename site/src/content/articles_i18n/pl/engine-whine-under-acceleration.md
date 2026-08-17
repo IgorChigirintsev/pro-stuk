@@ -1,6 +1,6 @@
 ---
 title: "Wycie silnika przy przyspieszaniu"
-metaTitle: "Wycie silnika przy przyspieszaniu: przyczyny | Stuk"
+metaTitle: "Wycie silnika przy przyspieszaniu: przyczyny | Pro-Stuk"
 description: "Skąd bierze się wycie przy przyspieszaniu: alternator, pompa wspomagania, rolki, pompa wody czy skrzynia. Proste próby, które wskazują źródło."
 faq:
   - q: "Jak odróżnić wycie silnika od wycia skrzyni?"
@@ -135,6 +135,6 @@ bo docieranie tam dwa razy oznacza dwukrotną zapłatę za tę samą robociznę.
 
 Wycie jest wygodne dla diagnostyki akustycznej: ma wyraźną tonalność, a
 algorytmy rozróżniają takie dźwięki pewniej niż wiele innych. Proszę
-nagrać wycie przy przyspieszaniu w aplikacji Stuk — zestawia ona nagranie
+nagrać wycie przy przyspieszaniu w aplikacji Pro-Stuk — zestawia ona nagranie
 z odpowiedziami i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności dla każdej.

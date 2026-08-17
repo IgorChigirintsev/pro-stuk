@@ -1,6 +1,6 @@
 ---
 title: "Colpo nella trasmissione tra gas e rilascio"
-metaTitle: "Colpo nella trasmissione tra gas e rilascio | Stuk"
+metaTitle: "Colpo nella trasmissione tra gas e rilascio | Pro-Stuk"
 description: "Una botta sorda nell'istante in cui si rilascia o si riprende il gas è un gioco della trasmissione che si azzera. Quali pezzi battono e come distinguerli."
 faq:
   - q: "Perché il colpo si sente solo nel traffico?"
@@ -99,7 +99,7 @@ una cuffia strappata trovata adesso, prima che i clic comincino, è la
 riparazione che pesa meno di tutta questa lista.
 
 Se il colpo è ancora raro e non è sicura che ci sia davvero, registri un
-tragitto urbano con l'app Stuk: il tratto più utile è quello con diverse
+tragitto urbano con l'app Pro-Stuk: il tratto più utile è quello con diverse
 accelerazioni e fermate di seguito. L'app confronta la registrazione con
 le sue risposte su quando esattamente avviene la botta e mostra le cause
 probabili in percentuale, così il discorso in officina parte da un pezzo

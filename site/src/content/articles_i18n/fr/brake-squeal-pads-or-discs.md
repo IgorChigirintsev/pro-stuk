@@ -1,6 +1,6 @@
 ---
 title: "Sifflement des freins : plaquettes ou disques"
-metaTitle: "Sifflement des freins : plaquettes ou disques | Stuk"
+metaTitle: "Sifflement des freins : plaquettes ou disques | Pro-Stuk"
 description: "Les freins sifflent à cause des plaquettes comme à cause des disques. Comment les conditions d'apparition du bruit vous disent lequel des deux remplacer."
 faq:
   - q: "Un sifflement des freins le matin, c'est une panne ?"
@@ -101,7 +101,7 @@ température sont ce qui empêche un jeu neuf de siffler dès le premier
 jour.
 
 Si le bruit n'apparaît pas à chaque fois et qu'il est difficile à
-attraper sur le pont, enregistrez-le dans l'application Stuk en roulant —
+attraper sur le pont, enregistrez-le dans l'application Pro-Stuk en roulant —
 avec et sans pédale. L'application croise l'enregistrement avec les
 conditions dans lesquelles il se produit et affiche les causes probables
 avec des pourcentages, pour que la discussion avec le mécanicien parte de

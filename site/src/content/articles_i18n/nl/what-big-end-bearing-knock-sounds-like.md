@@ -1,6 +1,6 @@
 ---
 title: "Hoe drijfstanglagerklop klinkt"
-metaTitle: "Hoe drijfstanglagerklop klinkt | Stuk"
+metaTitle: "Hoe drijfstanglagerklop klinkt | Pro-Stuk"
 description: "Een harde metalige klop uit het midden van het blok die toeneemt onder belasting: hoe versleten drijfstanglagers klinken en waar ze mee dreigen."
 faq:
   - q: "Kan ik met drijfstanglagerklop op eigen kracht naar een werkplaats?"

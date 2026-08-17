@@ -1,6 +1,6 @@
 ---
 title: "Hoe een opgerekte distributieketting klinkt"
-metaTitle: "Hoe een opgerekte distributieketting klinkt | Stuk"
+metaTitle: "Hoe een opgerekte distributieketting klinkt | Pro-Stuk"
 description: "Geratel bij koude start, geritsel achter de deksel, een golf bij gas loslaten: hoe u een opgerekte distributieketting herkent en van andere kloppen scheidt."
 faq:
   - q: "Waarom rammelt de ketting het hardst in de eerste seconden na een koude start?"

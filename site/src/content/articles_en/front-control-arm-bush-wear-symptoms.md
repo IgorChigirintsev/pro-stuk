@@ -1,7 +1,7 @@
 ---
 ru: "simptomy-iznosa-sajlentblokov-perednih-rychagov"
 title: "Front control arm bush wear: the symptoms"
-metaTitle: "Front control arm bush wear: the symptoms | Stuk"
+metaTitle: "Front control arm bush wear: the symptoms | Pro-Stuk"
 description: "Dull thumps in potholes, steering that wanders and a car that follows ruts — the typical signs of worn control arm bushes, and how to check them."
 pubDate: "2026-06-03"
 related:
@@ -109,7 +109,7 @@ a prematurely eaten set of tyres, faster wear in the ball joints and track
 rod ends, and imprecise behaviour at speed.
 
 If thumps in potholes are already audible but you cannot tell where from,
-record a run over a familiar broken stretch in the Stuk app. It matches
+record a run over a familiar broken stretch in the Pro-Stuk app. It matches
 the character of the impact with your answers about speed and steering
 behaviour and shows the likely causes with percentages — leaving only the
 confirmation to be done on a lift.

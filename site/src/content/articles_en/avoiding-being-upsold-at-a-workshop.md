@@ -1,7 +1,7 @@
 ---
 ru: "kak-ne-dat-sebya-obmanut-v-servise-pri-diagnostike"
 title: "How not to be upsold during a workshop diagnosis"
-metaTitle: "How not to be upsold at a workshop | Stuk"
+metaTitle: "How not to be upsold at a workshop | Pro-Stuk"
 description: "What an honest diagnosis includes, which phrases should make you ask a question, and how to check the work you have been quoted without knowing cars."
 pubDate: "2026-06-22"
 related:
@@ -98,7 +98,7 @@ which are comfort — a decent mechanic separates them without hesitation,
 because that is how they think about the car themselves.
 
 Finally, it helps to arrive with the sound itself rather than a retelling
-of it. Record it in the Stuk app in the situation where it is clearest.
+of it. Record it in the Pro-Stuk app in the situation where it is clearest.
 The app matches the recording with your answers and shows the likely
 causes with percentages, so the conversation starts from a specific theory
 rather than a blank page.

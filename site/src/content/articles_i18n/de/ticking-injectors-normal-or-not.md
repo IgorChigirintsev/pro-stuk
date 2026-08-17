@@ -1,6 +1,6 @@
 ---
 title: "Tickende Einspritzdüsen: normal oder nicht"
-metaTitle: "Tickende Einspritzdüsen: normal oder Fehler | Stuk"
+metaTitle: "Tickende Einspritzdüsen: normal oder Fehler | Pro-Stuk"
 description: "Ticken der Einspritzdüsen: warum es entsteht, wann es für einen Motor normal ist und wann es einen Fehler meldet. So grenzen Sie es von Hydrostößeln ab."
 faq:
   - q: "Warum sind die Einspritzdüsen nur im Leerlauf hörbar?"

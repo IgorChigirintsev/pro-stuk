@@ -1,6 +1,6 @@
 ---
 title: "Sinais de buchas da suspensão gastas"
-metaTitle: "Buchas da bandeja gastas: som e reparo | Stuk"
+metaTitle: "Buchas da bandeja gastas: som e reparo | Pro-Stuk"
 description: "Como a bucha da bandeja gasta se manifesta: batida surda, rangido, carro puxando e pneu gasto irregular. Testes simples e o que envolve o reparo."
 faq:
   - q: "Qual é o primeiro sinal de bucha gasta?"
@@ -134,6 +134,6 @@ página do sintoma
 [batida na suspensão](/pt/symptoms/knocking-in-suspension/).
 
 Se a batida apareceu mas não está claro se é bucha, pivô ou outra coisa,
-grave o som no aplicativo Stuk. Ele cruza a gravação com suas respostas e
+grave o som no aplicativo Pro-Stuk. Ele cruza a gravação com suas respostas e
 mostra as causas prováveis com um grau de urgência — com essa lista, a
 conversa na oficina fica bem mais concreta.

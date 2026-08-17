@@ -1,6 +1,6 @@
 ---
 title: "Fuelle de junta homocinética roto: ¿cuánto se puede rodar?"
-metaTitle: "Fuelle de homocinética roto: ¿cuánto dura? | Stuk"
+metaTitle: "Fuelle de homocinética roto: ¿cuánto dura? | Pro-Stuk"
 description: "Un fuelle roto no destruye la junta al instante, pero pone en marcha la cuenta atrás. Cuántos kilómetros quedan de verdad, de qué depende y qué sale más barato."
 faq:
   - q: "¿Cuánto aguanta un coche con el fuelle de la homocinética roto?"
@@ -102,6 +102,6 @@ ocurre una vez que han empezado los chasquidos está explicado en
 [¿se puede conducir con una junta homocinética que chasquea?](/es/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 Y si el sonido ya ha aparecido y quiere saber si es la junta exterior u
-otra cosa, grábelo con la aplicación Stuk mientras arranca con el volante
+otra cosa, grábelo con la aplicación Pro-Stuk mientras arranca con el volante
 a tope: la aplicación cruza la grabación con sus respuestas a unas pocas
 preguntas y muestra las causas probables con porcentajes.

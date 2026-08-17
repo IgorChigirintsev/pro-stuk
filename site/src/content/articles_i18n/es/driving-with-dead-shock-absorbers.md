@@ -1,6 +1,6 @@
 ---
 title: "A qué lleva circular con los amortiguadores muertos"
-metaTitle: "Circular con amortiguadores muertos: consecuencias | Stuk"
+metaTitle: "Circular con amortiguadores muertos: consecuencias | Pro-Stuk"
 description: "Unos amortiguadores muertos alargan la distancia de frenado, destruyen la suspensión y se comen los neumáticos. Qué se rompe después y qué pide la reparación."
 faq:
   - q: "¿Cuánto afectan unos amortiguadores muertos a la distancia de frenado?"
@@ -107,7 +107,7 @@ de forma distinta delante y detrás, y con eso se convive peor que con el juego
 cansado del que se partía.
 
 Si no está seguro de si la suspensión está golpeando o si esto es simplemente
-lo normal en su coche, grabe el sonido con la aplicación Stuk en un tramo malo
+lo normal en su coche, grabe el sonido con la aplicación Pro-Stuk en un tramo malo
 que conozca. La aplicación compara la grabación con sus respuestas y muestra
 las causas probables con porcentajes, y con eso suele bastar para decidir
 entre ir a un diagnóstico ahora o esperar a la próxima revisión.

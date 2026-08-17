@@ -1,6 +1,6 @@
 ---
 title: "Sinais de falha da polia desacopladora do alternador"
-metaTitle: "Polia desacopladora do alternador: sinais | Stuk"
+metaTitle: "Polia desacopladora do alternador: sinais | Pro-Stuk"
 description: "Por que o alternador precisa de polia de roda livre e como soa o desgaste dela: assobio na partida, chocalho após desligar, vibração da correia. Testes caseiros."
 faq:
   - q: "Qual a diferença entre a polia desacopladora e uma polia comum do alternador?"
@@ -114,6 +114,6 @@ quilômetros, então a condição dela sempre vale ser checada na troca
 programada da correia.
 
 Não tem certeza se é a desacopladora, um rolamento ou a correia? Grave
-o som na partida e ao desligar no aplicativo Stuk — ele compara a
+o som na partida e ao desligar no aplicativo Pro-Stuk — ele compara a
 gravação com sons típicos de defeito e mostra as causas prováveis com
 um nível de urgência.

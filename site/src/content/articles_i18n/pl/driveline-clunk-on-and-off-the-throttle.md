@@ -1,6 +1,6 @@
 ---
-title: "Stuk w napędzie przy zmianie gaz–hamulec"
-metaTitle: "Stuk w napędzie przy zmianie gaz–hamulec | Stuk"
+title: "Pro-Stuk w napędzie przy zmianie gaz–hamulec"
+metaTitle: "Pro-Stuk w napędzie przy zmianie gaz–hamulec | Pro-Stuk"
 description: "Głuche uderzenie w chwili puszczenia albo dodania gazu to wybieranie luzów w napędzie. Które części stukają i jak odróżnić je od siebie."
 faq:
   - q: "Dlaczego stuk słychać tylko w korku?"
@@ -97,7 +97,7 @@ w stanie na to pozwalającym. A rozerwana osłona wykryta teraz, zanim
 zacznie się klikanie, to najtańsza naprawa z całej tej listy.
 
 Jeśli stuk jest jeszcze rzadki i nie ma Pan pewności, czy w ogóle
-występuje, proszę nagrać aplikacją Stuk przejazd po mieście: najbardziej
+występuje, proszę nagrać aplikacją Pro-Stuk przejazd po mieście: najbardziej
 przydatny jest odcinek z kilkoma przyspieszeniami i zatrzymaniami pod
 rząd. Aplikacja zestawia nagranie z odpowiedziami na pytania o to, kiedy
 dokładnie pojawia się uderzenie, i pokazuje prawdopodobne przyczyny

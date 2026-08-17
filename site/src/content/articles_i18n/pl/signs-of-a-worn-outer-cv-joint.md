@@ -1,6 +1,6 @@
 ---
 title: "Objawy zużytego zewnętrznego przegubu napędowego"
-metaTitle: "Zużyty zewnętrzny przegub: klikanie na łuku | Stuk"
+metaTitle: "Zużyty zewnętrzny przegub: klikanie na łuku | Pro-Stuk"
 description: "Jak klika zużyty zewnętrzny przegub napędowy, czym różni się od wewnętrznego, proste testy bez podnośnika i kiedy wystarczy sama osłona."
 faq:
   - q: "Dlaczego przegub klika właśnie na łuku?"
@@ -134,7 +134,7 @@ Dwie rzeczy warto potwierdzić: że używany jest właściwy smar molibdenowy do
 przegubów i że opaski osłony są fabryczne, zaciskane, a nie opaski
 zaciskowe z tworzywa. Oba te drobiazgi decydują o trwałości naprawy.
 
-Nie ma pewności, czy klika przegub? Proszę nagrać dźwięk w aplikacji Stuk
+Nie ma pewności, czy klika przegub? Proszę nagrać dźwięk w aplikacji Pro-Stuk
 podczas powolnego koła na pełnym skręcie — aplikacja zestawi nagranie z
 odpowiedziami i pokaże prawdopodobne przyczyny z procentami oraz poziomem
 pilności. Z takim wynikiem łatwiej zaplanować wizytę w warsztacie.

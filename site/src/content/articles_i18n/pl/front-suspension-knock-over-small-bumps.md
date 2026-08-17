@@ -1,6 +1,6 @@
 ---
-title: "Stuk przedniego zawieszenia na drobnych nierównościach"
-metaTitle: "Stuk przedniego zawieszenia na drobnych nierównościach | Stuk"
+title: "Pro-Stuk przedniego zawieszenia na drobnych nierównościach"
+metaTitle: "Pro-Stuk przedniego zawieszenia na drobnych nierównościach | Pro-Stuk"
 description: "Dlaczego przednie zawieszenie stuka właśnie na drobnych nierównościach: łączniki stabilizatora, tuleje, górne mocowania, końcówki drążków."
 faq:
   - q: "Dlaczego zawieszenie stuka na drobnych nierównościach, a na dużych dziurach milczy?"
@@ -18,7 +18,7 @@ sources:
     url: "https://www.monroe.com/"
 ---
 
-Stuk z przodu na drobnych nierównościach to chyba najczęstsza skarga na
+Pro-Stuk z przodu na drobnych nierównościach to chyba najczęstsza skarga na
 zawieszenie: auto milczy na progach zwalniających i dużych dziurach, ale
 odpowiada grzechotem na szczelinach dylatacyjnych, tarce i torach
 tramwajowych. To nie przypadek, tylko przydatna wskazówka: taki charakter
@@ -82,7 +82,7 @@ niż abstrakcyjne „stuka z przodu”:
    mocowania kolumn, końcówki drążków albo przekładnię kierowniczą;
    podobny obraz opisuje strona objawu
    [klikanie przy skręcaniu](/pl/symptoms/clicking-when-steering/).
-3. **Hamowanie.** Stuk, który pojawia się albo zmienia przy delikatnym
+3. **Hamowanie.** Pro-Stuk, który pojawia się albo zmienia przy delikatnym
    hamowaniu na nierówności, częściej wskazuje na tuleje wahaczy albo luz
    w sworzniu.
 4. **Bujanie i ruszanie ręką.** Rozbujaj auto energicznie za błotnik i
@@ -128,6 +128,6 @@ przegubie. I nie jeźdź miesiącami „aż odpadnie”: stuk maskuje pojawianie
 się nowych usterek, a zużyta część przyspiesza zużycie sąsiednich.
 
 Jeśli chce się przyjechać do warsztatu z gotową hipotezą, nagraj stuk w
-aplikacji Stuk: zestawia ona dźwięk z odpowiedziami o tym, kiedy się
+aplikacji Pro-Stuk: zestawia ona dźwięk z odpowiedziami o tym, kiedy się
 pojawia, i pokazuje prawdopodobne przyczyny wraz z poziomem pilności —
 rozmowa z mechanikiem od razu staje się konkretna.

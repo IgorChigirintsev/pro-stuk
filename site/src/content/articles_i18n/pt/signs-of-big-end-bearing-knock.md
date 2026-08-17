@@ -1,6 +1,6 @@
 ---
 title: "Sinais de batida de biela"
-metaTitle: "Batida de biela: como soa e o que fazer | Stuk"
+metaTitle: "Batida de biela: como soa e o que fazer | Pro-Stuk"
 description: "Como soa a batida de biela, quais sinais vêm junto, com o que ela é confundida e como a oficina confirma o diagnóstico."
 faq:
   - q: "Qual a diferença entre batida de biela e barulho de tucho hidráulico?"
@@ -147,7 +147,7 @@ A conta é simples: quanto antes você parar e checar, maior a chance de sair
 disso só com bronzinas e deixar o virabrequim em paz.
 
 Se você não tem certeza se é batida de biela ou um dos sósias dela, grave o
-motor no aplicativo Stuk: ele compara a gravação com batidas típicas, faz
+motor no aplicativo Pro-Stuk: ele compara a gravação com batidas típicas, faz
 perguntas de esclarecimento e mostra as causas prováveis com nível de
 urgência. Isso não substitui a desmontagem, mas ajuda a julgar com que
 pressa a oficina é necessária.

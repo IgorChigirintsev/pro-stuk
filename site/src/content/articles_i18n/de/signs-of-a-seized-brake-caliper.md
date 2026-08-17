@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für einen festsitzenden Bremssattel"
-metaTitle: "Festsitzender Bremssattel: Anzeichen | Stuk"
+metaTitle: "Festsitzender Bremssattel: Anzeichen | Pro-Stuk"
 description: "Woran Sie einen festsitzenden Bremssattel erkennen: Ziehen zur Seite, heißes Rad, Brandgeruch, Schleifen. Einfache Prüfungen ohne Hebebühne und was die Instandsetzung umfasst."
 faq:
   - q: "Was genau geht am Bremssattel fest?"

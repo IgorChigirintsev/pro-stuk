@@ -1,6 +1,6 @@
 ---
 title: "Cuscinetto reggispinta rumoroso: si può guidare?"
-metaTitle: "Reggispinta rumoroso: si può guidare? | Stuk"
+metaTitle: "Reggispinta rumoroso: si può guidare? | Pro-Stuk"
 description: "Rumore del cuscinetto reggispinta con il pedale frizione premuto: come distinguerlo dagli altri suoni, per quanto si può guidare e cosa decide l'intervento."
 faq:
   - q: "Per quanto posso guidare con il reggispinta rumoroso?"
@@ -103,6 +103,6 @@ frizione nuova vuole qualche centinaio di chilometri di guida gentile per
 assestarsi, senza trainare e senza partenze bruciate.
 
 Se non è sicuro che il suono sia davvero legato al pedale, lo registri con
-l'app Stuk: due brevi spezzoni, con la frizione premuta e rilasciata. L'app
+l'app Pro-Stuk: due brevi spezzoni, con la frizione premuta e rilasciata. L'app
 confronta le registrazioni e suggerisce da che parte guardare prima ancora
 che lei arrivi in officina.

@@ -1,6 +1,6 @@
 ---
 title: "Direksiyon kutusu vuruntusu nasıl anlaşılır"
-metaTitle: "Direksiyon kutusu vuruntusunu kendiniz anlamak | Stuk"
+metaTitle: "Direksiyon kutusu vuruntusunu kendiniz anlamak | Pro-Stuk"
 description: "Vuruntunun rot başı ya da rot değil de direksiyon kutusu olduğu nasıl anlaşılır: karakteristik işaretler, iki kişilik test ve onarımı belirleyenler."
 faq:
   - q: "Vuran direksiyon kutusuyla araç kullanılır mı?"
@@ -135,7 +135,7 @@ onarım» genelde revizyon fiyatına kesilmiş aynı ayardır. Bir de yeni
 körüklerin dahil olup olmadığı: revizyonlu bir kutuyu eski yırtık körüklerin
 arkasına takmak bütün işi boşa çıkarır.
 
-Şüphelerinizi servise gitmeden sınamak isterseniz vuruntuyu Stuk
+Şüphelerinizi servise gitmeden sınamak isterseniz vuruntuyu Pro-Stuk
 uygulamasına kaydedin: kayıt açıkken bozuk bir yol parçasını geçin ve birkaç
 soruyu cevaplayın — uygulama sesi tipik arıza profilleriyle eşleştirir ve
 muhtemel sebepleri aciliyet seviyesiyle gösterir.

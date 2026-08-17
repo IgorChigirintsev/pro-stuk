@@ -1,7 +1,7 @@
 ---
 ru: "stuk-gbts-mitsubishi-4b12-gidrokompensatory"
 title: "Mitsubishi 4B12 top-end noise: hydraulic lifters"
-metaTitle: "Mitsubishi 4B12 lifter noise from the top end | Stuk"
+metaTitle: "Mitsubishi 4B12 lifter noise from the top end | Pro-Stuk"
 description: "Ticking from the top of a 4B12: how hydraulic lifters behave, why the oil is usually to blame, and how the sound differs from the chain."
 pubDate: "2026-06-27"
 related:
@@ -101,7 +101,7 @@ brakes — their language is covered in
 [telling brake pad wear by ear](/en/articles/brake-pad-wear-by-ear/).
 
 If you want to know whether to go in tomorrow, record the sound with the
-Stuk app: once right after a cold start, once on a warm engine at idle.
+Pro-Stuk app: once right after a cold start, once on a warm engine at idle.
 The app matches the recordings with your answers and shows the likely
 causes with percentages, and the difference between the two recordings
 tells a mechanic a great deal by itself.

@@ -1,6 +1,6 @@
 ---
 title: "Batida do garfo da embreagem no Ford Focus"
-metaTitle: "Batida do garfo da embreagem no Focus | Stuk"
+metaTitle: "Batida do garfo da embreagem no Focus | Pro-Stuk"
 description: "Estalo e batida ao pisar na embreagem do Focus: como conferir o garfo e o rolamento de liberação e o que a oficina faz nesse caso."
 faq:
   - q: "A batida só aparece mexendo no pedal — é embreagem com certeza?"
@@ -96,7 +96,7 @@ ouvido em movimento e sem ligação com o pedal é rodagem ou pneu. Nesse
 caso o ponto de partida é a checagem do rolamento de roda, não do câmbio.
 
 Se a batida ainda é ocasional e você quer saber se o câmbio precisa mesmo
-sair, grave o som no aplicativo Stuk pisando devagar no pedal com o motor
+sair, grave o som no aplicativo Pro-Stuk pisando devagar no pedal com o motor
 ligado. O aplicativo cruza a gravação com suas respostas a algumas
 perguntas e mostra as causas prováveis com porcentagens — o bastante para
 chegar ao mecânico com uma pergunta específica.

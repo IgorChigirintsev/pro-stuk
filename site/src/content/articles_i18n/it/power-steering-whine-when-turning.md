@@ -1,6 +1,6 @@
 ---
 title: "Servosterzo che ronza in curva: le cause"
-metaTitle: "Servosterzo che ronza sterzando: le cause | Stuk"
+metaTitle: "Servosterzo che ronza sterzando: le cause | Pro-Stuk"
 description: "Perché il servosterzo idraulico ronza in curva: livello del fluido, aria nell'impianto, pompa, cinghia. Come distinguere il normale dall'usura e cosa controllare prima."
 faq:
   - q: "Ronza solo a sterzo tutto girato: è un guasto?"
@@ -131,6 +131,6 @@ per guardare nel serbatoio entro un giorno o due, non per «tenerlo
 d'occhio un mese».
 
 Se non è sicuro che si tratti del servosterzo, registri il suono con l'app
-Stuk mentre gira lo sterzo. L'app confronta la registrazione con le sue
+Pro-Stuk mentre gira lo sterzo. L'app confronta la registrazione con le sue
 risposte su quando compare il suono e mostra le cause probabili con un
 livello di urgenza.

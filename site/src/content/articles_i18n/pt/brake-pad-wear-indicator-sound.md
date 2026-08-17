@@ -1,6 +1,6 @@
 ---
 title: "Indicador de desgaste das pastilhas: como ele soa"
-metaTitle: "Indicador de desgaste das pastilhas: o som | Stuk"
+metaTitle: "Indicador de desgaste das pastilhas: o som | Pro-Stuk"
 description: "Um guincho metálico fino ao rodar que para no instante em que você freia é o indicador mecânico de desgaste das pastilhas. Como reconhecê-lo e quanto tempo há."
 faq:
   - q: "Por que o guincho para quando piso no pedal?"
@@ -94,6 +94,6 @@ quilômetros, evite frenagens de emergência e descidas longas segurando o
 pedal, para que o material de atrito se assente de forma uniforme.
 
 Se o som apareceu e você não tem certeza se é o indicador ou outra coisa,
-grave-o no aplicativo Stuk — primeiro em desaceleração, depois com
+grave-o no aplicativo Pro-Stuk — primeiro em desaceleração, depois com
 frenagens leves. O aplicativo compara as gravações com as suas respostas
 e mostra as causas prováveis com porcentagens.

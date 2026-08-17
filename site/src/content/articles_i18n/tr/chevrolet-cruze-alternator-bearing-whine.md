@@ -1,6 +1,6 @@
 ---
 title: "Chevrolet Cruze: alternatör rulmanı uğultusu"
-metaTitle: "Chevrolet Cruze alternatör rulmanı uğultusu | Stuk"
+metaTitle: "Chevrolet Cruze alternatör rulmanı uğultusu | Pro-Stuk"
 description: "Cruze'un kaputu altında devirle yükselen uğultu: alternatör rulmanını avare kasnaklardan, devirdaim pompasından ve tek yönlü kasnaktan nasıl ayırırsınız."
 faq:
   - q: "Kaput altındaki uğultu devirle yükseliyor. Bu alternatör mü?"
@@ -89,7 +89,7 @@ Kaput altındaki uğultunun kaynağını daraltmak için
 [kaput altında uğultu: alternatör mü devirdaim pompası mı](/tr/articles/alternator-or-water-pump-whine/)
 yazısı da işinizi görür.
 
-Her şeyi rastgele kontrol etmemek için sesi Stuk uygulamasıyla kaput
+Her şeyi rastgele kontrol etmemek için sesi Pro-Stuk uygulamasıyla kaput
 açıkken kaydedin: önce rölantide, sonra devri yumuşakça yükselterek.
 Uygulama kayıtları birkaç sorunun cevaplarıyla eşleştirir ve olası
 sebepleri yüzdelerle gösterir — böylece hangi parçadan başlanacağı belli

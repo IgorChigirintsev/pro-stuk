@@ -1,6 +1,6 @@
 ---
 title: "Tıkırtı başladıktan sonra aks kafası ne kadar dayanır"
-metaTitle: "Tıkırdayan aks kafası ne kadar dayanır | Stuk"
+metaTitle: "Tıkırdayan aks kafası ne kadar dayanır | Pro-Stuk"
 description: "İlk tıkırtılardan sonra aks kafasının ömrü hakkında dürüst bilgi: kalan payı ne belirler, bozulmayı ne hızlandırır ve ne zaman değişmesi şarttır."
 faq:
   - q: "Aks kafası sürüş sırasında kilitlenebilir mi?"
@@ -143,7 +143,7 @@ küçük ayrıntıdır ama onarımın yıllarca mı yoksa aylarca mı dayanacağ
 belirler.
 
 Mafsalınızın hangi aşamada olduğunu bilmek istiyorsanız, direksiyon sonuna
-kadar kırıkken yavaşça daire çizerken sesi Stuk uygulamasına kaydedin.
+kadar kırıkken yavaşça daire çizerken sesi Pro-Stuk uygulamasına kaydedin.
 Uygulama kaydı birkaç soruya verdiğiniz cevaplarla eşleştirir ve muhtemel
 sebepleri aciliyet seviyesiyle gösterir — böylece yarın gitmekle bu hafta
 sakince bir gün seçmek arasında karar vermek kolaylaşır.

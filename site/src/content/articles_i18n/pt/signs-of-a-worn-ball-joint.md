@@ -1,6 +1,6 @@
 ---
 title: "Sinais de pivô de suspensão gasto"
-metaTitle: "Pivô de suspensão gasto: som, folga, testes | Stuk"
+metaTitle: "Pivô de suspensão gasto: som, folga, testes | Pro-Stuk"
 description: "Batida em ondulações pequenas, rangido ao esterçar, folga na roda — como reconhecer um pivô gasto, como checar e o quanto a troca é urgente."
 faq:
   - q: "Como soa um pivô de suspensão gasto?"
@@ -126,5 +126,5 @@ Mesmo sem a quebra, um pivô gasto come pneu, afrouxa a direção e acrescenta
 um ruído fácil de confundir com outros problemas de suspensão.
 
 Se algo bate lá embaixo e a origem não é óbvia, grave o som no aplicativo
-Stuk. Ele cruza a gravação com as suas respostas sobre quando e como o som
+Pro-Stuk. Ele cruza a gravação com as suas respostas sobre quando e como o som
 aparece e mostra as causas prováveis com um nível de urgência.

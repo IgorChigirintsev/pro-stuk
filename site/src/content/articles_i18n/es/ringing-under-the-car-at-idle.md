@@ -1,6 +1,6 @@
 ---
 title: "Tintineo debajo del coche al ralentí"
-metaTitle: "Tintineo bajo el coche al ralentí: causas | Stuk"
+metaTitle: "Tintineo bajo el coche al ralentí: causas | Pro-Stuk"
 description: "Una pantalla térmica, un catalizador roto, el escape rozando la carrocería: de dónde sale el tintineo bajo el coche al ralentí y cómo comprobarlo."
 faq:
   - q: "¿Por qué el tintineo se oye en frío y desaparece al calentar?"
@@ -129,6 +129,6 @@ antes blindaba llega ahora al piso y a los tubos de combustible; una
 abrazadera cuesta menos que ese intercambio.
 
 Un tintineo es de esos sonidos difíciles de describir al mecánico por
-teléfono. Es más fácil grabarlo: abra la aplicación Stuk junto al coche al
+teléfono. Es más fácil grabarlo: abra la aplicación Pro-Stuk junto al coche al
 ralentí, conteste un par de preguntas sobre las condiciones y recibirá una
 lista de causas probables con un nivel de urgencia para llevar al taller.

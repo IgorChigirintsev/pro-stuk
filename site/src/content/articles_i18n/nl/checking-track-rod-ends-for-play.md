@@ -1,6 +1,6 @@
 ---
 title: "Spoorstangkogels controleren op speling"
-metaTitle: "Spoorstangkogels controleren op speling | Stuk"
+metaTitle: "Spoorstangkogels controleren op speling | Pro-Stuk"
 description: "Hoe u zelf speling in spoorstangkogels vindt: de greep op 3 en 9 uur, het scharnier met de hand voelen, het verschil met het stuurhuis en wat de reparatie vraagt."
 faq:
   - q: "Hoe onderscheid ik speling in een spoorstangkogel van speling in het stuurhuis?"

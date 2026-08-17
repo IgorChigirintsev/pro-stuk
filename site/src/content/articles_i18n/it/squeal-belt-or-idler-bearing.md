@@ -1,6 +1,6 @@
 ---
 title: "Fischio: cinghia o cuscinetto del rullo"
-metaTitle: "Fischio nel vano motore: cinghia o rullo | Stuk"
+metaTitle: "Fischio nel vano motore: cinghia o rullo | Pro-Stuk"
 description: "Un fischio nel vano motore può venire sia dalla cinghia che slitta sia dal cuscinetto di un rullo che sta morendo. Come distinguerli dalle condizioni in cui il rumore compare."
 faq:
   - q: "Perché la cinghia fischia solo con l’umidità?"
@@ -101,7 +101,7 @@ contaminate ripete la storia nel giro di pochi giorni, come spiegato in
 [fischio dopo la sostituzione della cinghia](/it/articles/belt-squeal-after-a-belt-change/).
 
 Un fischio nel vano motore è uno dei rumori che si registrano bene con il
-telefono. Fai due registrazioni con l’app Stuk: una al minimo senza
+telefono. Fai due registrazioni con l’app Pro-Stuk: una al minimo senza
 carichi, l’altra con climatizzatore e luci accesi. L’app le confronta e
 mostra verso quale versione pende il quadro, prima ancora che tu sia al
 banco dell’accettazione.

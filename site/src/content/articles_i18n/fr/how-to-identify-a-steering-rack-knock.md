@@ -1,6 +1,6 @@
 ---
 title: "Un claquement de crémaillère de direction : comment l'identifier"
-metaTitle: "Claquement de crémaillère : l'identifier soi-même | Stuk"
+metaTitle: "Claquement de crémaillère : l'identifier soi-même | Pro-Stuk"
 description: "Comment établir que c'est la crémaillère de direction qui claque et non les rotules : les signes caractéristiques, un test à deux et ce dont dépend la réparation."
 faq:
   - q: "Puis-je rouler avec une crémaillère qui claque ?"
@@ -146,7 +146,7 @@ si des soufflets neufs sont inclus : monter une crémaillère refaite
 derrière de vieux soufflets fendus gâche tout le travail.
 
 Si vous voulez tester vos soupçons avant le garage, enregistrez le
-claquement dans l'application Stuk : parcourez une portion dégradée avec
+claquement dans l'application Pro-Stuk : parcourez une portion dégradée avec
 l'enregistrement en marche et répondez à quelques questions — l'application
 confronte le son à des profils de pannes typiques et affiche les causes
 probables avec un niveau d'urgence.

@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-rulevyh-nakonechnikov"
 title: "Signs of worn track rod ends"
-metaTitle: "Signs of worn track rod ends: the sound | Stuk"
+metaTitle: "Signs of worn track rod ends: the sound | Pro-Stuk"
 description: "Knocking over small bumps, steering play, wandering in a straight line — how to recognise worn track rod ends and check them yourself."
 pubDate: "2026-08-02"
 related:
@@ -145,6 +145,6 @@ surfaces and the neighbouring parts, turning a cheap repair into an
 expensive one.
 
 If something knocks below and you are not sure of the diagnosis, record
-the sound in the Stuk app. It matches the recording with your answers
+the sound in the Pro-Stuk app. It matches the recording with your answers
 about when the knock appears — over bumps, when steering, when braking —
 and shows the likely causes with an urgency level.

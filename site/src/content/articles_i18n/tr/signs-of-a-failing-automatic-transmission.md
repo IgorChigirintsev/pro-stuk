@@ -1,6 +1,6 @@
 ---
 title: "Ölmekte olan otomatik şanzımanın belirtileri"
-metaTitle: "Otomatik şanzıman ölüyor: belirtileri | Stuk"
+metaTitle: "Otomatik şanzıman ölüyor: belirtileri | Pro-Stuk"
 description: "Otomatik şanzıman bir gecede bozulmaz: önce kaymalar, uğultu ve gecikmeler gelir. Erken aşınma işaretleri ve her aşamada ne yapmak gerektiği."
 faq:
   - q: "Otomatik şanzımanda en tedirgin edici belirti hangisi?"
@@ -99,7 +99,7 @@ gelir; bir revizyonun bir yıl içinde başarısız olmasının en yaygın neden
 budur.
 
 Erken aşamadaysanız ve şanzımanın sesinin son aylarda değişip
-değişmediğinden emin değilseniz, birkaç haftada bir Stuk uygulamasına
+değişmediğinden emin değilseniz, birkaç haftada bir Pro-Stuk uygulamasına
 kaydedin — rölantide, boşta ve hızlanırken. Uygulama geçmişi saklar,
 kayıtları karşılaştırır ve durumun kötüleşip kötüleşmediğini yoksa sesin
 zaten hep böyle mi olduğunu gösterir.

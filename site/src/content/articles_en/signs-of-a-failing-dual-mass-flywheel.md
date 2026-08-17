@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-neispravnosti-dvuhmassovogo-mahovika"
 title: "Signs of a failing dual-mass flywheel"
-metaTitle: "Failing dual-mass flywheel: the signs | Stuk"
+metaTitle: "Failing dual-mass flywheel: the signs | Pro-Stuk"
 description: "Rattling at idle, noise with the clutch pressed, a thump when switching off — how to read the symptoms of a tired dual-mass flywheel."
 pubDate: "2026-07-27"
 related:
@@ -101,6 +101,6 @@ is to rule out the simple things first: mounts, misfires, the release
 bearing.
 
 If the rattle at idle is already audible and you want to know which group
-it belongs to, record it in the Stuk app twice — with the clutch pedal up
+it belongs to, record it in the Pro-Stuk app twice — with the clutch pedal up
 and pressed. The app matches the recordings with your answers to a few
 questions and shows the likely causes with percentages.

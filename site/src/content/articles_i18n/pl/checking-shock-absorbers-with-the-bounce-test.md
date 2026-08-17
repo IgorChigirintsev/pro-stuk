@@ -1,6 +1,6 @@
 ---
 title: "Jak sprawdzić amortyzatory bujaniem nadwozia"
-metaTitle: "Test amortyzatorów bujaniem: krok po kroku | Stuk"
+metaTitle: "Test amortyzatorów bujaniem: krok po kroku | Pro-Stuk"
 description: "Test bujaniem krok po kroku: jak naciskać nadwozie, jak liczyć ruchy, czego test nie pokaże i kiedy potrzebne jest stanowisko diagnostyczne."
 faq:
   - q: "Na ile wiarygodny jest test bujaniem?"
@@ -78,9 +78,9 @@ hałas. Do tych zadań uczciwie zarabia na swoje pięć minut.
 | Półtora do dwóch ruchów | Stan graniczny: obserwować, sprawdzić inne objawy |
 | Dwa, trzy i więcej ruchów, auto kołysze się jak łódka | Zużyty amortyzator, potrzebna wymiana |
 | Jedna strona tłumi wyraźnie gorzej od drugiej | Jednostronne zużycie albo wyciek — na diagnostykę |
-| Stuk, skrzypienie albo grzechot w trakcie bujania | Szukać poza amortyzatorem: łożysko górne, tuleje, łączniki stabilizatora |
+| Pro-Stuk, skrzypienie albo grzechot w trakcie bujania | Szukać poza amortyzatorem: łożysko górne, tuleje, łączniki stabilizatora |
 
-Stuk podczas bujania to osobna wskazówka. Jego źródłem często nie jest sam
+Pro-Stuk podczas bujania to osobna wskazówka. Jego źródłem często nie jest sam
 amortyzator, tylko jego górne mocowanie albo łączniki stabilizatora — krótkie
 drążki, które na złych drogach zużywają się w pierwszej kolejności.
 
@@ -130,6 +130,6 @@ mieszanie twardego zamiennika na jednej osi z oryginałem na drugiej daje
 auto, które z przodu i z tyłu zachowuje się inaczej.
 
 Jeśli test bujaniem dał niejednoznaczną odpowiedź, a w zawieszeniu jest
-hałas, którego trudno opisać, proszę nagrać go w aplikacji Stuk podczas
+hałas, którego trudno opisać, proszę nagrać go w aplikacji Pro-Stuk podczas
 jazdy. Aplikacja zestawia nagranie z Pana odpowiedziami i pokazuje
 prawdopodobne przyczyny wraz z poziomem pilności.

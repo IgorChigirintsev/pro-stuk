@@ -1,6 +1,6 @@
 ---
 title: "Quanto o rolamento de roda ainda anda depois que o zumbido aparece"
-metaTitle: "Quanto anda o rolamento de roda zumbindo | Stuk"
+metaTitle: "Quanto anda o rolamento de roda zumbindo | Pro-Stuk"
 description: "Do primeiro zumbido do rolamento de roda até a folga perigosa costumam ser milhares de quilômetros. Do que depende essa margem e quais sinais a cancelam."
 faq:
   - q: "Quantos quilômetros dá para rodar com rolamento zumbindo?"
@@ -90,7 +90,7 @@ tempo com amortecedores mortos faz com o carro está em
 [dirigindo com amortecedores mortos](/pt/articles/driving-with-dead-shock-absorbers/).
 
 Se você quer acompanhar a tendência em vez de adivinhar, grave o som no
-aplicativo Stuk a cada duas semanas no mesmo trecho de via e na mesma
+aplicativo Pro-Stuk a cada duas semanas no mesmo trecho de via e na mesma
 velocidade. O app cruza as gravações com suas respostas e mostra as causas
 prováveis em porcentagem, e comparar as gravações entre si responde com
 honestidade se o carro está estável ou já passou para a etapa seguinte.

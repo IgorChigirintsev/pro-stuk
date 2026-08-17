@@ -1,6 +1,6 @@
 ---
 title: "Rayures de cylindre sur Hyundai et Kia : comment ça sonne"
-metaTitle: "Rayures de cylindre Hyundai/Kia : comment ça sonne | Stuk"
+metaTitle: "Rayures de cylindre Hyundai/Kia : comment ça sonne | Pro-Stuk"
 description: "Reconnaître à l'oreille des rayures de cylindre sur les moteurs Hyundai et Kia : caractère du claquement, lien avec la chauffe et la charge, et confirmation."
 faq:
   - q: "Des rayures de cylindre claquent-elles à froid ou à chaud ?"
@@ -99,7 +99,7 @@ d'endoscope plutôt qu'un verdict oral : la différence entre de légères
 traces de rodage et des sillons profonds est ce qui tranche entre
 surveiller et ouvrir le moteur, et elle se voit sur une image.
 
-La première étape est commode avec l'application Stuk : enregistrez le son
+La première étape est commode avec l'application Pro-Stuk : enregistrez le son
 moteur froid puis moteur chaud, notez s'il change en charge, et répondez
 aux questions sur les appoints d'huile. L'application affiche les causes
 probables avec leurs pourcentages et suggère quelles mesures demander en

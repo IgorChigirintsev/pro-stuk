@@ -1,6 +1,6 @@
 ---
 title: "Klappern unter dem Auto beim Beschleunigen"
-metaTitle: "Klappern unter dem Auto beim Gasgeben | Stuk"
+metaTitle: "Klappern unter dem Auto beim Gasgeben | Pro-Stuk"
 description: "Hitzeschilde, Auspuff an der Karosserie, Klingeln oder zerfallener Katalysator: warum beim Beschleunigen ein Klappern auftritt und was harmlos ist."
 faq:
   - q: "Wie unterscheide ich ein klapperndes Hitzeschild vom Klingeln des Motors?"

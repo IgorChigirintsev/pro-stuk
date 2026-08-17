@@ -1,6 +1,6 @@
 ---
 title: "Les bruits au démarrage par grand froid"
-metaTitle: "Bruits au démarrage par grand froid : que faire | Stuk"
+metaTitle: "Bruits au démarrage par grand froid : que faire | Pro-Stuk"
 description: "Sifflement de courroie, claquement de l'huile épaisse, grincement de démarreur : les sons du démarrage à froid. Ce qui est normal en hiver et ce qui exige un garage."
 faq:
   - q: "Pourquoi un moteur sonne-t-il plus fort et plus dur par grand froid ?"
@@ -127,7 +127,7 @@ la batterie si elle a plus de quatre ans : une batterie remplacée à
 l'automne coûte le même prix qu'en janvier, moins le remorquage.
 
 Si le concert du matin vous laisse dans le doute, enregistrez le démarrage
-à froid dans l'application Stuk — dehors, devant le capot ouvert. Elle
+à froid dans l'application Pro-Stuk — dehors, devant le capot ouvert. Elle
 confronte l'enregistrement à vos réponses sur la température et les
 conditions, et affiche les causes probables en pourcentages avec un niveau
 d'urgence : il devient plus facile de savoir ce qu'on met sur le compte de

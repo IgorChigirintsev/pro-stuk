@@ -1,6 +1,6 @@
 ---
 title: "Eksantrik ayarlayıcı arızasının belirtileri"
-metaTitle: "Arızalı eksantrik ayarlayıcı: ses ve belirtiler | Stuk"
+metaTitle: "Arızalı eksantrik ayarlayıcı: ses ve belirtiler | Pro-Stuk"
 description: "Arızalı eksantrik ayarlayıcının belirtileri: çalıştırmadan sonra takırtı, titrek rölanti, artan tüketim, P0010–P0017 kodları ve diğer seslerden farkı."
 faq:
   - q: "Eksantrik ayarlayıcı basitçe nedir?"
@@ -106,6 +106,6 @@ hızlandırır ve ciddi biçimde kaymış zamanlama supaplar ile pistonlar için
 risk haline gelir.
 
 Motorunuzdan gelen seslerin ayarlayıcı olduğundan emin değilseniz soğuk
-çalıştırmayı Stuk uygulamasında kaydedin: algoritma kaydı verdiğiniz
+çalıştırmayı Pro-Stuk uygulamasında kaydedin: algoritma kaydı verdiğiniz
 cevaplarla eşleştirir ve olası sebepleri yüzdeleri ve aciliyet seviyesiyle
 verir — serviste yapacağınız konuşma için elverişli bir başlangıç noktası.

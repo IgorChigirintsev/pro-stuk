@@ -1,6 +1,6 @@
 ---
 title: "Een klop in het stuurhuis: zo stelt u hem vast"
-metaTitle: "Klop in het stuurhuis zelf vaststellen | Stuk"
+metaTitle: "Klop in het stuurhuis zelf vaststellen | Pro-Stuk"
 description: "Hoe u vaststelt dat het stuurhuis klopt en niet de kogels of spoorstangen: de kenmerken, een test met een helper en waar de reparatie van afhangt."
 faq:
   - q: "Kan ik rijden met een kloppend stuurhuis?"

@@ -1,7 +1,7 @@
 ---
 ru: "tsokot-dvigatelya-na-holostyh"
 title: "Engine ticking at idle"
-metaTitle: "Engine ticking at idle: causes and what to do | Stuk"
+metaTitle: "Engine ticking at idle: causes and what to do | Pro-Stuk"
 description: "Why an engine ticks at idle: valves, hydraulic lifters, injectors, the timing chain. How to tell harmless ticking from the worrying kind."
 pubDate: "2026-07-01"
 related:
@@ -141,7 +141,7 @@ oil regime that caused the wear has to change too: fresh parts fed by the
 same neglected oil start ticking again within a year.
 
 If you want to know which way to look before booking anything, record the
-ticking in the Stuk app. It matches the sound with your answers to a few
+ticking in the Pro-Stuk app. It matches the sound with your answers to a few
 questions about the conditions and shows the likely causes with
 percentages: with that list it is easier both to choose a workshop and to
 sanity-check the price they quote.

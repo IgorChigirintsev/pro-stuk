@@ -1,6 +1,6 @@
 ---
 title: "Co powiedzieć mechanikowi: jak poprawnie opisać dźwięk"
-metaTitle: "Jak opisać dźwięk auta mechanikowi | Stuk"
+metaTitle: "Jak opisać dźwięk auta mechanikowi | Pro-Stuk"
 description: "Jak opisać dźwięk, żeby mechanik zrozumiał za pierwszym razem: pięć rzeczy, które się liczą, sformułowania, które działają, i typowe błędy."
 faq:
   - q: "Czy wymieniać część, którą podejrzewam?"
@@ -100,7 +100,7 @@ udało się odtworzyć, proszę wrócić, gdy będzie stałe” to odpowiedź uc
 tańsza niż lista spekulacyjnych robót.
 
 Jeśli poskładanie tego wszystkiego na miejscu sprawia kłopot, aplikacja
-Stuk zadaje dokładnie te pytania po kolei i łączy odpowiedzi z nagraniem w
+Pro-Stuk zadaje dokładnie te pytania po kolei i łączy odpowiedzi z nagraniem w
 jedną kartę: charakter, miejsce, warunki, za czym idzie i prawdopodobne
 przyczyny z procentami. Pokazanie tej karty mechanikowi wystarczy — opis
 jest już gotowy.

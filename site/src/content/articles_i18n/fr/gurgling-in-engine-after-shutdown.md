@@ -1,6 +1,6 @@
 ---
 title: "Des gargouillis dans le moteur après la coupure"
-metaTitle: "Gargouillis après la coupure du moteur : causes | Stuk"
+metaTitle: "Gargouillis après la coupure du moteur : causes | Pro-Stuk"
 description: "Gargouillis après la coupure : quand c'est un refroidissement normal et quand c'est de l'air, un bouchon fatigué ou un joint de culasse. Contrôles en 5 minutes."
 faq:
   - q: "Des gargouillis après la coupure signifient-ils toujours que quelque chose bout ?"
@@ -123,7 +123,7 @@ recontrôlée après un cycle thermique complet. L'air resté dedans se
 manifeste exactement par les gargouillis pour lesquels vous étiez venu.
 
 Si vous ne savez pas si le vôtre est normal ou non, enregistrez le son
-après la coupure dans l'application Stuk : elle confronte l'enregistrement
+après la coupure dans l'application Pro-Stuk : elle confronte l'enregistrement
 à vos réponses — quand ça gargouille, si du liquide disparaît, si le
 chauffage fonctionne — et affiche les causes probables avec un niveau
 d'urgence.

@@ -1,7 +1,7 @@
 ---
 ru: "gul-iz-pod-kapota-na-holostyh"
 title: "Humming under the bonnet at idle"
-metaTitle: "Humming under the bonnet at idle: find the source | Stuk"
+metaTitle: "Humming under the bonnet at idle: find the source | Pro-Stuk"
 description: "What hums under the bonnet at idle: the cooling fan, alternator, A/C compressor, water pump or idlers. Simple switch tests that locate the source."
 pubDate: "2026-07-05"
 related:
@@ -118,6 +118,6 @@ already being paid for, and a new idler running on an old, stretched belt
 is a short-lived fix.
 
 A hum at idle is easy to record: the car is still and background noise is
-minimal. Make a recording with the bonnet open in the Stuk app — it
+minimal. Make a recording with the bonnet open in the Pro-Stuk app — it
 matches the sound against your answers and shows the likely causes with an
 urgency rating.

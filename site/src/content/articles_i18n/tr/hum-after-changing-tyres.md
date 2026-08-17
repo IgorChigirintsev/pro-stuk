@@ -1,6 +1,6 @@
 ---
 title: "Lastik değişiminden sonra uğultu"
-metaTitle: "Lastik değişiminden sonra uğultu: kontrol | Stuk"
+metaTitle: "Lastik değişiminden sonra uğultu: kontrol | Pro-Stuk"
 description: "Hızda uğultu lastik değişiminden sonra çıktı. Suçlu ne zaman diş deseni, ne zaman balans ya da teker rotasyonu, ne zaman da lastikler masum?"
 faq:
   - q: "Yeni lastikler başta hep uğuldar mı?"
@@ -90,7 +90,7 @@ aşındırır.
 
 Tekerlerin yerini değiştirdikten sonra sesin değişip değişmediğinden emin
 değilseniz hafızanıza güvenmeyin: birkaç desibeli kulakla ayırmak
-neredeyse imkânsızdır. Uğultuyu yer değiştirmeden önce ve sonra Stuk
+neredeyse imkânsızdır. Uğultuyu yer değiştirmeden önce ve sonra Pro-Stuk
 uygulamasına kaydedin — uygulama kayıtları cevaplarınızla karşılaştırır ve
 muhtemel sebepleri yüzdesiyle gösterir, böylece kusur rulmandayken kimse
 lastik değiştirmez.

@@ -1,6 +1,6 @@
 ---
 title: "Sinais de variador de fase (VVT) com defeito"
-metaTitle: "Variador de fase com defeito: som e sintomas | Stuk"
+metaTitle: "Variador de fase com defeito: som e sintomas | Pro-Stuk"
 description: "Sinais de variador de fase VVT com defeito: chocalho após a partida, marcha lenta irregular, consumo alto, códigos P0010–P0017 e como separar de outros ruídos."
 faq:
   - q: "O que é o variador de fase, em linguagem simples?"
@@ -109,6 +109,6 @@ Adiar fica cada vez mais caro: um variador gasto acelera o desgaste da
 corrente, e sincronismo muito fora vira risco para válvulas e pistões.
 
 Se você não tem certeza de que os barulhos do seu motor são o variador,
-grave uma partida a frio no aplicativo Stuk: o algoritmo cruza a gravação
+grave uma partida a frio no aplicativo Pro-Stuk: o algoritmo cruza a gravação
 com suas respostas e devolve as causas prováveis com porcentagens e um
 nível de urgência — um bom ponto de partida para a conversa com a oficina.

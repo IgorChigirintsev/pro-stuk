@@ -1,6 +1,6 @@
 ---
 title: "Direção hidráulica zunindo ao virar: causas"
-metaTitle: "Direção hidráulica zunindo ao virar: causas | Stuk"
+metaTitle: "Direção hidráulica zunindo ao virar: causas | Pro-Stuk"
 description: "Por que a direção hidráulica zune nas curvas: nível de fluido, ar no sistema, a bomba, a correia. Como separar o normal do desgaste e o que checar antes."
 faq:
   - q: "Só zune com o volante no fim de curso. Isso é defeito?"
@@ -123,7 +123,7 @@ acaba com os retentores da caixa de direção — e a caixa é a peça mais cara
 do conjunto. Então trate o zumbido como motivo para olhar o reservatório
 em um ou dois dias, não para «acompanhar durante um mês».
 
-Se você não tem certeza de que é a direção, grave o som no aplicativo Stuk
+Se você não tem certeza de que é a direção, grave o som no aplicativo Pro-Stuk
 enquanto gira o volante. O aplicativo cruza a gravação com suas respostas
 sobre quando o som aparece e mostra as causas prováveis com um nível de
 urgência.

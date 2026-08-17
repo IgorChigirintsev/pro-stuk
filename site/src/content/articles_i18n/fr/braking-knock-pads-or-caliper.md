@@ -1,6 +1,6 @@
 ---
 title: "Un claquement au freinage : plaquettes ou étrier"
-metaTitle: "Claquement au freinage : plaquettes ou étrier | Stuk"
+metaTitle: "Claquement au freinage : plaquettes ou étrier | Pro-Stuk"
 description: "Un claquement quand vous appuyez sur la pédale vient soit des plaquettes qui bougent, soit d'un étrier desserré. Comment les distinguer au son."
 faq:
   - q: "Pourquoi n'entend-on le claquement qu'au premier freinage ?"
@@ -97,7 +97,7 @@ certaines sont à usage unique, et une vis qui se desserre, c'est
 exactement la version de cette panne qui compte.
 
 Les claquements de frein sont rarement reproductibles sur demande au
-garage. Enregistrez le son deux fois dans l'application Stuk — au premier
+garage. Enregistrez le son deux fois dans l'application Pro-Stuk — au premier
 freinage après le départ, puis pendant un arrêt en douceur depuis
 60 km/h. À partir de la différence entre les deux enregistrements,
 l'application affiche les causes probables avec leurs pourcentages et

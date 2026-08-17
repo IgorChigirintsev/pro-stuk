@@ -1,6 +1,6 @@
 ---
 title: "Buczenie przy skręcaniu w lewo"
-metaTitle: "Buczenie przy skręcie w lewo: które łożysko | Stuk"
+metaTitle: "Buczenie przy skręcie w lewo: które łożysko | Pro-Stuk"
 description: "Buczenie przy skręcaniu w lewo zwykle oznacza zużyte prawe łożysko koła. Dlaczego tak jest, jak to potwierdzić podczas jednej jazdy i jak pilna jest wymiana."
 faq:
   - q: "Buczy przy skręcaniu w lewo — które łożysko wymienić?"
@@ -96,6 +96,6 @@ tysiącach kilometrów. Zamknięcie sprawy w pierwszych tygodniach jest
 tańsze i spokojniejsze.
 
 Jeśli buczenie jest jeszcze ciche, a chcą Państwo mieć pewność, że to nie
-wyobraźnia, warto nagrać dźwięk w aplikacji Stuk podczas testu zmiany pasa.
+wyobraźnia, warto nagrać dźwięk w aplikacji Pro-Stuk podczas testu zmiany pasa.
 Aplikacja zestawia nagranie z odpowiedziami i pokazuje prawdopodobne
 przyczyny w procentach — oraz podpowiada, od której strony zacząć.

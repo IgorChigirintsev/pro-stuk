@@ -1,6 +1,6 @@
 ---
 title: "Pisk hamulców po deszczu: norma czy nie"
-metaTitle: "Pisk hamulców po deszczu: norma czy nie | Stuk"
+metaTitle: "Pisk hamulców po deszczu: norma czy nie | Pro-Stuk"
 description: "Dlaczego hamulce piszczą po deszczu i po nocnym postoju, kiedy to niegroźna rdza na tarczach, a kiedy sygnał zużytych klocków hamulcowych."
 faq:
   - q: "Ile hamowań potrzeba, żeby pisk po deszczu zniknął?"
@@ -131,6 +131,6 @@ to całkiem nie usunie — rdza i tak się tworzy — ale dźwięk staje się
 cichszy i krótszy.
 
 Jeśli nie wiadomo, do jakiej kategorii przypisać dźwięk, proszę nagrać go
-w aplikacji Stuk — najlepiej rano, przy pierwszych hamowaniach, gdy pisk
+w aplikacji Pro-Stuk — najlepiej rano, przy pierwszych hamowaniach, gdy pisk
 jest najgłośniejszy. Aplikacja zestawi nagranie z Pana odpowiedziami i
 pokaże prawdopodobne przyczyny wraz z oceną pilności.

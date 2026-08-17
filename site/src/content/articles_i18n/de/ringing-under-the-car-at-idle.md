@@ -1,6 +1,6 @@
 ---
 title: "Ein Klingeln unter dem Auto im Leerlauf"
-metaTitle: "Klingeln unter dem Auto im Leerlauf: Ursachen | Stuk"
+metaTitle: "Klingeln unter dem Auto im Leerlauf: Ursachen | Pro-Stuk"
 description: "Hitzeschild, zerfallender Katalysator, Auspuff an der Karosserie: woher ein Klingeln unter dem Auto im Leerlauf kommt und wie Sie es prüfen."
 faq:
   - q: "Warum ist das Klingeln kalt zu hören und nach dem Warmfahren weg?"

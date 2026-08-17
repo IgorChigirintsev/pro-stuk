@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein defektes Lenkgetriebe"
-metaTitle: "Defektes Lenkgetriebe: die Liste der Zeichen | Stuk"
+metaTitle: "Defektes Lenkgetriebe: die Liste der Zeichen | Pro-Stuk"
 description: "Klopfen, Spiel, hakelige Lenkung, Undichtigkeit und Pumpenheulen — die Zeichen eines defekten Lenkgetriebes und wann Nachstellen noch hilft."
 faq:
   - q: "Das Lenkgetriebe schwitzt Flüssigkeit — kann ich einfach nachfüllen?"

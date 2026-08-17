@@ -1,6 +1,6 @@
 ---
 title: "Claquement de la suspension avant sur les petites bosses"
-metaTitle: "Claquement avant sur les petites bosses : causes | Stuk"
+metaTitle: "Claquement avant sur les petites bosses : causes | Pro-Stuk"
 description: "Pourquoi la suspension avant claque précisément sur les petites bosses : biellettes, silentblocs, coupelles, rotules de direction. Comment cerner soi-même."
 faq:
   - q: "Pourquoi la suspension claque-t-elle sur les petites bosses et reste-t-elle muette dans les gros nids-de-poule ?"
@@ -140,7 +140,7 @@ l'arrivée de nouvelles pannes, et une pièce usée accélère l'usure de ses
 voisines.
 
 Si vous voulez arriver au garage avec une théorie prête, enregistrez le
-claquement dans l'application Stuk : elle croise le son avec vos réponses
+claquement dans l'application Pro-Stuk : elle croise le son avec vos réponses
 sur le moment où il apparaît et affiche les causes probables avec un
 niveau d'urgence — la conversation avec un mécanicien devient tout de
 suite concrète.

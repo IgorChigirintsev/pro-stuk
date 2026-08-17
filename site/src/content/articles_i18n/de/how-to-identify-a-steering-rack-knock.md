@@ -1,6 +1,6 @@
 ---
 title: "Klopfen im Lenkgetriebe: wie man es erkennt"
-metaTitle: "Klopfen im Lenkgetriebe selbst erkennen | Stuk"
+metaTitle: "Klopfen im Lenkgetriebe selbst erkennen | Pro-Stuk"
 description: "Wie Sie feststellen, dass das Lenkgetriebe klopft und nicht die Spurstangenköpfe: die typischen Zeichen, ein Test zu zweit und wovon die Reparatur abhängt."
 faq:
   - q: "Kann ich mit klopfendem Lenkgetriebe fahren?"

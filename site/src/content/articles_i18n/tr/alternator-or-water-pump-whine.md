@@ -1,6 +1,6 @@
 ---
 title: "Alternatör mü devirdaim pompası mı: uğultuyu ayırmak"
-metaTitle: "Alternatör mü devirdaim mi: uğultuyu ayırmak | Stuk"
+metaTitle: "Alternatör mü devirdaim mi: uğultuyu ayırmak | Pro-Stuk"
 description: "Alternatör ve devirdaim pompası aynı kayışta oturur ve birbirine benzer uğuldar. On dakikada ikisini ayıran kontroller ve her ihtimalin riski."
 faq:
   - q: "Hiçbir şey sökmeden alternatör uğultusunu devirdaim uğultusundan nasıl ayırırım?"
@@ -87,7 +87,7 @@ ve alternatörden çok daha ucuzdur.
 Hangisi çıkarsa çıksın, uzun süre çalışmış V kayışı söküldüğünde
 değiştirilir. Zaten ödenen işçiliğin yanında küçük bir parçadır.
 
-Farkı yakalamanın en kolay yolu bir kayıttır: Stuk uygulamasında iki kısa
+Farkı yakalamanın en kolay yolu bir kayıttır: Pro-Stuk uygulamasında iki kısa
 dosya çekin; biri yüksüz rölantide, diğeri farları ve rezistansı açtıktan
 yarım dakika sonra. Uygulama ikisini cevaplarınızla karşılaştırır ve olası
 nedenleri yüzdelerle gösterir; böylece servise "bir şeyler uğulduyor"

@@ -1,6 +1,6 @@
 ---
 title: "Amortisör değişiminden sonra tıkırtı"
-metaTitle: "Amortisör değişiminden sonra tıkırtı: sebepler | Stuk"
+metaTitle: "Amortisör değişiminden sonra tıkırtı: sebepler | Pro-Stuk"
 description: "Yeni amortisörden sonra tıkırtı neden çıkar: tork hataları, eski takoz ve tamponlar, kusurlu parça. Sebep nasıl bulunur ve masrafı kim öder."
 faq:
   - q: "Yeni amortisörün tıkırtısı oturup geçer mi?"
@@ -102,6 +102,6 @@ işin içine karışmışsa
 yazısı ayrımı yapmaya yardım eder.
 
 Konuyu somut tutmak için tıkırtının kendisini yakalayın: en net duyulduğu
-yolda Stuk uygulamasında kaydedin. Algoritma kaydı verdiğiniz cevaplarla
+yolda Pro-Stuk uygulamasında kaydedin. Algoritma kaydı verdiğiniz cevaplarla
 eşleştirip olası sebepleri aciliyet düzeyiyle gösterir; elinizde kayıt
 varken bir servisin «her şey yolunda» demesi zorlaşır.

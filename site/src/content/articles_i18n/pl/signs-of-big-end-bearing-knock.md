@@ -1,10 +1,10 @@
 ---
 title: "Objawy stuku korbowodowego"
-metaTitle: "Stuk korbowodowy: jak brzmi i co robić | Stuk"
+metaTitle: "Pro-Stuk korbowodowy: jak brzmi i co robić | Pro-Stuk"
 description: "Jak brzmi stuk panewek korbowodowych, jakie objawy mu towarzyszą, z czym bywa mylony i jak diagnozę potwierdza się w warsztacie."
 faq:
   - q: "Czym stuk korbowodowy różni się od hałasu popychaczy hydraulicznych?"
-    a: "Popychacze stukają ostro, od góry, spod pokrywy zaworów i z połową prędkości wału korbowego. Stuk korbowodowy jest głuchy i metaliczny, z głębi bloku, jego częstotliwość odpowiada obrotom i wyraźnie rośnie pod obciążeniem. Ze stukającymi popychaczami można pojeździć, ze stukiem korbowodowym nie."
+    a: "Popychacze stukają ostro, od góry, spod pokrywy zaworów i z połową prędkości wału korbowego. Pro-Stuk korbowodowy jest głuchy i metaliczny, z głębi bloku, jego częstotliwość odpowiada obrotom i wyraźnie rośnie pod obciążeniem. Ze stukającymi popychaczami można pojeździć, ze stukiem korbowodowym nie."
   - q: "Dlaczego stuk korbowodowy najlepiej słychać przy puszczeniu gazu?"
     a: "W chwili puszczenia gazu obciążenie korbowodu zmienia kierunek: tłok przestaje pchać w dół, a korbowód przemieszcza się w zużytym luzie i uderza w czop wału. Stąd klasyczny test — krótkie kopnięcie gazem na postoju: seria wyraźnych, głuchych uderzeń przy opadaniu obrotów mocno podnosi prawdopodobieństwo."
   - q: "Czy mogę dojechać do warsztatu ze stukiem korbowodowym?"
@@ -18,7 +18,7 @@ sources:
     url: "https://www.sae.org/"
 ---
 
-Stuk korbowodowy to dźwięk, którego kierowcy boją się najbardziej — i
+Pro-Stuk korbowodowy to dźwięk, którego kierowcy boją się najbardziej — i
 słusznie: oznacza zużyte panewki korbowodowe, czyli łożyska ślizgowe, na
 których korbowód obraca się na czopie wału. Dobra wiadomość jest taka, że
 ten stuk ma rozpoznawalny podpis i da się go oddzielić od nieszkodliwych
@@ -32,7 +32,7 @@ korbowód nigdy nie dotyka czopa wału: ciśnienie oleju utrzymuje film
 grubości setnych części milimetra — klin olejowy. Dopóki ten klin się
 trzyma, węzeł praktycznie się nie zużywa.
 
-Stuk pojawia się, kiedy luz urośnie tak bardzo, że olej przestaje go
+Pro-Stuk pojawia się, kiedy luz urośnie tak bardzo, że olej przestaje go
 wypełniać. Przy każdej zmianie kierunku obciążenia — a zdarza się ona co
 obrót — korbowód przemieszcza się w luzie i uderza w czop. Powiększony luz
 bierze się zwykle z głodu olejowego, starego albo nieodpowiedniego oleju,
@@ -87,7 +87,7 @@ Scenariusz korbowodowy rzadko przychodzi sam. Pośrednie potwierdzenia:
 | Etap | Co słychać | Co dzieje się w środku |
 |---|---|---|
 | Wczesny | Głuche uderzenia przy kopnięciu gazem na gorąco | Luz na granicy |
-| Średni | Stuk pod obciążeniem, kontrolka oleju na jałowym | Zużywa się warstwa ślizgowa |
+| Średni | Pro-Stuk pod obciążeniem, kontrolka oleju na jałowym | Zużywa się warstwa ślizgowa |
 | Późny | Stały, głośny stuk w każdych warunkach | Panewka się rozpada |
 | Końcowy | Klekot, potem zatarcie albo dziura w bloku | Zakręcona panewka, zatarte czopy |
 
@@ -149,7 +149,7 @@ Ekonomia jest prosta: im szybciej Pan stanie i sprawdzi, tym większa
 szansa, że skończy się na panewkach, a wał zostanie nietknięty.
 
 Nie ma Pan pewności, czy to stuk korbowodowy, czy jedna z jego podróbek?
-Proszę nagrać silnik w aplikacji Stuk: porównuje ona nagranie z typowymi
+Proszę nagrać silnik w aplikacji Pro-Stuk: porównuje ona nagranie z typowymi
 stukami, zadaje pytania uzupełniające i pokazuje prawdopodobne przyczyny
 wraz z poziomem pilności. To nie zastępuje rozebrania, ale pomaga ocenić,
 jak pilnie potrzebny jest warsztat.

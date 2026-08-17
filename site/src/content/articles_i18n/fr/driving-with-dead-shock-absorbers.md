@@ -1,6 +1,6 @@
 ---
 title: "Ce qu'entraîne de rouler avec des amortisseurs morts"
-metaTitle: "Rouler avec des amortisseurs morts : les suites | Stuk"
+metaTitle: "Rouler avec des amortisseurs morts : les suites | Pro-Stuk"
 description: "Des amortisseurs morts allongent la distance de freinage, détruisent la suspension et mangent les pneus. Ce qui casse ensuite et ce que la réparation impose."
 faq:
   - q: "Dans quelle mesure des amortisseurs morts influencent-ils la distance de freinage ?"
@@ -105,7 +105,7 @@ donne une voiture qui se comporte différemment à l'avant et à l'arrière,
 et c'est plus difficile à vivre que le jeu fatigué dont vous êtes parti.
 
 Si vous ne savez pas si la suspension claque ou si c'est simplement normal
-sur votre voiture, enregistrez le son dans l'application Stuk sur une
+sur votre voiture, enregistrez le son dans l'application Pro-Stuk sur une
 portion dégradée que vous connaissez. L'application croise
 l'enregistrement avec vos réponses et affiche les causes probables avec
 leurs pourcentages — généralement assez pour trancher entre un diagnostic

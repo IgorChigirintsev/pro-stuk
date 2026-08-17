@@ -1,6 +1,6 @@
 ---
 title: "Chirrido del alternador: rodamiento o correa"
-metaTitle: "Chirrido del alternador: ¿rodamiento o correa? | Stuk"
+metaTitle: "Chirrido del alternador: ¿rodamiento o correa? | Pro-Stuk"
 description: "Cómo distinguir una correa que patina de un rodamiento del alternador que zumba: la diferencia de sonido y tres pruebas sin desmontar nada."
 faq:
   - q: "¿Se puede circular con un rodamiento del alternador que zumba?"
@@ -127,7 +127,7 @@ desde la tensión mal ajustada hasta una correa que no es la que
 corresponde.
 
 Si después de todas las pruebas sigue sin estar seguro, grabe el sonido en
-la aplicación Stuk: cruza la grabación con sus respuestas sobre cuándo
+la aplicación Pro-Stuk: cruza la grabación con sus respuestas sobre cuándo
 aparece el chirrido y muestra los orígenes probables con un nivel de
 urgencia, de modo que llegue al taller con una hipótesis de trabajo en
 lugar de un genérico «algo chirría».

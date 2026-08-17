@@ -1,6 +1,6 @@
 ---
 title: "Vibration und Brummen bei 100 km/h"
-metaTitle: "Vibration und Brummen bei 100 km/h: Ursachen | Stuk"
+metaTitle: "Vibration und Brummen bei 100 km/h: Ursachen | Pro-Stuk"
 description: "Woher Vibration und Brummen bei 100 km/h kommen: Auswuchtung, verzogene Felge, Radlager oder Reifengeräusch. Selbstprüfungen in einer einzigen Fahrt."
 faq:
   - q: "Warum tritt die Vibration bei etwa 100 km/h auf?"

@@ -1,6 +1,6 @@
 ---
 title: "Gebrom: de versnellingsbak of een wiellager"
-metaTitle: "Gebrom bij snelheid: bak of wiellager | Stuk"
+metaTitle: "Gebrom bij snelheid: bak of wiellager | Pro-Stuk"
 description: "Gebrom bij snelheid komt zowel van wiellagers als van versnellingsbakken. Drie tests die ze in één rit scheiden, en wat elk antwoord betekent."
 faq:
   - q: "Wat is de snelste manier om bakgebrom van lagergebrom te onderscheiden?"

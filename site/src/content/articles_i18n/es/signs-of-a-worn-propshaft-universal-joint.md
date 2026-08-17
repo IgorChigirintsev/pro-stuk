@@ -1,6 +1,6 @@
 ---
 title: "Señales de una cruceta del cardán gastada"
-metaTitle: "Cruceta del cardán gastada: señales | Stuk"
+metaTitle: "Cruceta del cardán gastada: señales | Pro-Stuk"
 description: "Golpe al arrancar, vibración a velocidad, tintineo metálico bajo el piso: cómo leer por fases el desgaste de una cruceta del cardán y cuándo cambiarla."
 faq:
   - q: "¿Cómo distingo una cruceta del soporte central?"
@@ -104,7 +104,7 @@ el eje antes de desmontarlo para que las bridas vuelvan con la misma
 orientación: eso solo ya evita la mayoría de las vibraciones posteriores.
 
 Si el golpe todavía es esporádico y quiere saber si viene de verdad de
-debajo del piso y no de la suspensión, grábelo con la aplicación Stuk en
+debajo del piso y no de la suspensión, grábelo con la aplicación Pro-Stuk en
 el momento de arrancar. La aplicación cruza la grabación con sus
 respuestas a unas cuantas preguntas y muestra las causas probables con
 porcentajes.

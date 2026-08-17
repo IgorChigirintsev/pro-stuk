@@ -1,7 +1,7 @@
 import type { Dict } from './types';
 
 export const de: Dict = {
-  brand: 'Stuk',
+  brand: 'Pro-Stuk',
   nav: {
     symptoms: 'Symptome',
     how: 'So funktioniert es',
@@ -11,7 +11,7 @@ export const de: Dict = {
   },
   footer: {
     disclaimer:
-      'Stuk liefert eine Wahrscheinlichkeitseinschätzung aus Ihren Antworten und dem ' +
+      'Pro-Stuk liefert eine Wahrscheinlichkeitseinschätzung aus Ihren Antworten und dem ' +
       'Geräusch, keine Diagnose. Über die Reparatur entscheidet die Werkstatt, nachdem ' +
       'sie das Auto gesehen hat.',
     how: 'So funktioniert es',
@@ -20,7 +20,7 @@ export const de: Dict = {
     ruOnly: 'Symptom-Ratgeber und Artikel (auf Russisch)',
   },
   home: {
-    title: 'Stuk — Autodiagnose nach Gehör',
+    title: 'Pro-Stuk — Autodiagnose nach Gehör',
     description:
       'Geräusch aufnehmen und erfahren, was mit dem Auto los ist. Kurzer Fragebogen, ' +
       'Analyse der Aufnahme und ein Bericht: wahrscheinliche Ursachen mit Prozentwerten, ' +
@@ -54,7 +54,7 @@ export const de: Dict = {
     faq: [
       {
         q: 'Ist das eine genaue Diagnose?',
-        a: 'Nein. Stuk gibt eine Wahrscheinlichkeitseinschätzung: mögliche Ursachen mit Prozentwerten und wie dringend die Sache ist. Die genaue Diagnose stellt die Werkstatt nach der Sichtprüfung — der Bericht sorgt nur dafür, dass Sie vorbereitet hinkommen.',
+        a: 'Nein. Pro-Stuk gibt eine Wahrscheinlichkeitseinschätzung: mögliche Ursachen mit Prozentwerten und wie dringend die Sache ist. Die genaue Diagnose stellt die Werkstatt nach der Sichtprüfung — der Bericht sorgt nur dafür, dass Sie vorbereitet hinkommen.',
       },
       {
         q: 'Was kostet das?',
@@ -87,7 +87,7 @@ export const de: Dict = {
     schemaWhole: 'Die Baugruppe im Ganzen.',
   },
   symptoms: {
-    indexTitle: 'Geräusche und Symptome am Auto — Ratgeber | Stuk',
+    indexTitle: 'Geräusche und Symptome am Auto — Ratgeber | Pro-Stuk',
     indexDescription: 'Klopfen, Brummen, Quietschen, Schleifen: was jedes Geräusch am Auto bedeutet, wie gefährlich es ist und was Sie selbst prüfen können. Ratgeber nach Symptom mit Diagnosebaum.',
     h1: 'Symptome nach Geräusch',
     sub: 'Wählen Sie das Geräusch, das Ihrem am nächsten kommt. In jedem Ratgeber: wahrscheinliche Ursachen, eine Gefahrenampel, sichere Selbstprüfungen und ein Diagnosebaum zum Durchklicken.',
@@ -132,7 +132,7 @@ export const de: Dict = {
     playNote: 'Sobald die App bei Google Play ist, wird diese Seite aktualisiert.',
   },
   how: {
-    title: 'Wie die Diagnose nach Gehör funktioniert | Stuk',
+    title: 'Wie die Diagnose nach Gehör funktioniert | Pro-Stuk',
     description:
       'Ehrlich erklärt: der Fragebogen als wichtigstes Werkzeug, die Spektralanalyse der ' +
       'Aufnahme, ein Sprachmodell und die bekannten Schwachstellen der Modelle. Warum das ' +
@@ -144,7 +144,7 @@ export const de: Dict = {
       'Jede Fehlersuche beginnt mit Fragen: Wann ist das Geräusch aufgetreten, wonach klingt ' +
       'es, hängt es von Geschwindigkeit, Drehzahl, Bremsen oder Lenken ab? Die Antworten ' +
       'schließen ganze Gruppen von Ursachen aus — das bringt mehr als jeder Algorithmus über ' +
-      'einer schlechten Aufnahme. Deshalb steht der Fragebogen bei Stuk an erster Stelle, und ' +
+      'einer schlechten Aufnahme. Deshalb steht der Fragebogen bei Pro-Stuk an erster Stelle, und ' +
       'seine Logik ist ein Entscheidungsbaum: Jede Antwort führt zur nächsten, genaueren Frage.',
     recH2: 'Was mit der Aufnahme passiert',
     recP: [
@@ -164,7 +164,7 @@ export const de: Dict = {
       'Dieselben Geräusche entstehen bei ganz verschiedenen Schäden: Das Brummen eines ' +
         'Radlagers wird leicht mit Reifengeräuschen verwechselt, das Klackern der ' +
         'Koppelstangen mit deutlich ernsteren Teilen des Fahrwerks. Sicher unterscheiden ' +
-        'lässt sich das nur auf der Hebebühne. Deshalb stellt Stuk keine Diagnose und ' +
+        'lässt sich das nur auf der Hebebühne. Deshalb stellt Pro-Stuk keine Diagnose und ' +
         'verspricht keine Genauigkeit — es verteilt die Wahrscheinlichkeiten ehrlich und ' +
         'sagt, was zuerst zu prüfen ist.',
       'Eine gute Aufnahme verbessert die Einschätzung, ersetzt aber keine Werkstatt. Nehmen ' +
@@ -179,7 +179,7 @@ export const de: Dict = {
     dataTail: '.',
   },
   privacy: {
-    title: 'Datenschutzerklärung | Stuk',
+    title: 'Datenschutzerklärung | Pro-Stuk',
     description:
       'Was mit Ihren Daten in der Stuk-App geschieht: Audio wird auf dem Server verarbeitet ' +
       'und nach der Analyse nicht gespeichert, es gibt keine Konten und keine Analysedienste.',
@@ -217,7 +217,7 @@ export const de: Dict = {
     tagline: 'Die Ursache am Geräusch erkennen',
   },
   notFound: {
-    title: 'Seite nicht gefunden — Stuk',
+    title: 'Seite nicht gefunden — Pro-Stuk',
     description:
       'Diese Seite gibt es hier nicht. Zurück zur Startseite oder direkt zu den Geräusch-Ratgebern.',
     h1: 'Seite nicht gefunden',

@@ -1,6 +1,6 @@
 ---
 title: "Cuscinetto reggispinta rumoroso: i sintomi"
-metaTitle: "Cuscinetto reggispinta rumoroso: i sintomi | Stuk"
+metaTitle: "Cuscinetto reggispinta rumoroso: i sintomi | Pro-Stuk"
 description: "Ticchettii e scricchiolii girando il volante da fermi, colpi sulle piccole buche, sterzo duro: come riconoscere un cuscinetto reggispinta consumato."
 faq:
   - q: "Come distinguo il cuscinetto reggispinta da un giunto omocinetico?"
@@ -100,7 +100,7 @@ riposizionata male è una causa frequente di un colpo nuovo che compare
 subito dopo la riparazione.
 
 Se lo scricchiolio è confuso e non sei sicuro da dove venga, registra con
-l’app Stuk la rotazione del volante da fermo e poi un giro in un piazzale.
+l’app Pro-Stuk la rotazione del volante da fermo e poi un giro in un piazzale.
 L’app confronta i due frammenti, li mette in relazione con le tue risposte
 e mostra le cause probabili in percentuale, proprio perché nessuno smonti
 un montante per niente.

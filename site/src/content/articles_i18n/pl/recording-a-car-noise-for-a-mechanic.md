@@ -1,6 +1,6 @@
 ---
 title: "Jak nagrać dźwięk usterki dla mechanika"
-metaTitle: "Jak nagrać dźwięk usterki dla mechanika | Stuk"
+metaTitle: "Jak nagrać dźwięk usterki dla mechanika | Pro-Stuk"
 description: "Jak nagrać telefonem dźwięk usterki, żeby dało się go usłyszeć: gdzie trzymać telefon, co powiedzieć, jakie tryby zarejestrować i czego unikać."
 faq:
   - q: "Dlaczego na nagraniu nie słychać tego, co w aucie jest oczywiste?"
@@ -93,6 +93,6 @@ przy szukaniu źródła pod maską pomaga prosty stetoskop, opisany w tekście o
 [stetoskopie mechanika zrobionym samemu](/pl/articles/diy-mechanics-stethoscope/).
 
 Jeśli grzebanie w ustawieniach nie zachęca, nagranie można zrobić w
-aplikacji Stuk: podpowiada tryby, pyta o warunki i po zestawieniu ich ze
+aplikacji Pro-Stuk: podpowiada tryby, pyta o warunki i po zestawieniu ich ze
 sobą pokazuje prawdopodobne przyczyny z procentami. Gotową kartę z nagraniem
 łatwo pokazać mechanikowi — rozmowa zaczyna się od razu od sedna.

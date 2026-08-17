@@ -1,6 +1,6 @@
 ---
 title: "Riconoscere a orecchio l'usura delle pastiglie freno"
-metaTitle: "Usura delle pastiglie a orecchio | Stuk"
+metaTitle: "Usura delle pastiglie a orecchio | Pro-Stuk"
 description: "I suoni delle pastiglie freno consumate: il cinguettio dell'indicatore di usura, fischi, raschiamento. Come distinguerli dal ronzio del cuscinetto ruota."
 faq:
   - q: "Perché il cinguettio dell'indicatore smette quando premo il freno?"
@@ -135,6 +135,6 @@ misura invece di guardarlo a occhio sta rispondendo alla domanda vera: se
 i dischi possono restare o vanno sostituiti insieme alle pastiglie.
 
 Se un rumore dei freni è difficile da classificare a orecchio, lo registri
-con l'app Stuk mentre procede piano con un paio di frenate leggere. L'app
+con l'app Pro-Stuk mentre procede piano con un paio di frenate leggere. L'app
 confronta la registrazione con le sue risposte e mostra le cause probabili
 in percentuale, con un livello di urgenza.

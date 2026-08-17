@@ -1,7 +1,7 @@
 ---
 ru: "metallicheskij-zvon-pri-razgone"
 title: "Metallic pinging in the engine under acceleration"
-metaTitle: "Metallic pinging under acceleration: causes | Stuk"
+metaTitle: "Metallic pinging under acceleration: causes | Pro-Stuk"
 description: "Pinging like coins in a tin under acceleration is usually detonation. The causes — fuel, carbon, plugs, knock sensor — the risk and what to check first."
 pubDate: "2026-07-01"
 related:
@@ -132,7 +132,7 @@ the same carbon within a year, and cleaning without curing the cause is
 money spent twice.
 
 If you are not sure whether it is detonation or something mechanical,
-record the acceleration in the Stuk app: it matches the recording with
+record the acceleration in the Pro-Stuk app: it matches the recording with
 your answers about when the pinging appears and shows the likely causes
 with percentages and an urgency level — a convenient starting point
 before a workshop visit.

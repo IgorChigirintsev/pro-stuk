@@ -1,6 +1,6 @@
 ---
 title: "Zunido do câmbio numa velocidade específica"
-metaTitle: "Zunido do câmbio numa velocidade específica | Stuk"
+metaTitle: "Zunido do câmbio numa velocidade específica | Pro-Stuk"
 description: "Um zunido que aparece numa faixa estreita de velocidade e muda com o acelerador costuma vir do câmbio ou do diferencial. Como distinguir a origem."
 faq:
   - q: "Por que o zunido só aparece entre 60 e 80 km/h e some acima disso?"
@@ -101,7 +101,7 @@ o modificador de atrito errado produz exatamente o ruído que você queria
 eliminar.
 
 Se o zunido é baixo e você não tem certeza se vem do câmbio ou das rodas,
-grave-o no aplicativo Stuk exatamente na velocidade em que ele fica mais
+grave-o no aplicativo Pro-Stuk exatamente na velocidade em que ele fica mais
 claro e depois repita a gravação em outra marcha. O aplicativo compara as
 duas gravações com suas respostas e mostra as causas prováveis com
 porcentagens.

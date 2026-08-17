@@ -1,6 +1,6 @@
 ---
 title: "Ein Klopfen beim Kommenlassen der Kupplung"
-metaTitle: "Klopfen beim Kommenlassen der Kupplung | Stuk"
+metaTitle: "Klopfen beim Kommenlassen der Kupplung | Pro-Stuk"
 description: "Ein Klopfen beim Hochkommen des Kupplungspedals kommt vom Scheibendämpfer, dem Schwungrad, den Motorlagern und den Antriebswellengelenken. Die Trennung."
 faq:
   - q: "Heißt ein Klopfen beim Hochkommen des Pedals eine neue Kupplung?"

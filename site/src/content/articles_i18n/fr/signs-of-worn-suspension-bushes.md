@@ -1,6 +1,6 @@
 ---
 title: "Signes d'usure des silentblocs de suspension"
-metaTitle: "Silentblocs usés : bruit, tests, réparation | Stuk"
+metaTitle: "Silentblocs usés : bruit, tests, réparation | Pro-Stuk"
 description: "Comment se manifestent des silentblocs de bras usés : claquements, grincements, voiture qui tire et pneus mangés d'un côté. Contrôles simples et déroulé de la réparation."
 faq:
   - q: "Quel est le premier signe de silentblocs usés ?"
@@ -140,6 +140,6 @@ général est sur la page symptôme
 
 Si un claquement est apparu mais qu'on ne sait pas s'il vient des
 silentblocs, d'une rotule ou d'autre chose, enregistrez le bruit dans
-l'application Stuk. Elle croise l'enregistrement avec vos réponses et affiche
+l'application Pro-Stuk. Elle croise l'enregistrement avec vos réponses et affiche
 les causes probables avec un niveau d'urgence — avec cette liste, la
 conversation au garage devient concrète.

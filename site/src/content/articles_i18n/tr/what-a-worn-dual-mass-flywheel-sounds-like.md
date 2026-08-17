@@ -1,6 +1,6 @@
 ---
 title: "Aşınmış çift kütleli volan nasıl ses verir"
-metaTitle: "Aşınmış çift kütleli volan: nasıl ses verir | Stuk"
+metaTitle: "Aşınmış çift kütleli volan: nasıl ses verir | Pro-Stuk"
 description: "Çalıştırma ve kapatmada tıngırtı, rölantide takırtı, kalkışta titreşim: aşınmış çift kütleli volan nasıl ses verir ve neyle karıştırılır."
 faq:
   - q: "Çift kütleli volan neden en çok motoru kapatırken duyulur?"
@@ -99,6 +99,6 @@ aşınma ekler. Devri biraz yüksek tutma ve motor belirgin şekilde zorlanmadan
 önce vites küçültme alışkanlığı damperi korur.
 
 Sesin gerçekten çalıştırma ve kapatmaya bağlı olup olmadığını öğrenmek
-istiyorsanız, iki anı da Stuk uygulamasında kaydedin. Uygulama sesin
+istiyorsanız, iki anı da Pro-Stuk uygulamasında kaydedin. Uygulama sesin
 karakterini ortaya çıktığı rejimle eşleştirir ve olası sebepleri
 yüzdeleriyle gösterir.

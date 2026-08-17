@@ -1,6 +1,6 @@
 ---
 title: "Gebrom bij het draaien naar links"
-metaTitle: "Gebrom in linkse bocht: welk lager bromt | Stuk"
+metaTitle: "Gebrom in linkse bocht: welk lager bromt | Pro-Stuk"
 description: "Gebrom in een linkse bocht betekent meestal dat het rechter wiellager versleten is. Waarom dat zo is, hoe u het bevestigt en hoe dringend het is."
 faq:
   - q: "Gebrom bij het draaien naar links — welk lager vervang ik?"

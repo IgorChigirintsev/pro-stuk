@@ -1,6 +1,6 @@
 ---
 title: "Chacoalho embaixo do carro ao passar em buracos"
-metaTitle: "Chacoalho embaixo do carro em buracos | Stuk"
+metaTitle: "Chacoalho embaixo do carro em buracos | Pro-Stuk"
 description: "Bieletas, protetor de cárter, coxins do escapamento: por que chacoalha embaixo do carro em buracos, como achar a origem e quando é coisa séria."
 faq:
   - q: "Por que chacoalha em irregularidade pequena e fica quieto em buraco grande?"
@@ -120,7 +120,7 @@ para prensar só a bucha ou se nesse carro é preciso a bandeja inteira: a
 resposta muda tanto o preço quanto o prazo, e é uma pergunta legítima, não
 desconfiança.
 
-Se o chacoalho se recusa a ser localizado, grave-o no aplicativo Stuk
+Se o chacoalho se recusa a ser localizado, grave-o no aplicativo Pro-Stuk
 enquanto passa pelo seu trecho ruim conhecido: o app cruza o som com as
 suas respostas sobre quando ele aparece e mostra as causas prováveis com
 nível de urgência — deixando para a oficina apenas confirmar a teoria no

@@ -1,6 +1,6 @@
 ---
 title: "Hızlanırken motordan gelen uğultu"
-metaTitle: "Hızlanırken motor uğultusu: sebepleri | Stuk"
+metaTitle: "Hızlanırken motor uğultusu: sebepleri | Pro-Stuk"
 description: "Hızlanırken duyulan uğultu nereden gelir: alternatör, direksiyon pompası, rulmanlar, devirdaim pompası ya da şanzıman. Kaynağı bulmak için basit testler."
 faq:
   - q: "Motor uğultusunu şanzıman uğultusundan nasıl ayırırım?"
@@ -129,5 +129,5 @@ aynı işçiliği iki kez ödemek demektir.
 
 Uğultu akustik teşhis için elverişli bir sestir: belirgin bir tonalitesi vardır
 ve algoritmalar bu tür sesleri diğerlerinden daha güvenle ayırır. Hızlanırken
-gelen uğultuyu Stuk uygulamasıyla kaydedin — uygulama kaydı ve cevaplarınızı
+gelen uğultuyu Pro-Stuk uygulamasıyla kaydedin — uygulama kaydı ve cevaplarınızı
 eşleştirip olası sebepleri her biri için aciliyet düzeyiyle gösterir.

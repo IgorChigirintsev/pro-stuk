@@ -1,6 +1,6 @@
 ---
-title: "Stuk fazy rozrządu w Nissanie Qashqai"
-metaTitle: "Nissan Qashqai: stuk fazy rozrządu, przyczyny | Stuk"
+title: "Pro-Stuk fazy rozrządu w Nissanie Qashqai"
+metaTitle: "Nissan Qashqai: stuk fazy rozrządu, przyczyny | Pro-Stuk"
 description: "Krótki grzechot przy zimnym rozruchu w Qashqaiu często pochodzi od regulatora faz rozrządu. Jak odróżnić go od łańcucha i co sprawdza warsztat."
 faq:
   - q: "Czy krótki grzechot przy rozruchu w Qashqaiu jest groźny?"
@@ -95,6 +95,6 @@ objawy opisuje
 [jak samemu sprawdzić sworzeń wahacza](/pl/articles/how-to-check-a-ball-joint-yourself/).
 
 Żeby zrozumieć, co grzechocze, jeszcze przed rozmową z mechanikiem, warto
-nagrać dźwięk aplikacją Stuk w momencie zimnego rozruchu, stojąc przy
+nagrać dźwięk aplikacją Pro-Stuk w momencie zimnego rozruchu, stojąc przy
 otwartej masce. Aplikacja zestawia nagranie z odpowiedziami na kilka pytań
 i pokazuje prawdopodobne przyczyny z procentami.

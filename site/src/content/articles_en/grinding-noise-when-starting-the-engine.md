@@ -1,7 +1,7 @@
 ---
 ru: "skrezhet-pri-zapuske-dvigatelya"
 title: "Grinding noise when starting the engine"
-metaTitle: "Grinding at startup: starter, ring gear, chain | Stuk"
+metaTitle: "Grinding at startup: starter, ring gear, chain | Pro-Stuk"
 description: "Grinding when starting the engine: the starter pinion, the flywheel ring gear, the timing chain. How to find the source from when the sound occurs."
 pubDate: "2026-07-07"
 related:
@@ -123,6 +123,6 @@ valves meeting pistons. Both scenarios develop over weeks and months, and
 both are much cheaper to stop at the beginning.
 
 If you are unsure which moment the grinding lives in, record the start in
-the Stuk app: the algorithm matches the sound with your answers and shows
+the Pro-Stuk app: the algorithm matches the sound with your answers and shows
 the likely causes with an urgency level — so you can arrive at the
 workshop with a working theory rather than a guess.

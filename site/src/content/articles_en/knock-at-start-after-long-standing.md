@@ -1,7 +1,7 @@
 ---
 ru: "stuk-pri-starte-posle-dolgoj-stoyanki"
 title: "A knock at start-up after standing for weeks"
-metaTitle: "Knock at start-up after long standing: causes | Stuk"
+metaTitle: "Knock at start-up after long standing: causes | Pro-Stuk"
 description: "Why an engine knocks for the first seconds after weeks parked: oil draining down, lifters, the chain tensioner, cam phasers. Where normal ends."
 pubDate: "2026-07-03"
 related:
@@ -110,6 +110,6 @@ measurement rather than by ear, so ask what was measured before agreeing
 to either.
 
 The quickest way to know whether your case is harmless is to record the
-first start in the Stuk app: it matches the sound with your answers about
+first start in the Pro-Stuk app: it matches the sound with your answers about
 how long the car stood and shows the likely causes with percentages and an
 urgency level.

@@ -1,6 +1,6 @@
 ---
 title: "Objawy przepalonego tłumika"
-metaTitle: "Przepalony tłumik: po czym poznać | Stuk"
+metaTitle: "Przepalony tłumik: po czym poznać | Pro-Stuk"
 description: "Auto zrobiło się głośniejsze, spod podłogi dobiega dudnienie i strzały, spaliny wpadają do kabiny — objawy przepalonego tłumika i zakres naprawy."
 faq:
   - q: "Czy przepalony tłumik wpływa na moc?"
@@ -93,6 +93,6 @@ o nadwozie i obciąża spawy, więc nowa bańka na starych gumach rdzewieje
 przed czasem.
 
 Jeśli słychać, że auto zrobiło się głośniejsze, ale nie wiadomo, gdzie
-układ puścił, proszę nagrać dźwięk w aplikacji Stuk — na biegu jałowym i
+układ puścił, proszę nagrać dźwięk w aplikacji Pro-Stuk — na biegu jałowym i
 przy płynnym podnoszeniu obrotów. Aplikacja zestawi nagranie z odpowiedziami
 i podpowie, które fragmenty układu obejrzeć w pierwszej kolejności.

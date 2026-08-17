@@ -1,6 +1,6 @@
 ---
 title: "Klingeln beim Beschleunigen: die Ursachen"
-metaTitle: "Klingeln beim Beschleunigen: Ursachen | Stuk"
+metaTitle: "Klingeln beim Beschleunigen: Ursachen | Pro-Stuk"
 description: "Warum der Motor beim Beschleunigen klingelt: Klopfen, Kraftstoff, Ölkohle, Zündkerzen. Wie Sie harmloses Klingeln von verschlissenen Kolbenbolzen unterscheiden."
 faq:
   - q: "Sind es beim Klingeln wirklich die Kolbenbolzen?"

@@ -1,6 +1,6 @@
 ---
 title: "Peut-on rouler avec un catalyseur cassé"
-metaTitle: "Peut-on rouler avec un catalyseur cassé ? | Stuk"
+metaTitle: "Peut-on rouler avec un catalyseur cassé ? | Pro-Stuk"
 description: "Un catalyseur dont la céramique s'est effritée bruisse et étouffe le moteur. Quand vous pouvez rouler jusqu'à l'atelier, quand il ne faut pas, et ce que ça risque pour le moteur."
 faq:
   - q: "Comment sonne un catalyseur qui s'est effrité ?"
@@ -105,7 +105,7 @@ des semaines devant vous ; dès qu'elle commence à changer le comportement
 de la voiture, ça se compte en jours.
 
 Si le bruissement vient d'apparaître et que vous voulez savoir si c'est
-bien ça, enregistrez le son avec l'application Stuk en donnant des coups
+bien ça, enregistrez le son avec l'application Pro-Stuk en donnant des coups
 d'accélérateur, puis refaites l'enregistrement après un court trajet.
 L'application croise les enregistrements avec vos réponses et affiche les
 causes probables en pourcentages — avec une indication sur le caractère

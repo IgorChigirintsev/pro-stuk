@@ -1,6 +1,6 @@
 ---
 title: "Polo Sedan / Rapid 后扭力梁的敲击声"
-metaTitle: "Polo Sedan 与 Rapid 后扭力梁敲击的原因 | Stuk"
+metaTitle: "Polo Sedan 与 Rapid 后扭力梁敲击的原因 | Pro-Stuk"
 description: "Polo Sedan 和 Rapid 车尾发出敲击声，多半出在扭力梁衬套、减震器、缓冲块和紧固件上，本文教您按路况定位声源，并说明维修方案取决于什么。"
 faq:
   - q: "可以只换衬套，不换整根扭力梁吗？"
@@ -83,5 +83,5 @@ sources:
 [悬挂维修之后的敲击](/zh/articles/knock-after-suspension-repair/)。
 
 如果敲击只在某一段特定路面上出现、在修理厂复现不了，就在通过那一段
-时用 Stuk 应用把声音录下来。应用会把录音和你的回答对照，按百分比给
+时用 Pro-Stuk 应用把声音录下来。应用会把录音和你的回答对照，按百分比给
 出可能的原因，这样和师傅的对话一开口就能落到具体零件上。

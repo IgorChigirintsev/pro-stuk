@@ -1,6 +1,6 @@
 ---
 title: "Een motorklop die verdwijnt bij het opwarmen"
-metaTitle: "Klop die verdwijnt bij opwarmen: wat betekent het | Stuk"
+metaTitle: "Klop die verdwijnt bij opwarmen: wat betekent het | Pro-Stuk"
 description: "Waarom een motor koud klopt en stil wordt als hij warm is: hydraulische klepstoters, zuigerslag, de kettingspanner. Waar normaal ophoudt."
 faq:
   - q: "Is een koude klop altijd een storing?"

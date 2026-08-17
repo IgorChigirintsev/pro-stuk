@@ -1,6 +1,6 @@
 ---
 title: "Grilos no interior: como achar a origem"
-metaTitle: "Grilos no interior: como achar a origem | Stuk"
+metaTitle: "Grilos no interior: como achar a origem | Pro-Stuk"
 description: "Método passo a passo para caçar grilos no painel e nas portas: localizar com a mão, o que o passageiro acrescenta e quando o som é mesmo da suspensão."
 faq:
   - q: "Por que o grilo some justo na hora em que você vai procurar?"
@@ -99,7 +99,7 @@ silencioso no verão — grilo que só existe em dia gelado raramente
 justifica desmontar qualquer coisa.
 
 Caçar grilo fica bem mais fácil quando o som está gravado. Comece a
-gravação no aplicativo Stuk, ande pelo seu trecho ruim de sempre e peça ao
+gravação no aplicativo Pro-Stuk, ande pelo seu trecho ruim de sempre e peça ao
 passageiro para pressionar os painéis um a um — a gravação vai mostrar o
 instante em que o grilo se calou. O aplicativo também dirá se o som é
 mesmo do interior ou se a busca pertence à suspensão.

@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van versleten aanslagrubbers"
-metaTitle: "Versleten aanslagrubbers herkennen | Stuk"
+metaTitle: "Versleten aanslagrubbers herkennen | Pro-Stuk"
 description: "Doffe klappen in kuilen, kruimels in de veertoren, een ophanging die doorslaat: zo herkent u versleten aanslagrubbers en waarom ze met de schokdempers meegaan."
 faq:
   - q: "Wat is een aanslagrubber en waar dient het voor?"

@@ -1,6 +1,6 @@
 ---
 title: "Bomba d'água zumbindo: como checar"
-metaTitle: "Bomba d'água zumbindo: como checar você mesmo | Stuk"
+metaTitle: "Bomba d'água zumbindo: como checar você mesmo | Pro-Stuk"
 description: "Por que a bomba d'água zumbe, como diferenciar o barulho dela do alternador e dos tensores, checagens simples sem desmontar nada e como se decide o conserto."
 faq:
   - q: "Como saber se é a bomba d'água e não o alternador ou um tensor?"
@@ -119,7 +119,7 @@ incomparavelmente mais que uma troca planejada. No caminho até a oficina,
 fique de olho no marcador de temperatura e não exija do motor.
 
 Se você não tem certeza de que é a bomba, grave o som no cofre do motor com
-o aplicativo Stuk: ele cruza a gravação com suas respostas sobre quando e
+o aplicativo Pro-Stuk: ele cruza a gravação com suas respostas sobre quando e
 como o barulho aparece e mostra as causas prováveis com nível de urgência —
 para você chegar com uma teoria específica em vez de um «tem algo
 zumbindo».

@@ -1,6 +1,6 @@
 ---
 title: "Szarpnięcia i stuki automatycznej skrzyni przy zmianie biegów"
-metaTitle: "Automat: szarpnięcia i stuki przy zmianie biegów | Stuk"
+metaTitle: "Automat: szarpnięcia i stuki przy zmianie biegów | Pro-Stuk"
 description: "Szarpnięcia i głuchy stuk podczas zmiany biegu w automacie bywają niegroźne albo są pierwszym sygnałem drogiej naprawy. Jak je rozróżnić i co sprawdzić."
 faq:
   - q: "Czy szarpnięcie przy przejściu z P na D jest normalne?"
@@ -27,7 +27,7 @@ oznacza otwarcie skrzyni. Oto jak je rozróżnić.
 
 Szarpnięcie i stuk to dwie różne rzeczy i warto je rozdzielić. Szarpnięcie
 czuć ciałem: skrzynia gwałtownie przejmuje albo oddaje moment obrotowy.
-Stuk to dźwięk uderzenia, zwykle metaliczny albo głuchy, dochodzący spod
+Pro-Stuk to dźwięk uderzenia, zwykle metaliczny albo głuchy, dochodzący spod
 podłogi lub od strony ściany grodziowej.
 
 Często chodzą w parze, a związek jest bezpośredni. Skrzynia przekazuje
@@ -64,7 +64,7 @@ lecz ogólnie przy przyspieszaniu, pożyteczniej zacząć od strony objawu
 | Sterownik hydrauliczny, elektrozawory | Opóźnienie i uderzenie przy zmianach 1–2 i 2–3 | Diagnostyka w ciągu tygodni |
 | Zużyte sprzęgła | Poślizg, obroty rosną bez przyspieszania | Pilne, jazda niewskazana |
 | Stary olej | Szarpnięcia na ciepło, pływające obroty | Sprawdzić w pierwszej kolejności |
-| Przegub napędowy, półoś | Stuk przy ruszaniu, kliknięcia na łuku | Osobna historia, nie skrzynia |
+| Przegub napędowy, półoś | Pro-Stuk przy ruszaniu, kliknięcia na łuku | Osobna historia, nie skrzynia |
 | Łożysko koła | Buczenie przy prędkości, bez związku ze zmianą biegów | Własna diagnostyka |
 
 Dwa ostatnie wiersze przypominają, że nie wszystko, co stuka blisko
@@ -94,7 +94,7 @@ specyfikacja zostanie wlana. A jeśli przy dużym przebiegu odmawia się
 wymiany oleju, to zwykle ostrożność, a nie lenistwo: świeży olej wypłukuje
 osady, które trzymały jeszcze zużyte sprzęgła w ryzach.
 
-Zanim wszystko się wyjaśni, proszę nagrać dźwięk w aplikacji Stuk w chwili
+Zanim wszystko się wyjaśni, proszę nagrać dźwięk w aplikacji Pro-Stuk w chwili
 zmiany biegu — najpierw na zimno, potem na rozgrzanym aucie. Aplikacja
 zestawi nagrania z Pana odpowiedziami i pokaże, gdzie szukać najpierw: przy
 poduszkach, w oleju, czy jednak wewnątrz skrzyni.

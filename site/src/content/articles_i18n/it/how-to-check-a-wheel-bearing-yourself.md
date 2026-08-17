@@ -1,6 +1,6 @@
 ---
 title: "Come controllare da soli il cuscinetto ruota"
-metaTitle: "Come controllare da soli il cuscinetto ruota | Stuk"
+metaTitle: "Come controllare da soli il cuscinetto ruota | Pro-Stuk"
 description: "Cinque verifiche che individuano un cuscinetto ruota usurato e il suo lato senza ponte: prove in marcia, ruota sollevata, gioco e temperatura del mozzo."
 faq:
   - q: "Si può capire il lato senza ponte?"
@@ -98,6 +98,6 @@ controllare anche l’altro lato ha senso: se pure quello è vicino alla
 fine, la spesa si programma invece di subirla tra un mese.
 
 Se le verifiche si contraddicono, cosa che capita spesso, si registra il
-ronzio nell’app Stuk durante la prova del cambio di corsia. L’app confronta
+ronzio nell’app Pro-Stuk durante la prova del cambio di corsia. L’app confronta
 la registrazione con le risposte date e mostra le cause probabili in
 percentuale, compreso il lato da cui iniziare l’ispezione.

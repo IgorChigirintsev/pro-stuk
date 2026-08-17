@@ -1,6 +1,6 @@
 ---
 title: "Sinais de amortecedores gastos"
-metaTitle: "Amortecedor gasto: 8 sintomas | Stuk"
+metaTitle: "Amortecedor gasto: 8 sintomas | Pro-Stuk"
 description: "Oito sinais de amortecedor gasto: carro flutuando, mergulho ao frear, batidas e pneu gasto em manchas. Como testar sozinho e o que envolve a troca."
 faq:
   - q: "Por que o desgaste do amortecedor é difícil de perceber?"
@@ -133,5 +133,5 @@ num carro pesado, volta a flutuar dentro de uma temporada. Combinar o
 amortecedor com o carro e com o uso pesa mais do que a marca no corpo.
 
 Se a suspensão bate e a origem não está óbvia, grave o som no aplicativo
-Stuk: ele cruza a gravação com suas respostas sobre quando e como o som
+Pro-Stuk: ele cruza a gravação com suas respostas sobre quando e como o som
 aparece e mostra as causas prováveis com um grau de urgência.

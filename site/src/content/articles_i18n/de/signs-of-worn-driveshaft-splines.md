@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Antriebswellenverzahnung"
-metaTitle: "Verzahnung der Antriebswelle verschlissen | Stuk"
+metaTitle: "Verzahnung der Antriebswelle verschlissen | Pro-Stuk"
 description: "Ein Klicken beim Wechsel von Gas und Bremse, ein Schlag beim Anfahren und Spiel im Antrieb: so erkennen Sie eine verschlissene Wellenverzahnung."
 faq:
   - q: "Wie unterscheidet sich verschlissene Verzahnung von einem verschlissenen Gleichlaufgelenk?"

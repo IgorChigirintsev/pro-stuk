@@ -1,6 +1,6 @@
 ---
 title: "Dźwięk znika po wciśnięciu sprzęgła"
-metaTitle: "Dźwięk znika po wciśnięciu sprzęgła: dlaczego | Stuk"
+metaTitle: "Dźwięk znika po wciśnięciu sprzęgła: dlaczego | Pro-Stuk"
 description: "Jeśli obce buczenie znika po wciśnięciu sprzęgła, źródło jest w skrzyni biegów. Jak zawęzić listę podejrzanych i co sprawdzić w pierwszej kolejności."
 faq:
   - q: "Dlaczego dźwięk znika akurat po wciśnięciu sprzęgła?"
@@ -104,6 +104,6 @@ wygenerować dokładnie ten hałas, który próbujesz wyleczyć. Zapytaj, co jes
 wlewane i według jakiej specyfikacji zostało dobrane.
 
 Jeśli nie masz pewności, czy dźwięk faktycznie znika po wciśnięciu sprzęgła,
-zrób w aplikacji Stuk dwa nagrania — z puszczonym i z wciśniętym pedałem.
+zrób w aplikacji Pro-Stuk dwa nagrania — z puszczonym i z wciśniętym pedałem.
 Aplikacja porównuje je, pokazuje różnicę i podaje wersje z procentami, żebyś
 przyjechał do warsztatu z konkretnym opisem, a nie z „coś buczy”.

@@ -1,6 +1,6 @@
 ---
 title: "Uzun süre duran araçta ilk çalıştırmada tıkırtı"
-metaTitle: "Uzun duruş sonrası çalıştırmada tıkırtı | Stuk"
+metaTitle: "Uzun duruş sonrası çalıştırmada tıkırtı | Pro-Stuk"
 description: "Haftalarca duran araçta motor ilk saniyelerde neden tıkırdar: yağın akması, külbütörler, zincir gergisi, eksantrik ayarlayıcı. Normal nerede biter."
 faq:
   - q: "Motor çalıştıktan sonra birkaç saniye tıkırdıyor, normal mi?"
@@ -100,6 +100,6 @@ Soğuk tıkırtının kaynağını ayırmak için
 yazısı işinize yarar.
 
 Durumunuzun zararsız olup olmadığını en hızlı öğrenmenin yolu, ilk
-çalıştırmayı Stuk uygulamasında kaydetmektir: uygulama sesi aracın ne
+çalıştırmayı Pro-Stuk uygulamasında kaydetmektir: uygulama sesi aracın ne
 kadar durduğuna dair cevaplarınızla eşleştirir ve olası sebepleri yüzdeyle
 ve aciliyet düzeyiyle gösterir.

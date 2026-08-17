@@ -1,6 +1,6 @@
 ---
 title: "Soufflet de cardan déchiré : combien de kilomètres reste-t-il ?"
-metaTitle: "Soufflet de cardan déchiré : combien de km ? | Stuk"
+metaTitle: "Soufflet de cardan déchiré : combien de km ? | Pro-Stuk"
 description: "Un soufflet déchiré ne détruit pas le cardan tout de suite, mais le compte à rebours démarre. Combien de kilomètres restent, de quoi ça dépend et ce qui coûte le moins cher."
 faq:
   - q: "Combien de kilomètres peut-on faire avec un soufflet de cardan déchiré ?"
@@ -107,7 +107,7 @@ commencé est détaillé dans
 [peut-on rouler avec un cardan qui claque](/fr/articles/can-you-drive-with-a-clicking-cv-joint/).
 
 Et si le bruit est déjà là et que vous voulez savoir s'il s'agit du joint
-extérieur ou d'autre chose, enregistrez-le dans l'application Stuk pendant
+extérieur ou d'autre chose, enregistrez-le dans l'application Pro-Stuk pendant
 un démarrage braquage à fond : l'application confronte l'enregistrement à
 vos réponses à quelques questions et affiche les causes probables avec
 leur pourcentage.

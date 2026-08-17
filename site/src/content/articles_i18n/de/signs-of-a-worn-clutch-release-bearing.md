@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für ein verschlissenes Ausrücklager"
-metaTitle: "Verschlissenes Ausrücklager: der Ton | Stuk"
+metaTitle: "Verschlissenes Ausrücklager: der Ton | Pro-Stuk"
 description: "Wie ein verschlissenes Ausrücklager klingt, wie Sie es in einer Minute am Kupplungspedal prüfen, womit man das Rascheln verwechselt und wie repariert wird."
 faq:
   - q: "Wie klingt ein verschlissenes Ausrücklager?"

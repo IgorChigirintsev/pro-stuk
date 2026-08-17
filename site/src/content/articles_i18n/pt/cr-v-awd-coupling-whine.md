@@ -1,6 +1,6 @@
 ---
 title: "Zumbido da embreagem viscosa do CR-V"
-metaTitle: "Zumbido do acoplamento 4x4 do CR-V | Stuk"
+metaTitle: "Zumbido do acoplamento 4x4 do CR-V | Pro-Stuk"
 description: "Zumbido do acoplamento traseiro do CR-V em curvas fechadas e baixa velocidade: por que o fluido costuma ser o culpado e como separar de rolamento de roda."
 faq:
   - q: "Zumbido ao manobrar no estacionamento é o acoplamento?"
@@ -93,7 +93,7 @@ abrir o conjunto e conviver com o barulho, e uma oficina que diz isso na
 lata é mais confiável do que uma que vende a terceira troca.
 
 Se você quer chegar com uma tese na mão em vez de um genérico «está
-zumbindo alguma coisa», grave o som com o aplicativo Stuk enquanto manobra
+zumbindo alguma coisa», grave o som com o aplicativo Pro-Stuk enquanto manobra
 em círculos numa área vazia. O app cruza a gravação com algumas respostas e
 mostra as causas prováveis com porcentagens — o que encurta bastante o
 diagnóstico.

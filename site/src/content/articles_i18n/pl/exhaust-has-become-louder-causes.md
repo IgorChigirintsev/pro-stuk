@@ -1,6 +1,6 @@
 ---
 title: "Wydech zrobił się głośniejszy: przyczyny"
-metaTitle: "Wydech zrobił się głośniejszy: przyczyny | Stuk"
+metaTitle: "Wydech zrobił się głośniejszy: przyczyny | Pro-Stuk"
 description: "Przepalony tłumik, urwana elastyczna wstawka, złącza i uszczelki: dlaczego wydech zrobił się głośniejszy, czym to grozi i jak zapada decyzja o naprawie."
 faq:
   - q: "Dlaczego tłumiki przepalają się od środka?"
@@ -117,7 +117,7 @@ sondy lambda, więc rośnie zużycie paliwa — im szybciej zamknie się
 nieszczelność, tym taniej wychodzi całość, razem z paliwem.
 
 Nie ma pewności, czy to wydech zmienił głos? Proszę nagrać pracujące auto
-w aplikacji Stuk: zestawia ona nagranie z odpowiedziami o tym, kiedy dźwięk
+w aplikacji Pro-Stuk: zestawia ona nagranie z odpowiedziami o tym, kiedy dźwięk
 jest głośniejszy, i pokazuje prawdopodobne przyczyny wraz z poziomem
 pilności — łatwiej wtedy wybrać warsztat i nie przepłacić za same
 poszukiwania.

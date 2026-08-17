@@ -1,6 +1,6 @@
 ---
 title: "Geluiden na het vervangen van remblokken: wat normaal is"
-metaTitle: "Geluiden na nieuwe remblokken: wat normaal is | Stuk"
+metaTitle: "Geluiden na nieuwe remblokken: wat normaal is | Pro-Stuk"
 description: "Nieuwe remblokken maken vrijwel altijd de eerste honderden kilometers geluid. Welke geluiden bij inlopen horen en welke op een montagefout wijzen."
 faq:
   - q: "Hoe lang mogen nieuwe remblokken geluid maken?"

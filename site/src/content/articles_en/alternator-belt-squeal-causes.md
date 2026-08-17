@@ -1,7 +1,7 @@
 ---
 ru: "svist-remnya-generatora-prichiny"
 title: "Alternator belt squeal: the causes"
-metaTitle: "Alternator belt squeal: causes and what to do | Stuk"
+metaTitle: "Alternator belt squeal: causes and what to do | Pro-Stuk"
 description: "Why a drive belt squeals: slack tension, wear, oil on the pulleys, idlers. How to find the cause from the moment the squeal appears."
 pubDate: "2026-08-02"
 related:
@@ -149,6 +149,6 @@ become genuinely expensive —
 [can you drive with a squealing belt](/en/articles/can-you-drive-with-a-squealing-belt/).
 
 When it is unclear by ear whether it is the belt, an idler or a bearing in
-one of the units, record the sound in the Stuk app: it matches the
+one of the units, record the sound in the Pro-Stuk app: it matches the
 recording with your answers and shows the likely causes with a level of
 urgency — which makes the conversation at the workshop specific.

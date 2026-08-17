@@ -1,6 +1,6 @@
 ---
 title: "Buchas da bandeja dianteira gastas: os sintomas"
-metaTitle: "Buchas da bandeja gastas: sintomas | Stuk"
+metaTitle: "Buchas da bandeja gastas: sintomas | Pro-Stuk"
 description: "Pancadas surdas em buracos, direção que vagueia e carro que segue sulcos — os sinais típicos de buchas da bandeja gastas e como conferir isso."
 faq:
   - q: "Como saber se é a bucha e não o pivô de suspensão?"
@@ -107,6 +107,6 @@ pivôs e terminais de direção e comportamento impreciso em velocidade.
 
 Se as pancadas em buraco já são audíveis mas você não consegue dizer de
 onde vêm, grave uma passagem por um trecho ruim conhecido no aplicativo
-Stuk. Ele cruza o caráter do impacto com suas respostas sobre velocidade e
+Pro-Stuk. Ele cruza o caráter do impacto com suas respostas sobre velocidade e
 comportamento da direção e mostra as causas prováveis com porcentagens —
 sobrando só a confirmação no elevador.

@@ -1,6 +1,6 @@
 ---
 title: "Anzeichen für verschlissene Stabilisatorlager"
-metaTitle: "Stabilisatorlager verschlissen: Ton und Test | Stuk"
+metaTitle: "Stabilisatorlager verschlissen: Ton und Test | Pro-Stuk"
 description: "Wie verschlissene Stabilisatorlager klingen, wie sie sich von den Koppelstangen unterscheiden, wie Sie sie selbst prüfen und was der Tausch bedeutet."
 faq:
   - q: "Kann ich mit verschlissenen Stabilisatorlagern fahren?"

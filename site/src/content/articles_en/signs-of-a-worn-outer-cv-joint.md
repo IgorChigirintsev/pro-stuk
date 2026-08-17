@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-naruzhnogo-shrusa"
 title: "Signs of a worn outer CV joint"
-metaTitle: "Worn outer CV joint: clicking in turns | Stuk"
+metaTitle: "Worn outer CV joint: clicking in turns | Pro-Stuk"
 description: "How a worn outer CV joint clicks, how it differs from the inner one, simple checks without a lift and what decides between a boot and a new joint."
 pubDate: "2026-08-02"
 related:
@@ -139,7 +139,7 @@ being used, and that the boot clamps are the proper crimped type rather
 than cable ties. Both are small details that decide whether the repair
 lasts.
 
-Not sure it is the CV joint clicking? Record the sound in the Stuk app
+Not sure it is the CV joint clicking? Record the sound in the Pro-Stuk app
 during a slow circle at full lock — the app matches the recording with
 your answers and shows the likely causes with percentages and an urgency
 level. With that result it is easier to plan the workshop visit.

@@ -1,6 +1,6 @@
 ---
 title: "Een klop die alleen komt met inzittenden of lading"
-metaTitle: "Klop alleen met inzittenden of lading: oorzaken | Stuk"
+metaTitle: "Klop alleen met inzittenden of lading: oorzaken | Pro-Stuk"
 description: "Leeg is de auto stil; met inzittenden en bagage komt er een klop. Wat verandert er onder belasting en welke onderdelen verraden zich juist zo."
 faq:
   - q: "Waarom is de auto leeg stil en klopt hij met inzittenden?"

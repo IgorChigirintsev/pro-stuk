@@ -1,6 +1,6 @@
 ---
 title: "Verschleiß der vorderen Querlenkerbuchsen: die Symptome"
-metaTitle: "Vordere Querlenkerbuchsen: die Symptome | Stuk"
+metaTitle: "Vordere Querlenkerbuchsen: die Symptome | Pro-Stuk"
 description: "Dumpfe Schläge in Schlaglöchern, wandernde Lenkung und ein Wagen, der Spurrinnen folgt — die typischen Zeichen verschlissener Querlenkerbuchsen."
 faq:
   - q: "Wie erkenne ich, dass es die Buchsen sind und nicht ein Traggelenk?"

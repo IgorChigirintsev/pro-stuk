@@ -1,6 +1,6 @@
 ---
 title: "Sinais de pinça de freio travada"
-metaTitle: "Sinais de pinça de freio travada | Stuk"
+metaTitle: "Sinais de pinça de freio travada | Pro-Stuk"
 description: "Como saber que a pinça de freio travou: carro puxando, roda quente, cheiro de queimado, rangido. Checagens sem elevador e o que envolve o reparo."
 faq:
   - q: "O que exatamente trava numa pinça de freio?"
@@ -131,6 +131,6 @@ A prevenção barata é pedir a lubrificação dos pinos-guia a cada troca de
 pastilhas: acrescenta pouco ao serviço e adia o travamento por anos.
 
 Se os freios começaram a soar diferente e a causa não é óbvia, grave o som
-no aplicativo Stuk enquanto dirige. O app cruza a gravação com as suas
+no aplicativo Pro-Stuk enquanto dirige. O app cruza a gravação com as suas
 respostas sobre quando o som aparece e sugere as causas prováveis e o
 quanto elas são urgentes.

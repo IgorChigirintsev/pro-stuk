@@ -1,6 +1,6 @@
 ---
 title: "Come controllare le punterie idrauliche"
-metaTitle: "Come controllare le punterie idrauliche a orecchio | Stuk"
+metaTitle: "Come controllare le punterie idrauliche a orecchio | Pro-Stuk"
 description: "Come capire se il ticchettio viene dalle punterie idrauliche: prove a freddo e a caldo, differenze da gioco valvole e iniettori, e che cosa fare dopo."
 faq:
   - q: "Il ticchettio sparisce dopo il riscaldamento. È normale?"
@@ -101,7 +101,7 @@ punteria che ticchetta da mesi lascia segni sul lobo, e scoprirlo dopo è
 la strada cara.
 
 Per non dover indovinare se si è davvero attenuato, si registra
-l’avviamento a freddo nell’app Stuk prima del cambio olio e dopo. L’app
+l’avviamento a freddo nell’app Pro-Stuk prima del cambio olio e dopo. L’app
 scompone il suono, lo confronta con le risposte date e mostra le cause
 probabili in percentuale; due registrazioni affiancate dicono onestamente
 se la riparazione ha funzionato.

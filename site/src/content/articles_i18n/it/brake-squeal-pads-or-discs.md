@@ -1,6 +1,6 @@
 ---
 title: "Fischio dei freni: pastiglie o dischi"
-metaTitle: "Fischio dei freni: pastiglie o dischi | Stuk"
+metaTitle: "Fischio dei freni: pastiglie o dischi | Pro-Stuk"
 description: "I freni fischiano per colpa delle pastiglie e per colpa dei dischi. Come le condizioni in cui compare il suono dicono quale dei due va sostituito."
 faq:
   - q: "Il fischio dei freni al mattino è un guasto?"
@@ -98,7 +98,7 @@ grasso ad alta temperatura corretto sono ciò che impedisce a un kit fresco
 di fischiare dal primo giorno.
 
 Se il suono non compare ogni volta ed è difficile coglierlo sul ponte, lo
-registri con l'app Stuk mentre guida, con e senza pedale. L'app confronta
+registri con l'app Pro-Stuk mentre guida, con e senza pedale. L'app confronta
 la registrazione con le condizioni in cui compare e mostra le cause
 probabili in percentuale, così il discorso con il meccanico parte dai
 fatti.

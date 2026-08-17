@@ -1,6 +1,6 @@
 ---
 title: "Un fracas métallique sous la voiture sur les irrégularités"
-metaTitle: "Fracas métallique sous la voiture sur les bosses | Stuk"
+metaTitle: "Fracas métallique sous la voiture sur les bosses | Pro-Stuk"
 description: "Un fracas métallique venu du dessous sur les bosses : protection sous moteur, écrans thermiques, échappement ou biellettes. Trouver la source en 5 minutes."
 faq:
   - q: "Pourquoi le fracas n'est-il là que sur les bosses et absent sur route lisse ?"
@@ -114,7 +114,7 @@ vitesse élevée, et un silencieux qui oscille arrache les silentblocs qui
 lui restent et se retrouve suspendu au tube.
 
 Vous ne savez pas si c'est un fracas ou un claquement ? Enregistrez le son
-sur une portion représentative dans l'application Stuk — l'algorithme
+sur une portion représentative dans l'application Pro-Stuk — l'algorithme
 croise l'enregistrement avec vos réponses et affiche les sources probables
 avec un niveau d'urgence. Souvent, le résultat montre déjà qu'il s'agit de
 la protection sous moteur, et vous pouvez rouler jusqu'au garage sans

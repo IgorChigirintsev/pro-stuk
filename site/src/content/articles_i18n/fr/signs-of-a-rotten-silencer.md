@@ -1,6 +1,6 @@
 ---
 title: "Les signes d'un silencieux percé"
-metaTitle: "Silencieux percé : comment le reconnaître | Stuk"
+metaTitle: "Silencieux percé : comment le reconnaître | Pro-Stuk"
 description: "La voiture est devenue bruyante, un grondement et des pétarades viennent de sous le plancher, une odeur de gaz entre dans l'habitacle : les signes d'un silencieux percé."
 faq:
   - q: "Un silencieux percé fait-il perdre de la puissance ?"
@@ -102,6 +102,6 @@ de vieux caoutchoucs se perce avant l'heure.
 
 Si vous entendez que la voiture est devenue plus bruyante mais que vous
 ne savez pas où la ligne a lâché, enregistrez le son dans l'application
-Stuk — au ralenti, puis en montant les tours doucement. L'application
+Pro-Stuk — au ralenti, puis en montant les tours doucement. L'application
 confronte l'enregistrement à vos réponses et indique quelles parties de
 la ligne inspecter en premier.

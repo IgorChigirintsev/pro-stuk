@@ -1,6 +1,6 @@
 ---
 title: "Le bruit disparaît quand on appuie sur l'embrayage"
-metaTitle: "Le bruit part quand on débraye : pourquoi | Stuk"
+metaTitle: "Le bruit part quand on débraye : pourquoi | Pro-Stuk"
 description: "Si un ronflement parasite disparaît quand on débraye, la source est dans la boîte. Comment réduire la liste des suspects et que contrôler en premier."
 faq:
   - q: "Pourquoi le bruit disparaît-il précisément quand on débraye ?"
@@ -110,7 +110,7 @@ exactement le bruit que vous cherchez à supprimer. Demandez ce qui est mis
 et selon quelle spécification le choix a été fait.
 
 Si vous n'êtes pas sûr que le bruit disparaît vraiment quand l'embrayage
-descend, faites deux enregistrements dans l'application Stuk — pédale
+descend, faites deux enregistrements dans l'application Pro-Stuk — pédale
 relâchée et pédale enfoncée. L'application les compare, montre la
 différence et propose des hypothèses en pourcentages, pour que vous
 arriviez à l'atelier avec une description précise plutôt qu'avec « ça

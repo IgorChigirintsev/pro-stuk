@@ -1,6 +1,6 @@
 ---
 title: "Een autogeluid opnemen voor de monteur"
-metaTitle: "Autogeluid opnemen voor de monteur: hoe | Stuk"
+metaTitle: "Autogeluid opnemen voor de monteur: hoe | Pro-Stuk"
 description: "Hoe u een autogeluid met uw telefoon opneemt zodat het echt hoorbaar is: waar u de telefoon houdt, wat u zegt en welke situaties u vastlegt."
 faq:
   - q: "Waarom hoor ik op de opname niet wat in de auto overduidelijk is?"

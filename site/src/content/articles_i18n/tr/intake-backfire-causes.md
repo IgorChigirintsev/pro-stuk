@@ -1,6 +1,6 @@
 ---
 title: "Emmeden patlama: sebepleri"
-metaTitle: "Emmeden patlama: sebepler ve teşhis | Stuk"
+metaTitle: "Emmeden patlama: sebepler ve teşhis | Pro-Stuk"
 description: "Emme manifolduna patlama: fakir karışım, ateşleme atlaması, kaçmış supap zamanlaması. Sebep nasıl bulunur ve egzozdan patlamadan farkı nedir."
 faq:
   - q: "Emmeden patlama tehlikeli mi?"
@@ -98,6 +98,6 @@ supapları ve pistonları aşırı ısıtır. Tek başına bir patlama felaket
 değildir, ama sağlam bir motorda ortaya çıkmaz.
 
 Patlamalar seyrekse ve ustaya göstermek zorsa, bir sonraki soğuk
-çalıştırmada ya da hızlanmada Stuk uygulamasında kaydı başlatın: uygulama
+çalıştırmada ya da hızlanmada Pro-Stuk uygulamasında kaydı başlatın: uygulama
 sesi yakalar, cevaplarınızla eşleştirir ve muhtemel sebepleri aciliyet
 seviyesiyle gösterir — böylece servise somut bilgiyle gidersiniz.

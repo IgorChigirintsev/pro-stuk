@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van drijfstangklop"
-metaTitle: "Drijfstangklop: hoe het klinkt en wat te doen | Stuk"
+metaTitle: "Drijfstangklop: hoe het klinkt en wat te doen | Pro-Stuk"
 description: "Hoe drijfstangklop klinkt, welke kenmerken erbij horen, waarmee hij verward wordt en hoe de diagnose in de werkplaats bevestigd wordt."
 faq:
   - q: "Hoe verschilt drijfstangklop van het geluid van hydraulische klepstoters?"

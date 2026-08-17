@@ -1,7 +1,7 @@
 ---
 ru: "priznaki-iznosa-tormoznyh-kolodok-na-sluh"
 title: "Telling brake pad wear by ear"
-metaTitle: "Signs of brake pad wear by ear | Stuk"
+metaTitle: "Signs of brake pad wear by ear | Pro-Stuk"
 description: "The sounds worn brake pads make: the wear indicator chirp, squealing, grinding. How to tell them from a wheel bearing hum and what to check."
 pubDate: "2026-08-02"
 related:
@@ -134,7 +134,7 @@ thickness stamped on it, and a workshop that measures rather than eyeballs
 it is answering the real question — whether the discs can stay or must be
 replaced with the pads.
 
-If a brake sound is hard to classify by ear, record it in the Stuk app
+If a brake sound is hard to classify by ear, record it in the Pro-Stuk app
 while driving slowly with a couple of light stops. The app matches the
 recording with your answers and shows the likely causes with percentages
 and an urgency level.

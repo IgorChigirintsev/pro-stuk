@@ -1,6 +1,6 @@
 ---
 title: "Come trovare una lamiera paracalore che vibra"
-metaTitle: "Lamiera paracalore che vibra: come trovarla | Stuk"
+metaTitle: "Lamiera paracalore che vibra: come trovarla | Pro-Stuk"
 description: "Un tintinnio metallico in una banda stretta di giri è di solito un paracalore allentato. Come trovarlo in dieci minuti e come si fissa a regola d'arte."
 faq:
   - q: "Perché una lamiera vibra solo a certi regimi?"
@@ -105,6 +105,6 @@ vale la pena chiederlo prima di accettare. Il quadro completo delle perdite è i
 [lo scarico è diventato più rumoroso](/it/articles/exhaust-has-become-louder-causes/).
 
 Se sente il tintinnio ma non riesce a riprodurlo da fermo — perché per esempio
-si manifesta solo in movimento — registri il suono nell'app Stuk mentre guida.
+si manifesta solo in movimento — registri il suono nell'app Pro-Stuk mentre guida.
 L'app confronta la registrazione con le sue risposte su cosa segue il rumore e
 suggerisce cosa ispezionare per primo, così nessuno paga una ricerca alla cieca.

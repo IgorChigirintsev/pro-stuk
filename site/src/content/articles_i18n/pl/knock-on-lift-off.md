@@ -1,6 +1,6 @@
 ---
-title: "Stuk przy puszczeniu gazu"
-metaTitle: "Stuk przy puszczeniu gazu: poduszki, napęd, łańcuch | Stuk"
+title: "Pro-Stuk przy puszczeniu gazu"
+metaTitle: "Pro-Stuk przy puszczeniu gazu: poduszki, napęd, łańcuch | Pro-Stuk"
 description: "Pojedynczy stuk w chwili zdjęcia nogi z gazu: zużyte poduszki silnika, luzy napędu, łańcuch rozrządu, wydech. Jak zlokalizować źródło."
 faq:
   - q: "Dlaczego stuk słychać przy puszczeniu gazu, a nie cały czas?"
@@ -16,7 +16,7 @@ sources:
     url: "https://www.sae.org/"
 ---
 
-Stuk przy puszczeniu gazu — krótkie pojedyncze uderzenie w chwili, gdy noga
+Pro-Stuk przy puszczeniu gazu — krótkie pojedyncze uderzenie w chwili, gdy noga
 schodzi z pedału — to osobna klasa dźwięków. Nie ma nic wspólnego z dziurami
 ani rozbitą drogą, powtarza się konsekwentnie, a przy przyspieszaniu często
 milczy. Fizyka jest prawie zawsze ta sama: gdy ciąg zamienia się w
@@ -91,8 +91,8 @@ zmieniają wraz z obrotami.
 | Test | Co zrobić | Co oznacza wynik |
 |---|---|---|
 | Przełożenie na postoju | Jazda–wsteczny na hamulcu ręcznym | Uderzenie — poduszki albo napęd |
-| Luz w ruchu | Puścić gaz na luzie | Stuk zniknął — napęd, nie silnik |
-| Przygaz na postoju | Ostro dodać i puścić przy stojącym aucie | Stuk — poduszki albo sam silnik |
+| Luz w ruchu | Puścić gaz na luzie | Pro-Stuk zniknął — napęd, nie silnik |
+| Przygaz na postoju | Ostro dodać i puścić przy stojącym aucie | Pro-Stuk — poduszki albo sam silnik |
 | Oględziny wydechu | Poruszyć rurą ręką na zimno | Luz i ślady uderzeń o nadwozie |
 | Nasłuch na wolnych obrotach | Szelest, cykanie na ciepłym silniku | Łańcuch rozrządu, potem specjalista |
 
@@ -100,6 +100,6 @@ Te pięć kroków zwykle wystarcza, by przyjechać do warsztatu z konkretną
 hipotezą, a nie z «coś stuka» — co oszczędza i czas diagnostyki, i
 pieniądze.
 
-Szybciej listę zawęża aplikacja Stuk: wystarczy nagrać dźwięk w momencie
+Szybciej listę zawęża aplikacja Pro-Stuk: wystarczy nagrać dźwięk w momencie
 puszczenia gazu, odpowiedzieć na kilka pytań o warunkach i otrzymać
 prawdopodobne przyczyny z procentami oraz poziomem pilności.

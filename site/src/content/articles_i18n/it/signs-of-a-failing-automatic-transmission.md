@@ -1,6 +1,6 @@
 ---
 title: "Segni di un cambio automatico che sta cedendo"
-metaTitle: "Segni di un cambio automatico che cede | Stuk"
+metaTitle: "Segni di un cambio automatico che cede | Pro-Stuk"
 description: "Un automatico raramente cede da un giorno all'altro: prima arrivano slittamenti, ronzii e ritardi. I segni precoci dell'usura e cosa fare a ogni stadio."
 faq:
   - q: "Qual è il segno più allarmante in un cambio automatico?"
@@ -100,7 +100,7 @@ residui torna indietro, ed è la ragione più comune per cui una revisione
 fallisce entro un anno.
 
 Se è a uno stadio iniziale e non è sicuro che il suono del cambio sia
-cambiato negli ultimi mesi, lo registri con l'app Stuk ogni poche settimane:
+cambiato negli ultimi mesi, lo registri con l'app Pro-Stuk ogni poche settimane:
 al minimo, in folle e in accelerazione. L'app conserva lo storico, confronta
 le registrazioni e mostra se le cose stanno peggiorando o se il suono era
 semplicemente sempre stato così.

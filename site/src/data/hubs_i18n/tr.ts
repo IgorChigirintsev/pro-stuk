@@ -5,7 +5,7 @@ export const tr: Record<string, HubText> = {
   dvigatel: {
     h1: 'Motor sesleri ve vuruntu',
     short: 'Motor',
-    metaTitle: 'Motor sesleri ve vuruntu: eksiksiz rehber | Stuk',
+    metaTitle: 'Motor sesleri ve vuruntu: eksiksiz rehber | Pro-Stuk',
     description:
       'Motorun tüm sesleri tek yerde: vuruntu, tıkırtı, takırtı, çınlama, ıslık. Zararsızı tehlikeliden nasıl ayırırsınız ve kendiniz neyi kontrol edebilirsiniz.',
     intro: [
@@ -16,7 +16,7 @@ export const tr: Record<string, HubText> = {
   podveska: {
     h1: 'Süspansiyon takırtıları ve gıcırtıları',
     short: 'Süspansiyon ve direksiyon',
-    metaTitle: 'Süspansiyon takırtıları ve gıcırtıları: rehber | Stuk',
+    metaTitle: 'Süspansiyon takırtıları ve gıcırtıları: rehber | Pro-Stuk',
     description:
       'Tümseklerde takırtı, gıcırtı, direksiyonda boşluk: sesin kaynağını süspansiyon ve direksiyonda nasıl bulursunuz ve neyi kendiniz kontrol edersiniz.',
     intro: [
@@ -27,7 +27,7 @@ export const tr: Record<string, HubText> = {
   tormoza: {
     h1: 'Fren gıcırtısı ve sürtme sesi',
     short: 'Frenler ve tekerlekler',
-    metaTitle: 'Fren gıcırtısı ve sürtme sesi: rehber | Stuk',
+    metaTitle: 'Fren gıcırtısı ve sürtme sesi: rehber | Pro-Stuk',
     description:
       'Frenlerde gıcırtı, ıslık, metal sürtmesi ve titreşim: her ses ne anlama gelir, ne zaman devam edilmez ve balatayla kaliperi nasıl kontrol edersiniz.',
     intro: [
@@ -38,7 +38,7 @@ export const tr: Record<string, HubText> = {
   transmissiya: {
     h1: 'Şanzıman ve aktarma organları sesleri',
     short: 'Aktarma organları',
-    metaTitle: 'Şanzıman ve aktarma sesleri: rehber | Stuk',
+    metaTitle: 'Şanzıman ve aktarma sesleri: rehber | Pro-Stuk',
     description:
       'Şanzıman uğultusu, aksların tıkırtısı, vites değişiminde darbeler ve debriyaj sesi: kaynağı zeminin altında nasıl bulursunuz.',
     intro: [
@@ -49,7 +49,7 @@ export const tr: Record<string, HubText> = {
   vyhlop: {
     h1: 'Egzoz sistemi sesleri',
     short: 'Egzoz',
-    metaTitle: 'Egzoz sesleri: eksiksiz rehber | Stuk',
+    metaTitle: 'Egzoz sesleri: eksiksiz rehber | Pro-Stuk',
     description:
       'Gürleme, susturucudan patlamalar, zemin altında takırtı ve çınlayan ısı kalkanı: egzoz sesleri ne anlatır ve neden önemlidir.',
     intro: [
@@ -60,7 +60,7 @@ export const tr: Record<string, HubText> = {
   salon: {
     h1: 'Kabin gıcırtıları ve takırtıları',
     short: 'Kabin ve kaporta',
-    metaTitle: 'Kabin gıcırtıları: kaynağı bulmak | Stuk',
+    metaTitle: 'Kabin gıcırtıları: kaynağı bulmak | Pro-Stuk',
     description:
       'Kabinde cırcır böcekleri, gıcırdayan torpido, takırdayan kapılar: kaynağı kendiniz nasıl bulursunuz ve şasi arızasından nasıl ayırırsınız.',
     intro: [

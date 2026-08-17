@@ -1,6 +1,6 @@
 ---
 title: "Poussoirs hydrauliques qui cliquettent à froid : normal ou pas"
-metaTitle: "Poussoirs qui cliquettent à froid : normal ou pas | Stuk"
+metaTitle: "Poussoirs qui cliquettent à froid : normal ou pas | Pro-Stuk"
 description: "Pourquoi les poussoirs hydrauliques cliquettent après un départ à froid, combien de secondes restent normales, et quand il faut changer l'huile ou les poussoirs."
 faq:
   - q: "Combien de secondes de cliquetis de poussoirs sont normales ?"
@@ -137,7 +137,7 @@ pendant que le moteur est ouvert, parce qu'un poussoir qui cliquette
 depuis des mois laisse des marques dessus.
 
 Si vous ne savez pas si ce sont les poussoirs ou quelque chose de plus
-sérieux, enregistrez le départ à froid dans l'application Stuk. Elle
+sérieux, enregistrez le départ à froid dans l'application Pro-Stuk. Elle
 croise l'enregistrement avec vos réponses et affiche les causes probables
 avec leurs pourcentages et un niveau d'urgence — ce qui rend plus facile
 le choix entre un diagnostic maintenant et l'attente sereine de la

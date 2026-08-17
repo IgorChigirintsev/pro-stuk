@@ -1,6 +1,6 @@
 ---
 title: "Segni di un volano bimassa difettoso"
-metaTitle: "Volano bimassa difettoso: i segni | Stuk"
+metaTitle: "Volano bimassa difettoso: i segni | Pro-Stuk"
 description: "Sferragliare al minimo, rumore a frizione premuta, un tonfo allo spegnimento: come leggere i sintomi di un volano bimassa ormai stanco e cosa comporta l'intervento."
 faq:
   - q: "Che cosa fa esattamente un volano bimassa?"
@@ -94,6 +94,6 @@ sensato è quindi escludere prima le cose semplici: supporti, mancate
 accensioni, reggispinta.
 
 Se lo sferragliare al minimo si sente già e vuole sapere a quale gruppo
-appartiene, lo registri con l'app Stuk due volte: con il pedale della frizione
+appartiene, lo registri con l'app Pro-Stuk due volte: con il pedale della frizione
 alzato e premuto. L'app confronta le registrazioni con le sue risposte a poche
 domande e mostra le cause probabili in percentuale.

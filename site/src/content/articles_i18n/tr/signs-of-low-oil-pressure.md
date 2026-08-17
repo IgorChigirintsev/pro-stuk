@@ -1,6 +1,6 @@
 ---
 title: "Düşük yağ basıncının belirtileri"
-metaTitle: "Düşük yağ basıncı: belirtiler ve nedenler | Stuk"
+metaTitle: "Düşük yağ basıncı: belirtiler ve nedenler | Pro-Stuk"
 description: "Ciddi hasardan önce düşük yağ basıncı nasıl fark edilir: uyarı lambası, külbütör tıkırtısı, yatak vuruntusu. Basınç neden düşer, nasıl ölçülür."
 faq:
   - q: "Yağ basınç lambası neden sıcak rölantide yanar?"
@@ -132,7 +132,7 @@ listedeki en hafife alınan alışkanlık ise bedava: her bir iki haftada bir
 ve her uzun yoldan önce yağ çubuğuna bakın. Yağ açlığından ölen motorların
 çoğu, sorunu lambadan çok önce haber vermiştir — kimse çubuğu çekmemiştir.
 
-Motor lamba hâlâ susarken farklı ses vermeye başladıysa, sesi Stuk
+Motor lamba hâlâ susarken farklı ses vermeye başladıysa, sesi Pro-Stuk
 uygulamasında kaydedin. Uygulama kaydı tipik motor sesleriyle eşleştirir,
 açıklayıcı sorular sorar ve bunun bir yağlama sorununa benzeyip
 benzemediğini, arabayı ne kadar acil göstermek gerektiğini söyler.

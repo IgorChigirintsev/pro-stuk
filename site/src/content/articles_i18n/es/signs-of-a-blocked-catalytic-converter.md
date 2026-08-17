@@ -1,6 +1,6 @@
 ---
 title: "Señales de un catalizador obstruido"
-metaTitle: "Señales de un catalizador obstruido | Stuk"
+metaTitle: "Señales de un catalizador obstruido | Pro-Stuk"
 description: "Un catalizador obstruido ahoga el motor: el coche no acelera, se cala con carga, gasta más. Cómo separarlo de otras causas de pérdida de potencia."
 faq:
   - q: "¿Puede obstruirse un catalizador de golpe?"
@@ -105,7 +105,7 @@ Hasta dónde es aceptable seguir circulando se trata en
 [se puede circular con el catalizador roto](/es/articles/can-you-drive-with-a-broken-catalytic-converter/).
 
 Si la potencia se apaga poco a poco y no está seguro de que la culpa sea
-del escape, grabe el motor y el escape en la aplicación Stuk: al ralentí y
+del escape, grabe el motor y el escape en la aplicación Pro-Stuk: al ralentí y
 dando un acelerón seco. La aplicación compara la grabación con su
 descripción de los síntomas y muestra las causas probables con
 porcentajes, así que llegará al taller con una teoría hecha en lugar de un

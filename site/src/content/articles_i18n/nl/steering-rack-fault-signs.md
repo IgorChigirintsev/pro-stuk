@@ -1,6 +1,6 @@
 ---
 title: "Kenmerken van een defect stuurhuis"
-metaTitle: "Defect stuurhuis: de volledige lijst kenmerken | Stuk"
+metaTitle: "Defect stuurhuis: de volledige lijst kenmerken | Pro-Stuk"
 description: "Kloppen, speling, hakkelende besturing, lekkage en gejank van de pomp — de kenmerken van een defect stuurhuis en wanneer afstellen nog helpt."
 faq:
   - q: "Het stuurhuis lekt olie — kan ik gewoon bijvullen?"

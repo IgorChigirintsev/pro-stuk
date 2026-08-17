@@ -1,6 +1,6 @@
 ---
 title: "10 dźwięków, z którymi nie wolno jechać dalej"
-metaTitle: "10 dźwięków, z którymi nie wolno jechać | Stuk"
+metaTitle: "10 dźwięków, z którymi nie wolno jechać | Pro-Stuk"
 description: "Dziesięć dźwięków z auta, po których dalsza jazda jest nierozsądna: co się psuje w każdym z przypadków i jak odróżnić je od nieszkodliwych odgłosów."
 faq:
   - q: "Dlaczego zwykłego pisku hamulców nie ma na liście?"
@@ -8,7 +8,7 @@ faq:
   - q: "Czy wszystkie te dźwięki oznaczają lawetę?"
     a: "Nie. Część z nich wymaga natychmiastowego zatrzymania i oględzin, po których często da się dojechać do warsztatu na małej prędkości. Bezwarunkowa laweta to stuk panewek wału korbowego, utrata hamulców i klekot części, która obluzowała się pod podłogą."
   - q: "A jeśli dźwięk sam przeszedł?"
-    a: "Zniknięcie dźwięku nie oznacza zniknięcia usterki. Stuk przegubu cichnie na prostej, stuk zawieszenia cichnie na gładkim asfalcie, a stuk łożyska potrafi zamaskować rozgrzanie. Diagnostykę i tak warto zrobić."
+    a: "Zniknięcie dźwięku nie oznacza zniknięcia usterki. Pro-Stuk przegubu cichnie na prostej, stuk zawieszenia cichnie na gładkim asfalcie, a stuk łożyska potrafi zamaskować rozgrzanie. Diagnostykę i tak warto zrobić."
 sources:
   - title: "TRW Aftermarket: diagnostyka hamulców i zawieszenia"
     url: "https://www.trwaftermarket.com"
@@ -41,7 +41,7 @@ są nieprzyjemne, ale dają tysiące kilometrów zapasu.
 | 4 | Zgrzyt metalu o metal przy hamowaniu | Klocki starte do końca | Do warsztatu na małej prędkości |
 | 5 | Klekot i wleczenie się czegoś pod podłogą | Odpadła osłona podwozia albo element wydechu | Zatrzymać się i obejrzeć |
 | 6 | Ostry huk i ściągnięcie auta w bok | Uszkodzenie opony | Zatrzymać się płynnie |
-| 7 | Stuk zawieszenia ze ściąganiem kierownicy | Zniszczony sworzeń wahacza albo łożysko oporowe | Nie jechać dalej |
+| 7 | Pro-Stuk zawieszenia ze ściąganiem kierownicy | Zniszczony sworzeń wahacza albo łożysko oporowe | Nie jechać dalej |
 | 8 | Pisk paska zamienił się w wycie plus zapach spalenizny | Zacierający się element osprzętu | Zgasić silnik, sprawdzić |
 | 9 | Dudnienie zamiast buczenia plus wibracja w nadwoziu | Rozpadający się koszyk łożyska koła | Do warsztatu, bez tras szybkiego ruchu |
 | 10 | Zgrzyt i uderzenia ze skrzyni przy zmianie biegów | Awaria synchronizatora albo łożyska | Przerwać jazdę |
@@ -65,7 +65,7 @@ jest w porządku — lepiej sprawdzić. Typowe podmianki wyglądają tak. Zgrzyt
 hamowaniu myli się z piskiem od rdzy na tarczach po deszczu; różnice i granice
 normy opisano na stronie objawu
 [zgrzyt przy hamowaniu](/pl/symptoms/grinding-when-braking/) oraz w tekście
-[pisk hamulców po deszczu](/pl/articles/brake-squeal-after-rain/). Stuk
+[pisk hamulców po deszczu](/pl/articles/brake-squeal-after-rain/). Pro-Stuk
 zawieszenia na nierównościach myli się ze stukaniem źle zabezpieczonego bagażu.
 A trzaski z wnętrza regularnie brane są za problem podwozia: plastik pięknie
 wzmacnia drgania. Jak odróżnić jedno od drugiego, opisano w tekstach
@@ -84,7 +84,7 @@ Niemal w każdym wierszu tej tabeli różnica jest wielokrotna i to dokładnie c
 jednego dodatkowego przejazdu. Klocki złapane w porę to komplet klocków; te
 same klocki dwa tygodnie później dokładają toczone albo nowe tarcze. Sworzeń
 znaleziony na podnośniku to jedna część plus geometria; ten sam sworzeń, który
-puści w jeździe, to błotnik, opona i holowanie. Stuk dolnej części silnika
+puści w jeździe, to błotnik, opona i holowanie. Pro-Stuk dolnej części silnika
 przywieziony do warsztatu na lawecie to robota przy panewkach; ten sam stuk,
 przyjechany o własnych siłach, to szlifowanie wału korbowego albo remont.
 
@@ -95,6 +95,6 @@ kilka pozycji z tej listy przycicha wraz ze zmianą prędkości, temperatury alb
 kąta skrętu, i właśnie dlatego są ignorowane aż do drogiego etapu.
 
 Jeśli pojawił się dźwięk z tej listy, a nie masz pewności, nagraj go w
-aplikacji Stuk od razu, przed ruszeniem. Aplikacja zestawia nagranie z twoimi
+aplikacji Pro-Stuk od razu, przed ruszeniem. Aplikacja zestawia nagranie z twoimi
 odpowiedziami na kilka pytań i pokazuje prawdopodobne przyczyny z procentami —
 łatwiej wtedy zdecydować między jazdą dalej a wezwaniem lawety.

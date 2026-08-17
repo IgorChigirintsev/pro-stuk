@@ -1,6 +1,6 @@
 ---
 title: "Tekenen van een gescheurde flexpijp in de uitlaat"
-metaTitle: "Gescheurde flexpijp in de uitlaat: tekenen | Stuk"
+metaTitle: "Gescheurde flexpijp in de uitlaat: tekenen | Pro-Stuk"
 description: "Plotseling geronk onder uw voeten, trillen stationair en uitlaatlucht in de auto — zo herkent u een gescheurde flexpijp en zo verloopt de reparatie."
 faq:
   - q: "Hoe lang kan ik rijden met een gescheurde flexpijp?"

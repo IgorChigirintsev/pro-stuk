@@ -1,7 +1,7 @@
 ---
 ru: "kak-proverit-lyuft-stupitsy-vyveshivaniem"
 title: "Checking hub play with the wheel raised"
-metaTitle: "Checking hub play with the wheel raised | Stuk"
+metaTitle: "Checking hub play with the wheel raised | Pro-Stuk"
 description: "How to raise a wheel safely and check for play: the 12–6 and 3–9 grips, how to separate the bearing from the ball joint and steering, and what to do next."
 pubDate: "2026-06-17"
 related:
@@ -97,6 +97,6 @@ its character: you arrive with a specific theory and know what should be
 confirmed on the lift.
 
 If you found play but cannot tell which part produces it, record the sound
-in the Stuk app on a rough stretch of road. The app matches the recording
+in the Pro-Stuk app on a rough stretch of road. The app matches the recording
 with your answers and shows the likely causes with percentages — useful
 insurance against extra items on the bill.

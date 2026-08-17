@@ -1,6 +1,6 @@
 ---
 title: "Nockenwellenversteller rasselt beim Kaltstart"
-metaTitle: "Nockenwellenversteller rasselt kalt: Ursachen | Stuk"
+metaTitle: "Nockenwellenversteller rasselt kalt: Ursachen | Pro-Stuk"
 description: "Warum Nockenwellenversteller in den ersten Sekunden nach dem Kaltstart rasseln: verschlissener Versteller, das Steuerventil, das Öl. Wie Sie es selbst prüfen."
 faq:
   - q: "Wie viele Sekunden Rasseln nach dem Start sind normal?"

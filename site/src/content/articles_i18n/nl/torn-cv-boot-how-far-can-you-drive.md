@@ -1,6 +1,6 @@
 ---
 title: "Gescheurde homokineethoes: hoe ver kunt u nog rijden?"
-metaTitle: "Gescheurde ashoes: hoe ver kunt u nog rijden? | Stuk"
+metaTitle: "Gescheurde ashoes: hoe ver kunt u nog rijden? | Pro-Stuk"
 description: "Een gescheurde homokineethoes sloopt de homokineet niet meteen, maar zet wel de klok aan. Hoeveel kilometers er echt over zijn en waar dat van afhangt."
 faq:
   - q: "Hoe ver rijdt een auto met een gescheurde ashoes?"

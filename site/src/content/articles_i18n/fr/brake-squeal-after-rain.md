@@ -1,6 +1,6 @@
 ---
 title: "Frein qui siffle après la pluie : normal ou pas"
-metaTitle: "Frein qui siffle après la pluie : normal ? | Stuk"
+metaTitle: "Frein qui siffle après la pluie : normal ? | Pro-Stuk"
 description: "Pourquoi les freins sifflent après la pluie ou une nuit dehors, quand c'est une simple pellicule de rouille sur les disques et quand c'est le signe de plaquettes usées."
 faq:
   - q: "Combien de freinages faut-il pour qu'un sifflement après la pluie disparaisse ?"
@@ -152,7 +152,7 @@ la rouille se forme de toute façon — mais le bruit devient plus discret et
 plus court.
 
 Si vous ne savez pas comment classer ce bruit, enregistrez-le dans
-l'application Stuk — de préférence le matin, aux premiers freinages, quand
+l'application Pro-Stuk — de préférence le matin, aux premiers freinages, quand
 le sifflement est le plus fort. L'application croise l'enregistrement avec
 vos réponses et affiche les causes probables avec une évaluation de
 l'urgence.

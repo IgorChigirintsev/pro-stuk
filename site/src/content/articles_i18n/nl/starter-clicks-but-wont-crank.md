@@ -1,6 +1,6 @@
 ---
 title: "De startmotor klikt maar draait de motor niet"
-metaTitle: "Startmotor klikt maar draait niet: oorzaken | Stuk"
+metaTitle: "Startmotor klikt maar draait niet: oorzaken | Pro-Stuk"
 description: "Sleutel omdraaien geeft een klik of snel geratel, maar de motor draait niet. Wat één klik en snel geratel betekenen, en hoe u accu van startmotor onderscheidt."
 faq:
   - q: "Wat is het verschil tussen één klik en snel geratel?"

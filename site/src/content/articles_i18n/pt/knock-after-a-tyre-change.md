@@ -1,6 +1,6 @@
 ---
 title: "Batida depois de trocar os pneus: o que conferir"
-metaTitle: "Batida depois da troca de pneus: causas | Stuk"
+metaTitle: "Batida depois da troca de pneus: causas | Pro-Stuk"
 description: "De onde vem a batida depois da troca de pneus: torque das rodas, contrapesos, pedra na banda, roda empenada. O que conferir sozinho e quando voltar."
 faq:
   - q: "Por que reapertar as rodas depois de 50–100 km?"
@@ -119,6 +119,6 @@ As páginas de sintoma
 causas por caráter e condições.
 
 Se mesmo assim a batida não se identifica, grave ela: comece uma gravação
-no aplicativo Stuk e rode por um trecho ruim que você conhece. O
+no aplicativo Pro-Stuk e rode por um trecho ruim que você conhece. O
 aplicativo cruza o som com as suas respostas — quando apareceu, onde bate,
 o que foi trocado — e mostra as causas prováveis em porcentagem.

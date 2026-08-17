@@ -1,6 +1,6 @@
 ---
 title: "Motorklop na de olieverversing"
-metaTitle: "Motor klopt na de olieverversing: oorzaken | Stuk"
+metaTitle: "Motor klopt na de olieverversing: oorzaken | Pro-Stuk"
 description: "Waarom een motor na de olieverversing klopt: viscositeit, oliepeil, filter, spoelen. Wanneer het geluid vanzelf weggaat en wanneer u terug moet."
 faq:
   - q: "De motor tikt de eerste seconden na de olieverversing — is dat normaal?"

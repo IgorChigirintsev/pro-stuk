@@ -1,7 +1,7 @@
 ---
 ru: "mozhno-li-ehat-so-stukom-v-podveske"
 title: "Can you drive with a knocking suspension"
-metaTitle: "Can you drive with a knocking suspension? | Stuk"
+metaTitle: "Can you drive with a knocking suspension? | Pro-Stuk"
 description: "Which knocking suspension parts you can drive with and which you cannot: anti-roll bar, dampers, bushes, ball joints. Judging urgency by the sound."
 pubDate: "2026-07-12"
 related:
@@ -110,7 +110,7 @@ thing knocking turns out to be the undertray. And do not put the diagnosis
 off until the next service if the sound changes from week to week: a
 stable knock can wait, a growing one cannot.
 
-If you want to establish the urgency today, record the knock in the Stuk
+If you want to establish the urgency today, record the knock in the Pro-Stuk
 app on a representative stretch of road. The algorithm matches the
 recording with your answers and shows the likely causes with percentages
 and an urgency level — enough to know whether to plan the repair for next

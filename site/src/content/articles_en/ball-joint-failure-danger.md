@@ -1,7 +1,7 @@
 ---
 ru: "chem-opasna-otorvannaya-sharovaya"
 title: "How dangerous a ball joint failure really is"
-metaTitle: "Ball joint failure: what happens to the car | Stuk"
+metaTitle: "Ball joint failure: what happens to the car | Pro-Stuk"
 description: "What physically happens when a ball joint pulls out of its seat, which noises warn you weeks in advance and how to judge whether you can still drive."
 pubDate: "2026-06-04"
 related:
@@ -98,7 +98,7 @@ joint changes the geometry, and skipping the alignment shows up as
 uneven, rapid tyre wear within a few thousand kilometres.
 
 If a single dull click has appeared over bumps and you do not know how
-urgent it is, record a run over a familiar rough stretch in the Stuk app.
+urgent it is, record a run over a familiar rough stretch in the Pro-Stuk app.
 It matches the character of the impact against your answers about speed
 and how the steering behaves, shows the likely causes with percentages
 and tells you whether driving there yourself is reasonable.

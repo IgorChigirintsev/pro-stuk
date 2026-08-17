@@ -1,6 +1,6 @@
 ---
 title: "O quanto é perigoso um pivô de suspensão que se solta"
-metaTitle: "Pivô de suspensão rompido: o que acontece | Stuk"
+metaTitle: "Pivô de suspensão rompido: o que acontece | Pro-Stuk"
 description: "O que acontece fisicamente quando o pivô sai do alojamento, quais ruídos avisam com semanas de antecedência e como julgar se ainda dá para rodar."
 faq:
   - q: "O que acontece com o carro quando o pivô se solta?"
@@ -94,6 +94,6 @@ rápido dos pneus em poucos milhares de quilômetros.
 
 Se apareceu um estalo surdo isolado sobre irregularidades e você não sabe
 qual é a urgência, grave uma passagem por um trecho ruim conhecido no
-aplicativo Stuk. Ele compara o caráter do impacto com as suas respostas
+aplicativo Pro-Stuk. Ele compara o caráter do impacto com as suas respostas
 sobre velocidade e comportamento da direção, mostra as causas prováveis
 com porcentagens e diz se dirigir até lá por conta própria é razoável.

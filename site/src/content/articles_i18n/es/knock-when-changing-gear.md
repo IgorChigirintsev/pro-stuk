@@ -1,6 +1,6 @@
 ---
 title: "Un golpe al cambiar de marcha"
-metaTitle: "Golpe al cambiar de marcha: las causas | Stuk"
+metaTitle: "Golpe al cambiar de marcha: las causas | Pro-Stuk"
 description: "El golpe en el momento del cambio de marcha viene de holguras en el varillaje, soportes de motor gastados y juntas de palier. Cómo separar unas causas de otras."
 faq:
   - q: "¿Un golpe al cambiar de marcha es siempre la caja?"
@@ -102,7 +102,7 @@ como pasa en muchos modelos: reutilizarlos es una causa conocida de que un
 soporte nuevo se rompa otra vez en pocos meses.
 
 Si el golpe todavía es esporádico y no sabe si viene de debajo del capó o
-de debajo del piso, grábelo con la aplicación Stuk durante un acelerón y
+de debajo del piso, grábelo con la aplicación Pro-Stuk durante un acelerón y
 al arrancar. La aplicación cruza la grabación con sus respuestas y muestra
 las causas probables con porcentajes, lo que acorta bastante la
 conversación en el taller.

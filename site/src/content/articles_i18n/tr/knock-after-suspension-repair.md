@@ -1,6 +1,6 @@
 ---
 title: "Süspansiyon tamirinden sonra tıkırtı: suç kimde"
-metaTitle: "Süspansiyon tamirinden sonra tıkırtı: suç kimde | Stuk"
+metaTitle: "Süspansiyon tamirinden sonra tıkırtı: suç kimde | Pro-Stuk"
 description: "Süspansiyon tamirinden sonra tıkırtı çıktı: montaj hatası mı, kusurlu parça mı, komşu bir parça mı? Üç ihtimal soğukkanlılıkla nasıl ayrılır."
 faq:
   - q: "Tamirden sonra süspansiyonu yeniden sıkmak normal mi?"
@@ -94,7 +94,7 @@ dayanak verir: hangi mafsalda boşluk var ve bunun yapılan işle ilgisi var
 mı. İş emri ve bu raporla konu neredeyse her zaman çatışmasız çözülür:
 düzgün bir servis için işi yeniden yapmak tartışmaktan kolaydır.
 
-O konuşmadaki en güçlü argüman sesin kendisidir. Onu Stuk uygulamasında
+O konuşmadaki en güçlü argüman sesin kendisidir. Onu Pro-Stuk uygulamasında
 temsil edici bir yol parçasında kaydedin: algoritma kaydı verdiğiniz
 cevaplarla eşleştirip olası kaynakları aciliyet düzeyiyle gösterir. Bu
 sonuçla hem servisle konuşmak hem de gerçekte ne kadar acele etmeniz

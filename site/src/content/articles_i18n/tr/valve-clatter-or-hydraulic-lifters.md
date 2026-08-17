@@ -1,6 +1,6 @@
 ---
 title: "Tıkırtı: supaplar mı, hidrolik külbütörler mi"
-metaTitle: "Tıkırtı: supap boşluğu mu, külbütör mü | Stuk"
+metaTitle: "Tıkırtı: supap boşluğu mu, külbütör mü | Pro-Stuk"
 description: "Külbütör kapağının altından gelen tıkırtı hem ayarsız supap boşluğundan hem aşınmış hidrolik külbütörden gelir. İkisi kulakla nasıl ayrılır."
 faq:
   - q: "Külbütör sesi ısındıktan sonra geçer mi?"
@@ -98,7 +98,7 @@ ayarlanabilir bir motorda o ölçüm zaten teşhistir ve şimler ona göre
 seçilir. Bir de külbütörlü motorda yağ kanalları değerlendirildi mi: tıkalı
 kanallardan beslenen yeni külbütör takımı aylar içinde yine tıkırdar.
 
-Tıkırtı duyuyor ama hangi durum olduğundan emin değilseniz, sesi Stuk
+Tıkırtı duyuyor ama hangi durum olduğundan emin değilseniz, sesi Pro-Stuk
 uygulamasında iki kez kaydedin: soğuk çalıştırmanın hemen ardından ve on
 dakika çalıştıktan sonra. İki kayıt arasındaki fark cevabın anahtarıdır ve
 uygulama hangi teoriyi işaret ettiğini gösterir.

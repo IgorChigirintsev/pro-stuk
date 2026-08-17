@@ -1,6 +1,6 @@
 ---
 title: "Seyir halinde direksiyon çevirirken tak sesi"
-metaTitle: "Seyirde direksiyon çevirirken tak sesi | Stuk"
+metaTitle: "Seyirde direksiyon çevirirken tak sesi | Pro-Stuk"
 description: "Seyir halinde direksiyon çevirince ne ses yapar: aks kafası, rotil, kule yatağı ya da direksiyon kutusu. Sesle nedenleri nasıl ayırırsınız."
 faq:
   - q: "Gaz altında dönüşte gelen tıkırtı kesin aks kafası mıdır?"
@@ -104,5 +104,5 @@ yazısında. Yürüyen aksam seslerinin genel dökümü ise
 belirti sayfasındadır.
 
 Sesi kelimelerle güvenle tarif edemiyor musunuz? Manevranın tam ortasında
-Stuk uygulamasıyla kaydedin: uygulama kaydı verdiğiniz yanıtlarla
+Pro-Stuk uygulamasıyla kaydedin: uygulama kaydı verdiğiniz yanıtlarla
 eşleştirip olası sebepleri yüzdeleriyle ve aciliyet seviyesiyle gösterir.

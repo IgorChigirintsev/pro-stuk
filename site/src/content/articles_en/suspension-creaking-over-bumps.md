@@ -1,7 +1,7 @@
 ---
 ru: "skrip-podveski-na-kochkah"
 title: "Suspension creaking over bumps"
-metaTitle: "Suspension creaking over bumps: causes and cures | Stuk"
+metaTitle: "Suspension creaking over bumps: causes and cures | Pro-Stuk"
 description: "Why a suspension creaks over bumps: anti-roll bar bushes, control arm bushes, ball joints. When grease is enough and when replacement is needed."
 pubDate: "2026-08-02"
 related:
@@ -124,7 +124,7 @@ diameter exactly. An oversized bush is the classic reason a creak survives
 the repair.
 
 If the sound does not tell you whether this is a harmless creak or a worn
-joint, record it in the Stuk app: it matches the recording with your
+joint, record it in the Pro-Stuk app: it matches the recording with your
 answers about when the sound appears and shows the likely causes with an
 urgency rating.
 

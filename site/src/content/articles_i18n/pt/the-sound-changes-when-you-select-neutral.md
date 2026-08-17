@@ -1,6 +1,6 @@
 ---
 title: "O som muda quando você coloca em ponto morto"
-metaTitle: "O som muda em ponto morto: o que significa | Stuk"
+metaTitle: "O som muda em ponto morto: o que significa | Pro-Stuk"
 description: "Você colocou em ponto morto andando e o som mudou. O que isso diz sobre a origem, como fazer o teste direito e o que ele elimina da lista."
 faq:
   - q: "É seguro colocar em ponto morto andando?"
@@ -98,7 +98,7 @@ e o conjunto completo dos ruídos de rua está na página de sintoma
 [zumbido enquanto dirige](/pt/symptoms/humming-while-driving/).
 
 Gravar as duas passagens — com marcha engatada e em ponto morto — fica
-prático no aplicativo Stuk: ele compara os trechos, cruza com as suas
+prático no aplicativo Pro-Stuk: ele compara os trechos, cruza com as suas
 respostas sobre velocidade e condições e mostra as causas prováveis com
 porcentagem. Você chega à oficina com uma hipótese em vez de um vago «tem
 um zumbido».

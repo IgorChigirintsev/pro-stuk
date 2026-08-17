@@ -1,6 +1,6 @@
 ---
 title: "Magnetkupplung des Klimakompressors: Defektgeräusche"
-metaTitle: "Klimakompressor-Kupplung: Geräusche bei Defekt | Stuk"
+metaTitle: "Klimakompressor-Kupplung: Geräusche bei Defekt | Pro-Stuk"
 description: "Rasseln, Heulen oder Schleifen genau beim Einschalten der Klimaanlage — wie eine verschlissene Magnetkupplung klingt und was die Werkstatt prüft."
 faq:
   - q: "Woran erkenne ich, dass es die Kupplung ist und nicht der Kompressor selbst?"

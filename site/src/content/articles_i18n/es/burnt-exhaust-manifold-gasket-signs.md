@@ -1,6 +1,6 @@
 ---
 title: "Señales de una junta del colector de escape quemada"
-metaTitle: "Junta del colector quemada: señales | Stuk"
+metaTitle: "Junta del colector quemada: señales | Pro-Stuk"
 description: "Tableteo y silbido en el arranque en frío, olor a gases en el habitáculo, hollín negro en la unión: cómo reconocer una junta del colector de escape quemada."
 faq:
   - q: "¿Por qué se oye el tableteo en frío y desaparece al calentar?"
@@ -112,7 +112,7 @@ se siguen quemando, con lo que un simple cambio de junta se convierte en
 una epopeya de taladro.
 
 Si el tableteo aparece solo en frío y no hay certeza de que no sean las
-válvulas, se pueden grabar con la aplicación Stuk los primeros treinta
+válvulas, se pueden grabar con la aplicación Pro-Stuk los primeros treinta
 segundos tras un arranque en frío y después el mismo fragmento con el
 motor caliente. La aplicación compara las grabaciones y muestra las
 causas probables con porcentajes: esta avería se reconoce especialmente

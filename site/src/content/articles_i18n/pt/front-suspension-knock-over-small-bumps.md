@@ -1,6 +1,6 @@
 ---
 title: "Batida na suspensão dianteira em irregularidades pequenas"
-metaTitle: "Batida na dianteira em piso ondulado: causas | Stuk"
+metaTitle: "Batida na dianteira em piso ondulado: causas | Pro-Stuk"
 description: "Por que a suspensão dianteira bate justamente em irregularidades pequenas: bieletas, buchas, coxins, terminais. Como estreitar a lista sozinho."
 faq:
   - q: "Por que a suspensão bate em irregularidade pequena e fica calada em buraco grande?"
@@ -129,6 +129,6 @@ chegada de defeitos novos, e uma peça gasta acelera o desgaste das
 vizinhas.
 
 Se você quer chegar à oficina com uma teoria pronta, grave a batida no
-aplicativo Stuk: ele cruza o som com suas respostas sobre quando ele
+aplicativo Pro-Stuk: ele cruza o som com suas respostas sobre quando ele
 aparece e mostra as causas prováveis com um nível de urgência — a conversa
 com o mecânico fica específica já de saída.

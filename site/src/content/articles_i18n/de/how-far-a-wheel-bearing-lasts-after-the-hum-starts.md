@@ -1,6 +1,6 @@
 ---
 title: "Wie weit ein Radlager nach dem ersten Brummen hält"
-metaTitle: "Wie weit ein Radlager mit Brummen hält | Stuk"
+metaTitle: "Wie weit ein Radlager mit Brummen hält | Pro-Stuk"
 description: "Vom ersten Brummen eines Radlagers bis zu gefährlichem Spiel sind es meist tausende Kilometer. Wovon die Reserve abhängt und welche Zeichen sie streichen."
 faq:
   - q: "Wie viele Kilometer kann ich mit brummendem Lager fahren?"

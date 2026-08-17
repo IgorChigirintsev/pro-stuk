@@ -1,6 +1,6 @@
 ---
 title: "Segnali di usura dei silent block delle sospensioni"
-metaTitle: "Silent block usurati: rumori, prove, riparazione | Stuk"
+metaTitle: "Silent block usurati: rumori, prove, riparazione | Pro-Stuk"
 description: "Come si manifestano i silent block dei bracci consumati: colpi, cigolii, auto che tira di lato e gomme consumate male. Prove semplici e cosa comporta la riparazione."
 faq:
   - q: "Qual è il primo segnale di silent block usurati?"
@@ -137,7 +137,7 @@ va sostituito l'intero gruppo. Il contesto generale è nella pagina sintomo
 [colpi nelle sospensioni](/it/symptoms/knocking-in-suspension/).
 
 Se è comparso un colpo ma non è chiaro se siano i silent block, un giunto
-sferico o altro, registri il suono con l'app Stuk. L'app confronta la
+sferico o altro, registri il suono con l'app Pro-Stuk. L'app confronta la
 registrazione con le sue risposte e mostra le cause probabili con un
 livello di urgenza: con quell'elenco il discorso in officina diventa
 concreto.
