@@ -185,34 +185,58 @@ export const fr: Dict = {
       'Ce que deviennent vos données dans l’application Pro-Stuk : l’audio est traité sur le ' +
       'serveur et n’est pas conservé après l’analyse, il n’y a ni comptes ni mesure d’audience.',
     h1: 'Politique de confidentialité',
+    updatedLabel: 'Mise à jour',
     intro:
-      'L’application Pro-Stuk collecte le strict minimum — exactement ce dont le diagnostic a besoin.',
+      'L’application Pro-Stuk collecte le strict minimum — exactement ce dont le diagnostic a besoin, rien de plus.',
     items: [
       {
         strong: 'L’enregistrement',
-        text: 'n’est envoyé au serveur que lorsque vous appuyez sur le bouton, sert à l’analyse et n’est pas conservé après.',
+        text: 'part vers le serveur uniquement quand vous appuyez sur le bouton. Il sert à l’analyse et n’est pas conservé une fois le rapport rendu, ni sur le serveur ni dans un fichier.',
       },
       {
-        strong: 'Les données de la voiture',
-        text: '(marque, modèle, année, kilométrage) et vos réponses sont transmises avec l’enregistrement : elles servent à évaluer les causes.',
+        strong: 'C’est Google qui analyse le son.',
+        text: 'L’enregistrement est transmis à l’API Google Gemini, le service qui l’analyse pour notre compte. Rien qui permette de vous identifier ne l’accompagne.',
+      },
+      {
+        strong: 'Les données du véhicule',
+        text: '(marque, modèle, année, kilométrage) et vos réponses partent avec l’enregistrement : c’est sur elles que les causes sont pesées.',
       },
       {
         strong: 'Il n’y a pas de comptes.',
-        text: 'L’application fonctionne sans inscription ; l’appareil reçoit un identifiant aléatoire pour la limite quotidienne de rapports.',
+        text: 'Aucune inscription n’est nécessaire. L’application crée elle-même un numéro d’appareil aléatoire, sans lien avec votre téléphone, votre e-mail ou votre compte Google ; sur le serveur, il ne sert qu’à compter les vérifications de la journée.',
       },
       {
-        strong: 'Il n’y a aucun traceur tiers.',
-        text: 'Le site compte des visites anonymes sur son propre serveur — sans cookies, sans identifiants et sans transmettre quoi que ce soit à qui que ce soit. L’application, elle, ne mesure rien du tout.',
+        strong: 'L’adresse IP',
+        text: 'est visible du serveur, comme lors de toute visite sur internet, et ne sert qu’à éviter la surcharge. Elle reste quelques minutes en mémoire, n’entre dans aucune base et n’est rattachée à aucun rapport.',
+      },
+      {
+        strong: 'Pas de traqueurs tiers ni de publicité.',
+        text: 'Le site compte des vues anonymes sur son propre serveur : sans cookies, sans identifiants et sans rien transmettre à personne. L’application ne contient aucune analytique.',
       },
       {
         strong: 'L’historique des rapports',
         text: 'reste uniquement sur votre appareil et disparaît avec l’application.',
       },
+      {
+        strong: 'La transmission est chiffrée.',
+        text: 'L’application dialogue avec le serveur en HTTPS.',
+      },
+      {
+        strong: 'Comment supprimer vos données.',
+        text: 'Il suffit de désinstaller l’application : l’historique et le numéro d’appareil s’en vont avec elle. Le compteur du serveur se remet à zéro chaque jour. Écrivez-nous s’il vous faut une confirmation.',
+      },
+      {
+        strong: 'L’application n’est pas destinée aux enfants.',
+        text: 'Elle s’adresse aux conducteurs.',
+      },
     ],
     outro:
-      'Le microphone n’est utilisé qu’au moment de l’enregistrement, et seulement à votre ' +
-      'demande. Le rapport est une estimation de probabilités, pas un diagnostic ; la ' +
-      'décision de réparer revient au mécanicien après examen.',
+      'Le micro ne s’allume que pendant l’enregistrement et seulement à votre demande. Le rapport est une estimation de probabilité, pas un diagnostic ; la décision de réparer revient au mécanicien après examen.',
+    contactTitle: 'Nous contacter',
+    contactText:
+      'L’application et le site Pro-Stuk sont tenus par {operator}. Questions sur vos données, réclamations et demandes de suppression :',
+    changes:
+      'Si cette politique change, la date de mise à jour en haut de page change avec elle.',
   },
   og: {
     tagline: 'Trouver la panne au bruit',

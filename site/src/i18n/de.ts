@@ -184,34 +184,58 @@ export const de: Dict = {
       'Was mit Ihren Daten in der Stuk-App geschieht: Audio wird auf dem Server verarbeitet ' +
       'und nach der Analyse nicht gespeichert, es gibt keine Konten und keine Analysedienste.',
     h1: 'Datenschutzerklärung',
+    updatedLabel: 'Aktualisiert',
     intro:
-      'Die Stuk-App erhebt ein Minimum an Daten — genau so viel, wie die Diagnose braucht.',
+      'Die App Pro-Stuk erhebt das Nötigste — genau so viel, wie die Diagnose braucht, und nicht mehr.',
     items: [
       {
-        strong: 'Die Tonaufnahme',
-        text: 'geht nur auf Knopfdruck an den Server, wird für die Analyse verwendet und danach nicht gespeichert.',
+        strong: 'Die Aufnahme',
+        text: 'geht erst dann an den Server, wenn Sie die Aufnahmetaste drücken. Sie dient der Analyse und wird nach dem Bericht nicht aufbewahrt — weder auf dem Server noch in einer Datei.',
       },
       {
-        strong: 'Die Fahrzeugdaten',
-        text: '(Marke, Modell, Baujahr, Laufleistung) und Ihre Antworten werden zusammen mit der Aufnahme übertragen — sie werden für die Bewertung der Ursachen gebraucht.',
+        strong: 'Den Klang wertet Google aus.',
+        text: 'Die Aufnahme wird an die Google-Gemini-API übergeben, den Dienst, der sie in unserem Auftrag analysiert. Nichts, was Sie identifiziert, geht mit.',
       },
       {
-        strong: 'Es gibt keine Konten.',
-        text: 'Die App läuft ohne Registrierung; das Gerät erhält eine zufällige Kennung für das Tageslimit an Berichten.',
+        strong: 'Fahrzeugdaten',
+        text: '(Marke, Modell, Baujahr, Laufleistung) und Ihre Antworten gehen zusammen mit der Aufnahme mit — daran werden die Ursachen abgewogen.',
       },
       {
-        strong: 'Es gibt keine fremden Tracker.',
-        text: 'Die Website zählt anonyme Seitenaufrufe auf dem eigenen Server — ohne Cookies, ohne Kennungen und ohne Weitergabe an Dritte. In der App gibt es überhaupt keine Analyse.',
+        strong: 'Konten gibt es nicht.',
+        text: 'Eine Anmeldung ist nicht nötig. Die App erzeugt selbst eine zufällige Gerätenummer, die weder mit Telefonnummer noch mit E-Mail oder Google-Konto verknüpft ist; auf dem Server wird damit nur gezählt, wie viele Prüfungen an diesem Tag liefen.',
+      },
+      {
+        strong: 'Die IP-Adresse',
+        text: 'ist für den Server sichtbar, wie bei jedem Aufruf im Internet, und dient allein dem Schutz vor Überlastung. Sie bleibt einige Minuten im Arbeitsspeicher, landet in keiner Datenbank und wird keinem Bericht zugeordnet.',
+      },
+      {
+        strong: 'Fremde Tracker und Werbung gibt es nicht.',
+        text: 'Die Website zählt anonyme Seitenaufrufe auf dem eigenen Server — ohne Cookies, ohne Kennungen, ohne Weitergabe an Dritte. In der App steckt überhaupt keine Analytik.',
       },
       {
         strong: 'Der Verlauf Ihrer Berichte',
-        text: 'bleibt nur auf Ihrem Gerät und wird mit der App gelöscht.',
+        text: 'liegt nur auf Ihrem Gerät und wird mit der App gelöscht.',
+      },
+      {
+        strong: 'Die Übertragung ist verschlüsselt.',
+        text: 'Die App spricht über HTTPS mit dem Server.',
+      },
+      {
+        strong: 'So löschen Sie Ihre Daten.',
+        text: 'Es genügt, die App zu deinstallieren: Verlauf und Gerätenummer verschwinden mit ihr. Der Zähler auf dem Server wird täglich von selbst zurückgesetzt. Brauchen Sie eine Bestätigung, schreiben Sie uns.',
+      },
+      {
+        strong: 'Die App ist nicht für Kinder.',
+        text: 'Sie richtet sich an Autofahrer und nicht an Kinder.',
       },
     ],
     outro:
-      'Das Mikrofon wird ausschließlich während der Aufnahme benutzt und nur, wenn Sie sie ' +
-      'selbst starten. Der Bericht ist eine Wahrscheinlichkeitseinschätzung, keine Diagnose; ' +
-      'über die Reparatur entscheidet die Werkstatt nach der Sichtprüfung.',
+      'Das Mikrofon läuft nur während der Aufnahme und nur auf Ihre Aktion hin. Der Bericht ist eine Wahrscheinlichkeitseinschätzung, keine Diagnose; über die Reparatur entscheidet die Werkstatt nach der Sichtprüfung.',
+    contactTitle: 'Kontakt',
+    contactText:
+      'App und Website Pro-Stuk betreibt {operator}. Fragen zu Ihren Daten, Beschwerden und Löschanfragen an:',
+    changes:
+      'Ändert sich diese Erklärung, ändert sich das Datum oben auf der Seite mit.',
   },
   og: {
     tagline: 'Die Ursache am Geräusch erkennen',

@@ -150,7 +150,7 @@ for (const lang of LANGS) {
 /** Латиница, которая остаётся латиницей на любом языке: марки, аббревиатуры,
  *  единицы и подстановки. Список нарочно короткий — иначе проверка ослепнет. */
 const LATIN_OK =
-  /Google Play|WD-40|\{version\}|\{size\}|\{date\}|Android|Cookie|cookie|km\/h|Pro-Stuk|Stuk|APK|LPG|ABS|TSI|GDI|CVT|MIN|MAX|MT|AT|MB|km|[DRV](?![A-Za-z])/g;
+  /Google Play|Google Gemini|Google|Gemini|HTTPS|IP|\{operator\}|WD-40|\{version\}|\{size\}|\{date\}|Android|Cookie|cookie|km\/h|Pro-Stuk|Stuk|APK|LPG|ABS|TSI|GDI|CVT|MIN|MAX|MT|AT|MB|km|[DRV](?![A-Za-z])/g;
 const A = 'A-Za-z';
 const SCRIPTS = {
   ru: { letters: new RegExp(`[${A}А-Яа-яЁё]`) },

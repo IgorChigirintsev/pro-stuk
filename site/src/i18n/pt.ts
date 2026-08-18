@@ -181,34 +181,58 @@ export const pt: Dict = {
       'O que acontece com os seus dados no aplicativo Pro-Stuk: o áudio é processado no servidor ' +
       'e não fica guardado após a análise, não há contas nem ferramentas de análise.',
     h1: 'Política de privacidade',
+    updatedLabel: 'Atualizado',
     intro:
-      'O aplicativo Pro-Stuk coleta o mínimo de dados — exatamente o que o diagnóstico exige.',
+      'O aplicativo Pro-Stuk coleta o mínimo de dados — exatamente o que o diagnóstico exige e nada além disso.',
     items: [
       {
         strong: 'A gravação',
-        text: 'só vai para o servidor quando você aperta o botão, serve para a análise e não fica guardada depois.',
+        text: 'só vai para o servidor quando você aperta o botão de gravar. Ela serve para a análise e não fica guardada depois que o laudo é gerado — nem no servidor, nem em arquivo.',
+      },
+      {
+        strong: 'Quem analisa o som é o Google.',
+        text: 'A gravação é enviada à API Google Gemini, o serviço que faz a análise a nosso pedido. Junto com ela não vai nada que identifique você.',
       },
       {
         strong: 'Os dados do carro',
-        text: '(marca, modelo, ano, quilometragem) e as respostas do questionário são enviados junto com a gravação — são necessários para avaliar as causas.',
+        text: '(marca, modelo, ano, quilometragem) e suas respostas vão junto com a gravação — é com base neles que as causas são ponderadas.',
       },
       {
         strong: 'Não há contas.',
-        text: 'O aplicativo funciona sem cadastro; o aparelho recebe um identificador aleatório para o limite diário de relatórios.',
+        text: 'Não é preciso se cadastrar. O aplicativo cria sozinho um número de dispositivo aleatório, sem ligação com telefone, e-mail ou conta do Google; no servidor ele serve apenas para contar quantas verificações foram feitas no dia.',
       },
       {
-        strong: 'Não há rastreadores de terceiros.',
-        text: 'O site conta visitas anônimas no próprio servidor — sem cookies, sem identificadores e sem repassar nada a ninguém. No aplicativo não há análise alguma.',
+        strong: 'O endereço IP',
+        text: 'fica visível para o servidor, como em qualquer acesso à internet, e serve só para evitar sobrecarga. Ele permanece alguns minutos na memória, não entra em banco de dados e não é ligado a nenhum laudo.',
       },
       {
-        strong: 'O histórico de relatórios',
+        strong: 'Não há rastreadores de terceiros nem anúncios.',
+        text: 'O site conta visualizações anônimas no próprio servidor — sem cookies, sem identificadores e sem repassar dados a ninguém. No aplicativo não existe analytics.',
+      },
+      {
+        strong: 'O histórico de laudos',
         text: 'fica apenas no seu aparelho e é apagado junto com o aplicativo.',
+      },
+      {
+        strong: 'A transmissão é criptografada.',
+        text: 'O aplicativo conversa com o servidor por HTTPS.',
+      },
+      {
+        strong: 'Como apagar seus dados.',
+        text: 'Basta desinstalar o aplicativo: o histórico e o número do dispositivo vão embora com ele. O contador do servidor zera sozinho todo dia. Se precisar de confirmação, escreva para a gente.',
+      },
+      {
+        strong: 'O aplicativo não é para crianças.',
+        text: 'Ele foi feito para motoristas.',
       },
     ],
     outro:
-      'O microfone é usado somente no momento da gravação e apenas por uma ação sua. O ' +
-      'relatório é uma estimativa de probabilidades, não um diagnóstico; a decisão de ' +
-      'consertar é do mecânico, depois de examinar o carro.',
+      'O microfone liga apenas durante a gravação e somente por ação sua. O laudo é uma estimativa de probabilidade, não um diagnóstico; a decisão de consertar é do mecânico depois de examinar o carro.',
+    contactTitle: 'Como falar com a gente',
+    contactText:
+      'O aplicativo e o site Pro-Stuk são mantidos por {operator}. Dúvidas sobre seus dados, reclamações e pedidos de exclusão:',
+    changes:
+      'Se esta política mudar, a data de atualização no topo da página muda junto.',
   },
   og: {
     tagline: 'Descubra o defeito pelo som',

@@ -108,9 +108,15 @@ export interface Dict {
     title: string;
     description: string;
     h1: string;
+    /** «Обновлено» — подпись к дате из PRIVACY_UPDATED. */
+    updatedLabel: string;
     intro: string;
     items: { strong: string; text: string }[];
     outro: string;
+    contactTitle: string;
+    /** Заканчивается двоеточием: следом подставляется ссылка на почту. */
+    contactText: string;
+    changes: string;
   };
   /** Надпись на картинке для соцсетей: её видят до перехода на сайт.
    *  Короткая — длинная не влезает в 1200×630 (см. scripts/gen-og.mjs). */

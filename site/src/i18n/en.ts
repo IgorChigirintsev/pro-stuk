@@ -180,33 +180,58 @@ export const en: Dict = {
       'What happens to your data in the Pro-Stuk app: audio is processed on the server and not ' +
       'kept after the analysis, there are no accounts and no analytics.',
     h1: 'Privacy policy',
-    intro: 'The Pro-Stuk app collects the bare minimum — exactly what the diagnosis needs.',
+    updatedLabel: 'Updated',
+    intro:
+      'The Pro-Stuk app collects the bare minimum — exactly what the diagnosis needs and nothing beyond it.',
     items: [
       {
         strong: 'The recording',
-        text: 'is sent to the server only when you press the button, is used for the analysis and is not kept afterwards.',
+        text: 'is sent to the server only when you press the record button. It is used for the analysis and is not kept once the report is ready — neither on the server nor in any file.',
+      },
+      {
+        strong: 'The sound is analysed by Google.',
+        text: 'The recording is passed to the Google Gemini API, the service that analyses it on our behalf. Nothing that identifies you is sent along with it.',
       },
       {
         strong: 'Car details',
-        text: '(make, model, year, mileage) and your answers are sent along with the recording — they are needed to weigh up the causes.',
+        text: '(make, model, year, mileage) and your answers go with the recording — they are what the causes are weighed against.',
       },
       {
         strong: 'There are no accounts.',
-        text: 'The app works without registration; your device gets a random identifier for the daily report limit.',
+        text: 'No registration is needed. The app creates a random device number of its own, tied to no phone number, e-mail or Google account; on the server it only counts how many checks that device has made today.',
       },
       {
-        strong: 'There are no third-party trackers.',
-        text: 'The site counts anonymous page views on its own server — no cookies, no identifiers and nothing passed to anyone else. The app has no analytics at all.',
+        strong: 'Your IP address',
+        text: 'is visible to the server, as it is to any site you open, and is used only to keep the service from being overloaded. It stays in memory for a few minutes, never reaches a database and is never linked to a report.',
+      },
+      {
+        strong: 'There are no third-party trackers or ads.',
+        text: 'The site counts anonymous page views on its own server — no cookies, no identifiers, nothing passed to anyone else. The app has no analytics at all.',
       },
       {
         strong: 'Your report history',
         text: 'stays on your device only and is deleted along with the app.',
       },
+      {
+        strong: 'The connection is encrypted.',
+        text: 'The app talks to the server over HTTPS.',
+      },
+      {
+        strong: 'How to delete your data.',
+        text: 'Uninstalling the app is enough: the history and the device number go with it. The counter on the server resets itself every day. Write to us if you need confirmation.',
+      },
+      {
+        strong: 'The app is not meant for children.',
+        text: 'It is built for drivers and is not directed at children.',
+      },
     ],
     outro:
-      'The microphone is used only while a sound is being recorded, and only when you ask for ' +
-      'it. The report is a probability estimate, not a diagnosis; the decision to repair ' +
-      'belongs to a mechanic after an inspection.',
+      'The microphone is switched on only while a sound is being recorded, and only when you ask for it. The report is a probability estimate, not a diagnosis; the decision to repair belongs to a mechanic after an inspection.',
+    contactTitle: 'How to reach us',
+    contactText:
+      'The Pro-Stuk app and site are run by {operator}. Questions about your data, complaints and deletion requests go to:',
+    changes:
+      'If this policy changes, the update date at the top of the page changes with it.',
   },
   og: {
     tagline: 'Find the fault by its sound',

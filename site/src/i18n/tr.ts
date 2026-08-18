@@ -178,33 +178,58 @@ export const tr: Dict = {
       'Pro-Stuk uygulamasında verilerinize ne oluyor: ses sunucuda işlenir ve analizden sonra ' +
       'saklanmaz, hesap yoktur, ölçümleme yoktur.',
     h1: 'Gizlilik politikası',
+    updatedLabel: 'Güncellendi',
     intro:
-      'Pro-Stuk uygulaması en az veriyi toplar — teşhis için tam olarak ne gerekiyorsa onu.',
+      'Pro-Stuk uygulaması en az veriyi toplar — teşhis için tam olarak ne gerekiyorsa onu, fazlasını değil.',
     items: [
       {
         strong: 'Ses kaydı',
-        text: 'sunucuya yalnızca düğmeye bastığınızda gider, analizde kullanılır ve sonrasında saklanmaz.',
+        text: 'sunucuya yalnızca kayıt düğmesine bastığınızda gider. Analizde kullanılır ve rapor çıktıktan sonra saklanmaz — ne sunucuda ne de bir dosyada.',
+      },
+      {
+        strong: 'Sesi Google çözümler.',
+        text: 'Kayıt, analizi bizim adımıza yapan Google Gemini arayüzüne iletilir. Yanında sizi tanıtacak hiçbir bilgi gitmez.',
       },
       {
         strong: 'Araç bilgileri',
-        text: '(marka, model, yıl, kilometre) ve anket yanıtları kayıtla birlikte iletilir — nedenleri değerlendirmek için gereklidir.',
+        text: '(marka, model, yıl, kilometre) ve anket yanıtlarınız kayıtla birlikte gider; nedenler bunlara göre tartılır.',
       },
       {
         strong: 'Hesap yok.',
-        text: 'Uygulama kayıt olmadan çalışır; cihaz, günlük rapor sınırı için rastgele bir kimlik alır.',
+        text: 'Kayıt olmak gerekmez. Uygulama kendisi rastgele bir cihaz numarası üretir; telefonunuzla, e-postanızla ya da Google hesabınızla bağlantısı yoktur. Sunucuda yalnızca o gün kaç kontrol yapıldığını saymaya yarar.',
       },
       {
-        strong: 'Üçüncü taraf takipçisi yok.',
-        text: 'Site, sayfa görüntülemelerini kendi sunucusunda kimliksiz sayar — çerez yok, tanımlayıcı yok, kimseye veri aktarımı yok. Uygulamada ise hiçbir ölçümleme yok.',
+        strong: 'IP adresiniz',
+        text: 'internetteki her bağlantıda olduğu gibi sunucuya görünür ve yalnızca aşırı yüke karşı korunmak için kullanılır. Birkaç dakika bellekte kalır, veritabanına yazılmaz ve hiçbir raporla ilişkilendirilmez.',
       },
       {
-        strong: 'Rapor geçmişi',
+        strong: 'Üçüncü taraf izleyici ve reklam yok.',
+        text: 'Site, sayfa görüntülemelerini kendi sunucusunda anonim olarak sayar — çerezsiz, kimliksiz ve kimseye veri aktarmadan. Uygulamada hiç analitik yok.',
+      },
+      {
+        strong: 'Rapor geçmişiniz',
         text: 'yalnızca cihazınızda durur ve uygulamayla birlikte silinir.',
+      },
+      {
+        strong: 'Aktarım şifrelidir.',
+        text: 'Uygulama sunucuyla HTTPS üzerinden konuşur.',
+      },
+      {
+        strong: 'Verilerinizi nasıl silersiniz.',
+        text: 'Uygulamayı kaldırmanız yeter: geçmiş ve cihaz numarası onunla birlikte gider. Sunucudaki sayaç her gün kendiliğinden sıfırlanır. Onay gerekirse bize yazın.',
+      },
+      {
+        strong: 'Uygulama çocuklar için değildir.',
+        text: 'Sürücüler için yapılmıştır.',
       },
     ],
     outro:
-      'Mikrofon yalnızca ses kaydedilirken ve yalnızca sizin başlatmanızla kullanılır. Rapor ' +
-      'bir olasılık tahminidir, teşhis değil; onarım kararını aracı inceleyen usta verir.',
+      'Mikrofon yalnızca kayıt sırasında ve yalnızca sizin isteğinizle açılır. Rapor bir olasılık değerlendirmesidir, teşhis değil; onarım kararını aracı gören usta verir.',
+    contactTitle: 'Bize ulaşın',
+    contactText:
+      'Pro-Stuk uygulamasını ve sitesini {operator} yürütüyor. Verilerinizle ilgili sorular, şikâyetler ve silme talepleri:',
+    changes:
+      'Bu politika değişirse, sayfanın başındaki güncelleme tarihi de değişir.',
   },
   og: {
     tagline: 'Arızayı sesinden bulun',

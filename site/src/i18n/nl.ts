@@ -183,34 +183,58 @@ export const nl: Dict = {
       'Wat er met uw gegevens gebeurt in de app Pro-Stuk: audio wordt op de server verwerkt en ' +
       'na de analyse niet bewaard, er zijn geen accounts en geen statistieken.',
     h1: 'Privacyverklaring',
+    updatedLabel: 'Bijgewerkt',
     intro:
-      'De app Pro-Stuk verzamelt een minimum aan gegevens — precies zoveel als de diagnose nodig heeft.',
+      'De app Pro-Stuk verzamelt een minimum aan gegevens — precies zoveel als de diagnose nodig heeft en niets meer.',
     items: [
       {
         strong: 'De geluidsopname',
-        text: 'gaat alleen op een druk op de knop naar de server, wordt gebruikt voor de analyse en wordt daarna niet bewaard.',
+        text: 'gaat pas naar de server als u op de opnameknop drukt. Ze dient voor de analyse en wordt na het rapport niet bewaard — niet op de server en niet in een bestand.',
+      },
+      {
+        strong: 'Het geluid wordt door Google geanalyseerd.',
+        text: 'De opname gaat naar de Google Gemini API, de dienst die de analyse in onze opdracht uitvoert. Er gaat niets mee waaraan u te herkennen bent.',
       },
       {
         strong: 'De autogegevens',
-        text: '(merk, model, bouwjaar, kilometerstand) en uw antwoorden gaan samen met de opname mee — ze zijn nodig om de oorzaken te wegen.',
+        text: '(merk, model, bouwjaar, kilometerstand) en uw antwoorden gaan met de opname mee — daarop worden de oorzaken afgewogen.',
       },
       {
         strong: 'Er zijn geen accounts.',
-        text: 'De app werkt zonder registratie; het apparaat krijgt een willekeurige identificatie voor de daglimiet aan rapporten.',
+        text: 'Registreren hoeft niet. De app maakt zelf een willekeurig apparaatnummer aan, los van telefoonnummer, e-mail of Google-account; op de server telt het alleen hoeveel controles er die dag zijn gedaan.',
       },
       {
-        strong: 'Er zijn geen trackers van derden.',
-        text: 'De site telt anonieme paginaweergaven op de eigen server — zonder cookies, zonder identificatoren en zonder iets aan wie dan ook door te geven. In de app zit helemaal geen statistiek.',
+        strong: 'Het IP-adres',
+        text: 'is zichtbaar voor de server, zoals bij elk bezoek op internet, en dient alleen om overbelasting te voorkomen. Het blijft een paar minuten in het geheugen, komt in geen database terecht en wordt aan geen enkel rapport gekoppeld.',
       },
       {
-        strong: 'De rapportgeschiedenis',
-        text: 'blijft alleen op uw apparaat staan en verdwijnt samen met de app.',
+        strong: 'Er zijn geen trackers van derden en geen advertenties.',
+        text: 'De site telt anonieme paginaweergaven op de eigen server — zonder cookies, zonder identificatoren en zonder iets aan derden door te geven. In de app zit helemaal geen analytics.',
+      },
+      {
+        strong: 'De geschiedenis van uw rapporten',
+        text: 'staat alleen op uw toestel en verdwijnt samen met de app.',
+      },
+      {
+        strong: 'De verbinding is versleuteld.',
+        text: 'De app praat via HTTPS met de server.',
+      },
+      {
+        strong: 'Zo wist u uw gegevens.',
+        text: 'De app verwijderen is genoeg: geschiedenis en apparaatnummer gaan mee. De teller op de server wordt elke dag vanzelf op nul gezet. Hebt u een bevestiging nodig, schrijf ons dan.',
+      },
+      {
+        strong: 'De app is niet voor kinderen.',
+        text: 'Ze is bedoeld voor automobilisten.',
       },
     ],
     outro:
-      'De microfoon wordt alleen gebruikt op het moment van opnemen en alleen na een ' +
-      'handeling van u. Het rapport is een kansinschatting, geen diagnose; de beslissing om ' +
-      'te repareren neemt de monteur na inspectie.',
+      'De microfoon staat alleen aan tijdens de opname en alleen op uw handeling. Het rapport is een kansinschatting, geen diagnose; de beslissing over reparatie neemt de monteur na inspectie.',
+    contactTitle: 'Contact',
+    contactText:
+      'De app en de site Pro-Stuk worden beheerd door {operator}. Vragen over uw gegevens, klachten en verzoeken om verwijdering:',
+    changes:
+      'Verandert deze verklaring, dan verandert de datum bovenaan de pagina mee.',
   },
   og: {
     tagline: 'Vind het defect op het gehoor',

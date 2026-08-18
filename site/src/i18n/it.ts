@@ -185,34 +185,58 @@ export const it: Dict = {
       'Che cosa succede ai tuoi dati nell’app Pro-Stuk: l’audio viene elaborato sul server e non ' +
       'conservato dopo l’analisi, non ci sono account né strumenti di analisi.',
     h1: 'Informativa sulla privacy',
+    updatedLabel: 'Aggiornato',
     intro:
-      'L’app Pro-Stuk raccoglie il minimo indispensabile: esattamente quello che serve alla diagnosi.',
+      'L’app Pro-Stuk raccoglie il minimo indispensabile: esattamente quello che serve alla diagnosi, niente di più.',
     items: [
       {
         strong: 'La registrazione',
-        text: 'viene inviata al server solo quando premi il pulsante, serve per l’analisi e non viene conservata dopo.',
+        text: 'parte verso il server solo quando premi il pulsante. Serve all’analisi e non viene conservata una volta pronto il referto, né sul server né in alcun file.',
+      },
+      {
+        strong: 'Il suono lo analizza Google.',
+        text: 'La registrazione viene inviata all’API Google Gemini, il servizio che la analizza per nostro conto. Insieme non viaggia nulla che permetta di identificarti.',
       },
       {
         strong: 'I dati dell’auto',
-        text: '(marca, modello, anno, chilometraggio) e le risposte del questionario vengono trasmessi insieme alla registrazione: servono a valutare le cause.',
+        text: '(marca, modello, anno, chilometraggio) e le tue risposte partono con la registrazione: è su questi che vengono pesate le cause.',
       },
       {
         strong: 'Non ci sono account.',
-        text: 'L’app funziona senza registrazione; il dispositivo riceve un identificatore casuale per il limite giornaliero di report.',
+        text: 'Non serve registrarsi. L’app genera da sola un numero di dispositivo casuale, slegato da telefono, e-mail e account Google; sul server serve solo a contare quante verifiche sono state fatte oggi.',
       },
       {
-        strong: 'Non ci sono tracciatori di terze parti.',
-        text: 'Il sito conta visite anonime sul proprio server — senza cookie, senza identificatori e senza passare nulla a nessuno. Nell’app non c’è alcuna analisi.',
+        strong: 'L’indirizzo IP',
+        text: 'è visibile al server, come in qualsiasi visita in rete, e serve soltanto a evitare il sovraccarico. Resta in memoria per qualche minuto, non finisce in alcun database e non viene collegato ai referti.',
       },
       {
-        strong: 'La cronologia dei report',
-        text: 'resta solo sul tuo dispositivo e viene cancellata insieme all’app.',
+        strong: 'Non ci sono tracker di terzi né pubblicità.',
+        text: 'Il sito conta visualizzazioni anonime sul proprio server: senza cookie, senza identificatori e senza cedere dati a nessuno. Nell’app non c’è alcuna analitica.',
+      },
+      {
+        strong: 'Lo storico dei referti',
+        text: 'resta solo sul tuo dispositivo e si cancella insieme all’app.',
+      },
+      {
+        strong: 'La trasmissione è cifrata.',
+        text: 'L’app parla con il server in HTTPS.',
+      },
+      {
+        strong: 'Come cancellare i dati.',
+        text: 'Basta disinstallare l’app: con essa spariscono lo storico e il numero di dispositivo. Il contatore sul server si azzera da sé ogni giorno. Se ti serve una conferma, scrivici.',
+      },
+      {
+        strong: 'L’app non è pensata per i bambini.',
+        text: 'È rivolta agli automobilisti.',
       },
     ],
     outro:
-      'Il microfono viene usato soltanto durante la registrazione e solo se sei tu ad ' +
-      'avviarla. Il report è una stima di probabilità, non una diagnosi; la decisione di ' +
-      'riparare spetta al meccanico dopo il controllo.',
+      'Il microfono si attiva solo durante la registrazione e solo su tua richiesta. Il referto è una stima di probabilità, non una diagnosi; la decisione di riparare spetta al meccanico dopo il controllo.',
+    contactTitle: 'Come contattarci',
+    contactText:
+      'L’app e il sito Pro-Stuk sono gestiti da {operator}. Domande sui dati, reclami e richieste di cancellazione:',
+    changes:
+      'Se questa informativa cambia, cambia con essa la data di aggiornamento in cima alla pagina.',
   },
   og: {
     tagline: 'Trova il guasto dal rumore',

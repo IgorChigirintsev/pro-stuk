@@ -180,34 +180,58 @@ export const pl: Dict = {
       'Co dzieje się z danymi w aplikacji Pro-Stuk: dźwięk jest przetwarzany na serwerze i nie ' +
       'jest przechowywany po analizie, nie ma kont ani statystyk.',
     h1: 'Polityka prywatności',
+    updatedLabel: 'Zaktualizowano',
     intro:
-      'Aplikacja Pro-Stuk zbiera minimum danych — dokładnie tyle, ile potrzeba do diagnozy.',
+      'Aplikacja Pro-Stuk zbiera minimum danych — dokładnie tyle, ile potrzeba do diagnozy, i nic ponadto.',
     items: [
       {
         strong: 'Nagranie',
-        text: 'trafia na serwer wyłącznie po naciśnięciu przycisku, służy do analizy i nie jest przechowywane po niej.',
+        text: 'trafia na serwer dopiero po naciśnięciu przycisku. Służy do analizy i po wydaniu raportu nie jest przechowywane — ani na serwerze, ani w plikach.',
       },
       {
-        strong: 'Dane auta',
-        text: '(marka, model, rocznik, przebieg) i odpowiedzi z ankiety są przesyłane razem z nagraniem — są potrzebne do oceny przyczyn.',
+        strong: 'Dźwięk analizuje Google.',
+        text: 'Nagranie trafia do Google Gemini API — usługi, która wykonuje analizę na nasze zlecenie. Nie towarzyszy mu nic, co pozwala Cię rozpoznać.',
+      },
+      {
+        strong: 'Dane samochodu',
+        text: '(marka, model, rocznik, przebieg) i odpowiedzi z ankiety idą razem z nagraniem — na ich podstawie ważone są przyczyny.',
       },
       {
         strong: 'Nie ma kont.',
-        text: 'Aplikacja działa bez rejestracji; urządzenie dostaje losowy identyfikator na potrzeby dziennego limitu raportów.',
+        text: 'Rejestracja nie jest potrzebna. Aplikacja sama tworzy losowy numer urządzenia, niepowiązany z telefonem, pocztą ani kontem Google; na serwerze służy tylko do liczenia sprawdzeń wykonanych danego dnia.',
       },
       {
-        strong: 'Nie ma trackerów firm trzecich.',
-        text: 'Strona liczy anonimowe odsłony na własnym serwerze — bez plików cookie, bez identyfikatorów i bez przekazywania czegokolwiek komukolwiek. W aplikacji nie ma żadnych statystyk.',
+        strong: 'Adres IP',
+        text: 'jest widoczny dla serwera, jak przy każdym połączeniu z internetem, i służy wyłącznie ochronie przed przeciążeniem. Zostaje w pamięci na kilka minut, nie trafia do bazy i nie jest wiązany z raportami.',
+      },
+      {
+        strong: 'Nie ma zewnętrznych trackerów ani reklam.',
+        text: 'Strona liczy anonimowe odsłony na własnym serwerze — bez ciasteczek, bez identyfikatorów i bez przekazywania danych komukolwiek. W aplikacji nie ma żadnej analityki.',
       },
       {
         strong: 'Historia raportów',
-        text: 'zostaje wyłącznie na twoim urządzeniu i znika razem z aplikacją.',
+        text: 'zostaje wyłącznie na Twoim urządzeniu i znika razem z aplikacją.',
+      },
+      {
+        strong: 'Transmisja jest szyfrowana.',
+        text: 'Aplikacja łączy się z serwerem przez HTTPS.',
+      },
+      {
+        strong: 'Jak usunąć dane.',
+        text: 'Wystarczy odinstalować aplikację: historia i numer urządzenia znikną razem z nią. Licznik na serwerze zeruje się codziennie sam. Jeśli potrzebujesz potwierdzenia — napisz do nas.',
+      },
+      {
+        strong: 'Aplikacja nie jest dla dzieci.',
+        text: 'Jest przeznaczona dla kierowców.',
       },
     ],
     outro:
-      'Mikrofon jest używany tylko w chwili nagrywania i wyłącznie na twoje wyraźne ' +
-      'działanie. Raport to ocena prawdopodobieństwa, a nie diagnoza; decyzję o naprawie ' +
-      'podejmuje mechanik po oględzinach.',
+      'Mikrofon włącza się tylko na czas nagrania i tylko na Twoje polecenie. Raport to ocena prawdopodobieństwa, a nie diagnoza; decyzję o naprawie podejmuje mechanik po oględzinach.',
+    contactTitle: 'Kontakt',
+    contactText:
+      'Aplikację i stronę Pro-Stuk prowadzi {operator}. Pytania o dane, skargi i wnioski o usunięcie:',
+    changes:
+      'Jeśli polityka się zmieni, zmieni się też data aktualizacji na górze strony.',
   },
   og: {
     tagline: 'Znajdź usterkę po dźwięku',

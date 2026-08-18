@@ -184,34 +184,58 @@ export const es: Dict = {
       'Qué pasa con tus datos en la aplicación Pro-Stuk: el audio se procesa en el servidor y no ' +
       'se guarda tras el análisis, no hay cuentas ni analíticas.',
     h1: 'Política de privacidad',
+    updatedLabel: 'Actualizado',
     intro:
-      'La aplicación Pro-Stuk recoge lo mínimo: exactamente lo que hace falta para el diagnóstico.',
+      'La aplicación Pro-Stuk recoge lo mínimo: exactamente lo que necesita el diagnóstico y nada más.',
     items: [
       {
         strong: 'La grabación',
-        text: 'se envía al servidor solo cuando pulsas el botón, se usa para el análisis y no se guarda después.',
+        text: 'se envía al servidor solo cuando pulsas el botón de grabar. Sirve para el análisis y no se conserva una vez listo el informe, ni en el servidor ni en ningún archivo.',
+      },
+      {
+        strong: 'El sonido lo analiza Google.',
+        text: 'La grabación se envía a la API de Google Gemini, el servicio que la analiza por encargo nuestro. No va acompañada de nada que permita identificarte.',
       },
       {
         strong: 'Los datos del coche',
-        text: '(marca, modelo, año, kilometraje) y las respuestas del cuestionario se envían junto con la grabación: hacen falta para valorar las causas.',
+        text: '(marca, modelo, año, kilometraje) y tus respuestas viajan junto con la grabación: con ellos se ponderan las causas.',
       },
       {
         strong: 'No hay cuentas.',
-        text: 'La aplicación funciona sin registro; el dispositivo recibe un identificador aleatorio para el límite diario de informes.',
+        text: 'No hace falta registrarse. La aplicación crea un número de dispositivo aleatorio, sin vínculo con tu teléfono, tu correo ni tu cuenta de Google; en el servidor solo sirve para contar cuántas comprobaciones se han hecho hoy.',
       },
       {
-        strong: 'No hay rastreadores de terceros.',
-        text: 'La web cuenta visitas anónimas en su propio servidor, sin cookies, sin identificadores y sin ceder datos a nadie. La aplicación no tiene analítica alguna.',
+        strong: 'La dirección IP',
+        text: 'la ve el servidor, como en cualquier visita a internet, y se usa únicamente para evitar sobrecargas. Permanece unos minutos en memoria, no llega a ninguna base de datos y no se asocia a ningún informe.',
+      },
+      {
+        strong: 'No hay rastreadores de terceros ni publicidad.',
+        text: 'El sitio cuenta visitas anónimas en su propio servidor: sin cookies, sin identificadores y sin ceder datos a nadie. La aplicación no lleva analítica alguna.',
       },
       {
         strong: 'El historial de informes',
         text: 'se guarda solo en tu dispositivo y se borra junto con la aplicación.',
       },
+      {
+        strong: 'La transmisión va cifrada.',
+        text: 'La aplicación habla con el servidor por HTTPS.',
+      },
+      {
+        strong: 'Cómo borrar tus datos.',
+        text: 'Basta con desinstalar la aplicación: con ella desaparecen el historial y el número de dispositivo. El contador del servidor se pone a cero cada día por sí solo. Si necesitas una confirmación, escríbenos.',
+      },
+      {
+        strong: 'La aplicación no es para niños.',
+        text: 'Está pensada para conductores y no se dirige a menores.',
+      },
     ],
     outro:
-      'El micrófono se usa únicamente mientras se graba el sonido y solo cuando tú lo pides. ' +
-      'El informe es una estimación de probabilidades, no un diagnóstico; la decisión de ' +
-      'reparar la toma el mecánico después de revisar el coche.',
+      'El micrófono se activa solo mientras se graba el sonido y solo cuando tú lo pides. El informe es una estimación de probabilidad, no un diagnóstico; la decisión de reparar la toma el mecánico tras revisar el coche.',
+    contactTitle: 'Cómo contactarnos',
+    contactText:
+      'La aplicación y el sitio Pro-Stuk los lleva {operator}. Dudas sobre tus datos, quejas y solicitudes de borrado:',
+    changes:
+      'Si esta política cambia, cambiará con ella la fecha de actualización que aparece arriba.',
   },
   og: {
     tagline: 'Encuentra la avería por el sonido',
