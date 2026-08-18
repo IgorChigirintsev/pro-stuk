@@ -62,6 +62,7 @@ const Map<String, String> ja = {
   'repCauses': '考えられる原因',
   'repNoFault': 'この録音では異常音は聞き取れません',
   'repNoFaultNote': 'これは録音についての判断で、車が正常だという保証ではありません。音が入っていなかった可能性があります。断続的に出る音なら、聞こえるときにもう一度録音してください。',
+  'repOtherSounds': '録音で他に聞こえた音',
   'repWhy': '理由',
   'repCheck': '自分で確かめる',
   'repBrief': '整備工場での伝え方',

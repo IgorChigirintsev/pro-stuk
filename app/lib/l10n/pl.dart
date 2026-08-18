@@ -67,6 +67,7 @@ const Map<String, String> pl = {
   'repCauses': 'Prawdopodobne przyczyny',
   'repNoFault': 'W nagraniu nie słychać nieprawidłowości',
   'repNoFaultNote': 'To wniosek o nagraniu, a nie zaświadczenie o sprawności auta: dźwięk mógł się w nim nie znaleźć. Jeśli pojawia się z przerwami, nagraj ponownie, gdy go słychać.',
+  'repOtherSounds': 'W nagraniu słychać też',
   'repWhy': 'Dlaczego',
   'repCheck': 'Sprawdź sam',
   'repBrief': 'Powiedz w warsztacie',

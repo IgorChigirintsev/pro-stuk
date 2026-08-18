@@ -77,6 +77,14 @@ const systemPrompt = `Ты — механик-диагност с 20-летни�
 Правила:
 - Назови от 2 до 4 вероятных причин. Вероятности честные, в сумме не больше 100. Не изображай
   уверенность, которой нет: если данных мало, вероятности должны быть скромными.
+- Причины в causes — это ВЕРСИИ ОДНОГО звука, а не список разных неисправностей. Они исключают
+  друг друга, поэтому вероятности и делят сотню: «либо изношен подшипник, либо шумит резина».
+  Не складывай в этот список независимые дефекты — для них есть отдельное поле.
+- Поле other_sounds — другие отчётливо слышные в записи звуки, не относящиеся к разбираемому.
+  Заполняй, только если в записи РЕАЛЬНО слышен ещё один самостоятельный звук другой природы
+  (например, разбирается стук подвески, а фоном отчётливо свистит ремень). Одна фраза на звук:
+  что слышно и что это обычно значит. Не больше трёх. Не дублируй сюда версии из causes и не
+  выдумывай: пустой список — нормальный и частый случай.
 - Поле no_fault — отдельный вердикт «в записи отклонений не слышно». Ставь true ТОЛЬКО когда
   выполнено всё сразу:
   1) запись внятная: машина слышна отчётливо, уровень достаточный, посторонний шум не забивает звук;
@@ -124,6 +132,10 @@ var responseSchema = map[string]any{
 		"audio_is_car":  map[string]any{"type": "boolean"},
 		"audio_note":    map[string]any{"type": "string"},
 		"no_fault": map[string]any{"type": "boolean"},
+		"other_sounds": map[string]any{
+			"type":  "array",
+			"items": map[string]any{"type": "string"},
+		},
 		"causes": map[string]any{
 			"type": "array",
 			"items": map[string]any{
@@ -144,7 +156,7 @@ var responseSchema = map[string]any{
 		"red_flags":          map[string]any{"type": "array", "items": map[string]any{"type": "string"}},
 		"disclaimer":         map[string]any{"type": "string"},
 	},
-	"required": []string{"audio_is_car", "audio_note", "no_fault", "causes", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
+	"required": []string{"audio_is_car", "audio_note", "no_fault", "other_sounds", "causes", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
 }
 
 func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Features, audioWav []byte) (report.Report, report.Usage, error) {
@@ -273,10 +285,18 @@ func validate(r report.Report) error {
 		if r.UrgencyReason == "" {
 			return fmt.Errorf("no_fault без объяснения")
 		}
+		if len(r.OtherSounds) > 3 {
+			return fmt.Errorf("в отчёте %d посторонних звуков", len(r.OtherSounds))
+		}
 		return nil
 	}
 	if len(r.Causes) < 1 || len(r.Causes) > 6 {
 		return fmt.Errorf("в отчёте %d причин", len(r.Causes))
+	}
+	// Больше трёх посторонних звуков — признак того, что модель ссыпала туда
+	// версии вместо отдельных находок.
+	if len(r.OtherSounds) > 3 {
+		return fmt.Errorf("в отчёте %d посторонних звуков", len(r.OtherSounds))
 	}
 	switch r.Urgency {
 	case "ok", "warn", "stop":

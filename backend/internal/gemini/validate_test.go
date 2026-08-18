@@ -58,3 +58,21 @@ func TestValidateRequiresCauses(t *testing.T) {
 		t.Errorf("обычный отчёт отклонён: %v", err)
 	}
 }
+
+// Посторонние звуки — отдельная находка, а не свалка для версий одного звука.
+// Больше трёх означает, что модель ссыпала туда причины.
+func TestValidateOtherSounds(t *testing.T) {
+	base := report.Report{
+		Urgency:       "warn",
+		UrgencyReason: "текст",
+		Causes:        []report.Cause{{Title: "Подшипник", ProbabilityPct: 60}},
+	}
+	base.OtherSounds = []string{"Фоном свистит ремень."}
+	if err := validate(base); err != nil {
+		t.Errorf("отчёт с одним посторонним звуком отклонён: %v", err)
+	}
+	base.OtherSounds = []string{"а", "б", "в", "г"}
+	if err := validate(base); err == nil {
+		t.Error("четыре посторонних звука приняты")
+	}
+}

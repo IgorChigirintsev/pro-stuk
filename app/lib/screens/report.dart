@@ -85,6 +85,37 @@ class ReportScreen extends StatelessWidget {
                   child: _CauseCard(cause: c),
                 ),
             ],
+            // Второй звук в той же записи. Отдельным блоком, а не в списке
+            // причин: причины делят сотню процентов как версии одного звука,
+            // и независимая находка среди них читалась бы как конкурент.
+            if (report.otherSounds.isNotEmpty) ...[
+              SectionTitle(S.repOtherSounds),
+              SurfaceCard(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    for (final snd in report.otherSounds)
+                      Padding(
+                        padding: EdgeInsets.only(
+                            bottom: snd == report.otherSounds.last ? 0 : 10),
+                        child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Icon(Icons.graphic_eq,
+                                size: 20, color: T.inkSoft),
+                            const SizedBox(width: 8),
+                            Expanded(
+                              child: Text(snd,
+                                  style:
+                                      Theme.of(context).textTheme.bodyMedium),
+                            ),
+                          ],
+                        ),
+                      ),
+                  ],
+                ),
+              ),
+            ],
             // Схема из ответа сервера, а для отчётов до этой версии —
             // подбираем локально по названиям причин, чтобы история не была пустой.
             if (report.schemaKey.isNotEmpty) ...[

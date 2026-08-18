@@ -67,6 +67,7 @@ const Map<String, String> tr = {
   'repCauses': 'Olası nedenler',
   'repNoFault': 'Kayıtta bir anormallik duyulmuyor',
   'repNoFaultNote': 'Bu, kayıtla ilgili bir sonuç; aracın sağlam olduğu anlamına gelmez: ses kayda girmemiş olabilir. Ara ara çıkıyorsa, duyduğunuz anda tekrar kaydedin.',
+  'repOtherSounds': 'Kayıtta ayrıca duyulanlar',
   'repWhy': 'Neden',
   'repCheck': 'Kendiniz kontrol edin',
   'repBrief': 'Serviste şunu söyleyin',

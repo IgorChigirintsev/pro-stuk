@@ -67,6 +67,7 @@ const Map<String, String> es = {
   'repCauses': 'Causas probables',
   'repNoFault': 'No se oyen anomalías en la grabación',
   'repNoFaultNote': 'Esto se refiere a la grabación, no es un certificado de que el coche esté bien: el ruido puede no haber quedado registrado. Si aparece a ratos, grabe de nuevo cuando se oiga.',
+  'repOtherSounds': 'También se oye en la grabación',
   'repWhy': 'Por qué',
   'repCheck': 'Comprobar tú mismo',
   'repBrief': 'Dilo en el taller',

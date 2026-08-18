@@ -24,8 +24,12 @@ type Report struct {
 	// машину: звук может проявляться в других условиях. Ставится только при
 	// внятной записи; при плохой отчёт объясняет, что разобрать не удалось.
 	// Вместе с ним Causes пуст, а Urgency всегда "ok".
-	NoFault           bool     `json:"no_fault"`
-	Causes            []Cause  `json:"causes"`
+	NoFault bool    `json:"no_fault"`
+	Causes  []Cause `json:"causes"`
+	// OtherSounds — другие самостоятельные звуки, слышные в той же записи.
+	// Причины в Causes — это версии одного звука и делят сотню процентов;
+	// независимый второй дефект туда не помещается, для него это поле.
+	OtherSounds       []string `json:"other_sounds,omitempty"`
 	Urgency           string   `json:"urgency"`
 	UrgencyReason     string   `json:"urgency_reason"`
 	MechanicBrief     []string `json:"mechanic_brief"`

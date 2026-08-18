@@ -63,6 +63,7 @@ class S {
   static String get repCauses => L.t('repCauses');
   static String get repNoFault => L.t('repNoFault');
   static String get repNoFaultNote => L.t('repNoFaultNote');
+  static String get repOtherSounds => L.t('repOtherSounds');
   static String get repWhy => L.t('repWhy');
   static String get repCheck => L.t('repCheck');
   static String get repBrief => L.t('repBrief');

@@ -67,6 +67,7 @@ const Map<String, String> it = {
   'repCauses': 'Cause probabili',
   'repNoFault': 'Nessuna anomalia udibile nella registrazione',
   'repNoFaultNote': 'Riguarda la registrazione, non è un certificato di buona salute: il rumore potrebbe non esserci finito. Se è intermittente, registri di nuovo quando lo sente.',
+  'repOtherSounds': 'Si sente anche nella registrazione',
   'repWhy': 'Perché',
   'repCheck': 'Controlla da solo',
   'repBrief': 'Da dire in officina',

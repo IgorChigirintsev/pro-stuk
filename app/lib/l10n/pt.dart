@@ -67,6 +67,7 @@ const Map<String, String> pt = {
   'repCauses': 'Causas prováveis',
   'repNoFault': 'Nenhuma anomalia audível nesta gravação',
   'repNoFaultNote': 'Isto é sobre a gravação, não um atestado de que o carro está bem: o ruído pode não ter sido captado. Se for intermitente, grave de novo quando o ouvir.',
+  'repOtherSounds': 'Também se ouve na gravação',
   'repWhy': 'Porquê',
   'repCheck': 'Verificar sozinho',
   'repBrief': 'Diga na oficina',

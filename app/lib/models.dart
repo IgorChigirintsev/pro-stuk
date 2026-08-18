@@ -140,6 +140,9 @@ class ReportData {
   /// звук мог не попасть в неё. При нём causes пуст, а urgency всегда ok.
   final bool noFault;
   final List<Cause> causes;
+  /// Другие самостоятельные звуки в той же записи. Причины выше — версии
+  /// одного звука и делят сотню процентов, независимый дефект туда не влезает.
+  final List<String> otherSounds;
   final String urgency;
   final String urgencyReason;
   final List<String> mechanicBrief;
@@ -153,6 +156,7 @@ class ReportData {
   const ReportData({
     this.noFault = false,
     required this.causes,
+    this.otherSounds = const [],
     required this.urgency,
     required this.urgencyReason,
     required this.mechanicBrief,
@@ -165,6 +169,7 @@ class ReportData {
 
   factory ReportData.fromJson(Map<String, dynamic> j) => ReportData(
         noFault: j['no_fault'] as bool? ?? false,
+        otherSounds: (j['other_sounds'] as List? ?? []).cast<String>(),
         causes: (j['causes'] as List? ?? [])
             .map((e) => Cause.fromJson(e as Map<String, dynamic>))
             .toList(),
@@ -184,6 +189,7 @@ class ReportData {
 
   Map<String, dynamic> toJson() => {
         'no_fault': noFault,
+        'other_sounds': otherSounds,
         'causes': causes.map((c) => c.toJson()).toList(),
         'urgency': urgency,
         'urgency_reason': urgencyReason,

@@ -67,6 +67,7 @@ const Map<String, String> fr = {
   'repCauses': 'Causes probables',
   'repNoFault': 'Aucune anomalie audible dans cet enregistrement',
   'repNoFaultNote': 'Cela concerne l’enregistrement, pas un feu vert pour la voiture : le bruit n’y figure peut-être pas. S’il est intermittent, réenregistrez au moment où vous l’entendez.',
+  'repOtherSounds': 'Également audible dans l’enregistrement',
   'repWhy': 'Pourquoi',
   'repCheck': 'À vérifier soi-même',
   'repBrief': 'À dire au garage',
