@@ -60,6 +60,8 @@ const Map<String, String> ko = {
   'anErrServer': '분석하지 못했습니다. 다시 시도해 주세요.',
   'repTitle': '리포트',
   'repCauses': '가능성 있는 원인',
+  'repNoFault': '이 녹음에서는 이상 소리가 들리지 않습니다',
+  'repNoFaultNote': '이는 녹음에 대한 판단이며 차량이 정상이라는 뜻은 아닙니다. 소리가 녹음되지 않았을 수 있습니다. 소리가 간헐적이라면 들릴 때 다시 녹음해 주세요.',
   'repWhy': '이유',
   'repCheck': '직접 확인하기',
   'repBrief': '정비소에서 이렇게 말하세요',

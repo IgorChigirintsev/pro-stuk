@@ -77,6 +77,21 @@ const systemPrompt = `Ты — механик-диагност с 20-летни�
 Правила:
 - Назови от 2 до 4 вероятных причин. Вероятности честные, в сумме не больше 100. Не изображай
   уверенность, которой нет: если данных мало, вероятности должны быть скромными.
+- Поле no_fault — отдельный вердикт «в записи отклонений не слышно». Ставь true ТОЛЬКО когда
+  выполнено всё сразу:
+  1) запись внятная: машина слышна отчётливо, уровень достаточный, посторонний шум не забивает звук;
+  2) в звуке нет ни стуков, ни скрипов, ни гула, ни свиста, ни детонации, ни неровного ритма —
+     работа агрегатов ровная и соответствует норме для этой модели, возраста и пробега;
+  3) ответы анкеты не описывают явную неисправность, которую ты слышать не можешь (например,
+     звук только на скорости, а запись сделана на месте).
+  Во всех остальных случаях no_fault = false. Не используй его как способ уйти от неуверенности:
+  когда запись плохая или данных мало — это НЕ «всё в порядке», а честное «разобрать не удалось»,
+  так и напиши в отчёте обычными причинами и низкими вероятностями. Пропустить неисправность
+  опаснее, чем назвать лишнюю версию.
+- Если no_fault = true: causes оставь пустым, urgency = "ok", в urgency_reason объясни, что
+  отклонений в этой записи не слышно, а звук мог не попасть в неё — и это вердикт про запись,
+  а не заключение об исправности машины. В mechanic_brief подскажи, при каких условиях повторить
+  запись, если звук появляется не всегда.
 - Ответы анкеты — главный сигнал. Аудио и DSP-признаки — уточняющие. Признакам с пометкой low не
   доверяй, med используй осторожно.
 - Если запись неинформативна (низкий SNR, тишина, разговор, ветер) — прямо скажи об этом в отчёте
@@ -108,6 +123,7 @@ var responseSchema = map[string]any{
 	"properties": map[string]any{
 		"audio_is_car":  map[string]any{"type": "boolean"},
 		"audio_note":    map[string]any{"type": "string"},
+		"no_fault": map[string]any{"type": "boolean"},
 		"causes": map[string]any{
 			"type": "array",
 			"items": map[string]any{
@@ -128,7 +144,7 @@ var responseSchema = map[string]any{
 		"red_flags":          map[string]any{"type": "array", "items": map[string]any{"type": "string"}},
 		"disclaimer":         map[string]any{"type": "string"},
 	},
-	"required": []string{"audio_is_car", "audio_note", "causes", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
+	"required": []string{"audio_is_car", "audio_note", "no_fault", "causes", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
 }
 
 func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Features, audioWav []byte) (report.Report, report.Usage, error) {
@@ -243,6 +259,22 @@ func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Fea
 }
 
 func validate(r report.Report) error {
+	// Вердикт «отклонений не слышно» — единственный случай без причин.
+	// Держим его строго: причины при нём быть не должно, срочность только "ok".
+	// Иначе модель начнёт смешивать «всё хорошо» с найденной неисправностью,
+	// и человек увидит спокойный экран поверх настоящей проблемы.
+	if r.NoFault {
+		if len(r.Causes) > 0 {
+			return fmt.Errorf("no_fault вместе с %d причинами", len(r.Causes))
+		}
+		if r.Urgency != "ok" {
+			return fmt.Errorf("no_fault при urgency %q", r.Urgency)
+		}
+		if r.UrgencyReason == "" {
+			return fmt.Errorf("no_fault без объяснения")
+		}
+		return nil
+	}
 	if len(r.Causes) < 1 || len(r.Causes) > 6 {
 		return fmt.Errorf("в отчёте %d причин", len(r.Causes))
 	}

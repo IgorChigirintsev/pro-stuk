@@ -65,6 +65,8 @@ const Map<String, String> pl = {
   'anErrServer': 'Nie udało się przeanalizować, spróbuj ponownie.',
   'repTitle': 'Raport',
   'repCauses': 'Prawdopodobne przyczyny',
+  'repNoFault': 'W nagraniu nie słychać nieprawidłowości',
+  'repNoFaultNote': 'To wniosek o nagraniu, a nie zaświadczenie o sprawności auta: dźwięk mógł się w nim nie znaleźć. Jeśli pojawia się z przerwami, nagraj ponownie, gdy go słychać.',
   'repWhy': 'Dlaczego',
   'repCheck': 'Sprawdź sam',
   'repBrief': 'Powiedz w warsztacie',

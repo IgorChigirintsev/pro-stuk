@@ -136,6 +136,9 @@ class Cause {
 }
 
 class ReportData {
+  /// В записи отклонений не слышно. Вердикт про запись, а не про машину:
+  /// звук мог не попасть в неё. При нём causes пуст, а urgency всегда ok.
+  final bool noFault;
   final List<Cause> causes;
   final String urgency;
   final String urgencyReason;
@@ -148,6 +151,7 @@ class ReportData {
   final List<int> schemaMarks;
 
   const ReportData({
+    this.noFault = false,
     required this.causes,
     required this.urgency,
     required this.urgencyReason,
@@ -160,6 +164,7 @@ class ReportData {
   });
 
   factory ReportData.fromJson(Map<String, dynamic> j) => ReportData(
+        noFault: j['no_fault'] as bool? ?? false,
         causes: (j['causes'] as List? ?? [])
             .map((e) => Cause.fromJson(e as Map<String, dynamic>))
             .toList(),
@@ -178,6 +183,7 @@ class ReportData {
       );
 
   Map<String, dynamic> toJson() => {
+        'no_fault': noFault,
         'causes': causes.map((c) => c.toJson()).toList(),
         'urgency': urgency,
         'urgency_reason': urgencyReason,

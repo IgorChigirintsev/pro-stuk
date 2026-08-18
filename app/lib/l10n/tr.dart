@@ -65,6 +65,8 @@ const Map<String, String> tr = {
   'anErrServer': 'Analiz yapılamadı, tekrar deneyin.',
   'repTitle': 'Rapor',
   'repCauses': 'Olası nedenler',
+  'repNoFault': 'Kayıtta bir anormallik duyulmuyor',
+  'repNoFaultNote': 'Bu, kayıtla ilgili bir sonuç; aracın sağlam olduğu anlamına gelmez: ses kayda girmemiş olabilir. Ara ara çıkıyorsa, duyduğunuz anda tekrar kaydedin.',
   'repWhy': 'Neden',
   'repCheck': 'Kendiniz kontrol edin',
   'repBrief': 'Serviste şunu söyleyin',

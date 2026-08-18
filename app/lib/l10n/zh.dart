@@ -60,6 +60,8 @@ const Map<String, String> zh = {
   'anErrServer': '分析失败，请重试。',
   'repTitle': '报告',
   'repCauses': '可能的原因',
+  'repNoFault': '这段录音里听不出异常',
+  'repNoFaultNote': '这是对录音的判断，不等于车辆没有问题：声音可能没有被录进去。如果声音时有时无，请在能听到时再录一次。',
   'repWhy': '原因',
   'repCheck': '自己检查',
   'repBrief': '到修理厂这样说',

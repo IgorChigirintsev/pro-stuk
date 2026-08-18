@@ -65,6 +65,8 @@ const Map<String, String> de = {
   'anErrServer': 'Die Analyse ist fehlgeschlagen, bitte erneut versuchen.',
   'repTitle': 'Bericht',
   'repCauses': 'Wahrscheinliche Ursachen',
+  'repNoFault': 'In der Aufnahme sind keine Auffälligkeiten zu hören',
+  'repNoFaultNote': 'Das gilt für die Aufnahme, nicht als Freigabe für das Auto: Das Geräusch war vielleicht einfach nicht darauf. Tritt es nur zeitweise auf, nehmen Sie erneut auf, wenn Sie es hören.',
   'repWhy': 'Warum',
   'repCheck': 'Selbst prüfen',
   'repBrief': 'Das sagen Sie der Werkstatt',

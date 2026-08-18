@@ -65,6 +65,8 @@ const Map<String, String> pt = {
   'anErrServer': 'Não foi possível analisar, tente de novo.',
   'repTitle': 'Relatório',
   'repCauses': 'Causas prováveis',
+  'repNoFault': 'Nenhuma anomalia audível nesta gravação',
+  'repNoFaultNote': 'Isto é sobre a gravação, não um atestado de que o carro está bem: o ruído pode não ter sido captado. Se for intermitente, grave de novo quando o ouvir.',
   'repWhy': 'Porquê',
   'repCheck': 'Verificar sozinho',
   'repBrief': 'Diga na oficina',

@@ -49,12 +49,42 @@ class ReportScreen extends StatelessWidget {
           children: [
             TrafficLightPlaque(
                 urgency: report.urgency, reason: report.urgencyReason),
-            SectionTitle(S.repCauses),
-            for (final c in report.causes)
-              Padding(
-                padding: const EdgeInsets.only(bottom: 12),
-                child: _CauseCard(cause: c),
-              ),
+            // Отклонений не слышно — причин нет, и список показывать нечем.
+            // Пишем прямо, что вердикт относится к записи: звук мог не попасть
+            // в неё, и обещать исправную машину мы не вправе.
+            if (report.noFault)
+              SurfaceCard(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      children: [
+                        const Icon(Icons.check_circle_outline,
+                            color: T.ok, size: 22),
+                        const SizedBox(width: 8),
+                        Expanded(
+                          child: Text(S.repNoFault,
+                              style: Theme.of(context)
+                                  .textTheme
+                                  .titleMedium
+                                  ?.copyWith(fontWeight: FontWeight.w700)),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Text(S.repNoFaultNote,
+                        style: Theme.of(context).textTheme.bodyMedium),
+                  ],
+                ),
+              )
+            else ...[
+              SectionTitle(S.repCauses),
+              for (final c in report.causes)
+                Padding(
+                  padding: const EdgeInsets.only(bottom: 12),
+                  child: _CauseCard(cause: c),
+                ),
+            ],
             // Схема из ответа сервера, а для отчётов до этой версии —
             // подбираем локально по названиям причин, чтобы история не была пустой.
             if (report.schemaKey.isNotEmpty) ...[

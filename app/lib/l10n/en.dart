@@ -65,6 +65,8 @@ const Map<String, String> en = {
   'anErrServer': 'The analysis failed, please try again.',
   'repTitle': 'Report',
   'repCauses': 'Likely causes',
+  'repNoFault': 'No faults heard in this recording',
+  'repNoFaultNote': 'This is about the recording, not a clean bill of health: the sound may simply not be in it. If it comes and goes, record again when you can hear it.',
   'repWhy': 'Why',
   'repCheck': 'Check it yourself',
   'repBrief': 'Tell the shop',

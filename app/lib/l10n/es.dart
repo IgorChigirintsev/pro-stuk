@@ -65,6 +65,8 @@ const Map<String, String> es = {
   'anErrServer': 'No se pudo analizar, inténtalo de nuevo.',
   'repTitle': 'Informe',
   'repCauses': 'Causas probables',
+  'repNoFault': 'No se oyen anomalías en la grabación',
+  'repNoFaultNote': 'Esto se refiere a la grabación, no es un certificado de que el coche esté bien: el ruido puede no haber quedado registrado. Si aparece a ratos, grabe de nuevo cuando se oiga.',
   'repWhy': 'Por qué',
   'repCheck': 'Comprobar tú mismo',
   'repBrief': 'Dilo en el taller',

@@ -20,6 +20,11 @@ type Cause struct {
 
 // Report — схема ответа, единая для мока и Gemini.
 type Report struct {
+	// NoFault — в записи не слышно отклонений. Вердикт про запись, а не про
+	// машину: звук может проявляться в других условиях. Ставится только при
+	// внятной записи; при плохой отчёт объясняет, что разобрать не удалось.
+	// Вместе с ним Causes пуст, а Urgency всегда "ok".
+	NoFault           bool     `json:"no_fault"`
 	Causes            []Cause  `json:"causes"`
 	Urgency           string   `json:"urgency"`
 	UrgencyReason     string   `json:"urgency_reason"`

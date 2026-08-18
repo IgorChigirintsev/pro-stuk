@@ -61,6 +61,8 @@ class S {
   static String get anErrServer => L.t('anErrServer');
   static String get repTitle => L.t('repTitle');
   static String get repCauses => L.t('repCauses');
+  static String get repNoFault => L.t('repNoFault');
+  static String get repNoFaultNote => L.t('repNoFaultNote');
   static String get repWhy => L.t('repWhy');
   static String get repCheck => L.t('repCheck');
   static String get repBrief => L.t('repBrief');

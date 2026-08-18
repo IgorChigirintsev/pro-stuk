@@ -65,6 +65,8 @@ const Map<String, String> nl = {
   'anErrServer': 'De analyse is mislukt, probeer het opnieuw.',
   'repTitle': 'Rapport',
   'repCauses': 'Waarschijnlijke oorzaken',
+  'repNoFault': 'Geen afwijkingen hoorbaar in deze opname',
+  'repNoFaultNote': 'Dit gaat over de opname, niet over de auto: het geluid stond er misschien gewoon niet op. Komt het af en toe terug, neem dan opnieuw op als u het hoort.',
   'repWhy': 'Waarom',
   'repCheck': 'Zelf controleren',
   'repBrief': 'Zeg dit in de garage',
