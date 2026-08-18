@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'garage.dart';
 
+import '../l10n/dates.dart';
+import '../l10n/locale_scope.dart';
 import '../models.dart';
 import '../state.dart';
 import '../strings.dart';
@@ -17,6 +19,9 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     final state = AppScope.of(context);
     return Scaffold(
       appBar: AppBar(
@@ -89,14 +94,6 @@ class _HistoryCard extends StatelessWidget {
   final HistoryEntry entry;
   const _HistoryCard({required this.entry});
 
-  String _fmtDate(DateTime d) {
-    const months = [
-      'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
-      'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
-    ];
-    return '${d.day} ${months[d.month - 1]} ${d.year}';
-  }
-
   @override
   Widget build(BuildContext context) {
     final openable = entry.isFull && entry.report != null;
@@ -132,7 +129,7 @@ class _HistoryCard extends StatelessWidget {
                           overflow: TextOverflow.ellipsis),
                       const SizedBox(height: 4),
                       Text(
-                        '${_fmtDate(entry.date)} · ${entry.carLabel} · '
+                        '${formatDate(entry.date)} · ${entry.carLabel} · '
                         '${entry.isFull ? S.fullReport : S.quickReport}',
                         style: Theme.of(context).textTheme.bodySmall,
                       ),

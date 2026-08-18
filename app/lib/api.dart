@@ -6,6 +6,7 @@ import 'l10n/locale_service.dart';
 import 'package:http/http.dart' as http;
 
 import 'models.dart';
+import 'strings.dart';
 
 /// Адрес API задаётся при сборке: --dart-define=API_BASE_URL=https://api.…
 const apiBaseUrl = String.fromEnvironment(
@@ -31,6 +32,18 @@ class VersionInfo {
   final String apkUrl;
   const VersionInfo({required this.latestVersion, required this.apkUrl});
 }
+
+/// Коды ошибок сервера → строки интерфейса. Незнакомый код даёт null:
+/// тогда показывается текст сервера, а не пустота.
+String? _errorByCode(String? code) => switch (code) {
+      'rate_limited' => S.errRateLimited,
+      'daily_limit' => S.errDailyLimit,
+      'too_large' => S.errTooLarge,
+      'too_short' => S.errTooShort,
+      'too_long' => S.errTooLong,
+      'bad_audio' => S.errBadAudio,
+      _ => null,
+    };
 
 class ApiClient {
   final _client = http.Client();
@@ -59,22 +72,25 @@ class ApiClient {
     try {
       streamed = await _client.send(req).timeout(const Duration(seconds: 80));
     } on TimeoutException {
-      throw const ApiException(
-          'Сервер отвечает слишком долго. Попробуйте ещё раз.');
+      throw ApiException(S.anErrTimeout);
     } on SocketException {
-      throw const ApiException(
-          'Нет связи с сервером. Проверьте интернет и попробуйте ещё раз.');
+      throw ApiException(S.anErrNetwork);
     }
     final body = await streamed.stream.bytesToString();
 
     if (streamed.statusCode == 200) {
       return ReportData.fromJson(jsonDecode(body) as Map<String, dynamic>);
     }
-    // Сервер присылает {"error": "текст"} — показываем его как есть.
-    String message = 'Не получилось проанализировать, попробуйте ещё раз.';
+    // Сервер присылает {"code": "...", "error": "текст"}. Текст у него всегда
+    // русский, поэтому показываем свой перевод по коду, а сам текст оставляем
+    // запасным вариантом — на случай кода, которого это приложение ещё не знает.
+    String message = S.anErrServer;
     try {
       final err = jsonDecode(body) as Map<String, dynamic>;
-      if (err['error'] is String && (err['error'] as String).isNotEmpty) {
+      final local = _errorByCode(err['code'] as String?);
+      if (local != null) {
+        message = local;
+      } else if (err['error'] is String && (err['error'] as String).isNotEmpty) {
         message = err['error'] as String;
       }
     } catch (_) {}
@@ -88,7 +104,7 @@ class ApiClient {
     final uri = Uri.parse('$apiBaseUrl/api/v1/version');
     final resp = await _client.get(uri).timeout(const Duration(seconds: 10));
     if (resp.statusCode != 200) {
-      throw const ApiException('Сервер недоступен', retryable: true);
+      throw ApiException(S.anErrServer, retryable: true);
     }
     final j = jsonDecode(resp.body) as Map<String, dynamic>;
     return VersionInfo(

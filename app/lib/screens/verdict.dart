@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import '../l10n/locale_scope.dart';
 import '../schema_pick.dart';
 import '../site_links.dart';
 import '../widgets/schema_view.dart';
@@ -20,6 +21,9 @@ class VerdictScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     return Scaffold(
       appBar: AppBar(title: Text(S.verdictTitle)),
       body: SafeArea(

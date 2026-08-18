@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../l10n/locale_scope.dart';
 import '../widgets/schema_view.dart';
 import '../schema_pick.dart';
 
@@ -22,6 +23,9 @@ class ReportScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     return Scaffold(
       appBar: AppBar(
         title: Text(S.repTitle),

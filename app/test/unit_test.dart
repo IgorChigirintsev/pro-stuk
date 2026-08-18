@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:stuk/api.dart';
-import 'package:stuk/main.dart' show reloadTree, tree, watchLocaleForTree;
+import 'package:stuk/main.dart' show watchLocaleForTree;
 import 'package:stuk/site_links.dart';
 import 'package:stuk/tree.dart';
 import 'package:stuk/wav.dart';

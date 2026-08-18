@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../data/units.dart';
+import '../l10n/locale_scope.dart';
 import '../models.dart';
 import '../data/cars.dart';
 import '../state.dart';
@@ -111,6 +113,9 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     // Годы выпуска ограничиваем выбранным поколением: предлагать 2005-й
     // для машины, которую выпускали с 2015-го, значит собирать заведомо
     // неверные данные — а по ним потом строится диагноз.
@@ -183,7 +188,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const SizedBox(height: 16),
-                  Text('Поколение',
+                  Text(S.carGeneration,
                       style: Theme.of(context).textTheme.titleMedium),
                   const SizedBox(height: 8),
                   DropdownButtonFormField<String>(
@@ -191,7 +196,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
                         ? _generation
                         : null,
                     isExpanded: true,
-                    hint: const Text('Выберите поколение'),
+                    hint: Text(S.carGenerationHint),
                     items: [
                       for (final g in gens)
                         DropdownMenuItem(value: g.label, child: Text(g.label)),
@@ -253,7 +258,7 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
                   onTap: () => setState(
                       () => _mileageCtrl.text = saved.toString()),
                   child: Text(
-                    'Текущий пробег из профиля: $saved км — подставить',
+                    S.carMileageSaved.replaceFirst('{v}', Units.fmt(saved)),
                     style: const TextStyle(fontSize: 13, color: T.accent),
                   ),
                 ),

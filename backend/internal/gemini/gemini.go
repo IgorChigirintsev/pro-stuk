@@ -23,7 +23,9 @@ const endpoint = "https://generativelanguage.googleapis.com/v1beta/models/%s:gen
 // а анкеты, на которую можно опереться, нет.
 type ErrAudioNotCar struct{ Note string }
 
-func (e *ErrAudioNotCar) Error() string { return "запись не про автомобиль: " + e.Note }
+func (e *ErrAudioNotCar) Error() string {
+	return "запись не про автомобиль: " + e.Note
+}
 
 type Client struct {
 	apiKey string
@@ -129,9 +131,9 @@ const systemPrompt = `Ты — механик-диагност с 20-летни�
 var responseSchema = map[string]any{
 	"type": "object",
 	"properties": map[string]any{
-		"audio_is_car":  map[string]any{"type": "boolean"},
-		"audio_note":    map[string]any{"type": "string"},
-		"no_fault": map[string]any{"type": "boolean"},
+		"audio_is_car": map[string]any{"type": "boolean"},
+		"audio_note":   map[string]any{"type": "string"},
+		"no_fault":     map[string]any{"type": "boolean"},
 		"other_sounds": map[string]any{
 			"type":  "array",
 			"items": map[string]any{"type": "string"},

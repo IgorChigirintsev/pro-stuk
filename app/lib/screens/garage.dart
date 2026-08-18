@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../l10n/dates.dart';
+import '../l10n/locale_scope.dart';
 import '../data/service.dart';
 import '../data/units.dart';
 import '../models.dart';
@@ -78,6 +80,9 @@ class _GarageScreenState extends State<GarageScreen> {
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     final st = AppScope.of(context);
     final car = st.car;
     if (car != null) _syncMileageField(car);
@@ -283,7 +288,7 @@ class _HistoryCard extends StatelessWidget {
         ),
         title: Text(entry.topCause),
         subtitle: Text(
-          '${d.day} ${S.months[d.month - 1]} ${d.year} · '
+          '${formatDate(d)} · '
           '${entry.isFull ? S.histFull : S.histQuick}'
           '${entry.carLabel.isEmpty ? '' : ' · ${entry.carLabel}'}',
           style: const TextStyle(fontSize: 12, color: T.inkSoft),

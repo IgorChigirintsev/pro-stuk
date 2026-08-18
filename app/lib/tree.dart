@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'dart:convert';
 import 'l10n/locale_service.dart';
 
@@ -141,4 +142,18 @@ class DecisionTree {
     _depthCache[id] = d;
     return d;
   }
+}
+
+/// Загруженное дерево вопросов.
+late DecisionTree tree;
+
+/// Счётчик перезагрузок дерева: по нему приложение перерисовывается заново.
+final treeReloaded = ValueNotifier<int>(0);
+
+/// Дерево лежит в отдельном ассете на каждый язык, поэтому смена языка обязана
+/// его перечитать. Иначе интерфейс переключится, а вопросы и вердикты останутся
+/// на прежнем языке до перезапуска приложения.
+Future<void> reloadTree() async {
+  tree = await DecisionTree.load();
+  treeReloaded.value++;
 }

@@ -7,6 +7,7 @@ import 'package:flutter/rendering.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:share_plus/share_plus.dart';
 
+import '../l10n/locale_scope.dart';
 import '../models.dart';
 import '../strings.dart';
 import '../theme.dart';
@@ -61,7 +62,7 @@ class _ShareCardScreenState extends State<ShareCardScreen> {
     } catch (e) {
       // Раньше ошибка уходила в пустоту и выглядела как «кнопка не работает».
       messenger.showSnackBar(
-        SnackBar(content: Text('Не удалось поделиться: $e')),
+        SnackBar(content: Text(S.shareFailed)),
       );
     } finally {
       if (mounted) setState(() => _sharing = false);
@@ -70,6 +71,9 @@ class _ShareCardScreenState extends State<ShareCardScreen> {
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     return Scaffold(
       appBar: AppBar(title: Text(S.repShare)),
       body: SafeArea(

@@ -58,6 +58,18 @@ class S {
   static String get anRetry => L.t('anRetry');
   static String get anBack => L.t('anBack');
   static String get anErrNetwork => L.t('anErrNetwork');
+  static String get anErrTimeout => L.t('anErrTimeout');
+  static String get carGeneration => L.t('carGeneration');
+  static String get carGenerationHint => L.t('carGenerationHint');
+  static String get carMileageSaved => L.t('carMileageSaved');
+  static String get recMicBusy => L.t('recMicBusy');
+  static String get shareFailed => L.t('shareFailed');
+  static String get errRateLimited => L.t('errRateLimited');
+  static String get errDailyLimit => L.t('errDailyLimit');
+  static String get errTooLarge => L.t('errTooLarge');
+  static String get errTooShort => L.t('errTooShort');
+  static String get errTooLong => L.t('errTooLong');
+  static String get errBadAudio => L.t('errBadAudio');
   static String get anErrServer => L.t('anErrServer');
   static String get repTitle => L.t('repTitle');
   static String get repCauses => L.t('repCauses');
@@ -129,30 +141,23 @@ class S {
 
   static String get intervalYears => L.t('intervalYears');
 
-  static const recInstructions = [
-    'Двигатель заведён.',
-    'Телефон ближе к источнику звука.',
-    'Запись 15–30 секунд.',
-    'Если звук зависит от газа — плавно перегазовать во время записи.',
-    'Не разговаривать рядом с телефоном.',
-  ];
+  /// Порядок важен: это шаги памятки, а не набор фраз.
+  static List<String> get recInstructions => [
+        L.t('recInstr1'),
+        L.t('recInstr2'),
+        L.t('recInstr3'),
+        L.t('recInstr4'),
+        L.t('recInstr5'),
+      ];
 
-  static const anStages = [
-    'Слушаю запись…',
-    'Считаю спектр…',
-    'Сопоставляю с симптомами…',
-  ];
+  static List<String> get anStages =>
+      [L.t('anStage1'), L.t('anStage2'), L.t('anStage3')];
 
   static const makes = [
     'Toyota', 'Volkswagen', 'Skoda', 'Kia', 'Hyundai', 'Lada', 'Chevrolet',
     'Nissan', 'Mazda', 'Honda', 'Mitsubishi', 'BMW', 'Mercedes-Benz', 'Audi',
     'Ford', 'Renault', 'Lexus', 'Subaru', 'Daewoo', 'Opel', 'Peugeot',
     'Geely', 'Chery', 'Haval', 'УАЗ', 'ГАЗ',
-  ];
-
-  static const months = [
-    'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
-    'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
   ];
 
 }

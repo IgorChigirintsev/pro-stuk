@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:intl/date_symbol_data_local.dart';
 import 'data/units.dart';
 import 'l10n/l10n.dart';
+import 'l10n/locale_scope.dart';
 import 'l10n/locale_service.dart';
 
 import 'screens/home.dart';
@@ -11,19 +13,6 @@ import 'strings.dart';
 import 'theme.dart';
 import 'tree.dart';
 
-late DecisionTree tree;
-
-/// Счётчик перезагрузок дерева: по нему приложение перерисовывается заново.
-final treeReloaded = ValueNotifier<int>(0);
-
-/// Дерево лежит в отдельном ассете на каждый язык, поэтому смена языка обязана
-/// его перечитать. Иначе интерфейс переключится, а вопросы и вердикты останутся
-/// на прежнем языке до перезапуска приложения.
-Future<void> reloadTree() async {
-  tree = await DecisionTree.load();
-  treeReloaded.value++;
-}
-
 /// Подписка живёт всё время работы приложения — отписываться не от чего.
 void watchLocaleForTree() => LocaleService.current.addListener(reloadTree);
 
@@ -31,6 +20,8 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   // Manrope забандлен в assets/google_fonts — работаем офлайн, без догрузки.
   GoogleFonts.config.allowRuntimeFetching = false;
+  // Названия месяцев для DateFormat: без этого доступен только en_US.
+  await initializeDateFormatting();
   final state = AppState();
   await LocaleService.init();
   await Units.init();
@@ -52,8 +43,9 @@ class StukApp extends StatelessWidget {
       // из таблицы, а не зашиты в дерево виджетов. Второй сигнал — дочитанное
       // дерево: оно приходит асинхронно и позже самой смены языка.
       child: ListenableBuilder(
-        listenable: Listenable.merge([LocaleService.current, treeReloaded]),
-        builder: (context, child) => MaterialApp(
+        listenable: localeSignal,
+        builder: (context, child) => LocaleScope(
+            child: MaterialApp(
           builder: (context, home) => Directionality(
             textDirection: L.isRtl ? TextDirection.rtl : TextDirection.ltr,
             child: home ?? const SizedBox.shrink(),
@@ -64,7 +56,7 @@ class StukApp extends StatelessWidget {
         home: state.car == null
             ? const OnboardingCarScreen(firstRun: true)
             : const HomeScreen(),
-      )),
+      ))),
     );
   }
 }

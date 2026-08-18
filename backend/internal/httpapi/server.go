@@ -83,7 +83,7 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 	r = r.WithContext(ctx)
 
 	if !s.limiter.allow(clientIP(r, s.cfg.TrustProxy)) {
-		writeError(w, http.StatusTooManyRequests, "Слишком много запросов, подождите минуту.")
+		writeCodedError(w, http.StatusTooManyRequests, "rate_limited", "Слишком много запросов, подождите минуту.")
 		return
 	}
 
@@ -91,7 +91,7 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 	if err := r.ParseMultipartForm(maxBodyBytes); err != nil {
 		var maxErr *http.MaxBytesError
 		if errors.As(err, &maxErr) {
-			writeError(w, http.StatusUnprocessableEntity, "Файл больше 6 МБ. Запишите звук заново: 15–30 секунд достаточно.")
+			writeCodedError(w, http.StatusUnprocessableEntity, "too_large", "Файл больше 6 МБ. Запишите звук заново: 15–30 секунд достаточно.")
 			return
 		}
 		writeError(w, http.StatusUnprocessableEntity, "Запрос повреждён: ожидается multipart с полями audio и meta.")
@@ -127,23 +127,23 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 
 	samples, err := wavio.Decode(audio)
 	if err != nil {
-		writeError(w, http.StatusUnprocessableEntity, fmt.Sprintf("Не удалось обработать запись: %v. Запишите звук в приложении ещё раз.", err))
+		writeCodedError(w, http.StatusUnprocessableEntity, "bad_audio", fmt.Sprintf("Не удалось обработать запись: %v. Запишите звук в приложении ещё раз.", err))
 		return
 	}
 	duration := float64(len(samples)) / wavio.RequiredSampleRate
 	if duration < minDurationSec {
-		writeError(w, http.StatusUnprocessableEntity, fmt.Sprintf("Запись слишком короткая (%.1f сек). Нужно от 5 секунд, лучше 15–30.", duration))
+		writeCodedError(w, http.StatusUnprocessableEntity, "too_short", fmt.Sprintf("Запись слишком короткая (%.1f сек). Нужно от 5 секунд, лучше 15–30.", duration))
 		return
 	}
 	if duration > maxDurationSec {
-		writeError(w, http.StatusUnprocessableEntity, fmt.Sprintf("Запись слишком длинная (%.1f сек). Максимум 35 секунд.", duration))
+		writeCodedError(w, http.StatusUnprocessableEntity, "too_long", fmt.Sprintf("Запись слишком длинная (%.1f сек). Максимум 35 секунд.", duration))
 		return
 	}
 
 	// Дневной лимит: попытка списывается до анализа и возвращается,
 	// если отчёт не получился по вине сервера.
 	if !s.store.Allow(meta.DeviceID, s.cfg.DailyFreeLimit) {
-		writeError(w, http.StatusTooManyRequests, "Лимит на сегодня исчерпан, возвращайтесь завтра.")
+		writeCodedError(w, http.StatusTooManyRequests, "daily_limit", "Лимит на сегодня исчерпан, возвращайтесь завтра.")
 		return
 	}
 
@@ -263,6 +263,14 @@ func writeJSON(w http.ResponseWriter, status int, v any) {
 
 func writeError(w http.ResponseWriter, status int, msg string) {
 	writeJSON(w, status, map[string]string{"error": msg})
+}
+
+// writeCodedError добавляет к тексту машинный код. Текст здесь всегда русский,
+// а приложение показывает пользователю свой перевод по коду: держать переводы
+// на 14 языков в двух местах — верный способ их рассинхронизировать.
+// Старые сборки код игнорируют и показывают текст, поэтому поле безопасно.
+func writeCodedError(w http.ResponseWriter, status int, code, msg string) {
+	writeJSON(w, status, map[string]string{"error": msg, "code": code})
 }
 
 func (s *Server) logRequests(next http.Handler) http.Handler {

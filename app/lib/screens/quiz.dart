@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../main.dart' show tree;
+import '../tree.dart' show tree;
+import '../l10n/locale_scope.dart';
 import '../models.dart';
 import '../strings.dart';
 import '../widgets.dart';
@@ -67,6 +68,9 @@ class _QuizScreenState extends State<QuizScreen> {
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     final node = tree.node(_currentId);
     return PopScope(
       canPop: _path.isEmpty,

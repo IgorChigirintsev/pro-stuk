@@ -9,6 +9,7 @@ import 'package:path_provider/path_provider.dart';
 import 'package:record/record.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../l10n/locale_scope.dart';
 import '../models.dart';
 import '../strings.dart';
 import '../theme.dart';
@@ -131,8 +132,7 @@ class _RecordScreenState extends State<RecordScreen>
       if (mounted) {
         setState(() {
           _phase = _Phase.intro;
-          _hint = 'Не удалось включить микрофон. Закройте другие приложения, '
-              'использующие звук, и попробуйте ещё раз.';
+          _hint = S.recMicBusy;
         });
       }
       return;
@@ -205,6 +205,9 @@ class _RecordScreenState extends State<RecordScreen>
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     return Scaffold(
       appBar: AppBar(title: Text(S.recTitle)),
       body: SafeArea(

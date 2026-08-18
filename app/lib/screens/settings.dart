@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import '../l10n/locale_scope.dart';
 import '../site_links.dart';
 import '../api.dart';
 import '../l10n/device_locale.dart';
@@ -64,6 +65,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
 
   @override
   Widget build(BuildContext context) {
+    // Экран лежит в стеке Navigator и сам по себе не
+    // перестраивается при смене языка — см. LocaleScope.
+    LocaleScope.watch(context);
     return Scaffold(
       appBar: AppBar(title: Text(S.setTitle)),
       body: SafeArea(
