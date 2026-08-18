@@ -48,7 +48,7 @@ class _ShareCardScreenState extends State<ShareCardScreen> {
       if (bytes == null) throw StateError('не удалось получить изображение');
 
       final dir = await getTemporaryDirectory();
-      final file = File('${dir.path}/stuk_report.png');
+      final file = File('${dir.path}/pro-stuk-report.png');
       await file.writeAsBytes(bytes.buffer.asUint8List(), flush: true);
 
       await SharePlus.instance.share(
@@ -160,7 +160,7 @@ class _ShareCard extends StatelessWidget {
           const SizedBox(height: 4),
           Center(
             child: Text(
-              'stuk — ${S.appTagline}',
+              '${S.appName} — ${S.appTagline}',
               style: Theme.of(context).textTheme.bodySmall,
             ),
           ),
