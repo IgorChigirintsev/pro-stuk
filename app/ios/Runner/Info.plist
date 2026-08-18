@@ -7,7 +7,7 @@
 	<!-- Приложение слушает звук машины: без этой строки iOS убивает процесс
 	     при первой попытке записи. Текст показывается в системном запросе. -->
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Микрофон нужен, чтобы записать звук автомобиля и разобрать его.</string>
+	<string>Pro-Stuk records the sound of your car so it can analyse the noise and suggest what may be causing it.</string>
 	<!-- Языки интерфейса: без этого списка iOS считает приложение
 	     англоязычным и не подставляет системный язык. -->
 	<key>CFBundleLocalizations</key>
@@ -72,6 +72,8 @@
 	</dict>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

@@ -1,0 +1,141 @@
+# Облачная сборка Pro-Stuk на Codemagic.
+#
+# Зачем: .ipa нельзя собрать нигде, кроме macOS с Xcode. Рабочая машина — Linux,
+# поэтому сборка под App Store живёт здесь, а не в scripts/publish-apk.sh.
+#
+# ЧТО НАСТРОИТЬ В КОНСОЛИ CODEMAGIC ПЕРЕД ПЕРВЫМ ЗАПУСКОМ (один раз):
+#   1. Подключить репозиторий github.com/IgorChigirintsev/pro-stuk.
+#   2. Teams → Integrations → App Store Connect: добавить ключ API
+#      (App Store Connect → Users and Access → Integrations → App Store Connect API,
+#      роль App Manager). Назвать интеграцию ровно prostuk-asc — это имя ниже.
+#   3. В App Store Connect завести приложение с bundle ID chigirintsevandco.prostuk,
+#      иначе публиковать будет некуда.
+#   4. Для workflow android-aab: Environment variables → группа android_signing,
+#      переменные CM_KEYSTORE (файл key.jks), CM_KEYSTORE_PASSWORD, CM_KEY_ALIAS,
+#      CM_KEY_PASSWORD. Android при этом собирается и локально — группа нужна,
+#      только если хотите собирать .aab в облаке.
+#
+# Подпись iOS Codemagic делает сам: сертификат и профиль тянутся по интеграции
+# App Store Connect, вручную загружать ничего не нужно.
+
+definitions:
+  # Адреса прода — те же, что подставляет scripts/publish-apk.sh при сборке APK.
+  # Расходятся эти два места молча, поэтому меняются вместе.
+  # Якорь ставится на карту переменных, а не на строку внутри скрипта:
+  # в теле script YAML-ссылка осталась бы текстом «*prod_defines».
+  prod_env: &prod_env
+    API_BASE_URL: https://api.pro-stuk.com
+    SITE_URL: https://pro-stuk.com
+
+workflows:
+  ios-testflight:
+    name: Pro-Stuk iOS → TestFlight
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+    working_directory: app
+    integrations:
+      app_store_connect: prostuk-asc
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: chigirintsevandco.prostuk
+      vars:
+        <<: *prod_env
+    scripts:
+      - name: Зависимости Flutter
+        script: flutter pub get
+
+      - name: Анализ и тесты
+        # Сборка, которая уходит в TestFlight, не должна собираться из кода,
+        # не прошедшего проверку: в облаке это дешевле, чем отзыв билда.
+        script: |
+          flutter analyze --no-pub
+          flutter test
+
+      - name: Номер сборки на единицу больше последнего в TestFlight
+        # App Store отвергает повторный CFBundleVersion, а versionCode из
+        # pubspec.yaml живёт своей жизнью и считает сборки Android.
+        script: |
+          LATEST=$(app-store-connect get-latest-testflight-build-number \
+            "$APP_STORE_APPLE_ID" --bundle-id chigirintsevandco.prostuk 2>/dev/null || echo 0)
+          echo "BUILD_NUMBER=$((LATEST + 1))" >> "$CM_ENV"
+
+      - name: Профили подписи в проект Xcode
+        # Создаёт /Users/builder/export_options.plist, который нужен flutter build ipa.
+        script: xcode-project use-profiles
+
+      - name: Сборка .ipa
+        script: |
+          flutter build ipa --release \
+            --build-number="$BUILD_NUMBER" \
+            --dart-define=API_BASE_URL="$API_BASE_URL" \
+            --dart-define=SITE_URL="$SITE_URL" \
+            --export-options-plist=/Users/builder/export_options.plist
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+    publishing:
+      app_store_connect:
+        auth: integration
+        # Загрузка в TestFlight, но без отправки на ревью App Store:
+        # публикация в магазин остаётся ручным решением.
+        submit_to_testflight: true
+      email:
+        recipients:
+          - chigirintsevigor@gmail.com
+        notify:
+          success: true
+          failure: true
+
+  android-aab:
+    name: Pro-Stuk Android → .aab
+    # Запасной путь: обычно .aab собирается локально скриптом publish-apk.sh.
+    # Здесь — чтобы сборка не зависела от одной машины.
+    instance_type: linux_x2
+    max_build_duration: 60
+    working_directory: app
+    environment:
+      flutter: stable
+      java: 17
+      groups:
+        - android_signing
+      vars:
+        <<: *prod_env
+    scripts:
+      - name: Зависимости Flutter
+        script: flutter pub get
+
+      - name: Анализ и тесты
+        script: |
+          flutter analyze --no-pub
+          flutter test
+
+      - name: Ключ подписи из переменных окружения
+        # key.properties в репозиторий не попадает (там пути и пароли),
+        # поэтому в облаке файл собирается из переменных группы.
+        script: |
+          echo "$CM_KEYSTORE" | base64 --decode > "$CM_BUILD_DIR/app/key.jks"
+          cat > "$CM_BUILD_DIR/app/android/key.properties" <<EOF
+          storeFile=$CM_BUILD_DIR/app/key.jks
+          storePassword=$CM_KEYSTORE_PASSWORD
+          keyAlias=$CM_KEY_ALIAS
+          keyPassword=$CM_KEY_PASSWORD
+          EOF
+
+      - name: Сборка .aab
+        script: |
+          flutter build appbundle --release \
+            --dart-define=API_BASE_URL="$API_BASE_URL" \
+            --dart-define=SITE_URL="$SITE_URL"
+    artifacts:
+      - build/app/outputs/bundle/release/*.aab
+    publishing:
+      email:
+        recipients:
+          - chigirintsevigor@gmail.com
+        notify:
+          success: true
+          failure: true
