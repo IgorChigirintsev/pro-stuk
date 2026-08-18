@@ -30,6 +30,11 @@ class TreeNode {
   /// текст на языке приложения. Не переводится — это ключ, а не текст.
   final String siteSlug;
 
+  /// Названия причин по-русски, до наложения перевода. Нужны для подбора
+  /// схемы узла: таблица подбора русская, и на переведённом тексте она
+  /// не срабатывала — схема просто не показывалась.
+  final List<String> causesRu;
+
   const TreeNode.question(this.id, this.text, this.options)
       : isLeaf = false,
         topCause = '',
@@ -37,7 +42,8 @@ class TreeNode {
         urgency = '',
         explanation = '',
         advice = '',
-        siteSlug = '';
+        siteSlug = '',
+        causesRu = const [];
 
   const TreeNode.leaf(
     this.id, {
@@ -47,6 +53,7 @@ class TreeNode {
     required this.explanation,
     required this.advice,
     this.siteSlug = '',
+    this.causesRu = const [],
   })  : isLeaf = true,
         text = '',
         options = const [];
@@ -86,6 +93,7 @@ class DecisionTree {
         }
       }
       if (n['type'] == 'leaf') {
+        final src = v;
         nodes[id] = TreeNode.leaf(
           id,
           topCause: n['top_cause'] as String,
@@ -94,6 +102,10 @@ class DecisionTree {
           explanation: n['explanation'] as String,
           advice: n['advice'] as String,
           siteSlug: (n['site_slug'] as String?) ?? '',
+          causesRu: [
+            src['top_cause'] as String,
+            ...(src['alt_causes'] as List).cast<String>(),
+          ],
         );
       } else {
         nodes[id] = TreeNode.question(

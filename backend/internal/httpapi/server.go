@@ -170,10 +170,15 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 	// Расход токенов: по нему считается себестоимость одного разбора.
 	s.stats.Analysis(usage.PromptTokens, usage.AudioTokens, usage.OutputTokens)
 
-	// Схема узла для подсветки в клиенте: берём по названиям причин отчёта.
-	causes := make([]string, 0, len(rep.Causes))
-	for _, c := range rep.Causes {
-		causes = append(causes, c.Title)
+	// Схема узла для подсветки в клиенте. Таблица подбора русская, а отчёт
+	// приходит на языке пользователя, поэтому подбираем по служебному
+	// causes_ru; на русском оно совпадает с заголовками причин.
+	causes := rep.CausesRu
+	if len(causes) == 0 {
+		causes = make([]string, 0, len(rep.Causes))
+		for _, c := range rep.Causes {
+			causes = append(causes, c.Title)
+		}
 	}
 	rep.SchemaKey, rep.SchemaMarks = schema.For(causes)
 

@@ -59,7 +59,9 @@ func langInstruction(lang string) string {
 		return ""
 	}
 	return "\n\nВЕСЬ текст отчёта (названия причин, объяснения, советы, вопросы механику) " +
-		"пиши на языке: " + name + ". Термины поясняй так же просто, как в русском варианте."
+		"пиши на языке: " + name + ". Термины поясняй так же просто, как в русском варианте. " +
+		"Единственное исключение — служебное поле causes_ru: там названия причин " +
+		"из causes продублируй по-русски, в том же порядке и количестве."
 }
 
 // Системный промт — константа в коде, на русском (§6.2 спеки).
@@ -138,6 +140,13 @@ var responseSchema = map[string]any{
 			"type":  "array",
 			"items": map[string]any{"type": "string"},
 		},
+		// Названия причин по-русски. Пользователю не показываются: по ним
+		// сервер подбирает схему узла, а таблица подбора — русская. Без этого
+		// поля у всех нерусских языков схема просто не находилась.
+		"causes_ru": map[string]any{
+			"type":  "array",
+			"items": map[string]any{"type": "string"},
+		},
 		"causes": map[string]any{
 			"type": "array",
 			"items": map[string]any{
@@ -158,7 +167,7 @@ var responseSchema = map[string]any{
 		"red_flags":          map[string]any{"type": "array", "items": map[string]any{"type": "string"}},
 		"disclaimer":         map[string]any{"type": "string"},
 	},
-	"required": []string{"audio_is_car", "audio_note", "no_fault", "other_sounds", "causes", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
+	"required": []string{"audio_is_car", "audio_note", "no_fault", "other_sounds", "causes", "causes_ru", "urgency", "urgency_reason", "mechanic_brief", "mechanic_questions", "red_flags", "disclaimer"},
 }
 
 func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Features, audioWav []byte) (report.Report, report.Usage, error) {
@@ -252,12 +261,16 @@ func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Fea
 		report.Report
 		AudioIsCar *bool  `json:"audio_is_car"`
 		AudioNote  string `json:"audio_note"`
+		// В самой Report это поле помечено json:"-", чтобы не уезжать клиенту,
+		// поэтому из ответа модели читаем его здесь.
+		CausesRu []string `json:"causes_ru"`
 	}
 	text := parsed.Candidates[0].Content.Parts[0].Text
 	if err := json.Unmarshal([]byte(text), &full); err != nil {
 		return report.Report{}, report.Usage{}, fmt.Errorf("отчёт не соответствует схеме: %w", err)
 	}
 	rep := full.Report
+	rep.CausesRu = full.CausesRu
 	// Запись не про автомобиль и анкеты нет — честный отказ вместо
 	// выдуманного диагноза; хендлер вернёт 422 и попытку лимита.
 	if full.AudioIsCar != nil && !*full.AudioIsCar && len(meta.Answers) == 0 {

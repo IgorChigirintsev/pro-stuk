@@ -54,8 +54,8 @@ class VerdictScreen extends StatelessWidget {
                   ],
                   const SizedBox(height: 16),
                   FutureBuilder<SchemaPick?>(
-                    future: SchemaPicker.forCauses(
-                        [leaf.topCause, ...leaf.altCauses]),
+                    // По русским оригиналам: таблица подбора русская.
+                    future: SchemaPicker.forCauses(leaf.causesRu),
                     builder: (context, snap) {
                       final hit = snap.data;
                       if (hit == null) return const SizedBox.shrink();

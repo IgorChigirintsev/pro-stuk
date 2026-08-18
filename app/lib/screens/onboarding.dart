@@ -199,7 +199,9 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
                     hint: Text(S.carGenerationHint),
                     items: [
                       for (final g in gens)
-                        DropdownMenuItem(value: g.label, child: Text(g.label)),
+                        // value — исходная подпись: она уходит в профиль
+                        // и по ней разбираются годы выпуска.
+                        DropdownMenuItem(value: g.label, child: Text(g.display)),
                     ],
                     onChanged: (v) => setState(() {
                       _generation = v ?? '';

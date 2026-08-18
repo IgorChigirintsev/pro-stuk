@@ -1,6 +1,8 @@
 package gemini
 
 import (
+	"encoding/json"
+	"strings"
 	"testing"
 
 	"stuk/backend/internal/report"
@@ -74,5 +76,22 @@ func TestValidateOtherSounds(t *testing.T) {
 	base.OtherSounds = []string{"а", "б", "в", "г"}
 	if err := validate(base); err == nil {
 		t.Error("четыре посторонних звука приняты")
+	}
+}
+
+// Русские названия причин — служебное поле: по ним подбирается схема узла,
+// и клиенту они уезжать не должны.
+func TestCausesRuNotSerialized(t *testing.T) {
+	r := report.Report{
+		Causes:   []report.Cause{{Title: "Wheel bearing", ProbabilityPct: 100, Why: "hum", CheckYourself: "spin"}},
+		CausesRu: []string{"ступичный подшипник"},
+		Urgency:  "warn",
+	}
+	raw, err := json.Marshal(r)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if strings.Contains(string(raw), "causes_ru") || strings.Contains(string(raw), "ступичный") {
+		t.Fatalf("служебное поле уехало клиенту: %s", raw)
 	}
 }

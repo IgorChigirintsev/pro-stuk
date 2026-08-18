@@ -38,8 +38,12 @@ type Report struct {
 	Disclaimer        string   `json:"disclaimer"`
 	// Схема узла и номера деталей для подсветки в клиенте.
 	// Пустой ключ означает «схемы для такой причины нет» — это нормально.
-	SchemaKey   string `json:"schema_key,omitempty"`
-	SchemaMarks []int  `json:"schema_marks,omitempty"`
+	SchemaKey string `json:"schema_key,omitempty"`
+	// Названия причин по-русски: по ним подбирается схема узла, потому что
+	// таблица подбора русская, а сам отчёт приходит на языке пользователя.
+	// Клиенту не отдаётся — служебное.
+	CausesRu    []string `json:"-"`
+	SchemaMarks []int    `json:"schema_marks,omitempty"`
 }
 
 // Car — данные автомобиля из анкеты.

@@ -1,0 +1,2 @@
+/* Текст в системном запросе доступа к микрофону. */
+"NSMicrophoneUsageDescription" = "Pro-Stuk neemt het geluid van uw auto op om het te analyseren en mogelijke oorzaken te noemen.";

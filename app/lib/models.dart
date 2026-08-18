@@ -1,6 +1,8 @@
 /// Модели данных: машина, ответы опросника, отчёт, запись истории.
 library;
 
+import 'l10n/cars_i18n.dart';
+
 class Car {
   final String id;
   final String make;
@@ -23,7 +25,9 @@ class Car {
     this.service = const {},
   });
 
-  String get label => '$make $model, $year';
+  /// Для показа: справочник хранит русские названия, а интерфейс может быть
+  /// на другом языке. В самих полях остаётся ключ справочника.
+  String get label => '${carMake(make)} ${carModel(model)}, $year';
 
   Car copyWithId(String newId) => Car(
         id: newId,

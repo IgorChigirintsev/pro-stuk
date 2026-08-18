@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../l10n/cars_i18n.dart';
 import '../l10n/dates.dart';
 import '../l10n/locale_scope.dart';
 import '../data/service.dart';
@@ -324,7 +325,7 @@ class _CarTile extends StatelessWidget {
         title: Text(car.label),
         subtitle: Text(
           [
-            if (car.generation.isNotEmpty) car.generation,
+            if (car.generation.isNotEmpty) genLabel(car.generation),
             Units.fmt(car.mileageKm),
           ].join(' · '),
           style: const TextStyle(fontSize: 13),

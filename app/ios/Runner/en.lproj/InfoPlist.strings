@@ -1,0 +1,2 @@
+/* Текст в системном запросе доступа к микрофону. */
+"NSMicrophoneUsageDescription" = "Pro-Stuk records the sound of your car so it can analyse the noise and suggest what may be causing it.";

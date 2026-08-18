@@ -1,0 +1,2 @@
+/* Текст в системном запросе доступа к микрофону. */
+"NSMicrophoneUsageDescription" = "Pro-Stuk, aracınızın sesini kaydeder; sesi çözümleyip nedenin ne olabileceğini söyler.";
