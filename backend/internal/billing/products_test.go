@@ -21,18 +21,39 @@ func TestProductIDs(t *testing.T) {
 	}
 }
 
+// Проверки лежат на конкретном месте гаража, а не общим счётом: пакет мест
+// приносит комплект на каждое место, пакет проверок — на одно выбранное.
 func TestGrants(t *testing.T) {
-	// В каждом месте гаража едут 5 проверок.
 	for _, p := range GaragePacks {
-		if p.Checks != p.Slots*5 {
-			t.Errorf("%s: мест %d, проверок %d — комплект разошёлся", p.ID, p.Slots, p.Checks)
+		if p.ChecksPerSlot != 5 {
+			t.Errorf("%s: на месте %d проверок, ожидалось 5", p.ID, p.ChecksPerSlot)
+		}
+		if p.Checks != 0 {
+			t.Errorf("%s: пакет мест не начисляет проверки мимо мест", p.ID)
+		}
+		if want := p.Slots * 5; p.TotalChecks() != want {
+			t.Errorf("%s: всего проверок %d, ожидалось %d", p.ID, p.TotalChecks(), want)
 		}
 	}
-	// Пакет проверок мест не добавляет.
 	for _, p := range CheckPacks {
 		if p.Slots != 0 {
 			t.Errorf("%s: пакет проверок не должен давать места", p.ID)
 		}
+		if p.TotalChecks() != p.Checks {
+			t.Errorf("%s: проверки разошлись", p.ID)
+		}
+	}
+}
+
+// В консоли пакет на десять проверок заведён как checks_10_2. Пока это так,
+// сервер обязан узнавать оба имени.
+func TestAliasResolves(t *testing.T) {
+	p, ok := ByID("checks_10_2")
+	if !ok {
+		t.Fatal("checks_10_2 не опознан — покупка не начислится")
+	}
+	if p.ID != "checks_10" || p.Checks != 10 {
+		t.Fatalf("алиас ведёт не туда: %+v", p)
 	}
 }
 

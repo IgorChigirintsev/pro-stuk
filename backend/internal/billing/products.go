@@ -10,49 +10,72 @@
 package billing
 
 // Grant — что начисляется за покупку.
+//
+// Проверки не общие: они лежат на конкретном месте гаража, то есть у
+// конкретной машины. Пакет проверок покупается для выбранного места, новое
+// место приходит со своими проверками. Поэтому в отчёт списывается баланс
+// той машины, которую разбирают, а не общий счёт.
 type Grant struct {
-	// Проверки звука. Расходуются по одной за разбор.
+	// Проверки на одно место — то, которое выбрано при покупке.
 	Checks int
-	// Места в гараже. Остаются навсегда.
+	// Новые места гаража.
 	Slots int
+	// Сколько проверок кладётся на каждое новое место.
+	ChecksPerSlot int
+}
+
+// Бесплатный старт: одно место и проверки на нём. Дальше — только покупкой.
+const (
+	FreeSlots  = 1
+	FreeChecks = 5
+)
+
+// checksPerSlot — комплект проверок, идущий с каждым купленным местом.
+// Место без проверок бесполезно, а отдельная покупка сразу после первой
+// раздражает.
+const checksPerSlot = 5
+
+// Проверки звука пакетами. Начисляются на место, выбранное при покупке.
+var CheckPacks = []Product{
+	{ID: "checks_5", Grant: Grant{Checks: 5}},
+	{ID: "checks_10", Grant: Grant{Checks: 10}},
+	{ID: "checks_20", Grant: Grant{Checks: 20}},
+	{ID: "checks_40", Grant: Grant{Checks: 40}},
+}
+
+// Места в гараже, каждое со своим комплектом проверок.
+var GaragePacks = []Product{
+	{ID: "garage_1", Grant: Grant{Slots: 1, ChecksPerSlot: checksPerSlot}},
+	{ID: "garage_2", Grant: Grant{Slots: 2, ChecksPerSlot: checksPerSlot}},
+	{ID: "garage_4", Grant: Grant{Slots: 4, ChecksPerSlot: checksPerSlot}},
+	{ID: "garage_8", Grant: Grant{Slots: 8, ChecksPerSlot: checksPerSlot}},
 }
 
 // Product — позиция в магазине.
 type Product struct {
 	ID string
 	Grant
-	// Расходуемый: в магазинах такие покупки «потребляются» и их можно
-	// купить снова. Места в гараже тоже расходуемые — иначе второй раз
-	// то же место не продать.
-	Consumable bool
 }
 
-// Бесплатный старт. Ровно столько получает человек, ничего не покупая.
-const (
-	FreeSlots  = 1
-	FreeChecks = 5
-)
-
-// Проверки звука пакетами.
-var CheckPacks = []Product{
-	{ID: "checks_5", Grant: Grant{Checks: 5}, Consumable: true},
-	{ID: "checks_10", Grant: Grant{Checks: 10}, Consumable: true},
-	{ID: "checks_20", Grant: Grant{Checks: 20}, Consumable: true},
-	{ID: "checks_40", Grant: Grant{Checks: 40}, Consumable: true},
+// TotalChecks — сколько всего проверок приносит покупка. Для пакета мест это
+// комплекты всех мест сразу.
+func (p Product) TotalChecks() int {
+	return p.Checks + p.Slots*p.ChecksPerSlot
 }
 
-// Места в гараже. В каждом месте едут 5 проверок: место без проверок
-// бесполезно, а отдельная покупка сразу после первой раздражает.
-var GaragePacks = []Product{
-	{ID: "garage_1", Grant: Grant{Slots: 1, Checks: 5}, Consumable: true},
-	{ID: "garage_2", Grant: Grant{Slots: 2, Checks: 10}, Consumable: true},
-	{ID: "garage_4", Grant: Grant{Slots: 4, Checks: 20}, Consumable: true},
-	{ID: "garage_8", Grant: Grant{Slots: 8, Checks: 40}, Consumable: true},
+// aliases — идентификаторы, заведённые в консоли с опечаткой.
+//
+// Переименовать товар в Google Play нельзя, а удалённый идентификатор не
+// выдаётся повторно. Пока `checks_10` не пересоздан, покупка приходит под
+// именем `checks_10_2`, и не знать его означало бы списать деньги и ничего
+// не начислить.
+var aliases = map[string]string{
+	"checks_10_2": "checks_10",
 }
 
 var byID = func() map[string]Product {
 	m := make(map[string]Product, len(CheckPacks)+len(GaragePacks))
-	for _, p := range append(append([]Product{}, CheckPacks...), GaragePacks...) {
+	for _, p := range All() {
 		m[p.ID] = p
 	}
 	return m
@@ -62,6 +85,9 @@ var byID = func() map[string]Product {
 // Неизвестный идентификатор — либо старый клиент, либо подделка; и в том,
 // и в другом случае начислять нечего.
 func ByID(id string) (Product, bool) {
+	if real, ok := aliases[id]; ok {
+		id = real
+	}
 	p, ok := byID[id]
 	return p, ok
 }
