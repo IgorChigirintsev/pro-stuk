@@ -223,3 +223,56 @@ func errCode(t *testing.T, body []byte) string {
 func itoa(v int64) string { return strconv.FormatInt(v, 10) }
 
 func now() time.Time { return time.Date(2026, 8, 20, 12, 0, 0, 0, time.UTC) }
+
+// Удаление учётной записи по требованию человека: Google Play требует такую
+// возможность от любого приложения с аккаунтами.
+func TestAccountDelete(t *testing.T) {
+	s, accs := testServer(t)
+	token, acc := login(t, accs, "u1")
+	if _, err := accs.Update(acc.ID, func(a *account.Account) error {
+		return a.Grant("p1", "checks_40", "s1")
+	}); err != nil {
+		t.Fatal(err)
+	}
+
+	if got := do(t, s, http.MethodDelete, "/api/v1/account", token, nil); got.Code != http.StatusNoContent {
+		t.Fatalf("удаление дало %d %s", got.Code, got.Body)
+	}
+	// Сессия закрыта вместе с записью: старый токен не должен ничего открывать.
+	if got := do(t, s, http.MethodGet, "/api/v1/account", token, nil); got.Code != http.StatusUnauthorized {
+		t.Fatalf("токен работает после удаления: %d", got.Code)
+	}
+	if _, err := accs.Get(acc.ID); err == nil {
+		t.Fatal("запись осталась в хранилище")
+	}
+}
+
+// Повторный вход после удаления даёт чистую запись, а не прежнюю с балансом.
+func TestSignInAfterDeleteStartsClean(t *testing.T) {
+	s, accs := testServer(t)
+	token, acc := login(t, accs, "u1")
+	if _, err := accs.Update(acc.ID, func(a *account.Account) error {
+		return a.Grant("p1", "checks_40", "s1")
+	}); err != nil {
+		t.Fatal(err)
+	}
+	do(t, s, http.MethodDelete, "/api/v1/account", token, nil)
+
+	back, err := accs.EnsureAccount("google", "u1", now())
+	if err != nil {
+		t.Fatal(err)
+	}
+	if back.ID == acc.ID {
+		t.Fatal("вернулась удалённая запись")
+	}
+	if back.Slots[0].Checks != 5 {
+		t.Fatalf("новая запись пришла с балансом %d", back.Slots[0].Checks)
+	}
+}
+
+func TestAccountDeleteNeedsSession(t *testing.T) {
+	s, _ := testServer(t)
+	if got := do(t, s, http.MethodDelete, "/api/v1/account", "", nil); got.Code != http.StatusUnauthorized {
+		t.Fatalf("удаление без сессии дало %d", got.Code)
+	}
+}

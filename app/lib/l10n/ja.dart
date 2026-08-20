@@ -165,4 +165,7 @@ const Map<String, String> ja = {
   'buyNoProducts': 'いまは商品を表示できません。',
   'garageFull': 'ガレージがいっぱいです。クルマを追加するには枠を購入してください。',
   'buyPending': '購入済みの診断が {n} 回分あります。このクルマに追加しますか？',
+  'accDelete': 'アカウントを削除',
+  'accDeleteWarn': 'ガレージ、クルマ、残っている診断回数がすべて完全に削除されます。復元はできず、未使用分の払い戻しもありません。',
+  'accDeleteYes': '削除する',
 };

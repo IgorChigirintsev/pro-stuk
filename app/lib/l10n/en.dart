@@ -176,4 +176,7 @@ const Map<String, String> en = {
   'buyNoProducts': 'Products are unavailable right now.',
   'garageFull': 'Your garage is full. Buy a slot to add another car.',
   'buyPending': 'You have {n} purchased checks waiting. Add them to this car?',
+  'accDelete': 'Delete account',
+  'accDeleteWarn': 'Your garage, cars and all remaining checks will be deleted for good. They cannot be restored, and unused checks are not refunded.',
+  'accDeleteYes': 'Delete',
 };

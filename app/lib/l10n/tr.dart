@@ -177,4 +177,7 @@ const Map<String, String> tr = {
   'buyNoProducts': 'Ürünler şu anda kullanılamıyor.',
   'garageFull': 'Garaj dolu. Yeni araç eklemek için yer satın alın.',
   'buyPending': 'Bekleyen {n} satın alınmış kontrol var. Bu araca eklensin mi?',
+  'accDelete': 'Hesabı sil',
+  'accDeleteWarn': 'Garaj, araçlar ve kalan tüm kontroller kalıcı olarak silinir. Geri getirilemez, kullanılmamış kontroller için geri ödeme yapılmaz.',
+  'accDeleteYes': 'Sil',
 };

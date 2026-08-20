@@ -219,7 +219,8 @@ export const tr: Dict = {
       },
       {
         strong: 'Verilerinizi nasıl silersiniz.',
-        text: 'Uygulamayı kaldırmanız telefondaki rapor geçmişini silmeye yeter. Hesabı garaj ve bakiyeyle birlikte silmek için bize yazın — tamamını kaldırırız, kullanılmamış kontroller için geri ödeme yapılmaz.',
+        text:
+          'Uygulamayı kaldırmanız telefondaki rapor geçmişini silmeye yeter. Hesabın kendisi, garaj ve kalan kontrollerle birlikte uygulama içinden silinir: «Ayarlar» → «Hesabı sil». Silme kalıcıdır ve kullanılmamış kontroller iade edilmez.',
       },
       {
         strong: 'Uygulama çocuklar için değildir.',

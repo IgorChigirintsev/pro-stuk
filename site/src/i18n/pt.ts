@@ -222,7 +222,8 @@ export const pt: Dict = {
       },
       {
         strong: 'Como apagar seus dados.',
-        text: 'Desinstalar o aplicativo já apaga o histórico de laudos no telefone. Para excluir a conta junto com a garagem e o saldo, escreva para a gente — apagamos por completo, sem devolução pelas verificações não usadas.',
+        text:
+          'Desinstalar o aplicativo já apaga o histórico de laudos no telefone. A conta, junto com a garagem e as verificações restantes, é excluída dentro do aplicativo: «Configurações» → «Excluir conta». A exclusão é definitiva e as verificações não usadas não são reembolsadas.',
       },
       {
         strong: 'O aplicativo não é para crianças.',

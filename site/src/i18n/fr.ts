@@ -226,7 +226,8 @@ export const fr: Dict = {
       },
       {
         strong: 'Comment supprimer vos données.',
-        text: 'Désinstaller l’application suffit à effacer l’historique des rapports sur le téléphone. Pour supprimer le compte avec le garage et le solde, écrivez-nous : nous le supprimerons entièrement, sans remboursement des analyses inutilisées.',
+        text:
+          'Désinstaller l’application suffit à effacer l’historique des rapports sur le téléphone. Le compte lui-même, avec le garage et les analyses restantes, se supprime dans l’application : « Réglages » → « Supprimer le compte ». La suppression est définitive et les analyses inutilisées ne sont pas remboursées.',
       },
       {
         strong: 'L’application n’est pas destinée aux enfants.',

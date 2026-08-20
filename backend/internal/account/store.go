@@ -208,3 +208,28 @@ func (s *Store) DropSession(token string) error {
 	delete(s.data.Sessions, token)
 	return s.save()
 }
+
+// Delete стирает учётную запись целиком: места, баланс, историю покупок и
+// все открытые сессии.
+//
+// Возврата нет и восстановления нет — так это и объяснено человеку в
+// приложении до подтверждения. Оставлять «мягкое удаление» с возможностью
+// вернуть было бы честнее по деньгам, но нечестно по обещанию: человек
+// просил удалить.
+func (s *Store) Delete(accountID string) error {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+
+	a, ok := s.data.Accounts[accountID]
+	if !ok {
+		return ErrNotFound
+	}
+	delete(s.data.Accounts, accountID)
+	delete(s.data.Index, key(a.Provider, a.Subject))
+	for token, id := range s.data.Sessions {
+		if id == accountID {
+			delete(s.data.Sessions, token)
+		}
+	}
+	return s.save()
+}

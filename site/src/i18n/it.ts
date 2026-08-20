@@ -226,7 +226,8 @@ export const it: Dict = {
       },
       {
         strong: 'Come cancellare i dati.',
-        text: 'Disinstallare l’app basta per cancellare lo storico dei referti sul telefono. Per eliminare l’account insieme al garage e al saldo, scrivici: lo rimuoveremo del tutto, senza rimborso dei controlli non usati.',
+        text:
+          'Disinstallare l’app basta per cancellare lo storico dei referti sul telefono. L’account, insieme al garage e ai controlli rimasti, si elimina dentro l’app: «Impostazioni» → «Elimina account». La cancellazione è definitiva e i controlli non usati non vengono rimborsati.',
       },
       {
         strong: 'L’app non è pensata per i bambini.',

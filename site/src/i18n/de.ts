@@ -225,7 +225,8 @@ export const de: Dict = {
       },
       {
         strong: 'So löschen Sie Ihre Daten.',
-        text: 'Die App zu deinstallieren genügt, um den Berichtsverlauf auf dem Telefon zu löschen. Um das Konto samt Garage und Guthaben zu löschen, schreiben Sie uns — wir entfernen es vollständig, ohne Erstattung ungenutzter Prüfungen.',
+        text:
+          'Die App zu deinstallieren genügt, um den Berichtsverlauf auf dem Telefon zu löschen. Das Konto selbst — samt Garage und verbleibenden Prüfungen — löschen Sie in der App: „Einstellungen“ → „Konto löschen“. Die Löschung ist endgültig, ungenutzte Prüfungen werden nicht erstattet.',
       },
       {
         strong: 'Die App ist nicht für Kinder.',

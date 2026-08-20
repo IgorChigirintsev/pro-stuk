@@ -177,4 +177,7 @@ const Map<String, String> nl = {
   'buyNoProducts': 'De producten zijn nu niet beschikbaar.',
   'garageFull': 'De garage is vol. Koop een plek om nog een auto toe te voegen.',
   'buyPending': 'Er wachten {n} gekochte controles. Aan deze auto toevoegen?',
+  'accDelete': 'Account verwijderen',
+  'accDeleteWarn': 'Garage, auto’s en alle resterende controles worden definitief verwijderd. Herstellen kan niet en ongebruikte controles worden niet vergoed.',
+  'accDeleteYes': 'Verwijderen',
 };

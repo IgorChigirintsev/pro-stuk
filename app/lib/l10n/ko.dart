@@ -165,4 +165,7 @@ const Map<String, String> ko = {
   'buyNoProducts': '지금은 상품을 불러올 수 없습니다.',
   'garageFull': '차고가 가득 찼습니다. 차량을 추가하려면 자리를 구매하세요.',
   'buyPending': '구매한 검사 {n}회가 대기 중입니다. 이 차량에 추가할까요?',
+  'accDelete': '계정 삭제',
+  'accDeleteWarn': '차고와 차량, 남은 검사 횟수가 모두 영구히 삭제됩니다. 복구할 수 없으며 사용하지 않은 검사는 환불되지 않습니다.',
+  'accDeleteYes': '삭제',
 };

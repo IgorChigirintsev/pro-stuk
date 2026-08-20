@@ -243,3 +243,20 @@ func (s *Server) sessionForReport(r *http.Request) (account.Account, bool) {
 	_, acc, ok := s.session(r)
 	return acc, ok
 }
+
+// handleAccountDelete удаляет учётную запись по требованию человека.
+//
+// Кнопка живёт в настройках приложения — этого требует Google Play от любого
+// приложения с учётными записями, и это же указано в политике.
+func (s *Server) handleAccountDelete(w http.ResponseWriter, r *http.Request) {
+	_, acc, ok := s.session(r)
+	if !ok {
+		writeCodedError(w, http.StatusUnauthorized, "no_session", "Нужно войти заново.")
+		return
+	}
+	if err := s.accounts.Delete(acc.ID); err != nil {
+		writeAccountError(w, err)
+		return
+	}
+	w.WriteHeader(http.StatusNoContent)
+}

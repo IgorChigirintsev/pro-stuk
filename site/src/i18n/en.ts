@@ -221,7 +221,8 @@ export const en: Dict = {
       },
       {
         strong: 'How to delete your data.',
-        text: 'Uninstalling the app is enough to erase the report history on your phone. To delete the account together with the garage and the balance, write to us — we will remove it in full, without refunding unused checks.',
+        text:
+          'Uninstalling the app is enough to erase the report history on your phone. The account itself, together with the garage and the remaining checks, is deleted inside the app: Settings → Delete account. Deletion is final and unused checks are not refunded.',
       },
       {
         strong: 'The app is not meant for children.',

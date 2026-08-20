@@ -89,6 +89,7 @@ func (s *Server) Router() http.Handler {
 	r.Delete("/api/v1/account/car", s.handleCarDelete)
 	r.Post("/api/v1/account/assign", s.handleAssign)
 	r.Post("/api/v1/account/purchase", s.handlePurchase)
+	r.Delete("/api/v1/account", s.handleAccountDelete)
 
 	r.Post("/api/v1/report", s.handleReport)
 	r.Post("/api/v1/hit", s.handleHit)

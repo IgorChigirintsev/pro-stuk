@@ -225,7 +225,8 @@ export const es: Dict = {
       },
       {
         strong: 'Cómo borrar tus datos.',
-        text: 'Basta con desinstalar la aplicación para borrar el historial de informes del teléfono. Para eliminar la cuenta junto con el garaje y el saldo, escríbenos: la borraremos por completo, sin devolución por las comprobaciones no usadas.',
+        text:
+          'Basta con desinstalar la aplicación para borrar el historial de informes del teléfono. La cuenta, junto con el garaje y las comprobaciones restantes, se elimina dentro de la aplicación: «Ajustes» → «Eliminar la cuenta». El borrado es definitivo y las comprobaciones no usadas no se reembolsan.',
       },
       {
         strong: 'La aplicación no es para niños.',

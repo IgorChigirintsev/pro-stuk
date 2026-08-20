@@ -116,6 +116,15 @@ class AccountApi {
     return AccountState.fromJson(_decode(resp));
   }
 
+  /// Удаление учётной записи целиком: места, баланс и покупки.
+  Future<void> deleteAccount(String session) async {
+    final req = http.Request('DELETE', _u('/account'))
+      ..headers.addAll(_headers(session));
+    final resp =
+        await http.Response.fromStream(await _client.send(req)).timeout(_timeout);
+    if (resp.statusCode >= 300) _decode(resp);
+  }
+
   Future<void> logout(String session) async {
     await _client
         .post(_u('/logout'), headers: _headers(session))

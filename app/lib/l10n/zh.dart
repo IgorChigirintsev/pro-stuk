@@ -165,4 +165,7 @@ const Map<String, String> zh = {
   'buyNoProducts': '商品暂时不可用。',
   'garageFull': '车库已满。购买车位后即可再添加一辆车。',
   'buyPending': '有 {n} 次已购买的检测在等待。要记到这辆车上吗？',
+  'accDelete': '删除账号',
+  'accDeleteWarn': '车库、车辆以及剩余的全部检测次数将被永久删除，无法恢复，未使用的次数也不退款。',
+  'accDeleteYes': '删除',
 };

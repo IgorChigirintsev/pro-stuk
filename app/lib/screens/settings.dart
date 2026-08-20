@@ -8,6 +8,7 @@ import '../api.dart';
 import '../l10n/device_locale.dart';
 import '../l10n/locale_service.dart';
 import '../state.dart';
+import '../theme.dart';
 import '../strings.dart';
 import '../widgets.dart';
 
@@ -113,6 +114,15 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ],
               ),
             ),
+            const SizedBox(height: 8),
+            Align(
+              alignment: AlignmentDirectional.centerStart,
+              child: TextButton.icon(
+                onPressed: () => _confirmDelete(context),
+                icon: const Icon(Icons.delete_forever, color: T.stop),
+                label: Text(S.accDelete, style: const TextStyle(color: T.stop)),
+              ),
+            ),
             const SizedBox(height: 20),
             SectionTitle(S.setVersion),
             SurfaceCard(
@@ -158,5 +168,38 @@ class _SettingsScreenState extends State<SettingsScreen> {
         ),
       ),
     );
+  }
+}
+
+/// Удаление учётной записи. Спрашиваем подтверждение и прямо называем, что
+/// пропадёт: неиспользованные проверки оплачены, и человек должен понимать,
+/// что возврата не будет.
+Future<void> _confirmDelete(BuildContext context) async {
+  final app = AppScope.of(context);
+  final messenger = ScaffoldMessenger.of(context);
+  final ok = await showDialog<bool>(
+    context: context,
+    builder: (ctx) => AlertDialog(
+      title: Text(S.accDelete),
+      content: Text(S.accDeleteWarn),
+      actions: [
+        TextButton(
+          onPressed: () => Navigator.pop(ctx, false),
+          child: Text(S.bookCancel),
+        ),
+        TextButton(
+          onPressed: () => Navigator.pop(ctx, true),
+          child: Text(S.accDeleteYes, style: const TextStyle(color: T.stop)),
+        ),
+      ],
+    ),
+  );
+  if (ok != true) return;
+  try {
+    await app.accounts.deleteAccount();
+  } on ApiException catch (e) {
+    messenger.showSnackBar(SnackBar(content: Text(e.message)));
+  } catch (_) {
+    messenger.showSnackBar(SnackBar(content: Text(S.anErrServer)));
   }
 }

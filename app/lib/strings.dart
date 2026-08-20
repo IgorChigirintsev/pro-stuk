@@ -183,4 +183,7 @@ class S {
   static String get buyNoProducts => L.t('buyNoProducts');
   static String get garageFull => L.t('garageFull');
   static String get buyPending => L.t('buyPending');
+  static String get accDelete => L.t('accDelete');
+  static String get accDeleteWarn => L.t('accDeleteWarn');
+  static String get accDeleteYes => L.t('accDeleteYes');
 }

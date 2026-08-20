@@ -162,6 +162,13 @@ class AccountService extends ChangeNotifier {
         slotId: slotId,
       ));
 
+  /// Удаление учётной записи по требованию человека. Кнопка живёт в
+  /// настройках — этого требует Google Play, и об этом сказано в политике.
+  Future<void> deleteAccount() async {
+    await _api.deleteAccount(_need());
+    await _forgetSession();
+  }
+
   Future<void> signOut() async {
     final s = _session;
     if (s != null) {

@@ -221,7 +221,8 @@ export const pl: Dict = {
       },
       {
         strong: 'Jak usunąć dane.',
-        text: 'Odinstalowanie aplikacji wystarczy, by skasować historię raportów w telefonie. Aby usunąć konto razem z garażem i saldem, napisz do nas — skasujemy w całości, bez zwrotu za niewykorzystane sprawdzenia.',
+        text:
+          'Odinstalowanie aplikacji wystarczy, by skasować historię raportów w telefonie. Samo konto — razem z garażem i pozostałymi sprawdzeniami — usuwa się w aplikacji: «Ustawienia» → «Usuń konto». Usunięcie jest ostateczne, za niewykorzystane sprawdzenia nie ma zwrotu.',
       },
       {
         strong: 'Aplikacja nie jest dla dzieci.',

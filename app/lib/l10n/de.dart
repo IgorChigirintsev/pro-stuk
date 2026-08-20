@@ -177,4 +177,7 @@ const Map<String, String> de = {
   'buyNoProducts': 'Die Angebote sind gerade nicht verfügbar.',
   'garageFull': 'Die Garage ist voll. Kaufen Sie einen Stellplatz, um ein Auto hinzuzufügen.',
   'buyPending': 'Es warten {n} gekaufte Prüfungen. Diesem Auto gutschreiben?',
+  'accDelete': 'Konto löschen',
+  'accDeleteWarn': 'Garage, Autos und alle verbleibenden Prüfungen werden endgültig gelöscht. Wiederherstellen ist nicht möglich, ungenutzte Prüfungen werden nicht erstattet.',
+  'accDeleteYes': 'Löschen',
 };

@@ -224,7 +224,8 @@ export const nl: Dict = {
       },
       {
         strong: 'Zo wist u uw gegevens.',
-        text: 'De app verwijderen is genoeg om de rapportgeschiedenis op het toestel te wissen. Wilt u het account met garage en tegoed laten verwijderen, schrijf ons dan — we halen alles weg, zonder terugbetaling van ongebruikte controles.',
+        text:
+          'De app verwijderen is genoeg om de rapportgeschiedenis op het toestel te wissen. Het account zelf, met garage en resterende controles, verwijdert u in de app: «Instellingen» → «Account verwijderen». Verwijderen is definitief en ongebruikte controles worden niet vergoed.',
       },
       {
         strong: 'De app is niet voor kinderen.',
