@@ -28,6 +28,9 @@ type Config struct {
 	GoogleClientID string
 	// Bundle ID приложения: получатель токена при входе через Apple.
 	AppleBundleID string
+	// Имя пакета Android: по нему магазин ищет покупку. Совпадает с bundle id
+	// Apple, но это совпадение, а не правило.
+	AndroidPackage string
 
 	// Файл сервисного аккаунта Google Play. По нему сервер спрашивает у
 	// Google, была ли покупка на самом деле: словам приложения тут верить
@@ -50,6 +53,7 @@ func Load() (Config, error) {
 		DailyFreeLimit:     3,
 		GoogleClientID:     os.Getenv("GOOGLE_CLIENT_ID"),
 		AppleBundleID:      getenv("APPLE_BUNDLE_ID", "chigirintsevandco.prostuk"),
+		AndroidPackage:     getenv("ANDROID_PACKAGE", "chigirintsevandco.prostuk"),
 		PlayServiceAccount: getenv("PLAY_SERVICE_ACCOUNT_FILE", "play-service-account.json"),
 	}
 

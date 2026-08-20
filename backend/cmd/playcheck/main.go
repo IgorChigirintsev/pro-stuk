@@ -24,12 +24,13 @@ func main() {
 		fmt.Println("настройки не прочитались:", err)
 		os.Exit(1)
 	}
-	p, err := billing.NewPlay(cfg.PlayServiceAccount, cfg.AppleBundleID)
+	p, err := billing.NewPlay(cfg.PlayServiceAccount, cfg.AndroidPackage)
 	if err != nil {
 		fmt.Println("ключ не прочитался:", err)
 		os.Exit(1)
 	}
 	fmt.Println("ключ прочитан:", cfg.PlayServiceAccount)
+	fmt.Println("пакет:", cfg.AndroidPackage)
 
 	err = p.Verify(context.Background(), "checks_5", "заведомо-несуществующий-чек")
 	switch {

@@ -59,7 +59,7 @@ func main() {
 	// Магазины. Нет ключа — покупок нет, но сервер работает: отказ честнее
 	// начисления вслепую и не мешает всему остальному.
 	stores := map[string]httpapi.StoreVerifier{}
-	if play, err := billing.NewPlay(cfg.PlayServiceAccount, "chigirintsevandco.prostuk"); err != nil {
+	if play, err := billing.NewPlay(cfg.PlayServiceAccount, cfg.AndroidPackage); err != nil {
 		slog.Warn("покупки Google Play отключены", "err", err)
 	} else {
 		stores["google"] = play
