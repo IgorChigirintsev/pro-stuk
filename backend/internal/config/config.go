@@ -21,6 +21,13 @@ type Config struct {
 	DataDir        string
 	TrustProxy     bool
 	AnalyticsToken string
+
+	// Идентификатор веб-клиента OAuth. Именно он стоит в поле aud токена,
+	// который приложение получает от Google, — по нему сервер убеждается,
+	// что вошли в наше приложение, а не в чужое.
+	GoogleClientID string
+	// Bundle ID приложения: получатель токена при входе через Apple.
+	AppleBundleID string
 }
 
 func Load() (Config, error) {
@@ -36,6 +43,8 @@ func Load() (Config, error) {
 		TrustProxy:     os.Getenv("TRUST_PROXY") == "1",
 		AnalyticsToken: os.Getenv("ANALYTICS_TOKEN"),
 		DailyFreeLimit: 3,
+		GoogleClientID: os.Getenv("GOOGLE_CLIENT_ID"),
+		AppleBundleID:  getenv("APPLE_BUNDLE_ID", "chigirintsevandco.prostuk"),
 	}
 
 	if v := os.Getenv("DAILY_FREE_LIMIT"); v != "" {
