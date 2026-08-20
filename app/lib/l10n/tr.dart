@@ -180,4 +180,6 @@ const Map<String, String> tr = {
   'accDelete': 'Hesabı sil',
   'accDeleteWarn': 'Garaj, araçlar ve kalan tüm kontroller kalıcı olarak silinir. Geri getirilemez, kullanılmamış kontroller için geri ödeme yapılmaz.',
   'accDeleteYes': 'Sil',
+  'updDownloaded': 'Güncelleme indirildi',
+  'updInstall': 'Yükle',
 };

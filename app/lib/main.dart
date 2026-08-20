@@ -11,6 +11,7 @@ import 'dart:async';
 
 import 'data/account_service.dart';
 import 'data/store_service.dart';
+import 'data/update_service.dart';
 import 'screens/onboarding.dart';
 import 'screens/sign_in.dart';
 import 'state.dart';
@@ -32,6 +33,7 @@ Future<void> main() async {
   // сразу из локальной копии, а не после круга по сети.
   state.accounts = AccountService();
   state.store = StoreService(state.accounts);
+  state.updates = UpdateService();
   await LocaleService.init();
   await Units.init();
   await state.init();

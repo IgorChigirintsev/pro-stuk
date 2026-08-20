@@ -168,4 +168,6 @@ const Map<String, String> ko = {
   'accDelete': '계정 삭제',
   'accDeleteWarn': '차고와 차량, 남은 검사 횟수가 모두 영구히 삭제됩니다. 복구할 수 없으며 사용하지 않은 검사는 환불되지 않습니다.',
   'accDeleteYes': '삭제',
+  'updDownloaded': '업데이트를 내려받았습니다',
+  'updInstall': '설치',
 };

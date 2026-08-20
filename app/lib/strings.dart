@@ -186,4 +186,6 @@ class S {
   static String get accDelete => L.t('accDelete');
   static String get accDeleteWarn => L.t('accDeleteWarn');
   static String get accDeleteYes => L.t('accDeleteYes');
+  static String get updDownloaded => L.t('updDownloaded');
+  static String get updInstall => L.t('updInstall');
 }

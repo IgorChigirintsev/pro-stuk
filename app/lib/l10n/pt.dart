@@ -180,4 +180,6 @@ const Map<String, String> pt = {
   'accDelete': 'Excluir conta',
   'accDeleteWarn': 'A garagem, os carros e todas as verificações restantes serão apagados para sempre. Não dá para recuperar e as não usadas não são reembolsadas.',
   'accDeleteYes': 'Excluir',
+  'updDownloaded': 'Atualização baixada',
+  'updInstall': 'Instalar',
 };

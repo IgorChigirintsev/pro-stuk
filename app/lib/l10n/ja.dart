@@ -168,4 +168,6 @@ const Map<String, String> ja = {
   'accDelete': 'アカウントを削除',
   'accDeleteWarn': 'ガレージ、クルマ、残っている診断回数がすべて完全に削除されます。復元はできず、未使用分の払い戻しもありません。',
   'accDeleteYes': '削除する',
+  'updDownloaded': 'アップデートをダウンロードしました',
+  'updInstall': 'インストール',
 };

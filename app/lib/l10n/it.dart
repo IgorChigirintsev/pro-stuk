@@ -180,4 +180,6 @@ const Map<String, String> it = {
   'accDelete': 'Elimina account',
   'accDeleteWarn': 'Garage, auto e tutti i controlli rimasti saranno cancellati per sempre. Non si possono recuperare e quelli non usati non vengono rimborsati.',
   'accDeleteYes': 'Elimina',
+  'updDownloaded': 'Aggiornamento scaricato',
+  'updInstall': 'Installa',
 };

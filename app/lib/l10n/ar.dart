@@ -169,4 +169,6 @@ const Map<String, String> ar = {
   'accDelete': 'حذف الحساب',
   'accDeleteWarn': 'سيُحذف المرآب والسيارات وكل الفحوص المتبقية نهائيًا. لا يمكن استرجاعها، ولا تُرد قيمة الفحوص غير المستخدمة.',
   'accDeleteYes': 'حذف',
+  'updDownloaded': 'تم تنزيل التحديث',
+  'updInstall': 'تثبيت',
 };

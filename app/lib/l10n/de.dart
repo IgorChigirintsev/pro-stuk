@@ -180,4 +180,6 @@ const Map<String, String> de = {
   'accDelete': 'Konto löschen',
   'accDeleteWarn': 'Garage, Autos und alle verbleibenden Prüfungen werden endgültig gelöscht. Wiederherstellen ist nicht möglich, ungenutzte Prüfungen werden nicht erstattet.',
   'accDeleteYes': 'Löschen',
+  'updDownloaded': 'Update heruntergeladen',
+  'updInstall': 'Installieren',
 };

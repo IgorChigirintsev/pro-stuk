@@ -168,4 +168,6 @@ const Map<String, String> zh = {
   'accDelete': '删除账号',
   'accDeleteWarn': '车库、车辆以及剩余的全部检测次数将被永久删除，无法恢复，未使用的次数也不退款。',
   'accDeleteYes': '删除',
+  'updDownloaded': '更新已下载',
+  'updInstall': '安装',
 };

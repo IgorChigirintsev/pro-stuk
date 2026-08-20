@@ -180,4 +180,6 @@ const Map<String, String> fr = {
   'accDelete': 'Supprimer le compte',
   'accDeleteWarn': 'Le garage, les voitures et toutes les analyses restantes seront supprimés définitivement. Rien ne peut être restauré et les analyses inutilisées ne sont pas remboursées.',
   'accDeleteYes': 'Supprimer',
+  'updDownloaded': 'Mise à jour téléchargée',
+  'updInstall': 'Installer',
 };

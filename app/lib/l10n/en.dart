@@ -179,4 +179,6 @@ const Map<String, String> en = {
   'accDelete': 'Delete account',
   'accDeleteWarn': 'Your garage, cars and all remaining checks will be deleted for good. They cannot be restored, and unused checks are not refunded.',
   'accDeleteYes': 'Delete',
+  'updDownloaded': 'Update downloaded',
+  'updInstall': 'Install',
 };

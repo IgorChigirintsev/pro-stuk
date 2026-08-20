@@ -12,10 +12,31 @@ import '../widgets/car_card.dart';
 import 'how_it_works.dart';
 import 'quiz.dart';
 import 'record.dart';
+import 'package:package_info_plus/package_info_plus.dart';
+import 'package:url_launcher/url_launcher.dart';
+
 import 'report.dart';
 
-class HomeScreen extends StatelessWidget {
+class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
+
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  @override
+  void initState() {
+    super.initState();
+    // Обновление проверяем с домашнего экрана, а не при запуске: на старте
+    // человек ждёт приложение, а не диалог. Проверка молчалива, если
+    // обновляться не на что.
+    WidgetsBinding.instance.addPostFrameCallback((_) async {
+      final updates = AppScope.of(context).updates;
+      final info = await PackageInfo.fromPlatform();
+      await updates.checkOnStart(info.version);
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -39,6 +60,30 @@ class HomeScreen extends StatelessWidget {
         child: ListView(
           padding: const EdgeInsets.all(20),
           children: [
+            // Обновление: скачанное через Play ставится по кнопке, для
+            // копии с сайта показывается ссылка на APK.
+            ListenableBuilder(
+              listenable: state.updates,
+              builder: (context, _) {
+                final u = state.updates;
+                if (u.downloaded) {
+                  return _UpdateBar(
+                    text: S.updDownloaded,
+                    action: S.updInstall,
+                    onTap: u.installDownloaded,
+                  );
+                }
+                if (u.apkUrl != null) {
+                  return _UpdateBar(
+                    text: '${S.setUpdateAvailable}: ${u.newVersion}',
+                    action: S.setDownload,
+                    onTap: () => launchUrl(Uri.parse(u.apkUrl!),
+                        mode: LaunchMode.externalApplication),
+                  );
+                }
+                return const SizedBox.shrink();
+              },
+            ),
             if (state.car != null) ...[
               CarCard(
                 onOpenProfile: () => Navigator.push(context,
@@ -141,6 +186,33 @@ class _HistoryCard extends StatelessWidget {
               ],
             ),
           ),
+        ),
+      ),
+    );
+  }
+}
+
+/// Полоса обновления над содержимым главного экрана.
+class _UpdateBar extends StatelessWidget {
+  const _UpdateBar({required this.text, required this.action, required this.onTap});
+
+  final String text;
+  final String action;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 16),
+      child: SurfaceCard(
+        child: Row(
+          children: [
+            Expanded(
+              child: Text(text, style: Theme.of(context).textTheme.bodyMedium),
+            ),
+            const SizedBox(width: 12),
+            FilledButton(onPressed: onTap, child: Text(action)),
+          ],
         ),
       ),
     );

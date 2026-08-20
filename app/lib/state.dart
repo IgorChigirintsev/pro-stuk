@@ -9,6 +9,7 @@ import 'package:uuid/uuid.dart';
 import 'data/account.dart' show Slot;
 import 'data/account_service.dart';
 import 'data/store_service.dart';
+import 'data/update_service.dart';
 import 'data/service.dart';
 import 'models.dart';
 
@@ -21,6 +22,9 @@ class AppState extends ChangeNotifier {
 
   /// Магазин: список товаров с ценами и проведение оплаты.
   late final StoreService store;
+
+  /// Обновление приложения: через Play, а если поставлено с сайта — ссылкой.
+  late final UpdateService updates;
 
   /// Гараж: несколько машин, одна активная. `car` — активная, чтобы
   /// весь остальной код (анкета, отчёт, история) не менялся.
