@@ -25,7 +25,6 @@ const Map<String, String> ko = {
   'fullReport': '소리 리포트',
   'quizTitle': '설문',
   'verdictTitle': '예비 판단',
-  'verdictLikely': '유력한 원인',
   'verdictAlt': '비슷한 원인: ',
   'verdictWhat': '무슨 뜻인가',
   'verdictAdvice': '무엇을 해야 하나',
@@ -161,8 +160,8 @@ const Map<String, String> ko = {
   'buyForCar': '이 차량의 검사',
   'buyChecksLeft': '남은 검사 횟수: {n}',
   'buySlots': '차고 자리',
-  'buyBuy': '구매',
   'buyDone': '완료되었습니다. 검사 횟수가 추가되었습니다.',
   'buyRestore': '구매 복원',
   'buyNoProducts': '지금은 상품을 불러올 수 없습니다.',
+  'garageFull': '차고가 가득 찼습니다. 차량을 추가하려면 자리를 구매하세요.',
 };

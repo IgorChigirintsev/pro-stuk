@@ -27,7 +27,6 @@ const Map<String, String> tr = {
   'fullReport': 'Ses raporu',
   'quizTitle': 'Anket',
   'verdictTitle': 'Ön değerlendirme',
-  'verdictLikely': 'Olası neden',
   'verdictAlt': 'Benzer nedenler: ',
   'verdictWhat': 'Bu ne demek',
   'verdictAdvice': 'Ne yapmalı',
@@ -173,8 +172,8 @@ const Map<String, String> tr = {
   'buyForCar': 'Şu araç için kontroller',
   'buyChecksLeft': 'Kalan kontrol: {n}',
   'buySlots': 'Garaj yerleri',
-  'buyBuy': 'Satın al',
   'buyDone': 'Tamam, kontroller hesabınıza eklendi.',
   'buyRestore': 'Satın alımları geri yükle',
   'buyNoProducts': 'Ürünler şu anda kullanılamıyor.',
+  'garageFull': 'Garaj dolu. Yeni araç eklemek için yer satın alın.',
 };

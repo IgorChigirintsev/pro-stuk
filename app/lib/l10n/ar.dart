@@ -25,7 +25,6 @@ const Map<String, String> ar = {
   'fullReport': 'تقرير الصوت',
   'quizTitle': 'الاستبيان',
   'verdictTitle': 'حكم أولي',
-  'verdictLikely': 'السبب المرجّح',
   'verdictAlt': 'أسباب مشابهة: ',
   'verdictWhat': 'ماذا يعني ذلك',
   'verdictAdvice': 'ماذا تفعل',
@@ -162,8 +161,8 @@ const Map<String, String> ar = {
   'buyForCar': 'فحوص لهذه السيارة',
   'buyChecksLeft': 'الفحوص المتبقية: {n}',
   'buySlots': 'مواقف المرآب',
-  'buyBuy': 'شراء',
   'buyDone': 'تم، أُضيفت الفحوص إلى رصيدك.',
   'buyRestore': 'استعادة المشتريات',
   'buyNoProducts': 'المنتجات غير متاحة حاليًا.',
+  'garageFull': 'المرآب ممتلئ. اشترِ موقفًا لإضافة سيارة أخرى.',
 };

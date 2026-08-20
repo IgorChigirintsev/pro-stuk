@@ -3,6 +3,8 @@ import 'dart:async';
 import 'package:flutter/foundation.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 
+import '../strings.dart';
+import 'account_api.dart';
 import 'account_service.dart';
 
 /// Товары. Идентификаторы совпадают с заведёнными в Google Play и App Store
@@ -117,10 +119,12 @@ class StoreService extends ChangeNotifier {
       // потерять её, если сервер в этот момент недоступен.
       if (p.pendingCompletePurchase) await _iap.completePurchase(p);
       error = null;
-    } catch (e) {
+    } on AccountException catch (e) {
       // Покупку не завершаем: магазин принесёт её снова при следующем запуске,
       // и начисление доедет. Деньги при этом уже списаны, терять их нельзя.
-      error = e.toString();
+      error = e.message;
+    } catch (_) {
+      error = S.anErrServer;
     }
     notifyListeners();
   }

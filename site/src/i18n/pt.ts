@@ -178,8 +178,7 @@ export const pt: Dict = {
   privacy: {
     title: 'Política de privacidade | Pro-Stuk',
     description:
-      'O que acontece com os seus dados no aplicativo Pro-Stuk: o áudio é processado no servidor ' +
-      'e não fica guardado após a análise, não há contas nem ferramentas de análise.',
+      'O que acontece com seus dados no aplicativo Pro-Stuk: o áudio é processado no servidor e não fica guardado, a entrada é pelo Google ou pela Apple e não há analytics.',
     h1: 'Política de privacidade',
     updatedLabel: 'Atualizado',
     intro:
@@ -198,8 +197,12 @@ export const pt: Dict = {
         text: '(marca, modelo, ano, quilometragem) e suas respostas vão junto com a gravação — é com base neles que as causas são ponderadas.',
       },
       {
-        strong: 'Não há contas.',
-        text: 'Não é preciso se cadastrar. O aplicativo cria sozinho um número de dispositivo aleatório, sem ligação com telefone, e-mail ou conta do Google; no servidor ele serve apenas para contar quantas verificações foram feitas no dia.',
+        strong: 'Entrada pelo Google ou pela Apple.',
+        text: 'O aplicativo não cria contas próprias e nunca pede senha. Da loja ele recebe apenas o seu número de usuário permanente; é a ele que ficam ligados a garagem e o saldo de verificações. Nome, foto e e-mail não são pedidos nem guardados.',
+      },
+      {
+        strong: 'As compras passam pela loja.',
+        text: 'O pagamento é cobrado pela Google Play ou pela App Store; os dados do seu cartão nunca chegam até nós. Nosso servidor recebe só a confirmação da loja e credita as verificações; o comprovante fica guardado para não creditar duas vezes.',
       },
       {
         strong: 'O endereço IP',
@@ -219,7 +222,7 @@ export const pt: Dict = {
       },
       {
         strong: 'Como apagar seus dados.',
-        text: 'Basta desinstalar o aplicativo: o histórico e o número do dispositivo vão embora com ele. O contador do servidor zera sozinho todo dia. Se precisar de confirmação, escreva para a gente.',
+        text: 'Desinstalar o aplicativo já apaga o histórico de laudos no telefone. Para excluir a conta junto com a garagem e o saldo, escreva para a gente — apagamos por completo, sem devolução pelas verificações não usadas.',
       },
       {
         strong: 'O aplicativo não é para crianças.',

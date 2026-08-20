@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../api.dart' show ApiException;
 import '../data/units.dart';
 import '../l10n/locale_scope.dart';
 import '../models.dart';
@@ -73,8 +74,9 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
       setState(() => _error = S.carFillAll);
       return;
     }
-    await AppScope.of(context)
-        .saveCar(Car(
+    setState(() => _error = null);
+    try {
+      await AppScope.of(context).saveCar(Car(
           // Редактируем существующую — сохраняем её идентификатор,
           // иначе в гараже появился бы дубль вместо изменения.
           id: widget.addNew ? '' : (AppScope.of(context).car?.id ?? ''),
@@ -82,8 +84,19 @@ class _OnboardingCarScreenState extends State<OnboardingCarScreen> {
           model: model,
           year: _year,
           mileageKm: mileage,
-          generation: _generation,
-        ));
+        generation: _generation,
+      ));
+    } on GarageFull {
+      // Мест нет — говорим прямо и не делаем вид, что машина сохранилась.
+      if (mounted) setState(() => _error = S.garageFull);
+      return;
+    } on ApiException catch (e) {
+      if (mounted) setState(() => _error = e.message);
+      return;
+    } catch (_) {
+      if (mounted) setState(() => _error = S.anErrServer);
+      return;
+    }
     if (!mounted) return;
     if (widget.firstRun) {
       Navigator.of(context).pushReplacement(

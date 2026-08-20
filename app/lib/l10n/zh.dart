@@ -25,7 +25,6 @@ const Map<String, String> zh = {
   'fullReport': '声音报告',
   'quizTitle': '问卷',
   'verdictTitle': '初步判断',
-  'verdictLikely': '可能的原因',
   'verdictAlt': '相似的原因：',
   'verdictWhat': '这意味着什么',
   'verdictAdvice': '该怎么做',
@@ -161,8 +160,8 @@ const Map<String, String> zh = {
   'buyForCar': '为这辆车购买检测',
   'buyChecksLeft': '剩余检测次数：{n}',
   'buySlots': '车库车位',
-  'buyBuy': '购买',
   'buyDone': '完成，检测次数已到账。',
   'buyRestore': '恢复购买',
   'buyNoProducts': '商品暂时不可用。',
+  'garageFull': '车库已满。购买车位后即可再添加一辆车。',
 };

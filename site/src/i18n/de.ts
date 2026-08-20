@@ -181,8 +181,7 @@ export const de: Dict = {
   privacy: {
     title: 'Datenschutzerklärung | Pro-Stuk',
     description:
-      'Was mit Ihren Daten in der Stuk-App geschieht: Audio wird auf dem Server verarbeitet ' +
-      'und nach der Analyse nicht gespeichert, es gibt keine Konten und keine Analysedienste.',
+      'Was mit Ihren Daten in der App Pro-Stuk geschieht: Audio wird auf dem Server ausgewertet und danach nicht gespeichert, Anmeldung über Google oder Apple, keine Analytik.',
     h1: 'Datenschutzerklärung',
     updatedLabel: 'Aktualisiert',
     intro:
@@ -201,8 +200,12 @@ export const de: Dict = {
         text: '(Marke, Modell, Baujahr, Laufleistung) und Ihre Antworten gehen zusammen mit der Aufnahme mit — daran werden die Ursachen abgewogen.',
       },
       {
-        strong: 'Konten gibt es nicht.',
-        text: 'Eine Anmeldung ist nicht nötig. Die App erzeugt selbst eine zufällige Gerätenummer, die weder mit Telefonnummer noch mit E-Mail oder Google-Konto verknüpft ist; auf dem Server wird damit nur gezählt, wie viele Prüfungen an diesem Tag liefen.',
+        strong: 'Anmeldung über Google oder Apple.',
+        text: 'Die App legt keine eigenen Konten an und fragt kein Passwort ab. Vom Store erhält sie nur Ihre dauerhafte Nutzernummer; an ihr hängen Garage und Prüfungsguthaben. Name, Foto und E-Mail werden weder abgefragt noch gespeichert.',
+      },
+      {
+        strong: 'Käufe wickelt der Store ab.',
+        text: 'Die Zahlung nimmt Google Play oder der App Store entgegen, Kartendaten erreichen uns nie. Unser Server bekommt nur die Bestätigung des Stores und schreibt die Prüfungen gut; der Beleg wird aufbewahrt, damit nichts doppelt gutgeschrieben wird.',
       },
       {
         strong: 'Die IP-Adresse',
@@ -222,7 +225,7 @@ export const de: Dict = {
       },
       {
         strong: 'So löschen Sie Ihre Daten.',
-        text: 'Es genügt, die App zu deinstallieren: Verlauf und Gerätenummer verschwinden mit ihr. Der Zähler auf dem Server wird täglich von selbst zurückgesetzt. Brauchen Sie eine Bestätigung, schreiben Sie uns.',
+        text: 'Die App zu deinstallieren genügt, um den Berichtsverlauf auf dem Telefon zu löschen. Um das Konto samt Garage und Guthaben zu löschen, schreiben Sie uns — wir entfernen es vollständig, ohne Erstattung ungenutzter Prüfungen.',
       },
       {
         strong: 'Die App ist nicht für Kinder.',

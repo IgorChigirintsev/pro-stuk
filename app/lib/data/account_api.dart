@@ -169,5 +169,9 @@ String? accountErrorText(String? code) => switch (code) {
       'no_checks' => S.accNoChecks,
       'not_purchased' => S.accNotPurchased,
       'store_off' || 'verify_later' => S.accVerifyLater,
+      // Вход не подтвердился: причину не разбираем, человеку она бесполезна.
+      'bad_token' || 'bad_provider' => S.authFailed,
+      // Внутренние сбои: делать человеку нечего, кроме как повторить.
+      'bad_request' || 'bad_product' || 'storage' => S.anErrServer,
       _ => null,
     };

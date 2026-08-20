@@ -25,7 +25,6 @@ const Map<String, String> ja = {
   'fullReport': '音のレポート',
   'quizTitle': 'アンケート',
   'verdictTitle': '暫定の見立て',
-  'verdictLikely': '考えられる原因',
   'verdictAlt': '似た原因：',
   'verdictWhat': 'これが意味すること',
   'verdictAdvice': 'どうすべきか',
@@ -161,8 +160,8 @@ const Map<String, String> ja = {
   'buyForCar': 'このクルマの診断',
   'buyChecksLeft': '残りの診断回数：{n}',
   'buySlots': 'ガレージの枠',
-  'buyBuy': '購入する',
   'buyDone': '完了しました。診断回数が追加されています。',
   'buyRestore': '購入を復元する',
   'buyNoProducts': 'いまは商品を表示できません。',
+  'garageFull': 'ガレージがいっぱいです。クルマを追加するには枠を購入してください。',
 };

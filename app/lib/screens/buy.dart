@@ -25,6 +25,23 @@ class BuyScreen extends StatefulWidget {
 }
 
 class _BuyScreenState extends State<BuyScreen> {
+  int? _checksBefore;
+
+  /// Проверки начисляет сервер, и приходят они не мгновенно после нажатия.
+  /// Поэтому «готово» показываем по факту роста баланса, а не по нажатию.
+  void _watchBalance(Slot? slot) {
+    if (slot == null) return;
+    final before = _checksBefore;
+    _checksBefore = slot.checks;
+    if (before != null && slot.checks > before) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (!mounted) return;
+        ScaffoldMessenger.of(context)
+            .showSnackBar(SnackBar(content: Text(S.buyDone)));
+      });
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     // Экран лежит в стеке Navigator и сам по себе не
@@ -37,6 +54,7 @@ class _BuyScreenState extends State<BuyScreen> {
       listenable: Listenable.merge([store, app.accounts]),
       builder: (context, _) {
         final slot = app.accounts.state?.slot(widget.car.slotId);
+        _watchBalance(slot);
         return Scaffold(
           appBar: AppBar(title: Text(S.buyTitle)),
           body: ListView(

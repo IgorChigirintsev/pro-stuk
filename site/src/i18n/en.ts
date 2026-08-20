@@ -177,8 +177,7 @@ export const en: Dict = {
   privacy: {
     title: 'Privacy policy | Pro-Stuk',
     description:
-      'What happens to your data in the Pro-Stuk app: audio is processed on the server and not ' +
-      'kept after the analysis, there are no accounts and no analytics.',
+      'What happens to your data in the Pro-Stuk app: audio is processed on the server and not kept after the analysis, sign-in is via Google or Apple, and there is no analytics.',
     h1: 'Privacy policy',
     updatedLabel: 'Updated',
     intro:
@@ -197,8 +196,12 @@ export const en: Dict = {
         text: '(make, model, year, mileage) and your answers go with the recording — they are what the causes are weighed against.',
       },
       {
-        strong: 'There are no accounts.',
-        text: 'No registration is needed. The app creates a random device number of its own, tied to no phone number, e-mail or Google account; on the server it only counts how many checks that device has made today.',
+        strong: 'Sign-in with Google or Apple.',
+        text: 'The app creates no accounts of its own and never asks for a password. From the store it receives only your permanent user number; your garage and check balance are stored against it. Your name, photo and e-mail are neither requested nor kept.',
+      },
+      {
+        strong: 'Purchases go through the store.',
+        text: 'Payment is taken by Google Play or the App Store; your card details never reach us. Our server receives only the store’s confirmation and adds the checks; the receipt is kept so nothing is credited twice.',
       },
       {
         strong: 'Your IP address',
@@ -218,7 +221,7 @@ export const en: Dict = {
       },
       {
         strong: 'How to delete your data.',
-        text: 'Uninstalling the app is enough: the history and the device number go with it. The counter on the server resets itself every day. Write to us if you need confirmation.',
+        text: 'Uninstalling the app is enough to erase the report history on your phone. To delete the account together with the garage and the balance, write to us — we will remove it in full, without refunding unused checks.',
       },
       {
         strong: 'The app is not meant for children.',

@@ -5,10 +5,12 @@ import 'package:flutter/material.dart';
 
 import '../l10n/locale_scope.dart';
 import '../api.dart';
+import '../data/account_api.dart';
 import '../models.dart';
 import '../state.dart';
 import '../strings.dart';
 import '../tree.dart';
+import 'buy.dart';
 import 'report.dart';
 
 /// Анализ: реальное ожидание ответа API (до 75 сек) со сменой статусов.
@@ -34,6 +36,8 @@ class _AnalyzeScreenState extends State<AnalyzeScreen> {
   Timer? _stageTimer;
   String? _error;
   bool _retryable = true;
+  /// Проверок на машине не осталось: вместо голой ошибки предлагаем купить.
+  bool _outOfChecks = false;
 
   @override
   void initState() {
@@ -97,6 +101,7 @@ class _AnalyzeScreenState extends State<AnalyzeScreen> {
       setState(() {
         _error = e.message;
         _retryable = e.retryable;
+        _outOfChecks = e is AccountException && e.needsChecks;
       });
     } catch (_) {
       _stageTimer?.cancel();
@@ -163,7 +168,18 @@ class _AnalyzeScreenState extends State<AnalyzeScreen> {
             textAlign: TextAlign.center,
             style: Theme.of(context).textTheme.titleMedium),
         const SizedBox(height: 24),
-        if (_retryable)
+        if (_outOfChecks)
+          FilledButton.icon(
+            onPressed: () {
+              final car = AppScope.of(context).car;
+              if (car == null) return;
+              Navigator.of(context).push(MaterialPageRoute(
+                  builder: (_) => BuyScreen(car: car)));
+            },
+            icon: const Icon(Icons.add_shopping_cart),
+            label: Text(S.buyTitle),
+          )
+        else if (_retryable)
           ElevatedButton(onPressed: _run, child: Text(S.anRetry)),
         const SizedBox(height: 12),
         OutlinedButton(

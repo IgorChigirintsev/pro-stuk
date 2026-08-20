@@ -24,7 +24,6 @@ const Map<String, String> ru = {
   'fullReport': 'Отчёт по звуку',
   'quizTitle': 'Опросник',
   'verdictTitle': 'Предварительный вердикт',
-  'verdictLikely': 'Вероятная причина',
   'verdictAlt': 'Похожие причины: ',
   'verdictWhat': 'Что это значит',
   'verdictAdvice': 'Что делать',
@@ -159,8 +158,8 @@ const Map<String, String> ru = {
   'buyForCar': 'Проверки для машины',
   'buyChecksLeft': 'Осталось проверок: {n}',
   'buySlots': 'Места в гараже',
-  'buyBuy': 'Купить',
   'buyDone': 'Готово, проверки начислены.',
   'buyRestore': 'Восстановить покупки',
   'buyNoProducts': 'Товары временно недоступны.',
+  'garageFull': 'В гараже нет свободных мест. Купите место, чтобы добавить машину.',
 };

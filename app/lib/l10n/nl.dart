@@ -27,7 +27,6 @@ const Map<String, String> nl = {
   'fullReport': 'Geluidsrapport',
   'quizTitle': 'Vragenlijst',
   'verdictTitle': 'Voorlopig oordeel',
-  'verdictLikely': 'Waarschijnlijke oorzaak',
   'verdictAlt': 'Vergelijkbare oorzaken: ',
   'verdictWhat': 'Wat dit betekent',
   'verdictAdvice': 'Wat te doen',
@@ -173,8 +172,8 @@ const Map<String, String> nl = {
   'buyForCar': 'Controles voor',
   'buyChecksLeft': 'Controles over: {n}',
   'buySlots': 'Plekken in de garage',
-  'buyBuy': 'Kopen',
   'buyDone': 'Klaar, de controles zijn bijgeschreven.',
   'buyRestore': 'Aankopen herstellen',
   'buyNoProducts': 'De producten zijn nu niet beschikbaar.',
+  'garageFull': 'De garage is vol. Koop een plek om nog een auto toe te voegen.',
 };

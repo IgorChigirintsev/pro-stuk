@@ -180,8 +180,7 @@ export const nl: Dict = {
   privacy: {
     title: 'Privacyverklaring | Pro-Stuk',
     description:
-      'Wat er met uw gegevens gebeurt in de app Pro-Stuk: audio wordt op de server verwerkt en ' +
-      'na de analyse niet bewaard, er zijn geen accounts en geen statistieken.',
+      'Wat er met uw gegevens gebeurt in de app Pro-Stuk: audio wordt op de server verwerkt en niet bewaard, aanmelden gaat via Google of Apple, en er is geen analytics.',
     h1: 'Privacyverklaring',
     updatedLabel: 'Bijgewerkt',
     intro:
@@ -200,8 +199,12 @@ export const nl: Dict = {
         text: '(merk, model, bouwjaar, kilometerstand) en uw antwoorden gaan met de opname mee — daarop worden de oorzaken afgewogen.',
       },
       {
-        strong: 'Er zijn geen accounts.',
-        text: 'Registreren hoeft niet. De app maakt zelf een willekeurig apparaatnummer aan, los van telefoonnummer, e-mail of Google-account; op de server telt het alleen hoeveel controles er die dag zijn gedaan.',
+        strong: 'Aanmelden met Google of Apple.',
+        text: 'De app maakt geen eigen accounts aan en vraagt nooit om een wachtwoord. Van de store krijgt ze alleen uw vaste gebruikersnummer; daaraan hangen uw garage en uw controletegoed. Naam, foto en e-mail worden niet gevraagd en niet bewaard.',
+      },
+      {
+        strong: 'Aankopen lopen via de store.',
+        text: 'De betaling wordt geïnd door Google Play of de App Store; uw kaartgegevens bereiken ons nooit. Onze server krijgt alleen de bevestiging van de store en schrijft de controles bij; de bon blijft bewaard zodat niets dubbel wordt bijgeschreven.',
       },
       {
         strong: 'Het IP-adres',
@@ -221,7 +224,7 @@ export const nl: Dict = {
       },
       {
         strong: 'Zo wist u uw gegevens.',
-        text: 'De app verwijderen is genoeg: geschiedenis en apparaatnummer gaan mee. De teller op de server wordt elke dag vanzelf op nul gezet. Hebt u een bevestiging nodig, schrijf ons dan.',
+        text: 'De app verwijderen is genoeg om de rapportgeschiedenis op het toestel te wissen. Wilt u het account met garage en tegoed laten verwijderen, schrijf ons dan — we halen alles weg, zonder terugbetaling van ongebruikte controles.',
       },
       {
         strong: 'De app is niet voor kinderen.',

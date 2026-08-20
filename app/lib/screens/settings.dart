@@ -7,6 +7,7 @@ import '../site_links.dart';
 import '../api.dart';
 import '../l10n/device_locale.dart';
 import '../l10n/locale_service.dart';
+import '../state.dart';
 import '../strings.dart';
 import '../widgets.dart';
 
@@ -96,6 +97,23 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ],
               ),
             ),
+            SectionTitle(S.authTitle),
+            SurfaceCard(
+              child: Row(
+                children: [
+                  Expanded(
+                    child: Text(S.authSubtitle,
+                        style: Theme.of(context).textTheme.bodySmall),
+                  ),
+                  const SizedBox(width: 12),
+                  TextButton(
+                    onPressed: () => AppScope.of(context).accounts.signOut(),
+                    child: Text(S.authSignOut),
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 20),
             SectionTitle(S.setVersion),
             SurfaceCard(
               child: Column(

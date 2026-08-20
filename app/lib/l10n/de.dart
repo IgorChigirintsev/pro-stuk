@@ -27,7 +27,6 @@ const Map<String, String> de = {
   'fullReport': 'Geräuschbericht',
   'quizTitle': 'Fragebogen',
   'verdictTitle': 'Vorläufiges Urteil',
-  'verdictLikely': 'Wahrscheinliche Ursache',
   'verdictAlt': 'Ähnliche Ursachen: ',
   'verdictWhat': 'Was das bedeutet',
   'verdictAdvice': 'Was zu tun ist',
@@ -173,8 +172,8 @@ const Map<String, String> de = {
   'buyForCar': 'Prüfungen für',
   'buyChecksLeft': 'Verbleibende Prüfungen: {n}',
   'buySlots': 'Stellplätze',
-  'buyBuy': 'Kaufen',
   'buyDone': 'Fertig, die Prüfungen sind gutgeschrieben.',
   'buyRestore': 'Käufe wiederherstellen',
   'buyNoProducts': 'Die Angebote sind gerade nicht verfügbar.',
+  'garageFull': 'Die Garage ist voll. Kaufen Sie einen Stellplatz, um ein Auto hinzuzufügen.',
 };

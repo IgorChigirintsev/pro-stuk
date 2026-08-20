@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../api.dart' show ApiException;
 import '../data/account.dart' show Slot;
 import '../l10n/cars_i18n.dart';
 import '../l10n/dates.dart';
@@ -132,7 +133,7 @@ class _GarageScreenState extends State<GarageScreen> {
                     onBuy: () => Navigator.push(context,
                         MaterialPageRoute(builder: (_) => BuyScreen(car: c))),
                     onDelete: st.cars.length > 1
-                        ? () => st.removeCar(c.id)
+                        ? () => _guard(context, () => st.removeCar(c.id))
                         : null,
                   ),
                 const SizedBox(height: 8),
@@ -162,7 +163,9 @@ class _GarageScreenState extends State<GarageScreen> {
                   FilledButton(
                     onPressed: () {
                       final v = int.tryParse(_mileageCtrl.text.trim());
-                      if (v != null) st.setMileage(Units.store(v));
+                      if (v != null) {
+                        _guard(context, () => st.setMileage(Units.store(v)));
+                      }
                     },
                     child: Text(S.mileageUpdate),
                   ),
@@ -438,5 +441,18 @@ class _ServiceTile extends StatelessWidget {
         ],
       ),
     );
+  }
+}
+
+/// Действия с гаражом идут через сервер и могут не пройти: машина заперта,
+/// сети нет. Показываем причину, а не падаем молча.
+Future<void> _guard(BuildContext context, Future<void> Function() action) async {
+  final messenger = ScaffoldMessenger.of(context);
+  try {
+    await action();
+  } on ApiException catch (e) {
+    messenger.showSnackBar(SnackBar(content: Text(e.message)));
+  } catch (_) {
+    messenger.showSnackBar(SnackBar(content: Text(S.anErrServer)));
   }
 }

@@ -182,8 +182,7 @@ export const it: Dict = {
   privacy: {
     title: 'Informativa sulla privacy | Pro-Stuk',
     description:
-      'Che cosa succede ai tuoi dati nell’app Pro-Stuk: l’audio viene elaborato sul server e non ' +
-      'conservato dopo l’analisi, non ci sono account né strumenti di analisi.',
+      'Che cosa succede ai tuoi dati nell’app Pro-Stuk: l’audio è elaborato sul server e non conservato, l’accesso avviene con Google o Apple, nessuna analitica.',
     h1: 'Informativa sulla privacy',
     updatedLabel: 'Aggiornato',
     intro:
@@ -202,8 +201,12 @@ export const it: Dict = {
         text: '(marca, modello, anno, chilometraggio) e le tue risposte partono con la registrazione: è su questi che vengono pesate le cause.',
       },
       {
-        strong: 'Non ci sono account.',
-        text: 'Non serve registrarsi. L’app genera da sola un numero di dispositivo casuale, slegato da telefono, e-mail e account Google; sul server serve solo a contare quante verifiche sono state fatte oggi.',
+        strong: 'Accesso con Google o Apple.',
+        text: 'L’app non crea account propri e non chiede alcuna password. Dallo store riceve solo il tuo numero utente permanente: a esso sono legati il garage e il saldo dei controlli. Nome, foto ed e-mail non vengono richiesti né conservati.',
+      },
+      {
+        strong: 'Gli acquisti li gestisce lo store.',
+        text: 'Il pagamento lo incassa Google Play o l’App Store; i dati della carta non arrivano mai a noi. Il nostro server riceve solo la conferma dello store e accredita i controlli; la ricevuta viene conservata per non accreditare due volte.',
       },
       {
         strong: 'L’indirizzo IP',
@@ -223,7 +226,7 @@ export const it: Dict = {
       },
       {
         strong: 'Come cancellare i dati.',
-        text: 'Basta disinstallare l’app: con essa spariscono lo storico e il numero di dispositivo. Il contatore sul server si azzera da sé ogni giorno. Se ti serve una conferma, scrivici.',
+        text: 'Disinstallare l’app basta per cancellare lo storico dei referti sul telefono. Per eliminare l’account insieme al garage e al saldo, scrivici: lo rimuoveremo del tutto, senza rimborso dei controlli non usati.',
       },
       {
         strong: 'L’app non è pensata per i bambini.',

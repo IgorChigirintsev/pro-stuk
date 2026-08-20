@@ -177,8 +177,7 @@ export const pl: Dict = {
   privacy: {
     title: 'Polityka prywatności | Pro-Stuk',
     description:
-      'Co dzieje się z danymi w aplikacji Pro-Stuk: dźwięk jest przetwarzany na serwerze i nie ' +
-      'jest przechowywany po analizie, nie ma kont ani statystyk.',
+      'Co dzieje się z danymi w aplikacji Pro-Stuk: dźwięk jest analizowany na serwerze i nie jest przechowywany, logowanie przez Google lub Apple, brak analityki.',
     h1: 'Polityka prywatności',
     updatedLabel: 'Zaktualizowano',
     intro:
@@ -197,8 +196,12 @@ export const pl: Dict = {
         text: '(marka, model, rocznik, przebieg) i odpowiedzi z ankiety idą razem z nagraniem — na ich podstawie ważone są przyczyny.',
       },
       {
-        strong: 'Nie ma kont.',
-        text: 'Rejestracja nie jest potrzebna. Aplikacja sama tworzy losowy numer urządzenia, niepowiązany z telefonem, pocztą ani kontem Google; na serwerze służy tylko do liczenia sprawdzeń wykonanych danego dnia.',
+        strong: 'Logowanie przez Google lub Apple.',
+        text: 'Aplikacja nie zakłada własnych kont i nie pyta o hasło. Ze sklepu dostaje tylko stały numer użytkownika; przy nim trzymamy garaż i saldo sprawdzeń. Imienia, zdjęcia ani adresu e-mail nie pytamy i nie przechowujemy.',
+      },
+      {
+        strong: 'Zakupy prowadzi sklep.',
+        text: 'Płatność pobiera Google Play albo App Store; dane karty nigdy do nas nie trafiają. Nasz serwer dostaje wyłącznie potwierdzenie ze sklepu i dopisuje sprawdzenia; paragon zostaje, żeby nie dopisać dwa razy.',
       },
       {
         strong: 'Adres IP',
@@ -218,7 +221,7 @@ export const pl: Dict = {
       },
       {
         strong: 'Jak usunąć dane.',
-        text: 'Wystarczy odinstalować aplikację: historia i numer urządzenia znikną razem z nią. Licznik na serwerze zeruje się codziennie sam. Jeśli potrzebujesz potwierdzenia — napisz do nas.',
+        text: 'Odinstalowanie aplikacji wystarczy, by skasować historię raportów w telefonie. Aby usunąć konto razem z garażem i saldem, napisz do nas — skasujemy w całości, bez zwrotu za niewykorzystane sprawdzenia.',
       },
       {
         strong: 'Aplikacja nie jest dla dzieci.',

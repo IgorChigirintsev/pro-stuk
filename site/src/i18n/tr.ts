@@ -175,8 +175,7 @@ export const tr: Dict = {
   privacy: {
     title: 'Gizlilik politikası | Pro-Stuk',
     description:
-      'Pro-Stuk uygulamasında verilerinize ne oluyor: ses sunucuda işlenir ve analizden sonra ' +
-      'saklanmaz, hesap yoktur, ölçümleme yoktur.',
+      'Pro-Stuk uygulamasında verilerinize ne oluyor: ses sunucuda çözümlenir ve sonrasında saklanmaz, giriş Google ya da Apple ile yapılır, analitik yoktur.',
     h1: 'Gizlilik politikası',
     updatedLabel: 'Güncellendi',
     intro:
@@ -195,8 +194,12 @@ export const tr: Dict = {
         text: '(marka, model, yıl, kilometre) ve anket yanıtlarınız kayıtla birlikte gider; nedenler bunlara göre tartılır.',
       },
       {
-        strong: 'Hesap yok.',
-        text: 'Kayıt olmak gerekmez. Uygulama kendisi rastgele bir cihaz numarası üretir; telefonunuzla, e-postanızla ya da Google hesabınızla bağlantısı yoktur. Sunucuda yalnızca o gün kaç kontrol yapıldığını saymaya yarar.',
+        strong: 'Google veya Apple ile giriş.',
+        text: 'Uygulama kendi hesabını oluşturmaz ve parola sormaz. Mağazadan yalnızca kalıcı kullanıcı numaranızı alır; garajınız ve kontrol bakiyeniz ona bağlıdır. Ad, fotoğraf ve e-posta ne istenir ne saklanır.',
+      },
+      {
+        strong: 'Satın almaları mağaza yürütür.',
+        text: 'Ödemeyi Google Play ya da App Store tahsil eder; kart bilgileriniz bize hiç ulaşmaz. Sunucumuz mağazadan yalnızca onayı alır ve kontrolleri ekler; fiş, iki kez eklenmesin diye saklanır.',
       },
       {
         strong: 'IP adresiniz',
@@ -216,7 +219,7 @@ export const tr: Dict = {
       },
       {
         strong: 'Verilerinizi nasıl silersiniz.',
-        text: 'Uygulamayı kaldırmanız yeter: geçmiş ve cihaz numarası onunla birlikte gider. Sunucudaki sayaç her gün kendiliğinden sıfırlanır. Onay gerekirse bize yazın.',
+        text: 'Uygulamayı kaldırmanız telefondaki rapor geçmişini silmeye yeter. Hesabı garaj ve bakiyeyle birlikte silmek için bize yazın — tamamını kaldırırız, kullanılmamış kontroller için geri ödeme yapılmaz.',
       },
       {
         strong: 'Uygulama çocuklar için değildir.',

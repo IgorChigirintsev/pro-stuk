@@ -181,8 +181,7 @@ export const es: Dict = {
   privacy: {
     title: 'Política de privacidad | Pro-Stuk',
     description:
-      'Qué pasa con tus datos en la aplicación Pro-Stuk: el audio se procesa en el servidor y no ' +
-      'se guarda tras el análisis, no hay cuentas ni analíticas.',
+      'Qué pasa con tus datos en la aplicación Pro-Stuk: el audio se procesa en el servidor y no se conserva, el acceso es con Google o Apple y no hay analítica.',
     h1: 'Política de privacidad',
     updatedLabel: 'Actualizado',
     intro:
@@ -201,8 +200,12 @@ export const es: Dict = {
         text: '(marca, modelo, año, kilometraje) y tus respuestas viajan junto con la grabación: con ellos se ponderan las causas.',
       },
       {
-        strong: 'No hay cuentas.',
-        text: 'No hace falta registrarse. La aplicación crea un número de dispositivo aleatorio, sin vínculo con tu teléfono, tu correo ni tu cuenta de Google; en el servidor solo sirve para contar cuántas comprobaciones se han hecho hoy.',
+        strong: 'Acceso con Google o Apple.',
+        text: 'La aplicación no crea cuentas propias ni pide contraseña. De la tienda recibe solo tu número de usuario permanente; a él se asocian tu garaje y tu saldo de comprobaciones. Nombre, foto y correo no se piden ni se guardan.',
+      },
+      {
+        strong: 'Las compras las gestiona la tienda.',
+        text: 'El pago lo cobra Google Play o la App Store; los datos de tu tarjeta nunca llegan a nosotros. Nuestro servidor recibe solo la confirmación de la tienda y acredita las comprobaciones; el recibo se guarda para no acreditar dos veces.',
       },
       {
         strong: 'La dirección IP',
@@ -222,7 +225,7 @@ export const es: Dict = {
       },
       {
         strong: 'Cómo borrar tus datos.',
-        text: 'Basta con desinstalar la aplicación: con ella desaparecen el historial y el número de dispositivo. El contador del servidor se pone a cero cada día por sí solo. Si necesitas una confirmación, escríbenos.',
+        text: 'Basta con desinstalar la aplicación para borrar el historial de informes del teléfono. Para eliminar la cuenta junto con el garaje y el saldo, escríbenos: la borraremos por completo, sin devolución por las comprobaciones no usadas.',
       },
       {
         strong: 'La aplicación no es para niños.',

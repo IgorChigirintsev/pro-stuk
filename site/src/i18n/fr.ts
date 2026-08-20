@@ -182,8 +182,7 @@ export const fr: Dict = {
   privacy: {
     title: 'Politique de confidentialité | Pro-Stuk',
     description:
-      'Ce que deviennent vos données dans l’application Pro-Stuk : l’audio est traité sur le ' +
-      'serveur et n’est pas conservé après l’analyse, il n’y a ni comptes ni mesure d’audience.',
+      'Ce que deviennent vos données dans l’application Pro-Stuk : l’audio est traité sur le serveur puis non conservé, la connexion se fait via Google ou Apple, aucune analytique.',
     h1: 'Politique de confidentialité',
     updatedLabel: 'Mise à jour',
     intro:
@@ -202,8 +201,12 @@ export const fr: Dict = {
         text: '(marque, modèle, année, kilométrage) et vos réponses partent avec l’enregistrement : c’est sur elles que les causes sont pesées.',
       },
       {
-        strong: 'Il n’y a pas de comptes.',
-        text: 'Aucune inscription n’est nécessaire. L’application crée elle-même un numéro d’appareil aléatoire, sans lien avec votre téléphone, votre e-mail ou votre compte Google ; sur le serveur, il ne sert qu’à compter les vérifications de la journée.',
+        strong: 'Connexion via Google ou Apple.',
+        text: 'L’application ne crée aucun compte propre et ne demande jamais de mot de passe. De la boutique elle ne reçoit que votre numéro d’utilisateur permanent ; c’est à lui que sont rattachés votre garage et vos analyses. Nom, photo et e-mail ne sont ni demandés ni conservés.',
+      },
+      {
+        strong: 'Les achats passent par la boutique.',
+        text: 'Le paiement est encaissé par Google Play ou l’App Store ; vos données bancaires ne nous parviennent jamais. Notre serveur ne reçoit que la confirmation de la boutique et crédite les analyses ; le reçu est conservé pour ne rien créditer deux fois.',
       },
       {
         strong: 'L’adresse IP',
@@ -223,7 +226,7 @@ export const fr: Dict = {
       },
       {
         strong: 'Comment supprimer vos données.',
-        text: 'Il suffit de désinstaller l’application : l’historique et le numéro d’appareil s’en vont avec elle. Le compteur du serveur se remet à zéro chaque jour. Écrivez-nous s’il vous faut une confirmation.',
+        text: 'Désinstaller l’application suffit à effacer l’historique des rapports sur le téléphone. Pour supprimer le compte avec le garage et le solde, écrivez-nous : nous le supprimerons entièrement, sans remboursement des analyses inutilisées.',
       },
       {
         strong: 'L’application n’est pas destinée aux enfants.',

@@ -27,7 +27,6 @@ class S {
   static String get fullReport => L.t('fullReport');
   static String get quizTitle => L.t('quizTitle');
   static String get verdictTitle => L.t('verdictTitle');
-  static String get verdictLikely => L.t('verdictLikely');
   static String get verdictAlt => L.t('verdictAlt');
   static String get verdictWhat => L.t('verdictWhat');
   static String get verdictAdvice => L.t('verdictAdvice');
@@ -179,8 +178,8 @@ class S {
   static String get buyForCar => L.t('buyForCar');
   static String get buyChecksLeft => L.t('buyChecksLeft');
   static String get buySlots => L.t('buySlots');
-  static String get buyBuy => L.t('buyBuy');
   static String get buyDone => L.t('buyDone');
   static String get buyRestore => L.t('buyRestore');
   static String get buyNoProducts => L.t('buyNoProducts');
+  static String get garageFull => L.t('garageFull');
 }
