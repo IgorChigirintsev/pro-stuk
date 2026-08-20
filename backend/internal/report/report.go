@@ -64,10 +64,12 @@ type Answer struct {
 
 // Meta — поле meta из multipart-запроса /report.
 type Meta struct {
-	DeviceID string   `json:"device_id"`
-	Car      Car      `json:"car"`
-	Answers  []Answer `json:"answers"`
-	LeafID   string   `json:"leaf_id"`
+	DeviceID string `json:"device_id"`
+	// Место гаража, с которого списывается проверка. Пусто у сборок без входа.
+	SlotID  string   `json:"slot_id,omitempty"`
+	Car     Car      `json:"car"`
+	Answers []Answer `json:"answers"`
+	LeafID  string   `json:"leaf_id"`
 	// Язык интерфейса пользователя: на нём модель пишет отчёт.
 	Lang string `json:"lang"`
 }

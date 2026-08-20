@@ -234,3 +234,12 @@ func writeAccountError(w http.ResponseWriter, err error) {
 		writeCodedError(w, http.StatusInternalServerError, "storage", "Не удалось сохранить изменения.")
 	}
 }
+
+// sessionForReport — сессия для разбора, если она есть.
+//
+// Отдельный метод, потому что отсутствие сессии здесь не ошибка: старые
+// сборки приходят без неё и должны продолжать работать по дневному лимиту.
+func (s *Server) sessionForReport(r *http.Request) (account.Account, bool) {
+	_, acc, ok := s.session(r)
+	return acc, ok
+}

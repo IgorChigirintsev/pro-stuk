@@ -159,18 +159,48 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Дневной лимит: попытка списывается до анализа и возвращается,
-	// если отчёт не получился по вине сервера.
-	if !s.store.Allow(meta.DeviceID, s.cfg.DailyFreeLimit) {
+	// Плата за разбор. Списывается до анализа и возвращается, если отчёт
+	// не получился по вине сервера.
+	//
+	// Два пути переходно живут рядом. Со входом — проверка снимается с места
+	// гаража: у каждой машины свой баланс. Без входа — старый дневной лимит
+	// по устройству: так работают уже установленные сборки, и обрубать их
+	// выкладкой сервера нельзя. Второй путь уйдёт, когда обновятся все.
+	acc, hasSession := s.sessionForReport(r)
+	if hasSession {
+		if meta.SlotID == "" {
+			writeCodedError(w, http.StatusUnprocessableEntity, "no_slot", "Не указано, какую машину разбираем.")
+			return
+		}
+		if _, err := s.accounts.Update(acc.ID, func(a *account.Account) error {
+			return a.Spend(meta.SlotID)
+		}); err != nil {
+			writeAccountError(w, err)
+			return
+		}
+	} else if !s.store.Allow(meta.DeviceID, s.cfg.DailyFreeLimit) {
 		writeCodedError(w, http.StatusTooManyRequests, "daily_limit", "Лимит на сегодня исчерпан, возвращайтесь завтра.")
 		return
+	}
+
+	// Возврат платы — один на оба пути, чтобы сорвавшийся разбор не стоил
+	// человеку проверки ни в новой схеме, ни в старой.
+	refund := func() {
+		if hasSession {
+			s.accounts.Update(acc.ID, func(a *account.Account) error {
+				a.Refund(meta.SlotID)
+				return nil
+			})
+			return
+		}
+		s.store.Refund(meta.DeviceID)
 	}
 
 	features := dsp.Analyze(samples)
 
 	rep, usage, err := s.analyzer.Analyze(ctx, meta, features, audio)
 	if err != nil {
-		s.store.Refund(meta.DeviceID)
+		refund()
 		var notCar *gemini.ErrAudioNotCar
 		if errors.As(err, &notCar) {
 			slog.Info("запись не про автомобиль", "device_id", meta.DeviceID, "note", notCar.Note)
