@@ -250,4 +250,26 @@ export const pt: Dict = {
       'O endereço tem um erro de digitação ou a página mudou de lugar. O barulho que trouxe você até aqui continua lá — comece pelo início ou abra os guias de sintomas.',
     home: 'Ir para o início',
   },
+  deleteAccount: {
+    title:
+      'Excluir a conta | Pro-Stuk',
+    h1:
+      'Excluir a conta',
+    description:
+      'Como excluir sua conta Pro-Stuk junto com a garagem e as verificações restantes: por um botão no aplicativo ou por e-mail, se ele já foi desinstalado.',
+    intro:
+      'A conta é excluída por inteiro: garagem, carros, histórico de compras e todas as verificações restantes. Nada pode ser recuperado e as não usadas não são reembolsadas.',
+    appT:
+      'Pelo aplicativo — o jeito mais rápido',
+    app:
+      'Abra «Configurações» e toque em «Excluir conta». O aplicativo pede confirmação e apaga o registro na hora; não há o que esperar.',
+    mailT:
+      'Por e-mail, se o aplicativo já foi desinstalado',
+    mail:
+      'Escreva para nós do endereço da sua conta Google ou Apple e diga com qual dos dois você entrava. Excluímos em até 30 dias e respondemos quando estiver feito.',
+    whatT:
+      'O que exatamente é excluído',
+    what:
+      'Da conta somem as vagas da garagem, os carros, o saldo de verificações e a lista de compras processadas. As gravações não são guardadas de forma alguma: são descartadas após a análise. O histórico de laudos fica no seu telefone e vai junto com o aplicativo.',
+  },
 };

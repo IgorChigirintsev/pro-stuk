@@ -249,4 +249,26 @@ export const pl: Dict = {
       'W adresie jest literówka albo strona została przeniesiona. Dźwięk, przez który tu trafiłeś, nie zniknął — zacznij od strony głównej lub otwórz poradniki objawów.',
     home: 'Na stronę główną',
   },
+  deleteAccount: {
+    title:
+      'Usunięcie konta | Pro-Stuk',
+    h1:
+      'Usunięcie konta',
+    description:
+      'Jak usunąć konto Pro-Stuk razem z garażem i pozostałymi sprawdzeniami: przyciskiem w aplikacji albo mailem, jeśli aplikacja jest już odinstalowana.',
+    intro:
+      'Konto usuwamy w całości: garaż, auta, historię zakupów i wszystkie pozostałe sprawdzenia. Niczego nie da się odzyskać, a za niewykorzystane nie ma zwrotu.',
+    appT:
+      'Z aplikacji — najszybciej',
+    app:
+      'Otwórz «Ustawienia» i naciśnij «Usuń konto». Aplikacja zapyta o potwierdzenie i skasuje wpis od razu; na nic nie trzeba czekać.',
+    mailT:
+      'Mailem, jeśli aplikacja jest już odinstalowana',
+    mail:
+      'Napisz do nas z adresu powiązanego z kontem Google lub Apple i podaj, którym z nich się logowałeś. Usuwamy w ciągu 30 dni i odpisujemy, gdy będzie gotowe.',
+    whatT:
+      'Co dokładnie znika',
+    what:
+      'Z konta znikają miejsca w garażu, auta, saldo sprawdzeń i lista przetworzonych zakupów. Nagrania i tak nie są przechowywane — są odrzucane po analizie. Historia raportów leży w telefonie i odchodzi razem z aplikacją.',
+  },
 };

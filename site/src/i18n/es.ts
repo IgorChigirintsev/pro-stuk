@@ -253,4 +253,26 @@ export const es: Dict = {
       'La dirección tiene una errata o la página se ha movido. El ruido que te trajo hasta aquí sigue ahí: empieza por el inicio o abre las guías de síntomas.',
     home: 'Ir al inicio',
   },
+  deleteAccount: {
+    title:
+      'Eliminar la cuenta | Pro-Stuk',
+    h1:
+      'Eliminar la cuenta',
+    description:
+      'Cómo eliminar tu cuenta de Pro-Stuk junto con el garaje y las comprobaciones restantes: con un botón en la aplicación o por correo si ya la desinstalaste.',
+    intro:
+      'La cuenta se elimina por completo: garaje, coches, historial de compras y todas las comprobaciones restantes. No se puede recuperar nada y las no usadas no se reembolsan.',
+    appT:
+      'Desde la aplicación, lo más rápido',
+    app:
+      'Abre «Ajustes» y pulsa «Eliminar la cuenta». La aplicación pide confirmación y borra el registro al momento; no hay que esperar respuesta.',
+    mailT:
+      'Por correo, si ya desinstalaste la aplicación',
+    mail:
+      'Escríbenos desde la dirección de tu cuenta de Google o Apple e indica con cuál de las dos entrabas. Eliminamos en un plazo de 30 días y respondemos cuando esté hecho.',
+    whatT:
+      'Qué se elimina exactamente',
+    what:
+      'De la cuenta desaparecen las plazas del garaje, los coches, el saldo de comprobaciones y la lista de compras procesadas. Las grabaciones no se guardan en absoluto: se descartan tras el análisis. El historial de informes está en tu teléfono y se va con la aplicación.',
+  },
 };

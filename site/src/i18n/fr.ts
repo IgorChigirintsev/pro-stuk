@@ -254,4 +254,26 @@ export const fr: Dict = {
       'L’adresse comporte une faute de frappe, ou la page a été déplacée. Le bruit qui vous a amené ici n’a pas disparu : repartez de l’accueil ou ouvrez les guides par symptôme.',
     home: 'Retour à l’accueil',
   },
+  deleteAccount: {
+    title:
+      'Supprimer le compte | Pro-Stuk',
+    h1:
+      'Supprimer le compte',
+    description:
+      'Comment supprimer votre compte Pro-Stuk avec le garage et les analyses restantes : par un bouton dans l’application, ou par e-mail si elle est déjà désinstallée.',
+    intro:
+      'Le compte est supprimé en entier : garage, voitures, historique d’achats et toutes les analyses restantes. Rien ne peut être restauré et les analyses inutilisées ne sont pas remboursées.',
+    appT:
+      'Depuis l’application, le plus rapide',
+    app:
+      'Ouvrez « Réglages » et touchez « Supprimer le compte ». L’application demande confirmation puis supprime l’enregistrement aussitôt ; il n’y a rien à attendre.',
+    mailT:
+      'Par e-mail, si l’application est déjà désinstallée',
+    mail:
+      'Écrivez-nous depuis l’adresse de votre compte Google ou Apple en précisant lequel des deux vous utilisiez. Nous supprimons sous 30 jours et répondons une fois fait.',
+    whatT:
+      'Ce qui est supprimé exactement',
+    what:
+      'Le compte perd ses places de garage, ses voitures, le solde d’analyses et la liste des achats traités. Les enregistrements ne sont pas conservés du tout : ils sont écartés après l’analyse. L’historique des rapports est sur votre téléphone et part avec l’application.',
+  },
 };

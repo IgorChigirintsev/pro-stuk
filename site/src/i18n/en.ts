@@ -249,4 +249,26 @@ export const en: Dict = {
       'The address has a typo in it, or the page has moved. The noise that brought you here is still there — start from the home page or open the symptom guides.',
     home: 'Go to the home page',
   },
+  deleteAccount: {
+    title:
+      'Delete your account | Pro-Stuk',
+    h1:
+      'Delete your account',
+    description:
+      'How to delete your Pro-Stuk account together with the garage and remaining checks: with a button in the app, or by e-mail if the app is already uninstalled.',
+    intro:
+      'The account is deleted in full: garage, cars, purchase history and every remaining check. Nothing can be restored, and unused checks are not refunded.',
+    appT:
+      'From the app — the fastest way',
+    app:
+      'Open Settings and tap Delete account. The app asks once to confirm and removes the record straight away; there is nothing to wait for.',
+    mailT:
+      'By e-mail, if the app is already uninstalled',
+    mail:
+      'Write to us from the address your Google or Apple account uses and tell us which of the two you signed in with. We delete within 30 days and reply once it is done.',
+    whatT:
+      'What exactly is deleted',
+    what:
+      'The account loses its garage slots, cars, check balance and the list of processed purchases. Recordings are not stored at all — they are discarded after the analysis. The report history lives on your phone and goes with the app.',
+  },
 };

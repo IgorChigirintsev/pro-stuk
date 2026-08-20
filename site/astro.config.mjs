@@ -101,6 +101,7 @@ const staticDates = {
   '/simptomy/': gitDate('src/pages/simptomy/index.astro'),
   '/kak-eto-rabotaet/': gitDate('src/pages/kak-eto-rabotaet.astro'),
   '/politika/': gitDate('src/pages/politika.astro'),
+  '/udalenie-akkaunta/': gitDate('src/pages/udalenie-akkaunta.astro'),
   ...Object.fromEntries(
     readdirSync('./src/data/symptoms')
       .filter((f) => f.endsWith('.ts'))
@@ -122,6 +123,7 @@ const staticDates = {
       [`/${l}/`, gitDate('src/pages/[lang]/index.astro')],
       [`/${l}/how-it-works/`, gitDate('src/pages/[lang]/how-it-works.astro')],
       [`/${l}/privacy/`, gitDate('src/pages/[lang]/privacy.astro')],
+      [`/${l}/delete-account/`, gitDate('src/pages/[lang]/delete-account.astro')],
       [`/${l}/symptoms/`, gitDate('src/pages/[lang]/symptoms/index.astro')],
     ])
   ),

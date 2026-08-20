@@ -254,4 +254,26 @@ export const it: Dict = {
       'L’indirizzo contiene un errore di battitura oppure la pagina è stata spostata. Il rumore che ti ha portato qui c’è ancora: riparti dalla home o apri le guide ai sintomi.',
     home: 'Vai alla home',
   },
+  deleteAccount: {
+    title:
+      'Eliminare l’account | Pro-Stuk',
+    h1:
+      'Eliminare l’account',
+    description:
+      'Come eliminare l’account Pro-Stuk insieme al garage e ai controlli rimasti: con un pulsante nell’app oppure via e-mail se l’app è già disinstallata.',
+    intro:
+      'L’account viene eliminato per intero: garage, auto, storico degli acquisti e tutti i controlli rimasti. Nulla può essere recuperato e i controlli non usati non vengono rimborsati.',
+    appT:
+      'Dall’app, il modo più rapido',
+    app:
+      'Apri «Impostazioni» e tocca «Elimina account». L’app chiede conferma e rimuove subito il record: non c’è nulla da attendere.',
+    mailT:
+      'Via e-mail, se l’app è già disinstallata',
+    mail:
+      'Scrivici dall’indirizzo del tuo account Google o Apple indicando con quale dei due accedevi. Eliminiamo entro 30 giorni e rispondiamo a cose fatte.',
+    whatT:
+      'Che cosa viene eliminato',
+    what:
+      'Dall’account spariscono i posti in garage, le auto, il saldo dei controlli e l’elenco degli acquisti elaborati. Le registrazioni non vengono conservate affatto: si scartano dopo l’analisi. Lo storico dei referti sta sul telefono e se ne va con l’app.',
+  },
 };

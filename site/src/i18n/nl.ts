@@ -252,4 +252,26 @@ export const nl: Dict = {
       'Er zit een typfout in het adres, of de pagina is verplaatst. Het geluid waarvoor u kwam is er nog steeds — begin op de startpagina of open de symptoomgidsen.',
     home: 'Naar de startpagina',
   },
+  deleteAccount: {
+    title:
+      'Account verwijderen | Pro-Stuk',
+    h1:
+      'Account verwijderen',
+    description:
+      'Zo verwijdert u uw Pro-Stuk-account met garage en resterende controles: met een knop in de app, of per e-mail als de app al weg is.',
+    intro:
+      'Het account wordt volledig verwijderd: garage, auto’s, aankoopgeschiedenis en alle resterende controles. Herstellen kan niet en ongebruikte controles worden niet vergoed.',
+    appT:
+      'Vanuit de app — het snelst',
+    app:
+      'Open «Instellingen» en tik op «Account verwijderen». De app vraagt één keer om bevestiging en wist het account meteen; wachten hoeft niet.',
+    mailT:
+      'Per e-mail, als de app al verwijderd is',
+    mail:
+      'Schrijf ons vanaf het adres van uw Google- of Apple-account en vermeld met welke van de twee u aanmeldde. We verwijderen binnen 30 dagen en laten het weten zodra het klaar is.',
+    whatT:
+      'Wat er precies verdwijnt',
+    what:
+      'Uit het account verdwijnen de plekken in de garage, de auto’s, het controletegoed en de lijst met verwerkte aankopen. Opnamen worden sowieso niet bewaard: ze verdwijnen na de analyse. De rapportgeschiedenis staat op uw toestel en gaat mee met de app.',
+  },
 };

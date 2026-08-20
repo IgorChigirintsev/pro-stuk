@@ -104,6 +104,21 @@ export interface Dict {
     dataLink: string;
     dataTail: string;
   };
+  /// Страница запроса удаления аккаунта: её адрес уходит в Google Play,
+  /// потому что кнопки в приложении магазину недостаточно — человек мог
+  /// приложение уже удалить.
+  deleteAccount: {
+    title: string;
+    description: string;
+    h1: string;
+    intro: string;
+    appT: string;
+    app: string;
+    mailT: string;
+    mail: string;
+    whatT: string;
+    what: string;
+  };
   privacy: {
     title: string;
     description: string;

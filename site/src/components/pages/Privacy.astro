@@ -62,6 +62,11 @@ const schema = {
       <!--email_on-->
     </p>
 
+    <p class="mt-6 text-sm text-ink-soft">
+      <a class="underline decoration-ink-soft/40 underline-offset-2 hover:text-ink"
+         href={pathFor('deleteAccount', lang)}>{t(lang).deleteAccount.h1}</a>
+    </p>
+
     <p class="mt-6 text-sm text-ink-soft">{d.changes}</p>
   </article>
 </Base>

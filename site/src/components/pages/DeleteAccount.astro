@@ -1,0 +1,54 @@
+---
+/** Запрос удаления аккаунта.
+ *
+ *  Кнопки в приложении Google Play недостаточно: человек мог уже удалить
+ *  приложение, а право на удаление у него остаётся. Поэтому тот же путь
+ *  описан здесь, и адрес этой страницы уходит в форму Data safety.
+ */
+import Base from '../../layouts/Base.astro';
+import { SITE_URL, CONTACT_EMAIL } from '../../../site.config.mjs';
+import { DEFAULT_LANG, pathFor, t } from '../../i18n';
+
+interface Props {
+  lang?: string;
+}
+
+const { lang = DEFAULT_LANG } = Astro.props;
+const dict = t(lang);
+const d = dict.deleteAccount;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: d.h1,
+  url: new URL(pathFor('deleteAccount', lang), SITE_URL).href,
+  inLanguage: lang,
+  isPartOf: {
+    '@type': 'WebSite',
+    name: dict.brand,
+    url: new URL(pathFor('home', lang), SITE_URL).href,
+  },
+};
+---
+
+<Base title={d.title} description={d.description} schema={schema} lang={lang} page="deleteAccount">
+  <article class="max-w-2xl">
+    <h1 class="text-2xl font-bold sm:text-3xl">{d.h1}</h1>
+
+    <p class="mt-4 text-ink-soft">{d.intro}</p>
+
+    <h2 class="mt-8 text-lg font-semibold">{d.appT}</h2>
+    <p class="mt-3 text-ink-soft">{d.app}</p>
+
+    <h2 class="mt-8 text-lg font-semibold">{d.mailT}</h2>
+    <p class="mt-3 text-ink-soft">
+      {d.mail}{' '}
+      <!--email_off-->
+      <a class="underline decoration-ink-soft/40 underline-offset-2 hover:text-ink" href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>
+      <!--email_on-->
+    </p>
+
+    <h2 class="mt-8 text-lg font-semibold">{d.whatT}</h2>
+    <p class="mt-3 text-ink-soft">{d.what}</p>
+  </article>
+</Base>

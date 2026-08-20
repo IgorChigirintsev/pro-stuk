@@ -80,13 +80,14 @@ export const COUNTRY_TO_LANG: Record<string, Lang> = {
 };
 
 /** Страницы, у которых есть версия на каждом языке. */
-export type PageId = 'home' | 'how' | 'privacy' | 'symptoms';
+export type PageId = 'home' | 'how' | 'privacy' | 'symptoms' | 'deleteAccount';
 
 /** Русские адреса исторические, у остальных языков — общие английские слаги. */
 const ROUTES: Record<PageId, { ru: string; slug: string }> = {
   home: { ru: '/', slug: '' },
   how: { ru: '/kak-eto-rabotaet/', slug: 'how-it-works/' },
   privacy: { ru: '/politika/', slug: 'privacy/' },
+  deleteAccount: { ru: '/udalenie-akkaunta/', slug: 'delete-account/' },
   symptoms: { ru: '/simptomy/', slug: 'symptoms/' },
 };
 

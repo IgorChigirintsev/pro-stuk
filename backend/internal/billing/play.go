@@ -183,9 +183,10 @@ func (p *Play) Verify(ctx context.Context, productID, purchaseToken string) erro
 	}
 	defer resp.Body.Close()
 	body, _ := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
-	if resp.StatusCode == http.StatusNotFound {
-		// Такой пары «товар + чек» у Google нет: чек выдуман или назван
-		// чужой товар.
+	// 404 — такой пары «товар + чек» у Google нет. 400 «Invalid Value» —
+	// сам чек не похож на выданный магазином. И то и другое означает
+	// подделку или ошибку клиента, повторять запрос бессмысленно.
+	if resp.StatusCode == http.StatusNotFound || resp.StatusCode == http.StatusBadRequest {
 		return fmt.Errorf("%w: покупка не найдена", ErrNotPurchased)
 	}
 	if resp.StatusCode != http.StatusOK {

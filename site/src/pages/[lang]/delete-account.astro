@@ -1,0 +1,12 @@
+---
+import DeleteAccount from '../../components/pages/DeleteAccount.astro';
+import { PREFIXED } from '../../i18n';
+
+export function getStaticPaths() {
+  return PREFIXED.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+---
+
+<DeleteAccount lang={lang} />

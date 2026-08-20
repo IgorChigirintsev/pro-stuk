@@ -253,4 +253,26 @@ export const de: Dict = {
       'In der Adresse steckt ein Tippfehler, oder die Seite ist umgezogen. Das Geräusch, das Sie hergeführt hat, ist noch da — fangen Sie auf der Startseite an oder öffnen Sie die Ratgeber.',
     home: 'Zur Startseite',
   },
+  deleteAccount: {
+    title:
+      'Konto löschen | Pro-Stuk',
+    h1:
+      'Konto löschen',
+    description:
+      'So löschen Sie Ihr Pro-Stuk-Konto samt Garage und verbleibenden Prüfungen: per Schaltfläche in der App oder per E-Mail, wenn die App schon deinstalliert ist.',
+    intro:
+      'Das Konto wird vollständig gelöscht: Garage, Autos, Kaufhistorie und alle verbleibenden Prüfungen. Wiederherstellen ist nicht möglich, ungenutzte Prüfungen werden nicht erstattet.',
+    appT:
+      'Aus der App — am schnellsten',
+    app:
+      'Öffnen Sie „Einstellungen“ und tippen Sie auf „Konto löschen“. Die App fragt einmal nach und entfernt den Eintrag sofort; warten müssen Sie auf nichts.',
+    mailT:
+      'Per E-Mail, wenn die App schon weg ist',
+    mail:
+      'Schreiben Sie uns von der Adresse Ihres Google- oder Apple-Kontos und nennen Sie, womit Sie sich angemeldet haben. Wir löschen innerhalb von 30 Tagen und antworten, sobald es erledigt ist.',
+    whatT:
+      'Was genau gelöscht wird',
+    what:
+      'Aus dem Konto verschwinden Stellplätze, Autos, das Prüfungsguthaben und die Liste verarbeiteter Käufe. Aufnahmen werden ohnehin nicht gespeichert — sie werden nach der Auswertung verworfen. Der Berichtsverlauf liegt auf Ihrem Telefon und geht mit der App.',
+  },
 };

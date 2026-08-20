@@ -247,4 +247,26 @@ export const tr: Dict = {
       'Adreste bir yazım hatası var ya da sayfa taşındı. Sizi buraya getiren ses hâlâ yerinde — ana sayfadan başlayın veya belirti rehberlerini açın.',
     home: 'Ana sayfaya git',
   },
+  deleteAccount: {
+    title:
+      'Hesabı silme | Pro-Stuk',
+    h1:
+      'Hesabı silme',
+    description:
+      'Pro-Stuk hesabınızı garaj ve kalan kontrollerle birlikte nasıl silersiniz: uygulamadaki düğmeyle ya da uygulamayı kaldırdıysanız e-postayla.',
+    intro:
+      'Hesap tamamen silinir: garaj, araçlar, satın alma geçmişi ve kalan bütün kontroller. Hiçbiri geri getirilemez, kullanılmamış kontroller iade edilmez.',
+    appT:
+      'Uygulamadan — en hızlısı',
+    app:
+      '«Ayarlar»ı açıp «Hesabı sil»e dokunun. Uygulama bir kez onay ister ve kaydı hemen siler; beklenecek bir şey yok.',
+    mailT:
+      'E-postayla, uygulamayı kaldırdıysanız',
+    mail:
+      'Google ya da Apple hesabınızın adresinden bize yazın ve hangisiyle giriş yaptığınızı belirtin. 30 gün içinde siler, bitince yanıtlarız.',
+    whatT:
+      'Tam olarak ne silinir',
+    what:
+      'Hesaptan garaj yerleri, araçlar, kontrol bakiyesi ve işlenmiş satın alma listesi silinir. Kayıtlar zaten saklanmaz: analizden sonra atılır. Rapor geçmişi telefonunuzdadır ve uygulamayla birlikte gider.',
+  },
 };
