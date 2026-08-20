@@ -76,6 +76,71 @@ class AppState extends ChangeNotifier {
   Future<void> _saveGarage() async =>
       _prefs.setString('garage', jsonEncode(cars.map((c) => c.toJson()).toList()));
 
+  /// Приводит локальный гараж к тому, что на сервере: главный — он.
+  ///
+  /// Решает три случая, каждый из которых иначе ломает приложение:
+  ///   - переустановка: локально пусто, а машины на сервере есть;
+  ///   - вход под другим аккаунтом: остались машины с чужими местами;
+  ///   - обновление с версии до аккаунтов: у машин нет места вовсе, и
+  ///     разбор упёрся бы в отказ сервера.
+  Future<void> syncGarage() async {
+    final acc = accounts.state;
+    if (acc == null) return;
+
+    final slots = {for (final s in acc.slots) s.id: s};
+    final next = <Car>[];
+
+    // Машины, чьи места на сервере ещё существуют. Остальные ушли вместе
+    // с чужим аккаунтом и показывать их нельзя.
+    for (final c in cars) {
+      if (c.slotId.isNotEmpty && slots.containsKey(c.slotId)) next.add(c);
+    }
+
+    // Машины с сервера, которых нет на телефоне. Так гараж возвращается
+    // после переустановки — вместе с балансом.
+    for (final s in acc.slots) {
+      final car = s.car;
+      if (car == null) continue;
+      if (next.any((c) => c.slotId == s.id)) continue;
+      next.add(Car(
+        id: const Uuid().v4(),
+        make: car.make,
+        model: car.model,
+        year: car.year,
+        mileageKm: car.mileage,
+        generation: car.generation,
+        slotId: s.id,
+      ));
+    }
+
+    // Машины без места: из сборки, вышедшей до аккаунтов. Ставим на
+    // свободные, сколько влезет; остальные теряем — мест под них нет.
+    final free = [for (final s in acc.slots) if (s.isEmpty) s.id];
+    for (final c in cars.where((c) => c.slotId.isEmpty)) {
+      if (free.isEmpty) break;
+      final id = free.removeAt(0);
+      try {
+        await accounts.setCar(id, c.accountCar);
+        next.add(c.copyWith(slotId: id));
+      } catch (_) {
+        // Сервер не принял — оставляем машину на следующий запуск.
+        break;
+      }
+    }
+
+    cars = next;
+    if (car == null || next.every((c) => c.id != car!.id)) {
+      car = next.isNotEmpty ? next.first : null;
+    }
+    await _saveGarage();
+    if (car != null) {
+      await _prefs.setString('car', jsonEncode(car!.toJson()));
+    } else {
+      await _prefs.remove('car');
+    }
+    notifyListeners();
+  }
+
   /// Сохранение машины идёт через сервер: он держит места, баланс проверок и
   /// запрет на подмену разобранной машины. Локальная копия — для показа и для
   /// сервисного журнала, которого на сервере нет.

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
 
+import '../api.dart' show ApiException;
 import '../data/account.dart' show Slot;
 import '../data/store_service.dart';
 import '../l10n/locale_scope.dart';
@@ -42,6 +43,17 @@ class _BuyScreenState extends State<BuyScreen> {
     }
   }
 
+  Future<void> _assign(AppState app, String purchaseId) async {
+    final messenger = ScaffoldMessenger.of(context);
+    try {
+      await app.accounts.assign(purchaseId, widget.car.slotId);
+    } on ApiException catch (e) {
+      messenger.showSnackBar(SnackBar(content: Text(e.message)));
+    } catch (_) {
+      messenger.showSnackBar(SnackBar(content: Text(S.anErrServer)));
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     // Экран лежит в стеке Navigator и сам по себе не
@@ -61,6 +73,29 @@ class _BuyScreenState extends State<BuyScreen> {
             padding: const EdgeInsets.all(16),
             children: [
               _ForCar(car: widget.car, slot: slot),
+              // Покупка могла не лечь на место: связь рвётся ровно в момент
+              // оплаты. Деньги списаны, и проверки должны найти машину.
+              for (final p in app.accounts.state?.pending ?? const [])
+                Padding(
+                  padding: const EdgeInsets.only(top: 12),
+                  child: SurfaceCard(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(S.buyPending.replaceFirst('{n}', '${p.checks}'),
+                            style: Theme.of(context).textTheme.bodyMedium),
+                        const SizedBox(height: 8),
+                        Align(
+                          alignment: AlignmentDirectional.centerEnd,
+                          child: FilledButton(
+                            onPressed: () => _assign(app, p.purchaseId),
+                            child: Text(S.buyRestore),
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
               const SizedBox(height: 20),
               if (store.loading)
                 const Center(child: Padding(

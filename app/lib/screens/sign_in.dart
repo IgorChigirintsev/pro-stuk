@@ -37,7 +37,12 @@ class _SignInScreenState extends State<SignInScreen> {
       final ok = Platform.isIOS
           ? await accounts.signInWithApple()
           : await accounts.signInWithGoogle();
-      if (!ok && mounted) setState(() => _error = S.authFailed);
+      if (!ok) {
+        if (mounted) setState(() => _error = S.authFailed);
+        return;
+      }
+      // Гараж мог остаться от прежнего аккаунта или прийти с сервера.
+      if (mounted) await AppScope.of(context).syncGarage();
     } catch (_) {
       // Человек мог просто закрыть системное окно — это не ошибка, но
       // молчать тоже нельзя: кнопка не должна выглядеть сломанной.

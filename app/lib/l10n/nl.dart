@@ -176,4 +176,5 @@ const Map<String, String> nl = {
   'buyRestore': 'Aankopen herstellen',
   'buyNoProducts': 'De producten zijn nu niet beschikbaar.',
   'garageFull': 'De garage is vol. Koop een plek om nog een auto toe te voegen.',
+  'buyPending': 'Er wachten {n} gekochte controles. Aan deze auto toevoegen?',
 };

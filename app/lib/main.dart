@@ -44,6 +44,9 @@ Future<void> main() async {
   // Магазин поднимается в фоне: список товаров не нужен на первом экране,
   // а ждать его значит задерживать запуск.
   unawaited(state.store.init());
+  // Гараж приводится к серверному до первого экрана: иначе после
+  // переустановки человек увидел бы пустой гараж при полном аккаунте.
+  if (state.accounts.signedIn) await state.syncGarage();
   tree = await DecisionTree.load();
   watchLocaleForTree();
   runApp(StukApp(state: state));

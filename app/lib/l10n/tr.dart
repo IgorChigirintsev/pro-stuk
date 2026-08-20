@@ -176,4 +176,5 @@ const Map<String, String> tr = {
   'buyRestore': 'Satın alımları geri yükle',
   'buyNoProducts': 'Ürünler şu anda kullanılamıyor.',
   'garageFull': 'Garaj dolu. Yeni araç eklemek için yer satın alın.',
+  'buyPending': 'Bekleyen {n} satın alınmış kontrol var. Bu araca eklensin mi?',
 };

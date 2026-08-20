@@ -164,4 +164,5 @@ const Map<String, String> ko = {
   'buyRestore': '구매 복원',
   'buyNoProducts': '지금은 상품을 불러올 수 없습니다.',
   'garageFull': '차고가 가득 찼습니다. 차량을 추가하려면 자리를 구매하세요.',
+  'buyPending': '구매한 검사 {n}회가 대기 중입니다. 이 차량에 추가할까요?',
 };

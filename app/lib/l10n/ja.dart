@@ -164,4 +164,5 @@ const Map<String, String> ja = {
   'buyRestore': '購入を復元する',
   'buyNoProducts': 'いまは商品を表示できません。',
   'garageFull': 'ガレージがいっぱいです。クルマを追加するには枠を購入してください。',
+  'buyPending': '購入済みの診断が {n} 回分あります。このクルマに追加しますか？',
 };

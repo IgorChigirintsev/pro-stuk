@@ -164,4 +164,5 @@ const Map<String, String> zh = {
   'buyRestore': '恢复购买',
   'buyNoProducts': '商品暂时不可用。',
   'garageFull': '车库已满。购买车位后即可再添加一辆车。',
+  'buyPending': '有 {n} 次已购买的检测在等待。要记到这辆车上吗？',
 };

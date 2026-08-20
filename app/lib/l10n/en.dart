@@ -175,4 +175,5 @@ const Map<String, String> en = {
   'buyRestore': 'Restore purchases',
   'buyNoProducts': 'Products are unavailable right now.',
   'garageFull': 'Your garage is full. Buy a slot to add another car.',
+  'buyPending': 'You have {n} purchased checks waiting. Add them to this car?',
 };

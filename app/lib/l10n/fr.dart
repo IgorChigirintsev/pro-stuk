@@ -176,4 +176,5 @@ const Map<String, String> fr = {
   'buyRestore': 'Restaurer les achats',
   'buyNoProducts': 'Les articles sont indisponibles pour le moment.',
   'garageFull': 'Le garage est plein. Achetez une place pour ajouter une voiture.',
+  'buyPending': '{n} analyses achetées attendent. Les créditer à cette voiture ?',
 };
