@@ -11,6 +11,7 @@ import (
 	"time"
 
 	"stuk/backend/internal/account"
+	"stuk/backend/internal/billing"
 	"stuk/backend/internal/config"
 	"stuk/backend/internal/gemini"
 	"stuk/backend/internal/httpapi"
@@ -55,13 +56,22 @@ func main() {
 		os.Exit(1)
 	}
 
+	// Магазины. Нет ключа — покупок нет, но сервер работает: отказ честнее
+	// начисления вслепую и не мешает всему остальному.
+	stores := map[string]httpapi.StoreVerifier{}
+	if play, err := billing.NewPlay(cfg.PlayServiceAccount, "chigirintsevandco.prostuk"); err != nil {
+		slog.Warn("покупки Google Play отключены", "err", err)
+	} else {
+		stores["google"] = play
+	}
+
 	stop := make(chan struct{})
 	go store.RunAutosave(30*time.Second, stop)
 	go statsStore.RunAutosave(30*time.Second, stop)
 
 	srv := &http.Server{
 		Addr:              ":" + cfg.Port,
-		Handler:           httpapi.New(cfg, store, analyzer, statsStore, accounts).Router(),
+		Handler:           httpapi.New(cfg, store, analyzer, statsStore, accounts, stores).Router(),
 		ReadHeaderTimeout: 10 * time.Second,
 		// Полный приём тела и ответ ограничены: медленный клиент (slow-loris)
 		// не держит горутину и память бесконечно. 120с покрывают загрузку

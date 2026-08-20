@@ -28,7 +28,7 @@ func testServer(t *testing.T) (*Server, *account.Store) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	return New(config.Config{}, nil, nil, st, accs), accs
+	return New(config.Config{}, nil, nil, st, accs, map[string]StoreVerifier{}), accs
 }
 
 func login(t *testing.T, accs *account.Store, subject string) (string, account.Account) {

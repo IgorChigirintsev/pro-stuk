@@ -45,9 +45,12 @@ type Server struct {
 	hitLimiter *ipLimiter
 	accounts   *account.Store
 	verifier   *auth.Verifier
+	// Магазины по платформам. Ненастроенный магазин отказывает в покупке,
+	// а не начисляет на веру.
+	stores map[string]StoreVerifier
 }
 
-func New(cfg config.Config, store *state.Store, analyzer report.Analyzer, st *stats.Store, accounts *account.Store) *Server {
+func New(cfg config.Config, store *state.Store, analyzer report.Analyzer, st *stats.Store, accounts *account.Store, stores map[string]StoreVerifier) *Server {
 	return &Server{
 		cfg:        cfg,
 		store:      store,
@@ -57,6 +60,7 @@ func New(cfg config.Config, store *state.Store, analyzer report.Analyzer, st *st
 		hitLimiter: newIPLimiter(60, time.Minute),
 		accounts:   accounts,
 		verifier:   auth.New(cfg.GoogleClientID, cfg.AppleBundleID),
+		stores:     stores,
 	}
 }
 
@@ -84,6 +88,7 @@ func (s *Server) Router() http.Handler {
 	r.Put("/api/v1/account/car", s.handleCar)
 	r.Delete("/api/v1/account/car", s.handleCarDelete)
 	r.Post("/api/v1/account/assign", s.handleAssign)
+	r.Post("/api/v1/account/purchase", s.handlePurchase)
 
 	r.Post("/api/v1/report", s.handleReport)
 	r.Post("/api/v1/hit", s.handleHit)
