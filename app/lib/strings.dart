@@ -160,4 +160,27 @@ class S {
     'Geely', 'Chery', 'Haval', 'УАЗ', 'ГАЗ',
   ];
 
+
+  static String get accSignInAgain => L.t('accSignInAgain');
+  static String get accNoSlot => L.t('accNoSlot');
+  static String get accCarLocked => L.t('accCarLocked');
+  static String get accSlotTaken => L.t('accSlotTaken');
+  static String get accSlotEmpty => L.t('accSlotEmpty');
+  static String get accNoChecks => L.t('accNoChecks');
+  static String get accNotPurchased => L.t('accNotPurchased');
+  static String get accVerifyLater => L.t('accVerifyLater');
+  static String get authTitle => L.t('authTitle');
+  static String get authSubtitle => L.t('authSubtitle');
+  static String get authGoogle => L.t('authGoogle');
+  static String get authApple => L.t('authApple');
+  static String get authFailed => L.t('authFailed');
+  static String get authSignOut => L.t('authSignOut');
+  static String get buyTitle => L.t('buyTitle');
+  static String get buyForCar => L.t('buyForCar');
+  static String get buyChecksLeft => L.t('buyChecksLeft');
+  static String get buySlots => L.t('buySlots');
+  static String get buyBuy => L.t('buyBuy');
+  static String get buyDone => L.t('buyDone');
+  static String get buyRestore => L.t('buyRestore');
+  static String get buyNoProducts => L.t('buyNoProducts');
 }
