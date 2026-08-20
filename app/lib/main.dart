@@ -7,7 +7,9 @@ import 'l10n/locale_scope.dart';
 import 'l10n/locale_service.dart';
 
 import 'screens/home.dart';
+import 'data/account_service.dart';
 import 'screens/onboarding.dart';
+import 'screens/sign_in.dart';
 import 'state.dart';
 import 'strings.dart';
 import 'theme.dart';
@@ -23,9 +25,18 @@ Future<void> main() async {
   // Названия месяцев для DateFormat: без этого доступен только en_US.
   await initializeDateFormatting();
   final state = AppState();
+  // Учётная запись поднимается до первого экрана: гараж должен появиться
+  // сразу из локальной копии, а не после круга по сети.
+  state.accounts = AccountService();
   await LocaleService.init();
   await Units.init();
   await state.init();
+  await state.accounts.init();
+  if (!state.accounts.signedIn) {
+    // Разрешение на этом устройстве человек мог дать раньше — тогда системного
+    // окна не будет вовсе.
+    await state.accounts.signInSilently();
+  }
   tree = await DecisionTree.load();
   watchLocaleForTree();
   runApp(StukApp(state: state));
@@ -53,9 +64,15 @@ class StukApp extends StatelessWidget {
         title: S.appName,
         theme: buildTheme(),
         debugShowCheckedModeBanner: false,
-        home: state.car == null
-            ? const OnboardingCarScreen(firstRun: true)
-            : const HomeScreen(),
+        home: ListenableBuilder(
+          listenable: state.accounts,
+          builder: (context, _) {
+            if (!state.accounts.signedIn) return const SignInScreen();
+            return state.car == null
+                ? const OnboardingCarScreen(firstRun: true)
+                : const HomeScreen();
+          },
+        ),
       ))),
     );
   }

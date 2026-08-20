@@ -6,12 +6,17 @@ import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:uuid/uuid.dart';
 
+import 'data/account_service.dart';
 import 'data/service.dart';
 import 'models.dart';
 
 /// Состояние приложения: машина, device_id, история отчётов.
 /// ChangeNotifier + setState — без сторонних менеджеров (§7 спеки).
 class AppState extends ChangeNotifier {
+  /// Учётная запись, гараж и баланс проверок. Заводится в main и живёт
+  /// столько же, сколько приложение.
+  late final AccountService accounts;
+
   /// Гараж: несколько машин, одна активная. `car` — активная, чтобы
   /// весь остальной код (анкета, отчёт, история) не менялся.
   List<Car> cars = [];

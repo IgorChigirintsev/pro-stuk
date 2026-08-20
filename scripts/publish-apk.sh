@@ -8,6 +8,8 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 API_BASE_URL="${API_BASE_URL:-https://api.example.kz}"
+# Веб-клиент OAuth: с ним приложение просит токен, чтобы сервер мог его проверить.
+GOOGLE_SERVER_CLIENT_ID="${GOOGLE_SERVER_CLIENT_ID:-}"
 SITE_URL="${SITE_URL:-https://example.kz}"
 OUT_DIR="$ROOT/site/public/app"
 
@@ -29,7 +31,8 @@ fi
 echo "==> Сборка release APK (API_BASE_URL=$API_BASE_URL)"
 (cd "$ROOT/app" && flutter build apk --release \
   --dart-define=API_BASE_URL="$API_BASE_URL" \
-  --dart-define=SITE_URL="$SITE_URL")
+  --dart-define=SITE_URL="$SITE_URL" \
+  --dart-define=GOOGLE_SERVER_CLIENT_ID="$GOOGLE_SERVER_CLIENT_ID")
 
 APK="$ROOT/app/build/app/outputs/flutter-apk/app-release.apk"
 VERSION="$(grep -oP '^version:\s*\K[0-9]+\.[0-9]+\.[0-9]+' "$ROOT/app/pubspec.yaml")"

@@ -26,6 +26,9 @@ definitions:
   prod_env: &prod_env
     API_BASE_URL: https://api.pro-stuk.com
     SITE_URL: https://pro-stuk.com
+    # Веб-клиент OAuth: с ним приложение просит токен входа, а сервер
+    # проверяет, что токен выдан именно нам. Не секрет — он и так внутри APK.
+    GOOGLE_SERVER_CLIENT_ID: 524815988139-ah1ckeqsttkg22hs5oe36tnlksjbodkr.apps.googleusercontent.com
 
 workflows:
   ios-testflight:
@@ -73,6 +76,7 @@ workflows:
             --build-number="$BUILD_NUMBER" \
             --dart-define=API_BASE_URL="$API_BASE_URL" \
             --dart-define=SITE_URL="$SITE_URL" \
+            --dart-define=GOOGLE_SERVER_CLIENT_ID="$GOOGLE_SERVER_CLIENT_ID" \
             --export-options-plist=/Users/builder/export_options.plist
     artifacts:
       - build/ios/ipa/*.ipa
@@ -129,7 +133,8 @@ workflows:
         script: |
           flutter build appbundle --release \
             --dart-define=API_BASE_URL="$API_BASE_URL" \
-            --dart-define=SITE_URL="$SITE_URL"
+            --dart-define=SITE_URL="$SITE_URL" \
+            --dart-define=GOOGLE_SERVER_CLIENT_ID="$GOOGLE_SERVER_CLIENT_ID"
     artifacts:
       - build/app/outputs/bundle/release/*.aab
     publishing:
