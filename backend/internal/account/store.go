@@ -34,6 +34,10 @@ type fileData struct {
 	Index map[string]string `json:"index"`
 	// Счётчик для новых идентификаторов.
 	Seq int64 `json:"seq"`
+	// Токен сессии → id записи. Приложение входит один раз и дальше живёт
+	// с этим токеном: гонять токен Google на каждый запрос значило бы
+	// проверять подпись по сети постоянно, а он ещё и живёт всего час.
+	Sessions map[string]string `json:"sessions,omitempty"`
 }
 
 var ErrNotFound = errors.New("учётной записи нет")
@@ -49,7 +53,11 @@ func Open(dataDir string) (*Store, error) {
 	}
 	s := &Store{
 		path: filepath.Join(dataDir, "accounts.json"),
-		data: fileData{Accounts: map[string]*Account{}, Index: map[string]string{}},
+		data: fileData{
+			Accounts: map[string]*Account{},
+			Index:    map[string]string{},
+			Sessions: map[string]string{},
+		},
 	}
 	raw, err := os.ReadFile(s.path)
 	if errors.Is(err, os.ErrNotExist) {
@@ -66,6 +74,9 @@ func Open(dataDir string) (*Store, error) {
 	}
 	if s.data.Index == nil {
 		s.data.Index = map[string]string{}
+	}
+	if s.data.Sessions == nil {
+		s.data.Sessions = map[string]string{}
 	}
 	return s, nil
 }
@@ -162,4 +173,38 @@ func (a *Account) clone() Account {
 		c.Done[k] = v
 	}
 	return c
+}
+
+// NewSession выдаёт токен сессии для записи.
+func (s *Store) NewSession(accountID, token string) error {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	if _, ok := s.data.Accounts[accountID]; !ok {
+		return ErrNotFound
+	}
+	if s.data.Sessions == nil {
+		s.data.Sessions = map[string]string{}
+	}
+	s.data.Sessions[token] = accountID
+	return s.save()
+}
+
+// BySession находит запись по токену сессии.
+func (s *Store) BySession(token string) (Account, error) {
+	s.mu.Lock()
+	id, ok := s.data.Sessions[token]
+	s.mu.Unlock()
+	if !ok {
+		return Account{}, ErrNotFound
+	}
+	return s.Get(id)
+}
+
+// DropSession закрывает сессию. Нужен для выхода из аккаунта и для удаления
+// данных по требованию: без этого выданный токен жил бы вечно.
+func (s *Store) DropSession(token string) error {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	delete(s.data.Sessions, token)
+	return s.save()
 }

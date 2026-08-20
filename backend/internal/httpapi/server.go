@@ -16,6 +16,8 @@ import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 
+	"stuk/backend/internal/account"
+	"stuk/backend/internal/auth"
 	"stuk/backend/internal/config"
 	"stuk/backend/internal/dsp"
 	"stuk/backend/internal/gemini"
@@ -41,9 +43,11 @@ type Server struct {
 	limiter    *ipLimiter
 	stats      *stats.Store
 	hitLimiter *ipLimiter
+	accounts   *account.Store
+	verifier   *auth.Verifier
 }
 
-func New(cfg config.Config, store *state.Store, analyzer report.Analyzer, st *stats.Store) *Server {
+func New(cfg config.Config, store *state.Store, analyzer report.Analyzer, st *stats.Store, accounts *account.Store) *Server {
 	return &Server{
 		cfg:        cfg,
 		store:      store,
@@ -51,6 +55,8 @@ func New(cfg config.Config, store *state.Store, analyzer report.Analyzer, st *st
 		limiter:    newIPLimiter(ipRateLimit, time.Minute),
 		stats:      st,
 		hitLimiter: newIPLimiter(60, time.Minute),
+		accounts:   accounts,
+		verifier:   auth.New(cfg.GoogleClientID, cfg.AppleBundleID),
 	}
 }
 
@@ -70,6 +76,14 @@ func (s *Server) Router() http.Handler {
 			"apk_url":        s.cfg.PublicSiteURL + "/app/stuk.apk",
 		})
 	})
+
+	r.Post("/api/v1/auth", s.handleAuth)
+	r.Post("/api/v1/logout", s.handleLogout)
+	r.Get("/api/v1/account", s.handleAccount)
+	r.Post("/api/v1/account/car", s.handleCar)
+	r.Put("/api/v1/account/car", s.handleCar)
+	r.Delete("/api/v1/account/car", s.handleCarDelete)
+	r.Post("/api/v1/account/assign", s.handleAssign)
 
 	r.Post("/api/v1/report", s.handleReport)
 	r.Post("/api/v1/hit", s.handleHit)

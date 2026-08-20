@@ -10,6 +10,7 @@ import (
 	"syscall"
 	"time"
 
+	"stuk/backend/internal/account"
 	"stuk/backend/internal/config"
 	"stuk/backend/internal/gemini"
 	"stuk/backend/internal/httpapi"
@@ -45,13 +46,22 @@ func main() {
 		os.Exit(1)
 	}
 
+	// Учётные записи: пишутся на диск сразу, поэтому автосохранение им не нужно.
+	// Повреждённый файл останавливает старт — молча обнулить всем баланс хуже,
+	// чем не подняться и показать это в логе.
+	accounts, err := account.Open(cfg.DataDir)
+	if err != nil {
+		slog.Error("не удалось открыть учётные записи", "err", err)
+		os.Exit(1)
+	}
+
 	stop := make(chan struct{})
 	go store.RunAutosave(30*time.Second, stop)
 	go statsStore.RunAutosave(30*time.Second, stop)
 
 	srv := &http.Server{
 		Addr:              ":" + cfg.Port,
-		Handler:           httpapi.New(cfg, store, analyzer, statsStore).Router(),
+		Handler:           httpapi.New(cfg, store, analyzer, statsStore, accounts).Router(),
 		ReadHeaderTimeout: 10 * time.Second,
 		// Полный приём тела и ответ ограничены: медленный клиент (slow-loris)
 		// не держит горутину и память бесконечно. 120с покрывают загрузку
