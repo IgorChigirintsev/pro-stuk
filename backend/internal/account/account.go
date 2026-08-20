@@ -78,6 +78,9 @@ type Account struct {
 	Provider string `json:"provider"`
 	Subject  string `json:"subject"`
 	Created  string `json:"created"`
+	// Растёт при каждом изменении. Приложение держит копию состояния у себя
+	// и по версии понимает, что она устарела, не выкачивая всё заново.
+	Version int64 `json:"version"`
 
 	Slots   []Slot    `json:"slots"`
 	Pending []Pending `json:"pending,omitempty"`
