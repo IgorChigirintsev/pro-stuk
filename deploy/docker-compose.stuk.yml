@@ -13,8 +13,13 @@ services:
     environment:
       DATA_DIR: /app/data
       TRUST_PROXY: "1" # за Caddy tugo — X-Forwarded-For доверяем
+      PLAY_SERVICE_ACCOUNT_FILE: /app/play-service-account.json
     volumes:
       - ./data:/app/data
+      # Ключ сервисного аккаунта Google Play. В образ он не попадает намеренно:
+      # образ пересобирается и хранится, а ключ должен лежать только на сервере
+      # и заменяться без пересборки.
+      - ./backend/play-service-account.json:/app/play-service-account.json:ro
     networks:
       - tugo_default
 
