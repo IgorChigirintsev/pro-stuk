@@ -8,6 +8,7 @@ import 'package:uuid/uuid.dart';
 
 import 'data/account.dart' show Slot;
 import 'data/account_service.dart';
+import 'data/store_service.dart';
 import 'data/service.dart';
 import 'models.dart';
 
@@ -17,6 +18,9 @@ class AppState extends ChangeNotifier {
   /// Учётная запись, гараж и баланс проверок. Заводится в main и живёт
   /// столько же, сколько приложение.
   late final AccountService accounts;
+
+  /// Магазин: список товаров с ценами и проведение оплаты.
+  late final StoreService store;
 
   /// Гараж: несколько машин, одна активная. `car` — активная, чтобы
   /// весь остальной код (анкета, отчёт, история) не менялся.
@@ -29,6 +33,11 @@ class AppState extends ChangeNotifier {
   Directory? _reportsDir;
 
   Future<void> init() async {
+    // Баланс и места меняются в AccountService, а экраны слушают AppState.
+    // Без этого проброса купленные проверки не появлялись бы на экране до
+    // перезапуска приложения.
+    accounts.addListener(notifyListeners);
+
     _prefs = await SharedPreferences.getInstance();
 
     deviceId = _prefs.getString('device_id') ?? '';

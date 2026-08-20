@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+import '../data/account.dart' show Slot;
 import '../l10n/cars_i18n.dart';
 import '../l10n/dates.dart';
 import '../l10n/locale_scope.dart';
@@ -10,6 +11,7 @@ import '../models.dart';
 import '../state.dart';
 import '../strings.dart';
 import '../theme.dart';
+import 'buy.dart';
 import 'onboarding.dart';
 import 'report.dart';
 import 'settings.dart';
@@ -125,7 +127,10 @@ class _GarageScreenState extends State<GarageScreen> {
                   _CarTile(
                     car: c,
                     active: c.id == car.id,
+                    slot: st.accounts.state?.slot(c.slotId),
                     onTap: () => st.selectCar(c.id),
+                    onBuy: () => Navigator.push(context,
+                        MaterialPageRoute(builder: (_) => BuyScreen(car: c))),
                     onDelete: st.cars.length > 1
                         ? () => st.removeCar(c.id)
                         : null,
@@ -307,12 +312,17 @@ class _CarTile extends StatelessWidget {
   final bool active;
   final VoidCallback onTap;
   final VoidCallback? onDelete;
+  /// Место на сервере: сколько проверок осталось и заперта ли машина.
+  final Slot? slot;
+  final VoidCallback? onBuy;
 
   const _CarTile(
       {required this.car,
       required this.active,
       required this.onTap,
-      this.onDelete});
+      this.onDelete,
+      this.slot,
+      this.onBuy});
 
   @override
   Widget build(BuildContext context) {
@@ -323,19 +333,48 @@ class _CarTile extends StatelessWidget {
         leading: Icon(active ? Icons.check_circle : Icons.circle_outlined,
             color: active ? T.accent : T.border),
         title: Text(car.label),
-        subtitle: Text(
-          [
-            if (car.generation.isNotEmpty) genLabel(car.generation),
-            Units.fmt(car.mileageKm),
-          ].join(' · '),
-          style: const TextStyle(fontSize: 13),
+        subtitle: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              [
+                if (car.generation.isNotEmpty) genLabel(car.generation),
+                Units.fmt(car.mileageKm),
+              ].join(' · '),
+              style: const TextStyle(fontSize: 13),
+            ),
+            if (slot != null)
+              Padding(
+                padding: const EdgeInsets.only(top: 4),
+                child: Text(
+                  S.buyChecksLeft.replaceFirst('{n}', '${slot!.checks}'),
+                  style: TextStyle(
+                    fontSize: 13,
+                    fontWeight: FontWeight.w600,
+                    // Ноль проверок — состояние, требующее действия.
+                    color: slot!.checks == 0 ? T.warn : T.accent,
+                  ),
+                ),
+              ),
+          ],
         ),
-        trailing: onDelete == null
-            ? null
-            : IconButton(
+        trailing: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            if (onBuy != null)
+              IconButton(
+                icon: const Icon(Icons.add_shopping_cart),
+                tooltip: S.buyTitle,
+                onPressed: onBuy,
+              ),
+            // Разобранную машину удалять нельзя: место закреплено за ней.
+            if (onDelete != null && !(slot?.locked ?? false))
+              IconButton(
                 icon: const Icon(Icons.delete_outline),
                 onPressed: onDelete,
               ),
+          ],
+        ),
       ),
     );
   }

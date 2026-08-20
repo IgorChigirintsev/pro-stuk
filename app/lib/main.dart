@@ -7,7 +7,10 @@ import 'l10n/locale_scope.dart';
 import 'l10n/locale_service.dart';
 
 import 'screens/home.dart';
+import 'dart:async';
+
 import 'data/account_service.dart';
+import 'data/store_service.dart';
 import 'screens/onboarding.dart';
 import 'screens/sign_in.dart';
 import 'state.dart';
@@ -28,6 +31,7 @@ Future<void> main() async {
   // Учётная запись поднимается до первого экрана: гараж должен появиться
   // сразу из локальной копии, а не после круга по сети.
   state.accounts = AccountService();
+  state.store = StoreService(state.accounts);
   await LocaleService.init();
   await Units.init();
   await state.init();
@@ -37,6 +41,9 @@ Future<void> main() async {
     // окна не будет вовсе.
     await state.accounts.signInSilently();
   }
+  // Магазин поднимается в фоне: список товаров не нужен на первом экране,
+  // а ждать его значит задерживать запуск.
+  unawaited(state.store.init());
   tree = await DecisionTree.load();
   watchLocaleForTree();
   runApp(StukApp(state: state));
