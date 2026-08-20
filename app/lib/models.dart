@@ -1,6 +1,7 @@
 /// Модели данных: машина, ответы опросника, отчёт, запись истории.
 library;
 
+import 'data/account.dart' as acc;
 import 'l10n/cars_i18n.dart';
 
 class Car {
@@ -15,6 +16,10 @@ class Car {
   /// иначе при обновлении текущего пробега остаток пришлось бы пересчитывать руками.
   final Map<String, int> service;
 
+  /// Место в гараже на сервере. Через него машина связана с балансом проверок
+  /// и с запретом на подмену. Пусто — машина ещё не доехала до сервера.
+  final String slotId;
+
   const Car({
     required this.make,
     required this.model,
@@ -23,6 +28,7 @@ class Car {
     this.id = '',
     this.generation = '',
     this.service = const {},
+    this.slotId = '',
   });
 
   /// Для показа: справочник хранит русские названия, а интерфейс может быть
@@ -37,9 +43,15 @@ class Car {
         mileageKm: mileageKm,
         generation: generation,
         service: service,
+        slotId: slotId,
       );
 
-  Car copyWith({int? mileageKm, String? generation, Map<String, int>? service}) => Car(
+  Car copyWith({
+    int? mileageKm,
+    String? generation,
+    Map<String, int>? service,
+    String? slotId,
+  }) => Car(
         id: id,
         make: make,
         model: model,
@@ -47,6 +59,7 @@ class Car {
         mileageKm: mileageKm ?? this.mileageKm,
         generation: generation ?? this.generation,
         service: service ?? this.service,
+        slotId: slotId ?? this.slotId,
       );
 
   Map<String, dynamic> toJson() => {
@@ -57,7 +70,18 @@ class Car {
         'id': id,
         'generation': generation,
         'service': service,
+        'slot_id': slotId,
       };
+
+  /// Для сервера: там пробег отделён от остального, потому что только он
+  /// правится после первого разбора.
+  acc.Car get accountCar => acc.Car(
+        make: make,
+        model: model,
+        generation: generation,
+        year: year,
+        mileage: mileageKm,
+      );
 
   /// Что уходит на сервер: марка, модель, год, пробег и поколение.
   /// Сервисный журнал и внутренний идентификатор остаются на телефоне —
@@ -79,6 +103,7 @@ class Car {
         generation: j['generation'] as String? ?? '',
         service: ((j['service'] as Map?) ?? const {})
             .map((k, v) => MapEntry(k as String, (v as num).toInt())),
+        slotId: j['slot_id'] as String? ?? '',
       );
 }
 

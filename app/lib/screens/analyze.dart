@@ -68,6 +68,8 @@ class _AnalyzeScreenState extends State<AnalyzeScreen> {
       final report = await _api.sendReport(
         wavFile: widget.wavFile,
         deviceId: state.deviceId,
+        slotId: state.car!.slotId,
+        session: state.accounts.session,
         car: state.car!,
         answers: widget.answers,
         leafId: widget.leaf?.id ?? '',

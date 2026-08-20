@@ -52,14 +52,23 @@ class ApiClient {
   Future<ReportData> sendReport({
     required File wavFile,
     required String deviceId,
+    /// Место гаража, с которого списывается проверка, и токен сессии.
+    /// Без них сервер работает по старому дневному лимиту — так живут
+    /// сборки, вышедшие до аккаунтов.
+    String slotId = '',
+    String? session,
     required Car car,
     required List<AnswerLog> answers,
     required String leafId,
   }) async {
     final uri = Uri.parse('$apiBaseUrl/api/v1/report');
     final req = http.MultipartRequest('POST', uri)
+      ..headers.addAll({
+        if (session != null) 'Authorization': 'Bearer $session',
+      })
       ..fields['meta'] = jsonEncode({
         'device_id': deviceId,
+        if (slotId.isNotEmpty) 'slot_id': slotId,
         'car': car.toApiJson(),
         'lang': LocaleService.current.value,
         'answers': answers.map((a) => a.toJson()).toList(),

@@ -6,6 +6,7 @@ import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:uuid/uuid.dart';
 
+import 'data/account.dart' show Slot;
 import 'data/account_service.dart';
 import 'data/service.dart';
 import 'models.dart';
@@ -66,17 +67,38 @@ class AppState extends ChangeNotifier {
   Future<void> _saveGarage() async =>
       _prefs.setString('garage', jsonEncode(cars.map((c) => c.toJson()).toList()));
 
+  /// Сохранение машины идёт через сервер: он держит места, баланс проверок и
+  /// запрет на подмену разобранной машины. Локальная копия — для показа и для
+  /// сервисного журнала, которого на сервере нет.
+  ///
+  /// Ошибка сервера пробрасывается наружу: экран покажет её человеку. Молча
+  /// сохранить у себя значило бы завести машину, которой на сервере нет, —
+  /// и упереться в отказ уже при разборе.
   Future<void> saveCar(Car c) async {
     final withId = c.id.isEmpty ? c.copyWithId(const Uuid().v4()) : c;
-    final i = cars.indexWhere((x) => x.id == withId.id);
-    if (i >= 0) {
-      cars[i] = withId;
-    } else {
-      cars = [...cars, withId];
+    var bound = withId;
+
+    if (accounts.signedIn) {
+      if (bound.slotId.isEmpty) {
+        final free = accounts.state?.slots
+            .firstWhere((s) => s.isEmpty, orElse: () => const Slot(id: '', checks: 0));
+        if (free == null || free.id.isEmpty) throw const GarageFull();
+        await accounts.setCar(free.id, bound.accountCar);
+        bound = bound.copyWith(slotId: free.id);
+      } else {
+        await accounts.editCar(bound.slotId, bound.accountCar);
+      }
     }
-    car = withId;
+
+    final i = cars.indexWhere((x) => x.id == bound.id);
+    if (i >= 0) {
+      cars[i] = bound;
+    } else {
+      cars = [...cars, bound];
+    }
+    car = bound;
     await _saveGarage();
-    await _prefs.setString('car', jsonEncode(withId.toJson()));
+    await _prefs.setString('car', jsonEncode(bound.toJson()));
     notifyListeners();
   }
 
@@ -88,6 +110,12 @@ class AppState extends ChangeNotifier {
   }
 
   Future<void> removeCar(String id) async {
+    final gone = cars.firstWhere((c) => c.id == id, orElse: () => cars.first);
+    if (accounts.signedIn && gone.slotId.isNotEmpty) {
+      // Сервер откажет, если машину уже разбирали, — и правильно сделает:
+      // иначе запрет на подмену обходился бы удалением.
+      await accounts.removeCar(gone.slotId);
+    }
     cars = cars.where((c) => c.id != id).toList();
     if (car?.id == id) car = cars.isNotEmpty ? cars.first : null;
     await _saveGarage();
@@ -190,4 +218,11 @@ class AppScope extends InheritedNotifier<AppState> {
 
   static AppState of(BuildContext context) =>
       context.dependOnInheritedWidgetOfExactType<AppScope>()!.notifier!;
+}
+
+/// Свободных мест в гараже нет — надо купить.
+class GarageFull implements Exception {
+  const GarageFull();
+  @override
+  String toString() => 'в гараже нет свободных мест';
 }
