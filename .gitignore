@@ -31,3 +31,8 @@ site/public/app/
 .vscode/
 *.swp
 .DS_Store
+
+# Ключи магазинов: сервисный аккаунт Google Play и ключ App Store Server API.
+# Репозиторий публичный — попадание сюда означает чужой доступ к заказам.
+backend/play-service-account.json
+backend/*.p8

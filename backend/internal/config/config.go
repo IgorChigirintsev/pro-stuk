@@ -28,23 +28,29 @@ type Config struct {
 	GoogleClientID string
 	// Bundle ID приложения: получатель токена при входе через Apple.
 	AppleBundleID string
+
+	// Файл сервисного аккаунта Google Play. По нему сервер спрашивает у
+	// Google, была ли покупка на самом деле: словам приложения тут верить
+	// нельзя, чек подделывается первым делом.
+	PlayServiceAccount string
 }
 
 func Load() (Config, error) {
 	loadDotEnv(".env")
 
 	cfg := Config{
-		Port:           getenv("PORT", "8080"),
-		GeminiAPIKey:   os.Getenv("GEMINI_API_KEY"),
-		GeminiModel:    getenv("GEMINI_MODEL", "gemini-flash-latest"),
-		PublicSiteURL:  getenv("PUBLIC_SITE_URL", "https://example.kz"),
-		LatestVersion:  getenv("LATEST_APP_VERSION", "1.0.0"),
-		DataDir:        getenv("DATA_DIR", "data"),
-		TrustProxy:     os.Getenv("TRUST_PROXY") == "1",
-		AnalyticsToken: os.Getenv("ANALYTICS_TOKEN"),
-		DailyFreeLimit: 3,
-		GoogleClientID: os.Getenv("GOOGLE_CLIENT_ID"),
-		AppleBundleID:  getenv("APPLE_BUNDLE_ID", "chigirintsevandco.prostuk"),
+		Port:               getenv("PORT", "8080"),
+		GeminiAPIKey:       os.Getenv("GEMINI_API_KEY"),
+		GeminiModel:        getenv("GEMINI_MODEL", "gemini-flash-latest"),
+		PublicSiteURL:      getenv("PUBLIC_SITE_URL", "https://example.kz"),
+		LatestVersion:      getenv("LATEST_APP_VERSION", "1.0.0"),
+		DataDir:            getenv("DATA_DIR", "data"),
+		TrustProxy:         os.Getenv("TRUST_PROXY") == "1",
+		AnalyticsToken:     os.Getenv("ANALYTICS_TOKEN"),
+		DailyFreeLimit:     3,
+		GoogleClientID:     os.Getenv("GOOGLE_CLIENT_ID"),
+		AppleBundleID:      getenv("APPLE_BUNDLE_ID", "chigirintsevandco.prostuk"),
+		PlayServiceAccount: getenv("PLAY_SERVICE_ACCOUNT_FILE", "play-service-account.json"),
 	}
 
 	if v := os.Getenv("DAILY_FREE_LIMIT"); v != "" {
