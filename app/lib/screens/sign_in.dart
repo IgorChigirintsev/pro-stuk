@@ -28,7 +28,24 @@ class _SignInScreenState extends State<SignInScreen> {
   bool _busy = false;
   String? _error;
 
-  Future<void> _signIn(AccountService accounts) async {
+  /// Шторку выбора аккаунта поднимаем сама при первом появлении экрана —
+  /// человеку остаётся одно касание вместо двух. Флаг статический: после
+  /// осознанного выхода из аккаунта навязываться повторно нельзя.
+  static bool _autoTried = false;
+
+  @override
+  void initState() {
+    super.initState();
+    // На iPhone так не делаем: системное окно Apple поднимает Face ID, и
+    // делать это без нажатия — навязчиво. App Store такое тоже не любит.
+    if (_autoTried || Platform.isIOS) return;
+    _autoTried = true;
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (mounted) _signIn(AppScope.of(context).accounts, auto: true);
+    });
+  }
+
+  Future<void> _signIn(AccountService accounts, {bool auto = false}) async {
     setState(() {
       _busy = true;
       _error = null;
@@ -38,15 +55,16 @@ class _SignInScreenState extends State<SignInScreen> {
           ? await accounts.signInWithApple()
           : await accounts.signInWithGoogle();
       if (!ok) {
-        if (mounted) setState(() => _error = S.authFailed);
+        if (mounted && !auto) setState(() => _error = S.authFailed);
         return;
       }
       // Гараж мог остаться от прежнего аккаунта или прийти с сервера.
       if (mounted) await AppScope.of(context).syncGarage();
     } catch (_) {
-      // Человек мог просто закрыть системное окно — это не ошибка, но
-      // молчать тоже нельзя: кнопка не должна выглядеть сломанной.
-      if (mounted) setState(() => _error = S.authFailed);
+      // Закрытую шторку не считаем ошибкой, если её подняли сами: человек
+      // ничего не нажимал, и красный текст ему непонятен. Он увидит обычный
+      // экран с кнопкой и решит сам.
+      if (mounted && !auto) setState(() => _error = S.authFailed);
     } finally {
       if (mounted) setState(() => _busy = false);
     }
