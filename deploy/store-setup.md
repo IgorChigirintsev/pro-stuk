@@ -32,6 +32,9 @@
 Google Play: Монетизация → Товары → Контент для однократных покупок.
 App Store Connect: Monetization → In-App Purchases, тип **Consumable**.
 
+Проверки привязаны к месту гаража, а не к аккаунту: пакет проверок
+покупается для конкретной машины, новое место приходит со своим комплектом.
+
 | ID | Name (en) | Description (en) |
 |---|---|---|
 | `checks_5` | 5 sound checks | Five more recordings to analyse. Checks never expire and one is used per report. |
@@ -58,6 +61,16 @@ App Store Connect: Monetization → In-App Purchases, тип **Consumable**.
 
 Теги (необязательные, для группировки в консоли): `sound-checks` у пакетов
 проверок, `garage-slots` у мест.
+
+### Опечатка в идентификаторе
+
+Пакет на десять проверок заведён в Google Play как `checks_10_2`.
+Переименовать товар нельзя, поэтому сервер знает оба имени —
+см. `aliases` в `backend/internal/billing/products.go`.
+
+Если `checks_10` окажется свободен, лучше завести его заново, отключить
+`checks_10_2` и убрать алиас: два имени у одного товара путают при разборе
+финансовых отчётов. В App Store Connect заводите сразу `checks_10`.
 
 ## Цены
 
