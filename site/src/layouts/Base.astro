@@ -67,6 +67,16 @@ const d = t(lang);
 const hasArticles = ARTICLE_UI[lang] !== undefined;
 const isRu = lang === DEFAULT_LANG;
 const canonical = new URL(Astro.url.pathname, SITE_URL).href;
+
+/** Какой файл шрифта предзагрузить. Русский тянет кириллический набор,
+ *  латинописьменные — латинский. У китайского, японского, корейского и
+ *  арабского в Manrope нет ни одного нужного символа, и предзагрузка была бы
+ *  чистой тратой трафика на самом медленном месте загрузки. */
+const preloadFont = ['zh', 'ja', 'ko', 'ar'].includes(lang)
+  ? null
+  : lang === 'ru'
+    ? '/fonts/manrope-cyrillic.woff2'
+    : '/fonts/manrope-latin.woff2';
 // Есть перевод — есть и альтернативы; у статьи их нет, и трогать её нельзя.
 const alts = altsProp ?? (symptomSlug ? symptomAlts(symptomSlug) : page ? altsFor(page) : null);
 const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
@@ -92,6 +102,21 @@ const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
             <link rel="alternate" hreflang="x-default" href={new URL(alts.en, SITE_URL).href} />
           )}
         </>
+      )
+    }
+    <!-- Предзагрузка шрифта: без неё браузер узнаёт о нём только после разбора
+         CSS, и текст успевает мигнуть системным начертанием. Файл выбираем по
+         языку — на китайской, японской, корейской и арабской странице Manrope
+         не нужен вовсе, там работают системные шрифты. -->
+    {
+      preloadFont && (
+        <link
+          rel="preload"
+          as="font"
+          type="font/woff2"
+          href={preloadFont}
+          crossorigin="anonymous"
+        />
       )
     }
     <!-- /favicon.ico и /apple-touch-icon.png роботы запрашивают сами, даже если не объявлены:
@@ -173,7 +198,7 @@ const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
           href={pathFor('home', lang)}
           class="flex items-center gap-2 font-bold text-l text-ink no-underline"
         >
-          <img src="/icon.png" alt="" width="28" height="28" class="rounded-lg" />
+          <img src="/icon-96.png" alt="" width="28" height="28" class="rounded-lg" />
           {d.brand}
         </a>
         <!-- Иконки навигации: подписи в title и aria-label -->
