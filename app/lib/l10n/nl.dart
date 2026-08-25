@@ -18,7 +18,6 @@ const Map<String, String> nl = {
   'carFillAll': 'Vul alle velden in — het kost een halve minuut.',
   'diagnose': 'Diagnose starten',
   'diagnoseBySound': 'Meteen geluid opnemen',
-  'diagnoseBySoundNote': 'Zonder vragenlijst: alleen opname en analyse',
   'howItWorksLink': 'Hoe het werkt',
   'historyTitle': 'Geschiedenis',
   'historyEmpty':
@@ -120,8 +119,7 @@ const Map<String, String> nl = {
   'histQuick': 'snel oordeel',
   'shareText': 'Geluidsanalyse — app «Pro-Stuk», pro-stuk.com',
   'langTitle': 'Taal',
-  'langHint':
-      'Standaard de taal van je toestel. Wat nog niet vertaald is, tonen we in het Russisch.',
+  'langHint': 'Standaard de taal van het toestel.',
   'unitKm': 'km',
   'unitMi': 'mijl',
   'statusNoData': 'geen gegevens',
@@ -185,7 +183,6 @@ const Map<String, String> nl = {
   'unitsTitle': 'Afstandseenheden',
   'unitsKm': 'Kilometers',
   'unitsMi': 'Mijlen',
-  'unitsAuto': 'Zoals in het land',
   'interval2Years': 'om de twee jaar',
   'interval5Years': 'om de vijf jaar',
 };

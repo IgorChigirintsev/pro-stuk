@@ -125,13 +125,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         ],
                       ),
                     ),
-                    Align(
-                      alignment: AlignmentDirectional.centerStart,
-                      child: TextButton(
-                        onPressed: () => Units.set(null),
-                        child: Text(S.unitsAuto),
-                      ),
-                    ),
                   ],
                 ),
               ),
@@ -148,12 +141,13 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   Text(S.authSubtitle,
                       style: Theme.of(context).textTheme.bodySmall),
                   const SizedBox(height: 4),
-                  Align(
-                    alignment: AlignmentDirectional.centerStart,
-                    child: TextButton(
-                      onPressed: () => AppScope.of(context).accounts.signOut(),
-                      child: Text(S.authSignOut),
+                  const SizedBox(height: 8),
+                  OutlinedButton(
+                    onPressed: () => AppScope.of(context).accounts.signOut(),
+                    style: OutlinedButton.styleFrom(
+                      minimumSize: const Size.fromHeight(48),
                     ),
+                    child: Text(S.authSignOut),
                   ),
                 ],
               ),

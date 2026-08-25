@@ -62,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           IconButton(
             tooltip: S.bookTitle,
-            icon: const Icon(Icons.menu_book_outlined),
+            icon: const Icon(Icons.build_outlined),
             onPressed: () => Navigator.push(context,
                 MaterialPageRoute(builder: (_) => const ServiceBookScreen())),
           ),
@@ -131,11 +131,6 @@ class _HomeScreenState extends State<HomeScreen> {
               onPressed: () => Navigator.of(context).push(
                   MaterialPageRoute(builder: (_) => const RecordScreen())),
             ),
-            const SizedBox(height: 4),
-            Center(
-              child: Text(S.diagnoseBySoundNote,
-                  style: Theme.of(context).textTheme.bodySmall),
-            ),
             const SizedBox(height: 8),
             Center(
               child: TextButton(
@@ -151,7 +146,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     style: Theme.of(context).textTheme.bodySmall),
               )
             else
-              for (final e in state.historyForCar) _HistoryCard(entry: e),
+              _HistoryCard(entry: state.historyForCar.first),
           ],
         ),
       ),

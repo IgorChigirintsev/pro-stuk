@@ -18,7 +18,6 @@ const Map<String, String> tr = {
   'carFillAll': 'Tüm alanları doldurun — yarım dakika sürer.',
   'diagnose': 'Teşhis et',
   'diagnoseBySound': 'Doğrudan sesi kaydet',
-  'diagnoseBySoundNote': 'Anketsiz: yalnızca kayıt ve analiz',
   'howItWorksLink': 'Nasıl çalışır',
   'historyTitle': 'Geçmiş',
   'historyEmpty':
@@ -120,8 +119,7 @@ const Map<String, String> tr = {
   'histQuick': 'hızlı karar',
   'shareText': 'Ses analizi — «Pro-Stuk» uygulaması, pro-stuk.com',
   'langTitle': 'Dil',
-  'langHint':
-      'Varsayılan olarak cihazın dili. Henüz çevrilmemiş metinler Rusça görünür.',
+  'langHint': 'Varsayılan olarak cihazın dili.',
   'unitKm': 'km',
   'unitMi': 'mil',
   'statusNoData': 'veri yok',
@@ -185,7 +183,6 @@ const Map<String, String> tr = {
   'unitsTitle': 'Mesafe birimi',
   'unitsKm': 'Kilometre',
   'unitsMi': 'Mil',
-  'unitsAuto': 'Ülkeye göre',
   'interval2Years': 'iki yılda bir',
   'interval5Years': 'beş yılda bir',
 };

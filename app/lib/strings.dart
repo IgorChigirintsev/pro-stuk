@@ -19,7 +19,6 @@ class S {
   static String get carFillAll => L.t('carFillAll');
   static String get diagnose => L.t('diagnose');
   static String get diagnoseBySound => L.t('diagnoseBySound');
-  static String get diagnoseBySoundNote => L.t('diagnoseBySoundNote');
   static String get howItWorksLink => L.t('howItWorksLink');
   static String get historyTitle => L.t('historyTitle');
   static String get historyEmpty => L.t('historyEmpty');
@@ -191,7 +190,6 @@ class S {
   static String get unitsTitle => L.t('unitsTitle');
   static String get unitsKm => L.t('unitsKm');
   static String get unitsMi => L.t('unitsMi');
-  static String get unitsAuto => L.t('unitsAuto');
   static String get interval2Years => L.t('interval2Years');
   static String get interval5Years => L.t('interval5Years');
 }

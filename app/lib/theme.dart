@@ -84,6 +84,19 @@ ThemeData buildTheme() {
       titleTextStyle: GoogleFonts.manrope(
           fontSize: T.fs18, fontWeight: FontWeight.w700, color: T.ink),
     ),
+    // У FilledButton своей темы не было, и он оставался «таблеткой» рядом с
+    // прямоугольными соседями. Форма и размер — как у остальных кнопок.
+    filledButtonTheme: FilledButtonThemeData(
+      style: FilledButton.styleFrom(
+        backgroundColor: T.accent,
+        foregroundColor: Colors.white,
+        minimumSize: const Size(0, T.tap),
+        shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(T.rButton)),
+        textStyle:
+            GoogleFonts.manrope(fontSize: T.fs16, fontWeight: FontWeight.w600),
+      ),
+    ),
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
         backgroundColor: T.accent,

@@ -18,7 +18,6 @@ const Map<String, String> fr = {
   'carFillAll': 'Remplissez tous les champs — cela prend trente secondes.',
   'diagnose': 'Diagnostiquer',
   'diagnoseBySound': 'Enregistrer le bruit tout de suite',
-  'diagnoseBySoundNote': 'Sans questionnaire : enregistrement et analyse',
   'howItWorksLink': 'Comment ça marche',
   'historyTitle': 'Historique',
   'historyEmpty':
@@ -120,8 +119,7 @@ const Map<String, String> fr = {
   'histQuick': 'verdict rapide',
   'shareText': 'Analyse du son — application « Pro-Stuk », pro-stuk.com',
   'langTitle': 'Langue',
-  'langHint':
-      'Par défaut, la langue de l’appareil. Ce qui n’est pas encore traduit s’affiche en russe.',
+  'langHint': 'Par défaut, la langue de l’appareil.',
   'unitKm': 'km',
   'unitMi': 'mi',
   'statusNoData': 'pas de données',
@@ -185,7 +183,6 @@ const Map<String, String> fr = {
   'unitsTitle': 'Unités de distance',
   'unitsKm': 'Kilomètres',
   'unitsMi': 'Miles',
-  'unitsAuto': 'Selon le pays',
   'interval2Years': 'tous les deux ans',
   'interval5Years': 'tous les cinq ans',
 };
