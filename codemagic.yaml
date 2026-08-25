@@ -10,7 +10,12 @@
 #      роль App Manager). Назвать интеграцию ровно prostuk-asc — это имя ниже.
 #   3. В App Store Connect завести приложение с bundle ID chigirintsevandco.prostuk,
 #      иначе публиковать будет некуда.
-#   4. Для workflow android-aab: Environment variables → группа android_signing,
+#   4. Environment variables → группа appstore_credentials, переменная
+#      CERTIFICATE_PRIVATE_KEY (Secure) — закрытый ключ RSA. Apple выдаёт
+#      сертификат распространения на ключ, а не вместо него: без ключа
+#      fetch-signing-files отвечает «Cannot save Signing Certificates without
+#      certificate private key», и подписывать оказывается нечем.
+#   5. Для workflow android-aab: Environment variables → группа android_signing,
 #      переменные CM_KEYSTORE (файл key.jks), CM_KEYSTORE_PASSWORD, CM_KEY_ALIAS,
 #      CM_KEY_PASSWORD. Android при этом собирается и локально — группа нужна,
 #      только если хотите собирать .aab в облаке.
@@ -42,6 +47,12 @@ workflows:
       flutter: stable
       xcode: latest
       cocoapods: default
+      groups:
+        # Одна переменная: CERTIFICATE_PRIVATE_KEY — закрытый ключ, на который
+        # Apple выдаёт сертификат распространения. Хранится только в Codemagic:
+        # сертификат без него бесполезен, а подписать им можно что угодно от
+        # нашего имени.
+        - appstore_credentials
       vars:
         <<: *prod_env
         BUNDLE_ID: chigirintsevandco.prostuk
@@ -104,7 +115,9 @@ workflows:
         script: |
           keychain initialize
           app-store-connect fetch-signing-files "$BUNDLE_ID" \
-            --type IOS_APP_STORE --create
+            --type IOS_APP_STORE \
+            --certificate-key=@env:CERTIFICATE_PRIVATE_KEY \
+            --create
           keychain add-certificates
           xcode-project use-profiles
 
