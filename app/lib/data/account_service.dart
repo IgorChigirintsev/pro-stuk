@@ -73,6 +73,9 @@ class AccountService extends ChangeNotifier {
     }
   }
 
+  /// Причина последнего неудачного входа. Пустая, пока всё в порядке.
+  String? lastAuthError;
+
   /// Молчаливый вход: если человек уже разрешал доступ на этом устройстве,
   /// системного окна не будет.
   Future<bool> signInSilently() async {
@@ -82,9 +85,13 @@ class AccountService extends ChangeNotifier {
       await google.initialize(serverClientId: googleServerClientId);
       final account = await google.attemptLightweightAuthentication();
       final token = account?.authentication.idToken;
-      if (token == null) return false;
+      if (token == null) {
+        lastAuthError = 'silent: no id token';
+        return false;
+      }
       return _exchange('google', token);
-    } catch (_) {
+    } catch (e) {
+      lastAuthError = 'silent: $e';
       return false;
     }
   }

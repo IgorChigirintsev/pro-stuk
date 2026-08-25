@@ -28,6 +28,11 @@ class _SignInScreenState extends State<SignInScreen> {
   bool _busy = false;
   String? _error;
 
+  /// Техническая причина отказа. Показывается мелко под сообщением: без неё
+  /// сбой входа на чужом устройстве невозможно разобрать — экран сообщает
+  /// «не удалось», а почему, знает только система.
+  String? _detail;
+
   /// Шторку выбора аккаунта поднимаем сама при первом появлении экрана —
   /// человеку остаётся одно касание вместо двух. Флаг статический: после
   /// осознанного выхода из аккаунта навязываться повторно нельзя.
@@ -38,6 +43,10 @@ class _SignInScreenState extends State<SignInScreen> {
     super.initState();
     // На iPhone так не делаем: системное окно Apple поднимает Face ID, и
     // делать это без нажатия — навязчиво. App Store такое тоже не любит.
+    // Причина неудачи молчаливого входа при запуске — она случилась раньше,
+    // чем открылся этот экран.
+    final prior = AppScope.of(context).accounts.lastAuthError;
+    if (prior != null) _detail = prior;
     if (_autoTried || Platform.isIOS) return;
     _autoTried = true;
     WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -49,22 +58,36 @@ class _SignInScreenState extends State<SignInScreen> {
     setState(() {
       _busy = true;
       _error = null;
+      _detail = null;
     });
     try {
       final ok = Platform.isIOS
           ? await accounts.signInWithApple()
           : await accounts.signInWithGoogle();
       if (!ok) {
-        if (mounted && !auto) setState(() => _error = S.authFailed);
+        // Красный текст показываем только по нажатию: при самостоятельно
+        // поднятой шторке человек ничего не нажимал. Техническую причину
+        // пишем всегда — без неё сбой не разобрать.
+        if (mounted) {
+          setState(() {
+            if (!auto) _error = S.authFailed;
+            _detail = 'no id token';
+          });
+        }
         return;
       }
       // Гараж мог остаться от прежнего аккаунта или прийти с сервера.
       if (mounted) await AppScope.of(context).syncGarage();
-    } catch (_) {
+    } catch (e) {
       // Закрытую шторку не считаем ошибкой, если её подняли сами: человек
       // ничего не нажимал, и красный текст ему непонятен. Он увидит обычный
       // экран с кнопкой и решит сам.
-      if (mounted && !auto) setState(() => _error = S.authFailed);
+      if (mounted) {
+        setState(() {
+          if (!auto) _error = S.authFailed;
+          _detail = e.toString();
+        });
+      }
     } finally {
       if (mounted) setState(() => _busy = false);
     }
@@ -123,6 +146,15 @@ class _SignInScreenState extends State<SignInScreen> {
                         .textTheme
                         .bodySmall!
                         .copyWith(color: T.stop)),
+              ],
+              if (_detail != null) ...[
+                const SizedBox(height: 8),
+                SelectableText(_detail!,
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context)
+                        .textTheme
+                        .labelSmall!
+                        .copyWith(color: T.inkSoft)),
               ],
             ],
           ),
