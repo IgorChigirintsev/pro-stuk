@@ -93,6 +93,10 @@ workflows:
             --type IOS_APP_STORE --create
           keychain add-certificates
           xcode-project use-profiles
+          echo "— что оказалось в проекте после подписи —"
+          grep -n "DEVELOPMENT_TEAM\|PROVISIONING_PROFILE_SPECIFIER\|CODE_SIGN_STYLE\|CODE_SIGN_IDENTITY" \
+            ios/Runner.xcodeproj/project.pbxproj || true
+          security find-identity -p codesigning -v || true
 
       - name: Сборка .ipa
         script: |
