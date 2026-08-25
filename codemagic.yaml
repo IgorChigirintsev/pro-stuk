@@ -75,6 +75,23 @@ workflows:
           echo "Номер сборки: $NEXT (в TestFlight последний $LATEST)"
           echo "BUILD_NUMBER=$NEXT" >> "$CM_ENV"
 
+      - name: Подготовка проекта Xcode
+        # Отдельным шагом и до подписи — намеренно.
+        #
+        # flutter build правит сам проект: поднимает минимальную версию iOS,
+        # заводит зависимости через Swift Package Manager. Когда это
+        # происходило после подписи, записанные настройки не доживали до
+        # сборки, и Xcode откатывался к автоматической подписи — а она требует
+        # Apple ID, введённого руками, которого на машине сборки нет.
+        #
+        # --config-only делает всю эту подготовку и останавливается, не собирая.
+        script: |
+          flutter build ios --config-only --release \
+            --build-number="$BUILD_NUMBER" \
+            --dart-define=API_BASE_URL="$API_BASE_URL" \
+            --dart-define=SITE_URL="$SITE_URL" \
+            --dart-define=GOOGLE_SERVER_CLIENT_ID="$GOOGLE_SERVER_CLIENT_ID"
+
       - name: Сертификат и профиль подписи
         # Не блок ios_signing, хотя он короче. Тот только ищет готовый профиль
         # среди загруженных в Codemagic и останавливает сборку, не найдя:
@@ -84,28 +101,36 @@ workflows:
         # Здесь Apple просят создать недостающее: --create заводит и сертификат
         # распространения, и профиль под этот bundle ID. Ключ App Store Connect
         # приходит из интеграции prostuk-asc, отдельных переменных не нужно.
-        #
-        # use-profiles заодно готовит /Users/builder/export_options.plist,
-        # без которого flutter build ipa не соберёт архив.
         script: |
           keychain initialize
           app-store-connect fetch-signing-files "$BUNDLE_ID" \
             --type IOS_APP_STORE --create
           keychain add-certificates
           xcode-project use-profiles
-          echo "— что оказалось в проекте после подписи —"
+
+          echo "— настройки подписи в проекте —"
           grep -n "DEVELOPMENT_TEAM\|PROVISIONING_PROFILE_SPECIFIER\|CODE_SIGN_STYLE\|CODE_SIGN_IDENTITY" \
             ios/Runner.xcodeproj/project.pbxproj || true
           security find-identity -p codesigning -v || true
 
+          # Дальше идти незачем: без профиля в проекте сборка всё равно
+          # упрётся в подпись, но уже через несколько минут и с невнятной
+          # ошибкой Xcode про отсутствующий Apple ID.
+          if ! grep -q PROVISIONING_PROFILE_SPECIFIER ios/Runner.xcodeproj/project.pbxproj; then
+            echo "ОШИБКА: профиль не записан в проект — подписывать нечем"
+            exit 1
+          fi
+
       - name: Сборка .ipa
+        # Инструментом Codemagic, а не flutter build ipa. Flutter перед
+        # архивацией сам решает, чем подписывать, и ищет сертификат
+        # разработчика — которого у сборки под App Store нет и быть не должно.
+        # xcode-project берёт готовые настройки из проекта и export_options,
+        # созданные use-profiles.
         script: |
-          flutter build ipa --release \
-            --build-number="$BUILD_NUMBER" \
-            --dart-define=API_BASE_URL="$API_BASE_URL" \
-            --dart-define=SITE_URL="$SITE_URL" \
-            --dart-define=GOOGLE_SERVER_CLIENT_ID="$GOOGLE_SERVER_CLIENT_ID" \
-            --export-options-plist=/Users/builder/export_options.plist
+          xcode-project build-ipa \
+            --workspace ios/Runner.xcworkspace \
+            --scheme Runner
     artifacts:
       - build/ios/ipa/*.ipa
       - /tmp/xcodebuild_logs/*.log
