@@ -85,7 +85,11 @@ echo "==> Запуск на сервере"
 $SSH 'bash -s' <<'REMOTE'
 set -euo pipefail
 cd /opt/stuk
-docker compose up -d --build
+# --force-recreate обязателен: переменные из .env попадают в контейнер один раз,
+# при создании. Без него правка .env не доезжает до работающего процесса, и
+# сервер продолжает жить со старыми настройками. Так вход через Google молча
+# отказывал всем — ключ в файле был, а контейнер о нём не знал.
+docker compose up -d --build --force-recreate
 cd /opt/tugo/deploy
 # up -d пересоздаст caddy с новыми volume и перечитает Caddyfile
 docker compose -f docker-compose.prod.yml up -d caddy
