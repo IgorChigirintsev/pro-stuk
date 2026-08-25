@@ -32,7 +32,7 @@ func main() {
 	fmt.Println("ключ прочитан:", cfg.PlayServiceAccount)
 	fmt.Println("пакет:", cfg.AndroidPackage)
 
-	err = p.Verify(context.Background(), "checks_5", "заведомо-несуществующий-чек")
+	_, err = p.Verify(context.Background(), "checks_5", "заведомо-несуществующий-чек")
 	switch {
 	case errors.Is(err, billing.ErrNotPurchased):
 		fmt.Println("доступ есть: Google ответил, что такой покупки нет — это правильный ответ")

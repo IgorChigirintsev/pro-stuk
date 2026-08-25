@@ -21,10 +21,15 @@ type fakeStore struct {
 	product, token string
 }
 
-func (f *fakeStore) Verify(_ context.Context, productID, purchaseToken string) error {
+func (f *fakeStore) Verify(_ context.Context, productID, purchaseToken string) (string, error) {
 	f.calls++
 	f.product, f.token = productID, purchaseToken
-	return f.err
+	if f.err != nil {
+		return "", f.err
+	}
+	// Настоящий магазин возвращает свой номер покупки; поддельному хватает
+	// присланного чека.
+	return purchaseToken, nil
 }
 
 func serverWithStore(t *testing.T, fs *fakeStore) (*Server, *account.Store) {

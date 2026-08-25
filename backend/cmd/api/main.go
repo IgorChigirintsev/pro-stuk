@@ -64,6 +64,11 @@ func main() {
 	} else {
 		stores["google"] = play
 	}
+	if apple, err := billing.NewApple(cfg.AppleBundleID); err != nil {
+		slog.Warn("покупки App Store отключены", "err", err)
+	} else {
+		stores["apple"] = apple
+	}
 
 	stop := make(chan struct{})
 	go store.RunAutosave(30*time.Second, stop)

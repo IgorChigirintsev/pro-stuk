@@ -10,11 +10,14 @@ import (
 	"stuk/backend/internal/billing"
 )
 
-// StoreVerifier спрашивает у магазина, была ли покупка на самом деле.
-// Интерфейс нужен, чтобы подставлять поддельный магазин в тестах и чтобы
-// Apple встал рядом с Google без правки этой ручки.
+// StoreVerifier спрашивает у магазина, была ли покупка на самом деле, и
+// возвращает её номер в этом магазине.
+//
+// Номер возвращает магазин, а не приносит приложение: у Apple присланный чек
+// каждый раз новый для одной и той же покупки, и считать его номером значило
+// бы начислить одно и то же дважды.
 type StoreVerifier interface {
-	Verify(ctx context.Context, productID, purchaseToken string) error
+	Verify(ctx context.Context, productID, purchaseToken string) (string, error)
 }
 
 type purchaseRequest struct {
@@ -55,7 +58,8 @@ func (s *Server) handlePurchase(w http.ResponseWriter, r *http.Request) {
 			"Покупки временно недоступны, деньги не списаны.")
 		return
 	}
-	if err := verifier.Verify(r.Context(), req.ProductID, req.PurchaseToken); err != nil {
+	purchaseID, err := verifier.Verify(r.Context(), req.ProductID, req.PurchaseToken)
+	if err != nil {
 		if errors.Is(err, billing.ErrNotPurchased) {
 			writeCodedError(w, http.StatusPaymentRequired, "not_purchased",
 				"Магазин не подтвердил покупку.")
@@ -69,7 +73,7 @@ func (s *Server) handlePurchase(w http.ResponseWriter, r *http.Request) {
 	}
 
 	updated, err := s.accounts.Update(acc.ID, func(a *account.Account) error {
-		return a.Grant(req.PurchaseToken, req.ProductID, req.SlotID)
+		return a.Grant(purchaseID, req.ProductID, req.SlotID)
 	})
 	if err != nil {
 		writeAccountError(w, err)

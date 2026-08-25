@@ -96,7 +96,7 @@ func newPlay(t *testing.T, f *fakePlay) *Play {
 func TestVerifyAcceptsPaidPurchase(t *testing.T) {
 	f := newFakePlay(t)
 	p := newPlay(t, f)
-	if err := p.Verify(context.Background(), "checks_20", "чек-1"); err != nil {
+	if _, err := p.Verify(context.Background(), "checks_20", "чек-1"); err != nil {
 		t.Fatalf("оплаченная покупка не прошла: %v", err)
 	}
 	// Неподтверждённую покупку Google возвращает покупателю через три дня.
@@ -111,7 +111,7 @@ func TestVerifyRejectsUnpaid(t *testing.T) {
 		f := newFakePlay(t)
 		f.state = state
 		p := newPlay(t, f)
-		if err := p.Verify(context.Background(), "checks_20", "чек-1"); !errors.Is(err, ErrNotPurchased) {
+		if _, err := p.Verify(context.Background(), "checks_20", "чек-1"); !errors.Is(err, ErrNotPurchased) {
 			t.Fatalf("состояние %d принято: %v", state, err)
 		}
 		if f.ackCalls.Load() != 0 {
@@ -126,7 +126,7 @@ func TestVerifyRejectsUnknownPurchase(t *testing.T) {
 	f := newFakePlay(t)
 	f.notFound = true
 	p := newPlay(t, f)
-	if err := p.Verify(context.Background(), "checks_40", "выдуманный-чек"); !errors.Is(err, ErrNotPurchased) {
+	if _, err := p.Verify(context.Background(), "checks_40", "выдуманный-чек"); !errors.Is(err, ErrNotPurchased) {
 		t.Fatalf("несуществующая покупка принята: %v", err)
 	}
 }
@@ -136,7 +136,7 @@ func TestVerifySkipsSecondAcknowledge(t *testing.T) {
 	f := newFakePlay(t)
 	f.acknowledged = 1
 	p := newPlay(t, f)
-	if err := p.Verify(context.Background(), "checks_5", "чек-1"); err != nil {
+	if _, err := p.Verify(context.Background(), "checks_5", "чек-1"); err != nil {
 		t.Fatal(err)
 	}
 	if f.ackCalls.Load() != 0 {
@@ -150,7 +150,7 @@ func TestAccessTokenIsCached(t *testing.T) {
 	f := newFakePlay(t)
 	p := newPlay(t, f)
 	for i := 0; i < 4; i++ {
-		if err := p.Verify(context.Background(), "checks_5", "чек-1"); err != nil {
+		if _, err := p.Verify(context.Background(), "checks_5", "чек-1"); err != nil {
 			t.Fatal(err)
 		}
 	}

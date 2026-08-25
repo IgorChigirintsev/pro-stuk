@@ -164,22 +164,24 @@ type playPurchase struct {
 // Подтверждение обязательно: неподтверждённую покупку Google возвращает
 // покупателю через три дня. Человек заплатит, получит проверки, а деньги
 // уйдут обратно — и это будет выглядеть как наша ошибка.
-func (p *Play) Verify(ctx context.Context, productID, purchaseToken string) error {
+//
+// Возвращается сам чек: у Google он и есть номер покупки, менять его не на что.
+func (p *Play) Verify(ctx context.Context, productID, purchaseToken string) (string, error) {
 	access, err := p.accessToken(ctx)
 	if err != nil {
-		return err
+		return "", err
 	}
 	base := fmt.Sprintf("%s/androidpublisher/v3/applications/%s/purchases/products/%s/tokens/%s",
 		p.apiBase, url.PathEscape(p.packageName), url.PathEscape(productID), url.PathEscape(purchaseToken))
 
 	req, err := http.NewRequestWithContext(ctx, http.MethodGet, base, nil)
 	if err != nil {
-		return err
+		return "", err
 	}
 	req.Header.Set("Authorization", "Bearer "+access)
 	resp, err := p.client.Do(req)
 	if err != nil {
-		return err
+		return "", err
 	}
 	defer resp.Body.Close()
 	body, _ := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
@@ -187,27 +189,27 @@ func (p *Play) Verify(ctx context.Context, productID, purchaseToken string) erro
 	// сам чек не похож на выданный магазином. И то и другое означает
 	// подделку или ошибку клиента, повторять запрос бессмысленно.
 	if resp.StatusCode == http.StatusNotFound || resp.StatusCode == http.StatusBadRequest {
-		return fmt.Errorf("%w: покупка не найдена", ErrNotPurchased)
+		return "", fmt.Errorf("%w: покупка не найдена", ErrNotPurchased)
 	}
 	if resp.StatusCode != http.StatusOK {
-		return fmt.Errorf("Google не ответил по покупке: %s: %s", resp.Status, body)
+		return "", fmt.Errorf("Google не ответил по покупке: %s: %s", resp.Status, body)
 	}
 	var pur playPurchase
 	if err := json.Unmarshal(body, &pur); err != nil {
-		return err
+		return "", err
 	}
 	// 0 — оплачено. 1 — отменено, 2 — ожидает оплаты (например, наличными
 	// в терминале). Начислять в обоих последних случаях нельзя.
 	if pur.PurchaseState != 0 {
-		return fmt.Errorf("%w: состояние %d", ErrNotPurchased, pur.PurchaseState)
+		return "", fmt.Errorf("%w: состояние %d", ErrNotPurchased, pur.PurchaseState)
 	}
 
 	if pur.AcknowledgementState == 0 {
 		if err := p.acknowledge(ctx, access, productID, purchaseToken); err != nil {
-			return err
+			return "", err
 		}
 	}
-	return nil
+	return purchaseToken, nil
 }
 
 func (p *Play) acknowledge(ctx context.Context, access, productID, purchaseToken string) error {

@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:io' show Platform;
 
 import 'package:flutter/foundation.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
@@ -18,11 +19,19 @@ class Products {
   /// В Google Play пакет на десять проверок заведён с опечаткой в
   /// идентификаторе. Переименовать товар нельзя, поэтому имя знают обе
   /// стороны — и приложение, и сервер.
+  ///
+  /// В App Store тот же товар заведён правильно, и подставлять опечатку туда
+  /// нельзя: магазин не найдёт такого товара, и покупать на iPhone станет
+  /// нечего. Поэтому подмена имени — свойство магазина, а не товара.
   static const aliases = {'checks_10': 'checks_10_2'};
 
+  /// Имя, под которым товар заведён в магазине этой платформы.
+  static String storeId(String id, {bool? android}) =>
+      (android ?? Platform.isAndroid) ? (aliases[id] ?? id) : id;
+
   /// Что спрашивать у магазина.
-  static Set<String> get storeIds =>
-      {for (final id in all) aliases[id] ?? id};
+  static Set<String> storeIds({bool? android}) =>
+      {for (final id in all) storeId(id, android: android)};
 }
 
 /// Покупки: список товаров с ценами магазина и проведение оплаты.
@@ -61,7 +70,7 @@ class StoreService extends ChangeNotifier {
     loading = true;
     notifyListeners();
     try {
-      final resp = await _iap.queryProductDetails(Products.storeIds);
+      final resp = await _iap.queryProductDetails(Products.storeIds());
       products = resp.productDetails;
     } catch (_) {
       products = [];
@@ -72,7 +81,7 @@ class StoreService extends ChangeNotifier {
   }
 
   ProductDetails? product(String id) {
-    final storeId = Products.aliases[id] ?? id;
+    final storeId = Products.storeId(id);
     for (final p in products) {
       if (p.id == storeId) return p;
     }
