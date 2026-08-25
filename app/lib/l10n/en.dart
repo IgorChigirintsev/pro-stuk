@@ -181,4 +181,8 @@ const Map<String, String> en = {
   'accDeleteYes': 'Delete',
   'updDownloaded': 'Update downloaded',
   'updInstall': 'Install',
+  'unitsTitle': 'Distance units',
+  'unitsKm': 'Kilometres',
+  'unitsMi': 'Miles',
+  'unitsAuto': 'As in my country',
 };

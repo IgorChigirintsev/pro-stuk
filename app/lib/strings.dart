@@ -188,4 +188,8 @@ class S {
   static String get accDeleteYes => L.t('accDeleteYes');
   static String get updDownloaded => L.t('updDownloaded');
   static String get updInstall => L.t('updInstall');
+  static String get unitsTitle => L.t('unitsTitle');
+  static String get unitsKm => L.t('unitsKm');
+  static String get unitsMi => L.t('unitsMi');
+  static String get unitsAuto => L.t('unitsAuto');
 }

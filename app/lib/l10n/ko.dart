@@ -170,4 +170,8 @@ const Map<String, String> ko = {
   'accDeleteYes': '삭제',
   'updDownloaded': '업데이트를 내려받았습니다',
   'updInstall': '설치',
+  'unitsTitle': '거리 단위',
+  'unitsKm': '킬로미터',
+  'unitsMi': '마일',
+  'unitsAuto': '국가 기준',
 };

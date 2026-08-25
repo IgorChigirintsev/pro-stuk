@@ -171,4 +171,8 @@ const Map<String, String> ar = {
   'accDeleteYes': 'حذف',
   'updDownloaded': 'تم تنزيل التحديث',
   'updInstall': 'تثبيت',
+  'unitsTitle': 'وحدة المسافة',
+  'unitsKm': 'كيلومترات',
+  'unitsMi': 'أميال',
+  'unitsAuto': 'حسب البلد',
 };

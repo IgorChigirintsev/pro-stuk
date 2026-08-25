@@ -170,4 +170,8 @@ const Map<String, String> ja = {
   'accDeleteYes': '削除する',
   'updDownloaded': 'アップデートをダウンロードしました',
   'updInstall': 'インストール',
+  'unitsTitle': '距離の単位',
+  'unitsKm': 'キロメートル',
+  'unitsMi': 'マイル',
+  'unitsAuto': '国に合わせる',
 };

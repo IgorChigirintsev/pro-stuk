@@ -182,4 +182,8 @@ const Map<String, String> nl = {
   'accDeleteYes': 'Verwijderen',
   'updDownloaded': 'Update gedownload',
   'updInstall': 'Installeren',
+  'unitsTitle': 'Afstandseenheden',
+  'unitsKm': 'Kilometers',
+  'unitsMi': 'Mijlen',
+  'unitsAuto': 'Zoals in het land',
 };

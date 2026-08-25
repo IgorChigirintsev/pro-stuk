@@ -168,4 +168,8 @@ const Map<String, String> ru = {
   'accDeleteYes': 'Удалить',
   'updDownloaded': 'Обновление загружено',
   'updInstall': 'Установить',
+  'unitsTitle': 'Единицы пробега',
+  'unitsKm': 'Километры',
+  'unitsMi': 'Мили',
+  'unitsAuto': 'Как в стране',
 };

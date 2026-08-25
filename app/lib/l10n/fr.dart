@@ -182,4 +182,8 @@ const Map<String, String> fr = {
   'accDeleteYes': 'Supprimer',
   'updDownloaded': 'Mise à jour téléchargée',
   'updInstall': 'Installer',
+  'unitsTitle': 'Unités de distance',
+  'unitsKm': 'Kilomètres',
+  'unitsMi': 'Miles',
+  'unitsAuto': 'Selon le pays',
 };

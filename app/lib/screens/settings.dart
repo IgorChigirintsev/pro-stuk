@@ -7,6 +7,7 @@ import '../site_links.dart';
 import '../api.dart';
 import '../l10n/device_locale.dart';
 import '../l10n/locale_service.dart';
+import '../data/units.dart';
 import '../state.dart';
 import '../theme.dart';
 import '../strings.dart';
@@ -98,6 +99,44 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ],
               ),
             ),
+            SectionTitle(S.unitsTitle),
+            SurfaceCard(
+              child: ValueListenableBuilder<bool>(
+                valueListenable: Units.miles,
+                builder: (context, miles, _) => Column(
+                  children: [
+                    // Внутри всё хранится в километрах, мили только на экране:
+                    // иначе смена единиц сдвинула бы все сохранённые записи.
+                    RadioGroup<bool>(
+                      groupValue: miles,
+                      onChanged: (v) => Units.set(v ?? false),
+                      child: Column(
+                        children: [
+                          RadioListTile<bool>(
+                            contentPadding: EdgeInsets.zero,
+                            value: false,
+                            title: Text(S.unitsKm),
+                          ),
+                          RadioListTile<bool>(
+                            contentPadding: EdgeInsets.zero,
+                            value: true,
+                            title: Text(S.unitsMi),
+                          ),
+                        ],
+                      ),
+                    ),
+                    Align(
+                      alignment: AlignmentDirectional.centerStart,
+                      child: TextButton(
+                        onPressed: () => Units.set(null),
+                        child: Text(S.unitsAuto),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+            const SizedBox(height: 20),
             SectionTitle(S.authTitle),
             SurfaceCard(
               child: Row(
@@ -114,13 +153,15 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ],
               ),
             ),
-            const SizedBox(height: 8),
-            Align(
-              alignment: AlignmentDirectional.centerStart,
-              child: TextButton.icon(
-                onPressed: () => _confirmDelete(context),
-                icon: const Icon(Icons.delete_forever, color: T.stop),
-                label: Text(S.accDelete, style: const TextStyle(color: T.stop)),
+            const SizedBox(height: 12),
+            OutlinedButton.icon(
+              onPressed: () => _confirmDelete(context),
+              icon: const Icon(Icons.delete_forever, size: 18),
+              label: Text(S.accDelete),
+              style: OutlinedButton.styleFrom(
+                foregroundColor: T.stop,
+                side: const BorderSide(color: T.stop),
+                minimumSize: const Size.fromHeight(48),
               ),
             ),
             const SizedBox(height: 20),

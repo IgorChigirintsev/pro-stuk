@@ -15,7 +15,10 @@ import 'record.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import 'history.dart';
 import 'report.dart';
+import 'service_book.dart';
+import 'settings.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -48,11 +51,32 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         title: Text(S.appName),
         actions: [
+          // Четыре раздела в шапке: гараж, сервисная книжка, история, настройки.
+          // Раньше три из них лежали внутри гаража, и до истории приходилось
+          // скроллить мимо всего остального.
           IconButton(
             tooltip: S.garageTitle,
             icon: const Icon(Icons.directions_car_outlined),
             onPressed: () => Navigator.push(context,
                 MaterialPageRoute(builder: (_) => const GarageScreen())),
+          ),
+          IconButton(
+            tooltip: S.bookTitle,
+            icon: const Icon(Icons.menu_book_outlined),
+            onPressed: () => Navigator.push(context,
+                MaterialPageRoute(builder: (_) => const ServiceBookScreen())),
+          ),
+          IconButton(
+            tooltip: S.historyTitle,
+            icon: const Icon(Icons.history),
+            onPressed: () => Navigator.push(context,
+                MaterialPageRoute(builder: (_) => const HistoryScreen())),
+          ),
+          IconButton(
+            tooltip: S.setTitle,
+            icon: const Icon(Icons.settings_outlined),
+            onPressed: () => Navigator.push(context,
+                MaterialPageRoute(builder: (_) => const SettingsScreen())),
           ),
         ],
       ),

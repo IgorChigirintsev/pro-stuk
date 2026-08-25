@@ -170,4 +170,8 @@ const Map<String, String> zh = {
   'accDeleteYes': '删除',
   'updDownloaded': '更新已下载',
   'updInstall': '安装',
+  'unitsTitle': '距离单位',
+  'unitsKm': '公里',
+  'unitsMi': '英里',
+  'unitsAuto': '按所在国家',
 };

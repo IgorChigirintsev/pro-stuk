@@ -182,4 +182,8 @@ const Map<String, String> tr = {
   'accDeleteYes': 'Sil',
   'updDownloaded': 'Güncelleme indirildi',
   'updInstall': 'Yükle',
+  'unitsTitle': 'Mesafe birimi',
+  'unitsKm': 'Kilometre',
+  'unitsMi': 'Mil',
+  'unitsAuto': 'Ülkeye göre',
 };
