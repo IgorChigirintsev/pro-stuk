@@ -42,11 +42,9 @@ workflows:
       flutter: stable
       xcode: latest
       cocoapods: default
-      ios_signing:
-        distribution_type: app_store
-        bundle_identifier: chigirintsevandco.prostuk
       vars:
         <<: *prod_env
+        BUNDLE_ID: chigirintsevandco.prostuk
     scripts:
       - name: Зависимости Flutter
         script: flutter pub get
@@ -77,9 +75,24 @@ workflows:
           echo "Номер сборки: $NEXT (в TestFlight последний $LATEST)"
           echo "BUILD_NUMBER=$NEXT" >> "$CM_ENV"
 
-      - name: Профили подписи в проект Xcode
-        # Создаёт /Users/builder/export_options.plist, который нужен flutter build ipa.
-        script: xcode-project use-profiles
+      - name: Сертификат и профиль подписи
+        # Не блок ios_signing, хотя он короче. Тот только ищет готовый профиль
+        # среди загруженных в Codemagic и останавливает сборку, не найдя:
+        # «No matching profiles found». У нового приложения профиля и не может
+        # быть, а создать его Codemagic сам не предлагает.
+        #
+        # Здесь Apple просят создать недостающее: --create заводит и сертификат
+        # распространения, и профиль под этот bundle ID. Ключ App Store Connect
+        # приходит из интеграции prostuk-asc, отдельных переменных не нужно.
+        #
+        # use-profiles заодно готовит /Users/builder/export_options.plist,
+        # без которого flutter build ipa не соберёт архив.
+        script: |
+          keychain initialize
+          app-store-connect fetch-signing-files "$BUNDLE_ID" \
+            --type IOS_APP_STORE --create
+          keychain add-certificates
+          xcode-project use-profiles
 
       - name: Сборка .ipa
         script: |
