@@ -39,7 +39,7 @@ func main() {
 		slog.Error("GEMINI_API_KEY не задан — сервер не стартует. Заполните .env по образцу backend/.env.example")
 		os.Exit(1)
 	}
-	var analyzer report.Analyzer = gemini.New(cfg.GeminiAPIKey, cfg.GeminiModel)
+	var analyzer report.Analyzer = gemini.New(cfg.GeminiAPIKey, cfg.GeminiModel, cfg.GeminiFallback)
 
 	statsStore, err := stats.Open(cfg.DataDir, os.Getenv("ANALYTICS_TZ"))
 	if err != nil {

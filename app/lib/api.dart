@@ -79,7 +79,7 @@ class ApiClient {
 
     http.StreamedResponse streamed;
     try {
-      streamed = await _client.send(req).timeout(const Duration(seconds: 80));
+      streamed = await _client.send(req).timeout(const Duration(seconds: 95));
     } on TimeoutException {
       throw ApiException(S.anErrTimeout);
     } on SocketException {

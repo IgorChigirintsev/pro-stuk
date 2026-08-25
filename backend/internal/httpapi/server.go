@@ -32,8 +32,10 @@ const (
 	maxBodyBytes   = 6 << 20 // 6 МБ
 	minDurationSec = 5.0
 	maxDurationSec = 35.0
-	reportTimeout  = 75 * time.Second
-	ipRateLimit    = 10 // запросов в минуту на IP
+	// Две попытки к Gemini по 40 секунд плюс запас. Верхний предел ставит не
+	// наш сервер, а Cloudflare: он рвёт соединение к origin на сотой секунде.
+	reportTimeout = 85 * time.Second
+	ipRateLimit   = 10 // запросов в минуту на IP
 )
 
 type Server struct {

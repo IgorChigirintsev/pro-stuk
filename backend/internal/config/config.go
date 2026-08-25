@@ -12,9 +12,11 @@ import (
 )
 
 type Config struct {
-	Port           string
-	GeminiAPIKey   string
-	GeminiModel    string
+	Port         string
+	GeminiAPIKey string
+	GeminiModel  string
+	// Запасная модель на случай перегрузки основной.
+	GeminiFallback string
 	DailyFreeLimit int
 	PublicSiteURL  string
 	LatestVersion  string
@@ -44,7 +46,8 @@ func Load() (Config, error) {
 	cfg := Config{
 		Port:               getenv("PORT", "8080"),
 		GeminiAPIKey:       os.Getenv("GEMINI_API_KEY"),
-		GeminiModel:        getenv("GEMINI_MODEL", "gemini-flash-latest"),
+		GeminiModel:        getenv("GEMINI_MODEL", "gemini-3.5-flash"),
+		GeminiFallback:     getenv("GEMINI_FALLBACK_MODEL", "gemini-3.6-flash"),
 		PublicSiteURL:      getenv("PUBLIC_SITE_URL", "https://example.kz"),
 		LatestVersion:      getenv("LATEST_APP_VERSION", "1.0.0"),
 		DataDir:            getenv("DATA_DIR", "data"),

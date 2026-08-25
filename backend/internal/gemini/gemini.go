@@ -9,6 +9,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
+	"log/slog"
 	"net/http"
 	"strings"
 	"time"
@@ -27,18 +28,85 @@ func (e *ErrAudioNotCar) Error() string {
 	return "запись не про автомобиль: " + e.Note
 }
 
+// Сколько ждать одну попытку. Меньше, чем кажется разумным, и намеренно:
+// попыток две, а весь запрос должен уложиться в сто секунд — столько держит
+// соединение Cloudflare, дальше посетитель получает свою ошибку вместо нашей.
+const attemptTimeout = 40 * time.Second
+
 type Client struct {
 	apiKey string
 	model  string
-	httpc  *http.Client
+	// Запасная модель. Спрос на модели Gemini скачет, и перегруженная отвечает
+	// отказом 503 за считанные секунды — этого хватает, чтобы успеть спросить
+	// другую и всё-таки выдать человеку разбор.
+	fallback string
+	httpc    *http.Client
 }
 
-func New(apiKey, model string) *Client {
+func New(apiKey, model, fallback string) *Client {
 	return &Client{
-		apiKey: apiKey,
-		model:  model,
-		httpc:  &http.Client{Timeout: 70 * time.Second},
+		apiKey:   apiKey,
+		model:    model,
+		fallback: fallback,
+		// Срок держим на попытке, а не на клиенте: у клиента он один на всё.
+		httpc: &http.Client{},
 	}
+}
+
+// overloaded: отказ из-за нагрузки у Google, а не из-за нашего запроса.
+// Такое лечится повтором на другой модели; всё остальное — нет.
+func overloaded(status int) bool {
+	return status == http.StatusServiceUnavailable ||
+		status == http.StatusTooManyRequests ||
+		status == http.StatusInternalServerError ||
+		status == http.StatusGatewayTimeout
+}
+
+// ask спрашивает основную модель, а при перегрузке — запасную.
+func (c *Client) ask(ctx context.Context, raw []byte) ([]byte, error) {
+	models := []string{c.model}
+	if c.fallback != "" && c.fallback != c.model {
+		models = append(models, c.fallback)
+	}
+	var last error
+	for _, m := range models {
+		body, status, err := c.askOnce(ctx, m, raw)
+		switch {
+		case err != nil:
+			last = fmt.Errorf("запрос к Gemini (%s): %w", m, err)
+		case status == http.StatusOK:
+			return body, nil
+		case overloaded(status):
+			last = fmt.Errorf("Gemini (%s) ответил %d: %s", m, status, truncate(string(body), 400))
+		default:
+			// Отказ по существу: неверный запрос, кончился ключ, нет модели.
+			// Другая модель ответит тем же — повторять незачем.
+			return nil, fmt.Errorf("Gemini (%s) ответил %d: %s", m, status, truncate(string(body), 400))
+		}
+		slog.Warn("модель не ответила, пробуем следующую", "model", m, "err", last)
+	}
+	return nil, last
+}
+
+func (c *Client) askOnce(ctx context.Context, model string, raw []byte) ([]byte, int, error) {
+	ctx, cancel := context.WithTimeout(ctx, attemptTimeout)
+	defer cancel()
+
+	req, err := http.NewRequestWithContext(ctx, http.MethodPost,
+		fmt.Sprintf(endpoint, model), bytes.NewReader(raw))
+	if err != nil {
+		return nil, 0, err
+	}
+	req.Header.Set("Content-Type", "application/json")
+	req.Header.Set("x-goog-api-key", c.apiKey)
+
+	resp, err := c.httpc.Do(req)
+	if err != nil {
+		return nil, 0, err
+	}
+	defer resp.Body.Close()
+	body, _ := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
+	return body, resp.StatusCode, nil
 }
 
 // Язык ответа: модель пишет отчёт на языке пользователя, а не на языке промта.
@@ -201,21 +269,9 @@ func (c *Client) Analyze(ctx context.Context, meta report.Meta, features dsp.Fea
 		return report.Report{}, report.Usage{}, err
 	}
 
-	req, err := http.NewRequestWithContext(ctx, http.MethodPost, fmt.Sprintf(endpoint, c.model), bytes.NewReader(raw))
+	respBody, err := c.ask(ctx, raw)
 	if err != nil {
 		return report.Report{}, report.Usage{}, err
-	}
-	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("x-goog-api-key", c.apiKey)
-
-	resp, err := c.httpc.Do(req)
-	if err != nil {
-		return report.Report{}, report.Usage{}, fmt.Errorf("запрос к Gemini: %w", err)
-	}
-	defer resp.Body.Close()
-	respBody, _ := io.ReadAll(io.LimitReader(resp.Body, 1<<20))
-	if resp.StatusCode != http.StatusOK {
-		return report.Report{}, report.Usage{}, fmt.Errorf("Gemini ответил %d: %s", resp.StatusCode, truncate(string(respBody), 400))
 	}
 
 	var parsed struct {
