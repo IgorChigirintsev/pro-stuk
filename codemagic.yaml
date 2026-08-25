@@ -58,13 +58,24 @@ workflows:
           flutter analyze --no-pub
           flutter test
 
-      - name: Номер сборки на единицу больше последнего в TestFlight
+      - name: Номер сборки, которого ещё не было
         # App Store отвергает повторный CFBundleVersion, а versionCode из
         # pubspec.yaml живёт своей жизнью и считает сборки Android.
+        #
+        # Спрашиваем TestFlight, но не полагаемся на ответ: в первой сборке
+        # приложения там ещё ничего нет, а без ключа ASC запрос и вовсе не
+        # пройдёт. Поэтому снизу подпирает счётчик сборок самого Codemagic —
+        # он растёт всегда, и повторный номер получиться не может.
         script: |
           LATEST=$(app-store-connect get-latest-testflight-build-number \
-            "$APP_STORE_APPLE_ID" --bundle-id chigirintsevandco.prostuk 2>/dev/null || echo 0)
-          echo "BUILD_NUMBER=$((LATEST + 1))" >> "$CM_ENV"
+            "$APP_STORE_APPLE_ID" 2>/dev/null || echo 0)
+          case "$LATEST" in ''|*[!0-9]*) LATEST=0 ;; esac
+          NEXT=$((LATEST + 1))
+          if [ "$NEXT" -lt "$PROJECT_BUILD_NUMBER" ]; then
+            NEXT="$PROJECT_BUILD_NUMBER"
+          fi
+          echo "Номер сборки: $NEXT (в TestFlight последний $LATEST)"
+          echo "BUILD_NUMBER=$NEXT" >> "$CM_ENV"
 
       - name: Профили подписи в проект Xcode
         # Создаёт /Users/builder/export_options.plist, который нужен flutter build ipa.
