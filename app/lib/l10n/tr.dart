@@ -129,7 +129,7 @@ const Map<String, String> tr = {
   'statusDriven': 'gidildi',
   'statusLimit': 'sınır',
   'intervalYear': 'yılda bir',
-  'intervalYears': 'her, yılda:',
+  'intervalYears': '{n} yılda bir',
 
   // Строки, которые раньше были зашиты в код экранов и в ответы сервера.
   'recInstr1': 'Motor çalışıyor.',
@@ -186,4 +186,6 @@ const Map<String, String> tr = {
   'unitsKm': 'Kilometre',
   'unitsMi': 'Mil',
   'unitsAuto': 'Ülkeye göre',
+  'interval2Years': 'iki yılda bir',
+  'interval5Years': 'beş yılda bir',
 };

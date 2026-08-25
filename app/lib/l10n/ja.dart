@@ -117,7 +117,7 @@ const Map<String, String> ja = {
   'statusDriven': '走行',
   'statusLimit': '上限',
   'intervalYear': '年に1回',
-  'intervalYears': 'ごと（年）:',
+  'intervalYears': '{n}年に1回',
 
   // Строки, которые раньше были зашиты в код экранов и в ответы сервера.
   'recInstr1': 'エンジンをかけた状態で。',
@@ -174,4 +174,6 @@ const Map<String, String> ja = {
   'unitsKm': 'キロメートル',
   'unitsMi': 'マイル',
   'unitsAuto': '国に合わせる',
+  'interval2Years': '2年に1回',
+  'interval5Years': '5年に1回',
 };

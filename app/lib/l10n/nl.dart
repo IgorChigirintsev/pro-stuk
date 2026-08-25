@@ -129,7 +129,7 @@ const Map<String, String> nl = {
   'statusDriven': 'gereden',
   'statusLimit': 'limiet',
   'intervalYear': 'eens per jaar',
-  'intervalYears': 'elke, jaar:',
+  'intervalYears': 'om de {n} jaar',
 
   // Строки, которые раньше были зашиты в код экранов и в ответы сервера.
   'recInstr1': 'De motor draait.',
@@ -186,4 +186,6 @@ const Map<String, String> nl = {
   'unitsKm': 'Kilometers',
   'unitsMi': 'Mijlen',
   'unitsAuto': 'Zoals in het land',
+  'interval2Years': 'om de twee jaar',
+  'interval5Years': 'om de vijf jaar',
 };

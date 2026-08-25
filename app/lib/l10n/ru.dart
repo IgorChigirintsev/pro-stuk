@@ -115,7 +115,7 @@ const Map<String, String> ru = {
   'statusDriven': 'проехали',
   'statusLimit': 'крайний срок',
   'intervalYear': 'раз в год',
-  'intervalYears': 'раз в, лет:',
+  'intervalYears': 'раз в {n} лет',
 
   // Строки, которые раньше были зашиты в код экранов и в ответы сервера.
   'recInstr1': 'Двигатель заведён.',
@@ -172,4 +172,6 @@ const Map<String, String> ru = {
   'unitsKm': 'Километры',
   'unitsMi': 'Мили',
   'unitsAuto': 'Как в стране',
+  'interval2Years': 'раз в два года',
+  'interval5Years': 'раз в пять лет',
 };

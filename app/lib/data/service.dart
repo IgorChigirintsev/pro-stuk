@@ -119,8 +119,16 @@ String intervalText(Consumable c) {
         : Units.fmt(c.kmMin!));
   }
   if (c.months != null) {
+    // Числительное согласуется с существительным в русском, польском и
+    // арабском, поэтому два встречающихся значения записаны словами целиком,
+    // а шаблон остаётся на случай новых интервалов.
     final y = c.months! ~/ 12;
-    parts.add(y <= 1 ? S.intervalYear : '${S.intervalYears} $y');
+    parts.add(switch (y) {
+      <= 1 => S.intervalYear,
+      2 => S.interval2Years,
+      5 => S.interval5Years,
+      _ => S.intervalYears.replaceFirst('{n}', '$y'),
+    });
   }
   return parts.join(' · ');
 }

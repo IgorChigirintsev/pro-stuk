@@ -139,16 +139,21 @@ class _SettingsScreenState extends State<SettingsScreen> {
             const SizedBox(height: 20),
             SectionTitle(S.authTitle),
             SurfaceCard(
-              child: Row(
+              // Текст и кнопка в столбец, а не в строку: «Выйти из аккаунта»
+              // на длинных языках съедает половину ширины и сжимает пояснение
+              // в колонку по три слова.
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Expanded(
-                    child: Text(S.authSubtitle,
-                        style: Theme.of(context).textTheme.bodySmall),
-                  ),
-                  const SizedBox(width: 12),
-                  TextButton(
-                    onPressed: () => AppScope.of(context).accounts.signOut(),
-                    child: Text(S.authSignOut),
+                  Text(S.authSubtitle,
+                      style: Theme.of(context).textTheme.bodySmall),
+                  const SizedBox(height: 4),
+                  Align(
+                    alignment: AlignmentDirectional.centerStart,
+                    child: TextButton(
+                      onPressed: () => AppScope.of(context).accounts.signOut(),
+                      child: Text(S.authSignOut),
+                    ),
                   ),
                 ],
               ),

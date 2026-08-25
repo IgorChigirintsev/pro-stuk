@@ -117,7 +117,7 @@ const Map<String, String> zh = {
   'statusDriven': '已行驶',
   'statusLimit': '上限',
   'intervalYear': '每年一次',
-  'intervalYears': '每（年）:',
+  'intervalYears': '每 {n} 年一次',
 
   // Строки, которые раньше были зашиты в код экранов и в ответы сервера.
   'recInstr1': '发动机处于运转状态。',
@@ -174,4 +174,6 @@ const Map<String, String> zh = {
   'unitsKm': '公里',
   'unitsMi': '英里',
   'unitsAuto': '按所在国家',
+  'interval2Years': '每两年一次',
+  'interval5Years': '每五年一次',
 };

@@ -117,7 +117,7 @@ const Map<String, String> ko = {
   'statusDriven': '주행',
   'statusLimit': '한계',
   'intervalYear': '1년에 한 번',
-  'intervalYears': '마다(년):',
+  'intervalYears': '{n}년에 한 번',
 
   // Строки, которые раньше были зашиты в код экранов и в ответы сервера.
   'recInstr1': '시동이 걸린 상태로.',
@@ -174,4 +174,6 @@ const Map<String, String> ko = {
   'unitsKm': '킬로미터',
   'unitsMi': '마일',
   'unitsAuto': '국가 기준',
+  'interval2Years': '2년에 한 번',
+  'interval5Years': '5년에 한 번',
 };

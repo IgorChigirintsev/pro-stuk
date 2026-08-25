@@ -192,4 +192,6 @@ class S {
   static String get unitsKm => L.t('unitsKm');
   static String get unitsMi => L.t('unitsMi');
   static String get unitsAuto => L.t('unitsAuto');
+  static String get interval2Years => L.t('interval2Years');
+  static String get interval5Years => L.t('interval5Years');
 }

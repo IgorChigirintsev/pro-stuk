@@ -129,7 +129,7 @@ const Map<String, String> es = {
   'statusDriven': 'recorridos',
   'statusLimit': 'límite',
   'intervalYear': 'una vez al año',
-  'intervalYears': 'cada, años:',
+  'intervalYears': 'cada {n} años',
 
   // Строки, которые раньше были зашиты в код экранов и в ответы сервера.
   'recInstr1': 'El motor está en marcha.',
@@ -186,4 +186,6 @@ const Map<String, String> es = {
   'unitsKm': 'Kilómetros',
   'unitsMi': 'Millas',
   'unitsAuto': 'Según el país',
+  'interval2Years': 'cada dos años',
+  'interval5Years': 'cada cinco años',
 };

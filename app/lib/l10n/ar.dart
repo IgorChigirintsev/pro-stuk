@@ -118,7 +118,7 @@ const Map<String, String> ar = {
   'statusDriven': 'مقطوعة',
   'statusLimit': 'الحد',
   'intervalYear': 'مرة في السنة',
-  'intervalYears': 'كل (سنوات):',
+  'intervalYears': 'مرة كل {n} سنوات',
 
   // Строки, которые раньше были зашиты в код экранов и в ответы сервера.
   'recInstr1': 'المحرك يعمل.',
@@ -175,4 +175,6 @@ const Map<String, String> ar = {
   'unitsKm': 'كيلومترات',
   'unitsMi': 'أميال',
   'unitsAuto': 'حسب البلد',
+  'interval2Years': 'مرة كل سنتين',
+  'interval5Years': 'مرة كل خمس سنوات',
 };
