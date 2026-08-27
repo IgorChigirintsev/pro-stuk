@@ -44,21 +44,34 @@ const BEZEL = 22;
 const RADIUS = 78;
 const SCALE = SCREEN_W / SRC_W;
 
-// Оттенок меняется от карточки к карточке. Восемь одинаковых плашек в ряд
-// читаются как одна: глаз перестаёт их различать и пролистывает. Разные —
-// заставляют задержаться на каждой, а семейство держится тем, что все они
-// вокруг фирменной бирюзы.
-const SCHEMES = [
-  { top: '#19A89F', bottom: '#053C38', accent: '#FFD166' },
-  { top: '#1AA277', bottom: '#04382C', accent: '#FFE08A' },
-  { top: '#1391A8', bottom: '#053241', accent: '#FFCB6B' },
-  { top: '#0F8F86', bottom: '#04302C', accent: '#F6B93B' },
-];
+// Фон — одно полотно на весь набор, а карточка вырезает из него свой кусок.
+// Разложенные по порядку, они складываются в непрерывную ленту без стыков:
+// цвет течёт слева направо, а пятна света переходят с одной на другую.
+//
+// Отсюда единственное правило, которое здесь легко нарушить: всё, что тянется
+// поперёк, задаётся в координатах ленты и сдвигается на -i*W. Всё, что
+// повторяется на каждой карточке, должно быть либо симметричным, либо
+// вертикальным — иначе на стыке появится ступенька.
+const TOTAL = () => W * shots.length;
 
 const T = {
   ink: '#FFFFFF',
+  accent: '#FFD166', // один на весь набор: фон меняется, ударение — нет
   bezel: '#0C1113',
 };
+
+// Путь цвета по ленте: от яркой бирюзы через зелень к синеве и обратно.
+const JOURNEY = ['#1BB3A6', '#19A57F', '#149A9B', '#1183A6', '#0F8F86', '#17AD97'];
+
+// Пятна света. Посажены на границы карточек: половина такого пятна на одной,
+// половина на следующей — именно это и читается как непрерывность.
+const BLOBS = [
+  { x: 1.15, y: 300, r: 520, o: 0.10 },
+  { x: 2.90, y: 2180, r: 720, o: 0.08 },
+  { x: 4.05, y: 200, r: 460, o: 0.10 },
+  { x: 5.80, y: 2400, r: 820, o: 0.07 },
+  { x: 7.10, y: 350, r: 560, o: 0.09 },
+];
 
 /** Знак: та же звуковая волна, что в иконке приложения. Ставится над
  *  подписью — карточка сразу говорит, что приложение про звук, ещё до
@@ -96,7 +109,6 @@ function esc(s) {
 }
 
 function svgFor(shot, i) {
-  const c = SCHEMES[i % SCHEMES.length];
   const b64 = readFileSync(join(shotsDir, shot.file)).toString('base64');
   const imgH = Math.round(SRC_H * SCALE);
   // Снимок сдвигается вверх на срезанную строку состояния; лишнее отсекает
@@ -105,25 +117,37 @@ function svgFor(shot, i) {
   // снимайте экран заново с нужной прокруткой.
   const imgY = SCREEN_Y - Math.round(CROP_TOP * SCALE);
   const boxH = H - SCREEN_Y + 120;
+  const total = TOTAL();
+
+  const hueStops = JOURNEY.map((c, n) =>
+    `      <stop offset="${(n / (JOURNEY.length - 1)).toFixed(4)}" stop-color="${c}"/>`).join('\n');
+
+  const blobs = BLOBS.map(b =>
+    `      <circle cx="${Math.round(b.x * W)}" cy="${b.y}" r="${b.r}"
+              fill="url(#blob)" opacity="${b.o}"/>`).join('\n');
 
   const lines = shot.en.map((t, n) =>
     `      <text x="${W / 2}" y="${330 + n * 112}" text-anchor="middle"
         font-family="Manrope, Inter, -apple-system, sans-serif"
         font-size="88" font-weight="800" letter-spacing="-1.5"
-        fill="${n === 0 ? T.ink : c.accent}"
+        fill="${n === 0 ? T.ink : T.accent}"
         >${esc(t)}</text>`).join('\n');
 
   return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <defs>
-    <linearGradient id="bg" x1="0.15" y1="0" x2="0.85" y2="1">
-      <stop offset="0" stop-color="${c.top}"/>
-      <stop offset="1" stop-color="${c.bottom}"/>
+    <linearGradient id="hue" x1="0" y1="0" x2="1" y2="0">
+${hueStops}
     </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.30" r="0.75">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.30"/>
+    <radialGradient id="blob">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="0.45" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#001A18" stop-opacity="0.55"/>
+    </linearGradient>
     <filter id="shadow" x="-30%" y="-10%" width="160%" height="130%">
       <feDropShadow dx="0" dy="30" stdDeviation="46" flood-color="#00201E" flood-opacity="0.6"/>
     </filter>
@@ -133,8 +157,11 @@ function svgFor(shot, i) {
   </defs>
 
   <g id="Фон">
-    <rect width="${W}" height="${H}" fill="url(#bg)"/>
-    <rect width="${W}" height="${H}" fill="url(#glow)"/>
+    <g id="Лента" transform="translate(${-i * W},0)">
+      <rect width="${total}" height="${H}" fill="url(#hue)"/>
+${blobs}
+    </g>
+    <rect width="${W}" height="${H}" fill="url(#fade)"/>
   </g>
 
   <g id="Волна">
@@ -184,5 +211,25 @@ ${svg}`;
   console.log(`готово ${name}: ${shot.en.join(' ')}`);
 }
 
+// Склейка всей ленты одной картинкой. Не для магазина — для глаза: только
+// так видно, сошёлся ли фон на стыках. Порядок в консоли магазина обязан
+// совпадать с нумерацией файлов, иначе панорама рассыплется.
+const strip = shots.map((_, n) => {
+  const f = join(pngDir, `${String(n + 1).padStart(2, '0')}.png`);
+  return `<img src="data:image/png;base64,${readFileSync(f).toString('base64')}">`;
+}).join('');
+const stripPage = join(tmpDir, 'strip.html');
+writeFileSync(stripPage, `<!doctype html><meta charset="utf-8">
+<style>html,body{margin:0;padding:0;background:#111}
+.s{display:flex;transform:scale(0.25);transform-origin:0 0}
+img{display:block;width:${W}px;height:${H}px}</style>
+<div class="s">${strip}</div>`);
+execFileSync(CHROME, [
+  '--headless', '--disable-gpu', '--hide-scrollbars',
+  `--window-size=${Math.round(W * shots.length * 0.25)},${Math.round(H * 0.25)}`,
+  `--screenshot=${join(here, 'appstore', 'panorama.png')}`,
+  `file://${stripPage}`,
+], { stdio: 'ignore' });
+
 rmSync(tmpDir, { recursive: true, force: true });
-console.log(`\nSVG: ${svgDir}\nPNG: ${pngDir}`);
+console.log(`\nSVG: ${svgDir}\nPNG: ${pngDir}\nЛента целиком: ${join(here, 'appstore', 'panorama.png')}`);

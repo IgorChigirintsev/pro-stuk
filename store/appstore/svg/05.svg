@@ -1,14 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      width="1242" height="2688" viewBox="0 0 1242 2688">
   <defs>
-    <linearGradient id="bg" x1="0.15" y1="0" x2="0.85" y2="1">
-      <stop offset="0" stop-color="#19A89F"/>
-      <stop offset="1" stop-color="#053C38"/>
+    <linearGradient id="hue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.0000" stop-color="#1BB3A6"/>
+      <stop offset="0.2000" stop-color="#19A57F"/>
+      <stop offset="0.4000" stop-color="#149A9B"/>
+      <stop offset="0.6000" stop-color="#1183A6"/>
+      <stop offset="0.8000" stop-color="#0F8F86"/>
+      <stop offset="1.0000" stop-color="#17AD97"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.30" r="0.75">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.30"/>
+    <radialGradient id="blob">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="0.45" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#001A18" stop-opacity="0.55"/>
+    </linearGradient>
     <filter id="shadow" x="-30%" y="-10%" width="160%" height="130%">
       <feDropShadow dx="0" dy="30" stdDeviation="46" flood-color="#00201E" flood-opacity="0.6"/>
     </filter>
@@ -18,8 +27,20 @@
   </defs>
 
   <g id="Фон">
-    <rect width="1242" height="2688" fill="url(#bg)"/>
-    <rect width="1242" height="2688" fill="url(#glow)"/>
+    <g id="Лента" transform="translate(-4968,0)">
+      <rect width="9936" height="2688" fill="url(#hue)"/>
+      <circle cx="1428" cy="300" r="520"
+              fill="url(#blob)" opacity="0.1"/>
+      <circle cx="3602" cy="2180" r="720"
+              fill="url(#blob)" opacity="0.08"/>
+      <circle cx="5030" cy="200" r="460"
+              fill="url(#blob)" opacity="0.1"/>
+      <circle cx="7204" cy="2400" r="820"
+              fill="url(#blob)" opacity="0.07"/>
+      <circle cx="8818" cy="350" r="560"
+              fill="url(#blob)" opacity="0.09"/>
+    </g>
+    <rect width="1242" height="2688" fill="url(#fade)"/>
   </g>
 
   <g id="Волна">
