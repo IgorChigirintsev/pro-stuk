@@ -36,3 +36,10 @@ site/public/app/
 # Репозиторий публичный — попадание сюда означает чужой доступ к заказам.
 backend/play-service-account.json
 backend/*.p8
+
+# Карточки магазинов: собираются из store/cards/screens/ одной командой
+# (node store/gen-store-shots.mjs), и держать в репозитории гигабайты того,
+# что воспроизводится за минуту, незачем.
+store/cards/png/
+store/cards/svg/
+store/cards/panorama/

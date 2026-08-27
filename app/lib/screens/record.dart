@@ -3,6 +3,7 @@ import 'dart:io';
 import 'dart:math' as math;
 
 import 'package:audioplayers/audioplayers.dart';
+import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
@@ -76,7 +77,38 @@ class _RecordScreenState extends State<RecordScreen>
     super.dispose();
   }
 
+  /// Съёмочный режим: вместо микрофона берётся звук по этому адресу.
+  ///
+  /// Нужен ровно для одного — снять карточки магазина с настоящими отчётами
+  /// на четырнадцати языках. Отчёт приходит с сервера на языке приложения и
+  /// хранится как есть, поэтому переключение языка старый отчёт не переводит:
+  /// на каждый язык нужен свой разбор, а значит своя запись.
+  ///
+  /// Адресом, а не вшитым файлом: иначе полмегабайта звука уезжали бы в
+  /// каждую сборку ради того, чем пользуются раз в полгода. Без ключа этот
+  /// код мёртв, и в релизе его нет.
+  static const _screenshotAudio =
+      String.fromEnvironment('SCREENSHOT_AUDIO');
+
+  Future<void> _useScreenshotAudio() async {
+    final dir = await getTemporaryDirectory();
+    final f = File('${dir.path}/screenshot.wav');
+    if (!await f.exists()) {
+      final r = await http.get(Uri.parse(_screenshotAudio));
+      await f.writeAsBytes(r.bodyBytes);
+    }
+    if (!mounted) return;
+    setState(() {
+      _wavPath = f.path;
+      _phase = _Phase.recorded;
+    });
+  }
+
   Future<void> _askAndStart() async {
+    if (_screenshotAudio.isNotEmpty) {
+      await _useScreenshotAudio();
+      return;
+    }
     // Объясняющий экран — до ПЕРВОГО системного диалога (§7 спеки).
     // Если разрешение уже спрашивали, повторно не показываем (флаг в prefs).
     final prefs = await SharedPreferences.getInstance();
