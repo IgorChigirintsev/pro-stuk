@@ -33,21 +33,24 @@ const W = 1242, H = 2688;
 // в кадр они не идут: чужая система на карточке приложения только сбивает.
 const SRC_W = 1080, SRC_H = 2424;
 const CROP_TOP = 118, CROP_BOTTOM = 60;
-const CROP_H = SRC_H - CROP_TOP - CROP_BOTTOM;
 
-// Рамка устройства.
-const SCREEN_W = 900;
-const SCREEN_H = Math.round(SCREEN_W * CROP_H / SRC_W);
+// Телефон уходит за нижний край. Целиком он смотрится как предмет на витрине,
+// а срезанный снизу — как экран, который продолжается: взгляд идёт по нему
+// вверх, к подписи, а не утыкается в пустое поле.
+const SCREEN_W = 1060;
 const SCREEN_X = Math.round((W - SCREEN_W) / 2);
 const SCREEN_Y = 560;
-const BEZEL = 20;
-const RADIUS = 64;
+const BEZEL = 22;
+const RADIUS = 78;
+const SCALE = SCREEN_W / SRC_W;
 
 const T = {
-  deep: '#0B4F4A',   // фон, тёмная часть
-  teal: '#0E7C7B',   // фон, светлая часть
+  deep: '#06403C',   // низ фона
+  teal: '#12857F',   // верх фона
+  glow: '#2FB3A6',   // свечение за телефоном
   ink: '#FFFFFF',
-  soft: 'rgba(255,255,255,0.72)',
+  accent: '#F6B93B', // вторая строка подписи
+  bezel: '#0C1113',
 };
 
 /** Подписи. Первые три показываются в списке приложений — они важнее всех,
@@ -70,16 +73,20 @@ function esc(s) {
 
 function svgFor(shot) {
   const b64 = readFileSync(join(shotsDir, shot.file)).toString('base64');
-  // Снимок кладём во всю ширину экрана рамки и сдвигаем вверх на срезанную
-  // строку состояния; лишнее отсекает маска.
-  const scale = SCREEN_W / SRC_W;
-  const imgH = Math.round(SRC_H * scale);
-  const imgY = SCREEN_Y - Math.round(CROP_TOP * scale);
+  const imgH = Math.round(SRC_H * SCALE);
+  // Снимок сдвигается вверх на срезанную строку состояния; лишнее отсекает
+  // маска. Двигать кадр дальше нельзя: телефон уходит за нижний край, и
+  // окно ровно такой высоты, что снимка едва хватает. Нужен другой кусок —
+  // снимайте экран заново с нужной прокруткой.
+  const imgY = SCREEN_Y - Math.round(CROP_TOP * SCALE);
+  // Рамка и экран уходят за нижний край холста — там их обрежет сам холст.
+  const boxH = H - SCREEN_Y + 120;
 
   const lines = shot.en.map((t, n) =>
-    `      <text x="${W / 2}" y="${250 + n * 96}" text-anchor="middle"
+    `      <text x="${W / 2}" y="${262 + n * 112}" text-anchor="middle"
         font-family="Manrope, Inter, -apple-system, sans-serif"
-        font-size="76" font-weight="700" fill="${n === 0 ? T.ink : T.soft}"
+        font-size="88" font-weight="800" letter-spacing="-1.5"
+        fill="${n === 0 ? T.ink : T.accent}"
         >${esc(t)}</text>`).join('\n');
 
   return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -89,13 +96,21 @@ function svgFor(shot) {
       <stop offset="0" stop-color="${T.teal}"/>
       <stop offset="1" stop-color="${T.deep}"/>
     </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.62">
+      <stop offset="0" stop-color="${T.glow}" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="${T.glow}" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-10%" width="160%" height="130%">
+      <feDropShadow dx="0" dy="26" stdDeviation="42" flood-color="#00201E" flood-opacity="0.55"/>
+    </filter>
     <clipPath id="screenClip">
-      <rect x="${SCREEN_X}" y="${SCREEN_Y}" width="${SCREEN_W}" height="${SCREEN_H}" rx="${RADIUS - BEZEL}"/>
+      <rect x="${SCREEN_X}" y="${SCREEN_Y}" width="${SCREEN_W}" height="${boxH}" rx="${RADIUS - BEZEL}"/>
     </clipPath>
   </defs>
 
   <g id="Фон">
     <rect width="${W}" height="${H}" fill="url(#bg)"/>
+    <rect width="${W}" height="${H}" fill="url(#glow)"/>
   </g>
 
   <g id="Подпись">
@@ -103,9 +118,11 @@ ${lines}
   </g>
 
   <g id="Телефон">
-    <rect x="${SCREEN_X - BEZEL}" y="${SCREEN_Y - BEZEL}"
-          width="${SCREEN_W + BEZEL * 2}" height="${SCREEN_H + BEZEL * 2}"
-          rx="${RADIUS}" fill="#0A0A0A"/>
+    <g id="Корпус" filter="url(#shadow)">
+      <rect x="${SCREEN_X - BEZEL}" y="${SCREEN_Y - BEZEL}"
+            width="${SCREEN_W + BEZEL * 2}" height="${boxH + BEZEL}"
+            rx="${RADIUS}" fill="${T.bezel}"/>
+    </g>
     <g id="Экран" clip-path="url(#screenClip)">
       <image x="${SCREEN_X}" y="${imgY}" width="${SCREEN_W}" height="${imgH}"
              xlink:href="data:image/png;base64,${b64}"/>
