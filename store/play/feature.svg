@@ -26,7 +26,6 @@
     <g transform="translate(215 250) scale(0.5)">
       <path d="M-150 20 q6-58 40-64 l30-46 q10-16 30-16 h100 q20 0 30 16 l30 46
                q34 6 40 64 v24 q0 14-14 14 h-272 q-14 0-14-14 z" fill="#fff"/>
-      <path d="M-72 -44 h144 l22 34 h-188 z" fill="#0A3B37"/>
       <circle cx="-92" cy="58" r="30" fill="#fff"/>
       <circle cx="92" cy="58" r="30" fill="#fff"/>
     </g>
