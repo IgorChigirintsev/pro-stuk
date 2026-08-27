@@ -90,10 +90,83 @@ function waveMark(y) {
   return out;
 }
 
+
+/** Силуэт машины — тот же, что на значках товаров: набор должен выглядеть
+ *  одной рукой сделанным. */
+function carShape(cx, cy, sc) {
+  return `<g transform="translate(${cx} ${cy}) scale(${sc})">
+      <path d="M-150 20 q6-58 40-64 l30-46 q10-16 30-16 h100 q20 0 30 16 l30 46
+               q34 6 40 64 v24 q0 14-14 14 h-272 q-14 0-14-14 z" fill="#fff"/>
+      <path d="M-72 -44 h144 l22 34 h-188 z" fill="#0A3B37"/>
+      <circle cx="-92" cy="58" r="30" fill="#fff"/>
+      <circle cx="92" cy="58" r="30" fill="#fff"/>
+    </g>`;
+}
+
+/** Звук расходится от машины в обе стороны. Дуги открыты сверху и снизу,
+ *  поэтому рисунок остаётся читаемым и не превращается в мишень. */
+function soundArcs(cx, cy) {
+  const K = 0.643, S = 0.766; // cos и sin 50°
+  let out = '';
+  for (let n = 0; n < 3; n++) {
+    const r = 300 + n * 78;
+    const o = (0.75 - n * 0.22).toFixed(2);
+    const y1 = cy - S * r, y2 = cy + S * r, dx = K * r;
+    out += `<path d="M ${cx + dx} ${y1} A ${r} ${r} 0 0 1 ${cx + dx} ${y2}"
+              fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity="${o}"/>`;
+    out += `<path d="M ${cx - dx} ${y1} A ${r} ${r} 0 0 0 ${cx - dx} ${y2}"
+              fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity="${o}"/>`;
+  }
+  return out;
+}
+
+/** Строка причины в карточке результата: название, доля и полоса. */
+function causeRow(x, y, w, title, pct) {
+  return `<text x="${x}" y="${y}" font-family="Manrope, Inter, sans-serif"
+        font-size="46" font-weight="600" fill="#0F172A">${esc(title)}</text>
+      <text x="${x + w}" y="${y}" text-anchor="end" font-family="Manrope, Inter, sans-serif"
+        font-size="46" font-weight="700" fill="#0F172A">${pct}%</text>
+      <rect x="${x}" y="${y + 28}" width="${w}" height="16" rx="8" fill="#D7EAE7"/>
+      <rect x="${x}" y="${y + 28}" width="${Math.round(w * pct / 100)}" height="16" rx="8" fill="#0E7C7B"/>`;
+}
+
+/** Первая карточка: без телефона. Человек в магазине смотрит на неё секунду,
+ *  и за эту секунду должен понять, зачем приложение — машина шумит, звук
+ *  слушают, в ответ приходит причина с долей и оценкой срочности. */
+function heroBody() {
+  const cx = W / 2, carY = 1010;
+  const cardX = 141, cardY = 1500, cardW = W - cardX * 2;
+  return `  <g id="Машина">
+${soundArcs(cx, carY)}
+    ${carShape(cx, carY, 1.55)}
+  </g>
+
+  <g id="Результат">
+    <rect x="${cardX}" y="${cardY}" width="${cardW}" height="660" rx="48" fill="#fff"/>
+    <rect x="${cardX + 56}" y="${cardY + 56}" width="392" height="72" rx="36" fill="#D2790B"/>
+    <text x="${cardX + 56 + 196}" y="${cardY + 105}" text-anchor="middle"
+      font-family="Manrope, Inter, sans-serif" font-size="38" font-weight="700"
+      fill="#fff">Shop this week</text>
+    <text x="${cardX + 56}" y="${cardY + 200}" font-family="Manrope, Inter, sans-serif"
+      font-size="34" font-weight="600" fill="#64748B">Likely causes</text>
+${causeRow(cardX + 56, cardY + 290, cardW - 112, 'Worn alternator bearing', 45)}
+${causeRow(cardX + 56, cardY + 430, cardW - 112, 'Drive belt tensioner', 30)}
+${causeRow(cardX + 56, cardY + 570, cardW - 112, 'Water pump bearing', 15)}
+  </g>
+
+  <g id="Сноска">
+    <text x="${cx}" y="2330" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
+      font-size="46" font-weight="600" fill="#fff" opacity="0.92">No scanner, no shop visit.</text>
+    <text x="${cx}" y="2408" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
+      font-size="46" font-weight="600" fill="#fff" opacity="0.92">Just your phone.</text>
+  </g>`;
+}
+
 /** Подписи. Первые три показываются в списке приложений — они важнее всех,
  *  поэтому набор начинается с результата, а не с главного экрана: человек
  *  листает карточку, чтобы понять, что он получит, а не как выглядит меню. */
 const shots = [
+  { hero: true, en: ['Diagnose car noises', 'by sound'] },
   { file: '1-report.png',  en: ['What that noise is —', 'and how likely'] },
   { file: '2-diagram.png', en: ['The exact part,', 'shown on a diagram'] },
   { file: '3-record.png',  en: ['Record 15 seconds', 'of the noise'] },
@@ -109,7 +182,7 @@ function esc(s) {
 }
 
 function svgFor(shot, i) {
-  const b64 = readFileSync(join(shotsDir, shot.file)).toString('base64');
+  const b64 = shot.hero ? '' : readFileSync(join(shotsDir, shot.file)).toString('base64');
   const imgH = Math.round(SRC_H * SCALE);
   // Снимок сдвигается вверх на срезанную строку состояния; лишнее отсекает
   // маска. Двигать кадр дальше нельзя: телефон уходит за нижний край, и
@@ -172,7 +245,7 @@ ${waveMark(190)}
 ${lines}
   </g>
 
-  <g id="Телефон">
+  ${shot.hero ? heroBody() : `<g id="Телефон">
     <g id="Корпус" filter="url(#shadow)">
       <rect x="${SCREEN_X - BEZEL}" y="${SCREEN_Y - BEZEL}"
             width="${SCREEN_W + BEZEL * 2}" height="${boxH + BEZEL}"
@@ -182,7 +255,7 @@ ${lines}
       <image x="${SCREEN_X}" y="${imgY}" width="${SCREEN_W}" height="${imgH}"
              xlink:href="data:image/png;base64,${b64}"/>
     </g>
-  </g>
+  </g>`}
 </svg>`;
 }
 
