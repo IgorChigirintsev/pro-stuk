@@ -12,6 +12,7 @@ import (
 	"log/slog"
 	"net/http"
 	"strings"
+	"sync"
 	"time"
 
 	"stuk/backend/internal/dsp"
@@ -28,10 +29,21 @@ func (e *ErrAudioNotCar) Error() string {
 	return "запись не про автомобиль: " + e.Note
 }
 
-// Сколько ждать одну попытку. Меньше, чем кажется разумным, и намеренно:
-// попыток две, а весь запрос должен уложиться в сто секунд — столько держит
-// соединение Cloudflare, дальше посетитель получает свою ошибку вместо нашей.
-const attemptTimeout = 40 * time.Second
+const (
+	// Сколько ждать одну модель. Верхний предел ставит не наш сервер, а
+	// Cloudflare: он рвёт соединение к origin на сотой секунде, и дальше
+	// человек увидит чужую ошибку вместо нашей.
+	attemptTimeout = 50 * time.Second
+
+	// Фора основной модели. Не дождавшись за это время, к ней подключается
+	// запасная, и берётся тот ответ, который придёт первым.
+	//
+	// Не ноль, хотя параллельный запуск был бы проще. Звук в токенах дорог,
+	// и спрашивать две модели на каждом разборе — значит платить вдвое всегда
+	// ради выигрыша, который нужен изредка. С форой двойная плата случается
+	// только тогда, когда основная и правда задумалась.
+	hedgeDelay = 12 * time.Second
+)
 
 type Client struct {
 	apiKey string
@@ -41,6 +53,11 @@ type Client struct {
 	// другую и всё-таки выдать человеку разбор.
 	fallback string
 	httpc    *http.Client
+
+	// Адрес и фора вынесены в поля ради тестов: настоящий Gemini в них не
+	// нужен, а ждать двенадцать секунд в тесте незачем.
+	endpoint string
+	hedge    time.Duration
 }
 
 func New(apiKey, model, fallback string) *Client {
@@ -49,41 +66,81 @@ func New(apiKey, model, fallback string) *Client {
 		model:    model,
 		fallback: fallback,
 		// Срок держим на попытке, а не на клиенте: у клиента он один на всё.
-		httpc: &http.Client{},
+		httpc:    &http.Client{},
+		endpoint: endpoint,
+		hedge:    hedgeDelay,
 	}
 }
 
-// overloaded: отказ из-за нагрузки у Google, а не из-за нашего запроса.
-// Такое лечится повтором на другой модели; всё остальное — нет.
-func overloaded(status int) bool {
-	return status == http.StatusServiceUnavailable ||
-		status == http.StatusTooManyRequests ||
-		status == http.StatusInternalServerError ||
-		status == http.StatusGatewayTimeout
+type askResult struct {
+	model string
+	body  []byte
+	err   error
 }
 
-// ask спрашивает основную модель, а при перегрузке — запасную.
+// ask спрашивает основную модель, а если та не отвечает — подключает к ней
+// запасную и берёт ответ, пришедший первым.
+//
+// Раньше модели опрашивались по очереди, и запасная вступала только после
+// отказа основной. Но у Gemini бывает не отказ, а молчание: обе попытки
+// упирались в свой срок, человек ждал восемьдесят секунд и не получал ничего.
+// Здесь молчание больше не стоит целой попытки — запасная уже в пути.
 func (c *Client) ask(ctx context.Context, raw []byte) ([]byte, error) {
 	models := []string{c.model}
 	if c.fallback != "" && c.fallback != c.model {
 		models = append(models, c.fallback)
 	}
+
+	// Отмена по выходу гасит проигравший запрос: ответ, который уже не нужен,
+	// не должен занимать соединение и тратить квоту.
+	ctx, cancel := context.WithCancel(ctx)
+	defer cancel()
+
+	out := make(chan askResult, len(models))
+	// Закрывается, когда основная отвалилась раньше форы. Ждать оставшееся
+	// время после её отказа незачем — запасную можно спрашивать сразу.
+	boost := make(chan struct{})
+	var boostOnce sync.Once
+
+	for i, m := range models {
+		go func(i int, m string) {
+			if i > 0 {
+				select {
+				case <-time.After(c.hedge):
+				case <-boost:
+				case <-ctx.Done():
+					// Основная успела ответить: запасную не спрашиваем вовсе.
+					out <- askResult{model: m, err: ctx.Err()}
+					return
+				}
+			}
+			body, status, err := c.askOnce(ctx, m, raw)
+			var res askResult
+			switch {
+			case err != nil:
+				res = askResult{m, nil, fmt.Errorf("запрос к Gemini (%s): %w", m, err)}
+			case status == http.StatusOK:
+				res = askResult{m, body, nil}
+			default:
+				res = askResult{m, nil, fmt.Errorf("Gemini (%s) ответил %d: %s",
+					m, status, truncate(string(body), 400))}
+			}
+			if i == 0 && res.err != nil {
+				boostOnce.Do(func() { close(boost) })
+			}
+			out <- res
+		}(i, m)
+	}
+
 	var last error
-	for _, m := range models {
-		body, status, err := c.askOnce(ctx, m, raw)
-		switch {
-		case err != nil:
-			last = fmt.Errorf("запрос к Gemini (%s): %w", m, err)
-		case status == http.StatusOK:
-			return body, nil
-		case overloaded(status):
-			last = fmt.Errorf("Gemini (%s) ответил %d: %s", m, status, truncate(string(body), 400))
-		default:
-			// Отказ по существу: неверный запрос, кончился ключ, нет модели.
-			// Другая модель ответит тем же — повторять незачем.
-			return nil, fmt.Errorf("Gemini (%s) ответил %d: %s", m, status, truncate(string(body), 400))
+	for range models {
+		r := <-out
+		if r.err == nil {
+			slog.Info("разбор получен", "model", r.model)
+			return r.body, nil
 		}
-		slog.Warn("модель не ответила, пробуем следующую", "model", m, "err", last)
+		last = r.err
+		slog.Warn("модель не ответила", "model", r.model, "err", r.err)
 	}
 	return nil, last
 }
@@ -93,7 +150,7 @@ func (c *Client) askOnce(ctx context.Context, model string, raw []byte) ([]byte,
 	defer cancel()
 
 	req, err := http.NewRequestWithContext(ctx, http.MethodPost,
-		fmt.Sprintf(endpoint, model), bytes.NewReader(raw))
+		fmt.Sprintf(c.endpoint, model), bytes.NewReader(raw))
 	if err != nil {
 		return nil, 0, err
 	}
