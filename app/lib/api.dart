@@ -37,7 +37,7 @@ class VersionInfo {
 /// тогда показывается текст сервера, а не пустота.
 String? _errorByCode(String? code) => switch (code) {
       'rate_limited' => S.errRateLimited,
-      'daily_limit' => S.errDailyLimit,
+      'no_session' => S.accSignInAgain,
       'too_large' => S.errTooLarge,
       'too_short' => S.errTooShort,
       'too_long' => S.errTooLong,

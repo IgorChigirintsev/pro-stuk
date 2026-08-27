@@ -5,9 +5,7 @@ package config
 
 import (
 	"bufio"
-	"fmt"
 	"os"
-	"strconv"
 	"strings"
 )
 
@@ -17,7 +15,6 @@ type Config struct {
 	GeminiModel  string
 	// Запасная модель на случай перегрузки основной.
 	GeminiFallback string
-	DailyFreeLimit int
 	PublicSiteURL  string
 	LatestVersion  string
 	DataDir        string
@@ -53,19 +50,10 @@ func Load() (Config, error) {
 		DataDir:            getenv("DATA_DIR", "data"),
 		TrustProxy:         os.Getenv("TRUST_PROXY") == "1",
 		AnalyticsToken:     os.Getenv("ANALYTICS_TOKEN"),
-		DailyFreeLimit:     3,
 		GoogleClientID:     os.Getenv("GOOGLE_CLIENT_ID"),
 		AppleBundleID:      getenv("APPLE_BUNDLE_ID", "chigirintsevandco.prostuk"),
 		AndroidPackage:     getenv("ANDROID_PACKAGE", "chigirintsevandco.prostuk"),
 		PlayServiceAccount: getenv("PLAY_SERVICE_ACCOUNT_FILE", "play-service-account.json"),
-	}
-
-	if v := os.Getenv("DAILY_FREE_LIMIT"); v != "" {
-		n, err := strconv.Atoi(v)
-		if err != nil || n < 1 {
-			return cfg, fmt.Errorf("DAILY_FREE_LIMIT: ожидается целое число >= 1, получено %q", v)
-		}
-		cfg.DailyFreeLimit = n
 	}
 	return cfg, nil
 }

@@ -23,7 +23,6 @@ import (
 	"stuk/backend/internal/gemini"
 	"stuk/backend/internal/report"
 	"stuk/backend/internal/schema"
-	"stuk/backend/internal/state"
 	"stuk/backend/internal/stats"
 	"stuk/backend/internal/wavio"
 )
@@ -40,7 +39,6 @@ const (
 
 type Server struct {
 	cfg        config.Config
-	store      *state.Store
 	analyzer   report.Analyzer
 	limiter    *ipLimiter
 	stats      *stats.Store
@@ -52,10 +50,9 @@ type Server struct {
 	stores map[string]StoreVerifier
 }
 
-func New(cfg config.Config, store *state.Store, analyzer report.Analyzer, st *stats.Store, accounts *account.Store, stores map[string]StoreVerifier) *Server {
+func New(cfg config.Config, analyzer report.Analyzer, st *stats.Store, accounts *account.Store, stores map[string]StoreVerifier) *Server {
 	return &Server{
 		cfg:        cfg,
-		store:      store,
 		analyzer:   analyzer,
 		limiter:    newIPLimiter(ipRateLimit, time.Minute),
 		stats:      st,
@@ -131,6 +128,24 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	// Плата за разбор: проверка снимается с места гаража. Списывается до
+	// анализа и возвращается, если отчёт не получился по вине сервера.
+	//
+	// Без входа разбора нет. Дневной лимит по устройству, живший здесь
+	// раньше, убран: у каждого есть аккаунт, а бесплатные проверки лежат на
+	// месте гаража и не сгорают. Заодно исчезла лазейка — новый device_id
+	// давал ещё три разбора кому угодно.
+	acc, ok := s.sessionForReport(r)
+	if !ok {
+		writeCodedError(w, http.StatusUnauthorized, "no_session",
+			"Войдите в аккаунт: проверки хранятся на машине в гараже.")
+		return
+	}
+	if meta.SlotID == "" {
+		writeCodedError(w, http.StatusUnprocessableEntity, "no_slot", "Не указано, какую машину разбираем.")
+		return
+	}
+
 	file, _, err := r.FormFile("audio")
 	if err != nil {
 		writeError(w, http.StatusUnprocessableEntity, "В запросе нет аудиофайла (поле audio).")
@@ -162,41 +177,20 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Плата за разбор. Списывается до анализа и возвращается, если отчёт
-	// не получился по вине сервера.
-	//
-	// Два пути переходно живут рядом. Со входом — проверка снимается с места
-	// гаража: у каждой машины свой баланс. Без входа — старый дневной лимит
-	// по устройству: так работают уже установленные сборки, и обрубать их
-	// выкладкой сервера нельзя. Второй путь уйдёт, когда обновятся все.
-	acc, hasSession := s.sessionForReport(r)
-	if hasSession {
-		if meta.SlotID == "" {
-			writeCodedError(w, http.StatusUnprocessableEntity, "no_slot", "Не указано, какую машину разбираем.")
-			return
-		}
-		if _, err := s.accounts.Update(acc.ID, func(a *account.Account) error {
-			return a.Spend(meta.SlotID)
-		}); err != nil {
-			writeAccountError(w, err)
-			return
-		}
-	} else if !s.store.Allow(meta.DeviceID, s.cfg.DailyFreeLimit) {
-		writeCodedError(w, http.StatusTooManyRequests, "daily_limit", "Лимит на сегодня исчерпан, возвращайтесь завтра.")
+	// Списываем только теперь, когда запись признана годной: за испорченный
+	// файл проверка тратиться не должна.
+	if _, err := s.accounts.Update(acc.ID, func(a *account.Account) error {
+		return a.Spend(meta.SlotID)
+	}); err != nil {
+		writeAccountError(w, err)
 		return
 	}
 
-	// Возврат платы — один на оба пути, чтобы сорвавшийся разбор не стоил
-	// человеку проверки ни в новой схеме, ни в старой.
 	refund := func() {
-		if hasSession {
-			s.accounts.Update(acc.ID, func(a *account.Account) error {
-				a.Refund(meta.SlotID)
-				return nil
-			})
-			return
-		}
-		s.store.Refund(meta.DeviceID)
+		s.accounts.Update(acc.ID, func(a *account.Account) error {
+			a.Refund(meta.SlotID)
+			return nil
+		})
 	}
 
 	features := dsp.Analyze(samples)

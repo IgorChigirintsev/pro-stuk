@@ -30,7 +30,6 @@ class S {
   static String get verdictWhat => L.t('verdictWhat');
   static String get verdictAdvice => L.t('verdictAdvice');
   static String get verdictRefine => L.t('verdictRefine');
-  static String get verdictRefineNote => L.t('verdictRefineNote');
   static String get verdictEnough => L.t('verdictEnough');
   static String get verdictSite => L.t('verdictSite');
   static String get urgOk => L.t('urgOk');
@@ -63,7 +62,6 @@ class S {
   static String get recMicBusy => L.t('recMicBusy');
   static String get shareFailed => L.t('shareFailed');
   static String get errRateLimited => L.t('errRateLimited');
-  static String get errDailyLimit => L.t('errDailyLimit');
   static String get errTooLarge => L.t('errTooLarge');
   static String get errTooShort => L.t('errTooShort');
   static String get errTooLong => L.t('errTooLong');

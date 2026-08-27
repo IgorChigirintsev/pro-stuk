@@ -47,7 +47,7 @@ func serverWithStore(t *testing.T, fs *fakeStore) (*Server, *account.Store) {
 	if fs != nil {
 		stores["google"] = fs
 	}
-	return New(config.Config{}, nil, nil, st, accs, stores), accs
+	return New(config.Config{}, nil, st, accs, stores), accs
 }
 
 func TestPurchaseGrantsAfterStoreConfirms(t *testing.T) {
