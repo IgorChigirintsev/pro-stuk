@@ -558,7 +558,7 @@ Bij de eerste auto horen drie gratis geluidschecks. Meer zijn bij te kopen wanne
 
 ---
 
-## 中文（简体）— `zh-CN`
+## 中文（简体） — `zh-CN`
 
 **Название**
 ```
