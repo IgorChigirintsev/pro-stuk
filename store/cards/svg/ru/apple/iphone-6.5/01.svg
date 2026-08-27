@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1242" height="2688" viewBox="0 0 1242 2688">
+  <defs>
+    <linearGradient id="hue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.0000" stop-color="#1BB3A6"/>
+      <stop offset="0.2000" stop-color="#19A57F"/>
+      <stop offset="0.4000" stop-color="#149A9B"/>
+      <stop offset="0.6000" stop-color="#1183A6"/>
+      <stop offset="0.8000" stop-color="#0F8F86"/>
+      <stop offset="1.0000" stop-color="#17AD97"/>
+    </linearGradient>
+    <radialGradient id="blob">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="0.45" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#001A18" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-10%" width="160%" height="130%">
+      <feDropShadow dx="0" dy="30" stdDeviation="46" flood-color="#00201E" flood-opacity="0.6"/>
+    </filter>
+    <clipPath id="screenClip">
+      <rect x="91" y="640" width="1060" height="2168" rx="56"/>
+    </clipPath>
+  </defs>
+
+  <g id="Фон">
+    <g id="Лента" transform="translate(0,0)">
+      <rect width="11178" height="2688" fill="url(#hue)"/>
+      <circle cx="1428" cy="296"
+              r="522" fill="url(#blob)" opacity="0.1"/>
+      <circle cx="3602" cy="2177"
+              r="720" fill="url(#blob)" opacity="0.08"/>
+      <circle cx="5030" cy="188"
+              r="460" fill="url(#blob)" opacity="0.1"/>
+      <circle cx="7204" cy="2392"
+              r="820" fill="url(#blob)" opacity="0.07"/>
+      <circle cx="8818" cy="349"
+              r="559" fill="url(#blob)" opacity="0.09"/>
+    </g>
+    <rect width="1242" height="2688" fill="url(#fade)"/>
+  </g>
+
+  <g id="Волна">
+<rect x="506" y="168" width="14"
+              height="44" rx="7" fill="#fff" opacity="0.9"/><rect x="542" y="152" width="14"
+              height="76" rx="7" fill="#fff" opacity="0.9"/><rect x="578" y="164" width="14"
+              height="52" rx="7" fill="#fff" opacity="0.9"/><rect x="614" y="128" width="14"
+              height="124" rx="7" fill="#fff" opacity="0.9"/><rect x="650" y="157" width="14"
+              height="66" rx="7" fill="#fff" opacity="0.9"/><rect x="686" y="143" width="14"
+              height="94" rx="7" fill="#fff" opacity="0.9"/><rect x="722" y="171" width="14"
+              height="38" rx="7" fill="#fff" opacity="0.9"/>
+  </g>
+
+  <g id="Подпись">
+      <text x="621" y="330" text-anchor="middle"
+        font-family="Manrope, Inter, -apple-system, sans-serif"
+        font-size="88" font-weight="800" letter-spacing="-1.5"
+        fill="#FFFFFF"
+        >Диагностика по звуку</text>
+      <text x="621" y="442" text-anchor="middle"
+        font-family="Manrope, Inter, -apple-system, sans-serif"
+        font-size="88" font-weight="800" letter-spacing="-1.5"
+        fill="#FFD166"
+        >без сканера</text>
+  </g>
+
+  <g id="Машина">
+<path d="M 814 780 A 300 300 0 0 1 814 1240"
+              fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity="0.75"/><path d="M 428 780 A 300 300 0 0 0 428 1240"
+              fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity="0.75"/><path d="M 864 720 A 378 378 0 0 1 864 1300"
+              fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity="0.53"/><path d="M 378 720 A 378 378 0 0 0 378 1300"
+              fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity="0.53"/><path d="M 914 661 A 456 456 0 0 1 914 1359"
+              fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity="0.31"/><path d="M 328 661 A 456 456 0 0 0 328 1359"
+              fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" opacity="0.31"/>
+    <g transform="translate(621 1010) scale(1.55)">
+      <path d="M-150 20 q6-58 40-64 l30-46 q10-16 30-16 h100 q20 0 30 16 l30 46
+               q34 6 40 64 v24 q0 14-14 14 h-272 q-14 0-14-14 z" fill="#fff"/>
+      <circle cx="-92" cy="58" r="30" fill="#fff"/>
+      <circle cx="92" cy="58" r="30" fill="#fff"/>
+    </g>
+  </g>
+
+  <g id="Результат">
+    <rect x="141" y="1500" width="960" height="660" rx="48" fill="#fff"/>
+    <rect x="197" y="1556" width="392"
+      height="72" rx="36" fill="#D2790B"/>
+    <text x="393" y="1605" text-anchor="middle"
+      font-family="Manrope, Inter, sans-serif" font-size="38" font-weight="700"
+      fill="#fff">В сервис на неделе</text>
+    <text x="197" y="1700" font-family="Manrope, Inter, sans-serif"
+      font-size="34" font-weight="600" fill="#64748B">Вероятные причины</text>
+<text x="197" y="1790" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+        font-size="46" font-weight="600" fill="#0F172A">Подшипник генератора</text>
+      <text x="1045" y="1790" text-anchor="end" font-family="Manrope, Inter, sans-serif"
+        font-size="46" font-weight="700" fill="#0F172A">45%</text>
+      <rect x="197" y="1818" width="848" height="16" rx="8" fill="#D7EAE7"/>
+      <rect x="197" y="1818" width="382" height="16"
+        rx="8" fill="#0E7C7B"/>
+<text x="197" y="1930" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+        font-size="46" font-weight="600" fill="#0F172A">Ролик натяжителя</text>
+      <text x="1045" y="1930" text-anchor="end" font-family="Manrope, Inter, sans-serif"
+        font-size="46" font-weight="700" fill="#0F172A">30%</text>
+      <rect x="197" y="1958" width="848" height="16" rx="8" fill="#D7EAE7"/>
+      <rect x="197" y="1958" width="254" height="16"
+        rx="8" fill="#0E7C7B"/>
+<text x="197" y="2070" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+        font-size="46" font-weight="600" fill="#0F172A">Подшипник помпы</text>
+      <text x="1045" y="2070" text-anchor="end" font-family="Manrope, Inter, sans-serif"
+        font-size="46" font-weight="700" fill="#0F172A">15%</text>
+      <rect x="197" y="2098" width="848" height="16" rx="8" fill="#D7EAE7"/>
+      <rect x="197" y="2098" width="127" height="16"
+        rx="8" fill="#0E7C7B"/>
+  </g>
+
+  <g id="Сноска">
+    <text x="621" y="2340" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
+      font-size="46" font-weight="600" fill="#fff" opacity="0.92">Без сканера и без сервиса.</text>
+    <text x="621" y="2418" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
+      font-size="46" font-weight="600" fill="#fff" opacity="0.92">Только телефон.</text>
+  </g>
+</svg>

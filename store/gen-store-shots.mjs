@@ -15,13 +15,14 @@
 //
 // Запуск: node store/gen-store-shots.mjs
 import { execFileSync } from 'node:child_process';
-import { mkdirSync, writeFileSync, readFileSync, rmSync } from 'node:fs';
+import { mkdirSync, writeFileSync, readFileSync, rmSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { LOCALES } from './captions.mjs';
 
 const CHROME = process.env.CHROME ?? 'google-chrome';
 const here = dirname(fileURLToPath(import.meta.url));
-const shotsDir = join(here, 'cards', 'screens');
+const screensRoot = join(here, 'cards', 'screens');
 const outRoot = join(here, 'cards');
 const tmpDir = join(here, '.tmp-shots');
 
@@ -102,19 +103,21 @@ const BLOBS = [
   { x: 7.10, y: 0.13, r: 0.45, o: 0.09 },
 ];
 
-/** Подписи. Первые три показываются в списке приложений — они важнее всех,
- *  поэтому набор начинается с сути, а не с главного экрана: человек листает
- *  карточку, чтобы понять, что он получит, а не как выглядит меню. */
+/** Карточки. Порядок важен вдвойне: он же порядок в консоли магазина, и по
+ *  нему складывается панорама. Первые три показываются в списке приложений,
+ *  поэтому набор начинается с сути, а не с главного экрана.
+ *
+ *  Подписи здесь не лежат — они в captions.mjs, по одной на каждый язык. */
 const shots = [
-  { hero: true,            en: ['Diagnose car noises', 'by sound'] },
-  { file: '1-report.png',  en: ['What that noise is —', 'and how likely'] },
-  { file: '2-diagram.png', en: ['The exact part,', 'shown on a diagram'] },
-  { file: '3-record.png',  en: ['Record 15 seconds', 'of the noise'] },
-  { file: '4-detail.png',  en: ['Why it’s that part —', 'and how to check it'] },
-  { file: '5-home.png',    en: ['Your car’s noise,', 'explained'] },
-  { file: '6-book.png',    en: ['See what service', 'is due, and when'] },
-  { file: '7-garage.png',  en: ['Every car you own,', 'in one garage'] },
-  { file: '8-quiz.png',    en: ['A few questions,', 'no guesswork'] },
+  { hero: true },
+  { file: '1-report.png' },
+  { file: '2-diagram.png' },
+  { file: '3-record.png' },
+  { file: '4-detail.png' },
+  { file: '5-home.png' },
+  { file: '6-book.png' },
+  { file: '7-garage.png' },
+  { file: '8-quiz.png' },
 ];
 
 function esc(s) {
@@ -168,10 +171,12 @@ function soundArcs(cx, cy, sc) {
 }
 
 /** Строка причины в карточке результата: название, доля и полоса. */
-function causeRow(x, y, w, title, pct, sc) {
-  return `<text x="${x}" y="${y}" font-family="Manrope, Inter, sans-serif"
+function causeRow(x, y, w, title, pct, sc, rtl) {
+  const nameX = rtl ? x + w : x, nameAnchor = rtl ? 'end' : 'start';
+  const pctX = rtl ? x : x + w, pctAnchor = rtl ? 'start' : 'end';
+  return `<text x="${nameX}" y="${y}" text-anchor="${nameAnchor}" font-family="Manrope, Inter, sans-serif"
         font-size="${Math.round(46 * sc)}" font-weight="600" fill="#0F172A">${esc(title)}</text>
-      <text x="${x + w}" y="${y}" text-anchor="end" font-family="Manrope, Inter, sans-serif"
+      <text x="${pctX}" y="${y}" text-anchor="${pctAnchor}" font-family="Manrope, Inter, sans-serif"
         font-size="${Math.round(46 * sc)}" font-weight="700" fill="#0F172A">${pct}%</text>
       <rect x="${x}" y="${y + 28 * sc}" width="${w}" height="${16 * sc}" rx="${8 * sc}" fill="#D7EAE7"/>
       <rect x="${x}" y="${y + 28 * sc}" width="${Math.round(w * pct / 100)}" height="${16 * sc}"
@@ -180,7 +185,7 @@ function causeRow(x, y, w, title, pct, sc) {
 
 /** Первая карточка: машина шумит, звук слушают, приходит причина с долей и
  *  оценкой срочности. Вся история без единого слова, которое надо читать. */
-function heroBody(f) {
+function heroBody(f, L) {
   const sc = f.cardW / 960;             // масштаб карточки результата
   const cardX = f.landscape ? f.cardX : Math.round((f.W - f.cardW) / 2);
   // Высота — под три строки причин, а не на глаз: последняя строка сидит на
@@ -203,19 +208,19 @@ ${soundArcs(carX, f.carY, f.landscape ? f.carScale : sc)}
       height="${Math.round(72 * sc)}" rx="${Math.round(36 * sc)}" fill="#D2790B"/>
     <text x="${cardX + pad + Math.round(196 * sc)}" y="${f.cardY + Math.round(105 * sc)}" text-anchor="middle"
       font-family="Manrope, Inter, sans-serif" font-size="${Math.round(38 * sc)}" font-weight="700"
-      fill="#fff">Shop this week</text>
+      fill="#fff">${esc(L.hero.badge)}</text>
     <text x="${cardX + pad}" y="${f.cardY + Math.round(200 * sc)}" font-family="Manrope, Inter, sans-serif"
-      font-size="${Math.round(34 * sc)}" font-weight="600" fill="#64748B">Likely causes</text>
-${causeRow(cardX + pad, f.cardY + Math.round(290 * sc), inner, 'Worn alternator bearing', 45, sc)}
-${causeRow(cardX + pad, f.cardY + Math.round(430 * sc), inner, 'Drive belt tensioner', 30, sc)}
-${causeRow(cardX + pad, f.cardY + Math.round(570 * sc), inner, 'Water pump bearing', 15, sc)}
+      font-size="${Math.round(34 * sc)}" font-weight="600" fill="#64748B">${esc(L.hero.causes)}</text>
+${causeRow(cardX + pad, f.cardY + Math.round(290 * sc), inner, L.hero.rows[0], 45, sc, L.rtl)}
+${causeRow(cardX + pad, f.cardY + Math.round(430 * sc), inner, L.hero.rows[1], 30, sc, L.rtl)}
+${causeRow(cardX + pad, f.cardY + Math.round(570 * sc), inner, L.hero.rows[2], 15, sc, L.rtl)}
   </g>
 
   <g id="Сноска">
     <text x="${footX}" y="${footY}" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
-      font-size="${Math.round(46 * sc)}" font-weight="600" fill="#fff" opacity="0.92">No scanner, no shop visit.</text>
+      font-size="${Math.round(46 * sc)}" font-weight="600" fill="#fff" opacity="0.92">${esc(L.hero.foot[0])}</text>
     <text x="${footX}" y="${footY + Math.round(78 * sc)}" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
-      font-size="${Math.round(46 * sc)}" font-weight="600" fill="#fff" opacity="0.92">Just your phone.</text>
+      font-size="${Math.round(46 * sc)}" font-weight="600" fill="#fff" opacity="0.92">${esc(L.hero.foot[1])}</text>
   </g>`;
 }
 
@@ -245,7 +250,7 @@ function phoneBody(f, b64) {
 // поперёк, задаётся в координатах ленты и сдвигается на -i*W. Всё, что
 // повторяется на каждой карточке, должно быть либо симметричным, либо
 // вертикальным — иначе на стыке появится ступенька.
-function svgFor(f, list, shot, i) {
+function svgFor(f, list, shot, i, L, shotsDir) {
   const total = f.W * list.length;
   const scale = f.phoneW / SRC_W;
   const bezel = Math.round(22 * f.phoneW / 1060);
@@ -269,7 +274,7 @@ function svgFor(f, list, shot, i) {
   const markX = f.landscape ? capX + 130 * f.markScale : f.W / 2;
   const markY = f.landscape && shot.hero ? f.heroMarkY : f.markY;
 
-  const lines = shot.en.map((t, n) =>
+  const lines = L.caps[i].map((t, n) =>
     `      <text x="${capX}" y="${capY + n * f.capStep}" text-anchor="${anchor}"
         font-family="Manrope, Inter, -apple-system, sans-serif"
         font-size="${f.capSize}" font-weight="800" letter-spacing="-1.5"
@@ -277,7 +282,7 @@ function svgFor(f, list, shot, i) {
         >${esc(t)}</text>`).join('\n');
 
   const body = shot.hero
-    ? heroBody(f)
+    ? heroBody(f, L)
     : phoneBody(f, readFileSync(join(shotsDir, shot.file)).toString('base64'));
 
   return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -379,42 +384,67 @@ ${svg}`);
 
 mkdirSync(tmpDir, { recursive: true });
 
-for (const f of FORMATS) {
-  const list = f.max ? shots.slice(0, f.max) : shots;
-  const svgDir = join(outRoot, 'svg', f.id);
-  const pngDir = join(outRoot, 'png', f.id);
-  mkdirSync(svgDir, { recursive: true });
-  mkdirSync(pngDir, { recursive: true });
-  mkdirSync(join(outRoot, 'panorama'), { recursive: true });
+// Какие языки собирать. По умолчанию английский: полный прогон — это почти
+// восемьсот отрисовок и пара гигабайт, и делать его при каждой мелкой правке
+// незачем. `all` собирает все.
+const asked = process.argv.slice(2);
+const locales = asked.length === 0 ? ['en']
+  : asked[0] === 'all' ? Object.keys(LOCALES)
+  : asked;
+for (const loc of locales) {
+  if (!LOCALES[loc]) {
+    console.error(`нет такого языка: ${loc}. Есть: ${Object.keys(LOCALES).join(' ')}`);
+    process.exit(1);
+  }
+}
 
-  for (const [i, shot] of list.entries()) {
-    const name = String(i + 1).padStart(2, '0');
-    const svg = svgFor(f, list, shot, i);
-    writeFileSync(join(svgDir, `${name}.svg`), svg);
-    render(svg, f.W, f.H, join(pngDir, `${name}.png`));
+for (const loc of locales) {
+  const L = LOCALES[loc];
+  // Снимки экрана берутся на языке набора, а пока их нет — английские.
+  // Молча подставлять чужой язык нельзя, поэтому предупреждаем.
+  let shotsDir = join(screensRoot, loc);
+  if (!existsSync(shotsDir)) {
+    shotsDir = join(screensRoot, 'en');
+    console.log(`  ${loc}: снимков экрана нет, подставлены английские`);
   }
 
-  // Склейка всей ленты одной картинкой. Не для магазина — для глаза: только
-  // так видно, сошёлся ли фон на стыках. Порядок в консоли магазина обязан
-  // совпадать с нумерацией файлов, иначе панорама рассыплется.
-  const strip = list.map((_, n) => {
-    const p = join(pngDir, `${String(n + 1).padStart(2, '0')}.png`);
-    return `<img src="data:image/png;base64,${readFileSync(p).toString('base64')}">`;
-  }).join('');
-  const k = 0.25;
-  writeFileSync(join(tmpDir, 'strip.html'), `<!doctype html><meta charset="utf-8">
+  for (const f of FORMATS) {
+    const list = f.max ? shots.slice(0, f.max) : shots;
+    const svgDir = join(outRoot, 'svg', loc, f.id);
+    const pngDir = join(outRoot, 'png', loc, f.id);
+    mkdirSync(svgDir, { recursive: true });
+    mkdirSync(pngDir, { recursive: true });
+    mkdirSync(join(outRoot, 'panorama', loc), { recursive: true });
+
+    for (const [i, shot] of list.entries()) {
+      const name = String(i + 1).padStart(2, '0');
+      const svg = svgFor(f, list, shot, i, L, shotsDir);
+      writeFileSync(join(svgDir, `${name}.svg`), svg);
+      render(svg, f.W, f.H, join(pngDir, `${name}.png`));
+    }
+
+    // Склейка всей ленты одной картинкой. Не для магазина — для глаза: только
+    // так видно, сошёлся ли фон на стыках. Порядок в консоли магазина обязан
+    // совпадать с нумерацией файлов, иначе панорама рассыплется.
+    const strip = list.map((_, n) => {
+      const p = join(pngDir, `${String(n + 1).padStart(2, '0')}.png`);
+      return `<img src="data:image/png;base64,${readFileSync(p).toString('base64')}">`;
+    }).join('');
+    const k = 0.25;
+    writeFileSync(join(tmpDir, 'strip.html'), `<!doctype html><meta charset="utf-8">
 <style>html,body{margin:0;padding:0;background:#111}
 .s{display:flex;transform:scale(${k});transform-origin:0 0}
 img{display:block;width:${f.W}px;height:${f.H}px}</style>
 <div class="s">${strip}</div>`);
-  execFileSync(CHROME, [
-    '--headless', '--disable-gpu', '--hide-scrollbars',
-    `--window-size=${Math.round(f.W * list.length * k)},${Math.round(f.H * k)}`,
-    `--screenshot=${join(outRoot, 'panorama', `${f.id.replace('/', '-')}.png`)}`,
-    `file://${join(tmpDir, 'strip.html')}`,
-  ], { stdio: 'ignore' });
+    execFileSync(CHROME, [
+      '--headless', '--disable-gpu', '--hide-scrollbars',
+      `--window-size=${Math.round(f.W * list.length * k)},${Math.round(f.H * k)}`,
+      `--screenshot=${join(outRoot, 'panorama', loc, `${f.id.replace('/', '-')}.png`)}`,
+      `file://${join(tmpDir, 'strip.html')}`,
+    ], { stdio: 'ignore' });
 
-  console.log(`${f.id.padEnd(20)} ${String(list.length).padStart(2)} × ${f.W}×${f.H}  ${f.note}`);
+    console.log(`${loc}  ${f.id.padEnd(20)} ${String(list.length).padStart(2)} × ${f.W}×${f.H}  ${f.note}`);
+  }
 }
 
 // Баннер Play

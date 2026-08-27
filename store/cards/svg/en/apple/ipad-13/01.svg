@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2048" height="2732" viewBox="0 0 2048 2732">
+  <defs>
+    <linearGradient id="hue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.0000" stop-color="#1BB3A6"/>
+      <stop offset="0.2000" stop-color="#19A57F"/>
+      <stop offset="0.4000" stop-color="#149A9B"/>
+      <stop offset="0.6000" stop-color="#1183A6"/>
+      <stop offset="0.8000" stop-color="#0F8F86"/>
+      <stop offset="1.0000" stop-color="#17AD97"/>
+    </linearGradient>
+    <radialGradient id="blob">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="0.45" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#001A18" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-10%" width="160%" height="130%">
+      <feDropShadow dx="0" dy="30" stdDeviation="46" flood-color="#00201E" flood-opacity="0.6"/>
+    </filter>
+    <clipPath id="screenClip">
+      <rect x="492" y="700" width="1065" height="2152" rx="56"/>
+    </clipPath>
+  </defs>
+
+  <g id="Фон">
+    <g id="Лента" transform="translate(0,0)">
+      <rect width="18432" height="2732" fill="url(#hue)"/>
+      <circle cx="2355" cy="301"
+              r="860" fill="url(#blob)" opacity="0.1"/>
+      <circle cx="5939" cy="2213"
+              r="1188" fill="url(#blob)" opacity="0.08"/>
+      <circle cx="8294" cy="191"
+              r="758" fill="url(#blob)" opacity="0.1"/>
+      <circle cx="11878" cy="2431"
+              r="1352" fill="url(#blob)" opacity="0.07"/>
+      <circle cx="14541" cy="355"
+              r="922" fill="url(#blob)" opacity="0.09"/>
+    </g>
+    <rect width="2048" height="2732" fill="url(#fade)"/>
+  </g>
+
+  <g id="Волна">
+<rect x="892" y="190" width="16"
+              height="51" rx="8" fill="#fff" opacity="0.9"/><rect x="933" y="171" width="16"
+              height="87" rx="8" fill="#fff" opacity="0.9"/><rect x="975" y="185" width="16"
+              height="60" rx="8" fill="#fff" opacity="0.9"/><rect x="1016" y="144" width="16"
+              height="143" rx="8" fill="#fff" opacity="0.9"/><rect x="1057" y="177" width="16"
+              height="76" rx="8" fill="#fff" opacity="0.9"/><rect x="1099" y="161" width="16"
+              height="108" rx="8" fill="#fff" opacity="0.9"/><rect x="1140" y="193" width="16"
+              height="44" rx="8" fill="#fff" opacity="0.9"/>
+  </g>
+
+  <g id="Подпись">
+      <text x="1024" y="375" text-anchor="middle"
+        font-family="Manrope, Inter, -apple-system, sans-serif"
+        font-size="104" font-weight="800" letter-spacing="-1.5"
+        fill="#FFFFFF"
+        >Diagnose car noises</text>
+      <text x="1024" y="507" text-anchor="middle"
+        font-family="Manrope, Inter, -apple-system, sans-serif"
+        font-size="104" font-weight="800" letter-spacing="-1.5"
+        fill="#FFD166"
+        >by sound</text>
+  </g>
+
+  <g id="Машина">
+<path d="M 1245 717 A 344 344 0 0 1 1245 1243"
+              fill="none" stroke="#fff" stroke-width="16.041666666666664" stroke-linecap="round" opacity="0.75"/><path d="M 803 717 A 344 344 0 0 0 803 1243"
+              fill="none" stroke="#fff" stroke-width="16.041666666666664" stroke-linecap="round" opacity="0.75"/><path d="M 1302 648 A 433 433 0 0 1 1302 1312"
+              fill="none" stroke="#fff" stroke-width="16.041666666666664" stroke-linecap="round" opacity="0.53"/><path d="M 746 648 A 433 433 0 0 0 746 1312"
+              fill="none" stroke="#fff" stroke-width="16.041666666666664" stroke-linecap="round" opacity="0.53"/><path d="M 1360 580 A 523 523 0 0 1 1360 1380"
+              fill="none" stroke="#fff" stroke-width="16.041666666666664" stroke-linecap="round" opacity="0.31"/><path d="M 688 580 A 523 523 0 0 0 688 1380"
+              fill="none" stroke="#fff" stroke-width="16.041666666666664" stroke-linecap="round" opacity="0.31"/>
+    <g transform="translate(1024 980) scale(1.7760416666666665)">
+      <path d="M-150 20 q6-58 40-64 l30-46 q10-16 30-16 h100 q20 0 30 16 l30 46
+               q34 6 40 64 v24 q0 14-14 14 h-272 q-14 0-14-14 z" fill="#fff"/>
+      <circle cx="-92" cy="58" r="30" fill="#fff"/>
+      <circle cx="92" cy="58" r="30" fill="#fff"/>
+    </g>
+  </g>
+
+  <g id="Результат">
+    <rect x="474" y="1560" width="1100" height="756" rx="55" fill="#fff"/>
+    <rect x="538" y="1624" width="449"
+      height="83" rx="41" fill="#D2790B"/>
+    <text x="763" y="1680" text-anchor="middle"
+      font-family="Manrope, Inter, sans-serif" font-size="44" font-weight="700"
+      fill="#fff">Shop this week</text>
+    <text x="538" y="1789" font-family="Manrope, Inter, sans-serif"
+      font-size="39" font-weight="600" fill="#64748B">Likely causes</text>
+<text x="538" y="1892" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+        font-size="53" font-weight="600" fill="#0F172A">Worn alternator bearing</text>
+      <text x="1510" y="1892" text-anchor="end" font-family="Manrope, Inter, sans-serif"
+        font-size="53" font-weight="700" fill="#0F172A">45%</text>
+      <rect x="538" y="1924.0833333333333" width="972" height="18.333333333333332" rx="9.166666666666666" fill="#D7EAE7"/>
+      <rect x="538" y="1924.0833333333333" width="437" height="18.333333333333332"
+        rx="9.166666666666666" fill="#0E7C7B"/>
+<text x="538" y="2053" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+        font-size="53" font-weight="600" fill="#0F172A">Drive belt tensioner</text>
+      <text x="1510" y="2053" text-anchor="end" font-family="Manrope, Inter, sans-serif"
+        font-size="53" font-weight="700" fill="#0F172A">30%</text>
+      <rect x="538" y="2085.0833333333335" width="972" height="18.333333333333332" rx="9.166666666666666" fill="#D7EAE7"/>
+      <rect x="538" y="2085.0833333333335" width="292" height="18.333333333333332"
+        rx="9.166666666666666" fill="#0E7C7B"/>
+<text x="538" y="2213" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+        font-size="53" font-weight="600" fill="#0F172A">Water pump bearing</text>
+      <text x="1510" y="2213" text-anchor="end" font-family="Manrope, Inter, sans-serif"
+        font-size="53" font-weight="700" fill="#0F172A">15%</text>
+      <rect x="538" y="2245.0833333333335" width="972" height="18.333333333333332" rx="9.166666666666666" fill="#D7EAE7"/>
+      <rect x="538" y="2245.0833333333335" width="146" height="18.333333333333332"
+        rx="9.166666666666666" fill="#0E7C7B"/>
+  </g>
+
+  <g id="Сноска">
+    <text x="1024" y="2522" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
+      font-size="53" font-weight="600" fill="#fff" opacity="0.92">No scanner, no shop visit.</text>
+    <text x="1024" y="2611" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
+      font-size="53" font-weight="600" fill="#fff" opacity="0.92">Just your phone.</text>
+  </g>
+</svg>
