@@ -97,8 +97,25 @@ class VerdictScreen extends StatelessWidget {
                     child: Text(S.verdictRefine),
                   ),
                   const SizedBox(height: 6),
-                  Text(S.verdictRefineNote,
-                      style: Theme.of(context).textTheme.bodySmall),
+                  // Что стоит полный отчёт. У вошедшего это остаток проверок
+                  // на машине, у остальных — дневной бесплатный предел.
+                  //
+                  // Раньше здесь всем показывалось «пока бесплатно, до трёх
+                  // отчётов в день» — текст, оставшийся от поры без аккаунтов.
+                  // Человеку с купленным пакетом он говорил неправду о цене,
+                  // а магазины такое читают.
+                  Builder(builder: (context) {
+                    final st = AppScope.of(context);
+                    final slot = st.accounts.signedIn
+                        ? st.accounts.state?.slot(st.car?.slotId ?? '')
+                        : null;
+                    return Text(
+                      slot == null
+                          ? S.verdictRefineNote
+                          : S.buyChecksLeft.replaceFirst('{n}', '${slot.checks}'),
+                      style: Theme.of(context).textTheme.bodySmall,
+                    );
+                  }),
                   const SizedBox(height: 10),
                   OutlinedButton(
                     onPressed: () async {
