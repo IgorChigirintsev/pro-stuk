@@ -60,7 +60,7 @@ const shots = [
   { file: '1-report.png',  en: ['What that noise is —', 'and how likely'] },
   { file: '2-diagram.png', en: ['The exact part,', 'shown on a diagram'] },
   { file: '3-record.png',  en: ['Record 15 seconds', 'of the noise'] },
-  { file: '4-shop.png',    en: ['Walk into the shop', 'already prepared'] },
+  { file: '4-detail.png',  en: ['Why it\u2019s that part \u2014', 'and how to check it'] },
   { file: '5-home.png',    en: ['Your car\u2019s noise,', 'explained'] },
   { file: '6-book.png',    en: ['See what service', 'is due, and when'] },
   { file: '7-garage.png',  en: ['Every car you own,', 'in one garage'] },
