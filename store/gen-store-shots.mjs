@@ -21,8 +21,8 @@ import { fileURLToPath } from 'node:url';
 
 const CHROME = process.env.CHROME ?? 'google-chrome';
 const here = dirname(fileURLToPath(import.meta.url));
-const shotsDir = join(here, 'appstore', 'screens');
-const outRoot = join(here, 'appstore');
+const shotsDir = join(here, 'cards', 'screens');
+const outRoot = join(here, 'cards');
 const tmpDir = join(here, '.tmp-shots');
 
 // Исходный снимок: Pixel 9a. Сверху строка состояния, снизу полоса жестов —
@@ -31,26 +31,55 @@ const SRC_W = 1080, SRC_H = 2424;
 const CROP_TOP = 118;
 
 // Размеры разложены по форматам поимённо, а не выведены формулой из ширины.
-// Формула ломается на iPad: он почти квадратный, и телефон, растянутый по
-// его ширине, перестаёт быть телефоном.
+// Формула ломается на планшетах: они почти квадратные, и телефон, растянутый
+// по их ширине, перестаёт быть телефоном.
+//
+// Apple задаёт точные размеры и соотношением сторон не ограничивает. Google
+// ограничивает: «большая сторона не длиннее меньшей более чем вдвое». Высокие
+// карточки Apple (1290×2796 — это 2,17) Play не примет, поэтому у него свои.
+// И карточек у Play не больше восьми на каждый вид устройства.
 const FORMATS = [
   {
-    id: 'iphone-6.9', W: 1290, H: 2796, required: true,
+    id: 'apple/iphone-6.9', W: 1290, H: 2796, note: 'App Store, iPhone — обязателен',
     markY: 197, markScale: 1.04, capY: 343, capStep: 116, capSize: 91,
-    phoneW: 1100, phoneY: 665,
-    carY: 1050, cardW: 1000, cardY: 1560,
+    phoneW: 1100, phoneY: 665, carY: 1050, cardW: 1000, cardY: 1560,
   },
   {
-    id: 'iphone-6.5', W: 1242, H: 2688, required: false,
+    id: 'apple/iphone-6.5', W: 1242, H: 2688, note: 'App Store, iPhone — запасной',
     markY: 190, markScale: 1, capY: 330, capStep: 112, capSize: 88,
-    phoneW: 1060, phoneY: 640,
-    carY: 1010, cardW: 960, cardY: 1500,
+    phoneW: 1060, phoneY: 640, carY: 1010, cardW: 960, cardY: 1500,
   },
   {
-    id: 'ipad-13', W: 2048, H: 2732, required: true,
+    id: 'apple/ipad-13', W: 2048, H: 2732, note: 'App Store, iPad — обязателен',
     markY: 215, markScale: 1.15, capY: 375, capStep: 132, capSize: 104,
-    phoneW: 1065, phoneY: 700,
-    carY: 980, cardW: 1100, cardY: 1560,
+    phoneW: 1065, phoneY: 700, carY: 980, cardW: 1100, cardY: 1560,
+  },
+  {
+    id: 'play/phone', W: 1080, H: 1920, max: 8, note: 'Google Play, телефон',
+    markY: 130, markScale: 0.72, capY: 232, capStep: 80, capSize: 63,
+    phoneW: 830, phoneY: 440, carY: 660, cardW: 820, cardY: 1060,
+  },
+  {
+    id: 'play/tablet-7', W: 1200, H: 1920, max: 8, note: 'Google Play, планшет 7″',
+    markY: 130, markScale: 0.75, capY: 236, capStep: 84, capSize: 66,
+    phoneW: 720, phoneY: 430, carY: 660, cardW: 860, cardY: 1050,
+  },
+  {
+    id: 'play/tablet-10', W: 1600, H: 2560, max: 8, note: 'Google Play, планшет 10″',
+    markY: 175, markScale: 1, capY: 315, capStep: 112, capSize: 88,
+    phoneW: 950, phoneY: 580, carY: 900, cardW: 1050, cardY: 1420,
+  },
+  {
+    // Chromebook — ноутбук, и карточка лежачая. Раскладка другая: слева
+    // столбец с текстом и разбором, справа машина со звуком; на остальных
+    // карточках слева телефон, справа подпись.
+    id: 'play/chromebook', W: 2560, H: 1440, max: 8, landscape: true,
+    note: 'Google Play, Chromebook',
+    markY: 480, markScale: 1.05, capY: 700, capStep: 120, capSize: 96,
+    phoneW: 620, phoneX: 430, phoneY: 210,
+    textX: 1240, carX: 1850, carY: 720, carScale: 1.4,
+    cardX: 180, cardW: 800, cardY: 620, footY: 1300,
+    heroCapY: 390, heroMarkY: 200,
   },
 ];
 
@@ -95,11 +124,11 @@ function esc(s) {
 /** Знак: та же звуковая волна, что в иконке приложения. Ставится над
  *  подписью — карточка сразу говорит, что приложение про звук, ещё до
  *  того, как человек прочтёт текст. */
-function waveMark(W, y, sc) {
+function waveMark(cx, y, sc) {
   const hs = [44, 76, 52, 124, 66, 94, 38].map(h => h * sc);
   const gap = 22 * sc, w = 14 * sc;
   const total = hs.length * w + (hs.length - 1) * gap;
-  let x = (W - total) / 2;
+  let x = cx - total / 2;
   let out = '';
   for (const h of hs) {
     out += `<rect x="${Math.round(x)}" y="${Math.round(y - h / 2)}" width="${Math.round(w)}"
@@ -152,18 +181,20 @@ function causeRow(x, y, w, title, pct, sc) {
 /** Первая карточка: машина шумит, звук слушают, приходит причина с долей и
  *  оценкой срочности. Вся история без единого слова, которое надо читать. */
 function heroBody(f) {
-  const cx = f.W / 2;
   const sc = f.cardW / 960;             // масштаб карточки результата
-  const cardX = Math.round((f.W - f.cardW) / 2);
+  const cardX = f.landscape ? f.cardX : Math.round((f.W - f.cardW) / 2);
   // Высота — под три строки причин, а не на глаз: последняя строка сидит на
   // 570, ей нужно место под полосу и нижнее поле.
   const cardH = Math.round(660 * sc);
-  const footY = f.cardY + cardH + Math.round(180 * sc);
+  const footY = f.landscape ? f.footY : f.cardY + cardH + Math.round(180 * sc);
+  const footX = f.landscape ? cardX + f.cardW / 2 : f.W / 2;
+  const carX = f.landscape ? f.carX : f.W / 2;
+  const carSc = (f.landscape ? f.carScale : 1.55) * (f.landscape ? 1 : sc);
   const pad = Math.round(56 * sc);
   const inner = f.cardW - pad * 2;
   return `  <g id="Машина">
-${soundArcs(cx, f.carY, sc)}
-    ${carShape(cx, f.carY, 1.55 * sc)}
+${soundArcs(carX, f.carY, f.landscape ? f.carScale : sc)}
+    ${carShape(carX, f.carY, carSc)}
   </g>
 
   <g id="Результат">
@@ -181,9 +212,9 @@ ${causeRow(cardX + pad, f.cardY + Math.round(570 * sc), inner, 'Water pump beari
   </g>
 
   <g id="Сноска">
-    <text x="${cx}" y="${footY}" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
+    <text x="${footX}" y="${footY}" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
       font-size="${Math.round(46 * sc)}" font-weight="600" fill="#fff" opacity="0.92">No scanner, no shop visit.</text>
-    <text x="${cx}" y="${footY + Math.round(78 * sc)}" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
+    <text x="${footX}" y="${footY + Math.round(78 * sc)}" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
       font-size="${Math.round(46 * sc)}" font-weight="600" fill="#fff" opacity="0.92">Just your phone.</text>
   </g>`;
 }
@@ -192,7 +223,7 @@ function phoneBody(f, b64) {
   const scale = f.phoneW / SRC_W;
   const bezel = Math.round(22 * f.phoneW / 1060);
   const radius = Math.round(78 * f.phoneW / 1060);
-  const x = Math.round((f.W - f.phoneW) / 2);
+  const x = f.landscape ? f.phoneX : Math.round((f.W - f.phoneW) / 2);
   const imgY = f.phoneY - Math.round(CROP_TOP * scale);
   const boxH = f.H - f.phoneY + 120;
   return `  <g id="Телефон">
@@ -214,12 +245,12 @@ function phoneBody(f, b64) {
 // поперёк, задаётся в координатах ленты и сдвигается на -i*W. Всё, что
 // повторяется на каждой карточке, должно быть либо симметричным, либо
 // вертикальным — иначе на стыке появится ступенька.
-function svgFor(f, shot, i) {
-  const total = f.W * shots.length;
+function svgFor(f, list, shot, i) {
+  const total = f.W * list.length;
   const scale = f.phoneW / SRC_W;
   const bezel = Math.round(22 * f.phoneW / 1060);
   const radius = Math.round(78 * f.phoneW / 1060);
-  const px = Math.round((f.W - f.phoneW) / 2);
+  const px = f.landscape ? f.phoneX : Math.round((f.W - f.phoneW) / 2);
   const boxH = f.H - f.phoneY + 120;
 
   const hueStops = JOURNEY.map((c, n) =>
@@ -229,8 +260,17 @@ function svgFor(f, shot, i) {
     `      <circle cx="${Math.round(b.x * f.W)}" cy="${Math.round(b.y * f.H)}"
               r="${Math.round(b.r * f.W)}" fill="url(#blob)" opacity="${b.o}"/>`).join('\n');
 
+  // На лежачей карточке подпись прижата влево, к телефону; исключение —
+  // первая, где слева стоит разбор, и подпись встаёт над ним.
+  const wide = f.landscape && !shot.hero;
+  const capX = wide ? f.textX : (f.landscape ? f.cardX : f.W / 2);
+  const capY = f.landscape && shot.hero ? f.heroCapY : f.capY;
+  const anchor = f.landscape ? 'start' : 'middle';
+  const markX = f.landscape ? capX + 130 * f.markScale : f.W / 2;
+  const markY = f.landscape && shot.hero ? f.heroMarkY : f.markY;
+
   const lines = shot.en.map((t, n) =>
-    `      <text x="${f.W / 2}" y="${f.capY + n * f.capStep}" text-anchor="middle"
+    `      <text x="${capX}" y="${capY + n * f.capStep}" text-anchor="${anchor}"
         font-family="Manrope, Inter, -apple-system, sans-serif"
         font-size="${f.capSize}" font-weight="800" letter-spacing="-1.5"
         fill="${n === 0 ? T.ink : T.accent}"
@@ -272,7 +312,7 @@ ${blobs}
   </g>
 
   <g id="Волна">
-${waveMark(f.W, f.markY, f.markScale)}
+${waveMark(markX, markY, f.markScale)}
   </g>
 
   <g id="Подпись">
@@ -340,14 +380,16 @@ ${svg}`);
 mkdirSync(tmpDir, { recursive: true });
 
 for (const f of FORMATS) {
+  const list = f.max ? shots.slice(0, f.max) : shots;
   const svgDir = join(outRoot, 'svg', f.id);
   const pngDir = join(outRoot, 'png', f.id);
   mkdirSync(svgDir, { recursive: true });
   mkdirSync(pngDir, { recursive: true });
+  mkdirSync(join(outRoot, 'panorama'), { recursive: true });
 
-  for (const [i, shot] of shots.entries()) {
+  for (const [i, shot] of list.entries()) {
     const name = String(i + 1).padStart(2, '0');
-    const svg = svgFor(f, shot, i);
+    const svg = svgFor(f, list, shot, i);
     writeFileSync(join(svgDir, `${name}.svg`), svg);
     render(svg, f.W, f.H, join(pngDir, `${name}.png`));
   }
@@ -355,7 +397,7 @@ for (const f of FORMATS) {
   // Склейка всей ленты одной картинкой. Не для магазина — для глаза: только
   // так видно, сошёлся ли фон на стыках. Порядок в консоли магазина обязан
   // совпадать с нумерацией файлов, иначе панорама рассыплется.
-  const strip = shots.map((_, n) => {
+  const strip = list.map((_, n) => {
     const p = join(pngDir, `${String(n + 1).padStart(2, '0')}.png`);
     return `<img src="data:image/png;base64,${readFileSync(p).toString('base64')}">`;
   }).join('');
@@ -367,12 +409,12 @@ img{display:block;width:${f.W}px;height:${f.H}px}</style>
 <div class="s">${strip}</div>`);
   execFileSync(CHROME, [
     '--headless', '--disable-gpu', '--hide-scrollbars',
-    `--window-size=${Math.round(f.W * shots.length * k)},${Math.round(f.H * k)}`,
-    `--screenshot=${join(outRoot, `panorama-${f.id}.png`)}`,
+    `--window-size=${Math.round(f.W * list.length * k)},${Math.round(f.H * k)}`,
+    `--screenshot=${join(outRoot, 'panorama', `${f.id.replace('/', '-')}.png`)}`,
     `file://${join(tmpDir, 'strip.html')}`,
   ], { stdio: 'ignore' });
 
-  console.log(`${f.id}: ${shots.length} карточек ${f.W}×${f.H}${f.required ? ' (обязателен)' : ''}`);
+  console.log(`${f.id.padEnd(20)} ${String(list.length).padStart(2)} × ${f.W}×${f.H}  ${f.note}`);
 }
 
 // Баннер Play
