@@ -50,27 +50,25 @@ const T = {
   soft: 'rgba(255,255,255,0.72)',
 };
 
-/** Подписи. Первые три показываются в списке приложений — они важнее всех. */
+/** Подписи. Первые три показываются в списке приложений — они важнее всех,
+ *  поэтому набор начинается с результата, а не с главного экрана: человек
+ *  листает карточку, чтобы понять, что он получит, а не как выглядит меню. */
 const shots = [
-  { file: '1-home.png',   title: 'Что там стучит —',   accent: 'понятным языком',
-    en: ['Your car’s noise,', 'explained'] },
-  { file: '2-record.png', title: '', accent: '',
-    en: ['Record 15 seconds', 'of the noise'] },
-  { file: '3-verdict.png', title: '', accent: '',
-    en: ['A likely cause —', 'and how urgent it is'] },
-  { file: '4-quiz.png',   title: '', accent: '',
-    en: ['A few questions,', 'no guesswork'] },
-  { file: '5-book.png',   title: '', accent: '',
-    en: ['See what service', 'is due, and when'] },
-  { file: '6-garage.png', title: '', accent: '',
-    en: ['Every car you own,', 'in one garage'] },
+  { file: '1-report.png',  en: ['What that noise is —', 'and how likely'] },
+  { file: '2-diagram.png', en: ['The exact part,', 'shown on a diagram'] },
+  { file: '3-record.png',  en: ['Record 15 seconds', 'of the noise'] },
+  { file: '4-shop.png',    en: ['Walk into the shop', 'already prepared'] },
+  { file: '5-home.png',    en: ['Your car\u2019s noise,', 'explained'] },
+  { file: '6-book.png',    en: ['See what service', 'is due, and when'] },
+  { file: '7-garage.png',  en: ['Every car you own,', 'in one garage'] },
+  { file: '8-quiz.png',    en: ['A few questions,', 'no guesswork'] },
 ];
 
 function esc(s) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
-function svgFor(shot, i) {
+function svgFor(shot) {
   const b64 = readFileSync(join(shotsDir, shot.file)).toString('base64');
   // Снимок кладём во всю ширину экрана рамки и сдвигаем вверх на срезанную
   // строку состояния; лишнее отсекает маска.
@@ -122,7 +120,7 @@ mkdirSync(tmpDir, { recursive: true });
 
 for (const [i, shot] of shots.entries()) {
   const name = String(i + 1).padStart(2, '0');
-  const svg = svgFor(shot, i);
+  const svg = svgFor(shot);
   writeFileSync(join(svgDir, `${name}.svg`), svg);
 
   // Хром рисует SVG внутри пустой страницы: так размер пикселей задаётся
