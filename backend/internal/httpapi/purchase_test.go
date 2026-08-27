@@ -65,8 +65,8 @@ func TestPurchaseGrantsAfterStoreConfirms(t *testing.T) {
 	if err := json.Unmarshal(got.Body.Bytes(), &state); err != nil {
 		t.Fatal(err)
 	}
-	if state.Slots[0].Checks != 25 {
-		t.Fatalf("начислено до %d проверок, ожидалось 25", state.Slots[0].Checks)
+	if want := billing.FreeChecks + 20; state.Slots[0].Checks != want {
+		t.Fatalf("начислено до %d проверок, ожидалось %d", state.Slots[0].Checks, want)
 	}
 	if fs.product != "checks_20" || fs.token != "чек-1" {
 		t.Fatalf("в магазин ушло %q / %q", fs.product, fs.token)
@@ -86,7 +86,7 @@ func TestPurchaseRejectedByStore(t *testing.T) {
 		t.Fatalf("неподтверждённая покупка дала %d", got.Code)
 	}
 	after, _ := accs.Get(acc.ID)
-	if after.Slots[0].Checks != 5 {
+	if after.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("начислено по неподтверждённому чеку: %d", after.Slots[0].Checks)
 	}
 }
@@ -120,7 +120,7 @@ func TestPurchaseWithoutConfiguredStore(t *testing.T) {
 		t.Fatalf("без настроенного магазина дало %d", got.Code)
 	}
 	after, _ := accs.Get(acc.ID)
-	if after.Slots[0].Checks != 5 {
+	if after.Slots[0].Checks != billing.FreeChecks {
 		t.Fatal("начислено без проверки в магазине")
 	}
 }
@@ -139,8 +139,8 @@ func TestPurchaseIsIdempotent(t *testing.T) {
 		}
 	}
 	acc, _ := accs.BySession(token)
-	if acc.Slots[0].Checks != 45 {
-		t.Fatalf("начислено %d, ожидалось 45", acc.Slots[0].Checks)
+	if want := billing.FreeChecks + 40; acc.Slots[0].Checks != want {
+		t.Fatalf("начислено %d, ожидалось %d", acc.Slots[0].Checks, want)
 	}
 }
 

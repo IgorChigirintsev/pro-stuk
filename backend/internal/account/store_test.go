@@ -5,6 +5,8 @@ import (
 	"os"
 	"path/filepath"
 	"testing"
+
+	"stuk/backend/internal/billing"
 )
 
 func newStore(t *testing.T) (*Store, string) {
@@ -52,8 +54,9 @@ func TestReinstallRestoresEverything(t *testing.T) {
 	if len(back.Slots) != 1 || back.Slots[0].Car == nil {
 		t.Fatalf("машина не вернулась: %+v", back.Slots)
 	}
-	if back.Slots[0].Checks != 24 {
-		t.Fatalf("проверок %d, ожидалось 24", back.Slots[0].Checks)
+	// Бесплатный старт плюс купленный пакет, минус одна потраченная.
+	if want := billing.FreeChecks + 20 - 1; back.Slots[0].Checks != want {
+		t.Fatalf("проверок %d, ожидалось %d", back.Slots[0].Checks, want)
 	}
 	if !back.Slots[0].Locked() {
 		t.Fatal("замок машины не пережил перезапуск")
@@ -72,7 +75,7 @@ func TestAccountsAreSeparate(t *testing.T) {
 		t.Fatal(err)
 	}
 	got, _ := s.Get(b.ID)
-	if got.Slots[0].Checks != 5 {
+	if got.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("чужая покупка досталась второй записи: %d", got.Slots[0].Checks)
 	}
 }
@@ -104,7 +107,7 @@ func TestFailedUpdateChangesNothing(t *testing.T) {
 		t.Fatalf("ожидалась ошибка правки, получено %v", err)
 	}
 	got, _ := s.Get(a.ID)
-	if got.Slots[0].Checks != 5 || got.Version != a.Version {
+	if got.Slots[0].Checks != billing.FreeChecks || got.Version != a.Version {
 		t.Fatalf("частичная правка сохранилась: %+v версия %d", got.Slots, got.Version)
 	}
 }
@@ -117,7 +120,7 @@ func TestGetReturnsCopy(t *testing.T) {
 	got.Slots[0].Checks = 999
 	got.Done["взлом"] = true
 	again, _ := s.Get(a.ID)
-	if again.Slots[0].Checks != 5 || again.Done["взлом"] {
+	if again.Slots[0].Checks != billing.FreeChecks || again.Done["взлом"] {
 		t.Fatal("хранилище изменилось через выданную копию")
 	}
 }

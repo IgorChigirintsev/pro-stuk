@@ -10,6 +10,7 @@ import (
 	"time"
 
 	"stuk/backend/internal/account"
+	"stuk/backend/internal/billing"
 	"stuk/backend/internal/config"
 	"stuk/backend/internal/stats"
 )
@@ -91,7 +92,7 @@ func TestAccountStateAndVersion(t *testing.T) {
 	if err := json.Unmarshal(got.Body.Bytes(), &state); err != nil {
 		t.Fatal(err)
 	}
-	if len(state.Slots) != 1 || state.Slots[0].Checks != 5 {
+	if len(state.Slots) != 1 || state.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("бесплатный старт разошёлся: %+v", state.Slots)
 	}
 
@@ -166,7 +167,7 @@ func TestSessionsAreIsolated(t *testing.T) {
 	if err := json.Unmarshal(got.Body.Bytes(), &state); err != nil {
 		t.Fatal(err)
 	}
-	if state.Slots[0].Checks != 5 {
+	if state.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("видны чужие проверки: %d", state.Slots[0].Checks)
 	}
 	if state.ID == acc2.ID {
@@ -204,8 +205,8 @@ func TestAssignPending(t *testing.T) {
 	if err := json.Unmarshal(got.Body.Bytes(), &state); err != nil {
 		t.Fatal(err)
 	}
-	if state.Slots[0].Checks != 25 {
-		t.Fatalf("после привязки %d проверок, ожидалось 25", state.Slots[0].Checks)
+	if want := billing.FreeChecks + 20; state.Slots[0].Checks != want {
+		t.Fatalf("после привязки %d проверок, ожидалось %d", state.Slots[0].Checks, want)
 	}
 }
 
@@ -265,7 +266,7 @@ func TestSignInAfterDeleteStartsClean(t *testing.T) {
 	if back.ID == acc.ID {
 		t.Fatal("вернулась удалённая запись")
 	}
-	if back.Slots[0].Checks != 5 {
+	if back.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("новая запись пришла с балансом %d", back.Slots[0].Checks)
 	}
 }

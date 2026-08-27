@@ -4,6 +4,8 @@ import (
 	"errors"
 	"testing"
 	"time"
+
+	"stuk/backend/internal/billing"
 )
 
 var now = time.Date(2026, 8, 20, 12, 0, 0, 0, time.UTC)
@@ -14,7 +16,7 @@ func bmw() Car { return Car{Make: "BMW", Model: "3 серия", Year: 2018, Mile
 func newAcc(t *testing.T) *Account {
 	t.Helper()
 	a := New("a1", "google", "sub-1", now)
-	if len(a.Slots) != 1 || a.Slots[0].Checks != 5 {
+	if len(a.Slots) != 1 || a.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("бесплатный старт разошёлся: %+v", a.Slots)
 	}
 	return a
@@ -42,13 +44,13 @@ func TestChecksBelongToSlot(t *testing.T) {
 	}
 
 	// Тратим всё на первой машине.
-	for i := 0; i < 5; i++ {
+	for i := 0; i < billing.FreeChecks; i++ {
 		if err := a.Spend("s1"); err != nil {
 			t.Fatalf("проверка %d: %v", i+1, err)
 		}
 	}
 	if err := a.Spend("s1"); !errors.Is(err, ErrNoChecks) {
-		t.Fatalf("шестая проверка прошла: %v", err)
+		t.Fatalf("лишняя проверка прошла: %v", err)
 	}
 	// У второй машины свои пять — они не помогли первой и не потратились.
 	if a.Slots[1].Checks != 5 {
@@ -66,10 +68,10 @@ func TestCheckPackGoesToChosenSlot(t *testing.T) {
 	if err := a.Grant("p2", "checks_20", "s2"); err != nil {
 		t.Fatal(err)
 	}
-	if a.Slots[0].Checks != 5 {
+	if a.Slots[0].Checks != billing.FreeChecks {
 		t.Errorf("первой машине досталось лишнее: %d", a.Slots[0].Checks)
 	}
-	if a.Slots[1].Checks != 25 {
+	if a.Slots[1].Checks != 25 { // купленное место: 5 своих плюс пакет на 20
 		t.Errorf("на второй машине %d проверок, ожидалось 25", a.Slots[1].Checks)
 	}
 }
@@ -84,14 +86,14 @@ func TestPendingSurvivesLostSlot(t *testing.T) {
 	if len(a.Pending) != 1 || a.Pending[0].Checks != 10 {
 		t.Fatalf("покупка потерялась: %+v", a.Pending)
 	}
-	if a.Slots[0].Checks != 5 {
+	if a.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("проверки легли не туда: %d", a.Slots[0].Checks)
 	}
 	if err := a.Assign("p1", "s1"); err != nil {
 		t.Fatal(err)
 	}
-	if a.Slots[0].Checks != 15 {
-		t.Fatalf("после привязки %d проверок, ожидалось 15", a.Slots[0].Checks)
+	if want := billing.FreeChecks + 10; a.Slots[0].Checks != want {
+		t.Fatalf("после привязки %d проверок, ожидалось %d", a.Slots[0].Checks, want)
 	}
 	if len(a.Pending) != 0 {
 		t.Fatal("покупка осталась в неразнесённых после привязки")
@@ -106,8 +108,9 @@ func TestGrantIsIdempotent(t *testing.T) {
 			t.Fatal(err)
 		}
 	}
-	if a.Slots[0].Checks != 45 {
-		t.Fatalf("начислено %d, ожидалось 45: один чек сработал несколько раз", a.Slots[0].Checks)
+	if want := billing.FreeChecks + 40; a.Slots[0].Checks != want {
+		t.Fatalf("начислено %d, ожидалось %d: один чек сработал несколько раз",
+			a.Slots[0].Checks, want)
 	}
 }
 
@@ -116,7 +119,7 @@ func TestUnknownProductGrantsNothing(t *testing.T) {
 	if err := a.Grant("p1", "checks_999", "s1"); !errors.Is(err, ErrUnknownProduct) {
 		t.Fatalf("ожидалась ошибка неизвестного товара, получено %v", err)
 	}
-	if a.Slots[0].Checks != 5 {
+	if a.Slots[0].Checks != billing.FreeChecks {
 		t.Fatal("подделанный идентификатор что-то начислил")
 	}
 }
@@ -172,7 +175,7 @@ func TestRefundKeepsLock(t *testing.T) {
 	_ = a.SetCar("s1", vaz())
 	_ = a.Spend("s1")
 	a.Refund("s1")
-	if a.Slots[0].Checks != 5 {
+	if a.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("возврат не вернул проверку: %d", a.Slots[0].Checks)
 	}
 	if !a.Slots[0].Locked() {

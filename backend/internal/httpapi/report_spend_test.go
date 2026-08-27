@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	"stuk/backend/internal/account"
+	"stuk/backend/internal/billing"
 )
 
 // Разбор со входом списывает проверку с указанного места, а не с общего счёта.
@@ -31,7 +32,7 @@ func TestSpendTakesFromChosenSlot(t *testing.T) {
 		t.Fatal(err)
 	}
 	got, _ := accs.Get(acc.ID)
-	if got.Slots[0].Checks != 5 {
+	if got.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("списали с чужой машины: у первой %d", got.Slots[0].Checks)
 	}
 	if got.Slots[1].Checks != 4 {
@@ -58,7 +59,7 @@ func TestRefundReturnsCheckKeepsLock(t *testing.T) {
 		t.Fatal(err)
 	}
 	got, _ := accs.Get(acc.ID)
-	if got.Slots[0].Checks != 5 {
+	if got.Slots[0].Checks != billing.FreeChecks {
 		t.Fatalf("проверка не вернулась: %d", got.Slots[0].Checks)
 	}
 	if !got.Slots[0].Locked() {
