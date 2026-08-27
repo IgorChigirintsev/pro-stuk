@@ -39,19 +39,43 @@ const CROP_TOP = 118, CROP_BOTTOM = 60;
 // вверх, к подписи, а не утыкается в пустое поле.
 const SCREEN_W = 1060;
 const SCREEN_X = Math.round((W - SCREEN_W) / 2);
-const SCREEN_Y = 560;
+const SCREEN_Y = 640;
 const BEZEL = 22;
 const RADIUS = 78;
 const SCALE = SCREEN_W / SRC_W;
 
+// Оттенок меняется от карточки к карточке. Восемь одинаковых плашек в ряд
+// читаются как одна: глаз перестаёт их различать и пролистывает. Разные —
+// заставляют задержаться на каждой, а семейство держится тем, что все они
+// вокруг фирменной бирюзы.
+const SCHEMES = [
+  { top: '#19A89F', bottom: '#053C38', accent: '#FFD166' },
+  { top: '#1AA277', bottom: '#04382C', accent: '#FFE08A' },
+  { top: '#1391A8', bottom: '#053241', accent: '#FFCB6B' },
+  { top: '#0F8F86', bottom: '#04302C', accent: '#F6B93B' },
+];
+
 const T = {
-  deep: '#06403C',   // низ фона
-  teal: '#12857F',   // верх фона
-  glow: '#2FB3A6',   // свечение за телефоном
   ink: '#FFFFFF',
-  accent: '#F6B93B', // вторая строка подписи
   bezel: '#0C1113',
 };
+
+/** Знак: та же звуковая волна, что в иконке приложения. Ставится над
+ *  подписью — карточка сразу говорит, что приложение про звук, ещё до
+ *  того, как человек прочтёт текст. */
+function waveMark(y) {
+  const hs = [44, 76, 52, 124, 66, 94, 38];
+  const gap = 22, w = 14;
+  const total = hs.length * w + (hs.length - 1) * gap;
+  let x = Math.round((W - total) / 2);
+  let out = '';
+  for (const h of hs) {
+    out += `<rect x="${x}" y="${y - h / 2}" width="${w}" height="${h}" rx="${w / 2}"
+              fill="#fff" opacity="0.9"/>`;
+    x += w + gap;
+  }
+  return out;
+}
 
 /** Подписи. Первые три показываются в списке приложений — они важнее всех,
  *  поэтому набор начинается с результата, а не с главного экрана: человек
@@ -71,7 +95,8 @@ function esc(s) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
-function svgFor(shot) {
+function svgFor(shot, i) {
+  const c = SCHEMES[i % SCHEMES.length];
   const b64 = readFileSync(join(shotsDir, shot.file)).toString('base64');
   const imgH = Math.round(SRC_H * SCALE);
   // Снимок сдвигается вверх на срезанную строку состояния; лишнее отсекает
@@ -79,29 +104,28 @@ function svgFor(shot) {
   // окно ровно такой высоты, что снимка едва хватает. Нужен другой кусок —
   // снимайте экран заново с нужной прокруткой.
   const imgY = SCREEN_Y - Math.round(CROP_TOP * SCALE);
-  // Рамка и экран уходят за нижний край холста — там их обрежет сам холст.
   const boxH = H - SCREEN_Y + 120;
 
   const lines = shot.en.map((t, n) =>
-    `      <text x="${W / 2}" y="${262 + n * 112}" text-anchor="middle"
+    `      <text x="${W / 2}" y="${330 + n * 112}" text-anchor="middle"
         font-family="Manrope, Inter, -apple-system, sans-serif"
         font-size="88" font-weight="800" letter-spacing="-1.5"
-        fill="${n === 0 ? T.ink : T.accent}"
+        fill="${n === 0 ? T.ink : c.accent}"
         >${esc(t)}</text>`).join('\n');
 
   return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="${T.teal}"/>
-      <stop offset="1" stop-color="${T.deep}"/>
+    <linearGradient id="bg" x1="0.15" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="${c.top}"/>
+      <stop offset="1" stop-color="${c.bottom}"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.62">
-      <stop offset="0" stop-color="${T.glow}" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="${T.glow}" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0.5" cy="0.30" r="0.75">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
     <filter id="shadow" x="-30%" y="-10%" width="160%" height="130%">
-      <feDropShadow dx="0" dy="26" stdDeviation="42" flood-color="#00201E" flood-opacity="0.55"/>
+      <feDropShadow dx="0" dy="30" stdDeviation="46" flood-color="#00201E" flood-opacity="0.6"/>
     </filter>
     <clipPath id="screenClip">
       <rect x="${SCREEN_X}" y="${SCREEN_Y}" width="${SCREEN_W}" height="${boxH}" rx="${RADIUS - BEZEL}"/>
@@ -111,6 +135,10 @@ function svgFor(shot) {
   <g id="Фон">
     <rect width="${W}" height="${H}" fill="url(#bg)"/>
     <rect width="${W}" height="${H}" fill="url(#glow)"/>
+  </g>
+
+  <g id="Волна">
+${waveMark(190)}
   </g>
 
   <g id="Подпись">
@@ -137,7 +165,7 @@ mkdirSync(tmpDir, { recursive: true });
 
 for (const [i, shot] of shots.entries()) {
   const name = String(i + 1).padStart(2, '0');
-  const svg = svgFor(shot);
+  const svg = svgFor(shot, i);
   writeFileSync(join(svgDir, `${name}.svg`), svg);
 
   // Хром рисует SVG внутри пустой страницы: так размер пикселей задаётся
