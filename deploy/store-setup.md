@@ -132,24 +132,169 @@ App Store Connect: Monetization → In-App Purchases, тип **Consumable**.
 проверок, `garage-slots` у мест.
 
 
-### App Store Connect: короткие тексты
 
-У Apple пределы жёстче, чем в Google Play: **имя товара 30 знаков, описание
-45**. Описания из таблиц выше туда не влезают — они писались под Play, где
-восемьдесят. Для App Store своя пара:
+### App Store Connect: локализации товаров
 
-| ID | Display Name (en) | Description (en) | Display Name (ru) | Description (ru) |
-|---|---|---|---|---|
-| `checks_5` | 5 sound checks | Five more recordings to analyse. | 5 проверок звука | Ещё пять записей на разбор. |
-| `checks_10` | 10 sound checks | Ten more recordings to analyse. | 10 проверок звука | Ещё десять записей на разбор. |
-| `checks_20` | 20 sound checks | Twenty more recordings to analyse. | 20 проверок звука | Ещё двадцать записей на разбор. |
-| `checks_40` | 40 sound checks | Forty more recordings to analyse. | 40 проверок звука | Ещё сорок записей на разбор. |
-| `garage_1` | 1 garage slot, 5 checks | Room for one more car, 5 checks. | Место в гараже, 5 проверок | Место ещё для одной машины. |
-| `garage_2` | 2 garage slots, 10 checks | Room for two more cars, 10 checks. | 2 места в гараже, 10 проверок | Места ещё для двух машин. |
-| `garage_4` | 4 garage slots, 20 checks | Room for four more cars, 20 checks. | 4 места в гараже, 20 проверок | Места ещё для четырёх машин. |
-| `garage_8` | 8 garage slots, 40 checks | Room for eight more cars, 40 checks. | 8 мест в гараже, 40 проверок | Места ещё для восьми машин. |
+У Apple пределы жёстче, чем в Google Play: **Display Name 30 знаков,
+Description 45**. Описания из таблиц выше туда не влезают — они писались под
+Play, где восемьдесят. Здесь свои, короткие, на все четырнадцать языков.
+
+Проверено: самое длинное имя 29 знаков, самое длинное описание 40.
 
 Значок товара (поле Image, 1024×1024) — из `store/products/<id>.png`.
+
+
+#### `checks_5`
+
+| Язык | Display Name | Description |
+|---|---|---|
+| English (U.S.) | 5 sound checks | 5 more recordings to analyse. |
+| Russian | 5 проверок звука | Ещё 5 записей на разбор. |
+| German | 5 Tonprüfungen | 5 weitere Aufnahmen zur Analyse. |
+| Spanish (Spain) | 5 análisis de sonido | 5 grabaciones más para analizar. |
+| French | 5 analyses sonores | 5 enregistrements de plus à analyser. |
+| Italian | 5 analisi del suono | 5 registrazioni in più da analizzare. |
+| Portuguese (Brazil) | 5 análises de som | 5 gravações a mais para analisar. |
+| Polish | 5 analiz dźwięku | Jeszcze 5 nagrań do analizy. |
+| Turkish | 5 ses analizi | Analiz için 5 kayıt daha. |
+| Dutch | 5 geluidschecks | 5 opnames extra om te analyseren. |
+| Chinese (Simplified) | 5 次声音检测 | 再分析 5 段录音。 |
+| Japanese | 音の診断5回 | 録音をあと5件分析できます。 |
+| Korean | 소리 검사 5회 | 녹음 5건을 더 분석합니다. |
+| Arabic | 5 فحوص صوتية | 5 تسجيلات إضافية للتحليل. |
+
+#### `checks_10`
+
+| Язык | Display Name | Description |
+|---|---|---|
+| English (U.S.) | 10 sound checks | 10 more recordings to analyse. |
+| Russian | 10 проверок звука | Ещё 10 записей на разбор. |
+| German | 10 Tonprüfungen | 10 weitere Aufnahmen zur Analyse. |
+| Spanish (Spain) | 10 análisis de sonido | 10 grabaciones más para analizar. |
+| French | 10 analyses sonores | 10 enregistrements de plus à analyser. |
+| Italian | 10 analisi del suono | 10 registrazioni in più da analizzare. |
+| Portuguese (Brazil) | 10 análises de som | 10 gravações a mais para analisar. |
+| Polish | 10 analiz dźwięku | Jeszcze 10 nagrań do analizy. |
+| Turkish | 10 ses analizi | Analiz için 10 kayıt daha. |
+| Dutch | 10 geluidschecks | 10 opnames extra om te analyseren. |
+| Chinese (Simplified) | 10 次声音检测 | 再分析 10 段录音。 |
+| Japanese | 音の診断10回 | 録音をあと10件分析できます。 |
+| Korean | 소리 검사 10회 | 녹음 10건을 더 분석합니다. |
+| Arabic | 10 فحوص صوتية | 10 تسجيلات إضافية للتحليل. |
+
+#### `checks_20`
+
+| Язык | Display Name | Description |
+|---|---|---|
+| English (U.S.) | 20 sound checks | 20 more recordings to analyse. |
+| Russian | 20 проверок звука | Ещё 20 записей на разбор. |
+| German | 20 Tonprüfungen | 20 weitere Aufnahmen zur Analyse. |
+| Spanish (Spain) | 20 análisis de sonido | 20 grabaciones más para analizar. |
+| French | 20 analyses sonores | 20 enregistrements de plus à analyser. |
+| Italian | 20 analisi del suono | 20 registrazioni in più da analizzare. |
+| Portuguese (Brazil) | 20 análises de som | 20 gravações a mais para analisar. |
+| Polish | 20 analiz dźwięku | Jeszcze 20 nagrań do analizy. |
+| Turkish | 20 ses analizi | Analiz için 20 kayıt daha. |
+| Dutch | 20 geluidschecks | 20 opnames extra om te analyseren. |
+| Chinese (Simplified) | 20 次声音检测 | 再分析 20 段录音。 |
+| Japanese | 音の診断20回 | 録音をあと20件分析できます。 |
+| Korean | 소리 검사 20회 | 녹음 20건을 더 분석합니다. |
+| Arabic | 20 فحوص صوتية | 20 تسجيلات إضافية للتحليل. |
+
+#### `checks_40`
+
+| Язык | Display Name | Description |
+|---|---|---|
+| English (U.S.) | 40 sound checks | 40 more recordings to analyse. |
+| Russian | 40 проверок звука | Ещё 40 записей на разбор. |
+| German | 40 Tonprüfungen | 40 weitere Aufnahmen zur Analyse. |
+| Spanish (Spain) | 40 análisis de sonido | 40 grabaciones más para analizar. |
+| French | 40 analyses sonores | 40 enregistrements de plus à analyser. |
+| Italian | 40 analisi del suono | 40 registrazioni in più da analizzare. |
+| Portuguese (Brazil) | 40 análises de som | 40 gravações a mais para analisar. |
+| Polish | 40 analiz dźwięku | Jeszcze 40 nagrań do analizy. |
+| Turkish | 40 ses analizi | Analiz için 40 kayıt daha. |
+| Dutch | 40 geluidschecks | 40 opnames extra om te analyseren. |
+| Chinese (Simplified) | 40 次声音检测 | 再分析 40 段录音。 |
+| Japanese | 音の診断40回 | 録音をあと40件分析できます。 |
+| Korean | 소리 검사 40회 | 녹음 40건을 더 분석합니다. |
+| Arabic | 40 فحوص صوتية | 40 تسجيلات إضافية للتحليل. |
+
+#### `garage_1`
+
+| Язык | Display Name | Description |
+|---|---|---|
+| English (U.S.) | 1 garage slot, 5 checks | Room for 1 more car, 5 checks. |
+| Russian | Место в гараже, 5 проверок | Место ещё для одной машины. |
+| German | 1 Garagenplatz, 5 Prüfungen | Platz für 1 weiteres Auto, 5 Prüfungen. |
+| Spanish (Spain) | 1 plaza de garaje, 5 análisis | Sitio para 1 coche más, 5 análisis. |
+| French | 1 place de garage, 5 analyses | Place pour 1 voiture de plus. |
+| Italian | 1 posto garage, 5 analisi | Spazio per 1 auto in più, 5 analisi. |
+| Portuguese (Brazil) | 1 vaga na garagem, 5 análises | Espaço para mais 1 carro. |
+| Polish | 1 miejsce w garażu, 5 analiz | Miejsce na 1 kolejne auto. |
+| Turkish | 1 garaj yeri, 5 analiz | 1 araç daha için yer, 5 analiz. |
+| Dutch | 1 garageplek, 5 checks | Plek voor 1 auto extra, 5 checks. |
+| Chinese (Simplified) | 1 个车位，5 次检测 | 再停 1 台车，含 5 次检测。 |
+| Japanese | ガレージ1台分・診断5回 | あと1台分の枠と診断5回。 |
+| Korean | 차고 1칸, 검사 5회 | 차 1대를 더 넣을 수 있습니다. |
+| Arabic | 1 أماكن مرآب، 5 فحوص | مكان لـ 1 سيارات إضافية. |
+
+#### `garage_2`
+
+| Язык | Display Name | Description |
+|---|---|---|
+| English (U.S.) | 2 garage slots, 10 checks | Room for 2 more cars, 10 checks. |
+| Russian | 2 места в гараже, 10 проверок | Места ещё для двух машин. |
+| German | 2 Garagenplätze, 10 Prüfungen | Platz für 2 weitere Autos, 10 Prüfungen. |
+| Spanish (Spain) | 2 plazas garaje, 10 análisis | Sitio para 2 coches más, 10 análisis. |
+| French | 2 places garage, 10 analyses | Place pour 2 voitures de plus. |
+| Italian | 2 posti garage, 10 analisi | Spazio per 2 auto in più, 10 analisi. |
+| Portuguese (Brazil) | 2 vagas garagem, 10 análises | Espaço para mais 2 carros. |
+| Polish | 2 miejsca w garażu, 10 analiz | Miejsce na 2 kolejnych aut. |
+| Turkish | 2 garaj yeri, 10 analiz | 2 araç daha için yer, 10 analiz. |
+| Dutch | 2 garageplekken, 10 checks | Plek voor 2 auto's extra, 10 checks. |
+| Chinese (Simplified) | 2 个车位，10 次检测 | 再停 2 台车，含 10 次检测。 |
+| Japanese | ガレージ2台分・診断10回 | あと2台分の枠と診断10回。 |
+| Korean | 차고 2칸, 검사 10회 | 차 2대를 더 넣을 수 있습니다. |
+| Arabic | 2 أماكن مرآب، 10 فحوص | مكان لـ 2 سيارات إضافية. |
+
+#### `garage_4`
+
+| Язык | Display Name | Description |
+|---|---|---|
+| English (U.S.) | 4 garage slots, 20 checks | Room for 4 more cars, 20 checks. |
+| Russian | 4 места в гараже, 20 проверок | Места ещё для четырёх машин. |
+| German | 4 Garagenplätze, 20 Prüfungen | Platz für 4 weitere Autos, 20 Prüfungen. |
+| Spanish (Spain) | 4 plazas garaje, 20 análisis | Sitio para 4 coches más, 20 análisis. |
+| French | 4 places garage, 20 analyses | Place pour 4 voitures de plus. |
+| Italian | 4 posti garage, 20 analisi | Spazio per 4 auto in più, 20 analisi. |
+| Portuguese (Brazil) | 4 vagas garagem, 20 análises | Espaço para mais 4 carros. |
+| Polish | 4 miejsca w garażu, 20 analiz | Miejsce na 4 kolejnych aut. |
+| Turkish | 4 garaj yeri, 20 analiz | 4 araç daha için yer, 20 analiz. |
+| Dutch | 4 garageplekken, 20 checks | Plek voor 4 auto's extra, 20 checks. |
+| Chinese (Simplified) | 4 个车位，20 次检测 | 再停 4 台车，含 20 次检测。 |
+| Japanese | ガレージ4台分・診断20回 | あと4台分の枠と診断20回。 |
+| Korean | 차고 4칸, 검사 20회 | 차 4대를 더 넣을 수 있습니다. |
+| Arabic | 4 أماكن مرآب، 20 فحوص | مكان لـ 4 سيارات إضافية. |
+
+#### `garage_8`
+
+| Язык | Display Name | Description |
+|---|---|---|
+| English (U.S.) | 8 garage slots, 40 checks | Room for 8 more cars, 40 checks. |
+| Russian | 8 мест в гараже, 40 проверок | Места ещё для восьми машин. |
+| German | 8 Garagenplätze, 40 Prüfungen | Platz für 8 weitere Autos, 40 Prüfungen. |
+| Spanish (Spain) | 8 plazas garaje, 40 análisis | Sitio para 8 coches más, 40 análisis. |
+| French | 8 places garage, 40 analyses | Place pour 8 voitures de plus. |
+| Italian | 8 posti garage, 40 analisi | Spazio per 8 auto in più, 40 analisi. |
+| Portuguese (Brazil) | 8 vagas garagem, 40 análises | Espaço para mais 8 carros. |
+| Polish | 8 miejsc w garażu, 40 analiz | Miejsce na 8 kolejnych aut. |
+| Turkish | 8 garaj yeri, 40 analiz | 8 araç daha için yer, 40 analiz. |
+| Dutch | 8 garageplekken, 40 checks | Plek voor 8 auto's extra, 40 checks. |
+| Chinese (Simplified) | 8 个车位，40 次检测 | 再停 8 台车，含 40 次检测。 |
+| Japanese | ガレージ8台分・診断40回 | あと8台分の枠と診断40回。 |
+| Korean | 차고 8칸, 검사 40회 | 차 8대를 더 넣을 수 있습니다. |
+| Arabic | 8 أماكن مرآب، 40 فحوص | مكان لـ 8 سيارات إضافية. |
 
 ### Опечатка в идентификаторе
 
