@@ -32,7 +32,12 @@ class UpdateService extends ChangeNotifier {
     if (_checked) return;
     _checked = true;
 
-    if (Platform.isAndroid && await _tryPlay()) return;
+    // На iPhone обновляет App Store, и больше никто: там нет ни Play, ни
+    // установки со стороны. Спроси мы свой сервер — человеку предложили бы
+    // скачать APK, файл, который iOS даже не откроет. Не срабатывало это
+    // только пока версия на сайте не обогнала установленную.
+    if (!Platform.isAndroid) return;
+    if (await _tryPlay()) return;
     await _trySite(currentVersion);
   }
 

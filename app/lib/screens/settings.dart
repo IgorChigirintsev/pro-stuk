@@ -1,3 +1,5 @@
+import 'dart:io' show Platform;
+
 import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -171,22 +173,28 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 children: [
                   Text(_version.isEmpty ? '…' : _version,
                       style: Theme.of(context).textTheme.bodyLarge),
-                  const SizedBox(height: 12),
-                  OutlinedButton(
-                    onPressed: _checking ? null : _checkUpdate,
-                    child: Text(_checking ? '…' : S.setCheckUpdate),
-                  ),
-                  if (_updateStatus != null) ...[
+                  // Проверка обновления — только на Android. На iPhone
+                  // обновляет App Store, а наш сервер знает лишь про APK:
+                  // предлагать его владельцу iPhone бессмысленно, файл он
+                  // всё равно не откроет.
+                  if (Platform.isAndroid) ...[
                     const SizedBox(height: 12),
-                    Text(_updateStatus!,
-                        style: Theme.of(context).textTheme.bodySmall),
-                  ],
-                  if (_apkUrl != null) ...[
-                    const SizedBox(height: 12),
-                    ElevatedButton(
-                      onPressed: () => _open(_apkUrl!),
-                      child: Text(S.setDownload),
+                    OutlinedButton(
+                      onPressed: _checking ? null : _checkUpdate,
+                      child: Text(_checking ? '…' : S.setCheckUpdate),
                     ),
+                    if (_updateStatus != null) ...[
+                      const SizedBox(height: 12),
+                      Text(_updateStatus!,
+                          style: Theme.of(context).textTheme.bodySmall),
+                    ],
+                    if (_apkUrl != null) ...[
+                      const SizedBox(height: 12),
+                      ElevatedButton(
+                        onPressed: () => _open(_apkUrl!),
+                        child: Text(S.setDownload),
+                      ),
+                    ],
                   ],
                 ],
               ),
