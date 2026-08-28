@@ -131,6 +131,26 @@ App Store Connect: Monetization → In-App Purchases, тип **Consumable**.
 Теги (необязательные, для группировки в консоли): `sound-checks` у пакетов
 проверок, `garage-slots` у мест.
 
+
+### App Store Connect: короткие тексты
+
+У Apple пределы жёстче, чем в Google Play: **имя товара 30 знаков, описание
+45**. Описания из таблиц выше туда не влезают — они писались под Play, где
+восемьдесят. Для App Store своя пара:
+
+| ID | Display Name (en) | Description (en) | Display Name (ru) | Description (ru) |
+|---|---|---|---|---|
+| `checks_5` | 5 sound checks | Five more recordings to analyse. | 5 проверок звука | Ещё пять записей на разбор. |
+| `checks_10` | 10 sound checks | Ten more recordings to analyse. | 10 проверок звука | Ещё десять записей на разбор. |
+| `checks_20` | 20 sound checks | Twenty more recordings to analyse. | 20 проверок звука | Ещё двадцать записей на разбор. |
+| `checks_40` | 40 sound checks | Forty more recordings to analyse. | 40 проверок звука | Ещё сорок записей на разбор. |
+| `garage_1` | 1 garage slot, 5 checks | Room for one more car, 5 checks. | Место в гараже, 5 проверок | Место ещё для одной машины. |
+| `garage_2` | 2 garage slots, 10 checks | Room for two more cars, 10 checks. | 2 места в гараже, 10 проверок | Места ещё для двух машин. |
+| `garage_4` | 4 garage slots, 20 checks | Room for four more cars, 20 checks. | 4 места в гараже, 20 проверок | Места ещё для четырёх машин. |
+| `garage_8` | 8 garage slots, 40 checks | Room for eight more cars, 40 checks. | 8 мест в гараже, 40 проверок | Места ещё для восьми машин. |
+
+Значок товара (поле Image, 1024×1024) — из `store/products/<id>.png`.
+
 ### Опечатка в идентификаторе
 
 Пакет на десять проверок заведён в Google Play как `checks_10_2`.
