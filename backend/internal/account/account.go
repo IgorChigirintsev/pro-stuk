@@ -54,6 +54,13 @@ type Slot struct {
 	// Сколько проверок на этом месте уже потрачено. Ненулевое значение
 	// запирает машину: именно потраченная проверка, а не сам факт покупки.
 	Used int `json:"used"`
+	// Безлимит: разборы не уменьшают счётчик. Ставится только правкой файла
+	// учётных записей — ручки, которая бы его включала, нет и быть не должно.
+	//
+	// Нужен для съёмки карточек магазина: разборов там делается много, а на
+	// экране должно стоять правдоподобное число, а не убывающий остаток и не
+	// шестизначное.
+	Unlimited bool `json:"unlimited,omitempty"`
 }
 
 // Locked — машину менять и удалять нельзя.
@@ -171,10 +178,12 @@ func (a *Account) Spend(slotID string) error {
 	if s.Car == nil {
 		return ErrSlotEmpty
 	}
-	if s.Checks <= 0 {
+	if s.Checks <= 0 && !s.Unlimited {
 		return ErrNoChecks
 	}
-	s.Checks--
+	if !s.Unlimited {
+		s.Checks--
+	}
 	s.Used++
 	return nil
 }
@@ -183,7 +192,7 @@ func (a *Account) Spend(slotID string) error {
 // Счётчик потраченных не откатывается: машина уже отправлялась в разбор,
 // и отпирать её обратно нельзя — иначе отмена станет способом обхода.
 func (a *Account) Refund(slotID string) {
-	if s := a.slot(slotID); s != nil {
+	if s := a.slot(slotID); s != nil && !s.Unlimited {
 		s.Checks++
 	}
 }
