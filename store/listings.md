@@ -10,6 +10,23 @@
 
 Проверка длин: `node store/check-listings.mjs`
 
+## Одинаковое для всех языков (App Store)
+
+| Поле | Значение |
+|---|---|
+| Version | `1.16.0` — должна совпадать с версией сборки, иначе сборка к ней не прикрепится |
+| Copyright | `2026 Polina Los` — как записан владелец учётной записи разработчика |
+
+Промотекст — единственное поле, которое правится **без новой сборки**: годится
+под сезонные акции и быстрые проверки формулировок. Остальное уходит на ревью
+вместе с версией.
+
+Ключевые слова через запятую **без пробелов**: пробел Apple считает знаком.
+Слова из названия и подзаголовка в них не повторяются — они и так в поиске.
+
+Русская версия сайта лежит в корне, остальные языки — по своему префиксу,
+отсюда разные адреса в Marketing URL и Support URL.
+
 > **Что изменилось против прежнего английского текста.** Строка «Each day
 > includes a limited number of sound checks» убрана: дневных лимитов больше
 > нет. Вместо неё — настоящая модель: три бесплатные проверки на первую
@@ -33,6 +50,26 @@ Know the noise before the shop
 **Короткое описание**
 ```
 Diagnose car noise by sound: record the knock, rattle or squeal and learn why
+```
+
+**Промотекст (App Store)**
+```
+Something knocking under the hood? Record 15 seconds and get a likely cause, how urgent it is, and what to tell the mechanic — before you pay for diagnostics.
+```
+
+**Ключевые слова (App Store)**
+```
+engine,knock,rattle,squeal,sound,mechanic,repair,motor,brakes,suspension,bearing,check
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/en/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/en/privacy/
 ```
 
 **Полное описание**
@@ -89,6 +126,26 @@ Pro-Stuk: диагностика по звуку
 Диагностика по звуку: запишите стук, скрип или гул и узнайте причину
 ```
 
+**Промотекст (App Store)**
+```
+Стучит под капотом? Запишите 15 секунд — получите вероятную причину, оценку срочности и что сказать в сервисе. До того, как платить за диагностику.
+```
+
+**Ключевые слова (App Store)**
+```
+двигатель,стук,скрип,гул,звук,механик,ремонт,мотор,тормоза,подвеска,подшипник,шум
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/politika/
+```
+
 **Полное описание**
 ```
 В машине что-то стучит, гремит или свистит, и непонятно: это работа на пять минут или повод не ехать дальше. Pro-Stuk слушает звук и говорит, что это скорее всего.
@@ -141,6 +198,26 @@ Wissen, was klappert
 **Короткое описание**
 ```
 Autogeräusche per Ton bestimmen: Klopfen, Klappern oder Quietschen aufnehmen
+```
+
+**Промотекст (App Store)**
+```
+Klopft es unter der Haube? 15 Sekunden aufnehmen und die wahrscheinliche Ursache erfahren, wie dringend es ist und was Sie der Werkstatt sagen.
+```
+
+**Ключевые слова (App Store)**
+```
+motor,klopfen,klappern,quietschen,geraeusch,werkstatt,reparatur,bremsen,fahrwerk,lager
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/de/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/de/privacy/
 ```
 
 **Полное описание**
@@ -197,6 +274,26 @@ Qué suena, antes del taller
 Diagnostica ruidos del coche por sonido: graba el golpeteo, traqueteo o chirrido
 ```
 
+**Промотекст (App Store)**
+```
+¿Algo golpetea bajo el capó? Graba 15 segundos y descubre la causa probable, la urgencia y qué decir en el taller antes de pagar un diagnóstico.
+```
+
+**Ключевые слова (App Store)**
+```
+motor,golpeteo,ruido,chirrido,sonido,mecanico,taller,frenos,suspension,rodamiento
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/es/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/es/privacy/
+```
+
 **Полное описание**
 ```
 Algo golpetea, traquetea o chirría en el coche y no sabes si es cosa de cinco minutos o motivo para no seguir conduciendo. Pro-Stuk escucha el ruido y te dice qué es lo más probable.
@@ -249,6 +346,26 @@ Le bruit avant le garage
 **Короткое описание**
 ```
 Bruits de voiture diagnostiqués par le son : enregistrez, sachez pourquoi
+```
+
+**Промотекст (App Store)**
+```
+Ça cogne sous le capot ? Enregistrez 15 secondes et obtenez la cause probable, l'urgence et quoi dire au garage avant de payer un diagnostic.
+```
+
+**Ключевые слова (App Store)**
+```
+moteur,cognement,bruit,sifflement,son,mecanicien,garage,freins,suspension,roulement
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/fr/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/fr/privacy/
 ```
 
 **Полное описание**
@@ -305,6 +422,26 @@ Il rumore prima dell'officina
 Diagnosi dei rumori auto dal suono: registra il battito, tintinnio o fischio
 ```
 
+**Промотекст (App Store)**
+```
+Qualcosa batte sotto il cofano? Registra 15 secondi e scopri la causa probabile, l'urgenza e cosa dire in officina prima di pagare una diagnosi.
+```
+
+**Ключевые слова (App Store)**
+```
+motore,battito,rumore,fischio,suono,meccanico,officina,freni,sospensioni,cuscinetto
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/it/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/it/privacy/
+```
+
 **Полное описание**
 ```
 Qualcosa batte, tintinna o fischia nell'auto e non sai se è una cosa da cinque minuti o un motivo per non ripartire. Pro-Stuk ascolta il rumore e ti dice che cos'è più probabilmente.
@@ -357,6 +494,26 @@ Saiba o que é o barulho
 **Короткое описание**
 ```
 Diagnóstico de ruídos do carro pelo som: grave a batida, chiado ou rangido
+```
+
+**Промотекст (App Store)**
+```
+Algo batendo embaixo do capô? Grave 15 segundos e descubra a causa provável, a urgência e o que falar na oficina antes de pagar um diagnóstico.
+```
+
+**Ключевые слова (App Store)**
+```
+motor,batida,ruido,chiado,som,mecanico,oficina,freios,suspensao,rolamento,barulho
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/pt/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/pt/privacy/
 ```
 
 **Полное описание**
@@ -413,6 +570,26 @@ Poznaj hałas przed warsztatem
 Diagnoza hałasu auta po dźwięku: nagraj stukanie, grzechotanie lub pisk
 ```
 
+**Промотекст (App Store)**
+```
+Coś stuka pod maską? Nagraj 15 sekund i poznaj prawdopodobną przyczynę, pilność naprawy i co powiedzieć w warsztacie, zanim zapłacisz za diagnostykę.
+```
+
+**Ключевые слова (App Store)**
+```
+silnik,stukanie,halas,pisk,dzwiek,mechanik,warsztat,hamulce,zawieszenie,lozysko
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/pl/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/pl/privacy/
+```
+
 **Полное описание**
 ```
 Coś stuka, grzechocze albo piszczy w aucie, a Ty nie wiesz, czy to robota na pięć minut, czy powód, żeby nie jechać dalej. Pro-Stuk słucha dźwięku i mówi, czym najprawdopodobniej jest.
@@ -465,6 +642,26 @@ Servise gitmeden sesi anlayın
 **Короткое описание**
 ```
 Araç seslerini sesten teşhis edin: tıkırtı, takırtı veya gıcırtıyı kaydedin
+```
+
+**Промотекст (App Store)**
+```
+Kaputun altından ses mi geliyor? 15 saniye kaydedin; olası nedeni, aciliyetini ve serviste ne söyleyeceğinizi öğrenin. Teşhis parası ödemeden önce.
+```
+
+**Ключевые слова (App Store)**
+```
+motor,tikirti,ses,gicirti,vuruntu,usta,servis,fren,suspansiyon,rulman,ariza
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/tr/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/tr/privacy/
 ```
 
 **Полное описание**
@@ -521,6 +718,26 @@ Weet wat er tikt of piept
 Autogeluiden op gehoor bepalen: neem het getik, geratel of gepiep op
 ```
 
+**Промотекст (App Store)**
+```
+Tikt er iets onder de motorkap? Neem 15 seconden op en hoor de waarschijnlijke oorzaak, hoe dringend het is en wat je in de garage moet zeggen.
+```
+
+**Ключевые слова (App Store)**
+```
+motor,tikken,geluid,piepen,ratelen,monteur,garage,remmen,ophanging,lager,reparatie
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/nl/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/nl/privacy/
+```
+
 **Полное описание**
 ```
 Er tikt, ratelt of piept iets in de auto en je weet niet of het een klusje van vijf minuten is of een reden om niet verder te rijden. Pro-Stuk luistert naar het geluid en vertelt je wat het waarschijnlijk is.
@@ -573,6 +790,26 @@ Pro-Stuk：汽车异响诊断
 **Короткое описание**
 ```
 按声音诊断汽车异响：录下敲击、咔哒或尖叫，弄清原因
+```
+
+**Промотекст (App Store)**
+```
+发动机舱有异响？录下 15 秒，就能知道最可能的原因、有多紧急，以及到店该怎么说——在花钱做检测之前。
+```
+
+**Ключевые слова (App Store)**
+```
+发动机,异响,敲击,尖叫,声音,修车,维修,刹车,悬挂,轴承,故障,诊断
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/zh/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/zh/privacy/
 ```
 
 **Полное описание**
@@ -629,6 +866,26 @@ Pro-Stuk：車の異音診断
 音で車の異音を診断。カタカタ、コトコト、キーッを録音して原因を知る
 ```
 
+**Промотекст (App Store)**
+```
+ボンネットの中で何か鳴っている？15秒録音すれば、可能性の高い原因と緊急度、整備工場での伝えかたが分かります。検査代を払う前に。
+```
+
+**Ключевые слова (App Store)**
+```
+エンジン,異音,打音,異常音,音,整備,修理,ブレーキ,足回り,ベアリング,診断
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/ja/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/ja/privacy/
+```
+
 **Полное описание**
 ```
 車で何かがコトコト鳴る、カタカタする、キーッと鳴く。五分で直る話なのか、それ以上走らないほうがいい話なのか分からない。Pro-Stuk はその音を聴いて、最も可能性の高い正体を伝えます。
@@ -683,6 +940,26 @@ Pro-Stuk: 자동차 소음 진단
 소리로 자동차 소음 진단: 딱딱거림, 덜컹거림, 끼익 소리를 녹음하고 원인 확인
 ```
 
+**Промотекст (App Store)**
+```
+보닛 안에서 무언가 소리가 난다면? 15초만 녹음하면 가능성 있는 원인과 긴급도, 정비소에서 할 말까지 알 수 있습니다. 진단 비용을 내기 전에.
+```
+
+**Ключевые слова (App Store)**
+```
+엔진,소음,잡소리,이음,소리,정비,수리,브레이크,서스펜션,베어링,진단
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/ko/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/ko/privacy/
+```
+
 **Полное описание**
 ```
 차에서 무언가 딱딱거리거나 덜컹거리거나 끼익 소리가 나는데, 5분이면 끝날 일인지 더 몰지 말아야 할 일인지 알 수 없습니다. Pro-Stuk은 그 소리를 듣고 가장 가능성이 큰 원인을 알려 줍니다.
@@ -735,6 +1012,26 @@ Pro-Stuk: تشخيص أصوات السيارة
 **Короткое описание**
 ```
 تشخيص أصوات السيارة بالصوت: سجّل الطقطقة أو الخشخشة أو الصرير واعرف السبب
+```
+
+**Промотекст (App Store)**
+```
+هل يطرق شيء تحت غطاء المحرك؟ سجّل ١٥ ثانية واعرف السبب المحتمل ودرجة الاستعجال وما تقوله في الورشة، قبل أن تدفع ثمن الفحص.
+```
+
+**Ключевые слова (App Store)**
+```
+محرك,طقطقة,صوت,صرير,ضجيج,ميكانيكي,ورشة,فرامل,تعليق,رمان بلي,عطل
+```
+
+**Marketing URL**
+```
+https://pro-stuk.com/ar/
+```
+
+**Support URL**
+```
+https://pro-stuk.com/ar/privacy/
 ```
 
 **Полное описание**
