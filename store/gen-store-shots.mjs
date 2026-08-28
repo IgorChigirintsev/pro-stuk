@@ -117,8 +117,11 @@ const shots = [
   { file: '5-home.png' },
   { file: '6-book.png' },
   { file: '7-garage.png' },
-  { file: '8-quiz.png' },
 ];
+
+// Экрана анкеты в наборе нет: снимков по семь на язык, а девятая подпись в
+// captions.mjs просто не используется. Понадобится — добавьте сюда строку и
+// доснимите файл 8-quiz.png на каждом языке.
 
 function esc(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
