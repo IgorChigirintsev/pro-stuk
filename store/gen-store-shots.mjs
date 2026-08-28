@@ -123,6 +123,56 @@ const shots = [
 // captions.mjs просто не используется. Понадобится — добавьте сюда строку и
 // доснимите файл 8-quiz.png на каждом языке.
 
+// Ширина текста — не догадка, а измерение.
+//
+// Раньше плашка срочности рисовалась фиксированной ширины, и перевод в неё не
+// влезал: «Au garage cette semaine» вылезало за края. Прикидывать по числу
+// букв нельзя — у «Werkstatt» и у «ورشة» на знак приходится разная ширина, а
+// у иероглифов и вовсе своя.
+//
+// Поэтому текст измеряется тем же Chrome, который потом рисует картинку:
+// страница считает ширины и кладёт их в DOM, а --dump-dom отдаёт их сюда.
+const measured = new Map();
+
+function measureAll(items) {
+  const todo = items.filter(i => !measured.has(key(i)));
+  if (todo.length === 0) return;
+  const spans = todo.map((it, n) =>
+    `<span id="m${n}" style="font-family:Manrope,Inter,sans-serif;font-size:100px;
+      font-weight:${it.weight};letter-spacing:${it.spacing ?? 0}px;white-space:pre">${esc(it.text)}</span>`
+  ).join('');
+  const page = join(tmpDir, 'measure.html');
+  writeFileSync(page, `<!doctype html><meta charset="utf-8">
+<div style="position:absolute;visibility:hidden">${spans}</div>
+<div id="out"></div>
+<script>
+  const w = [];
+  for (let n = 0; n < ${todo.length}; n++) w.push(document.getElementById('m'+n).getBoundingClientRect().width);
+  document.getElementById('out').textContent = JSON.stringify(w);
+</script>`);
+  const dom = execFileSync(CHROME, ['--headless', '--disable-gpu', '--dump-dom', `file://${page}`],
+    { encoding: 'utf8', maxBuffer: 32 << 20 });
+  const m = dom.match(/<div id="out">([^<]*)<\/div>/);
+  if (!m) throw new Error('не удалось измерить текст: Chrome не отдал результат');
+  const widths = JSON.parse(m[1]);
+  todo.forEach((it, n) => measured.set(key(it), widths[n] / 100));  // ширина на единицу размера
+}
+
+function key(i) { return `${i.weight}|${i.spacing ?? 0}|${i.text}`; }
+
+/** Ширина строки при заданном размере шрифта. */
+function widthOf(text, size, weight, spacing = 0) {
+  const k = key({ text, weight, spacing });
+  if (!measured.has(k)) throw new Error(`строка не измерена: ${text}`);
+  return measured.get(k) * size;
+}
+
+/** Размер шрифта, при котором строка укладывается в ширину. */
+function fitSize(text, maxWidth, base, weight, spacing = 0) {
+  const w = widthOf(text, base, weight, spacing);
+  return w <= maxWidth ? base : Math.floor(base * maxWidth / w);
+}
+
 function esc(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
@@ -175,10 +225,13 @@ function soundArcs(cx, cy, sc) {
 
 /** Строка причины в карточке результата: название, доля и полоса. */
 function causeRow(x, y, w, title, pct, sc, rtl) {
+  // Название ужимается, чтобы не налезть на долю: «Cuscinetto alternatore»
+  // и «워터펌프 베어링» занимают разную ширину при одном размере.
+  const size = fitSize(title, w - Math.round(150 * sc), Math.round(46 * sc), 600);
   const nameX = rtl ? x + w : x, nameAnchor = rtl ? 'end' : 'start';
   const pctX = rtl ? x : x + w, pctAnchor = rtl ? 'start' : 'end';
   return `<text x="${nameX}" y="${y}" text-anchor="${nameAnchor}" font-family="Manrope, Inter, sans-serif"
-        font-size="${Math.round(46 * sc)}" font-weight="600" fill="#0F172A">${esc(title)}</text>
+        font-size="${size}" font-weight="600" fill="#0F172A">${esc(title)}</text>
       <text x="${pctX}" y="${y}" text-anchor="${pctAnchor}" font-family="Manrope, Inter, sans-serif"
         font-size="${Math.round(46 * sc)}" font-weight="700" fill="#0F172A">${pct}%</text>
       <rect x="${x}" y="${y + 28 * sc}" width="${w}" height="${16 * sc}" rx="${8 * sc}" fill="#D7EAE7"/>
@@ -200,6 +253,18 @@ function heroBody(f, L) {
   const carSc = (f.landscape ? f.carScale : 1.55) * (f.landscape ? 1 : sc);
   const pad = Math.round(56 * sc);
   const inner = f.cardW - pad * 2;
+
+  // Плашка растёт по тексту, но не шире карточки; если и так не влезает —
+  // мельчает шрифт. «Diese Woche in die Werkstatt» вдвое длиннее английского.
+  const badgeSize = fitSize(L.hero.badge, inner - Math.round(64 * sc),
+                            Math.round(38 * sc), 700);
+  const badgeW = Math.min(inner,
+    Math.round(widthOf(L.hero.badge, badgeSize, 700) + 64 * sc));
+
+  // Сноска — по краям карточки: «Kein Diagnosegerät, keine Werkstatt» вдвое
+  // длиннее английского.
+  const footMax = f.landscape ? f.cardW : f.W - Math.round(120 * sc);
+  const footSize = L.hero.foot.map(t => fitSize(t, footMax, Math.round(46 * sc), 600));
   return `  <g id="Машина">
 ${soundArcs(carX, f.carY, f.landscape ? f.carScale : sc)}
     ${carShape(carX, f.carY, carSc)}
@@ -207,10 +272,10 @@ ${soundArcs(carX, f.carY, f.landscape ? f.carScale : sc)}
 
   <g id="Результат">
     <rect x="${cardX}" y="${f.cardY}" width="${f.cardW}" height="${cardH}" rx="${Math.round(48 * sc)}" fill="#fff"/>
-    <rect x="${cardX + pad}" y="${f.cardY + Math.round(56 * sc)}" width="${Math.round(392 * sc)}"
+    <rect x="${cardX + pad}" y="${f.cardY + Math.round(56 * sc)}" width="${badgeW}"
       height="${Math.round(72 * sc)}" rx="${Math.round(36 * sc)}" fill="#D2790B"/>
-    <text x="${cardX + pad + Math.round(196 * sc)}" y="${f.cardY + Math.round(105 * sc)}" text-anchor="middle"
-      font-family="Manrope, Inter, sans-serif" font-size="${Math.round(38 * sc)}" font-weight="700"
+    <text x="${cardX + pad + badgeW / 2}" y="${f.cardY + Math.round(105 * sc)}" text-anchor="middle"
+      font-family="Manrope, Inter, sans-serif" font-size="${badgeSize}" font-weight="700"
       fill="#fff">${esc(L.hero.badge)}</text>
     <text x="${cardX + pad}" y="${f.cardY + Math.round(200 * sc)}" font-family="Manrope, Inter, sans-serif"
       font-size="${Math.round(34 * sc)}" font-weight="600" fill="#64748B">${esc(L.hero.causes)}</text>
@@ -221,9 +286,9 @@ ${causeRow(cardX + pad, f.cardY + Math.round(570 * sc), inner, L.hero.rows[2], 1
 
   <g id="Сноска">
     <text x="${footX}" y="${footY}" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
-      font-size="${Math.round(46 * sc)}" font-weight="600" fill="#fff" opacity="0.92">${esc(L.hero.foot[0])}</text>
+      font-size="${footSize[0]}" font-weight="600" fill="#fff" opacity="0.92">${esc(L.hero.foot[0])}</text>
     <text x="${footX}" y="${footY + Math.round(78 * sc)}" text-anchor="middle" font-family="Manrope, Inter, sans-serif"
-      font-size="${Math.round(46 * sc)}" font-weight="600" fill="#fff" opacity="0.92">${esc(L.hero.foot[1])}</text>
+      font-size="${footSize[1]}" font-weight="600" fill="#fff" opacity="0.92">${esc(L.hero.foot[1])}</text>
   </g>`;
 }
 
@@ -277,10 +342,12 @@ function svgFor(f, list, shot, i, L, shotsDir) {
   const markX = f.landscape ? capX + 130 * f.markScale : f.W / 2;
   const markY = f.landscape && shot.hero ? f.heroMarkY : f.markY;
 
+  // Подпись не должна упираться в края: где не влезает, шрифт мельчает.
+  const capMax = (f.landscape ? f.W - capX - 120 : f.W - 120);
   const lines = L.caps[i].map((t, n) =>
     `      <text x="${capX}" y="${capY + n * f.capStep}" text-anchor="${anchor}"
         font-family="Manrope, Inter, -apple-system, sans-serif"
-        font-size="${f.capSize}" font-weight="800" letter-spacing="-1.5"
+        font-size="${fitSize(t, capMax, f.capSize, 800, -1.5)}" font-weight="800" letter-spacing="-1.5"
         fill="${n === 0 ? T.ink : T.accent}"
         >${esc(t)}</text>`).join('\n');
 
@@ -403,6 +470,13 @@ for (const loc of locales) {
 
 for (const loc of locales) {
   const L = LOCALES[loc];
+  // Меряем всё, что потом придётся вписывать в отведённое место.
+  measureAll([
+    ...L.caps.flat().map(text => ({ text, weight: 800, spacing: -1.5 })),
+    { text: L.hero.badge, weight: 700 },
+    ...L.hero.foot.map(text => ({ text, weight: 600 })),
+    ...L.hero.rows.map(text => ({ text, weight: 600 })),
+  ]);
   // Снимки экрана берутся на языке набора, а пока их нет — английские.
   // Молча подставлять чужой язык нельзя, поэтому предупреждаем.
   let shotsDir = join(screensRoot, loc);
