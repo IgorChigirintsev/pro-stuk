@@ -137,9 +137,14 @@ const measured = new Map();
 function measureAll(items) {
   const todo = items.filter(i => !measured.has(key(i)));
   if (todo.length === 0) return;
+  // Каждая строка — своим блоком и в своей двунаправленной изоляции.
+  // Иначе арабский текст, попав в одну строку потока с латиницей, визуально
+  // разрывается на куски, и его рамка растягивается через соседей: строка
+  // «ودرجة الاستعجال» намерялась в шесть раз шире, чем есть.
   const spans = todo.map((it, n) =>
-    `<span id="m${n}" style="font-family:Manrope,Inter,sans-serif;font-size:100px;
-      font-weight:${it.weight};letter-spacing:${it.spacing ?? 0}px;white-space:pre">${esc(it.text)}</span>`
+    `<div id="m${n}" style="display:block;width:max-content;unicode-bidi:isolate;
+      font-family:Manrope,Inter,sans-serif;font-size:100px;
+      font-weight:${it.weight};letter-spacing:${it.spacing ?? 0}px;white-space:pre">${esc(it.text)}</div>`
   ).join('');
   const page = join(tmpDir, 'measure.html');
   writeFileSync(page, `<!doctype html><meta charset="utf-8">
@@ -399,10 +404,22 @@ ${body}
 }
 
 /** Баннер для Google Play: 1024×500, обязателен для карточки в магазине.
- *  Композиция другая — лежачая, и телефона в ней нет: Play показывает баннер
- *  над скриншотами, и повторять их незачем. */
-function featureGraphic() {
+ *  Композиция лежачая, телефона в ней нет: Play показывает баннер над
+ *  скриншотами, и повторять их незачем.
+ *
+ *  У языков с письмом справа налево всё зеркалится: машина справа, текст
+ *  слева и прижат к правому краю своего столбца. */
+function featureGraphic(L) {
   const W = 1024, H = 500;
+  const rtl = !!L.rtl;
+  const carX = rtl ? 809 : 215;
+  const edge = rtl ? 542 : 482;          // край текстового столбца
+  const anchor = rtl ? 'end' : 'start';
+  const colW = 470;                      // ширина под текст
+
+  const tagSize = fitSize(L.banner.tagline, colW, 32, 700);
+  const bodySize = Math.min(...L.banner.body.map(t => fitSize(t, colW, 25, 500)));
+
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -417,27 +434,25 @@ function featureGraphic() {
 
   <g id="Фон">
     <rect width="${W}" height="${H}" fill="url(#bg)"/>
-    <circle cx="215" cy="250" r="280" fill="url(#blob)" opacity="0.12"/>
+    <circle cx="${carX}" cy="250" r="280" fill="url(#blob)" opacity="0.12"/>
   </g>
 
   <g id="Машина">
-${soundArcs(215, 250, 0.50)}
-    ${carShape(215, 250, 0.50)}
+${soundArcs(carX, 250, 0.50)}
+    ${carShape(carX, 250, 0.50)}
   </g>
 
   <g id="Название">
-    <text x="482" y="196" font-family="Manrope, Inter, sans-serif" font-size="76"
-      font-weight="800" letter-spacing="-2" fill="#fff">Pro-Stuk</text>
-    <text x="482" y="256" font-family="Manrope, Inter, sans-serif" font-size="32"
-      font-weight="700" fill="${T.accent}">Diagnose car noises by sound</text>
-    <text x="482" y="322" font-family="Manrope, Inter, sans-serif" font-size="25"
-      font-weight="500" fill="#fff" opacity="0.88">Record 15 seconds — get a likely</text>
-    <text x="482" y="358" font-family="Manrope, Inter, sans-serif" font-size="25"
-      font-weight="500" fill="#fff" opacity="0.88">cause, how urgent it is, and what</text>
-    <text x="482" y="394" font-family="Manrope, Inter, sans-serif" font-size="25"
-      font-weight="500" fill="#fff" opacity="0.88">to tell the shop.</text>
+    <text x="${edge}" y="196" text-anchor="${anchor}" font-family="Manrope, Inter, sans-serif"
+      font-size="76" font-weight="800" letter-spacing="-2" fill="#fff">Pro-Stuk</text>
+    <text x="${edge}" y="256" text-anchor="${anchor}" font-family="Manrope, Inter, sans-serif"
+      font-size="${tagSize}" font-weight="700" fill="${T.accent}">${esc(L.banner.tagline)}</text>
+    <text x="${edge}" y="322" text-anchor="${anchor}" font-family="Manrope, Inter, sans-serif"
+      font-size="${bodySize}" font-weight="500" fill="#fff" opacity="0.88">${esc(L.banner.body[0])}</text>
+    <text x="${edge}" y="${322 + Math.round(bodySize * 1.44)}" text-anchor="${anchor}"
+      font-family="Manrope, Inter, sans-serif"
+      font-size="${bodySize}" font-weight="500" fill="#fff" opacity="0.88">${esc(L.banner.body[1])}</text>
   </g>
-
 </svg>`;
 }
 
@@ -476,6 +491,8 @@ for (const loc of locales) {
     { text: L.hero.badge, weight: 700 },
     ...L.hero.foot.map(text => ({ text, weight: 600 })),
     ...L.hero.rows.map(text => ({ text, weight: 600 })),
+    { text: L.banner.tagline, weight: 700 },
+    ...L.banner.body.map(text => ({ text, weight: 500 })),
   ]);
   // Снимки экрана берутся на языке набора, а пока их нет — английские.
   // Молча подставлять чужой язык нельзя, поэтому предупреждаем.
@@ -524,11 +541,14 @@ img{display:block;width:${f.W}px;height:${f.H}px}</style>
   }
 }
 
-// Баннер Play
-const playDir = join(here, 'play');
+// Баннеры Play — по одному на язык: у каждой локали в консоли своя карточка.
+const playDir = join(here, 'play', 'feature');
 mkdirSync(playDir, { recursive: true });
-writeFileSync(join(playDir, 'feature.svg'), featureGraphic());
-render(featureGraphic(), 1024, 500, join(playDir, 'feature-1024x500.png'));
-console.log('play: баннер 1024×500');
+for (const loc of locales) {
+  const svg = featureGraphic(LOCALES[loc]);
+  writeFileSync(join(playDir, `${loc}.svg`), svg);
+  render(svg, 1024, 500, join(playDir, `${loc}.png`));
+}
+console.log(`play: баннеров 1024×500 — ${locales.length}`);
 
 rmSync(tmpDir, { recursive: true, force: true });

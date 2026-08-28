@@ -27,6 +27,11 @@ export const LOCALES = {
       rows: ['Worn alternator bearing', 'Drive belt tensioner', 'Water pump bearing'],
       foot: ['No scanner, no shop visit.', 'Just your phone.'],
     },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Diagnose car noises by sound',
+      body: ['Record 15 seconds — get a likely cause,', 'how urgent it is, and what to tell the shop.'],
+    },
   },
 
   ru: {
@@ -45,6 +50,11 @@ export const LOCALES = {
       badge: 'В сервис на неделе', causes: 'Вероятные причины',
       rows: ['Подшипник генератора', 'Ролик натяжителя', 'Подшипник помпы'],
       foot: ['Без сканера и без сервиса.', 'Только телефон.'],
+    },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Диагностика стука по звуку',
+      body: ['Запишите 15 секунд — получите вероятную', 'причину, срочность и что сказать в сервисе.'],
     },
   },
 
@@ -65,6 +75,11 @@ export const LOCALES = {
       rows: ['Lichtmaschinenlager', 'Riemenspanner', 'Wasserpumpenlager'],
       foot: ['Kein Diagnosegerät, keine Werkstatt.', 'Nur Ihr Handy.'],
     },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Autogeräusche am Klang erkennen',
+      body: ['15 Sekunden aufnehmen — wahrscheinliche Ursache,', 'Dringlichkeit und was Sie der Werkstatt sagen.'],
+    },
   },
 
   es: {
@@ -83,6 +98,11 @@ export const LOCALES = {
       badge: 'Al taller esta semana', causes: 'Causas probables',
       rows: ['Rodamiento del alternador', 'Tensor de la correa', 'Rodamiento de la bomba'],
       foot: ['Sin escáner, sin pasar por el taller.', 'Solo tu móvil.'],
+    },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Diagnostica ruidos por el sonido',
+      body: ['Graba 15 segundos: causa probable, urgencia', 'y qué decir en el taller.'],
     },
   },
 
@@ -103,6 +123,11 @@ export const LOCALES = {
       rows: ['Roulement d’alternateur', 'Galet tendeur', 'Roulement de pompe à eau'],
       foot: ['Sans valise, sans passer au garage.', 'Juste votre téléphone.'],
     },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Diagnostiquer les bruits par le son',
+      body: ['Enregistrez 15 secondes : cause probable,', 'urgence et quoi dire au garage.'],
+    },
   },
 
   it: {
@@ -121,6 +146,11 @@ export const LOCALES = {
       badge: 'In officina questa settimana', causes: 'Cause probabili',
       rows: ['Cuscinetto alternatore', 'Tenditore cinghia', 'Cuscinetto pompa acqua'],
       foot: ['Niente diagnosi, niente officina.', 'Solo il telefono.'],
+    },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Diagnosi dei rumori dal suono',
+      body: ['Registra 15 secondi: causa probabile,', 'urgenza e cosa dire in officina.'],
     },
   },
 
@@ -141,6 +171,11 @@ export const LOCALES = {
       rows: ['Rolamento do alternador', 'Tensor da correia', 'Rolamento da bomba'],
       foot: ['Sem scanner, sem ir à oficina.', 'Só o celular.'],
     },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Diagnóstico de ruídos pelo som',
+      body: ['Grave 15 segundos: causa provável,', 'urgência e o que falar na oficina.'],
+    },
   },
 
   pl: {
@@ -159,6 +194,11 @@ export const LOCALES = {
       badge: 'W tym tygodniu do warsztatu', causes: 'Prawdopodobne przyczyny',
       rows: ['Łożysko alternatora', 'Rolka napinacza', 'Łożysko pompy wody'],
       foot: ['Bez testera, bez warsztatu.', 'Tylko telefon.'],
+    },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Diagnoza hałasów po dźwięku',
+      body: ['Nagraj 15 sekund: prawdopodobna przyczyna,', 'pilność i co powiedzieć w warsztacie.'],
     },
   },
 
@@ -179,6 +219,11 @@ export const LOCALES = {
       rows: ['Alternatör rulmanı', 'Gergi rulmanı', 'Devirdaim rulmanı'],
       foot: ['Cihaz yok, servise gitmek yok.', 'Sadece telefonunuz.'],
     },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Araç seslerini sesten teşhis',
+      body: ['15 saniye kaydedin: olası neden,', 'aciliyet ve serviste ne söyleyeceğiniz.'],
+    },
   },
 
   nl: {
@@ -197,6 +242,11 @@ export const LOCALES = {
       badge: 'Deze week naar de garage', causes: 'Waarschijnlijke oorzaken',
       rows: ['Dynamolager', 'Spanrol', 'Waterpomplager'],
       foot: ['Geen uitleesapparaat, geen garage.', 'Alleen je telefoon.'],
+    },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'Autogeluiden op het gehoor',
+      body: ['Neem 15 seconden op: waarschijnlijke oorzaak,', 'urgentie en wat je in de garage zegt.'],
     },
   },
 
@@ -217,6 +267,11 @@ export const LOCALES = {
       rows: ['发电机轴承磨损', '皮带张紧轮', '水泵轴承'],
       foot: ['不用解码器，不用进厂。', '一部手机就够。'],
     },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: '听声音诊断汽车异响',
+      body: ['录 15 秒：可能的原因、紧急程度，', '以及到店该怎么说。'],
+    },
   },
 
   ja: {
@@ -235,6 +290,11 @@ export const LOCALES = {
       badge: '今週中に入庫', causes: '可能性の高い原因',
       rows: ['オルタネーターベアリング', 'テンショナープーリー', 'ウォーターポンプ軸受'],
       foot: ['テスターも入庫も不要。', 'スマホひとつで。'],
+    },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: '音で車の異音を診断',
+      body: ['15秒録音するだけ。可能性の高い原因、', '緊急度、整備工場での伝えかた。'],
     },
   },
 
@@ -255,6 +315,11 @@ export const LOCALES = {
       rows: ['발전기 베어링 마모', '벨트 텐셔너', '워터펌프 베어링'],
       foot: ['진단기도 정비소도 필요 없이.', '휴대폰 하나면 됩니다.'],
     },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: '소리로 자동차 소음 진단',
+      body: ['15초만 녹음하면 가능성 있는 원인,', '긴급도, 정비소에서 할 말까지.'],
+    },
   },
 
   ar: {
@@ -274,6 +339,11 @@ export const LOCALES = {
       badge: 'إلى الورشة هذا الأسبوع', causes: 'أسباب محتملة',
       rows: ['رمان بلي الدينامو', 'بكرة الشداد', 'رمان بلي طرمبة الماء'],
       foot: ['بلا جهاز فحص وبلا ورشة.', 'هاتفك يكفي.'],
+    },
+    // Баннер магазина: у Play он один на язык, 1024×500.
+    banner: {
+      tagline: 'تشخيص أصوات السيارة بالصوت',
+      body: ['سجّل ١٥ ثانية: السبب المحتمل،', 'ودرجة الاستعجال، وما تقوله في الورشة.'],
     },
   },
 };

@@ -32,16 +32,14 @@
   </g>
 
   <g id="Название">
-    <text x="482" y="196" font-family="Manrope, Inter, sans-serif" font-size="76"
-      font-weight="800" letter-spacing="-2" fill="#fff">Pro-Stuk</text>
-    <text x="482" y="256" font-family="Manrope, Inter, sans-serif" font-size="32"
-      font-weight="700" fill="#FFD166">Diagnose car noises by sound</text>
-    <text x="482" y="322" font-family="Manrope, Inter, sans-serif" font-size="25"
-      font-weight="500" fill="#fff" opacity="0.88">Record 15 seconds — get a likely</text>
-    <text x="482" y="358" font-family="Manrope, Inter, sans-serif" font-size="25"
-      font-weight="500" fill="#fff" opacity="0.88">cause, how urgent it is, and what</text>
-    <text x="482" y="394" font-family="Manrope, Inter, sans-serif" font-size="25"
-      font-weight="500" fill="#fff" opacity="0.88">to tell the shop.</text>
+    <text x="482" y="196" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+      font-size="76" font-weight="800" letter-spacing="-2" fill="#fff">Pro-Stuk</text>
+    <text x="482" y="256" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+      font-size="32" font-weight="700" fill="#FFD166">音で車の異音を診断</text>
+    <text x="482" y="322" text-anchor="start" font-family="Manrope, Inter, sans-serif"
+      font-size="25" font-weight="500" fill="#fff" opacity="0.88">15秒録音するだけ。可能性の高い原因、</text>
+    <text x="482" y="358" text-anchor="start"
+      font-family="Manrope, Inter, sans-serif"
+      font-size="25" font-weight="500" fill="#fff" opacity="0.88">緊急度、整備工場での伝えかた。</text>
   </g>
-
 </svg>
