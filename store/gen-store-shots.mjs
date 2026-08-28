@@ -506,6 +506,10 @@ for (const loc of locales) {
     const list = f.max ? shots.slice(0, f.max) : shots;
     const svgDir = join(outRoot, 'svg', loc, f.id);
     const pngDir = join(outRoot, 'png', loc, f.id);
+    // Чистим перед записью: карточек может стать меньше, и старые номера
+    // остались бы лежать. Один такой файл уехал бы в магазин незамеченным.
+    rmSync(svgDir, { recursive: true, force: true });
+    rmSync(pngDir, { recursive: true, force: true });
     mkdirSync(svgDir, { recursive: true });
     mkdirSync(pngDir, { recursive: true });
     mkdirSync(join(outRoot, 'panorama', loc), { recursive: true });
