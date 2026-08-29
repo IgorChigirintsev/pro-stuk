@@ -142,6 +142,27 @@ class _RecordScreenState extends State<RecordScreen>
     await _startRecording();
   }
 
+  /// Просим iOS не обрабатывать вход микрофона.
+  ///
+  /// По умолчанию система поднимает тихое автоусилением и давит то, что
+  /// считает шумом, — а ровный свист ремня под это определение и попадает:
+  /// на iPhone он пропадал из записи целиком. Обработку выключает режим
+  /// measurement, который плагин записи не выставляет.
+  ///
+  /// Зовём дважды, до и после старта: категорию сессии плагин ставит внутри
+  /// start, и на части версий iOS это сбрасывает режим обратно.
+  ///
+  /// Канал тот же, что для открытия системных настроек, — заводить второй
+  /// ради одного метода незачем.
+  Future<void> _rawInput() async {
+    if (!Platform.isIOS) return;
+    try {
+      await _channel.invokeMethod('rawInput');
+    } catch (_) {
+      // Не смертельно: запись пойдёт с обработкой, как раньше.
+    }
+  }
+
   Future<void> _startRecording() async {
     final reduceMotion = MediaQuery.of(context).disableAnimations;
     final dir = await getTemporaryDirectory();
@@ -151,14 +172,22 @@ class _RecordScreenState extends State<RecordScreen>
     _hint = null;
 
     try {
+      await _rawInput();
       await _recorder.start(
         const RecordConfig(
           encoder: AudioEncoder.pcm16bits,
           sampleRate: 16000,
           numChannels: 1,
+          // Никакой обработки на стороне записи: нам нужен звук как есть.
+          // Автоусиление подняло бы фон в паузах, подавление шума срезало бы
+          // ровные тона — то есть ровно то, что мы разбираем.
+          autoGain: false,
+          echoCancel: false,
+          noiseSuppress: false,
         ),
         path: pcmPath,
       );
+      await _rawInput();
     } catch (_) {
       // Микрофон занят (звонок, другое приложение) или недоступен.
       if (mounted) {
