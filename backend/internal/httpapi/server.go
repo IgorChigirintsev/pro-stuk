@@ -113,18 +113,18 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 			writeCodedError(w, http.StatusUnprocessableEntity, "too_large", "Файл больше 6 МБ. Запишите звук заново: 15–30 секунд достаточно.")
 			return
 		}
-		writeError(w, http.StatusUnprocessableEntity, "Запрос повреждён: ожидается multipart с полями audio и meta.")
+		writeCodedError(w, http.StatusUnprocessableEntity, "bad_request", "Запрос повреждён: ожидается multipart с полями audio и meta.")
 		return
 	}
 
 	var meta report.Meta
 	metaRaw := r.FormValue("meta")
 	if metaRaw == "" || json.Unmarshal([]byte(metaRaw), &meta) != nil {
-		writeError(w, http.StatusUnprocessableEntity, "Поле meta отсутствует или содержит некорректный JSON.")
+		writeCodedError(w, http.StatusUnprocessableEntity, "bad_request", "Поле meta отсутствует или содержит некорректный JSON.")
 		return
 	}
 	if meta.DeviceID == "" {
-		writeError(w, http.StatusUnprocessableEntity, "В meta не заполнен device_id.")
+		writeCodedError(w, http.StatusUnprocessableEntity, "bad_request", "В meta не заполнен device_id.")
 		return
 	}
 
@@ -148,7 +148,7 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 
 	file, _, err := r.FormFile("audio")
 	if err != nil {
-		writeError(w, http.StatusUnprocessableEntity, "В запросе нет аудиофайла (поле audio).")
+		writeCodedError(w, http.StatusUnprocessableEntity, "bad_request", "В запросе нет аудиофайла (поле audio).")
 		return
 	}
 	defer file.Close()
@@ -201,12 +201,13 @@ func (s *Server) handleReport(w http.ResponseWriter, r *http.Request) {
 		var notCar *gemini.ErrAudioNotCar
 		if errors.As(err, &notCar) {
 			slog.Info("запись не про автомобиль", "device_id", meta.DeviceID, "note", notCar.Note)
-			writeError(w, http.StatusUnprocessableEntity,
+			writeCodedError(w, http.StatusUnprocessableEntity, "not_car",
 				"Запись не похожа на звук автомобиля. Подойдите ближе к работающему двигателю или источнику звука и запишите ещё раз — попытка не потрачена.")
 			return
 		}
 		slog.Error("анализ не удался", "err", err, "device_id", meta.DeviceID)
 		writeJSON(w, http.StatusBadGateway, map[string]any{
+			"code":  "analyze_failed",
 			"error": "Не получилось проанализировать, попробуйте ещё раз.",
 			"retry": true,
 		})
@@ -300,7 +301,7 @@ func (s *Server) handleStats(w http.ResponseWriter, r *http.Request) {
 	token := r.URL.Query().Get("token")
 	if s.cfg.AnalyticsToken == "" || token == "" ||
 		subtle.ConstantTimeCompare([]byte(token), []byte(s.cfg.AnalyticsToken)) != 1 {
-		writeError(w, http.StatusForbidden, "Нет доступа.")
+		writeCodedError(w, http.StatusForbidden, "forbidden", "Нет доступа.")
 		return
 	}
 	writeJSON(w, http.StatusOK, s.stats.Summary())
@@ -316,7 +317,14 @@ func writeError(w http.ResponseWriter, status int, msg string) {
 	writeJSON(w, status, map[string]string{"error": msg})
 }
 
-// writeCodedError добавляет к тексту машинный код. Текст здесь всегда русский,
+// writeCodedError добавляет к тексту машинный код.
+//
+// Код обязателен у всего, что увидит человек: текст сервера всегда русский,
+// а приложение показывает свой перевод по коду. Ошибка без кода доходит до
+// экрана по-русски, каким бы язык ни был выбран, — так и случилось с самым
+// частым отказом разбора, «запись не похожа на звук автомобиля».
+//
+// Текст здесь всегда русский,
 // а приложение показывает пользователю свой перевод по коду: держать переводы
 // на 14 языков в двух местах — верный способ их рассинхронизировать.
 // Старые сборки код игнорируют и показывают текст, поэтому поле безопасно.

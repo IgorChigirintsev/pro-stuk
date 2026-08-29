@@ -190,6 +190,7 @@ class _ProductTile extends StatelessWidget {
     // Товара нет в магазине — не показываем пустую строку: скорее всего он
     // ещё не доехал до этой страны.
     if (p == null) return const SizedBox.shrink();
+    final id = Products.ourId(p.id);
     return Padding(
       padding: const EdgeInsets.only(bottom: 8),
       child: SurfaceCard(
@@ -199,13 +200,16 @@ class _ProductTile extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Text(p.title, style: Theme.of(context).textTheme.bodyLarge),
-                  if (p.description.isNotEmpty)
-                    Text(p.description,
-                        style: Theme.of(context)
-                            .textTheme
-                            .bodySmall!
-                            .copyWith(color: T.inkSoft)),
+                  // Название и описание — свои, а не из магазина: магазин
+                  // отдаёт их на языке устройства, и на английском экране
+                  // русского телефона появлялись русские названия.
+                  Text(S.productName(id),
+                      style: Theme.of(context).textTheme.bodyLarge),
+                  Text(S.productDesc(id),
+                      style: Theme.of(context)
+                          .textTheme
+                          .bodySmall!
+                          .copyWith(color: T.inkSoft)),
                 ],
               ),
             ),

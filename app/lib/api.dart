@@ -33,16 +33,24 @@ class VersionInfo {
   const VersionInfo({required this.latestVersion, required this.apkUrl});
 }
 
-/// Коды ошибок сервера → строки интерфейса. Незнакомый код даёт null:
-/// тогда показывается текст сервера, а не пустота.
-String? _errorByCode(String? code) => switch (code) {
+/// Коды ошибок сервера → строки интерфейса.
+///
+/// Текст сервера всегда русский, поэтому наружу он не идёт никогда: даже на
+/// незнакомый код показываем свою строку. Раньше незнакомый код показывал
+/// русский текст — и человек с английским интерфейсом получал ответ на чужом
+/// языке. Так и вышло с самым частым отказом разбора, у которого кода не было
+/// вовсе.
+String _errorByCode(String? code) => switch (code) {
       'rate_limited' => S.errRateLimited,
       'no_session' => S.accSignInAgain,
+      'no_checks' => S.accNoChecks,
+      'no_slot' || 'slot_empty' => S.errNoCar,
       'too_large' => S.errTooLarge,
       'too_short' => S.errTooShort,
       'too_long' => S.errTooLong,
       'bad_audio' => S.errBadAudio,
-      _ => null,
+      'not_car' => S.errNotCar,
+      _ => S.anErrServer,
     };
 
 class ApiClient {
@@ -96,12 +104,7 @@ class ApiClient {
     String message = S.anErrServer;
     try {
       final err = jsonDecode(body) as Map<String, dynamic>;
-      final local = _errorByCode(err['code'] as String?);
-      if (local != null) {
-        message = local;
-      } else if (err['error'] is String && (err['error'] as String).isNotEmpty) {
-        message = err['error'] as String;
-      }
+      message = _errorByCode(err['code'] as String?);
     } catch (_) {}
     // 429 (лимит) и 422 (формат) повторять бессмысленно.
     final retryable =

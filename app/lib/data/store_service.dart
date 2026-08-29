@@ -29,6 +29,15 @@ class Products {
   static String storeId(String id, {bool? android}) =>
       (android ?? Platform.isAndroid) ? (aliases[id] ?? id) : id;
 
+  /// Обратный перевод: по имени из магазина — наш идентификатор.
+  /// Нужен, чтобы найти название товара в словаре приложения.
+  static String ourId(String storeId) {
+    for (final e in aliases.entries) {
+      if (e.value == storeId) return e.key;
+    }
+    return storeId;
+  }
+
   /// Что спрашивать у магазина.
   static Set<String> storeIds({bool? android}) =>
       {for (final id in all) storeId(id, android: android)};

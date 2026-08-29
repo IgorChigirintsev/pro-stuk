@@ -1,5 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:stuk/data/store_service.dart';
+import 'package:stuk/strings.dart';
 
 /// Идентификаторы товаров живут в трёх местах: в консолях магазинов, в
 /// таблице начислений на сервере и здесь. Разойдутся — человек заплатит,
@@ -36,5 +37,24 @@ void main() {
       expect(Products.storeIds(android: true).contains(id), isTrue, reason: id);
       expect(Products.storeIds(android: false).contains(id), isTrue, reason: id);
     }
+  });
+
+  // Магазин отдаёт названия на языке устройства, поэтому берём свои. Значит
+  // на каждый товар в словаре должна быть пара строк — иначе на экране
+  // покупок появится сырой ключ вместо названия.
+  test('у каждого товара есть своё название и описание', () {
+    for (final id in Products.all) {
+      expect(S.productName(id), isNot(startsWith('prod_')), reason: id);
+      expect(S.productDesc(id), isNot(startsWith('prod_')), reason: id);
+      expect(S.productName(id), isNotEmpty, reason: id);
+      expect(S.productDesc(id), isNotEmpty, reason: id);
+    }
+  });
+
+  // На Android десятка заведена с опечаткой; по имени из магазина надо уметь
+  // вернуться к нашему идентификатору, иначе название не найдётся.
+  test('имя из магазина переводится обратно в наш идентификатор', () {
+    expect(Products.ourId('checks_10_2'), 'checks_10');
+    expect(Products.ourId('checks_20'), 'checks_20');
   });
 }

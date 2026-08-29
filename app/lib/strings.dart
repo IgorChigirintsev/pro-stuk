@@ -65,6 +65,8 @@ class S {
   static String get errTooLarge => L.t('errTooLarge');
   static String get errTooShort => L.t('errTooShort');
   static String get errTooLong => L.t('errTooLong');
+  static String get errNotCar => L.t('errNotCar');
+  static String get errNoCar => L.t('errNoCar');
   static String get errBadAudio => L.t('errBadAudio');
   static String get anErrServer => L.t('anErrServer');
   static String get repTitle => L.t('repTitle');
@@ -173,6 +175,16 @@ class S {
   static String get authSignOut => L.t('authSignOut');
   static String get buyTitle => L.t('buyTitle');
   static String get buyForCar => L.t('buyForCar');
+  /// Название и описание товара на языке приложения.
+  ///
+  /// Магазин отдаёт и то и другое сам, но на языке **устройства**, а не
+  /// выбранном в приложении: ни StoreKit, ни Play Billing спросить иначе не
+  /// дают. Человек с русским телефоном и английским интерфейсом видел русские
+  /// названия среди английского экрана. Поэтому у магазина берём только цену —
+  /// её он считает по стране и валюте, и это как раз правильно.
+  static String productName(String id) => L.t('prod_$id');
+  static String productDesc(String id) => L.t('prod_${id}_d');
+
   static String get buyChecksLeft => L.t('buyChecksLeft');
   static String get buySlots => L.t('buySlots');
   static String get buyDone => L.t('buyDone');
