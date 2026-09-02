@@ -104,29 +104,20 @@ App Store Connect: Monetization → In-App Purchases, тип **Consumable**.
 Проверки привязаны к месту гаража, а не к аккаунту: пакет проверок
 покупается для конкретной машины, новое место приходит со своим комплектом.
 
-| ID | Name (en) | Description (en) |
-|---|---|---|
-| `checks_5` | 5 sound checks | Five more recordings to analyse. Checks never expire and one is used per report. |
-| `checks_10` | 10 sound checks | Ten more recordings to analyse. Checks never expire and one is used per report. |
-| `checks_20` | 20 sound checks | Twenty more recordings to analyse. Checks never expire and one is used per report. |
-| `checks_40` | 40 sound checks | Forty more recordings to analyse. Checks never expire and one is used per report. |
-| `garage_1` | 1 garage slot and 5 sound checks | Room for one more car in your garage, with five sound checks included. The slot stays with your account; checks are used one per report. |
-| `garage_2` | 2 garage slots and 10 sound checks | Room for two more cars in your garage, with ten sound checks included. Slots stay with your account; checks are used one per report. |
-| `garage_4` | 4 garage slots and 20 sound checks | Room for four more cars in your garage, with twenty sound checks included. Slots stay with your account; checks are used one per report. |
-| `garage_8` | 8 garage slots and 40 sound checks | Room for eight more cars in your garage, with forty sound checks included. Slots stay with your account; checks are used one per report. |
+Названия и описания на всех четырнадцати языках, включая английский и
+русский, — ниже в разделе «Google Play: локализации товаров». Держать их
+ещё и здесь значит однажды поправить одну таблицу и забыть вторую.
 
-Русские названия и описания добавляются в той же карточке кнопкой «Переводы»:
-
-| ID | Имя | Описание |
-|---|---|---|
-| `checks_5` | 5 проверок звука | Ещё пять записей на разбор. Проверки не сгорают, за один отчёт тратится одна. |
-| `checks_10` | 10 проверок звука | Ещё десять записей на разбор. Проверки не сгорают, за один отчёт тратится одна. |
-| `checks_20` | 20 проверок звука | Ещё двадцать записей на разбор. Проверки не сгорают, за один отчёт тратится одна. |
-| `checks_40` | 40 проверок звука | Ещё сорок записей на разбор. Проверки не сгорают, за один отчёт тратится одна. |
-| `garage_1` | Место в гараже и 5 проверок | Место ещё для одной машины, вместе с ним пять проверок звука. Место остаётся за аккаунтом, проверки тратятся по одной за отчёт. |
-| `garage_2` | 2 места в гараже и 10 проверок | Места ещё для двух машин, вместе с ними десять проверок звука. Места остаются за аккаунтом, проверки тратятся по одной за отчёт. |
-| `garage_4` | 4 места в гараже и 20 проверок | Места ещё для четырёх машин, вместе с ними двадцать проверок звука. Места остаются за аккаунтом, проверки тратятся по одной за отчёт. |
-| `garage_8` | 8 мест в гараже и 40 проверок | Места ещё для восьми машин, вместе с ними сорок проверок звука. Места остаются за аккаунтом, проверки тратятся по одной за отчёт. |
+| ID | Что даёт |
+|---|---|
+| `checks_5` | 5 проверок на выбранное место гаража |
+| `checks_10` | 10 проверок на выбранное место |
+| `checks_20` | 20 проверок на выбранное место |
+| `checks_40` | 40 проверок на выбранное место |
+| `garage_1` | 1 место, на нём 5 проверок |
+| `garage_2` | 2 места, на каждом 5 проверок |
+| `garage_4` | 4 места, на каждом 5 проверок |
+| `garage_8` | 8 мест, на каждом 5 проверок |
 
 Теги (необязательные, для группировки в консоли): `sound-checks` у пакетов
 проверок, `garage-slots` у мест.
@@ -298,177 +289,185 @@ Play, где восемьдесят. Здесь свои, короткие, на
 
 ### Google Play: локализации товаров
 
-Пределы Play шире эпловских — **имя 55 знаков, описание 200**, — поэтому
-здесь формулировки полные: в каждом описании сказано, что проверки не
-сгорают и что за отчёт тратится одна. Эпловские урезанные таблицы выше
-для Play не годятся, они писались под 30 и 45.
+Пределы Play шире эпловских — **название 55 знаков, описание 200**, — и это
+место лучше потратить на то, что покупателю нужно знать до оплаты:
 
-Проверено скриптом: самое длинное имя 35 знаков, описание 166.
+* сколько проверок он получит;
+* что они лягут на **выбранную машину**, а не на аккаунт целиком
+  (см. `Grant` в `backend/internal/billing/products.go`);
+* что срока действия у них нет.
+
+Формулировок вроде «не сгорают» здесь нет: это жаргон, из которого не
+понять, идёт речь о сроке, о лимите или о чём-то ещё. Сказано прямо —
+срока действия нет.
+
+Проверено скриптом: самое длинное название 35 знаков, описание 164.
+
+Готовая страница с копированием по клику — `store/play-products.html`.
 
 Где вводить: Монетизация → Товары → Контент для однократных покупок →
-товар → **Управление переводами**. Языки берутся из тех, что добавлены
-в карточке приложения, поэтому сначала заводятся они, потом переводы
-товаров. Десятипакет в Play называется `checks_10_2` — см. ниже.
+товар → **Управление переводами**. Список языков берётся из карточки
+приложения: если языка нет там, в товарах он не появится.
 
 
-#### `checks_5`
+#### `checks_5` — 5 проверок звука
 
-| Язык | Название | Описание |
-|---|---|---|
-| English (United States) | 5 sound checks | 5 more recordings to analyse. Checks never expire and one is used per report. |
-| Russian | 5 проверок звука | Ещё 5 записей на разбор. Проверки не сгорают, за один отчёт тратится одна. |
-| German (Germany) | 5 Tonprüfungen | 5 weitere Aufnahmen zur Analyse. Prüfungen verfallen nicht, pro Bericht wird eine verbraucht. |
-| Spanish (Spain) | 5 análisis de sonido | 5 grabaciones más para analizar. Los análisis no caducan y se gasta uno por informe. |
-| French (France) | 5 analyses sonores | 5 enregistrements de plus à analyser. Les analyses n'expirent pas et une est utilisée par rapport. |
-| Italian (Italy) | 5 analisi del suono | 5 registrazioni in più da analizzare. Le analisi non scadono e se ne usa una per ogni report. |
-| Portuguese (Brazil) | 5 análises de som | 5 gravações a mais para analisar. As análises não expiram e uma é usada por relatório. |
-| Polish | 5 analiz dźwięku | Jeszcze 5 nagrań do analizy. Analizy nie wygasają, a na jeden raport zużywa się jedną. |
-| Turkish | 5 ses analizi | Analiz için 5 kayıt daha. Analizler süresiz geçerlidir ve her rapor için bir tanesi kullanılır. |
-| Dutch (Netherlands) | 5 geluidschecks | 5 opnames extra om te analyseren. Checks verlopen niet en er gaat er één per rapport af. |
-| Chinese (Simplified) | 5 次声音检测 | 再分析 5 段录音。检测次数长期有效，每份报告消耗一次。 |
-| Japanese | 音の診断5回 | 録音をあと5件分析できます。診断回数に有効期限はなく、レポート1件につき1回消費します。 |
-| Korean (South Korea) | 소리 검사 5회 | 녹음 5건을 더 분석합니다. 검사 횟수는 만료되지 않으며 보고서 1건당 1회 사용됩니다. |
-| Arabic | 5 فحوص صوتية | 5 تسجيلات إضافية للتحليل. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير. |
-
-
-#### `checks_10`  (в Play — `checks_10_2`)
-
-| Язык | Название | Описание |
-|---|---|---|
-| English (United States) | 10 sound checks | 10 more recordings to analyse. Checks never expire and one is used per report. |
-| Russian | 10 проверок звука | Ещё 10 записей на разбор. Проверки не сгорают, за один отчёт тратится одна. |
-| German (Germany) | 10 Tonprüfungen | 10 weitere Aufnahmen zur Analyse. Prüfungen verfallen nicht, pro Bericht wird eine verbraucht. |
-| Spanish (Spain) | 10 análisis de sonido | 10 grabaciones más para analizar. Los análisis no caducan y se gasta uno por informe. |
-| French (France) | 10 analyses sonores | 10 enregistrements de plus à analyser. Les analyses n'expirent pas et une est utilisée par rapport. |
-| Italian (Italy) | 10 analisi del suono | 10 registrazioni in più da analizzare. Le analisi non scadono e se ne usa una per ogni report. |
-| Portuguese (Brazil) | 10 análises de som | 10 gravações a mais para analisar. As análises não expiram e uma é usada por relatório. |
-| Polish | 10 analiz dźwięku | Jeszcze 10 nagrań do analizy. Analizy nie wygasają, a na jeden raport zużywa się jedną. |
-| Turkish | 10 ses analizi | Analiz için 10 kayıt daha. Analizler süresiz geçerlidir ve her rapor için bir tanesi kullanılır. |
-| Dutch (Netherlands) | 10 geluidschecks | 10 opnames extra om te analyseren. Checks verlopen niet en er gaat er één per rapport af. |
-| Chinese (Simplified) | 10 次声音检测 | 再分析 10 段录音。检测次数长期有效，每份报告消耗一次。 |
-| Japanese | 音の診断10回 | 録音をあと10件分析できます。診断回数に有効期限はなく、レポート1件につき1回消費します。 |
-| Korean (South Korea) | 소리 검사 10회 | 녹음 10건을 더 분석합니다. 검사 횟수는 만료되지 않으며 보고서 1건당 1회 사용됩니다. |
-| Arabic | 10 فحوص صوتية | 10 تسجيلات إضافية للتحليل. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير. |
+| Код | Язык | Название | Описание |
+|---|---|---|---|
+| `en-US` | English (United States) | 5 sound checks | 5 more checks for the car you choose. They have no expiry date, and one check is used per report. |
+| `ru-RU` | Russian | 5 проверок звука | Ещё 5 проверок для выбранной машины. Срока действия у них нет, на один отчёт уходит одна. |
+| `de-DE` | German (Germany) | 5 Tonprüfungen | 5 weitere Prüfungen für das gewählte Auto. Sie haben kein Ablaufdatum, pro Bericht wird eine verbraucht. |
+| `es-ES` | Spanish (Spain) | 5 análisis de sonido | 5 análisis más para el coche que elijas. No caducan y se gasta uno por informe. |
+| `fr-FR` | French (France) | 5 analyses sonores | 5 analyses de plus pour la voiture de votre choix. Elles n'ont pas de date limite et une est utilisée par rapport. |
+| `it-IT` | Italian | 5 analisi del suono | 5 analisi in più per l'auto che scegli. Non hanno scadenza e se ne usa una per ogni report. |
+| `pt-BR` | Portuguese (Brazil) | 5 análises de som | 5 análises a mais para o carro que você escolher. Não têm prazo de validade e uma é usada por relatório. |
+| `pl-PL` | Polish | 5 analiz dźwięku | Jeszcze 5 analiz dla wybranego auta. Nie mają terminu ważności, a na jeden raport zużywa się jedną. |
+| `tr-TR` | Turkish | 5 ses analizi | Seçtiğiniz araç için 5 analiz daha. Son kullanma tarihi yoktur, her rapor için bir tanesi kullanılır. |
+| `nl-NL` | Dutch (Netherlands) | 5 geluidschecks | 5 checks extra voor de auto die je kiest. Ze verlopen niet en er gaat er één per rapport af. |
+| `zh-CN` | Chinese (Simplified) | 5 次声音检测 | 为所选车辆增加 5 次检测。检测没有有效期限制，每份报告消耗一次。 |
+| `ja-JP` | Japanese | 音の診断5回 | 選んだ車に診断5回を追加します。有効期限はなく、レポート1件につき1回消費します。 |
+| `ko-KR` | Korean | 소리 검사 5회 | 선택한 차량에 검사 5회를 추가합니다. 유효기간이 없으며 보고서 1건당 1회 사용됩니다. |
+| `ar` | Arabic | 5 فحوص صوتية | 5 فحوص إضافية للسيارة التي تختارها. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير. |
 
 
-#### `checks_20`
+#### `checks_10_2` — 10 проверок звука — в Play заведён как `checks_10_2`
 
-| Язык | Название | Описание |
-|---|---|---|
-| English (United States) | 20 sound checks | 20 more recordings to analyse. Checks never expire and one is used per report. |
-| Russian | 20 проверок звука | Ещё 20 записей на разбор. Проверки не сгорают, за один отчёт тратится одна. |
-| German (Germany) | 20 Tonprüfungen | 20 weitere Aufnahmen zur Analyse. Prüfungen verfallen nicht, pro Bericht wird eine verbraucht. |
-| Spanish (Spain) | 20 análisis de sonido | 20 grabaciones más para analizar. Los análisis no caducan y se gasta uno por informe. |
-| French (France) | 20 analyses sonores | 20 enregistrements de plus à analyser. Les analyses n'expirent pas et une est utilisée par rapport. |
-| Italian (Italy) | 20 analisi del suono | 20 registrazioni in più da analizzare. Le analisi non scadono e se ne usa una per ogni report. |
-| Portuguese (Brazil) | 20 análises de som | 20 gravações a mais para analisar. As análises não expiram e uma é usada por relatório. |
-| Polish | 20 analiz dźwięku | Jeszcze 20 nagrań do analizy. Analizy nie wygasają, a na jeden raport zużywa się jedną. |
-| Turkish | 20 ses analizi | Analiz için 20 kayıt daha. Analizler süresiz geçerlidir ve her rapor için bir tanesi kullanılır. |
-| Dutch (Netherlands) | 20 geluidschecks | 20 opnames extra om te analyseren. Checks verlopen niet en er gaat er één per rapport af. |
-| Chinese (Simplified) | 20 次声音检测 | 再分析 20 段录音。检测次数长期有效，每份报告消耗一次。 |
-| Japanese | 音の診断20回 | 録音をあと20件分析できます。診断回数に有効期限はなく、レポート1件につき1回消費します。 |
-| Korean (South Korea) | 소리 검사 20회 | 녹음 20건을 더 분석합니다. 검사 횟수는 만료되지 않으며 보고서 1건당 1회 사용됩니다. |
-| Arabic | 20 فحصًا صوتيًا | 20 تسجيلًا إضافيًا للتحليل. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير. |
-
-
-#### `checks_40`
-
-| Язык | Название | Описание |
-|---|---|---|
-| English (United States) | 40 sound checks | 40 more recordings to analyse. Checks never expire and one is used per report. |
-| Russian | 40 проверок звука | Ещё 40 записей на разбор. Проверки не сгорают, за один отчёт тратится одна. |
-| German (Germany) | 40 Tonprüfungen | 40 weitere Aufnahmen zur Analyse. Prüfungen verfallen nicht, pro Bericht wird eine verbraucht. |
-| Spanish (Spain) | 40 análisis de sonido | 40 grabaciones más para analizar. Los análisis no caducan y se gasta uno por informe. |
-| French (France) | 40 analyses sonores | 40 enregistrements de plus à analyser. Les analyses n'expirent pas et une est utilisée par rapport. |
-| Italian (Italy) | 40 analisi del suono | 40 registrazioni in più da analizzare. Le analisi non scadono e se ne usa una per ogni report. |
-| Portuguese (Brazil) | 40 análises de som | 40 gravações a mais para analisar. As análises não expiram e uma é usada por relatório. |
-| Polish | 40 analiz dźwięku | Jeszcze 40 nagrań do analizy. Analizy nie wygasają, a na jeden raport zużywa się jedną. |
-| Turkish | 40 ses analizi | Analiz için 40 kayıt daha. Analizler süresiz geçerlidir ve her rapor için bir tanesi kullanılır. |
-| Dutch (Netherlands) | 40 geluidschecks | 40 opnames extra om te analyseren. Checks verlopen niet en er gaat er één per rapport af. |
-| Chinese (Simplified) | 40 次声音检测 | 再分析 40 段录音。检测次数长期有效，每份报告消耗一次。 |
-| Japanese | 音の診断40回 | 録音をあと40件分析できます。診断回数に有効期限はなく、レポート1件につき1回消費します。 |
-| Korean (South Korea) | 소리 검사 40회 | 녹음 40건을 더 분석합니다. 검사 횟수는 만료되지 않으며 보고서 1건당 1회 사용됩니다. |
-| Arabic | 40 فحصًا صوتيًا | 40 تسجيلًا إضافيًا للتحليل. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير. |
+| Код | Язык | Название | Описание |
+|---|---|---|---|
+| `en-US` | English (United States) | 10 sound checks | 10 more checks for the car you choose. They have no expiry date, and one check is used per report. |
+| `ru-RU` | Russian | 10 проверок звука | Ещё 10 проверок для выбранной машины. Срока действия у них нет, на один отчёт уходит одна. |
+| `de-DE` | German (Germany) | 10 Tonprüfungen | 10 weitere Prüfungen für das gewählte Auto. Sie haben kein Ablaufdatum, pro Bericht wird eine verbraucht. |
+| `es-ES` | Spanish (Spain) | 10 análisis de sonido | 10 análisis más para el coche que elijas. No caducan y se gasta uno por informe. |
+| `fr-FR` | French (France) | 10 analyses sonores | 10 analyses de plus pour la voiture de votre choix. Elles n'ont pas de date limite et une est utilisée par rapport. |
+| `it-IT` | Italian | 10 analisi del suono | 10 analisi in più per l'auto che scegli. Non hanno scadenza e se ne usa una per ogni report. |
+| `pt-BR` | Portuguese (Brazil) | 10 análises de som | 10 análises a mais para o carro que você escolher. Não têm prazo de validade e uma é usada por relatório. |
+| `pl-PL` | Polish | 10 analiz dźwięku | Jeszcze 10 analiz dla wybranego auta. Nie mają terminu ważności, a na jeden raport zużywa się jedną. |
+| `tr-TR` | Turkish | 10 ses analizi | Seçtiğiniz araç için 10 analiz daha. Son kullanma tarihi yoktur, her rapor için bir tanesi kullanılır. |
+| `nl-NL` | Dutch (Netherlands) | 10 geluidschecks | 10 checks extra voor de auto die je kiest. Ze verlopen niet en er gaat er één per rapport af. |
+| `zh-CN` | Chinese (Simplified) | 10 次声音检测 | 为所选车辆增加 10 次检测。检测没有有效期限制，每份报告消耗一次。 |
+| `ja-JP` | Japanese | 音の診断10回 | 選んだ車に診断10回を追加します。有効期限はなく、レポート1件につき1回消費します。 |
+| `ko-KR` | Korean | 소리 검사 10회 | 선택한 차량에 검사 10회를 추가합니다. 유효기간이 없으며 보고서 1건당 1회 사용됩니다. |
+| `ar` | Arabic | 10 فحوص صوتية | 10 فحوص إضافية للسيارة التي تختارها. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير. |
 
 
-#### `garage_1`
+#### `checks_20` — 20 проверок звука
 
-| Язык | Название | Описание |
-|---|---|---|
-| English (United States) | 1 garage slot and 5 sound checks | Room for one more car in your garage, with 5 sound checks included. The slot stays with your account; checks are used one per report. |
-| Russian | Место в гараже и 5 проверок | Место ещё для одной машины, вместе с ним 5 проверок звука. Место остаётся за аккаунтом, проверки тратятся по одной за отчёт. |
-| German (Germany) | 1 Garagenplatz und 5 Tonprüfungen | Platz für ein weiteres Auto in der Garage, dazu 5 Tonprüfungen. Der Platz bleibt dem Konto erhalten, pro Bericht wird eine Prüfung verbraucht. |
-| Spanish (Spain) | 1 plaza de garaje y 5 análisis | Sitio para un coche más en tu garaje, con 5 análisis de sonido incluidos. La plaza queda en tu cuenta y se gasta un análisis por informe. |
-| French (France) | 1 place de garage et 5 analyses | De la place pour une voiture de plus dans votre garage, avec 5 analyses sonores incluses. La place reste sur votre compte et une analyse est utilisée par rapport. |
-| Italian (Italy) | 1 posto in garage e 5 analisi | Spazio per un'auto in più nel tuo garage, con 5 analisi del suono incluse. Il posto resta sul tuo account e si usa un'analisi per ogni report. |
-| Portuguese (Brazil) | 1 vaga na garagem e 5 análises | Espaço para mais um carro na sua garagem, com 5 análises de som incluídas. A vaga fica na sua conta e uma análise é usada por relatório. |
-| Polish | 1 miejsce w garażu i 5 analiz | Miejsce na jeszcze jedno auto w garażu, razem z pięcioma analizami dźwięku. Miejsce zostaje na koncie, a na jeden raport zużywa się jedną analizę. |
-| Turkish | 1 garaj yeri ve 5 ses analizi | Garajınızda 1 araç daha için yer, 5 ses analizi dahil. Yer hesabınızda kalır, her rapor için bir analiz kullanılır. |
-| Dutch (Netherlands) | 1 garageplek en 5 geluidschecks | Plek voor nog een auto in je garage, inclusief 5 geluidschecks. De plek blijft aan je account gekoppeld en per rapport gaat er één check af. |
-| Chinese (Simplified) | 1 个车位和 5 次声音检测 | 车库中可再停放 1 台车，并附带 5 次声音检测。车位长期保留在账号中，每份报告消耗一次检测。 |
-| Japanese | ガレージ1台分と音の診断5回 | ガレージにもう1台分の枠が増え、音の診断5回が付きます。枠はアカウントに残り、レポート1件につき診断1回を消費します。 |
-| Korean (South Korea) | 차고 1칸과 소리 검사 5회 | 차고에 차 1대를 더 넣을 수 있고 소리 검사 5회가 함께 제공됩니다. 칸은 계정에 유지되며 보고서 1건당 검사 1회가 사용됩니다. |
-| Arabic | مكان واحد في المرآب و5 فحوص صوتية | مكان لسيارة إضافية واحدة في مرآبك، مع 5 فحوص صوتية. المكان يبقى في حسابك، ويُستهلك فحص واحد لكل تقرير. |
-
-
-#### `garage_2`
-
-| Язык | Название | Описание |
-|---|---|---|
-| English (United States) | 2 garage slots and 10 sound checks | Room for 2 more cars in your garage, with 10 sound checks included. The slots stay with your account; checks are used one per report. |
-| Russian | 2 места в гараже и 10 проверок | Места ещё для двух машин, вместе с ними 10 проверок звука. Места остаются за аккаунтом, проверки тратятся по одной за отчёт. |
-| German (Germany) | 2 Garagenplätze und 10 Tonprüfungen | Platz für 2 weitere Autos in der Garage, dazu 10 Tonprüfungen. Die Plätze bleiben dem Konto erhalten, pro Bericht wird eine Prüfung verbraucht. |
-| Spanish (Spain) | 2 plazas de garaje y 10 análisis | Sitio para 2 coches más en tu garaje, con 10 análisis de sonido incluidos. Las plazas quedan en tu cuenta y se gasta un análisis por informe. |
-| French (France) | 2 places de garage et 10 analyses | De la place pour 2 voitures de plus dans votre garage, avec 10 analyses sonores incluses. Les places restent sur votre compte et une analyse est utilisée par rapport. |
-| Italian (Italy) | 2 posti in garage e 10 analisi | Spazio per 2 auto in più nel tuo garage, con 10 analisi del suono incluse. I posti restano sul tuo account e si usa un'analisi per ogni report. |
-| Portuguese (Brazil) | 2 vagas na garagem e 10 análises | Espaço para mais 2 carros na sua garagem, com 10 análises de som incluídas. As vagas ficam na sua conta e uma análise é usada por relatório. |
-| Polish | 2 miejsca w garażu i 10 analiz | Miejsce na jeszcze dwa auta w garażu, razem z dziesięcioma analizami dźwięku. Miejsca zostają na koncie, a na jeden raport zużywa się jedną analizę. |
-| Turkish | 2 garaj yeri ve 10 ses analizi | Garajınızda 2 araç daha için yer, 10 ses analizi dahil. Yer hesabınızda kalır, her rapor için bir analiz kullanılır. |
-| Dutch (Netherlands) | 2 garageplekken en 10 geluidschecks | Plek voor 2 auto’s extra in je garage, inclusief 10 geluidschecks. De plekken blijven aan je account gekoppeld en per rapport gaat er één check af. |
-| Chinese (Simplified) | 2 个车位和 10 次声音检测 | 车库中可再停放 2 台车，并附带 10 次声音检测。车位长期保留在账号中，每份报告消耗一次检测。 |
-| Japanese | ガレージ2台分と音の診断10回 | ガレージにもう2台分の枠が増え、音の診断10回が付きます。枠はアカウントに残り、レポート1件につき診断1回を消費します。 |
-| Korean (South Korea) | 차고 2칸과 소리 검사 10회 | 차고에 차 2대를 더 넣을 수 있고 소리 검사 10회가 함께 제공됩니다. 칸은 계정에 유지되며 보고서 1건당 검사 1회가 사용됩니다. |
-| Arabic | مكانان في المرآب و10 فحوص صوتية | مكان لسيارتين إضافيتين في مرآبك، مع 10 فحوص صوتية. الأماكن تبقى في حسابك، ويُستهلك فحص واحد لكل تقرير. |
+| Код | Язык | Название | Описание |
+|---|---|---|---|
+| `en-US` | English (United States) | 20 sound checks | 20 more checks for the car you choose. They have no expiry date, and one check is used per report. |
+| `ru-RU` | Russian | 20 проверок звука | Ещё 20 проверок для выбранной машины. Срока действия у них нет, на один отчёт уходит одна. |
+| `de-DE` | German (Germany) | 20 Tonprüfungen | 20 weitere Prüfungen für das gewählte Auto. Sie haben kein Ablaufdatum, pro Bericht wird eine verbraucht. |
+| `es-ES` | Spanish (Spain) | 20 análisis de sonido | 20 análisis más para el coche que elijas. No caducan y se gasta uno por informe. |
+| `fr-FR` | French (France) | 20 analyses sonores | 20 analyses de plus pour la voiture de votre choix. Elles n'ont pas de date limite et une est utilisée par rapport. |
+| `it-IT` | Italian | 20 analisi del suono | 20 analisi in più per l'auto che scegli. Non hanno scadenza e se ne usa una per ogni report. |
+| `pt-BR` | Portuguese (Brazil) | 20 análises de som | 20 análises a mais para o carro que você escolher. Não têm prazo de validade e uma é usada por relatório. |
+| `pl-PL` | Polish | 20 analiz dźwięku | Jeszcze 20 analiz dla wybranego auta. Nie mają terminu ważności, a na jeden raport zużywa się jedną. |
+| `tr-TR` | Turkish | 20 ses analizi | Seçtiğiniz araç için 20 analiz daha. Son kullanma tarihi yoktur, her rapor için bir tanesi kullanılır. |
+| `nl-NL` | Dutch (Netherlands) | 20 geluidschecks | 20 checks extra voor de auto die je kiest. Ze verlopen niet en er gaat er één per rapport af. |
+| `zh-CN` | Chinese (Simplified) | 20 次声音检测 | 为所选车辆增加 20 次检测。检测没有有效期限制，每份报告消耗一次。 |
+| `ja-JP` | Japanese | 音の診断20回 | 選んだ車に診断20回を追加します。有効期限はなく、レポート1件につき1回消費します。 |
+| `ko-KR` | Korean | 소리 검사 20회 | 선택한 차량에 검사 20회를 추가합니다. 유효기간이 없으며 보고서 1건당 1회 사용됩니다. |
+| `ar` | Arabic | 20 فحصًا صوتيًا | 20 فحصًا إضافيًا للسيارة التي تختارها. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير. |
 
 
-#### `garage_4`
+#### `checks_40` — 40 проверок звука
 
-| Язык | Название | Описание |
-|---|---|---|
-| English (United States) | 4 garage slots and 20 sound checks | Room for 4 more cars in your garage, with 20 sound checks included. The slots stay with your account; checks are used one per report. |
-| Russian | 4 места в гараже и 20 проверок | Места ещё для четырёх машин, вместе с ними 20 проверок звука. Места остаются за аккаунтом, проверки тратятся по одной за отчёт. |
-| German (Germany) | 4 Garagenplätze und 20 Tonprüfungen | Platz für 4 weitere Autos in der Garage, dazu 20 Tonprüfungen. Die Plätze bleiben dem Konto erhalten, pro Bericht wird eine Prüfung verbraucht. |
-| Spanish (Spain) | 4 plazas de garaje y 20 análisis | Sitio para 4 coches más en tu garaje, con 20 análisis de sonido incluidos. Las plazas quedan en tu cuenta y se gasta un análisis por informe. |
-| French (France) | 4 places de garage et 20 analyses | De la place pour 4 voitures de plus dans votre garage, avec 20 analyses sonores incluses. Les places restent sur votre compte et une analyse est utilisée par rapport. |
-| Italian (Italy) | 4 posti in garage e 20 analisi | Spazio per 4 auto in più nel tuo garage, con 20 analisi del suono incluse. I posti restano sul tuo account e si usa un'analisi per ogni report. |
-| Portuguese (Brazil) | 4 vagas na garagem e 20 análises | Espaço para mais 4 carros na sua garagem, com 20 análises de som incluídas. As vagas ficam na sua conta e uma análise é usada por relatório. |
-| Polish | 4 miejsca w garażu i 20 analiz | Miejsce na jeszcze cztery auta w garażu, razem z dwudziestoma analizami dźwięku. Miejsca zostają na koncie, a na jeden raport zużywa się jedną analizę. |
-| Turkish | 4 garaj yeri ve 20 ses analizi | Garajınızda 4 araç daha için yer, 20 ses analizi dahil. Yer hesabınızda kalır, her rapor için bir analiz kullanılır. |
-| Dutch (Netherlands) | 4 garageplekken en 20 geluidschecks | Plek voor 4 auto’s extra in je garage, inclusief 20 geluidschecks. De plekken blijven aan je account gekoppeld en per rapport gaat er één check af. |
-| Chinese (Simplified) | 4 个车位和 20 次声音检测 | 车库中可再停放 4 台车，并附带 20 次声音检测。车位长期保留在账号中，每份报告消耗一次检测。 |
-| Japanese | ガレージ4台分と音の診断20回 | ガレージにもう4台分の枠が増え、音の診断20回が付きます。枠はアカウントに残り、レポート1件につき診断1回を消費します。 |
-| Korean (South Korea) | 차고 4칸과 소리 검사 20회 | 차고에 차 4대를 더 넣을 수 있고 소리 검사 20회가 함께 제공됩니다. 칸은 계정에 유지되며 보고서 1건당 검사 1회가 사용됩니다. |
-| Arabic | 4 أماكن في المرآب و20 فحصًا صوتيًا | مكان لأربع سيارات إضافية في مرآبك، مع 20 فحصًا صوتيًا. الأماكن تبقى في حسابك، ويُستهلك فحص واحد لكل تقرير. |
+| Код | Язык | Название | Описание |
+|---|---|---|---|
+| `en-US` | English (United States) | 40 sound checks | 40 more checks for the car you choose. They have no expiry date, and one check is used per report. |
+| `ru-RU` | Russian | 40 проверок звука | Ещё 40 проверок для выбранной машины. Срока действия у них нет, на один отчёт уходит одна. |
+| `de-DE` | German (Germany) | 40 Tonprüfungen | 40 weitere Prüfungen für das gewählte Auto. Sie haben kein Ablaufdatum, pro Bericht wird eine verbraucht. |
+| `es-ES` | Spanish (Spain) | 40 análisis de sonido | 40 análisis más para el coche que elijas. No caducan y se gasta uno por informe. |
+| `fr-FR` | French (France) | 40 analyses sonores | 40 analyses de plus pour la voiture de votre choix. Elles n'ont pas de date limite et une est utilisée par rapport. |
+| `it-IT` | Italian | 40 analisi del suono | 40 analisi in più per l'auto che scegli. Non hanno scadenza e se ne usa una per ogni report. |
+| `pt-BR` | Portuguese (Brazil) | 40 análises de som | 40 análises a mais para o carro que você escolher. Não têm prazo de validade e uma é usada por relatório. |
+| `pl-PL` | Polish | 40 analiz dźwięku | Jeszcze 40 analiz dla wybranego auta. Nie mają terminu ważności, a na jeden raport zużywa się jedną. |
+| `tr-TR` | Turkish | 40 ses analizi | Seçtiğiniz araç için 40 analiz daha. Son kullanma tarihi yoktur, her rapor için bir tanesi kullanılır. |
+| `nl-NL` | Dutch (Netherlands) | 40 geluidschecks | 40 checks extra voor de auto die je kiest. Ze verlopen niet en er gaat er één per rapport af. |
+| `zh-CN` | Chinese (Simplified) | 40 次声音检测 | 为所选车辆增加 40 次检测。检测没有有效期限制，每份报告消耗一次。 |
+| `ja-JP` | Japanese | 音の診断40回 | 選んだ車に診断40回を追加します。有効期限はなく、レポート1件につき1回消費します。 |
+| `ko-KR` | Korean | 소리 검사 40회 | 선택한 차량에 검사 40회를 추가합니다. 유효기간이 없으며 보고서 1건당 1회 사용됩니다. |
+| `ar` | Arabic | 40 فحصًا صوتيًا | 40 فحصًا إضافيًا للسيارة التي تختارها. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير. |
 
 
-#### `garage_8`
+#### `garage_1` — 1 место в гараже
 
-| Язык | Название | Описание |
-|---|---|---|
-| English (United States) | 8 garage slots and 40 sound checks | Room for 8 more cars in your garage, with 40 sound checks included. The slots stay with your account; checks are used one per report. |
-| Russian | 8 мест в гараже и 40 проверок | Места ещё для восьми машин, вместе с ними 40 проверок звука. Места остаются за аккаунтом, проверки тратятся по одной за отчёт. |
-| German (Germany) | 8 Garagenplätze und 40 Tonprüfungen | Platz für 8 weitere Autos in der Garage, dazu 40 Tonprüfungen. Die Plätze bleiben dem Konto erhalten, pro Bericht wird eine Prüfung verbraucht. |
-| Spanish (Spain) | 8 plazas de garaje y 40 análisis | Sitio para 8 coches más en tu garaje, con 40 análisis de sonido incluidos. Las plazas quedan en tu cuenta y se gasta un análisis por informe. |
-| French (France) | 8 places de garage et 40 analyses | De la place pour 8 voitures de plus dans votre garage, avec 40 analyses sonores incluses. Les places restent sur votre compte et une analyse est utilisée par rapport. |
-| Italian (Italy) | 8 posti in garage e 40 analisi | Spazio per 8 auto in più nel tuo garage, con 40 analisi del suono incluse. I posti restano sul tuo account e si usa un'analisi per ogni report. |
-| Portuguese (Brazil) | 8 vagas na garagem e 40 análises | Espaço para mais 8 carros na sua garagem, com 40 análises de som incluídas. As vagas ficam na sua conta e uma análise é usada por relatório. |
-| Polish | 8 miejsc w garażu i 40 analiz | Miejsce na jeszcze osiem aut w garażu, razem z czterdziestoma analizami dźwięku. Miejsca zostają na koncie, a na jeden raport zużywa się jedną analizę. |
-| Turkish | 8 garaj yeri ve 40 ses analizi | Garajınızda 8 araç daha için yer, 40 ses analizi dahil. Yer hesabınızda kalır, her rapor için bir analiz kullanılır. |
-| Dutch (Netherlands) | 8 garageplekken en 40 geluidschecks | Plek voor 8 auto’s extra in je garage, inclusief 40 geluidschecks. De plekken blijven aan je account gekoppeld en per rapport gaat er één check af. |
-| Chinese (Simplified) | 8 个车位和 40 次声音检测 | 车库中可再停放 8 台车，并附带 40 次声音检测。车位长期保留在账号中，每份报告消耗一次检测。 |
-| Japanese | ガレージ8台分と音の診断40回 | ガレージにもう8台分の枠が増え、音の診断40回が付きます。枠はアカウントに残り、レポート1件につき診断1回を消費します。 |
-| Korean (South Korea) | 차고 8칸과 소리 검사 40회 | 차고에 차 8대를 더 넣을 수 있고 소리 검사 40회가 함께 제공됩니다. 칸은 계정에 유지되며 보고서 1건당 검사 1회가 사용됩니다. |
-| Arabic | 8 أماكن في المرآب و40 فحصًا صوتيًا | مكان لثماني سيارات إضافية في مرآبك، مع 40 فحصًا صوتيًا. الأماكن تبقى في حسابك، ويُستهلك فحص واحد لكل تقرير. |
+| Код | Язык | Название | Описание |
+|---|---|---|---|
+| `en-US` | English (United States) | 1 garage slot and 5 sound checks | Room for one more car in your garage, with 5 checks included. The slot stays on your account and the checks have no expiry date. |
+| `ru-RU` | Russian | Место в гараже и 5 проверок | Ещё одна машина в гараже и 5 проверок на неё. Место остаётся за аккаунтом, срока действия у проверок нет. |
+| `de-DE` | German (Germany) | 1 Garagenplatz und 5 Tonprüfungen | Platz für ein weiteres Auto in der Garage, dazu 5 Prüfungen. Der Platz bleibt dem Konto erhalten, die Prüfungen haben kein Ablaufdatum. |
+| `es-ES` | Spanish (Spain) | 1 plaza de garaje y 5 análisis | Sitio para un coche más en tu garaje, con 5 análisis incluidos. La plaza queda en tu cuenta y los análisis no caducan. |
+| `fr-FR` | French (France) | 1 place de garage et 5 analyses | De la place pour une voiture de plus dans votre garage, avec 5 analyses incluses. La place reste sur votre compte et les analyses n'ont pas de date limite. |
+| `it-IT` | Italian | 1 posto in garage e 5 analisi | Spazio per un'auto in più nel tuo garage, con 5 analisi incluse. Il posto resta sul tuo account e le analisi non hanno scadenza. |
+| `pt-BR` | Portuguese (Brazil) | 1 vaga na garagem e 5 análises | Espaço para mais um carro na sua garagem, com 5 análises incluídas. A vaga fica na sua conta e as análises não têm prazo de validade. |
+| `pl-PL` | Polish | 1 miejsce w garażu i 5 analiz | Miejsce na jedno kolejne auto w garażu i 5 analiz dźwięku. Miejsce zostaje na koncie, a analizy nie mają terminu ważności. |
+| `tr-TR` | Turkish | 1 garaj yeri ve 5 ses analizi | Garajınızda 1 araç daha için yer ve 5 ses analizi. Yer hesabınızda kalır, analizlerin son kullanma tarihi yoktur. |
+| `nl-NL` | Dutch (Netherlands) | 1 garageplek en 5 geluidschecks | Plek voor nog een auto in je garage, inclusief 5 checks. De plek blijft aan je account gekoppeld en de checks verlopen niet. |
+| `zh-CN` | Chinese (Simplified) | 1 个车位和 5 次声音检测 | 车库中可再停放 1 台车，并附带 5 次检测。车位长期保留在账号中，检测没有有效期限制。 |
+| `ja-JP` | Japanese | ガレージ1台分と音の診断5回 | ガレージにもう1台分の枠が増え、診断5回が付きます。枠はアカウントに残り、診断に有効期限はありません。 |
+| `ko-KR` | Korean | 차고 1칸과 소리 검사 5회 | 차고에 차 1대를 더 넣을 수 있고 검사 5회가 함께 제공됩니다. 칸은 계정에 유지되고 검사에는 유효기간이 없습니다. |
+| `ar` | Arabic | مكان في المرآب و5 فحوص صوتية | مكان لسيارة إضافية واحدة في مرآبك، مع 5 فحوص صوتية. المكان يبقى في حسابك، والفحوص لا تنتهي صلاحيتها. |
+
+
+#### `garage_2` — 2 места в гараже
+
+| Код | Язык | Название | Описание |
+|---|---|---|---|
+| `en-US` | English (United States) | 2 garage slots and 10 sound checks | Room for 2 more cars in your garage, with 10 checks included. The slots stay on your account and the checks have no expiry date. |
+| `ru-RU` | Russian | 2 места в гараже и 10 проверок | Ещё две машины в гараже и 10 проверок на них. Места остаются за аккаунтом, срока действия у проверок нет. |
+| `de-DE` | German (Germany) | 2 Garagenplätze und 10 Tonprüfungen | Platz für zwei weitere Autos in der Garage, dazu 10 Prüfungen. Die Plätze bleiben dem Konto erhalten, die Prüfungen haben kein Ablaufdatum. |
+| `es-ES` | Spanish (Spain) | 2 plazas de garaje y 10 análisis | Sitio para dos coches más en tu garaje, con 10 análisis incluidos. Las plazas quedan en tu cuenta y los análisis no caducan. |
+| `fr-FR` | French (France) | 2 places de garage et 10 analyses | De la place pour deux voitures de plus dans votre garage, avec 10 analyses incluses. Les places restent sur votre compte et les analyses n'ont pas de date limite. |
+| `it-IT` | Italian | 2 posti in garage e 10 analisi | Spazio per due auto in più nel tuo garage, con 10 analisi incluse. I posti restano sul tuo account e le analisi non hanno scadenza. |
+| `pt-BR` | Portuguese (Brazil) | 2 vagas na garagem e 10 análises | Espaço para mais dois carros na sua garagem, com 10 análises incluídas. As vagas ficam na sua conta e as análises não têm prazo de validade. |
+| `pl-PL` | Polish | 2 miejsca w garażu i 10 analiz | Miejsce na dwa kolejne auta w garażu i 10 analiz dźwięku. Miejsca zostają na koncie, a analizy nie mają terminu ważności. |
+| `tr-TR` | Turkish | 2 garaj yeri ve 10 ses analizi | Garajınızda 2 araç daha için yer ve 10 ses analizi. Yerler hesabınızda kalır, analizlerin son kullanma tarihi yoktur. |
+| `nl-NL` | Dutch (Netherlands) | 2 garageplekken en 10 geluidschecks | Plek voor twee auto’s extra in je garage, inclusief 10 checks. De plekken blijven aan je account gekoppeld en de checks verlopen niet. |
+| `zh-CN` | Chinese (Simplified) | 2 个车位和 10 次声音检测 | 车库中可再停放 2 台车，并附带 10 次检测。车位长期保留在账号中，检测没有有效期限制。 |
+| `ja-JP` | Japanese | ガレージ2台分と音の診断10回 | ガレージにもう2台分の枠が増え、診断10回が付きます。枠はアカウントに残り、診断に有効期限はありません。 |
+| `ko-KR` | Korean | 차고 2칸과 소리 검사 10회 | 차고에 차 2대를 더 넣을 수 있고 검사 10회가 함께 제공됩니다. 칸은 계정에 유지되고 검사에는 유효기간이 없습니다. |
+| `ar` | Arabic | مكانان في المرآب و10 فحوص صوتية | مكان لسيارتين إضافيتين في مرآبك، مع 10 فحوص صوتية. الأماكن تبقى في حسابك، والفحوص لا تنتهي صلاحيتها. |
+
+
+#### `garage_4` — 4 места в гараже
+
+| Код | Язык | Название | Описание |
+|---|---|---|---|
+| `en-US` | English (United States) | 4 garage slots and 20 sound checks | Room for 4 more cars in your garage, with 20 checks included. The slots stay on your account and the checks have no expiry date. |
+| `ru-RU` | Russian | 4 места в гараже и 20 проверок | Ещё четыре машины в гараже и 20 проверок на них. Места остаются за аккаунтом, срока действия у проверок нет. |
+| `de-DE` | German (Germany) | 4 Garagenplätze und 20 Tonprüfungen | Platz für vier weitere Autos in der Garage, dazu 20 Prüfungen. Die Plätze bleiben dem Konto erhalten, die Prüfungen haben kein Ablaufdatum. |
+| `es-ES` | Spanish (Spain) | 4 plazas de garaje y 20 análisis | Sitio para cuatro coches más en tu garaje, con 20 análisis incluidos. Las plazas quedan en tu cuenta y los análisis no caducan. |
+| `fr-FR` | French (France) | 4 places de garage et 20 analyses | De la place pour quatre voitures de plus dans votre garage, avec 20 analyses incluses. Les places restent sur votre compte et les analyses n'ont pas de date limite. |
+| `it-IT` | Italian | 4 posti in garage e 20 analisi | Spazio per quattro auto in più nel tuo garage, con 20 analisi incluse. I posti restano sul tuo account e le analisi non hanno scadenza. |
+| `pt-BR` | Portuguese (Brazil) | 4 vagas na garagem e 20 análises | Espaço para mais quatro carros na sua garagem, com 20 análises incluídas. As vagas ficam na sua conta e as análises não têm prazo de validade. |
+| `pl-PL` | Polish | 4 miejsca w garażu i 20 analiz | Miejsce na cztery kolejne auta w garażu i 20 analiz dźwięku. Miejsca zostają na koncie, a analizy nie mają terminu ważności. |
+| `tr-TR` | Turkish | 4 garaj yeri ve 20 ses analizi | Garajınızda 4 araç daha için yer ve 20 ses analizi. Yerler hesabınızda kalır, analizlerin son kullanma tarihi yoktur. |
+| `nl-NL` | Dutch (Netherlands) | 4 garageplekken en 20 geluidschecks | Plek voor vier auto’s extra in je garage, inclusief 20 checks. De plekken blijven aan je account gekoppeld en de checks verlopen niet. |
+| `zh-CN` | Chinese (Simplified) | 4 个车位和 20 次声音检测 | 车库中可再停放 4 台车，并附带 20 次检测。车位长期保留在账号中，检测没有有效期限制。 |
+| `ja-JP` | Japanese | ガレージ4台分と音の診断20回 | ガレージにもう4台分の枠が増え、診断20回が付きます。枠はアカウントに残り、診断に有効期限はありません。 |
+| `ko-KR` | Korean | 차고 4칸과 소리 검사 20회 | 차고에 차 4대를 더 넣을 수 있고 검사 20회가 함께 제공됩니다. 칸은 계정에 유지되고 검사에는 유효기간이 없습니다. |
+| `ar` | Arabic | 4 أماكن في المرآب و20 فحصًا صوتيًا | مكان لأربع سيارات إضافية في مرآبك، مع 20 فحصًا صوتيًا. الأماكن تبقى في حسابك، والفحوص لا تنتهي صلاحيتها. |
+
+
+#### `garage_8` — 8 мест в гараже
+
+| Код | Язык | Название | Описание |
+|---|---|---|---|
+| `en-US` | English (United States) | 8 garage slots and 40 sound checks | Room for 8 more cars in your garage, with 40 checks included. The slots stay on your account and the checks have no expiry date. |
+| `ru-RU` | Russian | 8 мест в гараже и 40 проверок | Ещё восемь машин в гараже и 40 проверок на них. Места остаются за аккаунтом, срока действия у проверок нет. |
+| `de-DE` | German (Germany) | 8 Garagenplätze und 40 Tonprüfungen | Platz für acht weitere Autos in der Garage, dazu 40 Prüfungen. Die Plätze bleiben dem Konto erhalten, die Prüfungen haben kein Ablaufdatum. |
+| `es-ES` | Spanish (Spain) | 8 plazas de garaje y 40 análisis | Sitio para ocho coches más en tu garaje, con 40 análisis incluidos. Las plazas quedan en tu cuenta y los análisis no caducan. |
+| `fr-FR` | French (France) | 8 places de garage et 40 analyses | De la place pour huit voitures de plus dans votre garage, avec 40 analyses incluses. Les places restent sur votre compte et les analyses n'ont pas de date limite. |
+| `it-IT` | Italian | 8 posti in garage e 40 analisi | Spazio per otto auto in più nel tuo garage, con 40 analisi incluse. I posti restano sul tuo account e le analisi non hanno scadenza. |
+| `pt-BR` | Portuguese (Brazil) | 8 vagas na garagem e 40 análises | Espaço para mais oito carros na sua garagem, com 40 análises incluídas. As vagas ficam na sua conta e as análises não têm prazo de validade. |
+| `pl-PL` | Polish | 8 miejsc w garażu i 40 analiz | Miejsce na osiem kolejnych aut w garażu i 40 analiz dźwięku. Miejsca zostają na koncie, a analizy nie mają terminu ważności. |
+| `tr-TR` | Turkish | 8 garaj yeri ve 40 ses analizi | Garajınızda 8 araç daha için yer ve 40 ses analizi. Yerler hesabınızda kalır, analizlerin son kullanma tarihi yoktur. |
+| `nl-NL` | Dutch (Netherlands) | 8 garageplekken en 40 geluidschecks | Plek voor acht auto’s extra in je garage, inclusief 40 checks. De plekken blijven aan je account gekoppeld en de checks verlopen niet. |
+| `zh-CN` | Chinese (Simplified) | 8 个车位和 40 次声音检测 | 车库中可再停放 8 台车，并附带 40 次检测。车位长期保留在账号中，检测没有有效期限制。 |
+| `ja-JP` | Japanese | ガレージ8台分と音の診断40回 | ガレージにもう8台分の枠が増え、診断40回が付きます。枠はアカウントに残り、診断に有効期限はありません。 |
+| `ko-KR` | Korean | 차고 8칸과 소리 검사 40회 | 차고에 차 8대를 더 넣을 수 있고 검사 40회가 함께 제공됩니다. 칸은 계정에 유지되고 검사에는 유효기간이 없습니다. |
+| `ar` | Arabic | 8 أماكن في المرآب و40 فحصًا صوتيًا | مكان لثماني سيارات إضافية في مرآبك، مع 40 فحصًا صوتيًا. الأماكن تبقى في حسابك، والفحوص لا تنتهي صلاحيتها. |
 
 
 ### Опечатка в идентификаторе

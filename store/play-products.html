@@ -1,0 +1,584 @@
+<title>Товары Pro-Stuk для Play</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root {
+  --bg:#F4F7F5; --surface:#FFFFFF; --raise:#EDF2EF;
+  --ink:#141E1B; --mid:#4C5B56; --dim:#7C8B85;
+  --line:#DCE4E0; --line2:#C6D2CD;
+  --acc:#0C6555; --acc-ink:#FFFFFF; --acc-soft:#DCEBE6;
+  --warn:#8A5A12;
+  --ui:Archivo,system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+  --txt:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans","Noto Sans Arabic","Noto Sans SC","Noto Sans JP","Noto Sans KR",sans-serif;
+}
+@media (prefers-color-scheme:dark) {
+  :root:not([data-theme="light"]) {
+    --bg:#0E1513; --surface:#161F1C; --raise:#1D2825;
+    --ink:#E7EDEA; --mid:#A3B1AC; --dim:#7A8783;
+    --line:#25322E; --line2:#33433E;
+    --acc:#57CFB3; --acc-ink:#08201B; --acc-soft:#1B322C;
+    --warn:#D9A55A;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:#0E1513; --surface:#161F1C; --raise:#1D2825;
+  --ink:#E7EDEA; --mid:#A3B1AC; --dim:#7A8783;
+  --line:#25322E; --line2:#33433E;
+  --acc:#57CFB3; --acc-ink:#08201B; --acc-soft:#1B322C;
+  --warn:#D9A55A;
+}
+* { box-sizing:border-box; }
+body { background:var(--bg); color:var(--ink); font-family:var(--ui);
+  margin:0; padding:0 20px 72px; -webkit-font-smoothing:antialiased; }
+.wrap { max-width:1180px; margin:0 auto; }
+
+header { padding:40px 0 20px; }
+h1 { font-size:27px; font-weight:700; letter-spacing:-.02em; margin:0 0 8px;
+  text-wrap:balance; }
+.lede { color:var(--mid); font-size:14.5px; line-height:1.6; max-width:64ch; margin:0; }
+.lede b { color:var(--ink); font-weight:600; }
+.facts { display:flex; flex-wrap:wrap; gap:8px 22px; margin:18px 0 0;
+  font-size:12.5px; color:var(--dim); }
+.facts span { display:flex; gap:7px; align-items:baseline; }
+.facts b { color:var(--ink); font-weight:600; font-variant-numeric:tabular-nums; }
+
+.bar { position:sticky; top:0; z-index:5; background:var(--bg);
+  padding:14px 0 12px; border-bottom:1px solid var(--line);
+  display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+.bar .lbl { font-size:11.5px; text-transform:uppercase; letter-spacing:.09em;
+  color:var(--dim); font-weight:600; margin-right:2px; }
+.chip { font-family:var(--mono); font-size:12px; padding:5px 9px;
+  border:1px solid var(--line2); border-radius:5px; background:var(--surface);
+  color:var(--mid); cursor:pointer; }
+.chip:hover { border-color:var(--acc); color:var(--ink); }
+.chip.on { background:var(--acc); border-color:var(--acc); color:var(--acc-ink); font-weight:500; }
+.chip:focus-visible, .v:focus-visible { outline:2px solid var(--acc); outline-offset:2px; }
+
+.prod { margin-top:38px; }
+.ph { display:flex; align-items:baseline; gap:14px; flex-wrap:wrap;
+  padding-bottom:10px; border-bottom:2px solid var(--ink); }
+.pid { font-family:var(--mono); font-size:14px; font-weight:500;
+  color:var(--acc); }
+.pt { display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; }
+.pt b { font-size:15px; font-weight:600; }
+.pt span { font-size:12.5px; color:var(--dim); }
+
+.grid { display:grid; grid-template-columns:150px minmax(180px,1fr) minmax(300px,2.1fr);
+  gap:0; }
+.hd { font-size:11px; text-transform:uppercase; letter-spacing:.09em;
+  color:var(--dim); font-weight:600; padding:11px 12px 9px; }
+.hd i { font-style:normal; font-family:var(--mono); text-transform:none;
+  letter-spacing:0; color:var(--line2); margin-left:5px; }
+.loc { display:flex; flex-direction:column; gap:2px; justify-content:center;
+  padding:9px 12px; border-top:1px solid var(--line); }
+.loc code { font-family:var(--mono); font-size:12.5px; color:var(--ink); font-weight:500; }
+.loc span { font-size:11px; color:var(--dim); }
+.loc-c { border-top:1px solid var(--line); display:flex; padding:5px 4px; }
+
+.v { font:inherit; font-family:var(--txt); font-size:13.5px; line-height:1.5;
+  text-align:left; width:100%; background:transparent; border:1px solid transparent;
+  border-radius:6px; padding:7px 34px 7px 9px; color:var(--ink);
+  cursor:pointer; position:relative; }
+.v:hover { background:var(--raise); border-color:var(--line2); }
+.v .s { display:block; }
+.v .n { position:absolute; top:7px; right:8px; font-family:var(--mono);
+  font-size:10px; color:var(--dim); font-variant-numeric:tabular-nums; }
+.v:hover .n { color:var(--acc); }
+.v.done { background:var(--acc-soft); border-color:var(--acc); }
+.v.done::after { content:"скопировано"; position:absolute; top:7px; right:8px;
+  font-family:var(--ui); font-size:10px; font-weight:600; color:var(--acc);
+  letter-spacing:.03em; }
+.v.done .n { opacity:0; }
+@media (prefers-reduced-motion:no-preference) { .v { transition:background .12s, border-color .12s; } }
+
+.note { margin-top:34px; padding:16px 18px; background:var(--surface);
+  border-left:3px solid var(--warn); border-radius:0 7px 7px 0;
+  font-size:13px; line-height:1.65; color:var(--mid); }
+.note b { color:var(--ink); font-weight:600; }
+.note code { font-family:var(--mono); font-size:12px; color:var(--acc); }
+.sr { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); }
+.hide { display:none !important; }
+@media (max-width:760px) {
+  .grid { grid-template-columns:1fr; }
+  .hd { display:none; }
+  .loc { border-top:2px solid var(--ink); flex-direction:row; align-items:baseline; gap:8px; }
+  .loc-c { border-top:none; }
+}
+</style>
+
+<div class="wrap">
+<header>
+  <h1>Товары Pro-Stuk для Play</h1>
+  <p class="lede">Названия и описания восьми покупок на четырнадцати языках.
+  Нажмите на строку — она скопируется целиком, вставляйте в поле консоли.
+  Число справа показывает длину: <b>название до 55 знаков, описание до 200</b>.</p>
+  <div class="facts">
+    <span>Товаров <b>8</b></span>
+    <span>Языков <b>14</b></span>
+    <span>Строк <b>224</b></span>
+    <span>Самое длинное название <b>35</b></span>
+    <span>Самое длинное описание <b>164</b></span>
+  </div>
+</header>
+
+<div class="bar">
+  <span class="lbl">Язык</span>
+  <button class="chip on" type="button" data-f="all">Все</button> <button class="chip" type="button" data-f="en-US">en-US</button> <button class="chip" type="button" data-f="ru-RU">ru-RU</button> <button class="chip" type="button" data-f="de-DE">de-DE</button> <button class="chip" type="button" data-f="es-ES">es-ES</button> <button class="chip" type="button" data-f="fr-FR">fr-FR</button> <button class="chip" type="button" data-f="it-IT">it-IT</button> <button class="chip" type="button" data-f="pt-BR">pt-BR</button> <button class="chip" type="button" data-f="pl-PL">pl-PL</button> <button class="chip" type="button" data-f="tr-TR">tr-TR</button> <button class="chip" type="button" data-f="nl-NL">nl-NL</button> <button class="chip" type="button" data-f="zh-CN">zh-CN</button> <button class="chip" type="button" data-f="ja-JP">ja-JP</button> <button class="chip" type="button" data-f="ko-KR">ko-KR</button> <button class="chip" type="button" data-f="ar">ar</button>
+</div>
+
+<section class="prod" id="checks_5">
+<div class="ph">
+  <code class="pid">checks_5</code>
+  <div class="pt"><b>5 проверок звука</b><span>5 проверок на выбранную машину</span></div>
+</div>
+<div class="grid">
+  <div class="hd">Язык</div><div class="hd">Название <i>≤55</i></div><div class="hd">Описание <i>≤200</i></div>
+  <div class="loc" data-loc="en-US"><code>en-US</code><span>English (United States)</span></div>
+  <div class="loc-c" data-loc="en-US"><button class="v nm" type="button" data-len="14"><span class="s">5 sound checks</span><span class="n">14</span></button></div>
+  <div class="loc-c" data-loc="en-US"><button class="v ds" type="button" data-len="97"><span class="s">5 more checks for the car you choose. They have no expiry date, and one check is used per report.</span><span class="n">97</span></button></div>
+  <div class="loc" data-loc="ru-RU"><code>ru-RU</code><span>Russian</span></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v nm" type="button" data-len="16"><span class="s">5 проверок звука</span><span class="n">16</span></button></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v ds" type="button" data-len="89"><span class="s">Ещё 5 проверок для выбранной машины. Срока действия у них нет, на один отчёт уходит одна.</span><span class="n">89</span></button></div>
+  <div class="loc" data-loc="de-DE"><code>de-DE</code><span>German (Germany)</span></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v nm" type="button" data-len="14"><span class="s">5 Tonprüfungen</span><span class="n">14</span></button></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v ds" type="button" data-len="104"><span class="s">5 weitere Prüfungen für das gewählte Auto. Sie haben kein Ablaufdatum, pro Bericht wird eine verbraucht.</span><span class="n">104</span></button></div>
+  <div class="loc" data-loc="es-ES"><code>es-ES</code><span>Spanish (Spain)</span></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v nm" type="button" data-len="20"><span class="s">5 análisis de sonido</span><span class="n">20</span></button></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v ds" type="button" data-len="79"><span class="s">5 análisis más para el coche que elijas. No caducan y se gasta uno por informe.</span><span class="n">79</span></button></div>
+  <div class="loc" data-loc="fr-FR"><code>fr-FR</code><span>French (France)</span></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v nm" type="button" data-len="18"><span class="s">5 analyses sonores</span><span class="n">18</span></button></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v ds" type="button" data-len="114"><span class="s">5 analyses de plus pour la voiture de votre choix. Elles n&#x27;ont pas de date limite et une est utilisée par rapport.</span><span class="n">114</span></button></div>
+  <div class="loc" data-loc="it-IT"><code>it-IT</code><span>Italian</span></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v nm" type="button" data-len="19"><span class="s">5 analisi del suono</span><span class="n">19</span></button></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v ds" type="button" data-len="91"><span class="s">5 analisi in più per l&#x27;auto che scegli. Non hanno scadenza e se ne usa una per ogni report.</span><span class="n">91</span></button></div>
+  <div class="loc" data-loc="pt-BR"><code>pt-BR</code><span>Portuguese (Brazil)</span></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v nm" type="button" data-len="17"><span class="s">5 análises de som</span><span class="n">17</span></button></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v ds" type="button" data-len="104"><span class="s">5 análises a mais para o carro que você escolher. Não têm prazo de validade e uma é usada por relatório.</span><span class="n">104</span></button></div>
+  <div class="loc" data-loc="pl-PL"><code>pl-PL</code><span>Polish</span></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v nm" type="button" data-len="16"><span class="s">5 analiz dźwięku</span><span class="n">16</span></button></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v ds" type="button" data-len="99"><span class="s">Jeszcze 5 analiz dla wybranego auta. Nie mają terminu ważności, a na jeden raport zużywa się jedną.</span><span class="n">99</span></button></div>
+  <div class="loc" data-loc="tr-TR"><code>tr-TR</code><span>Turkish</span></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v nm" type="button" data-len="13"><span class="s">5 ses analizi</span><span class="n">13</span></button></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v ds" type="button" data-len="101"><span class="s">Seçtiğiniz araç için 5 analiz daha. Son kullanma tarihi yoktur, her rapor için bir tanesi kullanılır.</span><span class="n">101</span></button></div>
+  <div class="loc" data-loc="nl-NL"><code>nl-NL</code><span>Dutch (Netherlands)</span></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v nm" type="button" data-len="15"><span class="s">5 geluidschecks</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v ds" type="button" data-len="92"><span class="s">5 checks extra voor de auto die je kiest. Ze verlopen niet en er gaat er één per rapport af.</span><span class="n">92</span></button></div>
+  <div class="loc" data-loc="zh-CN"><code>zh-CN</code><span>Chinese (Simplified)</span></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v nm" type="button" data-len="7"><span class="s">5 次声音检测</span><span class="n">7</span></button></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v ds" type="button" data-len="33"><span class="s">为所选车辆增加 5 次检测。检测没有有效期限制，每份报告消耗一次。</span><span class="n">33</span></button></div>
+  <div class="loc" data-loc="ja-JP"><code>ja-JP</code><span>Japanese</span></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v nm" type="button" data-len="6"><span class="s">音の診断5回</span><span class="n">6</span></button></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v ds" type="button" data-len="41"><span class="s">選んだ車に診断5回を追加します。有効期限はなく、レポート1件につき1回消費します。</span><span class="n">41</span></button></div>
+  <div class="loc" data-loc="ko-KR"><code>ko-KR</code><span>Korean</span></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v nm" type="button" data-len="8"><span class="s">소리 검사 5회</span><span class="n">8</span></button></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v ds" type="button" data-len="49"><span class="s">선택한 차량에 검사 5회를 추가합니다. 유효기간이 없으며 보고서 1건당 1회 사용됩니다.</span><span class="n">49</span></button></div>
+  <div class="loc" data-loc="ar"><code>ar</code><span>Arabic</span></div>
+  <div class="loc-c" data-loc="ar"><button class="v nm" type="button" data-len="12"><span class="s" dir="rtl">5 فحوص صوتية</span><span class="n">12</span></button></div>
+  <div class="loc-c" data-loc="ar"><button class="v ds" type="button" data-len="90"><span class="s" dir="rtl">5 فحوص إضافية للسيارة التي تختارها. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير.</span><span class="n">90</span></button></div>
+</div></section>
+<section class="prod" id="checks_10">
+<div class="ph">
+  <code class="pid">checks_10_2</code>
+  <div class="pt"><b>10 проверок звука</b><span>10 проверок на выбранную машину</span></div>
+</div>
+<div class="grid">
+  <div class="hd">Язык</div><div class="hd">Название <i>≤55</i></div><div class="hd">Описание <i>≤200</i></div>
+  <div class="loc" data-loc="en-US"><code>en-US</code><span>English (United States)</span></div>
+  <div class="loc-c" data-loc="en-US"><button class="v nm" type="button" data-len="15"><span class="s">10 sound checks</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="en-US"><button class="v ds" type="button" data-len="98"><span class="s">10 more checks for the car you choose. They have no expiry date, and one check is used per report.</span><span class="n">98</span></button></div>
+  <div class="loc" data-loc="ru-RU"><code>ru-RU</code><span>Russian</span></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v nm" type="button" data-len="17"><span class="s">10 проверок звука</span><span class="n">17</span></button></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v ds" type="button" data-len="90"><span class="s">Ещё 10 проверок для выбранной машины. Срока действия у них нет, на один отчёт уходит одна.</span><span class="n">90</span></button></div>
+  <div class="loc" data-loc="de-DE"><code>de-DE</code><span>German (Germany)</span></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v nm" type="button" data-len="15"><span class="s">10 Tonprüfungen</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v ds" type="button" data-len="105"><span class="s">10 weitere Prüfungen für das gewählte Auto. Sie haben kein Ablaufdatum, pro Bericht wird eine verbraucht.</span><span class="n">105</span></button></div>
+  <div class="loc" data-loc="es-ES"><code>es-ES</code><span>Spanish (Spain)</span></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v nm" type="button" data-len="21"><span class="s">10 análisis de sonido</span><span class="n">21</span></button></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v ds" type="button" data-len="80"><span class="s">10 análisis más para el coche que elijas. No caducan y se gasta uno por informe.</span><span class="n">80</span></button></div>
+  <div class="loc" data-loc="fr-FR"><code>fr-FR</code><span>French (France)</span></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v nm" type="button" data-len="19"><span class="s">10 analyses sonores</span><span class="n">19</span></button></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v ds" type="button" data-len="115"><span class="s">10 analyses de plus pour la voiture de votre choix. Elles n&#x27;ont pas de date limite et une est utilisée par rapport.</span><span class="n">115</span></button></div>
+  <div class="loc" data-loc="it-IT"><code>it-IT</code><span>Italian</span></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v nm" type="button" data-len="20"><span class="s">10 analisi del suono</span><span class="n">20</span></button></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v ds" type="button" data-len="92"><span class="s">10 analisi in più per l&#x27;auto che scegli. Non hanno scadenza e se ne usa una per ogni report.</span><span class="n">92</span></button></div>
+  <div class="loc" data-loc="pt-BR"><code>pt-BR</code><span>Portuguese (Brazil)</span></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v nm" type="button" data-len="18"><span class="s">10 análises de som</span><span class="n">18</span></button></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v ds" type="button" data-len="105"><span class="s">10 análises a mais para o carro que você escolher. Não têm prazo de validade e uma é usada por relatório.</span><span class="n">105</span></button></div>
+  <div class="loc" data-loc="pl-PL"><code>pl-PL</code><span>Polish</span></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v nm" type="button" data-len="17"><span class="s">10 analiz dźwięku</span><span class="n">17</span></button></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v ds" type="button" data-len="100"><span class="s">Jeszcze 10 analiz dla wybranego auta. Nie mają terminu ważności, a na jeden raport zużywa się jedną.</span><span class="n">100</span></button></div>
+  <div class="loc" data-loc="tr-TR"><code>tr-TR</code><span>Turkish</span></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v nm" type="button" data-len="14"><span class="s">10 ses analizi</span><span class="n">14</span></button></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v ds" type="button" data-len="102"><span class="s">Seçtiğiniz araç için 10 analiz daha. Son kullanma tarihi yoktur, her rapor için bir tanesi kullanılır.</span><span class="n">102</span></button></div>
+  <div class="loc" data-loc="nl-NL"><code>nl-NL</code><span>Dutch (Netherlands)</span></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v nm" type="button" data-len="16"><span class="s">10 geluidschecks</span><span class="n">16</span></button></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v ds" type="button" data-len="93"><span class="s">10 checks extra voor de auto die je kiest. Ze verlopen niet en er gaat er één per rapport af.</span><span class="n">93</span></button></div>
+  <div class="loc" data-loc="zh-CN"><code>zh-CN</code><span>Chinese (Simplified)</span></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v nm" type="button" data-len="8"><span class="s">10 次声音检测</span><span class="n">8</span></button></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v ds" type="button" data-len="34"><span class="s">为所选车辆增加 10 次检测。检测没有有效期限制，每份报告消耗一次。</span><span class="n">34</span></button></div>
+  <div class="loc" data-loc="ja-JP"><code>ja-JP</code><span>Japanese</span></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v nm" type="button" data-len="7"><span class="s">音の診断10回</span><span class="n">7</span></button></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v ds" type="button" data-len="42"><span class="s">選んだ車に診断10回を追加します。有効期限はなく、レポート1件につき1回消費します。</span><span class="n">42</span></button></div>
+  <div class="loc" data-loc="ko-KR"><code>ko-KR</code><span>Korean</span></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v nm" type="button" data-len="9"><span class="s">소리 검사 10회</span><span class="n">9</span></button></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v ds" type="button" data-len="50"><span class="s">선택한 차량에 검사 10회를 추가합니다. 유효기간이 없으며 보고서 1건당 1회 사용됩니다.</span><span class="n">50</span></button></div>
+  <div class="loc" data-loc="ar"><code>ar</code><span>Arabic</span></div>
+  <div class="loc-c" data-loc="ar"><button class="v nm" type="button" data-len="13"><span class="s" dir="rtl">10 فحوص صوتية</span><span class="n">13</span></button></div>
+  <div class="loc-c" data-loc="ar"><button class="v ds" type="button" data-len="91"><span class="s" dir="rtl">10 فحوص إضافية للسيارة التي تختارها. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير.</span><span class="n">91</span></button></div>
+</div></section>
+<section class="prod" id="checks_20">
+<div class="ph">
+  <code class="pid">checks_20</code>
+  <div class="pt"><b>20 проверок звука</b><span>20 проверок на выбранную машину</span></div>
+</div>
+<div class="grid">
+  <div class="hd">Язык</div><div class="hd">Название <i>≤55</i></div><div class="hd">Описание <i>≤200</i></div>
+  <div class="loc" data-loc="en-US"><code>en-US</code><span>English (United States)</span></div>
+  <div class="loc-c" data-loc="en-US"><button class="v nm" type="button" data-len="15"><span class="s">20 sound checks</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="en-US"><button class="v ds" type="button" data-len="98"><span class="s">20 more checks for the car you choose. They have no expiry date, and one check is used per report.</span><span class="n">98</span></button></div>
+  <div class="loc" data-loc="ru-RU"><code>ru-RU</code><span>Russian</span></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v nm" type="button" data-len="17"><span class="s">20 проверок звука</span><span class="n">17</span></button></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v ds" type="button" data-len="90"><span class="s">Ещё 20 проверок для выбранной машины. Срока действия у них нет, на один отчёт уходит одна.</span><span class="n">90</span></button></div>
+  <div class="loc" data-loc="de-DE"><code>de-DE</code><span>German (Germany)</span></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v nm" type="button" data-len="15"><span class="s">20 Tonprüfungen</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v ds" type="button" data-len="105"><span class="s">20 weitere Prüfungen für das gewählte Auto. Sie haben kein Ablaufdatum, pro Bericht wird eine verbraucht.</span><span class="n">105</span></button></div>
+  <div class="loc" data-loc="es-ES"><code>es-ES</code><span>Spanish (Spain)</span></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v nm" type="button" data-len="21"><span class="s">20 análisis de sonido</span><span class="n">21</span></button></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v ds" type="button" data-len="80"><span class="s">20 análisis más para el coche que elijas. No caducan y se gasta uno por informe.</span><span class="n">80</span></button></div>
+  <div class="loc" data-loc="fr-FR"><code>fr-FR</code><span>French (France)</span></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v nm" type="button" data-len="19"><span class="s">20 analyses sonores</span><span class="n">19</span></button></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v ds" type="button" data-len="115"><span class="s">20 analyses de plus pour la voiture de votre choix. Elles n&#x27;ont pas de date limite et une est utilisée par rapport.</span><span class="n">115</span></button></div>
+  <div class="loc" data-loc="it-IT"><code>it-IT</code><span>Italian</span></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v nm" type="button" data-len="20"><span class="s">20 analisi del suono</span><span class="n">20</span></button></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v ds" type="button" data-len="92"><span class="s">20 analisi in più per l&#x27;auto che scegli. Non hanno scadenza e se ne usa una per ogni report.</span><span class="n">92</span></button></div>
+  <div class="loc" data-loc="pt-BR"><code>pt-BR</code><span>Portuguese (Brazil)</span></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v nm" type="button" data-len="18"><span class="s">20 análises de som</span><span class="n">18</span></button></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v ds" type="button" data-len="105"><span class="s">20 análises a mais para o carro que você escolher. Não têm prazo de validade e uma é usada por relatório.</span><span class="n">105</span></button></div>
+  <div class="loc" data-loc="pl-PL"><code>pl-PL</code><span>Polish</span></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v nm" type="button" data-len="17"><span class="s">20 analiz dźwięku</span><span class="n">17</span></button></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v ds" type="button" data-len="100"><span class="s">Jeszcze 20 analiz dla wybranego auta. Nie mają terminu ważności, a na jeden raport zużywa się jedną.</span><span class="n">100</span></button></div>
+  <div class="loc" data-loc="tr-TR"><code>tr-TR</code><span>Turkish</span></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v nm" type="button" data-len="14"><span class="s">20 ses analizi</span><span class="n">14</span></button></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v ds" type="button" data-len="102"><span class="s">Seçtiğiniz araç için 20 analiz daha. Son kullanma tarihi yoktur, her rapor için bir tanesi kullanılır.</span><span class="n">102</span></button></div>
+  <div class="loc" data-loc="nl-NL"><code>nl-NL</code><span>Dutch (Netherlands)</span></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v nm" type="button" data-len="16"><span class="s">20 geluidschecks</span><span class="n">16</span></button></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v ds" type="button" data-len="93"><span class="s">20 checks extra voor de auto die je kiest. Ze verlopen niet en er gaat er één per rapport af.</span><span class="n">93</span></button></div>
+  <div class="loc" data-loc="zh-CN"><code>zh-CN</code><span>Chinese (Simplified)</span></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v nm" type="button" data-len="8"><span class="s">20 次声音检测</span><span class="n">8</span></button></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v ds" type="button" data-len="34"><span class="s">为所选车辆增加 20 次检测。检测没有有效期限制，每份报告消耗一次。</span><span class="n">34</span></button></div>
+  <div class="loc" data-loc="ja-JP"><code>ja-JP</code><span>Japanese</span></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v nm" type="button" data-len="7"><span class="s">音の診断20回</span><span class="n">7</span></button></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v ds" type="button" data-len="42"><span class="s">選んだ車に診断20回を追加します。有効期限はなく、レポート1件につき1回消費します。</span><span class="n">42</span></button></div>
+  <div class="loc" data-loc="ko-KR"><code>ko-KR</code><span>Korean</span></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v nm" type="button" data-len="9"><span class="s">소리 검사 20회</span><span class="n">9</span></button></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v ds" type="button" data-len="50"><span class="s">선택한 차량에 검사 20회를 추가합니다. 유효기간이 없으며 보고서 1건당 1회 사용됩니다.</span><span class="n">50</span></button></div>
+  <div class="loc" data-loc="ar"><code>ar</code><span>Arabic</span></div>
+  <div class="loc-c" data-loc="ar"><button class="v nm" type="button" data-len="15"><span class="s" dir="rtl">20 فحصًا صوتيًا</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="ar"><button class="v ds" type="button" data-len="93"><span class="s" dir="rtl">20 فحصًا إضافيًا للسيارة التي تختارها. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير.</span><span class="n">93</span></button></div>
+</div></section>
+<section class="prod" id="checks_40">
+<div class="ph">
+  <code class="pid">checks_40</code>
+  <div class="pt"><b>40 проверок звука</b><span>40 проверок на выбранную машину</span></div>
+</div>
+<div class="grid">
+  <div class="hd">Язык</div><div class="hd">Название <i>≤55</i></div><div class="hd">Описание <i>≤200</i></div>
+  <div class="loc" data-loc="en-US"><code>en-US</code><span>English (United States)</span></div>
+  <div class="loc-c" data-loc="en-US"><button class="v nm" type="button" data-len="15"><span class="s">40 sound checks</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="en-US"><button class="v ds" type="button" data-len="98"><span class="s">40 more checks for the car you choose. They have no expiry date, and one check is used per report.</span><span class="n">98</span></button></div>
+  <div class="loc" data-loc="ru-RU"><code>ru-RU</code><span>Russian</span></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v nm" type="button" data-len="17"><span class="s">40 проверок звука</span><span class="n">17</span></button></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v ds" type="button" data-len="90"><span class="s">Ещё 40 проверок для выбранной машины. Срока действия у них нет, на один отчёт уходит одна.</span><span class="n">90</span></button></div>
+  <div class="loc" data-loc="de-DE"><code>de-DE</code><span>German (Germany)</span></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v nm" type="button" data-len="15"><span class="s">40 Tonprüfungen</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v ds" type="button" data-len="105"><span class="s">40 weitere Prüfungen für das gewählte Auto. Sie haben kein Ablaufdatum, pro Bericht wird eine verbraucht.</span><span class="n">105</span></button></div>
+  <div class="loc" data-loc="es-ES"><code>es-ES</code><span>Spanish (Spain)</span></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v nm" type="button" data-len="21"><span class="s">40 análisis de sonido</span><span class="n">21</span></button></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v ds" type="button" data-len="80"><span class="s">40 análisis más para el coche que elijas. No caducan y se gasta uno por informe.</span><span class="n">80</span></button></div>
+  <div class="loc" data-loc="fr-FR"><code>fr-FR</code><span>French (France)</span></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v nm" type="button" data-len="19"><span class="s">40 analyses sonores</span><span class="n">19</span></button></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v ds" type="button" data-len="115"><span class="s">40 analyses de plus pour la voiture de votre choix. Elles n&#x27;ont pas de date limite et une est utilisée par rapport.</span><span class="n">115</span></button></div>
+  <div class="loc" data-loc="it-IT"><code>it-IT</code><span>Italian</span></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v nm" type="button" data-len="20"><span class="s">40 analisi del suono</span><span class="n">20</span></button></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v ds" type="button" data-len="92"><span class="s">40 analisi in più per l&#x27;auto che scegli. Non hanno scadenza e se ne usa una per ogni report.</span><span class="n">92</span></button></div>
+  <div class="loc" data-loc="pt-BR"><code>pt-BR</code><span>Portuguese (Brazil)</span></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v nm" type="button" data-len="18"><span class="s">40 análises de som</span><span class="n">18</span></button></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v ds" type="button" data-len="105"><span class="s">40 análises a mais para o carro que você escolher. Não têm prazo de validade e uma é usada por relatório.</span><span class="n">105</span></button></div>
+  <div class="loc" data-loc="pl-PL"><code>pl-PL</code><span>Polish</span></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v nm" type="button" data-len="17"><span class="s">40 analiz dźwięku</span><span class="n">17</span></button></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v ds" type="button" data-len="100"><span class="s">Jeszcze 40 analiz dla wybranego auta. Nie mają terminu ważności, a na jeden raport zużywa się jedną.</span><span class="n">100</span></button></div>
+  <div class="loc" data-loc="tr-TR"><code>tr-TR</code><span>Turkish</span></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v nm" type="button" data-len="14"><span class="s">40 ses analizi</span><span class="n">14</span></button></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v ds" type="button" data-len="102"><span class="s">Seçtiğiniz araç için 40 analiz daha. Son kullanma tarihi yoktur, her rapor için bir tanesi kullanılır.</span><span class="n">102</span></button></div>
+  <div class="loc" data-loc="nl-NL"><code>nl-NL</code><span>Dutch (Netherlands)</span></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v nm" type="button" data-len="16"><span class="s">40 geluidschecks</span><span class="n">16</span></button></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v ds" type="button" data-len="93"><span class="s">40 checks extra voor de auto die je kiest. Ze verlopen niet en er gaat er één per rapport af.</span><span class="n">93</span></button></div>
+  <div class="loc" data-loc="zh-CN"><code>zh-CN</code><span>Chinese (Simplified)</span></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v nm" type="button" data-len="8"><span class="s">40 次声音检测</span><span class="n">8</span></button></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v ds" type="button" data-len="34"><span class="s">为所选车辆增加 40 次检测。检测没有有效期限制，每份报告消耗一次。</span><span class="n">34</span></button></div>
+  <div class="loc" data-loc="ja-JP"><code>ja-JP</code><span>Japanese</span></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v nm" type="button" data-len="7"><span class="s">音の診断40回</span><span class="n">7</span></button></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v ds" type="button" data-len="42"><span class="s">選んだ車に診断40回を追加します。有効期限はなく、レポート1件につき1回消費します。</span><span class="n">42</span></button></div>
+  <div class="loc" data-loc="ko-KR"><code>ko-KR</code><span>Korean</span></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v nm" type="button" data-len="9"><span class="s">소리 검사 40회</span><span class="n">9</span></button></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v ds" type="button" data-len="50"><span class="s">선택한 차량에 검사 40회를 추가합니다. 유효기간이 없으며 보고서 1건당 1회 사용됩니다.</span><span class="n">50</span></button></div>
+  <div class="loc" data-loc="ar"><code>ar</code><span>Arabic</span></div>
+  <div class="loc-c" data-loc="ar"><button class="v nm" type="button" data-len="15"><span class="s" dir="rtl">40 فحصًا صوتيًا</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="ar"><button class="v ds" type="button" data-len="93"><span class="s" dir="rtl">40 فحصًا إضافيًا للسيارة التي تختارها. الفحوص لا تنتهي صلاحيتها، ويُستهلك فحص واحد لكل تقرير.</span><span class="n">93</span></button></div>
+</div></section>
+<section class="prod" id="garage_1">
+<div class="ph">
+  <code class="pid">garage_1</code>
+  <div class="pt"><b>1 место в гараже</b><span>+1 место, на нём 5 проверок</span></div>
+</div>
+<div class="grid">
+  <div class="hd">Язык</div><div class="hd">Название <i>≤55</i></div><div class="hd">Описание <i>≤200</i></div>
+  <div class="loc" data-loc="en-US"><code>en-US</code><span>English (United States)</span></div>
+  <div class="loc-c" data-loc="en-US"><button class="v nm" type="button" data-len="32"><span class="s">1 garage slot and 5 sound checks</span><span class="n">32</span></button></div>
+  <div class="loc-c" data-loc="en-US"><button class="v ds" type="button" data-len="128"><span class="s">Room for one more car in your garage, with 5 checks included. The slot stays on your account and the checks have no expiry date.</span><span class="n">128</span></button></div>
+  <div class="loc" data-loc="ru-RU"><code>ru-RU</code><span>Russian</span></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v nm" type="button" data-len="27"><span class="s">Место в гараже и 5 проверок</span><span class="n">27</span></button></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v ds" type="button" data-len="105"><span class="s">Ещё одна машина в гараже и 5 проверок на неё. Место остаётся за аккаунтом, срока действия у проверок нет.</span><span class="n">105</span></button></div>
+  <div class="loc" data-loc="de-DE"><code>de-DE</code><span>German (Germany)</span></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v nm" type="button" data-len="33"><span class="s">1 Garagenplatz und 5 Tonprüfungen</span><span class="n">33</span></button></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v ds" type="button" data-len="135"><span class="s">Platz für ein weiteres Auto in der Garage, dazu 5 Prüfungen. Der Platz bleibt dem Konto erhalten, die Prüfungen haben kein Ablaufdatum.</span><span class="n">135</span></button></div>
+  <div class="loc" data-loc="es-ES"><code>es-ES</code><span>Spanish (Spain)</span></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v nm" type="button" data-len="30"><span class="s">1 plaza de garaje y 5 análisis</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v ds" type="button" data-len="118"><span class="s">Sitio para un coche más en tu garaje, con 5 análisis incluidos. La plaza queda en tu cuenta y los análisis no caducan.</span><span class="n">118</span></button></div>
+  <div class="loc" data-loc="fr-FR"><code>fr-FR</code><span>French (France)</span></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v nm" type="button" data-len="31"><span class="s">1 place de garage et 5 analyses</span><span class="n">31</span></button></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v ds" type="button" data-len="155"><span class="s">De la place pour une voiture de plus dans votre garage, avec 5 analyses incluses. La place reste sur votre compte et les analyses n&#x27;ont pas de date limite.</span><span class="n">155</span></button></div>
+  <div class="loc" data-loc="it-IT"><code>it-IT</code><span>Italian</span></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v nm" type="button" data-len="29"><span class="s">1 posto in garage e 5 analisi</span><span class="n">29</span></button></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v ds" type="button" data-len="128"><span class="s">Spazio per un&#x27;auto in più nel tuo garage, con 5 analisi incluse. Il posto resta sul tuo account e le analisi non hanno scadenza.</span><span class="n">128</span></button></div>
+  <div class="loc" data-loc="pt-BR"><code>pt-BR</code><span>Portuguese (Brazil)</span></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v nm" type="button" data-len="30"><span class="s">1 vaga na garagem e 5 análises</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v ds" type="button" data-len="133"><span class="s">Espaço para mais um carro na sua garagem, com 5 análises incluídas. A vaga fica na sua conta e as análises não têm prazo de validade.</span><span class="n">133</span></button></div>
+  <div class="loc" data-loc="pl-PL"><code>pl-PL</code><span>Polish</span></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v nm" type="button" data-len="29"><span class="s">1 miejsce w garażu i 5 analiz</span><span class="n">29</span></button></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v ds" type="button" data-len="122"><span class="s">Miejsce na jedno kolejne auto w garażu i 5 analiz dźwięku. Miejsce zostaje na koncie, a analizy nie mają terminu ważności.</span><span class="n">122</span></button></div>
+  <div class="loc" data-loc="tr-TR"><code>tr-TR</code><span>Turkish</span></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v nm" type="button" data-len="29"><span class="s">1 garaj yeri ve 5 ses analizi</span><span class="n">29</span></button></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v ds" type="button" data-len="113"><span class="s">Garajınızda 1 araç daha için yer ve 5 ses analizi. Yer hesabınızda kalır, analizlerin son kullanma tarihi yoktur.</span><span class="n">113</span></button></div>
+  <div class="loc" data-loc="nl-NL"><code>nl-NL</code><span>Dutch (Netherlands)</span></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v nm" type="button" data-len="31"><span class="s">1 garageplek en 5 geluidschecks</span><span class="n">31</span></button></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v ds" type="button" data-len="124"><span class="s">Plek voor nog een auto in je garage, inclusief 5 checks. De plek blijft aan je account gekoppeld en de checks verlopen niet.</span><span class="n">124</span></button></div>
+  <div class="loc" data-loc="zh-CN"><code>zh-CN</code><span>Chinese (Simplified)</span></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v nm" type="button" data-len="14"><span class="s">1 个车位和 5 次声音检测</span><span class="n">14</span></button></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v ds" type="button" data-len="44"><span class="s">车库中可再停放 1 台车，并附带 5 次检测。车位长期保留在账号中，检测没有有效期限制。</span><span class="n">44</span></button></div>
+  <div class="loc" data-loc="ja-JP"><code>ja-JP</code><span>Japanese</span></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v nm" type="button" data-len="14"><span class="s">ガレージ1台分と音の診断5回</span><span class="n">14</span></button></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v ds" type="button" data-len="51"><span class="s">ガレージにもう1台分の枠が増え、診断5回が付きます。枠はアカウントに残り、診断に有効期限はありません。</span><span class="n">51</span></button></div>
+  <div class="loc" data-loc="ko-KR"><code>ko-KR</code><span>Korean</span></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v nm" type="button" data-len="15"><span class="s">차고 1칸과 소리 검사 5회</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v ds" type="button" data-len="65"><span class="s">차고에 차 1대를 더 넣을 수 있고 검사 5회가 함께 제공됩니다. 칸은 계정에 유지되고 검사에는 유효기간이 없습니다.</span><span class="n">65</span></button></div>
+  <div class="loc" data-loc="ar"><code>ar</code><span>Arabic</span></div>
+  <div class="loc-c" data-loc="ar"><button class="v nm" type="button" data-len="28"><span class="s" dir="rtl">مكان في المرآب و5 فحوص صوتية</span><span class="n">28</span></button></div>
+  <div class="loc-c" data-loc="ar"><button class="v ds" type="button" data-len="100"><span class="s" dir="rtl">مكان لسيارة إضافية واحدة في مرآبك، مع 5 فحوص صوتية. المكان يبقى في حسابك، والفحوص لا تنتهي صلاحيتها.</span><span class="n">100</span></button></div>
+</div></section>
+<section class="prod" id="garage_2">
+<div class="ph">
+  <code class="pid">garage_2</code>
+  <div class="pt"><b>2 места в гараже</b><span>+2 места, на каждом 5 проверок</span></div>
+</div>
+<div class="grid">
+  <div class="hd">Язык</div><div class="hd">Название <i>≤55</i></div><div class="hd">Описание <i>≤200</i></div>
+  <div class="loc" data-loc="en-US"><code>en-US</code><span>English (United States)</span></div>
+  <div class="loc-c" data-loc="en-US"><button class="v nm" type="button" data-len="34"><span class="s">2 garage slots and 10 sound checks</span><span class="n">34</span></button></div>
+  <div class="loc-c" data-loc="en-US"><button class="v ds" type="button" data-len="128"><span class="s">Room for 2 more cars in your garage, with 10 checks included. The slots stay on your account and the checks have no expiry date.</span><span class="n">128</span></button></div>
+  <div class="loc" data-loc="ru-RU"><code>ru-RU</code><span>Russian</span></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v nm" type="button" data-len="30"><span class="s">2 места в гараже и 10 проверок</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v ds" type="button" data-len="105"><span class="s">Ещё две машины в гараже и 10 проверок на них. Места остаются за аккаунтом, срока действия у проверок нет.</span><span class="n">105</span></button></div>
+  <div class="loc" data-loc="de-DE"><code>de-DE</code><span>German (Germany)</span></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v nm" type="button" data-len="35"><span class="s">2 Garagenplätze und 10 Tonprüfungen</span><span class="n">35</span></button></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v ds" type="button" data-len="139"><span class="s">Platz für zwei weitere Autos in der Garage, dazu 10 Prüfungen. Die Plätze bleiben dem Konto erhalten, die Prüfungen haben kein Ablaufdatum.</span><span class="n">139</span></button></div>
+  <div class="loc" data-loc="es-ES"><code>es-ES</code><span>Spanish (Spain)</span></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v nm" type="button" data-len="32"><span class="s">2 plazas de garaje y 10 análisis</span><span class="n">32</span></button></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v ds" type="button" data-len="124"><span class="s">Sitio para dos coches más en tu garaje, con 10 análisis incluidos. Las plazas quedan en tu cuenta y los análisis no caducan.</span><span class="n">124</span></button></div>
+  <div class="loc" data-loc="fr-FR"><code>fr-FR</code><span>French (France)</span></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v nm" type="button" data-len="33"><span class="s">2 places de garage et 10 analyses</span><span class="n">33</span></button></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v ds" type="button" data-len="162"><span class="s">De la place pour deux voitures de plus dans votre garage, avec 10 analyses incluses. Les places restent sur votre compte et les analyses n&#x27;ont pas de date limite.</span><span class="n">162</span></button></div>
+  <div class="loc" data-loc="it-IT"><code>it-IT</code><span>Italian</span></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v nm" type="button" data-len="30"><span class="s">2 posti in garage e 10 analisi</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v ds" type="button" data-len="131"><span class="s">Spazio per due auto in più nel tuo garage, con 10 analisi incluse. I posti restano sul tuo account e le analisi non hanno scadenza.</span><span class="n">131</span></button></div>
+  <div class="loc" data-loc="pt-BR"><code>pt-BR</code><span>Portuguese (Brazil)</span></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v nm" type="button" data-len="32"><span class="s">2 vagas na garagem e 10 análises</span><span class="n">32</span></button></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v ds" type="button" data-len="140"><span class="s">Espaço para mais dois carros na sua garagem, com 10 análises incluídas. As vagas ficam na sua conta e as análises não têm prazo de validade.</span><span class="n">140</span></button></div>
+  <div class="loc" data-loc="pl-PL"><code>pl-PL</code><span>Polish</span></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v nm" type="button" data-len="30"><span class="s">2 miejsca w garażu i 10 analiz</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v ds" type="button" data-len="121"><span class="s">Miejsce na dwa kolejne auta w garażu i 10 analiz dźwięku. Miejsca zostają na koncie, a analizy nie mają terminu ważności.</span><span class="n">121</span></button></div>
+  <div class="loc" data-loc="tr-TR"><code>tr-TR</code><span>Turkish</span></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v nm" type="button" data-len="30"><span class="s">2 garaj yeri ve 10 ses analizi</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v ds" type="button" data-len="117"><span class="s">Garajınızda 2 araç daha için yer ve 10 ses analizi. Yerler hesabınızda kalır, analizlerin son kullanma tarihi yoktur.</span><span class="n">117</span></button></div>
+  <div class="loc" data-loc="nl-NL"><code>nl-NL</code><span>Dutch (Netherlands)</span></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v nm" type="button" data-len="35"><span class="s">2 garageplekken en 10 geluidschecks</span><span class="n">35</span></button></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v ds" type="button" data-len="134"><span class="s">Plek voor twee auto’s extra in je garage, inclusief 10 checks. De plekken blijven aan je account gekoppeld en de checks verlopen niet.</span><span class="n">134</span></button></div>
+  <div class="loc" data-loc="zh-CN"><code>zh-CN</code><span>Chinese (Simplified)</span></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v nm" type="button" data-len="15"><span class="s">2 个车位和 10 次声音检测</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v ds" type="button" data-len="45"><span class="s">车库中可再停放 2 台车，并附带 10 次检测。车位长期保留在账号中，检测没有有效期限制。</span><span class="n">45</span></button></div>
+  <div class="loc" data-loc="ja-JP"><code>ja-JP</code><span>Japanese</span></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v nm" type="button" data-len="15"><span class="s">ガレージ2台分と音の診断10回</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v ds" type="button" data-len="52"><span class="s">ガレージにもう2台分の枠が増え、診断10回が付きます。枠はアカウントに残り、診断に有効期限はありません。</span><span class="n">52</span></button></div>
+  <div class="loc" data-loc="ko-KR"><code>ko-KR</code><span>Korean</span></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v nm" type="button" data-len="16"><span class="s">차고 2칸과 소리 검사 10회</span><span class="n">16</span></button></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v ds" type="button" data-len="66"><span class="s">차고에 차 2대를 더 넣을 수 있고 검사 10회가 함께 제공됩니다. 칸은 계정에 유지되고 검사에는 유효기간이 없습니다.</span><span class="n">66</span></button></div>
+  <div class="loc" data-loc="ar"><code>ar</code><span>Arabic</span></div>
+  <div class="loc-c" data-loc="ar"><button class="v nm" type="button" data-len="31"><span class="s" dir="rtl">مكانان في المرآب و10 فحوص صوتية</span><span class="n">31</span></button></div>
+  <div class="loc-c" data-loc="ar"><button class="v ds" type="button" data-len="100"><span class="s" dir="rtl">مكان لسيارتين إضافيتين في مرآبك، مع 10 فحوص صوتية. الأماكن تبقى في حسابك، والفحوص لا تنتهي صلاحيتها.</span><span class="n">100</span></button></div>
+</div></section>
+<section class="prod" id="garage_4">
+<div class="ph">
+  <code class="pid">garage_4</code>
+  <div class="pt"><b>4 места в гараже</b><span>+4 места, на каждом 5 проверок</span></div>
+</div>
+<div class="grid">
+  <div class="hd">Язык</div><div class="hd">Название <i>≤55</i></div><div class="hd">Описание <i>≤200</i></div>
+  <div class="loc" data-loc="en-US"><code>en-US</code><span>English (United States)</span></div>
+  <div class="loc-c" data-loc="en-US"><button class="v nm" type="button" data-len="34"><span class="s">4 garage slots and 20 sound checks</span><span class="n">34</span></button></div>
+  <div class="loc-c" data-loc="en-US"><button class="v ds" type="button" data-len="128"><span class="s">Room for 4 more cars in your garage, with 20 checks included. The slots stay on your account and the checks have no expiry date.</span><span class="n">128</span></button></div>
+  <div class="loc" data-loc="ru-RU"><code>ru-RU</code><span>Russian</span></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v nm" type="button" data-len="30"><span class="s">4 места в гараже и 20 проверок</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v ds" type="button" data-len="108"><span class="s">Ещё четыре машины в гараже и 20 проверок на них. Места остаются за аккаунтом, срока действия у проверок нет.</span><span class="n">108</span></button></div>
+  <div class="loc" data-loc="de-DE"><code>de-DE</code><span>German (Germany)</span></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v nm" type="button" data-len="35"><span class="s">4 Garagenplätze und 20 Tonprüfungen</span><span class="n">35</span></button></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v ds" type="button" data-len="139"><span class="s">Platz für vier weitere Autos in der Garage, dazu 20 Prüfungen. Die Plätze bleiben dem Konto erhalten, die Prüfungen haben kein Ablaufdatum.</span><span class="n">139</span></button></div>
+  <div class="loc" data-loc="es-ES"><code>es-ES</code><span>Spanish (Spain)</span></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v nm" type="button" data-len="32"><span class="s">4 plazas de garaje y 20 análisis</span><span class="n">32</span></button></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v ds" type="button" data-len="127"><span class="s">Sitio para cuatro coches más en tu garaje, con 20 análisis incluidos. Las plazas quedan en tu cuenta y los análisis no caducan.</span><span class="n">127</span></button></div>
+  <div class="loc" data-loc="fr-FR"><code>fr-FR</code><span>French (France)</span></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v nm" type="button" data-len="33"><span class="s">4 places de garage et 20 analyses</span><span class="n">33</span></button></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v ds" type="button" data-len="164"><span class="s">De la place pour quatre voitures de plus dans votre garage, avec 20 analyses incluses. Les places restent sur votre compte et les analyses n&#x27;ont pas de date limite.</span><span class="n">164</span></button></div>
+  <div class="loc" data-loc="it-IT"><code>it-IT</code><span>Italian</span></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v nm" type="button" data-len="30"><span class="s">4 posti in garage e 20 analisi</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v ds" type="button" data-len="135"><span class="s">Spazio per quattro auto in più nel tuo garage, con 20 analisi incluse. I posti restano sul tuo account e le analisi non hanno scadenza.</span><span class="n">135</span></button></div>
+  <div class="loc" data-loc="pt-BR"><code>pt-BR</code><span>Portuguese (Brazil)</span></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v nm" type="button" data-len="32"><span class="s">4 vagas na garagem e 20 análises</span><span class="n">32</span></button></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v ds" type="button" data-len="142"><span class="s">Espaço para mais quatro carros na sua garagem, com 20 análises incluídas. As vagas ficam na sua conta e as análises não têm prazo de validade.</span><span class="n">142</span></button></div>
+  <div class="loc" data-loc="pl-PL"><code>pl-PL</code><span>Polish</span></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v nm" type="button" data-len="30"><span class="s">4 miejsca w garażu i 20 analiz</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v ds" type="button" data-len="124"><span class="s">Miejsce na cztery kolejne auta w garażu i 20 analiz dźwięku. Miejsca zostają na koncie, a analizy nie mają terminu ważności.</span><span class="n">124</span></button></div>
+  <div class="loc" data-loc="tr-TR"><code>tr-TR</code><span>Turkish</span></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v nm" type="button" data-len="30"><span class="s">4 garaj yeri ve 20 ses analizi</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v ds" type="button" data-len="117"><span class="s">Garajınızda 4 araç daha için yer ve 20 ses analizi. Yerler hesabınızda kalır, analizlerin son kullanma tarihi yoktur.</span><span class="n">117</span></button></div>
+  <div class="loc" data-loc="nl-NL"><code>nl-NL</code><span>Dutch (Netherlands)</span></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v nm" type="button" data-len="35"><span class="s">4 garageplekken en 20 geluidschecks</span><span class="n">35</span></button></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v ds" type="button" data-len="134"><span class="s">Plek voor vier auto’s extra in je garage, inclusief 20 checks. De plekken blijven aan je account gekoppeld en de checks verlopen niet.</span><span class="n">134</span></button></div>
+  <div class="loc" data-loc="zh-CN"><code>zh-CN</code><span>Chinese (Simplified)</span></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v nm" type="button" data-len="15"><span class="s">4 个车位和 20 次声音检测</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v ds" type="button" data-len="45"><span class="s">车库中可再停放 4 台车，并附带 20 次检测。车位长期保留在账号中，检测没有有效期限制。</span><span class="n">45</span></button></div>
+  <div class="loc" data-loc="ja-JP"><code>ja-JP</code><span>Japanese</span></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v nm" type="button" data-len="15"><span class="s">ガレージ4台分と音の診断20回</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v ds" type="button" data-len="52"><span class="s">ガレージにもう4台分の枠が増え、診断20回が付きます。枠はアカウントに残り、診断に有効期限はありません。</span><span class="n">52</span></button></div>
+  <div class="loc" data-loc="ko-KR"><code>ko-KR</code><span>Korean</span></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v nm" type="button" data-len="16"><span class="s">차고 4칸과 소리 검사 20회</span><span class="n">16</span></button></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v ds" type="button" data-len="66"><span class="s">차고에 차 4대를 더 넣을 수 있고 검사 20회가 함께 제공됩니다. 칸은 계정에 유지되고 검사에는 유효기간이 없습니다.</span><span class="n">66</span></button></div>
+  <div class="loc" data-loc="ar"><code>ar</code><span>Arabic</span></div>
+  <div class="loc-c" data-loc="ar"><button class="v nm" type="button" data-len="34"><span class="s" dir="rtl">4 أماكن في المرآب و20 فحصًا صوتيًا</span><span class="n">34</span></button></div>
+  <div class="loc-c" data-loc="ar"><button class="v ds" type="button" data-len="104"><span class="s" dir="rtl">مكان لأربع سيارات إضافية في مرآبك، مع 20 فحصًا صوتيًا. الأماكن تبقى في حسابك، والفحوص لا تنتهي صلاحيتها.</span><span class="n">104</span></button></div>
+</div></section>
+<section class="prod" id="garage_8">
+<div class="ph">
+  <code class="pid">garage_8</code>
+  <div class="pt"><b>8 мест в гараже</b><span>+8 мест, на каждом 5 проверок</span></div>
+</div>
+<div class="grid">
+  <div class="hd">Язык</div><div class="hd">Название <i>≤55</i></div><div class="hd">Описание <i>≤200</i></div>
+  <div class="loc" data-loc="en-US"><code>en-US</code><span>English (United States)</span></div>
+  <div class="loc-c" data-loc="en-US"><button class="v nm" type="button" data-len="34"><span class="s">8 garage slots and 40 sound checks</span><span class="n">34</span></button></div>
+  <div class="loc-c" data-loc="en-US"><button class="v ds" type="button" data-len="128"><span class="s">Room for 8 more cars in your garage, with 40 checks included. The slots stay on your account and the checks have no expiry date.</span><span class="n">128</span></button></div>
+  <div class="loc" data-loc="ru-RU"><code>ru-RU</code><span>Russian</span></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v nm" type="button" data-len="29"><span class="s">8 мест в гараже и 40 проверок</span><span class="n">29</span></button></div>
+  <div class="loc-c" data-loc="ru-RU"><button class="v ds" type="button" data-len="107"><span class="s">Ещё восемь машин в гараже и 40 проверок на них. Места остаются за аккаунтом, срока действия у проверок нет.</span><span class="n">107</span></button></div>
+  <div class="loc" data-loc="de-DE"><code>de-DE</code><span>German (Germany)</span></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v nm" type="button" data-len="35"><span class="s">8 Garagenplätze und 40 Tonprüfungen</span><span class="n">35</span></button></div>
+  <div class="loc-c" data-loc="de-DE"><button class="v ds" type="button" data-len="139"><span class="s">Platz für acht weitere Autos in der Garage, dazu 40 Prüfungen. Die Plätze bleiben dem Konto erhalten, die Prüfungen haben kein Ablaufdatum.</span><span class="n">139</span></button></div>
+  <div class="loc" data-loc="es-ES"><code>es-ES</code><span>Spanish (Spain)</span></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v nm" type="button" data-len="32"><span class="s">8 plazas de garaje y 40 análisis</span><span class="n">32</span></button></div>
+  <div class="loc-c" data-loc="es-ES"><button class="v ds" type="button" data-len="125"><span class="s">Sitio para ocho coches más en tu garaje, con 40 análisis incluidos. Las plazas quedan en tu cuenta y los análisis no caducan.</span><span class="n">125</span></button></div>
+  <div class="loc" data-loc="fr-FR"><code>fr-FR</code><span>French (France)</span></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v nm" type="button" data-len="33"><span class="s">8 places de garage et 40 analyses</span><span class="n">33</span></button></div>
+  <div class="loc-c" data-loc="fr-FR"><button class="v ds" type="button" data-len="162"><span class="s">De la place pour huit voitures de plus dans votre garage, avec 40 analyses incluses. Les places restent sur votre compte et les analyses n&#x27;ont pas de date limite.</span><span class="n">162</span></button></div>
+  <div class="loc" data-loc="it-IT"><code>it-IT</code><span>Italian</span></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v nm" type="button" data-len="30"><span class="s">8 posti in garage e 40 analisi</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="it-IT"><button class="v ds" type="button" data-len="132"><span class="s">Spazio per otto auto in più nel tuo garage, con 40 analisi incluse. I posti restano sul tuo account e le analisi non hanno scadenza.</span><span class="n">132</span></button></div>
+  <div class="loc" data-loc="pt-BR"><code>pt-BR</code><span>Portuguese (Brazil)</span></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v nm" type="button" data-len="32"><span class="s">8 vagas na garagem e 40 análises</span><span class="n">32</span></button></div>
+  <div class="loc-c" data-loc="pt-BR"><button class="v ds" type="button" data-len="140"><span class="s">Espaço para mais oito carros na sua garagem, com 40 análises incluídas. As vagas ficam na sua conta e as análises não têm prazo de validade.</span><span class="n">140</span></button></div>
+  <div class="loc" data-loc="pl-PL"><code>pl-PL</code><span>Polish</span></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v nm" type="button" data-len="29"><span class="s">8 miejsc w garażu i 40 analiz</span><span class="n">29</span></button></div>
+  <div class="loc-c" data-loc="pl-PL"><button class="v ds" type="button" data-len="124"><span class="s">Miejsce na osiem kolejnych aut w garażu i 40 analiz dźwięku. Miejsca zostają na koncie, a analizy nie mają terminu ważności.</span><span class="n">124</span></button></div>
+  <div class="loc" data-loc="tr-TR"><code>tr-TR</code><span>Turkish</span></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v nm" type="button" data-len="30"><span class="s">8 garaj yeri ve 40 ses analizi</span><span class="n">30</span></button></div>
+  <div class="loc-c" data-loc="tr-TR"><button class="v ds" type="button" data-len="117"><span class="s">Garajınızda 8 araç daha için yer ve 40 ses analizi. Yerler hesabınızda kalır, analizlerin son kullanma tarihi yoktur.</span><span class="n">117</span></button></div>
+  <div class="loc" data-loc="nl-NL"><code>nl-NL</code><span>Dutch (Netherlands)</span></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v nm" type="button" data-len="35"><span class="s">8 garageplekken en 40 geluidschecks</span><span class="n">35</span></button></div>
+  <div class="loc-c" data-loc="nl-NL"><button class="v ds" type="button" data-len="134"><span class="s">Plek voor acht auto’s extra in je garage, inclusief 40 checks. De plekken blijven aan je account gekoppeld en de checks verlopen niet.</span><span class="n">134</span></button></div>
+  <div class="loc" data-loc="zh-CN"><code>zh-CN</code><span>Chinese (Simplified)</span></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v nm" type="button" data-len="15"><span class="s">8 个车位和 40 次声音检测</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="zh-CN"><button class="v ds" type="button" data-len="45"><span class="s">车库中可再停放 8 台车，并附带 40 次检测。车位长期保留在账号中，检测没有有效期限制。</span><span class="n">45</span></button></div>
+  <div class="loc" data-loc="ja-JP"><code>ja-JP</code><span>Japanese</span></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v nm" type="button" data-len="15"><span class="s">ガレージ8台分と音の診断40回</span><span class="n">15</span></button></div>
+  <div class="loc-c" data-loc="ja-JP"><button class="v ds" type="button" data-len="52"><span class="s">ガレージにもう8台分の枠が増え、診断40回が付きます。枠はアカウントに残り、診断に有効期限はありません。</span><span class="n">52</span></button></div>
+  <div class="loc" data-loc="ko-KR"><code>ko-KR</code><span>Korean</span></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v nm" type="button" data-len="16"><span class="s">차고 8칸과 소리 검사 40회</span><span class="n">16</span></button></div>
+  <div class="loc-c" data-loc="ko-KR"><button class="v ds" type="button" data-len="66"><span class="s">차고에 차 8대를 더 넣을 수 있고 검사 40회가 함께 제공됩니다. 칸은 계정에 유지되고 검사에는 유효기간이 없습니다.</span><span class="n">66</span></button></div>
+  <div class="loc" data-loc="ar"><code>ar</code><span>Arabic</span></div>
+  <div class="loc-c" data-loc="ar"><button class="v nm" type="button" data-len="34"><span class="s" dir="rtl">8 أماكن في المرآب و40 فحصًا صوتيًا</span><span class="n">34</span></button></div>
+  <div class="loc-c" data-loc="ar"><button class="v ds" type="button" data-len="105"><span class="s" dir="rtl">مكان لثماني سيارات إضافية في مرآبك، مع 40 فحصًا صوتيًا. الأماكن تبقى في حسابك، والفحوص لا تنتهي صلاحيتها.</span><span class="n">105</span></button></div>
+</div></section>
+
+<div class="note">
+  <b>Где вводить.</b> Монетизация → Товары → Контент для однократных покупок →
+  товар → Управление переводами. Список языков берётся из карточки приложения:
+  если языка нет там, в товарах он не появится.<br>
+  <b>Десятипакет</b> заведён в Play под идентификатором <code>checks_10_2</code> —
+  переименовать товар нельзя, поэтому сервер знает оба имени.
+</div>
+</div>
+
+<div class="sr" role="status" aria-live="polite" id="say"></div>
+<script>
+(function () {
+  var say = document.getElementById('say'), timer = null;
+
+  function copy(text, el) {
+    function ok() {
+      document.querySelectorAll('.v.done').forEach(function (n) { n.classList.remove('done'); });
+      el.classList.add('done');
+      say.textContent = 'Скопировано, ' + text.length + ' знаков';
+      clearTimeout(timer);
+      timer = setTimeout(function () { el.classList.remove('done'); }, 1600);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(ok, function () { fallback(text, ok); });
+    } else { fallback(text, ok); }
+  }
+
+  function fallback(text, ok) {
+    var ta = document.createElement('textarea');
+    ta.value = text;
+    ta.setAttribute('readonly', '');
+    ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0';
+    document.body.appendChild(ta);
+    ta.select();
+    var done = false;
+    try { done = document.execCommand('copy'); } catch (e) { done = false; }
+    document.body.removeChild(ta);
+    if (done) { ok(); } else { say.textContent = 'Скопировать не вышло — выделите текст вручную'; }
+  }
+
+  document.addEventListener('click', function (ev) {
+    var v = ev.target.closest('.v');
+    if (v) { copy(v.querySelector('.s').textContent, v); return; }
+    var c = ev.target.closest('.chip');
+    if (!c) return;
+    document.querySelectorAll('.chip').forEach(function (n) { n.classList.toggle('on', n === c); });
+    var f = c.dataset.f;
+    document.querySelectorAll('[data-loc]').forEach(function (n) {
+      n.classList.toggle('hide', f !== 'all' && n.dataset.loc !== f);
+    });
+  });
+})();
+</script>
