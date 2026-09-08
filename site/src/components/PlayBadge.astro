@@ -1,0 +1,36 @@
+---
+/**
+ * Официальный значок «Доступно в Google Play».
+ *
+ * Значок нельзя перерисовывать и нельзя менять его пропорции — это условие
+ * Google. Поэтому картинки лежат готовыми в public/badges/, скачанные с
+ * play.google.com, по одной на язык: надпись над словами Google Play на
+ * значке переведена, и подставлять к арабской странице английский значок
+ * неправильно. В сами PNG уже заложено обязательное пустое поле по краям,
+ * поэтому дополнительных отступов рисовать не надо.
+ *
+ * Ссылка ведёт на карточку приложения без меток и параметров: их пришлось бы
+ * держать в синхроне с консолью, а пользы на своём же сайте от них нет.
+ */
+import { DEFAULT_LANG, t } from '../i18n';
+
+interface Props {
+  lang?: string;
+  /** Ширина значка в пикселях. Высота считается сама: пропорции 646×250. */
+  width?: number;
+  class?: string;
+}
+
+const { lang = DEFAULT_LANG, width = 200, class: cls = '' } = Astro.props;
+const d = t(lang).download;
+const badge = `/badges/play-${lang}.png`;
+const height = Math.round((width * 250) / 646);
+---
+
+<a
+  href="https://play.google.com/store/apps/details?id=chigirintsevandco.prostuk"
+  class={`inline-block no-underline ${cls}`}
+  rel="noopener"
+>
+  <img src={badge} alt={d.playAlt} width={width} height={height} loading="lazy" />
+</a>

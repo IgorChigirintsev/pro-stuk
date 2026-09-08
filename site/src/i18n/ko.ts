@@ -116,7 +116,7 @@ export const ko: Dict = {
   download: {
     h2: 'Android 앱',
     sub: '설문, 소리 녹음, 확률이 붙은 전체 리포트는 모두 Pro-Stuk 앱 안에 있습니다.',
-    btn: 'Android용 내려받기',
+    btn: 'APK 직접 내려받기',
     meta: '버전 {version} · APK {size} MB · 업데이트 {date}',
     installH: 'APK 설치 방법',
     steps: [
@@ -125,7 +125,8 @@ export const ko: Dict = {
       '휴대전화가 물으면 이 출처의 설치를 허용합니다.',
       '앱을 설치하고 실행합니다.',
     ],
-    playNote: '앱이 Google Play에 올라가면 이 페이지도 갱신됩니다.',
+    playAlt: 'Google Play에서 다운로드',
+    playNote: 'Google Play에서 설치하면 앱이 스스로 업데이트됩니다.',
   },
   how: {
     title: '소리 진단은 어떻게 이루어지나 | Pro-Stuk',

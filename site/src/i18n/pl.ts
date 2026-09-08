@@ -118,7 +118,7 @@ export const pl: Dict = {
   download: {
     h2: 'Aplikacja na Androida',
     sub: 'Ankieta, nagranie dźwięku i pełny raport z prawdopodobieństwami są w aplikacji Pro-Stuk.',
-    btn: 'Pobierz na Androida',
+    btn: 'Pobierz APK bezpośrednio',
     meta: 'Wersja {version} · APK {size} MB · zaktualizowano {date}',
     installH: 'Jak zainstalować APK',
     steps: [
@@ -127,7 +127,8 @@ export const pl: Dict = {
       'Zezwól na instalację z tego źródła, gdy telefon zapyta.',
       'Zainstaluj aplikację i otwórz ją.',
     ],
-    playNote: 'Gdy aplikacja trafi do Google Play, ta strona zostanie zaktualizowana.',
+    playAlt: 'Pobierz z Google Play',
+    playNote: 'Zainstalowana z Google Play aplikacja aktualizuje się sama.',
   },
   how: {
     title: 'Jak działa diagnoza po dźwięku | Pro-Stuk',

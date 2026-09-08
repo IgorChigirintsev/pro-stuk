@@ -86,6 +86,8 @@ export interface Dict {
     meta: string;
     installH: string;
     steps: string[];
+    /** Подпись значка Google Play — повторяет надпись на нём. */
+    playAlt: string;
     playNote: string;
   };
   how: {

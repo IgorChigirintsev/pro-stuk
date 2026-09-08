@@ -120,7 +120,7 @@ export const fr: Dict = {
   download: {
     h2: 'L’application Android',
     sub: 'Le questionnaire, l’enregistrement du bruit et le rapport complet avec les probabilités sont dans l’application Pro-Stuk.',
-    btn: 'Télécharger pour Android',
+    btn: 'Télécharger l’APK directement',
     meta: 'Version {version} · APK {size} Mo · mis à jour le {date}',
     installH: 'Installer l’APK',
     steps: [
@@ -129,7 +129,8 @@ export const fr: Dict = {
       'Autorisez l’installation depuis cette source quand le téléphone le demande.',
       'Installez l’application et ouvrez-la.',
     ],
-    playNote: 'Dès que l’application sera sur Google Play, cette page sera mise à jour.',
+    playAlt: 'Disponible sur Google Play',
+    playNote: 'Installée depuis Google Play, l’application se met à jour toute seule.',
   },
   how: {
     title: 'Comment fonctionne le diagnostic à l’oreille | Pro-Stuk',

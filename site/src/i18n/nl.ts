@@ -120,7 +120,7 @@ export const nl: Dict = {
   download: {
     h2: 'De app voor Android',
     sub: 'De vragenlijst, de geluidsopname en het volledige rapport met kansen zitten in de app Pro-Stuk.',
-    btn: 'Downloaden voor Android',
+    btn: 'De APK rechtstreeks downloaden',
     meta: 'Versie {version} · APK {size} MB · bijgewerkt op {date}',
     installH: 'De APK installeren',
     steps: [
@@ -129,7 +129,8 @@ export const nl: Dict = {
       'Sta installatie vanaf deze bron toe wanneer de telefoon erom vraagt.',
       'Installeer de app en open hem.',
     ],
-    playNote: 'Zodra de app in Google Play staat, wordt deze pagina bijgewerkt.',
+    playAlt: 'Ontdek het op Google Play',
+    playNote: 'Vanuit Google Play geïnstalleerd werkt de app zichzelf bij.',
   },
   how: {
     title: 'Hoe diagnose op het gehoor werkt | Pro-Stuk',

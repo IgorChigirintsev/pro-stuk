@@ -120,7 +120,7 @@ export const de: Dict = {
   download: {
     h2: 'Die App für Android',
     sub: 'Fragebogen, Tonaufnahme und der vollständige Bericht mit Wahrscheinlichkeiten stecken in der Stuk-App.',
-    btn: 'Für Android herunterladen',
+    btn: 'APK direkt herunterladen',
     meta: 'Version {version} · APK {size} MB · aktualisiert {date}',
     installH: 'APK installieren',
     steps: [
@@ -129,7 +129,8 @@ export const de: Dict = {
       'Die Installation aus dieser Quelle erlauben, wenn das Telefon fragt.',
       'Die App installieren und öffnen.',
     ],
-    playNote: 'Sobald die App bei Google Play ist, wird diese Seite aktualisiert.',
+    playAlt: 'Jetzt bei Google Play',
+    playNote: 'Aus Google Play installiert, aktualisiert sich die App von selbst.',
   },
   how: {
     title: 'Wie die Diagnose nach Gehör funktioniert | Pro-Stuk',

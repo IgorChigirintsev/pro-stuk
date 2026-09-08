@@ -119,7 +119,7 @@ export const es: Dict = {
   download: {
     h2: 'La aplicación para Android',
     sub: 'El cuestionario, la grabación del ruido y el informe completo con probabilidades están en la aplicación Pro-Stuk.',
-    btn: 'Descargar para Android',
+    btn: 'Descargar el APK directamente',
     meta: 'Versión {version} · APK {size} MB · actualizado el {date}',
     installH: 'Cómo instalar el APK',
     steps: [
@@ -128,7 +128,8 @@ export const es: Dict = {
       'Permite la instalación desde este origen cuando el teléfono lo pregunte.',
       'Instala la aplicación y ábrela.',
     ],
-    playNote: 'Cuando la aplicación esté en Google Play, esta página se actualizará.',
+    playAlt: 'Disponible en Google Play',
+    playNote: 'Instalada desde Google Play, la aplicación se actualiza sola.',
   },
   how: {
     title: 'Cómo funciona el diagnóstico por sonido | Pro-Stuk',

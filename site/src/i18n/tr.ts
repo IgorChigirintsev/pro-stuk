@@ -118,7 +118,7 @@ export const tr: Dict = {
   download: {
     h2: 'Android uygulaması',
     sub: 'Anket, ses kaydı ve olasılıklarla birlikte tam rapor Pro-Stuk uygulamasında.',
-    btn: 'Android için indir',
+    btn: 'APK’yı doğrudan indir',
     meta: 'Sürüm {version} · APK {size} MB · güncellendi: {date}',
     installH: 'APK nasıl kurulur',
     steps: [
@@ -127,7 +127,8 @@ export const tr: Dict = {
       'Telefon sorduğunda bu kaynaktan kuruluma izin verin.',
       'Uygulamayı kurun ve açın.',
     ],
-    playNote: 'Uygulama Google Play’e girdiğinde bu sayfa güncellenecek.',
+    playAlt: 'Google Play’den alın',
+    playNote: 'Google Play’den kurulan uygulama kendini günceller.',
   },
   how: {
     title: 'Sesle teşhis nasıl çalışır | Pro-Stuk',

@@ -1,6 +1,7 @@
 ---
 /** Блок скачивания APK (§8.1). Версия и размер подтягиваются из version.json. */
 import { DEFAULT_LANG, t } from '../i18n';
+import PlayBadge from './PlayBadge.astro';
 
 interface Props {
   lang?: string;
@@ -13,10 +14,14 @@ const d = t(lang).download;
 <section id="skachat" class="rounded-card border border-line bg-surface p-6 sm:p-8">
   <h2 class="text-xl font-bold">{d.h2}</h2>
   <p class="mt-2 text-ink-soft">{d.sub}</p>
+  <PlayBadge lang={lang} width={200} class="mt-5" />
+  <p class="mt-2 text-s text-ink-soft">{d.playNote}</p>
+
+  {/* APK остаётся для тех, у кого Play нет или не работает. */}
   <a
     href="/app/stuk.apk"
     download
-    class="mt-5 inline-block rounded-btn bg-accent px-7 py-4 font-semibold text-white no-underline hover:opacity-90"
+    class="mt-5 inline-block rounded-btn border border-line px-5 py-3 font-semibold text-ink no-underline hover:opacity-70"
   >
     {d.btn}
   </a>
@@ -27,7 +32,6 @@ const d = t(lang).download;
     <ol class="mt-2 list-decimal space-y-1 ps-5">
       {d.steps.map((s) => <li>{s}</li>)}
     </ol>
-    <p class="mt-2">{d.playNote}</p>
   </details>
 </section>
 
