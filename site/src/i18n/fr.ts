@@ -215,7 +215,7 @@ export const fr: Dict = {
       },
       {
         strong: 'Pas de traqueurs tiers ni de publicité.',
-        text: 'Le site compte des vues anonymes sur son propre serveur : sans cookies, sans identifiants et sans rien transmettre à personne. L’application ne contient aucune analytique.',
+        text: 'Le site compte des vues anonymes sur son propre serveur : sans cookies, sans identifiants et sans rien transmettre à personne. L’application ne contient aucune analytique. Pour ne pas compter deux fois la même visite, le navigateur garde un seul marqueur dans la mémoire de l’onglet ; il disparaît avec l’onglet et n’identifie personne.',
       },
       {
         strong: 'L’historique des rapports',

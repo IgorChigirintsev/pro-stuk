@@ -20,6 +20,13 @@ type dayCounts struct {
 	Total int            `json:"total"`
 	Pages map[string]int `json:"pages"`
 	Bots  int            `json:"bots,omitempty"` // отфильтрованные заходы ботов
+	// Визиты: сколько раз открывали сайт, а не сколько страниц пролистали.
+	// Считает браузер пометкой в памяти вкладки — сервер никого не опознаёт,
+	// поэтому это визиты, а не люди: вечером тот же человек придёт заново.
+	Visits int `json:"visits,omitempty"`
+	// Переходы в Google Play: сколько и с каких страниц нажали значок.
+	Play      int            `json:"play,omitempty"`
+	PlayPages map[string]int `json:"play_pages,omitempty"`
 	// Скачивания приложения: сколько и с каких страниц нажали кнопку.
 	Downloads     int            `json:"downloads,omitempty"`
 	DownloadPages map[string]int `json:"download_pages,omitempty"`
@@ -98,6 +105,28 @@ func (s *Store) HitDownload(page string) {
 	s.dirty = true
 }
 
+// HitVisit фиксирует начало посещения. Страница не запоминается: нужен счёт,
+// а по какой странице вошли, видно из Pages.
+func (s *Store) HitVisit() {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	s.day().Visits++
+	s.dirty = true
+}
+
+// HitPlay фиксирует переход в Google Play и страницу-источник.
+func (s *Store) HitPlay(page string) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	d := s.day()
+	if d.PlayPages == nil {
+		d.PlayPages = map[string]int{}
+	}
+	d.Play++
+	d.PlayPages[page]++
+	s.dirty = true
+}
+
 // HitBot фиксирует отфильтрованный заход бота (без страницы — только счёт).
 // Analysis учитывает один разбор звука и его расход токенов.
 func (s *Store) Analysis(promptTokens, audioTokens, outputTokens int) {
@@ -133,8 +162,11 @@ type PeriodStats struct {
 	Total         int            `json:"total"`
 	Pages         map[string]int `json:"pages"`
 	Bots          int            `json:"bots"`
+	Visits        int            `json:"visits"`
 	Downloads     int            `json:"downloads"`
 	DownloadPages map[string]int `json:"download_pages"`
+	Play          int            `json:"play"`
+	PlayPages     map[string]int `json:"play_pages"`
 	// Разборы звука и их себестоимость в долларах по тарифам Gemini Flash.
 	Analyses int     `json:"analyses"`
 	CostUSD  float64 `json:"cost_usd"`
@@ -162,12 +194,14 @@ func costUSD(promptTok, audioTok, outTok int) float64 {
 }
 
 func (s *Store) rangeStats(from, to time.Time) PeriodStats {
-	out := PeriodStats{Pages: map[string]int{}, DownloadPages: map[string]int{}}
+	out := PeriodStats{Pages: map[string]int{}, DownloadPages: map[string]int{}, PlayPages: map[string]int{}}
 	for d := from; !d.After(to); d = d.AddDate(0, 0, 1) {
 		if dc := s.days[d.Format("2006-01-02")]; dc != nil {
 			out.Total += dc.Total
 			out.Bots += dc.Bots
+			out.Visits += dc.Visits
 			out.Downloads += dc.Downloads
+			out.Play += dc.Play
 			out.Analyses += dc.Analyses
 			out.CostUSD += costUSD(dc.PromptTokens, dc.AudioTokens, dc.OutputTokens)
 			for p, n := range dc.Pages {
@@ -175,6 +209,9 @@ func (s *Store) rangeStats(from, to time.Time) PeriodStats {
 			}
 			for p, n := range dc.DownloadPages {
 				out.DownloadPages[p] += n
+			}
+			for p, n := range dc.PlayPages {
+				out.PlayPages[p] += n
 			}
 		}
 	}

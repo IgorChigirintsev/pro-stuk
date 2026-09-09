@@ -214,7 +214,7 @@ export const es: Dict = {
       },
       {
         strong: 'No hay rastreadores de terceros ni publicidad.',
-        text: 'El sitio cuenta visitas anónimas en su propio servidor: sin cookies, sin identificadores y sin ceder datos a nadie. La aplicación no lleva analítica alguna.',
+        text: 'El sitio cuenta visitas anónimas en su propio servidor: sin cookies, sin identificadores y sin ceder datos a nadie. La aplicación no lleva analítica alguna. Para no contar dos veces la misma visita, el navegador guarda una sola marca en la memoria de la pestaña; desaparece con ella y no identifica a nadie. Para no contar dos veces la misma visita, el navegador guarda una sola marca en la memoria de la pestaña; desaparece con ella y no identifica a nadie.',
       },
       {
         strong: 'El historial de informes',

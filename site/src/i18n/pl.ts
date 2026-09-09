@@ -210,7 +210,7 @@ export const pl: Dict = {
       },
       {
         strong: 'Nie ma zewnętrznych trackerów ani reklam.',
-        text: 'Strona liczy anonimowe odsłony na własnym serwerze — bez ciasteczek, bez identyfikatorów i bez przekazywania danych komukolwiek. W aplikacji nie ma żadnej analityki.',
+        text: 'Strona liczy anonimowe odsłony na własnym serwerze — bez ciasteczek, bez identyfikatorów i bez przekazywania danych komukolwiek. W aplikacji nie ma żadnej analityki. Aby jedna wizyta nie liczyła się dwa razy, przeglądarka trzyma jeden znacznik w pamięci karty; znika on razem z kartą i nikogo nie identyfikuje.',
       },
       {
         strong: 'Historia raportów',

@@ -213,7 +213,7 @@ export const nl: Dict = {
       },
       {
         strong: 'Er zijn geen trackers van derden en geen advertenties.',
-        text: 'De site telt anonieme paginaweergaven op de eigen server — zonder cookies, zonder identificatoren en zonder iets aan derden door te geven. In de app zit helemaal geen analytics.',
+        text: 'De site telt anonieme paginaweergaven op de eigen server — zonder cookies, zonder identificatoren en zonder iets aan derden door te geven. In de app zit helemaal geen analytics. Om te voorkomen dat één bezoek dubbel wordt geteld, houdt de browser één markering in het geheugen van het tabblad; die verdwijnt met het tabblad en identificeert niemand.',
       },
       {
         strong: 'De geschiedenis van uw rapporten',

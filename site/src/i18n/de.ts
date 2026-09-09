@@ -214,7 +214,7 @@ export const de: Dict = {
       },
       {
         strong: 'Fremde Tracker und Werbung gibt es nicht.',
-        text: 'Die Website zählt anonyme Seitenaufrufe auf dem eigenen Server — ohne Cookies, ohne Kennungen, ohne Weitergabe an Dritte. In der App steckt überhaupt keine Analytik.',
+        text: 'Die Website zählt anonyme Seitenaufrufe auf dem eigenen Server — ohne Cookies, ohne Kennungen, ohne Weitergabe an Dritte. In der App steckt überhaupt keine Analytik. Damit ein Besuch nicht doppelt gezählt wird, hält der Browser eine einzige Markierung im Speicher des Tabs; sie verschwindet mit dem Tab und identifiziert niemanden.',
       },
       {
         strong: 'Der Verlauf Ihrer Berichte',

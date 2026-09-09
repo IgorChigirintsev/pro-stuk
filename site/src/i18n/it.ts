@@ -215,7 +215,7 @@ export const it: Dict = {
       },
       {
         strong: 'Non ci sono tracker di terzi né pubblicità.',
-        text: 'Il sito conta visualizzazioni anonime sul proprio server: senza cookie, senza identificatori e senza cedere dati a nessuno. Nell’app non c’è alcuna analitica.',
+        text: 'Il sito conta visualizzazioni anonime sul proprio server: senza cookie, senza identificatori e senza cedere dati a nessuno. Nell’app non c’è alcuna analitica. Perché una visita non venga contata due volte, il browser tiene un solo segno nella memoria della scheda; sparisce con la scheda e non identifica nessuno.',
       },
       {
         strong: 'Lo storico dei referti',

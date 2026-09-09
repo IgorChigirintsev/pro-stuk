@@ -365,16 +365,28 @@ const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
         } else if (!location.pathname.startsWith('/analitika') && !navigator.webdriver) {
           try {
             navigator.sendBeacon(apiUrl + '/api/v1/hit', location.pathname);
+            // Визит — одно открытие сайта, а не каждая пролистанная страница.
+            // Пометка живёт в памяти вкладки и умирает вместе с ней: сервер
+            // никого не опознаёт, поэтому это визиты, а не люди.
+            if (!sessionStorage.getItem('visit')) {
+              sessionStorage.setItem('visit', '1');
+              navigator.sendBeacon(apiUrl + '/api/v1/hit', 'visit:' + location.pathname);
+            }
           } catch {}
         }
 
-        // Клик по кнопке скачивания APK — отдельное событие с источником.
+        // Уход в магазин или на APK — отдельные события с источником.
         if (!token && !navigator.webdriver) {
           document.addEventListener('click', (e) => {
-            const a = e.target instanceof Element ? e.target.closest('a[href*="/app/stuk.apk"]') : null;
-            if (!a) return;
+            if (!(e.target instanceof Element)) return;
+            const kind = e.target.closest('a[href*="/app/stuk.apk"]')
+              ? 'download:'
+              : e.target.closest('a[href*="play.google.com"]')
+                ? 'play:'
+                : '';
+            if (!kind) return;
             try {
-              navigator.sendBeacon(apiUrl + '/api/v1/hit', 'download:' + location.pathname);
+              navigator.sendBeacon(apiUrl + '/api/v1/hit', kind + location.pathname);
             } catch {}
           });
         }

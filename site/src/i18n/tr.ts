@@ -208,7 +208,7 @@ export const tr: Dict = {
       },
       {
         strong: 'Üçüncü taraf izleyici ve reklam yok.',
-        text: 'Site, sayfa görüntülemelerini kendi sunucusunda anonim olarak sayar — çerezsiz, kimliksiz ve kimseye veri aktarmadan. Uygulamada hiç analitik yok.',
+        text: 'Site, sayfa görüntülemelerini kendi sunucusunda anonim olarak sayar — çerezsiz, kimliksiz ve kimseye veri aktarmadan. Uygulamada hiç analitik yok. Bir ziyaretin iki kez sayılmaması için tarayıcı sekmenin belleğinde tek bir işaret tutar; sekmeyle birlikte kaybolur ve kimseyi tanımlamaz. Bir ziyaretin iki kez sayılmaması için tarayıcı sekmenin belleğinde tek bir işaret tutar; sekmeyle birlikte kaybolur ve kimseyi tanımlamaz.',
       },
       {
         strong: 'Rapor geçmişiniz',

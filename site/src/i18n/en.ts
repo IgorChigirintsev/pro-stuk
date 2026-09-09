@@ -210,7 +210,7 @@ export const en: Dict = {
       },
       {
         strong: 'There are no third-party trackers or ads.',
-        text: 'The site counts anonymous page views on its own server — no cookies, no identifiers, nothing passed to anyone else. The app has no analytics at all.',
+        text: 'The site counts anonymous page views on its own server — no cookies, no identifiers, nothing passed to anyone else. The app has no analytics at all. So that one visit is not counted twice, the browser keeps a single marker in the tab’s memory; it disappears with the tab and identifies no one.',
       },
       {
         strong: 'Your report history',

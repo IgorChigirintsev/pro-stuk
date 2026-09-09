@@ -211,7 +211,7 @@ export const pt: Dict = {
       },
       {
         strong: 'Não há rastreadores de terceiros nem anúncios.',
-        text: 'O site conta visualizações anônimas no próprio servidor — sem cookies, sem identificadores e sem repassar dados a ninguém. No aplicativo não existe analytics.',
+        text: 'O site conta visualizações anônimas no próprio servidor — sem cookies, sem identificadores e sem repassar dados a ninguém. No aplicativo não existe analytics. Para que uma visita não seja contada duas vezes, o navegador guarda uma única marca na memória da aba; ela some junto com a aba e não identifica ninguém.',
       },
       {
         strong: 'O histórico de laudos',

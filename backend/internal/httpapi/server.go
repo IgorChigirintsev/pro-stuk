@@ -249,16 +249,28 @@ func (s *Server) handleHit(w http.ResponseWriter, r *http.Request) {
 	}
 	page := strings.TrimSpace(string(body))
 
-	// Событие скачивания приложения: тело вида "download:/страница".
-	if after, ok := strings.CutPrefix(page, "download:"); ok {
-		if strings.HasPrefix(after, "/") && len(after) <= 160 && !strings.Contains(after, "..") {
-			if !isBotUA(r.Header.Get("User-Agent")) {
-				s.stats.HitDownload(after)
-			}
-			w.WriteHeader(http.StatusNoContent)
+	// События с префиксом: "download:/страница" — клик по кнопке APK,
+	// "play:/страница" — переход в Google Play, "visit:" — начало посещения.
+	// Путь визит присылает ради общей проверки, но не записывает: нужен счёт
+	// открытий сайта, а откуда вошли — видно из обычных просмотров.
+	events := map[string]func(string){
+		"download:": s.stats.HitDownload,
+		"play:":     s.stats.HitPlay,
+		"visit:":    func(string) { s.stats.HitVisit() },
+	}
+	for prefix, count := range events {
+		after, ok := strings.CutPrefix(page, prefix)
+		if !ok {
+			continue
+		}
+		if !strings.HasPrefix(after, "/") || len(after) > 160 || strings.Contains(after, "..") {
+			w.WriteHeader(http.StatusBadRequest)
 			return
 		}
-		w.WriteHeader(http.StatusBadRequest)
+		if !isBotUA(r.Header.Get("User-Agent")) {
+			count(after)
+		}
+		w.WriteHeader(http.StatusNoContent)
 		return
 	}
 
