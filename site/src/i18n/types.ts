@@ -80,11 +80,6 @@ export interface Dict {
   download: {
     h2: string;
     sub: string;
-    btn: string;
-    /** Подпись под кнопкой: {version}, {size}, {date}. */
-    meta: string;
-    installH: string;
-    steps: string[];
     /** Подписи значков магазинов — повторяют надписи на них. */
     appStoreAlt: string;
     playAlt: string;

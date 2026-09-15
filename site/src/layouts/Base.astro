@@ -375,17 +375,15 @@ const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
           } catch {}
         }
 
-        // Уход в магазин или на APK — отдельные события с источником.
+        // Уход в магазин — отдельное событие с источником.
         if (!token && !navigator.webdriver) {
           document.addEventListener('click', (e) => {
             if (!(e.target instanceof Element)) return;
-            const kind = e.target.closest('a[href*="/app/stuk.apk"]')
-              ? 'download:'
-              : e.target.closest('a[href*="play.google.com"]')
-                ? 'play:'
-                : e.target.closest('a[href*="apps.apple.com"]')
-                  ? 'appstore:'
-                  : '';
+            const kind = e.target.closest('a[href*="play.google.com"]')
+              ? 'play:'
+              : e.target.closest('a[href*="apps.apple.com"]')
+                ? 'appstore:'
+                : '';
             if (!kind) return;
             try {
               navigator.sendBeacon(apiUrl + '/api/v1/hit', kind + location.pathname);

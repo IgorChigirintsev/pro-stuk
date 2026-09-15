@@ -115,15 +115,6 @@ export const ja: Dict = {
   download: {
     h2: 'iPhone と Android のアプリ',
     sub: '質問、録音、確率つきのフルレポートは、すべて Pro-Stuk アプリの中にあります。',
-    btn: 'APK を直接ダウンロード',
-    meta: 'バージョン {version} · APK {size} MB · 更新 {date}',
-    installH: 'APK の入れ方',
-    steps: [
-      '上のボタンからファイルをダウンロードします。',
-      '通知、または「ダウンロード」から開きます。',
-      'この提供元からのインストールを、端末に聞かれたら許可します。',
-      'インストールして、アプリを開きます。',
-    ],
     appStoreAlt: 'App Store からダウンロード',
     playAlt: 'Google Play で手に入れよう',
     playNote: 'ストアから入れると、アプリは自動で更新されます。',

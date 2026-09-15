@@ -119,15 +119,6 @@ export const nl: Dict = {
   download: {
     h2: 'De app voor iPhone en Android',
     sub: 'De vragenlijst, de geluidsopname en het volledige rapport met kansen zitten in de app Pro-Stuk.',
-    btn: 'De APK rechtstreeks downloaden',
-    meta: 'Versie {version} · APK {size} MB · bijgewerkt op {date}',
-    installH: 'De APK installeren',
-    steps: [
-      'Download het bestand met de knop hierboven.',
-      'Open het vanuit de melding of vanuit «Downloads».',
-      'Sta installatie vanaf deze bron toe wanneer de telefoon erom vraagt.',
-      'Installeer de app en open hem.',
-    ],
     appStoreAlt: 'Download in de App Store',
     playAlt: 'Ontdek het op Google Play',
     playNote: 'Vanuit de store geïnstalleerd werkt de app zichzelf bij.',

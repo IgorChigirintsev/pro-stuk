@@ -119,15 +119,6 @@ export const de: Dict = {
   download: {
     h2: 'Die App für iPhone und Android',
     sub: 'Fragebogen, Tonaufnahme und der vollständige Bericht mit Wahrscheinlichkeiten stecken in der Stuk-App.',
-    btn: 'APK direkt herunterladen',
-    meta: 'Version {version} · APK {size} MB · aktualisiert {date}',
-    installH: 'APK installieren',
-    steps: [
-      'Die Datei über die Schaltfläche oben herunterladen.',
-      'Sie aus der Benachrichtigung oder aus den Downloads öffnen.',
-      'Die Installation aus dieser Quelle erlauben, wenn das Telefon fragt.',
-      'Die App installieren und öffnen.',
-    ],
     appStoreAlt: 'Laden im App Store',
     playAlt: 'Jetzt bei Google Play',
     playNote: 'Aus dem Store installiert, aktualisiert sich die App von selbst.',

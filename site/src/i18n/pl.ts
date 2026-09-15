@@ -117,15 +117,6 @@ export const pl: Dict = {
   download: {
     h2: 'Aplikacja na iPhone’a i Androida',
     sub: 'Ankieta, nagranie dźwięku i pełny raport z prawdopodobieństwami są w aplikacji Pro-Stuk.',
-    btn: 'Pobierz APK bezpośrednio',
-    meta: 'Wersja {version} · APK {size} MB · zaktualizowano {date}',
-    installH: 'Jak zainstalować APK',
-    steps: [
-      'Pobierz plik przyciskiem powyżej.',
-      'Otwórz go z powiadomienia albo z folderu „Pobrane”.',
-      'Zezwól na instalację z tego źródła, gdy telefon zapyta.',
-      'Zainstaluj aplikację i otwórz ją.',
-    ],
     appStoreAlt: 'Pobierz w App Store',
     playAlt: 'Pobierz z Google Play',
     playNote: 'Zainstalowana ze sklepu aplikacja aktualizuje się sama.',

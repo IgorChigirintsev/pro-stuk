@@ -115,15 +115,6 @@ export const ko: Dict = {
   download: {
     h2: 'iPhone과 Android 앱',
     sub: '설문, 소리 녹음, 확률이 붙은 전체 리포트는 모두 Pro-Stuk 앱 안에 있습니다.',
-    btn: 'APK 직접 내려받기',
-    meta: '버전 {version} · APK {size} MB · 업데이트 {date}',
-    installH: 'APK 설치 방법',
-    steps: [
-      '위 버튼으로 파일을 내려받습니다.',
-      '알림이나 ‘다운로드’ 폴더에서 파일을 엽니다.',
-      '휴대전화가 물으면 이 출처의 설치를 허용합니다.',
-      '앱을 설치하고 실행합니다.',
-    ],
     appStoreAlt: 'App Store에서 다운로드',
     playAlt: 'Google Play에서 다운로드',
     playNote: '스토어에서 설치하면 앱이 스스로 업데이트됩니다.',

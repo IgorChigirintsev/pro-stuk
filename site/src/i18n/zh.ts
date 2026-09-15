@@ -113,15 +113,6 @@ export const zh: Dict = {
   download: {
     h2: 'iPhone 和 Android 应用',
     sub: '问卷、录音和带概率的完整报告，都在 Pro-Stuk 应用里。',
-    btn: '直接下载 APK',
-    meta: '版本 {version} · APK {size} MB · 更新于 {date}',
-    installH: '如何安装 APK',
-    steps: [
-      '用上面的按钮下载文件。',
-      '从通知栏或「下载」文件夹打开它。',
-      '手机询问时，允许安装来自此来源的应用。',
-      '安装并打开应用。',
-    ],
     appStoreAlt: '从 App Store 下载',
     playAlt: '前往 Google Play 下载',
     playNote: '从应用商店安装，应用会自动更新。',

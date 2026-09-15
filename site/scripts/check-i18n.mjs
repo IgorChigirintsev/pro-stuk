@@ -69,7 +69,6 @@ for (const lang of LANGS) {
 
   // Подпись под кнопкой скачивания подставляет три значения — без них выйдет обрубок.
   for (const ph of ['{version}', '{size}', '{date}']) {
-    if (!dict?.download?.meta?.includes(ph)) fail(`${lang}: download.meta без ${ph}`);
   }
 }
 

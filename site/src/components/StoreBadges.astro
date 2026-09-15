@@ -2,7 +2,7 @@
 /**
  * Официальные значки App Store и Google Play.
  *
- * Оба нельзя перерисовывать и нельзя менять их пропорции — это условие
+ * Значки нельзя перерисовывать и нельзя менять их пропорции — это условие
  * магазинов. Поэтому картинки лежат готовыми в public/badges/, скачанные
  * с tools.applemediaservices.com и play.google.com, по одной на язык:
  * надпись на значке переведена, и подставлять к арабской странице
@@ -12,48 +12,51 @@
  * английский значок, поэтому у нас лежит его копия. Это поведение самого
  * Apple, а не наша замена.
  *
- * Выравнивание. В PNG у Google заложены широкие прозрачные поля: видимая
- * кнопка занимает 67% высоты картинки. У Apple в SVG полей почти нет.
- * Поэтому высоту значка Apple считаем от видимой части соседа, иначе рядом
- * он выглядел бы в полтора раза крупнее.
+ * Выравнивание. У Google в PNG были зашиты широкие прозрачные поля, у Apple
+ * в SVG их нет, и рядом значки читались вразнобой. Поля с PNG срезаны —
+ * рисунок при этом не тронут, — а обязательный отступ вокруг задаётся
+ * вёрсткой через gap. Теперь обе картинки обрезаны по рисунку, и общая
+ * высота делает из них пару. Ширина всё равно разная: «Download on the App
+ * Store» и «GET IT ON Google Play» разной длины, и растягивать до общей
+ * ширины значит искажать пропорции, чего магазины не разрешают.
  */
 import { DEFAULT_LANG, t } from '../i18n';
 
 interface Props {
   lang?: string;
-  /** Ширина значка Google в пикселях; остальное считается от неё. */
-  width?: number;
+  /** Высота значков в пикселях. Ширина у каждого своя, считается от неё. */
+  height?: number;
   class?: string;
 }
 
-/** Ширина viewBox значка Apple — у каждого языка своя, высота всегда 40. */
+/** Ширина viewBox значка Apple при высоте 40 — у каждого языка своя. */
 const APPLE_W: Record<string, number> = {
   ar: 119.66, de: 119.66, en: 119.66, es: 119.66, fr: 126.51, it: 119.66,
   ja: 108.85, ko: 129.7, nl: 119.66, pl: 119.66, pt: 119.66, ru: 119.66,
   tr: 151.29, zh: 108.85,
 };
 
-/** Доля высоты PNG, занятая самой кнопкой Google (остальное — поля). */
-const PLAY_INK = 0.672;
+/** Отношение сторон обрезанного PNG Google — у арабского чуть своё. */
+const PLAY_RATIO: Record<string, number> = { ar: 3.3571, en: 3.3571 };
+const PLAY_RATIO_DEFAULT = 3.3646;
 
-const { lang = DEFAULT_LANG, width = 200, class: cls = '' } = Astro.props;
+const { lang = DEFAULT_LANG, height = 48, class: cls = '' } = Astro.props;
 const d = t(lang).download;
 
-const playH = Math.round((width * 250) / 646);
-const appleH = Math.round(playH * PLAY_INK);
-const appleW = Math.round((appleH * (APPLE_W[lang] ?? APPLE_W.en!)) / 40);
+const appleW = Math.round((height * (APPLE_W[lang] ?? APPLE_W.en!)) / 40);
+const playW = Math.round(height * (PLAY_RATIO[lang] ?? PLAY_RATIO_DEFAULT));
 
 const APPLE_URL = 'https://apps.apple.com/app/id6805117127';
 const PLAY_URL = 'https://play.google.com/store/apps/details?id=chigirintsevandco.prostuk';
 ---
 
-<div class={`flex flex-wrap items-center gap-x-1 gap-y-2 ${cls}`}>
+<div class={`flex flex-wrap items-center gap-3 ${cls}`}>
   <a href={APPLE_URL} class="inline-block no-underline" rel="noopener">
     <img
       src={`/badges/appstore-${lang}.svg`}
       alt={d.appStoreAlt}
       width={appleW}
-      height={appleH}
+      height={height}
       loading="lazy"
     />
   </a>
@@ -61,8 +64,8 @@ const PLAY_URL = 'https://play.google.com/store/apps/details?id=chigirintsevandc
     <img
       src={`/badges/play-${lang}.png`}
       alt={d.playAlt}
-      width={width}
-      height={playH}
+      width={playW}
+      height={height}
       loading="lazy"
     />
   </a>

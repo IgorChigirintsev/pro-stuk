@@ -1,6 +1,6 @@
 ---
 /** Липкая карточка-CTA: ведёт на главную к блоку скачивания приложения. */
-import { DEFAULT_LANG, pathFor, t } from '../i18n';
+import { DEFAULT_LANG, t } from '../i18n';
 import StoreBadges from './StoreBadges.astro';
 
 interface Props {
@@ -29,7 +29,6 @@ const COPY: Record<string, { lead: string; bullets: string[] }> = {
   },
 };
 const copy = COPY[lang] ?? COPY.en!;
-const href = `${pathFor('home', lang)}#skachat`;
 ---
 
 <div class="rounded-card border border-line bg-surface p-5">
@@ -41,11 +40,7 @@ const href = `${pathFor('home', lang)}#skachat`;
   <ul class="mt-3 space-y-1 text-s text-ink-soft">
     {copy.bullets.map((b) => <li>· {b}</li>)}
   </ul>
-  {/* Значок ведёт прямо в магазин: раньше кнопка уводила на главную, и до
-      установки оставалось два перехода вместо одного. Ссылка на главную
-      осталась ниже — для тех, кому нужен APK или подробности. */}
-  <StoreBadges lang={lang} width={170} class="mt-4" />
-  <a href={href} class="mt-3 block text-center text-s text-ink-soft underline">
-    {d.download.btn}
-  </a>
+  {/* Значки ведут прямо в магазин: раньше кнопка уводила на главную, и до
+      установки оставалось два перехода вместо одного. */}
+  <StoreBadges lang={lang} height={44} class="mt-4 justify-center" />
 </div>

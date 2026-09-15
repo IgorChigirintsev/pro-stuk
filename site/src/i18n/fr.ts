@@ -119,15 +119,6 @@ export const fr: Dict = {
   download: {
     h2: 'L’application pour iPhone et Android',
     sub: 'Le questionnaire, l’enregistrement du bruit et le rapport complet avec les probabilités sont dans l’application Pro-Stuk.',
-    btn: 'Télécharger l’APK directement',
-    meta: 'Version {version} · APK {size} Mo · mis à jour le {date}',
-    installH: 'Installer l’APK',
-    steps: [
-      'Téléchargez le fichier avec le bouton ci-dessus.',
-      'Ouvrez-le depuis la notification ou depuis « Téléchargements ».',
-      'Autorisez l’installation depuis cette source quand le téléphone le demande.',
-      'Installez l’application et ouvrez-la.',
-    ],
     appStoreAlt: 'Télécharger dans l’App Store',
     playAlt: 'Disponible sur Google Play',
     playNote: 'Installée depuis un store, l’application se met à jour toute seule.',

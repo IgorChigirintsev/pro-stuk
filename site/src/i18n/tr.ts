@@ -117,15 +117,6 @@ export const tr: Dict = {
   download: {
     h2: 'iPhone ve Android uygulaması',
     sub: 'Anket, ses kaydı ve olasılıklarla birlikte tam rapor Pro-Stuk uygulamasında.',
-    btn: 'APK’yı doğrudan indir',
-    meta: 'Sürüm {version} · APK {size} MB · güncellendi: {date}',
-    installH: 'APK nasıl kurulur',
-    steps: [
-      'Yukarıdaki düğmeyle dosyayı indirin.',
-      'Bildirimden ya da «İndirilenler» klasöründen açın.',
-      'Telefon sorduğunda bu kaynaktan kuruluma izin verin.',
-      'Uygulamayı kurun ve açın.',
-    ],
     appStoreAlt: 'App Store’dan indirin',
     playAlt: 'Google Play’den alın',
     playNote: 'Mağazadan kurulan uygulama kendini günceller.',
