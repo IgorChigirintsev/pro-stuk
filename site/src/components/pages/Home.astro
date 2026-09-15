@@ -3,6 +3,7 @@
  *  остальные — в своём префиксе. */
 import Base from '../../layouts/Base.astro';
 import DownloadApk from '../DownloadApk.astro';
+import StoreBadges from '../StoreBadges.astro';
 import TreeWidget from '../TreeWidget.tsx';
 import tree from '../../../../shared/tree.json';
 import { HUBS } from '../../data/hubs';
@@ -65,13 +66,10 @@ const wave = [3, 5, 4, 9, 4, 6, 3, 5];
   <section class="py-6 text-center sm:py-12">
     <h1 class="mx-auto max-w-2xl text-2xl font-bold sm:text-3xl">{d.h1}</h1>
     <p class="mx-auto mt-4 max-w-xl text-l text-ink-soft">{d.sub}</p>
-    <a
-      href="#skachat"
-      class="mt-7 inline-block rounded-btn bg-accent px-8 py-4 font-semibold text-white no-underline hover:opacity-90"
-    >
-      {d.cta}
-    </a>
-    <p class="mt-2 text-s text-ink-soft">{d.ctaNote}</p>
+    {/* Значки, а не кнопка-якорь: она вела вниз к этим же значкам, и на
+        телефоне до них ещё надо было долистать. */}
+    <StoreBadges lang={lang} width={190} class="mt-7 justify-center" />
+    <p class="mt-3 text-s text-ink-soft">{d.ctaNote}</p>
   </section>
 
   <!-- Как работает: 3 шага с CSS-мокапами -->

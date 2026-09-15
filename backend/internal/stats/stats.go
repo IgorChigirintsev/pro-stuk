@@ -27,6 +27,10 @@ type dayCounts struct {
 	// Переходы в Google Play: сколько и с каких страниц нажали значок.
 	Play      int            `json:"play,omitempty"`
 	PlayPages map[string]int `json:"play_pages,omitempty"`
+	// То же для App Store: магазины считаем врозь, иначе не видно, какая
+	// платформа даёт установки.
+	AppStore      int            `json:"appstore,omitempty"`
+	AppStorePages map[string]int `json:"appstore_pages,omitempty"`
 	// Скачивания приложения: сколько и с каких страниц нажали кнопку.
 	Downloads     int            `json:"downloads,omitempty"`
 	DownloadPages map[string]int `json:"download_pages,omitempty"`
@@ -127,6 +131,19 @@ func (s *Store) HitPlay(page string) {
 	s.dirty = true
 }
 
+// HitAppStore фиксирует переход в App Store и страницу-источник.
+func (s *Store) HitAppStore(page string) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+	d := s.day()
+	if d.AppStorePages == nil {
+		d.AppStorePages = map[string]int{}
+	}
+	d.AppStore++
+	d.AppStorePages[page]++
+	s.dirty = true
+}
+
 // HitBot фиксирует отфильтрованный заход бота (без страницы — только счёт).
 // Analysis учитывает один разбор звука и его расход токенов.
 func (s *Store) Analysis(promptTokens, audioTokens, outputTokens int) {
@@ -167,6 +184,8 @@ type PeriodStats struct {
 	DownloadPages map[string]int `json:"download_pages"`
 	Play          int            `json:"play"`
 	PlayPages     map[string]int `json:"play_pages"`
+	AppStore      int            `json:"appstore"`
+	AppStorePages map[string]int `json:"appstore_pages"`
 	// Разборы звука и их себестоимость в долларах по тарифам Gemini Flash.
 	Analyses int     `json:"analyses"`
 	CostUSD  float64 `json:"cost_usd"`
@@ -194,7 +213,7 @@ func costUSD(promptTok, audioTok, outTok int) float64 {
 }
 
 func (s *Store) rangeStats(from, to time.Time) PeriodStats {
-	out := PeriodStats{Pages: map[string]int{}, DownloadPages: map[string]int{}, PlayPages: map[string]int{}}
+	out := PeriodStats{Pages: map[string]int{}, DownloadPages: map[string]int{}, PlayPages: map[string]int{}, AppStorePages: map[string]int{}}
 	for d := from; !d.After(to); d = d.AddDate(0, 0, 1) {
 		if dc := s.days[d.Format("2006-01-02")]; dc != nil {
 			out.Total += dc.Total
@@ -202,6 +221,7 @@ func (s *Store) rangeStats(from, to time.Time) PeriodStats {
 			out.Visits += dc.Visits
 			out.Downloads += dc.Downloads
 			out.Play += dc.Play
+			out.AppStore += dc.AppStore
 			out.Analyses += dc.Analyses
 			out.CostUSD += costUSD(dc.PromptTokens, dc.AudioTokens, dc.OutputTokens)
 			for p, n := range dc.Pages {
@@ -212,6 +232,9 @@ func (s *Store) rangeStats(from, to time.Time) PeriodStats {
 			}
 			for p, n := range dc.PlayPages {
 				out.PlayPages[p] += n
+			}
+			for p, n := range dc.AppStorePages {
+				out.AppStorePages[p] += n
 			}
 		}
 	}

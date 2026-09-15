@@ -33,6 +33,7 @@ func TestHitCountsEachEventInItsOwnBucket(t *testing.T) {
 	hit(t, s, "download:/", browserUA)
 	hit(t, s, "play:/en/articles/knocking-over-bumps", browserUA)
 	hit(t, s, "play:/en/articles/knocking-over-bumps", browserUA)
+	hit(t, s, "appstore:/en/articles/knocking-over-bumps", browserUA)
 
 	d := s.stats.Summary().Today
 	if d.Total != 2 {
@@ -50,6 +51,13 @@ func TestHitCountsEachEventInItsOwnBucket(t *testing.T) {
 	if got := d.PlayPages["/en/articles/knocking-over-bumps"]; got != 2 {
 		t.Errorf("страница-источник Play посчитана %d раз, ждали 2", got)
 	}
+	// Магазины должны считаться врозь: иначе не видно, какая платформа даёт установки.
+	if d.AppStore != 1 {
+		t.Errorf("переходов в App Store %d, ждали 1", d.AppStore)
+	}
+	if d.Play == d.AppStore {
+		t.Error("магазины смешались в один счётчик")
+	}
 	// Событие не должно попадать в обычные просмотры страниц.
 	if _, ok := d.Pages["play:/en/articles/knocking-over-bumps"]; ok {
 		t.Error("переход в Play посчитан ещё и как просмотр страницы")
@@ -61,16 +69,16 @@ func TestHitIgnoresBotsInEveryEvent(t *testing.T) {
 	const bot = "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
 	s, _ := testServer(t)
 
-	for _, body := range []string{"/", "visit:/", "download:/", "play:/"} {
+	for _, body := range []string{"/", "visit:/", "download:/", "play:/", "appstore:/"} {
 		if code := hit(t, s, body, bot); code != http.StatusNoContent {
 			t.Errorf("%q: код %d, ждали 204", body, code)
 		}
 	}
 
 	d := s.stats.Summary().Today
-	if d.Total != 0 || d.Visits != 0 || d.Downloads != 0 || d.Play != 0 {
-		t.Errorf("бот попал в счётчики: просмотры %d, визиты %d, скачивания %d, Play %d",
-			d.Total, d.Visits, d.Downloads, d.Play)
+	if d.Total != 0 || d.Visits != 0 || d.Downloads != 0 || d.Play != 0 || d.AppStore != 0 {
+		t.Errorf("бот попал в счётчики: просмотры %d, визиты %d, скачивания %d, Play %d, App Store %d",
+			d.Total, d.Visits, d.Downloads, d.Play, d.AppStore)
 	}
 	if d.Bots == 0 {
 		t.Error("заход бота не отмечен")
@@ -83,6 +91,7 @@ func TestHitRejectsBadEventPaths(t *testing.T) {
 	s, _ := testServer(t)
 	bad := []string{
 		"play:наружу",
+		"appstore:наружу",
 		"play:../../etc",
 		"download:" + strings.Repeat("/x", 100),
 		"visit:",

@@ -27,8 +27,7 @@ export const zh: Dict = {
     sub:
       '一份简短问卷，加上 15–30 秒的录音。换来的是：带百分比的可能原因、紧急程度信号灯，' +
       '以及到修理厂开口时用得上的说法。',
-    cta: '下载应用',
-    ctaNote: 'Android · 目前免费',
+    ctaNote: 'iPhone 和 Android · 三次检测免费',
     howH2: '工作原理',
     steps: [
       {
@@ -112,7 +111,7 @@ export const zh: Dict = {
     zonePodveska: '悬架，车轮附近',
   },
   download: {
-    h2: 'Android 应用',
+    h2: 'iPhone 和 Android 应用',
     sub: '问卷、录音和带概率的完整报告，都在 Pro-Stuk 应用里。',
     btn: '直接下载 APK',
     meta: '版本 {version} · APK {size} MB · 更新于 {date}',
@@ -123,8 +122,9 @@ export const zh: Dict = {
       '手机询问时，允许安装来自此来源的应用。',
       '安装并打开应用。',
     ],
+    appStoreAlt: '从 App Store 下载',
     playAlt: '前往 Google Play 下载',
-    playNote: '从 Google Play 安装，应用会自动更新。',
+    playNote: '从应用商店安装，应用会自动更新。',
   },
   how: {
     title: '听声音判断故障的原理 | Pro-Stuk',

@@ -31,8 +31,7 @@ export const en: Dict = {
     sub:
       'A short questionnaire and a 15–30 second recording. In return: likely causes with ' +
       'percentages, an urgency traffic light and the right words for the garage.',
-    cta: 'Get the app',
-    ctaNote: 'Android · free for now',
+    ctaNote: 'iPhone and Android · three free checks',
     howH2: 'How it works',
     steps: [
       {
@@ -116,7 +115,7 @@ export const en: Dict = {
     zonePodveska: 'suspension, the wheel area',
   },
   download: {
-    h2: 'The Android app',
+    h2: 'The app for iPhone and Android',
     sub: 'The questionnaire, the sound recording and the full report with probabilities are all in the Pro-Stuk app.',
     btn: 'Download the APK directly',
     meta: 'Version {version} · APK {size} MB · updated {date}',
@@ -127,8 +126,9 @@ export const en: Dict = {
       'Allow installation from this source when the phone asks.',
       'Install the app and open it.',
     ],
+    appStoreAlt: 'Download on the App Store',
     playAlt: 'Get it on Google Play',
-    playNote: 'Installed from Google Play, the app updates itself.',
+    playNote: 'Installed from a store, the app updates itself.',
   },
   how: {
     title: 'How sound diagnosis works | Pro-Stuk',

@@ -33,8 +33,7 @@ export const fr: Dict = {
       'Un questionnaire court et un enregistrement de 15 à 30 secondes. En retour : les ' +
       'causes probables avec leurs pourcentages, un feu tricolore d’urgence et les mots ' +
       'justes pour le garage.',
-    cta: 'Télécharger l’application',
-    ctaNote: 'Android · gratuit pour l’instant',
+    ctaNote: 'iPhone et Android · trois analyses offertes',
     howH2: 'Comment ça marche',
     steps: [
       {
@@ -118,7 +117,7 @@ export const fr: Dict = {
     zonePodveska: 'suspension, zone de la roue',
   },
   download: {
-    h2: 'L’application Android',
+    h2: 'L’application pour iPhone et Android',
     sub: 'Le questionnaire, l’enregistrement du bruit et le rapport complet avec les probabilités sont dans l’application Pro-Stuk.',
     btn: 'Télécharger l’APK directement',
     meta: 'Version {version} · APK {size} Mo · mis à jour le {date}',
@@ -129,8 +128,9 @@ export const fr: Dict = {
       'Autorisez l’installation depuis cette source quand le téléphone le demande.',
       'Installez l’application et ouvrez-la.',
     ],
+    appStoreAlt: 'Télécharger dans l’App Store',
     playAlt: 'Disponible sur Google Play',
-    playNote: 'Installée depuis Google Play, l’application se met à jour toute seule.',
+    playNote: 'Installée depuis un store, l’application se met à jour toute seule.',
   },
   how: {
     title: 'Comment fonctionne le diagnostic à l’oreille | Pro-Stuk',

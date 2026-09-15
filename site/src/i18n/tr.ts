@@ -31,8 +31,7 @@ export const tr: Dict = {
     sub:
       'Kısa bir anket ve 15–30 saniyelik bir kayıt. Karşılığında: yüzdeleriyle olası ' +
       'nedenler, aciliyet ışığı ve serviste konuşurken işinize yarayacak ipuçları.',
-    cta: 'Uygulamayı indir',
-    ctaNote: 'Android · şimdilik ücretsiz',
+    ctaNote: 'iPhone ve Android · üç analiz ücretsiz',
     howH2: 'Nasıl çalışır',
     steps: [
       {
@@ -116,7 +115,7 @@ export const tr: Dict = {
     zonePodveska: 'süspansiyon, tekerlek bölgesi',
   },
   download: {
-    h2: 'Android uygulaması',
+    h2: 'iPhone ve Android uygulaması',
     sub: 'Anket, ses kaydı ve olasılıklarla birlikte tam rapor Pro-Stuk uygulamasında.',
     btn: 'APK’yı doğrudan indir',
     meta: 'Sürüm {version} · APK {size} MB · güncellendi: {date}',
@@ -127,8 +126,9 @@ export const tr: Dict = {
       'Telefon sorduğunda bu kaynaktan kuruluma izin verin.',
       'Uygulamayı kurun ve açın.',
     ],
+    appStoreAlt: 'App Store’dan indirin',
     playAlt: 'Google Play’den alın',
-    playNote: 'Google Play’den kurulan uygulama kendini günceller.',
+    playNote: 'Mağazadan kurulan uygulama kendini günceller.',
   },
   how: {
     title: 'Sesle teşhis nasıl çalışır | Pro-Stuk',

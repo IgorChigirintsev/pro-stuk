@@ -1,7 +1,7 @@
 ---
 /** Блок скачивания APK (§8.1). Версия и размер подтягиваются из version.json. */
 import { DEFAULT_LANG, t } from '../i18n';
-import PlayBadge from './PlayBadge.astro';
+import StoreBadges from './StoreBadges.astro';
 
 interface Props {
   lang?: string;
@@ -14,7 +14,7 @@ const d = t(lang).download;
 <section id="skachat" class="rounded-card border border-line bg-surface p-6 sm:p-8">
   <h2 class="text-xl font-bold">{d.h2}</h2>
   <p class="mt-2 text-ink-soft">{d.sub}</p>
-  <PlayBadge lang={lang} width={200} class="mt-5" />
+  <StoreBadges lang={lang} width={200} class="mt-5" />
   <p class="mt-2 text-s text-ink-soft">{d.playNote}</p>
 
   {/* APK остаётся для тех, у кого Play нет или не работает. */}

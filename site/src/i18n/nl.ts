@@ -33,8 +33,7 @@ export const nl: Dict = {
       'Een korte vragenlijst en een opname van 15–30 seconden. Terug krijgt u ' +
       'waarschijnlijke oorzaken met percentages, een stoplicht voor de urgentie en de ' +
       'juiste woorden voor de garage.',
-    cta: 'App downloaden',
-    ctaNote: 'Android · voorlopig gratis',
+    ctaNote: 'iPhone en Android · drie gratis checks',
     howH2: 'Hoe het werkt',
     steps: [
       {
@@ -118,7 +117,7 @@ export const nl: Dict = {
     zonePodveska: 'onderstel, rond het wiel',
   },
   download: {
-    h2: 'De app voor Android',
+    h2: 'De app voor iPhone en Android',
     sub: 'De vragenlijst, de geluidsopname en het volledige rapport met kansen zitten in de app Pro-Stuk.',
     btn: 'De APK rechtstreeks downloaden',
     meta: 'Versie {version} · APK {size} MB · bijgewerkt op {date}',
@@ -129,8 +128,9 @@ export const nl: Dict = {
       'Sta installatie vanaf deze bron toe wanneer de telefoon erom vraagt.',
       'Installeer de app en open hem.',
     ],
+    appStoreAlt: 'Download in de App Store',
     playAlt: 'Ontdek het op Google Play',
-    playNote: 'Vanuit Google Play geïnstalleerd werkt de app zichzelf bij.',
+    playNote: 'Vanuit de store geïnstalleerd werkt de app zichzelf bij.',
   },
   how: {
     title: 'Hoe diagnose op het gehoor werkt | Pro-Stuk',

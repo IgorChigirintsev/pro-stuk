@@ -33,8 +33,7 @@ export const it: Dict = {
       'Un questionario breve e una registrazione di 15–30 secondi. In cambio: cause ' +
       'probabili con le percentuali, semaforo dell’urgenza e le parole giuste per parlare ' +
       'in officina.',
-    cta: 'Scarica l’app',
-    ctaNote: 'Android · per ora gratis',
+    ctaNote: 'iPhone e Android · tre analisi gratis',
     howH2: 'Come funziona',
     steps: [
       {
@@ -118,7 +117,7 @@ export const it: Dict = {
     zonePodveska: 'sospensioni, zona della ruota',
   },
   download: {
-    h2: 'L’app per Android',
+    h2: 'L’app per iPhone e Android',
     sub: 'Il questionario, la registrazione del rumore e il report completo con le probabilità sono nell’app Pro-Stuk.',
     btn: 'Scarica direttamente l’APK',
     meta: 'Versione {version} · APK {size} MB · aggiornato il {date}',
@@ -129,8 +128,9 @@ export const it: Dict = {
       'Consenti l’installazione da questa origine quando il telefono lo chiede.',
       'Installa l’app e aprila.',
     ],
+    appStoreAlt: 'Scaricala su App Store',
     playAlt: 'Disponibile su Google Play',
-    playNote: 'Installata da Google Play, l’app si aggiorna da sola.',
+    playNote: 'Installata dallo store, l’app si aggiorna da sola.',
   },
   how: {
     title: 'Come funziona la diagnosi dal rumore | Pro-Stuk',

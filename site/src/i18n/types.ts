@@ -25,7 +25,6 @@ export interface Dict {
     schemaDescription: string;
     h1: string;
     sub: string;
-    cta: string;
     ctaNote: string;
     howH2: string;
     steps: { title: string; text: string }[];
@@ -86,7 +85,8 @@ export interface Dict {
     meta: string;
     installH: string;
     steps: string[];
-    /** Подпись значка Google Play — повторяет надпись на нём. */
+    /** Подписи значков магазинов — повторяют надписи на них. */
+    appStoreAlt: string;
     playAlt: string;
     playNote: string;
   };

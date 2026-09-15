@@ -29,8 +29,7 @@ export const ja: Dict = {
     sub:
       '短い質問と15〜30秒の録音。返ってくるのは、割合つきの考えられる原因、緊急度の信号表示、' +
       'そして整備工場で話すときの手がかりです。',
-    cta: 'アプリを入手',
-    ctaNote: 'Android · 今のところ無料',
+    ctaNote: 'iPhone と Android · 診断3回まで無料',
     howH2: '仕組み',
     steps: [
       {
@@ -114,7 +113,7 @@ export const ja: Dict = {
     zonePodveska: '足回り、タイヤ周辺',
   },
   download: {
-    h2: 'Android アプリ',
+    h2: 'iPhone と Android のアプリ',
     sub: '質問、録音、確率つきのフルレポートは、すべて Pro-Stuk アプリの中にあります。',
     btn: 'APK を直接ダウンロード',
     meta: 'バージョン {version} · APK {size} MB · 更新 {date}',
@@ -125,8 +124,9 @@ export const ja: Dict = {
       'この提供元からのインストールを、端末に聞かれたら許可します。',
       'インストールして、アプリを開きます。',
     ],
+    appStoreAlt: 'App Store からダウンロード',
     playAlt: 'Google Play で手に入れよう',
-    playNote: 'Google Play から入れると、アプリは自動で更新されます。',
+    playNote: 'ストアから入れると、アプリは自動で更新されます。',
   },
   how: {
     title: '音による見立ての仕組み | Pro-Stuk',

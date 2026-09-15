@@ -29,8 +29,7 @@ export const ko: Dict = {
     sub:
       '짧은 설문과 15~30초 녹음. 돌아오는 것은 비율이 붙은 가능성 있는 원인, 긴급도 신호등, ' +
       '그리고 정비소에서 쓸 수 있는 표현입니다.',
-    cta: '앱 내려받기',
-    ctaNote: 'Android · 당분간 무료',
+    ctaNote: 'iPhone과 Android · 검사 3회 무료',
     howH2: '작동 방식',
     steps: [
       {
@@ -114,7 +113,7 @@ export const ko: Dict = {
     zonePodveska: '서스펜션, 바퀴 주변',
   },
   download: {
-    h2: 'Android 앱',
+    h2: 'iPhone과 Android 앱',
     sub: '설문, 소리 녹음, 확률이 붙은 전체 리포트는 모두 Pro-Stuk 앱 안에 있습니다.',
     btn: 'APK 직접 내려받기',
     meta: '버전 {version} · APK {size} MB · 업데이트 {date}',
@@ -125,8 +124,9 @@ export const ko: Dict = {
       '휴대전화가 물으면 이 출처의 설치를 허용합니다.',
       '앱을 설치하고 실행합니다.',
     ],
+    appStoreAlt: 'App Store에서 다운로드',
     playAlt: 'Google Play에서 다운로드',
-    playNote: 'Google Play에서 설치하면 앱이 스스로 업데이트됩니다.',
+    playNote: '스토어에서 설치하면 앱이 스스로 업데이트됩니다.',
   },
   how: {
     title: '소리 진단은 어떻게 이루어지나 | Pro-Stuk',

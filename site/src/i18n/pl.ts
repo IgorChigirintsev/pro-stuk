@@ -31,8 +31,7 @@ export const pl: Dict = {
     sub:
       'Krótka ankieta i nagranie 15–30 sekund. W odpowiedzi: prawdopodobne przyczyny ' +
       'z procentami, sygnalizacja pilności i podpowiedzi na rozmowę w warsztacie.',
-    cta: 'Pobierz aplikację',
-    ctaNote: 'Android · na razie bezpłatnie',
+    ctaNote: 'iPhone i Android · trzy analizy za darmo',
     howH2: 'Jak to działa',
     steps: [
       {
@@ -116,7 +115,7 @@ export const pl: Dict = {
     zonePodveska: 'zawieszenie, okolica koła',
   },
   download: {
-    h2: 'Aplikacja na Androida',
+    h2: 'Aplikacja na iPhone’a i Androida',
     sub: 'Ankieta, nagranie dźwięku i pełny raport z prawdopodobieństwami są w aplikacji Pro-Stuk.',
     btn: 'Pobierz APK bezpośrednio',
     meta: 'Wersja {version} · APK {size} MB · zaktualizowano {date}',
@@ -127,8 +126,9 @@ export const pl: Dict = {
       'Zezwól na instalację z tego źródła, gdy telefon zapyta.',
       'Zainstaluj aplikację i otwórz ją.',
     ],
+    appStoreAlt: 'Pobierz w App Store',
     playAlt: 'Pobierz z Google Play',
-    playNote: 'Zainstalowana z Google Play aplikacja aktualizuje się sama.',
+    playNote: 'Zainstalowana ze sklepu aplikacja aktualizuje się sama.',
   },
   how: {
     title: 'Jak działa diagnoza po dźwięku | Pro-Stuk',

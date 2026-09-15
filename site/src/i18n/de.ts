@@ -33,8 +33,7 @@ export const de: Dict = {
       'Ein kurzer Fragebogen und eine Aufnahme von 15–30 Sekunden. Zurück kommen ' +
       'wahrscheinliche Ursachen mit Prozentwerten, eine Dringlichkeitsampel und ' +
       'Stichworte für das Gespräch in der Werkstatt.',
-    cta: 'App herunterladen',
-    ctaNote: 'Android · vorerst kostenlos',
+    ctaNote: 'iPhone und Android · drei Prüfungen gratis',
     howH2: 'So funktioniert es',
     steps: [
       {
@@ -118,7 +117,7 @@ export const de: Dict = {
     zonePodveska: 'Fahrwerk, Bereich des Rades',
   },
   download: {
-    h2: 'Die App für Android',
+    h2: 'Die App für iPhone und Android',
     sub: 'Fragebogen, Tonaufnahme und der vollständige Bericht mit Wahrscheinlichkeiten stecken in der Stuk-App.',
     btn: 'APK direkt herunterladen',
     meta: 'Version {version} · APK {size} MB · aktualisiert {date}',
@@ -129,8 +128,9 @@ export const de: Dict = {
       'Die Installation aus dieser Quelle erlauben, wenn das Telefon fragt.',
       'Die App installieren und öffnen.',
     ],
+    appStoreAlt: 'Laden im App Store',
     playAlt: 'Jetzt bei Google Play',
-    playNote: 'Aus Google Play installiert, aktualisiert sich die App von selbst.',
+    playNote: 'Aus dem Store installiert, aktualisiert sich die App von selbst.',
   },
   how: {
     title: 'Wie die Diagnose nach Gehör funktioniert | Pro-Stuk',

@@ -31,8 +31,7 @@ export const pt: Dict = {
     sub:
       'Um questionário curto e uma gravação de 15 a 30 segundos. Em troca: causas prováveis ' +
       'com percentuais, semáforo de urgência e as palavras certas para a conversa na oficina.',
-    cta: 'Baixar o aplicativo',
-    ctaNote: 'Android · de graça por enquanto',
+    ctaNote: 'iPhone e Android · três análises grátis',
     howH2: 'Como funciona',
     steps: [
       {
@@ -116,7 +115,7 @@ export const pt: Dict = {
     zonePodveska: 'suspensão, região da roda',
   },
   download: {
-    h2: 'O aplicativo para Android',
+    h2: 'O aplicativo para iPhone e Android',
     sub: 'O questionário, a gravação do ruído e o relatório completo com probabilidades estão no aplicativo Pro-Stuk.',
     btn: 'Baixar o APK diretamente',
     meta: 'Versão {version} · APK {size} MB · atualizado em {date}',
@@ -127,8 +126,9 @@ export const pt: Dict = {
       'Permita a instalação desta origem quando o telefone perguntar.',
       'Instale o aplicativo e abra-o.',
     ],
+    appStoreAlt: 'Baixar na App Store',
     playAlt: 'Disponível no Google Play',
-    playNote: 'Instalado pela Google Play, o aplicativo se atualiza sozinho.',
+    playNote: 'Instalado pela loja, o aplicativo se atualiza sozinho.',
   },
   how: {
     title: 'Como funciona o diagnóstico pelo som | Pro-Stuk',

@@ -1,7 +1,7 @@
 ---
 /** Липкая карточка-CTA: ведёт на главную к блоку скачивания приложения. */
 import { DEFAULT_LANG, pathFor, t } from '../i18n';
-import PlayBadge from './PlayBadge.astro';
+import StoreBadges from './StoreBadges.astro';
 
 interface Props {
   lang?: string;
@@ -44,7 +44,7 @@ const href = `${pathFor('home', lang)}#skachat`;
   {/* Значок ведёт прямо в магазин: раньше кнопка уводила на главную, и до
       установки оставалось два перехода вместо одного. Ссылка на главную
       осталась ниже — для тех, кому нужен APK или подробности. */}
-  <PlayBadge lang={lang} width={180} class="mt-4" />
+  <StoreBadges lang={lang} width={170} class="mt-4" />
   <a href={href} class="mt-3 block text-center text-s text-ink-soft underline">
     {d.download.btn}
   </a>

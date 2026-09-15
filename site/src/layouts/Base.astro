@@ -383,7 +383,9 @@ const langHref = (l: string) => alts?.[l] ?? pathFor('home', l);
               ? 'download:'
               : e.target.closest('a[href*="play.google.com"]')
                 ? 'play:'
-                : '';
+                : e.target.closest('a[href*="apps.apple.com"]')
+                  ? 'appstore:'
+                  : '';
             if (!kind) return;
             try {
               navigator.sendBeacon(apiUrl + '/api/v1/hit', kind + location.pathname);

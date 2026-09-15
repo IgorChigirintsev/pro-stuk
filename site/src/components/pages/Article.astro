@@ -6,6 +6,7 @@
  * английском — та же схема без надписей с номерами и легендой.
  */
 import AppCtaCard from '../AppCtaCard.astro';
+import StoreBadges from '../StoreBadges.astro';
 import KartaZvuka, { type Zone } from '../KartaZvuka.astro';
 import SchemeNumbered from '../SchemeNumbered.astro';
 import Base from '../../layouts/Base.astro';
@@ -151,6 +152,10 @@ const schema = [
       <p class="mt-2 text-s text-ink-soft">
         {U.updated} {fmtDate(data.updated ?? data.pubDate, lang)}
       </p>
+
+      {/* На телефоне карточка приложения лежит под статьёй, а дочитывают
+          не все. Поэтому сверху — узкая полоса значков. */}
+      <StoreBadges lang={lang} width={150} class="mt-5 lg:hidden" />
 
       <KartaZvuka zone={zone} caption={zoneCaption} class="mt-6" lang={lang} />
 

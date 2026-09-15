@@ -256,6 +256,7 @@ func (s *Server) handleHit(w http.ResponseWriter, r *http.Request) {
 	events := map[string]func(string){
 		"download:": s.stats.HitDownload,
 		"play:":     s.stats.HitPlay,
+		"appstore:": s.stats.HitAppStore,
 		"visit:":    func(string) { s.stats.HitVisit() },
 	}
 	for prefix, count := range events {
