@@ -9,26 +9,6 @@ interface Props {
 const { lang = DEFAULT_LANG } = Astro.props;
 const d = t(lang);
 
-/** Текст карточки — свой: подписи с главной здесь звучали бы не к месту. */
-const COPY: Record<string, { lead: string; bullets: string[] }> = {
-  ru: {
-    lead:
-      'Не угадывайте по статьям — запишите звук. Приложение сопоставит запись ' +
-      'с ответами на вопросы и назовёт вероятные причины с процентами.',
-    bullets: ['опросник, как у механика', 'анализ записи 15–30 секунд', 'светофор срочности'],
-  },
-  en: {
-    lead:
-      'Do not guess from articles — record the sound. The app matches the recording ' +
-      'against your answers and names the likely causes with percentages.',
-    bullets: [
-      'the questions a mechanic would ask',
-      'analysis of a 15–30 second recording',
-      'an urgency traffic light',
-    ],
-  },
-};
-const copy = COPY[lang] ?? COPY.en!;
 ---
 
 <div class="rounded-card border border-line bg-surface p-5">
@@ -36,13 +16,13 @@ const copy = COPY[lang] ?? COPY.en!;
     <img src="/icon-96.png" alt="" width="40" height="40" class="rounded-xl" />
     <p class="font-bold text-l">{d.brand}</p>
   </div>
-  <p class="mt-3 text-s text-ink-soft">{copy.lead}</p>
+  <p class="mt-3 text-s text-ink-soft">{d.download.cardLead}</p>
   <ul class="mt-3 space-y-1 text-s text-ink-soft">
-    {copy.bullets.map((b) => <li>· {b}</li>)}
+    {d.download.cardBullets.map((b) => <li>· {b}</li>)}
   </ul>
-  {/* Значки ведут прямо в магазин: раньше кнопка уводила на главную, и до
-      установки оставалось два перехода вместо одного. */}
-  {/* По левому краю, как текст и заголовок карточки: по центру значки
-      вставали в разнобой с остальным содержимым. */}
-  <StoreBadges lang={lang} height={44} class="mt-4" />
+  {/* Призыв над значками: без слов рядом неясно, куда они ведут. Сами
+      значки — по левому краю, как текст карточки, и прямо в магазин:
+      раньше кнопка уводила на главную, и до установки было два перехода. */}
+  <p class="mt-4 font-bold">{d.download.tryFree}</p>
+  <StoreBadges lang={lang} height={44} class="mt-2" />
 </div>

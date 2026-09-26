@@ -117,6 +117,10 @@ export const pl: Dict = {
   download: {
     h2: 'Aplikacja na iPhone’a i Androida',
     sub: 'Ankieta, nagranie dźwięku i pełny raport z prawdopodobieństwami są w aplikacji Pro-Stuk.',
+    tryFree: 'Sprawdź przyczynę dźwięku za darmo',
+    tryFreeSub: 'Nagraj 15–30 sekund, a aplikacja wskaże prawdopodobne przyczyny.',
+    cardLead: 'Nie zgaduj z artykułów — nagraj dźwięk. Aplikacja zestawi nagranie z twoimi odpowiedziami i wskaże prawdopodobne przyczyny z procentami.',
+    cardBullets: ['pytania, które zadałby mechanik', 'analiza nagrania 15–30 sekund', 'sygnalizacja pilności'],
     appStoreAlt: 'Pobierz w App Store',
     playAlt: 'Pobierz z Google Play',
     playNote: 'Zainstalowana ze sklepu aplikacja aktualizuje się sama.',

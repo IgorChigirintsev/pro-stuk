@@ -118,6 +118,10 @@ export const es: Dict = {
   download: {
     h2: 'La aplicación para iPhone y Android',
     sub: 'El cuestionario, la grabación del ruido y el informe completo con probabilidades están en la aplicación Pro-Stuk.',
+    tryFree: 'Averigua la causa del ruido gratis',
+    tryFreeSub: 'Graba 15–30 segundos y la aplicación nombra las causas probables.',
+    cardLead: 'No adivines por los artículos: graba el sonido. La aplicación compara la grabación con tus respuestas y nombra las causas probables con porcentajes.',
+    cardBullets: ['las preguntas que haría un mecánico', 'análisis de una grabación de 15–30 segundos', 'semáforo de urgencia'],
     appStoreAlt: 'Consíguelo en el App Store',
     playAlt: 'Disponible en Google Play',
     playNote: 'Instalada desde la tienda, la aplicación se actualiza sola.',

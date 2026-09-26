@@ -115,6 +115,10 @@ export const ko: Dict = {
   download: {
     h2: 'iPhone과 Android 앱',
     sub: '설문, 소리 녹음, 확률이 붙은 전체 리포트는 모두 Pro-Stuk 앱 안에 있습니다.',
+    tryFree: '소리의 원인을 무료로 확인하세요',
+    tryFreeSub: '15~30초 녹음하면 앱이 가능한 원인을 알려줍니다.',
+    cardLead: '글로 짐작하지 말고 소리를 녹음하세요. 앱이 녹음과 답변을 대조해 가능한 원인을 확률과 함께 알려줍니다.',
+    cardBullets: ['정비사가 묻는 질문', '15~30초 녹음 분석', '긴급도 신호등'],
     appStoreAlt: 'App Store에서 다운로드',
     playAlt: 'Google Play에서 다운로드',
     playNote: '스토어에서 설치하면 앱이 스스로 업데이트됩니다.',

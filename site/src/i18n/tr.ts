@@ -117,6 +117,10 @@ export const tr: Dict = {
   download: {
     h2: 'iPhone ve Android uygulaması',
     sub: 'Anket, ses kaydı ve olasılıklarla birlikte tam rapor Pro-Stuk uygulamasında.',
+    tryFree: 'Sesin nedenini ücretsiz öğrenin',
+    tryFreeSub: '15–30 saniye kaydedin, uygulama olası nedenleri söylesin.',
+    cardLead: 'Yazılardan tahmin etmeyin — sesi kaydedin. Uygulama kaydı yanıtlarınızla karşılaştırıp olası nedenleri yüzdesiyle söyler.',
+    cardBullets: ['bir ustanın soracağı sorular', '15–30 saniyelik kaydın analizi', 'aciliyet için trafik ışığı'],
     appStoreAlt: 'App Store’dan indirin',
     playAlt: 'Google Play’den alın',
     playNote: 'Mağazadan kurulan uygulama kendini günceller.',

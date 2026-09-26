@@ -117,6 +117,10 @@ export const en: Dict = {
   download: {
     h2: 'The app for iPhone and Android',
     sub: 'The questionnaire, the sound recording and the full report with probabilities are all in the Pro-Stuk app.',
+    tryFree: 'Find the cause of your noise — free',
+    tryFreeSub: 'Record 15–30 seconds and the app names the likely causes.',
+    cardLead: 'Do not guess from articles — record the sound. The app matches the recording against your answers and names the likely causes with percentages.',
+    cardBullets: ['the questions a mechanic would ask', 'analysis of a 15–30 second recording', 'an urgency traffic light'],
     appStoreAlt: 'Download on the App Store',
     playAlt: 'Get it on Google Play',
     playNote: 'Installed from a store, the app updates itself.',

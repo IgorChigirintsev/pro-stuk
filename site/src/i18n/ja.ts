@@ -115,6 +115,10 @@ export const ja: Dict = {
   download: {
     h2: 'iPhone と Android のアプリ',
     sub: '質問、録音、確率つきのフルレポートは、すべて Pro-Stuk アプリの中にあります。',
+    tryFree: '音の原因を無料で調べる',
+    tryFreeSub: '15〜30秒録音すれば、アプリが考えられる原因を挙げます。',
+    cardLead: '記事から推測せず、音を録音してください。アプリが録音と回答を突き合わせ、考えられる原因を確率つきで挙げます。',
+    cardBullets: ['整備士が訊く質問', '15〜30秒の録音の解析', '緊急度の信号'],
     appStoreAlt: 'App Store からダウンロード',
     playAlt: 'Google Play で手に入れよう',
     playNote: 'ストアから入れると、アプリは自動で更新されます。',

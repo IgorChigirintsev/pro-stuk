@@ -15,6 +15,7 @@ import { hubForArticle } from '../../data/hubs';
 import { hubText } from '../../data/hubs_i18n';
 import { schemaForArticle } from '../../data/schemas';
 import { ARTICLE_UI, articlesBase, fmtDate, hubsBase } from '../../i18n/articles';
+import { t } from '../../i18n';
 import { SITE_URL } from '../../../site.config.mjs';
 
 interface Props {
@@ -42,6 +43,8 @@ interface Props {
 const { lang, slug, ruSlug, data, headings, related, alts, ogImage } = Astro.props;
 
 const U = ARTICLE_UI[lang]!;
+/** Призыв у значков живёт в общем словаре сайта, а не в словаре статей. */
+const D = t(lang).download;
 const isRu = lang === 'ru';
 const toc = headings.filter((h) => h.depth === 2);
 
@@ -154,8 +157,13 @@ const schema = [
       </p>
 
       {/* На телефоне карточка приложения лежит под статьёй, а дочитывают
-          не все. Поэтому сверху — узкая полоса значков. */}
-      <StoreBadges lang={lang} height={42} class="mt-5 lg:hidden" />
+          не все. Поэтому сверху — блок с призывом: без слов рядом со
+          значками неясно, куда они ведут и зачем. */}
+      <div class="mt-5 rounded-card bg-accent-soft p-4 lg:hidden">
+        <p class="font-bold text-l">{D.tryFree}</p>
+        <p class="mt-1 text-s text-ink-soft">{D.tryFreeSub}</p>
+        <StoreBadges lang={lang} height={42} class="mt-3" />
+      </div>
 
       <KartaZvuka zone={zone} caption={zoneCaption} class="mt-6" lang={lang} />
 

@@ -113,6 +113,10 @@ export const zh: Dict = {
   download: {
     h2: 'iPhone 和 Android 应用',
     sub: '问卷、录音和带概率的完整报告，都在 Pro-Stuk 应用里。',
+    tryFree: '免费查出异响的原因',
+    tryFreeSub: '录下 15–30 秒，应用会说出可能的原因。',
+    cardLead: '别靠文章猜——把声音录下来。应用会把录音和你的回答对照，列出可能的原因和百分比。',
+    cardBullets: ['像修车师傅一样的问诊', '15–30 秒录音的分析', '紧急程度红绿灯'],
     appStoreAlt: '从 App Store 下载',
     playAlt: '前往 Google Play 下载',
     playNote: '从应用商店安装，应用会自动更新。',

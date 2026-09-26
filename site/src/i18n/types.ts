@@ -80,6 +80,12 @@ export interface Dict {
   download: {
     h2: string;
     sub: string;
+    /** Призыв рядом со значками: без него неясно, куда они ведут. */
+    tryFree: string;
+    tryFreeSub: string;
+    /** Текст карточки приложения на страницах статей. */
+    cardLead: string;
+    cardBullets: string[];
     /** Подписи значков магазинов — повторяют надписи на них. */
     appStoreAlt: string;
     playAlt: string;

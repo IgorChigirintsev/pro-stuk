@@ -119,6 +119,10 @@ export const nl: Dict = {
   download: {
     h2: 'De app voor iPhone en Android',
     sub: 'De vragenlijst, de geluidsopname en het volledige rapport met kansen zitten in de app Pro-Stuk.',
+    tryFree: 'Ontdek gratis waar het geluid vandaan komt',
+    tryFreeSub: 'Neem 15–30 seconden op en de app noemt de waarschijnlijke oorzaken.',
+    cardLead: 'Gok niet op basis van artikelen — neem het geluid op. De app vergelijkt de opname met je antwoorden en noemt de waarschijnlijke oorzaken met percentages.',
+    cardBullets: ['de vragen die een monteur zou stellen', 'analyse van een opname van 15–30 seconden', 'stoplicht voor urgentie'],
     appStoreAlt: 'Download in de App Store',
     playAlt: 'Ontdek het op Google Play',
     playNote: 'Vanuit de store geïnstalleerd werkt de app zichzelf bij.',
