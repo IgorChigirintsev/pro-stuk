@@ -43,8 +43,15 @@ type Server struct {
 	limiter    *ipLimiter
 	stats      *stats.Store
 	hitLimiter *ipLimiter
-	accounts   *account.Store
-	verifier   *auth.Verifier
+	// Бюджеты на час: защита не от скорости, а от повадки. Семнадцатого
+	// сентября счётчик раздул обход, шедший медленно — в минутный лимит он
+	// не упирался, но за сутки дал 3716 просмотров при обычных восьмидесяти,
+	// и каждая загрузка считалась новым визитом. Адреса живут в памяти
+	// минутами и на диск не попадают, как и у минутного лимитера.
+	viewBudget  *ipLimiter
+	visitBudget *ipLimiter
+	accounts    *account.Store
+	verifier    *auth.Verifier
 	// Магазины по платформам. Ненастроенный магазин отказывает в покупке,
 	// а не начисляет на веру.
 	stores map[string]StoreVerifier
@@ -57,9 +64,13 @@ func New(cfg config.Config, analyzer report.Analyzer, st *stats.Store, accounts 
 		limiter:    newIPLimiter(ipRateLimit, time.Minute),
 		stats:      st,
 		hitLimiter: newIPLimiter(60, time.Minute),
-		accounts:   accounts,
-		verifier:   auth.New(cfg.GoogleClientID, cfg.AppleBundleID),
-		stores:     stores,
+		// Сайт целиком получает около сорока визитов в сутки со всего мира,
+		// так что один адрес с тридцатью визитами за час — это уже не человек.
+		viewBudget:  newIPLimiter(120, time.Hour),
+		visitBudget: newIPLimiter(30, time.Hour),
+		accounts:    accounts,
+		verifier:    auth.New(cfg.GoogleClientID, cfg.AppleBundleID),
+		stores:      stores,
 	}
 }
 
@@ -249,6 +260,12 @@ func (s *Server) handleHit(w http.ResponseWriter, r *http.Request) {
 	}
 	page := strings.TrimSpace(string(body))
 
+	ip := clientIP(r, s.cfg.TrustProxy)
+	// Бот по подписи браузера или по повадке: превысил часовой бюджет.
+	// Такие заходы не отвергаем — иначе клиент начнёт повторять, — а считаем
+	// отдельно, чтобы они не подмешивались к живым.
+	bot := isBotUA(r.Header.Get("User-Agent"))
+
 	// События с префиксом: "download:/страница" — клик по кнопке APK,
 	// "play:/страница" — переход в Google Play, "visit:" — начало посещения.
 	// Путь визит присылает ради общей проверки, но не записывает: нужен счёт
@@ -268,7 +285,12 @@ func (s *Server) handleHit(w http.ResponseWriter, r *http.Request) {
 			w.WriteHeader(http.StatusBadRequest)
 			return
 		}
-		if !isBotUA(r.Header.Get("User-Agent")) {
+		if prefix == "visit:" && !s.visitBudget.allow(ip) {
+			bot = true
+		}
+		if bot {
+			s.stats.HitBot()
+		} else {
 			count(after)
 		}
 		w.WriteHeader(http.StatusNoContent)
@@ -280,7 +302,7 @@ func (s *Server) handleHit(w http.ResponseWriter, r *http.Request) {
 		w.WriteHeader(http.StatusBadRequest)
 		return
 	}
-	if isBotUA(r.Header.Get("User-Agent")) {
+	if bot || !s.viewBudget.allow(ip) {
 		s.stats.HitBot()
 	} else {
 		s.stats.Hit(page)
