@@ -33,7 +33,7 @@ export const de: Dict = {
       'Ein kurzer Fragebogen und eine Aufnahme von 15–30 Sekunden. Zurück kommen ' +
       'wahrscheinliche Ursachen mit Prozentwerten, eine Dringlichkeitsampel und ' +
       'Stichworte für das Gespräch in der Werkstatt.',
-    ctaNote: 'iPhone und Android · drei Prüfungen gratis',
+    ctaNote: 'Für iPhone und Android',
     howH2: 'So funktioniert es',
     steps: [
       {
@@ -57,7 +57,7 @@ export const de: Dict = {
       },
       {
         q: 'Was kostet das?',
-        a: 'Vorerst nichts: bis zu 3 vollständige Geräuschberichte pro Gerät und Tag. Die Voreinschätzung aus dem Fragebogen ist unbegrenzt.',
+        a: 'Die erste Prüfung ist in der App enthalten. Danach gibt es Prüfpakete: je größer das Paket, desto niedriger der Preis je Prüfung. Die Voreinschätzung aus dem Fragebogen ist unbegrenzt.',
       },
       {
         q: 'Welche Autos werden unterstützt?',
@@ -119,8 +119,8 @@ export const de: Dict = {
   download: {
     h2: 'Die App für iPhone und Android',
     sub: 'Fragebogen, Tonaufnahme und der vollständige Bericht mit Wahrscheinlichkeiten stecken in der Stuk-App.',
-    tryFree: 'Finden Sie die Ursache des Geräuschs — gratis',
-    tryFreeSub: 'Nehmen Sie 15–30 Sekunden auf, die App nennt die wahrscheinlichen Ursachen.',
+    appPitch: 'Finden Sie die Ursache des Geräuschs in der App',
+    appPitchSub: 'Nehmen Sie 15–30 Sekunden auf, die App nennt die wahrscheinlichen Ursachen.',
     cardLead: 'Raten Sie nicht nach Artikeln — nehmen Sie das Geräusch auf. Die App gleicht die Aufnahme mit Ihren Antworten ab und nennt die wahrscheinlichen Ursachen mit Prozentwerten.',
     cardBullets: ['die Fragen, die ein Mechaniker stellt', 'Analyse einer Aufnahme von 15–30 Sekunden', 'Ampel für die Dringlichkeit'],
     appStoreAlt: 'Laden im App Store',

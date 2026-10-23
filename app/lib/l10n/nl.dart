@@ -166,6 +166,7 @@ const Map<String, String> nl = {
   'authApple': 'Aanmelden met Apple',
   'authFailed': 'Aanmelden is mislukt. Probeer het opnieuw.',
   'authSignOut': 'Afmelden',
+  'buyOfferSub': 'Koop een pakket en de geluidsanalyse werkt weer. De checks verlopen niet.',
   'buyTitle': 'Geluidscontroles',
   'buyForCar': 'Controles voor',
   'prod_checks_5': '5 geluidschecks',

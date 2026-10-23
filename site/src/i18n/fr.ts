@@ -33,7 +33,7 @@ export const fr: Dict = {
       'Un questionnaire court et un enregistrement de 15 à 30 secondes. En retour : les ' +
       'causes probables avec leurs pourcentages, un feu tricolore d’urgence et les mots ' +
       'justes pour le garage.',
-    ctaNote: 'iPhone et Android · trois analyses offertes',
+    ctaNote: 'Pour iPhone et Android',
     howH2: 'Comment ça marche',
     steps: [
       {
@@ -57,7 +57,7 @@ export const fr: Dict = {
       },
       {
         q: 'Combien ça coûte ?',
-        a: 'Gratuit pour l’instant : jusqu’à 3 rapports sonores complets par jour et par appareil. Le verdict préliminaire issu du questionnaire est sans limite.',
+        a: 'La première analyse est incluse dans l’application. Ensuite, des packs d’analyses : plus le pack est grand, plus le prix par analyse baisse. Le verdict préliminaire issu du questionnaire est sans limite.',
       },
       {
         q: 'Quelles voitures sont prises en charge ?',
@@ -119,8 +119,8 @@ export const fr: Dict = {
   download: {
     h2: 'L’application pour iPhone et Android',
     sub: 'Le questionnaire, l’enregistrement du bruit et le rapport complet avec les probabilités sont dans l’application Pro-Stuk.',
-    tryFree: 'Trouvez la cause du bruit gratuitement',
-    tryFreeSub: 'Enregistrez 15 à 30 secondes et l’application nomme les causes probables.',
+    appPitch: 'Trouvez la cause du bruit dans l’application',
+    appPitchSub: 'Enregistrez 15 à 30 secondes et l’application nomme les causes probables.',
     cardLead: 'Ne devinez pas d’après les articles — enregistrez le bruit. L’application compare l’enregistrement à vos réponses et nomme les causes probables avec des pourcentages.',
     cardBullets: ['les questions que poserait un mécanicien', 'analyse d’un enregistrement de 15 à 30 secondes', 'feu tricolore d’urgence'],
     appStoreAlt: 'Télécharger dans l’App Store',

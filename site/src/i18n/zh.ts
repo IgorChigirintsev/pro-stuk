@@ -27,7 +27,7 @@ export const zh: Dict = {
     sub:
       '一份简短问卷，加上 15–30 秒的录音。换来的是：带百分比的可能原因、紧急程度信号灯，' +
       '以及到修理厂开口时用得上的说法。',
-    ctaNote: 'iPhone 和 Android · 三次检测免费',
+    ctaNote: '适用于 iPhone 和 Android',
     howH2: '工作原理',
     steps: [
       {
@@ -51,7 +51,7 @@ export const zh: Dict = {
       },
       {
         q: '要多少钱？',
-        a: '目前免费：每台设备每天最多 3 份完整的声音报告。问卷得出的初步判断不限次数。',
+        a: '第一次检测随应用附带。之后是检测包：包越大，单次价格越低。问卷得出的初步判断不限次数。',
       },
       {
         q: '支持哪些车？',
@@ -113,8 +113,8 @@ export const zh: Dict = {
   download: {
     h2: 'iPhone 和 Android 应用',
     sub: '问卷、录音和带概率的完整报告，都在 Pro-Stuk 应用里。',
-    tryFree: '免费查出异响的原因',
-    tryFreeSub: '录下 15–30 秒，应用会说出可能的原因。',
+    appPitch: '在应用里查出异响的原因',
+    appPitchSub: '录下 15–30 秒，应用会说出可能的原因。',
     cardLead: '别靠文章猜——把声音录下来。应用会把录音和你的回答对照，列出可能的原因和百分比。',
     cardBullets: ['像修车师傅一样的问诊', '15–30 秒录音的分析', '紧急程度红绿灯'],
     appStoreAlt: '从 App Store 下载',

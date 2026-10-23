@@ -31,7 +31,7 @@ export const pl: Dict = {
     sub:
       'Krótka ankieta i nagranie 15–30 sekund. W odpowiedzi: prawdopodobne przyczyny ' +
       'z procentami, sygnalizacja pilności i podpowiedzi na rozmowę w warsztacie.',
-    ctaNote: 'iPhone i Android · trzy analizy za darmo',
+    ctaNote: 'Na iPhone’a i Androida',
     howH2: 'Jak to działa',
     steps: [
       {
@@ -55,7 +55,7 @@ export const pl: Dict = {
       },
       {
         q: 'Ile to kosztuje?',
-        a: 'Na razie nic: do 3 pełnych raportów dźwiękowych dziennie na urządzenie. Wstępny werdykt z ankiety jest bez ograniczeń.',
+        a: 'Pierwsza analiza jest w aplikacji. Dalej są pakiety analiz: im większy pakiet, tym niższa cena jednej. Wstępna ocena z ankiety nie ma ograniczeń.',
       },
       {
         q: 'Jakie samochody są obsługiwane?',
@@ -117,8 +117,8 @@ export const pl: Dict = {
   download: {
     h2: 'Aplikacja na iPhone’a i Androida',
     sub: 'Ankieta, nagranie dźwięku i pełny raport z prawdopodobieństwami są w aplikacji Pro-Stuk.',
-    tryFree: 'Sprawdź przyczynę dźwięku za darmo',
-    tryFreeSub: 'Nagraj 15–30 sekund, a aplikacja wskaże prawdopodobne przyczyny.',
+    appPitch: 'Sprawdź przyczynę dźwięku w aplikacji',
+    appPitchSub: 'Nagraj 15–30 sekund, a aplikacja wskaże prawdopodobne przyczyny.',
     cardLead: 'Nie zgaduj z artykułów — nagraj dźwięk. Aplikacja zestawi nagranie z twoimi odpowiedziami i wskaże prawdopodobne przyczyny z procentami.',
     cardBullets: ['pytania, które zadałby mechanik', 'analiza nagrania 15–30 sekund', 'sygnalizacja pilności'],
     appStoreAlt: 'Pobierz w App Store',

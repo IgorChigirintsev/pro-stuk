@@ -33,7 +33,7 @@ export const it: Dict = {
       'Un questionario breve e una registrazione di 15–30 secondi. In cambio: cause ' +
       'probabili con le percentuali, semaforo dell’urgenza e le parole giuste per parlare ' +
       'in officina.',
-    ctaNote: 'iPhone e Android · tre analisi gratis',
+    ctaNote: 'Per iPhone e Android',
     howH2: 'Come funziona',
     steps: [
       {
@@ -57,7 +57,7 @@ export const it: Dict = {
       },
       {
         q: 'Quanto costa?',
-        a: 'Per ora è gratis: fino a 3 report completi sul rumore al giorno per dispositivo. Il verdetto preliminare dal questionario non ha limiti.',
+        a: 'La prima analisi è inclusa nell’app. Poi ci sono i pacchetti: più grande è il pacchetto, più basso è il prezzo per analisi. Il verdetto preliminare dal questionario non ha limiti.',
       },
       {
         q: 'Quali auto sono supportate?',
@@ -119,8 +119,8 @@ export const it: Dict = {
   download: {
     h2: 'L’app per iPhone e Android',
     sub: 'Il questionario, la registrazione del rumore e il report completo con le probabilità sono nell’app Pro-Stuk.',
-    tryFree: 'Scopri la causa del rumore gratis',
-    tryFreeSub: 'Registra 15–30 secondi e l’app indica le cause probabili.',
+    appPitch: 'Scopri la causa del rumore nell’app',
+    appPitchSub: 'Registra 15–30 secondi e l’app indica le cause probabili.',
     cardLead: 'Non tirare a indovinare dagli articoli: registra il rumore. L’app confronta la registrazione con le tue risposte e indica le cause probabili in percentuale.',
     cardBullets: ['le domande che farebbe un meccanico', 'analisi di una registrazione di 15–30 secondi', 'semaforo dell’urgenza'],
     appStoreAlt: 'Scaricala su App Store',

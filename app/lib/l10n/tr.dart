@@ -166,6 +166,7 @@ const Map<String, String> tr = {
   'authApple': 'Apple ile giriş yap',
   'authFailed': 'Giriş yapılamadı. Tekrar deneyin.',
   'authSignOut': 'Hesaptan çık',
+  'buyOfferSub': 'Bir paket alın, ses analizi yeniden çalışsın. Analizlerin son kullanma tarihi yoktur.',
   'buyTitle': 'Ses kontrolleri',
   'buyForCar': 'Şu araç için kontroller',
   'prod_checks_5': '5 ses analizi',

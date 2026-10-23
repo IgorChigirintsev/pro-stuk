@@ -31,7 +31,7 @@ export const tr: Dict = {
     sub:
       'Kısa bir anket ve 15–30 saniyelik bir kayıt. Karşılığında: yüzdeleriyle olası ' +
       'nedenler, aciliyet ışığı ve serviste konuşurken işinize yarayacak ipuçları.',
-    ctaNote: 'iPhone ve Android · üç analiz ücretsiz',
+    ctaNote: 'iPhone ve Android için',
     howH2: 'Nasıl çalışır',
     steps: [
       {
@@ -55,7 +55,7 @@ export const tr: Dict = {
       },
       {
         q: 'Ücreti ne kadar?',
-        a: 'Şimdilik ücretsiz: cihaz başına günde 3 tam ses raporu. Anketten çıkan ön değerlendirmede sınır yok.',
+        a: 'İlk analiz uygulamayla birlikte gelir. Sonrası için analiz paketleri var: paket büyüdükçe analiz başına fiyat düşer. Anketten çıkan ön değerlendirmede sınır yok.',
       },
       {
         q: 'Hangi araçlar destekleniyor?',
@@ -117,8 +117,8 @@ export const tr: Dict = {
   download: {
     h2: 'iPhone ve Android uygulaması',
     sub: 'Anket, ses kaydı ve olasılıklarla birlikte tam rapor Pro-Stuk uygulamasında.',
-    tryFree: 'Sesin nedenini ücretsiz öğrenin',
-    tryFreeSub: '15–30 saniye kaydedin, uygulama olası nedenleri söylesin.',
+    appPitch: 'Sesin nedenini uygulamada öğrenin',
+    appPitchSub: '15–30 saniye kaydedin, uygulama olası nedenleri söylesin.',
     cardLead: 'Yazılardan tahmin etmeyin — sesi kaydedin. Uygulama kaydı yanıtlarınızla karşılaştırıp olası nedenleri yüzdesiyle söyler.',
     cardBullets: ['bir ustanın soracağı sorular', '15–30 saniyelik kaydın analizi', 'aciliyet için trafik ışığı'],
     appStoreAlt: 'App Store’dan indirin',

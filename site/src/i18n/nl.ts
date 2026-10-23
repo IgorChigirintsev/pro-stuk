@@ -33,7 +33,7 @@ export const nl: Dict = {
       'Een korte vragenlijst en een opname van 15–30 seconden. Terug krijgt u ' +
       'waarschijnlijke oorzaken met percentages, een stoplicht voor de urgentie en de ' +
       'juiste woorden voor de garage.',
-    ctaNote: 'iPhone en Android · drie gratis checks',
+    ctaNote: 'Voor iPhone en Android',
     howH2: 'Hoe het werkt',
     steps: [
       {
@@ -57,7 +57,7 @@ export const nl: Dict = {
       },
       {
         q: 'Wat kost het?',
-        a: 'Voorlopig niets: tot 3 volledige geluidsrapporten per dag per apparaat. Het voorlopige oordeel uit de vragenlijst kent geen limiet.',
+        a: 'De eerste check zit in de app. Daarna zijn er checkpakketten: hoe groter het pakket, hoe lager de prijs per check. Het voorlopige oordeel uit de vragenlijst kent geen limiet.',
       },
       {
         q: 'Welke auto’s worden ondersteund?',
@@ -119,8 +119,8 @@ export const nl: Dict = {
   download: {
     h2: 'De app voor iPhone en Android',
     sub: 'De vragenlijst, de geluidsopname en het volledige rapport met kansen zitten in de app Pro-Stuk.',
-    tryFree: 'Ontdek gratis waar het geluid vandaan komt',
-    tryFreeSub: 'Neem 15–30 seconden op en de app noemt de waarschijnlijke oorzaken.',
+    appPitch: 'Ontdek in de app waar het geluid vandaan komt',
+    appPitchSub: 'Neem 15–30 seconden op en de app noemt de waarschijnlijke oorzaken.',
     cardLead: 'Gok niet op basis van artikelen — neem het geluid op. De app vergelijkt de opname met je antwoorden en noemt de waarschijnlijke oorzaken met percentages.',
     cardBullets: ['de vragen die een monteur zou stellen', 'analyse van een opname van 15–30 seconden', 'stoplicht voor urgentie'],
     appStoreAlt: 'Download in de App Store',

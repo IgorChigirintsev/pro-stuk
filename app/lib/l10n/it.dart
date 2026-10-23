@@ -166,6 +166,7 @@ const Map<String, String> it = {
   'authApple': 'Accedi con Apple',
   'authFailed': 'Accesso non riuscito. Riprova.',
   'authSignOut': 'Esci dall’account',
+  'buyOfferSub': 'Prendi un pacchetto e l’analisi del suono torna a funzionare. Le analisi non hanno scadenza.',
   'buyTitle': 'Controlli del suono',
   'buyForCar': 'Controlli per',
   'prod_checks_5': '5 analisi del suono',

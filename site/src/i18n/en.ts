@@ -31,7 +31,7 @@ export const en: Dict = {
     sub:
       'A short questionnaire and a 15–30 second recording. In return: likely causes with ' +
       'percentages, an urgency traffic light and the right words for the garage.',
-    ctaNote: 'iPhone and Android · three free checks',
+    ctaNote: 'For iPhone and Android',
     howH2: 'How it works',
     steps: [
       {
@@ -55,7 +55,7 @@ export const en: Dict = {
       },
       {
         q: 'What does it cost?',
-        a: 'Free for now: up to 3 full sound reports per device per day. The preliminary verdict from the questionnaire has no limit.',
+        a: 'The first check comes with the app. After that there are check packs: the bigger the pack, the lower the price per check. The preliminary verdict from the questionnaire has no limit.',
       },
       {
         q: 'Which cars are supported?',
@@ -117,8 +117,8 @@ export const en: Dict = {
   download: {
     h2: 'The app for iPhone and Android',
     sub: 'The questionnaire, the sound recording and the full report with probabilities are all in the Pro-Stuk app.',
-    tryFree: 'Find the cause of your noise — free',
-    tryFreeSub: 'Record 15–30 seconds and the app names the likely causes.',
+    appPitch: 'Find the cause of your noise in the app',
+    appPitchSub: 'Record 15–30 seconds and the app names the likely causes.',
     cardLead: 'Do not guess from articles — record the sound. The app matches the recording against your answers and names the likely causes with percentages.',
     cardBullets: ['the questions a mechanic would ask', 'analysis of a 15–30 second recording', 'an urgency traffic light'],
     appStoreAlt: 'Download on the App Store',

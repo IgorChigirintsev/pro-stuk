@@ -155,6 +155,7 @@ const Map<String, String> ja = {
   'authApple': 'Apple でサインイン',
   'authFailed': 'サインインできませんでした。もう一度お試しください。',
   'authSignOut': 'サインアウト',
+  'buyOfferSub': 'パックを購入すれば、音の診断をまた使えます。診断回数に有効期限はありません。',
   'buyTitle': '音の診断',
   'buyForCar': 'このクルマの診断',
   'prod_checks_5': '音の診断5回',

@@ -166,6 +166,7 @@ const Map<String, String> de = {
   'authApple': 'Mit Apple anmelden',
   'authFailed': 'Anmeldung fehlgeschlagen. Bitte erneut versuchen.',
   'authSignOut': 'Abmelden',
+  'buyOfferSub': 'Holen Sie sich ein Paket, dann funktioniert die Geräuschanalyse wieder. Die Prüfungen haben kein Ablaufdatum.',
   'buyTitle': 'Prüfungen',
   'buyForCar': 'Prüfungen für',
   'prod_checks_5': '5 Tonprüfungen',

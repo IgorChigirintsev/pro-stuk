@@ -5,6 +5,7 @@ import 'l10n/locale_service.dart';
 
 import 'package:http/http.dart' as http;
 
+import 'data/account_api.dart';
 import 'models.dart';
 import 'strings.dart';
 
@@ -54,7 +55,11 @@ String _errorByCode(String? code) => switch (code) {
     };
 
 class ApiClient {
-  final _client = http.Client();
+  /// Клиент внедряется, чтобы разбор отказов можно было проверить тестом:
+  /// именно здесь однажды потерялся тип ошибки про учётную запись.
+  ApiClient({http.Client? client}) : _client = client ?? http.Client();
+
+  final http.Client _client;
 
   /// Полный цикл: аудио + анкета → отчёт. Ожидание до 80 секунд.
   Future<ReportData> sendReport({
@@ -102,10 +107,24 @@ class ApiClient {
     // русский, поэтому показываем свой перевод по коду, а сам текст оставляем
     // запасным вариантом — на случай кода, которого это приложение ещё не знает.
     String message = S.anErrServer;
+    String? code;
     try {
       final err = jsonDecode(body) as Map<String, dynamic>;
-      message = _errorByCode(err['code'] as String?);
+      code = err['code'] as String?;
+      message = _errorByCode(code);
     } catch (_) {}
+
+    // Отказы про учётную запись бросаем своим типом: по нему экран разбора
+    // понимает, что надо не «Повторить», а предложить покупку. Раньше здесь
+    // летел обычный ApiException, проверка `e is AccountException` никогда не
+    // срабатывала, и человек с нулём проверок видел кнопку «Повторить», которая
+    // вела в тот же отказ. Одиннадцать человек упёрлись в этот тупик, и ни один
+    // не дошёл до оплаты — просто потому, что оплату ему не предложили.
+    if (code == 'no_checks' || code == 'no_session' ||
+        code == 'no_slot' || code == 'slot_empty') {
+      throw AccountException(message, code: code, status: streamed.statusCode);
+    }
+
     // 429 (лимит) и 422 (формат) повторять бессмысленно.
     final retryable =
         streamed.statusCode != 429 && streamed.statusCode != 422;

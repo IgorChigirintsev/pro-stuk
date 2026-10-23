@@ -155,6 +155,7 @@ const Map<String, String> ko = {
   'authApple': 'Apple로 로그인',
   'authFailed': '로그인하지 못했습니다. 다시 시도해 주세요.',
   'authSignOut': '로그아웃',
+  'buyOfferSub': '팩을 구매하면 소리 분석을 다시 쓸 수 있습니다. 검사 횟수에는 유효기간이 없습니다.',
   'buyTitle': '소리 검사',
   'buyForCar': '이 차량의 검사',
   'prod_checks_5': '소리 검사 5회',

@@ -156,6 +156,7 @@ const Map<String, String> ar = {
   'authApple': 'الدخول عبر Apple',
   'authFailed': 'تعذّر تسجيل الدخول. حاول مرة أخرى.',
   'authSignOut': 'الخروج من الحساب',
+  'buyOfferSub': 'اشترِ باقة ليعمل تحليل الصوت من جديد. الفحوص لا تنتهي صلاحيتها.',
   'buyTitle': 'فحوص الصوت',
   'buyForCar': 'فحوص لهذه السيارة',
   'prod_checks_5': '5 فحوص صوتية',

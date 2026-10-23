@@ -9,8 +9,10 @@ import '../widgets/schema_view.dart';
 import '../models.dart';
 import '../state.dart';
 import '../strings.dart';
+import '../theme.dart';
 import '../tree.dart';
 import '../widgets.dart';
+import 'buy.dart';
 import 'record.dart';
 
 /// Предварительный вердикт по листу дерева: бесплатный результат анкеты.
@@ -88,12 +90,10 @@ class VerdictScreen extends StatelessWidget {
               child: Column(
                 children: [
                   ElevatedButton(
-                    onPressed: () => Navigator.of(context).push(
-                      MaterialPageRoute(
-                        builder: (_) =>
-                            RecordScreen(leaf: leaf, answers: answers),
-                      ),
-                    ),
+                    // Если проверок нет, предлагаем покупку здесь, а не после
+                    // записи: иначе человек пишет тридцать секунд, ждёт разбор
+                    // и только потом узнаёт, что тратил время впустую.
+                    onPressed: () => _refine(context, leaf, answers),
                     child: Text(S.verdictRefine),
                   ),
                   const SizedBox(height: 6),
@@ -137,4 +137,42 @@ class VerdictScreen extends StatelessWidget {
       ),
     );
   }
+}
+
+/// Переход к разбору по звуку. При нуле проверок вместо записи показывает
+/// предложение купить пакет — с кнопкой на экран покупки для этой же машины.
+Future<void> _refine(
+    BuildContext context, TreeNode leaf, List<AnswerLog> answers) async {
+  final st = AppScope.of(context);
+  final nav = Navigator.of(context);
+  final slot =
+      st.accounts.signedIn ? st.accounts.state?.slot(st.car?.slotId ?? '') : null;
+
+  if (slot != null && slot.checks <= 0) {
+    final car = st.car;
+    final buy = await showDialog<bool>(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        backgroundColor: T.bg,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(T.rCard)),
+        title: Text(S.accNoChecks),
+        content: Text(S.buyOfferSub),
+        actions: [
+          TextButton(
+              onPressed: () => Navigator.of(ctx).pop(false),
+              child: Text(S.anBack)),
+          FilledButton(
+              onPressed: () => Navigator.of(ctx).pop(true),
+              child: Text(S.buyTitle)),
+        ],
+      ),
+    );
+    if (buy == true && car != null) {
+      await nav.push(MaterialPageRoute(builder: (_) => BuyScreen(car: car)));
+    }
+    return;
+  }
+
+  await nav.push(MaterialPageRoute(
+      builder: (_) => RecordScreen(leaf: leaf, answers: answers)));
 }

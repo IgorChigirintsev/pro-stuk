@@ -81,8 +81,8 @@ export interface Dict {
     h2: string;
     sub: string;
     /** Призыв рядом со значками: без него неясно, куда они ведут. */
-    tryFree: string;
-    tryFreeSub: string;
+    appPitch: string;
+    appPitchSub: string;
     /** Текст карточки приложения на страницах статей. */
     cardLead: string;
     cardBullets: string[];

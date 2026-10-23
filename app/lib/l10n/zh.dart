@@ -155,6 +155,7 @@ const Map<String, String> zh = {
   'authApple': '使用 Apple 登录',
   'authFailed': '登录失败，请重试。',
   'authSignOut': '退出账号',
+  'buyOfferSub': '购买检测包后即可继续按声音分析。检测次数没有有效期限制。',
   'buyTitle': '声音检测',
   'buyForCar': '为这辆车购买检测',
   'prod_checks_5': '5 次声音检测',

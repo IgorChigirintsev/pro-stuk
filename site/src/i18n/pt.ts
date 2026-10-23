@@ -31,7 +31,7 @@ export const pt: Dict = {
     sub:
       'Um questionário curto e uma gravação de 15 a 30 segundos. Em troca: causas prováveis ' +
       'com percentuais, semáforo de urgência e as palavras certas para a conversa na oficina.',
-    ctaNote: 'iPhone e Android · três análises grátis',
+    ctaNote: 'Para iPhone e Android',
     howH2: 'Como funciona',
     steps: [
       {
@@ -55,7 +55,7 @@ export const pt: Dict = {
       },
       {
         q: 'Quanto custa?',
-        a: 'Por enquanto é de graça: até 3 relatórios completos de som por dia em cada aparelho. O veredito preliminar do questionário não tem limite.',
+        a: 'A primeira análise vem com o aplicativo. Depois há pacotes: quanto maior o pacote, menor o preço por análise. O veredito preliminar do questionário não tem limite.',
       },
       {
         q: 'Quais carros são atendidos?',
@@ -117,8 +117,8 @@ export const pt: Dict = {
   download: {
     h2: 'O aplicativo para iPhone e Android',
     sub: 'O questionário, a gravação do ruído e o relatório completo com probabilidades estão no aplicativo Pro-Stuk.',
-    tryFree: 'Descubra a causa do ruído de graça',
-    tryFreeSub: 'Grave 15–30 segundos e o aplicativo indica as causas prováveis.',
+    appPitch: 'Descubra a causa do ruído no aplicativo',
+    appPitchSub: 'Grave 15–30 segundos e o aplicativo indica as causas prováveis.',
     cardLead: 'Não adivinhe pelos artigos — grave o som. O aplicativo compara a gravação com suas respostas e indica as causas prováveis em porcentagem.',
     cardBullets: ['as perguntas que um mecânico faria', 'análise de uma gravação de 15–30 segundos', 'semáforo de urgência'],
     appStoreAlt: 'Baixar na App Store',

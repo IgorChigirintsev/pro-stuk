@@ -165,6 +165,7 @@ const Map<String, String> en = {
   'authApple': 'Sign in with Apple',
   'authFailed': 'Signing in failed. Please try again.',
   'authSignOut': 'Sign out',
+  'buyOfferSub': 'Get a pack and sound analysis works again. The checks have no expiry date.',
   'buyTitle': 'Sound checks',
   'buyForCar': 'Checks for',
   'prod_checks_5': '5 sound checks',

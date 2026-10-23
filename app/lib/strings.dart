@@ -173,6 +173,8 @@ class S {
   static String get authApple => L.t('authApple');
   static String get authFailed => L.t('authFailed');
   static String get authSignOut => L.t('authSignOut');
+  /// Довод при нуле проверок: одного «не осталось» мало, нужен следующий шаг.
+  static String get buyOfferSub => L.t('buyOfferSub');
   static String get buyTitle => L.t('buyTitle');
   static String get buyForCar => L.t('buyForCar');
   /// Название и описание товара на языке приложения.
