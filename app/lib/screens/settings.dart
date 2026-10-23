@@ -1,4 +1,3 @@
-import 'dart:io' show Platform;
 
 import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
@@ -24,9 +23,6 @@ class SettingsScreen extends StatefulWidget {
 
 class _SettingsScreenState extends State<SettingsScreen> {
   String _version = '';
-  String? _updateStatus;
-  String? _apkUrl;
-  bool _checking = false;
 
   @override
   void initState() {
@@ -36,33 +32,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
     });
   }
 
-  Future<void> _checkUpdate() async {
-    setState(() {
-      _checking = true;
-      _updateStatus = null;
-      _apkUrl = null;
-    });
-    try {
-      // Не сравнивать с пустой версией, если PackageInfo ещё не разрешился.
-      if (_version.isEmpty) {
-        _version = (await PackageInfo.fromPlatform()).version;
-      }
-      final v = await ApiClient().getVersion();
-      if (!mounted) return;
-      setState(() {
-        if (isNewerVersion(v.latestVersion, _version)) {
-          _updateStatus = '${S.setUpdateAvailable}: ${v.latestVersion}';
-          _apkUrl = v.apkUrl;
-        } else {
-          _updateStatus = S.setUpToDate;
-        }
-      });
-    } catch (_) {
-      if (mounted) setState(() => _updateStatus = S.setCheckFailed);
-    } finally {
-      if (mounted) setState(() => _checking = false);
-    }
-  }
 
   Future<void> _open(String url) async {
     await launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication);
@@ -173,29 +142,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 children: [
                   Text(_version.isEmpty ? '…' : _version,
                       style: Theme.of(context).textTheme.bodyLarge),
-                  // Проверка обновления — только на Android. На iPhone
-                  // обновляет App Store, а наш сервер знает лишь про APK:
-                  // предлагать его владельцу iPhone бессмысленно, файл он
-                  // всё равно не откроет.
-                  if (Platform.isAndroid) ...[
-                    const SizedBox(height: 12),
-                    OutlinedButton(
-                      onPressed: _checking ? null : _checkUpdate,
-                      child: Text(_checking ? '…' : S.setCheckUpdate),
-                    ),
-                    if (_updateStatus != null) ...[
-                      const SizedBox(height: 12),
-                      Text(_updateStatus!,
-                          style: Theme.of(context).textTheme.bodySmall),
-                    ],
-                    if (_apkUrl != null) ...[
-                      const SizedBox(height: 12),
-                      ElevatedButton(
-                        onPressed: () => _open(_apkUrl!),
-                        child: Text(S.setDownload),
-                      ),
-                    ],
-                  ],
                 ],
               ),
             ),

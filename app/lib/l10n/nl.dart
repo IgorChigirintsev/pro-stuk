@@ -74,12 +74,6 @@ const Map<String, String> nl = {
   'setTitle': 'Instellingen',
   'carFormTitle': 'Auto',
   'setVersion': 'Appversie',
-  'setCheckUpdate': 'Controleren op updates',
-  'setUpToDate': 'Je hebt de nieuwste versie.',
-  'setUpdateAvailable': 'Er is een nieuwe versie',
-  'setDownload': 'Update downloaden',
-  'setCheckFailed':
-      'Kon niet controleren op updates. Probeer het later opnieuw.',
   'setSite': 'Website',
   'setPolicy': 'Privacybeleid',
   'hiwTitle': 'Hoe het werkt',

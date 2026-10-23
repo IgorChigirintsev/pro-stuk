@@ -12,8 +12,6 @@ import '../widgets/car_card.dart';
 import 'how_it_works.dart';
 import 'quiz.dart';
 import 'record.dart';
-import 'package:package_info_plus/package_info_plus.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 import 'history.dart';
 import 'report.dart';
@@ -35,9 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
     // человек ждёт приложение, а не диалог. Проверка молчалива, если
     // обновляться не на что.
     WidgetsBinding.instance.addPostFrameCallback((_) async {
-      final updates = AppScope.of(context).updates;
-      final info = await PackageInfo.fromPlatform();
-      await updates.checkOnStart(info.version);
+      await AppScope.of(context).updates.checkOnStart();
     });
   }
 
@@ -85,7 +81,6 @@ class _HomeScreenState extends State<HomeScreen> {
           padding: const EdgeInsets.all(20),
           children: [
             // Обновление: скачанное через Play ставится по кнопке, для
-            // копии с сайта показывается ссылка на APK.
             ListenableBuilder(
               listenable: state.updates,
               builder: (context, _) {
@@ -95,14 +90,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     text: S.updDownloaded,
                     action: S.updInstall,
                     onTap: u.installDownloaded,
-                  );
-                }
-                if (u.apkUrl != null) {
-                  return _UpdateBar(
-                    text: '${S.setUpdateAvailable}: ${u.newVersion}',
-                    action: S.setDownload,
-                    onTap: () => launchUrl(Uri.parse(u.apkUrl!),
-                        mode: LaunchMode.externalApplication),
                   );
                 }
                 return const SizedBox.shrink();

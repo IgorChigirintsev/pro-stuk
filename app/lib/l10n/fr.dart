@@ -74,12 +74,6 @@ const Map<String, String> fr = {
   'setTitle': 'Réglages',
   'carFormTitle': 'Voiture',
   'setVersion': 'Version de l’application',
-  'setCheckUpdate': 'Rechercher des mises à jour',
-  'setUpToDate': 'Vous avez la dernière version.',
-  'setUpdateAvailable': 'Une nouvelle version est disponible',
-  'setDownload': 'Télécharger la mise à jour',
-  'setCheckFailed':
-      'Impossible de vérifier les mises à jour. Réessayez plus tard.',
   'setSite': 'Site web',
   'setPolicy': 'Politique de confidentialité',
   'hiwTitle': 'Comment ça marche',

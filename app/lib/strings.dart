@@ -83,11 +83,6 @@ class S {
   static String get setTitle => L.t('setTitle');
   static String get carFormTitle => L.t('carFormTitle');
   static String get setVersion => L.t('setVersion');
-  static String get setCheckUpdate => L.t('setCheckUpdate');
-  static String get setUpToDate => L.t('setUpToDate');
-  static String get setUpdateAvailable => L.t('setUpdateAvailable');
-  static String get setDownload => L.t('setDownload');
-  static String get setCheckFailed => L.t('setCheckFailed');
   static String get setSite => L.t('setSite');
   static String get setPolicy => L.t('setPolicy');
   static String get hiwTitle => L.t('hiwTitle');

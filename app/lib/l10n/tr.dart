@@ -74,12 +74,6 @@ const Map<String, String> tr = {
   'setTitle': 'Ayarlar',
   'carFormTitle': 'Araba',
   'setVersion': 'Uygulama sürümü',
-  'setCheckUpdate': 'Güncellemeleri denetle',
-  'setUpToDate': 'En son sürümü kullanıyorsunuz.',
-  'setUpdateAvailable': 'Yeni sürüm mevcut',
-  'setDownload': 'Güncellemeyi indir',
-  'setCheckFailed':
-      'Güncellemeler denetlenemedi. Daha sonra tekrar deneyin.',
   'setSite': 'Web sitesi',
   'setPolicy': 'Gizlilik politikası',
   'hiwTitle': 'Nasıl çalışır',

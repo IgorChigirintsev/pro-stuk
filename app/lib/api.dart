@@ -28,11 +28,6 @@ class ApiException implements Exception {
   const ApiException(this.message, {this.retryable = true});
 }
 
-class VersionInfo {
-  final String latestVersion;
-  final String apkUrl;
-  const VersionInfo({required this.latestVersion, required this.apkUrl});
-}
 
 /// Коды ошибок сервера → строки интерфейса.
 ///
@@ -131,18 +126,6 @@ class ApiClient {
     throw ApiException(message, retryable: retryable);
   }
 
-  Future<VersionInfo> getVersion() async {
-    final uri = Uri.parse('$apiBaseUrl/api/v1/version');
-    final resp = await _client.get(uri).timeout(const Duration(seconds: 10));
-    if (resp.statusCode != 200) {
-      throw ApiException(S.anErrServer, retryable: true);
-    }
-    final j = jsonDecode(resp.body) as Map<String, dynamic>;
-    return VersionInfo(
-      latestVersion: j['latest_version'] as String? ?? '',
-      apkUrl: j['apk_url'] as String? ?? '',
-    );
-  }
 }
 
 /// Сравнение версий вида «1.2.3»: true, если remote новее local.

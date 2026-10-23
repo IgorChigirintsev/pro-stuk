@@ -3,42 +3,30 @@ import 'dart:io' show Platform;
 import 'package:flutter/foundation.dart';
 import 'package:in_app_update/in_app_update.dart';
 
-import '../api.dart';
 
-/// Обновление приложения.
+/// Обновление приложения силами Google Play.
 ///
-/// Путей два, и это не прихоть. Установленное из Google Play обновляется
-/// средствами самого Play: человек не уходит из приложения, скачивание идёт
-/// в фоне. Установленное с сайта так обновить нельзя — Play про такую копию
-/// ничего не знает и отказывает. Для неё остаётся ссылка на APK.
-///
-/// Поэтому сначала спрашиваем Play, и только если он не при делах —
-/// сверяемся со своим сервером.
+/// Раньше был и второй путь: если Play не при делах, приложение спрашивало
+/// наш сервер и предлагало скачать APK — так обновлялись копии, поставленные
+/// файлом с сайта. Этой раздачи больше нет, приложение живёт в двух
+/// магазинах. Мало того, путь стал вредным: Android не ставит файл,
+/// подписанный нашим ключом, поверх установки из Play — подписи разные, и
+/// человек получал бы отказ установщика вместо обновления.
 class UpdateService extends ChangeNotifier {
   /// Обновление скачано и ждёт перезапуска.
   bool downloaded = false;
-
-  /// Ссылка на APK: заполняется, когда обновление есть, а Play недоступен.
-  String? apkUrl;
-
-  /// Версия, до которой стоит обновиться. Нужна для текста человеку.
-  String? newVersion;
 
   bool _checked = false;
 
   /// Проверка при запуске. Делается один раз за сеанс: назойливость здесь
   /// раздражает сильнее, чем польза от повторов.
-  Future<void> checkOnStart(String currentVersion) async {
+  Future<void> checkOnStart() async {
     if (_checked) return;
     _checked = true;
 
-    // На iPhone обновляет App Store, и больше никто: там нет ни Play, ни
-    // установки со стороны. Спроси мы свой сервер — человеку предложили бы
-    // скачать APK, файл, который iOS даже не откроет. Не срабатывало это
-    // только пока версия на сайте не обогнала установленную.
+    // На iPhone обновляет App Store, и больше никто.
     if (!Platform.isAndroid) return;
-    if (await _tryPlay()) return;
-    await _trySite(currentVersion);
+    await _tryPlay();
   }
 
   /// Обновление через Play. Берём гибкое, а не немедленное: немедленное
@@ -79,17 +67,4 @@ class UpdateService extends ChangeNotifier {
     }
   }
 
-  Future<void> _trySite(String currentVersion) async {
-    try {
-      final v = await ApiClient().getVersion();
-      if (currentVersion.isEmpty || !isNewerVersion(v.latestVersion, currentVersion)) {
-        return;
-      }
-      newVersion = v.latestVersion;
-      apkUrl = v.apkUrl;
-      notifyListeners();
-    } catch (_) {
-      // Нет сети — молчим: обновление не то, ради чего стоит показывать ошибку.
-    }
-  }
 }
