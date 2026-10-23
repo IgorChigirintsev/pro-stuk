@@ -16,7 +16,6 @@ type Config struct {
 	// Запасная модель на случай перегрузки основной.
 	GeminiFallback string
 	PublicSiteURL  string
-	LatestVersion  string
 	DataDir        string
 	TrustProxy     bool
 	AnalyticsToken string
@@ -46,7 +45,6 @@ func Load() (Config, error) {
 		GeminiModel:        getenv("GEMINI_MODEL", "gemini-3.5-flash"),
 		GeminiFallback:     getenv("GEMINI_FALLBACK_MODEL", "gemini-3.6-flash"),
 		PublicSiteURL:      getenv("PUBLIC_SITE_URL", "https://example.kz"),
-		LatestVersion:      getenv("LATEST_APP_VERSION", "1.0.0"),
 		DataDir:            getenv("DATA_DIR", "data"),
 		TrustProxy:         os.Getenv("TRUST_PROXY") == "1",
 		AnalyticsToken:     os.Getenv("ANALYTICS_TOKEN"),

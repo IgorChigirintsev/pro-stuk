@@ -84,13 +84,6 @@ func (s *Server) Router() http.Handler {
 		w.Write([]byte("ok"))
 	})
 
-	r.Get("/api/v1/version", func(w http.ResponseWriter, _ *http.Request) {
-		writeJSON(w, http.StatusOK, map[string]string{
-			"latest_version": s.cfg.LatestVersion,
-			"apk_url":        s.cfg.PublicSiteURL + "/app/stuk.apk",
-		})
-	})
-
 	r.Post("/api/v1/auth", s.handleAuth)
 	r.Post("/api/v1/logout", s.handleLogout)
 	r.Get("/api/v1/account", s.handleAccount)

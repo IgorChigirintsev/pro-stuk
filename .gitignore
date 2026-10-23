@@ -22,7 +22,7 @@ app/android/local.properties
 # Go
 backend/bin/
 
-# APK и version.json кладёт scripts/publish-apk.sh — артефакты, в репо не храним
+# Артефакты сборки приложения в репозитории не храним
 site/public/app/
 
 # Редакторы и ОС

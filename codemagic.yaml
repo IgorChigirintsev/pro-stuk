@@ -1,7 +1,7 @@
 # Облачная сборка Pro-Stuk на Codemagic.
 #
 # Зачем: .ipa нельзя собрать нигде, кроме macOS с Xcode. Рабочая машина — Linux,
-# поэтому сборка под App Store живёт здесь, а не в scripts/publish-apk.sh.
+# поэтому сборка под App Store живёт здесь, а не в scripts/publish-aab.sh.
 #
 # ЧТО НАСТРОИТЬ В КОНСОЛИ CODEMAGIC ПЕРЕД ПЕРВЫМ ЗАПУСКОМ (один раз):
 #   1. Подключить репозиторий github.com/IgorChigirintsev/pro-stuk.
@@ -24,7 +24,7 @@
 # App Store Connect, вручную загружать ничего не нужно.
 
 definitions:
-  # Адреса прода — те же, что подставляет scripts/publish-apk.sh при сборке APK.
+  # Адреса прода — те же, что подставляет scripts/publish-aab.sh при местной сборке.
   # Расходятся эти два места молча, поэтому меняются вместе.
   # Якорь ставится на карту переменных, а не на строку внутри скрипта:
   # в теле script YAML-ссылка осталась бы текстом «*prod_defines».
@@ -162,7 +162,7 @@ workflows:
 
   android-aab:
     name: Pro-Stuk Android → .aab
-    # Запасной путь: обычно .aab собирается локально скриптом publish-apk.sh.
+    # Запасной путь: обычно .aab собирается локально скриптом publish-aab.sh.
     # Здесь — чтобы сборка не зависела от одной машины.
     instance_type: linux_x2
     max_build_duration: 60

@@ -44,13 +44,8 @@ else
   exit 1
 fi
 
-if [ "${SKIP_APK:-0}" != "1" ]; then
-  echo "==> Release APK (API_BASE_URL=https://$STUK_API_DOMAIN)"
-  API_BASE_URL="https://$STUK_API_DOMAIN" SITE_URL="https://$STUK_DOMAIN" \
-    bash "$ROOT/scripts/publish-apk.sh"
-elif [ ! -f "$ROOT/site/public/app/stuk.apk" ]; then
-  echo "ПРЕДУПРЕЖДЕНИЕ: SKIP_APK=1, а site/public/app/stuk.apk нет — сайт уедет без APK" >&2
-fi
+# Приложение раздают магазины, с сайта его больше не скачивают. Под Android
+# бандл собирается отдельно (make aab), под iOS — в облаке (codemagic.yaml).
 
 echo "==> Сборка сайта"
 (cd "$ROOT/site" && npm run build)

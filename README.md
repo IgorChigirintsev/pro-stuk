@@ -21,7 +21,7 @@ MVP: сайт + Android-приложение + бэкенд. Пользоват�
 ├── app/                   # Flutter (Android)
 ├── site/                  # Astro + Tailwind + React-остров
 ├── scripts/
-│   └── publish-apk.sh     # сборка release APK → site/public/app/
+│   └── publish-aab.sh     # сборка подписанного .aab для Google Play
 └── Makefile               # backend-run, backend-test, apk, site-dev, site-build, tree-validate
 ```
 
@@ -31,7 +31,7 @@ MVP: сайт + Android-приложение + бэкенд. Пользоват�
 make tree-validate   # проверить дерево решений
 make backend-run     # запустить API локально            (фаза 1)
 make backend-test    # go test ./...                     (фаза 1)
-make apk             # собрать release APK → site/public/app/  (фаза 4)
+make aab             # собрать подписанный .aab для Google Play
 make site-dev        # dev-сервер сайта                  (фаза 5)
 make site-build      # статическая сборка сайта          (фаза 5)
 ```
@@ -46,8 +46,8 @@ make site-build      # статическая сборка сайта          (
 2. Проверить: `node shared/validate-tree.mjs` — должно завершиться без ошибок.
 3. Посмотреть глазами: `node shared/outline-tree.mjs` — печатает дерево в виде outline.
 4. Для приложения дерево копируется в `app/assets/` шагом внутри
-   `scripts/publish-apk.sh` (симлинки Flutter не поддерживает). После правки дерева
-   пересобрать APK.
+   `scripts/publish-aab.sh` (симлинки Flutter не поддерживает). После правки дерева
+   пересобрать приложение.
 5. Сайт подхватывает дерево при следующем `npm run build`.
 
 ## Бэкенд
@@ -149,7 +149,7 @@ adb install build/app/outputs/flutter-apk/app-debug.apk
 
 Debug-сборка разрешает http (cleartext) для локального API; release — только
 https. `API_BASE_URL` по умолчанию `https://api.example.kz` — задаётся через
-`--dart-define` (см. `scripts/publish-apk.sh` в фазе 4).
+`--dart-define` (см. `scripts/publish-aab.sh`).
 
 `applicationId`: `kz.stuk.app`. Сменить: `android/app/build.gradle.kts`
 (`applicationId`) и при желании `namespace` + пакет `MainActivity.kt`.
@@ -176,23 +176,22 @@ EOF
 `build.gradle.kts` подхватывает `key.properties` автоматически; без него
 release собирается с debug-подписью (для разработки).
 
-### Публикация APK на сайт
+### Сборка для Google Play
 
 ```sh
-API_BASE_URL=https://api.<домен> SITE_URL=https://<домен> bash scripts/publish-apk.sh
+make aab
 ```
 
 Скрипт валидирует дерево, копирует `shared/tree.json`, `shared/tree_i18n/`
-и `shared/schemes-parts.json` в ассеты, собирает
-подписанный release APK и кладёт `stuk.apk` + `version.json` в
-`site/public/app/` (каталог в `.gitignore` — это артефакты сборки).
-Обновление приложения: поднять `version:` в `app/pubspec.yaml`, прогнать
-скрипт заново и обновить `LATEST_APP_VERSION` в `backend/.env` — кнопка
-«Проверить обновления» сравнивает именно её.
+и `shared/schemes-parts.json` в ассеты и собирает подписанный `.aab`.
+Адрес API, адрес сайта и идентификатор клиента OAuth он берёт из
+`deploy/build/stuk.env`, которого нет в репозитории.
 
-**Важно:** после публикации APK пересобрать и перезалить сайт
-(`cd site && npm run build` → выгрузить `site/dist/` на хостинг), иначе
-новый APK останется только на этой машине.
+Готовый бандл — `app/build/app/outputs/bundle/release/app-release.aab`,
+загружать в Play Console. Перед сборкой поднять `version:` в
+`app/pubspec.yaml`: `versionCode` должен быть больше предыдущего.
+
+Сборка под App Store идёт в облаке — см. `codemagic.yaml`.
 
 ## Сайт
 
@@ -236,8 +235,7 @@ npm run dev     # разработка
 npm run build   # проверки словарей + статика в site/dist/ (309 страниц + sitemap)
 ```
 
-APK раздаётся из `site/public/app/` — кладётся туда скриптом
-`scripts/publish-apk.sh`. Контент симптом-страниц — структурированные файлы
+Контент симптом-страниц — структурированные файлы
 `site/src/data/symptoms/*.ts`: правки текста делаются там, шаблон один —
 `site/src/pages/simptomy/[slug].astro`.
 
